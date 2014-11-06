@@ -1,0 +1,62 @@
+Dramatica is a theory of storyform creation that forces the writer through various choices to narrow down the potential storyform until it's manageable. It postulates that every story is the exploration of an argument from multiple angles, until a single solution is discovered and used.
+
+Dramatica tends to work best when used as a brainstorming tool to help identify problems in a narrative, though it can be followed with quite a bit of detail to provide a workable outline. Dramatica doesn't always apply, but when it does it can be an excellent source of insight into the dreaded "what's your theme?" question.
+
+They've stuffed most of their theory into a comic book version that's pretty easy to follow.
+
+oh yeah, and don't confuse them with the troll wiki Encyclopaedia Dramatica. Just don't, okay?
+
+Dramatica divides the storyline into the external tale (protagonist vs. antagonist) and the emotional connection (viewpoint character vs. impact character). The viewpoint character is the one we most closely identify with, and the impact character is the one who prompts the viewpoint character to change. (For simplicity, let's call the main character "the Hero" for the rest of this synopsis. Not that he has to be heroic or anything, but it's easier.)
+
+This division is quite helpful in stories where we see through the eyes of someone who isn't the main mover and shaker in the tale: To Kill a Mockingbird, Moby-Dick, Sherlock Holmes, and the like.
+
+Dramatica asks you to decide between options like these:
+
+ Does the Hero need to  If he needs to Change, is it that he needs to  If he needs to remain Steadfast, is he waiting for something to Since most stories are about a change to the external world whether or not the Hero himself changes, let's consider examples where the location of the change is more clear:
+
+ In  In  In  In Sometimes it's difficult to tell the difference between Start and Stop. For example, with Scrooge, is it that he needs to Start caring for people or Stop being so stingy? Dramatica posits that a Start character has "a hole in his heart" while a Stop character has "a chip on his shoulder".
+
+Of all these sections, I tend to consider this one last; it seems the easiest to flip around without having to rewrite the story from scratch. But here they are:
+
+ Is the Hero a  Is his problem-solving style A Do-er is a character who prefers to solves his problems with physical actions. Batman in The Dark Knight Saga takes this route, attacking his problems head-on, storming directly into the underworld of Gotham to deal with the threats like Ra's Al Ghul and The Joker who surface. A Be-er is someone who prefers to solve problems by changing something about his own inner nature. Neo from The Matrix is this, a character who overcomes his limitations by adjusting his perceptions, which allow him to access greater and greater amounts of power over The Matrix itself.
+
+A Logical problem solver is one who follows clues step by step to reach a conclusion. sherlock holmes is the trope codifier of this style of problem-solving. An Intuitive problem solver prefers to look at the big picture to find places of imbalance. dirk gently is an example of this type of problem-solver
+
+The Logical vs. Intuitive bit gets played with in The X-Files, which plays with the normal gender roles of these styles: the male lead is Intuitive and the female lead is Logical (it's usually the other way around). Similarly, the female lead of Alien takes a Logical style, which is part of what made her role unusually compelling.
+
+Here's the two Dramatica concentrates on:
+
+ Is the story driven by  Is the story brought to its conclusion by a lack of Action stories and Decision stories... it's often the difference between external focus (they're blowing up my town!) and internal focus (I can't keep living like this). But you can have an externally-focused Decision story (I'm finally going to visit Africa) or an internally-focused Action story (That cosmic ray seems to have affected my mental state...).
+
+Timelock vs. Optionlock is a big one. To make a story dramatic, the Hero can't have infinite time and infinite resources; otherwise there's no way he'd fail to succeed in his task. Deadlines can help: Stop the villains before they blow up the world, get the antidote before the heroine dies, board that train before it leaves the station, live your dreams before the cancer takes your life.
+
+But an equally effective choice is to narrow the Hero's options. Sure, Hero, you could stand there considering your options all day, but there's only two doors to choose from and you can't figure out which one holds the tiger and which holds the treasure unless you open one of them. Or perhaps you know the variables very well: You have the option of surrendering to the villain or watching him fry your loved ones. (Or is there maybe a third option?)
+
+Here's the questions Dramatica asks:
+
+ Does the Hero  Is this This gives four basic endings. The most common is Success/Good, the happily ever after ending: The Hero completes his task and the viewers can rest easy, glad that everything came out all right. The direct opposite is Fail/Bad, the ending of many horror films, in which the Hero just couldn't find a way to win (and, in many stories, dies horribly). But these aren't the only options.
+
+Consider a Hero who failed to achieve his basic objective, but realized in the end that it wasn't a good idea after all, and was glad he'd managed to avoid the consequences of success. Or suppose he gets a better reward for failure than he would have for success (e.g., lost the contest but won the girl). That's Failure/Good.
+
+On the flip side, if a Hero manages to accomplish his goal, but realizes to his horror that he should never have taken this path, it's Success/Bad. Horror films enjoy playing with this just as much as with Failure/Bad, since Success/Bad adds that extra twist to the horror of the ending. Sure, you achieved Immortality — but at the cost of being a statue for the rest of eternity. Sure, you got the girl — but she's a soul-draining bitch who's so jealous you don't even dare talk to a female clerk at the grocery store. Sure, you saved the distressed damsel, but it turns out she was about to trigger the apocalypse and isn't it great that you killed the one guy who was capable of stopping her?
+
+After you're done deciding on the eight options above, Dramatica starts giving you options to narrow your storyform. Basically, there are four main stories at work:
+
+    According to Dramatica, each of these falls into one of four categories, with no overlaps: Situation, Activity, Manipulation, and Fixed Attitude. The first two are external, the second two internal; two are static and two changing (dynamic). But, according to the theory here, each one shows up as the focus of one of these four stories.
+
+So if Enemy Mine has the Main vs. Impact Story of prejudice (Fixed Attitude) and the Overall Story of working together to survive the hostile environment (Activity), then the Main Character's Story might be a Situation (forced into a hostile environment for the durations of the story) and the last one (Manipulation) falls to the Impact Character's Story (the ailen's attempts to deal with and eventually befriend the human).
+
+Some stories fall into this pattern more naturally than others, and some have more focus placed on one or two of the Throughlines than the others.
+
+Some stories have two or more concurrent overall storys running through them, each with its own Main, Impact, and Main/Impact throughlines along for the ride. This is often why third line, some waiting and four lines, all waiting bog down...the number of plot elements increase exponentially the more you add to the mix.
+
+After setting down the details of your throughlines, Dramatica whisks you down a path to get one of 64 storyforms, by following one choice down to the next to the next. We won't be listing all the iterations here, but it's actually quite fascinating, so go give the trial software a shot.
+
+The talk about Throughlines only covers two characters, because it's only interested in how the Main Character and the Impact Character affect each other. The next part of storyweaving works on figuring out where each character fits into the overall plot. This is where the division between the viewpoint character and the actual protagonist can be most keenly felt.
+
+There are eight character archetypes:
+
+        These basic archetypes provide contrasts to each other, and differ in their outlooks, methods, motivations, and ways of evaluating data. They can be further split up if a writer wants to create more complex characters.
+
+It's important to note that the antagonist and contagonist are not always the villains. They provide conflict, but can just as easily be misguided mentors, clingy love interests, failed role models, etc. The important part is what they are doing in the story, not their character alignment.
+

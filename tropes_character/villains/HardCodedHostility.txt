@@ -1,0 +1,12 @@
+
+
+Sometimes, in a strategy game, role-playing game, or other circumstances, complex deals are possible: you can negotiate treaties, break them, form secret pacts against common enemies, join factions, recruit unaffiliated people into your personal faction or party, etc.
+
+On the other hand, sometimes violence is the only option. Such is the case for a faction with Hard-Coded Hostility. The distinguishing feature of this group is that it will never be at peace with you or anyone else. The only reaction when encountering its forces is to kill them or avoid them.
+
+A deeply unsympathetic, even evil faction — perhaps even one that starts off the game trying to kill the player — is not necessarily an example of Hard-Coded Hostility. If the horde is ravaging the local area looting local cities, enslaving people, and tries to kill you on sight, but you can prove your worthiness to join them if you kill a dozen villagers and present their heads to their khan, then the horde does not demonstrate this trope. By definition, someone with Hard-Coded Hostility cannot be joined or negotiated with within the parameters of the game.
+
+The term is best reserved for games in which it is not the norm. For instance, in a first-person shooter in which the bulk of the game consists of killing demonic enemies, the demons are best not thought of as having Hard-Coded Hostility; rather, the term is best applied in circumstances which otherwise feature a diverse set of factions which can be opposed or cooperated with depending on the player's actions.
+
+Related to absolute xenophobe. Compare always chaotic evil and the usual adversaries. This is about games which allow the player to build alliances with most factions except one in particular. See also no campaign for the wicked.
+
