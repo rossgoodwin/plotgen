@@ -3,6 +3,7 @@ from random import choice as c
 import string
 
 import nltk
+import en
 
 from tropes_character import *
 from firstnames_f import *
@@ -50,54 +51,83 @@ def personalize(c, t):
 	t = t.split('\n')
 	t = ' '.join(t)
 
-	sentences = t.split('.')
-	words = [s.split(' ') for s in sentences]
+	# sentences = t.split('.')
+	# words = [s.split(' ') for s in sentences]
+
+	pos = en.sentence.tag(t)
+	wordtag = map(list, zip(*pos))
+	words = wordtag[0]
+	tags = wordtag[1]
+
+	# find periods
+	# periods = []
+	# for i in range(len(words)):
+	# 	if words[i] in [".", "!", "?"]:
+	# 		periods.append(i)
+	# periods.insert(0, 0)
+
+	# containsNameList = [0]
+
+	# containsName = False
 
 	for i in range(len(words)):
-		containsName = False
-		for j in range(len(words[i])):
-			if words[i][j].lower() == "character" and j > 0:
-				words[i][j-1] = firstName
-				words[i][j] = lastName
-				containsName = True
-			elif words[i][j].lower() == "trope":
-				words[i][j] = "clue"
-			elif words[i][j].lower() == "tropes":
-				words[i][j] = "clues"
-			elif words[i][j] in pronouns:
-				words[i][j] = firstName
-				containsName = True
-			elif words[i][j] in pronouns_possessive:
-				words[i][j] = firstName+"\'s"
-				containsName = True
-		if not containsName:
-			words[i] = ['\b']
+		#containsName = False
 
-	ws = list(string.whitespace)
-	ws.append("")
-	punc = list(string.punctuation)
-	wsPunc = ws+punc
+		# if i in periods and containsName:
+		# 	containsNameList.append(i)
 
-	final_text_list = [" ".join(w) for w in words if not w in wsPunc]
-	if final_text_list[0] in wsPunc:
-		final_text_list = final_text_list[1:]
+		# if i in periods:
+		# 	containsName = False
 
-	final_text = ".".join(final_text_list)
+		if words[i].lower() == "character" and i > 0:
+			words[i-1] = firstName
+			words[i] = lastName
+			containsName = True
 
-	# for i in range(len(final_text)-len(firstName)):
-	# 	firstMatch = False
-	# 	for j in range(len(firstName)):
-	# 		if firstName[j] == final_text[i+j]:
-	# 			firstMatch = True
-	# 		else:
-	# 			firstMatch = False
-	# 	if firstMatch:
-	# 		index = i
-	# 		break
+		elif tags[i] == "PRP":
+			words[i] = firstName
+			containsName = True
+		elif tags[i] == "PRP$":
+			words[i] = firstName+"\'s"
+			cointainsName = True
+		elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
+			try:
+				words[i] = en.verb.past(words[i], person=3)
+			except KeyError:
+				pass
+
+		elif words[i] == "trope":
+			words[i] = "clue"
+		elif words[i] == "tropes":
+			words[i] = "clues"
+		elif words[i] == "Trope":
+			words[i] = "Clue"
+		elif words[i] == "Tropes":
+			words[i] = "Clues"
+
+		else:
+			pass
+
+	# trueWords = []
+	# for indx in containsNameList:
+	# 	trueWords += words[indx:periods[periods.index(indx)+1]]
+
+	punc = [".", ",", ";", ":", "!", "?"]
+
+	for i in range(len(words)):
+		if words[i] in punc:
+			w = words[i]
+			words[i] = '\b'+w
+
+	final_text = " ".join(words)
 
 	index = string.find(final_text, firstName)
 
-	final_text = final_text[index:]
+	final_text = firstName+" "+lastName+final_text[index+len(firstName):]
+
+	
+
+
 
 	return final_text
 
