@@ -1,3 +1,4 @@
+from sys import argv
 import random
 from random import choice as c
 import string
@@ -9,6 +10,8 @@ from tropes_character import *
 from firstnames_f import *
 from firstnames_m import *
 from surnames import *
+
+script, outputFileName = argv
 
 def name_chars():
 	charNo = random.randint(3,9)
@@ -121,27 +124,44 @@ def personalize(c, t):
 
 	for i in range(len(words)):
 		if words[i] in punc:
-			words[i] = '\b'+words[i]
+			words[i] = '`'+words[i]
 
 	final_text = " ".join(words)
 
 	index = string.find(final_text, firstName)
 
-	final_text = firstName+" "+lastName+final_text[index+len(firstName):]
-
-	
-
-
+	if final_text[index+len(firstName)+1:index+len(firstName)+1+len(lastName)] == lastName:
+		final_text = final_text[index:]
+	else:
+		final_text = firstName+" "+lastName+final_text[index+len(firstName):]
 
 	return final_text
+
+
+outputFile = open("output/"+outputFileName+".tex", 'w')
 
 intros = char_match()
 
 for x, y in intros.iteritems():
-	print x
-	print y
+	for char in x:
+		if char == "`":
+			outputFile.seek(-1, 1)
+		else:
+			outputFile.write(char)
 
-	print "\n\n"
+	outputFile.write("\n")
+
+
+	for char in y:
+		if char == "`":
+			outputFile.seek(-1, 1)
+		else:
+			outputFile.write(char)
+
+	outputFile.write("\n\n")
+
+
+outputFile.close()
 
 
 
