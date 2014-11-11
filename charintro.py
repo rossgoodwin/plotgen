@@ -40,9 +40,10 @@ def char_match():
 		charTropeDict[char] = personalize(char, trope)
 	return charTropeDict
 
+
 def personalize(c, t):
-	pronouns = ['he', 'she', 'they', 'him', 'her', 'them']
-	pronouns_possessive = ['his', 'hers', 'their', 'theirs', "he's", "she's", "they're"]
+	# pronouns = ['he', 'she', 'they', 'him', 'her', 'them']
+	# pronouns_possessive = ['his', 'hers', 'their', 'theirs', "he's", "she's", "they're"]
 
 	nameList = c.split(' ')
 	firstName = nameList[0]
@@ -92,7 +93,7 @@ def personalize(c, t):
 			cointainsName = True
 		elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
 			try:
-				words[i] = en.verb.past(words[i], person=3)
+				words[i] = en.verb.past(words[i], person=3, negate=False)
 			except KeyError:
 				pass
 
@@ -104,6 +105,10 @@ def personalize(c, t):
 			words[i] = "Clue"
 		elif words[i] == "Tropes":
 			words[i] = "Clues"
+		elif words[i] == "have":
+			words[i] = "has"
+		elif words[i] == "are":
+			words[i] = "is"
 
 		else:
 			pass
@@ -116,8 +121,7 @@ def personalize(c, t):
 
 	for i in range(len(words)):
 		if words[i] in punc:
-			w = words[i]
-			words[i] = '\b'+w
+			words[i] = '\b'+words[i]
 
 	final_text = " ".join(words)
 

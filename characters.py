@@ -106,17 +106,25 @@ def makefiles(urls):
 
 		for u in char_urls:
 			name = u.split('/')[-1]
-			# article = scrape(u)
+			#article = scrape(u)
 			filenames.append("tropes_character/"+kind+"/"+name+".txt")
-			# ffff = open("tropes_character/"+kind+"/"+name+".txt", "w")
-			# ffff.write(article.encode('utf8'))
+			#ffff = open("tropes_character/"+kind+"/"+name+".txt", "w")
+			#ffff.write(article.encode('utf8'))
+			#ffff.close()
 	print filenames
 
 urls_dict = {}
 
-urls_dict['villains'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains"
-urls_dict['heroes'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes"
-urls_dict['general'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters"
+# urls_dict['villains'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/Villains"
+# urls_dict['heroes'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/Heroes"
+# urls_dict['general'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/Characters"
+
+#urls_dict['perverts'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/TropesAboutPerverts"
+urls_dict['plotrelated'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/CharacterizationTropes"
+#urls_dict['pure'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/PurityPersonified"
+urls_dict['other'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/OthernessTropes"
+urls_dict['alone'] = "http://tvtropes.org/pmwiki/pmwiki.php/Main/SolitaryTropes"
+
 
 makefiles(urls_dict)
 
