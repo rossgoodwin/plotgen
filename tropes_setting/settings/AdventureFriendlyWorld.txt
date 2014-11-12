@@ -1,0 +1,20 @@
+An interesting phenomenon in worldbuilding in gaming, and certain kinds of speculative fiction: the focus of a game or story dictates aspects of the setting in many subtle ways.
+
+To provide an example, let's say you want to have legal duels to the death over a matter of revenge; well, in order to have that, you need to have very weak law-enforcement (a relatively strong law-enforcement body takes, of necessity, a very dim view of revenge, as it runs directly counter to the very premise of strong law-enforcement), a heavy honor code on the part of the background culture (otherwise, why take lethal revenge, and even if you do take revenge, why not just assassinate the target?), and a world where life is cheap (why risk your life on such a matter if it isn't?). An expansion of the anthropic principle — the characters are on a given adventure because the world is designed to encourage adventures of that type.
+
+Comes in two closely connected varieties:
+
+ Focus maximizing setting fluff. Why, say, having vast armies of skeletons who can only be defeated by a single party of adventurers makes sense. Or why  Rule abstraction. The fact that (say) the economic model of a game is only realistic for parties of armed brigands loosely affiliated with a local community makes perfect sense when you're playing as a party of adventurers, but is quite noticeable if you try to figure out what happens if, say, you want to play a trader this time.
+
+Note that Focus Maximizing Setting Fluff can be subverted. For example, you could have a setting where pirates are able to thrive because political instability in a region allows them to prey on merchants without fear of reprisal by the weak government. If at some point during the story, or just before the beginning, a more stable system comes into effect, or the regional government makes sudden strives into asserting its legitimacy, you could have a story where the pirate characters are forced to adapt or otherwise deal with the realization that their lifestyle is no longer viable since significant resources are now being applied to stop them.
+
+ An old-school  A more politically-focused game either implies a powerful city, within a relatively stable state, or a closely-connected world.
+
+ A smaller scale tactical wargame (on the order of a very small number of units) is going to want a very connected world (to maximize the possible pairings), with more Border Skirmishes than outright war. As you go up in scale, the setting will have more and more war and political instability, to better explain why one side or the other is regularly throwing large fighting forces at a target.
+
+ If you want pirates, you need either virtually no state at all, or fairly weak states. Or, alternatively (or in addition to), you can use their cousins, Privateers, who require at least fairly potent states capable of commissioning and supporting one, but not strong enough to send regular forces out to do it themselves. Another possibility is lacking a desire to do so, maybe due to political complexities where privateers are deniable assets that states can disavow but regular armies obviously are not.
+
+  If you want  Open conflict between two similarly powerful blocs requires some excuse for why nukes or equivalent WMD don't start flying.  Certain advances in technology may eliminate types of action and adventure that you want. If you want space combat to resemble the Age of Sail, you probably don't want the technology for fast, autonomous drone fighters or A.I.-guided missiles to battle at extended range with little human input.   If the focus is purely on the adventurers going forth and killing monsters and taking their stuff, then an unrealistic economic model can be argued to be more realistic, as the result of a more realistic system would probably be the same.
+
+ Tactical wargames have a tendency to have more and more unrealistic logistics as their focus expands.
+

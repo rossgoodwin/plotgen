@@ -1,0 +1,8 @@
+Tidal locking is the result of a body (a planet around a sun or a moon around a planet) being close enough to its parent that the pull of gravity on the satellite is stronger on the facing side than on the other. Over astronomical timescales the parent body's gravity will slow the satellite's rotation until one side always faces the parent and the other always faces away.
+
+Because of this mechanism, a planet orbiting a star in this fashion will always be daytime on one side of the planet and always night on the other. Originally it was thought that the sunward side would always be a blazing hot desert and the night side freezing cold. more recent computer models indicate that, assuming the planet has an atmosphere, convection currents will transfer hot air from the day side to the night side and bring cold air to the day side, alleviating the extremes somewhat.
+
+Also known as a Twilight Planet, in reference to the perpetual twilight experienced by the narrow band between the sun-side and dark-side. It is guessed that this narrow band may be capable of supporting life, and is a popular way to make a planet unique. In science fiction most of the population of a tidally locked world will inhabit this region, where the climate is fairly temperate.
+
+Compare single-biome planet. The main difference is that a tidally locked world tends to have single biomes over vast stretches of its surface, but not the whole thing. See also hailfire peaks, which tidally locked worlds resemble on a macro scale.
+

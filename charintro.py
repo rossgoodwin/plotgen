@@ -140,17 +140,32 @@ def personalize(c, t):
 
 outputFile = open("output/"+outputFileName+".tex", 'w')
 
+openingTexLines = ["\\documentclass[12pt]{book}",
+				   "\\title{"+outputFileName+"}",
+				   "\\author{tvtropes fiction generator\\\\http://rossgoodwin.com/ficgen}",
+				   "\\date{\\today}",
+				   "\\begin{document}",
+				   "\\maketitle"]
+
+closingTexLine = "\\end{document}"
+
+for line in openingTexLines:
+	outputFile.write(line+"\n")
+outputFile.write("\n\n")
+
 intros = char_match()
 
 for x, y in intros.iteritems():
-	for char in x:
-		if char == "`":
-			outputFile.seek(-1, 1)
-		else:
-			outputFile.write(char)
 
-	outputFile.write("\n")
+	outputFile.write("\\chapter{"+x+"}\n")
 
+	# for char in x:
+	# 	if char == "`":
+	# 		outputFile.seek(-1, 1)
+	# 	else:
+	# 		outputFile.write(char)
+
+	# outputFile.write("\n")
 
 	for char in y:
 		if char == "`":
@@ -161,7 +176,14 @@ for x, y in intros.iteritems():
 	outputFile.write("\n\n")
 
 
+outputFile.write("\n\n")
+outputFile.write(closingTexLine)
+
+
 outputFile.close()
+
+
+print '\"output/'+outputFileName+'.tex\"'
 
 
 

@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+A necessity of any real-time strategy game in which units or buildings are built on the playing field.
+
+All buildings can be produced and military units trained in a ridiculously short amount of time. Full-fledged headquarters can be built in just minutes, and even elite military units can be trained in under 30 seconds.
+
+Note that this is not explainable simply by claiming that one second of "real time" equals a much longer time in "game time", because other aspects of the game, such as combat, are not sped up by as much. For example, a single construction worker can often build or repair a building faster than a tank can knock it down (very often instantly repairing it at the first moment of contact, at that).
+
+Recent RTS games have danced around this issue by explaining new units as off-map reinforcements, or airborne troops, and/or new structures as "dropped in from orbit". Company of Heroes is somewhat idiosyncratic in this regard, since many of the units in the game, despite being described as "reinforcements" that the player has to "requisition", magically appear next to the barracks where they were requisitioned, in a manner similar to units in traditional RTS games. However, the player is occasionally able to spend resources to call in off-map reinforcements which roll onto the battlefield from off the edge of the map in a more realistic fashion.
+
+For games set in the future, it's sometimes explained that some kind of new high technology, like nanomachines or unobtainium-powered factories, does allow you to churn out a division of tanks or put up base defenses in mere seconds. Some fantasy games similarly explain it with magic.
+
+Often a prerequisite for command and conquer economy and construct additional pylons. One of the acceptable breaks from reality. Subtrope of video game time.
+

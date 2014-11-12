@@ -1,0 +1,23 @@
+big dumb object or planet spaceship not big enough for you? Look no further. sci-fi authors have made solar-system-sized artifacts into a trope of their own. The trope namer is physicist and mathematician Freeman Dyson, who theorized in a 1959 scientific paper that, given the ever-increasing demand for energy typical of industrial civilization, sufficiently advanced aliens might need to capture all the energy radiating from a star.
+
+While Dyson himself originally saw his concept as a network of many separate orbiting habitats and solar power-stations, most media depictions show a single continuous solid sphere completely enclosing its star. This misconception is an acute case of sci-fi writers have no sense of scale. Constructing such an artifact would probably put a civilization at least 2.0 on the kardashev scale.
+
+The technologies and resources needed to do it raise the question of whether a race that could build one would still need it. It has been estimated that constructing the sphere would require the energy equivalent of the lifetimes of several stars AND the raw materials of more than the entire solar system, which rather defeats the purpose of the initial construction.
+
+The Ringworld concept was created by science fiction author larry niven as a mid-point between this and a true planet because, as Niven put it in his essay Bigger Than Worlds (a discussion of ring world planets, Dyson Spheres, and other possible macrostructures), "I like being able to see the stars at night". Something that a Dyson Sphere prevents.
+
+This trope doesn't require an object to block all light from the star, but it does require construction on that scale. To be a Dyson Sphere, the artifact must:
+
+ be an artificial structure. Naturally-occuring structures don't count, though a nest built by a  contain a star inside it (that is, a giant ball of gas lit by stable nuclear fusion initiated by the pressure on its core due to its own gravity, not some little glowing speck or a mythological god with a lantern, OK?)
+
+ contain an inside surface where people can survive (possibly with space suits) without being burnt to a crisp by the star.
+
+ be at least the size of a small solar system. Typically we're talking 100 million kilometers or more.
+
+In fiction, Dyson Spheres tend to be abandoned and uninhabited. If they are inhabited, the residents are usually not at a tech level capable of building the sphere. This is because, if your protagonists run into a sphere whose residents are in the full flower of their technological might, they and their problems promptly get overwhelmed.
+
+Subtrope of hollow world. Compare big dumb object and planet spaceship. not to be confused with the Dyson Ball, which is part of a vacuum cleaner.
+
+ In response to letters prompted by his original paper, Freeman Dyson replied: "A solid shell or ring surrounding a star is mechanically impossible. The form of 'biosphere' which I envisaged consists of a loose collection or swarm of objects travelling on independent orbits around the star." The evolution of the term "Dyson Sphere" is an example of  The surface gravity of the outside of a stereotypical 1-AU solid shell is likely to be negligible. Gravitational acceleration due to the Sun out there is less than 1/1000 g. Calculus and physics (the  The surface gravity on the inside of a 1-AU solid shell is also negligible.  A  A solid Dyson Sphere would not be stable around its star without some form of correctional thruster system or  A point which is often ignored is that a solid shell will not only have eternal day, but also, instead of reflecting sunlight into space, will reflect it upon the sphere itself. This means that a shell around a Sun sized star will have to be not 300 million km across, but more likely about twice as much in order to maintain reasonable temperatures or using materials either with high efficiency in the production of energy (if the interior wall is dedicated exclusively to energy production) or with a high thermal conductivity coupled with an interior wall with high absorption of radiation. A reasonable partial solution to this is for a star-faring society (and any society able to build a Dyson Shell is likely to be star-faring at least potentially) to select a smaller, cooler star (say a class M) and build their Shell around it, letting it heat up to hotter intensities due to reflection.
+
+ A Dyson sphere could be used as a computational node for a single massively powerful supercomputer, presumably either a segment of, or the entire physical being of, some kind of massively advanced 
