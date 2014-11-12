@@ -11,12 +11,14 @@ from firstnames_f import *
 from firstnames_m import *
 from surnames import *
 
-script, outputFileName = argv
+
+script, outputFileName, inputCharName = argv
+
 
 def name_chars():
-	charNo = random.randint(3,9)
+	charNo = random.randint(7,51)
 	charGenders = [random.randint(0,1) for _ in range(charNo)]
-	charNames = []
+	charNames = [inputCharName]
 	for i in charGenders:
 		if charGenders[i]:
 			charNames.append(c(fFirstNames)+" "+c(surnames))
@@ -24,11 +26,6 @@ def name_chars():
 			charNames.append(c(mFirstNames)+" "+c(surnames))
 	return charNames
 
-# for _ in range(10):
-# 	char_names = name_chars()
-# 	for name in char_names:
-# 		print name
-# 	print "\n\n"
 
 def char_match():
 	charNames = name_chars()
@@ -45,9 +42,6 @@ def char_match():
 
 
 def personalize(c, t):
-	# pronouns = ['he', 'she', 'they', 'him', 'her', 'them']
-	# pronouns_possessive = ['his', 'hers', 'their', 'theirs', "he's", "she's", "they're"]
-
 	nameList = c.split(' ')
 	firstName = nameList[0]
 	lastName = nameList[1]
@@ -55,34 +49,12 @@ def personalize(c, t):
 	t = t.split('\n')
 	t = ' '.join(t)
 
-	# sentences = t.split('.')
-	# words = [s.split(' ') for s in sentences]
-
 	pos = en.sentence.tag(t)
 	wordtag = map(list, zip(*pos))
 	words = wordtag[0]
 	tags = wordtag[1]
 
-	# find periods
-	# periods = []
-	# for i in range(len(words)):
-	# 	if words[i] in [".", "!", "?"]:
-	# 		periods.append(i)
-	# periods.insert(0, 0)
-
-	# containsNameList = [0]
-
-	# containsName = False
-
 	for i in range(len(words)):
-		#containsName = False
-
-		# if i in periods and containsName:
-		# 	containsNameList.append(i)
-
-		# if i in periods:
-		# 	containsName = False
-
 		if words[i].lower() == "character" and i > 0:
 			words[i-1] = firstName
 			words[i] = lastName
@@ -116,9 +88,6 @@ def personalize(c, t):
 		else:
 			pass
 
-	# trueWords = []
-	# for indx in containsNameList:
-	# 	trueWords += words[indx:periods[periods.index(indx)+1]]
 
 	punc = [".", ",", ";", ":", "!", "?"]
 
@@ -135,14 +104,20 @@ def personalize(c, t):
 	else:
 		final_text = firstName+" "+lastName+final_text[index+len(firstName):]
 
+	final_text = final_text.decode('utf8')
+	final_text = final_text.encode('ascii', 'ignore')
+
 	return final_text
 
+
+latex_special_char_1 = ['&', '%', '$', '#', '_', '{', '}']
+latex_special_char_2 = ['~', '^', '\\']
 
 outputFile = open("output/"+outputFileName+".tex", 'w')
 
 openingTexLines = ["\\documentclass[12pt]{book}",
 				   "\\title{"+outputFileName+"}",
-				   "\\author{tvtropes fiction generator\\\\http://rossgoodwin.com/ficgen}",
+				   "\\author{collective consciousness fiction generator\\\\http://rossgoodwin.com/ficgen}",
 				   "\\date{\\today}",
 				   "\\begin{document}",
 				   "\\maketitle"]
@@ -170,6 +145,17 @@ for x, y in intros.iteritems():
 	for char in y:
 		if char == "`":
 			outputFile.seek(-1, 1)
+		elif char in latex_special_char_1:
+			outputFile.write("\\"+char)
+		elif char in latex_special_char_2:
+			if char == '~':
+				outputFile.write("\\textasciitilde")
+			elif char == '^':
+				outputFile.write("\\textasciicircum")
+			elif char == '\\':
+				outputFile.write("\\textbackslash")
+			else:
+				pass
 		else:
 			outputFile.write(char)
 
