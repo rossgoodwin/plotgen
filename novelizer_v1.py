@@ -15,6 +15,12 @@ from firstnames_m import *
 from surnames import *
 
 
+# TODO:
+# [ ] Fix "I'm" and "I'll" problem
+# [ ] Add TOC
+# [ ] Add Plot Points / Narrative Points / Phlebotinum
+
+
 script, outputFileName, inputCharName = argv
 
 
