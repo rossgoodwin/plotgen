@@ -8,6 +8,7 @@ import en
 
 from erowid_experience_paths import *
 from tropes_character import *
+from tropes_setting import *
 from firstnames_f import *
 from firstnames_m import *
 from surnames import *
@@ -54,13 +55,26 @@ def char_match():
 		splitText = drugText.split('\\vspace{2mm}')
 		endOfText = splitText[-1]
 		report = endOfText[:len(endOfText)-15]
-		report = personal_trip([charNames[j]]+random.sample(charNames, random.randint(0, 3)), report)
+		chars = [charNames[j]]+random.sample(charNames, random.randint(0, 3))
+		report = personal_trip(chars, report)
 		charDrugs.append(report)
 		j+=1
 
+	charSettingPaths = random.sample(settingTropeFiles, len(charNames))
+	charSettings = []
+	k = 0
+	for path in charSettingPaths:
+		fff = open(path, 'r')
+		settingText = fff.read()
+		fff.close()
+		churs = [charNames[k]]+random.sample(charNames, random.randint(0, 3))
+		setting = personal_trip(churs, settingText)
+		charSettings.append(setting)
+		k+=1
+
 	charTropeDict = {}
 	for i in range(len(charNames)):
-		charTropeDict[charNames[i]] = [tropes[i], charDrugs[i]]
+		charTropeDict[charNames[i]] = [tropes[i], charDrugs[i], charSettings[i]]
 
 	return charTropeDict
 
@@ -90,58 +104,62 @@ def personal_trip(c, t):
 	t = t.split('\n')
 	t = ' '.join(t)
 
-	pos = en.sentence.tag(t)
-	wordtag = map(list, zip(*pos))
-	words = wordtag[0]
-	tags = wordtag[1]
+	try:
+		pos = en.sentence.tag(t)
+		wordtag = map(list, zip(*pos))
+		words = wordtag[0]
+		tags = wordtag[1]
 
-	pronoun_count = 0
+		pronoun_count = 0
 
-	for i in range(len(words)):
-		if tags[i] == "PRP":
-			if pronoun_count % charCount == 0:
-				words[i] = firstName1
-			elif pronoun_count % charCount == 1:
-				words[i] = firstName2
-			elif pronoun_count % charCount == 2:
-				words[i] = firstName3		
-			elif pronoun_count % charCount == 3:
-				words[i] = firstName4			
-			pronoun_count += 1
-		elif tags[i] == "PRP$":
-			if pronoun_count % charCount == 0:
-				words[i] = firstName1+"\'s"
-			elif pronoun_count % charCount == 1:
-				words[i] = firstName2+"\'s"
-			elif pronoun_count % charCount == 2:
-				words[i] = firstName3+"\'s"		
-			elif pronoun_count % charCount == 3:
-				words[i] = firstName4+"\'s"	
-			pronoun_count += 1
-		elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
-			try:
-				words[i] = en.verb.past(words[i], person=3, negate=False)
-			except KeyError:
+		for i in range(len(words)):
+			if tags[i] == "PRP":
+				if pronoun_count % charCount == 0:
+					words[i] = firstName1
+				elif pronoun_count % charCount == 1:
+					words[i] = firstName2
+				elif pronoun_count % charCount == 2:
+					words[i] = firstName3		
+				elif pronoun_count % charCount == 3:
+					words[i] = firstName4			
+				pronoun_count += 1
+			elif tags[i] == "PRP$":
+				if pronoun_count % charCount == 0:
+					words[i] = firstName1+"\'s"
+				elif pronoun_count % charCount == 1:
+					words[i] = firstName2+"\'s"
+				elif pronoun_count % charCount == 2:
+					words[i] = firstName3+"\'s"		
+				elif pronoun_count % charCount == 3:
+					words[i] = firstName4+"\'s"	
+				pronoun_count += 1
+			elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
+				try:
+					words[i] = en.verb.past(words[i], person=3, negate=False)
+				except KeyError:
+					pass
+			else:
 				pass
-		else:
-			pass
 
-	punc = [".", ",", ";", ":", "!", "?"]
+		punc = [".", ",", ";", ":", "!", "?"]
 
-	for i in range(len(words)):
-		if words[i] in punc:
-			words[i] = '`'+words[i]
+		for i in range(len(words)):
+			if words[i] in punc:
+				words[i] = '`'+words[i]
 
-	final_text = " ".join(words)
+		final_text = " ".join(words)
 
-	final_text = final_text.decode('utf8')
-	final_text = final_text.encode('ascii', 'ignore')
+		final_text = final_text.decode('utf8')
+		final_text = final_text.encode('ascii', 'ignore')
 
-	final_text = string.replace(final_text, "\\ldots", " . . . ")
-	final_text = string.replace(final_text, "\\egroup", "")
-	final_text = string.replace(final_text, "EROWID", "GOVERNMENT")
-	final_text = string.replace(final_text, "erowid", "government")
-	final_text = string.replace(final_text, "Erowid", "Government")
+		final_text = string.replace(final_text, "\\ldots", " . . . ")
+		final_text = string.replace(final_text, "\\egroup", "")
+		final_text = string.replace(final_text, "EROWID", "GOVERNMENT")
+		final_text = string.replace(final_text, "erowid", "government")
+		final_text = string.replace(final_text, "Erowid", "Government")
+	
+	except:
+		final_text = ""
 
 	return final_text
 
@@ -264,6 +282,25 @@ for x, y in intros.iteritems():
 	for char in y[1]:
 		if char == "`":
 			outputFile.seek(-1, 1)
+		else:
+			outputFile.write(char)
+
+	outputFile.write("\n\r\n\r\n\r")
+
+	for char in y[2]:
+		if char == "`":
+			outputFile.seek(-1, 1)
+		elif char in latex_special_char_1:
+			outputFile.write("\\"+char)
+		elif char in latex_special_char_2:
+			if char == '~':
+				outputFile.write("\\textasciitilde")
+			elif char == '^':
+				outputFile.write("\\textasciicircum")
+			elif char == '\\':
+				outputFile.write("-")
+			else:
+				pass
 		else:
 			outputFile.write(char)
 
