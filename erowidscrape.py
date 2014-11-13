@@ -8,7 +8,7 @@ from erowid_experience import *
 erowidURLsBy1000 = []
 
 # current folder
-indx = 14
+indx = 18
 
 # split erowidURLs into 19 pieces...
 for i in range(18):
