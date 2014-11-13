@@ -154,6 +154,10 @@ def personal_trip(c, t):
 		final_text = final_text.decode('utf8')
 		final_text = final_text.encode('ascii', 'ignore')
 
+		final_text = string.replace(final_text, "\\end{itemize}", "")
+		final_text = string.replace(final_text, "\\begin{itemize}", "")
+		final_text = string.replace(final_text, "\\end{center}", "")
+		final_text = string.replace(final_text, "\\begin{center}", "")
 		final_text = string.replace(final_text, "\\ldots", " . . . ")
 		final_text = string.replace(final_text, "\\egroup", "")
 		final_text = string.replace(final_text, "EROWID", "GOVERNMENT")
@@ -174,63 +178,67 @@ def personalize(c, t):
 	t = t.split('\n')
 	t = ' '.join(t)
 
-	pos = en.sentence.tag(t)
-	wordtag = map(list, zip(*pos))
-	words = wordtag[0]
-	tags = wordtag[1]
+	try:
+		pos = en.sentence.tag(t)
+		wordtag = map(list, zip(*pos))
+		words = wordtag[0]
+		tags = wordtag[1]
 
-	for i in range(len(words)):
-		if words[i].lower() == "character" and i > 0:
-			words[i-1] = firstName
-			words[i] = lastName
-			containsName = True
+		for i in range(len(words)):
+			if words[i].lower() == "character" and i > 0:
+				words[i-1] = firstName
+				words[i] = lastName
+				containsName = True
 
-		elif tags[i] == "PRP":
-			words[i] = firstName
-			containsName = True
-		elif tags[i] == "PRP$":
-			words[i] = firstName+"\'s"
-			cointainsName = True
-		elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
-			try:
-				words[i] = en.verb.past(words[i], person=3, negate=False)
-			except KeyError:
+			elif tags[i] == "PRP":
+				words[i] = firstName
+				containsName = True
+			elif tags[i] == "PRP$":
+				words[i] = firstName+"\'s"
+				cointainsName = True
+			elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
+				try:
+					words[i] = en.verb.past(words[i], person=3, negate=False)
+				except KeyError:
+					pass
+
+			elif words[i] == "trope":
+				words[i] = "clue"
+			elif words[i] == "tropes":
+				words[i] = "clues"
+			elif words[i] == "Trope":
+				words[i] = "Clue"
+			elif words[i] == "Tropes":
+				words[i] = "Clues"
+			elif words[i] == "have":
+				words[i] = "has"
+			elif words[i] == "are":
+				words[i] = "is"
+
+			else:
 				pass
 
-		elif words[i] == "trope":
-			words[i] = "clue"
-		elif words[i] == "tropes":
-			words[i] = "clues"
-		elif words[i] == "Trope":
-			words[i] = "Clue"
-		elif words[i] == "Tropes":
-			words[i] = "Clues"
-		elif words[i] == "have":
-			words[i] = "has"
-		elif words[i] == "are":
-			words[i] = "is"
 
+		punc = [".", ",", ";", ":", "!", "?"]
+
+		for i in range(len(words)):
+			if words[i] in punc:
+				words[i] = '`'+words[i]
+
+		final_text = " ".join(words)
+
+		index = string.find(final_text, firstName)
+
+		if final_text[index+len(firstName)+1:index+len(firstName)+1+len(lastName)] == lastName:
+			final_text = final_text[index:]
 		else:
-			pass
+			final_text = firstName+" "+lastName+final_text[index+len(firstName):]
 
-
-	punc = [".", ",", ";", ":", "!", "?"]
-
-	for i in range(len(words)):
-		if words[i] in punc:
-			words[i] = '`'+words[i]
-
-	final_text = " ".join(words)
-
-	index = string.find(final_text, firstName)
-
-	if final_text[index+len(firstName)+1:index+len(firstName)+1+len(lastName)] == lastName:
-		final_text = final_text[index:]
-	else:
-		final_text = firstName+" "+lastName+final_text[index+len(firstName):]
-
-	final_text = final_text.decode('utf8')
-	final_text = final_text.encode('ascii', 'ignore')
+		final_text = final_text.decode('utf8')
+		final_text = final_text.encode('ascii', 'ignore')
+	
+	except:
+		final_text = ""
 
 	return final_text
 
@@ -278,9 +286,9 @@ for x, y in intros.iteritems():
 				outputFile.write("\\"+char)
 			elif char in latex_special_char_2:
 				if char == '~':
-					outputFile.write("\\textasciitilde")
+					outputFile.write("")
 				elif char == '^':
-					outputFile.write("\\textasciicircum")
+					outputFile.write("")
 				elif char == '\\':
 					outputFile.write("-")
 				else:
@@ -297,9 +305,9 @@ for x, y in intros.iteritems():
 				outputFile.write("\\"+char)
 			elif char in latex_special_char_2:
 				if char == '~':
-					outputFile.write("\\textasciitilde")
+					outputFile.write("")
 				elif char == '^':
-					outputFile.write("\\textasciicircum")
+					outputFile.write("")
 				elif char == '\\':
 					outputFile.write("-")
 				else:
@@ -329,9 +337,9 @@ for x, y in intros.iteritems():
 				outputFile.write("\\"+char)
 			elif char in latex_special_char_2:
 				if char == '~':
-					outputFile.write("\\textasciitilde")
+					outputFile.write("")
 				elif char == '^':
-					outputFile.write("\\textasciicircum")
+					outputFile.write("")
 				elif char == '\\':
 					outputFile.write("-")
 				else:
@@ -348,9 +356,9 @@ for x, y in intros.iteritems():
 				outputFile.write("\\"+char)
 			elif char in latex_special_char_2:
 				if char == '~':
-					outputFile.write("\\textasciitilde")
+					outputFile.write("")
 				elif char == '^':
-					outputFile.write("\\textasciicircum")
+					outputFile.write("")
 				elif char == '\\':
 					outputFile.write("-")
 				else:
