@@ -6,6 +6,7 @@ import string
 import nltk
 import en
 
+from erowid_experience_paths import *
 from tropes_character import *
 from firstnames_f import *
 from firstnames_m import *
@@ -35,10 +36,114 @@ def char_match():
 		f = open(tropePath, 'r')
 		tropeText.append(f.read())
 		f.close()
-	charTropeDict = dict(zip(charNames, tropeText))
-	for char, trope in charTropeDict.iteritems():
-		charTropeDict[char] = personalize(char, trope)
+	# charTropeDict = dict(zip(charNames, tropeText))
+
+	tropes = []
+	for t in range(len(charNames)):
+		trope = personalize(charNames[t], tropeText[t])
+		tropes.append(trope)
+
+	charDrugPaths = random.sample(erowidExpPaths, len(charNames))
+	charDrugs = []
+	j = 0
+	for path in charDrugPaths:
+		ff = open(path, 'r')
+		drugText = ff.read()
+		ff.close()
+
+		splitText = drugText.split('\\vspace{2mm}')
+		endOfText = splitText[-1]
+		report = endOfText[:len(endOfText)-15]
+		report = personal_trip([charNames[j]]+random.sample(charNames, random.randint(0, 3)), report)
+		charDrugs.append(report)
+		j+=1
+
+	charTropeDict = {}
+	for i in range(len(charNames)):
+		charTropeDict[charNames[i]] = [tropes[i], charDrugs[i]]
+
 	return charTropeDict
+
+
+def personal_trip(c, t):
+	charCount = len(c)
+
+	nameList1 = c[0].split(' ')
+	firstName1 = nameList1[0]
+	lastName1 = nameList1[1]
+
+	if charCount > 1:
+		nameList2 = c[1].split(' ')
+		firstName2 = nameList2[0]
+		lastName2 = nameList2[1]
+
+	if charCount > 2:
+		nameList3 = c[2].split(' ')
+		firstName3 = nameList3[0]
+		lastName3 = nameList3[1]
+
+	if charCount > 3:
+		nameList4 = c[3].split(' ')
+		firstName4 = nameList4[0]
+		lastName4 = nameList4[1]
+
+	t = t.split('\n')
+	t = ' '.join(t)
+
+	pos = en.sentence.tag(t)
+	wordtag = map(list, zip(*pos))
+	words = wordtag[0]
+	tags = wordtag[1]
+
+	pronoun_count = 0
+
+	for i in range(len(words)):
+		if tags[i] == "PRP":
+			if pronoun_count % charCount == 0:
+				words[i] = firstName1
+			elif pronoun_count % charCount == 1:
+				words[i] = firstName2
+			elif pronoun_count % charCount == 2:
+				words[i] = firstName3		
+			elif pronoun_count % charCount == 3:
+				words[i] = firstName4			
+			pronoun_count += 1
+		elif tags[i] == "PRP$":
+			if pronoun_count % charCount == 0:
+				words[i] = firstName1+"\'s"
+			elif pronoun_count % charCount == 1:
+				words[i] = firstName2+"\'s"
+			elif pronoun_count % charCount == 2:
+				words[i] = firstName3+"\'s"		
+			elif pronoun_count % charCount == 3:
+				words[i] = firstName4+"\'s"	
+			pronoun_count += 1
+		elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
+			try:
+				words[i] = en.verb.past(words[i], person=3, negate=False)
+			except KeyError:
+				pass
+		else:
+			pass
+
+	punc = [".", ",", ";", ":", "!", "?"]
+
+	for i in range(len(words)):
+		if words[i] in punc:
+			words[i] = '`'+words[i]
+
+	final_text = " ".join(words)
+
+	final_text = final_text.decode('utf8')
+	final_text = final_text.encode('ascii', 'ignore')
+
+	final_text = string.replace(final_text, "\\ldots", " . . . ")
+	final_text = string.replace(final_text, "\\egroup", "")
+	final_text = string.replace(final_text, "EROWID", "GOVERNMENT")
+	final_text = string.replace(final_text, "erowid", "government")
+	final_text = string.replace(final_text, "Erowid", "Government")
+
+	return final_text
 
 
 def personalize(c, t):
@@ -116,6 +221,9 @@ latex_special_char_2 = ['~', '^', '\\']
 outputFile = open("output/"+outputFileName+".tex", 'w')
 
 openingTexLines = ["\\documentclass[12pt]{book}",
+				   "\\usepackage{ucs}",
+				   "\\usepackage[utf8x]{inputenc}",
+				   "\\usepackage{hyperref}",
 				   "\\title{"+outputFileName+"}",
 				   "\\author{collective consciousness fiction generator\\\\http://rossgoodwin.com/ficgen}",
 				   "\\date{\\today}",
@@ -125,24 +233,16 @@ openingTexLines = ["\\documentclass[12pt]{book}",
 closingTexLine = "\\end{document}"
 
 for line in openingTexLines:
-	outputFile.write(line+"\n")
-outputFile.write("\n\n")
+	outputFile.write(line+"\n\r")
+outputFile.write("\n\r\n\r")
 
 intros = char_match()
 
 for x, y in intros.iteritems():
 
-	outputFile.write("\\chapter{"+x+"}\n")
+	outputFile.write("\\chapter{"+x+"}\n\r")
 
-	# for char in x:
-	# 	if char == "`":
-	# 		outputFile.seek(-1, 1)
-	# 	else:
-	# 		outputFile.write(char)
-
-	# outputFile.write("\n")
-
-	for char in y:
+	for char in y[0]:
 		if char == "`":
 			outputFile.seek(-1, 1)
 		elif char in latex_special_char_1:
@@ -159,10 +259,18 @@ for x, y in intros.iteritems():
 		else:
 			outputFile.write(char)
 
-	outputFile.write("\n\n")
+	outputFile.write("\n\r\n\r\n\r")
+
+	for char in y[1]:
+		if char == "`":
+			outputFile.seek(-1, 1)
+		else:
+			outputFile.write(char)
+
+	outputFile.write("\n\r\n\r\n\r")
 
 
-outputFile.write("\n\n")
+outputFile.write("\n\r\n\r")
 outputFile.write(closingTexLine)
 
 
