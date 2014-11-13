@@ -260,51 +260,142 @@ for x, y in intros.iteritems():
 
 	outputFile.write("\\chapter{"+x+"}\n\r")
 
-	for char in y[0]:
-		if char == "`":
-			outputFile.seek(-1, 1)
-		elif char in latex_special_char_1:
-			outputFile.write("\\"+char)
-		elif char in latex_special_char_2:
-			if char == '~':
-				outputFile.write("\\textasciitilde")
-			elif char == '^':
-				outputFile.write("\\textasciicircum")
-			elif char == '\\':
-				outputFile.write("\\textbackslash")
+	chapter_type = random.randint(0, 4)
+	bonus_drug_trip = random.randint(0, 1)
+	trip_count = random.randint(0,5)
+
+
+	# BLOCK ONE
+
+	if chapter_type in [0, 3]:
+
+		for char in y[0]:
+			if char == "`":
+				outputFile.seek(-1, 1)
+			elif char in latex_special_char_1:
+				outputFile.write("\\"+char)
+			elif char in latex_special_char_2:
+				if char == '~':
+					outputFile.write("\\textasciitilde")
+				elif char == '^':
+					outputFile.write("\\textasciicircum")
+				elif char == '\\':
+					outputFile.write("-")
+				else:
+					pass
 			else:
-				pass
-		else:
-			outputFile.write(char)
+				outputFile.write(char)
 
-	outputFile.write("\n\r\n\r\n\r")
+	elif chapter_type in [1, 4]:
 
-	for char in y[1]:
-		if char == "`":
-			outputFile.seek(-1, 1)
-		else:
-			outputFile.write(char)
-
-	outputFile.write("\n\r\n\r\n\r")
-
-	for char in y[2]:
-		if char == "`":
-			outputFile.seek(-1, 1)
-		elif char in latex_special_char_1:
-			outputFile.write("\\"+char)
-		elif char in latex_special_char_2:
-			if char == '~':
-				outputFile.write("\\textasciitilde")
-			elif char == '^':
-				outputFile.write("\\textasciicircum")
-			elif char == '\\':
-				outputFile.write("-")
+		for char in y[2]:
+			if char == "`":
+				outputFile.seek(-1, 1)
+			elif char in latex_special_char_1:
+				outputFile.write("\\"+char)
+			elif char in latex_special_char_2:
+				if char == '~':
+					outputFile.write("\\textasciitilde")
+				elif char == '^':
+					outputFile.write("\\textasciicircum")
+				elif char == '\\':
+					outputFile.write("-")
+				else:
+					pass
 			else:
-				pass
-		else:
-			outputFile.write(char)
+				outputFile.write(char)
+
+	elif chapter_type == 2:
+
+		for char in y[1]:
+			if char == "`":
+				outputFile.seek(-1, 1)
+			else:
+				outputFile.write(char)
 
 	outputFile.write("\n\r\n\r\n\r")
+
+	
+	# BLOCK TWO
+
+	if chapter_type == 0:
+
+		for char in y[2]:
+			if char == "`":
+				outputFile.seek(-1, 1)
+			elif char in latex_special_char_1:
+				outputFile.write("\\"+char)
+			elif char in latex_special_char_2:
+				if char == '~':
+					outputFile.write("\\textasciitilde")
+				elif char == '^':
+					outputFile.write("\\textasciicircum")
+				elif char == '\\':
+					outputFile.write("-")
+				else:
+					pass
+			else:
+				outputFile.write(char)
+
+	elif chapter_type == 1:
+
+		for char in y[0]:
+			if char == "`":
+				outputFile.seek(-1, 1)
+			elif char in latex_special_char_1:
+				outputFile.write("\\"+char)
+			elif char in latex_special_char_2:
+				if char == '~':
+					outputFile.write("\\textasciitilde")
+				elif char == '^':
+					outputFile.write("\\textasciicircum")
+				elif char == '\\':
+					outputFile.write("-")
+				else:
+					pass
+			else:
+				outputFile.write(char)
+
+	elif chapter_type in [3, 4]:
+
+		for char in y[1]:
+			if char == "`":
+				outputFile.seek(-1, 1)
+			else:
+				outputFile.write(char)
+
+	elif chapter_type == 2 and bonus_drug_trip:
+
+		for _ in range(trip_count):
+
+			for char in y[1]:
+				if char == "`":
+					outputFile.seek(-1, 1)
+				else:
+					outputFile.write(char)
+
+	else:
+		pass
+
+	outputFile.write("\n\r\n\r\n\r")
+
+
+	# BLOCK THREE
+
+	if chapter_type in [0, 1, 3, 4] and bonus_drug_trip:
+
+		for _ in range(trip_count):
+
+			for char in y[1]:
+				if char == "`":
+					outputFile.seek(-1, 1)
+				else:
+					outputFile.write(char)
+
+		outputFile.write("\n\r\n\r\n\r")
+
+	else:
+		pass
 
 
 outputFile.write("\n\r\n\r")
