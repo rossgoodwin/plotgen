@@ -2,6 +2,7 @@ from sys import argv
 import random
 from random import choice as c
 import string
+import math
 
 import nltk
 import en
@@ -44,7 +45,7 @@ def char_match():
 		trope = personalize(charNames[t], tropeText[t])
 		tropes.append(trope)
 
-	charDrugPaths = random.sample(erowidExpPaths, len(charNames))
+	charDrugPaths = random.sample(erowidExpPaths, len(charNames)*5)
 	charDrugs = []
 	j = 0
 	for path in charDrugPaths:
@@ -55,7 +56,7 @@ def char_match():
 		splitText = drugText.split('\\vspace{2mm}')
 		endOfText = splitText[-1]
 		report = endOfText[:len(endOfText)-15]
-		chars = [charNames[j]]+random.sample(charNames, random.randint(0, 3))
+		chars = [charNames[int(math.floor(j/5))]]+random.sample(charNames, random.randint(0, 3))
 		report = personal_trip(chars, report)
 		charDrugs.append(report)
 		j+=1
@@ -74,7 +75,8 @@ def char_match():
 
 	charTropeDict = {}
 	for i in range(len(charNames)):
-		charTropeDict[charNames[i]] = [tropes[i], charDrugs[i], charSettings[i]]
+		drugsIndex = i*5
+		charTropeDict[charNames[i]] = [tropes[i], charDrugs[drugsIndex:drugsIndex+5], charSettings[i]]
 
 	return charTropeDict
 
@@ -262,7 +264,7 @@ for x, y in intros.iteritems():
 
 	chapter_type = random.randint(0, 4)
 	bonus_drug_trip = random.randint(0, 1)
-	trip_count = random.randint(0,5)
+	trip_count = random.randint(1,4)
 
 
 	# BLOCK ONE
@@ -307,7 +309,7 @@ for x, y in intros.iteritems():
 
 	elif chapter_type == 2:
 
-		for char in y[1]:
+		for char in y[1][0]:
 			if char == "`":
 				outputFile.seek(-1, 1)
 			else:
@@ -358,7 +360,7 @@ for x, y in intros.iteritems():
 
 	elif chapter_type in [3, 4]:
 
-		for char in y[1]:
+		for char in y[1][0]:
 			if char == "`":
 				outputFile.seek(-1, 1)
 			else:
@@ -366,9 +368,9 @@ for x, y in intros.iteritems():
 
 	elif chapter_type == 2 and bonus_drug_trip:
 
-		for _ in range(trip_count):
+		for tripIndex in range(trip_count):
 
-			for char in y[1]:
+			for char in y[1][tripIndex+1]:
 				if char == "`":
 					outputFile.seek(-1, 1)
 				else:
@@ -384,9 +386,9 @@ for x, y in intros.iteritems():
 
 	if chapter_type in [0, 1, 3, 4] and bonus_drug_trip:
 
-		for _ in range(trip_count):
+		for tripIndex in range(trip_count):
 
-			for char in y[1]:
+			for char in y[1][tripIndex+1]:
 				if char == "`":
 					outputFile.seek(-1, 1)
 				else:
