@@ -17,6 +17,8 @@ from surnames import *
 
 script, outputFileName, inputCharName = argv
 
+sysPath = "/Users/rg/Projects/plotgen/new/plotgen/"
+
 
 def name_chars():
 	charNo = random.randint(7,51)
@@ -35,7 +37,7 @@ def char_match():
 	charTropes = random.sample(characterTropeFiles, len(charNames))
 	tropeText = []
 	for tropePath in charTropes:
-		f = open(tropePath, 'r')
+		f = open(sysPath+tropePath, 'r')
 		tropeText.append(f.read())
 		f.close()
 	# charTropeDict = dict(zip(charNames, tropeText))
@@ -49,7 +51,7 @@ def char_match():
 	charDrugs = []
 	j = 0
 	for path in charDrugPaths:
-		ff = open(path, 'r')
+		ff = open(sysPath+path, 'r')
 		drugText = ff.read()
 		ff.close()
 
@@ -65,7 +67,7 @@ def char_match():
 	charSettings = []
 	k = 0
 	for path in charSettingPaths:
-		fff = open(path, 'r')
+		fff = open(sysPath+path, 'r')
 		settingText = fff.read()
 		fff.close()
 		churs = [charNames[k]]+random.sample(charNames, random.randint(0, 3))
@@ -246,7 +248,7 @@ def personalize(c, t):
 latex_special_char_1 = ['&', '%', '$', '#', '_', '{', '}']
 latex_special_char_2 = ['~', '^', '\\']
 
-outputFile = open("output/"+outputFileName+".tex", 'w')
+outputFile = open(sysPath+"output/"+outputFileName+".tex", 'w')
 
 openingTexLines = ["\\documentclass[12pt]{book}",
 				   "\\usepackage{ucs}",
@@ -415,4 +417,4 @@ outputFile.write(closingTexLine)
 outputFile.close()
 
 
-print '\"output/'+outputFileName+'.tex\"'
+print '\"'+sysPath+'output/'+outputFileName+'.tex\"'

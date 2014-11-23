@@ -15,6 +15,14 @@ from firstnames_m import *
 from surnames import *
 
 
+# TODO:
+# [ ] Fix "I'm" and "I'll" problem
+# [ ] Add Plot Points / Narrative Points / Phlebotinum
+# [ ] subtrope / sub-trope
+# [ ] add yelp reviews
+# [ ] add livejournal
+
+
 script, outputFileName, inputCharName = argv
 
 
@@ -202,14 +210,14 @@ def personalize(c, t):
 				except KeyError:
 					pass
 
-			elif words[i] == "trope":
-				words[i] = "clue"
-			elif words[i] == "tropes":
-				words[i] = "clues"
-			elif words[i] == "Trope":
-				words[i] = "Clue"
-			elif words[i] == "Tropes":
-				words[i] = "Clues"
+			# elif words[i] == "trope":
+			# 	words[i] = "clue"
+			# elif words[i] == "tropes":
+			# 	words[i] = "clues"
+			# elif words[i] == "Trope":
+			# 	words[i] = "Clue"
+			# elif words[i] == "Tropes":
+			# 	words[i] = "Clues"
 			elif words[i] == "have":
 				words[i] = "has"
 			elif words[i] == "are":
@@ -236,6 +244,9 @@ def personalize(c, t):
 
 		final_text = final_text.decode('utf8')
 		final_text = final_text.encode('ascii', 'ignore')
+		final_text = string.replace(final_text, "trope", "clue")
+		final_text = string.replace(final_text, "Trope", "clue")
+		final_text = string.replace(final_text, "TROPE", "CLUE")
 	
 	except:
 		final_text = ""
