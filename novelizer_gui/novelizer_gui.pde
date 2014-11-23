@@ -39,10 +39,10 @@ void setup() {
 
 void draw() {
   // set values equal to userText variables
-  if (titleInput.filled) novelTitle = titleInput.userText;
-  if (firstNameInput.filled) firstName = firstNameInput.userText;
-  if (surnameInput.filled) lastName = surnameInput.userText;
-  if (emailInput.filled) toEmail = emailInput.userText;
+  if (titleInput.filled && titleInput.userText != "") novelTitle = titleInput.userText;
+  if (firstNameInput.filled && firstNameInput.userText != "") firstName = firstNameInput.userText;
+  if (surnameInput.filled && surnameInput.userText != "") lastName = surnameInput.userText;
+  if (emailInput.filled && emailInput.userText != "") toEmail = emailInput.userText;
   
   // background
   background(236, 240, 241);
