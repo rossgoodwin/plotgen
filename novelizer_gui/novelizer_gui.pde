@@ -39,10 +39,10 @@ void setup() {
 
 void draw() {
   // set values equal to userText variables
-  if (titleInput.filled && titleInput.userText != "") novelTitle = titleInput.userText;
-  if (firstNameInput.filled && firstNameInput.userText != "") firstName = firstNameInput.userText;
-  if (surnameInput.filled && surnameInput.userText != "") lastName = surnameInput.userText;
-  if (emailInput.filled && emailInput.userText != "") toEmail = emailInput.userText;
+  if (titleInput.filled && !titleInput.userText.equals("")) novelTitle = titleInput.userText;
+  if (firstNameInput.filled && !firstNameInput.userText.equals("")) firstName = firstNameInput.userText;
+  if (surnameInput.filled && !surnameInput.userText.equals("")) lastName = surnameInput.userText;
+  if (emailInput.filled && !emailInput.userText.equals("")) toEmail = emailInput.userText;
   
   // background
   background(236, 240, 241);
@@ -155,7 +155,7 @@ void keyPressed() {
   
   for (int i=3; i>=0; i--) {
     if (inputFields[i].active) {
-      if (key == 8 && inputFields[i].userText != "") {
+      if (key == 8 && !inputFields[i].userText.equals("")) {
         inputFields[i].userText = inputFields[i].userText.substring(0, inputFields[i].userText.length()-1);
       } else if (key == '\n' || key == '\t') {
         inputFields[i].active = false;
