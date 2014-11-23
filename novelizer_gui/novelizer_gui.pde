@@ -5,9 +5,9 @@
 // paths and such
 String sysPath = "/Users/rg/Projects/plotgen/new/plotgen/";
 String novPath = "/Users/rg/Google Drive/novels/";
-String novelTitle = "Two Paths";
-String firstName = "Name";
-String lastName = "Surname";
+String novelTitle = "You Forgot To Write A Title";
+String firstName = "John";
+String lastName = "Doe";
 String toEmail = "ross.goodwin@gmail.com";
 boolean finished = false;
 
@@ -25,15 +25,12 @@ PVector title;
 PVector generateButton;
 PShape generateSymbol;
 
-// PVector upperLeft;
-
 void setup() {
   size(displayWidth, displayHeight);
   gotham32 = loadFont("Gotham-Book-32.vlw");
   gotham18 = loadFont("Gotham-Book-18.vlw");
   
-  title = new PVector(width/2, 20);
-  // upperLeft = new PVector(0, 68);
+  title = new PVector(width/2, 50);
   
   generateButton = new PVector(width/2, height-100);
   generateSymbol = loadShape("generate_symbol.svg");
@@ -41,20 +38,27 @@ void setup() {
 }
 
 void draw() {
+  // set values equal to userText variables
+  if (titleInput.filled) novelTitle = titleInput.userText;
+  if (firstNameInput.filled) firstName = firstNameInput.userText;
+  if (surnameInput.filled) lastName = surnameInput.userText;
+  if (emailInput.filled) toEmail = emailInput.userText;
+  
+  // background
   background(236, 240, 241);
   
   // headline and border
   textFont(gotham32);
   textAlign(CENTER, TOP);
   fill(108, 122, 137);
-  //fill(242,38,19);
   noStroke();
   text("FICTION GENERATOR", title.x, title.y);
   
-  // fill(108, 122, 137);
-  // noStroke();
-  // rectMode(CORNER);
-  // rect(upperLeft.x, upperLeft.y, width, 2);
+  // text input boxes
+  titleInput.display();
+  firstNameInput.display();
+  surnameInput.display();
+  emailInput.display();
   
   // generate button
   noStroke();
@@ -134,6 +138,35 @@ void mousePressed() {
     exec(paramsPDF);
     
     finished = true;
+  }
+  
+  for (int i=0; i<inputFields.length; i++) {
+    if (mouseX > inputFields[i].pos.x && mouseX < inputFields[i].pos.x+inputFields[i].widthHeight.x && mouseY > inputFields[i].pos.y && mouseY < inputFields[i].pos.y+inputFields[i].widthHeight.y) {
+      inputFields[i].active = true;
+      inputFields[i].filled = true;
+    } else {
+      inputFields[i].active = false;
+    }
+  }
+  
+}
+
+void keyPressed() {
+  
+  for (int i=3; i>=0; i--) {
+    if (inputFields[i].active) {
+      if (key == 8 && inputFields[i].userText != "") {
+        inputFields[i].userText = inputFields[i].userText.substring(0, inputFields[i].userText.length()-1);
+      } else if (key == '\n' || key == '\t') {
+        inputFields[i].active = false;
+        if (i < inputFields.length-1) {
+          inputFields[i+1].active = true;
+          inputFields[i+1].filled = true;
+        }
+      } else if (key != CODED) {
+        inputFields[i].userText = inputFields[i].userText + key;
+      }
+    }
   }
   
 }
