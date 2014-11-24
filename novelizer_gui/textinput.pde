@@ -10,8 +10,7 @@ class TextInput {
   PVector pos, widthHeight;
   color borderCol, activeCol, textCol, initTextCol, bgCol;
   String initText, userText;
-  boolean active;
-  boolean filled;
+  boolean active, filled;
   
   TextInput (float xPos, float yPos, String _initText, float wid) {
     pos = new PVector(xPos, yPos);
