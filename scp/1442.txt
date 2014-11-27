@@ -1,0 +1,37 @@
+Item #: SCP-1442
+
+Object Class: Euclid
+
+Special Containment Procedures: Owing to the public nature of SCP-1442 and the large number of people employed by it who are unaware of its anomalous nature, containment has focused on keeping the employees of SCP-1442 and the general public unaware of its anomalous nature, and on close monitoring of all SCP-1442 activity by the containment team under the cover story of an SEC (U.S. Securities and Exchange Commission) investigation.
+
+Description: SCP-1442 is a corporation (known to shareholders, employees and the general public as "████ ███████, Inc.") which anomalously produces signals coded into stock trades, collectively SCP-1442-1.
+
+The anomalous nature of SCP-1442 first came to Foundation attention in 19██, when automated Foundation monitoring of the New York Stock Exchange flagged an unusual pattern of high-frequency stock trades between SCP-1442 and several other companies over a period of several months. Cryptanalysis showed that the trades formed an intelligible message in a simple code. An investigation by MTF-Phi-1 ("Hostile Takeover") into brokers and computers at the company demonstrated no awareness of the signals being sent on the part of any member of staff or any anomalous activity from computers, and recommended that further study was warranted.
+
+After a decade of intensive study, encompassing interviews with staff, multiple detailed audits and computer-aided analysis of patterns of asset purchases and capital transfers, it was postulated by Dr. █████ that SCP-1442 comprises a fully sentient, sapient entity, capable of informed decision making and responses to its environment.
+
+At the time of writing, SCP-1442 employs ███,███ people and has an annual revenue of $█.██ billion USD. Shares are held by a mixture of private individuals, other corporations, hedge funds, investment firms and other organisations; in accordance with current containment procedure and contingency planning the Foundation currently holds a minority █.█% share.
+
+The corporation's activity is for the most part not unusual for a company of its type. Asset management and financial services comprise the majority of its economic activities, although via wholly-owned subsidiaries it has diversified into extractive industries, children's toy retail, pharmaceutical research, computer software, advanced defence technology and [REDACTED].
+
+SCP-1442's employees and shareholders display no awareness of the anomalous nature of the corporation, or of their roles as part of a larger cognitive pattern. It is theorised that SCP-1442's mind arises from and runs on the collective and aggregated actions of the corporation itself, encompassing not only a subset of the actions of staff, shareholders and directors but also the movements of capital, goods, information and legal instruments.
+
+Given the above, analysis of the "mind" of SCP-1442 is a challenging and subtle task, comparable in complexity to reading a human mind based purely on scans of neurological activity. This has strongly hampered efforts to establish SCP-1442's effective level of intelligence, memory, typical emotional responses, and speed of cognition; however, it is assumed the latter is many orders of magnitude slower than the human norm owing to the nature of the cognitive substrate (i.e., human actions).
+
+Not all actions performed by employees form part of SCP-1442's cognition. Instead, SCP-1442 appears to exploit the existence of routine, semi-conscious and habitual behaviour by its employees for this purpose, especially amongst entry-level employees.
+
+Employees experience their behaviour as freely-willed, but are unusual in reporting higher levels of job satisfaction than the statistical baseline for their economic sector; staff interviews typically feature self-reports of high levels of motivation, strong interpersonal relationships while at work, and a sense of "being part of something larger".
+
+Communication attempts by SCP-1442, referred to as instances of SCP-1442-1, are made over the course of several months, and are targeted at seemingly random corporations. These messages are sent via the medium of high-frequency stock trading. Communication is one-way: there is no evidence SCP-1442 has ever received a response to any of its messages. All messages contain a preamble attempting to establish the sentience of the sender (typically beginning with a sequence of prime numbers or the digits of pi) and a code in which to communicate. Despite the months-long process, the unique intelligible informational content of each message is brief, forming short sentences or sentence fragments, typically in English (although SCP-1442 has been seen to attempt other languages when communicating with multinational or foreign corporations).
+
+As yet, SCP-1442 has made no confirmed attempts at communication with human beings. Its perception of and attitude toward humanity both remain unclear.
+
+Addendum: Some selected examples of SCP-1442-1, once decrypted:
+
+hello i like your logo
+
+i'm est. 1984/$324 per share/Boston HQ you?
+
+you bought 2.6% of me why
+
+do you like me?

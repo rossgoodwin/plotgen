@@ -1,0 +1,127 @@
+Item #: SCP-1374
+
+Object Class: Keter
+
+Special Containment Procedures: The entirety of the documentation of SCP-1374 is to be kept within Site 23 until further notice. Site 53, Site 95, and Sector 15 are all currently infected with SCP-1374. All personnel working at these facilities are to be made aware of SCP-1374. Furthermore, all documents at these areas must be triple checked by at least two (2) different personnel for inaccuracies. Additionally, personnel may request to transfer out of these sites. These requests must be approved by at least three (3) researchers with Level 4 clearance as well as the Site Director of the area.
+
+Description: SCP-1374 is a text-based phenomenon that appears to specifically affect at least five (5) structures used for human interaction with anomalies at any given time. Within these affected buildings, persons that have worked with anomalous objects as defined by Foundation Protocol-01-Black for a time period greater than one (1) year will randomly encounter SCP-1374 within the structure. SCP-1374 will manifest as short sentences or phrases and will appear though a variety of media, including spray paint on walls, handwritten notes, and inserted sentences in official reports.
+
+The phenomenon only affects buildings that actively interact with anomalous objects; if a structure infected with SCP-1374 becomes inactive or ceases work with anomalies for time periods of great than ten (10) days, SCP-1374 will no longer affect that building and will begin manifesting in a different active site1. Furthermore, the nature and tone of SCP-1374’s messages appears to vary widely between structures. Due to this, it is currently speculated that five (5) iterations of SCP-1374, hereby designated as SCP-1374-A through SCP-1374-E, are responsible for these infections. Additionally, each iteration appears to favor a specific GoI, and will reappear in a different structure used by the group if an infected building becomes inactive. See Addendum-1374-Alpha for greater detail.
+
+Three out of the five sites known to be infected with SCP-1374 are controlled by the Foundation; the other two are under the jurisdiction of GoI-016 (“Global Occult Coalition”) and GoI-132 (“Marshall, Carter, and Dark Ltd.”).
+
+Addendum-1374-Alpha:
+
+SCP-1374-X
+
+Location
+
+Description
+
+Example
+
+SCP-1374-A
+
+Site 53, controlled by the SCP Foundation
+
+Manifested writings are harshly critical and frustrated toward Foundation personnel and procedures.
+
+Taken from the documentation of SCP-████: …is to be kept in Humanoid Containment Chamber #423 at all times because that’s obviously the smart thing to do, right? Make it angry at you? God, why isn’t everyone dead yet due to your buffoonery?
+
+SCP-1374-B
+
+Site 95, controlled by the SCP Foundation
+
+Manifested writings are supportive and encouraging towards the Foundation’s endeavors
+
+Taken from the documentation of Incident Report Rho-Omega: …was killed during the recovery of the object but this doesn’t mean we should stop trying. People live, people die, but that’s okay. It’s all for the greater good. John, trust me, don’t let this scare you, you’ll be fine.
+
+SCP-1374-C
+
+Sector 15, controlled by the SCP Foundation
+
+Manifested writings are malicious, vindictive, and condescending.
+
+Taken from the documentation of SCP-096: Weekly checks for any cracks or holes are mandatory. There is to be absolutely no video surveillance or optical tools of any kind inside SCP-096's cell. As such, personnel must physically enter into the entity’s cell at least one time per week in order to check that SCP-096 remains in containment.
+
+SCP-1374-D
+
+Warehouse 24, controlled by GoI-132 (“Marshall, Carter, and Dark Ltd.”)
+
+Manifested writings are highly critical of extravagant and wasteful lifestyles.
+
+Taken from the documentation of [REDACTED]: …which will satiate your needs without making you go out of your way to help anyone else. What a wonderful product for a horrible person. Master Marshall would surely cordially invite you to purchase this item just to give it away to someone more deserving, but you wouldn’t do that, would you?
+
+SCP-1374-E
+
+[REDACTED], controlled by GoI-016 (“Global Occult Coalition”)
+
+Unknown
+
+Unknown
+
+Addendum-1374-Gamma: Every five (5) years on 31/12, all iterations of SCP-1374 will manifest the following message to all eligible subjects within the infected sites.
+
+You can’t let a little talk distract you. You have the fate of the world in your hands. Don’t let it get to your head, whatever it is, because you know what? If you can’t handle this, you shouldn’t be here. Just remember.
+
+This is a test. This is only a test.
+
+Incident Log-1374-Theta: On 06/04/1995, SCP-████2 breached containment after displaying previously unknown anomalous properties, including [REDACTED], resulting in the transformation of sixty-three (63) personnel into instances of SCP-████-G, along with the loss of seventy-one (71) SCP objects. Currently, all objects and personnel lost during the breach are still outside of Foundation control.
+
+Additionally, Site 95's Euclid Wing 17 experienced a security systems failure, resulting in the release of seven (7) Euclid-class anomalous objects, one of which had been classified as a Type-Red metamorphic-replicating entity. Four (4) have since been recaptured, but the aforementioned entity breached containment and currently is at large. MTF Theta-24 (aka "Polygraph Team Attack") has been dispatched to investigate and capture all possible instances of the escaped objects.
+
+On the same day at Sector 15, SCP-1374-C manifested information regarding [REDACTED], causing the widespread propagation of the infohazard.
+
+The following day at all sites infected with SCP-1374, each respective iteration of SCP-1374-X generated message manifested for all eligible personnel within each site. The following is the transcription of the messages.
+
+SCP-1374-A:
+
+See? What did I tell you, you oafs? I swear, sometimes, you could stand to learn a thing or two from those GOC meatheads. And then you didn't even handle it well! You screwed it up regardless! Really, if you can't even handle a small [REDACTED] like this, what are you going to do when the big one comes?
+
+SCP-1374-B:
+
+Oh dear, oh dear, I'm so terribly sorry. I really thought you were ready for this, I never thought that it would end up like this. It's all my fault, don't feel bad about what happened. We'll just keep trying, and eventually, I'm sure that you will be more than prepared for when it comes. Keep trying! Don't be discouraged! I believe in you!
+
+…But you are going to have to do better than that, sweetie.
+
+SCP-1374-C:
+
+You don't stand a chance.
+
+Incident Log-1374-Xi: Foundation agents pursuing several known members of GoI-055 (“Chaos Insugency”) encountered a new iteration of SCP-1374 in an abandoned factory that the group had been using as a base of operations, which has since been designated SCP-1374-F. The writings found at the location have been characterized as being “anxious” and “nervous3,” with the exception of the message found on the northernmost wall of the room housing a large generator, which read “go AWAY,” as shown above. Approximately five (5) seconds after Foundation personnel had entered the room housing this message, the chamber’s walls collapsed, causing the loss of four (4) agents.
+
+When personnel continued to pursue and track these individuals, they encountered events similar to the previous incident in which rooms housing certain SCP-1374 messages collapsed after Foundation personnel entered. Due to this, agents were unable to successfully keep up with the CI members.
+
+Head Researcher’s Note: Due to the events described in Incident Log-1374-Theta and Incident Log-1374-Xi, it appears possible that SCP-1374 has anomalous control of the structures in which it is located outside of the manifestation of textual anomalies. The extent of this control is unknown. As such, personnel are to maintain extreme caution while operating in location known to be infected with SCP-1374. -Head Researcher Leonard Lagrange
+
+Incident Log-1374-Chi: On 12/05/1995, Foundation surveillance reported that Warehouse 24, owned by GoI-132 (“Marshall, Carter, and Dark Ltd.”) and infected with SCP-1374-D, was vacated by the group. Foundation agents covertly followed the members of the group to MC&D-owned Auction House 53. Investigation of Warehouse 24 revealed the corpses of three (3) persons, with each body having the phrase “Those with no heart cannot truly bask in his power when he comes. I've tried talking to you, but apparently, that's not enough” cut into various areas of their skin. MTF Tau-09 (aka “Upper Class Spycats”) is currently searching for the new location of SCP-1374-D.
+
+Addendum-1374-Mu: Personnel have noticed that SCP-1374-A through SCP-1374-C’s messages have taken on a frantic, nervous quality since ██/██/████, on the same date as the [REDACTED] Specifically;
+
+SCP-1374-A has begun issuing harsher criticism of the containment procedures of an unprecedented number of SCP objects, most of which were humanoid, metamorphic, memory-affecting, adaptive, cognitohazardous, or extradimensional, as well as writing out all of its messages in all capitalized letters.
+
+SCP-1374-B began utilizing the ability it demonstrated during Incident Log-1374-Theta at least once per week, manifesting various forms of encouraging phrases while personnel attempted to recontain the objects4.
+
+SCP-1743-C ceased altering SCP documents in overt and obvious ways; instead, it has begun altering minute but important details about these objects. Additionally, it has been noted to include an increasing amount of subtle memetic and informational hazards in its messages. As such, the rigor of the checking of the validity of all documents within Sector 15 has been increased.
+
+These behaviors became more and more frequent over time. During this period, Foundation researchers proposed a possible link between the increased and extreme actions of SCP-1374 and the non-anomalous series of [REDACTED]; however, no link between the two has been established.
+
+Addendum-1374-Pi: The following message manifested in all locations infected with SCP-1374 on ██/██/████5
+
+Well, you took the test. You failed. We’ll try to handle this by ourselves.
+
+Subsequently, all locations previously known to be infected with SCP-1374 ceased manifesting anomalous messages. After thirty (30) days, SCP-1374 was declared Neutralized.
+
+Addendum-1374-Omega: On ██/██/████, five (5) months after SCP-1374 was declared Neutralized, SCP-1374 remanifested in all previously infected areas. However, a new iteration of the anomaly appeared rather than any recorded instance of SCP-1374-X. This iteration is uniform across all infected areas and only manifests Arabic numerals. The numbers in SCP-1374’s messages decrease at a constant rate over time. The significance of this is unknown; however, all manifested numbers are roughly equal between the structures at any given time.
+
+Footnotes
+
+1. Research shows that once SCP-1374 stops manifesting within a structure and transfers to a separate place, it will not remanifest in previously infected areas, even if they become active again.
+
+2. The object that was used as an example of SCP-1374-A's messages
+
+3. Commonly found phrases found were “please help us,” “hes coming,” and “You can protect us”
+
+4. Since this incident, Site 95 has been gradually transporting its contained objects to other sites as well as increasing the number of personnel assigned to site security. However, at no time are less than twenty-five (25) anomalous objects to be held within Site 95.
+
+5. Notably, this was the same date of the disturbance in [REDACTED]

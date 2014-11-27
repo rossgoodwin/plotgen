@@ -1,0 +1,57 @@
+Item #: SCP-1755
+
+Object Class: Keter
+
+Special Containment Procedures: A sample of SCP-1755 is to be contained at Site 40 following standard Class 1 biohazard procedures. All personnel stationed at Site 40 are forbidden from wearing clothing containing cotton. Uncontained specimens of SCP-1755 are to be incinerated, and the area monitored for further outbreaks.
+
+In light of the almost total breach of SCP-1755, further containment efforts will focus on concealing the anomalous origin of SCP-1755. SCP-1755 will be presented as a result of experimental genetic engineering. The Foundation will cooperate with and assist governments and major agricultural biotechnology companies, through proxies as need be, in bringing SCP-1755 under control.
+
+All specimens outside of controlled research facilities observing at least Class 2 biohazard procedures are to be destroyed or contained. In the event that SCP-1755 is eradicated in the wild, it will be reclassified SCP-1755-EX.
+
+Description: SCP-1755 is a species of worm not closely related to any extant species. Visually, specimens of SCP-1755 resemble thin fibers, and their cuticles may be in any of a wide range of colors. SCP-1755 are hermaphroditic, with a lifespan of about five weeks. SCP-1755 only eat cotton fibers.
+
+If exposed to a garment made of primarily of cotton, SCP-1755 will consume one thread and reproduce parthenogenically, producing a new instance of SCP-1755 with cuticle color matching that of the consumed thread. This process is extremely efficient, and one SCP-1755 specimen is capable of converting an entire shirt in about two weeks. When consuming a garment, SCP-1755 will link to each other, making their presence difficult to detect by visual or tactile examination.
+
+While converting a garment, SCP-1755 may spread by contact to other cotton fabrics. On full conversion, however, all instances of SCP-1755 enter a dormant state for about three months, during which there is no risk of contagion. At the conclusion of this period, they expire due to lack of food. It is at this point that SCP-1755 becomes most visible, as affected garments often begin to rot. Research indicates that a tone in the range of 435 kHz to 520 kHz causes dormant SCP-1755 to release their linkages, resulting in a fully converted garment disintegrating.
+
+SCP-1755 was discovered following an outbreak at the University of Sheffield in which a large proportion of the clothing of students and faculty began to rot. A cover story attributing the incident to a chemical weapon research malfunction was ruled sufficient, and widespread amnestic distribution deemed unnecessary and counterproductive to secrecy.
+
+Addendum 1755-30: Recent reports in agricultural journals regarding a parasitic worm of unknown phylogeny afflicting cotton crops suggest a possible connection to or outbreak of SCP-1755. Further investigation warranted.
+
+O5 memo CB-General-322:
+
+With great regret, I am forced to abandon primary containment efforts on SCP-1755, effective immediately. Revised containment protocols have been devised, and will be implemented as soon as is practicable. As many of you may be aware, we badly misjudged the nature and threat of SCP-1755. What we thought was a worm that infested cotton clothes has also proven itself a serious, perhaps existential threat to the global cotton crop.
+
+It is unlikely that the Foundation is at fault in this affair. SCP-1755 had probably spread beyond the limits of containment before any events occurred to attract our attention. Considering how rapidly SCP-1755 proliferates, and how difficult it is to detect, no action could have prevented its rise to a global cotton plant epidemic. Nevertheless, an internal audit of Site 40 will be carried out to verify that this is not the result of Foundation mismanagement.
+
+Security has failed. Containment has failed, and was likely never established in the first place. This leaves protection. The greatest threat to normalcy posed by SCP-1755 lies not in its anomalous nature, but in the threat it poses to the global textiles industry. To protect the cotton crop, the Foundation will provide research support to major organizations, civilian and governmental, working to develop a way to rein in SCP-1755.
+
+This is not the first time a breach of this magnitude has occurred, and it will not be the last. We are fortunate in that SCP-1755 is not anomalous in what it does, but rather in that it exists at all. A simple cover story should therefore suffice to prevent public knowledge of the supernatural.
+
+In time, no doubt SCP-1755 will be brought to heel, and this incident will fade into the past. We must study what went wrong, so that we may be more prepared should the next total breach occur with something more clearly paranormal. We will learn, we will prepare, we will hold.
+
+—O5-2
+
+Addendum 1755-102: On 5/17/15, two graduate students at the University of Sheffield turned themselves in to British authorities, claiming to have information about the SCP-1755 outbreak. The students, David Lister and George Freeman, were then remanded to Foundation custody on request.
+
+Addendum 1755-110: Excerpt from an interview with David Lister regarding the creation and purpose of SCP-1755.
+
+Dr. Chao: So you say you had no idea the worms would jump to affect cotton plants?
+
+David Lister: That’s right. Not saying we shouldn’t have seen this coming, but no, this sort of outbreak was not what we had in mind.
+
+Dr. Chao: What did you have in mind, then? You fabricated these things, then spread them on your campus. What was the idea?
+
+David Lister: Ah, it’s mildly embarrassing, actually. We did it as a prank.
+
+Dr. Chao: You mean the way affected clothing rots after a few weeks?
+
+David Lister: No, actually. That was another unintended side-effect. Have you all noticed the sound thing? The thing where the worms break their coherence if exposed to, uh, 450 kilohertz?
+
+Dr. Chao: I think so, yes.
+
+David Lister: Yeah. So the idea was to spread it around campus, build a device that produced the frequency, then if a pretty girl walked past, turn it on.
+
+Dr. Chao: What?
+
+David Lister: You know, a nudifier.

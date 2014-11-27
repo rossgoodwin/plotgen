@@ -1,0 +1,81 @@
+Outpost-618
+
+Item #: SCP-1295
+
+Object Class: Keter
+
+Special Containment Procedures: Outpost-618 has been founded in order to maintain the covert containment of SCP-1295. Agents and researchers disguised as staff, patrons and local law enforcement are to discourage civilians from interacting with SCP-1295. Instances of SCP-1295 are not to be made aware of their containment. SCP-1295's daily routine is not to be interrupted under any circumstances.
+
+Description: SCP-1295 is the collective designation for a group of four (4) elderly men who patronize "Meg's Good Eatin'", a diner over the ███ highway, ██, between 09:00 and 18:00 every day. SCP-1295's anomalous properties manifest when an instance of SCP-1295 is prevented access to the diner between the hours 09:00 to 18:00 (local time) or removed from it by force; the exact nature of the effect and its duration is contingent on the instance of SCP-1295:
+
+SCP-1295-1: If prevented access or removed from the diner against its will, SCP-1295-1's anomalous properties will begin to manifest between five (5) and ten (10) minutes after its removal. Those caught in an area beginning with approx. one hundred (100) meters from SCP-1295-1 exhibit extreme lethargy and complete lack of any self preservation instincts, making even a simple accident potentially lethal. The area of effect grows by approx. one hundred (100) meters for every hour SCP-1295-1 is kept away from the diner.
+
+SCP-1295-2: If prevented access or removed from the diner against its will, SCP-1295-2's anomalous properties will begin to manifest between two (2) and three (3) hours after its removal. Those caught in an area beginning with approx. five hundred (500) meters from SCP-1295-2 lose their ability to distinguish between edible and inedible matter, and will often endanger themselves or others in attempts to consume unsuitable nourishment (metal, toxic waste, living flesh, etc.). The area of effect grows by approx. one (1) kilometer for every hour SCP-1295-2 is kept away from the diner.
+
+SCP-1295-3: If prevented access or removed from the diner against its will, SCP-1295-3's anomalous properties will begin to manifest immediately after its removal. The bodies of those caught in an area of approx. fifty (50) meters around SCP-1295-3 will lose all microbial lifeforms associated with them. The adverse effects include but are not limited to a rapid decrease in the functionality of the digestive system due to lack of gut flora. The area of effect grows by approx. two hundred (200) meters for every hour SCP-1295-3 is kept away from the diner.
+
+SCP-1295-4: If prevented access or removed from the diner against its will, SCP-1295-4's anomalous properties will begin to manifest thirty (30) to forty (40) minutes after its removal. Those caught in an area beginning with approx. one hundred and fifty (150) meters from SCP-1295-4 will experience a sharp increase of self-preservation instincts, to the point of paranoia and acute hypochondria. This condition soon becomes debilitating, as those afflicted by it will refuse to perform any action that might put them in any sort of danger, minor as it may be. The area of effect grows by approx. two hundred (200) meters for every hour SCP-1295-4 is kept away from the diner.
+
+Those caught by both the effects of SCP-1295-1 and SCP-1295-4 enter a comatose state, presumably due to their opposing nature creating an unbearable mental strain on the subject. Any attempt to track instances of SCP-1295 when outside the diner has thus far failed.
+
+Addendum 1295-A: The following conversation between all four instances of SCP-1295 was recorded by Agent █████, disguised as a waitress, on ██/██/████ .
+
++ Show Recorded Log
+
+- Hide
+
+<Begin Log>
+
+SCP-1295-2: Are you going to finish that?
+
+SCP-1295-1: Yes, I'm going to finish that. I always finish what I order. You've been asking me "are you going to finish that?" every day for the last sixty years, and the answer was always the same. Why the fuck do you keep asking?
+
+SCP-1295-2: I guess I'm just an incurable optimist.
+
+SCP-1295-3: Ain't no such thing as an incurable anything, Frederick, trust me on that.
+
+SCP-1295-2: I don't know about that anymore, Pat. Seems like your big act is getting quite a bit less popular lately.
+
+SCP-1295-4: Christ, not this again.
+
+SCP-1295-3: Look who's talking! Yours wouldn't even exist if people got their acts together!
+
+SCP-1295-2: Now, you look here-
+
+SCP-1295-4: Shut up! Both of you! Sixty goddamn years listening to this shit, every fucking day. You two are lucky I love the coffee here so much, or I would have left you to kill each other years ago.
+
+SCP-1295-1: Yeah, because we just find your presence so delightful, Dwight…
+
+SCP-1295-4: Don't think for a second I forgot about you, Warren! You were the one to get us in this mess in the first place!
+
+SCP-1295-1: It was an honest mistake! Where I come from, a great big fiery mushroom usually means the end of days! How was I to know it was just a big bomb?
+
+SCP-1295-4: It's your bloody area of expertise!
+
+SCP-1295-1: It's not like it used to be. I don't really get those new trends, honestly. Everything today is remotes and drones and… electro-thingies. Give me a good elephant over this nonsense any day.
+
+SCP-1295-3: I hear you.
+
+SCP-1295-2: Aye.
+
+SCP-1295-4: Oh, come on, guys, it's not so bad. We're always going to be around, until the very end. Ain't nothing they can do to change that.
+
+SCP-1295-1: Easy for you to say, your thing is pretty much bulletproof.
+
+SCP-1295-4: Relax. I know staying here for so long got you guys a bit stressed out, but it's only a matter of time until we can ride on. Besides, as much as I hate to admit it, I really like it here.
+
+SCP-1295-2: The food is great.
+
+SCP-1295-3: And the atmosphere.
+
+SCP-1295-1: Not to mention the waitresses. I think that blond one just winked at me. [to Agent █████] can you get me a piece of that pie, love? Much obliged.
+
+SCP-1295-4: So we just sit tight and wait. It's going to happen any day now, I know it.
+
+SCP-1295-1: Yeah.
+
+SCP-1295-3: Yeah.
+
+SCP-1295-2: Yeah. So, Warren, are you going to finish that?
+
+<End Log>

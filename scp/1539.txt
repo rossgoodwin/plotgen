@@ -1,0 +1,39 @@
+Item #: SCP-1539
+
+Object Class: Safe
+
+Special Containment Procedures: On ██/██/20██, the stationary origin point of SCP-1539 was filled with water with properties identical to reinforced concrete. [Mistake? No such substance catalogued. — Ed.] Seismic and ultrasonic monitoring devices remain on-site and active, monitored remotely at Site 17. As no further anomalous objects have originated from SCP-1539 since containment was initiated on ██/██/████, SCP-1539 is considered contained, and has been provisionally downgraded to Safe. In the unlikely event of a seismic containment breach, SCP-1539 will be assigned high containment priority until refilled.
+
+Personnel assigned to SCP-1539 are to be screened for resistance to memetic hazards. Personnel scoring <30 on standardized Levi-Bussard examinations are to be reassigned. For site-specific testing protocols and access to certified memetic samples, consult Document MH-1792(d).
+
+Objects originating from SCP-1539 are to be monitored for a period of no fewer than 90 days. Food and water appropriate for human consumption are to be provided no matter the apparent nature of the object. All feeding periods are to be cross-checked by at least two personnel. Missed feedings are to be reported to the Site Director immediately. If, during the monitoring period, the object exhibits self-directed movement or there is any reduction in the volume of food, the object is to be transferred to Site 17 for long-term containment. See Document SCP-1539-LTC for further instructions. Objects not exhibiting self-directed movement during the containment period are to be reported to lead researcher Dr. █████ and disposed of according to standard anomalous-object protocols.
+
+Description: SCP-1539-00 is a semantic dissociation zone of irregular shape, roughly six meters in diameter, formerly filling the basement laundry room of an apartment complex in ████████████, PA. Objects remaining within the zone for longer than 81 seconds suffer severe identity dysfunction, resulting in dissociation of an object’s physical properties from its semantic identity. Dissociated identities may thereafter “reattach” to any nearby semantically-null object. Though viewers’ perception and the object’s properties are unaffected by identity dysfunction, both first- and third party viewers will identify the object as being of the reassigned category. Current theories propose that the identity-transference mechanism is memetic rather than objective; however, cross-resistance with other memetic hazards is minimal, and information regarding the identities of recovered objects should be regarded as provisional at best. For further information, see N. Larter, “A Wood Without Meaning: Objective Identity Dysfunction in the Site 94 Containment Area,” [REFERENCE OMITTED].
+
+SCP-1539-01 is a flush-mounted SunSystem brand light fixture, model number R9-0079, nonfunctional. Unlike the model described by the manufacturer, this light fixture is cylindrical and wooden, 9cm long by .75cm in diameter, yellow, and contains a permanent graphite filament and a small cylinder of rubberized insulation. Upon examination, this object did not exhibit self-directed movement, and is currently completing observation at Site 17.
+
+SCP-1539-02 is a 1972 General Electric washer/dryer set, model number 3E98-17BL2, eggshell white. On recovery, it intermittently exhibited self-directed movement and produced sounds similar to human speech. On recovery, it took the physical appearance of a human male in his mid 40s, approximately 187cm tall, and weighing 82kg. Since that time, it has reduced substantially in mass and produces an offensive smell presumably resulting from an unrecovered load of laundry. As the machine lacks an identifiable lid, no procedure is currently proposed for recovery of any of the washer’s contents.
+
+SCP-1539-03 is Agent Jim Thayer, the first responder to the report of SCP-1539. Agent Jim Thayer is a brown leather wallet roughly 11cm X 9 cm in size, containing $11 in US currency. Since his recovery from the site of SCP-1539, Agent Thayer has remained unresponsive, and intensive anti-memetic treatments have failed to show measurable improvement.
+
+SCP-1539-04 is unidentifiable. It was originally recovered from a cloth pouch attached to SCP-1539-02. It is grey. It is small enough to be held in a single hand and modular. It is either of human manufacture or natural origin. Pieces removed from SCP-1539-04 are likewise unidentifiable. When recovered, it produced a sound at irregular intervals, but did not exhibit self-directed movement. The sound then stopped. SCP-1539-04 is currently completing observation at Site 17.
+
+Document 1539-1-A:
+
+Attn: B-Team Containment Unit, Site 17
+
+Re: Initial SCP-1539 Containment
+
+In short, we should have listened to the dissenting containment report.
+
+After containing Site 93, we thought we knew what we were dealing with: a topological anomaly from the [DATA EXPUNGED] crossover region. Primary containment protocols involved dosing Jim with Class-B amnestics and giving him six weeks in rehab. Clearly, that didn't happen: after intensive review, we have determined that Jim Thayer, wherever he is, is most likely deceased. Obviously, we can't permit this to happen again.
+
+Starting Tuesday, we'll be implementing all B-Team containment recommendations in parallel with Primary. We've gotten appropriations approval from the Director, so cost isn't an issue. This isn't the first time Primary Containment has missed the boat on our containment theory, but I can tell you this: it will be the last.
+
+On a personal note: the Director has declined our request to bury Jim. First of all, we don't know which of the objects he is. Second, while the objects removed from the site certainly aren't dangerous, there's an unacceptable consensus risk if anyone looks inside the coffin. In lieu of a funeral, we've brought the containment crates out of storage. If you want to pay your respects, they'll be out in the warehouse foyer starting at 0930 on Monday.
+
+Dr. █████
+
+[Signature Omitted]
+
+Lead Researcher, SCP-1539

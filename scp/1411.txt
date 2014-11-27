@@ -1,0 +1,123 @@
+Item #: SCP-1411
+
+Object Class: Euclid
+
+Special Containment Procedures: A joint research facility has been constructed around the cave housing SCP-1411-A. It will be manned at all times by agents from both the Foundation and the Office for the Reclamation of Islamic Artifacts. Colonel Khorsandi of the ORIA is in charge of security, as well as liasing with the government of Uzbekistan. Doctor Yi will supervise all examination of SCP-1411-A.
+
+At 48-hour intervals, Agent Durani will perform all duties in accordance to the Peaslee Protocols in order to perform preventative maintenance on SCP-1411-B. In the event that Agent Durani is incapacitated, a substitute must be found. This is intended to be a voluntary assignment, but if no volunteers can be found, Colonel Khorsandi is empowered to order any agent onsite.
+
+Both the Foundation and the ORIA are to have access to all documents and research related to SCP-1411.
+
+Description: SCP-1411-A is a collection of machinery found in a cave in the Turkestan Mountain Range in Southeastern Uzbekistan. While much of the equipment's purpose and function is unknown, several parts are assessed to be receivers for a signal propagated through unknown means, and one section in particular has been identified as a transmitter. Central to the entire assembly is a large video display, showing an unknown location.
+
+The location shown has similar machinery to SCP-1411-A, referred to as SCP-1411-B. It appears to be in a partly collapsed structure with stone and metal walls. The sky can be observed through openings in the structure. Though the sun is never seen directly, it shows a day-night cycle lasting roughly 31 hours. The stars, to the extent that they can be observed through the display, do not appear to match any area of the sky visible from Earth. Based on this information, it is believed to be an extraterrestrial location.
+
+What vegetation is visible consists of fungus-like growths. No animal life has been observed through the feed (but see Document SCP-1411-3).
+
+At the time of discovery, the components making up SCP-1411-B had experienced some damage, which caused effects both in the remote location and at the site of SCP-1411-A itself. These include electrical discharges, changes in local gravity, and an increase in the rate in heat transfer between objects in the area. Once started, these effects increased exponentially. Modeling suggests that if left unchecked, these effects would likely cause widespread devastation for several hundred kilometers before the SCP-1411-A and B materials were completely destroyed1. While significant repairs have been undertaken, these effects still occur when routine maintenance is not undertaken every 24-48 hours.
+
+As the functions of most of SCP-1411-A are poorly understood as yet, operations will be focused on repairing SCP-1411 in both the remote and local sites.
+
+When a human touches a recessed panel in the area assessed as a transmitter, it triggers the production of an autonomous machine by SCP-1411-B. These robots are roughly one meter tall (assuming the components of SCP-1411-B is similar in size to SCP-1411-A), navigating on four multi-jointed legs. The main body is roughly cylindrical, with two limbs that divide three times into eight finger-like appendages. Three dark lenses are situated on the top of the cylinder, and are believed to be the eyes of the robot.
+
+When a robot is created, it is imprinted with the consciousness of the person who activates the transmitter. Communication through the screen suggests that the robots possess all memories and personality of the originals. They are also imprinted with information necessary for the maintenance and basic repairs of SCP-1411-B. However, the robots only remain operational for thirty-five to forty-eight hours before breaking down, necessitating the creation of further units. At present, full repairs of SCP-1411-B appear to be impossible, possibly due to the damage to the structure housing the equipment.
+
+Due to familiarity with the phenomenon, and to reduce potential contamination by an anomaly, Agent Durani is responsible for the activation of the transmitter. This will be done in accordance with the Peaslee Protocols for transmission of consciousness.
+
+Communication is accomplished via writing. Remote units have been able to scavenge writing materials, using plastic-like sheets with devices that exude a thick, black paste, originally designed for applying lubrication to fine parts. They have also experimented with making pigments from local fungal vegetation and minerals.
+
+While the components of SCP-1411-A appear to be stable at present, the remote units have been questioned on repair procedures, should they become necessary at the local site. Much of this information has helped in identifying the purpose of components of SCP-1411-A.
+
+Recovery: SCP-1411-A was discovered by members of the Uzbek military after its anomalous properties began manifesting in region. GRU Division P was initially contacted, but a deterioration in relations between the Uzbekistan and Russian governments led to the ORIA being brought in instead. The ORIA then requested assistance from the Foundation as the anomalies began to intensify.
+
+During initial examination, Doctor Yi activated the transmitter. Over the course of several days and more activations, the robots were able to activate a display in the remote location, and then began communicating with the research team. This led to the discovery that the robots had the personalities of those who activated the device.
+
+Activations ceased for several days until the anomalies began to manifest again. Agent Durani volunteered to activate the device until a better solution could be found. At present, all efforts are being made to learn how to dismantle the device safely or reach the remote location to conduct manual repairs.
+
+To date, Agent Durani has been transmitted 217 times.
+
+Addendum: On 13 June, 2014, Agent Durani was injured by a fall near the local site. She was rushed to a nearby hospital. During her absence, ORIA Corporal Akbari volunteered to enact the Peaslee protocol in her absence. His first remote unit reported finding a number of writings and artworks left by previous units, and brought them to the display. See Document SCP-1411-24 for their contents. After being discharged from the hospital, Agent Durani showed mild distress on seeing the writings and artwork, but agreed to continue her duties.
+
++ Document SCP-1411-3
+
+- Close this document
+
+Report From Iteration 35
+
+The halls are empty. There are bones, but they are scattered, gnawed. By animals? From animals? Too small, I think, to have built this place, though the bones are strange. Thin strips woven, like plaits in a basket. Sometimes, we see the newly dead. Lengths of black bone sticking from under red and bruised-green flesh.
+
+Sometimes see the small ones scurry and slink, like rats or lizards. Six limbs. One in front, one in back, two to each side. Front and back for grasping, sides to move. Four-jaw mouths. Two to two, counter-chewing on scraps from other animals or the moss-trees.
+
+Bigger ones outside. I think bigger ones inside too, sometimes? I haven't seen any, but maybe they are out? Take notes for the next.
+
+In the trees, others. Smaller than the rats. Use the front and back legs to swing, the side legs to take food. They sing. Like birds, a little. Like frogs, perhaps. Tree erupts with chirps. Sometimes like bells, a thousand bells to ring. Not dull red, like the ones inside. Yellow, and another color I have not seen. New colors here. Is it this place, or these eyes? But no blue, no purple. Perhaps the bones are blue, and I cannot see it. Perhaps this entire world is blue, and I do not know.
+
+Report From Iteration 42
+
+The rooms are large. Or perhaps I am small. It is hard to say.
+
+No one has been here for a long time. I think that they left. There are vehicles elsewhere. A large chamber, with slots for them. Like pods with doors, with machines attached. For flying, I think. There are five there, two already taken apart, and slots for a hundred. I do not know why they left. I cannot tell if they left in a hurry, if someone has ransacked the rooms, or if it is only the work of time.
+
+They were taller than I am, I think. The doors stretch two times my height. Something my size would not have needed that. I cannot judge much else. I cannot tell what is a table, a chair, or even a bed, let alone how they might use it.
+
+Also larger than me is an animal sleeping in one of the rooms. It came past me as I made repairs. It is half again my height, and three to four times that in length. Two long legs. One in front, and one in the back. Awkward when walking, but I saw it run as it entered. Like a cheetah. Four other limbs on the sides are small. Claws or stings on them? Perhaps for defense. Perhaps for prey. Also for prey are the long, sharp teeth that stick out of the four-jawed mouth. Two upper jaws and two lower jaws. Almost like two mouths, with one set of lips. It ignored me. I am metal. Not food for it.
+
+Would it matter if I were? In the long run?
+
+Report from Iteration 56
+
+While I waited for sunrise, a large creature came near the buildings. I had heard a series of rumblings, and I had wondered what caused them. Then a leg as large as a house crashed down next to me. It was like a tree trunk, with thick pads that spread out like roots beneath it.
+
+I hid in a moss tree, so I could not see the head or much of the body. Only a sense of vastness.
+
+There were patches of fungus growth on the skin. There were animals on it too, long and thin with the legs short and thick, or thin and wasted. As though legs were not necessary for these riders anymore. They reminded me of worms.
+
+Some were feeding on the fungus patches. Other riders stuck their heads through the skin, feeding through holes slowly seeping yellow-green blood.
+
+Then the pads bunched up, the leg lifted, and it was gone.
+
+Report From Iteration 82
+
+The plants are strange. Plants. Fungus? Moss? On the walls, like mold and moss. Stalks are almost meaty in some places. In others, like brittle, bleeding wood.
+
+Outside, there is more. "Trees" that are like stalks that branch and merge and branch again, a dozen times, covered in the moss-like growth. It swells at dawn, then withers down again at night. Does it do so every day? I will never know.
+
+There are no flowers. But there are growths that are as beautiful. Reds and greens, and other new colors, which mark fruits the tree-singers eat. These alien squirrels stretch from one limb to another and take the fruit in their smaller arms. One of the tree-singers came down and sat on me for a time. I did not dare to move. It ate a fruit held in its front pair of arms, one leg on my arm, the other on my head. It sang to the trees, and was answered, and it jumped back up, so quickly I hardly knew it moved.
+
+I am going back. I have seen nothing else you do not know. I am going to listen to the singing.
+
++ Document SCP-1411-24
+
+- Close this document
+
+the sunset we see is more beautiful
+
+than any others
+
+because we see it only once
+
+the peace that blooms
+
+in the heart of despair
+
+is the most precious of all
+
+who weeps for
+
+the reflection that disappears
+
+as soon as its caster
+
+moves from the mirror?
+
+The past I remember is hers. My future is measured in hours. I am a candle burned away at both ends.
+
+Painting made by application of grease onto an opaque plastic sheet.
+
+Image made by oil suspended between two clear plastic sheets.
+
+Mosaic of small pieces of vinyl-like plastic applied to an opaque plastic sheet.
+
+Footnotes
+
+1. The most catastrophic models suggest much of Central Asia would be rendered uninhabitable.

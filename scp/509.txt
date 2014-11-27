@@ -1,0 +1,55 @@
+SCP-509-A, at time of containment
+
+Item #: SCP-509
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-509-A and SCP-509-B are both to be contained on-site, due to their immobility. Each is to be cordoned off, and any members of the public turned away. Outside of research and maintenance purposes, no humans or pigs, living or dead, are to be allowed into either structure. Personnel may safely enter and leave SCP-509-A and SCP-509-B within four minutes of activation and while inactive.
+
+After testing, any living humans recovered from SCP-509-B are to be trained as Level 0 personnel and assigned to minimal security positions. Personnel are cautioned that smoke inhalation from SCP-509-A poses a health hazard, and are advised to wear particulate respirators during and immediately after testing.
+
+Description: SCP-509 is the collective term for two structures with similar and possibly linked anomalies. SCP-509-A is a wooden sauna located in Gaston, Oregon. When activated remotely, it functions as normal for an electric stove sauna, producing steam by dripping water onto a heated surface. Local records show that SCP-509-A was built in 1987, and exhibited no anomalous properties until shortly before its containment in 1995.
+
+When used by a human, SCP-509-A produces clouds of smoke, instead of steam. Though the smoke is at this point nonanomalous, the means by which it is produced are unclear. After approximately six minutes of smoke production, SCP-509-A enters an active state, and tracking devices placed inside fail for the duration of its active period. Attempts to enter SCP-509-A no longer lead to its interior (See Experiment Log 509).
+
+After a period of 155 minutes, SCP-509-A returns to its inactive state, now filled with extremely thick smoke. All humans in SCP-509-A at activation are no longer present within the structure, but are replaced by an equal number of cured pig carcasses. These carcasses exhibit no anomalous properties.
+
+SCP-509-B is a brick smokehouse located near Hesdin in northern France exhibiting similar anomalous properties to SCP-509-A. SCP-509-B is believed to have been built circa 1750, though it too functioned normally until 1995.
+
+Whenever one or more cleaned but uncured pig carcasses are placed into SCP-509-B, it ceases to produce smoke and instead produces steam. Six minutes after the addition of the last pig carcass, the interior of SCP-509-B becomes inaccessible in a similar manner to SCP-509-A. After twelve minutes, SCP-509-B returns to its inactive state.
+
+Any pig carcasses present at time of activation are replaced by living humans. These humans speak fluent English, and claim to have just been at a sauna. Physical examination reveals no anomalous properties and dehydration consistent with approximately twenty minutes in a sauna. Under questioning, these individuals demonstrate functional knowledge within standard parameters, but have no recollection of life before recovery from SCP-509-B. No records have been found of persons recovered in this way.
+
+Experiment Log 509:
+
+Experiment 509-005:
+
+Date: 9/21/1995
+
+Head Researcher: Dr. Samuel Chou
+
+Procedure: D-35475 was instructed to enter SCP-509-A fifteen minutes after activation. Subject reported that he was unable to open the door, and so was given tools to remove the door from its hinges. With assistance from research staff, D-35475 was able to remove the door. Instead of its interior, SCP-509-A contained an empty white room substantially larger than the exterior of SCP-509-A. D-35475 was ordered to enter SCP-509-A. On doing so, he reported that it contained a large quantity of pigs. When questioned regarding the incongruity of this with external observations, D-35475 clarified that he did not in fact see, hear, smell, or feel any pigs, but rather was certain of their presence.
+
+Experiment 509-017:
+
+Date: 4/04/1996
+
+Head Researcher: Dr. Samuel Chou and Dr. Alexander Bejo
+
+Procedure: SCP-509-A and SCP-509-B were simultaneously activated. Thirty minutes after activation, D-35475 and D-31161 were instructed to enter SCP-509-A and SCP-509-B, respectively. As expected, both reported seeing the white chamber. However, D-35475 did not perceive it as containing pigs, and D-31161 did not perceive it as containing humans. Each reported seeing a distant blurred figure, which matched the movements of the other, though certain identification was impossible. Attempts for each to move towards the other figure proved similarly ineffective.
+
+Experiment 509-036:
+
+Date: 1/20/1999
+
+Head Researcher: Dr. Alexander Bejo
+
+Procedure: D-35574 entered SCP-509-A while active, but unusually did not perceive the presence of pigs. D-35574 reported, and camera footage confirmed, a distant blurred figure, similar to those observed during concurrent testing of SCP-509-A and SCP-509-B, despite the fact that no testing was scheduled for SCP-509-B that day. The planned testing was aborted. After recovery from SCP-509-A, a routine medical exam revealed D-35574 to be infected with a virulent strain of dengue fever not matching any known variety.
+
+Experiment 509-043:
+
+Date: 3/8/1999
+
+Head Researcher: Dr. Evan Green
+
+Procedure: A live pig was placed into SCP-509-A, which was then activated. Rather than steam or smoke, SCP-509-A began to fill with aerosolized decontamination fluid. After six minutes, the interior became inaccessible for 40 minutes. On deactivation, the pig had been replaced by a deceased male human in a hazmat suit. The corpse exhibited severe burns across and through its entire body. The torso had been opened and emptied of all organs save the liver and heart. No unusual occurrences were reported at SCP-509-B.

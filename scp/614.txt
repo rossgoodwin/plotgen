@@ -1,0 +1,49 @@
+The main page of SCP-614
+
+Item #: SCP-614
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-614 itself cannot be contained until knowledge is gained about the whereabouts of the server hosting SCP-614. Until then, knowledge of SCP-614 must be prevented from entering the public. Distributing the IP address of SCP-614 to unauthorized personnel is prohibited. Agents are to periodically take measures to make sure that access to SCP-614 is blocked at all internet service providers.
+
+Description: SCP-614 is a website located at the IP address 57.32.███.███. The IPv4 block 57.0.0.0/8 is owned by SITA and used for telecommunications in the air transport industry. It is not yet known if this has any significance. SITA records do not show that the IP address has been allocated or used for any purpose, and SITA claims to have no knowledge of any servers operating at the address.
+
+The homepage of SCP-614 is a plainly formatted search page. There is a single search box on the page, under which are three drop-down lists, a "Search" button, and an "I'm Feeling Lucky" button. The drop-down lists allow the user to specify a date, ranging from July 2nd, 2001, to August 25, 21██. The first date has been identified as the release date of the first "BitTorrent" client, while the significance of the last date is as of yet unknown. When a date is entered and the "Search" button is pressed, the website will load a list of search results, known as "torrents", from various peer to peer file sharing websites at the time of the given date. The "I'm Feeling Lucky" button will return a single random result from a random date. Experiments have shown that searches with the date set at a past date are perfectly accurate as to the results, while searches from a future date are around 95% accurate at returning the actual results that will appear on the given date (see Experiment Log 614-1a). Examination of the web page's source code shows that the website operates by searching a local database. Efforts to retrieve the database or access it directly have been unsuccessful.
+
+Addendum:
+
+Experiment Log 614-1a
+
+Researcher: Dr. Opus
+
+Date: 08/12/2009
+
+Description: Over the course of about 20 days, a series of tests were run to check the accuracy of SCP-614 regarding future torrents. A string was randomly generated and searched for in SCP-614, and a note was made if a previously generated dummy file was found. The next day a random number generator was used to decide if a torrent would be uploaded or not. If the torrent was to be uploaded, then the previously generated file was uploaded onto a popular torrent site with the unique string, generated the previous day, as a tag. This process was repeated 20 times. Out of the 20, SCP-614 predicted whether or not the file would be uploaded correctly 19 times out of 20, proving an accuracy rate of about 95%.
+
+Experiment Log 614-1b
+
+Date: 09/23/2009
+
+Researcher: Dr. Opus
+
+Description: An unreleased movie, titled [REDACTED], was searched for in SCP-614 and downloaded. Release was scheduled for approximately [REDACTED] months from the date of the search. Movie was viewed by research personnel. Upon release of [REDACTED], the movie was acquired legitimately and viewed again, side-by-side with the previously downloaded movie. While the plot remained the same, several changes were noted in the final movie, such as the removal of a secondary character and the addition of a scene. No changes were noted in the downloaded copy between the time it was originally downloaded and the time of the movie's release.
+
+Note: In addition, while downloading the movie, it was noted that the IP addresses of the peers (other users connected together to facilitate sharing of the file) were the same as the IP address of SCP-614.
+
+SCP-614 Download Logs:
+
+Researcher Name: Dr. Opus
+
+Date that site was accessed: 02/20/2011
+
+Date entered into site: ██/██/203█
+
+Search Terms: scp
+
+File(s) Downloaded: wikileaks-scp-203█████████.7z
+
+Description: The entire collection of Foundation documents, as uploaded by the "WikiLeaks" organization. Some anomalies and inconsistencies with current documents were found, such as the inclusion of previously unknown SCP-███, the listing of SCPs ███, ███, and ███ as decommissioned, and [DATA EXPUNGED] of SCP-███. Further research into these "leaked" files is being done, and further security precautions have been taken to try to prevent this security breach.
+
+Dr. Opus: Requesting that SCP-614's object class be upgraded to Euclid, in light of its internet connection, the potential for public exposure, the frequently-changing contents of the website, and the possibility of the appearance of more hazardous files.
+
+O5-█: Class change approved.

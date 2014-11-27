@@ -1,0 +1,27 @@
+Item #: SCP-1871
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1871 is stored in an upright storage container at Storage Site-08. Requests for testing are to be directed to Dr. Lutwidge.
+
+Description: SCP-1871 is a steel longsword with a cruciform hilt measuring 144cm in length, with a blade 115cm in length. The hilt is bound with strips of leather. The cross-guard of the sword is engraved, apparently by hand – one side is engraved with the words: “He left it dead, and with its head” while the other is engraved with the words “he went galumphing back” (both engravings are quotations from Lewis Carroll's nonsense poem Jabberwocky). The blade of SCP-1871 is worn and shows evidence of some use in combat – traces of a purple residue can be found in scratches on the blade and cross-guard.
+
+SCP-1871 possesses several anomalous physical properties. If placed on a flat surface, SCP-1871 will orient itself so that it stands on its pommel with the sword point facing directly upwards, although the sword is not weighted. Additionally, SCP-1871 will occasionally begin to behave as if it is submerged in a highly viscous liquid when it is not, and will maintain this anomalous state for several hours at a time before reverting to normal. Only SCP-1871 is affected by these anomalous properties.
+
+When held by a human being, SCP-1871 will induce a variety of anomalous sensory effects. In total, 70% of all subjects have experienced changes to their sense of equilibrioception, causing their sense of balance to shift so that they perceive gravity as acting parallel to the blade of the sword, with the direction of gravity being the direction which the pommel of the sword is pointing towards. For this reason SCP-1871 is highly impractical for use as a weapon, and likely to result in injury to those who attempt to use it in such a fashion. This effect ceases immediately upon SCP-1871 being removed from contact with the subject’s skin.
+
+20% of all subjects will not experience changes to their sense of balance, but will instead experience hallucinatory proprioceptive and somatosensory sensations. Such subjects will experience sensations corresponding to a drastically altered body plan of significantly larger size than a human being. This body plan appears to have at least seven limbs, three tail-like appendages, no head or analogous appendage, and is asymmetric. Subjects will not be able to perceive any of their own body's somatosensory or proprioceptive sensations during this time. Subjects will claim to experience the feeling of light rain on their body and wet leaves on the ground. The subjects’ other senses are not affected, and this can be highly disorientating and distressing for those affected. This effect does not cease when contact with SCP-1871 is broken, but can instead last for several hours after exposure.
+
+A further 10% of all subjects exposed to SCP-1871 will not undergo anomalous sensory disturbances upon contact with the object. However, upon swinging the object, the stroke will appear to occur instantaneously without SCP-1871 or the wielder’s arms moving through any of the intervening space. Following this, SCP-1871 will appear to be coated in a viscous purple liquid chemically identical to the residue found on the sword (for full chemical analysis see [DATA REDACTED]). The subject will experience feelings of elation following the swing, but will shortly thereafter begin to experience feelings of mild discomfort around SCP-1871 and will develop a mild aversion towards interacting with the object. Due to these anomalous properties, it is highly difficult, although possible, for such a subject to physically damage another object or being with SCP-1871.
+
+Addendum: Note recovered from [DATA EXPUNGED], considered of relevance to SCP-1871:
+
+Richard,
+
+I’d complain about your self-indulgence, but I suppose it did the job. I thought you’d want it back. You made it, after all.
+
+That, and I can’t help but think that the blade itself has been somehow affected. It feels as if the balance is all wrong now, and I feel a little sick when I look at it. It reminds of the whole sorry affair.
+
+Yours sincerely,
+
+J. Aston

@@ -1,0 +1,41 @@
+Item #: SCP-631
+
+Object Class: Keter
+
+Special Containment Procedures: Extermination procedures for SCP-631 are to remain in effect until further notice. Information regarding civilian disappearances in SCP-631's environment (urban and suburban areas of the United States) is to be monitored, with particular regards to the areas outlined in Document-631-T. Disappearances related or believed to be related to SCP-631 are to be filtered (standard media blackout procedures apply). Said incidents are to be investigated promptly, and should an instance of SCP-631 be identified, it must be terminated immediately. In the event that no SCP-631 are in Foundation custody, the instance must be captured instead. Agents involved in SCP-631 recovery or termination must be supplied with thermal imaging equipment.
+
+Mobile Task Forces Nu-11 and Omicron-17 are to be regularly deployed to the areas outlined in Document-631-T. The airspace of these areas is to be thoroughly examined via thermal imaging for SCP-631 instances.
+
+One instance of SCP-631 is to remain in containment for study and secured in a concrete cell. The instance must be restrained at all times and exposed to artificial sunlight. It is to remain pacified by Serum-631-Gamma and delivered sustenance via IV feeding. Should the organism's status deteriorate, one (1) D-Class personnel may be allotted for SCP-631's natural feeding and reproduction activity. All the produced offspring save for one are to be terminated and the remaining instance is to be contained as instructed above.
+
+Description: SCP-631 is a species of large predatory organism with a vaguely crustacean appearance. They possess a wing morphology consistent with the order Chiroptera and a reptilian tail terminating in a venomous stinger. This tail also contains the majority of the organism's reproductive systems. Mature instances of SCP-631 are roughly 135cm in length and 42kg in mass. SCP-631 appear to be gender-less.
+
+SCP-631 are rendered imperceptible in the visual spectrum when exposed to sunlight. The mechanism for this remains unidentified; however, testing has revealed that this response is triggered by heightened levels of cholicalciferol (Vitamin D3) in the the organism's bloodstream. SCP-631 remain detectable by their heat signature; because of this, it is known that they remain almost entirely airborne during daylight hours.
+
+SCP-631 do not sleep and remain active at night; furthermore, they demonstrate distress or panic in response to low light environments. This reaction worsens in intensity over time, and, it appears, can only be alleviated by immediate feeding or exposure to daylight. The organism will subsequently locate the nearest isolated sleeping human and impale the victim's throat with its stinger (thus preventing any vocal reaction). Following the injection of its paralytic venom, SCP-631 will remain in this position for 2-3 minutes while the victim expires. Then, it will quickly consume the victim's internal organs, replacing them with fertilized eggs produced via its tail. 10-15 minutes following the reproductive act, the original instance of SCP-631 will expire, its body putrefying rapidly.
+
+The eggs require approximately 1 hour to hatch, at which point the newborn SCP-631 will consume the remainder of the victim's body. After their post-birth feeding, the instances will retreat to secluded locations and begin their growth period, during which they are inactive. Immature SCP-631 develop at an extremely accelerated rate, reaching their adult size within roughly four hours. Due to these factors, the lifespan of SCP-631 can be as short as 24 hours.
+
+Observation of SCP-631's behavior have revealed that they do not eat during daylight, and will only prey upon sleeping and isolated human beings. In the absence of sustenance, SCP-631 are capable of surviving on average for thirty days.
+
+Addendum [631-001]: Investigation and Findings
+
+SCP-631 has been traced to a Dr. Alan Forsythe, and, subsequently, to a facility owned by said individual in ███ ████ ████, ██. The investigation of this site determined that it had been abandoned in 20██, and no personnel were discovered therein. What follows are excerpts of documents recovered from the site.
+
+Rudimentary biological systems are functional. Circulatory, respiratory, reproductive, gastrointestinal…still working on some hiccups with neurological and endocrine. The subjects have stopped dying from their own venom, which is always a plus. Through some pheromone manipulation, we've tailored them to instinctively hunt Homo sapiens successfully, but we've hit a very troublesome snag. We can get them to hunt the proper prey, but can't control how and when they do so. Obviously this is a problem because we can't have them flying around killing people in broad daylight. In addition, they're currently prone to attack all human beings, not just the ones we're supposed to take care of.
+
+Electrolocation is working miracles. We can direct them to subjects in a NREM or REM cerebral state, and some careful tinkering with pheromone activity also predisposes them toward isolated targets. This should keep them restricted to the right prey, with a roughly 4% margin of error (we can't be entirely sure who doesn't sleep outside at night). The project is nearly ready for field testing, but there is still one crucial flaw we need to address. [DATA EXPUNGED] solar camouflage is functioning correctly, but we're having significant difficulty controlling their predatory behavior. Due to necessary metabolic alterations, the adults have no urge to feed. In testing, certain methods can be used to force such a response, but that is impossible in the field.
+
+The following is handwritten and scrawled on a roughly cut piece of paper:
+
+"fight-or-flight will work, but make it stronger, [DATA EXPUNGED] produce acetaldehyde, so it should result in something like a severe hangover. With that pheromone manipulation, it should equate physical pain with a desire to procreate. The rest is easy."
+
+The following is also handwritten, but appears to be a formal letter:
+
+Your offer is accepted. The payment will be transferred upon completion of the project.
+
+Those miserable reprobates are going to destroy any chance of my reelection if the situation is not handled swiftly. I don't care what you have to do to take care of it, do it.
+
+████ ████████
+
+Fingerprints on the letter are consistent with Dr. Forsythe and ███████ "████" ████████.

@@ -1,0 +1,77 @@
+Item #: SCP-1062
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1062 is currently contained in Secure Document Storage Locker #82 at Sector-25. The document is only available for testing, which must be supervised by at least one level-2 researcher, under the authority of two level-3 personnel. D-Class utilised in testing are not to have their termination postponed except under the express command of an O5.
+
+Four non-anomalous copies of SCP-1062 are held in Safe Document Storage File #3562 and are freely available to those with Level-0 clearance or higher.
+
+Description: SCP-1062 is an issue of the weekly science magazine 'New Scientist'1 No2833 “Time – the most mysterious dimension of all”. (08/10/2011). Disregarding general wear, which would be expected from a magazine left in a public waiting room for ██ days, the only noticeable deviation from a standard copy issue is a pencilled note on the inside front cover: “11:48 – C”.
+
+The anomalous effect of SCP-1062 becomes apparent when either a feature article or the editorial is read. Upon reading an affected passage, the reader (henceforth referred to as the subject) undergoes a perceptual shift, which modifies a learned behaviour and all memories associated with said behaviour. Currently no methods have been devised capable of detecting the occurrence or nature of the perceptual shift. Therefore, the modification of the subject's behavioural pattern must be inferred from observation/interview after testing has been concluded.
+
+Due to the fact that the subject will be unaware that any alteration has occurred, they may become distressed upon its revelation. On the presentation of evidence contrary to the subject's memories, those aware of such ideas may reach the conclusion that they have been transported to an alternative dimension/reality as a preference to the fact that their experiences and recollection may be false. This is considered improbable as no ██████ particles or █████ radiation have been detected.
+
+The transformations caused by the document are unresponsive to all but the most potent grades of amnesiacs; however, normative behaviour can be relearned with no further difficulty than would otherwise be expected.
+
+The effect of SCP-1062 is not contagious and is not transmissible by reading aloud an article or by photocopying or otherwise reproducing the text. As of the date of this document no hypothesis on how the articles cause their effect has been proven.
+
++ Abridged Testing Log
+
+- Expunge Log
+
+Test No.: 8
+
+Date: ██/██/2011
+
+Subject: D-2298
+
+Article: Ultimate clocks
+
+Modification: Subject has no concept of cutlery.
+
+Test No.: 12
+
+Date: ██/██/2011
+
+Subject: D-2364
+
+Article: Editorial
+
+Modification: Subject associates the colour cyan with 'go'. States traffic light sequence is: red, amber, cyan.
+
+Test No.: 17
+
+Date: ██/██/2011
+
+Subject: D-2687
+
+Article: The truth about time travel
+
+Modification: Subject communicates in English with incorrect grammatical structure, new structure appears to follow Latin rules with logical consistency (i.e. conjugated verbs occur at end of sentence structure).
+
+Test No.: 23
+
+Date: ██/██/2011
+
+Subject: D-2745
+
+Article: Editorial
+
+Modification: Unknown.
+
+Notes: This is the first recorded instance where no alteration could be detected before subject disposal.
+
+Test No.: 26
+
+Date: ██/██/2011
+
+Subject: D-2753
+
+Article: Living without time
+
+Modification: Subject under the impression that each 24hr day counts down from 24 and that the directions clockwise and anti-clockwise are reversed.
+
+Footnotes
+
+1. ISSN: 0262 4079.

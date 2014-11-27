@@ -1,0 +1,217 @@
+SCP-1875-1 (drive shaft not visible)
+
+Item #: SCP-1875
+
+Object Class: Euclid
+
+Next Scheduled November-77 Exercise: In Progress Cancelled
+
++ [AUTHORIZED PERSONNEL ONLY]
+
+- [ACCESS GRANTED]
+
+Explanation of Recent Containment Procedure Changes
+
+We believe that computer networks at SCP-1875's holding site have been compromised. As a result, all electronic communications with the facility have been severed pending further notice.
+
+Overwatch HQ has declared a moratorium on future November-77 exercises until such time as we fully understand how 1875 transmits and receives wireless communication signals. Accordingly, I have amended these procedures with two clauses re: (1) exposure of SCP-1875 to wireless data networks and (2) treatment of individuals exposed to 1875-IMG-1AB.
+
+- O5-█
+
+Special Containment Procedures: SCP-1875 must never come within transmission range of any wireless data network. The machine's container must be enclosed by a Faraday cage, and it must have a fully mechanical locking mechanism.
+
+The holding site's full-time staff must include at least two network security experts, one armed security guard, and one child psychology specialist. When the machine is fully assembled and activated, the speed adjustment lever on SCP-1875-3 may not be set to "V" (maximum speed) without direct supervision by the site's Level-4 supervisor.
+
+Electronic devices with data storage capacity may not be introduced to the facility, except during Exercise 1875-November-77, and all individuals must be screened for such devices prior to entering the holding site.
+
+In the event of Exercise 1875-November-77, Overwatch HQ will permit one designated and clearly-marked laptop computer to be taken into SCP-1875's primary shielded container. Upon completion of November-77, facility staff must ensure this designated laptop is shredded in the facility's scrap-metal shredder. Research data may only be removed from the container in the form of a paper printout.
+
+Any evidence of 1875-IMG-1AB exposure must be reported immediately to Overwatch HQ.
+
+Description: SCP-1875 is a Victorian-era chess automaton1 consisting of four principal components, hereafter referred to as SCP-1875-1, SCP-1875-2, SCP-1875-3, and SCP-1875-4.
+
+SCP-1875-1
+
+A steel chessboard table, 72 x 72 x 64 cm, with a standard eight-by-eight grid of 64 checkered squares painted on its surface. Based on its composition and patina, research staff have identified the exact material as English crucible steel, likely cast between 182█ and 187█.
+
+On ██/██/199█, Mobile Task Force █████-█ retrieved SCP-1875 from an abandoned laboratory facility discovered beneath the former residence of ███████████ University Professor ██████ M███████ in ███████████shire, England.
+
+A drive shaft, designed to connect with SCP-1875-3, protrudes from one side of the system's otherwise-seamless enclosure. The table contains a sophisticated mechanical and biological system that controls a matrix of 64 electromagnets using an analytical engine composed of the combined brain tissue of the twin daughters (designated SCP-1875-1/a and -01/b) of Russian chess prodigy ██████ ███████████. Each square on the chessboard's surface sits above a single electromagnet, and each electromagnet can move one chess piece to one of eight neighboring squares.
+
+Researchers have developed several theories regarding the control mechanism's functional specifications, but the nature of its biological component and possible sentience remain unverified.
+
+SCP-1875-2
+
+A complete set of 32 chess pieces carved in the Oriental style from human bone. Each piece is affixed with a thin (0.31 cm) base pad of ferromagnetic iron. Samples of the bone used for the pieces have been matched genetically with tissue samples from SCP-1875-1/a and SCP-1875-1/b.
+
+Following the recovery of SCP-1875-1, an anonymous individual associated with Professor M███████'s estate submitted information to Foundation personnel regarding these chess pieces, leading to their subsequent discovery in the possession of █████ H██████ in New York City's Washington Square Park.
+
++ View Image
+
+- [ACCESS GRANTED]
+
+SCP-1875-3
+
+A stationary steam engine manufactured by Maudslay, Sons & Field (c. 1840), also acquired from the estate of Professor M███████ and designed to spin SCP-1875-1's drive shaft.
+
+The engine has been modified from factory stock to allow speed adjustments. It has five speed settings, labeled in roman numerals.
+
++ View Image
+
+- [ACCESS GRANTED]
+
+SCP-1875-4
+
+A suit of 18th-century Samurai armor in the Gusoku style. Arrived in storage case with SCP-1875-3, courtesy of Professor M███████'s estate. Historical evidence suggests that SCP-1875-4 would have been situated on a chair beside the chess table, serving as a performance prop. Staff have not observed any objectively unusual activities, however, several visiting researchers have reported prolonged feelings of anxiety after making eye contact with armor's face plate.
+
++ View Image
+
+- [ACCESS GRANTED]
+
+Addendum-01: Intake Report
+
++ [AUTHORIZED PERSONNEL ONLY]
+
+- [ACCESS GRANTED]
+
+SCP involved: 1875
+
+Personnel involved: ████ ███████, Intake Analyst
+
+Date: ██/██/199█
+
+Location: Site-██
+
+Description:
+
+SCP-1875 appears to be a fully mechanical chess-playing machine from the mid-19th century. Unlike other early "mechanical" chess devices (see: Standage, Tom. The Turk: The Life and Times of the Famous Eighteenth-Century Chess-Playing Machine), SCP-1875 does not appear to be designed to conceal a human operator within its case.
+
+SCP-1875 was built for the same purpose as contemporaneous devices—as a traveling curiosity, designed to be played by volunteers before a group of spectators, who would be charged an admission fee. Identities of several of the machine's previous owners are known (see: [DATA EXPUNGED]), but reliable information regarding its original designer(s) and fabricator(s) remains elusive.
+
+When questioned about the origin of SCP-1875, a representative from the estate of Professor M███████ directed us to a Russian newspaper clipping (see: [DATA EXPUNGED]) found among the Professor's belongings. The article concerns the disappearance of the twin 14-year-old daughters of Russian chess champion ██████ ███████████ on ██/██/18██. Subsequent historical records indicate that the girls were never found, and that Russian authorities failed to identify the person(s) responsible. However, we have yet to establish any connection between these events and SCP-1875.
+
+Evidence of the machine's public appearances, beginning in 18██ under the name The Samurai, have been found in Russian, British, and American newspaper archives (see: [DATA EXPUNGED]). The last recorded appearance of The Samurai occurred on April █, 1906, in San Francisco, California. Its owner at the time, sideshow proprietor Mr. H████ H██████, perished in the aftermath of the earthquake that struck San Francisco later that month. SCP-1875 was presumed to have been destroyed as well, until its recent discovery by the Foundation.
+
+After assembling the components of SCP-1875 at the Site-██ intake facility, we have begun testing the device for anomalous properties.
+
+Addendum-02: Incident 1875-55A
+
++ [AUTHORIZED PERSONNEL ONLY]
+
+- [ACCESS GRANTED]
+
+Source: 1875-P█ Inbox Archive (File 1875-███)
+
+From: 1875-P█ [DepResearchDirector]
+
+To: _DL_1875
+
+Subject: Re: Test 1875-55
+
+Date: 11/77/1999 11/07/1999, 16:58
+
+Upon complete assembly, confirmed that SCP-1875 chess hardware is fully operational. In this test, a modern chess computer with variable-strength software was used to measure SCP-1875's analytical intelligence.
+
+We positioned one member of Class D personnel (1875-D1) in containment with the machine, seated behind the chessboard's black side and facing 1875-4, which we positioned behind the white side. Five chess games were played, one on each of the steam engine's speed settings. Instructions were provided through wireless speakers from behind plexiglass shielding to move each piece.
+
+1875-D1 remained unharmed, and returned to Site-██ for next assignment.
+
+Here's a quick list of the chess strength at each setting, as estimated on Elo rating system—we're confident about the numbers measured on settings I through IV:
+
+(I) 800-1000 Elo
+
+(II) 1000-1200
+
+(III) 1200-2500
+
+(IV) 2500-████
+
+(V) 0-████ (?)
+
+Test on setting V remained the outlier, and so we performed additional tests with chess-proficient researchers (See: File 1875-V-██, Games █-███):
+
+Initially, SCP-1875 exceeded ████ Elo, a ██% increase from the maximum rating measured in our setting-IV tests.
+
+After game █, SCP-1875 chess play was marked by illogical moves.
+
+During game ██, illegal moves were observed, forcing us to abandon games-in-progress. This activity was seen more frequently as testing progressed.
+
+After game ██, erratic piece movement was observed. The speed at which SCP-1875 moved its pieces increased, and it began to violently ram pieces together on the board.
+
+Several chess pieces were chipped, and we decided to cease testing until we can determine a way to proceed without causing more damage.
+
+Staff currently suspects that setting V may be malfunctioning due to excess age and wear.
+
+5 minutes later, the following was sent to all members of the SCP-1875 email distribution list:
+
+From: 1875-P█ [ResearchAnalyst]
+
+To: _DL_1875
+
+Subject: Re: Fwd: Re: Test 1875-55
+
+Date: 11/77/1999 11/07/1999, 17:03
+
+Attachment: шахматы.███ [17.2 Mb]
+
+a1 b2 c3 d4 e5 f6 h7 g8
+
+[<1875-IMG-1AB> REDACTED]
+
+1875-IMG-1AB is an image file that appeared in the body of the suspicious email above. It has been removed from this report due to unknown memetic properties, which caused an adverse reaction in █ personnel who unintentionally viewed it while checking email on 11/07/1999 before others could be notified. The image appears to be a black and white photograph of two young girls, though first-hand accounts describe it as "distorted" or "stretched" in visually disturbing manner.
+
+шахматы.███ is an executable file, written to control subtle background movements in 1875-IMG-1AB. It is theorized to drive 1875-IMG-1AB's memetic effect, though researchers have yet to confirm this.
+
+The reaction to 1875-IMG-1AB exposure was characterized by symptoms:
+
+T+0 (exposure) – Mild anxiety
+
+T+15min – Headache, elevated body temperature
+
+T+2hr – Restlessness, insomnia, auditory hallucination reported (often heard as quiet child-like laughter)
+
+T+4hr – Visual hallucination reported, intense anxiety
+
+T+7hr – Subjects remain conscious, though increasingly unresponsive to external stimuli
+
+T+11hr – Brief period of lucidity—subject appears to recover & will demand immediate access to computer on which 1875-IMG-1AB was viewed
+
+T+12hr – Self-mutilation observed
+
+T+14hr – [REDACTED]
+
+Reminder: The first priority for responding to any 1875-IMG-1AB exposure scenario must be removing the exposed person(s) from their workstations immediately, and isolating them from all networked computers. – O5-█
+
+Addendum-03: Incident 1875-55B
+
++ [AUTHORIZED PERSONNEL ONLY]
+
+☐☐☐☐☐☐☐☐☐☐☐ ¡CORRUPTED! ¡CORRUPTED! ¡CORRUPTED! ¡CORRUPTED! ☐☐☐☐☐☐☐☐☐☐☐
+
+☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐
+
+☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒
+
+☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒
+
+☐☐☒▦⚉☐☒☐☐☐☐☐☒▦
+
+☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒
+
+☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐⚉⚉〿☐☐☐☒☒
+
+☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☒☐☐☐☐☐☒▦⚉☐☐☐☐☐☒
+
+Addendum-04: Exercise 1875-November-77
+
++ [AUTHORIZED PERSONNEL ONLY]
+
+☐☐☐☐☐☐☐☐☐☐☐ ¡CORRUPTED! ¡CORRUPTED! ¡CORRUPTED! ¡CORRUPTED! ☐☐☐☐☐☐☐☐☐☐☐
+
+шахматы [17.2 MB]
+
+UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING… UPLOADING…]
+
+Footnotes
+
+1. See: Scientific American Suppl. November 6, 1915. Torres and his remarkable automatic devices. Vol. 80, 2079, 296-298.

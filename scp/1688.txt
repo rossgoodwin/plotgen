@@ -1,0 +1,77 @@
+SCP-1688 in its native habitat
+
+Item #: SCP-1688
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1688's native habitat, designated Site 1688, has been declared a national wildlife reserve and is permanently closed to civilian traffic. Foundation personnel, in conjunction with the United States Forest Service, are to patrol the perimeter of Site 1688 to discourage unauthorized access. No personnel are to enter Site 1688 itself unless SCP-1688 is not present at the time. In the event it becomes necessary to enter Site 1688 while SCP-1688 is present, or to enter any other area SCP-1688 is occupying, personnel are to wear grounded, insulated full-body suits at all times.
+
+The Foundation is to monitor meteorological conditions in the area of SCP-1688 at all times for any indication of events favorable to movement. In the event that SCP-1688 leaves Site 1688, it is to be tracked in real time and any populated areas within its path are to be issued mandatory evacuation orders under the pretense of tornadoes or severe flooding. Meteorological data distributed in the media is to be censored to remove any information regarding SCP-1688's existence.
+
+Any persons surviving an encounter with SCP-1688 are to be debriefed and administered Class-A or Class-B amnesiacs as appropriate. All examples of SCP-1688-1 encountered shall be seized for study and archival.
+
+Description: SCP-1688 is an electrical storm which, under normal circumstances, remains stationary over an area of ██ sq km in the US state of [REDACTED]. The geological features of the region, along with local wind and atmospheric patterns, contribute to a state that encourages the permanent formation of storm clouds and subsequent electrical discharge. Monitoring stations installed during periods of inactivity indicate that cloud-to-surface lightning strikes within SCP-1688 occur approximately 280-300 times per hour; cloud-to-cloud lightning has been observed to occur as often as 3000 times per hour. These lightning strikes have been found to occur in regular patterns; analysis of these patterns, and of electrical activity within the storm clouds themselves, has presented evidence of rhythmic oscillations similar to electrical activity in the human brain.
+
+Whenever meteorological conditions in the regions near SCP-1688 are conducive to the formation of thunderstorms, SCP-1688 will migrate from its principal habitat in the direction of prevailing winds. No means of preventing SCP-1688 from moving out of its habitat has been discovered. While moving, SCP-1688 will deliberately move towards areas populated by humans; when multiple populated areas are within its range, it will move in the direction of the largest one. SCP-1688 will continue to follow the winds, moving in the direction of any populated regions along its route, until environmental conditions cause it to dissipate; upon so doing, SCP-1688 will form again in its original habitat within 24 hours.
+
+Whether it is moving or in its native habitat, cloud-to-surface lightning emanating from SCP-1688 will deliberately target any human beings within its range, regardless of the presence of any targets more suitable for lightning strikes. SCP-1688 will additionally target any inanimate objects that will conduct an electrical shock into a human. In cases where SCP-1688 has entered populated areas, this phenomenon has extended to targeting automobiles in motion and striking exposed metal on residences, leading to persons inside being electrocuted by electronic devices or kitchen fixtures. Mortality rates among persons struck by lightning emanating from SCP-1688 are slightly less than those of persons struck by ordinary lightning.
+
+An SCP-1688-1 sample acquired on ██/██/20██
+
+Any persons surviving being struck by SCP-1688 will, upon their recovery, feel a strong compulsion to begin constructing complex machinery out of any electrical or mechanical parts they can acquire. Samples of this machinery, designated SCP-1688-1, acquired to date have included a large assortment of devices of largely unknown purpose, composed of pieces salvaged from home computers and electronics, fixtures, automobiles, simple mechanical devices, and several pieces fashioned by the makers by melting down and sculpting metals and plastics. Affectees engaged in the construction of SCP-1688-1 will engage in this activity in all times when not sleeping or attending to physical needs, will spend all funds at their disposal on acquiring equipment to build with, and will collaborate with other affected individuals in combining pieces to make larger machines. Affected individuals will attempt to incorporate any electronic or mechanical equipment at their disposal into SCP-1688-1. Affected individuals otherwise remain in full possession of their mental faculties, and in interviews have been unable to explain how or why they are engaged in this behavior. The ultimate purpose of SCP-1688-1 is unknown. SCP-1688-1 objects of highly similar appearance to each other have been found in the wake of several containment breaches; it is currently speculated, based on the volume of material created by affectees and the recurrence of particular fragments, that the completed machine would weigh in excess of █████ kg.
+
+SCP-1688 came to the Foundation's attention in 19██, when an unusually high instance of lightning-related injuries in [REDACTED] was followed by reports of mass hysteria and several arrests of persons stealing electronic equipment for the purpose of incorporating it into SCP-1688-1. A subsequent survey of local folklore discovered rumors of anomalous lightning phenomena dating to the first arrival of Europeans in the ██th century, as well as Native American legends of a "thunder god" predating European contact.
+
++ Show Interview Log 1688-1
+
+- Hide Interview Log 1688-1
+
+Interview Log 1688-1:
+
+Interviewed: SCP-1688
+
+Interviewer: Dr. ██████
+
+Foreword: Following an encroachment by SCP-1688 into [REDACTED] on ██/██/20██, an SCP-1688-1 device was found including a lightning rod, several large batteries, a pair of stereo speakers, a microphone, and an electronic voice synthesizer. Dr. ██████ speculated that the device had been designed for the purpose of facilitating communication between the Foundation and SCP-1688, and ordered it to be installed within Site 1688 during the next period when SCP-1688 left the area. A microphone, camera, and speakers were installed on site as well. Upon the next formation of SCP-1688 within Site 1688, lightning struck the installed rod on the device, following which the device began to produce a voice which held the following conversation.
+
+<Begin Log>
+
+SCP-1688: Test. Test. Is this work functional?
+
+Dr. ██████: We are receiving you. My name is Dr. ██████ and I am a representative of the SCP Foundation. What is the name of the being I am addressing?
+
+SCP-1688: Are you a Builder?
+
+Dr. ██████: I don't understand your question.
+
+SCP-1688: Are you as those that build for me?
+
+Dr. ██████: I am of the same species as the person who constructed the device you are communicating through, if that is your question.
+
+SCP-1688: Send more Builders.
+
+Dr. ██████: I can't do that right now. My job is to learn about you. What is your name?
+
+SCP-1688: I am unconcerned with your questions. Send more Builders.
+
+Dr. ██████: Why?
+
+SCP-1688: I need to teach more Builders. They must build. The work is incomplete.
+
+Dr. ██████: Are you aware that many of the people you come in contact with have died as a result?
+
+SCP-1688: None willing to build shall die.
+
+Dr. ██████: I see. What is this "work" you refer to?
+
+SCP-1688: (Unintelligible)
+
+Dr. ██████: Could you repeat that last part?
+
+SCP-1688: The means of my escape.
+
+Dr. ██████: Are you imprisoned?
+
+SCP-1688: I am lost. Send more Builders.
+
+<End Log>

@@ -1,0 +1,541 @@
+COVER PAGE
+
+ORIGINAL
+
+INCIDENT-466-080214
+
+REVISION
+
+Memorandum-466-72
+
+SPECIAL CONTAINMENT PROCEDURES REVISION REPORT
+
+DRAFT PROPOSAL
+
+The purpose of this report/proposal is to review the original procedures regarding the entity in question and decide if there is a need for more applicable containment solutions. Also attached is the recent incident regarding the need of this review, a revised copy of the procedures to supersede the original, the original procedures, and any other documentation to support this change in protocol. Below are the electronic signatures of staff/committees that are required for these revisions to be enacted and put into practice:
+
+Research Facility-45 Site Superintendent
+
+PENDING*
+
+Research Facility-45 Medical Director
+
+APPROVED
+
+Research Facility-45 Containment Director
+
+APPROVED
+
+Research Facility-45 Security Director
+
+APPROVED
+
+Research Facility-45 Senior Physician
+
+APPROVED
+
+Research Facility-45 Senior Containment Engineer
+
+APPROVED
+
+Ethics Committee Review Board
+
+CONDITIONAL**
+
+*Awaiting further data on SCP-466 threat level. Revised special containment procedures may be enacted in the mean time due to time constraints.
+
+**See Memorandum-466-72 for additional details.
+
+NOTE: The following document is no longer applicable and will hence be stricken from the main database. It will be archived and referenced for record keeping purposes only. Some details may be redacted from this document as the new protocols dictate.
+
+Item #: SCP-466
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-466 is locked in a 5 meter by 5 meter by 5 meter room. SCP-466 is to be fed five times a day through a one-way slot in the steel door, with low-iron meals of mass below 0.1 kg. The key to the door is accessible only to Level 3 or higher personnel.
+
+Description: It is unknown if SCP-466 is a separate pathogen affecting a human host, or the human host itself. Current theory suggests the former. For clarity, the host individual will be referred to as SCP-466-2 and the possible infective agent as SCP-466-1.
+
+SCP-466-2 is a [REDACTED]. SCP-466-2 exhibits anomalous vascular hypertrophy, particularly along the skin. This includes very broad arteries and veins not part of normal human anatomy. The continually-increasing mass of blood vessels is gradually displacing and eroding SCP-466-2's muscles and organs. SCP-466-2 is estimated to have approximately █ liters of blood.
+
+The excess vessels will sometimes rearrange under the skin, which is extremely painful. If the host or hypothesized pathogen is threatened, the excess vessels will physically tear the skin and extend up to █ meters outward. These defense vessels will constrict threats until neutralized. If cut, they hemorrhage as expected, and will be replaced by more vessels from deeper inside SCP-466-2's body.
+
+As demonstrated by the rearrangements, SCP-466-1 displays some degree of control over the mobile vessels when inside the body. This control is utilized when SCP-466-2 consumes food: if SCP-466-2 does not consume the entire meal, SCP-466-1 will use the collective strength of the mobile vessels and force-feed SCP-466-2. This is advantageous for SCP-466-1; it appears that nutrients go primarily to expansion of the mobile vessels.
+
+INCIDENT REPORT FORM
+
+Incident Date: 08/02/2014
+
+Incident Time: 13:25
+
+Site/Location: Research Facility-45 Secured Medical Unit
+
+Unique Identifier (Auto-fill): 466-080214
+
+Civilians Involved (Y/N): N
+
+Number of Witnesses: 0
+
+Injuries/Deaths: 0
+
+Amnestics Used: N/A
+
+Personnel Involved (Y/N): Y
+
+Number of Personnel Involved: 6
+
+Injuries/Deaths: 2 minor injuries, 1 major injury, 3 deaths
+
+SCP Involved (Y/N): Y
+
+Designation: SCP-466
+
+Containment Breached (Y/N): N
+
+Details: SCP-466 and patient had begun to show abnormal behavior as extremities, excluding the head, began suffering from avascular necrosis over a 48 hour period. Afterwards, SCP-466 was observed to go into a state of acute cardiac arrest. Level-3 authorization was granted for a rapid response medical team to assist in the revival of the patient while observing the standard protocols of extrinsic biological hazards. SCP-466 and patient were pronounced dead after thirty minutes of continuous resuscitation. SCP-466 and patient were left in the containment cell for another 48 hours of observation with no activity reported.
+
+Level-3 authorization was then given to perform an autopsy on the deceased body. Upon opening the chest cavity, it was observed by medical staff that all arteries and veins have retracted from the external limbs and were clustered around the heart. Though the body was in a normal state of expected decay, the cardiovascular system seemed to show no signs of decomposition. During the autopsy, SCP-466 and the patient became active again and killed the two closest medical staff, Doctors Girard and Sharma.
+
+SCP-466 was observed appropriating the circulatory systems from the deceased into itself while also attempting to sever the head of the patient with a surgical bone saw. The patient's head was seen [REDACTED], which prompted Dr. Briggs to attempt a rescue of the patient from SCP-466. Dr. Briggs was subsequently killed, however the distraction was timely enough to allow security teams to arrive on scene before the decapitation could take place. SCP-466 was eventually contained and the patient secured. Three medical and security staff were treated with minor injuries, two fractures and three lacerations. One security officer had to be surgically treated for a punctured lung and heart.
+
+Action Items: Review procedures regarding SCP-466. Current procedures may not apply.
+
+Interview-466-12 [LEVEL-3 ACCESS REQUIRED]
+
+[ACCESS GRANTED]
+
+POST-INCIDENT INTERVIEWINT-466-12
+
+Interview Date: 08/04/2014
+
+Interview Time: 06:48
+
+Site/Location: Research Facility-45
+
+Interviewer/s: Internal Investigator Rubén Foster
+
+Interviewee/s: Medical Director Dr. Andrea Itzkowitz
+
+Agent Foster: Alright… we are recording now. Have a seat doctor.
+
+Dr. Itzkowitz: How long will this take?
+
+Agent Foster: Depends. Is this your first time in one of these?
+
+Dr. Itzkowitz: No. There was one other time.
+
+Agent Foster: Well, let's get started. (papers shuffling) You were… according to the case file… the one who authorized the autopsy, correct?
+
+Dr. Itzkowitz: I did.
+
+Agent Foster: Would you like to elaborate a bit more doctor… for the record.
+
+Dr. Itzkowitz: Right. Well we were certain that it died and we waited for two days as per the protocols for expired anomalous entities in containment. I ordered the autopsy to be performed before the body decayed any further.
+
+Agent Foster: Did you have the body scanned or order an X-ray beforehand?
+
+Dr. Itzkowitz: We did. I said we were doing it by the book.
+
+Agent Foster: You felt that was enough?
+
+Dr. Itzkowitz: …
+
+Agent Foster: Doctor? Can you please answer?
+
+Dr. Itzkowitz: …I didn't see a need for further counter-measures. We were dealing with time constraints to perform the autopsy before the incineration deadline. So no.
+
+Agent Foster: (scribbling) Then what happened?
+
+Dr. Itzkowitz: It came back to life…
+
+Agent Foster: You were present?
+
+Dr. Itzkowitz: I was in the observation booth. I was the one that called security.
+
+Agent Foster: Was there a reason why security wasn't on standby?
+
+Dr. Itzkowitz: I told Doctor Sharma to take care of that. Apparently he didn't.
+
+Agent Foster: Yes, now Sharma is dead.
+
+Dr. Itzkowitz: Yes.
+
+Agent Foster: (scribbling) Tell me about Doctor Briggs during this incident. He was the only person present in the room while security was being assembled, correct?
+
+Dr. Itzkowitz: Yes.
+
+Agent Foster: …Continue.
+
+Dr. Itzkowitz: Sorry. I think he was trying to save the patient. The body was in fairly poor condition and was falling apart while the thing was fighting back.
+
+Agent Foster: The patient was also alive?
+
+Dr. Itzkowitz: Yes. Though it is just a head now connected to that thing.
+
+Agent Foster: So what prompted the Doctor to attempt a rescue?
+
+Dr. Itzkowitz: I'm pretty sure there were words exchanged between them since the lungs were still attached. I couldn't make out the voice behind the glass.
+
+Agent Foster: Any idea about what was said?
+
+Dr. Itzkowitz: No. But apparently it was enough to convince Briggs to risk his own life and try to stop the thing from sawing the patient off its… body, I guess.
+
+Agent Foster: I see. (scribbling) Then what happened?
+
+Dr. Itzkowitz: Briggs struggled with it for a few seconds. Then it… well… I'm not really sure what you call it. Rooted into him I guess?
+
+Agent Foster: And that's when security came in?
+
+Dr. Itzkowitz: Right, then I ran after the glass was shot out.
+
+Agent Foster: Where is the entity and patient now?
+
+Dr. Itzkowitz: Heavily sedated in temporary containment until we figure out what to do next. The head still seems active however.
+
+Agent Foster: That is… rather interesting. (scribbling) Is there anything else? Any other details you want on record?
+
+Dr. Itzkowitz: Briggs was a good man. I regret his death. And I'm also going to ensure that his death was not in vain.
+
+Agent Foster: Sentiments noted. Thank you, Doctor.
+
+Dr. Itzkowitz: So what happens now?
+
+Agent Foster: I file this case report to my superiors. If there is a follow-up, you will be notified.
+
+Dr. Itzkowitz: Very, well. We're done then?
+
+Agent Foster: Yes.
+
+(Dr. Itzkowitz leaves the room and closes the door.)
+
+Agent Foster: For the record, I don't believe there was negligence involved here… the procedures were unfortunately outdated. I'll see about interviewing the patient if possible.
+
+(click)
+
+Interview-466-14 [LEVEL-3 ACCESS REQUIRED]
+
+[ACCESS GRANTED]
+
+POST-INCIDENT INTERVIEWINT-466-14
+
+Interview Date: 08/04/2014
+
+Interview Time: 14:48
+
+Site/Location: Research Facility-45
+
+Interviewer/s: Internal Investigator Rubén Foster
+
+Interviewee/s: Patient related to SCP-466, formerly known as SCP-466-2
+
+Agent Foster: Alright… I have the recorder on. Open the cell please.
+
+Security Guard: Be careful in there, sir. I'll escort you in.
+
+Agent Foster: Alright, than- (ahem) Well… patient is indeed just a head. The rest of it seems to be sedated. Not much movement.
+
+Security Guard: Man, that's fucked up.
+
+Agent Foster: Quiet please. Um… excuse me?
+
+(patient looks at Agent Foster)
+
+Agent Foster: Can you hear me?
+
+Patient: …
+
+Agent Foster: Right… no lungs. Blink once for yes, twice for no. Alright?
+
+Patient: (blink)
+
+Agent Foster: Good. Um… is your name [REDACTED] and you are ██ years old?
+
+Patient: (blink)
+
+Security Guard: (indecipherable comment)
+
+Agent Foster: Are you in control of the… that. (Agent Foster motions to SCP-466 laying on the floor)
+
+Patient: (blink, blink)
+
+Agent Foster: Do you know why it wants to separate from you?
+
+Patient: (there is a long pause followed by a single blink)
+
+Agent Foster: Do you want to be separated?
+
+Patient: (rapid blinking)
+
+(security guard raises weapon at patient)
+
+Agent Foster: Ok, ok, calm down. Ease off the trigger. No harm is done.
+
+Patient: (expression changes to being frightened)
+
+Agent Foster: I take it separation should not happen?
+
+Patient: (blink, blink)
+
+Agent Foster: The heart. You think it's evil, perhaps?
+
+Patient: (blink)
+
+Agent Foster: But while it's connected to you still, it can't… what exactly?
+
+Patient: (patient mouths the word 'become')
+
+Security Guard: Begone?
+
+Agent Foster: No, become. Become what?
+
+Patient: (expression becomes panicked)
+
+Agent Foster: Whoa, hey now. What did I say?
+
+Security Guard: Shit! It's starting to move!
+
+(SCP-466 begins to lift itself up, dragging the patient's head across the floor and slowly stumbling towards both men)
+
+Security Guard: Get out of the way! (gunfire) Move!
+
+Agent Foster: Stop shooting, get out of the cell!
+
+(alarm is triggered as both men leave and lock the cell door)
+
+Medical Technician: Hurry, get the IV back in before it wakes up! (running footsteps) Fuck, we can't keep increasing dosage like this, it's resisting it.
+
+Agent Foster: (panting) End of the interview.
+
+(click)
+
+NOTE: The following document has been authorized for immediate use. Additional details and/or procedures may follow before finalization is completed.
+
+Item #: SCP-466
+
+Object Class: Euclid (pending possible reclassification after formal review)
+
+Special Containment Procedures: SCP-466 is to be sealed in Containment Cell-73 in E-Block at Research Facility-45. E-Block is to remain separated from the main installation for the entirety of SCP-466's captivity. Containment Cell-73 is to have a 30cm thick acrylic observational window installed and the door welded shut from the outside.
+
+SCP-466's primary containment component or its "head" and the primary heart connected to the respective brain stem, are to be locked together in a perforated stainless steel lock box at all times.1 The "head" is to be considered a vital component of containment and efforts must be made to ensure that SCP-466 does not put it in jeopardy and it remains connected at all times.
+
+Four liters of a nutrient rich water solution is to be sprayed into the containment tank every ten hours. The nutrient solution will be adjusted and administered by medical staff. An oxygen-rich atmosphere (25% O2) will be maintained in the cell at all times. In the event of a containment breach, SCP-466 is to be suppressed with gas based flame weaponry.
+
+Description: SCP-466 is an amorphous and animate configuration of four human cardiovascular systems. The primary heart of SCP-466 is still attached to the original brain stem and thus still preserves its "head". The other three were absorbed during a separate incident post-acquisition and serve no purpose other than additional extensions of the whole. All four hearts of SCP-466 have increased in size by 275% and are observed to beat in synchronization at 130BPM. SCP-466 is considered to be sentient as it responds to stimuli and pain in appropriate manners.
+
+The veins and arteries of SCP-466 are able to move as their smooth muscle tissue (the tissue between the intima and adventitia) has developed into tissue resembling skeletal muscle. The ends of each appendage is also tipped with a sharp, calcified barb. SCP-466 is observed to be dexterous and extremely mobile, and can even remain on vertical surfaces or ceilings for long periods of time.
+
+SCP-466 is capable of producing erythrocytes, monocytes and thrombocytes. It is unknown where the hematopoetic progenitor cells are located as no bone marrow has been discovered. SCP-466 is not capable of angiogenesis and is dependent on appropriating other human cardiovascular systems in order to increase its mass. SCP-466 can, however, heal itself at an accelerated rate. SCP-466 is able to oxygenate without the use of lungs. It is theorized to extract it from the surrounding air. This is the same for the absorption of nutrients as well.
+
+The primary heart still remains connected to the original brain stem, though it has attempted several times to physically separate itself from it, including hitting it against hard surfaces or attempting to rip it off. The behavior of this is not fully understood, but it is theorized that separating the "head" from SCP-466 would trigger another step in its ongoing development. SCP-466 has remained in an agitated state since the development of the perforated lock box placed around its "head" and primary heart. Small amounts of water have been observed to drain from the perforated lock box, though this is merely from condensation and should be ignored.
+
+Analysis Results of SCP-466 Blood Sample
+
+[ACCESS GRANTED]
+
+Patient: SCP-466
+
+Species: Human (Comparability)
+
+Date: 08-Aug-2014 12:01
+
+Sample ID: 466-Kappa-90
+
+TEST
+
+RESULTS
+
+UNIT
+
+FLAG
+
+HEALTHY RANGE
+
+CLINICAL RANGE
+
+BUN
+
+7
+
+mg/dL
+
+█
+
+13 - 18
+
+5 - 26
+
+Creatine
+
+0.5
+
+mg/dL
+
+█
+
+-
+
+0.5 - 1.1
+
+TOT Protein
+
+11.1
+
+g/dL
+
+█
+
+7.11 - 7.61
+
+6.00 - 8.50
+
+Albumin
+
+4.9
+
+g/dL
+
+█
+
+4.1 - 4.5
+
+3.6 - 4.8
+
+Globulin
+
+2.8
+
+g/dL
+
+█
+
+2.81 - 3.51
+
+1.50 - 4.50
+
+TOT Bilirubin
+
+0.8
+
+mg/dL
+
+█
+
+0.3 - 0.9
+
+0.0 - 1.2
+
+SGOT (AST)
+
+26
+
+IU/L
+
+█
+
+15 - 26
+
+6 - 40
+
+SGPT (ALT)
+
+25
+
+IU/L
+
+█
+
+15 - 26
+
+6 - 40
+
+Sodium, Serum
+
+139
+
+mmol/L
+
+█
+
+-
+
+135 - 145
+
+Potassium, Serum
+
+4.1
+
+mmol/L
+
+█
+
+-
+
+3.5 - 5.2
+
+Chloride, Serum
+
+104
+
+mmol/L
+
+█
+
+-
+
+97 - 108
+
+Calcium, Serum
+
+12.2
+
+mmol/L
+
+█
+
+-
+
+8.5 - 10.6
+
+MemorandumM-466-72
+
+Sent: 08/12/2014 21:36
+
+To: Dr. Frederick Carlyle, Superintendent of Research Facility-45
+
+From: Ethics Committee Review Board Secretary
+
+In lieu of the situation regarding SCP-466, whereas the current containment procedures no longer apply to its current condition and thereby necessitate the review and development of more applicable procedures and containment protocols, the following draft has been proposed. However, the patient associated with SCP-466 does invoke the authority of the Ethics Committee as dealing with the well being and moral decision of what is to be done in regards to both patient and entity.
+
+It is unfortunate that there is no ideal solution in separating both and that there is no sustainable solution in both preserving or improving the quality of life of the patient without putting a substantial amount of risk on additional staff. It is not an easy decision and would not be the first nor last time such a ruling is made. Thus, after careful deliberation, this committee is tasked with making those difficult decisions on behalf of the Foundation and has decided the following measures:
+
+1. That the patient be considered as lost collateral. Mental health considerations need not apply.
+
+2. That this lost collateral is considered a deterrent to SCP-466's development and hence be considered a primary component in aiding containment.
+
+3. That said primary component be maintained and kept in a reasonable functioning state.
+
+4. That all identity and details regarding the primary component be expunged from all records.
+
+5. That staff who are tasked with handling SCP-466 be screened for specific moral objections that may conflict with containment protocols.
+
+With these measures in place, the ethics committee review board grants a conditional approval to the following procedures and that they may be enacted immediately as such. If you have further questions or concerns, please contact us.
+
+Sincerely,
+
+Ethics Committee Review Board Secretary
+
+//<![CDATA[
+
+OZONE.dom.onDomReady(function(){
+
+        var tabView8bec0cf89fb9daa9ef1b6a087978518f = new YAHOO.widget.TabView('wiki-tabview-8bec0cf89fb9daa9ef1b6a087978518f');
+
+                }, "dummy-ondomready-block");
+
+        
+
+//]]>
+
+Footnotes
+
+1. The purpose of placing them together in a lock box is to ensure that collateral is held against SCP-466 as to persuade it to not damage the "head".

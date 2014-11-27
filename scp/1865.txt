@@ -1,0 +1,29 @@
+The diving suit containing SCP-1865.
+
+Item #: SCP-1865
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1865 is to be contained inside of a humanoid containment unit that has been immersed in seawater. SCP-1865 is to be positioned at the center of this room, with weights preventing it from achieving an ambulatory state. Entry to SCP-1865's containment cell is to be restricted via an airlock. If SCP-1865 must be removed from its cell, it is to be transported with a steel 1x0.5 meter transport container.
+
+Description: SCP-1865 is an entity residing in a deep sea diving suit, approximately 1.2 meters tall and weighing 150 kilograms. What is assumed to be a mouth similar in appearance to that of a cephalopod is visible within the porthole; this structure opens and closes intermittently. The suit SCP-1865 resides in appears to have been manufactured by an unknown party at some point between 1955 and 1965.
+
+The suit is airtight and filled with seawater, containing traces of vegetation and watercraft debris. When punctured, the suit is sealed from the inside with a fleshy substance assumed to be an extension of SCP-1865. This sealing process takes approximately five seconds during most testing attempts, and is present throughout the suit. It is possible to remove portions of SCP-1865 from the suit, although contact with open air appears to damage the object and cause the exposed sections of SCP-1865 to immediately calcify.
+
+SCP-1865 achieves mobility via a series of pipes and valves that have been integrated into the suit. This system will take in and release seawater in a way that causes SCP-1865 to move at a slow gait when underwater. Inspection of the pipes' interior via fiber optic cameras has shown that the pipes leading from the valves are translucent and appear to be composed of organic material. Inspection is limited due to damage caused to the cable during observation.
+
+The suit is divided into 7 sections, including the abdomen, head, arms, hands, feet, chest, and legs. These dividers in these section act as main points for valves, and are composed of a chitinous material. Detailed descriptions of these areas and their contents are listed below.
+
+Universal contents: All sections of the inside walls of SCP-1865 are covered in a thin layer of organic material, this surface is dotted with nodules containing multiple aquatic biological entities referred to as SCP-1865-2. Instances of SCP-1865-2 are lodged within breached suit sections. All instances of SCP-1865 are deep ocean organisms.
+
+Chest: Approximately 80 semisolid, translucent spherical structures suspended in the center containing instances of SCP-1865-2. Structures appear to vary slightly in color, with smaller, less saturated structures containing additional instances of SCP-1865-2.
+
+Arms/Legs: Contains the majority of the bladder like structures used for maintaining and releasing pressure within different sections of the suit. The nature of these structures appears to be mechanical, as different flagella located on these nodules can be seen being manipulated by instances of SCP-1865-2 to cause changes in pressure.
+
+Abdomen: An unknown quantity of SCP-1865-2 organisms superficially resembling Macruronus novaezelandiae. Any foreign matter introduced to SCP-1865 or waste created by SCP-1865-2 entities will be sent here. The SCP-1865-2 organisms excrete an acidic liquid which breaks the matter down into base proteins.
+
+Hands/Feet: Contains extremely sensitive SCP-1865-2 organisms. These organisms react to changes in light and any pressure applied to SCP-1865. They are also able to cause SCP-1865-2's hands to retract into fists, exerting 350 psi of pressure on anything it can grasp.
+
+Helmet: Contains SCP-1865, an entity resembling a cephalopod. Occasional retractions by SCP-1865 has allowed the interior of the helmet to be observed, the helmet contains small amounts of gold leaf, a large amount of nutritional matter, and several instances of SCP-1865-2 assisting SCP-1865 with its biological functions.
+
+SCP-1865 was recovered from the southern beach of Tanapag, Saipan in 1979, when it came ashore near the village of [REDACTED]. When villagers attempted to approach SCP-1865, it began emitting low-pitch vocalizations, and attempted to grip the hand of the village leader. SCP-1865 crushed the leader's hand, causing the villagers to take it captive and contact local authorities. Foundation personnel embedded in the Saipan government were able to confirm SCP-1865's anomalous properties when it came into the governments possession. Villagers and Saipan government officials were issued Class-C amnesiacs. SCP-1865 was contained on 4/16/1979, and classified as Safe.

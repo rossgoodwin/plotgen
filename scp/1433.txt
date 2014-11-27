@@ -1,0 +1,33 @@
+SCP-1433 in storage
+
+Item #: SCP-1433
+
+Object Class: Safe
+
+Special Containment Procedures: A single copy of SCP-1433 is to be kept in a fireproof safe in the archive room at Site 72. Unsecured devices for the use of playing back audio cassettes are not to be allowed on site. No personnel are to listen to SCP-1433 except for D-class assigned for testing purposes; all such tests shall be conducted in a fully soundproofed chamber.
+
+The Foundation is to monitor physical and digital means of audio distribution for any evidence of recordings displaying similar properties to SCP-1433. Any other recordings demonstrating such effects are to be confiscated and destroyed, and any persons affected by them are to be terminated or conscripted as D-class.
+
+Description: SCP-1433 is a recording of an unknown artist performing 4'33", an avant-garde musical piece originally composed in 1952 by musician John Cage. The sole known copy of SCP-1433 is currently contained on an audio cassette of the type widely manufactured in the 1980s. The recording is present on both sides of the cassette. Once placed into any device capable of playing back sound from a cassette and playback is started, the recording will play in its entirety at a constant volume of 30 dB, regardless of the original volume setting of the device. Attempts to stop playback of SCP-1433 by stopping or pausing the player, or by removing its power source, have been unsuccessful; only disconnecting the playback device from the audio output has proven successful. All copies made of SCP-1433 display the same anomalous properties as the cassette recording, regardless of the storage medium used.
+
+As with the original version of 4'33'', the recording begins with the sound of the performer seating his or herself at a piano bench and closing the lid. After 33 seconds, which the performer times on a stopwatch, the lid is opened and then closed again. This motion is repeated after another 2 minutes and 40 seconds. 1 minute and 20 seconds after that, the performer opens the lid a final time, stands up, and walks away. All other sounds on the recording consist of the performer breathing and turning through pages of sheet music, and of incidental sounds presumably made by an audience.
+
+EEG readouts of persons listening to SCP-1433 demonstrate evidence of atypical electrical activity commonly associated with anterograde amnesia and musical agnosia. Persons listening to SCP-1433 report hearing a low male voice speak briefly after the second opening and closing of the piano lid. Acoustic analysis of SCP-1433 has failed to identify this voice on the original recording. Descriptions of what the voice is saying are inconsistent and few exposed have reported hearing the same statement. All persons exposed to SCP-1433 report that the voice is male and speaks a single sentence, in English, typically of a nihilist sentiment, and typically referencing 20th-21st century English-language popular music. Statements reported to have been made by the voice include:
+
+"The words of the prophets are written on the subway walls."
+
+"I don't believe in the Beatles."
+
+"It's better to burn out than to fade away."
+
+"There is no dark side of the moon, really; matter of fact, it's all dark."
+
+"Not a word was spoken, the church bells all were broken."
+
+"It's all been done, it's all been done, it's all been done before."
+
+"Are we cool yet?"
+
+Following exposure to SCP-1433, subjects display symptoms of a psychological impairment similar to acute amusia; the individual is completely unable to recognize, hear, or sense any form of rhythmic music, whether sung, vocalized, performed live on physical or synthesized instruments, or played back on a recording. Affectees have stated a complete inability to hear any music being played or performed in their presence, even when an instrument is being played in their field of vision and they state an awareness that it should be audible. EEG readouts on persons so affected show an absence of brain activity indicating the sensation of auditory activity. This state is permanent and has shown no indications of being affected by amnesiacs. Aside from chronic psychological ailments induced by the inability to experience music, no other long-term effects of exposure to SCP-1433 have been noted.
+
+Addendum: On ██/██/20██, a test was conducted in which D-85702, a Caucasian male 67 years of age, was exposed to SCP-1433. In following tests, D-85702 reported that he was still able to hear music of the hip-hop genre when played back to him. In subsequent interviews, D-85702 expressed a strong distaste for hip-hop and rap music, stating that it was "just a bunch of damn noise" and "doesn't even count as real music", and that he was unable to hear elements of such songs that had been "sampled" from preexisting material of other genres. It is currently hypothesized that the amusia induced by exposure to SCP-1433 is related to the affectee's personal understanding of what constitutes "music". Further testing is deemed necessary to confirm this hypothesis.

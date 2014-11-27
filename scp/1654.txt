@@ -1,0 +1,77 @@
+The front face of SCP-1654, taken on ██/██/████.
+
+Item #: SCP-1654
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1654 is stored, encased in a block of concrete neon ice cooled to 23K, in a gyroscopically-stabilized lead-lined storage tank on Storage Area 1654 in ███████ , England. The Area has been fitted with a suite of accelerometers, seismometers and magnetic anomaly detectors to gauge the severity of events. Onsite power and coolant plants are equipped with triple redundancies. Should all onsite power and cooling facilities fail, the Area will draw from the non-Foundation backups in the nearby city of ██ ███, as per Protocol Brownout-Alpha.
+
+D-Class personnel working onsite are to be informed every 15 days of the nature of SCP-1654, in order to trigger a containable Delta-Gibraltar event. Proposals for testing SCP-1654 are to be submitted at minimum 45 days in advance. In the event that a Delta-Gibraltar event lasts for more than 15 minutes, Area 1654 will be flooded with cyclosarin gas until such time as no human beings remain alive within the facility, then bathed in liquid neon coolant for a period of 24 hours to reduce internal thermodynamic activity. All maintenance and cleanup on Area 1654 is to be performed by D-Class personnel with intelligence quotients of less than 90, supervised by remote. D-class personnel assigned to SCP-1654 are to be trained under the cover story that the Area is a high-energy power-generation facility, and are not to be informed that they are in the presence of an anomalous object. Under no circumstances should any non-D-class personnel enter the facility approach within a 30km radius of the facility. Should a Delta-Gibraltar event persist for more than 15 minutes even after the facility has been purged and supercooled, SCP-1654 is to be treated as capable of causing a CK-class reality restructuring event.
+
+Description: SCP-1654 is a copy of the title page of Sir Francis Bacon's Novum Organum, on a sheet of rag paper approximately 24.2 cm x 30.5 cm, which appears to be from the work's original printing in 1620. The contents of the title page match other original copies of the work, with the exception of a handwritten note on the reverse side (See Document 1654-NOTE). The page appears to have been torn from the source book after binding. SCP-1654 is surrounded by a roughly spherical spatial discontinuity, 32.3 cm across at its widest point, which is completely impermeable to physical objects and the entirety of the electromagnetic spectrum save light in the visible range. The page has a deleterious effect on the causal nature of spacetime when exposed to human beings. SCP-1654's anomalous spatial effect, designated 1654-Delta-Gibraltar, is triggered by the fulfillment of three conditions;
+
+A living human subject must be within 50 meters close physical proximity (See Addendum) of SCP-1654.
+
+The subject must be aware that SCP-1654 exists as a physical object.
+
+The subject must be aware that SCP-1654 has properties which are anomalous or otherwise unusual.
+
+If all these conditions are met, 1654-Delta-Gibraltar will commence. At this point, SCP-1654 appears to link cause-and-effect reactions to the perceptions and understanding of the subject who has activated the object. All spatiotemporal laws will function proportionally to the subject's understanding of how they occur. Should the subject lack understanding, or have only a partial understanding of a cause-effect relationship, that relationship will continue to occur, but grow increasingly unpredictable and unstable with time. As human beings lack a total understanding of all causal relationships in physics, a 1654-Delta-Gibraltar event will invariably cause severe damage to local spacetime for as long as it is allowed to persist. In all cases, Delta-Gibraltar events have resulted in the deaths of subjects who triggered them. The radius affected by Delta-Gibraltar expands beyond 50 meters at a rate of approximately 0.1 cm/s for as long as all trigger conditions are fulfilled. Testing has revealed that reducing the overall temperature within the 1654-Delta-Gibraltar radius to temperatures below 50K reduces the rate of expansion by as much as 65%. Following the end of a Delta-Gibraltar event, local physics will reassert themselves at a rate proportional to the stability and duration of the original event; current containment procedures are in place to ensure that the aftereffects of an event dissipate as rapidly as possible. Cold temperatures seem to increase the rate of re-stabilization; testing is ongoing to determine the precise nature of this relationship.
+
++ Sample Delta-Gibraltar Anomalies
+
+- 
+
+Delta-Gibraltar Event #
+
+Subject
+
+Test Performed
+
+15
+
+D-███████
+
+Subject is given a block of balsa wood treated to make it appear to be metal, and a butane torch. Subject is instructed to heat the block until such time as it begins to melt. Subject applies blowtorch. Wood reaches temperatures of over 1600K, but does not combust. Subject is killed by rapid temperature change when all air in the testing area spontaneously liquefies.
+
+35
+
+D-███████
+
+Subject is instructed to perform jumping jacks, and is filmed doing so. During the exercise, three of the subject's fingers on the left hand are observed to intersect with and partially pass through one wall of the testing area. When questioned, subject reports no awareness of the event. Relevant video recordings are played back. Upon seeing the incident, subject expresses surprise, whereupon their left hand detonates in a 50-kilotonne explosion. Subject and test chamber destroyed.
+
+47
+
+D-███████
+
+15 seconds into Delta-Gibraltar event, subject, along with all matter within Delta-Gibraltar radius excepting SCP-1654, dissolves into a cloud of superheated hydrogen. Testing aborted.
+
+106
+
+Researcher D████, demoted to D-Class after [DATA EXPUNGED]
+
+Subject instructed to observe a Newton's Cradle device in motion, and to attempt to keep it in motion for as long as possible. After 14 minutes of testing, subject sneezes. Subject killed when one of the components of the device accelerates to approx. 0.1c and exits the solar system on a heading of [DATA EXPUNGED]
+
+289
+
+D-███████
+
+Subject placed in a room containing 30 different chronometers of various designs, then heavily dosed with psychoactive drugs. All test observation systems cease to function after 15 seconds. When D-class personnel re-enter the facility after it is cooled and purged, the contents of the testing chamber are found to have rapidly aged by several centuries.
+
+Excerpt from a memorandum by Researcher ██████████, to all SCP-1654 staff:
+
+I've heard some of you say that you need a degree in physics or philosophy to understand why this thing is so dangerous. Not true. Think of the entire universe as a clock, and 1654 as damaged gear. If you spin the gear without realizing that it's broken, the clock jams and stops, but is otherwise intact. That's what happens when a D-class triggers a Delta-Gibraltar. 1654 gets so unstable it destroys itself before it can do any damage. But if you go in knowing that the gear's broken, and try to keep the clock running for as long as possible… well, the problem will spread throughout the entire system, and ruin the clock's precision. That's what we're so worried about. If 1654 is allowed to run for too long, or is triggered by someone who understands physics well enough to keep it somewhat stable, it may generate errors or inconsistencies in the way the universe works which could spread. And then we'd have a Restructuring Event on our hands. As for why cold slows it down? We're not sure. Maybe if there's less thermodynamic activity, the structure of spacetime collapses more slowly. Like slowing down the rate at which the gear is turned.
+
+Addendum
+
+After the destruction of the original Storage Area 1654 on ██/██/████, an additional effect of SCP-1654 was discovered. When SCP-1654 does not undergo a Delta-Gibraltar event of any kind for more than 17 days, the trigger radius for Delta-Gibraltar events will slowly increase. This effect does not seem to be a property of distance; rather, SCP-1654 will become activated by human beings who are aware of it and its properties and who believe themselves to be within a distance of the object they do not believe to be safe or comfortable. The effect seems to target those uncomfortable in their proximity to the object at random. When Delta-Gibraltar events occur, the activation radius resets to 50 meters and the cycle begins again. As a result, a new safe radius of 30 kilometers has been instituted at Storage Area 1654.
+
+Document 1654-NOTE:
+
+The following is written by hand, in Latin, on the reverse side of SCP-1654. The handwriting appears to be consistent with that of Francis Bacon.
+
+"Knowledge and human power are synonymous, since the ignorance of the cause frustrates the effect. "
+
+I wrote that phrase not realizing what it would bring to life within me. Has God cursed me with this power? Did I seek knowledge of the functioning of Nature only to have it delivered into my hands? Regardless of this curse which has been afflicted on me, I must act. This page, and the power it contains, cannot continue to taint this Earth. All the laws of the cosmos recoil at it. I wanted to spread my learning to the world, but this accursed thing spreads like a plague of insects. I must send it away. where, I know not. If it falls into the hands of others, then may the Lord have mercy on my soul for I have damned them all.
+
+-Fr. Bacon

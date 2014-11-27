@@ -1,0 +1,55 @@
+SCP-1484
+
+Item #: SCP-1484
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1484 is to be kept in Locker 58-C at Storage Site-23. Level 2 staff and above may access SCP-1484 for approved research at the discretion of the Deputy Director of Research. All experimentation must be recorded in Research Log-1484.
+
+Description: SCP-1484 is a leather-bound journal measuring 30.2 cm in length, 23.1 cm in width, and 4.7 cm thick. SCP-1484 contains 326 blank pages. However, pages 125-142 of SCP-1484 feature a series of roughly 5cm2 areas or "panels" (approximately 20 per page) which, when in contact with human skin, cause the "reader" to experience a range of different tactile sensations throughout their body. Each individual panel corresponds to a different, usually complex set of tactile stimuli. The sensation persists for approximately ten seconds after the subject touches SCP-1484. Research has determined that the paper in SCP-1484 contains no known chemical adulterations or other unusual properties, and is identical in every way to commercially available paper from the same time period estimated to be that of SCP-1484's manufacture. How SCP-1484 is able to manifest the generation of tactile sensation in subjects is currently unknown.
+
+SCP-1484 was recovered from the estate of Mr. ██████████ ██████████████ in 19██, as part of Protocol ████-A5, related to the securing of personal effects of certain individuals identified by the Federal Bureau of Investigations' ViCAP program as "persons of interest" in unexplained disappearances. According to public records, Mr. ██████████████ died of natural causes.
+
+Research Log-1484-4: Catalogue of Notable Effects
+
+Page 125: Panel 13 - Subject experiences feeling as though present in an environment of approximately 22-24°C, regardless of temperature in test chamber. Subject will also experience the sensation of light breezes estimated at 3-5 km/h from a direction always to the subject's left.
+
+Page 125: Panel 18 - Induces a rhythmic swaying sensation, described by one D-Class test subject as feeling like a "playground swing".
+
+Page 127: Panel 3 - Causes a sense of tightness in the quadriceps muscles and mild shortness of breath, consistent with light exercise.
+
+Page 128: Panel 5 - Mild displacement felt in the stomach region such as that associated with rapid downward movement along an incline.
+
+Page 130: Panel 11 - Sensation of a hand firmly grasping the subject's right bicep. Note that test subjects have described the hand as being particularly large, and encompassing most of the upper arm in its grip, regardless of subject's physical dimensions.
+
+Page 132: Panel 8 - Subject experiences severe cramps in the quadriceps and calf muscles and pronounced shortness of breath. Subject also experiences acute pain associated with the larynx and vocal cords.
+
+Page 132: Panel 20 - Pressing sensation on subject's back, buttocks, and legs, while the neck and head crane to the left. Subjects report no sensation of breathing, though no feelings of asphyxia or associated pain in the chest or lungs.
+
+Page 133: Panel 17 - Two hands grasp the subject violently by both arms.
+
+Page 133: Panel 19 - A hand grasps the subject by the throat while a piece of indeterminate fabric is placed forcefully against the subject's mouth and nose. 59% of test subjects have lost consciousness by touching this panel, while the remainder report extreme fatigue or sleepiness.
+
+Page 137: Panel 1 - The subject experiences the sensation of their wrists and ankles being fastened together, along with a sense of locomotion, corresponding to travel at no less than 50 km/h.
+
+Page 139: Panel 9 - Subject experiences feeling of being secured to whatever chair they are sitting in at the time. In previous observations, subjects have been documented to stand up, yet continue reporting the feeling of immobility.
+
+[DATA EXPUNGED]
+
+Page 142: Panel 3 - Subject continues to experience high levels of pain related to extensive physical trauma seemingly incurred in Pages 140-141. Subject becomes effectively blind for the duration of Panel 3's effects.
+
+Page 142: Panel 8 - Subject immediately experiences sensation of considerable blunt force trauma to the left temple.
+
+Page 142: Panel 20 - Complete lack of perception of outside environment strikes subject for duration of Panel 20's effects. Subjects later describe only a feeling of numbness.
+
+Research Log-1484-12: On 12/11/20██, Researcher ████████████ noted anomalous phenomena associated with Pages 321-326 of SCP-1484. All tests conducted on these pages prior to this date demonstrated no notable properties.
+
+Pages 321 to 326 exhibit similar traits to Pages 125-142, in that contact with the pages produces tactile sensations independent of the subject's current environment. However, rather than a series of panels on each page provoking different sensations, each page contains only a single effect. These effects are of a much lower intensity than those manifested in Pages 125-142, and consist of merely slight changes in perception of temperature or mild sensations of movement. The exception is Page 326, which provokes a clear sensation of moist earth all over the subject's body, coupled with the feeling of suffocation during the the entirety of its five-second period of effect.
+
+All subsequent tests have not revealed any changes to Pages 321-326 or any other portion of SCP-1484 since the above date.
+
+Addendum 1484-1: Risk and Strategic Value Assessment 1484-1 performed by Senior Researcher ██████████ following Incident 1484-3. In accordance with report recommendations, experiments involving Pages 140-141 are suspended indefinitely, given the relatively low value of knowledge thus far obtained versus documented psychological trauma and resulting episodes of violence by test subjects against staff.
+
+Senior Researcher's Note: We've already determined what happens and turned over the data to Site-23's investigations unit. There is absolutely no reason to keep expending resources doing what amounts to re-watching a particularly disturbing snuff film.
+
+Addendum 1484-2: Following examination of the ████████ County archives and local law enforcement records, no known criminal act within 100 kilometers of ██████████ ██████████████'s documented place of residence corresponds with the events depicted in SCP-1484. This includes the abduction and subsequent homicide of Ms. ████████ ███████, the case which first brought Mr. ██████████████ to the attention of federal authorities. Researchers' hypothesis that SCP-1484 is somehow a record of a past event therefore remains unproven. Investigations into past residences and activities of Mr. ██████████████, as well as the nature and extent of his connections to SCP-1484, are ongoing.

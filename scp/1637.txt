@@ -1,0 +1,125 @@
+Primary Entrance to SCP-1637
+
+Item #: SCP-1637
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to the isolated, immobile, and subterranean nature of SCP-1637, Area-28 has been built at surface level to facilitate containment efforts. Exploration of SCP-1637 is currently prohibited. Area-28 must maintain a full-strength company (225+ personnel) with organic force application. Light armor vehicles and air elements tasked in direct support are to be maintained on-site. Satellite photographs of Jebil National Park are to be altered to remove the presence of Area-28 and SCP-1637. Standard amnestic protocol applies for all civilians attempting unauthorized access of Area-28.
+
+Instances of SCP-1637-1 or SCP-1637-2 attempting to breach containment are to be incapacitated and captured if possible. Specimens must be retained for study under humanoid containment protocol HCP-01 (Normal Capacity) and HCP-04 (Über Mensch) respectively. Deadly force is only authorized as a last resort to prevent loss of life. Instances of SCP-1637-3 are to be engaged with deadly force until they have either been terminated or retreat back to SCP-1637. No pursuit into SCP-1637 is authorized at this time, pending O5 review of Incident 1637-13. Terminated instances of SCP-1637-3 must be remanded to on-site medical personnel for autopsy.
+
+Description: SCP-1637 is a factory / laboratory complex constructed 50-100 m below the surface of the Sahara desert, in an isolated portion of Jebil National Park, Tunisia. SCP-1637 is located at coordinates ██º █’ ██”N by ██º ██’ ██” E. Records recovered from the administrative section of Sub-Level 1 seem to suggest the facility was constructed in 1965, commissioned by the ██████’█ ████████ ██ █████ for military research and manufacturing. Foundation assets in the ███ are unable to find corroborating documentation in ███████ records. The site was abandoned in 1972 following multiple containment failures of anomalously produced and enhanced humanoids.
+
+The facility itself spans approximately 4 km2, and is constructed primarily of the surrounding bedrock and other non-anomalous utility material. The complex includes dormitories, cafeterias, recreation areas, hydroponic growing facilities, power generators, water treatment facilities, and significant expanses of industrial machinery and medical equipment. Several additional surface access points were destroyed deliberately by cave in, possibly during SCP-1637’s original abandonment. Larger chambers dedicated to the production or testing of SCP-1637-1, SCP-1637-2, and SCP-1637-3 have been lined with an as yet unidentified grey metal which is highly resistant to damage and corrosion. Attempts to harvest samples for analysis have thus far been unsuccessful. Computational, surveillance, and engineering equipment recovered from SCP-1637 all display technological sophistication rivaling that of modern (post-2010) analogues, although some design differences in hardware architecture and organization have been noted.
+
+At irregular intervals, SCP-1637 will create and release a variable number of SCP-1637-1, SCP-1637-2, and SCP-1637-3. These entities will immediately begin combat maneuvers against present Foundation personnel, whether within or outside the main installation. Organizational and combat abilities vary between instances and designations.
+
+SCP-1637-1 refers to any humanoid entities originating from SCP-1637 that most closely resemble modern humans. Entities are 1.8 m tall and of muscular build. All instances of SCP-1637-1 are genetically identical copies of General ███ ███, although approximately 13% of those observed have exhibited some visible congenital defect. Deformities range from missing/club limbs, cleft palate/lip, abnormal hair patterns, and cyclocephaly1. How SCP-1637-1 instances are able to survive with these debilitating deformities is unknown. Instances display sentience, knowledge of firearms operation, ability to follow spoken commands and communicate verbally in ███████ ███████. These entities are not sapient, and will self-terminate by starvation unless ordered to eat.
+
+SCP-1637-2 designates those instances of SCP-1637-1 which have been modified with cybernetic components. Common augmentations include:
+
+Additional cameras/lenses for low-light or thermal vision
+
+Robotic exoskeletons
+
+Incendiary weapons
+
+Arm-mounted automatic rifles
+
+Circular saws, chainsaws, or long fixed blades
+
+Electronic components grafted into the skull for unknown purpose
+
+Loudspeakers or radios grafted to the throat
+
+SCP-1637-2 instances demonstrate sapience, and have the ability to coordinate SCP-1637-1 movements and activities via verbal and gestural commands. The modifications made to SCP-1637-2 are not attached in such a way that neural interface is feasible. Due to their unwieldy and poorly constructed nature, components have been known to disengage from SCP-1637-2 with very little force applied. In about half of observed cases, these components will still operate autonomously until their originating instance of SCP-1637-2 is terminated.
+
+Designation SCP-1637-3 has been assigned to instances of SCP-1637-1 which have undergone such extreme modification that their biological systems are not readily visible. These entities are broken down into three sub-designations.
+
+SCP-1637-3A: A humanoid torso shape mounted on dual-tread chassis, 2.5 m tall x 1.5 m wide x 3 m long. Two banks of 6 unidentified RPG launchers each have been mounted in the position of the torso's arms, and a single 155 mm cannon mounted over the left shoulder. Ammunition does not appear to be limited. The torso and head of the originating SCP-1637-1 instance remains intact within an armored exoskeleton.
+
+SCP-1637-3B: A 2 m x 2 m x 2 m six wheeled omnidirectional chassis with minimal armor and one 20 mm rotary autocannon on an omnidirectional mount. Ammunition does not appear to be limited. An adult human brain suspended in a translucent green oxygenated protein/glucose soup has been attached to the targeting and locomotion systems of the main body via cables of variegated design. No two instances have been connected in precisely the same manner.
+
+SCP-1637-3C: Spherical automaton 1.5 m in diameter with no visible seams, capable of levitation through unknown means. 24 distinct limbs containing various weapons, tools, and manipulation appendages have been observed emerging from the main chassis during operation. The collective volume and mass of all component parts of an SCP-1637-3C instance is approximately 5x the mass and volume of an assembled unit. A fetal instance of SCP-1637-1 suspended in a liquid nitrogen solution at the center of the instance serves as the control unit for each instance of SCP-1637-3C. This is connected to the rest of the unit via 24 gold electrodes grafted to the fetus’s spinal column.
+
+Based on analysis of SCP-1637-3’s interactions with SCP-1637-1 and SCP-1637-2, it is hypothesized that SCP-1637-3C instances possess the highest functional intelligence of all other designations and serves as central command when present.
+
+Document 1637-C-BR: Below is a partial transcription of a brochure recovered from a client receiving area in Sub-level 1.
+
+Prometheus Labs Defensive Products
+
+War is changing. Change with it.
+
+est. 1965
+
+Infantry Unit Mark I: The back-bone of any Military Force is, and always will be, man-power. The Infantry Unit Mark I will fulfill that need without putting strain on your local population. Simply provide a DNA sample from the person of your choice, and our patented bio-replication technology will create for you literally thousands of strong, obedient footmen to fill out the ranks of your armed forces. Unit Mark I will never disobey an order or defect from a mission, no matter what the risk. Guaranteed to last at least 2 years with proper care*.
+
+$1.2 million USD / 1000 units
+
+Infantry Unit Mark II: For situations where not only heavy ordnance, but intimidation and psychological warfare is desirable, the Infantry Unit Mark II is a formidable option. The core unit is the same as our Mark I model, but includes various made-to order augmentations. Night vision, terrain clearing, speed enhancements, on-board weapons systems, and command units are available, just to name a few.
+
+Starting at $1.75 million USD / 1000 units
+
+Intelligent Heavy Armored Vehicle: Durable enough to provide a viable Main Battle Tank option, the IHAV is excellent for use against light, mechanized, and armored targets. Each unit is operated by a singular consciousness; no more lapses in communication; no more breaks in reloading procedure. Small and agile means they’re harder to hit; our folded space ammunition technology means that the IHAV unit has the staying power needed to finish even the most demanding missions.
+
+$599,000 USD Each
+
+High Mobility Reconnaissance Vehicle: This unit is designed with rapid movement and intelligence in mind. Long range visual sensors, high functional intelligence, and a maximum speed of 70 km/h over terrain that would bring traditional armored vehicles to a halt, the HMRV unit can transmit visual and terrain data back to your position over 500 km away. The 20 mm rotary autocannon is capable of incapacitating or destroying infantry units and most light to medium armored vehicles as well.
+
+$799,000 USD Each
+
+Optimal Remote Battalion Commander: Our most advanced weapon system, the ORBCOM is a hyper intelligent command unit capable of managing your entire arsenal of Prometheus Defense products. It can traverse any terrain, needs no sleep, no fuel, no ammunition, and is capable of interpreting and implementing even the most complicated and extensive of battle plans. On-board systems for defense, administration, communication, reconnaissance, and repair will turn your Prometheus Arsenal into a complete, self-sustaining military branch.
+
+$2.5 million USD Each
+
+Document 1637-AD-TM: The following tele-memos (a proprietary analogue of e-mail) were recovered from the administrative offices of Sub-level 1.
+
+28/01/1972 @ 0938
+
+From: Youssef █████
+
+To: Rami ███████
+
+Subject: PICK TWO
+
+The units can’t hold up to this regimen of training, and neither can the equipment making them. Not only will we miss the order deadline, but we may never put another off the line unless corporate is willing to ease up on the demand. Someone tell those damn █████: Faster, Better, Cheaper. Pick Two!
+
+28/01/1972 @ 1024
+
+From: Rami ███████
+
+To: Youssef █████
+
+Subject: Re: PICK TWO
+
+Do not talk that way about clients in official communications, Youssef. All of this is centrally recorded.
+
+Regarding your concerns, I’m inclined to agree at least in part. But considering the alternative to supplying ‘conventional’ weaponry for a ground war in the ██████… I’m not going to lose sleep over a few blown breakers and a half-dozen corpses. No one wants to live in a radioactive wasteland, do they?
+
+21/02/1972 @ 1354
+
+From: Youssef █████
+
+To: Rami ███████
+
+Subject: Re: PICK TWO
+
+I DON’T BELIEVE IT. When, exactly, were they going to inform us? ███ must have been planning this for a damn year! It’s not as though █████ just phoned him up last night on a whim! “Oh hey! I was just in the neighborhood and thought I’d drop by for the most pivotal moment in foreign policy history! How’s tomorrow sound for you??” So now we’re all out in the cold sitting on more than half a million super-weapons and we have to just eat the check?
+
+No more, Rami. I’m finished. My resignation is in. I’m leaving tonight and you should come with me. If you don’t… Well, I’ve warned you.
+
+God be with you.
+
+21/02/1972 @ 1605
+
+From: Rami ███████
+
+To: Youssef █████
+
+Subject: Re: PICK TWO
+
+God have mercy, Youssef! I only just saw this! Tell me you are still here! What have you done?!
+
+Footnotes
+
+1. A normally fatal congenital defect resulting in the formation of a single large eye in the center of the forehead.

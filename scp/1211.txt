@@ -1,0 +1,77 @@
+SCP-1211
+
+Item #: SCP-1211
+
+Object Class: Euclid
+
+Special Containment Procedures: A perimeter of 50 meters is to be maintained around SCP-1211 at all times. Any civilians approaching this perimeter are to be redirected away from the site with fabricated reports of danger in and around the structure. No male personnel over the age of 35 are to be allowed to enter the premises under any circumstances.
+
+Description: SCP-1211 is the dilapidated ruin of a castle, 10 kilometers outside the city of ██████, Ireland. Only the first floor and basement of the structure remain in functional condition, the upper three floors having eroded and collapsed at indeterminate points in the castle's past. Initially, it was thought that any person entering SCP-1211 would be subject to its effect, though testing has proven that only males age 35 and older are affected. The reason for this is thought to be related to the terms of eligibility for kingship in Ireland at the time of the castle's construction.
+
+Within minutes of entering SCP-1211, any male at least 35 years old (See the Testing Log for correlation between the effect of SCP-1211 and Irish descent) will be immediately convinced that he is the rightful heir to an imagined throne, owner of the castle, and "lord of all lands as far as the eye can see,"1 refusing to leave the premises, even under threat of lethal force. The cause of these delusions is unclear, though the effect appears to be much more pronounced in individuals of Irish descent. Subjects of exclusively Irish lineage may even attempt to subjugate any personnel in their vicinity; these attempts have occasionally resulted in fatalities and should be treated as serious assaults on Foundation staff.
+
+If left on-site for extended periods, affected subjects will begin to live more and more in a fantasy where they are a king during a time of war, pacing the interior hallways of SCP-1211 and whispering to themselves in the Irish language, even in cases where the subject had no knowledge of Irish before coming into contact with SCP-1211. Translations of such speech have proven it to be mostly threats of violence against imagined “rival clans” and imagined scenarios of what the subject would do should any man challenge his right to be king.
+
+If left on-site for long enough, subjects will begin to age rapidly. After three weeks of exposure to the castle's effect, a man of 35 years will have visibly aged to approximately 80 years. Physical deterioration is difficult to measure after this point, as it continues to accelerate at a different rate for each subject. After one month, some subjects are observed to experience rotting of the skin, muscle tissue, and general deterioration of the skeletal structure; others can take multiple months to reach this point. At no time has any subject expressed need of food, water, or sleep during this process, and no subject has ever died of old age while affected by SCP-1211.
+
+A subject that has deteriorated to such an extent that he can no longer pace the halls of SCP-1211 will invariably make for its basement and collapse there, still alive, at which point the walls will begin to build themselves around the subject. Any murmuring observed after this point will consist only of the Irish word for "happy" again and again. All subjects cease to vocalize at all soon after this event.
+
+Addendum 1211-001: Dr. Davidson's research team has noted a 10% increase in surface area in the remaining portion of the second floor. Weekly measurements are to be taken as testing continues on SCP-1211 and any further changes are to be reported immediately.
+
++ Show Testing Log
+
+- Hide Testing Log
+
+Test A - 05/26/19██
+
+Subject: D-1355, 36 years of age, native to █████, Ireland
+
+Procedure: Subject is equipped with a handheld transceiver and camera with a live feed to the research team's base of
+
+operations. Subject is instructed to enter and explore the ruins.
+
+Audiovisual Log:
+
+*View is of a long, dark hallway. Few details are discernible.*
+
+D-1355: Fuck, it's creepy in here.
+
+Dr. Davidson: We're not getting as much as we should be on the video feed. Try to focus the lens.
+
+*Subject can be heard fiddling with buttons on the camera.*
+
+D-1355: Is that better?
+
+Dr. Davidson: We're making a note of the unusual darkness. Continue on.
+
+*A large hall becomes visible. Much of the ceiling is missing, yet the video feed remains too dark to discern much detail.*
+
+Dr. Davidson: D-1355, what do you see? We're still not getting much on the feed.
+
+D-1355: It's so beautiful… or it used to be, at least…
+
+Dr. Davidson: What is it? Report what you see immediately.
+
+*Subject does not reply for slightly over one minute.*
+
+D-1355: *Murmuring*
+
+Dr. Davidson: Speak up, son. What do you see in there?
+
+D-1355: It's mine…
+
+Dr. Davidson: What? What's yours?
+
+D-1355: It's all mine… They'll never get it…
+
+Dr. Davidson: You aren't making any sense. Explain yourself at once or we'll terminate you and get somebody else.
+
+*D-1355 remains unresponsive, muttering to himself. The camera is abruptly dropped.*
+
+*The camera continues to record for 3 subsequent hours, during which time D-1355 slowly wanders in and out of the hall. At the 2 hour mark, a scream is heard from outside the hall in a language that none of the researchers speak. The last hour of footage is similar to the first 2 hours.*
+
+Research note: SCP-1211 seems to somehow alter the mindset of those who enter it. I'm requesting permission to experiment further. -Dr. Davidson
+
+Footnotes
+
+1. Note that subjects in all cases have used exactly these words.

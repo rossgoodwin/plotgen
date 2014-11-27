@@ -1,0 +1,143 @@
+An abandoned exhibit located inside SCP-257.
+
+Item #: SCP-257
+
+Object Class: Euclid
+
+Special Containment Procedures: Owing to the immobile nature of SCP-257, Site 93 has been erected outside of SCP-257. Access to the interior of SCP-257 is restricted to level two containment and recovery personnel and above. Motion-detecting video cameras have been set up throughout SCP-257's exhibits to monitor any new biological specimens that appear.
+
+All biological specimens extracted from SCP-257 are to be examined, logged, and removed from SCP-257. Biological specimens are to be placed in one of Site 93’s temporary holding pens for study and threat classification. If researchers identify specimens they deem worthy of further research, personnel are to fill out Form 257-12 and follow appropriate research protocols. Specimens are otherwise sent to Bio-Site 29 for storage and long-term care.
+
+Description: SCP-257 is an abandoned zoological garden and park located in ████████, United Kingdom. The zoo itself, described as a "Collection of Curiosities" is named for a William Woodsworth, billed as “the greatest explorer and naturalist this side of Reality 12/3.14.” According to promotional materials found within SCP-257, the zoo was founded in 1899 to “educate the gentlemen and ladies of England about Nature, and the many strange Beasts encountered by Explorers on their Travels.” No permits, building licences, or planning permissions have been found that correspond to the location or appearance of SCP-257.
+
+Several signs and notices indicate that the zoo has been temporarily closed for maintenance, but the dilapidated appearance of the park and outdated equipment suggests that the park has been abandoned for at least fifty (50) years.
+
+At irregular intervals, animals will appear within the zoo’s confines through an unknown manner. These animals appear in the various enclosures at random intervals. Simultaneously, a hand-written manual appears at the entrance of the zoo inside the ticket booth. These guides detail the proper care and feeding of each organism and sometimes reveal information about its origin and acquisition. The animals vary widely in appearance, behaviour, and classification; many do not appear to be related to any terrestrial animals. There does not appear to be any schedule as to when these animals are delivered. See Acquisition Log W-257 for a complete list of animals delivered in the past ██ years.
+
+On ██/██/████, the following typewritten note was discovered pinned to the entrance of SCP-257 along with a guide.
+
+FROM THE DESK OF PROFESSOR WILLIAM WORDSWORTH, EXPLORER AND NATURALIST
+
+To the esteemed gentlemen and zoological enthusiasts of the Special Containment Procedures Foundation:
+
+As you are no doubt aware by now, I have decided to entrust you with my zoo and my collection of rare and exotic animals wile I take a leave of absence. You are straight-thinking and responsible men of science and you will no doubt be able to look after them. After my travels through [REDACTED], [REDACTED], and [REDACTED], I've decided to visit the thirteenth moon of Enouious as the next stop on my safari. Naturalists and learned men such as yourselves will no doubt enjoy studying some of the splendid and vital creatures that I’ve discovered here. The viewing public will appreciate the new additions to my collection- they’re like nothing I’ve ever seen! I cannot write much longer; my indigene guides and I will be up early tomorrow to check the traps.
+
+Keep up the good work!
+
+- Regards, Professor William Woodsworth
+
+ SCP-257 Sample Acquisitions Log Log 232a as of ██/██/20██ 
+
+Close
+
+Date
+
+Species
+
+Description
+
+Notes
+
+01/3/19██
+
+Elephas spp. unknown, possibly antiquus
+
+Five miniature elephants, approximately three (3) feet high. Guide states that "I encountered these splendid animals while on a tour of the Mediterranean."
+
+Retained briefly by Dr. █████████ for study. Genetic link ascertains a relation to the modern African elephant. Currently stored at Bio-Site 29.
+
+01/6/19██
+
+Unknown
+
+A very large decapodal invertebrate matching no terrestrial species. Secretes debilitating neurotoxins similar to that of a poison dart frog’s. Guide notes that "[it] can detect certain chemicals in the atmosphere, and interprets it (…) as a territorial challenge. Highly tempermental".
+
+Currently stored at Bio-Site 29.
+
+05/13/19██
+
+Pygocentrus spp. ?
+
+A school of approximately 300 very small piranhas. Capable of producing bioluminesence through bacterial symbiosis. Guide explains that they were "procured from the Para-Amazon" with no further explanation given.
+
+Currently stored at Bio-Site 29.
+
+07/20/19██
+
+Brontotherium hatcheri
+
+An adult male brontothere. Guide notes that "making eye contact with one of these beasts, spectacular as they are, is to sign your own death notice."
+
+Currently stored at Bio-Site 29.
+
+09/15/20██
+
+Unknown
+
+Relevant information moved to Document 443/SCP-█████. See incident report 3-122A for further information.
+
+Reclassified as SCP-████ following incident [DATA EXPUNGED]. Request for SCP-257's upgrade to Keter status denied due to its immobile and containable nature, and the containability of SCP-████.
+
+01/5/20██
+
+Rhinoceros sondaicus
+
+A baby female Javan rhinoceros.
+
+No anomalies detected. Currently stored at Bio-Site 29. Possible release to a nearby zoological facility pending.
+
+12/2/20██
+
+Unknown
+
+A large and leathery pupae. Noninvasive scanning reveals what appears to be a human-sized, unknown invertebrate, possibly an insect, inside. Guide states that “this one will start laying eggs right after hatching. You will have a thriving colony on your hands in no time!”
+
+Euthanised and placed in formaldehyde. Currently under study by Drs. ████████ and ████████ at Site ██
+
+4/6/20██
+
+Unknown
+
+A heavily-armored creature with a crustacean-like shell, covered with bright yellow vegetation. Guide states to “keep this fellow under high gravity at all times.”
+
+Died on 4/23/20██. Remains kept for study.
+
+12/13/20██
+
+Kentrosaurus aethiopicus
+
+A juvenile male Kentrosaurus. Guide describes that "the meat, though delicious, is far too hard to safely procure and attracts creatures best left alone."
+
+Died on 2/28/20██ due to disease-related complications. Remains retained for study and placed in formaldehyde. Currently available for study.
+
+11/11/20██
+
+Dinornis spp., possibly robustus
+
+Believed to be a moa egg. Guide notes that "though the meat of the adults lacks flavor, the eggs, when prepared properly, provide a delicacy for young and old alike. Moa farming has already begun to rise in popularity in Scotland… I hope to establish a breeding population at St. Mary's in the near future."
+
+Currently under incubation at Bio-Site 29.
+
+6/21/20██
+
+Pan paniscus
+
+A troop of 12 bonobos. Guide notes that "the local ape-men appear to have domesticated these beasts and turned them into companions.''
+
+Currently stored at Bio-Site 29.
+
+9/21/20██
+
+Unknown
+
+Two deer-sized hexapedal vertebrates covered with chitinous armour, possessing mouthparts similar to that of an insect's. Herbivorous. Guide notes that "seeing a herd of these magnificent creatures traversing the floodplains of the Martian savannah rivals the greatest terrestrial migrations of wildebeest or ceratopsid." Guide details how to hunt and cook individuals of the species, noting that they are best served filleted and pan-fried, and taste like "succulent crab".
+
+Currently stored at Bio-Site 29. Unfertilized egg sac removed from now-presumed female.
+
+3/29/20██
+
+Unknown
+
+A group of twelve (12) birds of unknown genus, similar to cranes, with large wingspans. Extremely intelligent. Capable of imitating human voices and reproducing music.
+
+Described as “the crown jewel of the collection.” Currently stored at Bio-Site 29.

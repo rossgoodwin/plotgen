@@ -1,0 +1,63 @@
+SCP-655-A101
+
+Item #: SCP-655
+
+Object Class: Euclid
+
+Special Containment Procedures: Site-731 has been established at the premises of SCP-655. Personnel are advised that due to chronic political instability in the regime of the Democratic Republic of the Congo, no recognition of Site-731 as a Foundation asset exists at a national level. Site-731's activities occur under the auspices of Kreutzfeld Pharmaceuticals GmbH, a Foundation front organization, and the facility is to maintain cover as a tropical infectious disease research outpost.
+
+Site-731 security protocols are set at Code Green, and security personnel are to be attired and equipped as members of a mid-sized private military contractor. Subsequent to the events of 07/29/2002 (see Incident Report 655-48 for details), Site-731 security personnel must receive specific authorization from the Level 4 Central African Affairs Coordinator prior to actively engaging armed groups approaching the security perimeter of SCP-655.
+
+All SCP-655-A specimens are to be cataloged and observed for a minimum of two weeks when possible. At the discretion of the Site Director, specimens may either be held for observation indefinitely after this initial period, or euthanized, autopsied, and preserved in the Site-731 biological archives.
+
+Description: SCP-655 is an 18 m x 20 m x 4 m windowless structure within a complex of buildings located approximately 35 km NNE of Kisangani, Democratic Republic of the Congo. This complex was originally known as the Stanleyville Imperial Biology Institute, and was established by Belgian Congo colonial authorities in 1898. The complex housing SCP-655 was coterminous at the time of its establishment with a now-defunct cobalt mine.
+
+SCP-655 is the site of an anomalous phenomenon. At random intervals, which to date have been observed to be between a range of two months to eleven years, an organism of the kingdom Animalia will spontaneously appear within SCP-655. These organisms are collectively known as SCP-655-A.
+
+SCP-655-A appear upon initial visual inspection to be typical specimens of a variety of animals. Most specimens observed have fallen under the Chordata phylum, however mollusks, arthropods and echinoderms have been observed on a less frequent basis. Specimens of SCP-655-A will, however, exhibit radically different behavioral and biological characteristics than other observed members of their species. Invariably, MRI examinations, CT scans, ultrasound imaging and dissection of SCP-655-A specimens reveals biological structures not occurring in what species a specimen appears to be. These have included a specimen of Epatretus goliath (giant hagfish) with a lung-based respiration system, a Crocodylus niloticus (Nile crocodile) specimen entirely lacking in any discernible structures associated with digestion, a Homo sapiens specimen with the entirety of its neural tissue located in a cavity in its right thigh, and an instance of Dacelo leachii (Blue-winged Kookaburra) exhibiting a circulatory system completely lacking in blood vessels and arteries.
+
+Since containment was established at Site-731 in 1961, researchers have documented 172 instances of SCP-655-A. Over the approximately six decades of Foundation control of SCP-655, with the exception of Incident 655-21 no species has been observed that was not at the time known to the contemporary scientific establishment. This has been corroborated by the appearance of a Conus dondani specimen (a variety of cone snail) in 1984, three years after being first described in scientific records, and a Lasiurus ebenus (hairy-tailed bat) specimen appearing 18 months after its initial description in 1994.
+
+Recovery Log 655: SCP-655 came to the Foundation's attention after several partially substantiated reports in the Congolese media of a non-communicative man with no identification, clothing, or possessions of any kind wandering into the outskirts of Kisangani. The man (later designated SCP-655-A1) died of unexplained causes soon after being taken into custody by the local police force. A subsequent medical examination revealed two vestigial limbs in SCP-655-A1's abdominal cavity, along with the heart and lungs. SCP-655-A1's digestive system was, in turn, found to be located in its thoracic cavity. Foundation personnel monitoring the region intercepted the reports filed by the Kisangani Coroner's Office and initiated information suppression protocols. A subsequent investigation of SCP-655-A1's origins led to the discovery of SCP-655 and the establishment of containment.
+
+Upon establishment of initial containment, Foundation personnel discovered that the site of SCP-655, while in a state of decay consistent with structures abandoned for several decades, appeared to be undisturbed by human intrusion since the last documented activity of the Stanleyville Imperial Biology Institute in 1919, despite the presence of valuable raw materials at the site. Foundation staff at the time attributed this to the research facility's reputation with the local population.
+
+SCP-655-A164
+
+Institute staff appear to have systematically destroyed all documentation related to activities taking place at the SCP-655 site before abandoning it in 1919. The following materials were recovered upon establishment of containment:
+
+A reinforced, secondary door made of wrought iron installed over the entrance to SCP-655
+
+Five barrels of calcium carbonate
+
+Fifteen wooden beds in various states of disrepair
+
+Three bookcases, each accommodating an average of 80 volumes
+
+Eight sets of iron manacles and chains
+
+A mahogany desk
+
+Two examination tables
+
+Two Springfield Model 1892-99 .30-40 Krag caliber rifles
+
+A flexible wire surgical saw
+
+Three flower pots
+
+Inspection of the area surrounding Site-731 revealed four mass graves, believed to date from 1900-1917. These graves contain skeletal remains from a variety of animals; however, due to the apparent systematic dismemberment of the organisms interred in these graves, precise numbers of individuals and species are impossible to ascertain. No anomalous properties have been associated with these remains at this time.
+
++ Incident Report 655-21: LEVEL 4 EYES ONLY
+
+- ACCESS GRANTED
+
+Incident Report 655-21: LEVEL 4 EYES ONLY On 08/10/1978, a specimen of Homo ignotus (hereafter SCP-655-A21) manifested in SCP-655. This was the first and only observed instance of a life form not officially documented by the mainstream scientific community appearing within SCP-655.
+
+In contrast to three prior incidents on file involving similar specimens, SCP-655-A21 exhibited behavior interpreted by researchers as emotional distress, a trait heretofore unobserved in H. ignotus. Despite a state comparable to fear or terror and being highly agitated, SCP-655-A21 displayed none of the self-defense mechanisms common to its species. In addition, it was either unable or unwilling to enter the theorized perception/reality shifting state documented elsewhere by Foundation staff.
+
+SCP-655-A21
+
+Under orders from Site Director ████████, the two week observation period was waived in light of past experiences with H. ignotus specimens. After no deviation in the subject's behavior (at that time consisting of huddling in the furthest corner of SCP-655 and trembling) was observed for four hours, SCP-655-A21 was terminated via small arms fire by security staff. An autopsy was performed, the results of which were transmitted to Overwatch Command. The final autopsy report remains a Level 5 security document at this time.
+
+Before scheduled incineration could occur at 0700 hours on 08/11/1978, the remains of SCP-655-A21 were somehow transferred outside of Foundation custody. Despite standard security measures taken at the Site-731 morgue, no physical evidence remained of SCP-655-A21 when technicians inspected the refrigerated holding container. Security footage throughout the facility did not document any intruders or unauthorized entry into the morgue.

@@ -1,0 +1,75 @@
+Four members of SCP-1320; Image taken by Agent Rob Mulholland
+
+Item #: SCP-1320
+
+Object Class: Euclid
+
+Special Containment Procedures: The current known extent of SCP-1320's habitat, as well as no less than a five (5) kilometer radius of land from the estimated center, is to be owned by Foundation front companies and observed at all times. A concrete wall at least 4 meters high is to be constructed and maintained around the perimeter, and integrated ultrasonic motion detectors are to be placed at 20 meter intervals to monitor for breaches.
+
+At least once per week, during a period of inactivity, at least ten (10) items not previously encountered by members of SCP-1320 are to be introduced into their habitat via air-lift, as close to the center as feasible. For a list of items already encountered by SCP-1320, please see document 1320-4071a.
+
+Should individual members of SCP-1320 be observed leaving the containment area, a general alarm is to be sounded and MTF Chi-41 (Ghost Watchers) is to be brought on station to return the individuals to their habitat. Should containment not be possible, observational command is to be notified and currently allocated areas are to be adjusted accordingly.
+
+Description: SCP-1320 is the group designation for an anomalous, sapient species, native to a roughly 6 square kilometer area of [REDACTED] known to be heavily forested and sparsely populated. The species shows a unique ability to refract electromagnetic radiation around their forms; this is most easily identifiable in the fact that light "bends" around them, rendering them somewhat transparent or reflective depending on angles, but the refraction extends to all currently tested wavelengths of the spectrum.
+
+A side-effect of this anomaly is that individuals are able to seemingly "appear" or "disappear" when not directly in view. Members of SCP-1320 are not believed to be able to teleport or in any other way shift themselves; they are simply well camouflaged and silent by nature, and are able to utilize their anomalous properties as means of evasion. Primarily, they have utilized such tactics to interfere with any attempts to retrieve specimens, ambushing groups attempting to capture one alive and swiftly removing any of their kind that are injured or otherwise incapacitated.
+
+Individuals of SCP-1320 are humanoid in shape, averaging between 2.7 and 3.2 meters in height. Additionally, the distortion effect that surrounds them makes individuals appear to be between 1 and 1.5 centimeters thick; remote ultrasound imaging has confirmed that the actual physical body is less than 1 micrometer thick. Despite this, individuals have shown a level of physical strength and dexterity roughly equivalent to an average human, save for an ability to shear objects at a near-molecular level. It is estimated that the tips of their extremities are narrowed to within a few dozen nanometers and are extremely durable, allowing for this level of sharpness and precision.
+
+Typically, members of SCP-1320 are not hostile unless provoked, instead showing an inquisitive nature with small groups gathering around any type of object that is new to their habitat and studying it thoroughly; this inevitably concludes with individuals cutting the object into successively smaller pieces, even if it is biological in nature. While they appear to lose interest in specific objects within three to four days and will largely ignore repetitive stimulus, similar objects that are sufficiently unique will attract their attention anew; for instance, after growing accustomed to Douglas-fir trees (Pseudotsuga) they still showed interest in both Cedar (Cedrus) and Pine (Pinus) species. It is believed that this inquisitive nature is the driving force behind SCP-1320's instincts, as no member of the species has been observed attempting to leave an inhabited area until all new forms of objects have been thoroughly examined.
+
+Despite the fact that no light or other electromagnetic waves should be able to permeate their refractive nature, SCP-1320 are observed to be "looking" at objects, using a form of sensory adaptation we have not been able to detect or duplicate. Similarly, members of SCP-1320 have never been observed to make any sort of vocalization, but apparently are able to communicate with one another.
+
+To date, SCP-1320 have not been observed to perform any sort of construction or assembly; it is not known whether they do not have the intelligence or desire for such activities, or if they have somehow been able to hide their constructs. Given the fact that individuals have been described as "disappearing" even when under direct observation, this has lead to great difficulty in tracking them to any type of central nest or housing area.
+
+Addendum: Incident 1320-1
+
+On 08/17/████, a group of D-class subjects under observation by Researcher Grant were introducing new stimulus into the SCP-1320 habitat, which at that time was contained in a steel mesh fence and was just below two kilometers on a side. Incident 1320-1 was the first time that SCP-1320 was observed to have any sort of large-scale hostility. What follows is an interview conducted by one of the few survivors.
+
+Access Interview Log 1320-12
+
+Close Log
+
+Interview Log 1320-12
+
+Interviewer: Dr. Kennar
+
+Interviewee: Agent B███ F███████
+
+Date/Time: 08/18/████, 13:45
+
+Dr. Kennar: Let's begin. For the record, please state your full name and position at the time of the incident.
+
+Agent F███████: Yes, sir. I'm B███ F███████, level 3 Security Agent, member of MTF Chi-41. On the date in question I was acting as observation and aerial marksman.
+
+Dr. K: Thank you, but you don't have to call me sir, I never was part of any military structure. Please describe the events that lead up to the security breach as best you can.
+
+Agent F: Of course. Grant and the D's had headed into the fenced-off zone, delivering the weekly batch of stuff to keep them occupied. Drop-off went well and they were heading out when one of the D's spotted one of the fracs digging at the fence.
+
+Dr. K: I'm sorry, "fracs"?
+
+Agent F: Oh, sorry, it's a nickname someone came up with for the scips, kinda shortened down "refracted", easier than thirteen-twenty, you know. Jim always thought we should call them "reefers", but he got voted down.
+
+Dr. K: I… see. Continue, please.
+
+Agent F: Well, the D sees this thing poking around like I said, and all of a sudden starts yelling at it, told it to get away from the fence. I heard over the radio that they were telling him to back off, but when the frac didn't back away he chucked a rock at its head. Pretty good aim, actually knocked it over. That's when all hell broke loose. I don't think anyone told these guys just how sharp the fracs' claws are, or how fast they run.
+
+Dr. K: I was not aware that they had any anomalous properties regarding their speed.
+
+Agent F: I don't know if you'd call it 'anomalous', they're just fast. Like, they could lap an Olympic racer. Point is, I don't think the guy even saw the one that ran up on him before he was torn apart. Grant and two of the other D's booked it for the gate, one of them turned to try and help his buddy I guess. He lasted about three seconds.
+
+Dr. K: This was when the firefight started?
+
+Agent F: Yeah. The group made it through the gate and it got closed, but the fracs just started to tear through it like paper. Someone shouted 'fire', I really can't say it was anyone with authority what with all the comm chatter. A couple of them dropped, but… Christ. It was like they were just hiding and waiting, there must have been two dozen of the things that came charging out of the tree-line. I think I took a couple of them down, but then they were at the fence, and then people started dying.
+
+Dr. K: What is your assessment of their combat prowess, Agent?
+
+Agent F: Frankly, I don't think they have much of it. They don't seem built for combat, they're… Explorers, investigators. If these things were on a wide-open plain with plenty of time to see them coming, this never would have happened. It's the fact that, where they are, they can duck in and out of cover, seem like just a trick of the light. And if they decide they want you dead, and they get right on top of you, unless you get in a good, quick, debilitating shot, you're dead. They also have some good stamina; one jeep got away, made it a few clicks before they stopped to get their bearings, probably figured they lost 'em. I hear that all that was found was a few chunks of shredded metal and bits of meat.
+
+Dr. K: That is a somewhat accurate statement. That should be all, Agent, unless you have anything else to add to the official record?
+
+Agent F: Just one. I was talking to █████, he was doing the observation run this morning. He says he saw a few wandering the forest. Those things never once tried to even get past the fence before now, and suddenly they're spreading? I think… I think these things will only stick to the territory they've already explored, but when they started chasing people through the woods in a rage, that territory expanded. We need to move the perimeter out. And we need to make it tougher.
+
+Taking the above interview and further investigation of the patterns of SCP-1320's behavior, it was confirmed that their assumed territory had expanded to the currently held ranges. Containment procedures were upgraded, and in light of their potential threat, Doctor Kennar put forth an official request to upgrade SCP-1320 to Keter status.
+
+The escalated security measures have kept them in check since the single incident. Thus, increasing their status to Keter has been denied until such time that SCP-1320 demonstrates a continual, active intent and ability to breach containment. - O5-█

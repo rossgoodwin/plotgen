@@ -1,0 +1,51 @@
+SCP-1811 at time of recovery
+
+Item #: SCP-1811
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1811 is contained in a standard locker at Site-68. Instances of SCP-1811-1 through 217 are currently stored in room D308 of the restricted section of the Foundation’s Library. Access to these items requires clearance level 3 and approval from the researcher in charge of SCP-1811.
+
+Description: SCP-1811 is a bookshelf measuring 0.8m x 0.8m x 0.2m. It is made of an unidentified type of wood and covered with brown paint and beige vinyl shelf liner. Books that are left on the shelves of SCP-1811 have a probability of fusing together and undergoing a cycle of replication resulting in the creation of new books (designated SCP-1811-X, where X is a number). Volumes created by this process do not present any anomalous physical properties, but they can contain potentially hazardous information.
+
+For the fusion to occur, two books must be left in direct physical contact with each other until they acquire a significant layer of dust. The two books must be written with the same alphabet, but not necessarily in the same language. If the two alphabets contain different diacritic signs, replication is still possible, albeit with a lower probability. For example, a book written in English can combine with certain French books, but not with any books written in Cyrillic.
+
+After the two books fuse together, the characters are shuffled to form a new coherent text in any language that can be written with the alphabet used in the original books. The volume then replicates its pages, doubling its size in the process. It subsequently divides into two identical volumes that re-shuffle their characters before dividing each into two different books. The net result is that the two original books will be replaced by four instances of SCP-1811-X, containing in total twice the number of original typographic characters. If the books are moved or the layer of dust is disturbed, the process will stop irreversibly.
+
+Cover artworks are not duplicated and are either lost in the process or used unchanged by one of the instances of SCP-1811-X. Volumes containing mostly photographs or illustrations are not affected by SCP-1811. However, fusion occurs with books containing mathematical and chemical formulas, or tables and diagrams. In the resulting instances of SCP-1811-X, the symbols and lines are rearranged into different formulas and diagrams.
+
+SCP-1811-1 to 56 are previously unknown books acquired during the recovery of SCP-1811.
+
+SCP-1811-57 is the torn and charred front cover of an unknown book (Dissimulation and Vanishing: a hundred and one amusing Magic Tricks of the State Political Directorate, by Azgaroth Dzerzhinsky). The rest of this volume was not found and is presumed to have been destroyed.
+
+SCP-1811-58 to 217 are books produced during Foundation experimental procedures.
+
+History: SCP-1811 was recovered from a second-hand bookstore (The Paper Pagoda, Worcester, Massachusetts) in June 1995. The whereabouts of the owner, Adrian Balswell, are currently unknown. At the time of his disappearance, Mr. Balswell was being investigated by the Internal Revenue Service. It was discovered that he had published 7 commercially successful novels between 1989 and 1994 under various pen names, grossing approximately 3 million dollars. The unusual details of his disappearance and the suspicious nature of books found in the Paper Pagoda attracted the attention of Agent ████████ of the Foundation. Mr. Balswell’s diary indicated SCP-1811 as a possibly anomalous object.
+
+Addendum 1811: Fragments of Adrian Balswell’s diary. This journal was in poor condition and large portions are torn and burned.
+
+January 19, 1976
+
+Manuscript rejected again. Why doesn’t anyone like my novel? Why are they so mean? I keep working on the thing and it’s like I’m running around in circles. I sell books all day; you’d think I should be able to write one of my own.
+
+(later) I can't find the Lovecraft Omnibus. The Wodehouse collection is also gone. I'm sure they were on the ugly little bookshelf in the back. I found 4 books I haven’t seen before. One of them is a novella called The Shadow over Blandings, by Algernon Whitewood. Another one is a 3 pages anonymous book titled Love Triangular Prism and Other Non-Platonic Solids. What the hell is that? Must be a joke from Towers, that (illegible).
+
+January 24, 1976
+
+Surprisingly, that novella is really good. It’s a very strange mix of light humour and pessimistic brooding but the writing is masterful. I asked around but nobody’s heard of that author. I wish I could write like that… The other three are awful. I’ll give them to Gran for their outhouse.
+
+September 2, 1977
+
+It happened again. Theories of Dialectic Simulation my ass! I never bought that. These books must be breeding. It's the only possible explanation.
+
+(Undated)
+
+Stupid cat made the pile fall down and now I have to start over again. So slow. I thought I could accelerate the magic by putting extra dust onto the books, but no success. However by placing them vertically I can do more at the same time.
+
+(Undated)
+
+-such a silly novel in my life. I'm trying to mate this one with my old Modern Physics (1931 edition). That should be good fun! This little bookshelf is a wonder. But where does this knowledge, come from? I must be c-
+
+June 9, 1995
+
+(illegible) cat disappeared. Where’s Towers? Cleaning lady is nowhere to be found. People won’t even talk about her. (Illegible) idiot that said Manuscripts Don’t Burn? We’ll see a-

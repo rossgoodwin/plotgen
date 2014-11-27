@@ -1,0 +1,33 @@
+Phenotypical stalk and flower of SCP-1621
+
+Item #: SCP-1621
+
+Object Class: Keter
+
+Special Containment Procedures: Exactly one colony of SCP-1621 is to be kept intact within Bio-Containment Area-09. SCP-1621 byproduct is to be collected for use by the Foundation as a component in rocket fuels, in industrial cleaning and etching operations for semiconductors, in nuclear reactor fuel processing, and other industrial operations. and disposed of within a stainless steel burn chamber. The containment chamber, collection equipment and airlocks must be constructed entirely from stainless steel or copper. Under no circumstances is water to be released above soil level- subsurface irrigation is sufficient for SCP-1621's hydration.
+
+Mandatory Level A Hazardous Materials suits, as well as CO2- and light-delivery equipment is to be polymer1 -sealed to prevent Cl2F6 vapor reactions.
+
+In the event of a containment breach, all personnel is to immediately report to their assigned safe room. Upon detection of Cl2F6 vapors beyond .01 ppm within the safe room, or once all reported personnel are within the safe room, the safe room will seal. When all safe rooms have been hermetically sealed, BCA-09 will flood the facility and containment chamber with liquid nitrogen.
+
+All colonies of SCP-1621 not earmarked for transfer to BCA-09 are to be isolated and destroyed. SCP-1621 has proven resistant to indirect force, radioactivity and heat, theoretically as a defense against its own reactions. Redirection of local water supplies to induce permanent flooding is preferred; if impractical, the infestation- and a 10m radius beyond- must be tilled under to a depth of 2m and treated with liquid nitrogen to neutralize the vines, stalks and roots.
+
+Description: SCP-1621 is an invasive, flowering mimic vine similar to Rhizophora, Tetracoccus, Rafflesia, Viola and Passiflora. While no specimen of SCP-1621 has ever exhibited sentience or sapience of any sort, all specimens mimicked, albeit imperfectly, locally indigenous species, which originally lead to sub-classifications of SCP-1621. Note, however, that only one genotype of SCP-1621 has been identified- all variants are merely adaptive camouflage.
+
+Analysis of the chemical hazards of SCP-1621 follows:
+
+The flowers, roots and vines of SCP-1621 utilize chlorine trifluoride in place of sap or nectar. Cl2F6 vaporizes at 13 degrees Celsius, is colorless and smells sweet. SCP-1621 must fertilize itself to expand the colony. The sweet scent of Cl2F6 attracts insects and animals, which- at 800 ppm, is lethal within fifteen minutes2 and incapacitating far sooner.
+
+SCP-1621 sap and nectar are corrosive, toxic, hypergolic on contact with most combustible materials without a spark or ignition source, reacts violently when in contact with water, ice, or silicon- containing compounds (including sand, asbestos and glass), is incompatible with oil, grease, reducing agents, organic compounds, fuels and combustibles and most metals and metal oxides, cannot catch fire and so cannot be neutralized by ignition and decomposes into chlorine, fluorine and hydrogen fluoride gasses if exposed to temperatures higher than 220 degrees celsius.
+
+Disposal can be safely managed by exposing equal parts sap/nectar with kerosene and collecting the resultant vapors for distillation into component elements.
+
+The root structures of SCP-1621 are approximately doubled in area as those it mimics. If provided with nutrients from carrion, it will also extrude vines in all directions at a visibly observable pace that continues until the carrion is dissolved and the nutrient supply exhausted. Provided with enough carrion, SCP-1621 expands at a rate of ██m/h. Stationary objects are enveloped, slowing during vertical movement, but typically one or more instances of a Cl2F6 reaction have reducted stationary objects to rubble, scrap or ash. Once a vine can do so without overlapping with the host stalk, it penetrates the soil and begins to sprout, creating a new stalk expanding the colony. In all but the most arid climates, SCP-1621 wipes out all other plant life around the colony by way of corrosion, and through Cl2F6 reactions triggered by rainfall.
+
+Addendum: Fruit-bearing specimens do not contain Cl2F6 and, in fact, if they can be harvested safely, have proven safe to eat and a close approximation of the fruit mimicked.
+
+Footnotes
+
+1. PTFE (Teflon), PCTFE (Kel-F) or another similar dry, highly fluorinated polymer
+
+2. compare to carbon monoxide, which requires 6400 ppm to reach the same level of lethality

@@ -1,0 +1,19 @@
+Item #: SCP-488
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to the small size of objects leaving SCP-488-1, suppression of public dissemination of knowledge regarding SCP-488 is sufficient for containment in the foreseeable future.
+
+SCP-488-2 is housed in a reinforced bunker at a depth of 50 m near the military proving ground at [REDACTED]. Triple-redundant seismic sensors are in place to record meteorite impacts in the vicinity, and must be tested daily for functionality.
+
+In the case of impact of meteorites above 0.5 m in diameter, the structural integrity of the bunker must be inspected, and SCP-488-2 moved to a backup bunker located 500 m to the south via underground tunnel if repairs are necessary.
+
+Description: SCP-488-1 is a location near Earth's L4 Lagrangian Point. Though direct observation of the location has shown nothing stationary to date, objects ranging from 0.5 m to 12 m in diameter will spontaneously appear at this location, and immediately accelerate towards the Earth. Composition varies slightly from object to object, but are consistent with rocks of extraterrestrial origin, and do not appear to be artificial. Most of these objects disintegrate and burn up in the atmosphere, but a meteor of sufficient mass to impact the surface will strike every six (6) to twelve (12) hours.
+
+SCP-488-2 is a 26-year old Caucasian male identified as ████ ███████, a resident of █████, ██ before his voluntary containment with the Foundation. SCP-488-2 is physiologically normal in all respects, apart from heavy scarring acquired from his anomalous property. To date, all objects positively identified as originating from SCP-488-1 have been recorded impacting within 100 m of SCP-488-2, determined via extensive experimentation involving relocating SCP-488-2 between secure Foundation sites.
+
+SCP-488-2 has shown no particular ability to resist damage from these impacts, and in fact first came to the Foundation's attention when he was hospitalized on █/██/200█ after a 0.47 m meteorite destroyed his home, killing his wife and infant son. SCP-488-2 was voluntarily contained shortly thereafter, and has remained in Foundation custody since. SCP-488-2 is unaware of how this property manifested or exactly when it started, but that he first noted an anomalous impact approximately six (6) months before the █/██/0█ incident, and increased in regularity and severity up until the incident occurred.
+
+SCP-488-2 is usually cooperative with Foundation researchers, but suffers from severe depression and paranoia regarding his condition. SCP-488-2 is required to undergo regular psychiatric evaluation as well as the regular administration of antidepressants and sedatives.
+
+Contingencies are being developed should the objects originating from SCP-488-1 continue to increase in size until they are a threat to containment and suppression of public knowledge. These contingencies include but are not limited to the possibility of euthanasia of SCP-488-2.

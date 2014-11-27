@@ -1,0 +1,39 @@
+Inside SCP-944, prior to containment
+
+Item #: SCP-944
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-944 is to be surrounded by a 3 m high opaque fence, both to prevent outside access and to allow experimentation unobserved by the public. SCP-944 is officially listed as a condemned building, and “Construction Area” signs are posted to explain the fenced-off area. Level 1 agents wearing ███ █████ Amusement Park security uniforms are to guard the area and prevent unauthorized access.
+
+Non-D-Class personnel entering SCP-944 are cautioned to follow the blue floor lines, indicating safe paths. The “Hall of Fun” is off-limits, due to possible exposure to anomalous effects.
+
+D-Class personnel must be outfitted with subcutaneous GPS location transmitters before being permitted to enter SCP-944.
+
+Description: SCP-944 is a single-story building outfitted as a “mirror maze,” formerly an attraction at ███ █████ Amusement Park in ███████, ██████. After a number of anomalous effects were observed, the building was secured by the Foundation. As the effect appears to be localized, the remainder of the Park is open to the public.
+
+Periodically, individuals entering SCP-944 are capable of walking off the intended paths through the maze and into the mirrors. Despite extensive experimentation, the Foundation has been unable to predict when and where anomalies will occur, or the effects of walking through them. In addition, the distorting mirrors found in the “Hall of Fun” are sometimes capable of producing permanent distortions in the people viewing them.
+
+SCP-944 was built in 2006 and operated normally until Incident 944-U-1 occurred. It is unknown what initiated SCP-944’s anomalous behavior.
+
+Incident 944-U-1: Date: █/██/201█ █████ █████, a 53-year-old male, emerged from the maze, claiming to have been lost in the maintenance tunnels for three days. SCP-944 does not contain maintenance tunnels. Subject treated for dehydration and released. Park security assumed individual was intoxicated and details of incident imaginary.
+
+Incident 944-U-2: Date: █/█/201█ █ ████ ████████, a 12-year-old boy, found severely injured in maze Hallway B, with third-degree burns to hands and feet. Subject claimed to have been detained in a windowless brick room for approximately seven hours, by an individual calling himself “Zippo the Pyromaniac Clown,” who burned and [DATA EXPUNGED] the victim. Victim recalls being told “It’s all part of the show, kid.”
+
+SCP-944 does not contain the area described by the victim. Extensive police search for perpetrator yielded no results.
+
+Incident 944-U-3: Date: ██/██/201█ ███ ███████, 24-year-old female, emerged from maze 101.6 cm (3’ 4”) tall after pausing before a “shrinking mirror” in the maze’s “Hall of Fun.” Subject was 175 cm (5’ 9”) on entering maze.
+
+Foundation personnel intercepted police report of this incident. Area secured; Class-B amnestics administered. SCP status established and containment initiated. Additional investigation revealed that █ individuals are missing after entering SCP-944.
+
+Addendum: Post-Containment Experimentation
+
+Use of robot drones to navigate SCP-944 does not appear to trigger anomalous effects. Therefore, use of D-Class personnel in experiments is approved.
+
+Experiment 944-C-1: Date: █/█/201█ Subject D-12154 allowed to walk randomly through SCP-944. Subject observed to walk through Mirror 22, Hallway C and disappear. GPS tracking indicated D-12154 was 700 miles away, in █████, ██. Subject recaptured, and claimed to have walked out of a mirror in the █████ Hotel ballroom. Mirror 22 appeared non-anomalous when examined after incident.
+
+Experiment 944-C-2: Date: █/██/201█ Subject D-21332 allowed to enter SCP-944. Subject walked into Mirror 5, Hallway A. Security team dispatched after hearing subject screaming. D-21332 observed trapped in/behind mirror (unable to determine which). Mirror broken during attempted extraction of D-class. [DATA EXPUNGED].
+
+Experiment 944-C-3: Date: ██/██/201█ D-23187 ordered to enter SCP-944. Subject observed to walk through Mirror 15, Hallway B. Subject found in front of Mirror 15, Hallway C, deceased, entirely coated with thin layer of glass. Mirrors found intact and appeared to be non-anomalous.
+
+Experiment 944-C-4: Date: ██/██/201█ D-24110 ordered to enter SCP-944, and follow blue-lined path to “Hall of Fun.” Subject found collapsed in Hall of Fun; height extended to 229 cm and [DATA EXPUNGED]; remotely extracted. Subject expired after 10 minutes due to massive organ damage.

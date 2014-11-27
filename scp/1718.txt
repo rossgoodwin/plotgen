@@ -1,0 +1,133 @@
+Item #: SCP-1718
+
+Object Class: Euclid
+
+Special Containment Procedures: Experimental Containment Unit 6852 shall be provided additional power and coolant as necessary to prevent breach. A 2 MW power plant is currently under construction on site to be dedicated solely to ECU-6852 and is projected to be adequate for another ten years.
+
+ECU-6852 is composed of four elements: the core, the gyroscope, the bath, and the superstructure.
+
+The central element of the core is a seamless spherical shell of an aluminum-████████████ alloy, 12 mm thick, of radius 1.63 m. This shell was centrifugally cast around a robotic tool which annealed and polished the interior surface to a reflectivity of 2017 GLU1 before self-disposing via [DATA REDACTED], which also evacuated the interior atmosphere to 0.5 pPa, calculated indirectly from the contraction of the aluminum shell under external pressure. Surrounding the alloy shell is a buffer of six hundred fifty four concentric graphene shells, each one atom thick. In this configuration it provides the highest tensile strength of any manufactured material to date, and acts as a perfect rotational bearing, allowing the innermost sphere to remain at rest or to rotate about any axis, at any speed, independent of the gyroscope.
+
+The core is enclosed within the gyroscope: a shell of ultrapolished fused silica, 2 cm thick, weighing 60.5 kg, assembled from two hemispheres, and plated on its interior surface with 7 nm of niobium. The gyro is hydrodynamically suspended in a superfluid helium-4 bath at 1.95 K, and rotates in a plane parallel to the surface of the Earth2. At this temperature, the niobium is superconducting; as it rotates, it induces a magnetic field.
+
+The bath is housed and circulated within the superstructure: a cylindrical Dewar of depleted uranium with ███████magnetic drives ("magdrives") for accelerating and braking the gyro, a separate insulated reservoir, plumbing, instrumentation, and controls to provide circulation of 2.5 ML of total coolant. Authorized personnel may refer to document ECU-6852S, volumes 2-4 for complete schematics.
+
++ Theory of operation
+
+- Hide
+
+The hyperreflective surface of the innermost shell suppresses incident radiation across a wide frequency range via █████████ ███████ interference.
+
+Previous research demonstrates that quantum defects throughout the graphene lattices within the core occur naturally and self-repair spontaneously within the gyroscope's magnetic field. Calculations suggest the graphene shells can be treated as a composite material in a metastable state with a mean of 105 ± 103 defects at its current temperature and pressure. At 70 K, comparable graphene samples were strong enough to contain sustained pressure of 18 MPa, and impulses of 4.2 GPa-msec. As the temperature is reduced, the strength increases exponentially.
+
+During the design phase, the containment unit was projected to consume 13.75 kW to maintain systems in a standby state between breach attempts by any SCP within. When active, the bulk of the energy expended by an attempt to breach containment from within will be subsumed by the vacuum uncertainty resulting from the tremendous London moment of the superconducting field. The remaining fraction will be converted to heat in the helium bath. For an arbitrary impulse of energy, this conversion occurs on the order of 100 picoseconds. The resilience of the containment device is limited only by the attainable flow rate, which is maintained automatically, and the size of the coolant reservoir. So long as the helium remains in the superfluid state3, maximum flow rate is far superior to that of other cryogenic coolants. The prototype is rated up to 100 kW of power consumption, and has ten times the coolant necessary for operation at maximum power. In a worst-case scenario, using all the coolant and power resources reasonably available to the Foundation, the device is theoretically capable of containing plasma on the order of fTp4, and physical forces approaching 50% of the Chandrasekhar inversion limit.
+
+As a baseline, based on metrics taken from its current containment procedures and history of breaches, indefinite containment of an entity comparable to SCP-076 would require about 17 kW at most.
+
+As the device was designed as a proof-of-concept prototype, no particular attention was paid to how an SCP would actually be placed into the core; it was assumed this could be engineered into a later version of the device.
+
+Description: SCP-1718 is an energetic anomaly that arose during a project managed by the ECRG5 to explore the limits of containment science.
+
++ Project Timeline
+
+- Hide
+
+From January to October 2009, ECRG conducted computational simulation, sample fabrication, and prototyped elements of the device.
+
+Date
+
+Event
+
+December 2, 2009
+
+ECRG submits proposal 6852, "An ████████████ Containment System" to the O5 Research Subcommittee; Drs. Andrews and Hedley, principal investigators.
+
+February 23, 2010
+
+Proposal 6852 is approved and funded.
+
+March 15, 2010
+
+Construction of the core begins in Bay 22 at Site-06.
+
+May 2010
+
+Project timeline is accelerated by three months when ionic sonication techniques for the deposition of graphene are mastered ahead of schedule, allowing for the addition of a new layer every four hours.
+
+November 7, 2010
+
+The gyroscope is assembled at 111 K. It is cooled to 77 K over the next 33 days.
+
+February 2, 2011
+
+Construction is halted for three weeks due to an industrial accident while casting the DU Dewar. Four staff are killed, including Dr. Hedley.
+
+August 5, 2011
+
+The superstructure is complete. The gyro is assembled into the Dewar, using liquid nitrogen at 76 K as the initial coolant.
+
+September 1, 2011
+
+Coolant temperature 65 K. Hydrodynamic rotation of the gyroscope initiated at 0.3 rpm.
+
+October 31, 2011
+
+Coolant at 9.3 K, rotation 52 rpm. Niobium makes superconducting transition, and the core becomes impervious to most sensors.
+
+January 2, 2012
+
+Coolant at 8 K, rotation 72 rpm. The magdrives are first engaged to assist hydrodynamic acceleration of the gyro.
+
+February 6, 2012
+
+Coolant at 7 K, rotation 104 rpm. A significant seismic event in the vicinity of Site 12 causes the rupture of a separate system condensing helium-4 for future use. One assistant researcher is killed, two staff are seriously injured. The gyro is stable throughout the event and its aftershocks.
+
+May 17, 2012
+
+Core rotation 112 rpm. Temperature stabilized at 5.2K while staff initiate the replacement of nitrogen coolant with 4He.
+
+October 18, 2012
+
+4He at sufficient purity to resume cooling. 115rpm.
+
+January 3, 2013
+
+4He reaches 2.17 K, and transitions to a frictionless superfluid state. As predicted, hydrodynamic acceleration no longer functions.
+
+Once the bath became superfluid, the magdrives were used to accelerate the gyro over twenty-four hours to the target 150,000 rpm. The process completed 57 minutes earlier than predicted, but otherwise without incident. The coolant temperature was further reduced to 1.6 K to provide a safety margin. At this rate of rotation, relativistic effects cause a special case of the dynamical Casimir effect to arise between the opposing points of the niobium shell, bombarding the core with [DATA REDACTED] per design, completing the containment protocol. Instrumentation evidenced power, temperature, and gyroscopic stability at least two orders of magnitude better than its design tolerance, near or beyond the sensitivity of most of the instrumentation.
+
+On February 1, in the wake of an unrelated cognitohazard event, Dr. Andrews was administered a Class B amnestic to save his life. He necessarily lost about five years of memories, including all knowledge of project 6852. Though quickly re-immersed in the project documentation and retrained by his former subordinates, he recovered no particular proficiency for the science and engineering techniques he previously pioneered, and expressed profound disbelief of the plausibility of several key components of the design of the containment system.
+
+In the original project plan, the ECU was scheduled to burn-in for 90 days. In light of the fact that the research team had effectively lost both of its principal investigators, the containment tests were deemed successful, and deactivation of the device was initiated early (on February 8th) after thirty-five days of nominal operation. The plan called for a five day magdrive spin down at constant temperature, to 0.3 rpm at 1.6 K, followed by a four month warm up to 77 K, whereupon the core would be dismantled and inspected for stress and spallation defects.
+
+Seven hours after the magdrives were reversed, no significant slowing of the gyro could be detected. A diagnostic test of the SQUIDs that monitored rotation revealed a calibration drift had occurred, and suggested that the gyro was likely spinning far faster than expected.
+
+In his first insight since amnestic treatment, Dr. Andrews theorized that the Coriolis effect, neglected in the original design analysis, had been freely accelerating the frictionless gyro for over a month. However, there was significant disagreement between the research assistants as to whether or not this was a sound application of basic physics. If true, points along the surface of the gyro were calculated to have a speed approaching 0.1c. At the direction of the O5 Research Subcommittee, the strength of the magdrives were eventually increased a hundredfold in an attempt to slow rotation. After fifty-five hours of continuous braking, the recalibrated SQUIDs were able to detect the rotation speed slowing through 352,000 rpm.
+
+Seventeen hours later, as the rotation speed slowed to 153,000 rpm (close to the original design speed), an unexpected and unexplained flow of heat into the 4He bath was detected. Automated systems compensated as intended, increasing total power draw (neglecting the magnetic drives) from 13.74 kW to 14.15 kW, and preventing any rise in temperature. The strength of the magdrives was immediately reduced to originally planned levels. Over the course of the next hour, as the magnetic drives slowed the gyroscope to 152,000 rpm, slightly above the original target rate, power draw climbed to 14.89 kW. Though small, the 1.15 kW difference in draw power theoretically corresponds to a sustained explosive force of over a kiloton of TNT within the core.
+
+In an abundance of caution, the magdrives were adjusted to hold the rotation rate steady at 152,000 rpm, in order to allow further study without risking breach. Since then, the power necessary for stabilization has continued to climb, at about 500 W per day.
+
+If the design theory is correct, the current level of power draw implies forces or temperatures within the core equivalent to 0.7 megatons of continuous explosive force.
+
+Addendum A:
+
+ECRG proposal 6987, "A 1/10th Scale Research Model of ECU-6852" is attached. Drs. Andrews and Smenk, principal investigators.
+
+Addendum B:
+
+Proposal 6987 is hereby rejected. Regarding the prototype, the Foundation will do what it's best at: ECU-6852 is hereby designated SCP-1718. Let's move on, gentlemen.
+
+- O5 Research Subcommittee
+
+Footnotes
+
+1. gloss units
+
+2. clockwise as viewed from above
+
+3. below 2.17K
+
+4. 10-15 times the Planck temperature, or about 1017 K
+
+5. the Experimental Containment Research Group

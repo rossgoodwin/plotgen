@@ -1,0 +1,29 @@
+Item #: SCP-1821
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1821 is to be contained in a steel-reinforced 12m by 12m by 7m seawater tank with a Calypso-class DOCC system. The tank is to be completely darkened, cooled to 4°C, and pressurized to 78.6 MPa. No visible light may enter SCP-1821's containment area. SCP-1821 may be observed with passive infrared.
+
+A tone generator loaded with a prepared digital library of musical sequences1 is to be placed in the containment chamber and connected by speaker and microphone to the tank for the purpose of communication with SCP-1821.
+
+On the first day of every month over the course of 24 hours, 70kg of shredded chum, raw shrimp and dead fish caught in the region of its recovery are to be fed to SCP-1821. Five days hence, any excess food is to be removed. Outside of authorized testing, SCP-1821 is not to be introduced to any living creature, especially those capable of bioluminescence.
+
+A reservoir is to be constructed near the Site which currently houses SCP-1821 according to the following specifications: cylindrical with a diameter of 140m, a depth of 10m, and filled with seawater. Airspace over the reservoir is restricted to helicams only. Residual knowledge of SCP-1821-2 in seafaring folklore is to be suppressed and discouraged.
+
+Description: SCP-1821 is a male omnivorous teleost fish. Genetic tests have confirmed the subject as a close relative of family Saccopharyngiformes (gulper eels). It is approximately 8m long and has a mass of 20kg. SCP-1821's small eyes possess white-reflecting retinal tapeta. Aside from its eyes and SCP-1821-1, SCP-1821's body has a 99.5% visible light absorption rate2. SCP-1821 does not appear to age to a significant degree, if at all.
+
+SCP-1821-1 is a lure resembling a human mouth and throat which extends from the end of SCP-1821's tail. SCP-1821 has voluntary control over the motion of SCP-1821-1 — it is capable of opening, closing and some vocalization, although it cannot speak. SCP-1821-1's lips, teeth and tongue glow with a soft pink light at most times and with a brighter red light when SCP-1821 is feeding.
+
+When exposed to any external source of light radiating in the visible range, SCP-1821 reacts by kissing it with SCP-1821-1. This act extinguishes and/or nullifies the emitted light. The light source will cease to function for the remainder of its existence. SCP-1821 may then attempt to consume the extinguished light source with its regular mouth. It is unknown whether or how SCP-1821 is capable of digesting the various objects it consumes; its spoor is typical of the Saccopharyngiformes family aside from size.
+
+Instances of SCP-1821-2 (formerly Fort-Class Extranormal Event RLM-19.39/64-RB) are a phenomenon which occur on or near the surface of the nearest body of water to SCP-1821 at least 20m from the shore. Instances of SCP-1821-2 take the form of a rapidly rotating, horizontal wheel of light measuring between 11m and 114m in diameter and between 3m and 8m in height. An instance of SCP-1821-2 occurs within 5 seconds of SCP-1821 extinguishing a light, and may last up to 10 minutes before descending into the water and dissipating. Solid matter cannot pass through instances of SCP-1821-2, as they effectively behave towards such as a grinding surface with an immeasurably high coefficient of abrasion. Fluids pass through instances of SCP-1821-2 easily. Before the recovery of SCP-1821, instances of SCP-1821-2 were thought to be an independent extranormal event with no discernible cause and were responsible for an unknown number of shipwrecks.
+
+Although SCP-1821 is not confirmed to be sapient, it is intelligent enough to have learned a system of several sequences of musical tones and to have associated them with objects and events to which it has been exposed. It successfully responds by imitating them with vocalizations from SCP-1821-1's mouth. This system enables communication and has been used by SCP-1821 in order to express primitive thoughts. 60% of its communications involve a desire for food; 30% involve a desire for being touched; 1% are solitary sustained notes with no clear meaning; the remaining 9% are expressions of simple emotion, usually sadness when it is not feeding. SCP-1821 seems to be unaware of the presence of researchers outside its tank; it tends to vocalize directly towards the tone generator's speaker.
+
+On 19██-██-██ in the ██████ ████, a trench in the █████ ████████ Ocean, 8 instances of SCP-1821-2 were reported within 1km of one another. SCP-1821 was recovered uninjured directly below at a depth of 8.2km. 8 deceased individuals of the same species as SCP-1821, all lacking instances of SCP-1821-1, were found in its immediate vicinity, as well as a small unidentified wooden wreckage. Cause of death was severe radiation damage.
+
+Footnotes
+
+1. See Document 1821-919-Eta for information on how to request that a new musical sequence be added and taught to SCP-1821.
+
+2. Based on results from tissue samples.

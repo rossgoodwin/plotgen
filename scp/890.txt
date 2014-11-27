@@ -1,0 +1,63 @@
+SCP-890 preparing for surgery
+
+Item #: SCP-890
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-890 is currently housed at Site-17. SCP-890 is to be kept in a 5 x 6 meter cell furnished with a bed, a nightstand, two (2) bookcases complete with medical textbooks and a writing desk, all of which were originally furnished by the subject. Subject is disallowed from contact with any mechanical, artificial, or otherwise non-living SCPs, as well as any Foundation equipment, under any circumstances, except during approved surgical procedures. Any observation of SCP-890 must be done in person and any notes taken must be on paper.
+
+SCP-890 may have access to the medical bay for any surgeries scheduled in advance with consent of any level 4 personnel, barring emergency conditions which may arise requiring those facilities to be otherwise in use. Staff wishing to introduce an object to SCP-890 must first gain approval from level 4 personnel. Anyone attempting to meet with SCP-890 without prior approval will be subject to disciplinary measures up to transfer to a new site.
+
+In order to promote better behavior and cooperation with containment procedures, it is permissible to occasionally provide SCP-890 with a piece of intentionally damaged equipment for repair.
+
+Description: SCP-890 appears to be a male Caucasian between 35 and 45 years of age and approximately 1.75 meters tall. Subject is generally unremarkable, showing typical signs of aging, except for its eyes, which are achromatic, appearing gray. Personnel should avoid mentioning this, as it seems to cause subject some distress. Subject is typically dressed in surgical scrubs, green in color, and is often seen still wearing a surgical cap and mask.
+
+When given a set of standard medical tools, SCP-890 is able to operate on machines as though they were comprised of living flesh. Testing confirms that any medical supplies used by SCP-890 will have this effect. Subject appears to be capable of operating on any machine requiring some kind of energy to operate, whether powered by clockwork, steam, electricity, or [REDACTED].
+
+During an operation, objects appear to be transmuted to living tissue, including skin, bone, musculature, and other organ systems, as well as blood and nervous tissue. Similarly, tissue may be removed and discarded, but will not revert to its original mechanical form. DNA testing on discarded tissue samples reveals [DATA EXPUNGED]. Tissue transmutation appears to be related to position within the object, such as the outermost material becoming like skin, regardless of the type of material. Observation by Foundation medical personnel indicates that the organs present in the object do not correspond to known organs in living animals.
+
+The results of SCP-890's surgeries seem to yield fairly mixed results. In approximately 20% of all cases the object may "die" on the table, rendering it inoperable. If such an outcome occurs, no amount of repairs, even by technicians specifically trained to maintain and repair the item, will ever return it to working condition; it can, however, be disassembled and used for parts. In some cases, complications may arise from an operation, causing either unexpected or undesirable operation in the object; these can usually be corrected by SCP-890 with one or more additional procedures.
+
+In all cases, objects must heal for a period of time before becoming fully operable again. How long this takes appears to be dependent on how many moving parts a device has, with solid state electronics recovering more quickly than complicated mechanical objects. Recovery time is significantly shorter than expected for similarly complex procedures performed on humans, typically taking only a few hours; however, more complicated devices may require a few days to fully recover.
+
+SCP-890 displays an unusual ability to locate objects which it claims are in need of its services. Before performing surgery, SCP-890 will interview the object. Video logs show a typical, although one-sided, surgery consult where SCP-890 asks the object several routine questions about the object's health and the nature of its problems. Afterward, SCP-890 will give a series of options to the object, make a few notes, and then report back. At no time has an object been recorded or perceived to respond to SCP-890's questioning.
+
+Subject displays an apparent apathy toward humans and other living creatures, stating it cannot operate on "animals" because it is "a surgeon, not a [veterinarian]".
+
+SCP-890 came to the attention of the Foundation through the use of a routine keyword search before it was scheduled to stand trial in ████████, ██, for the murder of [REDACTED] on March 1█, 20██. Subject was performing an "emergency surgery" to save the "life" of a pacemaker, killing [REDACTED] in whom it was installed in the process. Subsequent testing revealed that the pacemaker is once again fully operational. See INTERVIEW LOG 890-01 for more information.
+
+Interview Log 890-01
+
+- Interview Log 890-01
+
+Date: March 2█, 20██
+
+Interviewee: SCP-890
+
+Interviewer: Dr. ███████
+
+[BEGIN LOG]
+
+Dr. ███████: Please state your name for the record.
+
+SCP-890: My name is W█████ █████████.
+
+Dr. ███████: Mr. █████████, what were you doing on March 1█?
+
+SCP-890: A week ago? I was performing a surgery on a patient complaining of [REDACTED]. The operation was a complete success. I do not understand what all the fuss has been about.
+
+Dr. ███████: How did you become aware of the patient?
+
+SCP-890: [DATA EXPUNGED], complaining of weakness and a feeling of unease.
+
+Dr. ███████: And what about [REDACTED]?
+
+SCP-890: You mean the mass of flesh surrounding my patient? It certainly made the procedure a bit more tedious, but was otherwise unremarkable. I've seen many such cases, in fact.
+
+Dr. ███████: But you killed him.
+
+SCP-890: I did nothing of the sort! My patient not only survived, but recovered quite nicely. If you're referring to the mass surrounding the patient, I left it in place at the patient's request; I suggested it be removed, but the patient was adamant it be left in place.
+
+[END LOG]
+
+- Interview Log 890-01

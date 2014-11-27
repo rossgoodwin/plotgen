@@ -1,0 +1,69 @@
+SCP-1680-A, depositing SCP-1680-3882 at Site 33-B.
+
+Item #: SCP-1680
+
+Object Class: Euclid
+
+Special Containment Procedures: Site 33-B is to be staffed with Foundation personnel trained in the reception and processing of SCP-1680 instances. Site 33-B is disguised as the dilapidated former location of Mission High School; civilians attempting to investigate the interior of Site 33-B are to be given amnesiac treatment and returned to their homes. Processing is to be followed by transport to Site 38 Site 33 for relocation as determined by Site 33-B command or the Department of Human Resources. Any individuals inquiring into the anomalous behavior of SCP-1680-A are to be given amnestic treatment; when possible, the Foundation is to attempt to acquire homes within line of sight of the route of SCP-1680-A.
+
+Addendum: As of 02/11/09, all Human Resources agents stationed at Site 33-B are to be of Level 4 rank or higher. Any Foundation personnel displaying insubordinate behavior in response to SCP-1680 processing and relocation orders are to be given amnestic treatment and reassigned.
+
+Description: SCP-1680 is a collection of identical humanoid entities, age estimated at eight years. Instances of SCP-1680 are 137 cm in height and 38.5 kg in mass upon acquisition. Because of their effectively identical nature, this document will discuss SCP-1680 as a collective unit. Through genetic testing, SCP-1680 has been determined to be an exact replica of Tyler Buchanan, an eight-year-old boy declared missing on 11/02/07. See Addendum 1680-1 for acquisition details. Each instance of SCP-1680 believes itself to be Tyler Buchanan and possesses identical memories up to the day of his disappearance; genetic testing has concluded that each instance is genetically identical to one another and to the original Tyler Buchanan. Each instance of SCP-1680 demonstrates extreme emotional distress when exposed to other copies of SCP-1680.
+
+SCP-1680-A resembles a Type A-chassis short school bus, bus number 216756, license plate 5PWD314; examination of the chassis and physical markings suggest it was manufactured by Canadian manufacturer Collins Bus Corporation in 2005. No bus matching this description has been located at any school, and manufacturing information is not available.1 The windows of SCP-1680-A are effectively opaque; nothing of the interior of the bus is visible until each instance of SCP-1680 crosses the threshold of the door and exits the vehicle. No personnel attempting to board the bus have been recovered to date.
+
+With varying frequency, SCP-1680-A appears approximately 150 meters away from Site 33-B, drives to the site, opens its door, permits an instance of SCP-1680 to depart, drives approximately 50 meters from Site 33-B, and disappears. Attempts to track the origin or destination of SCP-1680-A have failed; by all collected evidence, the bus comes into existence spontaneously, deposits SCP-1680, and disappears shortly thereafter. No individuals living in the surrounding area have reported the unusual nature of this to any official authorities or made any inquiries to date. To date, all instances of SCP-1680 have claimed to have no memory of the bus ride itself or of anything between leaving school and arriving at Site 33-B.
+
+Addendum 1675-1: Acquisition Log
+
+Tyler Buchanan was last seen leaving Dresden Elementary School in Dresden, TN at approximately 1450 hours on 11/02/07. While he was scheduled to be transported by bus #64 to Happy Homestead Daycare in Dresden, no individuals interviewed reported seeing him board the bus; rather, two teachers claimed he left the building but was called back in by a science teacher to pick up a report card. The science teacher in question could not be located. The bus itself was never located or recovered. Additionally, upon the disappearance of Buchanan and all of the children on Bus #64, interviews suggested that all potential witnesses at the school had gaps in their memory around the time the bus was boarding. Shortly after the bus was reported missing, anomalous activity was reported from the school's science lab as well. A cover story reported Bus #64 and all children aboard, along with Tyler Buchanan, as the victims of a terrorist attack against a rural school.
+
+The first instance of SCP-1680 was recovered on 11/02/07. The Foundation had received reports suggesting that Group of Interest Lambda-33 ("Manna Charitable Foundation") was maintaining a warehouse for collecting anomalous or potentially anomalous artifacts at the former site of Mission High School. Mobile Task Force Phi-22 was dispatched to investigate. Upon securing and inspecting the area and determining no Λ-33 presence in the building, SCP-1680-A made its first appearance at 1525 hours, depositing the first recovered instance of SCP-1680. The instance was presumed to be a nonanomalous child, transported to the nearest Foundation safehouse, and questioned. SCP-1680-1 was administered Class C amnestics and was about to be returned to his home using a cover story when SCP-1680-A reappeared six hours later at the same location and deposited another instance of SCP-1680. Both instances were detained while the MTF requested further instructions. By this time, Foundation authorities had determined that an undetermined anomalous situation had occurred at Dresden Elementary School and that the then-unclassified humanoid entities were to be detained until further notice.
+
+Addendum 1675-2: Relevant Memoranda
+
+TO: O5 COMMAND
+
+FROM: SITE 33 COMMAND
+
+RE: SCP-1680
+
+08/28/08
+
+Attached is current documentation regarding SCP-1680. We are currently sitting on 2,410 instances of this phenomenon. We have most of them in chemical comas, spread around half a dozen different Sites. The few that have died have been cremated to reduce storage space, but containment is becoming increasingly difficult in terms of simple quantity of contained instances. Please advise.
+
+—MDJ
+
+Note: No particular answer was given in response to this memorandum.
+
+TO: ALL SITE COMMANDS
+
+FROM: O5 COMMAND
+
+RE: D-Class shortage issue
+
+10/04/08
+
+Current attrition rates of D-Class personnel are beginning to threaten standard channels of procurement. All site command departments are instructed to compose a report exploring the possibility of alternate means of securing significant numbers of D-Class personnel on short notice.
+
+-O5-2
+
+TO: O5 COMMAND
+
+FROM: SITE 33 COMMAND
+
+RE: RE: D-class shortage issue
+
+10/10/08
+
+Report attached. Including copy of SCP-1680 documentation protocols for particular consideration. See attached studies regarding trainability and loyalty. Instances are physically diminutive but useful for most D-class tasks not related to physical strength. Given the otherwise nonanomalous nature of SCP-1680 iterations (nonanomalous other than the number of identical copies of instances), we currently believe the standard concerns regarding exposure of SCP phenomena to one another are unwarranted under these circumstances.
+
+-MDJ
+
+Addendum 1680-2: Dr. Jones, director of Site 33, has been promoted to Level 5. Changes in training and orientation for SCP-1680 instances put into effect 11/02/09.
+
+For more information regarding the anomalous event involving the school bus, please consult documentation for SCP-1480. For information regarding an additional anomalous event connected to SCP-1380, please consult documentation for SCP-1380.
+
+Footnotes
+
+1. Information from Collins Bus Corporation suggests the bus was stolen from the manufacturing lot shortly after completion.

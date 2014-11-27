@@ -1,0 +1,57 @@
+Portion of SCP-1683's interior.
+
+Item #: SCP-1683
+
+Object Class: Safe
+
+Special Containment Procedures: Except for purposes of approved experimentation, the entrance to SCP-1683 is to be barred, and the access corridor is to be monitored by security personnel. Only D-Class personnel are permitted to enter SCP-1683. The buildings surrounding the residence containing SCP-1683 have been acquired by the Foundation in order to facilitate containment, and collectively serve as Containment Site-142. A cover story regarding ongoing maintenance work to remove toxic chemicals has been implemented, pending further developments in SCP-1683's anomalous property.
+
+Whenever D-Class personnel are introduced to SCP-1683 for any purpose, all on-site personnel are required to wear aircraft-technician-grade hearing protection, and must withdraw to a distance of at least 20 (twenty) meters from SCP-1683.
+
+Description: SCP-1683 is a child's bedroom, located on the second floor of a two-story residential home in Cleveland, OH, USA. SCP-1683 contains one furnished bed, a dresser, one telescope, a ceiling and walls painted black and covered in luminescent outer-space-themed stickers, and five bookshelves on which are several dozen posters and books regarding astronomy and space exploration as of 1971. Notably, the residence's second floor contains no windows. Analysis has shown that the stickers accurately map many known star systems and planetary locations, although only ones known as of 1971.
+
+Subjects who enter SCP-1683 will immediately and permanently develop a fascination with astronomy.1 Typically, subjects will begin to observe the stickers within SCP-1683, and compare them to systems described in the books; this behavior occurs even with illiterate subjects. As the subject continues to observe the stickers, the stickers will adopt a conformation accurately representing whatever stars, planets, and asteroids are visible in the sky over SCP-1683 at that moment; this continues to be the case even when observed during the day, or during weather phenomena which would otherwise obstruct astronomical observation. The sticker conformations continue to adapt as long they are being directly observed by a live human.2
+
+Whenever any sighted human3 makes skin contact with the telescope, SCP-1683 becomes active. While active, the door to SCP-1683 will close itself within approximately 0.04 seconds; the force with which the door closes has not been reliably measured, but has proven sufficient to destroy cinder blocks and steel girders placed across the threshold.4 Subsequently, the door cannot be reopened from the outside until conclusion of SCP-1683's activation; it is not known whether personnel within SCP-1683 could open the door from the inside.
+
+After SCP-1683 has sealed itself, a human voice can be heard counting down from ten to one, at a volume of approximately 75 dB. Voice analysis identifies the speaker as the subject who triggered the activation event;5 in the event that the subject who triggered the activation event is physically mute, the countdown voice will be identical to radio recordings of the Apollo 13 launch. All video produced within SCP-1683 during an activation event is identical to the television broadcast of the Apollo 13 launch.
+
+At the conclusion of the countdown, SCP-1683 and its access corridor will rapidly be heated to 3300 degrees Celsius6 while sound identical to the Apollo 13 liftoff7 can be heard. This sound is audible within approximately 15 (fifteen) meters of SCP-1683; outside of this radius, it cuts off abruptly.
+
+Two minutes after an activation event is triggered, an unidentified flying object can be detected approximately 2,400 km above the earth, moving away at approximately 33 km/s.
+
+Twenty minutes after an activation event, temperatures in the access corridor return to previous levels, and the door to SCP-1683 will become possible to open again. All occupants of SCP-1683 will have vanished, the stickers will have returned to their original conformation, and all books and posters will have returned to their original places on the shelves.
+
+Foreign objects brought into SCP-1683 by D-Class personnel are unaffected by activation events and can be subsequently recovered, with the exception of astronomy books published later than 1971, clothing worn by D-Class personnel, and live dogs (Canis lupus familiaris). Astrology books will be severely damaged by fire, as will 'new age' books containing scientifically-unfounded astronomical speculations.
+
+SCP-1683 was discovered in 1971, following a set of police reports detailing SCP-1683's effect. The subjects originally residing within the home containing SCP-1683 — a family with two parents and one male child — had gone missing directly prior to the first recorded activation event. Neighbors described the son as having a deep interest in astronomy and space exploration, spending most of his time studying it. It is currently believed that this subject initiated SCP-1683's effect, although how he did so is unknown. All witnesses have been issued Class-C to -B amnestics, depending on their relationship with the subjects.
+
+As of 8/19/1976, SCP-1683 has been classified as Safe.
+
+Addendum: When SCP-1683 was searched, a document appearing to chart a route from Earth to the Moon was discovered within a notebook. This document was heavily worn with eraser marks and changes, indicating that it had been significantly altered several times prior to being discovered. In addition, this writing was discovered on the opposite side.
+
+If there's been a giant leap for mankind, why am I still wasting time here? Tomorrow is waiting, and everything is set. Scopes are set up and the stars are there, watching. I'll see them soon
+
+Addendum: On 09/18/2008, Foundation satellites orbiting Saturn received a transmission, believed to be related to SCP-1683.
+
+Hello? Can you hear me? I need you to take them back. You're the ones who [static] the others, right? You know how it works, so [static] didn't change anything or [static] need you to please, listen carefully, take -
+
+(2 minutes of transmission are indecipherable)
+
+-ot even Neptune. They're not [static] -on't belong here. I know some of your people are [static] -ose are fine, and the dogs are gr- [static] -ut my parents just [static] a mistake, I'm so sorr- [static] -ake them back, please. Before they hurt themselves again.
+
+Footnotes
+
+1. Testing has shown that one D-Class personnel exposed to SCP-1683 was affected for a full year, prior to termination.
+
+2. Testing with paralyzed D-Class personnel has shown that stickers representing the various phases of the Moon will appear and disappear at appropriate times
+
+3. This has been found to include subjects who are blindfolded, legally blind, or blind in one eye
+
+4. Permission to attempt to remove the door from its hinges has been denied by Director Gomerola
+
+5. During experiments involving multiple subjects entering SCP-1683 simultaneously, the cognitohazardous effects of SCP-1683 have made it impossible to instruct multiple subjects to simultaneously touch the telescope
+
+6. although the infrastructure of the residence will be unaffected by this heat, and no ignition will occur, all liquids within the access corridor will boil and vaporize, and all substances with a defined melting point below 3300 degrees Celsius will melt; however, substances which would otherwise ignite prior to melting remain intact. Substances outside the access corridor are unaffected.
+
+7. > 200dB

@@ -1,0 +1,151 @@
+SCP-511 and two SCP-511-1
+
+Item #: SCP-511
+
+Object Class: Euclid
+
+Special Containment Procedures: When an instance of SCP-511 is identified, the affected residence shall be quarantined and will receive the next sequential site designation.
+
+Excepting one main entrance, sites hosting SCP-511 will have all points of possible entry or exit permanently sealed with appropriate building materials. The main entrance will remain locked at all times. Entry is permitted to Foundation personnel with written authorization from Level 3 or higher. All SCP-511 sites will be equipped with remote monitoring equipment allowing for 24 hour surveillance and a continual tracking of the numbers of SCP-511-1 inhabiting the site.
+
+At all times one (1) Class D personnel will be resident in the site. Personnel with this assignment are exempted from monthly termination for the duration of assignment. Candidates for this assignment shall be exclusively drawn from a population of post-menopausal women with a global Clinical Dementia Rating of 2 or greater. (Note: due to the exclusive nature of this population, O5-█ has approved recruiting from local hospice and/or nursing homes if necessary. Ref: Incident I-511-11)
+
+The population of SCP-511-1 within a site must remain within an optimal range of 50 to ███ individuals. Below this range, adult Felis domesticus should be introduced to the site to increase population to minimum levels. If population exceeds ███ individuals, it must be culled immediately. Any SCP-511-1 found outside the containment site shall be euthanized and the remains incinerated.
+
+Any biological material leaving the containment site for testing will be handled in accordance with standard protocols for a level 4 biohazard. All specimens are incinerated after testing is complete. Before coming in contact with any material from the containment site, personnel must be inoculated for Influenza, Hepatitis A, Hepatitis B, ████████ █, Tetanus, Tick-borne encephalitis, and ███████ ██████. Full medical workups are mandatory on a bi-weekly basis for personnel working with SCP-511.
+
+Description: Instances of SCP-511 typically occur within residential structures with a block or stone foundation that includes a basement or crawlspace. All attempts to remove an instance of SCP-511 from such a residence have proved ineffective. (Ref: Interview 511-A)
+
+SCP-511 is always found associated with a colony of feral Felis domesticus, common domestic cats. Members of this colony are designated SCP-511-1.
+
+SCP-511 is a mass of biological matter taking the form of a large feline, often with extra limbs, eyes, mouths or other organs. It is typically coated with dirt, blood and fecal matter, making its fur appear black despite its actual coloring. (Tests have shown SCP-511’s fur to actually be a random patchwork of various feline coat patterns, colors, and lengths.) SCP-511’s mass varies from 10kg to over 50kg, roughly in proportion to the number of SCP-511-1 in the associated colony. The tissue that makes up this mass consists primarily of the bodies of deceased SCP-511-1. The portion of SCP-511 that does not comprise SCP-511-1 consists of other biomass; small rodents, various plant materials, insects and insect larvae, black mold, a human [DATA EXPUNGED]. Incorporation of dead tissue into SCP-511 does not appear to slow the normal process of decay. Different areas of SCP-511 undergo different stages of biodegradation at any given time; some areas show little more than lividity, while other areas may show active carrion insect infestation, and some areas may even show liquefaction of tissues. (Note: Researchers have described SCP-511 making a “purring” sound. Tests have shown this sound does not originate with SCP-511, but is actually the sound of insects, most often blowflies, trapped within its mass— Dr. A. ████)
+
+SCP-511 prefers to inhabit dark spaces with a relatively high humidity, such as old basements and crawl spaces. It will continually scavenge its immediate area for new biomass to incorporate into itself, displacing and expelling matter that has decayed past mechanical usefulness.
+
+Examples of SCP-511-1 resemble ordinary Felis domesticus that have undergone extreme neglect. They display a body condition score of 2 or 1, regardless of the amount of food available. Ulcerated skin is common, as are parasitic infestations, tumors, and various viral and bacterial infections. (SCP-511-1 are known carriers of a particularly virulent strain of ███████ ██████.) A typical SCP-511-1 shows no interest in grooming itself, and has patchy and matted fur. It is unclear to what extent the physical condition of an SCP-511-1 is a result of the influence of SCP-511, and to what extent it is due to sub-optimal living conditions.
+
+Several observations have been made of an SCP-511-1 retrieving biomass from elsewhere and bringing it to SCP-511 to be incorporated.
+
+Addendum 1: Incident report of containment breach at Site 511-█
+
++ Incident I-511-11
+
+- Incident I-511-11
+
+Document# I-511-11
+
+Personnel involved: D-7856, male subject 35 years of age.
+
+Date: 08/27/19██
+
+Location: Site 511-█, ████ Evergreen Way, ██████████, California.
+
+Description: After determining that a permanent human presence at a SCP-511 site results in moderation of aggression in SCP-511-1, containment protocol is updated to require class D personnel reside on-site in the event the original homeowner is deceased. Six months after this policy is established, D-7856 is assigned to Site 511-█. As expected, within a week, aggression levels of SCP-511-1 toward Foundation personnel lessen considerably.
+
+Sixteen days after being assigned to Site-511-█, D-7856 begins showing signs of increased aggression; verbally abusing Foundation personnel and engaging in superficial vandalism of Site-511-█. D-7856 is reprimanded.
+
+Eighteen days into his assignment, D-7856 interferes with a Foundation team by throwing garbage and yelling obscenities. D-7856 is subdued with a tranquilizer dart and locked in his quarters.
+
+At twenty days, D-7856 begins capturing SCP-511-1 and [DATA EXPUNGED] is only discovered when a Foundation research team enters for routine specimen collection 48 hours later. The team discovers remains from 37 separate SCP-511-1 collected in the kitchen. Bodies are dismembered and show signs of [DATA EXPUNGED].
+
+D-7856’s body is discovered in the basement after an apparent attempt to [DATA EXPUNGED].
+
+Site 511-█ is incinerated as an emergency containment procedure.
+
+Ok, I think there’s something to the “crazy cat lady” idea. Think we need to be more careful with the Class Ds on this one – Dr. A. ████
+
+Addendum 2: Interview with Agent ████████, survivor of containment breach at Site 511-47
+
++ Interview 511-A
+
+- Interview 511-A
+
+Interview 511-A
+
+Interviewed: Agent ████████
+
+Interviewer: Dr. A. ████
+
+Foreword: Agent ████████ was sole survivor from Mobile Task Force ████-█ assigned to retrieve an SCP-511 for study from Site 511-47 after the death of the homeowner, Mrs. B. ████████. Interview takes place at St. ███████ ███████ Hospital in █████████ Ohio.
+
+<Begin Log, [11/05/████ 1330]>
+
+Dr. A. ████: How are you feeling?
+
+Agent ████████: [groans] Like I’ve had half my face ripped off. How do you think I feel?
+
+Dr. A. ████: I want to talk about the containment breach.
+
+Agent ████████: [unintelligible]
+
+Dr. A. ████: We have some questions.
+
+Agent ████████: Of course you do.
+
+Dr. A. ████: Starting with why there was foreign matter introduced into the containment unit.
+
+Agent ████████: Do you have any idea what we were dealing with?
+
+Dr. A. ████: Why don’t you tell me?
+
+Agent ████████: We were tasked to retrieve a 40 kilo… thing… with a BSL4 containment unit. You know how big those units are?
+
+Dr. A. ████: I know the specifications.
+
+Agent ████████: Like lugging a self-propelled washing machine. Now imagine dragging one of those into one of these places. You already got reduced mobility from the hazmat suit, got fifty kilos of gear, and you’re walking into a house that has two or three decades worth of garbage in it. We have cat ████ ankle deep in places, trash bags split open, piles of soggy newspaper and junk mail, boxes of clothes, furniture that looked like it exploded, and ███████ cats everywhere— eyes everywhere—
+
+Dr. A. ████: Can we return to the containment unit?
+
+Agent ████████: We have ████ chest high in places, cats everywhere, and spaces so tight that we have to go single file. No way a guy in full gear can turn around, and forget the containment unit. Just one look and there’s no way we can use
+
+[DATA EXPUNGED]
+
+Dr. A. ████: So it was Agent ████████’s idea?
+
+Agent ████████: It was that, or pack it in. Can’t get downstairs. So we bait the unit with the body and point it at the basement door. According to the briefing, it would be attracted to freshly dead… biological matter.
+
+Dr. A. ████: And SCP-511 was attracted to the baited unit?
+
+Agent ████████: The most nerve-wracking twenty minutes of my life, listening to that thing pull itself upstairs. Thud, thud, thud. And those cats, watching us. You know how freaky cat eyes look with night vision equipment?
+
+Dr. A. ████: So you captured SCP-511?
+
+Agent ████████: [laughs]
+
+Dr. A. ████: What happened then?
+
+Agent ████████: We got out as quickly as we could. No one can turn around, so we back out, all those eyes watching us. Staring…
+
+Dr. A. ████: You were first out the door?
+
+Agent ████████: Last in, first out. We all got out, for all the good it did. We thought we’d pulled it off. But the moment the containment unit rolled out the door… it… they…
+
+Dr. A. ████: What happened?
+
+Agent ████████: You ever see films of explosive decompression? That’s what happened to it. Splattered itself all over the insides of the containment unit. And those cats, those ███████ awful cats. They howled. Then they rushed us.
+
+Dr. A. ████: Did you attempt to contain the breach?
+
+Agent ████████: You’re kidding? Right? Two or three hundred of them? Not just the door, but the windows, dropping on us from the second floor. When I saw ████████ disappear under them, I just ran and locked myself in the van. I’m not proud of that…
+
+Dr. A. ████: I’m not here to judge. I’m here to determine what happened, so it does not happen again.
+
+Agent ████████: Well, you see what happened to me? That was one of them that got locked in with me. One. If you don’t reclassify these things Keter, you’re insane.
+
+Dr. A. ████: I will be recommending updates to containment procedure.
+
+Agent ████████: Yeah, while you’re updating things, there’s something else you need to update.
+
+Dr. A. ████: What’s that?
+
+Agent ████████: The briefing was all about how SCP-511 is influencing these cats. That’s wrong.
+
+Dr. A. ████: How so?
+
+Agent ████████: SCP-511 doesn’t influence anything. It’s the cats. They made SCP-511. And they made it because they hate us.
+
+<End Log>
+
+Closing Statement: Agent ████████ died three days later from complications due to blood poisoning. Three weeks after containment breach, a new incidence of SCP-511 was identified in ██████████ Ohio, 35km south-east of Site 511-47. Remote biopsies of this new incidence revealed genetic material identified as coming from three Agents of Mobile Task Force ████-█.
+
+It seems that the “destruction” of SCP-511 might only displace it elsewhere. Until we better understand the vectors that propagate it, all SCP-511 need to be contained in place. Request for reclassification of SCP-511 to Keter is denied — O5-█

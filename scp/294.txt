@@ -1,0 +1,57 @@
+SCP-294 at time of recovery
+
+Item #: SCP-294
+
+Object Class: Euclid
+
+Special Containment Procedures: There are no standard special containment procedures on file for Item SCP-294. However, only personnel of security clearance level 2 or higher are allowed to interact with it (see document SCP-294a). SCP-294 is currently being stored in the 2nd floor personnel break room and is monitored by two guards of security clearance level 3 at all times.
+
+Description: Item SCP-294 appears to be a standard coffee vending machine, the only noticeable difference being an entry touchpad with buttons corresponding to an English QWERTY keyboard. Upon depositing fifty cents US currency into the coin slot, the user is prompted to enter the name of any liquid using the touchpad. Upon doing so, a standard 12-ounce paper drinking cup is placed and the liquid indicated is poured. Ninety-seven initial test runs were performed (including requests for water, coffee, beer, and soda, non-consumable liquids such as sulfuric acid, wiper fluid, and motor oil, as well as substances that do not usually exist in liquid state, such as nitrogen, iron and glass) and each one returned a success. Test runs with solid materials such as diamond have failed, however, as it appears that SCP-294 can only deliver substances that can exist in liquid state.
+
+It is of note that after approximately fifty uses, the machine would not respond to further requests. After a period of approximately 90 minutes, the machine seemed to have restocked itself. It is also interesting to note that many caustic liquids that would have eaten through a normal paper cup seemed to have no effect on the cups dispensed by the machine.
+
+Further testing is scheduled, especially for liquids of extreme temperatures such as molten metals and liquid nitrogen. As suggested, SCP-294 was moved to the 2nd floor personnel break room as a money-saving venture. Following incident 294-01, guards were stationed at the item and a security clearance became necessary to interact with it.
+
+Document SCP-294a (regarding incident 294-01): On August 21, 2005, Agent Joseph ██████ attempted to use Item SCP-294 to obtain coffee during his allotted break time at 9:30 AM. At the request of Agent █████ █████████ "to see what it would do", ██████ requested "a cup of Joe" from the item. Moments after confirming the selection, Agent Joseph ██████ began to sweat profusely and complained of dizziness before collapsing. After moving the unconscious agent to the infirmary, the medical team recovered the contents of the cup dispensed by Item SCP-294: a combination of blood, tissue, and other bodily fluids. Testing revealed the DNA sequence of the biological material dispensed by SCP-294 matched that of Agent ██████.
+
+Agent ██████ made a complete recovery after four weeks of rest and intravenous hydration. X-rays and CAT scans showed no further signs of injury, and ██████ was released. Both agents were reprimanded. Additional security measures for SCP-294 have been recommended.
+
+Addendum [SCP-294f]: After reviewing documentation on SCP-294, ███████████ suggested testing SCP-294's ability to 'retrieve' specific liquids from a distance.
+
+Addendum [SCP-294h]: With the overseeing of O5-[DATA EXPUNGED] "a cup of SCP-075's secretion" was used as input. The product was proven to be the requested liquid and the cup was able to successfully contain the material. However, the report for incident 075-07 was acknowledged 2 hours after the test(See Addendum [SCP-075m]). A containment procedure breach had occurred exactly the same time this test was taking place, waking SCP-075 to its active stage. It was able to secrete an amount of basic solution equal to the capacity of a coffee cup before emergency containment procedure was applied and it was rendered passive. The liquid was not found in the post-incident investigation.
+
+Addendum [SCP-294i]: Researcher punched in request for "cup of gold". The machine dispensed a cup of molten gold. Researcher requested similar precious materials with the same result.
+
+Addendum [SCP-294j]: Researcher punched in (from a safe range) request for "cup of anti-water". The machine hummed briefly, then displayed "OUT OF RANGE" on entry pad. It is theorized that SCP-294 has a limited range of collection, and cannot reach into alternate universes/dimensions.
+
+Addendum [SCP-294k]: Researcher punched in request for "diamond". SCP-294 briefly hummed, then displayed "OUT OF RANGE" on entry pad. SCP-294 gives this result for all solid substances. As diamond is a solid crystalline form of carbon, it appears the machine will not dispense liquid carbon, as this does not result in a "diamond". When "cup of carbon" was subsequently punched in, the machine dispensed a cup of liquid carbon. SCP-294 was immune to the damaging effects of the dispensed liquid.
+
+Addendum [SCP-294m]: Testing for range of SCP-294's capacity for retrieval has been initiated. A unique compound has been formulated, comprised of undisclosed ratios of ███████ brand bleach, █████ ██ ███ █ brand cola, MET-RX powder, and Garam masala. The fluid was created and placed in a sealed container 25 meters away from SCP 294. When requested, the fluid was dispensed. An equal amount of the mixture was no longer present in its original container.
+
+Addendum [SCP-294o-01]: Researcher ███ ██████, under observation of Level 4 personnel, keyed in a request of "the best drink I've ever had". SCP-294 dispensed a fluid similar in appearance to cola. The researcher identified it as a mixed drink he recalls having at a bar during his bachelor party, and was convinced it was "the best drink". ██████ did not know what ingredients were in the drink besides rum and cola. Further tests are scheduled to ascertain how SCP-294 gathers information.
+
+Addendum [SCP-294o-01a]: Under the same conditions, Agent ████████ "the best drink I've ever had". SCP-294 delivered a dark fluid topped with white foam which was later identified as Vienna lager. The cup was printed with a color picture of five (5) men and two (2) women drinking beer on the beach; ████████ was one of them. In his briefing, Agent ████████ confirmed that his favorite drink ever was a Vienna lager he consumed at the beach with his friends. It has now been confirmed that SCP-294 has the ability to directly gather information from someone's mind in order to comply with the given conditions.
+
+Addendum [SCP-294q-01]: Subject keyed "the perfect drink." The machine dispensed a cup containing an odorless lavender liquid. After drinking the liquid, subject appeared to go into shock. Subject later committed suicide, leaving a note which read "I'm sorry, but at this point everything's just one big letdown." Requesting such a drink again is highly discouraged. None of the components of the drink have yet been identified.
+
+Addendum [SCP-294t-01]: Subject keyed in "something Cassy will like". The device was heard to hum for about three seconds, before dispensing an empty cup. Printed on the side of the cup was an image of a traditional soda fountain glass, filled with something brown, and topped with whipped cream. Upon introduction to SCP-085, it was identified by her as a chocolate banana milkshake and judged 'delicious'.
+
+Addendum [SCP-294w]: Researcher keyed in request for "a cup of music". SCP-294 produced a clear, sparkling fluid that tasted vaguely alcoholic. Following ingestion, subject reported "feeling" and not hearing, a continuous rhythm, and demonstrated the ability to move and even dance with a certain fluidity that he had not previously shown. Testing on other abstract concepts is continuing.
+
+Addendum [SCP-294ab]: During a mass security breach, Agent ██████ requested "a cup of pertinent medical knowledge" while taking shelter inside the second floor break room. Of the four agents in the room, Agent ██████ was the only one who was not injured. SCP-294 poured a cup of clear green liquid. Following the ingestion of this substance, Agent ██████ began mending the other agents' wounds in a manner consistent with Foundation medical training. Agent ██████ no longer has the medical training that the liquid provided and other attempts to recreate the effect have failed. The agent has speculated that this event was an emergency measure taken by the object to ensure self-preservation.
+
+Addendum [SCP-294ac]: Dr.████████ requested "my life story" from SCP-294; SCP-294 made humming noises and shook violently for approximately 3 minutes before providing a highly viscous, opaque black liquid. Upon consumption, Dr.████████ reported that he remembered everything that had ever happened to him. Following this test, Dr.████████ entered his office and returned 48 hours later with a 538-page autobiography.
+
+Addendum [SCP-294ad]: Researcher produced request consisting solely of the phrase "surprise me". Device produced an opaque cup containing normal water, later determined to have been heated to approximately 200 degrees Celsius. Upon receiving vibration from transport, the contents of the cup turned into steam, violently spraying boiling water in a 2-meter radius.
+
+Addendum [SCP-294af]: Researcher produced request for "Blood of Christ". SCP-294 vibrated and produced the message "Hic est enim Calix Sánguinis mei", then produced a paper drinking cup containing approximately 0.12 liters of red grape wine.
+
+Addendum [SCP-294ag]: Researcher produced requests for "cup of Smilodon blood", "cup of passenger pigeon blood", and "cup of Thomas Jefferson's blood", and received three "OUT OF RANGE" errors.
+
+Addendum [SCP-294ah]: A D-class personnel with IQ of 99 and low curiosity scores was given written instructions about what to request. The D-class personnel produced a request for 'blood of canis lupus' and received a cup of liquid subsequently identified as wolf blood. The D-class personnel next produced a request for 'saliva of equus ferus caballus' and received a cup of liquid subsequently identified as horse saliva. The D-class personnel next produced a request for "urine of phascolarctos cinereus' and received a cup of liquid subsequently identified as koala urine. The D-class personnel next produced a request for "cerebrospinal fluid of phoberomys pattersoni" and received a cup of liquid currently undergoing analysis. It is to be noted that Phoberomys pattersoni went extinct during the late Miocene epoch, approximately 8 million years ago.
+
+Addendum [SCP-294ai]: Dr. King produced request for "a cup of room-temperature superconductor", and received a cup of apple juice with seeds floating in it.
+
+Addendum [SCP-294aj]: Dr. Menchu produced request for "cup of D-151839's leukemia ", and received a cup of fluid; the fluid was microscopically examined and found to contain leukemic blast cells, which were a genetic match to D-151839. A second request for "cup of D-151839's leukemia" resulted in an "OUT OF RANGE" error. D-151839 was subsequently found to be free of leukemia; however, within 15 days, the leukemia had recurred.
+
+[ Other SCP-294 experiments are currently awaiting approval. ]

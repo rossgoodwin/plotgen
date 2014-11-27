@@ -1,0 +1,47 @@
+Item #: SCP-2697
+
+Object Class: Euclid
+
+Special Containment Procedures: A partial security fence has been constructed 50 m from the edge of SCP-2697. The entire watershed is to remain closed to the public on the pretext of being a former live-fire range for the nearby Mountain Home Air Force Base. Intruders are to be apprehended by Foundation agents disguised as U.S. Bureau of Land Management personnel, warned of the dangers of unexploded ordnance, and turned away. If necessary, class-C amnestics may be used to deter persistent exploration attempts.
+
+When a wildfire begins inside SCP-2697, all personnel are to leave the area immediately. Non-portable equipment and structures are to be abandoned, and rebuilt only after the fire. No firefighting attempt is to last longer than 12 hours: any persons or objects left inside SCP-2697 after this period must be considered lost and allowed to burn. (See Incident Report 2697-433 for explanation.) Agents embedded in the National Interagency Fire Center are to ensure that SCP-2697 fires are not targeted for civilian firefighting. These personnel are also to assist the ongoing information-suppression and disinformation campaigns that prevent public discovery of the anomaly.
+
+In the event of any SCP-2697-1 activity, the project lead is to be notified immediately. Should SCP-2697's response fail to quell the activity, Procedure Miramichi is to be enacted at the project lead's discretion.
+
+Description: SCP-2697 is the watershed of Upper ███ Creek, a minor tributary of the ████████ River located in the Jarbidge Mountains of north-central Nevada. The drainage's land area is approximately 150 square kilometers; its vegetation consists largely of mixed shrub steppe and sparse juniper forest, with scattered aspen groves on south-facing slopes. All organisms and structures native to the watershed1 are considered members of SCP-2697.
+
+As is typical of the area, SCP-2697 is at high risk of wildfires in late summer. However, the fire regime in SCP-2697 is anomalous in several respects. First, the entirety of SCP-2697 invariably burns each year: 100% of its land surface has been subject to active surface and crown fires every year since at least 1952,2 and soil core samples suggest comprehensive annual fires for at least the past 10,000 years. The majority of these fires are attributable to natural causes such as lightning strikes, but 30% (+/- 6%) begin with catastrophic autoignition by an individual native organism. Neither wet weather, active fire suppression, nor anoxic conditions inhibit this effect, and firefighting is largely ineffective.3
+
+Secondly, wildfires in SCP-2697 have minimal effects on its native organisms and structures. These objects catch fire and burn, but suffer relatively minimal injury, losing no more than 10% of their total mass to burn damage. Living organisms show no sign of distress while burning; animals ignore the flames completely. Damage that would ordinarily impair an organism's bodily functions or an object's structural integrity does not cause any apparent disability or instability.4 Furthermore, over a period of three to twenty days after the fire subsides, all damage caused to native organisms and structures is anomalously repaired: living organisms heal with abnormal speed, while nonliving objects revert gradually to their pre-fire condition.
+
+Thirdly, these same wildfires are disproportionately destructive to nonnative influences. SCP-2697 wildfires ignite all objects not native to SCP-2697 and quickly destroy them. Any and every entity originating outside SCP-2697 is affected, including those composed of ordinarily-nonflammable materials such as metal, asbestos, and fire-retardant foam. Nonnative objects and organisms that avoid ignition become unusually attractive to the local wildlife: the longer an unburned nonnative object persists inside the anomaly's boundaries, the more the native fauna will tend to approach it, attempting to touch it and thereby spread the fire already affecting them. 100% of these encounters have so far ended either in the nonnative object's destruction or its withdrawal from SCP-2697. (See Incident Report 2697-433.)
+
+Nonnative material destroyed by SCP-2697 wildfires is converted to fine ash and charcoal, identifiable after the fact as burnt stem and leaf tissue of Bromus tectorum5 [DATA EXPUNGED — SEE DOCUMENT 2697-27A4].
+
+SCP-2697-1 is an object of unknown origin and properties, located at an estimated depth of 23 m beneath the confluence of Upper ███ Creek and its largest tributary stream.6 It appears as an amorphous mass, approximately 3 m in diameter, with a filiform extension ~20 cm in diameter that reaches upwards to a depth of 90 cm, just below the soil-bedrock boundary. It is significantly harder than the surrounding bedrock and opaque to all conventional scanning techniques. Unusually high environmental concentrations of argon and cobalt associated with SCP-2697-1 suggest some relation to SCP-███; it does not display similar toxicity or conversion processes, but see Incident Report 2697-436.
+
+Analysis of fracture patterns in the stone surrounding SCP-2697-1 indicates that it reached its current location about 10,000 years ago through abrupt spatial displacement. Its arrival violently ruptured the bedrock and caused significant geological disruption throughout SCP-2697. Certain fissures thus created still contain small amounts of cobalt-bearing residue, although surrounding charcoal deposits suggest that most of the substance was destroyed by fire shortly after being deposited.
+
+Incident 2697-436: On 4/14/201█, some two months before the beginning of its normal fire season, SCP-2697 underwent comprehensive autoignition: every native organism and structure inside SCP-2697 ignited, beginning with those directly above SCP-2697-1 and radiating rapidly outwards to the precise boundaries of the watershed. Simultaneously, seismographs at the SCP-2697 monitoring stations recorded a single sharp earthquake tremor of Richter magnitude 4.6.
+
+Post-incident examination of the available evidence suggests that these events were immediately preceded by SCP-2697-1 releasing approximately 40 liters of an unidentified liquid, which was forced through the bedrock fissures and up into the soil of SCP-2697. Most of this substance was immediately destroyed by fire, but the remaining residues were found to be rich in cobalt- and argon-bearing compounds, and to have anomalous transformative properties closely analogous to those of SCP-[DATA EXPUNGED]plete conversion of its ecosystem within six weeks.
+
+Research into possible links to SCP-███ has been raised to high priority. Individuals with Level-4 clearance may refer to Document 2697-27A4 for summaries and discussion of the currently-available data.
+
+Incident 2697-690: On 7/██/201█, Foundation assets with the U.S. Forest Service began investigating a series of unusually intense fires in ████████, ██. Reports had indicated that these fires, which would normally require considerable firefighting resources to contain, had all self-extinguished upon reaching the boundary of the ██████ █████ watershed. Preliminary data suggest a strong resemblance to the SCP-2697 phenomenon, including tests in which introduction of Bromus tectorum seedlings provoked a response comparable to that observed in Incident 2697-436.
+
+The current SCP-2697 project lead has requested authorization for a comprehensive survey of the American West for additional SCP-2697 instances. This request is currently pending O5 review.
+
+Footnotes
+
+1. i.e. (for living organisms) born inside SCP-2697 and belonging to a species that evolved in SCP-2697's ecoregion, or (for nonliving objects) having originated within its borders without sapient interference. See Document 2697-C2L for lists of confirmed taxa and objects.
+
+2. Continuous monitoring began in 1952.
+
+3. Fortunately for SCP-2697's environs, fires originating inside the watershed rarely spread more than 30 m past its borders. Wildfire frequency and severity in drainages adjacent to SCP-2697 is no greater than in similar habitats 50 km distant.
+
+4. Animals injured by SCP-2697 wildfires have, however, been observed rubbing damaged body parts in wildfire ash. Preliminary evidence suggests that this behavior further accelerates healing.
+
+5. Cheatgrass, an invasive weed. It is highly flammable during the dry summer months and its growth is generally encouraged by fire, producing positive feedback loops that can lead to complete habitat transformation.
+
+6. The two streams converge less than 50 m from the geometric center of SCP-2697.

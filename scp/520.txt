@@ -1,0 +1,35 @@
+SCP-520
+
+Item #: SCP-520
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-520 is to be stored in an inanimate-item locker at Site-19. The object's handle is to remain perpendicular to its base and be secured at all times with a sturdy clamp made of insulating material. The lower contacts must be covered at all times with wooden blocks shaped to prevent any contact with the handle.
+
+Persons handling the device should wear insulating gloves. Air inside the item's locker is to be heavily dehumidified, and the object should be checked regularly for corrosion.
+
+Description: SCP-520 is a large antique quadruple knife switch made primarily of wood, ceramic, and copper. Its design is largely unremarkable, except that it lacks soldered input and output contacts: it does not appear designed to be attached to a circuit. The handle's bearings and contacts operate smoothly and freely, requiring minimal force to flip the switch between the positions clearly labeled "ON" and "OFF".
+
+When the handle is moved between positions, SCP-520 [DATA EXPUNGED] to splice itself, briefly and at random, into the primary power supply circuit of an electrical device somewhere on Earth. Moving the handle from the ON to the OFF position breaks the power circuit, while moving it from OFF to ON completes the circuit, regardless of any other open switches or other current interruptors. Interruption or completion of the circuit is permanent, even after SCP-520 is no longer appended to the device: wires are physically broken, fuses bypassed, and switches shorted out. The surface of metal connections formed or broken by SCP-520 frequently bears signs of extreme oxidation, often to a chemically implausible extent.
+
+Addendum: The stochastic nature of its effect and the enormous pool of potential targets make SCP-520's effects difficult to observe directly. Its aftereffects are readily identifiable, however. The item has been thus observed, either initially by R█████████ or later by Foundation researchers, to affect the following devices:
+
+Innumerable household, commercial, and industrial light fixtures and other small appliances
+
+Heating and cooling systems of several large buildings
+
+Traffic signals
+
+Fail-safe devices in power plants, nuclear reactors, and aircraft
+
+Communications devices
+
+High-energy physics equipment
+
+Weapons targeting and detonation systems
+
+Medical monitoring, diagnostic, and therapeutic equipment
+
+Individual devices and circuits in personal computers and servers
+
+Power assist systems in automobiles

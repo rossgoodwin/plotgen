@@ -1,0 +1,63 @@
+Discovery site
+
+Item #: SCP-1191
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1191 is to be stored in an opaque Type IV Safe-class containment locker at Sector-28. Neither it nor its locker is to be handled in any way except as necessary for testing. If the object must be moved, the entire locker is to be relocated by a team of Class-D personnel, all of whom must be given every reason to believe that the locker is empty. The locker is to be dehumidified and protected from insect and fungal infestation, and the object should be given regular visual-only checks for deterioration.
+
+Description: SCP-1191 is a rotten willow tree branch approximately 97 cm long by 1.5 cm in diameter, with a prominent kink 31 cm from the base. Any intentional manipulation of SCP-1191 results in the activation of its anomalous properties, which are not fully categorized at this time. "Manipulation" includes any physical contact, made either directly or indirectly via handheld or remotely-operated tools, with the intent of examining, moving, damaging, or otherwise directly affecting SCP-1191. Contact made at one remove — i.e. by ordering another person to handle SCP-1191 — affects the person in direct contact, but not the person who gave the order. Contact with a container holding SCP-1191 counts as manipulation if and only if the contactor is aware of SCP-1191's presence inside the container.
+
+All contact with SCP-1191 has been carried out by D-class personnel with histories of violent crime. Persons handling the object report immediate panic and disorientation. They begin, quickly and without external provocation, to protest their innocence. Further investigation reveals them to bear memories of an alternate timeline in which they did not commit one particular act of violence — in most cases, the act which led to their eventual relegation to Class D. Affected personnel retain these memories indefinitely, although they gradually re-acquire memories of our timeline over a period of forty hours after contact.
+
+During these first forty hours post-exposure, subjects frequently claim SCP-1191 retroactively inserted a violent episode into their personal history. In support of their claims, these subjects have demonstrated implanted knowledge beyond their clearance, both of technical details and inter-personal information. Use of D-class personnel in certain contact events appears contrary to Foundation procedure.
+
+It is presently unclear whether SCP-1191 is causing spurious knowledge generation or actually altering timelines. A test capable of distinguishing between these possibilities has not yet been designed.
+
+Addendum: Recovery Report
+
+Agent █████ was dispatched to ████, Canada to investigate unusually high density of violent crime, accompanied by former convict D█████. The pair discovered an abandoned vehicle in a wooded lot located at 4█.████° N, 1██.████° W. While investigating the vehicle, D█████ picked up SCP-1191. Agent █████ reports immediate distress, followed by abrupt and unprompted denial of a previous crime, in support of which D█████ demonstrated detailed knowledge of Foundation retrieval agent procedure. Agent █████ returned without permitting D█████ to release SCP-1191 at any point, employing coercion where applicable. No further items resembling SCP-1191 have been recovered from the recovery site. D█████ was later administered a Class-R amnesiac and designated personnel D-1191-1.
+
+Addendum: Excerpts from Experiment Log 1191
+
+Test 3
+
+Date: ██-██-████
+
+Subject: Personnel D-1191-12
+
+Procedure: D-1191-12 was instructed to remove a one-centimeter transverse section of SCP-1191 using a circular saw.
+
+Results: Upon picking up SCP-1191 to move it onto the circular saw, D-1191-12 reported confusion, followed by intense mental distress and unprompted verbal denial of three previous murders. SCP-1191 cast aside, slightly chipped upon impact with floor.
+
+Test 4
+
+Date: ██-██-████
+
+Subject: Personnel D-1191-44, D-1191-67, and D-1191-108
+
+Procedure: The three Class-D personnel were instructed to touch SCP-1191 simultaneously.
+
+Results: All three personnel experienced convulsions, denying previous episodes. Interestingly, the episodes denied were not in any case those that led to the individual's initial incarceration.
+
+Test 6
+
+Date: ██-██-████
+
+Subject: Personnel D-1191-13
+
+Procedure: D-1191-13 was directed to move SCP-1191 from chamber corner with 0.5 m iron tongs.
+
+Results: Upon grasping SCP-1191 with tongs, D-1191-13 reacted violently, insisting upon alternate history induced by the object. Under extensive questioning, D-1191-13 demonstrated knowledge consistent with Security Clearance Level 1/1191, insisting that he was a research assistant "and a law-abiding citizen".
+
+Test 10
+
+Date: ██-██-████
+
+Subject: Personnel D-1191-53
+
+Procedure: D-1191-53 was seated in Control Booth 75, given access to a standard Foundation remote-controlled exploratory drone, and instructed to transfer SCP-1191 to a new containment locker with better preservative facilities.
+
+Results: At the moment of contact between the drone's manipulators and SCP-1191, D-1191-53 abruptly became confused and distressed, verbally denying involvement in the preschool bombing for which she was incarcerated. Further questioning was unsuccessful, revealing only that the subject now experiences considerable distress at the memory of child casualties.
+
+Note: Dr. ████████ was reprimanded for permitting Class-D personnel contact with exploratory drones, which are equipped with easily-weaponizable sampling tools, and for allowing direct personal contact between Class-D personnel and Foundation operatives.

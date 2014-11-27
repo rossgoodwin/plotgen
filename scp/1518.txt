@@ -1,0 +1,89 @@
+SCP-1518 prior to recovery.
+
+Item #: SCP-1518
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1518 is housed in a humidity-controlled vault within the underground sector of Site-███-█. The vault is 10m x 5m x 10m and constructed of concrete. SCP-1518 itself is contained in a 1.5m x 2m x 1.5m cylindrical shell constructed of industrial foam. The shell is 30cm thick and composed of 2 equally sized pieces divided by a vertical seam. Said seam is hinged to allow the shell to open for necessary rotation and maintenance due to the damage caused by SCP-1518-1. The vault contains 4 additional shells for the purposes of rotation; these shells are to be kept open when not in use for inspection. All 5 shells are suspended from the ceiling by the mechanical assembly used for rotation.
+
+Once every 63 minutes (this has been timed to directly follow an emission event), personnel monitoring SCP-1518 are to remotely rotate the shells. Afterwards, 1 D-Class personnel equipped with a foam spray canister is to enter the vault and repair any damage inflicted to the interior of the previous shell. Should SCP-1518 breach its current shell, rotation and maintenance must occur immediately, and the schedule will be adjusted accordingly. Once every 24 hours, 2 Level 3 personnel are to enter the chamber and inspect the integrity of the shells.
+
+In light of Incident-SCP-1518-B3, the vault containing SCP-1518 is to be soundproofed, auditory surveillance to be disabled, and personnel used in maintenance are to be outfitted with ear protection.
+
+No water lines or systems may exist within 10m of the vault. SCP-1518 is not to be exposed to rain, and must not be transferred across bodies of water under any circumstances.
+
+Description: SCP-1518 is a 1.1m x 1.8m x 1.1m nonfunctional limestone fountain. It does not appear to possess any power source or external operational controls. The fountain is filled with a liquid superficially resembling water. This liquid does not evaporate and appears to be irremovable from the artifact; it is unknown what mechanism holds the substance in place, but it does not spill if the fountain is disturbed or even inverted. Any solid or liquid matter exposed to the liquid (other than SCP-1518 itself) will instantly sublimate or evaporate, respectively.
+
+Approximately every 315 seconds, SCP-1518 will emit 7-8 bubbles (SCP-1518-1). The bubbles are identical in dimensions, with a diameter of approximately 3cm. SCP-1518-1 behave largely identical to non-anomalous bubbles, but have not been observed to rupture in any circumstances. After emission, SCP-1518-1 will slowly float away from SCP-1518 until they come into contact with solid or liquid matter (other than SCP-1518 itself and the liquid contained within, as the bubbles appear to "bounce off" of these substances). No adverse effects have been observed from SCP-1518-1's interaction with gaseous matter.
+
+SCP-1518-1 have a mutually destructive reaction with solid matter. The exposed bubble will reduce in size until it ceases to exist and destroy an amount of solid matter equal to the volume lost (the mass and density of the substance is irrelevant to this reaction). No trace of the bubble or destroyed matter remains.
+
+SCP-1518-1 will assimilate all liquid matter they are exposed to and increase in size by an amount equal to the volume of the matter assimilated. Due to this, exposure to rain or atmosphere with significant humidity is typically disastrous. Additionally, the high liquid content of living biological matter generally results in the death of exposed organisms. Presently, it is believed that the contact of even 1 bubble with an oceanic body of water is likely to induce an XK End-of-the-World Scenario.
+
+SCP-1518 was discovered in [REDACTED], Bosnia, in 199█ after the reports of a "man-eating fountain" began to circulate. The area in question was presently involved in systematic ethnic cleansing due to the ongoing Bosnian Civil War; a cleansing event causing ███ fatalities had occurred only 10 days prior to the initial rumors regarding the artifact. The primary informant regarding these rumors was █████ ██████████, a member of a "death squad" hired to carry out said cleansing event. The other 14 members of the squad were killed by anomalous behavior associated with SCP-1518. Shortly after the artifact was retrieved, light rain occurred in the area, causing significant damage and killing the recovery team. The secondary team was successful in retrieval, and the artifact was transferred to Site-███-█. ██████████ committed suicide shortly after his initial contact with the Foundation, though his personal effects were recovered, among which was a journal.
+
+Foundation linguists have provided the most direct English translation of the recovered materials.
+
+██/██/199█, Entry ██
+
+We received a message from █████ today, requesting our services in [REDACTED]. I knew that the place had a severe infestation, and was honestly surprised we didn't hear from there sooner. What was even better, he was going to let us stay at his place for a few nights; the others practically cried when I told them. Just having a bed was uncommon enough, but having a full room with food, alcohol, and a bathroom? A little appreciation for our efforts is long overdue.
+
+██/██/199█, Entry ██
+
+Arrival was simple, █████ greeted us and took us to his estate. A beautiful place, with many things crafted out of marble, granite, sandstone. He treated us to lunch and told us where to find the "problem areas". He had a little place set up on his balcony with binoculars and a telescope: apparently he wanted to watch tomorrow. Tonight, we're preparing for sterilization.
+
+██/██/199█, Entry ██
+
+Preliminary sterilization had no problems, males have been cleaned from the area, females and minors are held on the first floor of the estate. I don't know why the boss told us to keep the minors too, normally they'd be cleaned with the males. █████ gave no complaint, he seems to be enjoying everything.
+
+██/██/199█, Entry ██
+
+I knew there was something wrong with the boss's intentions. [DATA EXPUNGED] typical but never with…them. We threw them into the river afterwards, the others did, at least. I was still in shock after [DATA EXPUNGED], so I wasn't participating. The ones that were too young to know how to swim sank, and the others we shot when they came near the shore. The boss approached me and told me to shoot one. I refused. He pointed his gun at me. I shot a corpse, hoping he would not notice, but he did. He hit me with the gun and called me pathetic. █████ was laughing the whole time. The females were still in the house, I heard them screaming at us, distantly. The others went back in [DATA EXPUNGED] again, and sterilized them afterwards.
+
+██/██/199█, Entry ██
+
+I didn't sleep. I glanced out the window several times, thinking I'd heard the minors again, or the females. I thought I heard water trickling somewhere too, in the walls. █████ treated us to breakfast this morning, everyone was laughing and telling stories. The boss kept acting funny around me, treating me like I was fragile, everyone thought that was funny. I didn't really care. Things were rather uneventful until the water stopped working. █████ ordered someone to fix it, but they wouldn't arrive until tomorrow. Thanks to that, everyone started drinking alcohol that night, and I retreated to my room to get away from them.
+
+██/██/199█, Entry ██
+
+The thing came to me while I was asleep; looking back, I don't know how I even managed to sleep. I couldn't see what it was at first in the dark, but I saw it glisten. It was made out of water, but I knew it had eyes, and I knew they were staring at me. A minor, based on its height, judging from the face was impossible. It stared at me for several minutes, and I didn't move. Then, it started to float away, it didn't make any gesture but I knew I was supposed to follow. I followed it into the courtyard, and I saw them. The other members of our group were drifting there, in the air. More of those things were floating alongside them. They were encircling a limestone fountain that █████ owned, and then I saw █████ himself, or something that looked like him, protruding from the base of the fountain. He sank into the fountain and [DATA EXPUNGED]. Then, the others drifted into the fountain and [DATA EXPUNGED] as well, they didn't make a sound either; they were definitely awake, but they didn't say anything. The things kept staring at me, even as they drifted into the fountain as well, they never took their eyes off me. It must have been at least an hour before they all went in, and I didn't move at all in that time.
+
+Addendum [1518-001]: Incident Report SCP-1518-B3
+
+On ██/██/████, at 5:05 AM, SCP-1518 began to emit noise inconsistent with previous behavior. This sound was only partially muffled by the foam surrounding SCP-1518, and was detected by the vault's auditory surveillance, exposing Agent █████ to the phenomenon. █████ subsequently opened the shell surrounding the artifact against protocol, and entered the chamber, wherein he attempted to "drink" from SCP-1518, resulting in his death. An additional 4 personnel were killed by this event, before agents with auditory protection were able to disable the surveillance and secure SCP-1518. The phenomenon ceased 3 hours later.
+
+The noise generated by SCP-1518 may be observed on recordings safely, and has been determined to consist of a looped song vocalized by children in Bosnian (the number, age, and gender of said individuals is currently under study). The cycles of the song are not identical; the lyrics are consistent but the exact vocalization fluctuates.
+
+A complete translated transcript of the song can be found here:
+
+Come catch the bubbles,
+
+So many, so many,
+
+Don't let them pop,
+
+The bubble is your life
+
+Is that you, mother, father?
+
+Don't cry, don't cry,
+
+Is that you, sister, brother?
+
+Isn't it beautiful?
+
+Now the bubbles fall,
+
+Down, down, down, down,
+
+Can't stop the bubbles,
+
+Popping, popping
+
+Come catch the bubbles,
+
+See them, mother, father?
+
+We are the bubbles,
+
+See us pop and die

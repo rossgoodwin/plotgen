@@ -1,0 +1,21 @@
+Image in the early stages of SCP-560 corruption.
+
+Item #: SCP-560
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-560 is to be kept on a Foundation archival-quality optical storage medium at least ███ GB in size. This medium should be accessed at least once per month using the stand-alone desktop computer within SCP-560's containment unit. After the computer ceases to function, the medium should be placed in a shock-proof case, specification ███-██-████. Pursuant to Foundation secure-wipe protocols, the blank drive should be discarded through civilian avenues and replaced with a wipe-ready drive from Site-██ Research. Testing on workstations with any network access or removable media other than SCP-560's storage unit is prohibited by Level 4 order.
+
+Description: SCP-560 is a single digital lifeform of indeterminate origin. Viewed through a binary or hex editor, SCP-560 appears as a pattern of bits which travels through the data structure of the storage medium it occupies. Analysis of SCP-560's bit structure is ongoing.
+
+SCP-560 behaves similarly to certain kinds of malicious software. Before the Foundation's discovery of the lifeform in ████, amateur researchers on the █████████ message boards had discovered a pattern in appearances of the creature's spent data, attributing it to a particularly prolific virus. Rather than administer amnesiacs, Foundation personnel removed SCP-560 and allowed the board to continue their project. The message board recently celebrated the ██th anniversary of investigation into SCP-560.
+
+When introduced into a digital habitat, SCP-560 begins processing the contents of the storage medium. It is currently hypothesized that the lifeform metabolizes data in a manner similar to amoeba, engulfing data within itself and excreting corrupted images, text files, executables, videos, and sound files. This corruption proceeds gradually on each individual file, as the lifeform moves from file to file while feeding. SCP-560 shows a preference for files containing sensitive data; Dr. █████ theorizes that encrypted, compressed, or high-density data provides SCP-560 with a large amount of metabolic energy. This preference makes it ideal for use in Foundation secure-wipe protocols.
+
+Unlike a computer virus, SCP-560 does not deposit copies of itself in corrupted files. Current speculation is that SCP-560 reproduces through [REDACTED]; however, as there are no extant [REDACTED]. As SCP-560's feeding process proceeds, it consumes data at an exponential rate, its feeding efficiency increasing in tandem with the amount of data consumed. After wiping a storage medium, SCP-560 enters a cryptobiotic state. Given a tiny amount of information, SCP-560 can survive indefinitely.
+
+SCP-560 was contained by Foundation personnel during an engineered failure of ███████'s content servers on April ██, ████. The organism entered its cryptobiotic state and was successfully retrieved shortly thereafter. Given the recent [REDACTED], any leak of information pertaining to SCP-560 is punishable by summary termination.
+
+Addendum: Viewing of materials corrupted by SCP-560 on a 3D-capable television or through stereoscopic, linearly polarized, or circular polarized glasses is prohibited. -O5-3
+
+Revision ██-██-████: This includes 3D-capable video game systems. -O5-3

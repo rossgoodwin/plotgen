@@ -1,0 +1,27 @@
+Item #: SCP-1268
+
+Object Class: Safe-exsequi
+
+Special Containment Procedures: SCP-1268 is to be kept in a standard humanoid containment cell and fed regularly. The room is to be monitored by one guard at all times.
+
+In the event of a containment breach, security personnel are required to detain SCP-1268 alive if at all possible; however, if personnel deem SCP-1268 an imminent risk, they are permitted to dispose of it by any means necessary.
+
+Description: SCP-1268 appears to be a human male of indeterminate race with brown eyes and black hair. While SCP-1268 is capable of basic motor functions and self-maintenance, it does not appear to be capable of communication, nor does it show signs of emotion or higher intelligence. It is currently believed to be nonsapient; however, it has demonstrated the ability to use stairs, door handles, and elevators.
+
+When left to its own devices, SCP-1268 will wander aimlessly until it is in proximity to a large group of people1; in these situations, SCP-1268 will go into the crowd and slowly move through it. During this process, the behavior of those in the group will be altered in a predictable manner:
+
+0 min to 2 min: No effects are visible.
+
+2 min to 7 min: Persons in the crowd are visibly nervous, turning their heads frequently and moving more quickly than before SCP-1268 entered the crowd.
+
+7 min to 14 min: Persons other than SCP-1268 begin to experience disorientation and confusion. Some will actively attempt to exit the crowd, although most will continue with whatever activities they were participating in.
+
+14 min forward: Almost all persons in the crowd panic and attempt to leave the area by any means necessary. Subjects affected this way show a distinct lack of concern for the safety of themselves and others. Anomalous effects will cease after SCP-1268 is no longer in the crowd.
+
+The danger of SCP-1268 varies with group size, group density, accessibility of exits, and size of exits. On average, 30% of all persons in a group that has been affected by SCP-1268 will be killed from being trampled or from interpersonal violence. A further 35% will suffer injuries of various severity. SCP-1268 will remain unharmed and show no apparent reaction to the event.
+
+Addendum: A review of available footage has found that, when in a crowd for fourteen minutes or more, SCP-1268 will exhibit a behavior that may or may not be laughter.
+
+Footnotes
+
+1. Due to the inherent expense of testing SCP-1268’s capabilities, the exact group size and conditions necessary to trigger SCP-1268’s anomalous effects is unknown. The phenomenon has been observed to occur in groups as small as 35.

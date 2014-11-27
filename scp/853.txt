@@ -1,0 +1,15 @@
+SCP-853-207, labelled "Clear Blue Sky, 1923"
+
+Item #: SCP-853
+
+Object Class: Safe
+
+Special Containment Procedures: In order to prevent breaking SCP-853, individual instances are to be separately packed in padded boxes measuring no smaller than 25cm x 25cm x 40cm. Except when being studied, all instances are stored in Secure Containment Locker 37 at Meteorological Research Station 21. If access is required, consult Dr. B████ for the combination. Caution is advised when testing SCP-853, due to the lack of specificity of the labeling (see After-Action Report 853-Iota)
+
+Description: SCP-853 consists of ████ sealed canning jars of various sizes and makes. Each instance contains a differently colored substance with a visually-determined viscosity similar to that of firm gelatin. The lid of each jar is labeled with masking tape, upon which is written the name of a weather pattern and a year. Examples include SCP-853-12 ("Gentle Summer Rain, 1979"), SCP-853-145 ("Furious Tornado, 1952") and SCP-853-359 ("Blinding Dust-storm, 19812"). At least 3 different styles of handwriting are present. Instances of SCP-853 are no more durable than commercially available canning jars of the same size.
+
+When an instance of SCP-853 is opened, the contents immediately begin to violently sublimate and vanish completely within 12 seconds. Between 7 minutes and 22 hours later, a weather system matching that described on the label will manifest at the site the instance was opened, regardless of the original or normal weather systems for that area. Anomalous weather patterns will persist for a minimum of 30 minutes and dissipate thereafter. The exact rate of dissipation appears to be related to how different the anomalous weather pattern is from the normal regional climate.
+
+Addendum: On 03/19/████, SCP-853-112 ("Light Drizzle, 1932") and SCP-853-193 ("Pleasant Breeze, 1944") were opened simultaneously at Meteorological Research Station 20. The resultant thunderstorm produced over 1 meter of rain and wind speeds up to 88 kph and persisted for 18 hours before dissipating. Any further proposals to test more than one instance of SCP-853 at a time must be approved by both Dr. B████ and Dr. J███████, at least one of whom must be off-site at the time of testing.
+
+Addendum: On 12/25/████, the Foundation detected a snow storm over the town of ██████, Australia. Investigation resulted in the acquisition of an additional ███ instances of SCP-853 from the basement of an elderly woman by the name of A████ M███████. The handwriting on the lids of the new instances was different from those already contained, but matched that of Mrs. M███████. Mrs. M███████ died of a myocardial infarction upon her detainment, before an interview could be conducted.

@@ -1,0 +1,31 @@
+Item #: SCP-249
+
+Object Class: Euclid
+
+Special Containment Procedure: SCP-249 is affixed to a wall within Site-██. Access to SCP-249 is unrestricted, though an accurate log of destinations must be kept and submitted to a Level-4 supervisor every four (4) weeks. No SCPs of any class may be brought or kept within one thousand (1000) meters of SCP-249 without Level-4 approval.
+
+Description: SCP-249 appears to be a windowless door, covered in a faded white paint. It was first found in a house located within the small town of ██████. When opened, SCP-249 does not lead to the other side of the doorway, but to a random door within eight hundred and fifty (850) meters. Items that go through SCP-249 are teleported to that other door, regardless of what may be between the door and SCP-249. When observed from the destination, the exit door appears to open on its own accord, and whatever goes through SCP-249 appears out of thin air. When opened, SCP-249 takes on the appearance of the door it is connected to. When shut, SCP-249 is no longer connected to that door, and reverts to its standard appearance.
+
+However, roughly every five hundred (500) uses, SCP-249 does not connect to a door within its range, but instead to a random location anywhere in the world, even locations with no apparent doors within hundreds of kilometers. When the 500-use mark approaches, common use of SCP-249 is stopped and tests are done to record its exit location. Since its discovery, a log has been kept documenting these cases (See Addendum 249-001).
+
+Document 249-A
+
+In accordance to 05-██, all restrooms have been moved away from SCP-249's range.
+
+Addendum 249-001 Teleportation log.
+
+12-10-19██: SCP-249 is found and moved to Site ██.
+
+24-6-19██: Agent █████ goes missing and is found weeks later in eastern Canada; describes random transportation.
+
+17-10-20██: Middle of what appears to be the Sahara desert.
+
+4-12-20██: Warehouse in a destroyed city resembling ███████.
+
+25-2-20██: Madagascar.
+
+17-5-20██: When opened, SCP-249 releases a massive torrent of water. Agent ██████, who was holding the door handle, shuts the SCP before Site ██ is flooded. Later, a fish found on the ground is examined, and identified as a species living only in the Mid-Atlantic Deep Sea Trench.
+
+22-10-20██: [DATA EXPUNGED]
+
+19-11-20██: Agent ████ requests use of SCP-249 in infiltration mission. Request approved. Mission is successful.

@@ -1,0 +1,225 @@
+SCP-1015, currently unowned
+
+Item #: SCP-1015
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1015-1 is to be contained in a passcode-locked safe in a 2m x 2m room to be supervised by one guard at all times.
+
+All testing is to take place in a room lined with several layers of thin rubber, latex, paper or other material on the floor, walls and ceiling. Each layer of material must be no thicker than .5 mm.
+
+Description: SCP-1015-1 is an American penny marked with the year 1974. All markings present on the coin match pennies minted this year. Metallurgical analysis has thus far been impossible, as the penny has resisted all attempts to cut or scratch it, and is unaffected by temperature changes, always cool to the touch.
+
+A person possessing the penny is known as SCP-1015-2. No willful action by SCP-1015-2 will permanently rid them of the penny. Dropping, throwing or giving away the penny will result in the penny reappearing somewhere on SCP-1015-2’s person within 4 seconds. Ownership transfer requires the death of SCP-1015-2 followed by another person picking the penny up, or the theft (non-consensual taking) of the penny from its current owner.
+
+Within two hours of the penny’s acquisition, objects touched by most exposed body parts (See Test Log) of SCP-1015-2 are instantly transmuted into 1 or more 1974 pennies. For approximately the first 24 hours, the effect will only manifest on small objects, barely larger than a penny. Over the next 2 weeks, the effect will increase the maximum size of affected objects, probability of transmutation on contact, and percentage of matter converted on contact. Eventually, contact with SCP-1015-2 will convert all solid, contiguous matter into pennies.
+
+Objects that are smaller than a penny in any dimension are not affected. Transmutation only occurs as long as SCP-1015-2 is alive.
+
+The effect conserves volume rather than mass. That is, all space occupied by the converted object will be replaced as efficiently as possible by pennies, with any remaining non-transmuted volume apparently lost. The effect’s boundaries thus far seem to be limited to a single solid contiguous object at a time.
+
+Pennies created this way have not shown any anomalous effects. They are identical at a microscopic level to SCP-1015-1, but unlike the original, can be altered or damaged like any penny. Metallurgical testing has shown pennies created this way are approximately 95% copper, consistent with pennies minted in 1974. (See Addendum 1015-02)
+
+Addendum 1015-1: SCP-1015-1 was originally recovered following an investigation in ██████, ██. All the streetlamps on a street had been “vandalized,” leaving the shaft of every lamp missing, while all internal components and the bulbs themselves were found on the ground, along with a substantial number of pennies.
+
+Similar cases later involved sections of steel outer walls on several warehouses, all gravestones in a section of a local cemetery, and the support beams for an electrical tower , which subsequently collapsed. Pennies were found at all scenes.
+
+A penny-smelting operation was then found inside a condemned home after a fire broke out. Large parts of the home, including its foundation, were discovered transmuted into pennies. █ homeless people apparently involved in the operation were found dead in the remains of the home.
+
+Agents in the area investigating the previous phenomena encountered two survivors at the scene, scooping up pennies. They were later identified as brothers Larry and Bill Sorkin, a pair of locally known indigents. Larry Sorkin died after being fired upon with non-lethal rubber rounds. Autopsy later confirmed cause of death was high-velocity insertion of pennies into his abdominal cavity, not all of which corresponded with the rubber rounds. SCP-1015-1 was found on his person by Lab Assistant Trevor █████. (See Test Log).
+
+Bill Sorkin was apprehended and interviewed.
+
+Addendum 1015-01: Interview
+
++ Show Interview
+
+- Hide Interview
+
+Interviewed: Bill Sorkin
+
+Interviewer: Dr. █████
+
+Foreword: Bill Sorkin admitted his brother had found SCP-1015-1 at the bottom of a dumpster while searching for cans and bottles to return for deposit.
+
+<Begin Log>
+
+Dr. █████: And when did you notice something was odd?
+
+Sorkin: He gave me the penny. Then I couldn’t find it, and he found a penny in his pocket again. It happened a few times. We don’t have a lot of cash on hand, see, so we notice that sorta thing.
+
+Dr. █████: And the transmutation?
+
+Sorkin: The what now?
+
+Dr. █████: The anomalous conversion of matter into – when did stuff start turning into pennies when he touched it?
+
+Sorkin: Oh, that. It was later that day. We were just sitting with our sign – Need money for food, et cetera – and someone tossed us a quarter. Larry picked it up, and it was a penny. I was surprised, but he said it’d been happening all day. He was kinda… (notes show Sorkin made a motion “like a bottle being knocked back” at this point). Then he showed me the cup. All pennies in there. I was pretty mad.
+
+Dr. █████: And when did larger items start being affected?
+
+Sorkin: Um … right then, actually. The mug of pennies turned into pennies. I think I cheered up then.
+
+Dr. █████: How did your brother eat or drink?
+
+Sorkin: Well, that was a scary thought. He couldn’t get ridda the penny. We realized pretty quick he was gonna starve if we didn’t think of something. Straws seemed to be okay, even if he looked stupid sipping out of a 40. Then we found out little chunks of food didn’t change. Meals just took a long time, and I had to cut them up for him. Worth it, I figured.
+
+Dr. █████: Was there anything else unaffected by the anomaly?
+
+Sorkin: What who in the where now?
+
+Dr. █████: The magic penny-making powers. Was there anything your brother couldn’t turn into pennies?
+
+Sorkin: Well, his clothes didn’t change. Except he lost the buttons on a sportscoat. And the soles of his shoes. Newspaper didn’t change. But almost everything else did. Had to be as thick as a penny, maybe.
+
+Dr. █████: So, you converted several thousand dollars worth of concrete and scrap metal into several thousand pennies?
+
+Sorkin: Sounds really stupid when you put it that way. But it was easier than taking this stuff as is. Me and some friends rolled out a tarp, and Larry touched whatever, and we caught all the pennies we could, then rolled up the tarp and loaded it into my buddy’s truck.
+
+Dr. █████: But then you melted them?
+
+Sorkin: Those are 1974 pennies. Copper. Worth almost two cents each. And hey – imagine trying to sell a truckload of gravestones. Not happening. Moot point now, though.
+
+Dr. █████: What happened in the house?
+
+Sorkin: Larry happened. Larry is the reason we can’t have nice things. We were all drinking to our newfound success. He got hammered, tripped, and touched the floor with his face. Then he tried to get up, and I don’t think he saw one of the propane torch tanks rolling toward him, and… It was almost empty. But pennies went flying everywhere. One cut my face. How’s he, by the way?
+
+Dr. █████: He’s fine. But did that start the fire, then?
+
+Sorkin: The other guys were passed out around a space heater. The gas got to the heat right away, and that’s when it went up. They … they didn’t stand a chance with the fire. Except one guy, Ken. He got up. He ran for the door same time as us, and Larry was stumbling around and transmutatering (sic) everything. Larry reached to push Kenny out of the way…
+
+Dr. █████: Was he transmut – was Ken turned into pennies?
+
+Sorkin: It’s … God, it’s so much worse than you’d think. Because your body … it’s not all one piece. There are lots of parts. So many little pieces… No. I’m not talking anymore about this. God. If I never see another penny again, it’ll be too soon. Any chance you might let me and my brother go now?
+
+Dr. █████: Soon.
+
+<End Log>
+
+Closing Statement: Bill Sorkin was named D-1015-01 following this interview. See Test Log
+
+Test Log
+
++ Show Test Log
+
+- Hide Test Log
+
+Test 1015-01
+
+Subject: Lab Assistant Trevor █████ (7 hours after exposure to SCP-1015-1)
+
+Test: Subject asked to strip, then hold still while researchers touched round plastic tokens to various parts of subject's body. One set of tokens measured 2 cm diameter and 4 mm thickness. Another set of tokens measured 2 cm diameter and .5 mm thickness.
+
+Results: Tokens with thickness of .5 mm were unaffected. Results varied for tokens with 4 mm thickness.
+
+Skin: token transmuted into 1 penny
+
+Hair: no result
+
+Teeth: token transmuted into 1 penny
+
+Eye: token transmuted into 1 penny
+
+Fingernails: no result
+
+Toenails: no result
+
+Tongue: token transmuted into 2 pennies
+
+Note: Subsequent tests with the tokens on tissues that previously yielded 1 penny then yielded 2 pennies. We believe this is because of the progression of SCP-1015-1's anomalous effects.
+
+Test 1015-02
+
+Subject: Lab Assistant Trevor █████ (10 hours after exposure to SCP-1015-1), D-1015-01
+
+Test: █████ told to place SCP-1015-1 carefully in the hand of D-1015-01, then withdraw hand and immediately touch plastic token.
+
+Results: Token transmuted into two pennies despite absence of SCP-1015-1 on █████'s person. SCP-1015-1 vanished from D-1015-01's hand in 3.5 seconds. █████ located SCP-1015-1 in left sock.
+
+Test 1015-03
+
+Subject: Lab Assistant Trevor █████ (10.5 hours after exposure to SCP-1015-1), D-1015-01
+
+Test: █████ told to place SCP-1015-1 on table and turn away while D-1015-01 picked item up
+
+Results: SCP-1015-1 vanished from D-1015-01's hand in 3 seconds. █████ located SCP-1015-1 inside own jumpsuit.
+
+Test 1015-04
+
+Subject: Lab Assistant Trevor █████ (10.5 hours after exposure to SCP-1015-1), D-1015-01
+
+Test: █████ told to strip naked, place SCP-1015-1 on table, and turn away while D-1015-01 picked item up
+
+Results: SCP-1015-1 vanished from D-1015-01’s hand in 4 seconds. Unable to be located for several minutes, until █████ expressed significant discomfort in [DATA EXPUNGED] vanished from toilet bowl in 3.5 seconds and was located in █████’s right sock.
+
+Note: May I add, it’s a good thing he thought to put that sock back on before [DATA EXPUNGED] again.
+
+Test 1015-05
+
+Subject: █████ (11.5 hours after exposure to SCP-1015-1), D-1015-01
+
+Test: D-1015-01 became agitated, demanding he be released, reunited with his brother (Larry Sorkin, whom subject was unaware was killed during item recovery), and allowed to keep “our penny.” Quickly attacked █████, fracturing █████’s nose, right orbital bone and right cheekbone, and knocking several teeth loose, rendering him unconscious. D-1015-01 then retrieved SCP-1015-1 from █████'s hand.
+
+Results: SCP-1015-1 remained in D-1015-01’s possession. █████ ceased causing transmutation.
+
+Note: That wasn’t a test! He just beat the ████ out of me while you recorded it!
+
+Note: Welcome back, Trevor. Sorry about the face.
+
+Test 1015-06
+
+Subject: D-1015-01
+
+Test: Subject refused further cooperation and was terminated with one gunshot to head. All present instructed not to interact with SCP-1015-1.
+
+Results: SCP-1015-1 remained inert where dropped on floor, even after removal of subject’s body from room. Body did not cause transmutation.
+
+Test 1015-07
+
+Subject: D-1015-02
+
+Test: Subject instructed to pick up SCP-1015-1 from floor where dropped in previous test. Subject confirmed “ownership” of item by transmuting one plastic token approximately 1 hour later. Subject was then isolated for 2 weeks in a room lined with a layer of paper, beneath a layer of cellophane, beneath a layer of rubber approximately .5 mm thick
+
+Results: Layers remained unaffected.
+
+Test 1015-08
+
+Subject: D-1015-02 (1 week after exposure to SCP-1015-1), D-1015-03
+
+Test: D-1015-02 instructed to touch various objects in order to establish boundaries for transmutation effect.
+
+Results: Varied
+
+Block of solid oak wood: Block transmuted entirely to pennies
+
+Glass brick: Glass transmuted entirely to pennies
+
+Drinking glass (round, 10 cm diameter, 2.5 mm thickness): No result
+
+note: A good rule of thumb seems to be that the matter to be converted or replaced must be able to contain a penny in the 3-dimensional space the original item occupies. i.e., the glass was too curved in this case.
+
+Water (in glass): No result.
+
+note: I think it’s obvious we don’t have to test gasses.
+
+Wet sponge: Sponge transmuted. Volume taken up by pennies slightly less than exterior volume of sponge. Pennies wet and resting in puddle.
+
+Block of wood coated in fresh paint: Block transmuted; pennies sitting in puddle of wet paint, some splashed with paint.
+
+Block of wood coated in dried paint: Block transmuted; no paint remaining.
+
+Block of wood with old, peeling paint: Block transmuted; some paint chips remaining.
+
+Dining room table with leaf installed: Section of tabletop that was touched transmuted entirely to pennies. All other components of table (leaf, other tabletop section, legs, molding around tabletop that was nailed in place, nails and other metal fixings) unaffected.
+
+Two blocks of wood adhered together using ██████ brand glue: Block touched was transmuted; other block unaffected.
+
+Block of ice 4 m3: Block transmuted. Some pennies wet, and puddle discovered after pennies were cleared out of room via industrial vacuum.
+
+D-1015-03 (naked, restrained to an upright dolly): Entire epidermis and dermis transmuted to pennies, along with portions of hypodermis. Larger nerve fibers and blood vessels remained unaffected. Pennies landed on floor in puddle of various bodily fluids and body hair.
+
+note: D-1015-02, who was initially reluctant to touch D-1015-03 for the test, reacted violently to results, immediately attempting [DATA EXPUNGED] finally causing death by brain collapse. D-1015-02 then attempted to attack Agent ████ █████, who terminated him with sidearm before physical contact was made. (Please let’s never do this again.)
+
+Addendum 1015-02: Research originally suggested that pennies created by SCP-1015 had no anomalous properties. It is now known that at an as-of-yet unidentified percentage of pennies created this way exhibit the anomalous effects of SCP-1015-1.
+
+On █/█/██, police found the body of ████ ██████, a department of public works employee who had assisted in the clean-up of the house fire where SCP-1015-1 was recovered, and who had subsequently not returned to work for more than a week. ██████ had died of a self-inflicted gunshot wound to the head. Much of the home’s furniture and architectural features were reported to be missing, with a large quantity of pennies found around the house, as well as blood and other bodily fluids smeared on the walls and floor. ██████’s wife and infant daughter were never found. Foundation Agents recovered one instance of SCP-1015-1 on site. Further instances are to be contained by making use of D-Class personnel to avoid inadvertent ownership of SCP-1015-1 by Foundation personnel.

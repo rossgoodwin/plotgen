@@ -1,0 +1,139 @@
+Item #: SCP-2461
+
+Object Class: Safe
+
+Special Containment Procedures: Following the accidental deaths of Dr. ██████████ and the remainder of the SCP-2461 research team, no further research into SCP-2461 is to be carried out without a unanimous consent of the O5 council. The remaining SCP-2461 artifacts are to be placed in High Security Containment at Armed Containment Site 2461. No access to SCP-2461 is to be permitted without unanimous consent of the O5 council. Anti-theft measures in place at Armed Containment Site 2461 are classified under Protocol 999-2461-Gernsback. Lethal force is authorized to prevent theft of SCP-2461 objects.
+
+Description: SCP-2461 is a series of artifacts recovered from a crash site on ██-██-████.
+
+SCP-2461-A: A disc-shaped device approximately 45 meters in diameter and 10.5 meters in height. Device's exterior is covered in a radar-absorbing material. Entrance and egress are possible through a dilating iris doorway in the central underside of the device, either by ladder, elevator, or roof-mounted gravity lift.
+
+The interior of the device is divided into three levels, each approximately 3 meters in interior height. The topmost level (Deck 1) appears to be devoted to command and control, and includes a control center, observation dome, and navigation systems. The second level appears to be devoted to engineering and avionics, and includes the avionics, engine, and flight control systems. A small living quarters, including galley and cots, is also located on this level. The third level contains the remaining avionics and flight control systems, but is mostly made up of a toroidal fuel tank, containing approximately 40,000 liters of an unknown combustible liquid. At the moment of the writing of this article, 10,000 liters of fuel remain in the tank.
+
+The underside of the device has six hemispherical protrusions located at regular intervals around the circumference of the disc. Each hemisphere shields a turreted X-ray laser in the 200 MW range. Guidance and firing are carried out either by the master gunnery control station on Deck 1, or by individual turret controls on Deck 3.
+
+Three extendable struts are located at regular intervals on the underside of the device, and can be extended for landing.
+
+SCP-2461-B: Ten instances of SCP-2461-B were found inside SCP-2461-A, labeled SCP-2461-B1 through SCP-2461-B10. At the time of the writing of this article, seven instances of SCP-2461-B (B1 through B7) have been destroyed through testing or accident, leaving three extant examples.
+
+SCP-2461-B is an exoskeletal "powered armor" suit constructed of a highly sophisticated steel alloy. Each was originally worn by a different instance of SCP-2461-C before recovery, and was individually fitted to its wearer's physical characteristics. Experimentation has revealed that SCP-2461-B grants the user increased strength, that its armor plating is capable of repelling small arms fire up to and exceeding .50 BMG, and that it contains systems capable of life support in hard vacuum for extended periods of time.
+
+SCP-2461-C1 through C12: The cremated remains of twelve individuals (eleven male, one female) who originally operated SCP-2461-A. At the present time, none of the SCP-2461-C instances have been positively identified. Autopsies carried out after the initial crash site recovery indicates that all ten individuals were killed [DATA EXPUNGED].
+
+SCP-2461-D1 through D 10: Ten devices originally housed in leather holsters affixed to the exterior of each SCP-2461-B. Eight of these devices (SCP-2461-D1 through D8) were damaged beyond repair in the impact. One of the surviving devices was subsequently destroyed during the course of experimentation and testing, leaving one extant device remaining.
+
+SCP-2461-D is an X-ray laser pistol in the 150 kW range. The emitter is located in the bulbous structure located just above the grip. The collimating "barrel" of the device is a hexagonal prism made of an artificial aluminum oxide crystal, protruding four inches from the emitter, surrounded by combination heat-sink and barrel shroud. The devices are rechargeable by 125 V alternating current, or by replacing the power pack located in the grip.
+
+SCP-2461-E1 through E4: Four X-ray laser rifles in the 200 kW range. The construction is similar to that of SCP-2461-D, except that the power pack is located in a magazine well located forward of the trigger housing, the barrel has been extended to twelve inches and includes a forward hand grip made of walnut wood, and a rifle butt made of the same walnut wood has been attached to the rear of the laser emitter housing.
+
+SCP-2461-F through Z: [DATA EXPUNGED UNDER SECURITY PROTOCOL 999-2461-GERNSBACK]
+
+SCP-2461-ALEPH through HE: [DATA EXPUNGED UNDER SECURITY PROTOCOL 999-2461-GERNSBACK]
+
+Addendum: Initial Recovery and History. SCP-2461-A (and all artifacts contained within) were originally recovered from ██████,██ on ██-██-████. Initial recovery operations were carried out by personnel from the nearby ██████ ████ ███ █████, and were originally stored in the U.S. government's ████████████ █████ ███████. Artifacts were transferred to SCP Foundation Site-2461 on ██-██-████ with permission by the Bowe Commission, and have remained in SCP Foundation custody ever since that commission's dissolution.
+
+On ██-██-████, a Global Occult Coalition representative contacted SCP Foundation officials, requesting that custody of the SCP-2461 artifacts be transferred to GOC auspices, citing the "historical and cultural significance" of the SCP-2461 artifacts to the GOC. As of the writing of this article, no plans have been made for any such transfer.
+
+Addendum:
+
+The following information is limited to personnel with 999-2461-Gernsback clearance only.
+
+- Conceal information
+
+The following slogans were found scrawled on various interior surfaces of SCP-2461-A upon recovery.
+
+Deutschland Über Alles!
+
+Gott Strafe Amerika! Gott Strafe England! Gott Strafe Die Vereinten Nationen!
+
+Two stylized lightning bolts, later identified as the sigrunen used as a symbol of the Schutzstaffel (SS).
+
+A crudely drawn symbol of a sword with a ribbon wrapped around the blade, and the words "Ahnenerbe Deutsches" scrawled around the exterior
+
+SCP-2461-VAV: SCP-2461-VAV1 through VAV4 are the cremated remains of four Global Occult Coalition operatives (three male, one female) found on board SCP-2461-A at the time of impact. At the time of the writing of this article, the identities of these operatives are unknown.
+
+Forensic reconstruction indicates that, at the time of impact, two of these individuals (VAV3 and VAV4) were located just outside the corridor leading to the control center on Deck 1, armed with SCP-2461-D and SCP-2461-E instances. Two other individuals (VAV1 and VAV2) were found at the controls of SCP-2461-A, seated at the pilot and copilot's stations. Two SCP-2461-C instances (C1 and C2) were also found nearby, each killed by a headshot by a laser pistol in the 150 kw range.
+
+The following information is limited to O5-level personnel with 999-2461-Gernsback clearance only.
+
+- Conceal information
+
+Transcript of SCP-2461-A Cockpit Flight Data Voice Recorder.
+
+Unknown: "Stick this in your pipe and suck it, Ratzi scum!"
+
+Sounds of physical struggle.
+
+C-1: "Foolish. Did you seriously think that you could win this fight? You are a MAN. We have become GODS."
+
+VAV-1: "I'm starting to *strangled grunt* get really sick of *shout of pain* your grandstanding!"
+
+Continued sounds of physical struggle. Servos whining.
+
+C-1: "You've lost. Your mere human muscles are no match for the power of our steel. When you see your home town in flames, when you…"
+
+Sound of gunshot. Sound of two rapid gunshots.
+
+VAV-1: "… it took you long enough."
+
+VAV-2: "You try running in heels on a UFO, Captain."
+
+VAV-1: "What about Manny and Wee Willy? Are they safe?"
+
+VAV-2: "They broke out at the same time we did. They're holding the corridor against the enemy."
+
+VAV-1: "Good. Now let's see if we can turn this infernal machine…"
+
+Extended pause.
+
+VAV-1: "Scheiße."
+
+VAV-2: "You see it?"
+
+VAV-1: "Computer flight controls. It must be making thousands of computations per second keeping this thing in the air… and it requires a password. Do you know it?"
+
+VAV-2: "No. Damn. What do we do?"
+
+VAV-1: "We can't let this thing cross the Atlantic. If this verdammt… monstrosity… gets found by the wrong people… our country is barely rebuilding itself. We can't let this act of sabotage set us back …"
+
+VAV-2: "It won't. Give me some time. I'll figure out this compu—."
+
+VAV-1: "Wait one. Manfred, go."
+
+Extended pause.
+
+VAV-1: "Then do what you can. Go with God."
+
+VAV-2: "The fight isn't going well?"
+
+VAV-1: "Wilhelm is dead. Manfred will…"
+
+Explosion. Gunfire.
+
+VAV-1: Shouting. "We are out of time!"
+
+VAV-2: "Then we go to Plan B."
+
+VAV-1: "Yes."
+
+VAV-2: "For what it's worth, Fritz, you weren't so bad for a stuck up German ass."
+
+VAV-1: "I feel the same way, you headstrong Ami bitch."
+
+Recording ends.
+
+GOC missive sent to SCP Foundation O5 Council on ██-██-████.
+
+To Whom It May Concern,
+
+The Global Occult Coalition High Command has recently received word that the remains of GOC Strike Team Alpha are in the custody of your organization. It is with the utmost respect and gratitude for the care with which you have maintained these historical artifacts that the Coalition cordially requests that these remains and artifacts be returned to the Global Occult Coalition.
+
+Strike Team Alpha was the first Global Occult Coalition strike team to be formed in the wake of the Second World War. Their exploits against the SS Ahnenerbe and the Thule-Gesellschaft during the years following the dissolution of the Nazi regime were instrumental not only in dealing with the occult fallout of that war, but in repairing the reputation of the German people in the occult community. Certainly, complicit guilt in the deaths of nine million innocents cannot be expunged easily, but their pasts do not in any way lessen the courage and sacrifice of Commander Hans Fritzl, Lieutenant Wilheim Weiss, Sergeant Manfred Schroeder, and Special Agent Diana Wu-Frost.
+
+Certainly, an organization whose early history includes a shameful involvement in the "McCarthy-Truman UFO Scandal" of 1951 must understand the value of repentance and restitution.
+
+Yours Sincerely,
+
+Under-Secretary-General D. C. Al Fine
+
+United Nations Global Occult Coalition

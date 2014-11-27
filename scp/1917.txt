@@ -1,0 +1,123 @@
+Researcher ████████ walking past SCP-1917's rear tracks.
+
+Item #: SCP-1917
+
+Object Class: Safe
+
+Special Containment Procedures: Site-93, occupying a 30km2 tract of outback near ██████████, Australia, has been established to contain SCP-1917 and evaluate instances of SCP-1917-1. The perimeter of the site is protected by two concentric layers of 3-meter dragon's teeth tank barriers, as well as a 5-meter-high electrified fence and a system of backup radio beacons should manual detonation of the object's disabling charges fail. Site-93 security personnel are equipped with anti-tank weaponry sufficient to achieve a mobility kill on SCP-1917 (or any instances of SCP-1917-1) in the event that it is not disabled by the enactment of Protocol Maginot.
+
+SCP-1917 is to be accompanied at all times by Site-93 personnel to monitor the status of the attached disabling charges as well as the nature of new SCP-1917-1 iterations. SCP-1917's outer hatch has been fixed open to facilitate access to the vehicle's interior, and a system of wireless cameras has been emplaced within the object to supervise the creation of SCP-1917-1.
+
+In the event that SCP-1917 becomes hostile to Foundation personnel or creates an instance of SCP-1917-1 which is capable of self-activation, Protocol Maginot is to be activated. On-site personnel will detonate SCP-1917's attached charges before retreating to a safe distance from which to disable any active instance of SCP-1917-1. In the event that this stage of the Protocol does not successfully disable the object, the onsite platoon of M1A2 SEP2 TUSK tanks will be utilized. Due to SCP-1917's significant capacity for self-repair, personnel will prioritize accessing the vehicle's interior as quickly as possible.
+
+To date, SCP-1917 has requested access to various written materials. A sample list follows;
+
+Jane's Armour and Artillery, 1950-1970 (Granted)
+
+Design documents for Chobham-type tank armor (Denied)
+
+The collected works of R.P. Hunnicutt (Granted)
+
+Panzer Tracts, H. Doyle (Granted)
+
+A selection of modern art and design magazines (Granted)
+
+Installation Art: A Critical History, C. Bishop (Granted)
+
+Full design blueprints for the M1A2 MBT (Denied)
+
+Full design blueprints for the T-99 MBT (Denied)
+
+Instances of SCP-1917-1 are to be recycled for raw materials after a period of 7 days on Site-93.
+
+Description: SCP-1917 is an anomalous, sapient armoured vehicle which functions as a mobile factory for the production of tanks. The object's hull is rectangular, measuring 55m x 35m x 25m. It is powered by a pair of 2500 hp gasoline turbine engines of unknown manufacture and runs on eight sets of de Mole-type continuous tracks1. SCP-1917's outer hull is unbroken with the exception of a single double-doored hatch (currently secured in the open position), a large set of bay doors located in its lower front hull, several large air intakes/exhaust outlets on the upper rear hull, and assorted exterior light fixtures. SCP-1917 appears to be able to manifest articulated mechanical arms, davits or winches at any point along its outer hull.
+
+The words "IMPERIUM AUSTRALIS INCOGNITA2 LANDSHIP MANUFACTORY MK. XXIV" are engraved directly into the hull plate above the bay doors. SCP-1917's hull is composed of high-quality rolled-plate steel, and is subject to normal wear and tear. SCP-1917 has demonstrated the ability to rapidly repair and modify its outer hull using its own reserves of materials, though it has never been seen to arm itself or otherwise assume a form designed for combat.
+
+SCP-1917's interior is an extradimensional space with dimensions of approximately 1km x 1km x 1km, accessible from both the main bay doors (when open) and the exterior hatch. Most of the space is dedicated to a fully-automated assembly line dedicated to the custom design and production of armoured vehicles. The assembly system is fed from a series of raw-materials hoppers which replenish their contents by unknown means; the rate of replenishment appears to be tied to the volume of air SCP-1917 draws in through its air intakes, and tends to be higher during windy weather. A series of four 5000L gasoline tanks feed directly into the engines' fuel intakes, replenishing themselves in the same manner as the materials hoppers. All of the construction systems within SCP-1917 are entirely mechanically-powered, with the exception of those incorporating electrical lights or welding systems. SCP-1917 can rearrange the layout of its interior area at will, and individual components of the assembly line can function independently when disconnected from their power sources. A small area near the exterior hatch appears to have been set aside for use as an overseeing area, and remains stationary regardless of any shifts in the object's internal geometry. This area is equipped with a compact drafting board, a set of cabinets full of drafting equipment, and a single bookshelf, currently empty. Any piece of written material placed on it will slowly disintegrate into ash over a period of 3 hours, whereupon SCP-1917 will instantly gain total knowledge of its contents. This forms the primary means of communicating with SCP-1917, as it does not appear to understand human speech or be able to read.
+
+SCP-1917 communicates by constructing instances of SCP-1917-1 at a maximum rate of 1 per hour. SCP-1917-1 are always tracked armoured vehicles (or components thereof, see Addendum 1 below), built with technology available during the 1912-1970 period. Though SCP-1917-1 instances frequently share design components with actual mass-produced tanks, SCP-1917 appears to prefer designing original vehicles. Each instance of SCP-1917-1 has a name or numerical designation printed on its turret or upper hull, and it is by this means that SCP-1917 initially established contact with the Foundation when it was discovered in [DATA EXPUNGED]. SCP-1917 is fluent in English, French, German, Russian, Chinese and Japanese, and has demonstrated familiarity with several other languages and dialects; it appears to prefer communicating in French. SCP-1917 refers to SCP-1917-1 as "art installations" or "works", and has consistently refused to construct vehicles designed solely for combat usage (See Addendum 2 below). All instances of SCP-1917-1 have been non-anomalous, although their designs tend to be bizarre or deliberately unusual.
+
+Addendum 1: Sample SCP-1917-1 Instances
+
+Instance #
+
+Date Created
+
+Designation
+
+Description/Notes
+
+SCP-1917-1-36 to SCP-1917-1-42
+
+██/██/2002
+
+"матрёшка 1" through "матрёшка 6" ("Matroyshka")
+
+Vehicles were externally identical to Russian-made T-34/76 tanks from 1940, although each subsequent vehicle was 20% smaller than the preceding. Internal components were designed such that the vehicles could be nested inside one another.
+
+SCP-1917-1-99
+
+██/██/2002
+
+"Folly"
+
+A single rubber-plated track link, measuring 4m x 2m x 1m. Design matched that of a German Pzkpfw VI "Tiger" tank.
+
+SCP-1917-1-101
+
+██/██/2003
+
+"Icebox"
+
+Infantry Fighting Vehicle designed for use in cold-weather conditions. Most of the exterior hull is composed of pykrete3. Armed with a small-calibre cannon firing 30mm shells loaded with frozen carbon dioxide-based explosives, or 'dry ice bombs'.
+
+SCP-1917-1-45
+
+██/██/2004
+
+"Ecologist's Nightmare"
+
+Light reconnaissance vehicle with a composite hull made of layered plate steel and woven bamboo. Engine runs on a form of bamboo-based wood gas, and is connected to a high-efficiency gasification unit. Outer hull is composed of terraced planter boxes and irrigation systems, apparently intended for the cultivation of bamboo.
+
+SCP-1917-1-167
+
+██/██/2004
+
+"Grue de L'Orient" ("Crane of the Orient")
+
+Main hull composed of a single unbroken sheet of plate steel, folded into shape via origami methods. Main cannon replaced with a complicated mechanical device designed to fold sheets of paper into assorted varieties of origami flowers and eject them at high speeds.
+
+SCP-1917-1-205
+
+██/██/2005
+
+"Au R'voir, Mes Enfants" ("Goodbye, my Children")
+
+Compact, fully-functional turretless vehicle similar in design to a French ARL V39 self-propelled gun. Hull painted black. Vehicle was equipped with a loudspeaker system which broadcasted 2046 separate 6-digit numbers (Read by a female voice in Lyonnais French) before detonating via internal charges. SCP-1917 constructed no further instances of SCP-1917-1 for the next week.
+
+SCP-1917-1-303
+
+██/██/2007
+
+"Regrets."
+
+Fully-equipped M1A2 Abrams Main Battle Tank. Interior was filled with what was later determined to be a mixture of machine oil, human blood, sweat and tears. How SCP-1917 learned to construct this type of vehicle is unknown. DNA testing yielded inconsistent results.
+
+Addendum 2: SCP-1917 Construction Test Results
+
+On ██/██/2013, Researcher H████ began a series of tests to determine if SCP-1917 could be made to mass-produce combat vehicles of modern design. SCP-1917 was supplied with the blueprints for a simplified version of the Swedish CV-90 Infantry Fighting Vehicle, as well as a written work order instructing it to construct 3 of the vehicles to be used for live-fire tests. After an unusually protracted construction period of eight days, SCP-1917 produced SCP-1917-1-504, 505 and 506 (Designated "S'il vous plait, ne l'fait pas."4, "Futilité"5 and "Sauvagerie"6). While these vehicles were determined to be fully functional and combat-ready, SCP-1917 had redesigned their interiors with the apparent intent to make them as unergonomic as possible. Testing personnel reported severe repetitive strain injuries, bruises from collisions with inside fixtures, and headaches from faulty electrical equipment. Following a series of catastrophic electrical and mechanical failures during late-stage testing the vehicles were scrapped.
+
+Footnotes
+
+1. Lancelot de Mole, an Australian inventor, developed a form of continuous tracks in 1912 which partially inspired British tank designs during the First World War, but were never mass-produced or adopted.
+
+2. No corporation, region or state going by this name has been discovered in any universe the Foundation currently has access to. Research is ongoing.
+
+3. A composite of water ice and wood shavings.
+
+4. "Please don't do it"
+
+5. "Futility"
+
+6. "Savagery"

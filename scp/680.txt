@@ -1,0 +1,43 @@
+SCP-680.
+
+Item #: SCP-680
+
+Object Class: Safe
+
+Special Containment Procedures: Because of its usefulness as a possible diagnostic tool, SCP-680 is to be kept at Containment Site-76 in Storage Locker 76-███. Additionally, to prevent accidental activation (and subsequent waiting periods) of SCP-680, the SCP must remain at least 10 meters away from all but mechanically static machinery. Use of SCP-680 on a subject must be approved by Level-3 Personnel.
+
+Description: SCP-680-1 is a slate sculpture in the form of a human skull missing its mandible, with a mass of approximately 7.5 kg. The sculpture itself does not appear to be hollow, as all orifices have been filled with a presently-unknown black substance that rates 9.6 on the Mohs Scale of Mineral Hardness. Beyond its improbably high durability, the skull itself appears to have no particularly unusual properties. Resting on top of SCP-680-1, however, is SCP-680-2.
+
+This (SCP-680-2) appears to be a set of mineral appraisal tools connected to a large (6 cm) eyepiece, which is in turn connected to a bronze headstrap. Among said tools are a pair of lens adjustment knobs, a series of additional magnifying glasses, a tungsten filament with no otherwise known properties, and various other devices. Craftsmanship appears to be of a late 19th-Century Germanic design, though since SCP-680 was discovered in ████, Brazil, no specific design or influences are easily named.
+
+SCP-680-2 has no particular effect when removed from the SCP-680-1 and tested with D-Class (or other) personnel, though said test subjects describe a feeling of motion sickness and general irritability afterward. Whenever a mechanical item of sufficient complexity is placed approximately 0.5 meters in front of an assembled SCP-680, however, several of the tools on SCP-680-2 begin to move of their own accord and set themselves to a unique setting seemingly “tuned” to the object in question. Furthermore, the filament will become increasingly warm, eventually growing visibly hot. The rest of SCP-680-1 and -2 will become otherwise temporarily inert.
+
+After a period of approximately three minutes, a series of clicks will emit from various parts of SCP-680. Four sources of clicking have been discerned:
+
+—From both eyepiece adjusters,
+
+—From the additional magnifiers,
+
+—And from within SCP-680-1’s right (unblocked) eye socket.
+
+This will continue until the filament reaches a maximum temperature of ████, after which all action ceases and the skull “powers down” for a period of approximately three hours.
+
+Studies performed on SCP-680 have revealed that the “clicks” emitted by the SCP are actually messages communicated in Morse Code describing the “studied” item’s properties, including make, purported original assembler or team, function and other items. Furthermore, particular pieces of “study” seem to come consistently from certain points of the SCP. For example:
+
+—Statistical component inquiries such as make, model and craftsmanship are reported by the lens adjustment knobs,
+
+—Suggestions as to the material composition of the object are reported by the magnifiers, and
+
+—Particularly unusual properties are reported by SCP-680-1’s eye socket.
+
+Material composition data gathered by SCP-680 appears to be largely statistical, giving a list of item materials corresponding to 80 (reported) out of the first 92 elements of the periodic table. Materials are usually given in the greatest percentage of presence, and subsequent spectral analysis of said objects usually confirm SCP-680’s analysis to within 10% (with notable deviations; see Addendum 680-2).
+
+Notes about specific make of the object studied match surprisingly precisely with objects of known origin, (such as with SCP-███, where not only the development team was named, but also the leader’s name and the SCP’s approximate date of creation).
+
+“Unusual” notes made by SCP-680-1’s eye socket are much less precise than the rest of the SCP’s notes, and usually take on a conciliatory nature. Many times, especially with studied SCPs, the messages will be generally what has been studied, but will also give general comments that often lead to a better overall understanding of other SCPs’ behavior. As such, however, much of its empirical data is either frustratingly vague or presented in a riddle.
+
+Dr. Mentha has shaped a theory that this SCP’s “general notes” do not actually come from the SCP “studying” the material at hand, but instead performs a quick survey of previously conducted research and paraphrases it. No explanation for how it obtains this information, however, has been discovered, and Dr. Mentha is reminded that he must be more explicit in said theories so that they can at least be verifiable.
+
+Addendum 680-1: SCP-680 must be presented directly to the object to be studied. A reproduction of the object, at best, will give information on the model or display of the object in question. Similarly, holding SCP-680 to a mirror, unless said mirror has sufficiently SCP-quality characteristics, will yield no information from SCP-680.
+
+Addendum 680-2: SCP-680 appears only to activate when presented with sufficiently mechanical objects. Biological objects elicit no response from the SCP, and if a mechanical object has biological components, SCP-680 will completely ignore those qualities. Here, “mechanical” is used to describe objects with at least ███ moving parts within its structure.

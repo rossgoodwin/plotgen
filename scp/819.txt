@@ -1,0 +1,241 @@
+Image of SCP-819 and contents A-F
+
+Item #: SCP-819
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-819 is currently housed in a secured locker in Site-19. Permission from Dr. Dreyn is required to access items SCP-819-A through F.
+
+Description: SCP-819 was discovered in a pediatric office in ███████, ███████, after several reports of children being rushed back with symptoms including vision loss, severe nasal pain, and idiopathic unconsciousness. Agents dispatched found that the lollipops offered to the children were causing different bodily fluids to disappear. The candy in question was confiscated, and the office staff, affected patients and their guardians were treated and administered Class-A amnesiacs.
+
+SCP-819 refers to the contents of a large box of seemingly normal lollipops produced by [REDACTED]. It appears only the one package recovered is exhibiting these anomalies. SCP-819 consists of six flavors of lollipops, individually wrapped and on looped safety sticks, classified as SCP-819-A to F. Current total of items SCP-819-A through F is ███, with ██ having been used for testing. Physically and chemically, these items appear normal, and can be destroyed and consumed like any other lollipop. Fragments of the lollipops retain the effects. The flavors are mundane as lollipops go, reportedly tasting the same as unaffected lollipops of the same brand. Experimental testing found that each flavor affects a different bodily fluid.
+
+Designation
+
+Color
+
+Flavor
+
+Affected Fluid
+
+SCP-819-A
+
+Red
+
+Cherry
+
+Blood
+
+SCP-819-B
+
+Orange
+
+Orange
+
+Gastric Acid
+
+SCP-819-C
+
+Yellow
+
+Lemon
+
+Urine
+
+SCP-819-D
+
+Green
+
+Lime
+
+Phlegm
+
+SCP-819-E
+
+Blue
+
+Blue Raspberry
+
+Aqueous and Vitreous Humors
+
+SCP-819-F
+
+Purple
+
+Grape
+
+Cerebrospinal Fluid
+
+The affected fluid is only drained while the lollipop is actively consumed, and levels return to normal per typical generation by the body, assuming the mechanism for generation was not damaged during the loss of fluid. There is no compulsion to eat the lollipops, nor a compulsion to stop once all fluid is drained, assuming the body can survive without.
+
+During testing, the only colors that produced fatalities directly from consumption were Red and Purple. It appears that the rate of loss is a consistent volume and not based on the total volume present in the body, as evidenced by the difference in times between fatalities in SCP-819-A and SCP-819-F. Where the fluids are displaced is yet unknown. Further testing will be performed as methods to trace this phenomenon develop.
+
+Cross research with SCP-466 indicates that fluids may be transferring into random people in various areas. See Experiment Log 819-466 for additional details. Research and requests unrelated to finding the means or system through which these fluids are transferred are on indefinite hold. Recommending reassignment to Euclid pending these findings.
+
+O5-8 - Reclassification denied. Item and its effects are still under control with containment.
+
+Further research may include monitoring hospital and medical records for people showing the following symptoms after consumption of the noted lollipop.
+
+Designation
+
+Color
+
+Symptoms
+
+SCP-819-A
+
+Red
+
+Extremely high blood pressure, arterial swelling or bursting, increased blood volume
+
+SCP-819-B
+
+Orange
+
+Severe acid reflux, idiopathic vomiting of acid
+
+SCP-819-C
+
+Yellow
+
+Distended or exploded bladder, inability to drain bladder, abnormal amount of urine discharge
+
+SCP-819-D
+
+Green
+
+Severe nasal discharge, vomiting phlegm, difficultly breathing from phlegm accumulation
+
+SCP-819-E
+
+Blue
+
+Swelling or bursting of eyeball and lens, eyeball becoming dislodged from socket
+
+SCP-819-F
+
+Purple
+
+Cerebral edema and double vision and/or headaches and/or slurred speech and/or perception issues
+
+Experiment Logs:
+
+Experimentation was performed on D class personnel to determine the effects of the different colors of lollipops on bodily fluids and progression of symptoms as they were consumed. Subjects were connected to various monitoring tools such as pulse oximeters, pneumographs, and ECG to monitor vitals during the course of experimentation.
+
+Experiment Log 819-1
+
+All Colors
+
+Test:
+
+Taste Comparison
+
+Subject:
+
+D-6338
+
+Procedure:
+
+Subject was given 2 of each flavor lollipop, one of which was a sample from SCP-819 and the other an ordinary lollipop of the same brand. Subject was required to briefly taste each lollipop and comment on any differences in flavor.
+
+Result:
+
+Subject did not report any differences in flavors between the lollipops. Suggesting marking the handles on these lollipops to ensure there are no accidental mix ups.
+
+Experiment Log 819-A-1
+
+Red
+
+Test:
+
+Effect of Consumption
+
+Subject:
+
+D-3634
+
+Results:
+
+Subject began consuming the lollipop, showing no adverse symptoms besides development of mild tachycardia in the first few minutes. After approximately 5 minutes, subject began to appear pale, with moderate tachycardia and reduction in difference between diastolic and systolic blood pressures. Subject became slightly disoriented, but was ordered to continue. Over several minutes, the subjects blood pressure began to drop, resulting in an increased heartbeat as the body attempted to catch up. At 10 minutes, subject began exhibiting signs of hypovolaemic shock, and began to become less lucid as blood pressure dropped further. Subject lost consciousness less than 3 minutes later. The sample of SCP-819-A was recovered, 2/3rds consumed. Subject expired 1 minute after loss of consciousness. Autopsy showed cause of death was lack of blood. It was estimated that subject had lost over half of his blood supply during the course of the experiment.
+
+Experiment Log 819-B-1
+
+Orange
+
+Test:
+
+Effect of Consumption
+
+Subject:
+
+D-9078
+
+Results:
+
+Subject reluctantly began eating the lollipop, commenting how he "███████ hated the taste of orange". Subject exhibited no symptoms for the first several minutes. At 5 minutes, subject complained of heartburn. Vitals remained stable. After 30 minutes, there were no further changes in subjects symptoms besides a slight increase in pain. Subject was released after lollipop was fully consumed and monitored for the next 36 hours. Subject exhibited significant stomach pains after eating, and developed diarrhea and slight malnutrition, congruent with symptoms of achlorhydria. Subject recovered after several days from natural regeneration of gastric acid. Subject also developed several peptic ulcers from the lack of phlegm protecting the stomach lining during the experiment.
+
+Experiment Log 819-C-1
+
+Yellow
+
+Test:
+
+Effect of Consumption
+
+Subject:
+
+D-9948
+
+Results:
+
+Subject proceeded to consume the lollipop. After 15 minutes, no changes were seen in the subject's vitals, nor any abnormal sensations were reported by the subject. When pressed subject remarked that he felt less of an urge to urinate than at the beginning of the procedure. Test was put on hold while subject was instructed to consume 1 L of water and wait until the urge to urinate was intense. Subject was again ordered to consumed SCP-819-C. After 2 minutes, subject reported the urge to urinate had decreased. After 10 minutes, subject had no urge to urinate, and when ordered to attempt, no urine remained in subject's bladder.
+
+Note: While this may have some practical usage for field agents or sensitive operations, I would appreciate it if staff would stop requesting 819-C-1 for recreational uses. - Dr. Dreyn
+
+Experiment Log 819-D-1
+
+Green
+
+Test:
+
+Effect of Consumption
+
+Subject:
+
+D-1151
+
+Results:
+
+After about 3 minutes, the subject noted that it felt like his sinuses were beginning to clear, and happily continued. Within another 3, subject reported his nose felt very dry and a little painful. Further consumption caused sinus and nasal pain increases, as well as the development of his throat becoming sore and breathing becoming slightly difficult. Continued progress resulted in painful swallowing, more labored breathing and strong pain in all previously affected areas. After end of consumption, subject was released and monitored for 5 days. Initial examination showed inflamed nasal, sinus, and esophageal tissue. Similar irritation on the lungs was confirmed when subject's respiration was examined. Subject quickly developed rhinorrhea, and succumbed to several strains of stomach and rhino viruses. After recovering from the illnesses, subject was back to normal, though it is theorized that some of the production glands were damaged from the prolonged lack of phlegm.
+
+Experiment Log 819-E-1
+
+Blue
+
+Test:
+
+Effect of Consumption
+
+Subject:
+
+D-8381
+
+Results:
+
+Within 15 seconds, subject reported difficulty seeing. At one minute, subject lost all vision. Upon physical examination, it was show the aqueous humor was depleted, and that the mass of the eye was beginning to shrink. Further consumption cause the subjects eyes to shrink and then shrivel as vitreous humor was lost. After 4 minutes, eyes were fully devoid of humor and were shriveled. Patient was able to feel the eyes shrinking, but did not experience any pain until the eyes reduced to the point that it was straining connection to the optical nerve. Eyes did not rehydrate after the end of the experiment due to the vitreous humor being a non-replenished fluid. Subject was terminated after this experiment.
+
+Experiment Log 819-F-1
+
+Purple
+
+Test:
+
+Effect of Consumption
+
+Subject:
+
+D-2941
+
+Results:
+
+Within 20 seconds beginning to eat the lollipop, subject complained of a sudden severe headache and weakness. Reclining appeared to lessen the pain, indicating an orthostatic headache. Subject was ordered to sit up and continue. Subject also complained of dizziness, vertigo, and double vision. Within 3 minutes of starting the experiment, subject became unconscious. Subject pronounced dead 30 seconds after loss of consciousness. The sample of SCP-819-F was only slightly consumed. Autopsy showed a severe lack of cerebrospinal fluid, causing the brain to lose buoyancy and constrict blood vessels providing blood to the brain.

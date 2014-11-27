@@ -1,0 +1,113 @@
+SCP-2310 during recovery operations.
+
+Item #: SCP-2310
+
+Object Class: Euclid
+
+Special Containment Procedures: Instances of 2310-A are to be housed in four replicas of SCP-2310, to encourage their cooperation. The perimeter of their housing complex is to be placed under guard, but subjects are to have freedom of movement within the complex.
+
+SCP-2310 is to be kept isolated on the grounds of Site 115. No research requiring the physical presence of Foundation personnel is to be conducted on SCP-2310, and no Foundation personnel are to be allowed access to SCP-2310's holding facility. Research requiring human interaction with SCP-2310 is to be undertaken with the assistance of trained volunteers recruited from Site 115's population of 2310-As. Each 2310-A must undergo a minimum of 18 months of therapy before they will be allowed to volunteer as C-Class personnel.
+
+2310-B is to be kept in secure living quarters at Site 115. Foundation personnel are to avoid contact with it until research on its possible anomalous properties is complete.
+
+Given Ms. Palmer's lack of anomalous properties and ongoing cooperation with the SCP Foundation, her designation as 2310-B has been retired. She has been released from Containment Division oversight, and details of her containment are to be handled by Human Resources.
+
+Description: SCP-2310 is a suburban house originally located in Anne Arundel County, Maryland.1 Any human who enters the building immediately undergoes an anomalous mind-altering event. Such subjects are instances of 2310-A. Instances of 2310-A believe themselves to be a 42-year-old human female named "Sarah Palmer."
+
+2310-B, the individual believed to be the original Sarah Palmer, has no apparent anomalous attributes other than an immunity to the effects of SCP-2310. She inhabited SCP-2310 between 1989 and 2007. No anomalous activity surrounding the house was reported by her or anyone else during this period; the current anomaly is believed to have first presented itself some time in mid-2013. 2310-B was unaware of anomalous activity concerning her former home until briefed by Foundation personnel.
+
+The consciousness of each new instance of 2310-A is replaced with a copy of 2310-B's mind as it was on the morning of January 20, 2002.2 2310-B has confirmed that memories described by 2310-As match its own memories prior to this date. 2310-B's memories after that date are not accessible to 2310-As, and while the personalities of 2310-As are initially very similar they often develop down different paths. 2310-As retain no memories or awareness of their former self, and self-identify as Sarah Palmer.3 As there is no known way of reversing this process, Foundation personnel affected by SCP-2310 in this manner, though still physically functioning, are to be considered deceased.
+
+Neither the constituent parts of SCP-2310, any of the objects or furniture contained within, or the site on which it was originally located demonstrate any anomalous activity in isolation. It is not known what level of assembly is required for SCP-2310 to demonstrate anomalous activity.
+
+Addendum 2310-i: Security Reclassification Notice
+
+The full mission report for Operation Snowglobe is classified, and that isn't going to change any time soon. However, given the dramatic staff changes it has caused at Site 115, curiosity is natural. I have obtained permission to outline the events of Snowglobe; you've probably heard some of the details from our local Sarahs anyway.
+
+Let me be frank: Snowglobe was an unforced error. Twenty experienced Mobile Task Force agents died at the hands of an artifact that probably would have been classified Safe if the recovery hadn't been botched so badly. As your new site director, I hope to use this as a learning opportunity to address the root causes of this catastrophe.
+
+The following memo consists of excerpts from the SCP-2310 Recovery Report alongside my own commentary. Discussion sessions to improve our staff's understanding of engagement procedures will begin on Monday. This includes both Site 115 personnel and all field units attached to Site 115. Please familiarize yourself with the events of Operation Snowglobe before then.
+
+—Site Director Prell
+
+Addendum 2310-ii: SCP-2310 Recovery Report
+
+August 18, 2013: Foundation agents from Field Unit Epsilon-7 ("Seven Magpies"), while monitoring cult activity in the Washington, D.C. suburbs, note a cluster of disappearances in a single neighborhood in Anne Arundel County, Maryland. Two of these disappearances are from local law enforcement who were themselves investigating the neighborhood. Further information is requested from the Anne Arundel County Police Department.
+
+Morning of August 19: Local law enforcement reports that they believe the missing persons are being held in a house at █████ ██████████████. Neighbors describe strange activity in the house, interpreted by them as "cultlike." They also report seeing some kind of struggle between figures within the house. An expedited warrant for a raid on the house is obtained by local law enforcement. Foundation field agents continue monitoring the situation, while leaving it in the hands of local authorities.
+
+Evening of August 19: Anne Arundel County Police Department conducts a raid on the house. Despite an absence of signs of conflict, communication with the officers is quickly lost. As AACPD prepares to send in assistance, field agents under the command of Eric Strohman intervene and take control of the situation. A perimeter is formed around the house, the neighborhood is evacuated, and field agents begin conducting reconnaissance on the house.
+
+This is where the field team begins down the wrong path. Seven Magpies specializes in investigating the D.C. area's cult problem, and when neighbors suggested there was a "cult" living in SCP-2310, the field team jumped on this and did not fully consider other possibilities. For the rest of the reconnaissance period, the field team operates under the assumption that they are dealing with cultists wielding anomalous weaponry, rather than a localized anomaly contained within the house. This assessment will go on to color the Mobile Task Force's response.
+
+August 20, 12:40 AM: Field agents report on activity within the house. Several of the missing police officers are seen moving around inside, in a state of apparent agitation. Attempts to communicate with them via loudspeaker only cause them to react with fear. They are accosted by strangely dressed figures, who lead them to the basement. Other presumed captives, however, are observed to have freedom of movement within the house. Field agents conclude that the cultists may have access to anomalous means of indoctrination.
+
+1:12 AM: A man dressed in red robes4 opens a window on the top floor. He begins shouting at perimeter guards. He instructs them to leave the house alone. He is unresponsive to offers to negotiate the release of captives. After several minutes, he breaks into tears, closes the window, and retreats into the house.
+
+3:51 AM: Broad-spectrum energy analysis of the house is completed. No unusual energy signatures are detected from the house. Around twenty-four lifeforms are detected within the house. Based on local disappearances, up to twenty-one of them are assumed to be captives.
+
+4:25 AM: Site Director Pritchard arrives on-site along with Mobile Task Force Rho-14 ("Old Boars") led by Agent Talbot. Pritchard, Talbot, and Agent Strohman meet to discuss the Foundation's response. They approve the forcible entry of the house and detainment of its inhabitants. The recovery operation is filed as "Snowglobe."
+
+Site Director Pritchard's personal intervention was unnecessary, and likely influenced by her previous successes in combating the Seven Daughters Society and the Friends of Amicus. She reportedly advocated for an immediate military response, with the support of Agent Talbot but over the objections of Agent Strohman.
+
+While Pritchard's concern for securing the immediate safety of the captives is commendable, her disregard of Strohman's analysis was reckless. Transcripts suggest she and Talbot had decided on a course of action before even reaching the scene. Though Strohman was her subordinate, as the leader of the field agents researching SCP-2310 his assessment should have carried more weight. While his assumptions about the nature of the mind-altering anomaly at work were far off the mark, he was correct in regarding the mere possibility of mind-altering anomalies as a red flag meriting extraordinary caution.
+
+One final consideration is more subtle and psychological: once a combat-oriented Mobile Task Force was dispatched to the scene, Foundation leadership was under pressure to put them to use. We've actually researched this— when Mobile Task Forces are dispatched prior to the approval of force, approval follows within the next 12 hours in 78% of cases and within the next 48 hours in 90% of cases. Their mere presence makes the use of force the path of least resistance. We, of all people, must recognize how little power we have over our own minds.
+
+5:00 AM: Agents resume attempts at negotiation via loudspeaker. With this drawing the attention of the inhabitants of the house, MTF Rho-14 takes up positions and prepares to enter the building. Fireteam Axum is positioned at the back door, Fireteam Babel at a basement hatch, Fireteam Corinth on the roof, and Fireteams Dacia and Egypt are held in reserve.
+
+5:10 AM: Agent Talbot orders Fireteam Axum into the house. They breach the back door. Agent Wright is the first inside. Upon entering the house, his consciousness is immediately replaced with an instance of 2310-A, becoming the individual recorded as 2310-A-18.5
+
+Following Wright into the building, the rest of his team is likewise replaced with instances of 2310-A. Finding herself surrounded by men with guns, 2310-A-18 yells "Don't shoot!" Each of the new 2310-As joins in with a similar frightened reaction, and they scatter. Most flee deeper into the house; 2310-A-2 runs into the yard and hides in a bush.
+
+Hearing Fireteam Axum shouting about armed men over the radio, Agent Talbot orders Fireteams Babel and Corinth into the building, intending to flank the armed men believed to be threatening Axum. Babel enters the basement and Corinth breaches the roof; all four members of each team are immediately converted into instances of 2310-A. They begin adding to the radio chatter about armed men.
+
+Facing what is assumed to be an unexpectedly strong force armed with conventional weapons, Site Director Pritchard orders Fireteams Dacia and Egypt to enter the building. This decision is strongly opposed by Agents Talbot and Strohman, who have by now taken note of the unusually panicked reactions from trained Mobile Task Force agents. Their objections are overruled.
+
+Agent Talbot leads Fireteams Dacia and Egypt through the front door. They are immediately converted into instances of 2310-A. With the last of Mobile Task Force Rho-14 routing, Director Pritchard orders a full withdrawal, unaware that the entire team has already been effectively killed in action.
+
+Director Pritchard didn't get reassigned because she got people killed. If the Foundation exiled Site Directors to "Keter duty" every time they got people killed, I'd be on Keter duty. Pritchard got reassigned because, with everyone around her telling her to exercise caution, she proved incapable of cutting her losses.
+
+I know Pritchard was popular here, so let me assure you that her career will not be solely defined by its darkest moment. She has done excellent work for the Foundation, and her talents will be put to good use elsewhere.
+
+5:13 AM: Many converted Foundation agents flee the building, along with other instances of 2310-A frightened by the armed intruders. Their unusual mental state is immediately apparent. Field Team Epsilon-7 resumes reconnaissance of the house and detains the fleeing 2310-As.
+
+6:30 AM: On-site debriefing of converted agents is uninformative; they are found to be unable to explain the events of the raid. Their shift in identity is not yet fully noted, and they are initially believed to be simply suffering from an anomalous form of amnesia.
+
+Interviews with instances of 2310-A who had more time to adjust to their condition are more revealing. It quickly becomes clear that they are not affiliated with any known groups of interest.6 They discuss their shared identity as Sarah Palmer. Improvised tests comparing their memories and personalities provide tentative support for the claims that they are duplicates of the same consciousness.
+
+Their testimony further establishes that the 2310-As had decided to seclude themselves in the house both to conceal their condition, and because each of them regarded it as their home. The struggles within the house reported by witnesses had been instigated by the "True Sarahs," a clique of 2310-As who happened to physically resemble the original Sarah Palmer. The True Sarahs had unsuccessfully attempted to evict the other 2310-As when money and food began to run low. (This shortage seems to have been inadvertently caused by the original Sarah Palmer, then living in Florida, who around this time filed a report of identity theft with Bank of America.)
+
+Most of the 2310-As prove cooperative following these interviews. Director Pritchard asks several volunteers among them to bring monitoring devices into the house and to send out the remaining 2310-As hiding inside, including twelve converted Foundation agents.
+
+6:45 AM: 2310-As acting under Foundation direction enter the house. Several of these volunteers are threatened with guns by converted agents. However, the original Sarah Palmer was unfamiliar with the operation of assault rifles, and none of the converted agents are able to turn off the safety.
+
+Over the course of the next four hours, the remaining 2310-As are successfully coaxed out of the building by 2310-A volunteers. They are taken into Foundation custody and brought to Site 115, where they meet with Foundation therapists to help prepare them for detainment.
+
+1:10 PM: After a review of local property prices, it is determined that it would be more economical to elevate and relocate the house than to secure it on-site. A request is sent to Site 227 for the temporary use of an engineering team.
+
+The report keeps going, but I'll spare you the details of the engineering team moving the actual house. Suffice to say SCP-2310 claimed its final Foundation casualty during structure relocation: the roof (which had been weakened by Fireteam Corinth's forced entry) collapsed, and debris landed on one of the engineers. While this did not convert him into an instance of 2310-A, his injuries did cause him to lose the use of his legs. He is the lone survivor of contact with SCP-2310.
+
+SCP-2310 is dumb. It does not try to trick its victims or lure anyone in. It simply relies on the human desire to help people. Neighbors went to check on the elderly couple living there, and when they didn't come out their friends came to look for them, and police came to look for them, and we came along and joined the line of lemmings. We thought we could get away with doing the same thing because we're experts. True expertise would have consisted of doing something different.
+
+The SCP Foundation does immeasurably important work, and usually does it extremely well. However, I've seen too many talented Foundation employees infected with the used-tissue mindset: that the threats we face are of such danger and immediacy that we must throw everything we have at them, and tally up the cost afterwards.
+
+But while the Foundation's resources are substantial, I can assure you they are finite. They come from somewhere, and if we abuse them, they will go to someone else. In the face of danger, we must exercise caution. We must challenge our own assumptions. We must trust each other and listen when our colleagues tell us we are wrong. We must be willing to lose, fall back, and fight another day, another way. Or the day will come when we pick up the phone to call for backup, and the voice on the other end will tell us "No."
+
+I look forward to working with all of you at Site 115.
+
+—Site Director Prell
+
+Footnotes
+
+1. SCP-2310 has since been fully relocated to Site 115.
+
+2. Their association with a specific date was first observed by a therapist in the Foundation's employ, who noticed several instances of 2310-A expressing distress over the "recent" September 11 attacks.
+
+3. 2310-As have expressed a preference for cognomina such as "Sarah Palmer the Blond" and "Sarah Palmer the Youngest" over the numbering system originally used. They are reluctant to answer to names other than Sarah Palmer, particularly their pre-conversion names.
+
+4. Later found to be women's nightwear.
+
+5. More commonly known as Sarah Palmer the Taller Black Guy.
+
+6. I'm aware that Pritchard is still lobbying for an investigation into cult connections. This is face-saving nonsense.

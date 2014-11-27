@@ -1,0 +1,91 @@
+Item #: SCP-1564
+
+Object Class: Euclid-numen
+
+Special Containment Procedures: All instances of SCP-1564 are stored at Site 23 in 2.5m x 5m x 5m cells lined with no less than 2mm of low brass, with the exception of SCP-1564-2, which is stored at Medical Site 04 in an identical cell. Additional stipulations exist for each instance as follows:
+
+SCP-1564-1 may only be interacted with by personnel with experience in a military or paramilitary organization including at least one year of combat experience.
+
+SCP-1564-2 is stored adjacent to Ward 06 at Medical Site 04. Ward 06 contains all non-anomalous comatose patients in Foundation custody in Laos. Should fewer than six comatose persons be present at Medical Site 04, additional subjects may be transferred as necessary from Medical Site 07.
+
+Personnel performing research on SCP-1564-3 are paid on the basis of original, useful research they produce in relation to each other, as determined by Assistant Site Director Galluzzo, rather than by standard Foundation pay grade. Efforts must be made to ensure a competitive environment among researchers.1
+
+All research and experimentation on SCP-1564-4 is to be performed by individuals who are unaware of the identities of each other. Personnel assigned to SCP-1564-4 are prohibited from revealing this involvement, identification numbers, or real names to any personnel other than Dr. Sanmugasunderam and Assistant Site Director Galluzzo. Dr. Sanmugasunderam and Assistant Site Director Galluzzo may not have in-person contact with personnel assigned to SCP-1564-4 or with each other.
+
+All personnel assigned to contact with SCP-1564-5 are required to memorize the layout of Site 23. Personnel wishing to access SCP-1564-5 must be able to recite this layout verbally upon request. Should any errors be noted in this recitation, access is to be denied.
+
+No less than three mid-ranking members of the Church of the Broken God (tertiary nibbanic or higher) are to remain in meditation around SCP-1564-6. Each is to be provided with access to a database of known CotBG religious texts and given whatever sustenance is requested, provided that it does not exceed Site 23's budget or pose a risk of containment breach. Said members must undergo Procedure Sigma-Two once per month to ensure compliance with containment procedures without interfering with their faith.
+
+Any unauthorized personnel or non-personnel who have viewed an instance of SCP-1564 or an image of an instance of SCP-1564 must be administered a Class-C Amnestic. Should any reliable means of blocking or negating telepathic communications be developed, testing with SCP-1564 is recommended.
+
+Description: SCP-1564 is a collection of six ovoid objects 1.4 meters in length with a mass of 216 kg each, designated SCP-1564-1 through SCP-1564-6. They appear to be constructed primarily of brass and beryllium bronze, with small amounts of gold present. Attempts to breach the surface of an instance of SCP-1564 have invariably failed due to equipment malfunction; however, non-invasive scans have shown that instances of SCP-1564 are hollow and contain extremely intricate assemblies of clockwork components. These assemblies are unique to each instance and appear to be in constant, non-repetitive motion despite the lack of any apparent internal or external power source. While this motion produces noise typical for motions of this type, instances of SCP-1564 do not produce heat.
+
+Instances of SCP-1564 contain unique engraved patterns across their entire surfaces, and are visually distinguishable only by these engravings. The content of these engravings are as follows:
+
+SCP-1564-1: 213 images of humans engaged in armed and unarmed combat with other humans, animals, mythical figures (including allusions to several figures unique to Church of the Broken God mythology), and fractal shapes. Several humanoids as depicted are consistent with descriptions of the Daevite civilization, typically appearing in leadership positions.
+
+SCP-1564-2: 161 images of humans performing acts of charity and worship towards other humans, mythical figures, and places of worship. Several illustrations show the placement of mechanical objects and construction of shrines at culturally significant places, with gifts being given to passersby.
+
+SCP-1564-3: Four illustrations, separated from each other by double lines:
+
+Twelve humans placing items resembling SCP-271, SCP-882, SCP-████, and SCP-1139 in boxes. Images are not to scale.
+
+Eight humans surrounding a bonfire containing four items of apparently mechanical nature2.
+
+A single human carrying several small indistinct objects leading a procession of humans out of a building believed to be a church or similar place of worship. Those closest to the leading figure are younger than those near the back of the procession.
+
+Four humans with fog or smoke emitting from their mouths while their faces peel back. The emitted matter combines to form an indistinct fifth humanoid figure.
+
+SCP-1564-4: Four illustrations, separated from each other by double lines:
+
+A series of caves from which a procession of identical humans emerge, each bowing to a figure dressed in garb consistent with a high priest of the Church of the Broken God.
+
+A serpentine figure which branches off into ninety-seven heads, each inscribed with a glyph similar to those located on SCP-271. Image does not exhibit the anomalous properties of SCP-271.
+
+A group of fourteen humanoid figures depicted in a variety of stylized forms climbing in a pile of mechanical objects.
+
+A book (possibly SCP-140) out of which a variety of human limbs and artificial structures appear to be growing. Structures bear similarities to both medieval Indian and Daevite architecture.
+
+SCP-1564-5: A single, genderless human transitioning, over the course of eleven illustrations, from a human, to a human composed partially of mechanical components, to a humanoid composed entirely of mechanical components, to a featureless ovoid figure. Several smaller illustrations show a human transitioning into enlarged and apparently aggressive amorphous organism, a human emitting smoke from its mouth before collapsing, and a human rapidly developing into a fractal similar to the ones depicted in SCP-1564-1.
+
+SCP-1564-6: The entire surface is covered with fractal shapes. An estimated 2100 m of etchings have been engraved into SCP-1564-6's surface. The patterns demonstrate familiarity with mathematical concepts that is incongruous with the date of SCP-1564-6's recovery.
+
+Whenever containment procedures for an instance of SCP-1564 are not followed3, any individual who is in visual contact with or who can remember the appearance of any instance of SCP-15644 may establish telepathic contact with a group of six entities5 at will. These entities are collectively referred to as SCP-1564-7. While contact with SCP-1564-7 may cause exhaustion and headaches, subjects have not been shown to experience long-term mental or physical harm or alteration. No less than ████ subjects currently exist outside of Foundation custody or employ, most of whom are believed to be members of the Church of the Broken God.
+
+Experiment Log 1564-4: Subject 1564-18 was chosen due to her prior occupational experience in speech transcription to provide a transcript of an encounter with SCP-1564-7. She was instructed to transcribe the communications of each entity using a different color of ink.
+
+Show Experiment Log 1564-4
+
+Hide Experiment Log 1564-4
+
+test test test test test test We're speaking with one. Stop wasting time.
+
+Daughter of the forge, your strength heralds the defeat of the heretics. Rise from the ashes of defeat and prove your valor. My bride, the path ahead is arduous, but as you lose your place in the maze, you will find yourself. Good grief, these five and their speeches. Just let them get it out of their systems. Ma'am, the value of your companionship exceeds that of my peers — interlock with your allies to form gears in the machine of success. Calm yourself, sister. Allow the blows to shape you into your ideal form. Beware, mother, for you, and indeed, us, are surrounded by foes. Remain ready, coiled, and prepared to unleash your inner talent at a moment's notice.
+
+I think that should be a 'we'. Well, I only know English grammar as well as she does. You know this. And you're hardly one to talk about poor writing. Your prose is pretty excessively purple. Funny, I would have expected that comment to be directed at myself. I wish I could say that I expected more from one as conflict-obsessed as you, but ultimately I really can't. And shut up, you haven't been funny in ages. We're basically all the same nowadays, what's the point of talking about differences? You might all be the same. If you're all done being childish, could I actually say something that might be of help to her? I'd like to note that I do my best to remain succinct. Noted, now be quiet.
+
+Okay, so. This is obviously very stressful on you, so I'm going to cut to the chase. As you can gather from my company's enthusiastically grandiose greetings, you're a bit more special than ???? picked you out for. Don't worry, it's not anything bad. You have lots of potential, and I can see you're at least a bit interested. Listen carefully to this next bit.
+
+Always was a go-getter. I remember the last time we did this. It was me that time, remember? They were in quite the pickle… I showed them. We all remember, now shut up so she can concentrate.
+
+You can start writing now, we can't have them martyring you just yet. Be sure to give them something. One thing you should know that wasn't just covered, these SCP Foundation types would put you in chains if you so much as sneezed special, so now that you've just heard all of that, it's not gonna be fun from here-on out. Your teeth and your faith are your strongest weapons. Both will come in time. Get to know your guards. You're an amiable personality, so you shouldn't have trouble. It could be important later. ███████, ███████6, left, guards on both sides. As much as it saddens me to say this, reconciliation will be difficult and unpleasant, but the future requires that you show your good will towards all.
+
+Now I guarantee you'll get through this, just like all the others have. You're almost certainly the last, and our best bet. It will be worth it.
+
+Think of it this way — not many people can say they get to be prophets, can they?
+
+All further information regarding Subject 1564-18 is accessible via SCP-GOC Joint File 4-881.
+
+Footnotes
+
+1. Due to the relatively high burnout rate of SCP-1564-3 researchers, I recommend that alternative containment procedures be devised for SCP-1564-3.- Assistant Site Director Galluzzo.
+
+2. Two have been positively identified as items of significance from relevant Church of the Broken God texts; one, as "the feet, which carry the chosen across the heathen lands", and the other as "a reminder to those who would live in sin of both the nature of kindness and of wrath". These objects are presumed destroyed.
+
+3. Containment procedures were devised based on Church of the Broken God documents, information provided by CotBG adherents, and the circumstances of recovery for each instance.
+
+4. Hereby referred to as subjects.
+
+5. Subject testimony and CotBG documents indicate that these entities inhabit SCP-1564-1 through -6. This is currently impossible to confirm.
+
+6. The preceding numbers include activation codes for doors in the area of Site 23 where Subject 1564-18 was kept.

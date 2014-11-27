@@ -1,0 +1,129 @@
+SCP-1121
+
+Item #: SCP-1121
+
+Object Class: Euclid
+
+Special Containment Procedures: Only two specimens have been collected of SCP-1121, both at initial containment. These are kept in one of Biological Research Site-13's refrigerated biohazard containment cells in a freezing medium composed of 12% dimethylsulphoxide, 20% heat inactivated calf serum and axenic medium at -70 degrees Celsius.
+
+Cultures of SCP-1121-1 are kept in a glycerol stock under identical temperatures in a separate refrigerated biohazard containment cell.
+
+Due to the rarity of SCP-1121 samples, tests are to use SCP-1121-1 cultures instead. Testing is to be authorized and conducted by at least one Level 4 member of on-site research staff. All personnel not designated a test subject are to wear Level A Hazmat suits with SCBA1 before handling any cultures of SCP-1121-1. Failure to do so will result in termination and subsequent incineration.
+
+Should infections with SCP-1121-1 be reported outside of Foundation control, a quarantine is to be instated within a ten kilometer radius of the established epicenter. All victims not yet deceased are to be terminated followed by controlled incineration of all bodies. Seemingly uninfected civilians and personnel within the quarantine zone will be detained and monitored. If they develop no symptoms after twenty-four hours, they are to be administered class-A amnestics and relocated. Any individuals that do develop symptoms within that time period are to be terminated and incinerated. A suitable cover story will be circulated to the media.
+
+Scanning electron image of SCP-1121-1
+
+Description: SCP-1121 is a previously unknown amoeboid protozoa with very specific mutagenic qualities triggered only by Staphylococcus epidermidis, a normally benign bacterium present on human skin. If introduced to other organisms, SCP-1121 remains dormant. DNA extracted from samples of SCP-1121 shares genes with several insect species, such as Afrocimex constrictus, Gryllotalpa brachyptera and Doru aculeatum while also containing several genes not currently found in known flora or fauna. SCP-1121 does not seem to procreate naturally and does not need fluid to survive.
+
+Once introduced to S. epidermidis SCP-1121 mutates all instances of the bacteria into SCP-1121-1 (classified as Staphylococcus epidermidis exitiabilis) before dying. At this point, a subject is considered infected and will start to show stage I symptoms as detailed below. Note that, while S. epidermidis does not normally cause infection in healthy human beings, the SCP-1121-1 pathogen infects 100% of subjects exposed to it. SCP-1121 dies off after creating SCP-1121-1.
+
+SCP-1121-1 has proven resistant to all known antibiotics and at this time no known cure for infections with Staphylococcus epidermidis exitiabilis exists.
+
+An infection with SCP-1121-1 in stage III
+
+A subject infected with SCP-1121-1 goes through a set number of stages:
+
+I: Two to five hours after initial infection small white lesions appear on the skin. This does not differ from infection by S. epidermidis, making wrong diagnoses a distinct possibility.
+
+II: Approximately twenty-four hours after the on-set of stage I, the lesions will gradually begin to disappear, the infection having spread to the lower layers of the patient's skin. SCP-1121-1 then consumes the subcutaneous tissue, transforming it into a highly viscous substance. This process is extremely painful. The sufferer's skin is at this point connected to underlying tissues only by the substance excreted by SCP-1121-1. In addition it turns pale and slouches in areas, as if the patient has rapidly lost weight.
+
+III: Patients begin removing their skin from their body. Most sufferers use their own hands for skinning, though in some cases patients resorted to using various tools including knives, windshield scrapers and in one case a [REDACTED]. This process seems to be painless due to the events of stage II and does not seem to be a conscious activity. When the anomalous substance underneath the skin is exposed to air, it gradually [DATA EXPUNGED] commonly found on insects. Victims rapidly become disoriented and invariably hostile to anyone not infected by SCP-1121-1 as the process of skin removal progresses. In light of this, termination of all victims is necessary, preferably before the disease enters stage III.
+
+No occurrences of SCP-1121 have been observed outside of initial containment, but the bacterium replicates itself rapidly during stages I and II. Infection of new patients occurs primarily by skin-to-skin contact, though evidence exists of infections spreading in situations where no direct contact was observed, making Level A Hazmat equipment a precautionary must when handling any samples of SCP-1121-1. Furthermore, SCP-1121-1 has been observed to remain active long after stage III has concluded, with samples of skin showing active cultures of the mutated bacteria for up to ██ years after initial infection. It is currently unknown during what period of time removed skin remains an infection hazard.
+
+Addendum 1121-A-01: Recovery and preliminary containment notes
+
+SCP-1121 was discovered on a meteorite unearthed during an archeological dig in ██████, New Mexico in 19██. The archeologist first exposed to the meteorite was infected with SCP-1121-1 and is at this point considered to be patient zero. Within two days the infection had spread from patient zero to the entire on-site research team and several citizens of ██████. Initial containment was managed by the CDC, but after patient zero entered stage III of the disease, operatives within that agency brought in the Foundation. The meteorite and patient zero were transferred to Biological Research Site-13 and all land in a ten kilometer radius around the dig site was cleared using Mk 77 bombs.
+
+The only known colonies of SCP-1121 were recovered from the meteorite. Mass spectrometer analysis using rubidium-strontium dating of samples determined its age to be approximately 2,500,200,000 years.
+
+Addendum 1121-A-02: Excerpts from testing log 1121-T
+
+Test designation: 1121-T-01
+
+Name/Personnel ID: Dr. ███████
+
+Test subject: D-73345
+
+Transcript:
+
+02/██/19██ - 20:34: D-73345 was placed in an artificial coma and SCP-1121-1 was introduced to his skin.
+
+02/██/19██ - 23:17: Stage 1 symptoms set in with lesions appearing to spread evenly across subject's body. Lesions seem to be radiating out from the left outer thigh where SCP-1121-1 was applied to subject's skin.
+
+03/██/19██ - 22:48: Subject still in coma. Lesions have started to disappear and subject's skin has been observed to be undulating slightly.
+
+04/██/19██ - 03:17: Undulation seems to have stopped. Skin seems pale, but subject's vital signs are still good. Subject brought out of artificial coma. Once D-73345 is lucid enough for conversation, Dr. ███████ initiates contact over the intercom.
+
+Dr. ███████: D-73345, how are you feeling?
+
+D-73345: Fine, I guess. I look pale. *subject grunts*
+
+Dr. ███████: Anything you'd like to share with us?
+
+D-73345: Not really. Look, doc, how much longer am I gonna be here?
+
+Dr. ███████: Just a little while longer, D-73345. We need to observe your behavior.
+
+D-73345: My behavior? What the hell's wrong with my behavior?
+
+Dr. ███████: Nothing's wrong with your behavior, we just…
+
+D-73345: You're goddamn right nothing's wrong with my behavior!
+
+Dr. ███████: No need for hostility, D-73345. We're just here to learn from you.
+
+Research Assistant ████: Doctor, I'm not sure I can stand this.
+
+D-73345: You can't stand what, asshole?
+
+*Research Assistant ████ leaves the control room*
+
+Dr. ███████: My assistant had to excuse himself. It seems he's disturbed by your activities since you woke up.
+
+D-73345: What the fuck is wrong with you dicks? I've just been sitting here…
+
+Dr. ███████: …tearing long strips of your skin off your left leg. Yes, I know.
+
+D-73345 was observed without comment for approximately one hour and thirty-two minutes until he'd removed all skin from his body and had become highly erratic and volatile. Subject terminated and incinerated as per protocol
+
+Test designation: 1121-T-05
+
+Name/Personnel ID: Dr. ███████
+
+Test subject: D-14523, D-4237, D-72389, D-92392, D-24239, D-22984, D-49324, D-3722, D-2293, D-14818, D-88324, D-54491
+
+Transcript:
+
+21/██/19██ - 15:13: Subjects were placed in an artificial coma and SCP-1121-1 was introduced to their skin.
+
+21/██/19██ - 16:58: Stage 1 symptoms set in on D-49234, other subjects follow.
+
+21/██/19██ - 17:44: Last subjects begins to show stage I symptoms.
+
+22/██/19██ - 18:56: First subject enters stage II, other subjects follow more rapidly than during stage I.
+
+23/██/19██ - 00:01: Last subject enters stage III. Subjects brought out of artificial coma and observed.
+
+23/██/19██ - 00:13: Subjects begin removing skin while talking amongst themselves. Conversation soon becomes increasingly erratic as subjects remove more skin from their bodies. No hostility towards other test subjects noted.
+
+23/██/19██ - 03:34: Subjects are now entirely skinless. The unknown substance hidden beneath their epidermis seems to be [DATA EXPUNGED] milling around like [REDACTED]. We'll need to study this behaviour further.
+
+Subjects terminated and incinerated as per protocol
+
+Addendum 1121-A-03:
+
+You know like when you were a kid? You'd dig out the ants' nest and step on the biggest one just to see them all run around like little maniacs? They reminded me of that…the way they just…stumbled around flailing.
+
+- Research Assistant █████████.
+
+Addendum 1121-A-04:
+
+After 1121-T-5, it's been theorized that SCP-1121 could be part of a terraforming experiment. If that is the case, one is left to wonder just what it was supposed to turn us into. If it's even us they were after.
+
+- Dr. ███████.
+
+Footnotes
+
+1. Self-Contained Breathing Apparatus

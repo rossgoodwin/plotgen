@@ -1,0 +1,15 @@
+Item#: SCP-2356
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2356 is to be kept in a steel case 4 cm thick. SCP-2356 must never be shut down to avoid corruption of files stored within. Under no circumstances is the SCP to come in contact with any electronic device. No personnel below Level 3 are permitted to enter the containment room. When testing SCP-2356 should be turned on by simply moving the mouse and always be careful of what commands is ran.
+
+Description: SCP-2356 is a vintage ███ computer. The model is called [REDACTED]. When connected to a network, this includes wireless internet, every single computer connected to that network goes into a blue-screen, the display words being "starting unexpected shut down." From this point when the computer is on all that is available on the desktop is an icon, it's label is unreadable as it is randomized text put together in a cluster of letters. Opening this executable file will cause the opener to go into a 20 minute black-out, hallucinations would soon follow after waking up. SCP-2356 would copy other computer files into its memory, even though there is no memory chip. Connecting to the internet would allow it to connect to a wide variety of computers across the globe. When running commands on it, it works like any other computer but despite it's low RAM it runs commands at a high speed.
+
+The hardware components of SCP-2356 is just a motherboard with no CPU and no memory chip the motherboard components are similar to the ones of SCP-███.
+
+Addendum 2356-01: There seems to be no evidence that the computer model [REDACTED] was ever even made by ███. This is the only one to be found or bought.
+
+Addendum 2356-02: After investigating both SCP-2356 and SCP-079, it was found out that they share similarities, making it even more crucial to keep SCP-2356 off any networks unless given permission by a 05 member.
+
+Addendum 2356-03: The executable file has been proven to be written in a strange computer language never before seen. Researchers are working on deciphering the code.

@@ -1,0 +1,21 @@
+SCP-786 as it was originally discovered.
+
+Item #: SCP-786
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-786 is not autonomous and its peculiar properties appear to be both safe and predictable. It is to be kept in a secure storage room at Site 19 with standard surveillance precautions in place. However, it is important that the storage room be kept secure against vermin of any sort. The room must be sealed to prevent entry by insects, rodents, and other small creatures, and fumigated on a bi-monthly basis.
+
+Description: SCP-786 is a large funnel composed of high-density █████████ polymer. Its appearance matches a conventional kitchen funnel, and the symbols "8 OZ." are embossed on the outside just under the rim of the large end, but the funnel has an internal diameter of 1.14 m across its wide end and 9.50 cm across its narrow end. Its internal volume is 408.8 liters, which is approximately 1730 times larger than its professed 8 ounce capacity or a factor of 123.
+
+A simple visual inspection of SCP-786's interior immediately suggests its unusual properties. When viewed from either end of the funnel the interior of SCP-786 appears to be perfectly cylindrical, with the far end of the funnel having exactly the same diameter as the near end - whether that end be the larger one or the smaller one. The view through the far end's opening is enlarged or reduced accordingly. Any object that passes through SCP-786 will have its physical dimensions changed by a factor of twelve, either increasing or decreasing depending on which direction the object passes through the funnel. This change is permanent unless the object comes back through the funnel in the opposite direction.
+
+It is theorized that space has somehow become "pinched" through the throat of this item, causing items to appear larger or smaller without actually changing their effective size. This allows living organisms that pass through SCP-786 to survive without apparent harm in their reduced or enlarged state. This includes human test subjects, who exhibit no adverse health effects and have no detectable degradation of mental capacity despite the significant reduction in brain size. The object itself appears to have been increased in size by a factor of 12 but it is not known how this occurred; there does not seem to be any way for the funnel to pass through itself.
+
+A view through SCP-786.
+
+Due to the size constraints of the large and small ends, nothing larger than 1.14 meters in diameter can be reduced using SCP-786 and nothing larger than 9.5 cm in diameter can be enlarged. It is not recommended that objects be passed through SCP-786 in the same direction more than once, especially not living objects, as this has resulted in [REDACTED].
+
+SCP-786 was discovered in the basement level of a parking structure that had been closed when the retail mall it served had gone out of business four months prior. A careful sweep of the structure uncovered the crushed remains of a Honda 1989 CB-1 CB400F motorcycle that had been miniaturized to 1/12 of its normal size. The motorcycle was traced to Mr. James █████, who had last been seen two nights prior and who could not be located. It is not known how Mr. █████ came into possession of SCP-786, why he apparently chose to ride his motorcycle through it, or what ultimately became of him.
+
+SCP-786 has previously caused an incident with [DATA EXPUNGED] cockroaches that must not be repeated.

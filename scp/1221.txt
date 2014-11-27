@@ -1,0 +1,91 @@
+Item #: SCP-1221
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1221 is non-hazardous and contained in a standard secure vehicle garage at Site-██. Cleaning and maintenance is to be performed monthly; personnel are only permitted to enter SCP-1221 for these purposes and entrance is restricted to D-class.
+
+By O5-level directive, all use and testing of SCP-1221 has been suspended indefinitely.
+
+Description: SCP-1221 is a Mercedes-Benz O405 single-decker bus manufactured at the company's Mannheim plant in 1989. It was purchased by the ██████ Transit Authority and had an uneventful 10-year career. Upon its retirement SCP-1221 was acquired by the Foundation for staff transport (transport of SCPs or exposure to SCP incidents does not appear to have occurred). The operation of SCP-1221 is identical in all respects to a standard bus of its model. It attained SCP classification approximately 1 year after its acquisition, when medical staff noted a statistically significant increase in seizures at Site-██ which were traced back to users of the vehicle.
+
+90% of subjects who enter SCP-1221 experience no visible effects. The remaining 10% are observed to develop a mild absence seizure disorder anywhere from hours to years after exposure. This is similar to typical absence seizure disorders, involving some seconds of loss of consciousness and blank staring without movement and showing characteristic patterns on EEG. Atypically, subjects commonly experience auras of déjà vu1 or jamais vu2 which are normally associated with other seizure types. Subjects retain no memories of the absences other than the occasional vague description of an 'out-of-body experience'. The disorder caused by SCP-1221 is in many respects more benign than otherwise: seizures are fairly rare, usually occurring yearly (although weekly seizures have been observed) and are invariably controlled with appropriate anticonvulsant medication. Many subjects may be weaned off anticonvulsants after prolonged treatment.
+
+A small number (<10%) of affected subjects are observed to vocalise during seizures (as no memory of the events are retained, consciousness appears to remain impaired), inconsistent with the presentation of typical absence seizures. Generalised EEG discharges are still observed. The vocalisations have a common theme of [DATA EXPUNGED].
+
+LEVEL 4 CLEARANCE REQUIRED
+
+Interview Log 1221-1
+
+- Interview Log 1221-1
+
+Interview 1221-1
+
+Dr. R███ was skeptical of SCP-1221's extranormal properties and volunteered to test its effects. He entered SCP-1221 without incident and was interviewed 2 weeks after exposure by Dr. Major. An abridged transcript of the interview follows.
+
+<Begin Log: 00h-00m-00s>
+
+Dr. Major: Morning, R███. How are you feeling today?
+
+Dr. R███: Same as always. No hallucinations, no blackouts, no seizures. Got up, had breakfast, did some reports and came in here.
+
+Dr. Major: Okay, no change this week, but it sometimes takes a while to set in. Had any strange memory issues lately?
+
+Dr. R███: <laughs> Nothing's going to happen and you'll say I'm part of the 90% who aren't affected! Memory's bad as ever.
+
+<00h-12m-32s>
+
+Dr. Major: Doesn't look like I'll get anything from you today. Time for a coffee?
+
+[Dr. R███ stares blankly and is unresponsive for a total of 13s. Dr. Major is aware Dr. R███ is unresponsive by 6s and makes a note. After 13s, Dr. R███'s face contorts violently, startling Dr. Major. Dr. R███ is now conscious but visibly fearful and agitated.]
+
+Dr. Major: R███, are you -
+
+Dr. R███: [distressed] Major? Jesus, they were right, they were all right about it. 1221. I can see him, it's not me.
+
+Dr. Major: Him? What are you -
+
+Dr. R███: It's somebody else, I'm not here. I just watch. You have to help me, Major. Help me. Help -
+
+[Dr. R███'s face violently contorts for a second time and returns to normal after 3s. Dr. R███'s mood has returned to its original state. The time is now 00h-14m-44s.]
+
+Dr. R███: I'm sorry, I must have drifted off for a moment.
+
+Dr. Major: What the hell was that?
+
+Dr. R███: Was what?
+
+[Dr. R███ appears to have no memory of the episode, despite repeated questioning. Video recording of the episode is shown to Dr. R███.]
+
+Dr. R███: Okay, Major, you got me there. I guess 1221 does cause the little seizures after all. Egg on my face, huh?
+
+Dr. Major: You don't have any comments on what you said during the episode?
+
+Dr. R███: No idea what it means, looks like I just went a bit loopy. Can I get going? This took ages and now I have get medical to fix this up. Don't want to scare you again! <laughs>
+
+Dr. Major: Uh, okay, R███. We'll continue this later.
+
+[Dr. R███ exits interview room. CCTV cameras in outside corridor appear to show him mutter 'nice try'.]
+
+<End Log: 00h-29m-11s>
+
+Additional Comments:
+
+Based on this report, I have attached a request for increased surveillance of SCP-1221 subjects, accelerated research (cross-SCP use with SCP-[REDACTED] may be necessary to obtain results) and a Euclid reclassification.
+
+- Dr. Major
+
+Request denied.
+
+Evidence that SCP-1221 has a major effect on subjects is lacking and barring the treatable seizure disorder subjects have universally normal appearance and behaviour. It is the opinion of this office that no beneficial data would be gained from further research. [REDACTED] civilians and ███ Foundation personnel, including [REDACTED] have been exposed to SCP-1221, all of whom have essentially normal function. Information may pose a containment risk and have negative effects on employee morale.
+
+SCP-1221 and 'affected' subjects are presently secure, contained and protected. Until the situation changes, testing is unnecessary and has been suspended.
+
+- O5-█
+
+- Interview Log 1221-1
+
+Footnotes
+
+1. Feelings of familiarity with unfamiliar situations.
+
+2. Feelings of unfamiliarity with familiar situations.

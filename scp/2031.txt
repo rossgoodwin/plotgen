@@ -1,0 +1,53 @@
+Item #: SCP-2031
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-2031 shall be contained at Site-2031-A. Instances of SCP-2031 identified outside containment will be neutralized by MTF-Theta-88 (“Crazy Buggers”) with incendiary devices and chemical saturation with fipronil, bifenthrin, and/or permethrin. Areas of these occurrences will be surveyed periodically to detect any reappearance of SCP-2031 and re-treated as necessary.
+
+The property boundary of Site-2031-A shall be secured by 6m tall electrified fencing topped with barbed wire. A “safe zone” will be maintained for 100m within this fenced perimeter, kept free of debris and undergrowth, and kept under 24 hour video surveillance. The inner perimeter of the safe zone will be defined by a concrete-lined trench with vertical walls, 10m wide and 4m deep, filled with a 50% solution of chlorine bleach no more than 2m deep. No permanent structures are to bridge this trench, and any plant growth extending over it must be trimmed back. The 127 acre area enclosed by the trench is the “active zone” where all SCP-2031 instances are contained.
+
+Foundation monitoring stations for Site-2031-A shall be located in the safe zone. No vertebrate animal massing more than 15kg is to enter the active zone outside an approved experiment.
+
+Description: SCP-2031 are anomalous colonies of Eciton burchellii (“army ant”) that to date have not been seen outside the active zone of Site-2031-A. Examination of the individuals comprising an instance of SCP-2031 have not provided any consistent genetic or morphological identifiers to distinguish them from non-anomalous Eciton burchellii. Experiments releasing non-anomalous Eciton burchellii colonies into Site-2031-A have shown that the introduced specimens will begin showing anomalous behavior associated with SCP-2031 within 20 to 40 days within the active zone. It is unknown if the transition to SCP-2031 is due to an anomalous effect peculiar to Site-2031-A, exposure to SCP-2031, or is a heretofore undocumented learned behavior. Investigation is ongoing.
+
+Until its anomalous behavior manifests, a SCP-2031 colony will behave normally for Eciton burchellii and other examples of New World army ants. Colonies will contain up to 2 million individuals, containing variety of specialized individuals along with a single queen. They will undergo nomadic phases when the entire colony is mobile and forages for food. When they nest in a non-anomalous fashion they form a “bivouac,” linking each other’s bodies together to form a large ball with a complex internal structure, typically in a burrow or a hollow tree.
+
+SCP-2031 manifests its anomalous behavior when a colony encounters a vertebrate prey animal massing greater than 20kg during a nomadic foraging phase. Unlike a normal swarm of Eciton burchellii, SCP-2031 will send columns of soldiers to climb the prey animal and demonstrate what appears to be tactical behavior and an understanding of the prey’s anatomy. Columns of thousands of soldiers will climb the prey, massing along the spine and lower extremities. Soldiers will defer any actual attack of the prey until a significant number are in position, at which point all the soldiers will simultaneously bite through the skin and attack the spinal cord and the ligaments in the prey’s lower extremities. An SCP-2031 instance has successfully immobilized a 1000kg Angus Bull in less than five minutes in this manner, the majority of that time spent by soldiers getting into position. Animals massing less than this are subdued in a correspondingly quicker manner.
+
+Once the prey animal is immobilized, the remaining colony of SCP-2031 will mass around it, and the soldiers will burrow small openings into the extremities. The remaining colony will follow the soldiers and burrow inside the animal’s body. Unlike other carrion-eating insects, SCP-2031 will not immediately attack the soft tissues and mucus membranes (mouth, eyes, rectum, etc.) seeming to prefer the host to live as long as possible. SCP-2031 will not burrow into the animal’s major organ systems until it has expired, usually from dehydration. SCP-2031 will leave intact the prey animal’s hide and skeletal system as it nests within the carcass.
+
+When SCP-2031 again initiates a nomadic phase, it will move the entire carcass in apparent imitation of the animal’s normal behavior. This mimicry will continue as long as the carcass’s hide and skeletal system maintains structural integrity. The hides of these carcasses seem to undergo slower decay than is typical, possibly due to enzymes released by SCP-2031. Studies are ongoing to determine if this is anomalous or a natural product of Eciton burchellii infestation.
+
+Site-2031-A consists of a farm and pasture land located 150km northwest of [REDACTED] in [REDACTED]. Upon containment, twenty-seven separate instances of SCP-2031 were observed on site inhabiting various carcasses:
+
+15 Bos primigenius taurus. 9 adult female, 2 adult male, 4 juvenile. Colonies designated SCP-2031-1A through SCP-2031-1O
+
+5 Equus ferus caballus. 4 adult female, 1 juvenile. Colonies designated SCP-2031-2A through SCP-2031-2E.
+
+3 Sus scrofa domestica. 1 adult male, 2 adult female. Colonies designated SCP-2031-3A through SCP-2031-3C.
+
+1 Canis lupus familiaris. 1 adult female. Colony designated SCP-2031-4A.
+
+3 Homo sapiens sapiens. 1 adult female, 1 adult male, 1 juvenile. Colonies designated SCP-2031-5A through SCP-2031-5C
+
+Addendum 1: Incident report I-2031-5
+
++ Incident I-2031-5
+
+- Incident I-2031-5
+
+Document# I-2031-5
+
+Date: 7/15/19██
+
+SCPs Involved: SCP-2031-5A, SCP-2031-5B, SCP-2031-5C, SCP-2031-4A
+
+Location: Site-2031-A
+
+Description:
+
+For several months Foundation observers had cataloged the various behavior patterns of SCP-2031, with particular attention to the three colonies mimicking human activity. Beginning at dawn, both SCP-2031-5A and SCP-2031-5B would typically perform various actions common to animal husbandry; watering the “livestock,” dispensing feed, moving other SCP-2031 colonies from one pasture to another. While SCP-2031-5C would often assist in these chores, several hours a day it would spend with SCP-2031-4A and engage in several different dynamic behaviors including mock wrestling and the throwing and retrieving of various objects.
+
+On the morning of 7/15/19██ SCP-2031-5C attempted to engage in its typical interaction with SCP-2031-4A, when the hide containing the SCP-2031-4A colony suffered several structural failures. As a result, SCP-2031-4A abandoned the carcass and resumed foraging behavior typical to a mobile colony of Eciton burchellii. SCP-2031-5C ignored the SCP-2031-4A colony and continued to prod the remaining carcass in an apparent attempt to revive it. SCP-2031-5C continued this behavior until SCP-2031-5A and SCP-2031-5B observed it and approached. At this point, SCP-2031-5B lifted SCP-2031-5C and held it off the ground, removing it from the site. SCP-2031-5A then retrieved a shovel from the barn and buried the carcass.
+
+Approval is granted for the introduction of one 25kg Golden Retriever into Site-2031-A. – Dr. T. S█████, director Site-2031-A, 7/18/19██

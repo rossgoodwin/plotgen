@@ -1,0 +1,47 @@
+Item #: SCP-328
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-328 is to be kept in a secure locker in storage area 328-A. Access for research requires Level 3 authorisation and will be permitted in most instances. Due to its unclear nature, SCP-328 is not to be allowed into contact with any data-reading device with a connection to the internet or the Foundation intranet. Electronic devices which have been used to study SCP-328 should be clearly labeled "SCP-328 Use Only" and stored in storage area 328-A for common use in case of unidentified viral properties. A small isolated lab adjunct to storage area 328-A (designated 328-B) has been established to this end.
+
+Description: SCP-328 is a smooth, greenish-yellow disc approximately ten (10) cm in diameter and 4 mm thick, weighing just over thirteen (13) grams, comprised of an unknown crystalline organic compound. The bonding pattern of SCP-328 is highly organised, in a manner reminiscent of a data storage or retrieval device. SCP-328-01 (see below), a data file retrieved from SCP-328, seems to confirm this.
+
+Various analyses of samples of SCP-328 have been inconclusive; some known atomic elements have been identified, but none in recognised compositional patterns, and not enough to account for the mass of the samples used. It is slightly warmer (about 4 degrees Celsius) than its surrounding environment, even when subjected to extreme temperatures. It is susceptible to kinetic damage, but if broken, reforms itself from its largest remaining piece over a period of one week to six months, depending on the severity of damage. Crystallographic analysis of fragments indicates they possess a restructured crystalline form, a scaled-down version of the whole item's structure. As the disc regrows the structure re-expands and returns to its original form. No changes have been observed in binary data obtained from the disc-reader (see below) before and after breakage/reformation.
+
+SCP-328 has been in the possession of the Foundation since ██-██-18██, when it was recovered from [DATA EXPUNGED]. Until ██-██-19██, the purpose and nature of SCP-328 was uncertain. In an accidental breakthrough, SCP-328 was inserted into an experimental disc drive that had been treated with [REDACTED] as part of the [REDACTED] project (see Addendum 328-1). SCP-328, when used with this reader, produces binary data.
+
+Multiple cryptographic analyses of the binary code produced indicate that at least some of it is a description of data contained on SCP-328. An algorithm for converting the binary into ASCII code has been developed, and the current extent of translation is appended as SCP-328-01. Veracity of this data is uncertain, but given the coherence of the data produced it seems unlikely it is a random 'fluke'. Curiously, the data obtained is written in over thirty (30) known languages (transliterated into Roman characters) in what appears to be a single article.
+
+Further attempts to directly access and translate the data on SCP-328 have proven labour-intensive, and full funding for the project has been pulled. Dr. E██████ has announced that anyone with relevant skills (cryptography, data storage/recovery, or linguistics in particular) is welcome to take up translation of SCP-328 as a "hobby item".
+
+Addendum 328-1: As Project [REDACTED], which produced the original SCP-328 data reader, has been canceled for over a decade, Dr. E██████ has lodged a formal request for O5 clearance to remove the redaction, allowing anyone working on SCP-328 to consider this information. Permission is pending.
+
+SCP-328-01:
+
+This comprises the main body of the documents translated from SCP-328. Much of the actual log consists of random ASCII characters, which may be untranslatable text, untranslated text, or may correspond to some other type of information. All data has been translated into English for ease-of-comprehension. The original, untranslated log with complete additional text is stored at SCP-328-01-OR disc in storage area 328-A.
+
+[TRANSLATED DATA BEGINS]is approximately 4 units in width, 6 units in length, and 0.4 units high when sitting on a flat surface. Its external surface is essentially featureless aside from unrecognised markings on several surfaces, and several narrow slots along the two shorter edges. It tastes of sodium chloride, present in trace (non-toxic) quantities on its surface, and of carbon-based oils and polymers of unidentified composition. ¿^Ô–^wographic analysis of the residues present on the surface and of the material of which the device is comprised indicate it contains several elements unknown to our science. When inactive it radiates very little energy; its surrounding Ø°é–%¬ is flavourless, aside from a hint of #ÕRó×ßo.
+
+Three indentations along the edge release electromagnetic radiation in a rhythmic pulse. Upon depression of a smooth, flavourless (ie. possessing only the same base flavour as the object) surface on the same edge as the radiators, the top half of the device comes loose, revealing itself to be hinged along the opposite surface. Inside is what appears to be a control console, with 104 nearly-identical depressable surfaces, most of a uniform size. Researcher F÷qèCQœòlDôY‡9‰ has described them as
+
+[SEQUENCE OF UNTRANSLATED DATA]
+
+for each of the ýÄðz'5šøš í^úb†×t inside its outer é^WP/ÿª—×çgÖ, but underneath it is a „ž4ß¤Á¨äÒž|™
+
+[SEQUENCE OF UNTRANSLATED DATA]
+
+when a small oblong surface is pressed, the translucent surface above the primary interface almost immediately begins emitting class /®Î¼ radiation, which claimed the Nø_=jÌÿ of four researchers before adequate shielding could be devised (see Handling Protocols, above).
+
+Operation: Trial and error has revealed that depressing certain combinations of the surfaces on the control console will cause changes in the spectrum of radiation emitted by the device. Although the nature of these changes has yet to be determined, the patterns are consistent. Additionally, the device does not emit identical radiation from every surface. It appears to have over one million nearly identical micro-emitters arranged in a gridlike pattern across its surface; each one is capable of emitting variable radiation frequencies. When catalogued and mapped, the different frequencies of radiation form patterns and symbols which at least partially correspond to the symbols mapped onto the control console.
+
+[LONG SEQUENCE OF UNTRANSLATED DATA]
+
+power source was identified by Researcher F÷qèCQœòlDôY‡9‰. By activating two sliding panels previously unnoticed on the "under"side of the control console, a roughly cylindrical portion hidden beneath the hinge could be removed. While externally undifferentiatable from the main portion of the device, this segment is somewhat denser. After its removal, the device would not activate. It has been advised that the device should be stored in this format from this point on. Against Researcher F÷qèCQœòlDôY‡9‰'s advice, Subresearcher s÷#ÕRop›¥Á, out of curiosity, manipulated what is believed to be a connection socket on the putative power supply. A WP/ÿª—×ç was observed to emit involuntarily from Subresearcher s÷#ÕRop›¥Á, followed by [DATA EXPUNGED].
+
+[Foundation Research Note: this "DATA EXPUNGED" tag is the closest translation of the original Swahili phrase in SCP-328-01-OR; it has not been added by the Foundation.]
+
+Although this is a feasible (if unsavoury) method for recharging the device, should its power supply fail, it is recommended that valuable subresearchers not be used in this manner in the future.
+
+Addendum Ù6æŒÌº 1.01: Researcher F÷qèCQœòlDôY‡9‰ has been committed to safety storage ©pdhÈ× for reconditioning after activating a memetic weapon on the device. Simultaneous depression of the two control surfaces labeled ÑÇOòD and **qe activated a heretofore unidentified capacity on the device. •æÝÞëÊYgíu9-type electromagnetic radiation was emitted in a frequency-fluctuating pattern of moderate to long wavelength. This interfered directly with Researcher F÷qèCQœòlDôY‡9‰'s ™ÀìTÛk‹º#ù8p, as has previously been documented in logs of device Õtê¿~L¶QÀ‡. Researcher F÷qèCQœòlDôY‡9‰ was recorded as spewing gibberish about seeking a "connection", and something about a "web". Further exposure to the device is ill-advised at this time.
+
+Observation from Queen-Researcher Õï±éúšÓÁÚáGUi6: It seems certain that this is another memetoenergetic weapon developed by Agency F²N„«ã. In light of this, the Research Council should consider releasing another ×¤Jý through the[NO FURTHER TRANSLATED INFORMATION]

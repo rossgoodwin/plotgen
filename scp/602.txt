@@ -1,0 +1,185 @@
+Item #: SCP-602
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-602 appears to be immobile and localized to Apartment ███, ██ Greene St, New York City. Thus, containment of SCP-602 consists of keeping the public away from, and ensuring that SCP-602 does not expand beyond or move out of, Apt. ███. However, due to its location in a heavily-populated urban center (i.e. Manhattan), SCP-602 requires special considerations for containment.
+
+Apt. ███ must remain locked from the outside with both mechanical locks and concealed electronic locks. No one may enter or remove anything from Apt. ███ without Level 4 authorization.
+
+Apt. ███, the entire first floor and basement, and all unoccupied units at ██ Greene St are collectively designated Containment Site-28. The remaining units in the building are occupied by civilians who have lived there since SCP-602 was initially contained. These units will be acquired by the Foundation as they are vacated, but occupants will not be directly forced out of their apartments. However, all measures short of lethal force have been authorized to keep civilians out of Site-28 areas, up to and including non-lethal force and use of Class-A amnesiacs. To date, the Foundation has acquired █ of the ██ units in the building. See Document 602-S28 for more information.
+
+Description: SCP-602 is an unseen entity that can manipulate objects within Apartment ███. SCP-602 can exert enough force to knock people over and hold them down. While SCP-602 appears able to affect objects anywhere within Apt. ███, it cannot affect anything outside the apartment if the front door is closed. Thus, SCP-602 can be effectively contained with external locks on Apt. ███’s door.
+
+Apt. ███ does not have standard furnishings. Instead, scattered around the apartment are dozens of sculptures that resemble extremely distorted human beings. These sculptures appear to be made from a variety of materials, including marble, granite, wood, metal, porcelain, [DATA EXPUNGED], and glass. [DATA EXPUNGED]. Two doors lead out of the entry room: a door in the left wall that is stuck and has never been opened, and a door in the back wall (added between 198█ and 199█) that is usually closed. The second door leads to a room that contains more sculptures, as well as a table on which lay a large array of tools for sculpting [DATA EXPUNGED]. Also in this room are outside-facing windows that always have the blinds drawn. All attempts to remove any of the sculptures or tools, or the table, from Apt. ███ have been met with violent resistance from SCP-602.
+
+Any person inside Apt. ███ is subject to attack by SCP-602. Through an unknown method, SCP-602 can apparently transform a living human into a sculpture of variable material, similar to the sculptures already present in Apt. ███. When doing so, SCP-602 will close and lock the front door of the apartment from the inside, completely barring entry to and exit from the apartment during that time. SCP-602 will also destroy or otherwise neutralize any sensory equipment set up within Apt. ███, and has consistently destroyed concealed surveillance equipment carried by test subjects before transforming these subjects.
+
+Addendum 1: Document 602-S28, Establishment of Site-28
+
+SCP-602 came to the attention of the Foundation in late 198█, after the disappearance of [DATA EXPUNGED]. The Foundation acquired the ██ Greene St building shortly thereafter. Overwatch determined that the interests of the Foundation would best be served by low-profile piecemeal acquisition of the rest of the building rather than exerting eminent domain over civilian-occupied units.
+
+Once SCP-602 was officially classified as Safe and containment procedures were enacted, the areas of the building held by the Foundation were designated Containment Site-28. Task Force Pi-1 (“City Slickers”) was established to keep civilians out of Site-28 areas. [DATA EXPUNGED] was established as a front business on the ground floor of the building.
+
+Site-28 has expanded its scope since its founding, serving as a base of operations for the Foundation in the northeastern US, temporary and permanent housing for Foundation personnel, and a containment site for a few Safe SCPs. Pi-1 was upgraded to a Mobile Task Force, specializing in acquisition and containment of anomalous objects in heavily-populated environments. Members of Pi-1 also offer training in Urban Operations at Site-28. For more information on the Urban Operations curriculum, see Document P1-UrbOps.
+
+Addendum 2: Document 602-L01, Exploration Log
+
+Show First Exploration Attempt
+
+Note: Unless otherwise noted, in all procedures involving SCP-602, subject(s) are dressed as maintenance personnel, and all civilians who live on the same floor as SCP-602, as well as those directly above or below Apt. ███, are outside the building. Surveillance of these civilians is provided by Pi-1.
+
+Exploration Log 1, ██/██/198█
+
+Materials:
+
+Subject D-602-01, equipped with a TV camera and two-way radio.
+
+A second camera on a tripod.
+
+Procedure:
+
+The subject records footage of each sculpture in the room. The subject attempts to open the door on the left wall, but cannot, declaring it "stuck". Around twelve minutes after entering, the subject hears a smashing sound, turns and sees the pulverized remains of the camera and tripod. The subject [DATA EXPUNGED].
+
+The subject starts to move into the next room when the video cable is cut and the front door closes and locks. Radio contact with the subject is lost within seconds. Subsequent examination of the apartment shows no sign of the subject or any equipment brought inside.
+
+Analysis:
+
+Footage shows eleven sculptures in the front room and at least four in the second room. Also in the second room is a table with what appears to be tools on it. Dr. Devon suggests a possible resemblance between some sculptures and several missing persons, including [DATA EXPUNGED].
+
+Close First Exploration Attempt
+
+Show Second Exploration Attempt
+
+Exploration Log 2, ██/██/198█
+
+Materials:
+
+Two remote-control motorized bases mounted with cameras and microphones.
+
+One camera array facing in through the open front door.
+
+Procedure:
+
+One motorized camera is sent straight toward the second room, while the other hangs back in the entry room. Just before the lead camera reaches the second room, both motorized cameras are suddenly and simultaneously flattened by an invisible force. Nothing else happens for ten minutes, at which time the remains of the motorized cameras are pulled out by the video cables.
+
+Analysis:
+
+Thermal imaging shows the temperature of the apartment dropping by between 7 and 15°C moments before the cameras are flattened by pillars of intense cold that briefly manifest above each camera. The two cameras were crushed within one-twentieth of a second of each other.
+
+Close Second Exploration Attempt
+
+Show Third Exploration Attempt
+
+Exploration Log 3, ██/██/198█
+
+Materials:
+
+Subject D-602-02, equipped with a TV camera and two-way radio.
+
+Four remote-control motorized bases mounted with cameras and microphones, made from military-grade reinforced steel.
+
+One camera array facing in through the open front door.
+
+Two thermal imaging arrays facing in through the windows.
+
+A variety of sensors, including microphones, seismographs, Geiger counters, [DATA EXPUNGED], set up on surfaces adjacent to Apt. ███ (i.e. the walls of adjacent apartments, the floor of the apartment above, and the ceiling of the apartment below).
+
+Procedure:
+
+The subject is instructed to record footage of the second room from the entry room by zooming in as much as possible, while the motorized cameras observe the rest of the room. After sixteen minutes, the subject is instructed to try the left-hand door. The subject claims the door is jammed and cannot be opened.
+
+As the subject enters the second room to record more footage, the front door suddenly closes and locks, and all of the cameras lose their video signals simultaneously. Preliminary analysis shows the cables were cut just as in Experiment 1. When the door unlocks, there is no sign of the subject or any equipment in the apartment.
+
+Analysis:
+
+Right before the signal is lost, one of the cameras records something on the front door. Analysis of the footage suggests that the object is a wire rack around 15 cm long attached to the inside surface of the front door. The external cameras record the expected drop in temperature, though exact data could not be obtained through the closed window blinds. Several minutes later, external cameras record a sustained spike in Far-UV radiation that lasts approximately forty seconds. No other unusual emissions are detected.
+
+Close Third Exploration Attempt
+
+Show Researcher's Note
+
+Note, ██/██/198█: Overwatch has suspended exploration of SCP-602 for now, primarily because we’ve neared the limit of what we can learn using current technology without it becoming insanely expensive. At the very least, we would need stronger materials and more maneuverable robotics, though a cheap way to send a video signal without a cable would be nice too.
+
+It’s just as well, though, because I’m concerned that Mrs. Jankowicz up in ███ is becoming suspicious again. I don’t know how she knows what she does, but either way, getting that many amnesiacs can’t be good for anybody, particularly a lady her age. I recommend she be investigated as a potential SCP. —Dr. Devon
+
+Subject interviewed ██/██/198█, no anomalous abilities suspected, class-B amnesiac administered. –Dr. █████
+
+Close Researcher's Note
+
+Show Follow-up Observations
+
+On ██/██/199█, Apartment ███ was opened for the first time in ████ years, and video footage was recorded from just outside the front door. Several differences were observed compared to footage recorded in '8█. First, there is now a closed door between the entry room and the room with the table. We cannot tell whether the door has a lock on it, but as much force as 602 can generate, it’s probably not necessary. More striking, though, are the sculptures in the entry room. They appear to be the same sculptures of the same people as before, but most of them have been changed, some pretty drastically.
+
+Lastly, and most significantly, attached to the inside of the front door is a wire rack holding a very sharp knife. Photographic evidence has proven that this knife almost certainly cut the video cables in the '8█ experiments. I’m convinced that 602 put the rack up after the second experiment, further evidence that 602 is sapient. —Dr. Devon
+
+Close Follow-up Observations
+
+Addendum 3: Document 602-L02, Contact Log
+
+Show Contact Experiment
+
+Contact Log 1, ██/██/20██
+
+Materials:
+
+Subject D-602-03.
+
+One child's wagon (model: Radio Flyer).
+
+Ten fully-illustrated books of sculpture, including The Works of Henry Moore, The Works of Auguste Rodin, The Works of Alexander Calder, Sculptors of the Italian Renaissance, and Medieval Gothic Sculpture.
+
+Three mail-order catalogs for art-supply companies (bookmarked in the Sculpting sections) with attached order forms.
+
+One piece of paper, containing a half-finished press release describing a gallery show by "the mysterious new art sensation from SoHo that everyone's talking about", and a handwritten addendum stating, "This could be you (but only if you're okay with it, of course)."
+
+One cardboard sign, with the words "READ BEFORE DESTROYING" written on it in thick black twelve-inch-high letters.
+
+Procedure:
+
+The wagon was loaded carefully in the following order: press release on the bottom, then the art supply catalogs, then the sculpture books, and finally the cardboard sign on top. The door to the apartment was opened, and D-602-03 pushed the wagon inside before quickly exiting the apartment. Researcher Voct then loudly announced into the apartment, "Here you go, Friend! We'll be back in twenty-four hours!", and closed and locked the apartment.
+
+Results:
+
+Twenty-four hours later, the apartment was re-opened. The wagon had been moved, but was otherwise intact; upon retrieval of the wagon by D-602-03, it was discovered the cardboard sign had been shredded, and the sculpture books had been removed. The art-supply catalogs showed signs of having been intensively consulted (with several pages having been torn out and/or crumpled), and the order forms had been filled out with crude markings in an unknown fluid (later analysis determined that the fluid is ████████, with ██████). Study of the order forms revealed that SCP-602 would like new chisels, new mallets, a miniature kiln, and [REDACTED]. Lastly, the press release had been shredded, then reassembled with an unknown adhesive, then crumpled, and then flattened again.
+
+Analysis:
+
+SCP-602 is confirmed to be sapient, and to be willing to negotiate.
+
+Close Contact Experiment
+
+Show Researcher's Note
+
+Note, ██/██/20██: No, I'm not suggesting that we just give the SCP whatever it wants. But we've established quasi-peaceful contact with an SCP previously thought intractable, and at less than a twentieth of the cost of any one of the previous exploration attempts.
+
+We may even be able to convince it to trade its old tools for new ones (although giving it [REDACTED] is completely out of the question, of course). — Researcher Voct
+
+Close Researcher's Note
+
+Addendum 4: Document 602-CP1, Contact Protocol
+
+Show Contact Protocol
+
+As a result of contacts 002 through 017 (see respective contact logs for details), the following protocols have been developed for successful interaction with SCP-602; "successful" is defined as ">90% survival rate".
+
+Always announce yourself at the door before entering.
+
+Do not touch the statues.
+
+Do not make any negative comments about the statues or their artistic merits. Constructive criticism seems to be acceptable.
+
+Do not touch the sculpting tools. If replacement sculpting tools have been supplied, SCP-602 will place its discarded tools in a bucket by the door; the bucket may be collected when leaving the apartment.
+
+All surveillance devices must be announced before installation, and their function must be clearly described. SCP-602 promptly locates and destroys all hidden or otherwise unacknowledged surveillance devices, and uses the debris as projectiles. Surveillance devices which were properly announced remain intact and operational until such time as SCP-602 wishes to create or modify a statue, at which point it deactivates all surveillance devices simultaneously; when it is finished, it reactivates the surveillance devices.
+
+Never enter the apartment alone.
+
+No flash photography.
+
+No smoking.
+
+No spitting.
+
+No chewing gum.
+
+Close Contact Protocol

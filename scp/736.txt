@@ -1,0 +1,111 @@
+Image of Iapetus obtained by Cassini-Huygens spacecraft
+
+Item #: SCP-736
+
+Object Class: Keter
+
+Special Containment Procedures: Direct observation of SCP-736 is to be coordinated through Foundation intelligence assets in the European Space Agency, National Aeronautics and Space Administration, China National Space Administration, and Russian Federal Space Agency. The next mission for close observation of SCP-736 is scheduled for 2022, and is designed to be a clandestine science objective for the European Space Agency's Jupiter Icy Moon Explorer project. Ground-based telescope observation of Iapetus and the Saturnian system is to be maintained at all times.
+
+All major astrophysics research centers and universities are to be monitored by the Foundation Office of Celestial Anomalies for awareness of SCP-736. During SCP-736 events, internet traffic is to be monitored for reports of irregularities in Iapetus' orbit. In cases where non-Foundation researchers have identified SCP-736, amnestics and information suppression protocols are authorized to prevent widespread knowledge in the scientific community.
+
+Description: SCP-736 is an anomaly affecting the Saturnian moon Iapetus. For brief periods generally lasting several days, Iapetus' orbit is spontaneously altered by measures of eccentricity, orbital period, or both. The orbit of Iapetus returns to its documented state after these spontaneous changes. Models of temporary orbits almost entirely consist of Iapetus undergoing orbital decay, and in most scenarios is projected to collide with Saturn (and, depending on the projection, other Saturnian moons) at some point within the next 150-300 years. These projected orbits are all in direct violation of mathematical models and both classical and relativistic physical principles, which do not predict a decay in the orbit of Iapetus due to tidal effects or gravitational radiation.
+
+Additionally, changes in Iapetus' eccentricity and orbital period do not proceed in a constant manner. Instead, these changes happen at different rates and at relatively large intervals. Since analysis of SCP-736 began in 2007, researchers have recorded 159 variations in the rate of Iapetus' orbital decay.
+
+Statistical analysis of trends in the changes to SCP-736 and the various results of computer modeling of Iapetus' orbit has revealed that changes in its orbital decay do not occur randomly. Instead, variances have occured in groups, centered around what appears to be a central set of numerical values and a series of calibrations to achieve them. To date, 8 discrete orbits have been observed for Iapetus.
+
+SCP-736 is believed to be directed by an intelligent entity. On September 10, 2007, during the Cassini-Huygens flyby of Iapetus, the spacecraft was contacted by a then-unknown source of radio transmissions. Telemetry analysis revealed the source to be located on the surface of Iapetus. Foundation assets within NASA immediately seized information transmitted from the source and commenced an information suppression campaign. Approximately 8.2 terabytes of data were transmitted from the surface of Iapetus in a time period of 12 seconds. Analysis of the data was inconclusive, as most of it seemed to be random configurations of number values represented by a series of repetitive tones. However, the transmission has served as evidence of a sapient, technologically advanced presence on Iapetus. All communication attempts by Foundation staff have thus far been unreciprocated.
+
+Research Log 736-4: List of Iapetus Orbital Decay Simulations
+
+Model Date
+
+Eccentricity Variance
+
+Period Variance
+
+Predicted Time to Initial Impact Event
+
+Notable Results
+
+04/22/2007
+
+-.000382
+
+.34 d
+
+289 years, 4 months, 11 days
+
+Iapetus collides with Saturn, causing slight change in Saturnian orbit with no other effects on other celestial bodies.
+
+11/02/2007
+
+-.000512
+
+.77 d
+
+244 years, 8 months, 23 days
+
+Iapetus achieves a close flyby of Dione prior to impact Saturn, causing slight changes to Dionian and Saturnian orbits, with no other effects on celestial bodies.
+
+07/17/2008
+
+-.000883
+
+1.23 d
+
+231 years, 5 months, 2 days
+
+Iapetus achieves close flybys of Dione and Tethys prior to impact with Saturn, causing major changes to Tethys' orbit and inducing its own state of orbital decay.
+
+01/08/2009
+
+-.000919
+
+1.59 d
+
+216 years, 11 months, 8 days
+
+Iapetus collides with Rhea prior to impact with Saturn, resulting in widespread variances in orbits of most Saturnian moons. Consequently, Saturnian orbit altered significantly.
+
+05/31/2009
+
+-.001255
+
+2.70 d
+
+201 years, 5 months, 18 days
+
+Iapetus collides with Titan prior to impact with Saturn. Orbits of Titan and Saturn undergo minor variances, but otherwise do not affect other celestial bodies.
+
+06/01/2010
+
+-.005928
+
+8.13 d
+
+175 years, 3 months, 9 days
+
+Iapetus collides with Titan, resulting in major changes to Titan orbit. Model predicts subsequent breakdown in Titanian orbit and the ejection of Titan from the Saturnian system in approximately 38 years. Trajectory of Titan's exit eventually places it outside of the solar system.
+
+12/25/2010
+
+-.006012
+
+9.01 d
+
+168 years, 7 months, 30 days
+
+Iapetus collides with Titan, resulting in major changes to Titan orbit. Model predicts subsequent breakdown in Titanian orbit and the ejection of Titan from the Saturnian system in approximately 24 years. Trajectory of Titan's orbit predicts a collision with Mars in 2209.
+
+11/13/2011
+
+-.007299
+
+11.11 d
+
+152 years, 2 months, 3 days
+
+Iapetus collides with Titan, resulting in major changes to Titan orbit. Model predicts subsequent breakdown in Titanian orbit and the ejection of Titan from the Saturnian system in approximately 22 years. Trajectory of Titan's orbit predicts a close encounter with Earth in 2258, passing within 800,000 km. Note: The SCP-736 event preceding this model was accompanied by a transmission directed at a Foundation-owned listening post in Costa Rica from the vicinity of Iapetus. Transmission consisted of what analysts determine to be a representation of the numeral 7.048 billion repeated 17 times, followed by the numeral 0 repeated 17 times.
+
+Addendum 736-1: SCP-736 reclassified to Keter effective 02/03/2012. - O5-4

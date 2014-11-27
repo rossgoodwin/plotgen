@@ -1,0 +1,45 @@
+SCP-1488-███ photographed by retrieving unit R3V-1488-6
+
+Item #: SCP-1488
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1488-001 through SCP-1488-2141 are housed in an underground enclosure within Site-15 provided with artificial sunlight and climate control adjusted to mimic the conditions of the Bolsón de Mapimí area of Mexico, with adequate seasonal variation. Food and water may be delivered to the enclosure as needed via security corridors furnished with lead-lined doors. Antennae have been placed throughout the enclosure to receive transmissions from SCP-1488 instances and a Researcher must enter the enclosure at least once every 24 hours to retrieve transmission records. An electromagnetic pulse (EMP) device has been relocated to the center of the enclosure and must be kept armed and ready to fire at all times.
+
+6 computer-operated Robotic Remote Recovery Vehicles (designated R3V-1488-1 through -6) have been deployed at various locations in northern Mexico and tasked with cataloging and retrieving SCP-1488 candidates to either be tagged and released or else transported to Site-15 for SCP assignment. Junior Research Assistants assigned to SCP-1488 are reminded that R3V units regularly communicate with Site-15 and that all communications must be reviewed and logged within 24 hours.
+
+In light of the large number of SCP-1488 candidates still unaccounted for, 2 Junior Research Assistants are regularly assigned to actively monitor online auction sites, wildlife sanctuaries, and unlicensed pet stores for potential SCP-1488 instances and notify project heads accordingly. With the species in question at the center of several conservation / rewilding efforts, Foundation members have been embedded in at least one prominent agency overseeing each project.
+
+spherical comm. device removed from SCP-1488-███ (neutralized)
+
+Description: Instances of SCP-1488 were initially identified as individual specimens of Gopherus flavomarginatus, the Mexican giant tortoise, that had been augmented with electronic and mechanical components. However, larger-scale research has demonstrated that older instances have, on average, a greater instance of synthetic components than younger, that anomalous parents are capable of producing non-anomalous offspring, and that recent archaeological discoveries2 point to a species far more synthetic in composition than the one observable today. These findings, in addition to the sheer number of instances discovered,3 strongly suggest that the G. flavomarginatus species itself consists largely or entirely of robotic vehicles in varying states of assimilation, through means currently unknown, into the genus Gopherus.
+
+While the majority of giant tortoises evaluated for SCP-1488 are wholly biological, non-anomalous and fully integrated into the Mapimí Basin's ecosystem, nearly 8.5% of specimens recovered thus far have been found to possess "vestigial communication devices" - compound metal spheres uniformly 18mm in diameter with a complex internal structure - embedded beneath the highest point of the tortoise's shell. Nearly all of the devices recovered appear to be operational, periodically emitting signals in the ████-████ range. Although communication devices are by far the most common anomalies observed in instances of SCP-1488, they are often accompanied by one or more of the following components:
+
+One or more partially robotic limbs
+
+Subcarapacial solar arrays
+
+Series of graduated optical lenses
+
+Spectroscopic tubes showing traces of alpha particle emitters
+
+Digging or excavating tools
+
+Electrically actuated magnetic coils
+
+Drill machinery with cylindrical or coring bits.
+
+It should be noted that the items above are invariably inoperative and in many cases only identifiable by shape.
+
+Incident 1488-Delta: On ██/██/199█, a massive increase in ████ radio frequency activity was reported simultaneously by 2 of 3 active R3V-1488 units, as well as the SCP-1488 receiver array at Site-15, lasting a total of 132 seconds. Approximately 70 hours later, an "answering" signal was returned from unambiguous origin RA=██h██m██s with ███°██′ declination.4 In contrast to the relatively short duration and comparatively narrow frequency range of the outgoing spike, the answering signal lasted over 7 hours and 45 minutes and occupied a much wider band of frequencies, giving rise to a variety of unprecedented radiological, meteorological, and geological phenomena - much of it, such as [REDACTED], globally observable. Following 1488-Delta, Containment protocols for SCP-1488 instances were revised and the number of R3V units assigned to SCP-1488 doubled to reduce the likelihood of a repeat incident.
+
+Footnotes
+
+1. Numbers belonging to instances dying in containment have not been reassigned. At present, this series encompasses 183 instances. See Table 1488-07-B for a current record of individual assignments and neutralization dates.
+
+2. For example, Document 1488-51-ARC "WEIRD: Giant Prehistoric Turtle With Artificial Limbs Unearthed In Mexico" - ████████.com ██/██/██ and related Incident, Disinformation, and Medication logs, etc.
+
+3. Roughly 850 instances of SCP-1488 are believed to exist, out of a candidate population that one third-party conservation group estimates at over 10,000 individuals.
+
+4. an area of the sky not known or observed to be occupied at the time.

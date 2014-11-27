@@ -1,0 +1,69 @@
+Item #: SCP-1675
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1675 is stored in a reinforced containment cell at Site-15. SCP-1675 is to be given 1 liter of 10W-30 motor oil every 90 days but otherwise does not require fuel or maintenance of any kind.
+
+Experimentation with SCP-1675 may only be performed with prior written permission from at least two Level 3 Senior Researchers. Experimentation involving use of live ammunition requires additional permission from one Level 4 Site Director and prior notification of Site-15 security staff; such experimentation must also be performed in a separate armored testing chamber.
+
+Description: SCP-1675 is a digitigrade bipedal automaton of unknown manufacture that is apparently capable of indefinite operation with no detectable external power source or need for fuel. SCP-1675 stands approximately 1 m in height and appears to have been built for law enforcement or military application as it is equipped with high-strength manipulator arms, armor plating capable of withstanding small arms fire, and two shoulder-mounted machine guns fed from a hopper located on its back.
+
+Under normal circumstances, SCP-1675 is docile and harmless; left to its own devices, it will wander its containment area listlessly and does not pose a danger to any personnel. SCP-1675 will non-violently resist attempts to deactivate or disassemble it but will otherwise not resist any attempts to inspect or observe it. Attempts to discern more about its internal configuration have not been successful to date.
+
+Whenever SCP-1675 is exposed to a specimen of genus Anser, Branta, or Chen, it will become highly aggressive and attempt to kill the specimen by any means possible. SCP-1675 is single-minded, efficient, and exhibits possible intelligence in its ability to operate tactically when need arises.
+
+Periodically and while attacking such specimens, SCP-1675 will emit audible speech from a speaker located near its head, generally consisting of anti-avian propaganda in French. SCP-1675 has not responded to any attempts to communicate thus far.
+
+SCP-1675 was discovered by rangers in █████ National Forest on ██/██/██. At time of discovery, SCP-1675 had killed over ███ specimens over a 27-hectare area. SCP-1675 was recovered without incident by the responding Foundation containment team and all witnesses were administered a Class A amnestic.
+
+Addendum 1675-01: Log of Notable Experiments
+
+Date: █/██/██
+
+Subject: One (1) Anser anser domesticus (domestic goose)
+
+Provided Tools: None
+
+Result: SCP-1675 quickly chased down and strangled subject using its manipulator arms.
+
+Emitted Speech: "The only good goose is a dead goose."
+
+Date: ██/█/██
+
+Subject: One (1) A. anser domesticus
+
+Provided Tools: Single-edged combat knife
+
+Result: SCP-1675 used provided knife as a thrown weapon to wound Subject, retrieved knife, then killed Subject with a single lateral cut to its neck. SCP-1675 retained knife, but surrendered it without resistance to research personnel.
+
+Emitted Speech: "There will be no peace until all geese are dead."
+
+Date: ██/██/██
+
+Subject: One (1) A. anser domesticus
+
+Provided Tools: Ten (10) rounds of 5.56mm ammunition
+
+Result: SCP-1675 loaded provided ammunition into its hopper, then killed Subject with a single accurate burst of three (3) rounds at close range. Research staff were unable to remove the loaded ammunition.
+
+Emitted Speech: "Geese are a blight that must be purged."
+
+Date: ██/█/██
+
+Subject: Three (3) Branta canadensis (Canada goose)
+
+Provided Tools: None
+
+Result: SCP-1675 stood still until Subjects approached, then ambushed and strangled one Subject using its manipulator arms while firing its remaining ammunition at the other fleeing Subjects.
+
+Emitted Speech: "All geese shall roast in the flames of righteous justice."
+
+Date: ██/██/██
+
+Subject: One (1) Cygnus olor (Mute swan)
+
+Provided Tools: None
+
+Result: SCP-1675 did not immediately react to Subject. When Subject approached within 1 m of SCP-1675 to investigate, Subject was gently pushed away.
+
+Emitted Speech: "Nothing to see here, move along."

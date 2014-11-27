@@ -1,0 +1,33 @@
+SCP-907 upon retrieval.
+
+Item #: SCP-907
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-907 is to be kept under standard surveillance within Garage 3 of Site 54. The key to activate SCP-907 is to be kept in a sealed locker under the possession of the local security director, and may only be requisitioned by Level 3 personnel for purposes of testing SCP-907.
+
+SCP-907 is outfitted as a mobile research station, and is to be kept fully stocked at all times. This stock includes all necessary research, computing, and living equipment, a ten-day supply of rations plus a five day emergency supply, an appropriately modified Mk. II EVA suit, and a standard set of ten remote AX-10 probes. The inventory of SCP-907 is to be refreshed after every testing mission.
+
+For the sake of caution, testing of SCP-907 is to be carried out by Level 1 and 2 personnel only, as according to the official testing schedule. SCP-907 is not to be exited by the researcher during testing missions except in matters of absolute necessity.
+
+Description: SCP-907 is a 196█ VW van bearing no internal or external structural anomalies. The vehicle had received a new coat of paint shortly before recovery, but otherwise all modification to the vehicle has been carried out by the Foundation. Said modification includes the removal of all seats in the vehicle and the addition of testing and research equipment.
+
+Upon the starting of its engine, SCP-907 will disappear from local time-space and undergo a state of transit. This state will persist for five to ten minutes, after which the engine will stop of its own accord. Removing the key or attempting to turn off the engine manually has proven unsuccessful while transit is ongoing. When transit has been completed, SCP-907 will re-appear on the surface of an extrasolar planet. Many planets appear to be located in other galaxies, making identification through positions of known stellar objects impossible. No traces of life have been found on any planet reached via SCP-907.
+
+SCP-907 itself, and all conditions within, will not be affected by any outside conditions. So long as an object or person is completely within SCP-907, even if there is an open door or window present, they will be unaffected by the outside environment.
+
+SCP-907 will return to Earth in the same location as its departure after five to fifteen stops. The vehicle is seen to undergo a minor relativistic effect during transit, where a longer period of time will have transpired on Earth than it has in SCP-907, but this time period has yet to exceed a lag of two weeks.
+
+Addendum: While over three hundred extrasolar planets have been catalogued through usage of SCP-907, several have been encountered on multiple occasions. These include:
+
+SCP-907-A: Terrestrial planet approximately 1.5 times Earth’s mass, orbiting a M-class star. No atmosphere or moons are present. The landscape is covered in a thick layer of graphite with surface formations of diamond due to seismic upheaval. Surface temperature averages -200 ºC.
+
+SCP-907-B: Terrestrial planet with an atmosphere of methane and carbon dioxide measuring approximately 90 AMP. Exterior temperature at ground level is in excess of 550 ºC. Trace compounds of unknown chemical composition give the lower atmosphere an iridescent quality.
+
+SCP-907-C: Insufficient data: Believed to be the semi-liquid core of a standard hydrogen gas giant.
+
+SCP-907-D: Terrestrial planet approximately 3 times Earth’s mass, orbiting a K-class star. A trace atmosphere of carbon dioxide and nitrogen is present, as well as a single moon. While liquid water is present, the environment is self-sterilizing due to severe ultra-violet radiation from the planet’s sun.
+
+SCP-907-E: Icy moon orbiting a ringed helium giant. No atmosphere present. Irregular composition of the ice combined with abnormal warming and cooling patterns has caused a marbled pattern on the surface.
+
+SCP-907-F: Terrestrial planet approximately 17 times the mass of Earth, orbiting a B-class star. Six small moons present. The atmosphere is made primarily of nitrogen and argon, and large quantities of arsenic and mercury are present in the soil. Winds of up to 270 km/h have been recorded.

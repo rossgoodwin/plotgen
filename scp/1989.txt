@@ -1,0 +1,113 @@
+SCP-1989, photographed at recovery site
+
+Item #: SCP-1989
+
+Object Class: Safe
+
+Special Containment Procedures: Outside scheduled experimentation times, SCP-1989 is kept in Storage Containment Unit A-29 at Sector-19. Experimentation may only be performed with prior permission from a member of Level 3 personnel, and the tray must be emptied of all testing materials before returning to storage.
+
+Description: SCP-1989 is a Pioneer LD-V4200 single-sided LaserDisc player, capable of playing both CAV (Standard Play) and CLV (Extended Play) LaserDiscs. SCP-1989 was acquired at the Clemson, South Carolina home of film critic Derwent Masterson III on 05/11/1992 as part of the liquidation of his assets following his suicide; background intelligence and subsequent investigation revealed that the device was a birthday gift (see Addendum 1989-C). Initial inspection revealed internal congruence with other models of the same product line, with one exception: a non-standard disc tray different in shape but not material from the original design.
+
+When powered on, inserted with a film disc and connected to a compatible television, SCP-1989 appears to operate normally, playing the portion of the film recorded on the film disc correctly and without incident. However, due to each side of a LaserDisc only containing up to sixty (60) minutes of possible recording space, most feature-length films require the playback of both sides, and sometimes multiple discs. SCP-1989 is a single-sided model player; manual inversion and reinsertion of the disc is required during every complete viewing. When any disc previously inserted into SCP-1989 is removed, inverted, and reinserted, the content of the film is changed: when play resumes, the image on the screen is also inverted, and gravity within the filmed environment adjusts accordingly. Within the first few seconds of playback, any unsecured objects, scenery or characters appear to collide with the new bottom of the scene, whether it be the ceiling or open sky.
+
+At no point, however, is the narrative broken: characters still present attempt to act out their recorded scenes and delivered lines even though the environment around them has drastically changed; in the event of an outside scene where actors have fallen into the sky, camera angles continue to change as if following unseen events, until the scene changes. Characters and objects in subsequent scenes appear to have recovered from the initial inversion, though the events on-screen continue to be hampered by the change in gravity, and characters who sustain fatal injuries from the inversion or descend into the sky do not reappear for the remainder of playback.
+
+Addendum 1989-A - Testing Logs:
+
+Test Log 23
+
+Test Log 23
+
+Testing Material No.: 1989-TM0023
+
+Testing Material Content:: Murder on the Orient Express (1974), dir. Sidney Lumet
+
+Inversion Timestamp: 00:47:25
+
+Transcript:
+
+(Exterior shot of Orient Express train stranded in snowdrift with two train workers outside, facing camera: image is inverted. At 00:47:27, the two train workers lift up from the ground and hurtle towards open sky. Large metallic, screeching sound as train falls from track, followed by large quantities of snow and debris.)
+
+(Cut to interior of train dining car: train appears to be in upside-down freefall, accompanied by sounds of smashing glass, rushing winds and rattling metal; characters Hercule Poirot, Director Bianchi, and conductor Pierre Michele on ceiling, clinging to wall railings. Character Dr. Constantine is unconscious, appearing to have suffered blunt force trauma from the light fitting directly above him at time of flipping. Poirot is crawling forward on hands and knees in an effort to approach Pierre, clutching a notebook and a piece of paper.)
+
+Poirot (shouting to be heard over the din): "Excellent, Pierre! And could you summon to me the passengers to me here one by one in this order with the exception of Princess Dragomiroff, who is not only of royal blood but is also much older than she says not to look!"
+
+(Pierre attempts to grab the piece of paper proffered by Poirot, misses, loses his grip on the railing and smashes through glass window of dining car, falling out of view. Poirot appears to not notice, and continues to address thin air.)
+
+Poirot: "And Pierre, since you are here already, we can conveniently start by questioning you! Your full name is Pierre Paul Michele?"
+
+(No answer is heard, but Poirot continues as if there was.)
+
+Poirot: "Two male saints' names! You must be greatly blessed!"
+
+[REDACTED]
+
+Test Log 26
+
+Test Log 26
+
+Testing Material No.: 1989-TM0026
+
+Testing Material Content:: Die Hard (1988), dir. John McTiernan
+
+Inversion Timestamp: first disc, 00:41:55
+
+Transcript:
+
+(Interior shot of elevator shaft. John McClane is on top of an ascending elevator in heroic pose: image and gravity inverted. McClane is now beneath the elevator clinging to cable, still moving along previous trajectory, top of elevator shaft fast approaching. Unable to maintain grip, McClane falls ten feet and is crushed by arriving elevator. )
+
+(Cut to thirty seconds of camera filming empty corridors, lingering on a shot of a topless centrefold affixed to a utility box at approximately half-way.)
+
+[REDACTED]
+
+Test Log 45
+
+Test Log 45
+
+Testing Material No.: 1989-TM0045
+
+Testing Material Content:: Star Wars (1977), dir. George Lucas
+
+Inversion Timestamp: 00:57:08
+
+Transcript:
+
+(Exterior shot of the Death Star in space, orbiting planet Alderaan: image inverted. Cut to interior shot of Death Star bridge, Princess Leia being led to Grand Moff Tarkin under armed guard, accompanied by Darth Vader. No change.)
+
+[REDACTED]
+
+Test Log 57
+
+Test Log 57
+
+Testing Material No.: 1989-TM0057
+
+Testing Material Content:: The Poseidon Adventure (1972), dir. Robert Neame
+
+Inversion Timestamp: 00:29:29
+
+Transcript:
+
+(Interior shot of SS Poseidon ballroom - ship has capsized, with the majority of passengers on the ballroom's ceiling. A few remain on the floor, clinging to the bolted-down tables and chairs, most of them appearing to be about to let go. Image and gravity inverted. Passengers about to die are suddenly the right way up again; passengers on the ballroom ceiling, including most major characters, fall fifty feet to their deaths. Right-way-up passengers look at each other, bewildered, and appear to feign death - keeling over one by one, in the order that they would have fallen.
+
+(Cut to exterior of ship, angled underneath; SS Poseidon is the right way up, surrounded by an ocean of falling water.)
+
+[REDACTED]
+
+Addendum 1989-B - Acquisition Investigation Exhibit 1989-22c1:
+
+Excerpt from Derwent Masterson's film review column in The Greenville News, printed 29/10/1992:
+
+"…debate about whether film is an art form is nonsense: films are meant to be enjoyed for their exciting content, the thrills of their car chases and the beauty of their actresses… narrative in film is inconsequential. You could turn the finest film topsy-turvy and you won't find one shred of art or entertainment beyond what the writers intend, no narrative imperative: the story is there to entertain, it isn't real."
+
+Addendum 1989-C - Acquisition Investigation Exhibit 1989-45c4:
+
+Note retrieved amongst gift-wrapping paper in waste basket of Masterson home:
+
+Carter
+
+I hope this gives you a change of perspective. Enjoy, my friend.
+
+Happy birthday,
+
+Derwent

@@ -1,0 +1,39 @@
+SCP-1083, during testing.
+
+Item #: SCP-1083
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1083 is to be stored in a containment locker at Site 38 when not in use. SCP-1083 is to be transported to and from its locker only by junior researchers with no previous history of violent behavior, and only while wearing protective gloves. Under no circumstances are personnel with Level 2 or higher clearance to come into contact with SCP-1083. Testing with D-class personnel is prohibited due to lack of relevant data collected during experimentation. All personnel coming into contact with SCP-1083 are to be immediately debriefed and sent for psychological counseling.
+
+Description: SCP-1083 is a blue-tinted piece of quartz in the shape of a deformed human skull, 15kg in weight and with dimensions of 20cm in height, 30cm in length, and 12cm in width. The skull demonstrates no anomalous properties except when held by a single person in both hands.
+
+When held with both hands, subjects exposed to SCP-1083 will experience a sudden, massive increase in neural activity for 1-3 seconds (confirmed by EEG analysis). Afterwards, non-D-class subjects will in most (87%) cases experience massive personality changes from their previous state. Affected subjects typically register a decrease in IQ score of between █-██ points, rendering them unsuitable for continued employment with the Foundation. In spite of this, subjects will demonstrate greater reasoning skills and use of logic, though their actual knowledge and memories will be lessened. Conversely, all D-class or other Foundation personnel that have committed violent acts against other human beings will undergo total psychological breakdowns, leading to attempts at self-harm and suicide. Subject D-3273, whose status was not connected to a violent act (demoted to D-class for violation of Foundation protocol) experienced the same effect as the rest of the non-D-class personnel, suggesting the primary importance of pacifistic tendencies.
+
+By and large, most subjects exposed to SCP-1083 refuse to discuss their experiences with the object. Between 08/03/9█ and 02/11/0█, the only references made to the experience by exposed subjects were by D-class personnel shortly before their deaths, some of whom were noted to exclaim "He's right, he's right, I deserve it, he's right" or some variation of same. Neither forced or chemical interrogation has been able to reveal any details about the nature of who "he" is or what alterations he makes to the personalities of affected subjects.
+
+Incident Report 1083-A: On 11 February 200█, Operative 1/1083-237, a Level 1 volunteer, was exposed to SCP-1083. Through chance, 237 was the only recruit with an educational background in moral philosophy; this is believed to be the primary reason for the anomalous results. After exposure, 237 described her perception of the event (timed by EEG as having lasted 1.34 seconds) as having taken at least a matter of days and possibly several months. She described having spent the entire time in an infinite black void, devoid of any sensory input.
+
+While in the void, 237 claims to have come into telepathic contact with an entity (classified as SCP-1083-1) who engaged her in discussion on matters of metaphysics, logic, and ethics. 237 described the entity's "voice" as male. 1083-1 refused to reveal any details about itself other than that it lived within the "artifact" and always had done so. 1083-1 already possessed extensive knowledge about every event in 237's life, and talked with 237 about the various mistakes and logical errors she had made in the form of Socratic dialogue. 237 described feeling a great deal of anger and resentment towards the entity at the beginning; however, her training in logic and moral philosophy caused her to eventually come to accept the entity's reasoning.
+
+According to 237, the entity described the other Foundation personnel that had "visited" it as "unprepared" for its experience; it was able to psychologically compel them to use more logical reasoning in their lives, but not without damaging their mental capacity permanently. The entity described the D-class personnel exposed to it as "unworthy" and claimed to have "given them the true knowledge of their actions." 237 attempted to leave the Foundation shortly after her experiences with SCP-1083; when she proved immune to any form of amnesiac agent, termination was ordered on 11/5/0█.
+
+Addendum 1083-1: Recovery Log SCP-1083 was recovered from a house formerly used as a safehouse by the Serpent's Hand (confirmed by documents located in the building and various graffiti found on the walls). Large quantities of blood were found in many rooms of the house, though no usable samples could be obtained due to what is believed to be deliberate contamination. No corpses were found. The skull was found in one of the bedrooms in the house, along with documentation from the agency known as "PTS" or "Phitransimun Combine;" it seems the skull was in transit between an address in "Alexandria of Forests" and "Delphi of the Oceans." Fragments of a badly ripped note were found throughout the house and pieced together to form the following:
+
+ORACULUM COMBINE OF OCEANS [maintains certainty? pledges?] THAT ALL PRODUCTS WILL [operate? behave?] TO OPTIMAL SPECIFICATIONS. IF UNABLE TO PLEASE [owner? host?] TO FULLEST DEGREE PLEASE COMPLETE BELOW FORM TO [fragment lost]
+
+CUSTOMER
+
+PRODUCT CODE
+
+PLACE OF ORIGIN
+
+COMPLAINT
+
+ALEXYLVA UNIVERSITY PHILOSOPHY DEPT
+
+OΡΦ XV
+
+ALEXANDRIA SYLVANOS
+
+EXCESSIVELY RETRIBUTIVE TOWARDS [life-harvesters?], BORDERS ON PACIFISTIC. VIOLATES ARISTOTELIAN PRECEDENTS REGARDING JUST WAR. REQUESTING REPLACEMENT AND REIMBURSEMENT FOR DEAD WARRIORS.

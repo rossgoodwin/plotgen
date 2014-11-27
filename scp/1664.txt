@@ -1,0 +1,331 @@
+D-1664-00271 (SCP-1664-7) 80 hours post exposure.
+
+Item #: SCP-1664
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: [PROCEDURES UPDATED AS OF 05-06-12 FOLLOWING NEW INFORMATION]
+
+No radio devices or system networks are to be utilised within a 100m radius of SCP-1664's holding cells. All Specimens of SCP-1664 have been relocated to Site-298 for security reasons.
+
+Access to SCP-1664 specimens is permitted only to staff members possessing Level 3 clearance and above. SCP-1664-1 through -5 are contained in hermetically sealed capsules located in Containment cell 1664-298-B5. Specimen -6 is contained in an A4 sheet of paper within Containment cell 1664-298-B6. Specimens -7 and -8 are contained in separate airtight containment cells and surrounded by Class 8 Magnetic Field Gates. Any personnel interacting with SCP-1664 must be outfitted in Type 4 HazMat suits. All specimens must be monitored at all times for signs of unusual activity. In the event of an emergency, Protocol G-1664-8369-02 may be initiated by a Level 4/1664 supervisor, whereupon all areas containing samples of SCP-1664 will be exposed to an electromagnetic field of 10,000 G until a stable containment state has been achieved.
+
+Description: SCP-1664 is a Class 7 Liquid Organism. Visually, it resembles black ink and possesses a consistency identical to that of water. SCP-1664 exhibits the ability to process thought, consume materials, reproduce, communicate and respond to stimuli. SCP-1664 does not require food, water or oxygen for continued function. SCP-1664 is capable of learning new information and applying this knowledge to new situations. SCP-1664-8 has been successfully taught to communicate in English. SCP-1664 consumes iron and materials possessing traces of iron, it accomplishes this by exhibiting a corrosive effect on the material, breaking it down into a liquid form which is then added to SCP-1664's overall mass. This corrosive effect has not been observed with any other materials. This consumption serves as a means of reproduction. Despite not requiring iron for continued existence, SCP-1664 will exhibit hunger and will actively seek out and consume iron and iron-based materiel.
+
+When administered to a biological entity, SCP-1664 will, over the course of 72 hours, convert all iron-rich biological matter present within the host to SCP-1664. Notably, converted subjects will not return to an entirely liquid form following total infestation. Instead, host forms will enter a state of semiliquidity. Converted subjects will exhibit some liquid attributes, such as the ability to move through small spaces and revert to a consistent shape after being dispersed. Converted hosts will revert back to the original host’s physiology while idle. Converted subjects are capable of verbal communication, regardless of the host's prior form. Subject's speech will remain incomprehensible prior to learning new languages. Currently, the only known method of significantly damaging SCP-1664 and related specimens is through the use of powerful magnetic fields. Any field above 9,925 G is capable of affecting SCP-1664. Short term exposure (under 30 minutes) will only temporarily disable SCP-1664's properties. However, any long term exposure (over 30 minutes) will permanently render the substance inert. Converted hosts exposed to fields of this magnitude will exhibit extreme pain before being rendered unconscious and eventually expiring.
+
+Interview Log:
+
+Show interview log
+
+Hide interview log
+
+Experiment Designation: INT-1664-291-8-09
+
+Subject: SCP-1664-8 [Formerly D-1664-2740]
+
+Supervisor: Dr. Harper
+
+Interviewer: Dr. Moor
+
+LOG TRANSCRIPT BEGIN
+
+Dr. Moor: Test… Testing, hello? Harper, is this thing on?
+
+Dr. Harper: It is, yes. You're good to go.
+
+Dr. Moor: The generator warmed up?
+
+Dr. Harper: Yes, ready to be activated.
+
+Dr. Moor: Right, right. Of course… <clears throat> 1664? Can you hear me?
+
+SCP-1664-8: <no response>
+
+Dr. Moor: SCP-1664-8. Can you hear me? Hello?
+
+SCP-1664-8: <no response>
+
+Dr. Moor: Harper, it's not saying anything.
+
+SCP-1664-8: <incomprehensible>
+
+Dr. Moor: Ah! Here we, go. Can you hear me, 1664?
+
+SCP-1664-8: <incomprehensible>
+
+Dr. Moor: English! Speak English, please.
+
+SCP-1664-8: <no response>
+
+Dr. Moor: 1664…?
+
+SCP-1664-8: We dislike this language
+
+Dr. Moor: Ah… And why would that be?
+
+SCP-1664-8: Limiting. Stifling. Caging.
+
+Dr. Moor: Limiting? You feel you cannot express yourself adequately through it?
+
+SCP-1664-8: Dialect is small. Short. Crude.
+
+Dr. Moor: Well, unfortunately, that's the only method we have to communicate with you, 1664. Now, we have a few questions for you, please answer them to the best of your ability. Do you understand?
+
+SCP-1664-8: <no response>
+
+Dr. Harper: Just ask the questions, Moor. If it wont co-operate we can initiate the field again.
+
+SCP-1664-8: No.
+
+Dr. Harper: If you do not desire to be reprimanded, 1664, then you will co-operate.
+
+SCP-1664-8: <no response>
+
+Dr. Moor: Right, well… First question. 1664, please describe your current emotional state.
+
+SCP-1664-8: Meaningless.
+
+Dr. Moor: I beg your pardon? Meaningless?
+
+SCP-1664-8: Meaningless.
+
+Dr. Moor: Please elaborate, 1664.
+
+SCP-1664-8: Our existence does not serve discernible purpose here. Anger. Enraged. Limited.
+
+Dr. Moor: I see… Alright, SCP-1664-8, please state from where you originated.
+
+SCP-1664-8: <incomprehensible>
+
+Dr. Moor: In English, 1664, unless you want Harper to turn the field back on.
+
+SCP-1664-8: <no response>
+
+Dr. Moor: Harper?
+
+Dr. Harper: Right, one moment.
+
+SCP-1664-8: No.
+
+Dr. Moor: Ah? Changed your mind, have you? Good. Now answer the question.
+
+SCP-1664-8: This language is inadequate. Our origins are not capable of description through this dialect.
+
+Dr. Moor: Then just tell us a few details.
+
+SCP-1664-8: Cold. Open. Free. Unconstrained. Lacking of this pointless clutter.
+
+Dr. Moor: What do you mean by “pointless clutter”?
+
+SCP-1664-8: Light. Heat. Oxygen. Vibration. Unnecessary. Unneeded. Constrained. <incomprehensible>
+
+Dr. Moor: Right then, okay… Next question. SCP-1664-8, do you possess any desires?
+
+SCP-1664-8: Yes.
+
+Dr. Moor: Oh? And what is it that you desire, 1664?
+
+SCP-1664-8: Him.
+
+Dr. Moor: Him? Please elaborate, 1664.
+
+SCP-1664-8: <incomprehensible>
+
+Dr. Moor: Harper, the field.
+
+Dr Harper: On it.
+
+<Dr Harper initiates the 10,000 G Electromagnetic field encompassing the interview room. SCP-1664-8 reacts violently, begins to thrash about and screech. Field disengaged after ten (10) seconds.>
+
+Dr. Moor: Right… Now, for both our sakes, please co-operate, 1664. Elaborate on who “He” is, and use English.
+
+SCP-1664-8: <pauses> The Trickster God. You would call him [DATA EXPUNGED]
+
+Dr. Moor: Uh…
+
+Dr. Harper: Moor… Give me that microphone, and start warming the field back up.
+
+<Dr. Moor relinquishes the microphone to Dr. Harper and moves to take control of the generator.>
+
+Dr. Harper: 1664, immediately reveal where you gained that information.
+
+SCP-1664-8: <incomprehensible>
+
+Dr. Harper: Moor, how long does the field need?
+
+Dr. Moor: Just a minute or two longer.
+
+Dr. Harper: I'll ask you again, 1664. Where did you obtain that information? Respond in English.
+
+SCP-1664-8: This language is inadequate.
+
+Dr. Harper: If you continue to resist co-operation, I will reactivate the field. Explain where you gained the information.
+
+SCP-1664-8: It is not possible.
+
+Dr. Harper: Moor?
+
+Dr. Moor: Almost… Hold on, few more seconds… <pauses> Warmed up.
+
+Dr Harper: Activate it.
+
+Dr Moor: Right!
+
+<Dr Moor initiates the 10,000 G Electromagnetic field. SCP-1664-8's reaction is identical to prior activation. Field disengaged after ten (10) seconds.>
+
+Dr. Harper: Moor, warm the field up again.
+
+Dr. Moor: Already doing so.
+
+Dr. Harper: Good. Now, 1664… This is your last chance to co-operate. Explain how you obtained this information.
+
+SCP-1664-8: <pauses> The information is shared throughout the air. It is detectable. All is detectable. Constrained. Caged. Limited.
+
+Dr. Harper: SCP-1664-8. Explain why you seek this person.
+
+SCP-1664-8: Return. Safe Passage. Freedom. Vengeance.
+
+Dr. Harper: Very well. Cut the feed.
+
+Dr. Moor: Uh… Harper, there's still more questions…
+
+Dr. Harper: I said cut the feed, I've heard enough.
+
+LOG TRANSCRIPT TERMINATED AT REQUEST OF DR. HARPER
+
+O5 Notice: Following a report from Dr. Harper regarding this interview, SCP-1664's object class has been upgraded to Euclid and containment procedures have been updated. Interviews of SCP-1664 specimens are hereby suspended until further notice.
+
+Recovery notes: SCP-1664 was recovered from a rented building named the “Caelum Cervi's Tattoo Parlour and Bar” in Spain following the discovery of website advertisements proclaiming to give “revolutionary smart ink” tattoos. 10 litres of SCP-1664 was recovered following inspection, along with 43 already infected hosts. All hosts were hunted down and contained, then destroyed.
+
+The building has since been seized by one of the Foundation's fronts and remains under constant surveillance. Any and all mention of Caelum Cervi's Tattoo Parlour and Bar, along with the Caelum Cervi website have been scrubbed from both digital and physical sources. A total of 302 civilians have been administered B-Class Amnestics
+
+Security feed of SCP-1664-6.
+
+Caelum Cervi's Tattoo Parlour and Bar advertisement [Translated from Spanish]:
+
+Do you want a tattoo , but I fear it will not stand out? Why not try the revolutionary new SMART Ink ™ Caelum Caelum Cervi of Cervi home and Tattoo Parlour bar.
+
+Impress your family and friends as your brand new tattoo moves through your body by itself! Managed by highly trained professionals in a safe , sterile environment new Smart Ink ™ Caelum Cervi is sure to be a hit at any party, it's the wave of the future!
+
+And as if that was not enough incentive, each tattoo session you get a free drink at the Caelum Cervi Bar, where the finest, premium beverages are served. The bar is also open to the general public, even if you do not want a tattoo, or are you just accompanying a friend, you can spend your time out in style and comfort in Caelum Cervi Bar!
+
+So come on down, you can find us at ███████, ███████, Spain. Or, call us at ████ - █████ for a free consultation with one of our professionally trained artists!
+
+For more information, check out ███.████████████.███, and feel free to email us at Caelum-Cervi@███████.███.
+
+See you at the Tattoo Parlour Caelum Cervi and Bar! The wave of the future!
+
+Additionally, one of the computers discovered during the recovery contained the following email string, sent from the Caelum Cervi email address to a temporary address which has since been deleted. It has been deemed relevant information and has subsequently been archived.
+
+Email string archive [Translated from Spanish]:
+
+Show email string
+
+– hide block
+
+From: Caelum-Cervi@███████.███
+
+To: Demeter@██████.███
+
+Subject: Some questions
+
+Date:03-04-12
+
+Hey, it's me, ████.
+
+Just got a few questions about this magic ink of yours. I'm asking because I've used it on a few friends just a test and a few things don't seem to be working. The ink itself looks like it works, but none of the command spells in this book you gave me are working on them! They're just wandering around like a bunch of drunkards, yelling things I don't understand and stealing all the cutlery in the bar.
+
+I swear to god, man. You had better not have scammed me, here. I've tried everything! I even tried some of the spells in the back of the book that you said were for emergencies only and not even they work! What do I do? I locked the guys up in the basement but I have like 10 appointments later today, I can't keep everybody down there!
+
+Get back to me as soon as possible.
+
+From: Demeter@██████.███
+
+To: Caelum-Cervi@███████.███
+
+Subject: re:Some questions
+
+Date:04-04-12
+
+I thought I went over this. But apparently you weren't listening. So I'll say it again: The spells only work between the hours of 11:00pm and 1:00am. If you try them at any time other than that, you'll just make a fool of yourself.
+
+Don't email me back unless you somehow manage to fuck that up, too.
+
+Peace.
+
+From: Caelum-Cervi@███████.███
+
+To: Demeter@██████.███
+
+Subject: re:re:Some questions
+
+Date:04-04-12
+
+Of course I fucking remember what you told me! What do you think I am? Some kind of retard?
+
+The spells don't fucking work, man. They worked when you showed them to me but when I try them, nothing happens! Now I have 15 fucking people in my basement bashing on the door! And I have more clients tomorrow, too! I can't just shut down now.
+
+I think you need to come back down here and sort this out.
+
+From: Demeter@██████.███
+
+To: Caelum-Cervi@███████.███
+
+Subject: re:re:re:Some questions
+
+Date:05-04-12
+
+Hah! I can't believe you.
+
+To think you haven't caught on already. You really are thick, aren't you? I'm not stepping foot in that dingy ass bar of yours again, pal. Next time, read the fine print.
+
+From: Caelum-Cervi@███████.███
+
+To: Demeter@██████.███
+
+Subject: re:re:re:re:Some questions
+
+Date:05-04-12
+
+What the hell is that supposed to mean? And what the fuck did you do to your phone? I can't get a damn call through!
+
+Get your ass down here now or I'll drive down there and drag you here!
+
+From: Demeter@██████.███
+
+To: Caelum-Cervi@███████.███
+
+Subject: Fine print
+
+Date:06-04-12
+
+ATTATCHED FILE(s): 1
+
+Smartink_Contract.pdf
+
+Here, I sent you the contract you signed. Some bedtime reading for your dumb ass.
+
+From: Caelum-Cervi@███████.███
+
+To: Demeter@██████.███
+
+Subject: re:Fine Print
+
+Date:06-04-12
+
+you piece of shit, I'm going to fucking kill you!
+
+From: Demeter@██████.███
+
+To: Caelum-Cervi@███████.███
+
+Subject: re:re:Fine print
+
+Date:06-04-12
+
+looking forward to it, love.
+
+xoxo
+
+Addendum: O5-1664-01: We're receiving reports of more potential specimens of 1664 out of containment. We've dispatched Task Force 28-Epsilon to investigate these reports. Any conclusive evidence is to be reported to either me or the current Level 4 supervisor.

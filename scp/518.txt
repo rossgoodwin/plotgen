@@ -1,0 +1,153 @@
+Portion of SCP-518
+
+Item #: SCP-518
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-518 is to be monitored by a field research team consisting of at least three staff and one project lead, supplemented by two security staff. This team shall be based at Remote Observation Site-18, 3 km from SCP-518. An automated security perimeter surrounding SCP-518 is to be established and maintained.
+
+One physical copy of SCP-518-1 is authorized to exist at any given time for the purposes of research. This copy is to be kept at all times in an opaque, protective sleeve, sealed in a locked container and kept in Storage Locker 742 in Restricted Access Wing 1 of Site-93. One electronic copy is permitted to be accessible from authorized terminals at Site-93 and Remote Observation Site-18. Any unauthorized instances of SCP-518-1 discovered by Foundation personnel are to be destroyed immediately.
+
+Description: SCP-518 is a localized anomalous phenomenon, catalyzed by the dissemination and exposure of SCP-518-1.
+
+SCP-518 is, currently, a complex in a small valley consisting of eleven wooden structures in varying states of repair, designed and built in the style of structures common in newly-settled areas of the American West during the mid-19th century. These structures are arranged in a manner inconsistent with an established settlement; buildings are arranged in a roughly circular pattern, with no regard to road systems or natural topography (one structure is currently located on top of a creek). SCP-518 is located in rural Deschutes County, Oregon, United States, in the vicinity of the Metolius River.
+
+SCP-518-1 is a short narrative, first documented upon the initial exploration of SCP-518 (see Exploration Log 518-1). Whenever SCP-518-1 is read in its entirety by a sapient, comprehending individual, SCP-518 undergoes spontaneous physical changes. In most cases, these changes entail the movement of structures in relation to each other, rearrangement of the interior features of these structures, and a small amount of subsidence in the immediate geographic vicinity of SCP-518. In some cases, readings of SCP-518-1 will cause new structures to appear, or existing structures to simply cease to exist. Research has determined that these physical changes occur either instantaneously or at speeds beyond the observational capability of current technology.
+
+Interior of SCP-518 structure
+
+The buildings that make up SCP-518 superficially resemble commonly found structures of the region during the 1850s and 1860s. In addition to several houses, there are currently a barn, a three-story hotel, and a saw mill. However, the interiors of these structures are atypical of traditional dwellings and establishments. Features such as walls, floors and ceilings tend to be arbitrarily constructed; houses have been observed to have rooms with no doors, non-level floors (one dwelling is constructed with a "floor" at a 37° angle), ceilings of a height of 1 m or less, etc. Furniture and household items typical of the period are also present, but are arranged haphazardly (in several cases, chairs and beds have been observed nailed to walls and ceilings). Other buildings contain no features inside, while the "barn" merely covers an open shaft extending to a depth of 120 m.
+
+The land area comprising SCP-518 is gradually undergoing conversion into a sinkhole, and is currently experiencing subsidence at a rate of approximately 2-3 m per SCP-518-1 event. Current projections estimate that SCP-518 will be completely submerged by the local water table after 25-30 additional SCP-518-1 events.
+
+Below is a partial transcription of SCP-518-1:
+
+This is the last Will and Testament of me, Asa Rutledge of Grett's Hollow, Kentucky1 made this eleventh day of February one thousand eight hundred and fifty-nine. I bequeath no material possessions, having none.
+
+[DATA REDACTED]
+
+Though my soul be condemned to Hell for what happened here, I direct that my final wishes be carried out in full.
+
+This place and all that happened here shall be forgotten by Man and buried under the Earth until the Day of Judgment. Though nothing is hidden from the Almighty, this being the only atonement I can now offer, I will it thus.
+
+By the power left to me, which I pray is still sufficient to this task, let this testament be the means to conceal my shame, and let the tools of remembrance be turned to the act of forgetting. May Providence hasten the vanishing of this place from the Earth.
+
+Since the establishment of containment, the Foundation has documented 15 spontaneous changes in the composition of SCP-518 that can be reasonably traced to the reading of SCP-518-1. Of these incidents, 13 have occurred under controlled research conditions.
+
++ Exploration Log 518-1
+
+- ACCESS GRANTED
+
+Exploration Log 518-1: Upon initial containment in February of 1992 and the establishment of Remote Observation Site-18, staff undertook an initial exploration of SCP-5182. A team consisting of four D-Class personnel was dispatched to the site, equipped with two-way radios, flashlights, water, emergency rations, crowbars, and a camcorder. Dr. Lupe Carmona, then the Research Director for SCP-518, supervised the exploration from Remote Observation Site-18. Selected transcripts are reproduced below:
+
+Dr. Carmona: Supplies have been checked and accounted for, all personnel present. D-32995, do you read me?
+
+D-32995: Copy.
+
+Dr. Carmona: Time is 1405 hours. Please proceed to the first structure in your field of view. D-94237, please keep the camcorder trained to your front in order to maintain our video feed.
+
+D-94237: Copy.
+
+Video feed shows exploration team proceeding to an SCP-518-A structure resembling a house. Team reaches the front door, and attempts to enter. Door is locked.
+
+D-32995: It won't budge.
+
+Dr. Carmona: You are authorized to force entry.
+
+D-22343 and D-94237 force door open with crowbars.
+
+D-32995: It's pretty dark in there.
+
+Dr. Carmona: Illuminate the area and get video of the interior.
+
+Flashlights from off camera reveal that the interior of the structure is typical of a structure of the apparent time period, with the exception of a dresser mounted on the ceiling, and a floor sloping at a pronounced angle towards the southern wall.
+
+D-94237: You seeing this?
+
+Dr. Carmona: Affirmative. Please proceed carefully into the house and document the surroundings.
+
+After 6 minutes and 58 seconds of visual documentation, a small door in the northwest corner of the structure is visible in the floor.
+
+Dr. Carmona: D-48983, please open the door in your field of view and document your findings.
+
+D-48983: Copy.
+
+D-48983 opens the hatch in the floor. After other exploration members illuminate the opening, a crawl space is revealed to be accessible through the hatch.
+
+Dr. Carmona: D-48983 and D-22343, please proceed into the space in front of you.
+
+D-22343: …I dunno, man, I think-
+
+Dr. Carmona: Please proceed into the space in front of you.
+
+D-22343: Co…copy.
+
+D-22343 and D-48983 take the camcorder and their flashlights into the crawl space. All indications are that it is an ordinary crawl space until D-22343 pauses.
+
+Dr. Carmona: You've stopped. Have you found anything?
+
+D-22343: There's holes all over the place in here, almost sprained my damn ankle.
+
+Dr. Carmona: Please describe what you're seeing in detail.
+
+D-22343: There's…there's a bunch of little…rectangular holes in the dirt here. About…50 cm or so long? Maybe a little bigger. Narrow.
+
+Dr. Carmona: Is there anything in the holes?
+
+D-22343: Hold on, lemme take a look…um, it's uh…what is that?
+
+D-48983 positions the camcorder over D-22343's shoulder. D-48983 appears to be handling an undetermined object while crouched over a hole.
+
+Dr. Carmona: What are you handling? Please refrain from any unnecessary forensic contamination.
+
+D-22343: It's uh…it's nothing. There's nothing in any of these.
+
+Dr. Carmona: I don't believe it's necessary to remind you of the terms of your-
+
+D-48983: It's nothing. There's nothing in here.
+
+Dr. Carmona: …please spend another few minutes documenting this space, and then proceed to the next staging point.
+
+Video feed indicates that the floor of the crawl space is filled with dozens of holes corresponding to D-22343's description. D-48983 and D-22343 then rejoin the other exploration members without incident and leave the structure.
+
+Video feed is turned off until the exploration team reaches the "church" structure then present at SCP-518. Dr. Carmona orders the team to proceed inside, where they discover an entirely empty structure. The exploration team documents the interior until D-32995 pauses at the southwestern wall.
+
+Dr. Carmona: D-32995, do you have an observation?
+
+D-32995: There's some writing on the wall over here. Hey, get that camcorder over here.
+
+Dr. Carmona: Is the writing legible?
+
+D-32995: Mostly, it's kind of smudged in some places, looks like it's written in soot. Here, let's get the video feed in here.
+
+Camcorder is brought to the writing, identified later as an instance of SCP-518-1.
+
+D-32995: "This is the last will and testament of me,"…not sure what this is.
+
+Dr. Carmona: Please transcribe it as best you can.
+
+D-32995: Copy that.
+
+D-32995 attempts to copy down SCP-518-1 on a small notepad. Discussion occurs between D-32995, D-22343 and D-94237 as to possible word choices for smudged portions of the original text. After approximately twenty-five minutes, D-32995 finishes writing and appears to read his notes. A low rumbling sound immediately starts, and the camcorder appears to start shaking.
+
+D-94237: What? What the hell? What's going on?
+
+D-22343: Shit!
+
+Dr. Carmona: What's happening in there?
+
+D-22343: We gotta get out of here! Now! Now!
+
+Dr. Carmona: Permission to abort denied. Stand by and-
+
+D-48983 can be heard in the background to be softly laughing. An unidentified member of the exploration team starts screaming. A loud crashing noise is heard before audio and video contact is lost.
+
+Dr. Carmona: D-32995! Do you read? What's going on in there? Do you read?
+
+END TRANSCRIPT
+
+Footnotes
+
+1. Recovered records from Jessamine County, Kentucky confirm an individual of that name and time period; however, no records of such a location exist at this time
+
+2. At the time, SCP-518 consisted of nine structures, and included a church and a schoolhouse that do not currently exist. The saw mill structure and two current houses had not yet manifested.

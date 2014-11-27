@@ -1,0 +1,69 @@
+Item #: SCP-1239
+
+Object Class: Safe
+
+Special Containment Procedures: Site-███ has been established around SCP-1239-2. When not in use for testing, SCP-1239-1 and removable instances of SCP-1239-3 are to be kept outside of SCP-1239-2 in dedicated storage lockers to prevent accidental activation. SCP-1239-2 should be soundproofed, with all windows obscured from the outside.
+
+Description: SCP-1239 consists of 3 (three) components:
+
+SCP-1239-1, a lamp with a standard low voltage power cable, containing artificial flora with 4 (four) flower-like lightbulbs. The words “Hey Kids!” are engraved on the lid.
+
+SCP-1239-2, a residence in ██████████, ███████.
+
+SCP-1239-3, a specific set of objects present within SCP-1239-2 at time of recovery.
+
+The anomalous effects of SCP-1239 manifest if SCP-1239-1 is powered and viewed by a post-pubescent human subject while both are within SCP-1239-2. Following this, the subject will experience a series of conditional hallucinations until exiting SCP-1239-2, as follows:
+
+Subjects will perceive samples of SCP-1239-3 to be different objects. This is apparently consistent between subjects, as all subjects tested have perceived respective SCP-1239 samples in the same way.1 Objects present within SCP-1239-2 other than SCP-1239-3 will be perceived normally by affected subjects.
+
+Subjects will perceive any prepubescent or pubescent individuals present within SCP-1239-2 as highly amiable, despite the subjects' prior dispositions or relationship with children, and will express a desire to engage in play activities.
+
+Subjects will perceive all expressions of discomfort, pain or displeasure produced by pre-pubescent and pubescent individuals within SCP-1239-2 as expressions of pleasure or enjoyment.
+
+Upon exiting SCP-1239, the hallucinatory symptoms caused by exposure to SCP-1239-1 will cease, and are removed retroactively (i. e., the subject will remember observing SCP-1239-3 samples as they would normally appear, and will be unable to recall experiencing the hallucinations previously caused by SCP-1239). Behaviour caused by SCP-1239, however, will be recalled with an expected degree of detail. As a result of this, subjects are able to recall actions made under the influence of SCP-1239, but are unable to recall the motivation for said actions.
+
+Summarised Recovery Log: SCP-1239 was first identified shortly after an incident occurring in SCP-1239-2 on ████-07-██, in which the respective parents of 10 (ten) children, who had agreed to meet as part of a social event, were exposed to SCP-1239-1. The affected individuals (of which there were 6 (six)) were interviewed and dealt with as per Recovery Protocol 8. A cover story regarding a toxic gas leak was later circulated, and the remains of the children incinerated after analysis.
+
+Note: Testing regarding SCP-1239 has determined that no direct or compulsive behavioural alterations result from exposure to SCP-1239-1.
+
+Excerpt from Document 1239-B
+
+SCP-1239-3 sample
+
+Description
+
+Hallucinated Appearance
+
+SCP-1239-12
+
+A kettle composed of plastic and stainless steel.
+
+A polystyrene sword.
+
+SCP-1239-13
+
+A large oven.
+
+A cardboard box, with the words “FORT” written on it in felt-tip pen, and an apparatus with the words “FUN CONTROLS” written above it which corresponds to the dials. The text representing the maximum temperature (200°C) the temperature dial can be set to has been replaced with the word “MAXIMUM FUN”, and the words “FUN BUTTON” have been printed above the button activating the device.
+
+SCP-1239-14
+
+A Glock 19 pistol.
+
+A toy handgun, with produces a low-energy red laser upon the trigger being pulled. The object possesses a mechanism to load cartridges normally.
+
+SCP-1239-15
+
+17 (seventeen) 14 (fourteen) batteries of multiple sizes.
+
+Multiple biscuits, sugar sweets and other confections, primarily coloured purple, blue and pink.
+
+SCP-1239-16
+
+5 (five) pots and pans of varying sizes, chiefly composed of stainless steel.
+
+5 (five) water balloons of varying sizes and colour, each filled with the near maximum amount of water that they can support.
+
+Footnotes
+
+1. For an extensive list of SCP-1239 samples and their respective hallucinated appearances, please refer to Document 1239-B

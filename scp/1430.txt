@@ -1,0 +1,81 @@
+Item #: SCP-1430
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1430 is to be stored in a security code locked container. Sustained exposure to SCP-1430 for longer than four consecutive hours is forbidden except for experimental purposes. Additionally, any personnel above a level 1 security clearance are expressly forbidden from making direct contact with the object of any kind. As of ██/██/2009, only D-class subjects are to be used for any experimentation.
+
+As of ██/██/2010, per directive by site command, experimentation with SCP-1430 is to be discontinued indefinitely.
+
+Description: SCP-1430 is a staff carved from the wood of a Douglas Fir tree, measuring nearly exactly 115.57 cm from end to end, and weighing 3.2 kg. Adorning the top of the staff is the seal of the University of ████████ (the original location of the object's retrieval), the figures of an adult man and woman breaking away from chains, and holding a lit torch, respectively.
+
+When SCP-1430 is held by a subject, they report being filled with a compulsion to speak on an academic subject they are well-educated in. If the subject lacks a formal secondary or higher education, they will instead feel compelled to speak on a subject that they personally believe themselves to be knowledgeable on. Virtually all subjects were compelled to speak after ten minutes of continuous exposure, and once a subject has begun speaking, they will continue to do so regardless of bodily requirements, ignoring hunger, dehydration, etc. This effect extends to any and all subjects who hold SCP-1430.
+
+After approximately one and a half hours of continuous speaking, the subject’s dialogue will slowly drift away from their original topic, and relate towards Methodist Christianity, regardless of the subject’s knowledge of the religion. Eventually, the subject will speak only on the topic of Methodism, specifically the teachings of one Rev. Dr. ████████, of the University of ████████, where the object was originally recovered. At this point, though they may actively resist separation, it is safe to remove SCP-1430 from the subject.
+
+After four to five hours of uninterrupted exposure, the subject will cease speaking on topics pertaining to Methodist Christianity, and instead lapse into describing a previously undocumented religion featuring violent sacrificial rites and practices. At this point, separating SCP-1430 from the subject will cause permanent psychological and neurological damage.
+
++ Show test log 1430
+
+- Hide test log 1430
+
+Test 1430-01
+
+Subject: Dr. W██████
+
+Duration: 20 minutes
+
+Results: Dr. W██████ gave a brief explanation of primate neurology and meme theory, the subject of her graduate thesis while attending university. Released SCP-1430 willingly on the request of researchers, though commented that she “wished she felt that confident seven years ago”.
+
+Test 1430-02
+
+Subject: Dr. Y████
+
+Duration: 45 minutes
+
+Results: Subject spent the duration describing his tenure at the SCP Foundation and how he acquired it, including details on his studies of SCP-███, ███, ████, and ███. At the 45 minute mark, when asked by researchers to set down SCP-1430, subject initially resisted, claiming he “hadn’t even gotten to how he [REDACTED]”, but relinquished after repeated verbal commands. Afterwards, subject expressed considerable distress at having openly and freely discussed classified materials. Tapes were destroyed, and individuals below the required security clearance who viewed the experiment were administered class-A amnesiacs. Dr. Y████ was not reprimanded.
+
+Test 1430-05
+
+Subject: Agent H██████
+
+Duration: 2 hour, 47 minutes
+
+Additional Info: Agent H██████ was introduced to the SCP Foundation through non-standard channels. Because of his upbringing, he never received formal education beyond the age of 9.
+
+Results: Agent H██████ spoke at length of his knowledge of combat exercises and training, as well as his experiences surviving in extremely adverse wartime conditions. After one hour and forty two minutes, subject touched on his knowledge of the Methodist church, how it related to his survival, and recommended it to the observing researchers. By two and a half hours, Methodism was the only topic of the subject’s speech. When asked to set SCP-1430 back down, subject remained unresponsive and continued speaking, even after several repeated direct orders. Security team instructed to forcibly remove subject from the test chamber. Subject actively and violently resisted having the object removed from his grip, and continued to speak despite fighting a group of 4 men. As soon as subject ceased contact with the object (as a result of being struck on the wrist), he expressed considerable confusion at his situation, claiming to not remember the previous altercation. Agent H██████ later revealed that he had no relationship with the Methodist church, and was in fact raised strictly Russian Orthodox.
+
+Test 1430-09
+
+Subject: D-25102
+
+Duration: 1 hour
+
+Additional info: Subject D-25102 is completely mute, as a result of having his tongue and vocal cords surgically removed eleven years ago to prevent the spread of oral cancer.
+
+Results: D-25102 does not attempt to use sign language (his preferred language) as is expected, but instead begins mouthing words with his lips, and flexing what remained of the muscles in his mouth and larynx. Subject was allowed to continue for an hour, before being ordered to stop. Subject expressed great agitation after releasing SCP-1430, claiming to have been able to hear his own voice again, and that he had spoken about the dangers of cigarette smoking for the duration. Several volunteers capable of lip reading were able to corroborate subjects’ claims.
+
+Test 1430-13
+
+Subject: D-12405
+
+Duration: 5 hours
+
+Results: Experiment proceeded normally for the first several hours. Subject at first spoke of setting up and executing pyramid schemes, before mentioning a successful email scam performed on a reverend of the Methodist faith after one hour, thirty two minutes of speech. (Note: Subject’s file indicated charges for a scam nearly identical to the one described, though the victim was not a reverend, nor a follower of any Christian doctrine at all). After three hours, the subject is speaking entirely on the topic of Methodism, specifically referring any listeners to the (deceased) Rev. Dr. ████████ for further guidance. After three hours and forty seven minutes, subject’s narrative takes an unexpected turn, no longer instructing listeners to seek guidance, but rather insisting on self-mutilation and other violent punishments for increasingly mundane actions, differing greatly from Methodist doctrine. After four hours, twenty three minutes the religious acts described by the subject no longer resemble any known existing or former religions, including elaborate human sacrifices taking place in temples carved from [DATA EXPUNGED]. When a security team was instructed to enter the testing chamber and remove SCP-1430, subject remained initially unresponsive until physical contact was made, at which point she immediately became enraged, violently resisting attempts to remove SCP-1430 from her possession. After being forced to drop the artifact, subject collapsed into unconsciousness and was taken to medical suite 28-N. D-12405 is currently in a vegetative state, showing brain activity consistent with a stroke victim.
+
+Test 1430-17
+
+Subject: D-13742
+
+Duration: ██ days, 4 hours, 15 minutes
+
+Additional Info: D-13742 was attached to an IV drip that allowed him to remain hydrated and fed for the duration of the experiment.
+
+Results: Experiment proceeded as expected for the first several hours. Subject spoke at length about his knowledge of hotwiring luxury cars, before lapsing into the expected pattern of Methodist teachings and the unknown religion described by previous subjects. After 10 to 11 hours of continuous exposure, the subject’s vocal chords began to clearly indicate stress, as the subject’s voice grows more difficult to comprehend. Similarly, subject’s lips and mouth are beginning to show signs of minor cuts and other damage, suspected to be from accidental bites. At this point, subject is believed to be describing the daily rituals of the followers of the unknown religion. After 23 hours of continuous exposure, D-13742 is effectively impossible to understand. Subject’s voice has given out entirely, and lip-reading is rendered virtually useless due to damage to the subject’s mouth and lips. Posture indicates heavy reliance on SCP-1430 to remain upright. Subject occasionally coughs and spits blood. After ██ hours of continuous exposure, subject is showing signs of near total exhaustion, and close to losing consciousness. Then, at exactly ██ hours, ██ minutes, and ██ seconds, subject immediately stands at attention, indicating none of the fatigue present mere seconds earlier, and speaks clearly and loudly in an unknown language, despite the obvious damage to subject’s mouth and throat. Subject’s voice is audible outside the testing chamber, rated as soundproof to 180 dB. Security team is instructed to enter the testing chamber and open fire on subject. [DATA EXPUNGED] containment procedures engaged [DATA EXPUNGED] 37 minutes later, using coordinated use of high explosives. Other than a layer of explosives residue, SCP-1430 remains undamaged. Subject D-13742 terminated.
+
+Notes: Following the incidents of test 1430-17, testing on SCP-1430 has been halted by site command.
+
++ Show Recovered Document 1430-A
+
+- Hide Recovered Document 1430-A
+
+Document 1430-A recovered from the office of ████ ████████ during SCP-1430's retrieval.

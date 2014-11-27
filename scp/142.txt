@@ -1,0 +1,29 @@
+Item #: SCP-142
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-142 is to be kept locked in an accessible room with the following:
+
+1 table with surface area no smaller than 75 cm by 75 cm
+
+1 stool of adjustable height
+
+1 wall clock, electric, to be kept visible and running at all times when SCP-142 is in use
+
+Access to SCP-142 is permitted only with express written consent of Dr. ████ or other level 4 personnel. Staff assigned to SCP-142 must not have any personal or family history of compulsive gambling nor gambling addiction. Staff assigned to SCP-142 are not to make any physical contact with the device under any circumstances.
+
+Description: SCP-142 closely resembles a 1940’s “Black Beauty” slot machine, as produced by the Mill corporation during that era. The only observed irregularity in the external construction of SCP-142 is found in the coin slot of the device, which has been modified to accept any item that will fit in a cylindrical space 5.00 cm in length and 2.45 cm in in diameter.
+
+When any object of appropriate size (hereafter referred to as “the bet”) is dropped into the input chute of SCP-142, the device may be operated as is customary for a slot machine of this model. Should the tumblers come to rest in a losing configuration, the bet is lost and cannot be recovered. However, in the event that the tumblers come to rest in a winning configuration, between 2 and 200 indistinguishably identical copies of the bet are dispensed from the output chute of the machine. In the event that the bet consists of multiple objects, the output of the device (if any) consists of a random assortment of duplicates of the wagered items. Test data reveals the median payout from winning configurations to be 10 items, regardless of the number of items inserted.
+
+Human subjects allowed to interact with SCP-142 are affected by the object in three unique stages. Stage 1 begins immediately upon direct or indirect physical contact with the lever of the device. Subjects demonstrate mild giddiness and demonstrate a greatly diminished sense of the passage of time. If the subject has not exhausted the supply of betting material after 28-34 minutes of play, he or she will gradually enter the next stage. Subjects at stage 2 appear compelled to bet larger and larger quantities of provided betting items (5-20% of remaining material) until supplies are exhausted. Subjects also express the delusion that they are winning more frequently as a result of their altered betting strategy. In spite of this belief, the frequency of payout seems to be somewhat reduced at this stage.
+
+Stage 3 begins once all of the subject’s betting material is lost, typically 10-12 minutes following the onset of stage 2 if no additional betting material is provided to the subject by a third party. Subjects at this stage express a strong aversion to SCP-142 and will not continue to operate the device unless compelled with physical force. Subjects also express a moderate aversion to any action which would cause an object to pass through a hole, and express a strong irrational fear that they will “waste” or “lose” something should they engage in the offending activities. Specific examples vary by subject, but include: passing through doorways; placing objects into cabinets, bags, or any other storage medium; use of sinks, showers, or other plumbing fixtures with drains; removing and/or putting on clothing; sexual intercourse; and, most commonly, eating. Roughly 62% of subjects that reach stage 3 will expire due to starvation or malnutrition unless actively compelled to eat or provided nutrients through other means.
+
+Any subject restrained or otherwise removed from interaction with SCP-142 during stage 1 will recover in full within one hour. However, stage 2 subjects separated from the device will enter stage 3, and the effects of stage 3 have proven permanent in all cases. Subjects in stage 3 should be terminated at the conclusion of each experiment.
+
+SCP-142 was recovered on ██/██/████ from an abandoned antique dealership in ████████, Ohio, following a tip from ████ ██████. Records from that area indicate that the shop owner died of starvation roughly five years prior to retrieval of the device.
+
+Addendum 142-1: On ██/██/████ in the course of an approved experiment, SCP-142 was temporarily disassembled and each piece catalogued. The construction of SCP-142 proved unsurprising for a slot machine of this make and model, with two exceptions. Component 142-0046, the lever of the device, was found to contain several unexpected alloys, including [DATA EXPUNGED]. Contact with the lever has no effect when it is not connected to the rest of the apparatus. Additionally, as mentioned previously, the coin slot of the device is extensively modified to accept objects larger than coins. The most notable element of the custom chute is component 142-0524, a small chamber composed of thin pewter plates. 142-0524 appears to serve as both the holding mechanism for betting material and the dispenser for payouts. The means of interaction between this component and the rest of SCP-142 is unclear; however, due to the highly fragile construction of component 142-0524 and its presumed relationship to the device’s duplication properties, further examination is prohibited without O5 consent.
+
+Addendum 142-2: With the permission of O5-█, personnel may now submit appropriate materials to be used with SCP-142 for potential multiplication. Requests should be submitted in writing to Dr. ████.

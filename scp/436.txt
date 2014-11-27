@@ -1,0 +1,19 @@
+Item #: SCP-436
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-436 must be closed at all times except for testing purposes. It is stored in a large, unlocked room to avoid misplacing the item. Personnel below Level 3 are not allowed to enter the room. Once per week, SCP-436 will be moved to a nearby identical chamber to allow the floor to be reconstructed.
+
+Description: SCP-436 is a small locket, apparently made from gold. When opened, an inlaid photograph can be seen. It is unknown if the photograph is the source of SCP-436's effect, because this cannot be tested.
+
+All measurements within a certain distance of SCP-436 will be affected by significant error. There is no observed pattern to the amount of error; it seems to constantly change, though this cannot be verified because it requires a time measurement. This issue is common to many aspects of SCP-436: the range cannot be reliably determined, the intensity of the error effect cannot be verified, and its location is often vague. It is known, however, that the error effect extends towards its own nature. To clarify, a measurement is required to learn anything about the error effect, and this measurement will have an error.
+
+The actual dimensions of an object will be permanently affected, even after removal from SCP-436's range. Lids on containers cease to fit properly; level objects tilt, and measurement devices in particular will warp. Individuals affected by SCP-436 will have their height and weight altered, and in some cases, their personality. Ability to learn, perform calculations, and make judgments will be impaired. Medical conditions, such as [DATA EXPUNGED] and in particular, cancer, have occurred.
+
+Long-term exposure to SCP-436 allows the alterations to accrue, eventually resulting in an often-indescribable item. Dr. ████████ possesses three samples, currently under study.
+
+When SCP-436 is closed, the error effect apparently decreases in intensity—although, as previously mentioned, this cannot be confirmed.
+
+Attempting to average many measurements affected by SCP-436 will not result in a more accurate measurement. Note that these are not isolated instances of the effect—the measurements simply average to a significant deviation. With multiple averages from multiple sets of trials, the result still does not gain any accuracy; it is unknown how SCP-436 produces this multi-layer effect without [REDACTED].
+
+Addendum: When handling SCP-436, leave it in a flat, open place. We usually have trouble finding it again when personnel leave it in a container, and when we do, it's not easy to open. -Dr. ████████

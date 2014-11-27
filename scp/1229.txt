@@ -1,0 +1,99 @@
+Item #: SCP-1229
+
+Object Class: Safe
+
+Special Containment Procedures: Instances of SCP-1229 are to be saved on the Site-28 Secure Server and cataloged in the Research File. Access to SCP-1229 files is to be conducted in accordance with standard Foundation electronic information security protocols.
+
+Research staff are to monitor internet traffic for SCP-1229. Upon detection of an SCP-1229 instance, staff are to copy the file for Foundation records and containment, record and track IP addresses associated with uploading, and take action to immediately delete the instance. See Clandestine Electronic Data Interference Guide for more details.
+
+Due to the unpredictable nature of SCP-1229 instances appearing on the internet, and in order to minimize public knowledge of their anomalous properties, all information and records pertaining to Ms. Lana Neal have been expunged. Periodic checks for any remaining records concerning this individual are to be carried out to ensure that no information remains accessible to the general public. All original camera negatives of the four films in which Ms. Neal appeared have been seized by the Foundation and are currently stored in the Site-28 Research Archives. Due to the relatively low awareness and quality of these films, copies were never widely distributed, and the few available reproductions have been obtained by the Foundation. Suppression of this information has achieved a Grade 3 Widespread Public Awareness Scenario, consisting of a low-level lingering knowledge of Ms. Neal's existence among cinema enthusiasts, typically characterized in these circles as an "urban legend".
+
+Description: SCP-1229 is a series of (to date) 37 electronic video files, first documented in 2002 and continuing into the present, which have thus far included files in .avi, .mkv, .mpeg, and .wmv formats. Each video file is a depiction of Lana Neal, an obscure British actress active during the early 1970s, in what appear to be a variety of different programs meant for television broadcast. Biometric data analysis, voice recognition software and audiovisual manipulation screenings have determined that each SCP-1229 instance is a true and accurate recording of Ms. Neal.
+
+How these recordings are made is not understood at this time, as Ms. Neal has been deceased as of 03/18/1974. This has been confirmed by exhumation of Ms. Neal's remains and DNA analysis of tissue samples obtained in this manner. A coroner's inquest, prior to Foundation expungement of public records, listed the cause of death as acute cranial trauma related to a fall, which was confirmed by Foundation research staff upon exhumation of Ms. Neal's remains. No criminal act is suspected at this time to have occurred in relation to Ms. Neal's death.
+
+The ostensible subject material of each SCP-1229 instance varies; video transmissions have included programs formatted as nature documentaries, sitcoms, game shows, serial dramas, and other programs typically broadcast on television. Each broadcast centrally features Ms. Neal; to date, no other persons have ever appeared. Dialogue, when present and/or audible, consists of Ms. Neal appearing to read from a script or a prompt outside the view of the camera, and is almost always inconsistent with the type of show the broadcast appears to be. Due to references to noteworthy, contemporaneous events in recorded dialogue, it is assumed that these broadcasts are continually being created and distributed by an unknown party or parties.
+
+Instances of SCP-1229 are typically found on torrent websites and other file-sharing locations on the internet. While research staff have been able to identify IP addresses associated with SCP-1229 uploads, these addresses have never been observed to correspond to an assigned, extant user. No known instances of SCP-1229 have been observed to have been transmitted via any type of television signal.
+
+After extensive experimentation involving D-Class personnel, no anomalous effects have been observed in association with viewings of SCP-1229.
+
+Research Log-1229: The following is a partial listing of SCP-1229 transmissions. In all cases, camera technology, filming techniques and appearance match a television production circa 1974. Evidence suggests, however, that these transmissions have been created over the past decade, and continue to be produced. All dialogue in transcripts is spoken by Ms. Neal unless otherwise noted:
+
+Instance
+
+Date
+
+Summary
+
+Selected Transcript
+
+SCP-1229-02
+
+10/5/2002
+
+Transmission consists of Ms. Neal standing in the Three Rivers Stadium broadcast booth in Pittsburgh, United States. The view behind her depicts an empty stadium. A graphic display on the screen reads "1974 NLCS - Los Angeles Dodgers vs. Pittsburgh Pirates". Ms. Neal speaks into a handheld microphone and faces the camera.
+
+"Rattled? What a silly thing to be at this point. Clouds. Cloudy days are what's to be expected. No, I'm not here. I never was. At least that's how it is now. Still, it's a laugh, isn't it?"
+
+SCP-1229-05
+
+04/23/2004
+
+Segment starts with a card bearing the title "Rats in the Walls", followed by a short theme song typical of situation comedies from the 1970s. Credits are shown, however after the name "Lana Neal", production titles are shown with the names of responsible personnel left blank. Scene takes place in what appears to be a suburban, middle-class house. Ms. Neal reads from a sheet of paper, looking at a lamp in the scene.
+
+"Norris Roberts. Age 11. Reported missing April 23rd, 2002. Last known location: ████████ Elementary School, ████████ Township, Michigan. Last observed location: ██████ Mountains State Park. Flora Hudgens. Age 13. Reported missing April 23rd, 2000. Last known location: ██ ████ Lane, Keithsburg, Illinois. Last observed location: ████ ███████ Boulevard, Gary, Indiana."1
+
+SCP-1229-06
+
+12/13/2004
+
+This transmission consists entirely of documentary-style footage of Haliphron atlanticus (Seven-arm Octopus), with an accompanying voiceover by Ms. Neal. The footage mostly consists of the octopus moving through its habitat, with the exception of the end, in which it is depicted eating seaweed, behavior not observed in H. atlanticus specimens.
+
+"You asked before about how we like to do things. I couldn't say anything before, but it's different lately. I'm joking of course, nothing's different. But you. I like you. We can talk. It's all in how you approach the door. Sometimes it swings out. I don't know how it does that. Other times it's locked. That's when it hurts the most, when it's locked."
+
+SCP-1229-12
+
+08/9/2005
+
+Video depicts a vacant house in a state of advanced disrepair. No furniture or other signs of habitation are present. Ms. Neal lies motionless in the foreground, apparently not breathing, for a time period of 18 minutes.
+
+No immediately discernible dialogue. At the 4:34 mark, a distorted, low groaning sound can be heard, which lasts for approximately two minutes. When the audio track is sped up by approximately 250%, an unidentified male voice is heard saying the words "step inside".
+
+SCP-1229-15
+
+05/30/2007
+
+Transmission depicts a polished wood conference table with several chairs. The background banner reads "Tonight: The World with James Sutton". Post-production graphics at the bottom of the screen read "Investments: Opportunities in the World Bond Market." Ms. Neal sits at one of the chairs, looking into the camera.
+
+Researcher's Note: Original dialogue is in Indonesian, and has been translated into English by staff. "<What was that? What's wrong with the autopilot?>" (pause) "<We've got a bank angle warning! 5000 meters and dropping! MDC, do you copy?>" (pause) "<We're breaking apart! Allah preserve us! Allah preserve us!>"2
+
+SCP-1229-21
+
+11/10/2010
+
+Video depicts a game-show set consisting of several podiums and a raised dais, superficially resembling the set of Match Game. All score displays on the three podiums visible appear to read "2.4544 29.5684". Ms. Neal sits at the center podium and is looking at an unknown person or object off camera to her right.
+
+"Who killed her?" (sustained laughter) "Who killed her? You can't be serious." (sustained laughter) "Of all people. Doesn't that make you just want to crawl into a vent and sleep? Who killed her?" (sustained laughter)
+
+SCP-1229-29
+
+03/19/2011
+
+Footage consists of a kitchen counter with a gas range stove, along with assorted dishes, cooking implements and ingredients. Ms. Neal is attired in a white apron and speaks while preparing what is apparently a raspberry tart.
+
+"All that's left. All of those little pieces of nothing, floating about until the end. It isn't right that they float like that. How my woman's heart aches terribly at that. We have each other. We have nothing. Starlight isn't cold. They're wrong about that. It's not anything. Look at the sky with me. There's no truths there. Those are all buried. Down in the well. Don't tell anyone that you know, the water is just fine."
+
+SCP-1229-37
+
+12/16/2013
+
+Transmission depicts Ms. Neal singing a song in French, accompanied by piano. Original transmission appears to be 5 minutes and 38 seconds in length; however, an additional 10 seconds of footage are present at the end in an alternate version recovered from the ██████ file-sharing service on 12/22/2013. To date, this is the only observed instance to manifest in multiple versions. Additional documentation available through Site-28 research archives.
+
+Researcher's Note: Original song by Ms. Neal is in French, and has been translated into English by research staff. "<No matter what's waiting/ When the future is ruins/ And the water's all gone/ Through the rain on the window/ No one sees no one/ Before night moves us on/ But I'll remember you/ Yes I'll remember you>"
+
+Footnotes
+
+1. This dialogue continues in similar fashion for 24 minutes. In each case, references to missing persons are accurate; however, investigation of "last observed locations" by Foundation staff have turned up no evidence corresponding to referenced cases. In each instance, the missing persons case is still unresolved.
+
+2. This dialogue is believed to relate to the crash of Adam Air Flight 574 off the coast of Sulawesi on January 1, 2007. However, the dialogue does not match official transcripts released after the recovery of the plane's cockpit voice recorder.

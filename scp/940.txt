@@ -1,0 +1,31 @@
+A SCP-940 parasite, in the second stage of infection.
+
+Item #: SCP-940
+
+Object Class: Keter
+
+Special Containment Procedures: All known samples of SCP-940 larva are currently in containment. Systematic purging of SCP-940 adult samples from civilians is currently (as of ██/██/████) being spearheaded by a combination of Area-14 Research personnel and Mobile Task Force Omicron-7 ("Orkin"). Samples of Foundation strengthened █████-█-████████ (see documentation regarding 'Agent Blue') are in the process of being added to commercially available insecticides, which is expected to prevent any more 'wild' strains of SCP-940 from arising. All SCP-940 infectees are to be treated as Class 4 Biohazards, and are to be contained and transported under heavy sedation to Area-14, or otherwise terminated. Deceased bodies infected with any SCP-940 strain, regardless of developmental stage, are to be incinerated.
+
+Description: SCP-940 is a parasitoid organism with some superficial similarities to troglobitic members of the class Arachnida. Adult specimens are highly agile and possess leg spans from four to seven meters; due to the difficulty in separating SCP-940 from their hosts (see below), average weight and body size are moot considerations. Each of their eight translucent legs is dotted regularly with six types of specialized sensory organs—IR-sensitive pit organs; ampullae of Lorenzini; compound and non-compound eyes sensitive to UV; and two additional organs of indeterminate function—and end in large tarsal claws, possessing scopulae and setules common amongst species of hunting spiders and allowing them to climb sheer vertical surfaces with ease. SCP-940 possess a radial nerve net similar to Asteroidea, or the common starfish, and no central nervous system; the possibility that SCP-940 rely on their host's brainpower for processing of external stimuli cannot be ruled out at this time.
+
+Infection occurs following exposure to body fluids containing SCP-940 eggs and larvae. The lifecycle of SCP-940, from initial infection to maturity, is as follows:
+
+Treatment with intravenous anti-parasitic compound is possible, if administered prior to infection advancing to Stage 3.
+
+Addendum: Stage Six and above adult SCP-940 samples, when not attempting to conceal their identities, are extremely agile and capable predators. Through the use of their powerful limbs and multiple sensory organs, they are highly adept at evading capture; field agents are to be highly cautious and equipped with MOPP-4 gear at all times to prevent infection, and Foundation-issued nerve gas grenades for suppression purposes.
+
+Incident Log 940-01
+
+– hide block
+
+Incident 940-01
+
+SCP-940, in utero, recovered from subject D-940-05 on ██/██/████.
+
+On ██/██/████, Assistant Researcher S████ failed to return a live sample of SCP-940 larvae to cold storage, instead allowing the sample to remain unattended in the lab for approximately forty-five minutes while on lunch break. The resulting breach of containment resulted in seven SCP-940 infections amongst research and security personnel, and another five in D-Class personnel. The affected wing of Area-14 was isolated for decontamination, and infected Foundation personnel administered intravenous anti-parasitic compound. All received treatment within six hours of infection and made full recoveries. Infected D-Class personnel were isolated for observation so as to establish a progression of SCP-940 infection and determine for how long it remains treatable.
+
+Observations of subjects D-940-01, D-940-02, and D-940-03 form the basis of the infection's given progression above.
+
+Subject D-940-04 is the only infectee that did not follow the above reported progression, due to multiple larvae reaching maturity. D-940-04 was terminated three weeks into the process, when the accelerated symptoms resulted in her progression to Stage 7, completely bypassing Stages 5 and 6.
+
+Subject D-940-05 was initially believed to be uninfected, displaying no symptoms of SCP-940 infection after three weeks. A full examination found D-940-05 to be pregnant; the unborn fetus was infected. The fetus, D-940-06, was allowed to mature. D-940-05 was kept unaware of its condition. Both expired when the legs of SCP-940 penetrated D-940-05's uterus. D-940-06 is preserved, kept in cryogenic storage at Armed Bio-Containment Area-14 for study.

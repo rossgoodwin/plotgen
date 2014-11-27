@@ -1,0 +1,23 @@
+Item #: SCP-1599
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1599 is to be kept in a 3m x 3m x 3m reinforced concrete vault within a Faraday cage. Except for authorized testing, all personnel touching SCP-1599 must wear CBRN-rated gloves to prevent any possibility of skin contact. The door to SCP-1599's containment must have no internal access to its lock.
+
+All personnel assigned to SCP-1599 must successfully complete 4 hours of training in perception and comprehension of accelerated speech. All of SCP-1599's vocalizations are to be recorded, transcribed, and analyzed.
+
+SCP-1599's dormancy periods last exactly 11 (eleven) hours and 14 (fourteen) minutes; any premature emergence from dormancy is to be reported to site command.
+
+Description: SCP-1599 is a smooth black ceramic disk 30 cm in diameter and 15 cm thick. Although ultrasonic and radiographic examination indicate that SCP-1599 is solid ceramic, it is the creation of an anomalously high level of technological development: in addition to several capacities which are at present only theoretically possible, SCP-1599 contains a hostile intelligence which is actively engaged in espionage. The danger posed by this intelligence is lessened, but not eliminated, by the substantial damage it experienced prior to being taken into custody by the Foundation: in particular, it does not know who it is supposed to spy on, or on whose behalf.
+
+SCP-1599 is able to gain knowledge of any individual whose skin touches its surface. The mechanism and extent of this ability are as yet undetermined; however, SCP-1599 will use any knowledge it acquires to try to convince personnel to assist it in escaping. Direct physical contact is not advised except under testing conditions.
+
+SCP-1599 is able to produce ultra-high-resolution life-size holograms of humans, which it can animate in real time to portray any action it desires; although the majority of these humans are entertainers and other public figures, subject has demonstrated that it is able to create holograms based on Foundation personnel whom it encounters, and that it is willing to use these holograms in attempts at blackmail and/or psychological manipulation. However, the holograms are — apparently as a result of the damage SCP-1599 experienced — flawed, in that either their skin tone is lemon-yellow, their eyes are missing, or both.
+
+SCP-1599 is able to extend six mechanical legs and the broken stumps of three other mechanical legs; the intact legs are 22 cm long and highly articulated. Each leg is tipped with five 2-cm-long talons; these talons can grip at least strongly enough to pierce cloth and break skin. SCP-1599 has demonstrated that it is able to run at speeds of 4 meters per second (although, due to its missing legs, it cannot sustain this speed for more than 3 seconds without falling), and to perform feats of dexterity ranging from picking locks to tying and untying shoelaces to rolling cigarettes to shuffling cards. [Note: SCP-1599's offer to demonstrate its ability to load a gun has been rejected, as has its offer to demonstrate its ability to use a garotte.] When the legs are retracted, they are undetectable.
+
+SCP-1599 is able to see and hear, despite not having any discernible mechanisms with which to do so, and to speak in thirty languages (see Appendix 1599-E-14 for list of languages). However, it has — apparently as a result of the damage it experienced — lost the ability to "subvocalize" its "thoughts", and instead provides a constant spoken commentary of its observations, conclusions, and short- and long-term intentions. SCP-1599 does not seem to be aware that it is doing this.
+
+After 40 (forty) hours and 19 (nineteen) minutes of operation, SCP-1599 expresses the need to sleep and enters a dormant state for exactly 11 (eleven) hours and 14 (fourteen) minutes. During this time it is safe to handle the object for examination purposes, but direct physical contact should still be avoided. Upon emerging from its dormancy, SCP-1599 vocalizes an entry in its internal systems log; this entry counts the number of dormancy cycles since SCP-1599 entered Foundation custody, affirms that SCP-1599 is not worthless and that its superiors have neither abandoned it nor written it off as destroyed, and documents the status of its constant search for a broadcast signal by which it can recalibrate its damaged programming.
+
+NOTE: Although the information gleaned from 1599's 'subvocalizations' have allowed us to thwart ███ escape attempts and ██ attempts to kill Foundation personnel, please remember that the only thing we know for sure is that its purpose is to deceive and subvert. - Director ███████

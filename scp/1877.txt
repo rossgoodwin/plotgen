@@ -1,0 +1,41 @@
+SCP-1877-01, Endoscopic Investigation, 1.7 KM SSW of Origin Point
+
+Item #: SCP-1877
+
+Object Class: Safe
+
+Special Containment Procedures: Due to the impossibility of transport, each instance of SCP-1877 is contained in situ at the subject's origin point. When practicable, the Foundation shall secure ownership of the origin point, soundproof the subject's living quarters, and install inward-facing locks on any interior doorways adjacent to the subject. Foundation medical staff are to review subjects' condition on a 48-hour cycle, measuring any visible extracorporeal intestine. Any intestinal retraction of over 10mm in a single 48-hour period is to be immediately reported to Research Director ████.
+
+Any publicly-accessible infrastructure containing any length of extracorporeal intestine is to be rotated out of service if practicable, or serviced only by Foundation-approved personnel if impractical. Endoscopic discovery of any additional extracorporeal intestine is to be reported immediately to the Research Director.
+
+Description: SCP-1877 is an anomalous gastrointestinal disorder affecting a number of geographically disparate individuals, designated SCP-1877-01 through SCP-1877-03. In addition to their abnormally long and continuous gastrointestinal tract, subjects exhibit severe neuropsychiatric symptoms including left hemispatial neglect and mild aphasia. While subjects' immobility renders most medical imaging impracticable, preliminary EEG results demonstrate unusually high levels of electrical activity in patients' right parietal lobes.
+
+To date, over 30 km of continuous intestine has been endoscopically mapped. Subjects' intestinal tracts have been observed to intersect with numerous manmade artifacts, including pilot lights, electrical conduits, lightbulb sockets, telephone receivers, water mains, sewage pipes, and subway tunnels. 31 hours after entering SCP-1877-01's digestive tract, objects which have entered that tract can be observed passing through SCP-1877-02's entry stoma and exiting 30 minutes thereafter. Presumably, they then travel to SCP-1877-03, and are passed to additional individuals or excreted.
+
+Mapped portions of the SCP-1877 gastrointestinal network consist of the following:
+
+4cm beyond the pyloric valve, SCP-1877-01's duodenum turns outward through a painless stoma in his abdominal wall, extends across subject's living room, and enters a light fixture located in the ceiling of his apartment. Architectural and endoscopic investigation of his gastrointestinal tract seems to indicate that it then descends through the wall of his apartment, enters a water line, diverts into the Washington DC metro system, and then takes a sharp southward turn which renders endoscopy impracticable without severe injury to the patient.
+
+The subject's gastrointestinal tract then resumes in Busan, Korea, exiting through a pilot light in SCP-1877-02's oven, traversing the kitchen and bathroom, and entering through a painless stoma in the second subject's abdominal wall. After 1.4m of superficially normal small intestine, a second length of jejunum exits through a second stoma in the anterior abdominal wall, descends into the subject's bathroom sink, and passes 3.7km through the Busan sewer system. Endoscopic investigation has demonstrated that SCP-1877-02's upper digestive tract is no longer continuous with the lower digestive tract now occupying his body. A third individual, designated SCP-1877-03, is presumed to exist but has not been found. Presuming that the southward bearing of SCP-1877-02's small intestine is continuous, the uncontained third subject is hypothesized to live somewhere within 30km of Adelaide, Australia.
+
+At present, subjects' condition is unstable. Beginning in 2007, both known subjects' extracorporeal intestines began to retract into architectural features of their apartments. At recovery, SCP-1877-01 presented with 24m of slack extracorporeal intestine, permitting him limited mobility within his quarters. At present, SCP-1877-01 only possesses 8m of taut extracorporeal intestine, confining him to a single room of his apartment. SCP-1877-02's retraction has been less severe; at recovery, subject presented with 41m of slack intestine. Postrecovery retraction has reduced his intestinal slack to 34m.
+
+Addendum: On December 5th, 2012, a Foundation recovery team entered an apartment in Adelaide hypothesized to be the origin point of SCP-1877-03. No anomalous features were detected; however, a handwritten letter was found in the apartment's dishwasher. That letter is transcribed below:
+
+Dear General Electric,
+
+I have long appreciated your products. But now I draw close to the socket and there are questions.
+
+For instance what is the problem? I think the problem is that there is a bad disease. My stomach hurts. And I own a General Electric dishwasher, model PD968DPBB, and it does not even help me. Everything growls and boils and whips. There is a stink. I have called my cousin in America and told him that there were difficulties with sickness. He told me to call you, because you are where the problems come from, that there is an electrical wave which comes from my dishwasher and goes to my guts.
+
+Also what will happen? The problem is now very bad. I have to stand so close to your socket that I can hear the electrical wave. Like whalesong. I will have to go in soon. My guts will make me. I know that General Electric cannot make it stop. But there needs to be an answer to the mystery of the appliances. The answer should come in the manual which goes with the socket. So that there is less anxiety when we all have to go into our appliances and live in the guts of the earth, as all of us someday shall do.
+
+Tomorrow I think I will have to go in. When it ends, will I live alone in the names of appliances? How does one traverse the guts of the earth so that there is no problem? Is this a sickness that shoots in an electrical wave from all dishwashers, or just mine?
+
+Please call me tomorrow, General Electric. There will not be much time. I have so much anxiety.
+
+Thank you so much for all your products,
+
+██████
+
+Though the letter appears never to have been sent, a review of telephone logs indicates that a call was placed to the apartment's telephone from General Electric's headquarters in Fairfield, CT. The precise origin point of that call, the subject matter of the conversation which followed, and the individual responsible are still undetermined as of █/██/████.

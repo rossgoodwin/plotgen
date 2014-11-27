@@ -1,0 +1,47 @@
+SCP-997 in containment
+
+Item #: SCP-997
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-997 is to be stored in a standard containment locker while not in use. During testing procedures involving SCP-997, it is recommended that the object be left unplugged while not actively being tested. SCP-997 is to be tested only in a chamber that functions as a Faraday cage.
+
+Description: SCP-997 is a device superficially resembling a lamp, but without a bulb and with a twisting wire structure in place of a shade, believed to function as an antenna. It is made primarily of metal, and was somewhat corroded when contained, though this does not appear to have affected its functionality. Imaging of the internal workings suggests sophisticated electronics of unknown purpose. There is a switch near the top that controls whether or not the device is active. SCP-997 is powered by a standard NEMA 5 power outlet, and so has been fitted with an adapter for Site 19 testing chamber wall outlets. While disconnected from power or turned off, SCP-997 exhibits no anomalous properties.
+
+When connected to a power source and turned on, SCP-997 emits a field that affects every human within about 250 meters. This field cannot penetrate a Faraday cage that follows the specifications given in Document 997-02, and seems to be at least partially psychic in nature. All persons affected by the field become unable to perceive in any way anything they would consider vermin. This effect is based on subjective judgement, so one individual may perceive something that another may not. SCP-997 effects extend to sufficiently accurate representations of vermin.
+
+Testing results suggest that SCP-997 only suppresses conscious awareness of vermin, inflicting symptoms akin to spatial neglect except across all senses. Consequently, though people affected by SCP-997 do not report noticing vermin, they do respond to their presence, though they cannot explain the basis for their reaction. Subjects will often create fanciful excuses for their reactions and refuse to acknowledge the implausibility of these explanations. This disconnect seems to have adverse psychological effects, including paranoia, distress, and delusions. See Experiment Log 997 for further information.
+
+Experiment Log 997:
+
+Experiment 997-003:
+
+Date: ██/██/████
+
+Subject: D-class personnel D-6272
+
+Researcher: Dr. Das
+
+Procedure: D-6272, who suffers from entomophobia, was placed in a test chamber containing an activated SCP-997 and a terrarium containing a number of cockroaches. Subject reported that the terrarium was empty, and was then instructed to place his arm in it. Subject refused. When asked the reason for his refusal, D-6272 was unable to provide a coherent response, though he rejected the suggestion that it was because the terrarium contained insects. After being threatened with termination, D-6272 with evident trepidation placed his arm in the terrarium, only to immediately jerk it out as video footage confirmed cockroaches crawled onto it. Subject's distress continued to mount, despite reporting seeing and feeling nothing on his arm, and he was again unable to explain the reasons for his behavior. Subject removed from test chamber and cockroaches dislodged from arm. SCP-997 deactivated.
+
+Experiment 997-005:
+
+Date: ██/██/████
+
+Subject: D-class personnel D-75009
+
+Researcher: Dr. Das
+
+Procedure: D-75009 was placed in a test chamber containing an activated SCP-997 and a one-page paper about papayas, with a large portion of the text obscured by a high-quality picture of a rat. D-75009 was asked to read the paper aloud. When she reached the portion covered by the image, she stopped, and protested that she was unable to continue. When asked why, D-75009 claimed that her glasses were too dirty. When it was suggested that she simply remove them, D-75009 then said that it wouldn't matter, as the room would be too dim to read anyhow. The evident falsity of this was pointed out to D-75009, who became agitated and unable to explain why she couldn't read on, though she maintained that there was nothing wrong with her. Subject removed from chamber and SCP-997 deactivated.
+
+Experiment 997-010:
+
+Date: ██/██/████
+
+Subject: D-class personnel D-436, D-class personnel D-15810
+
+Researcher: Dr. Redman
+
+Procedure: D-436, who shows signs of severe misanthropy, was placed in a test chamber containing an activated SCP-997. D-15810 was fitted with an earpiece to relay instructions and sent into the chamber. D-436 did not report seeing anyone else in the chamber with him. D-15810 instructed to trip D-436, and does so successfully. D-436 asked why he stumbled, and blames poor shoes. When questioned on this, he becomes defensive, insisting that "These things happen, okay?". D-15810 instructed to kick D-436, who reports pain, but expresses confusion as to its source. D-15810 then instructed to command D-436 to take off his shirt. D-436 complies, complaining to researchers that it is too hot in the testing chamber, and evidently believing it to be his own idea. Subjects removed from chamber and SCP-997 deactivated.
+
+Level 4 clearance or higher required to view further testing logs.

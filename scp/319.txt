@@ -1,0 +1,39 @@
+One of six control panels for SCP-319
+
+Item #: SCP-319
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-319 is to be contained in place at Site-319 inside a hermetically sealed vacuum chamber 20 meters in diameter. The chamber housing SCP-319 must be insulated and the surface temperature controlled to present an absolutely uniform thermal gradient. SCP-319 is to rest on a platform with an active mass damping system, and the relative position of the housing for each instance of SCP-319-1, and the diameter and position of SCP-319-2 shall be continually monitored by high precision laser rangefinders. Any deviations in the position of any instance of SCP-319-1 by greater than 0.01% on any axis, or any change in size or position of SCP-319-2 by greater than 0.001%, is deemed a potential Götterdämmerung Scenario, and a risk of a ZK-0 Event. Foundation-wide initiation of protocol Omega-319 is mandated in response to such an event until such time as the positions of SCP-319-1 are returned to optimal and SCP-319-2 has ceased growth and movement.
+
+Any and all scientific investigation of SCP-319, SCP-319-1, and SCP-319-2 is authorized only with explicit O5 approval.
+
+Description: SCP-319 is a mechanical device constructed circa 1894, consisting primarily of 12 interlocking rings assembled in a 8-meter diameter spherical formation, allowing a clockwork mechanism, driven by electric motors, to rotate each ring separately on each axis. The purpose of the assembly appears to be the precise placement of 12 instances of SCP-319-1 in relation to each other. The assembly has been frozen in its current configuration since its recovery, and current motion of instances of SCP-319-1 have been almost solely due to tectonic disturbances and thermal expansion/contraction of the material comprising SCP-319.1
+
+Detail of housing for one instance of SCP-319-1
+
+SCP-319-1 designates 12 anomalous mineral specimens mounted on SCP-319. Each instance of SCP-319-1 is nearly fully enclosed in a housing made of brass, copper and glass, with a 12mm opening pointed at the center of SCP-319-2. Each housing for SCP-319-1 is connected to heavy-duty electrical cabling that loops in a closed circuit connecting each instance. Measurements indicate a constant 50 amperes of current in this circuit despite no connection to an outside power source.
+
+SCP-319-2 designates a bubble of vacuum 2.561 meters across suspended inside SCP-319. SCP-319-2 appears to be in a lower energy state than the surrounding universe. Because of the alteration of physical constants within this bubble, any matter and energy entering this bubble is annihilated, as their quantum structures are incompatible. Current theory predicts that the existence of SCP-319-2 should catalyze a vacuum metastability event, resulting in the expansion of the boundary of SCP-319-2 at the speed of light, bringing the vacuum state of the surrounding universe down to its lower energy state.2 The expansion of SCP-319-2 appears to be held in check by the precise positioning of SCP-319-1 around it. This is supported by the fact that any recorded movement of SCP-319-1 allows SCP-319-2 to grow by varying amounts. Over the past 50 years, vibrations and thermal expansion have moved SCP-319-1 enough to allow SCP-319-2 to enlarge by 0.██ meters in diameter, meaning that, at its current rate of expansion, in ███ years containment will fail as the outer boundary of SCP-319-2 intersects the innermost ring of SCP-319.
+
+Addendum: Selected excerpts form the journal of Sir Bandon Lawhead-Smythe, recovered with SCP-319
+
+August 12, 1893: I found myself pleasantly surprised today when word arrived of a shipment from England. It appears my rival was as good as his word, living up to the terms of our wager. It seems that day, six months ago in the Explorer's Club, Lord █████████ was not boasting of his accomplishments. Now, if I am not to be made a liar, I shall have to make good upon my own claims.
+
+August 15, 1893: The specimens are exquisite, if one could rightly describe such unnerving carvings so. Ten to match the two I had already acquired. If Lord █████████ experienced half the travails acquiring these as I had my own, I owe the man an apology— even if it must be deferred until after I complete my own expedition.
+
+September 8, 1893: Success! Long study of these odious cults has born sweet fruit indeed. As I suspected, these stones are much more than primitive fetish objects for the worship of savages. The stories of their starborn origins, and the exotic nature of the material, told me that they were much more than that. Something in me finds it almost blasphemous that some ancient hand saw fit to defile such unique material by shaping it into such unclean geometries.
+
+November 12, 1893: The solution was within my grasp all along. The stones, when lit, show a negative potential, and when shaded, positive. A simple copper enclosure, tipped on one end with a mercury tube, can induce a current in the stone, more than enough to power itself and the surrounding mechanism.
+
+January 10, 1894: The workers have all left the cavern. The machine is complete. I will mount the stones today. Soon my feet will step beyond where anyone at the Explorer's Club, even Lord █████████, could ever dream of going.
+
+January 30 1894: Today I have opened a door beyond our universe! My study of a dozen perverse cults allowed me to divine the precise positioning of the stones. Savages chipped these otherworldly relics into a dim likeness of their gods, whereas I, Sir Bandon Lawhead-Smythe, shall walk across the threshold to greet them. Once I have completed writing this entry, I shall don my protective suit, pass through the locks into the airless interior of the vault where the black door awaits me. When I next write in this journal, I shall have traveled father than any other man on the face of this Earth. Including the good Lord █████████.
+
+[Last entry. Journal ends]
+
+Footnotes
+
+1. Precise measurements have determined microscopic variations in position due to gravitational tidal effects but, to date, these have appeared to be within acceptable margins.
+
+2. This would represent a ZK-0 Reality Failure scenario. The universe would continue to exist, but would not only cease to support life as we know it, but would fail to support chemistry as we know it.

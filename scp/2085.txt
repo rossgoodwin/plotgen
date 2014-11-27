@@ -1,0 +1,361 @@
+Item #: SCP-2085
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2085 is contained within a modified Type-05 Humanoid Containment Unit. No attempts to isolate or remove SCP-2085-1 are authorized until SCP-2085's containment implants can be effectively replicated. In the case of SCP-2085-1 overcoming SCP-2085's containment implants, SCP-2085 and SCP-2085-1 are to be terminated.
+
+SCP-2085 requires a liquid diet, to the specifics outlined in Document 2085-MED.
+
+All instances of SCP-2085-A are to be contained within separate Type-05 Humanoid Containment Units. Wireless signal jammers are to be installed in the surrounding area to prevent communication between specimens. SCP-2085-A specimens are to be sedated and restrained before removal from containment chambers, or in any situation requiring entry to the containment chamber.
+
+Description: SCP-2085 is a male human of indeterminate ethnicity between 40 and 55 years of age, measuring 1.7 meters in height and weighing 68 kilograms. SCP-2085 is in generally poor health, with conditions including vitamin D deficiency (now lessened due to changes in diet), acute radiation syndrome (Symptoms indicate at least three doses of ~2 Gy), and heavy scarring from severe and repeated skin ulceration. SCP-2085 is fluent in English and is generally cooperative with staff. SCP-2085 wears an S1035 ACES1 at all times, generally accompanied by a bathrobe and red felt wizard's hat. SCP-2085 has been permitted to retain possession of these items to encourage cooperation.
+
+SCP-2085 has undergone significant cybernetic and genetic enhancement, including:
+
+• Adaptation of the gastrointestinal tract for a liquid diet. Esophageal input port and waste output port are integrated into the suit.
+
+• Skin modifications to regulate sweat and reduce abrasion damage from extended suit usage.
+
+• Modification of sebaceous sweat glands to secrete an artificial biofilm to aid in skin regeneration. This biofilm additionally gives SCP-2085 a strong scent of mint.
+
+• Replacement of 11 missing digits.
+
+• Containment implants for SCP-2085-1.
+
+See Document 2085-EXP for extended information on all known enhancements.
+
+These modifications appear to have been accrued over a long period of time from a variety of sources. For example, many parts of the SCP-2085-1 containment implants have been replaced or modified, and the three replacement fingers on the left hand are all of different design and quality. According to SCP-2085, the oldest of these implants date to 2010, with the most recent dating to three weeks before recovery.
+
+SCP-2085-1 is a fibrous mass of motile, self-replicating carbon nanomaterials inhabiting SCP-2085’s chest cavity, with growths protruding into the liver, pancreas, gallbladder, spinal cord, and left lung. The growth of the SCP-2085-1 and its consumption of SCP-2085’s body tissues has been impeded through the addition of various containment implants used to sever communication between growth sections and control nodes, and counter the replication process.
+
+SCP-2085-1’s rate of replication without the influence of these containment implants is unknown: SCP-2085-1’s periods of activity occur, on average, once every three months. The process lasts for up to fifteen minutes and causes SCP-2085 intense pain. SCP-2085 has claimed to communicate with SCP-2085-1 during periods of activity, though this claim has not been verified.
+
+SCP-2085-A is a group of five augmented female humans of Japanese origin, designated SCP-2085-A-1 through SCP-2085-A-5. SCP-2085-A instances are genetically identical, and measure between 1.9 and 2 meters in height and between 70 and 95 kilograms in weight. Variables in height and weight have been attributed to the augmentation process. Subjects are fluent in Japanese, Russian, and English and are generally uncooperative with staff. Eight escape attempts by SCP-2085-A were made between initial containment and ██/██/2013, with no successes. SCP-2085-A-4 in particular has attempted five of the eight attempts. No further attempts were made after ██/██/2013.
+
+As with SCP-2085, SCP-2085-A specimens display an array of genetic and cybernetic enhancements, including:
+
+• Cosmetic genetic splices of Felis catus physiology, including ears, tails, and hair coloration. Tails are prehensile and capable of holding small objects.
+
+• Grip pads located on the hands and feet.
+
+• Retractable blades in the fingers and knuckles.
+
+• Ocular implants with thermal vision, heads-up display, and recording equipment
+
+• Carbon-nanoweave muscle fiber augmentation and reinforced endoskeleton
+
+• Wireless communication suite with local tactical network
+
+• Drug glands providing pain dampening, heightened sensory awareness, and altered pheromones.
+
+SCP-2085-A implants are of a higher quality than those found in SCP-2085, and show no signs of modification after installation. Implants are uniform in design, indicating a single source.
+
+See Document SCP-2085-A-EXP for further information on SCP-2085-A specimens.
+
+SCP-2085 and SCP-2085-A have been linked to numerous criminal operations occurring between 2010 and 2013, including smuggling, theft, kidnapping, extortion, possession of fissile materials, corporate sabotage, embezzlement, copyright infringement, piracy, possession of narcotics with intent to sell, and tax evasion. The targets of these operations have been almost exclusively criminal organizations. SCP-2085’s area of operations consisted primarily in Russia, China, Japan, and Southeast Asia. The location of SCP-2085’s base of operations, if extant, is unknown, as are connections to any other groups. The recovered assets of the group consist solely of equipment held upon recovery.
+
+SCP-2085 and SCP-2085-A were initially recovered on ██/██/2013 in Kowloon, Hong Kong, during a heist carried out by the group against the Sun Yee On triad. The incident was blamed on inter-gang violence initiated by the rival 14K triad.
+
+Document 2085-A-EXP
+
+SCP-2085-A-1
+
+SCP-2085-A-2
+
+SCP-2085-A-3
+
+SCP-2085-A-4
+
+SCP-2085-A-5
+
+Height: 1.95 m
+
+Weight: 83 kg
+
+Hair: Calico
+
+Notes: Sleeve tattoo on right arm, prominent facial scar. Presumed second-in-command to SCP-2085.2
+
+Entry interview
+
+Researcher ██████: Please state your name for the record.
+
+SCP-2085-A-1: Major Motoko Kusanagi3 representing the Black Rabbit Company.
+
+Researcher ██████: Can you explain what it is that your company does?
+
+SCP-2085-A-1: We’re an employee-owned private security group. In plain speech, we do everything. Security, deliveries, birthday parties…
+
+Researcher ██████: Birthday parties?
+
+SCP-2085-A-1: Long story, complete disaster.
+
+Researcher ██████: Indeed. Could you elaborate on any of these?
+
+SCP-2085-A-1: No. Let’s be honest here: Both of our respective organizations are of sketchy legality on the best of days. It’s obvious, there's no use denying it. You don’t trust us, and we certainly aren’t going to trust you. With that in mind, it would be best for us to just go our separate ways.
+
+Researcher ██████: I’m afraid that’s not possible at this time.
+
+SCP-2085-A-1: Suit yourself.
+
+Interview recorded on ██/██/2014.
+
+<Log begins>
+
+Researcher ██████: Thank you for speaking with us, A-1.
+
+SCP-2085-A-1: Don’t thank me too soon. Wizard’s going to try something.
+
+Researcher ██████: How do you know?
+
+SCP-2085-A-1: We’ve been here for four months now. He’ll be getting stir-crazy. You can probably see the signs now. He’s talking less, avoiding questions, acting jumpy, pacing around his room, bored out of his mind.
+
+[Folds hands]
+
+I’ll lay it out plain. We in the Company have got a lot of dreams, and Wizard is no exception. Dreams cost a lot of money. Money can’t be made with everyone sitting on their asses in here. Four months is too long, long enough that things start falling apart and plans start falling behind schedule. Now, I'm a patient woman, I can play the waiting game, but Wizard? The longer he’s holed up in here, the more likely it is he’ll try being the big hero and plotting a way out. It’s practically a guarantee by this point.
+
+Researcher ██████: What do you think he’ll do?
+
+SCP-2085-A-1: Something stupid. Something loud and obvious and terribly stupid. Something that’ll get him kicked in the teeth quick. He’s a bigger danger to himself than anyone else when he gets like this.
+
+Researcher ██████: We’ll put him under increased surveillance.
+
+SCP-2085-A-1: Thanks. And, if you could, tell him we’re doing all right. That, and ‘Goddamn raisins.’
+
+Researcher ██████: Excuse me?
+
+SCP-2085-A-1: It’s nothing. Just a joke between us.
+
+<End log>
+
+██/██/2014: upon review of SCP-2085-A-1's statement and observation of SCP-2085's behavior, increased surveillance of SCP-2085 has been authorized by Site Director ██████████.
+
+Height: 2 m
+
+Weight: 95 kg
+
+Hair: Black bicolor
+
+Notes: Generally positive in interactions with Foundation personnel and willing to answer questions. Prone to exaggeration and apocrypha: Accuracy of statements is questionable. It is unknown if this is deliberate misinformation.
+
+Entry interview
+
+Researcher ██████: Please state your name for the record.
+
+SCP-2085-A-2: Milly Thompson.
+
+Researcher ██████: Can you tell me anything about the Black Rabbit Company’s activities prior to your stay here?
+
+SCP-2085-A-2: How much time do you have?
+
+Researcher ██████: As much time as you need.
+
+SCP-2085-A-2: Awesome. So there was this one time we were up in Kamchatka, you know, the little dangly part of Russia, and we’re breaking into this old Soviet bunker. Place hadn’t been opened up in over thirty years and was overrun by psychics. Wizard managed to cut a deal with them and got on the inside. The merchandise we were selling them was all fake of course, but they didn’t realize that until we started shooting…
+
+[SCP-2085-A-2 continued in this manner for two hours and fifty-three minutes. Events described were, in order: Raid on a sealed Soviet-era bunker with presumed GRU-P connections (Confirmed), breakup of an Ukranian sex trafficking ring (Confirmed but not linked to the group by other sources), a spate of raids under the guise of a San Francisco pizza delivery service (Unconfirmed), and the declaration of SCP-2085-A-4 as Queen of Thailand (Unconfirmed).]
+
+Height: 1.92 m
+
+Weight: 79 kg
+
+Hair: Brown mackerel tabby
+
+Notes: Highly cooperative. Currently shows signs of depression due to extended isolation. Has refused meeting with Foundation psychologists. Potentially willing to divulge sensitive information out of concern for SCP-2085 and fellow SCP-2085-A subjects.
+
+Entry interview
+
+Researcher ██████: Please state your name for the record.
+
+SCP-2085-A-3: Aisha Clan-Clan.
+
+Researcher ██████: What can you tell me about your friend Wizard’s condition?
+
+SCP-2085-A-3: Oh, Red. It’s…well, it’s not very pretty. Wizard doesn’t like talking about it a lot, doesn’t want to make a lot of trouble about it and make us worry about him. But we know what to do in case it starts acting up.
+
+Researcher ██████: And what do you do when that happens?
+
+SCP-2085-A-3: We get him his toolkit, and if we need to do anything else he tells us then. Most of the time he can do it himself, but sometimes he needs help from someone else.
+
+Researcher ██████: Can you tell me anything about these people?
+
+SCP-2085-A-3: Uh, no. Not really. They keep to themselves.
+
+Researcher ██████: All right. If you could tell me anything else about his condition, please.
+
+SCP-2085-A-3: Wizard says Red talks to him, whispers all this horrible stuff to him when it’s growing. That it’s just going to eat away with him until there’s nothing left, and that that’s what going to happen to everyone eventually. I don’t know if it actually does talk, I mean, I believe it does but I haven’t heard it… it makes sense, for a cancer.
+
+Researcher ██████: Can you tell me anything about Wizard’s history? What he did before
+
+SCP-2085-A-3: Not really. He mentioned a long time ago that he used to be married and had kids, but he never brought it up again. They probably think he’s dead or that he ran off or something like that, and he doesn’t have any connections with jobs or friends. He doesn’t really have anything left from back then, so we’re his family now.
+
+Statement by SCP-2085-A-3, ██/██/2014:
+
+What do you want from us?
+
+I haven’t seen the sun in months. I haven’t seen my sisters in months. I haven’t seen Wizard in months. I haven’t even been able to speak with any of them. I don’t even know if they’re alive or not anymore, and it hurts just as much to believe that they’re alive than it is to think that they are dead.
+
+What do you want from us? Do you want our eyes and bones and all the metal inside us? Take it. Take it all, I don’t care. Leave us blind and crippled but at least let us be blind and crippled and free. If we must crawl and beg in the mud and shit, at least let us do it together.
+
+Are you trying to punish us for something? Are you trying to punish us for killing murderers? Are you trying to punish us for stealing from thieves? Are you trying to punish us for trying to put a little bit of good into the world?
+
+Perhaps you are. All those people out there, the drug lords and the pimps and the loan sharks and the mafia dons and the maniacs and the thugs and the bullies and each and every goddamn person in this world who makes it their job to tear out people’s hopes and build an empire on their corpses, they’re your kin. You just learned how to be polite, how to dress up in labcoats and say please and thank you and pretend to be decent human beings. You smile, and you pretend, and you give us three meals a day and a bed and sometimes a few books, and you pretend like it justifies locking us in here like animals in cages or dolls on a shelf.
+
+What am I to you? Am I even human in your eyes?
+
+And look. All that work, all that scraping along, and now we’re right back in the place we escaped. Just animals in cages, pretty women in boxes.
+
+We were going to get to space. We were going to build the ship, and the six of us would go all the way up past the sky and look down at the world, and we would have won. We’d laugh and cheer and shout “We did it! We fucking did it!”, and for a brief moment we would be completely free. We would be alive. And we could show everyone that it’s okay, that they can be free too, that they can be alive. We’d help them. And now…nothing.
+
+What do you want from us? What have we done?
+
+Height: 1.95 m
+
+Weight: 76 kg
+
+Hair: Red bicolor longhair
+
+Notes: Extremely hostile to staff. Has refused to cooperate in any way.
+
+Entry interview
+
+Researcher ██████: Please state your name for the record.
+
+SCP-2085-A-4: [Raises middle finger of right hand] Get on your knees and suck it.
+
+Researcher ██████: I understand your frustration, but cooperation will benefit you greatly in the long run. Please state your name for the record.
+
+SCP-2085-A-4: [Raises middle finger of other hand] I said, get my goddamn dick in your goddamn mouth and suck it.
+
+Researcher ██████: If you require some extra time to calm yourself then -
+
+SCP-2085-A-4: [Interrupting] They put you in the special classes or something? Let me use smaller words. You [Points at Researcher ██████] go [Mimes walking two fingers across the opposite palm] fuck [Makes masturbatory gesture] your mother [Makes gesture suggestive of an overweight female form] in the ass. [Stands up, turns, points to rear]
+
+Researcher ██████: This interview is over.
+
+SCP-2085-A-4: Holy fuck you finally figured it out: if you pluck a girl off the street and lock her in a box for no goddamn reason without giving her a lawyer or explaining what the hell is going on, she probably won’t want to talk to you so fuck off.
+
+Incident 2085-A-4-11: ██/██/2013 - SCP-2085-A-4 claimed willingness to provide video logs of the group’s former operations in exchange for the lifting of sanctions placed upon the subject after repeated escape attempts. The offer was accepted: however, due to SCP-2085-4-A’s history in containment, the provided file was accessed in an isolated network by D-class personnel in the case of viral, memetic, or cognitohazardous agents.
+
+The provided video file, titled Пожрите_говна_ослоебы.avi, consisted of a 46:34 minute slideshow consisting of various still images and video footage of fecal matter, accompanied by a looped recording of folk song “Korobeiniki”, as performed by the Red Army Choir. The file also contained a single-use audio-transference cognitohazard inducing severe anaphylaxis and exudative diarrhea in the observing D-Class subject. D-Class subject died four minutes after initial access of the file. File was disposed of without incident.
+
+Sanctions placed upon SCP-2085-A-4 have remained in place.
+
+Height: 1.9 m
+
+Weight: 70 kg
+
+Hair: Silver-blue
+
+Notes: While not hostile, subject has refused to cooperate or provide information. Nose is deformed from numerous breaks.
+
+Entry interview
+
+Researcher ██████: Please state your name for the record.
+
+SCP-2085-A-5: Molly Millions.
+
+Researcher ██████: Can you tell me about the Black Rabbit Company?
+
+SCP-2085-A-5: No.
+
+Researcher ██████: Can you tell me about Wizard?
+
+SCP-2085-A-5: No.
+
+Researcher ██████: Can you tell me about Red?
+
+SCP-2085-A-5: No.
+
+Researcher ██████: Are you willing to answer any questions at all?
+
+SCP-2085-A-5: No.
+
+Researcher ██████: Do you ever want to get out of this cell?
+
+SCP-2085-A-5: N-
+
+Researcher ██████: Gotcha.
+
+SCP-2085-A-5: [Silence.]
+
+Researcher ██████: Look. I’m trying to be patient with you all, but I have a job to do. You could make it easy on yourself by either cooperating with me or just refusing outright, but drawing it out like this does nothing but make things difficult and unpleasant for both of us. Until you decide to act reasonable, this interview is over.
+
+Incident 2085-A-5-1: ██/██/2014 – The following note was given to staff by SCP-2085-A-5. It is the first communication between SCP-2085-A-5 and staff since the entry interview. The note was as follows:
+
+Sorry.
+
+Incident 2085-A-5-1: ██/██/2014 - Upon receiving breakfast, SCP-2085-A-5 sat down and proceeded to sing “Happy Birthday”. Of note is the use of “us” for the recipient.
+
+//<![CDATA[
+
+OZONE.dom.onDomReady(function(){
+
+        var tabView2f38ab7d6b9e1d4166965ad54941e3ed = new YAHOO.widget.TabView('wiki-tabview-2f38ab7d6b9e1d4166965ad54941e3ed');
+
+                }, "dummy-ondomready-block");
+
+        
+
+//]]>
+
+Addendum-02: The following log was recorded on ██/██/2013.
+
+<Log begins>
+
+Researcher ██████: SCP-2085, could we ask you a few questions?
+
+SCP-2085: Mm? Oh. Yeah. Sure. Hold on a tic.
+
+[SCP-2085 puts on bathrobe and wizard hat, moves chair to interview window, and sits down]
+
+SCP-2085: There we go. Ask away.
+
+Researcher ██████: All right. First, we were wondering if you’d be able to tell us about your history: your name, where you’re from, basic information like that.
+
+SCP-2085: Uh…I’m a space wizard, I come from space.
+
+Researcher ██████: That’s not particularly helpful, SCP-2085.
+
+SCP-2085: Look, it isn’t important. I’m an average guy from an average background. If Joe Everyman and John Doe were a gay couple who adopted a kid, I would be the next door neighbor who doesn’t even get a mention in the newspaper.
+
+Researcher ██████: Very well. With that out of the way, we were wondering if you could tell us about your assistants.
+
+SCP-2085: Oh, the girls? They’re the best, aren’t they? You would not believe the scraps they’ve gotten me out of. There was this one time in Moscow, when-
+
+Researcher ██████: We can save that for another time. We’re more interested in how you came across them.
+
+SCP-2085: [Sigh] That’s something of an interesting story. I wasn’t in a good place in my life around then. Running around, trying to fix all this shit, [Taps chest] wondering if there was any purpose at all or if I should just give up and die. Scraped by with implants from some pretty shady characters. One of them turned out to make custom jobs for corporate execs who wanted some muscle or rich perverts who wanted sex toys. I was at the clinic to get some new parts, and when I'm going through the installation process, BOOM! Big explosion and those five come barging out guns blazing. I just start booking it with my chest half open, because when a six-foot-four two-hundred-ten pound Japanese woman with an assault rifle barges through the wall, you run. Following this is a long series of shenanigans wherein we met up, split up, meet up again, get shot at by the guy's business partners, shoot back at the guy's business partners, save each others' lives multiple times, [As an aside] mostly them hauling my ass out of the fire [Aside ends], steal a boat and high-tail it out of Japan.
+
+We whipped up the charter for the Black Rabbit Company on our first night out of the country, right there on the boat. It was their idea, I just got kinda roped in as the face of the operation because of my rugged good looks and natural charisma. Not like I could do all the physical stuff anyway. But it was right then, as we were working out the details of everything, that I got inspired. One of those once-in-a-lifetime life-changing inspirations. They fought back against the shit life threw at them. I could to. So I did. I wasn't some guy dying from some freaky cancer in his chest: I was the Space Wizard.
+
+[Pause]
+
+And we've been friends ever since. Don't know what I'd do without them. Probably end up dead. You better be treating them well.
+
+Researcher ██████: We are.
+
+SCP-2085: Good.
+
+Researcher ██████: Could you explain to us the entity currently living inside you?
+
+SCP-2085: Ah. Red. Long story there.
+
+Researcher ██████: We have time.
+
+SCP-2085: I’ll keep it short, anyway. Basically, this thing, Red, it’s my opposite. My sort of evil twin. Fell from the sky in a meteorite a few winters back. Red’s got no hope left, no more room for dreams, and all it can do is leech and wait. Nothing but despair left for Red, so anyone having hope, anyone having dreams, it hates that. That’s the nutshell.
+
+Researcher ██████: Mmmm. One last question: why the costume?
+
+SCP-2085: This? Easy. It’s a symbol. Super-hero thing. It helps people believe easier, because symbols and icons are easier to believe in than people, a lot of the time. The world doesn’t like letting people believe in people, so they have to make do with symbols.
+
+Like, just look at a bunch of kids playing pretend on the playground. They see the world, look out at it, and then go ‘No, fuck you world, I’m going to make something better, I’m going to be something better.’ They aren't going to laugh at the space wizards and cyborg catgirls, because they want to be the space wizards and cyborg catgirls. They're going to build spaceships and go to the moon and let nothing get in their way. Then they grow up, and find out that the world is built on broken dreams. They give their dreams to the world to find a place in the machine and the world tells them to build a box. They stick themselves in the box and sit there until they die, and the boxes go on until the universe ends. That's the box the girls were fighting against. That's the box I'm fighting against. We're going to be what the rest of the world could be, do what the rest of the world could do, take all those dreams and bring them back. If we need to get our hands dirty, so be it. The world is dirty and we have to deal with it until we can make something better. We're going to remind the world what it's like to not live inside a box.
+
+<End log>
+
+Footnotes
+
+1. Advanced Crew Escape Suit
+
+2. Edit ██/██/2013: This presumption was found to be incorrect through testimony of both SCP-2085 and SCP-2085-A-1. SCP-2085-A-1 is the official leader of the Black Rabbit Company as according to the original charter.
+
+3. All SCP-2085-A subjects provided false names taken from characters featured in various media, with sources consisting of Ghost in the Shell, Trigun, Outlaw Star and Neuromancer, respectively.

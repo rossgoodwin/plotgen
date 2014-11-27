@@ -1,0 +1,23 @@
+Item #: SCP-483
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-483 needs no special containment, other than to prevent use outside of authorized testing. SCP-483-1 is not to be administered to subjects for whom there exist living humans outside the Foundation who are significantly acquainted with the subject and aware of the subject's age. Under no circumstances is SCP-483-1 to be administered to those known by Overseers. If SCP-483-1 is to be administered to a subject in a quantity in excess of their original age (see Addendum 483-b), all documents detailing and suggesting the test should exclude any and all information about the subject in question, especially the proposed original age to be tested; information recorded from and for these tests should not be taken from the subject directly, but rather from a clone of the subject created using SCP-222 (using a double-blind procedure), until all tablets designated for the test have been successfully administered. In cases where the subject is an SCP-222 clone created for this test (the recommended procedure), the original may be used for initial records.
+
+Description: SCP-483 is a standard orange prescription bottle filled with up to 50 spherical, gray tablets (SCP-483-1). The label indicates that it was issued to a "Sherman, David A.", and in place of a prescription name, the label reads "anti-aging". The remainder of the label has been torn off. Analysis of the tablets shows that they are chemically identical to placebos.
+
+When SCP-483-1 is ingested by an organism possessing a stomach capable of digesting medication, its effect takes place: All existing memories, documents, and records regarding the organism's age are altered, decreasing the organism's recorded age by one (1) full year. All numerical values/memories relative to the organism's age are altered correspondingly. The ingesting organism displays no biological change, apart from the aforementioned memory adjustment.
+
+Medical pills or tablets of any kind which are placed in SCP-483 become SCP-483-1. Individuals affected by SCP-483-1 will remember accurately how many years have passed since certain events in their lives, excepting the ingesting subject's date of birth. Affected individuals may be convinced that their interpretation of the subject's age is wrong and revise it; further ingestion of SCP-483-1 by the original subject will reduce the revised age.
+
+Addendum 483-a:
+
+SCP-483 was recovered from the home of ████ ██████, after wide discrepancies were reported between his medical records and physical condition with regard to his age. ████'s official documents, as well as his nearby relatives and friends, reported that he was 8 years old, though they could recall events involving him over a decade ago. A ██-year-old newspaper story listing his name corroborated this discrepancy. His physical stature and development showed that he was at least 20 years of age, and his growth rate was that of a normal human. Upon confiscation and discovery of the effect of SCP-483-1, subject was terminated and his records corrected.
+
+Addendum 483-b:
+
+If SCP-483-1 is ingested in a quantity greater than an organism's original age, the organism loses all memory aside from functional memory (skills, language, etc.), all existing recorded information regarding the subject vanishes, and all those who knew the subject lose any and all memories regarding the subject. When questioned as to past events having involved the subject, affected individuals simply note there having been "another person" or "a stranger" present.
+
+Note: I've always been paranoid about memetic and mind-altering effects. Lucky for me, my countermeasures saved my memory from the overdose. Unfortunately, however, I've lost my clearance, seniority, staff, awards, retirement date, and the opportunity to have my aging mother ever recognize me again. Fixing at least some of these problems would be simple; that is, if anyone knew who the hell I was! That's the last time I get a rookie to draw up an experimental procedure for me, goddamn it. - Dr. Blast
+
+Note: Dr. Blast, please refrain from using official documentation as a medium to voice complaint. That you're 2 weeks old is no excuse. - Dr. ████████

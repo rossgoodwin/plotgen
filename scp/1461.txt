@@ -1,0 +1,67 @@
+SCP-1461, prior to containment.
+
+Item #: SCP-1461
+
+Object Class: Euclid
+
+Special Containment Procedures: Site-6 has been constructed around SCP-1461. Task Force Lambda-30 ("Whiskey Tango Foxtrot") is on permanent assignment to reinforce Site-6 security. Any unusual activity from SCP-1461 is to be reported to on-site Level 4 supervisors, who will implement A4-7 Daybreak procedures at their discretion (see Site-6 standard procedures guide). Any operatives entering SCP-1461 should be fitted with full NBCA (Nuclear, Biological, Chemical, Anomalous) protection and armed escorts. SCP-1461 is considered a high-priority target for the organization known as the Church of the Broken God, who have made ██ attempts to breach Site-6 and access SCP-1461 since 19██.
+
+Description: SCP-1461 is an English manor (circa 1890) with attached sub-levels. It came to the Foundation's attention on November 1941, when the dwelling and its sub-level facilities vanished, then rematerialized after an eleven day period of absence. The surface portion of SCP-1461 is a two-level dwelling with twelve bedrooms, four baths, three studies, a main foyer/ballroom, a library, a kitchen, and a pantry-basement. Most of these rooms were converted into simple barracks prior to Foundation acquisition and are believed to have been dwellings for the cult. Site-6 Staff have reinforced the structure and use the available space to house monitoring rooms and security forces. No anomalous activity has ever originated from the manor itself.
+
+The sub-level facilities are accessible through the manor's basement. The layout and size of the sub-level facilities has yet to be accurately measured, due to the anomalous qualities of the facility and hostile entities within. The facility is constructed primarily from concrete, iron, and brass; but also a number of exotic and/or unknown materials. The layout of the facility follows illogical routes and architecture: for example, doorways open into solid walls or open chasms, stairwells ascend into empty space, etc. Extensive damage is apparent throughout the facility. Certain sections have caved in and are filled with an unidentified grey sandstone that exists nowhere on the Foundation's expanded periodic table of elements. The facilities also contain a wide array of anomalous artifacts both active and neutralized (see Inventory Document I-1461-Current). It is unknown whether the facility's erratic layout and artifacts were present prior to SCP-1461's disappearance, or if they were introduced during said absence.
+
+The sub-level facilities are extremely hazardous, with an extensive array of moving mechanical apparatuses, gear works, pistons, steam-pipes and coolant tubes that lack appropriate safety measures. The machinery is maintained by strategic placement of nozzles that dispense a black, mucus-like substance which is highly corrosive to organic materials, but also serves as a coolant and lubricant. Some sections appear to be emitting strong gamma and X-ray radiation, registering 75 counts per second at their highest recorded reading. The source of this radiation is unknown as none of the machinery appears to be constructed with or houses radioactive components.
+
+SCP-1461-1 instance, formerly Agent █████. Body recovered from Incident-C-13-1461.
+
+SCP-1461 contains approximately fifty-seven humanoid entities (including seven former Foundation personnel) designated as SCP-1461-1. These entities, through an unknown process, have been augmented with crude mechanical implants in an as-of-yet undiscovered section of SCP-1461. Each instance of SCP-1461-1 has been uniquely augmented, with little uniformity between them. The majority have been augmented with metallic teeth and claw-like protrusions on their hands, giving them lethal close-quarters combat ability. Other augmentations include iron bolts haphazardly grafted to the subject's bones, severe reinforcement to the spinal column, and the replacement of one or more organs with prosthetic equivalents. SCP-1461-1 appears to possess no higher brain functions or retain any sense of self, acting entirely on canine-levels of instinct and intelligence. Instances stick to one- or two-unit groups, build easily hidden or defensible nests, and attempt to collect food cannibalized from one another or from intruding Foundation staff. All instances of SCP-1461-1 are considered extremely hostile.
+
+It is theorized that SCP-1461 itself may "command" SCP-1461-1. The speaking-tube system throughout the facility has been observed emitting loud metallic shrieks that cause SCP-1461-1 to retreat from an area. In other encounters, a metallic odor identified to be blood filters through the ventilation system, drawing SCP-1461-1 to the marked location. The frequency and accuracy at which SCP-1461 scent-marks areas currently occupied by Foundation personnel suggests some kind of guiding, hostile intelligence.
+
+At least four instances of SCP-1461-1 have received additional augmentation, replacing their esophagus and lungs with a phonograph device powered by SCP-1461-1's own motions. These phonographs emit a constant, repeating stream of speech peppered with religious symbolism, but has provided no clues as to its creator or purpose.
+
+Addendum: According to records from 1941, the manor was owned by a Mr. █████ ██████ and his family. A World War One veteran, Mr. ██████ was injured during the Battle of the Somme and shipped to a London hospital shortly before the war's end. His experiences appear to have had a profound psychological effect, giving him a nihilistic view of society. He constructed SCP-1461 with the intent of somehow ending or escaping the world. More information can be extrapolated from his journals, recovered from within SCP-1461 (see Evidence Summary V2008-5). It is believed that Mr. ██████ had anywhere from fifty to a hundred employees helping him in this task, the majority of whom eventually re-organized into a cult devoted to SCP-1461. An unknown number of these followers were present in SCP-1461 when it vanished, along with Mr. ██████, his wife, and two children. To date, only six of these individuals have been accounted for.
+
+Shortly after SCP-1461 rematerialized, unknown individuals entered SCP-1461 before Foundation agents could contain the site. These individuals are believed to have been members of Mr. ██████'s fellowship, who had not been present in SCP-1461 when it vanished. They successfully extracted a number of potentially anomalous artifacts that have yet to be cataloged or recovered.
+
+Sample Obtained from Gel Production Room
+
+Partial List of Cataloged Anomalous Rooms
+
+Of the twelve sub-levels discovered by Foundation personnel, only 75% of its layout has been properly mapped, and an unknown number of levels are believed to exist further below. Each sub-level contains excavation, construction and storage rooms, as well as rooms exhibiting Safe or Euclid-level anomalous qualities and/or artifacts. For a full list of anomalous SCP-1461 rooms, refer to Document I-1461-Current.
+
+Gel Production (Sub-level Three): An automated factory that melts down the unidentified grey sandstone into glass, forms them into canisters, and fills them with a green viscous gel made up of a variety of exotic chemicals. Some of these jars contain fully-formed teeth and organs whose DNA patterns match nothing found on earth. Most of the jars have become inert, and their contents have decomposed. The gel-production machine itself has been crushed by a cave-in.
+
+Pipe Hall (Sub-Level Four): A hallway lined with approximately 2,450 pipes, constructed from brass, iron, copper, gold, bamboo, carved jade and [DATA EXPUNGED]. Some kind of substance can be clearly heard being pumped through the pipes, but their origin and destination are unknown.
+
+"Factory Deliveries" (Sub-Level Seven): A large, unlit warehouse filled with wooden crates of various sizes. Unlike other storage rooms, which contain mundane materials from non-anomalous sources, the crates in this section are blank or branded simply with "Factory Deliveries." Irregular patrols of the warehouse have revealed that the number and arrangement of crates changes, but as with the Pipe Hall, their origin and destination are unknown. On at least one occasion, muffled vocalizations could be heard coming from somewhere within the warehouse, but their source was never discovered.
+
+Orb Room (Sub-Level Ten): [DATA EXPUNGED]
+
+Speaking Tube Room (Sub-Level Eleven): The multitude of brass speaking tubes connecting SCP-1461 appear to converge in this room on a large central pulpit. The partial remains of a human female have been recovered here, with evidence to suggest the body (specifically skin and intestinal organs) was used to perform crude repairs to some of the damaged tubes.
+
+Catalyst Room (Sub-Level Twelve): A large chamber filled a random assembly of gears, cables, pulleys, screws, and belts, all made of an amalgam of iron, tin, gold, and other metals, some as of yet unidentified. The assembly has suffered extensive damage, with evidence that a large section (approximately 12 cubic meters) has been violently removed. The location of this section is unknown. An elevated platform is suspended directly over the assembly. The platform features a metallic bed with the desiccated remains of a human male. The corpse's chest has been pierced by large syringes connected to a pumping machine, its design suggesting that it pumped fluid extracted from the syringes into the missing portion of the machinery below. At regular forty-five minute intervals, the assembly attempts to self-start, but its existing damage prevents initialization. Friction heat-buildup eventually results in an emergency shut-down that lasts until the machinery has cooled enough to make another attempt. Item V2008-5 was recovered from the hospital bed.
+
+Partial Transcript of SCP-1461-1 Phonograph Recording
+
+I am what you have made me.
+
+I am choice and I am tyranny.
+
+Forgive me.
+
+I am then and I am now.
+
+What gods they will be, then.
+
+I am evil and I am flesh.
+
+I am the trap. I am the trapped.
+
+I am beauty and I am chaos.
+
+Children are selfish.
+
+I am the worm.
+
+I have broken God.

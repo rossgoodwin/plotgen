@@ -1,0 +1,245 @@
+SCP-1619. Photo taken on Floor 24 following Event 1619-0.
+
+Item #: SCP-1619
+
+Object Class: Euclid
+
+Special Containment Procedures: Entry into Floor 24 must be authorized by at least one staff member with Level 3 clearance or higher. Elevators on Site-45-C are to be modified to restrict transport to Floor 24. If any entities originating from SCP-1619, save for Foundation-domesticated SCP-1619-2-Cs, are found outside of SCP-1619, they are to be subdued and returned to SCP-1619 by any available means.
+
+If an SCP-1619-1 entity successfully subdues any individual, the victim is to remain on Floor 24, even after death. Termination may be given to affected personnel if possible, but should be carried out from a distance to prevent spread. The resulting caricature is then to be recorded in Document-1619-8.
+
+Staff are not to terminate SCP-1619-1 entities while on Floor 24, unless escape or termination through SCP-1619-2-C is impossible. Personnel are to avoid SCP-1619-2 entities when possible. If an SCP-1619-2 becomes aggressive, personnel are advised to shoot for its bulb. Personnel must wear face masks while exploring SCP-1619.
+
+Each instance of SCP-1619-2-C is to be given one ultraviolet light bulb every six days, and are to accompany personnel when exploring SCP-1619. Personnel are permitted to give individual titles to SCP-1619-2-Cs for proper training, but titles must be approved, and staff will refer to them by their proper designation number (SCP-1619-2-C-#) during reports or interviews.
+
+Description: SCP-1619 is the designation given to the phenomenon currently affecting Floor 24 of subterranean site, Site-45-C. SCP-1619 can only be accessed via Site-45-C elevators, all other methods leading to Floor 24 being sealed off and replaced with a graphite drawing of a door on the wall. Floor 24 has become a self-contained dimensional anomaly.
+
+SCP-1619 consists of various hallways, rooms, and observatories, but lacks any doors, leaving empty doorways. SCP-1619's environment contains various art supplies and furniture, which primarily consists of modern glass tables and office chairs. Sketches and documents written in French have been recovered from the desks present within SCP-1619. An end to SCP-1619's layout has yet to be discovered.
+
+Floor 24 has become a habitat for several types of sentient autonomous sculptures, grouped into two categories, SCP-1619-1 and SCP-1619-2. SCP-1619's walls and floor are covered with SCP-1619-1-A, an unidentified plant species which has the appearance and texture of canvas paper.
+
+The main threat present on SCP-1619 are identical female humanoid sculptures with a thick outer layer of water-proof paper, collectively designated as SCP-1619-1. Each instance of SCP-1619-1 is filled with a black paint with a pH of 8.2. SCP-1619-1 entities originate from SCP-1619-1-A, and are hostile to breathing subjects with a detectable heartbeat. Entities do not appear to notice or give attention to subjects until they have been spotted while breathing. SCP-1619-1 entities will emit a loud moan when terminated by personnel, which has proven to alert nearby entities. However, if killed by an unnoticed subject, the instance will remain silent.
+
+SCP-1619-2 is the collective term for a group of sentient constructs crafted from lighting equipment. Many SCP-1619-2s resemble and behave similarly to animal species found outside of SCP-1619, such as canines, felines, vermin, and entities supposedly originating from various mythologies (See SCP-1619-2 overview). However, some SCP-1619-2 have been found to be simply autonomous industrial floor lamps.
+
+Each SCP-1619-2 is constructed mainly from steel and aluminum, is black in color, has a 'tail' consisting of a single plug, has at least one ultraviolet light bulb to represent the instance's face(s), and the words "Torch Bearer" and "A█████™" engraved on the its back. The majority of SCP-1619-2s have a protective face-plate covering its bulb to protect it from damage. If this bulb is broken or burns out, the instance will cease movement, and will lose noticeable autonomous properties.
+
+If an SCP-1619-2 is prevented from carrying out its preferred hunting methods for an extended period of time, the bulb will begin to dim, and the SCP-1619-2 will eventually cease functioning. Either the act of killing a SCP-1619-1, or breaking a light bulb is sufficient in preventing its bulb from dimming. For information on the behavioral instincts on SCP-1619-1 and SCP-1619-2, see Addendum-1619-2.
+
+SCP-1619 is believed to have originated from Anomalous Item #: 00553. Anomalous Item #: 00553 was requested by Dr. ████ for research into alternative energy sources, and was transferred to Site-45-C's minor objects wing on Floor 24. Testing was done after hours, and caused the disappearance of at least three personnel, including Dr. ████. For the original documentation on Anomalous Item #: 00553, see Addendum 1619-1.
+
+Addendum 1619-1: Anomalous Item #: 00553
+
+Item Description: A cylinder filament bulb which generates enough electricity to remain lit. Tungsten filament does not appear to wear out, despite its constant electrical current. Manufacturer stamp reads 'A█████™'.
+
+Date of Recovery: 11/██/1959
+
+Location of Recovery: Paris, France
+
+Current Status: Transferred to Site-45.
+
+Notes: With the energy crisis around the corner, it might be beneficial to try and use this object to lighten the load a bit. Based off the notes, if we sap enough energy from the bulb, it might try and compensate to keep the bulb lit. Wouldn't hurt to test it out in a controlled environment, at least. –Dr. ████
+
+Addendum 1619-2: Behaviors and hunting methods of SCP-1619-1s and SCP-1619-2s; organized by designation:
+
+[+] SCP-1619-1 and SCP-1619-1-A
+
+[-] SCP-1619-1 and SCP-1619-1-A
+
+A single SCP-1619-1 instance.
+
+SCP-1619-1 instances are slow-moving, but will attempt to surround and restrain victims. Once restrained, an SCP-1619-1 will attempt to perform Cardiopulmonary resuscitation (CPR), blowing into subject's mouth, while occasionally stopping to apply both hands to the center of the victim's chest, repeatedly pressing down approximately thirty times before continuing to exhale into the subject's mouth. During this process, the attacking SCP-1619-1 will release paint into the mouth of the victim.
+
+The paint produced by the SCP-1619-1 will remain in the victim's stomach for approximately one minute before reacting to the victim's gastric acid. Typically, the victim will be released before the paint reacts, and will attempt to escape. Afterwards, it will begin to replicate itself inside the victim's stomach, doubling in quantity over a period of three seconds while its pH level elevates to 14.
+
+Victims will experience major corrosive burning in the stomach, esophagus, and mouth, and will continually vomit the substance, damaging the affected areas further. Breathing will become difficult due to the swelling of the throat and esophagus, and the intestinal lining will erode, which will cause massive hemorrhaging.
+
+The paint will continue to replicate within the victim, which will kill the victim through rupture, and eventually dissolve the majority of the body. When the victim has died, SCP-1619-1-A will begin to absorb both the paint and the cadaver, preventing the paint from replicating itself and flooding the area, and providing additional sustenance for SCP-1619-1-A.
+
+Upon complete consumption, the place of death will be marked with a caricature of the victim. This caricature typically features the victim participating in an activity that he or she has enjoyed. If more than one victim is killed, their caricatures may interact with each other depending on whether or not the victims had some form of relationship prior to death. If the caricature features a victim participating in an activity that would normally require the participation of more people than just the victim, then faceless figures of varying gender will be depicted aiding the victim while he or she performs that activity. Attempts to remove this caricature have been unsuccessful without either painting over the caricature, or destroying the wall it is attached to.
+
+Despite its hostility and hazardous nature, SCP-1619-1 are mainly considered prey by most SCP-1619-2 entities. SCP-1619-1's ineffective hunting methods, slow speed, and lack of interest in SCP-1619-2s only make SCP-1619-1 an effective predator to organisms that have not originated from SCP-1619.
+
+[+] SCP-1619-2-A and SCP-1619-2-B
+
+[-] SCP-1619-2-A and SCP-1619-2-B
+
+SCP-1619-2-C-46 (left) and a SCP-1619-2 instance (right). SCP-1619-2 instance was later terminated.
+
+SCP-1619-2s typically mimic the behaviors of the animal they represent. SCP-1619-2s are not actively hostile to personnel, but many can be very territorial, and may threaten Foundation personnel if approached. Entities have developed tendencies and physical traits to effectively hunt either SCP-1619-1s, or variants of other SCP-1619-2s.
+
+SCP-1619-2 instances displaying tendencies to attack both SCP-1619-1, and other variants of SCP-1619-2 are designated SCP-1619-2-A. These entities tend to have sharper rims around the bowl containing their bulb, usually do not exceed 1.5 meters in height, and possess hands or paws, which are typically used for reaching around the face-plates of other SCP-1619-2.
+
+SCP-1619-2 instances that only attack SCP-1619-1s are designated SCP-1619-2-B. The constructs have a small hole in the middle of their face-plate, which releases a thin beam of light. These entities are able to focus this light through a retractable lens to create small fires. While highly effective against SCP-1619-1s, its use is ineffective against other SCP-1619-2s, and can only cause minor burns on human subjects. SCP-1619-2-Bs typically have blunt edges around the rims of their bulb, and are either large enough to defend themselves from other SCP-1619-2s, or are fast enough to out-run them as a means of survival.
+
+[+] SCP-1619-2-C
+
+[-] SCP-1619-2-C
+
+SCP-1619-2-C is the designation given to a specific variant of SCP-1619-2, which has been selected by the Foundation for domestication in the interest of subduing SCP-1619-1s without attracting more to its location. SCP-1619-2-Cs resemble, and display behavior common in most house cats (Felis catus), with the exception of being more tractable when encountered by any human or human-like being, excluding SCP-1619-1. SCP-1619-2-C are more responsive to training techniques involving fear and aversion stimuli.
+
+An SCP-1619-2-C can be identified by the three metal struts across their face-plate, which gives it additional protection for its bulb. The original "A█████" trademark appearing on every other SCP-1619-2 has been replaced by the words "Dedicated to F█████, who manages to shine a light into every dark corner better than I ever could" on every SCP-1619-2-C instance. SCP-1619-2-Cs have begun to reside near known Floor 24 entry points since exploration has been conducted, and have taken to following personnel, unless already accompanied by two or more SCP-1619-2-C entities. SCP-1619-2-Cs are weaker than most other SCP-1619-2, and are often considered prey by larger SCP-1619-2-As.
+
+Document 1619-8: Partial Log-9
+
+Date found:
+
+#:
+
+person(s):
+
+Description:
+
+01/16/1960
+
+02
+
+Two unknown
+
+Depicts one older male and one older woman. The man is dressed in fishing attire, while holding a fish. The man appears to be presenting this fish to the woman, who is wearing cooking attire.
+
+01/16/1960
+
+15
+
+One unknown
+
+Depicts a woman between the ages of thirty to forty years old. The woman is dressed in a large dress that was popular in the 1930's or early 1940's and holding a Volumetric flask.
+
+01/17/1960
+
+16
+
+One unknown
+
+Depicts a male child eight to ten years old. This child is depicted having his mouth stitched together, and wearing overalls and a striped shirt. The child is sitting down while petting an SCP-1619-2-C resting on the child's lap. This has been one of the two images found where an SCP-1619-2-C has been featured.
+
+03/28/1960
+
+46
+
+Agent Crowely
+
+Depicts Agent Crowely alongside several figures wearing Foundation issued lab coats, raising a toast to a figure playing an acoustic guitar. This instance is thought to represent Dr. Hayward.
+
+04/06/1960
+
+56
+
+A█████
+
+Image covers the entirety of the observatory it was discovered. Depicts A█████ in a toga, designing SCP-1619-2 instances, while other SCP-1619-2s aid him by handing him various types of pencils, paint, ink, and paper. Next to A█████ is a single SCP-1619-1 entity who has its arms wrapped around A█████'s torso.
+
+(Left to right) SCP-1619-2-C-12, -23, -11, and -44.
+
+Field Log-1619-12: On 03/26/1960, a four manned exploration of Floor 24 was organized by Site Director Y██████ with the intent of mapping out a three kilometer radius, as well as gathering more information on SCP-1619's origins. This group was commanded by Agent Crowely, and manned by Dr. Hayward, Agent Beck, and Dr. Sampson, along with four trained SCP-1619-2-C instances, SCP-1619-2-C-11, -12, -23, and -44 (pictured).
+
+[+] Agent Crowely Logs: LEVEL 2-1619 CLEARANCE REQUIRED
+
+[-] Agent Crowely Logs: LEVEL 2-1619 CLEARANCE REQUIRED
+
+<Begin Log>
+
+Agent Crowely speaking for Day One. We've made decent headway so far, but that's probably cause we found two excessively long hallways. It was about a mile long, right? <Pauses> Yeah, one and a half of a kilometer long for each hallway, and one's going north while the other's going west. We got to map out a quadrant before the day was over.
+
+Dr. Hayward got his paws on <pauses> How many? At least twelve? <Pauses> Twelve documents. Two of them are sketches of various -2s, and the rest are letters to and from A█████ and F█████. From what Dr. Hayward's saying, it sounds like F█████ was having a some kind of affair with A█████ before F█████'s apparent husband went through some kind of tragic event that ended up costing him his life, and A█████ was trying to get F█████ to come back home.
+
+Both of them make references to their old age and previous status as [REDACTED], but it remains unknown how they know each other, let alone coexist, and they keep defining their condition as 'retirement'. Warrants further study when we get back.
+
+Resistance from sixteen-nineteen-ones have been minimal so far. Found a total of twenty two, which were all hunted down by the -Cs fairly quick. The -1s have been found in packs of five or six so far, usually just standing motionless before they find us. We can manage them.
+
+As for the -2s, they're territorial, as usual, but avoiding them is easy. They usually stick to a single room unless they're hunting, and even then, they give us a wide enough berth. I can definitely tell they want the -Cs, but they haven't attacked us yet. It's like they know we'll shoot. Ah well, whatever works, but I'm not letting them out of our sight till we're out of range.
+
+The floor's architecture has been fairly consistent so far; there have been a few different variations for rooms dimension-wise, but most seem like duplicates of each other. We haven't found any actual doors yet, so finding a safe place to set up camp has been difficult. We eventually gave up, picked a room, and set up a barricade over the doorway.
+
+At this pace, I expect that we should be done scouting in a day or two.
+
+<End Log>
+
+<Begin Log>
+
+Agent Crowely speaking for Day Two. We came across an issue today: we walked into an observatory filled with -1s. Don't know who, but one of us got surprised, and said 'Oh fuck', which blew our cover. [I] don't blame him; it was a big room, and there were a lot of them, but when one finds you, the rest do too.
+
+We had to run, which was risky in and of itself. These hallways are narrow, and there are a lot of corners. We could run into another group of -1s, or the sight of us running could be taken as a sign of hostility from a -2. I must say, for something that's supposed to act like a cat, the -Cs are pretty obedient. They didn't run off or lose track of us, so fortunately, we still have them.
+
+We're in an unknown area right now, everywhere looks the same. But, we still have the maps, so we should be fine waiting till things quiet down. They'll <pauses; hushed tone> guys, quiet! They're here. I'll continue in the next log.
+
+<End Log>
+
+<Begin Log>
+
+Agent Crowely speaking for the continuation of Day Two. Recording takes place an hour and twelve minutes from the previous log. We have a problem. The -1s found us. They must've known where we were hiding, or noticed the barricade or something, because they found us almost instantly. They aren't actively trying to break in, but they're blocking our exits, so we can't leave. We can't let the -Cs loose either. As soon as we make a gap in the barricade, the -1s 'll react and try to get in.
+
+We originally thought they left, because we haven't heard anything from past the barricade, but as soon as we looked, they attacked. I think every one of those things are just staring down the barricade, waiting for us to open up.
+
+I'm considering just shooting them, but that could just make things worse. <Pauses> There are two entry points, one facing north, one facing east. We've barricaded both, but the sound of a dying -1 will probably attract the rest to one entry point while we escape through the other.
+
+I think that'd be our plan B if we can't find any other way out of this. They might just get attacked by some -2, but we'll have to wait for some time before we actually try. Maybe they'll just go back to their room after a while. Till then, we're going to have to set up camp here. If they aren't gone by then, then we'll have to try it.
+
+<End Log>
+
+[+] Dr. Hayward Log: LEVEL 3 CLEARANCE REQUIRED
+
+[-] Dr. Hayward Log: LEVEL 3 CLEARANCE REQUIRED
+
+<Begin Log>
+
+[Recording remains silent for twelve seconds] This is Dr. Hayward, recording for Day Fourteen. I… I apologize for the lack of updates and my unprofessionalism in these events, and in this log, but we were separated from the recorder, and it's been a- a rough couple of weeks. Plus, I guess you can say that I'm doing this for my own reasons.
+
+Basically, our escape didn't work. We went with Crowely's plan, killing one -1 to attract the rest to one barricade, close it, and escape through the other one while the rest try and get through the first.
+
+It got some of them to get away, but not all. Chris… Agent Beck got out first, but was pinned by an -1… Must have found us when the first one died. By the time most of us were halfway down the hall, I looked back, and saw Beck struggling to keep some of those… the -1s off of him. There wasn't much point in not shooting; if any others were coming, then they'd already be on their way.
+
+The smell of paint was strong when they were gone; someone might have passed out if we spent any more time in that spot than we did. The -Cs didn't mind it, they actually did most of the work. We just got to the end of the hall, and shot the couple that got too close to us. Eventually we got them all, but then came Beck.
+
+We saw him covered in black, and clutching his chest in pain. He looked like he needed help, and we wanted to give it to him, but we knew what they did to him. He started to get up and move towards us. He took off his bags, and tried to hand them to us, but… he started coughing up blood, which turned to vomiting paint. We left him. We had to.
+
+We couldn't save him or just… end it, and we knew what was going to happen, so… that was why. He was too dangerous to be around; we couldn't even get the supplies he was carrying because he probably got paint on the bags. That ended up screwing us, because Beck was our cartographer, and those bags he was carrying had the maps, a fair portion of our food, and this recorder in them.
+
+We called the mission off after that, from then on, our focus was just getting back to the entry point, which was about two and a half kilometers away. We started the trip back, but after a while, I heard Crowely yell. I looked, and I saw her ripping off her pant leg. We found out that the paint had got through her pants and reached her leg.
+
+I'm not a medical doctor, but it looked bad: the paint was already causing her leg to liquefy, and was starting to drip down her heel, so Sampson and I got her to a chair. Sampson said that… urine would help get that stuff off her. We didn't have enough water to drink, let alone enough to wash the paint off without getting some on the one washing, but if urine could save her life, so be it.
+
+It worked as far as the paint went, but… she lost a lot of flesh. Sampson had to be able to do something, anything to help. He told me that we couldn't do much else. We bandaged her up, managed to stop the bleeding, and prevented her from going into shock, but… Sampson was already talking about amputation if we got back to the elevators in time, and if we didn't… he had very little to sterilize the wounds with. At best, Crowely had a week.
+
+I felt sick. I couldn't even listen to him anymore. I'll admit, my relationship with Crowely was more than just professional. She was my partner for over ██ years; we went through the same shit. When things changed, we made each other feel fuc-… we made each other feel human.
+
+I did everything I could to find the elevators, but I wasn't sure if we were getting closer, or farther, or if we passed it. I didn't sleep for a while, and Crowely's wounds were getting worse. The whole leg began to swell after a few days… Then it started turning black. Crowely's leg started smelling terrible; like a corpse. Sampson said it was gangrene… I did not need to know the things he told me.
+
+He stood there and told me, right in front of her, that her leg was dying, and that it would be better at this point if we jus- if we just 'put her down', like she was some kind of goddamned animal, as if she wasn't there in the room, like she had no say in it.
+
+I didn't feel comfortable leaving her alone with him after that. Sampson kept trying to convince me that Crowely wasn't going to survive this, but how could she not? She's seen worse; how could she die from something so… so minor?
+
+[Recording remains silent for six minutes]
+
+You know, I remember before we couldn't leave Site-45. She used to scout out information, mainly by interviewing people undercover. I told her what information we needed, and we'd find a way to say it without raising suspicion. She taught me some tools of her trade, and I taught her some of mine, mainly how to spot the kind of things we hunt. Got so good at it, she could practically find something wrong on sight… Heh, I g-guess we were kind some kind of… paranormal twist on Bonnie and Clyde.
+
+[Recording is silent for one minute, twenty four seconds]
+
+He killed her. I know he did. I went out to check out a -1, that he told me about, and I came back to him leaning over Crowely, who 'just-so-happened' to die while I was out? Bruises around her neck?… I should have killed him right there. Instead? I told him to just get out before I did the same to him.
+
+I just… I just didn't want to see him again. He probably did it because he felt she was slowing him down, and was afraid that we wouldn't make it if she was there… He did as asked, and left us, going off with -C-11 and -C-12… Good. I hope he got mauled by a lamp.
+
+I stayed with Crowely for a while… Watched as she sank through the floors, and looked up to see a drawing… I suppose the floor must have been still active from the paint from Crowely's leg. Or something… You know, that was the most peaceful way I've ever seen someone go. Maybe it was just because we have the same expression for everything, but as she sank through, she only looked like she was just sleeping…
+
+When I looked up and saw the drawing take form… I didn't really know how to react; whether to cry or to feel nostalgic. Crowely looked like she was having the time of her life. It obviously took place in the Rec Room. She was raising a toast, while something that's supposed to represent me was getting ready to play for the small group of people going through the same shit… The coat and ears gave it away.
+
+I guess that was my closure… Not many people get that: the confirmation that their favorite thing to do was to sit there and hear your shitty songs while messing around in a bar… I'm still mad, I still wish she could come back, and if I was given the opportunity to get her back, believe me, I would in an instant, and I would beat the hell out of Sampson if I saw him, but… I don't care what happens to him. Let him starve, let him find his way back and rot; I don't care.
+
+I eventually decided to leave, and at least try to keep on going, but I had no idea whether I was going the right direction or not. I had vague memories of what direction we were going before this went wrong, but my goal was to find one of the really long hallways that we found earlier. Maybe if I at least found one of those, then I could trace our steps.
+
+I walked around for a few days, and I was getting hungry. I already ate the rations Sampson forgot to take with him, and I was about to run dry on water, so… what happened next… I am so, so sorry. You have to understand, I was desperate I-…
+
+Wh-while searching, I looked inside a room, and I found someone with an -1. The -1 wasn't attacking him, or me, but the man, he was just sitting there, staring at the floor. I went up to him to ask who he was, if he was alright… I must have surprised him: I guess that's kind of natural when you're stuck in a place like this, but he didn't react to me as I thought he would. He introduced himself as A█████, in other words, the person whose name's been etched all over the place.
+
+We talked, but I couldn't help asking about me getting out… He chuckled a bit, and told me he wanted to make me an offer… I apologize for even talking to him after that, but… he offered me food so I could just hear him out. I wouldn't have done this under other circumstances. When I finished, he said that he'd give me a map leading back to the Site, and guaranteed my continued survival, but… he wanted me to kill him.
+
+I wasn't expecting to hear this. He said that he tried to do it himself, but that the only way it would work was if something else did it for him, while something was eating him away from the inside… I felt compelled to ask why he wanted this, and… he told me that F█████ threw herself off a bridge in Paris, and drowned herself ██ years ago. I asked him why it worked with her, and not him, and he told me that it just doesn't work the same way. They had different origins, so they had different rules.
+
+I agreed to it, and he gave me a knife laced with some kind of red fluid, and told me to stab him in the heart after he killed the -1, and drank the paint… I did as I was told, and with that, he died like you or me… I found the map in his hands, and left before he got too bad. I didn't want to see another person go through that again.
+
+At the time of recording this, I'm finding my way back. I must have gone in a circle before I found A█████, because I was close to the place I found our missing bags. Paint did get on the bags, but the recorder was fine.
+
+I'm starting to see more -Cs around, so I'm going to stop recording, and focus on finding the elevators. Again, stating for the record, I apologize for my unprofessionalism, but… I got nothing left to say.
+
+Closing statement: Dr. Hayward has been placed on administrative leave since the conclusion of Exploration 1619-12. Members Dr. Hayward claimed to be deceased have been confirmed dead, but Dr. Sampson has yet to have been located. Investigations of the involvement and deaths of A█████ and F█████ are ongoing. Possible links to suicides in Paris documented ██ years ago are under review.

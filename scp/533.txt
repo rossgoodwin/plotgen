@@ -1,0 +1,27 @@
+SCP-533 draped over a researcher's hand and forearm.
+
+Item #: SCP-533
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-533 is to be kept around the neck of a display dummy in room 12B at the ███ ███████, ██, storage facility.
+
+The dummy itself needs no special properties, but it must be kept in a glass case with glass breakage sensors on each face. The case itself must rest on a scale.
+
+A computer is to monitor the breakage sensors and the scale at all times. If at any time the glass breaks or the weight of the case exceeds ██ kg, then Procedure 533-001 must be executed immediately.
+
+Description: SCP-533 is a necklace, usually approximately 54 centimeters in length and 3 cm in width. While the necklace has been under Foundation observation, the length has varied between 51 cm and ███ cm (during the [DATA EXPUNGED].) The mass of the necklace varies between 804 g and ██ kg, but is typically close to 1.9 kg.
+
+All metallic portions of the necklace have a dull gold finish and appear to be made of cheap metal. Permission for further testing of the metal fittings' resistance to physical damage is pending approval, but existing test data shows that the fittings are more resilient than they appear. The clasp is of a standard barrel type. Attached to each side of the clasp is a round metal fitting.
+
+Most of the mass of the necklace is the body of a snake. The snake body is in constant motion, "emitting" from one of the round fittings and "sinking" into the other at approximately 1.2 cm/s. The rate of emission does not seem to vary as much as the length and mass. The rate of absorption alters to accommodate changes in length. Since the Foundation acquired the necklace in 198█, an estimated 12,000 km of snake body has appeared from one end of the necklace and disappeared into the other.
+
+The snake body can be easily damaged by conventional means, but any flesh or fluids removed from the body will be drawn towards the "sink" fitting and eventually reabsorbed. This physical attraction is similar to magnetism except it does not increase in inverse proportion to distance from the fitting. Samples permanently lose their attraction if they are moved more than ███ cm from the necklace, and will not be reabsorbed even if brought into direct contact with the "sink".
+
+Coloration, markings, and texture of the snakeskin change over time. Herpetological analysis of the markings suggests that if the necklace were the body of a snake, the type of snake indicated would not remain the same. Various types of snake have been observed, but most often SCP-533 appears to have the body of some type of constrictor. DNA testing of blood samples seems to support this hypothesis.
+
+Testing with D-class personnel indicates no adverse effects from wearing the necklace, although all test subjects expressed strong desire to remove the necklace as soon as possible. One such test subject had prior experience handling reptiles, but even he was uncomfortable handling SCP-533. He reported that it "felt wrong," even though chemical analysis of skin samples shows no abnormalities.
+
+Addendum 533-001: SCP-533 is not to be removed from containment except for testing. Specifically, SCP-533 is not to be worn to social events, Foundation-sponsored or otherwise. — Dr. ██████
+
+Addendum 533-002: Considering the number of years we've had 533, it may seem unlikely that Procedure 533-001 will ever be needed. However, I must remind the incident response personnel in charge of 12B that if that procedure is ever required, then failure to execute it promptly and exactly could fill the building with snake blood within █ hours. Unless you like drowning in reptile blood, I suggest you stop "deferring" Procedure 533-001 in your drill rotation. — Dr. ██████

@@ -1,0 +1,101 @@
+SCP-356, undated file photo prior to containment
+
+Item #: SCP-356
+
+Object Class: Neutralized
+
+Special Containment Procedures: The remains of SCP-356 are to be kept continuously frozen in Long Term Biological Storage Unit 73A at Site-23. Staff are advised that SCP-356 has been a person of interest to the governments of the United States, the Russian Federation, and the Republic of Azerbaijan since 1986. As such, liaisons to the Foundation serving with these nations or affiliated entities are to be kept unaware of SCP-356's containment in 1986 and death in 1987.
+
+Update: Except for approved research purposes, no electronic devices capable of receiving telephone calls are to be brought within 10 m of SCP-356.
+
+Description: SCP-356 is a deceased 62-year-old male human of Eurasian descent, measuring 1.76 m tall and weighing 81.5 kg. When SCP-356 is within approximately 3 m of any device capable of receiving a telephone call (such as traditional land-based telephones, cellular phones, or computer terminals with software enabling telephony), that device will begin receiving a constant stream of calls. Left unanswered, these calls will continue for an indefinite period, only ceasing when answered, and resuming once the speaker hangs up. In all observed cases, attempts to track the source of telephone calls related to the presence of SCP-356 have all identified the device receiving the calls itself as the origination point.
+
+When telephone calls prompted by the presence of SCP-356 are answered, an unknown entity (SCP-356-A) speaking in a voice exactly matching that of SCP-356 will answer. Left to speak on its own, SCP-356-A will talk about general information regarding SCP-356, mostly focused on work history and professional relationships. SCP-356-A will also describe what it considers to be the mental state of SCP-356, and will sometimes state what it claims SCP-356 is thinking about1. SCP-356-A has demonstrated a tendency to gravitate to subjects that SCP-356 finds uncomfortable or distressing.
+
+SCP-356 was recovered along with 12 other persons, 12,348 pages of files, 3 computers and 115 hours of video recordings after the 04/01/1986 Foundation raid on a CIA safehouse in ██████████████████ as part of Operation CATWALK. Including SCP-356, █ objects recovered from this operation later received SCP classification.
+
++ Experiment Log 356-1
+
+- ACCESS GRANTED
+
+Experiment Log 356-1: Listing of SCP-356 Phenomena, 1986-87
+
+Over a period of 11 months, a series of experiments documenting anomalous phenomena related to SCP-356 were conducted by research staff. In each instance, a standard, land-line telephone terminal in an observation chamber was activated in the presence of SCP-356. All conversations took place using speaker functionality. Transcripts have been translated by staff from Azerbaijani to English for the purposes of this file.
+
+Experiment: E356.11A
+
+Date: 07/29/1986
+
+Summary: Upon opening of telephone line following 137 unanswered calls, a voice exactly matching that of SCP-356 is heard on the line. No attempt at conversation is initiated. SCP-356-A states background information on SCP-356 such as biometric data, known associates, and a detailed history of SCP-356's record as an operative in the Azerbaijan SSR division of the Soviet KGB. This information is later verified to be completely accurate.
+
+Selected Transcript:
+
+SCP-356-A: "Our ████ joined up with his current handlers in Baku in the fall of 1976, and was assigned publicly as an adjunct at the Turkish Embassy. But of course that wasn't really the purpose of any of it. NATO and the Turks weren't privy to what was happening under the cover of the refinery. Only Kolya at the directorate on our side, and the Americans. Isn't that right, ████?"
+
+Experiment: E356.18G
+
+Date: 09/02/1986
+
+Summary: Researchers answer phone call, then proceed to ask SCP-356 details of the operations of Frontier Energy Consulting Ltd., a known (at the time of the experiment) KGB front company operating in Baku. SCP-356-A responds with information describing SCP-356's role in overseeing Frontier Energy activities, which primarily consisted of industrial espionage. Information is later verified to be accurate.
+
+Selected Transcript:
+
+Researcher Singh: Please describe the operation you were responsible for in Baku.
+
+SCP-356: [No response]
+
+SCP-356-A: You're never going to accomplish anything that way. Hey, ████. What should we talk about? Hm? We could talk about all those meetings near the docks, but I don't think that's what the agent here is referring to. Or perhaps the reason for that 21 month stretch in Indigirka? There's a tale to tell.
+
+SCP-356: [No response]
+
+SCP-356-A: Ohhh, is that what's troubling you? You have no idea why they're asking, do you? Is that so much worse than last time? I don't see any hammers or car batteries in here, do you? When do you think they'll show their hand? If they could take you from them, what must they have up their sleeve? I'd be nervous too. Ha. It's a joke. [pause] So no description for our friends of how you set up that company to get a look inside the Absheron refinery? How you labored for months assembling counterfeit inspection equipment that would hide the real equipment? What you did with the men that were sent to poke around the offices? Maybe that should be what we did. I can never tell.
+
+Experiment: E356.26K
+
+Date: 02/11/1987
+
+Summary: Researchers answer phone calls engendered by the presence of SCP-356 and attempt to question SCP-356-A about its nature and origins. Results inconclusive, and information is unverifiable as SCP-356 is either incapable or unwilling to provide information concerning SCP-356-A.
+
+Selected Transcript:
+
+Researcher Singh: Are you the same individual as SCP-356?
+
+SCP-356-A: What's a voice on the telephone? Your voice, is it you? If all you were to someone was a distant presence at the end of a line somewhere, can they be said to have known you? Met you? Look at me, talking when I don't know things.
+
+Researcher Singh: When did you first come into existence?
+
+SCP-356-A: [sighs] These are quite silly, you know. Do you remember being born? Maybe you should try asking ████, he might have some pictures somewhere. He'll probably tell you where they're stashed if you ask him when he's in a box. He has a strained relationship with tight, confined spaces.
+
+Researcher Singh: So you have no information on this subject?
+
+SCP-356-A: I can certainly tell you ████ and I were formally introduced by our mutual friends. But then you already know that. You came knocking on their door.
+
+[TRANSCRIPT SECTION EXPUNGED]
+
+Researcher Singh: Can you make contact independent of SCP-356?
+
+SCP-356-A: You'd like to know that, wouldn't you? Ask ████. Oh wait, you did already. I'd help more, but you know, I help so much already. You'll have to do at least a little work here.
+
++ LEVEL 4 AUTHORIZATION EYES ONLY
+
+- ACCESS GRANTED
+
+███████████████. █████████.
+
+Evidence gathered in the aftermath of the CATWALK action suggests that the unconventional HUMINT program of which SCP-356 was a part has been adopted in other areas of the United States military and intelligence apparatus. Further investigation is ██████████████████████████████.
+
+████████████████████████████████████████████████████████.
+
+Current recommendation is to implement full denial-of-resources protocols for all personnel who are likely to come into contact with United States government entities in future missions, especially those involved in the forthcoming Project ███████████.
+
+Addendum 356-1: On 08/09/1987, SCP-356 suffered an acute myocardial infarction leading to cardiac arrest and heart failure. Foundation medical staff were unable to revive SCP-356, resulting in its clinical death later that day. SCP-356 reclassified from "Euclid" to "Neutralized" effective 08/11/1987.
+
+Addendum 356-2: On 04/15/2009, a maintenance worker in Long Term Biological Storage Unit 73A reported that their personal cellular phone was receiving repeated, unremitting calls from an unknown source.
+
+After reviewing case histories, research staff traced the cause of this phenomenon to the remains of SCP-356. Researchers answered the phone for documentation purposes, however no voice was discernible on the line. Background noises consistent with significant wind or other air movement were present, as well as static interference. After ending the phone call, the cellular phone continued receiving calls of a similar nature until it was removed from Long Term Biological Storage Unit 73A.
+
+Request for additional experimentation and reclassification of object class pending.
+
+Footnotes
+
+1. While the claims SCP-356-A makes in this regard are inherently unverifiable, measured stress indicators in SCP-356 support the hypothesis that SCP-356-A has some degree of insight into the subject's mind.

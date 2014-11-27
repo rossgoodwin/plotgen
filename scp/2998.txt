@@ -1,0 +1,23 @@
+ 
+
+SCP-2998
+
+NOTICE FROM THE FOUNDATION RECORDS AND INFORMATION SECURITY ADMINISTRATION
+
+This document has been noted to contain an unusually resilient infohazard that has resisted all efforts to eliminate it. Any attempt to access SCP-2998 documentation forces users to sequentially access a series of untrue and misleading iterations of that documentation. Please sequence through these files; you will be notified when you have reached the correct documentation. We apologize for the inconvenience.
+
+— Maria Jones, Director, RAISA
+
+Item #: SCP-2998
+
+Object Class: Safe
+
+Special Containment Procedures: The Foundation has modified radio frequency and electronics manufacturing standards worldwide to avoid civilian production of devices capable of receiving SCP-2998. Internet, radio, and print communications monitoring efforts by relevant Foundation departments are to be on alert for images or descriptions relating to SCP-2998. The frequency on which SCP-2998 is broadcast is to be monitored regularly for any change in SCP-2998 content. All extraterrestrial vessels and probes are to be modified covertly to include equipment designed to monitor for the presence of SCP-2998 off-world. Research to determine the source of SCP-2998 and the background behind its content is to continue as a Class 6 priority effort.
+
+Description: SCP-2998 is an electromagnetic signal with a constant frequency of 2485 MHz. Its power and origin cannot be determined; the signal appears to be invariably present at all locations throughout the known solar system. The signal was believed initially to be an anomalous but innocuous white noise present at that frequency; minor variances suggested the presence of some other information within the signal, but no means to decode SCP-2998 were developed until 2011.
+
+The signal was found to contain a digital video transmission with a monaural track. The video appears to depict a humanoid entity of an unknown species floating in a dark room; while no context is provided for the image, the reflexive body language and high-pitched noises being emitted by the entity seem to suggest it is in extreme physical distress. No other entities have been seen within the video feed and no external source of harm has been noted. However, certain features within the image suggest that some sort of abnormal telekinetic phenomena are occurring; the entity frequently appears to be pushed or moved, and brief images of background objects within the room suggest that some gravitational field is present, implying the entity's midair position is not due to zero-gravity conditions and the entity is being held in place by an unknown force.
+
+Addendum 2998-A: SCP-2998 has been theorized to contain additional information that has yet to be decoded. Some components of the TV signal currently appear as noise by Foundation decoding techniques; several researchers involved with SCP-2998 have concluded that this would not be expected, given the complexity of the encoding and transmission technologies behind SCP-2998. Current theories include three-dimensional stereoscopic data, some kind of [DATA EXPUNGED] neural activity.
+
+Next iteration --->

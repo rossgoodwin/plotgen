@@ -1,0 +1,47 @@
+Item #: SCP-521
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-521 is to be stored in Secure Items Locker 15 at Site-39. The battery level of the GPS beacon attached to SCP-521 should be checked monthly, with a new module fitted as relevant. The steel plate covering the letter slot of SCP-521 is to remain in place outside of authorized testing.
+
+After activation, SCP-521 is to be retrieved from its new location and returned to storage with a new covering plate. SCP-521-1 onwards are to be held in Archive 4 of Site-39, with digital copies made available on the Foundation intranet. Access to these documents is not restricted (with the exception of SCP-521-27, see below).
+
+Description: SCP-521 is a red postbox, of a design commonly used in the United Kingdom by Royal Mail. Retrieved from ██████████, England, test results show SCP-521 does not differ in composition from a standard post box of the same design. SCP-521-X refers to the items received during activation of SCP-521, see below for more information.
+
+SCP-521-X are to denoted numerically and stored per procedures above when retrieved.
+
+When a letter ('letter' here defined as a piece of paper contained within a suitable, addressed envelope) is inserted through the letter slot of SCP-521, the anomalous effects of the object will activate. No other items inserted into SCP-521 will cause activation of the object. All letters must be addressed from one (1) subject to another directly. Letters sent from a singular subject to a company or representative of a company do not cause SCP-521 activation, or vice-versa.
+
+Up to 24 hours after time of posting (regardless of stamp value used), the posted item will arrive at its destination, along with any other standard mail items. The postmark on the envelope is not that of the Royal Mail company, but one similar to [REDACTED]. However the original letter posted will not be found inside the envelope, instead replaced with an instance of SCP-521-X.
+
+SCP-521-X appear to be letters written during periods of conflict, often addressed from combatants to family members or friends. Comparison of historical records places the bulk of SCP-521-X items as occurring during World Wars 1 and 2, see Addendum 521-E for examples. An exception is SCP-521-27, see Addendum 521-7 for more information.
+
+A current theory suggests the items retrieved during testing are letters originally undelivered. Foundation Researchers are currently attempting to trace possible relatives of the writers to verify this hypothesis.
+
+Once a suitable letter has been posted and delivered, SCP-521 will disappear from its current position, and reappear elsewhere inside a urban location within 150km. Its current method of movement is unknown; however, any obstruction to the letter slot is removed during transit. No other parts of SCP-521 are affected during its transit. Any mail items posted between activation and delivery will be processed normally. After SCP-521 has completed a transition to another area, its effect will activate on the next suitable piece of mail.
+
+Addendum 521-E: Below are short excerpts from letters received during testing of SCP-521. Copies of the original letters are available to be viewed on the Foundation intranet.
+
+SCP-521-1
+
+I told you in my airgraph a little about the journey here. Of course, I must not mention place names or any vital details. The boat trip did not seem overlong in spite of the confined space and lack of anything really important to do, but for part of the trip I acted as one of the anti aircraft gunners, doing two four hour turns of watch duty in every twenty-four, one of these, of course, during the night.
+
+SCP-521-11
+
+Dear Mum, Dad
+
+You must by now be concerned, not having had a letter from me for such a long time. Well the news of the landings in Italy must by now be well known all over England, so I am able to tell you that about seventy lads including myself were drafted into the Foresters to make them up to strength for the assault at Salerno. We only knew that it was for real when a dive bomber shot at us in the landing craft.
+
+SCP-521-31 Redaction present on original letter.
+
+My dearest Pammie,
+
+Thank you for your letter, giving me all the news. I can now give you a little more news from this side.
+
+We have just finished five weeks at ██████ ████ and are at the moment enjoying a rest by the Baltic coast, in the ██████ area. We were given the ██████ job a couple of days after the place was captured and we stayed to burn the pestilential huts to the ground - about five weeks altogether.
+
+Addendum 521-27: During test SCP-521-D4, the retrieved letter was dissimilar to previous examples. Only a short fragment of text was recoverable from SCP-521-7 due to fire damage.
+
+Veronica, I send this letter as it may be my last. I'm passing it onto a civilian detachment headed away from the containment zone in the hopes it reaches you safely. I can't say much, but I just want you to know that I love you so much. I'm sorry for what has happened, I couldn't tell you before all this, but it's our faul-
+
+The letter is written on the reverse of a Kellogg's 'Coco Pops' brand cereal box. The partial expiry date present gives an estimated production date of January 21██. The date of the letter's writing is currently unknown.

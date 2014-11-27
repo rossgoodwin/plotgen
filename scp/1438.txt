@@ -1,0 +1,69 @@
+SCP-1438-2, the "Mark" used in a game of SCP-1438. Outside of the context of SCP-1438, this symbol has no anomalous properties.
+
+Item #: SCP-1438
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1438-1 is to be monitored to foresee any SCP-1438 activity, and active SCP-1438 sessions are to be remotely observed by the nearest Foundation facility. Campuses in which sessions of SCP-1438 are taking place are to be operated as normal, as students, faculty and staff give no recognition to anomalous activity caused by SCP-1438. As it is impossible for participants playing a session of SCP-1438 to not be affected by it, no Foundation personnel are to participate in SCP-1438 except under experimental conditions.
+
+No anomalous properties in SCP-1438-3 instances manifest outside of the context of SCP-1438, but as a precaution, confiscated instances of SCP-1438-3 are to be disposed of through incineration.
+
+Description: SCP-1438 is a Live Action Role-Playing (LARP) Game that occurs at residential university and college campuses in the Midwestern United States1. SCP-1438, colloquially known as "Invaders", "Invasion", "Attack of the Mind Worms", or "Takeover", is organized via SCP-1438-1, a website at the domain [REDACTED]; attempting to access this domain from non-university IP addresses results in a 404 message. Attempts by the Foundation to perform DDoS attacks or otherwise block access to SCP-1438-1 have resulted in computers used to access the website to be permanently banned from access. Contact has been established with the administrator of SCP-1438-1 (listed as one "Jack Finney") several times; however, exchanges have been largely uninformative, with Mr. Finney preferring to promote SCP-1438 as opposed to answering questions about its origin and anomalous properties.
+
+University and college students that register their schools on SCP-1438-1 and sign up at least 30 participants for a session of SCP-1438 can order equipment necessary for a game of SCP-1438 for no cost, and designate a date on which the game is to begin.
+
+This equipment is delivered to all participants of SCP-1438, and includes:
+
+One (1) ████-brand foam dart launcher of various make, along with 50 darts per gun
+
+Twelve (12) pairs of socks, which serve as grenades in the context of SCP-1438
+
+One (1) polyethylene sword, or "Joplin Plasma Blade"
+
+A set of Rules for playing SCP-1438; violation of any rule is grounds for ejection from the game, and therefore "death" of the participant. See Document 1438-01 for a partial set of rules.
+
+One (1) patch that denotes a random military rank, from private to captain; in addition to this, the player who begins the "invasion" will have a set of temporary tattoos marked with the symbol pictured above; this symbol on its own has no anomalous properties, but for the sake of this document will be referred to as SCP-1438-2.
+
+The goal of a game of SCP-1438 is, for the side of the Humans, to eliminate all Invaders through force. Meanwhile, the Invader's goal is to turn humans into invaders by marking them with SCP-1438-2 and "alter the electrical activity in the brain to be identical to that of the Invader's spawn".
+
+An instance of SCP-1438-A engaged in combat on the campus of the University of [REDACTED] Campus, Wisconsin.
+
+On the date that a game of SCP-1438 is to commence, all participants gather in a central location. From this point on, participants enter a fugue state while not in designated safe zones. While in this state, the "Humans" and "Invaders" (designated SCP-1438-A and SCP-1438-B respectively) believe that they are engaged in a secret conflict with each other. SCP-1438-B instances have the objective to convert all SCP-1438-A instances into SCP-1438-B by covertly marking them with SCP-1438-2. Each game starts with a single instance of SCP-1438-B, who applies SCP-1438-2 to an area of skin normally concealed by clothing, thus adding to the population of SCP-1438-B.
+
+Notably, instances of SCP-1438-A are able to accurately recall biographical information up to their enrollment in college, at which point they learned about the Invaders and joined the conflict. Instances of SCP-1438-B have trouble properly displaying human emotions, often engage in mucophagy, onychophagy and trichophagy, speak in an unidentified language or code, and have a habit of recreating SCP-1438-2 to mark territory controlled by SCP-1438-B.
+
+One of the optional goals in a game of SCP-1438 for SCP-1438-A is to capture an instance of SCP-1438-B and interrogate them about technology apparently used by SCP-1438-B, specifically weapons technology2, as SCP-1438-B cannot be killed by default weaponry, only stunned as they "regenerate". Interrogation usually involves physical and psychological torture techniques, and as a reward for successfully coercing information from SCP-1438-B, the weapons of up to four instances of SCP-1438-A are converted into SCP-1438-3.
+
+SCP-1438-3 are functionally and visually identical to non-anomalous "weapons" delivered at the beginning of a game of SCP-1438, unless used by an instance of SCP-1438-A or SCP-1438-B. If used on an instance of SCP-1438-A or -B, the ████ launchers (SCP-1438-3A) turn into laser-like weaponry, capable of causing 4th degree burns; socks/grenades (SCP-1438-3B) emit a wavelength of light upon detonation that disintegrates human flesh; finally, the polyethylene swords (SCP-1438-3C) become [DATA EXPUNGED]. All individuals killed in a game of SCP-1438 through use of SCP-1438-3 are treated by all persons on-campus and relations as if they had transferred to another college and cut off all contact with friends, family, etc.
+
+Following the conclusion of a game of SCP-1438, all surviving SCP-1438-A or SCP-1438-B instances will resume their normal routine, and express interest in playing SCP-1438 again, if the opportunity arises. Should they choose to participate in another instance of SCP-1438, they will resume their former roles as instances of SCP-1438-A and SCP-1438-B. Furthermore, in between instances of SCP-1438, instances of SCP-1438-A and -B will re-enter fugue states when under stress, which typically last anywhere from 30 minutes to 4 hours.
+
+Students not participating in SCP-1438 will usually assume that all instances of SCP-1438-A and SCP-1438-B are simply staying in-character and do not wish to break it in case players are present. Faculty will view it with some degree of scorn, often citing it as a distraction from studies and that students participating in it could be doing better things with their time. Campus law enforcement notably do not attempt to confiscate weaponry used in a game of SCP-1438.
+
+Document 1438-01: Partial rules of SCP-1438.
+
+While conventional weapons do not work on Invaders, they can, and will, kill humans. Make sure the thing you're about to blow a hole in is actually Marked.
+
+Invaders, remember to re-apply your Mark every few days; there should be enough tattoos to last the duration of the game.
+
+The only official safe zones in a game of Invaders are restrooms and classrooms; everywhere else is fair game. Other safe zones can be determined by players on a college by college basis.
+
+No outside parties are permitted to engage in a game of Invaders; for a list of those playing the game, check your local Invaders database.
+
+This game can take a long time to play, but don't forget your studies. Remember, school work is always more important than the game. We don't want people flunking because they're too concerned about whether or not their friend is Marked.
+
+Document 1438-02: An excerpt from SCP-1438-1, describing the backstory of SCP-1438.
+
+They Came from the Stars…
+
+The Invaders came silently in the night. It started with a single person, but soon, they spread, overwriting the electrical impulses in the human brain to make them like themselves. They are numerous, and if not stopped, Earth will fall to them.
+
+The resistance is the last, best hope humanity has against the invaders. We've been fighting them since they first arrived, at the incident in Norwalk five years ago. You have just been inducted into the the resistance, which has a single objective: to kill all of the Invaders at any cost. Never mind the fact that the Invaders were once a friend, a family member, a lover, a father, a mother, a child… once Marked, they are the enemy, and must be eliminated through any means possible. Nobody will miss them.
+
+All Invaders carry a Mark on their skin that they spread to normal humans, converting them over the course of six hours. Additionally, their regenerative capabilities make them impervious to bullets, grenades, even Joplin's newly developed plasma swords. However, they have knowledge of advanced weaponry. This knowledge can be coerced from them through various methods (the Geneva Convention doesn't apply to things that aren't human) that can eliminate them permanently. The Invaders have a single-minded goal: to take over the entire population of humans in the area, and from there, the planet as a whole.
+
+Footnotes
+
+1. Including the states of Indiana, Illinois, Michigan, Ohio, West Virginia and Wisconsin, as well as the western counties of Pennsylvania and northern counties of Kentucky.
+
+2. This technology is never actually used by instances of SCP-1438-B, as elimination of human targets is a losing condition for SCP-1438-B.

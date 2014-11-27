@@ -1,0 +1,45 @@
+Item#: SCP-741
+
+Object Class: Euclid
+
+SCP-741 prior to sinking on ██/█/196█
+
+Special Containment Procedures: As the object has sunk to an extreme depth and is surrounded by a region of elevated pressure, it is largely isolated from external influence. Nevertheless, periodic monitoring by sonar and/or submersible should be conducted to ensure that it has not been tampered with. Russia has actively encouraged the use of the Foundation-contracted Russian warships SCPS Basisty and Krasnoyarsk for these purposes. In the event of activity within the exclusion zone surrounding SCP-741, Procedure 353-KOSCHEI is to be enacted; this procedure entails the use of nuclear and conventionally-armed RPK-2 Viyuga anti-submarine/surface missiles aboard the Krasnoyarsk. Any movement of 741 is to be met immediately with a nuclear strike. All other contacts are to be engaged with conventional warheads.
+
+Description: SCP-741 is a sunken Soviet submarine. It sank near ███, ███ in March, 1968; however, the Foundation did not take over custody of the vessel until ████████ ██, 1999. The submarine itself is a version of the Charlie II class, carrying eight (8) P-120 Malakhit anti-ship missiles.
+
+Prior to sinking, the submarine had been deployed under unusual circumstances which garnered the attention of Western intelligence agencies. The United States government attempted to recover the vessel in the early 1970s, an operation known as Project ████████. This was moderately successful, though precisely what it recovered was never disclosed. In the late 1990s, agents within the US government, affiliated with [REDACTED], contacted the Foundation with news of a potential Euclid or Keter-class object within the wreck. Following negotiations, the Foundation took custody of the wreck and has had it under surveillance ever since.
+
+The vessel lies on the ocean floor in three pieces. Evidence suggests that the hull was broken apart during the Project ████████ recovery attempt, and that it was largely intact at the time that it sank, save for a hole just forward of the sail and another further aft, just below the starboard missile tubes. Debris recovered from this hole indicates that the sub was struck by a P-120 Malakhit anti-ship missile while surfaced. One of the boat's own P-120 missiles has been fired. The submarine appears to have sunk due to rapid flooding following the missile strike. No remains of the crew have been found, either within the vessel or in the vicinity, and all emergency escape equipment is untouched. Divers sent to investigate reported anomalous currents, abnormal sea life, moans, unexplained voices and unintelligible whispering, and the presence of blurry, faintly glowing figures. Sea life in the area has been observed to be unusually aggressive — a diver was seriously injured by a large squid of unknown species, and on two occasions, observation submersibles have been aggressively approached by sharks and large squid.
+
+The wreck is surrounded by an anomalous pressure gradient extending approximately 250m centered on a point 30m aft of the center of the submarine. Within the affected region, pressure is much greater than is expected for the depth. This is believed to be the reason why Project ████████ could not recover the entire submarine. It has also significantly hampered further salvage and investigation efforts. The extreme pressure differential makes analysis with sonar difficult, as very high amplitudes are required. Special protection is also required for divers to approach the wreck.
+
+What records the Foundation has been able to obtain from Russia and the United States about the submarine strongly suggest that it was being used to carry some secret cargo, the nature of which is still unknown. Code-words used in the Russian documents imply that the secret cargo did not have anything to do with the typical nuclear or chemical weapons of the day. A mention is made of Project [REDACTED], a Soviet [DATA EXPUNGED].
+
+Incident Report I741-C: On █████████, SCPS Basisty reported a submerged contact approaching SCP-741 from the south at 46 knots. Acoustic signature of the contact did not match any known submarine or torpedo. Contact did not respond to sonobuoy drops or active sonar pings. When the contact crossed into the 18km total underwater exclusion zone, contact was classified hostile. Sonar recorded sounds of an undersea missile launch. Basisty broke away and fired a Type 53 torpedo toward the attacker. Missiles of unknown configuration were observed breaking the water 15 seconds later, flying at an altitude of 1.8 meters at a velocity of 0.92 Mach. No radar emissions were detected from the missiles and they did not respond to launched chaff or flares. Both missiles were engaged by Basisty's 3K95 "Kinzhal" surface-to-air missiles and Kashtan point defense systems, and were destroyed at 1800 meters and 210 meters from impact. Afterward, hostile could be heard engaging in evasive maneuvers, followed by four closely-spaced explosions and the sound of a submarine disintegrating. The identity and intentions of the attacker have not yet been determined.
+
+In light of this incident, the acoustic sensor net should be expanded and additional patrol and defense assets acquired. Acquisition of undersea retaliatory capability advised.
+
+Addendum 741b: Further analysis of the sonar recordings taken by SCPS Basisty during Incident I741-C has revealed anomalous acoustic signatures not consistent with any known form of propulsion, including magnetohydrodynamic drive. Anomalous transients reminiscent of [REDACTED] are also audible during the breakup of the unknown attacker.
+
+Document 741-A: An interview conducted between Foundation researcher [NAME WITHHELD] and an American intelligence agent working for [REDACTED], relevant portion transcribed below.
+
+SCP Researcher: Why did you decide to come forward? The US government sat on this information for 30 years.
+
+American agent: You've seen those reports - Project [REDACTED], for fuck's sake? We knew that part, too. How the directors didn't make the connection is beyond me. That, and the stuff the ███████████ pulled up? Yeah. The other part you don't hear about is what some of the research team died of. [DATA EXPUNGED] doesn't naturally do that. And the crewmen we buried? Just uniforms. Also, the nuclear device we recovered wasn't a missile or torpedo warhead, it was a demolition charge. Does that make any sense? After all those clues, I had to come forward. Why the directorate didn't is something I can't fully explain.
+
+SCP Researcher: Wait - the sub was sent out unmanned? But if so…
+
+Agent: (Interrupting) No, not unmanned. There were no bodies, but personal effects were everywhere, along with uniforms. There was some blood - human, before you ask - on one of the torpedoes and a bit of skin, where somebody probably crushed his hand loading the thing. Just, no bodies left. When I first looked into all this, I had no clue what the hell had gone on down there, but I started putting things together.
+
+SCP Researcher: A Soviet weapons program? Some kind of biological agent, after what you said about [DATA EXPUNGED]
+
+Agent: (Shakes head) No, no, it wasn't that. I thought maybe it could have been, so I dialed up some of my contacts at Biopreparat - us spies end up owing each other favors after a while - and they denied it. Vehemently. Not your usual cover-up horseshit, either, they clearly stated that whatever the fuck ██████ was carrying, it wasn't theirs and they wanted no part of it. Sounded like he was gonna puke when I mentioned [REDACTED]. And Doctor, do you have any idea what it takes to make a bioweapons researcher sick?
+
+SCP Researcher: I can guess.
+
+Agent: Now, that wasn't what really bugged me, though. What really kept me awake at night was the KGB files that fell into our hands. They mentioned a covert op by the Soviet military against an internal, unnamed faction, to get rid of "terrifying weapons" that "even the Soviet Union can't safely control". They wanted to lose it, whatever it was, or maybe fob it off onto the US. Of course, that all came to light right before the Iron Curtain fell, and given the atmosphere at the time, it was practically impossible to convince the directors that they weren't talking about nukes, and even once I did, they still didn't think this was worthy of action. I mean, the [REDACTED] will probably have me hanged for treason if they ever find me, but it was worth the risk. And by what I can gather, it sounds like Russia thinks so too - loaning you half the Pacific Fleet, and all…
+
+See Also:
+
+Incident Report I741-A

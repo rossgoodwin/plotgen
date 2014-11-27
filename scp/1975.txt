@@ -1,0 +1,45 @@
+SCP-1975
+
+Item #: SCP-1975
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1975 is to be kept at Site-██ within a standard containment locker. During testing, instances of SCP-1975-1 are to be operated via remote control by D-Class personnel, as the repeated construction and destruction of remotely operated vehicles has been deemed an unnecessary drain on the Foundation's resources. No personnel considered valuable to the Foundation are permitted to enter instances of SCP-1975-1 under any circumstances.
+
+To ensure the safety of Foundation personnel, at least two (2) specimens of Odocoileus virginianus (white-tailed deer) are to be present in immediate vicinity of SCP-1975-1 when undergoing testing (see Incident Report 1975-3). Researchers wishing to substitute another member of the Cervidae family must provide written approval from Dr. Baxter.
+
+Description: SCP-1975 is a single instance of a mass-produced plastic hula girl figurine. The figure's skirt will sway when minimal force is applied. On the base of SCP-1975 is an inscription written with a felt-tip marker. The inscription is slightly faded, but still legible (see Addendum 1975-B). When SCP-1975 is placed inside a motorized vehicle, said vehicle becomes an instance of SCP-1975-1 and will remain so until SCP-1975 is removed.
+
+SCP-1975-1's anomalous effects are triggered when the vehicle reaches certain velocities. These effects appear to have been designed with the intent to instigate automotive accidents. The lethality of these effects is directly proportional to the speed of the vehicle, with higher speeds increasing the likelihood of death.
+
+If an instance of SCP-1975-1 is destroyed, SCP-1975 will vanish from the wreckage and reappear inside the motorized vehicle nearest to the crash site. Video cameras placed within instances of SCP-1975-1 during testing have captured footage of SCP-1975 being cracked, burned, and melted during the course of various wrecks; however, SCP-1975 always reappears undamaged and no fragments have ever been found on crash sites. Similarly, if SCP-1975 is intentionally damaged, it will repair itself by unknown means when not being observed.
+
+Addendum 1975-A: The following are the anomalous effects displayed by SCP-1975-1 and the speeds at which they are triggered:
+
+Speed
+
+Effect
+
+90 km/h
+
+If the vehicle contains a functioning radio, it will turn on at full volume. The radio will not exhibit any additional anomalous effects and can be turned off normally.
+
+100 km/h
+
+Steering wheel will behave erratically, occasionally rotating of its own accord. The wheel's pattern of behavior seems to mimic that of an intoxicated driver.
+
+110 km/h
+
+Vehicle will instantaneously rotate 180°. It will continue to move at the same speed, but in the opposite direction.
+
+120 km/h
+
+If a cervine creature (deer, moose, elk, etc.) is present within a 5 km radius of the vehicle, it will be thrown toward the vehicle by an unseen force. The speed at which the creature travels appears to vary depending on its proximity to the vehicle, with 234 km/h being the highest recorded speed. If no cervine creature is present within the given radius, the nearest mammalian creature will be substituted (see Incident Report 1975-3).
+
+130 km/h
+
+Every door will open to its fullest extent and all occupants will be jettisoned from the vehicle.
+
+Addendum 1975-B: Inscription on the figurine's base:
+
+2 of U = MADE 4 each other. Not even mad. Have fun on the road! — Tiff

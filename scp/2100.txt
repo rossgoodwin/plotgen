@@ -1,0 +1,129 @@
+Surface entrance to Site ██
+
+Item #: SCP-2100
+
+Object Class: Keter
+
+Special Containment Procedures: Site ██ was built above SCP-2100, and is located in Antarctica at the Earth's Southern Pole. SCP-2100 is publicly concealed as the IceCube Neutrino Observatory; a cover-up organization has been established through the University of Wisconsin-Madison.
+
+Addendum-2100-1: Foundation cover-up of Event 2100-Omega is ongoing. Efforts are underway to retroactively alter astronomical maps, to administer appropriate amnesiacs as necessary, and to monitor and subdue the publishing of any material regarding the effects of Event 2100-Omega.
+
+Site ██ is to remain operational indefinitely with standard maintenance and guard staff to maintain the integrity and secrecy of SCP-2100 components.
+
+Description: SCP-2100 is a large subterranean complex, believed extraterrestrial in origin. SCP-2100 extends approximately 7,390m below ground with 2,718 levels, and has an approximate floor area of 738,905,600 sq meters. Geological analysis of the surrounding rock indicates that SCP-2100 was constructed 1.253 billion years ago (+ 0.002 BY) in its current position. Small-scale fissures indicate that the Antarctic Tectonic plate has been partially fractured as a result of sliding around SCP-2100.
+
+SCP-2100-4
+
+Research in 196█ confirmed that SCP-2100 perpetually broadcasts a dense stream of neutrinos toward the center of the Earth, which is then redirected at Earth's core through unknown means. Regardless of Earth's relative position and orientation, this beam maintains focus toward a fixed coordinate point located within the Center Bulge of the Milky Way Galaxy.
+
+SCP-2100 has been fully mapped, with three primary features designated SCP-2100-1 through -3. 2100-1 is an area comprising parts of floors 25 through 29 and contains a concentration of display readouts and input controls. Conduits throughout the entire complex join at junction relays and all eventually terminate at 2100-1, indicating that it is the control center for the entire complex. Displays in 2100-1 are alert and active, and appear to perpetually display real time information using a combination of graphics and an undecipherable alien language. This information is largely meaningless without knowledge of the systems or the language. An attempt is underway to interact with 2100-1 in an effort to learn more. (See Document 2100-114) Displays in 2100-1 are dead and unresponsive.
+
+2100-2 is an area comprising parts of the lowest 271 levels, and is the source of the neutrino transmission beam. It is believed to hold an immense focusing mechanism which directs neutrinos produced by 2100-3 into a beam 271 m in diameter, with an average neutrino density of 27 quadrillion neutrinos per sq cm.
+
+2100-3 is a perfectly spherical section comprising the central sections of levels 1223-1495. There are several hundred shuttered transparent viewing apertures located along the equatorial belt of 2100-3. When unshuttered, these apertures allow limited filtered wavelengths of visible light to pass through. Visual indications show that 2100-3 houses what appears to be a miniature neutron star, designated 2100-4. 2100-4 is an estimated 400 m in diameter with a rotational period of 0.5 ms. Gravimetric and electromagnetic readings do not pick up any usual activity near the vicinity of 2100-4; either 2100-4 does not produce gravitational and electromagnetic fields, or 2100-3 effectively blocks them.
+
+In addition to the primary faculties, SCP-2100 also houses a small section believed to be abandoned alien living quarters, several large cavernous rooms of unknown purpose, and approximately 2.71 billion meters of conduit connecting 2100-1, 2100-2, and 2100-3.
+
+Document 2100-114: Partial transcript of Video Log 2100-Epsilon
+
+Foreword: On 10/07/196█, after █ years of studying the alien language, the control displays, and conduit maps, the first attempt was made to interact with SCP-2100-1 control consoles. 54 researchers are present, as well as Site ██ Lead Researcher Dr. P█████. 27 researchers are seated in front of control stations, while Dr. P████ gives instructions. Displays are active.
+
+<Commence Log>
+
+00:00:01 - Dr. P█████ is talking to various aides.
+
+00:00:12 - Dr. P█████: Alright, let us begin. Station Theta, hit control eight dash one two, just like we rehearsed.
+
+00:00:19 - Display changes from a purely "text" readout to a graphical readout, dominated by a large spinning sphere.
+
+00:00:34 - Dr. P█████: Good. Station Lambda, please turn dial one dash twelve counterclockwise by ten degrees. Okay, fifteen degrees. Twenty. Twenty five. Twenty eight?
+
+00:00:46 - Lambda Controller: I can't turn it any more, that's as far as it goes.
+
+00:00:50 - Dr. P█████: Confirm dial maximum at approximately 27.1 degrees?
+
+00:00:56 - Lambda Controller: Confirmed.
+
+00:00:58 - Dr. P█████: As expected.
+
+00:01:04 - Dr. P█████ is speaking into his radio headset.
+
+00:01:04 - Dr. P█████: Team Sigma, confirm the anticipated possible shift in dash-four, over? Negative? Confirmed, over.
+
+00:01:12 - Dr. P█████: Alright, team, looks like we're in simulation mode, just as we hoped. We'll proceed with test two-thousand-three-oh.
+
+00:01:15 - Dr. P█████: Station Mu, hit control three dash one. Yes, the larger oval.
+
+[LOG REDACTED FOR BREVITY. SEE DOCUMENT 2100-117 FOR FULL LOG.]
+
+04:05:14 - Dr. P█████ is speaking into his radio headset.
+
+04:05:14 - Dr. P█████: Yes, sir, we believe we've got the basics down. We can predictably adjust the rotational period, the luminosity, the fusion rate, the temperature, even the graviton output. No, we haven't reliably modified the magnetic flux field, but we did see non-negligible deviations during test seven-seven, over. Yes, we are still confident that console alpha will apply changes real-time, over. Confirmed. Over. Absolutely. Over and out.
+
+04:08:22 - Dr. P█████: Okay, team, return to your stations, we are going to recreate test two-thousand-four-two.
+
+[LOG REDACTED FOR BREVITY. SEE DOCUMENT 2100-117 FOR FULL LOG.]
+
+04:25:33 - Dr. P█████ is speaking into his radio headset.
+
+04:25:33 - Dr. P█████: Team Sigma, be prepared to confirm luminosity adjustment, remember, we are expecting no more than a point oh-oh-one percent change, over.
+
+04:25:47 - Dr. P█████: Okay, Alpha, on my mark I want you to hit control Alpha-Alpha-one. The big one.
+
+04:26:00 - Dr. P█████: Mark.
+
+04:26:02 - Dr. P█████: Team Sigma, confirm luminosity change, over?
+
+04:26:06 - Dr. P█████: Confirmed! We have control! Great job…
+
+04:26:10 - Talking ceases. Everyone in the room falls unconscious instantly. Dr. P█████, Alpha Station researcher, and Bravo Station researcher have vanished. All displays have gone black.
+
+04:26:25 - Medical staff rush into SCP-2100-1 and begin reviving the team
+
+04:29:14 - Entire team has been revived with no permanent injuries.
+
+<End Log>
+
+Frame By Frame Analysis: Below is a frame-by-frame analysis of Video Log 2100-Epsilon at approximately 04:26:09. Video was captured at 30 frames per second, with frames approximately every 33 milliseconds.
+
+04:26:09:000 - Dr. P█████ is standing behind Alpha station. No abnormal activity present.
+
+04:26:09:033 - Two unknown entities now exist in the middle of the room. Resolution is low but entities appear to be floating sycamore-seed shaped distortions. There are several spotlights illuminating them, and while they seem somewhat translucent on camera, they cast large shadows, longer and more distorted than their shape would suggest.
+
+04:26:09:066 - The entities are now in front of separate display panels. The entities appear to have opened previously unknown access hatches and are interacting with the interior hardware. Researchers begin to fall limp.
+
+04:26:09:100 - An assortment of hardware is floating in the middle of the room where the entities first appeared. Hardware is believed to have originated from within the console interiors. Dr. P█████, Alpha Station researcher, and Bravo Station researcher are floating in a vaguely fetal position near the hardware.
+
+04:26:09:133 - The entities, the hardware, and Dr. P█████ have vanished, and all display panels are shut. No further anomalous activity is recorded.
+
+Final Note: After event 2100-Epsilon, all displays appear dead. SCP-2100-4 returned to its original luminosity. Further attempts to interact with displays have proved fruitless. No further sightings or evidence of the anomalous entities or missing personnel have been reported.
+
+Document 2100-154: Memorandum from Dr. S█████, Massachusetts Institute of Technology
+
+01/08/196█
+
+Dr. F█████,
+
+In response to your rather unusual inquiry, let me remind you that relativity dictates that no signal can travel faster-than-light, not even massless, sterile neutrinos. While there are some well-known physicists exploring the possibility of faster-than-light particles, they are mostly crackpots well past their prime. I can think of no reason you would be exploring this question, beyond an exercise in fiction, so let me reiterate: nothing can travel faster than light.
+
+But, if we do throw out common sense and start idly entertaining the realm of fiction, you can see from my attached calculations that your theoretical "beam" would be traveling 27,000 light-years to its destination, and therefore an instantaneous transmission would have to reach an estimated hundred trillion times the speed of light. The amount of energy needed to perform your little theoretical hop would of course be infinite, although you can see in figure 3.2 that once you actually pass lightspeed, the energy requirements start to actually decrease the faster you go. You get slower the more energy you have "weighing yourself down" while losing energy speeds you up. If Relativity still means anything in this new theoretical universe, then you can see from diagram 4.1 that anyone able to travel faster than light would also have the ability to travel along a closed-timelike curve, meaning they would have the option of traveling through time as well as space. As to your final question regarding the resources necessary to construct such an apparatus… we cannot even idly speculate. Suffice to say it is more than every nation on Earth has at its disposal.
+
+Thank you for the donation. It was pleasant to hear from you again and I wish you luck in your future endeavors.
+
+Regards,
+
+Dr. S█████
+
+Document 2100-421: Summary of Event 2100-Omega
+
++ LEVEL 4 CLEARANCE ONLY
+
+- Access Granted
+
+Aftermath of Event 2100-Omega
+
+On 12/04/1994, the O5 council issued a top priority order to Site ██, directing senior personnel to focus all efforts on interrupting the stream of neutrinos emanating from SCP-2100. Since neutrinos pass through nearly all solid matter, extreme measures were necessary to interrupt the beam. On 17/10/1996, Site Director L███ made a formal request to the O5 council asking permission to use SCP-████. The request detailed a plan to create a spatial anomaly which would redirect the Neutrino stream away from Milky Way Galaxy, toward galaxy 3C 252, which lies near the edge of known space. Two months later, the O5 council approved the request. On 19/05/1999, SCP-████ was activated within SCP-2100, creating a bend in spacetime to redirect the neutrino stream. Immediately the neutrino stream ceased. The neutron star within 2100-1, being closely monitored, slowed from a rotational period of 0.5 ms to 500 ms. At the exact moment of interruption, reports began coming in from civilian and Foundation observatories all over the world. 226 supernovae were observed to erupt throughout the Milky Way, 34 new black holes were discovered, and 11 previously documented stars disappeared with no trace. Most activity was centered in and around the Center Bulge of the Milky Way Galaxy; none of the activity posed any threat to Earth.
+
+Efforts to reinstate the neutrino stream have been unsuccessful.
+
+Requests by Site Director L███ to reclassify Event Omega-2100 as an XK-Scenario and utilize reality altering SCPs to retroactively prevent Event Omega-2100 have been denied.

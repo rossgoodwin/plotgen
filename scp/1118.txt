@@ -1,0 +1,113 @@
+A scanned excerpt from surviving SOE1 documentation on SCP-1118
+
+Item #: SCP-1118
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1118-1 is to be locked in a Safe-class inanimate object container at Storage Site-05. Sets of SCP-1118-2 are to be kept in separate locked safeboxes at the same facility. Following incident 1118/I/551201:R and due to the inherent difficulties in tracking related events, only SCP-1118-2-D is to be used in testing procedures.
+
+Description: SCP-1118-1 is a heavily modified Adler brand typewriter (Favorit model - serial number 466442), manufactured in 1935 by the Adler Schreibmaschinen company in Frankfurt, Germany. A small brass plaque mounted on the underside of SCP-1118-1 bears the following inscription: "Os Sumum - H.H. - 1937". This has been stenciled over in white paint with "ГРУ, Отдел 'П'2 - #12".
+
+All of SCP-1118-1's factory key tops have been detached and 31 of its keys have been modified to accept a set of SCP-1118-2. SCP-1118-1's typebars have been removed and replaced with metacarpals and proximal phalanges from 24 unknown donors. These have been fused together by an unknown process to achieve the necessary shape. As these typebars do not contain type elements, striking a key will not cause a symbol to be transferred to any paper inserted into SCP-1118-1.
+
+SCP-1118-2 are sets of 31 human molars, their surfaces filed down to permit labeling with an unremarkable black ink, the exact composition of which varies between sets. Sets of SCP-1118-2 contain all 26 letters of the Latin alphabet as well as a spacebar, period, comma, exclamation mark, and question mark. Chemical analysis of the ink used on SCP-1118-2 sets and comparison to reference samples provides an approximate time of manufacturing. An instance of SCP-1118-2 is attuned to a specific target through a ritual procedure as documented in supplemental procedure 1118/D/Ax-14:Z3. These mimeographed duplicates were recovered with SCP-1118; the originals are presumed lost. Molars used in the fabrication of SCP-1118-2 sets only need to be whole and devoid of cavities, no further requirements exist.
+
+When a full set of SCP-1118-2 is mounted on SCP-1118-1's keyboard, any words typed out on SCP-1118 will be vocalized by SCP-1118-1's target. Note that keys from different SCP-1118-2 sets are not interchangeable. While an operator's typing speed might be variable, targets are able to form intelligible and coherent speech from this input. It is not currently clear how targets manage this. As tests have shown, a target's physiological state is not a factor in this process and speech has been recorded from test subjects not anatomically equipped to produce it. It is currently unclear how SCP-1118 induces vocalizations in these targets.
+
+Vocalizations made through SCP-1118 can also influence a target's behavior, though it is unknown whether there are limits to this. Note that if a target is deceased, vocalizations that would otherwise influence behavior will have no effect.
+
+Living targets of SCP-1118 will perceive anomalous vocalizations as appropriate and logical, and will become agitated if confronted with the discordance of their speech. Please refer to psychological evaluation log 1118/P/930627:A for a behavioral study, both pre- and post-event, of test subjects assigned to SCP-1118. Listeners are not subject to this effect and can easily discern speech that might be characterized as out of character for the speaker.
+
+Three complete sets of SCP-1118-2 were recovered and designated -A through -C. The nominal documentation retrieved with SCP-1118-1 confirms the targets for SCP-1118-2-A and SCP-1118-B. The target of set SCP-1118-2-C has not been identified as of yet. Set SCP-1118-2-D was created for testing purposes4. It is possible that more complete sets of SCP-1118-2 exist outside of Foundation control.
+
+SCP-1118-1 was recovered with an additional 14 loose molars collectively refered to as SCP-1118-3. While instances of SCP-1118-3 have been modified in a fashion similar to sets -A through -C, they are missing the necessary mounting material to be used in conjunction with SCP-1118-1. Instances of SCP-1118-3 appear to be significantly older than those in currently known SCP-1118-2 sets. Their labeling has deteriorated severely, but seems to contain markings in Elder Futhark. No documentation exists detailing SCP-1118-3's role, but it is theorized SCP-1118-3 inspired the creation of SCP-1118-1 and SCP-1118-2.
+
+Addendum 1118-A-01: Information on SCP-1118-2 and respective targets
+
+Set
+
+Approximate time of creation
+
+Target
+
+SCP-1118-2-A
+
+1946-1950
+
+Former US President Harry S. Truman
+
+SCP-1118-2-B
+
+1932-1937
+
+Former British Prime Minister Neville Chamberlain
+
+SCP-1118-2-C
+
+1958-1967
+
+Unknown
+
+SCP-1118-2-D
+
+1992
+
+D-138119 (deceased)
+
+It is unknown whether set -A and -C have successfully been used to influence US politics.
+
+Addendum 1118-A-02: Excerpts from incident report 1118/I/551201:R
+
+On 12-01-1955 20:16:21, █████ ████████████, a personal aide to former president Truman placed a call to the latter's personal physician, one Dr. ████████████, expressing concern that his employer was having a seizure of some kind. During the call, Truman could be heard vocalizing in the background. Excerpts appear here:
+
+[20:17:13] This is test. [sic]
+
+[20:17:30] This is a test.
+
+[20:19:06] Maksim says this works.
+
+[20:21:43] Nothing is happening. Why is nothing happening?
+
+[20:22:16] I am bored. Why can I not type in Russian?
+
+[20:25:58] sieojgbkc
+
+[20:26:11] I think it was something I ate. I will go to bed now. Good night.
+
+A full transcript of the call is available in the unexpurgated version of this incident report. Full research into the historical context for this incident is pending.
+
+Addendum 1118-A-03: Selected chronology of SCP-1118-1 related events/sightings
+
+11-03-1938: Sources within the SOE begin suspecting British Prime Minister Chamberlain to be under foreign influence. Investigations focus on bribery, blackmail and other traditional methods of manipulation.
+
+11-28-1938: No evidence of manipulation has been be found. However, elements embedded in the Nazi party warn the SOE about occult activity centered around the remote manipulation of key British political elements.
+
+02-28-1939: Photographs surface of SCP-1118. A group of men is posing with SCP-1118. Several are wearing white lab coats with labels stitched to the breast. One is the swastika. The other is [DATA EXPUNGED] eradicated in 1945 during the fall of Berlin. Heinrich Himmler is seen sitting in front of SCP-1118, with his face turned to the camera.
+
+06-14-1939: Chamberlain's speeches analyzed for discrepancies. SCP-1118 believed to be a factor in politic of appeasement.
+
+There is a noticeable lack of SCP-1118 related events/sighting between 1939 and 1945. Efforts to retrieve and contain SCP-1118 are sabotaged by Ahnenerbe and Abwehr operatives, both within and outside of the Foundation.
+
+09-22-1945: Sighting of SCP-1118 confirmed by SOE operatives in Berlin. GRU Division "P" personnel working under Red Army jurisdiction believed responsible for removal of SCP-1118 from the Himmler residence.
+
+10-04-1945: Foundation operative [REDACTED] manages to intercept SCP-1118 before it is transported to Russia.
+
+10-05-1945: Foundation operative [REDACTED] presumed KIA, SCP-1118 considered lost.
+
+12-01-1955: Former US President Truman displays signs of being under the influence of SCP-1118.
+
+06-14-1982: During a CIA operation in [REDACTED], an item matching the description of SCP-1118 is found on an itemized shipping list for a freight train heading for Moscow. The transport cannot be located.
+
+03-31-1992: [REDACTED], a former GRU Division "P" operative, makes contact with Foundation operatives in the CIA and offers to surrender SCP-1118 in return for asylum.
+
+04-16-1992: After disembarking on US soil, [REDACTED] is taken into Foundation custody and SCP-1118 is recovered from his luggage. Containment of SCP-1118 is achieved. Debriefing of [REDACTED] reveals little relevant operational knowledge of GRU Division "P", though the intelligence gathered leads to the further retrieval and containment of several other objects.
+
+Footnotes
+
+1. Special Operations Executive
+
+2. GRU Division "P"
+
+3. Please note that any attempt to carry out this procedure is subject to enquiry by the Ethics Committee
+
+4. See document EC/D/921224:M for the official sanction by the Ethics Committee.

@@ -1,0 +1,13 @@
+Item #: SCP-409
+
+Object Class: Keter
+
+Special Containment Procedures: No physical contact may be made with SCP-409 for any reason. Anything making physical contact with SCP-409 must be contained in quarantine immediately, along with any materials used in the transport of the subject. SCP-409 must be kept in a granite case at all times. Any transportation of SCP-409 must be done in a sealed granite container. Residue from SCP-409's effect are to be sealed in granite containers along with any tools used to transport residue into containers.
+
+Description: SCP-409 resembles a large quartz crystal approximately 1.5m (5ft) tall and 0.6m (2ft) wide. Any objects coming in contact with SCP-409 will begin to crystallize after three hours. This effect will occur in any material other than granite. The crystallization will spread by approximately 2.5cm (1in) per minute, and will convert the entire object or organism, inside and out. Subjects report this effect to be extremely painful, and similar to frostbite. After complete crystallization, the object will begin to make snapping and creaking noises for approximately twenty minutes, before bursting into thousands of fragments with great force.
+
+Anything touched by or touching a fragment will immediately begin to crystallize. Nothing at this time is able to reverse the effect in organic matter, including amputation of affected areas. Inorganic matter will only crystallize for a few centimetres around point of contact. SCP-409 was recovered in [EXPUNGED], under a pile of crystal shards several feet deep. Losses of personnel during recovery were high.
+
+Addendum 409-1: With the suggestion of Dr. [500-0021D], Subject 409-D5 was exposed to the effects of SCP-409 and was left to become severely "crystallized". After that he was treated with SCP-500. Complete recovery was achieved in 9 days. Subject reported that he continued to feel pain in body parts that were "crystallized" even after the estimated recovery time. Pain faded 13 days after subject was treated. It is unknown if the pain effect was psychological or real during the intervening 4 days.
+
+Addendum 409-2: Extensive testing has yielded no information as to why the crystallization occurs. SCP-409 and the shards created by it are indistinguishable from any other quartz crystal. The effect appears to be similar to a seed crystal, where a pre-existing crystal formation is added to a solution, causing the crystal to "grow". SCP-409, however, appears to do this with all solid matter, and does not need to remain in contact. How this is done, why SCP-409 is unique among all other quartz crystals, and why granite is the only material immune are all still unknown.

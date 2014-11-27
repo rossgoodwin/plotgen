@@ -1,0 +1,91 @@
+SCP-1217-1, prior to Foundation involvement.
+
+An instance of SCP-1217-2, shortly before release in a testing chamber within SCP-1217-1.
+
+Item #: SCP-1217
+
+Object Class: Safe
+
+Special Containment Procedures: A barbed-wire fence with a single gate to allow authorised access is to be maintained in an area surrounding SCP-1217’s active zone, around which several chemical hazard signs are to be placed in clear view. Multiple CCTV cameras are to be set up in a perimeter around SCP-1217’s active zone, monitored by a nearby Observation Post (OP 1217-Alpha). A minimum of two guards are to be present at this station at all times. Any unauthorised individuals attempting to enter SCP-1217 are to be detained, interviewed and – if they present no clear threat – released after being provided with a Class-C amnesiac.
+
+Several enclosed rooms near the entrance of SCP-1217-1 have been modified and equipped with observational apparatus to serve as testing chambers – any experimentation involving SCP-1217-2 is to take place only in these designated areas (please refer to Document 1217-A). Subjects should be placed into these chambers, released, and monitored. After the experiment is complete, the refuse is to be removed and disposed of via incineration.
+
+Description: SCP-1217 consists of two parts:
+
+SCP-1217-1, formerly an office complex owned by the █████████ Corporation, located in [REDACTED], Massachusetts, US. The 250 m × 300 m area surrounding SCP-1217-1 is considered SCP-1217’s active zone.
+
+SCP-1217-2, any member of the species Felis catus which enters SCP-1217’s active zone.
+
+Upon entering the aforementioned area, a specimen of SCP-1217-2 will display no significant behavioural deviations from its previous activity, apart from attempting to remain within the active zone of SCP-1217 and responding aggressively to any attempts to remove it from said area. Removal is still possible; however, successfully removing a subject from the area will not prevent the anomalous event associated with SCP-1217 from occurring.
+
+Fifteen to twenty minutes after entering the area, specimens will begin acting in a notably erratic manner, which typically involves spontaneous pouncing and vocalising. Several minutes following this, subjects will protract their claws and attempt to repeatedly lacerate their underbelly. Shortly after this begins, specimens will (if unimpeded) succeed in disembowelling themselves, despite pain, shock or other associated sensations which would result.
+
+The viscera and blood released from the aforementioned process will invariably form itself into a shape resembling a short, semi-coherent sentence, consisting of English characters. Said messages vary between instances of SCP-1217-2, and possess occasional notable spelling and grammatical errors. The text constituting these sentences largely consists of blood, which will retain this shape if left undisturbed until drying. Extracts of other organs – particularly the colon and intestinal tracts – have been known to fold in such a way to form appropriate letters if cut from the original lacerations, though this is a rare occurrence. Excess tissue does not appear to be affected, and pools normally a short distance away from the remaining substance. The means by which the aforementioned viscera assumes shape of coherent text is currently unknown.
+
+The anomalous properties of SCP-1217 came to the attention of the Foundation on 2005-██-██, when a stray cat entered its active zone before initiating expected behaviour in front of several █████████ employees. The building was then transferred into Foundation possession, relevant witnesses were administered Class-B amnesiacs and a cover-story regarding the discovery and continued removal of asbestos within the building was released.
+
+Excerpt from Document 1217-B: Note: The following are copied as accurately as possible from the original text, produced as a result of successive tests. For an extensive log of all messages produced, please refer to the relevant documentation.
+
+Test ██
+
+Is thsi it?
+
+Test ██
+
+why can't it?
+
+Test ██
+
+Can I play too?
+
++ Incident 1217-1
+
+- Close
+
+Between Tests 13 and 19, the text produced by SCP-1217 began deviating significantly from its previously established pattern, as follows:
+
+Test 12
+
+what happens nuw?
+
+Test 13
+
+I’m sick of this.
+
+Test 14
+
+I’m sick of making them talk.
+
+Test 15
+
+I want to stop for now.
+
+Test 16
+
+Stop it.
+
+Test 17
+
+STOP
+
+Test 18
+
+STOP
+
+Test 19
+
+STOP
+
+Shortly after this, Dr. ███████ requested an extended reprieve from experimentation, which was approved by O5-█. Testing was stopped between 20██-04-██ and 20██-07-██, at which point it was resumed. The resulting text appears to be consistent with the usual pattern of that produced by SCP-1217:
+
+Test 20
+
+i’m so sorry.
+
+Test 21
+
+it's all lost he htaes us.
+
+Test 22
+
+let us go.

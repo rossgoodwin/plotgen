@@ -1,0 +1,105 @@
+Item #: SCP-1553
+
+Object Class: Safe
+
+Special Containment Procedures: Packages of SCP-1553 are to be contained in high-value storage locker #0227 at Research Site-14. Experimentation is to take place exclusively in White-Lab 02. The lab shall be equipped with recessed halogen flood lamps, an overhead projector, two high intensity flashlights, a table, and an auto-locking door, operated remotely. All walls are to be painted flat white annually and cleaned weekly by maintenance staff. No windows or light controls are accessible from within the lab.
+
+Only translucent or transparent equipment and furniture will be allowed to enter White-Lab 02 unless authorized for experimentation purposes. All additional equipment must be removed and all instances of SCP-1553-1 or SCP-1553-2 must be terminated at the conclusion of each test. As of Incident 1553-2, no instances will be allowed to persist activity for a period greater than 8 hours.
+
+White-Lab 02 is to be kept under 24 hr remote video surveillance and remain illuminated for three days following any experimentation. In the event of any anomalous shadow activity, lighting failure within the lab, or unauthorized opening of the lab door during this period, containment breach is to be assumed. The hallway is to be sealed, and Protocol 012-Trundholm initiated.
+
+Description: Manufacturer's packaging identifies SCP-1553 as “Dr. Wondertainment®'s Shadow Paint Play-Set!” Each is packaged in a blue and green, shrink-wrapped cardboard box with black lettering, dimensions 15 x 22 x 22 cm. Contents include:
+
+1.89 L (2 qt) of a translucent, viscous black fluid (SCP-1553-A) in a white plastic bucket, labeled 'Shadow Paint'
+
+One white foam sponge, dimensions 3 x 10 x 20 cm (SCP-1553-B) with embossed label 'Shadow Eraser'
+
+A non-anomalous No. 18 painters brush
+
+Manufacturer's documentation booklet. See Document 1553-C.
+
+To date, ten (10) instances have been discovered in the United States, three (3) in Canada, and five (5) in the European Union. Interrogation determined in all cases that store employees, managers, and regional executives had no knowledge of the presence or properties of SCP-1553. Efforts to locate additional instances are ongoing.
+
+When applied to any illuminated surface, SCP-1553-A will dry completely, leaving no residue1. In its place, the surface will then display an anomalous shadow object, designated SCP-1553-1. Instances maintain the form painted by SCP-1553-A, and are capable of interacting with any shadow, anomalous or otherwise, via direct contact.
+
+If SCP-1553-A is used to depict an animal or humanoid, the image will spontaneously animate upon drying, creating an instance of SCP-1553-2. These instances will display intelligence, physical ability, and behavior appropriate to their form. Instances will only animate if depicted as solid, uninterrupted silhouettes. SCP-1553-2 requires no sustenance to survive, but will partake of food-based instances of SCP-1553-1 if any are available.2
+
+The properties, mannerisms, and abilities of SCP-1553-1 and SCP-1553-2 vary significantly from one instance to the next, and are closely linked with the intentions, temperament, beliefs, and attitudes of the user. However, all instances do share certain qualities in common.
+
+SCP-1553 projections will always interact as though they are discrete, three-dimensional physical objects, despite existing solely as two-dimensional silhouettes.
+
+All instances have the ability to 'loom' or grow in relation to the surface on which they exist by moving interaction field toward their primary light source.3
+
+Users are universally able to experience the properties of the interaction field through touch and sound, although no sound caused by SCP-1553 has ever been recorded, and no physical object responsible for shadows designated SCP-1553-1 or SCP-1553-2 can be verified.
+
+Application of SCP-1553-B directly to any shadow, anomalous or otherwise, results in the shadow's immediate disappearance. Neutralization of SCP-1553-1 and SCP-1553-2 can also be achieved via mere shadow contact with SCP-1553-B, leaving non-anomalous shadows intact. To date, no other method has been found effective to neutralize the effects of SCP-1553-A, and research attempting to reproduce this effect is ongoing.
+
+If SCP-1553-B is used to erase the shadow of a real object, the region affected will lose opacity within thirty (30) seconds. Observers describe such objects as appearing simultaneously visible and invisible. After approximately five (5) minutes, the region will lose its ability to interact physically with normal objects. In inanimate objects the effect can be easily reversed by liberal application of SCP-1553-A on any nearby surface. However, in living subjects the process can result in significant injury if not treated immediately. See Experiments 1553-37 and 1553-38 for more details.
+
+Addendum 1553-01: Document 1553-C
+
+Foreword: Copied below are the English text portions of the manufacturer’s documentation for SCP-1553, “Dr. Wondertainment®’s Shadow Paint Play-set.” Documentation also includes several pictorial representations and suggestions accompanying the text.
+
+HEY, KIDS! Say goodbye to sidewalk chalk; it’s Dr. Wondertainment®’s Shadow Paint Play-set!
+
+Simply apply the patented “Shadow Paint” formula to any surface where light is cast, and watch the fun come to life! Thanks to Ani-Magi-Nation™ technology, the only limit to your creation is your own imagination! Whole shadow-kingdoms can rise and fall before your very eyes! Scare your younger siblings with gigantic shadow monsters! Touch your shadow toys and play with them as though they’re Really™ there!
+
+Don’t worry, Mom and Dad; cleanup is super easy with the miraculous Shadow Eraser! Just wave the eraser over the play area, and you’re done. For those hard to reach spots, rub Shadow Eraser gently over surface and watch the shadows disappear like magic, guaranteed! Be very careful; you wouldn't want to erase a real shadow by mistake!
+
+WARNING: Remember that Shadow Creatures are as friendly (or dangerous!) as you imagine them to be. Do not attempt to draw Real™ people using Shadow Paint Play-Set™. Dr. Wondertainment is not responsible for injury, discomfort, or existential crisis resulting from misuse of Shadow Paint Play-Set™.
+
+Addendum 1553-02: Lowlight photography has confirmed that below the critical brightness of three (3) lux, instances of SCP-1553-1 and SCP-1553-2 are undetectable as surface-bound silhouettes, but can be modeled as quasi-physical objects of size and shape appropriate to their form in brighter conditions. The effect persists until such time as ambient lighting conditions expose instances to brightness three (3) lux or greater. Though the field of interaction can be mapped with sonagraphic imaging, it is at present impossible to confirm whether or not a fundamentally physical object exists in this region, as all other scanning equipment available relies on non-visible light wavelengths to render an image, and these negate the effect.
+
+Addendum 1553-03: Abridged Experiment Log
+
+This document includes several important experiments necessary to understanding the intricacies of effects SCP-1553-A and SCP-1553-B in greater detail. Unabridged log available upon request.
+
+Experiment 1553-5
+
+Effect: SCP-1553-1
+
+Summary: D-4310 instructed to use SCP-1553-A to depict a claw hammer using a stencil. Reported instance as feeling light, plastic, and 'fake'. SCP-1553-1 was ineffective at driving the nail provided, and broke after two strikes. Instance neutralized. Subject instructed to repeat procedure while imagining a useful hammer. Reported new instance as being very heavy, with a handle having the texture of hard rubber. SCP-1553-1 successfully drove the nail in three strikes.
+
+Experiment 1553-12
+
+Effect: SCP-1553-1
+
+Summary: Agent ██████ F██████ instructed to depict a Beretta 92 service pistol using stencil provided, and is given access to five D-Class subjects scheduled for termination. Despite Agent F██████'s knowledge of firearms and intent to make a working weapon, SCP-1553-1 fails to function effectively. Subjects report a stinging sensation similar to being shot with a paint-ball or BB gun, and suffer no visible injuries. Long term observation reveals no negative effects.
+
+Note: Solved the machine problem with knowledge, but the weapons problem seems to be universal. I think we've learned all we can about SCP-1553-1 for now. Let's move on.
+
+-Dr. F█████
+
+Experiment 1553-21
+
+Effect: SCP-1553-2
+
+Summary: D-4330 instructed to depict Felis catus using stencil provided. SCP-1553-2 manifests upon drying, and immediately retreats to the opposite corner of the room. D-4312 successfully coaxes SCP-1553-2 out of the corner, and reports furry textures and warmth in tactile sensations. Subject also reports hearing a purring sound as he pets SCP-1553-2, although no audio is recorded. Instance continues interacting in a friendly manner until D-4312 attempts to pick it up, at which point SCP-1553-2 scratches and bites the subject, causing him to drop it. Instance terminated.
+
+Note: D-4330 was admitted to on-site infirmary with reports of numbness in his hand where SCP-1553-2 had scratched and bitten him. Subject treated for minor skin infection and released. Recommend we start scaling things up, see if we can make smarter and larger instances.
+
+-Dr. F█████
+
+Experiment 1553-37
+
+Effect: SCP-1553-B
+
+Summary: D-5001 instructed to erase part of his shadow and report effects. Subject initially unnerved, but becomes mildly amused, erasing greater and greater portions of shadow in the lower abdominal region. Subject reports a slight tingling sensation, followed by lightheadedness. Attending Researchers report a semi-transparent quality to D-5001's abdomen, followed by a barely-visible network of dark red colors resembling blood vessels and capillaries. Four minutes following exposure the region loses coherency, causing significant bio-hazard cleanup in White-Lab 02. D-5001 Terminated. Affected region remains suspended in mid-air until SCP-1553-A is applied to the wall where its shadow would normally fall. SCP-1553-A instantly dries, and the excised portion again becomes subject to gravity. Remains display no further anomalous properties and are incinerated.
+
+Experiment 1553-38
+
+Effect: SCP-1553-B
+
+Summary: D-5002 instructed to erase her shadow in its entirety. Subject is at first reluctant, but complies, erasing her entire shadow within 1.25 minutes. D-5002 reports no initial negative effects apart from feeling 'chilly'. Twenty-nine (29) seconds following erasure, subject begins to fade, becoming translucent. After 5.50 minutes, the subject's voice is no longer audible. D-5002 signals that she is unable to hear, although she continues to move about freely, is still able to see, and appears to breathe normally. Subject demonstrates the ability to move through solid objects within laboratory and attempts to breach containment. Unable to restrain subject via conventional means. Lighting in White-Lab 02 extinguished by Junior Researcher ████ G█████, causing [DATA EXPUNGED]. D-5002 terminated and bio-hazard cleanup crews dispatched.
+
+Note: It appears that erasing the shadow of an extant object has the opposite effect of painting a shadow where no object exists. Recommend some further research to determine applications in intelligence/counterintelligence operations.
+
+- Dr. G█████
+
+Footnotes
+
+1. A minimum brightness of three (3) lux is required for SCP-1553-A to dry and anomalous properties to manifest.
+
+2. Researchers requesting permission to test humanoid or dangerous instances of SCP-1553-2 are reminded to review Incident Report 1553-2, and consider their experimental parameters very carefully.
+
+3. SCP-1553-1's field of interaction will behave according to the beliefs of the user, with the original user's beliefs taking precedent over other observers. SCP-1553-2 has demonstrated the ability to determine its own position relative to actual objects, which does not always correspond well with Euclidean topology.

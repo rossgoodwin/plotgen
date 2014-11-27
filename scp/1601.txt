@@ -1,0 +1,91 @@
+Item #: SCP-1601
+
+Object Class: Euclid
+
+SCP-1601
+
+Special Containment Procedures: Site-1601 has been established 70 km northwest of ██████████ in Hokkaido Prefecture, Japan, with Foundation personnel assuming several park ranger positions and routinely patrolling the area. Signs outside of the cave warn of instability and advise the public to stay out. Any person attempting to enter the cave should be intercepted and escorted from the area.
+
+To prevent further damage to SCP-1601 due to movement and minimize the risk of an uncontrolled Event 1601-BR during transit, it is contained in the cave in which it was found. A live camera feed of SCP-1601 is maintained and recorded at all times. When the dome of SCP-1601 changes, the resulting text should be analyzed to determine if it has been encountered before. If not, a 3D model should be made of the current state of SCP-1601's dome and a cast made for Foundation linguists.
+
+Should Event 1601-BR occur, the broadcast area is to be canvassed for recordings, and Class-A-2 amnesiacs administered as needed.
+
+At no time should any sentient SCP of an age greater than ████ years, of an indeterminate age, or which has been previously discovered in SCP-1601's records be allowed within a 5 km radius of the object.
+
+Description: SCP-1601 is a 1.23 m high stone lantern discovered in a cave in a heavily forested area of Hokkaido, Japan. The lantern's age is estimated at over ████ years, based on other artifacts found in situ in the cave and the ancient language SCP-1601 uses. Attempts to move the lantern proved that it was fused with the floor, necessitating its containment at its current location. Other artifacts found in the cave have been determined to be non-anomalous and are cataloged in the Foundation Cultural Museum, Asian Studies Wing.
+
+While resembling sandstone, the actual composition of SCP-1601 is so far unidentified. Surface samples from the non-active base appear to be mostly a previously unknown allotrope of silicon. Radar and x-ray imaging have determined that SCP-1601 is partially hollow inside and much of this space is taken up by interlocking objects of various sizes (see Image Library 1601-03 for the full imaging set). It is theorized that these objects make up some form of mechanism. Due to the obviously damaged nature of SCP-1601, requests to open the object and examine these components have been denied.
+
+Periodically and unpredictably, the lantern portion of SCP-1601 emits a white ambient light, described as very bright but not painful to look at. This event is very rare, with only ███ events in ██ years of containment. After 1-2 minutes, the light suffuses into the two domes that cap the lantern. Characters then quickly form in the surface of the domes and remain for 3-6 hours before the surface becomes smooth again. These characters were found to be a mix of certain proto-Japanese forms of writing, but were initially incomprehensible. After effort from Foundation linguists, the key to translation was discovered to be the depth and angle of the characters, which acted as both context and syntax clues. Translation of one dome event can take up to one (1) month.
+
+The translated text on the smaller upper dome always consists of three components:
+
+The phrase, The Records/Prisoners/Catalog of [REDACTED]
+
+A title
+
+A word translated as Location/Prison/Status, followed by text.
+
+The titles appear to be designations for a variety of entities of supernatural or anomalous nature (SCP-1601-A). The location text has so far consisted of the same word, translated as: UNKNOWN.
+
+The larger dome holds a description of the entity or entities identified by the smaller one. These descriptions are thorough, although unscientific, and rely heavily on conjecture and hearsay. So far, ██ of these entities bear significant resemblance to currently contained SCPs, including [REDACTED]. All entities named and described so far would be subjects for containment should they be encountered by the Foundation. See Document 1601-A-EL for a full running list of SCP-1601-A.
+
+If an entity that SCP-1601 has cataloged enters within 5 km of the lantern, SCP-1601 reacts by releasing a large-scale (307 km radius) radio burst on multiple frequencies, many used commercially (Event 1601-BR). Any radio devices tuned into those frequencies will emit loud bursts of musical sound followed by a computerized voice announcing, in a dialect of proto-Japanese, the description and immediate location of the SCP (See Experiment 1601-███, in which SCP-███ was allowed to approach and attempt to analyze SCP-1601). Although the speech will likely make little sense to most listeners, Event 1601-BR is considered a Class-U breach of security.
+
++ Document 1601-A-EL Excerpts 
+
+- Hide
+
+SCP-1601-A-3
+
+Title: Gods of the Thundering Chorus
+
+Description Summary: A cacophony of disembodied voices at high volumes that render listeners unconscious and then removes their skin.
+
+Excerpt: Those that survive/become clean recall to us the voices of their gods/ancestors in the din. What comes after is the hearing of the truth/no lies.
+
+Researcher’s note: Theological conjecture in the description holds that the skin is only removed if the person has wronged an ancestor's ghost.
+
+SCP-1601-A-14
+
+Title: Woman with Sharp Red Mouth
+
+Description Summary: A traditional nukekubi with the added feature of octopus arms and a beak mingling with the organs that aid in feeding.
+
+Excerpt: Be awake by night when she howls in the hills, should she come out of the shadows/dark. She squeals/mourns/desires the children she devours. Keep fire at hand, for she flees before the flames.
+
+SCP-1601-A-76
+
+Title: The Sickening Darkness of the West
+
+Description Summary: A massive dark black cloud of tangible, mobile, and highly radioactive matter
+
+Excerpt: It blankets the skies and the people fall, their bodies crack and seep/bleed/weep. They cannot hold and must fall apart. Those that may live breed naught but monsters and abominations after they have seen the cloud. It curses their blood as payment for the land.
+
+Researcher’s Note: Radioactivity inferred from effects of exposure to the entity. Naturopathic explanation put forth in original description.
+
+SCP-1601-A-95
+
+Title: Small Mouths
+
+Description Summary: Multiple instances of very small humanoids, all wearing silver suits. Though not violent, they eat more than 6 times their body weight every day, making them quite expensive.
+
+Excerpt: They are born of the lights in the sky, cast off from their kingdom/sphere. Their appetite is their punishment, and our land/world/plane their prison. Controlling their progeny/fruit/eggs is without peer in honor, or else they bleed the land dry.
+
+SCP-1601-A-97
+
+Title: Old Man of Tricks
+
+Description Summary: An old man who displays a variety of extranormal abilities, including levitation, telepathy, and pyropathy.
+
+Excerpt: His speech is of secrets and his actions/feats/tricks impress his power/dignity upon all he meets. His was the ear of leaders/kings and his reputation/legend spread as far as Aharabia.
+
+Researcher’s Note: It is difficult to tell the difference between SCP-1601-A-97 and a talented “street magician.” The unscientific nature of the description makes a definitive analysis of his SCP nature impossible.
+
+SCP-1601-A-153
+
+Title: Dangerously Modest Man of Heaven
+
+Description Summary: [DATA EXPUNGED]
+
+Excerpt: Only those who paid the price of honor/sacrifice and can no longer measure the light by their eyes may know this man of divine personage/origin.

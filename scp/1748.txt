@@ -1,0 +1,61 @@
+The second instance of SCP-1748-1 prior to containment.
+
+Item #: SCP-1748
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1748 is currently contained at Site-117. The sector assigned to SCP-1748 must be operated by individuals without any form of hearing impairment (this extends to D-Class personnel).
+
+SCP-1748-1 is housed in a 4m x 2m x 4m primary chamber constructed of concrete at a thickness of 10 cm. The primary chamber is suspended by steel supports in a secondary chamber, with dimensions of 8m x 4m x 8m and also constructed of concrete at a thickness of 10 cm. The secondary chamber is to remain soundproofed to a degree corresponding with the current intensity of SCP-1748's emission. A series of acoustic steel channels are to connect the primary chamber to the tertiary chamber, and are to be equipped with valves to occlude the noise as necessary. It is important that the Impetus Point of SCP-1748 remain audible to subjects in the tertiary chamber, whilst not reaching a relevant intensity capable of inflicting harm or deafness in said subjects.
+
+The tertiary chamber is adjacent to the secondary chamber, and is to remain populated with an appropriate amount of D-Class personnel (currently 17). Said personnel are to be restrained, gagged, and administered nutrition intravenously, and must be rotated out every 16 hours for sleep requirements. The walls of the chamber (barring the wall facing the secondary chamber) are soundproofed to prevent noise pollution. No less than 17 individuals must remain in the tertiary chamber at all times. At least 23 additional D-Class personnel are to remain on-site for containment rotation. Should the intensity of SCP-1748's emission increase, the sound is to be broadcast to all personnel within Site-117 at large, and all available D-Class personnel are to report to the tertiary chamber immediately. Once it has been determined that the increase has ceased, superfluous personnel may be removed from the chamber.
+
+Should all on-site personnel be insufficient to prevent the emission's increase, Contingency Apollo-A is to be enacted.
+
+Contingency Apollo-A: The sound of SCP-1748 is to be broadcast to all available Foundation sites, areas, and sectors wherein said broadcast does not disrupt existing containment procedures for other objects. Should Contingency Apollo-A be unsuccessful, Contingency Apollo-B must be enacted (see DOCUMENT-SCP-1748-APOLLO-B (4/1748) for details). Failure to enact Contingency Apollo-B promptly is likely to result in an XK End-of-the-World Scenario.
+
+Description: SCP-1748 is a phenomenon manifesting as a looped audio recording of the "Winter Road" segment of Georgy Sviridov's Snow Storm. The locus for this manifestation is always a device designed for containing audio recordings, including vinyl records, audio cassettes, and compact discs, though MP3 players, USB drives, computers, and game consoles do not appear to be viable objects. Whether or not said object is currently containing an audio recording(s) of any kind is irrelevant. It is unclear what mechanism produces sound from this object. This locus is hereafter referred to as SCP-1748-1.
+
+Should an insufficient number of human beings be present to audibly witness1 the now-designated "Impetus Point" of SCP-1748 (which is determined to be located at 1:56-1:59 during playback, and is also the loudest section of the music), SCP-1748 will increase in intensity by approximately 4-7% during the following playback. What determines the number of required individuals is entirely unclear, though this number increases exponentially as the intensity of SCP-1748 increases. Based on previously recorded data, it is believed that an intensity of 258.28dB will exceed the current estimated populace of Earth, at which point halting the growth would be impossible. SCP-1748 has not been observed to reduce in intensity under any circumstances.
+
+At the time of this writing, the Impetus Point possesses an intensity of 81.24dB.
+
+SCP-1748-1 appears to be immune to damage from sonic vibrations produced by SCP-1748. Should SCP-1748-1 be destroyed, SCP-1748 will transfer to the nearest suitable object. No maximum range for this occurrence has yet been discovered.
+
+SCP-1748 was initially discovered in █████, Russia. The Aaron Morgan Orchestra ("AMO", originating in London, England) was hired by ███████ ████████, a wealthy industrialist linked to the activities of "Змей"2, an occultist organization believed to be responsible for ███ deaths in eastern Russia. AMO was commissioned to perform "Winter Road" on ██/██/20██ at ████████'s private estate. According to eyewitness testimony from a detained Змей member, at the conclusion of the performance, ████████, his servants, several other Змей members and several individuals from a group the witness could not identify gave AMO a standing ovation. During this, a number of Змей members proceeded to enter the stage from the rear and murdered the musicians. In the aftermath, the performers were [DATA EXPUNGED] were used to construct several crude designs in at least one unidentified language on [DATA EXPUNGED] prior to the vinyl disc used for the recording being saturated inside said mass, which did not damage the object for an as-of-yet unverified reason.
+
+After the disc was removed from the mass, an Змей member delivered it to ████████, who then gave some form of hand gesture. Several individuals entered the concert hall and murdered the Змей members with automatic rifles. The eyewitness fled the chamber during this incident, and was picked up 15 days later by a Foundation asset in █████.
+
+Thanks to the intelligence provided by said member, a Foundation raid by Mobile Task Force Nu-15 "The White Wolves" on ████████'s estate was organized on ██/██/20██. ████████ was killed during the incident, and the disc (later designated the first instance of SCP-1748-1) was recovered. A servant previously unaccounted for then fired upon MTF N-15, injuring one member and destroying SCP-1748-1. The servant was killed in the fight. SCP-1748 immediately transferred to another vinyl disc containing Tchaikovsky's 1812 Overture, which was recovered. A letter addressed to ████████ and dated 5 days previously was also retrieved:
+
+To ████████,
+
+Working with those troglodytes was certainly distasteful, but the result was most satisfying and invigorating. Be proud of the monumental piece you have created, its power and majesty knows only how to grow. Within that disc is the sublime itself. We hope this letter finds you well, and that you feel that power and majesty occupy your entire being.
+
+We hope you are also looking forward to Phase 2.
+
+[REDACTED]
+
+Addendum [1748-001]: Observation Log
+
+Several low intensity sounds inconsistent with the accompanying music have been detected from SCP-1748's emissions:
+
+On ██/██/20██ at 5:47 AM
+
+I can hear them, no, don't play, I can hear them…heartbeats, they're coming for us, we can finally (Indecipherable) out (Indecipherable).
+
+On ██/██/20██ at 7:28 AM
+
+They must be able to hear us, we can hear (Indecipherable) please, we have to (Indecipherable) now.
+
+On ██/██/20██ at 8:39 PM (note: this recording occurred during an emission increase)
+
+No! Don't leave! Keep playing, we need them to hear us-help! (Indecipherable).
+
+No further abnormalities have been reported.
+
+Footnotes
+
+1. Live audio transmissions of SCP-1748 appear to be sufficient, though this method is not to be relied upon for general containment due to the risk of malfunction.
+
+2. Russian, "Zmey": "Snake" or "Dragon".

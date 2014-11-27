@@ -1,0 +1,107 @@
+Entrance to SCP-1395
+
+Item #: SCP-1395
+
+Object Class: Euclid
+
+Special Containment Procedures: Foundation agents shall work with the governments of Greece and the European Union to suppress public knowledge of SCP-1395. A barbed wire fence measuring three metres in height and twenty metres in length shall be erected to prevent unauthorized access to SCP-1395, with at least three security outposts stationed in the surrounding area. Unauthorized civilians attempting to access SCP-1395 shall be administered Class B amnesiacs and redirected elsewhere.
+
+Description: SCP-1395 is a cave located near Mount ████, Greece. Carbon dating of human remains and artifacts present within the cave suggest human habitation first began around ███ BCE, which is consistent with SCP-1395-A's claimed history (see below). Surveys conducted by Foundation personnel suggest a depth of at least five hundred metres; further exploration of the cave is scheduled pending approval. (Requests no longer accepted; see addendum 1395-A)
+
+SCP-1395's anomalous properties manifest when persons travel approximately three hundred metres inside the cave. After reaching this point, SCP-1395-A will manifest, blocking the path leading deeper into the cave (though not with any apparent hostile intent). SCP-1395-A is a humanoid entity, appearing to observers as a silhouetted apparition roughly 1.8 metres in height. Though it will not forcefully impede any attempts to leave the cave, ██% of persons encountering SCP-1395-A report a strong desire to stay within its presence.
+
+SCP-1395-A identifies itself as ██████████, and claims that it lived in the Ancient Greek city-state of Carystus around ███ BCE. Through unknown means, it was "bound" to the cave (see Interview Log), and apparently cannot manifest anywhere outside of it. SCP-1395-A speaks in the native language of whomever it is addressing; when questioned, however, it will insist it is speaking Athic Greek.
+
+If approached by an individual in group, SCP-1395-A will engage the subject(s) in conversation, appearing to derive pleasure from describing and recounting its presumed life. Following the encounter, SCP-1395-A will demanifest, erasing all memories of the encounter from the individual(s)' mind. This will likewise affect written material, rendering writing on any sort of physical surface during the event illegible; however, digital records are not affected, making recording equipment a necessity when interacting with SCP-1395-A.
+
++ Show SCP-1395-A Interview Log 1
+
+- Access Granted
+
+Dr. █████████: Hello, SCP-1395-A.
+
+SCP-1395-A: Another has come? For so long, there was nothing, nothing… and now, it seems the visits have become more frequent.
+
+Dr. █████████: How so?
+
+SCP-1395-A: Time is a difficult thing to measure in the Void… the days and the months and years fold in, collapse upon the weight of the blackness. But I have managed. You and your… "Foundation", was it? You have an interest in me.
+
+Dr. █████████: We do, yes. Specifically, we would like to inquire about the details of your current condition, and its origins.
+
+SCP-1395-A: Ask. I will answer, though I must confess my memories have faded over time.
+
+Dr. █████████: You claim to have been a man living in Carystus during the Ancient Greek era. Is that true?
+
+SCP-1395-A: "Ancient"? Have I been trapped in the Void so long that you use the word "Ancient"? [sighs] Not entirely unexpected, and yet I am saddened…
+
+Dr. █████████: Please answer the question.
+
+SCP-1395-A: Yes, I once called Carystus my home. I was a simple merchant, living a comfortable existence. I was not wealthy, but neither was I starving, which is more than I could say for many of my countrymen.
+
+Dr. █████████: How did you first encounter this cave?
+
+SCP-1395-A: It was a warm day in spring… or was it summer? I cannot remember. Business was good, despite a few thieves trying to take from my stall. I was about to close up for the day, when an old man came up to my stall. He was a beggar, and asked me for a few morsels to subsist off of. Naturally, I refused.
+
+Dr. █████████: Why?
+
+SCP-1395-A: It was a time of famine! The crops had dried up inexplicably, and people were desperately sacrificing to the gods to reverse our fortune. I am not heartless, but had I given food out to everyone who asked, I would have been broke in three days!
+
+Dr. █████████: I see. What happened next?
+
+SCP-1395-A: He stared at me—a more deadly and intent gaze I have yet to encounter. He cursed me in the name of the Pantheon, and declared me 'forsaken in the eyes of the gods'. I assumed he was a priest, as he had the curse memorized.
+
+Dr. █████████: What did he do after that?
+
+SCP-1395-A: He ran. He thought, correctly, that I would give him a thrashing for cursing me in such a way.
+
+Dr. █████████: How long was it before you found yourself in this state?
+
+SCP-1395-A: Four months. Nothing occurred in the intervening time, aside from the usual fluctuations in business familiar to any merchant. It was the beginning of the cold season, and I had closed my shop for the evening when I was attacked by a thug. It was over in a few moments; I felt his blade go through me and my life deteriorate. And then, the blackness. I… [he pauses.]
+
+Dr. █████████: Yes?
+
+SCP-1395-A: It has been an eternity, yet I still remember his eyes. Those eyes… I felt as if I could see Hades through them. As if he were possessed by the Gods themselves…
+
+Dr. █████████: Moving on. How long was it until you were first discovered?
+
+SCP-1395-A: Do you remember what I told you earlier? Time moves differently in the Void. It is… difficult to describe, to a presence of flesh. But if I were to estimate, I would say a few decades.
+
+Dr. █████████: Describe your first contact with a human.
+
+SCP-1395-A: [a distortion is heard, presumed to be laughter of some sort.] I was not as composed as I am now. The first one I met was an old one-an Athenian, judging by his attire. I screamed, so he ran, naturally. Then I felt myself imparting something upon him, and I vanished once more.
+
+Dr. █████████: The amnesiac effect you have?
+
+SCP-1395-A: If that is what you would refer to it as, yes. It went like that during my first awakenings. A traveler chanced upon my cave, I appeared, they ran, and they forgot. It was not until some time later that I had my first true conversation.
+
+Dr. █████████: Do you remember what this person looked like?
+
+SCP-1395-A: He was dressed in a form of armor I did not recognize, and had a strange cross symbol upon his chest. I assumed he was a foreigner, yet he spoke Greek, despite his insistence he was speaking a language he called "Aenglisc".
+
+Dr. █████████: How did he react to you?
+
+SCP-1395-A: I had composed myself to the point where appearing was no longer a shock, so I greeted him. He asked if I was the ghost of a "Christ". When I said no, he asked if I was another fellow named "Peter". This went on for a while until I explained my origin, as I am to you now. We talked for a while, then he left.
+
+Dr. █████████: This is how your meetings have gone since then?
+
+SCP-1395-A: I suppose so, yes. I am not some trickster God, looking to fool those who speak to me. I am merely a restless, lonely soul, looking for a way to stem the eternal emptiness for a time.
+
+Dr. █████████: One final question. Your amnesiac effect is not voluntary, correct?
+
+SCP-1395-A: Making them forget? Of course not. I would love for people to return. I suspect it was part of the curse; what sort of suffering is worse than being alone forever?
+
+Dr. █████████: Thank you, SCP-1395-A. That will be all.
+
+SCP-1395-A: [Gestures to Dr. █████████'s tape recorder]. These devices of yours… they allow you to remember?
+
+Dr. █████████: In a manner of speaking, yes.
+
+SCP-1395-A: That is good… if you remember, return once more. The coldness, the Void… it weighs upon me, and if I am never to leave this place, at least I shall have some company.
+
+[SCP-1395-A demanifests. Dr. █████████'s memory of the encounter erased as expected.]
+
+Since its discovery by Foundation personnel, SCP-1395-A has been consistently cooperative. Further interviews are recommended in order to better understand its anomalous properties.
+
+Addendum-1395-A: During an exploration on ██/██/████, researchers managed to reach a depth of ███ metres without encountering SCP-1395-A. At this point, the exploration team reportedly become unable to move, and all equipment carried by personnel ceased functioning. Dr. ██████ claims to have briefly [REDACTED] shortly before going into catatonic shock and had to be transported out of the cave for medical assistance. When SCP-1395-A was questioned on this occurrence, it replied "do not attempt to join me." and immediately demanifested. Both SCP-1395-A and Dr. ██████ have consistently refused to discuss the incident since the date, the latter claiming "you wouldn't understand even if I told you."
+
+Following this incident, all survey requests proposing exploration past the five hundred metre mark are preemptively denied.

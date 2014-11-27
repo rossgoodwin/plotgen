@@ -1,0 +1,53 @@
+SCP-2036-1 prior to containment.
+
+Item #: SCP-2036
+
+Object Class: Euclid
+
+Special Containment Procedures: All unexplained wildfires in Oceania are to be monitored and investigated as potential habitats for wild instances of SCP-2036-2. All suspected instances of wild SCP-2036-2 should be reported to MTF Lambda-12 ("Varmint Hunters") for retrieval.
+
+SCP-2036-1 is to be contained within a Standard Type IV animal containment unit lined with FRCI1 Tiles. SCP-2036-1 is to be accompanied by at least one male member of Oryctolagus cuniculus (European Rabbit) in good health when not undergoing testing. An appropriately sized rabbit hutch is to be centered within this fence and cleaned daily. All staff handling SCP-2036 must wear full class II heat-resistant protection. Containment should be checked daily for rotten feed, dried excrement, or immolated matter and all such material should be removed and disposed of in the site's biodegradable waste collection. SCP-2036-1 and all instances of SCP-2036-2 should be given one kilogram of fresh leafy vegetation (lettuce, cabbage, kale, broccoli, parsley or mint) and access to fresh water. The on-site veterinarian at Site-19 is to complete a full wellness check on SCP-2036-1, all other members of containment, and all living instances of SCP-2036-2 with the results filed with Researcher Y███.
+
+Instances of SCP-2036-2 may be kept inside standard animal containment units and should not be housed with SCP-2036-1 after reaching maturity. SCP-2036-1 and all housed SCP-2036-2 that are not undergoing testing must be fitted with wireless ECG Probes.
+
+While SCP-2036-1 is in a beta-state, all monitoring of SCP-2036-1 are to be done via closed-circuit camera, all secondary materials removed and all instances of SCP-2036-2 relocated from the enclosure to prevent a damaging chain reaction from occurring.
+
+Description: SCP-2036-1 is a female European Rabbit (O. cuniculus), currently 37 cm in length, weighing 1.8 kilograms and possessing standard coloration with the exception of a completely melanistic tail.
+
+SCP-2036-2 denotes all offspring of SCP-2036-1, as well as all subsequent generations, as these offspring will retain the anomalous qualities of their parents. Instances of SCP-2036-2 vary in coloration similar to other members of O. cuniculus and do not inherit the melanistic tail marker from SCP-2036-1.
+
+While living, instances of SCP-2036 display no marked differences from other members of their species other than a unique gene marker that makes them immune to the Myxoma virus (Leporipoxvirus myxoma)2. All SCP-2036 are capable of self-inducing cardiac arrest; the reason for this is currently unclear. Upon death, all instances of SCP-2036 combust, producing temperatures in excess of 600 °C. This process consumes SCP-2036 but produces a remnant of 99 percent anthracite powder equal to 10 percent of SCP's body weight in the case of SCP-2036-2 and a crystal similar to anthracite equal to 50 percent of the subject's body weight in the case of SCP-2036-1. This crystal is highly resistant to damage3, and ceases existence following the beta event specific to SCP-2036-1. Between one and five days after the death of SCP-2036-1, flames similar to SCP-2036-1's death event with temperatures reaching ████ °C emerge from this crystal. This occurrence is designated as a beta event. When the event reaches conclusion and temperatures abate, SCP-2036-1 re-appears as a juvenile of between two and three months of age. Should SCP-2036-1 reach a period of 6 months without becoming pregnant, it will self-terminate and enter its death event.
+
+Samples taken from SCP-2036-1 and SCP-2036-2 do not retain their combustive properties.
+
+Acquisition log: SCP-2036-1 was secured by MTF Iota-10 (aka "Damn Feds") outside ███████, West Australia on 12-5-20██ under the guise of the Animal Resources Authority after reports of a "great flaming crocodile" were reported on the banks of a local watering hole. Agents found SCP-2036-1 emerging from a hole it had chewed in the scorched remains of a 2.5m saltwater crocodile and retrieved SCP-2036-1 after it fled from the carcass and attempted to hide in a hole along the lake-bed.
+
+Addendum-SCP-2036-1:
+
+Instances of SCP-2036-2 are not immune to the high temperatures created by the death state of another SCP-2036 much like any other rabbit. Due to the dangers involved in a chain reaction of several high-temperature fires, no more than three instances of SCP-2036-2 are to be kept in any one location.
+
+Addendum-SCP-2036-2:
+
+Following incident SCP-2036-20██-A, monitoring of wildfires has been extended to all of Oceania.
+
+Incident SCP-2036-20██-A
+
+On 12/29/20██, Foundation operatives intercepted key words in a neighborhood complaint report alleging: "A whole herd of rabbits, burned to death over in my neighbor's backyard". Agents found the home abandoned, but discovered an abandoned laboratory with the following document written in Luritja dialect on cured hide and pinned to the wall with a crude obsidian knife.
+
+When we first came here, you made our people suffer, and tried to wipe us from the face of our mother. Most of our Brothers are willing to forgive you. They wish to live in harmony, and reach a peaceful result of negotiation.
+
+We do not.
+
+We smiled when the pest you brought to our lands turned on you, but our wrath was insufficient. We sought to augment, to turn into an ironic weapon of vengeance, but we failed.
+
+Therefore, we have made a trade. Αετος4was glad to grant us the knowledge we sought in exchange for [REDACTED]. They were using it on the crawling ones, but it works on us as well. You have taken the brood mother, but her children have already left even our lands. Consider this the first installment of our repayment.
+
+Footnotes
+
+1. Fibrous Refractory Composite Insulation
+
+2. A virus that causes myxomatosis in rabbits and was used as a pest control in Australia
+
+3. Damage to this crystal will force the beta event to occur.
+
+4. "Eagle", in Greek. The Foundation has no relevant records of an entity with that name related to this type of activity.

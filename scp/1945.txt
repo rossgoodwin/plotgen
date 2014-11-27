@@ -1,0 +1,179 @@
+Item #: SCP-1945
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1945 is to be monitored from Site-46 located 150 meters from the estimated center of the anomalous area. All electronic devices are to be stored within Site-46 and taken no closer to SCP-1945.
+
+The secrecy of SCP-1945 is to be maintained by a security team of three to five agents on regular rotation, and the cover story of radioactive waste dumped upon the property. Security breaches are to be treated without lethal force if necessary and channeled through local authorities.
+
+SCP-1945-1 is to be recorded at Site-46 at all times. For the purpose of recording and analyzing SCP-1945-1, Site-46 is to contain two (2) secure computers with software capable of decrypting, compressing and responding to SCP-1945-1. Two to four Level 1 staff are to maintain surveillance of SCP-1945-1 output during Slow-Scan Analysis. Two staff are to be assigned to each shift, with only one directly viewing SCP-1945-1 output at any one time (See Incident Report SCP-1945-1.5).
+
+Due to the content of SCP-1945-1, one (1) small caliber firearm is to be kept in storage at Site-46 for the safety of all staff in the event of an unforeseen contingency that requires evacuation of Site-46 or repulsion of a hostile entity no firearms are to be kept within the operating area of Site-46.
+
+Description: SCP-1945 is an anomalous region located over a rural household in █████████. Observation of the field suggests it is centered upon a point at ground level within the building; however, the size and shape of the field is influenced by multiple conditions, including but not limited to temperature, humidity, electromagnetic waves with a wavelength of 1 cm to 10 m, and the presence of ferrous metal. The diameter of the anomalous area varies from an average of 49 meters at midnight to an average of 104 meters at noon.
+
+SCP-1945 has an influence on the current-carrying capacities of all copper within the anomalous area. While any circuit with a power supply outside of the anomaly remains unaffected, retaining unchanged voltage, current and resistance outside of the anomalous area, any instances of copper within SCP-1945 are saturated with a shifting electrical current identified to be digital audio output, which prevents the operation of all electrical devices. While this current is not usually capable of leaving the area of SCP-1945, a coating of lead of a minimum 1.2 cm thickness has shown to prevent the nullification of the current, allowing the current to leave SCP-1945. For this reason, lead shielding is in use in transferring the output to Site-46.
+
+SCP-1945-1 is a signal carried by the current manifested within SCP-1945, and has been identified as a repeated Slow-Scan Television (SSTV) signal broadcast in 'Robot 36' format, which possesses a 36-second transmission time and a resolution of 320 x 240 pixels when translated into a visual format. SCP-1945-1 is transmitted at three times of the reading speed of ordinary SSTV signals, requiring software to be modified in order to correctly convert the images.
+
+When converted, SCP-1945-1 appears as surveillance footage of a room that bears similarity to a standard Foundation humanoid containment cell, with the video source located at one corner of the room. SCP-1945-1 transmits five frames per minute. As the signal is uninterrupted at all times, SCP-1945-1 generates 7200 frames per 24-hour period, or 240 minutes of footage.
+
+According to SCP-1945-1 observation, the cell contains:
+
+One (1) steel-frame bed with a basic mattress, pillow and sheet. The bed frame is fixed
+
+One (1) metal table, centered in the room.
+
+Two (2) metal chairs, in line with the image source. Neither the chair or table are bolted to the floor. (See Document 1.3)
+
+Three (3) pieces of cutlery, consisting of a plate, cup, and spoon made of blue plastic. These are replaced three times a day whether or not food is consumed. No knife or fork have ever been observed. (See Document 1.1)
+
+A mirrored window, identified to be an observation room.
+
+An adjoined room, presumed to be a bathroom, hidden from camera.
+
+Multiple books, stacks of paper and drawing implements.
+
+Two (2) intercom speakers, situated at opposite corners of the room.
+
+A young female humanoid of fair skin and black hair, designated SCP-1945-2, believed to be the occupant of the cell, as SCP-1945-2 does not leave the security footage except under unusual circumstances. (See Document 1.3, 1.4 and 1.7)
+
+SCP-1945-1 has been observed to be outside of the control of the captors of SCP-1945-2. SCP-1945-1 has been interrupted on two occasions (See Document 1.2, 1.4) and modified on one (See Document 1.5). However, the current lead researcher on-site, Dr. ██████, has theorized that the signal may be related to SCP-1945-2, as both interruptions have been consistent with periods of traumatic unconsciousness.
+
+As SCP-1945-1 has been determined to be a live feed as by Document 1.6, It is assumed that the location in the footage is under the effect of Type 1 time dilation at a ratio of 6:1.
+
+Additional:
+
+Throughout observation of SCP-1945-1 there have been six separate instances in which SCP-1945-1 or its content has deviated from usual behavior. These are designated 1.2 through 1.7. Document 1.1 is a transcript of an 'average' daily routine. Note that all times listed in Document 1.1 are averaged from ██ days of recorded footage. Due to the effect of time dilation, true times are unknown. Times in all documents are approximated based on comparison between SCP-1945-1 and Foundation humanoid containment protocols.
+
++ Document 1.1
+
+- Research Report SCP-1945-1.1
+
+SCP Involved: SCP-1945-2
+
+Date: N/A
+
+4:00 A.M: SCP-1945-2 awakens. This is accompanied by a notable decrease in signal interference, clearing nearly all image artifacts. By observed reactions of SCP-1945-2, it is assumed that she is awoken by some form of alarm or intercom. SCP-1945-2 moves around the room for the next three hours, showing signs of anxiety, moving between both chairs and the bed. SCP-1945-2 has been seen on multiple occasions to lay her head on the table or assume the fetal position on the bed, observed to be crying. At this time, lights within the cell are dimmed, making close observation of SCP-1945-2 difficult.
+
+6:30 A.M: The lights in the cell increase in luminosity to approximately 500 lumens.
+
+07:00 A.M: The cell holding SCP-1945-2 is unlocked and the first meal is delivered by an unidentified figure in a white lab coat. SCP-1945-2 rarely moves from whatever position she is in until the deliverer has left and the cell has been locked.
+
+07:15 A.M: SCP-1945-2 finishes her meal and pushes the plate aside, moving one chair to the furthest corner from the camera and staring at it for approximately one hour, after which she returns to casual behavior. It should be noted that SCP-1945-2 rarely makes use of drawing implements; however, she has been observed to damage books and tear up large quantities of paper over the course of several hours.
+
+03:30 P.M: Two armed guards enter the room in full body armor, moving SCP-1945-2 and the chair away from the table and holding her in her seat. A third figure approaches, applying an unknown item to the wrist of SCP-1945-2. At this point, SCP-1945-2 quickly falls unconscious, causing extreme interference to SCP-1945-1, rendering approximately 75% of signal data unrecoverable. Footage of the following 15 minutes has not given any indication of what occurs during this period of unconsciousness.
+
+03:45 P.M: SCP-1945-2 awakens on the bed, indicated by a sudden increase in video quality. SCP-1945-2 does not move from the bed, nor has she been observed to move at all after 3:30 P.M.
+
+05.30 P.M: Third meal is delivered to the cell containing SCP-1945-2. SCP-1945-2 shows no signs of acknowledgement and has never been observed to leave the bed.
+
+06:00 P.M: SCP-1945-2 falls asleep. This is accompanied by a slow decrease in quality, ultimately rendering approximately 60% of signal data unrecoverable. Interference appears to be that of a second SSTV string overlapping with the first. The content of the second SSTV string is unknown.
+
++ Document 1.2
+
+- Test Log SCP-1945-1.2
+
+SCP Involved: SCP-1945-2
+
+Date: ██/██/████
+
+Subject: After extensive analysis of SCP-1945, a test was approved in order to determine whether the signal effect of SCP-1945 worked in both directions.
+
+Procedure: A second cable of copper wire was trailed from Site-46 to within the field of SCP-1945 but earthed separately to the main circuit. A 60-second audio file consisting of single-tone beeps at one-second intervals was digitized and applied to the cable. Results were observed via SCP-1945-1. Test commenced at 07:25 AM, during a period when SCP-1945-2 had shown little to no movement.
+
+Results: Exactly seven frames after the signal terminated, SCP-1945-2 moved from her location, standing and turning to face the speakers. She then returned to the seat, moving it to the side of the table opposite the door.
+
+SCP-1945-2 proceeded to sit, and remained as such, without movement, until 12:00 P.M. When her meal was to be delivered, SCP-1945-2 grasped and flipped the table towards the door, following which she used a chair to assault the person delivering the food. After incapacitating the person, SCP-1945-2 attempted to escape the room, leaving visual range for 12.4 seconds before being forcibly dragged back into the room by two additional figures in full body armor. In the face of continued resistance, SCP-1945-2 was injected with an unknown substance by one of the figures. SCP-1945-1 reached 75% data corruption in 15.7 seconds, indicating unconsciousness.
+
+Analysis: Previous lack of movement at the time of the test indicates that SCP-1945-2 was capable of perceiving the signal sent into SCP-1945. However, due to her extreme reaction, it is the opinion of Dr. ██████ that no subsequent tests be conducted without further observation of SCP-1945-2.
+
++ Document 1.3
+
+-  Surveillance Report SCP-1945-1.3
+
+SCP Involved: SCP-1945-2
+
+Date: ██/██/████
+
+Description: Following the events of Test Log SCP-1945-1.2 the previous day, SCP-1945-2 deviated widely from previously observed routine. SCP-1945-2 slept until 07:00 A.M, and was not awoken during the deliveries of food. SCP-1945-2 was observed pacing the cell over the course of several hours, finally settling at the table at approximately 10:45 A.M. Unusual activity ceased until 3:15 P.M, at which point SCP-1945-2 began to move furniture to barricade the door, including the table, both chairs, and bedding. SCP-1945-2 then propped herself against the door, and held the door shut for the following 62 minutes, before being forced back by a pair of armored guards.
+
+At this point, SCP-1945-2 manifested an anomalous effect whose exact nature is unknown. Exact times were measured at the time of the disturbance.
+
+0.0s: SCP-1945-2 manifests effect. SCP-1945-2 stands in the center of the room, head tilted back and hands clenched. Armored guards attempt to engage SCP-1945-2.
+
+0.7s: Guards recoil, showing signs of disorientation and pain.
+
+4.4s: SCP-1945-2 falls to her knees. Both guards appear incapacitated, falling to the floor and remaining motionless.
+
+7.8s: SCP-1945-2 returns to standing.
+
+9.2s: Observation-room glass shatters outwards from the position of SCP-1945-2. SCP-1945-1 is obscured by what is assumed to be a fracture in the camera lens.
+
+9.8s: Both speakers in the room simultaneously catch fire.
+
+10.6s: SCP-1945-2 ends the effect, as noted by movement from her previous stance, dropping to her knees again.
+
+16.4s: SCP-1945-2 recovers, climbing through the broken window and leaving visual range.
+
+The data corruption of SCP-1945-1 began to increase as soon as SCP-1945-2 left the room. 5 minutes after the escape attempt, SCP-1945-1 ceased audio for the first and only time since the beginning of observation. SCP-1945-1 resumed broadcasting approximately 14 hours later, providing an image of SCP-1945-2 resting upon her bed with no signs of damage to the room.
+
++ Document 1.4 - Level 3 Clearance Required
+
+- Surveillance Report SCP-1945-1.4
+
+SCP Involved: SCP-1945-2
+
+Date: ██/██/████
+
+Description: At approximately 5:40 P.M, lighting in the cell containing SCP-1945-2 went out. Secondary lighting kicked in after 30 seconds, revealing that SCP-1945-2 had moved from the bed and was repeatedly striking the door with both fists. Observation of her behavior suggests she was able to hear, or by some other means perceive, something that caused her great distress. This behavior continued for another 43 seconds, at which point an unknown non-humanoid entity entered the cell via destruction of the far wall. Showing no physical harm, the entity proceeded to grasp and throw SCP-1945-2 across the length of the room, causing an immediate drop in the quality of SCP-1945-1, rendering approximately 87% of signal data unrecoverable.
+
+While video quality prevents extended analysis of the entity, it has been noted by Dr. ███-████ that it bears resemblance to [DATA REDACTED] before it incurred damage during recovery by Foundation personnel. As such, the frames and video segment containing footage of Incident 1.4 are to be removed from storage at Site-46 and moved to a more secure site.
+
++ Document 1.5 - Level 4 Clearance Required
+
+- Incident Report SCP-1945-1.5
+
+SCP Involved: SCP-1945-1
+
+Date: ██/██/████
+
+Description: At approximately 2:43 P.M, SCP-1945-1 ceased to transmit for a total of 60 minutes, during which time Junior Researcher ████ was assigned to monitor until the return of the signal. Upon the return of SCP-1945-1, the transmission consisted of uniform black frames with negligible interference.
+
+Six minutes and forty seconds after the reactivation of SCP-1945-1, a frame was transmitted containing an Hemingway-class memetic kill agent, as later confirmed by Foundation analysis. Consistent with Hemingway-class memetic compulsions, Junior Researcher ████ retrieved the emergency firearm located at Site-46 from storage, and killed Junior Researchers ████ ██████ and ██████ █████ before committing suicide. Regular transmission returned 47 minutes after the distribution of the memetic image.
+
+Following this incident, a layer of artificial interference was applied to SCP-1945-1 in order to disrupt memetic images. With the exception of Dr. ██████, all staff were transferred from Site-46 to undergo psychological evaluation and replaced with researchers unaware of the previous incident.
+
+Addendum: Following the transfer of the memetic frame to Sector-07 for research purposes, Foundation analysts discovered that an identical instance was already in Foundation storage. Designated MKA-0277, the image was attached to a decommissioned Foundation protocol regarding the deterrence or elimination of surveillance from beyond the Foundation's physical reach. Staff below Security Level 4 are not to be made aware of this discovery. Document SCP-1945-1.5 is now classified as an attack upon the Foundation and its assets.
+
++ Document 1.6
+
+- Test Log SCP-1945-1.6
+
+SCP Involved: SCP-1945-2
+
+Date: ██/██/████
+
+Subject: Following the events of Document SCP-1945-1.5 a second attempt to contact SCP-1945-2 was made in order to discover more about Incident 1.5.
+
+Procedure: For the second test a SSTV signal was developed featuring the words 'Can you hear us' upon a plain background. As in Test Log 1.2 the signal (slowed by a factor of six in order to match the time dilation of SCP-1945-1) was digitized and sent into the range of SCP-1945. Test began at approximately 7:25 A.M.
+
+Results: SCP-1945-2 showed an immediate reaction to the signal; however, no response was made until the the transmission had reached completion. At this point, SCP-1945-2 approached the camera, looking at it directly and nodding to show affirmation.
+
+Analysis: It appears that SCP-1945-2 is by some unknown means capable of perceiving and understanding SSTV transmissions. It is also notable that SCP-1945-2 is aware of the observation conducted via the video source.
+
++ Document 1.7 - Level 4 Clearance Required
+
+- Surveillance Report SCP-1945-1.7
+
+SCP Involved: SCP-1945-1, SCP-1945-2
+
+Date: ██/██/████
+
+Description: At approximately 2:43 A.M, SCP-1945-2 was removed from the visual range of SCP-1945-1 by two armored guards. SCP-1945-2 woke immediately, struggling and attempting to assault the guards when grasped. Despite considerable resistance, SCP-1945-2 was removed from the room without incident. Quality of SCP-1945-1 began to decline approximately 37 seconds later. Approximately two minutes following the removal of SCP-1945-2, another armored figure approached the source of SCP-1945-1, and proceeded to move it from its location. Despite this, SCP-1945-1 continued to transmit, slowly declining in quality. SCP-1945-1 has continued to transmit to the current date; however, the quality of the signal has not improved, rendering all frames transmitted since then unrecognizable.
+
+Addendum: After extensive audio scrubbing in an attempt to repair the last identifiable signals transmitted from SCP-1945-1, a single frame was located depicting an icon printed onto the body armor of the guard who removed the video source of SCP-1945-1. The icon has not been previously attributed to any GoI's, and no previous examples have been recorded.
+
+Icon recovered from SCP-1945-1
+
+Investigation into the origin and meaning of the icon is currently ongoing.

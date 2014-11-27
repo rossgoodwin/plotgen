@@ -1,0 +1,23 @@
+SCP-199
+
+Item #: SCP-199
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-199 is to be contained in a twenty meter cubical chamber with artificial light suitable for plant growth. Instances of SCP-199-2 are to be captured by Class D personnel wearing Level A / Type 1 Hazmat suits with SCBA before ripening. Instances of SCP-199-2 are to be placed in a one cubic meter sealed plexiglass container with ten liters of potting soil until ripened and the spores are released. Once spores are released, the plexiglass container is to be vented with the resultant slime either harvested or neutralized. New growth is to be brought into containment with other instances of SCP-199.
+
+Description: SCP-199 is a unknown fern of the Hymenophyllaceae family, related to filmy ferns but far more tolerant of changes in temperature and humidity. The rhizomes of the plants are hardy and can attach and grow on most any solid surface, even within chimneys and on smooth walls. The rhizomes and roots of the plant appear similar to thallose liverworts, but the fronds are entirely unique to the plant. The fronds form into bladders approximately 10 cm in diameter, and will inflate with hydrogen and drift away from the main plant.
+
+The bladders, designated SCP-199-2, will float in the air and ripen over several days while the bladder absorbs energy through photosynthesis. During this time the spores carried by SCP-199-2 will mature, and the bladder's contents will congeal to protect the spores in a single cell reminiscent of a plasmodial slime mold.
+
+When ripe, SCP-199-2 will pop, expelling its contents and releasing the slimes in an area approximately ten meters wide. The area will be spattered with the slime, which will immediately immobilize invertebrates and small animals, and cause neurological damage to larger animals similar to exposure to V-Series nerve agents. Slime that does not land on a source of nutrients will move slowly toward anything digestible nearby, similar to an amoeba. The slime then begins to break down all organic material with rapid efficiency, with symptoms similar to necrolyzing fasciitis in larger animals, and smaller animals reduced to paste within an hour. The spores will be nourished by the resultant compost, and the cycle will continue.
+
+SCP-199 is strongly resistant to most defoliants, and seems to thrive in polluted environments. However, due to the plant using an unique catalytic process to separate out hydrogen gas from water, SCP-199 reacts to fire explosively, and can be controlled through careful burning. Uncontrolled burning can result in collateral damage as well as premature release of the slime. Personnel charged with defoliation should wear body armor beneath fire-resistant Level A / Type 1 Hazmat suits. Foundation medical personnel should be ready to administer butyrylcholinesterase and atropine to affected agents as soon as possible, with immediate termination being the alternative if unavailable. Survivors are to have the affected areas debrided and a two week regiment of intraveneous antibiotic therapy. Serious wounds that resist treatment may require amputation or euthanasia under extreme circumstances.
+
+All casualties shall be disposed of by incineration within four hours of exposure, unless overridden by O5 orders.
+
+Addendum 199-a: SCP-199 was first discovered in the ██████ Province of the People's Republic of China, where several instances were seen growing within the chimneys of manufacturing plants, steel mills, and coal-fired power plants. Several deaths due to unknown pollutants caused local investigators to look into the matter, which led to the Foundation being contacted.
+
+Addendum 199-b: As an alternate means of control, several species of insects were introduced to SCP-199. In every case the insects died soon after exposure to either the plant or upon attempting to eat the flesh. The precursors of the slime act as a very effective pesticide, and research on how to safely harvest those precursors remain ongoing for neutralization of plant or arthropod SCPs.
+
+Addendum 199-c: Recent intelligence suggests involvement by the Chaos Insurgency concerning either the manufacture or distribution of SCP-199. Evidence points to an artificial origin, and the use of SCP-199 as a weapon of ecoterrorism by unknown agencies appears likely.

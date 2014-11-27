@@ -1,0 +1,55 @@
+A sample of SCP-218 split into seven "lampreys". Sample was destroyed after the deaths of two researchers.
+
+Item #: SCP-218
+
+Object Class: Euclid
+
+Special Containment Procedures: No personnel are to enter the containment area of SCP-218. All interaction with it is to be done via robotic assistance. No organic materials are permitted anywhere in the containment area. At least one airlock door must be sealed at all times when entering or exiting containment area. Any and all objects entering or leaving containment area must be showered with diluted hydrochloric acid; the pH must be no greater than 2. All objects leaving the containment area must be inspected in a quarantined area.
+
+Description: The item appears to be a large mass of parasitic lamprey. Closer examination has shown that it is in fact one organism, weighing approximately 180 kg (400 lb) with a volume of roughly 0.5 m3 (20 ft3). The central body is a mass of tissue deep inside connecting the numerous "lamprey”. Parts of the organism will break off and move around the containment area, attempting to find food or a way out of containment. Smaller masses will be consumed back into the main mass after several hours of separation.
+
+SCP-218 will attempt to attach to any nearby biological matter. How it finds or detects prey remains unknown. It will emit a high keening sound, and begin to move in the direction of prey, “lamprey” extended. It will attach via the “lamprey” and begin to bore into the prey item. “Lamprey” will bore throughout the body, completely ingesting the prey item after several hours. SCP-218 will then increase in size proportional to the amount of organic matter ingested.
+
+SCP-218 shows a preference for human tissues. Prey coming within 3.1 m (10 ft) of it will suddenly freeze and stare, not moving or attempting to resist as SCP-218 attaches itself. What causes this is not yet understood. It is currently theorized that it is some sort of mental and/or hypersonic effect, causing instant hypnosis. Testing has not picked up any abnormality in auditory, electromagnetic, radiation, or light spectrum values during the "freeze" effect.
+
+Testing has been proposed to the effect of exposing a subject to SCP-218, then retrieving them before SCP-218 can attach and consume the subject. A post-exposure interview should yield some insight into the mental aspects of the "freeze". This testing is currently waiting on approval.
+
+Addendum:
+
+Notes on the "Freeze State" induced by SCP-218
+
+Testing has shown that no direct visual or physical contact is required to cause SCP-218 to induce a frozen state in subjects. The area of effect appears to extend in a perfect sphere from the "core" area of SCP-218. Limited testing has shown this area may be increased with the relative growth of SCP-218, but in depth testing has been postponed on security grounds. This area of effect will extend through most materials with no hampering. Large amounts of lead and other heavy metals appear to dampen the effect, but not to a degree that would influence SCP strategy.
+
+The freeze state appears to involve a "shorting" of the major nerve cords, coupled with a sudden and total muscle paralysis. This appears to be limited to locomotive muscles, with internal processes and brain activity proceedings unhindered. This effect does not dissipate when a subject is removed from the area of effect, nor does it lessen or dissipate with time. Attempts to restore nerve function have met with failure, and it appears that the effect causes permanent nerve damage. This is not the case with neck and eye control muscles. These become locked and force the head to constantly observe the focus point of the SCP-218 area of effect. This "locking" will continue regardless of the distance from SCP-218. The purpose behind this behavior is unknown, however it has been observed that SCP-218 will avoid the face and eye area during consumption until the subject is nearing death. Phenomenon is still under investigation.
+
+Research is underway regarding samples of SCP-218 in a portable containment unit, for use during combat action. Primary research goal at this point is to determine how to shield Foundation personnel from the effects.
+
+Addendum: Secondary Reproductive Cycle
+
+<SECURITY LEVEL 3 REQUIRED>
+
+-startscrypt/lv3xxi218
+
+-runline e6dt8we67&TY&
+
+-&%&RVSGSX#@@*?
+
+-error
+
+-dumpscrypt
+
+-print
+
+SCP-218 will, in very rare cases, engage in a secondary reproductive cycle. This seems to be more common when multiple sub-instances of SCP-218 have been re-absorbed by the main mass. SCP-218 will engage in standard attack and feeding behavior, however will remain attached to the subject for approximately six hours without actively feeding on the subject. It is assumed that some form of genetic or viral transfer occurs at this stage, but only one secondary reproductive cycle has occurred in containment, and this data was not collected before reproductive onset.
+
+Subjects will remain in the frozen state, but begin to undergo rapid physical change. A clear fluid, similar to that excreted by SCP-218 during feeding, will begin to leak from all major body openings (eyes, mouth, ears, anus, etc.). Subject's body will also begin to move, however these actions are slow and jerky, not dissimilar to sleepwalking, and subjects are totally unresponsive to outside stimulus. Fluid leakage will increase, along with a discoloration of the skin, and general tissue swelling.
+
+Body orifices will begin to change, physically reforming and distorting in to feeding mouths identical to those of SCP-218. This process appears to both destroy and alter the host tissue, and observation has shown the process to be exceptionally painful to subjects. Subjects will begin to respond to outside conditions, but only in the capacity of attempting to find and attack prey items. Subjects will also begin to exhibit a more pronounced swelling and several cyst-like lumps on the skin. Swelling pressure may cause splits and wounds in tissue at this point.
+
+Subjects will attempt to consume any biological matter they can find once movement. The feeding orifices will begin to erupt from both the cysts and the converted body openings, extending on stalks identical to SCP-218. Subject bodies will begin a rapid physical decline at this point, and will, within a few hours, degenerate into an identical SCP-218, and begin to exhibit the keening and freeze abilities of SCP-218. Full conversion takes approximately twenty-four hours, from point of release by SCP-218 to final degeneration.
+
+Reproductive subject at mid-stage orifice conversion
+
+Communication with reproductive subjects is, at this point, impossible. SCP-218 appears to primarily target humans for this reproductive cycle, but has been noted to have used dogs, cats, geese, and in one case a draft horse. Occasional recovery of a reproductive subject in mid-stage transformation implies that either this process may be delayed by some means, or more SCP-218 may exist outside of containment. Research and investigation is ongoing.
+
+-endprint

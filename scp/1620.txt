@@ -1,0 +1,73 @@
+SCP-1620-1, late Stage 1 maturation
+
+Item #: SCP-1620
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1620 is to be contained in a sealed room with walls and ceiling painted a flat, non-reflective grey color, with the object's inner surface pointed away from the door at all times. No reflective surfaces of any kind should be brought into SCP-1620's containment cell, including camera lenses. Personnel wishing to enter SCP-1620's containment to attempt a sample must obtain Level 4 authorization, dress only in non-reflective clothing, and submit to a 24-hour isolation period afterwards to ensure no accidental spreading of SCP-1620-1.
+
+If an individual is determined to be infected by SCP-1620-1, they must be placed in an opaque container with an air supply and immediately transported to an isolation cell with a single movable mirror and no other reflective surfaces. The mirror must be placed flat against the floor or wall whenever another individual is present in the cell, and otherwise used only to track the development of SCP-1620-1. Once SCP-1620-1 has reached stage 3 maturity, the mirror must be removed and the subject contained for a further minimum of three (3) months. Upon completion of the isolation period, if the subject views their reflection without any sign of SCP-1620-1, they may be released back to normal duty without incident.
+
+Description: SCP-1620 is a sheet of rectangular metal alloy, measuring approximately 2m x 2.5m x 0.25m, curving at an angle of 2.5 degrees along the long edge. One of the short edges is torn and jagged, while the remaining three edges are smooth at perfect right angles. Spectroscopic analysis of samples taken from SCP-1620 proved to be inconclusive, though high concentrations of both titanium and tungsten were registered. The 'outer' side of the object's surface is blackened, scarred, and pitted in a manner resembling exterior surfaces of man-made objects that have survived atmospheric re-entry, and exhibits no anomalous properties. SCP-1620's inner surface has an extremely high reflectivity, and causes all known manifestations of SCP-1620-1.
+
+When a human being or other humanoid living organism is reflected in SCP-1620's inner surface, they become host to an instance of the organism identified as SCP-1620-1. SCP-1620-1 is a noncorporeal, parasitic entity that copies and replaces humanoid reflections. As such, it is only visible or interactive when it can be viewed in a reflective surface. The entity's development progresses through three distinct phases over a period ranging from one to ten weeks, designated Stage 1 through Stage 3.
+
+Infection Stage 1 lasts between six and eighteen hours, starting from the time the host is exposed to SCP-1620 or a reflective surface currently displaying an instance of SCP-1620-1 in Stage 3 maturity. During Stage 1, the entity is visually identical to its host's actual reflection, and cannot be distinguished as abnormal by any individual other than its current host. Over the duration of Stage 1, the entity will become increasingly desynchronized from its host's actual movements, starting with a slight 'lag' effect as it belatedly attempts to imitate the host, and gradually progressing to the point where it behaves completely independently of the host.
+
+Infection Stage 2 lasts between twenty-four hours and seven days, though the transition point between late Stage 1 and early Stage 2 is difficult to identify. During Stage 2, SCP-1620-1 remains capable of visually independent activity, though it remains incapable of actually affecting the environment outside the reflective surface it is currently displayed in. When in view of humanoid organisms other than its host, SCP-1620-1 will attempt to imitate an ordinary reflection, though the 'lag' effect developed during Stage 1 remains. If apparently alone within its host's field of view, the entity exhibits a friendly and non-hostile demeanor, using body language to present a non-threatening attitude. When observed remotely and not in view of its host, however, SCP-1620-1 can be seen studying its host with anger or outright hostility, often accompanied by subtle or overtly threatening gestures. As Stage 2 progresses, the entity begins to diverge in visual appearance from its host as well, gaining or losing body mass, altering facial features, and changing overall body type. When SCP-1620-1's visual appearance has stabilized, it is considered to be in Stage 3.
+
+Infection Stage 3 lasts for an indeterminate time, currently not known to exceed nine weeks. During Stage 3, SCP-1620-1 reflects as a vaguely recognizable and heavily distorted image of its host, varying by individual but adhering to certain commonalities. Based on conducted testing, the appearance of a Stage 3 entity is believed to be a facsimile of the host's own subconscious self-image, rather than their outward physical shape. Notably, whether by accident or malice, SCP-1620 appears to latch onto the host's most negative self-portrayal, typically causing them great distress in the process. A Stage 3 instance of SCP-1620-1 is considered contagious, capable of spreading itself to the reflections of any suitable host currently displayed in whatever surface it is occupying.
+
+For the duration of Stage 3, the entity ceases to placate or interact invitingly towards its host, instead exhibiting actively threatening or mocking behavior regardless of if the host's attention is currently directed at it. Whether threatening the host or ignoring it entirely, its actions exhibit intent to either distress the host and induce it to seek help, or to draw the attention of onlookers and allow its propagation more directly. When Stage 3 reaches its conclusion, the entity appears to 'die', reversing all changes made to its appearance in minutes and returning the host's reflection to normal. To date, no individual known to host a Stage 3 instance of SCP-1620-1 has reported a recurrence, though host individuals have a high (60+%) chance of developing mild to severe catoptrophobia.
+
+Experiment Log 1620
+
+Experiment Log 1620
+
+Date: 04/12/██:
+
+Procedure: D-class personnel given, individually, a lighter, blowtorch, gas-welding torch, and flamethrower. Each subject instructed to approach SCP-1620 and attempt to apply a scorch or burn mark to either surface.
+
+Details: All attempts to mark or damage SCP-1620 by means of heat met with failure. D-1620-4 refused to cease use of the flamethrower on command and was terminated. The resultant explosion also had no effect on SCP-1620.
+
+Date: 04/14/██:
+
+Procedure: SCP-1620 removed from containment and transported in a sealed, opaque container to an outdoor location for destructibility testing. D-class personnel given various construction tools including saws, drills, claw and sledge hammers, and handheld jackhammers, and instructed to attempt to cause visible damage to SCP-1620's surface.
+
+Details: All manner of handheld tools failed to scratch, dent, or mark either surface of SCP-1620. Application of a pneumatic jackhammer to the object's damaged side succeeded in dislodging multiple samples. Samples removed for further testing.
+
+Date: 04/18/██:
+
+Procedure: Subject D-1620-5 deliberately exposed to the object and allowed to develop to Infection Stage 2, then instructed to interact with SCP-1620-1 and ask it questions.
+
+Details: SCP-1620-1 made no attempt to return interaction, instead smiling at D-1620-5, nodding pleasantly, giving small waves of welcome, and occasionally miming hugs in the air. When D-1620-5 was seen to be looking away from the mirror, SCP-1620-1's expression became flat and contemptuous, baring its teeth and reflexively clutching empty air in a strangling motion or drawing a finger across its throat.
+
+Date: 05/04/██:
+
+Procedure: Live orangutan exposed to SCP-1620, placed in isolation and observed visually via remote camera within view of a mirror.
+
+Details: Fourteen hours after initial exposure, orangutan's reflection viewed to be acting independently of its host as normal for a Stage 2 entity. Orangutan seen to exhibit great distress, behaving in a threatening manner towards its own reflection as it would another hostile orangutan.
+
+Date: 05/11/██:
+
+Procedure: Live iguana, live bull mastiff, live tuna, live African grey parrot exposed individually and sequentially to SCP-1620, placed in isolation and observed visually via remote camera within view of a mirror.
+
+Details: All test animals and their reflections failed to exhibit anomalous behavior as far as 72 hours after exposure, at which point testing was aborted.
+
+Date: 05/16/██:
+
+Procedure: Subject D-1620-6 exposed to SCP-1620, allowed to progress partway through Infection Stage 1, then instructed to approach a mirror and destroy it while SCP-1620-1 was exhibiting anomalous movement.
+
+Details: Mirror shattered without resistance. SCP-1620-1 visibly unharmed when next seen in another reflective surface and showed no reaction to its host, though hostile and abusive gestures towards the host in Stage 2 increased greatly in frequency and forcefulness.
+
+Date: 05/18/██:
+
+Procedure: Subject D-1620-7 exposed to SCP-1620, allowed to progress into Infection Stage 2, then placed in a room with two mirrors on opposite sides.
+
+Details: SCP-1620-1 exhibited standard anomalous behavior for a Stage 2 maturity state, but all visible copies of SCP-1620-1 moved and acted in total unison and synchronization.
+
+Date: 05/23/██:
+
+Procedure: Subjects D-1620-8 and D-1620-9 exposed to SCP-1620, allowed to progress into Infection Stage 3, then restrained together in a room with a single wall-to-wall mirror.
+
+Details: The subjects' parasite entities, designated SCP-1620-1a and SCP-1620-1b respectively, responded to each other's presence with excessive hostility. Both entities abandoned any pretense at staying with their hosts, travelling 'across' the room in the mirror and physically attacking each other. Upon the apparent victory of SCP-1620-1a involving its opponent's [REDACTED], D-1620-9 went into immediate convulsions and died of an apparent brain hemorrhage. D-1620-8 suffered no visible physical injuries, but went into hysterics and repeated insistence that 'that wasn't him, he wasn't really like that', requiring sedation before removal.

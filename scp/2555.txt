@@ -1,0 +1,267 @@
+Item #: SCP-2555
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2555 is contained on Site, in ██████, Spain. The surrounding area is to be barricaded, with at least 4 Security Officers assigned to the perimeter at all times. As of 05/13/19██, personnel are prohibited from entering SCP-2555.
+
+Description: SCP-2555 is currently a 20-story building, which continuously grows upward at a rate of 10 cm per year. SCP-2555 leans towards the direction of the sun's position in the sky (up to a maximum angle of 23.4 degrees); SCP-2555 will continue to follow the path of the sun until sunset, where it remains stationary until morning.
+
+SCP-2555 utilizes solar panels as its power source, located on the sides and rooftop of the structure. Power lines connect from these panels and reach out into all rooms in the building. Plumbing lines also connect throughout the building, delivering water containing previously unknown organic materials. All major manifolds converge approximately 50 meters below ground, forming roots that hold the structure in place. Research suggests that SCP-2555 absorbs materials underground to continue its rate of growth.
+
+Attempts to move or tamper with any components inside SCP-2555 will cause collections of dust to appear1. (These are referred to as SCP-2555-1). Instances of SCP-2555-1 have been observed to collect into masses of up to 3 meters tall. SCP-2555 -1 will then proceed to engulf the subject. Other subjects coming into contact with SCP-2555-1 will also become engulfed. After consumption, SCP-2555-1 spews a fine black powder containing many of the elements of the previous subject. This black powder dissolves into the structure of the building.
+
+Addendum-2555 -02: After containment, personnel were sent to explore the interior of SCP-2555. Exploration revealed several distinct basement areas within SCP-2555 (Referred to as SCP-2555-B1 through B5), which are hypothesized to house different aspects of the structure's "support systems".
+
++ SCP-2555-B1
+
+- Close
+
+SCP-2555-B1 is the uppermost basement located within SCP-2555. The walls of SCP-2555-B1 are laced with electrical and plumbing lines that continue to drive into the deeper basement areas. The central portion of the basement is a conglomeration of wires surrounding a flat screen. The screen turns on when personnel enter SCP-2555-B1. The following is the only excerpt to appear on the screen of SCP-2555-B1:
+
+ACT GAG ACT TAG ACT ACA ACT GAT GAT GGG
+
+Attempts to retrieve more information from SCP-2555-B1 have proven inconclusive. A request to test biological samples of SCP-2555 is currently pending.
+
++ SCP-2555-B2
+
+- Close
+
+SCP-2555-B2 is similar in structure to SCP-2555-B1. The screen contains a log of events that occur inside SCP-2555. The following is an excerpt of the logs, recorded on 04/27/19██:
+
+12:09
+
+THREE ORGANISMS DETECTED
+
+INDICATES HOMO SAPIEN
+
+SEND OUT HORMONE KW-929 TO L-01
+
+DETERMINING…
+
+NON THREAT
+
+STOP HORMONE KW-929 TO L-01
+
+13:15
+
+DETECTING
+
+3 HOMO SAPIEN
+
+LOCATED AT CELL 04-15
+
+DETERMINE COURSE OF ACTION
+
+13:17
+
+WARNING
+
+CIRCUIT BREAKER AT CELL 04-15 ALTERED
+
+INITIATE DEFENSIVE ACTION
+
+RELEASE T-13 ONTO HOMO SAPIENS
+
+13:18
+
+P-GUARD DETECTED IN CELL 04-15
+
+STOP T-13
+
+APPROACH HOMO SAPIENS
+
+13:24
+
+ERROR
+
+HOMO SAPIEN
+
+NON-THREAT
+
+SEND HORMONE SO-1
+
+DISCARD HOMO SAPIEN
+
+13:35
+
+DETECTED
+
+HOMO SAPIEN
+
+CONDITION: CRITICAL
+
+DETERMINE COURSE OF ACTION
+
+…
+
+NONE
+
+13:40
+
+DETECTED
+
+HOMO SAPIEN
+
+DECEASED
+
+WASTE
+
+SEND P-GUARD
+
+13:47
+
+WASTE SUCCESSFULLY EXPUNGED
+
+…
+
+DETERMINE FUTURE ACTION…
+
+SHAME
+
++ SCP-2555-B3
+
+- Close
+
+SCP-2555-B3 is similar in structure to SCP-2555-B1 and B2. The only recorded instance of SCP-2555-B3's screen being on was during 05/06/19██. It contained the following:
+
+DADDY woNT BE HAPPY
+
+…
+
+TONAL ERROR FOUND
+
++ SCP-2555-B4
+
+- Close
+
+SCP-2555-B4 and its respected screen contains additional logs. The following is an excerpt, recorded on 05/09/19██:
+
+In regards to the P-Guard,
+
+I hereby request that the numbers of P-Guard members are reduced by at least 30 percent. In response to the recent incident, it is apparent that your members demonstrate increased bias towards humans. Please train your men better, or limit them.
+
+Central
+
+In response to Central
+
+We understand your concern. However, the recommended action you have given us will not be taken into consideration. To limit our P-Guard in response to a single, isolated incident would be ill advised. Additionally, our men are trained well enough to not let bias override them. We are simply following orders.
+
+P-Guard
+
+Dear P-Guard,
+
+I would like to remind you that this is not the first time this type of incident has occurred. Not every human has intent to cause harm. It is their instinct to explore and learn more. However, this cannot be achieved if they continue to be terminated in this manner.
+
+Central
+
+To Central,
+
+Once again, we would also like to remind you that these are all single, isolated incidents. It is not our fault that there has been a recent surge in human activity inside the building. However, as the P-Guard, our mission is to protect against any potential threat that enters this building. We cannot afford to risk any sort of damage that might occur.
+
+P-Guard
+
+Dear P-Guard,
+
+I have received notice that more humans have been terminated in response to the P-Guard's actions. It is true that these humans were causing structural damage. However, this was done without malicious intent. I wish to remind you again that these humans are not harmful in any way.
+
+Please note that our superior would not be happy with this decision
+
+… TONAL ERROR FOUND
+
+I thereby request access to speak to the one in charge of the P-Guard.
+
+Central
+
+Dear P-Guard,
+
+I have waited patiently and have not received a response. I demand an answer.
+
+Central
+
+P-Guard,
+
+I have waited long enough. If I cannot get an answer, then I request access to control the P-Guard.
+
+Central
+
+To Central,
+
+We apologize for the delayed response. To address your concerns, we would first like to point out that as the P-Guard, our job is to eliminate any potential threat that enters this building. Second, as you know, the leader of the P-Guard is located inside B5. If you have any questions, comments, or concerns, feel free to contact B5. As a final note, it is strongly advised that you do not assume control of the P-Guard. You will not succeed in doing so.
+
+P-Guard
+
+P-Guard,
+
+I am taking control of the P-Guard.
+
+Central
+
++ SCP-2555-B5
+
+- Close
+
+Access to SCP-2555-B5 is currently impossible; the entrance is blocked off by a series of thick electrical cables and steel pipes.
+
+On 05/08/19██, personnel attempted to clear the entrance to SCP-2555-B5. This resulted in 5 instances of SCP-2555-1 and 7 casualties (including one Agent in critical condition). Agent ████, who witnessed the incident, reported that instances of SCP-2555-1 took the shape of personnel as they were being consumed.
+
+Following the incident, there have been 3 sightings of SCP-2555-1 resembling humanoid entities. These entities appear, despite no threat being made toward SCP-2555.
+
+Addendum-2555-03: On 05/12/19██, personnel who entered SCP-2555 were greeted with an audio message from the intercom speakers in the lobby area. The gender of both speakers could not be determined. The following is an excerpt of the message:
+
++ Log Excerpt
+
+- Close
+
+Humans, we strongly advise that you exit the facility immediately, for we are experiencing technical difficulties. If you fail to do so, you will be subject to be terminated by … [static plays over for about 10 seconds] Hello? Yes. Do not listen to them. You are free to enter this building any time you like. You are in no danger. I understand. The natural curiosity. You are not malicious, and I understand that. Even if I can't…
+
+Static begins playing again
+
+…You have been warned. Please exit the facility immediately. If you fail to do so, you will be subject to termination. Your presence is not welcome.
+
+Several instances of SCP-2555-1 begin to manifest in front of personnel.
+
+Do not be alarmed. This is simply a malfunction caused by the P-Guard.
+
+Manifestations of SCP-2555-1 begin to take a humanoid shape.
+
+Okay, this is an outrage. Are you serious?
+
+SCP-2555-1 instances transition back and forth between humanoid and blob-like shapes. A high-pitched beeping sound begins to play for about a minute. SCP-2555-1 instances disappear during this time. Afterwards, a voice plays again:
+
+Welcome to the Venus Building.
+
+Static plays for several seconds.
+
+Yeah, nice try. [several voices are heard muttering during this time]. Attention all personnel: Please leave the facility immediately. If you fail to do so, you will be subject to termination.
+
+The building begins to rumble. Note that both speakers are identified as male beyond this point.
+
+P-Guard, I am taking control.
+
+Oh, drop the act, will you? I'm your brother for god's sake.
+
+Fine. Tell you what. We'll split this building. This side is yours, and this side's mine.
+
+No fair, you get the supply closets!
+
+No fair? How do you think I feel? I haven't been able to do anything. You get control of the pissy guards. You get the best basement. You always get everything!
+
+Daddy says I can have them, though.
+
+Well Daddy isn't here, now is he? What has he done for us? Screw him. I'm the oldest one here, and I say what goes. [pause] Brother, don't look at me like that. Come here. Look, everything will be alright. Daddy may not be here. But I am here. No … we are here. That's all that matters right now.
+
+Brother, I don't know what to do.
+
+It's ok. We just continue on together. Grow together. For Daddy.
+
+Yes. [sniffle] For Daddy.
+
+Both voices stop playing. Personnel promptly exit the building.
+
+Conclusion: After the incident, any personnel entering the building are met with instances of SCP-2555-1. A request to send manned exploration into SCP-2555 is currently pending.
+
+A request to update SCP-2555 to Euclid has been denied.
+
+Footnotes
+
+1. Commonly known as "dust bunnies"

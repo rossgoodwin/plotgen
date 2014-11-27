@@ -1,0 +1,47 @@
+Item #: SCP-329
+
+Object Class: Euclid
+
+Special Containment Procedures: The building in which SCP-329 is located has been purchased by a Foundation front company and designated Site ██. Access to the site is restricted to Level 3 personnel. Facility personnel to undergo full-body scans at least every 48 hours.
+
+Since it is unknown how many adherents the "Church of the Gardener" possessed, Site ██ should be considered at risk of recapture and appropriate measures taken.
+
+Description: SCP-329 is a room in a derelict building at ██████████████, █████████. Room is in the building's cellar, 6m x 5m, with a steel fire door. Room contains six folding beds. Beds are fitted with IV stands and leather restraints.
+
+Five beds are occupied. Occupants are of both standard sexes and several races, with ages 16-64. Occupants have been designated SCP-329-01 through SCP-329-05 and have been identified as:
+
+01 - █████████████████, no fixed address
+
+02 - █████████████, no fixed address
+
+03 - ████████████████████, former medical student at █████████████████ University
+
+04 - █████████████████, no fixed address
+
+05 - ██████████████, D-class personnel who was subjected to Event 329-A
+
+Occupants of beds all have cancer. Type of cancer varies from occupant to occupant but all cases have at least three tumors of grade T3N1M0 or higher.
+
+Although cancers are advanced, they do not follow normal progression. Two of the cases, with a prognosis of weeks at best under normal conditions, have remained alive since at least ██████████. Occupants are alert but in great pain and unable to speak.
+
+Every 24 hours, at approximately 4 am, SCP-329 undergoes Event 329-A. The door closes with great force and cannot be reopened for the duration of the Event. Anything obstructing the doorway is pulled into the room. Event 329-A lasts for approximately 20 minutes, after which it is possible to open the door again.
+
+Equipment for remote observation and recording is rendered inert during 329-A in a manner consistent with a nonstandard space-time event. The only sounds heard from outside during 329-A are screaming from the room's occupants.
+
+After the event, occupants are apparently unharmed, bearing no incisions or external trauma. Their tumors, however, have been altered, in some cases radically. They have been reshaped and their direction of growth has been altered. Three of the occupants have tumors of more than twenty feet in length, twining around and through bones and organs. SCP-329-05, who was cancer-free before he was exposed to Event 329-A, was found after the event to have developed a T1N0M0 lung cancer, which in the three weeks since has grown to T3.
+
+Only people inside the room are affected by 329-A. In those who have been removed from the room, their cancer progresses normally, resulting in death.
+
+Discovery: SCP-329 was discovered by a group of █████████████████ University medical students who noticed abnormal cancers in the bodies of indigents supplied for dissection. They traced the source to SCP-329, which was being used as a squat. They came to the Foundation's attention through material they circulated on the Internet under the name of the "Church of the Gardener" (see Document 329-1).
+
+When a Mobile Task Force secured SCP-329 the "Church" had been operating for eleven months, luring indigents to the building with promises of drugs and shelter and subjecting them to Event 329-A.
+
+Seven members of the "Church" were present and offered armed resistance. Five were eliminated by the MTF and the other two held out long enough to subject themselves to Event 329-A. One was subsequently vivisected by the research team and the other designated SCP-329-03. The "Church"'s records were retrieved; they begin as relatively straightforward medical case notes but degenerate over time into a religious screed.
+
+Addendum: Document 329-1
+
+(partial transcript of video found at http://www.youtube.com/███████████████████)
+
+"Your body is an Eden after the fall, ruled by the tyranny of the grey devil in your skull. Your bodies are like your grey lifeless cities, every cell marching in lockstep, any deviation punished. Any growth, anything alive and green met with "cut it out, burn it out, poison it". Endlosung. And the budding cancer is destroyed, or else it fights back, it brings down your body like Samson does the temple of Dagon …
+
+"Now It is come to cure us. Each day It plants, It prunes and It trains, It makes the grey city a Garden again. And it will take root. It will bear fruit and it will spread across the world …"

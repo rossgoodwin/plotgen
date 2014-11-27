@@ -1,0 +1,349 @@
+Magnified image of typical SCP-1707-A mouthparts
+
+Item #: SCP-1707
+
+Object Class: Euclid
+
+Special Containment Procedures: Each SCP-1707 colony is to be kept in a monitored containment cell under Biosafety Level 3 conditions. A minimum of two (2) mature and stable colonies, hosted by domesticated pigs (Sus domesticus), are to be retained at all times. At least one (1) additional colony is to be maintained for the purpose of experimentation. Humans are not to be used to host SCP-1707 colonies without the approval of both the Senior Researcher and the Site Director.
+
+In the event of a containment breach by an unhosted colony, all personnel save the duty biothreat recontainment team are to evacuate the area. A suitable host organism is to be used by the duty team to lure the colony back into containment. If a hosted colony breaches containment, standard protocols for the host species shall be in effect.
+
+Under no circumstances are any SCP-1707 colonies to be terminated without explicit written approval from the Senior Researcher.
+
+Description: SCP-1707 is a type of collective organism comprised of a mass of creatures, individually designated SCP-1707-A, that resemble various different annelids and helminths. In particular, all SCP-1707-A specimens are between 5 and 30 mm in length and possess distinctive mouthparts (see attached image).
+
+In isolation, SCP-1707 forms a flattened mass up to approximately 4-5 cm thick. A colony in this state will conserve movement until it detects a suitable host, at which time it will begin to move at up to 0.5 m/s towards its target.1 SCP-1707 colonies consistently prefer sapient targets. Studies to understand these mechanisms are ongoing.
+
+The first few SCP-1707-A to contact the host's epidermis will administer a fast-acting paralytic agent via their mouthparts.2 Each SCP-1707-A creature will then seek out epidermal tissue to burrow through and consume before anchoring themselves in the host's dermal layer. The rest of the colony will follow suit, consuming approx 20 cm2 of skin per second until the target's entire epidermal layer has been replaced by a dense covering of SCP-1707. This process may only be interrupted by destruction of unattached portions of the colony.
+
+When established on a host, SCP-1707 demonstrates no anomalous secondary effects. For the host, secondary physical effects of increased nutrition requirement and a higher chance of transdermal infection manifest as expected. These factors tend to lead to the host's lifespan being comparatively short. Under controlled conditions, however, hosted SCP-1707 colonies can be kept alive and healthy for an extended period.
+
+Upon the death of a host, SCP-1707 enters its reproductive phase, rapidly consuming soft tissues of the corpse. During this stage, individual SCP-1707-A specimens will reproduce in a manner similar to that of known species they resemble, albeit at a greatly accelerated rate. The whole process leads to the colony roughly tripling in size. As such, the new iteration is capable of attaching itself to larger host organisms.
+
+At the time of writing, several infestations are maintained:
+
+SCP-1707-0 and SCP-1707-1: Two (2) domestic pigs
+
+SCP-1707-2: One (1) white-tail deer
+
+SCP-1707-3: One (1) Cape buffalo
+
+SCP-1707-4: One (1) Norwegian rat
+
+SCP-1707-5: One (1) human, formerly Agent ████ █████, infested by SCP-1707 during initial discovery and containment
+
+SCP-1707-6-xxiv: One (1) human, D-class, infested subsequent to containment
+
+There is no known way to cure or mitigate an SCP-1707 infestation. Any attempts at forced removal result in the death of the host within five (5) hours regardless of medical treatment. The reasons for this are a subject of ongoing study.3
+
+Note: Due to the psychological effect of SCP-1707 infestation on a human host, any such hosts are to be continuously monitored to reduce the chance of unauthorized termination.
+
+Ethics Committee. Level 3 and above only.
+
+Access granted: file SCP-1707-5-b7. Proceed.
+
+Selected Excerpts: SCP-1707-5 post-containment interviews
+
+1.
+
+Time since infestation: One (1) day
+
+Interviewer: Researcher P. Dimaccio4
+
+Dimaccio: Hey, ████. it's Paul. Can you hear me? This thing workin'?
+
+[pause]
+
+Dimaccio: ████?
+
+Agent █████: Yeah. Yeah, I can hear you.
+
+Dimaccio: So I heard what happened. I had to come right over here. They won't fuckin' let me in, though. You know how it is.
+
+[pause]
+
+Agent █████: Appreciate it, man.
+
+Dimaccio: How do you feel?
+
+[no audio for several seconds]
+
+Agent █████: Like I'm covered in freakin' worms.
+
+Dimaccio: Hah! Seriously, man. How do you feel?
+
+Agent █████: Uh… I can't feel much on my.. I mean, like, where my skin used to be. Kinda numb.
+
+[pause]
+
+Agent █████: How come I can still talk? They're not on my lips or nothin'?
+
+Dimaccio: They, ah, they they mostly left your mouth alone. We don't know why yet. Maybe 'cause it's a different kinda skin.
+
+Agent █████: Why don't they get squished?
+
+Dimaccio: Sorry, man, what?
+
+Agent █████: Like, the ones on my back and shit. They don't get squished from lyin' on em.
+
+Dimaccio: Well, I don't know. I guess that's what we have to find out, right?
+
+[no audio for several seconds]
+
+Agent █████: Paulie?
+
+Dimaccio: Yeah?
+
+Agent █████: Why don't they get squished?
+
+2.
+
+Time since infestation: One (1) week
+
+Interviewer: Dr M. Xiao
+
+Dr Xiao: Agent █████?
+
+[pause]
+
+Dr Xiao: This is Dr Mei Xiao from the biocon analysis group.
+
+Agent █████: Sure you ain't Jenny from the block?
+
+[several seconds of Agent █████'s laughter]
+
+[pause]
+
+Dr Xiao: Um. Sorry, Agent █████, I'm afraid not.
+
+Agent █████: I bet you got some questions for me, huh? Now I turned into my very own skip?
+
+Dr Xiao: Well, I do have some questions. But you should know that we haven't classified you, personally, as an SCP object.
+
+Agent █████: I knew that already. Know why?
+
+[pause]
+
+Agent █████: I can read your mind now. Thanks to this shit.
+
+Dr Xiao: Can you tell me—
+
+Agent █████: Jeez! I'm just screwin' with ya!
+
+[several seconds of Agent █████'s laughter]
+
+Agent █████: Ah, jeez… Okay, doc. Fire away.
+
+[pause]
+
+Dr Xiao: Okay. Let's start with simple things. How's the temperature in here? Do you feel cold or warm right now?
+
+Agent █████: Uh, it's kinda… so, I mean, I can feel that, but it's all… numbed. I don't get it, 'cause when they were…
+
+[pause]
+
+Agent █████: When they got me, it sure as hell wasn't numb then.
+
+Dr Xiao: Can you feel? I mean, do you still have a sense of touch?
+
+Agent █████: Kinda. Same thing. It's numb, but I can still sort of feel somethin'. I don't even feel anythin' much when I lie or walk on 'em.
+
+[pause]
+
+Agent █████: So, when are you gonna get these things off of me, anyway? Paulie told me you were gonna work it out with some D's.
+
+Dr Xiao: Well, we're getting there. We need more time to understand how to remove the infestation safely. I'm sorry it's not as fast as we'd like.
+
+[no audio for several seconds]
+
+Agent █████: Yeah. Well… yeah. You just keep tryin', though.
+
+[no audio for several seconds]
+
+Agent █████: You keep tryin'.
+
+3.
+
+Time since infestation: Two (2) weeks
+
+Interviewer: Researcher P. Dimaccio
+
+Agent █████: So, I mean, it's been nice to get a freakin' real bed in here, even though I can't really feel much difference.
+
+Dimaccio: Glad you like it. I told 'em to give you a king-size for your fat ass, but they wouldn't.
+
+Agent █████: Hah.
+
+[pause]
+
+Agent █████: Should be a lot fatter.
+
+Dimaccio: How do you mean?
+
+Agent █████: You know how much I got to eat now?
+
+Dimaccio: Something like █████ or █████ calories a day, right?5
+
+Agent █████: You know how much that is?
+
+Dimaccio: Uh… a few days' worth of field [rations]?
+
+Agent █████: It's a fucking ton of food. Even with all the high-calorie shit they got me eatin'.
+
+Dimaccio: Yeah, I guess it's 'cause of the skip.
+
+Agent █████: No shit, genius.
+
+[pause]
+
+Agent █████: They figured out a way to get this shit off me yet?
+
+Dimaccio: Not yet, man. Sorry.
+
+Agent █████: How many D's they gone through?
+
+[pause]
+
+Dimaccio: Uh… I don't know.
+
+Agent █████: Yeah, I fucking bet you don't. Don't shit me, Paulie. I know your ass.
+
+Dimaccio: Seriously, ████, I got no input into that.6
+
+Agent █████: Whatever you say, man.
+
+4.
+
+Time since infestation: One (1) month
+
+Interviewer: Dr M. Xiao
+
+Dr Xiao: Agent █████?
+
+[no audio for several seconds]
+
+Dr Xiao: Agent █████, are you awake?
+
+[no audio for several seconds]
+
+Dr Xiao: Let the record show that Agent █████ appears to be asleep. This is the third interview attempt in which he has—
+
+Agent █████: You know why I pretend to be fuckin' asleep?
+
+Dr Xiao: I, uh, I—
+
+Agent █████: Because, an' I don't know if you Nobel Prize winners noticed this, but fuckin' look at me! And you assholes keep wanting to fuck with me but it's as fuckin' simple as this: I got… this shit, instead of fuckin' skin! There's no other shit goin' on around here! How come you fuckin' geniuses can't figure that out? How come you can't just fuckin' take this shit off of me and put some skin from some D-class on me or fuckin' whatever?
+
+Dr Xiao: Well, uh, first we have to make sure there are no secondary effects and—
+
+Agent █████: Yeah, well, how about this fuckin' secondary effect: I'm a fuckin' freak!
+
+5.
+
+Time since infestation: Six (6) months
+
+Interviewer: Researcher P. Dimaccio
+
+Dimaccio: ████?
+
+[no audio for several seconds]
+
+Agent █████: Skip-1707-5.
+
+Dimaccio: What?
+
+Agent █████: That's me now, right? That's me. Ess See Pee Seventeen Oh-Seven Five. I heard some asshole callin' me that the other day when they left the comm open on accident.
+
+Dimaccio: Bullshit. You're Field Agent ████ █████ from the fuckin' Grinders. I don't give a fuck what those assholes think.7
+
+Agent █████: So… what are one, two, three an' four?
+
+Dimaccio: Oh… a buncha animals. Listen, ████, we need—
+
+Agent █████: We need, we need, we need. Lemme tell you somethin', Paulie, and it's what I need, and what I need is for that fuckin' magical miracle fuckin' cure you assholes are workin' on to actually come true one of these fuckin' days, except that's never gonna happen, because six months like this an' you're probably a lifer, right? Right? Stuck in this fuckin' cell forever, right? Bein' fucking studied? Long term study? Don't even shit me. Don't even try to shit me. I know. I know how we fuckin' do things around here. How many D-class?
+
+[pause]
+
+Dimaccio: Listen, ████, it's—
+
+Agent █████: How many D-class? How many of 'em do we got in here with this shit on 'em? Why do we gotta keep me around?
+
+Dimaccio:: Come on, man, I told you this last time. We ain't got a way to remove it yet without killin' you.
+
+[no audio for several seconds]
+
+Agent █████: Yeah. I remember.
+
+[pause]
+
+Dimaccio: Aw, come on, that ain't the ████ I remember. You—
+
+Agent █████: Yeah? Yeah? Maybe that's because the fuckin' ████ █████ you remember wasn't a fuckin' skip! Maybe that's because I never used to be a fuckin' freak! Get the fuck out of here! Stop bullshitting me! Get the fuck out!
+
+[At this point, Agent █████ picks up a chair from his cell and attempts to strike Researcher Dimaccio. Security rush into the cell. Researcher Dimaccio exits the cell.]
+
+6.
+
+Time since infestation: Seven (7) years
+
+Interviewer: Dr M. Xiao
+
+Dr Xiao: SCP-1707-5, this is Dr Xiao. Can you hear me?
+
+[no audio for approx 30 seconds]
+
+Dr Xiao: I'm not going to be here for long. I have just a few short questions.
+
+[no audio for several seconds]
+
+SCP-1707-5: [muffled indistinct vocalization]
+
+[pause]
+
+Dr Xiao: First of all, have you noticed any change in sensation over the last six months?
+
+[no audio for approx 30 seconds]
+
+Dr Xiao: 1707-5?
+
+[no audio for approx 30 seconds]
+
+Dr Xiao: Okay. Have you experienced other effects of SCP-1707? Any other symptoms at all?
+
+SCP-1707-5: [indistinct, unintelligible]
+
+Dr Xiao: I'm sorry, what was that?
+
+[no audio for approx 30 seconds]
+
+Dr Xiao: Okay… okay. This interview is concluded at 15:44 local time on ██/██/20██. The next interview will be in four—
+
+SCP-1707-5: Where's Paulie?
+
+[no audio for several seconds]
+
+SCP-1707-5: I want Paulie.
+
+Dr Xiao: He… you know he transferred out. He transferred out three years ago.
+
+[no audio for approx two (2) minutes]
+
+Dr Xiao: [sighs] Interview is concluded.
+
+[Dr. Xiao leaves the containment cell.]
+
+Footnotes
+
+1. Research has shown detection range to be a function of size of target, with a maximum effective range of approx 700 m.
+
+2. Human hosts report that this agent rapidly and totally inhibits voluntary movement for a period of at least 15 minutes. There is no associated anesthetic effect.
+
+3. For more details, see Document SCP-1707-6-E, experiments 1 through 23.
+
+4. While still a Field Agent, Researcher Dimaccio served as team leader in Agent █████'s MTF, Theta-90 ("Angle Grinders"), for a period of five years.
+
+5. Researcher Dimaccio designed Agent █████'s nutrition regimen.
+
+6. At this time, Researcher Dimaccio was acting project lead of Experiment Series SCP-1707-6-E.
+
+7. Researcher Dimaccio was responsible for the classification of SCP-1707 and subsequent designations of its experimental hosts.

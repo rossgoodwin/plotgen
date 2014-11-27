@@ -1,0 +1,53 @@
+Item #: SCP-2994
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2994-1 to -27 are to be kept in two standard Safe-class lockers. Intravenous feeding tubes and catheters should be connected at all times, except when testing. A veterinarian should monitor them to ensure their continued health. SCP-2994 instances and their containment lockers are to be cleaned daily. Testing requires permission from a Level 2 Researcher. SCP-2994-28 is to be kept in a separate locker, and monitored constantly.
+
+Description: SCP-2994-1 through -27 are externally identical to small whiteboards, brand unknown, with each being 40cm x 30cm x 5cm. Instances of SCP-2994 are alive, possessing internal organs. Genetic testing has revealed a strong similarity to Canis familiaris, or the domestic dog. Three orifices are present; one, on the back face, is used for egestion, another, situated on the forward face, for breathing, and next to it a third, which is used for sustenance intake. SCP-2994 instances possess no teeth, and it is theorised that they subsisted on liquid food before containment. The brains of SCP-2994 instances have been modified artifically1.
+
+Instances of SCP-2994 are inactive until a human writes on them with a dry erase marker pen, which causes them to display simple incomplete phrases in German. They accomplish this using chromatophores, which are most densely situated underneath the top face, forming a grid of lines in a similar configuration to a seven-segment display, which then illuminate in a way that forms letters. If no attempt is made to answer after marking it, the phrases will fade over the course of approximately two minutes. If the blanks are filled in incorrectly, the board will display an encouraging message, and if three mistakes are made, the board will fill in half of the missing letters. If the blanks are filled in correctly, the instance of SCP-2994 will congratulate the user, displaying messages such as "Wunderbar!" and "Fantastische!" (German for "wonderful" and "fantastic", respectively). If expletives are written on an instance, it will turn a bright red colour and emit a loud, high-pitched whistle until the expletives have been erased.
+
+SCP-2994-28 is similar to other instances of SCP-2994, but with far fewer augumentations to its brain and a cruder make up; the internal organs are more cramped, with some pushing against major nerve bundles. SCP-2994-28 is unresponsive to external stimuli, and manifests messages at irregular intervals in crude English. These messages all have similar themes (see addendum 2).
+
+Addendum: SCP-2994-1 through 27 were discovered in ██████ ███████ Elementary School in Moses Lake, Washington, when parents reported "talking whiteboards" in one class during an open house. When questioned, the children claimed that a German teacher, Ms A████ S█████████, had brought them in from home for use in their lessons three months prior. Grades had improved significantly for that class since. All individuals involved were administered Class-A amnestics, with the children exposed to SCP-2994 over the longer period being monitored for █ years in case of recollection.
+
+A raid on S█████████'s house by Foundation agents led to the discovery of SCP-2994-28, and several dog carcasses missing most of their internal organs. Some of the dogs were microchipped, and later identified as having gone missing between twelve and seven months prior to the raid. However, rates of decomposition pointed to them having died between eight and four months prior. An exception was a dog traced to S█████████ herself, which had been killed fourteen months earlier. As of ██/██/20██, attempts to trace S█████████ have been unsuccessful.
+
+Addendum 2: Sample texts manifested by SCP-2994-28 during containment. Grammar and spelling have been unaltered.
+
+Date
+
+Text
+
+12/06/05
+
+are you there
+
+04/11/09
+
+it hurts
+
+13/09/11
+
+please make it stop
+
+02/12/13
+
+i dont know what i did rong but im sorry
+
+21/03/14
+
+please help me
+
+31/06/14
+
+kill me
+
+12/08/14
+
+i still love you
+
+Footnotes
+
+1. For current leading theories on the origin and precise effects of SCP-2994 brain modifications, see: Cambridge, Jack, “Tabula Rasa: Neurological Modification As Present In SCP-2994” Biophysics: An SCP Foundation Journal (2010): 359.

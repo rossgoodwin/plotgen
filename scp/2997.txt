@@ -1,0 +1,33 @@
+A nuclear shadow
+
+Item #: SCP-2997
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2997 is to be stored in a high value observation chamber. It is to be placed on a pedestal in the center of its chamber, and every surface is to have cameras installed as to monitor the activities of SCP-2997-2. In the event that SCP-2997's tracking chip exits Site-242, Mobile Task Force Lambda-37 ("Geiger Counters") is to be dispatched immediately in an effort to retrieve SCP-2997.
+
+Description: SCP-2997 is an ornate urn constructed of smokey quartz1 originating from Japan in the sixteenth century. It absorbs all forms of radiation coming into contact with it except for visible light. There are two Japanese inscriptions on SCP-2997 that read, "Remember that you are dust, and to dust you shall return." and, "They believed."
+
+SCP-2997-1 is a pile of human ashes contained within SCP-2997. It constantly releases a varying amount of gamma radiation. The amount of radiation released at any given point has ranged from lethal to infinitesimal.
+
+SCP-2997-2 is a collective designation for a group of two-dimensional figures that may be seen on any surface with a direct line of sight to SCP-2997. Instances of SCP-2997-2 resemble nuclear shadows2 of human beings of variable age, gender, height, weight, etc. Instances of SCP-2997-2 can be seen performing many different actions, but the most common ones resemble praying at an altar, treating burns, conversing, or attending what resembles a Roman Catholic mass. All attempts at communication with instances of SCP-2997-2 have been unsuccessful.
+
+SCP-2997 was found in the basement of The Church of St. Joseph in Omura, Japan where it was being used as a centerpiece in a shrine. The search was launched following multiple reports of an "Urn of Souls" in a church somewhere near Nagasaki, Japan. A squad from Mobile Task Force Chi-3 ("Exorcists") was dispatched to ascertain the existence of and retrieve it. Upon arrival at the Church of St. Joseph, MTF Chi-3 was attacked by a member of the congregation who was praying at the shrine containing SCP-2997 at the time. He was successfully sedated and all witnesses were questioned about SCP-2997 before receiving amnestics. The head priest at The Church of St. Joseph produced a burned piece of parchment from a safe and claimed that he found it and SCP-2997 resting on a piece of the altar from Urakami Cathedral3 under a small pile of rubble. A transcript of the document can be found in addendum 2997-02.
+
+Addendum 2997-01: On ██/██/██ an instance of SCP-2997-2 resembling Canis lupus familiaris4 was seen walking with two instances of SCP-2997-2 that resembled men carrying rifles.
+
+Addendum 2997-02: A transcript of the document recovered with SCP-2997:
+
+Jesus said to her, "I am the resurrection and the life. He who believes in me will live, even though he dies; and whoever lives and believes in me will never die. Do you believe this?"
+
+Below the words are the seals of the archangels Michael, Raphael, and Gabriel.
+
+Footnotes
+
+1. A variety of quartz whose coloration comes from free silicon formed by irradiation acting on silicon dioxide.
+
+2. A phenomenon caused by an object or life form absorbing the radiation from a nuclear blast that would normally have a bleaching effect on a surface located behind it, resulting in a dark area ("shadow") wherever the object or life form blocked the radiation from bleaching.
+
+3. Urakami Cathedral was a Roman Catholic cathedral located 500m away from the epicenter of the nuclear explosion over Nagasaki. It was in mass at the time of the bombing and all inside were killed.
+
+4. Domestic dog.

@@ -1,0 +1,57 @@
+SCP-546
+
+Item #: SCP-546
+
+Object Class: Safe
+
+Special containment procedures: SCP-546 is to be contained in a secured lock box. Access is restricted only to Level 2 research staff directly assigned to SCP-546. A full log of all used sheets, date used, inscribed data, and subject exposed is to be kept along with SCP item. At no point should SCP-546 or any of the sheets leave the quarantine room.
+
+Description: SCP-546 consists of a single pad of spiral-bound, lined, ████ brand note paper. SCP-546 measures 15 cm x 23 cm, and currently consists of 57 sheets out of the original 60. Besides its anomalous effects, the item has no other outstanding characteristics.
+
+When a subject inscribes on SCP-546 with any writing instrument, they begin to experience a cognitive breakdown. Any inscribed word or phrase will begin to interject itself into the subject’s speech and writing. The frequency of the phrase will continue to rise over the course of time. After approximately 24 hours, the subject is unable to write and speak anything else other than the phrase they had written down. Removal of sheets does not affect the properties of the item.
+
+Although there is serious mental distress from losing the ability to communicate with others, affected subjects have been shown to be able to continue living on with their new disability. Cognitive abilities are not directly affected, and subjects are able to nod and shake their heads in response to simple “Yes/No” questions.
+
+Experiment log:
+
+Subject: D-Class 546-3931
+
+Sheet: 55
+
+Date: 02/12/██
+
+Phrase: ”South Dixie Drive”
+
+Subject 546-3931 was then asked to read from The Canterbury Tales out loud. About 30 minutes into the novel, the subject interjected the phrase “South Dixie Drive” directly into her dialogue. She was assured that this would be normal, and asked to continue. The phrase came up again at the 45 minute mark. By this time, subject 546-3931 refused to keep reading and asked to see a doctor. Frequency continued to escalate over the next 14 hours, when the subject was sedated due to a violent outburst at an assistant. When the subject woke up 8 hours later, her vocabulary consisted entirely of the phrase “South Dixie Drive”.
+
+Subject: D-Class 546-3931 (repeat subject)
+
+Sheet: 55
+
+Date: 02/15/██
+
+Phrase: ”The quick brown fox jumped over the lazy dogs”
+
+Subject 546-3931 was instructed that writing the above phrase on SCP-546 would cure her current condition. Subject was unable to write down the phrase.
+
+Subject: D-Class 546-3880
+
+Sheet: 55
+
+Date: 03/02/██
+
+Phrase: ”Bread; Eggs; Milk; Cheese”
+
+Subject 546-3880 is a Hispanic male whose primary language was Spanish. After writing down the test phrase, the subject was asked to sing the words to the Spanish version of “Happy Birthday” out loud until asked to stop. The first instance of the phrase occurred in English after approximately 25 minutes. The subject was calmed down, and then asked to continue singing the song, except this time in English. This time, the phrase did not occur until after 2 hours had passed. A written test phase later did not produce the same anomaly.
+
+Subject: D-Class 546-3950
+
+Sheet: 55
+
+Date: 03/24/██
+
+Phrase: ”555-1234”
+
+Subject 546-3950 is a deaf individual who lost his hearing a few years before arriving at the Foundation. Although written text follows the same pattern as above, his ability to sign was never affected. After several weeks of monitoring 546-3950, it was determined that his ability to use sign language was unaffected by SCP-546.
+
+"Sign language classes are being provided to subjects 546-3931 and 546-3880 to further study the effect of SCP-546." ~Dr. ██████

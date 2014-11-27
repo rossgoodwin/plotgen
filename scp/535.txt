@@ -1,0 +1,43 @@
+SCP-535, filled with active SCP-535-1 after coming into contact with a radio broadcast
+
+Item #: SCP-535
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-535 is to be kept in a secure storage room at Site ██. Standard positive-action defenses (explosive, chemical, biological, and memetic) are to be in place at all times, according to standard operating procedure. SCP-535 itself is to be placed in its own containment unit, a soundproofed lead-lined steel box of dimensions 4m x 4m x 4m and of thickness no less than 5cm at all points. SCP-535 is secured to a pedestal in its containment unit such that it is positioned in the centre of the box. No memetic-based SCPs are to come into contact with SCP-535. No liquid is to come into contact with SCP-535 except under controlled testing circumstances; to facilitate this, the containment unit should be sealed and contain backup dehumidification apparatus. SCP-535 should not be handled directly except under controlled testing circumstances. If the need to handle SCP-535 arises, it should only be performed by one personnel of level 3 clearance or higher, with no other individuals present in the immediate area and with mechanical apparatus to prevent being within 1m of SCP-535.
+
+Description: SCP-535 appears to be an ordinary 250mL borosilicate glass laboratory beaker. It was recovered from an abandoned storage facility in ██████████, USA. SCP-535's origin has been traced to a glassware factory in ████████████ owned by the ██████████ Corporation. Save its manufacture of SCP-535, no evidence of any extranormal activity has been found in relation to said factory or corporation.
+
+All liquid touching the inner surface of SCP-535 will immediately transform into a pale, translucent liquid of viscosity 1.511 cP (approximately the viscosity of mercury) from hereon designated as SCP-535-1. Other forms of matter are not affected. Analysis of SCP-535-1 has revealed that it is composed of approximately 36% water; however, the remaining 64% encompasses 14 previously unknown substances. It is fit for human consumption (disregarding the non-chemical effects of SCP-535) and produces no visible reactions. When SCP-535-1 is poured out of SCP-535 and comes into contact with a solid or liquid surface, it instantaneously evaporates, leaving no discernible trace.
+
+When various forms of information storage or transmission comes within 1m of SCP-535-1, SCP-535-1 will 'activate' and change colour depending on the nature of the source. The following colours have been observed;
+
+Red - all digital media (computers, compact discs etc.)
+
+Orange - radio waves
+
+Yellow - sound waves
+
+Lime green - photographic film
+
+Blue - text and physical visual imagery (the precise hue of blue has been observed to change depending on the medium the text or images are transcribed on)
+
+Purple - magnetic tape
+
+White - the human brain
+
+Black - [DATA EXPUNGED]
+
+Analysis of activated SCP-535-1 shows it to be chemically identical to inactivated SCP-535-1.
+
+SCP-535-1 appears to 'absorb' information from its surroundings. If activated SCP-535-1 is poured out of SCP-535, it will subsequently 'transmit' the data it has contained to whatever it lands on, if it is compatible in some way. For example, if activated SCP-535-1 comes into contact with a computer and is then poured onto a different computer, the information from the first computer will be copied to the second. If activated SCP-535-1 was poured onto any non-digital device in this case, there would be no effect. In both situations SCP-535-1 would evaporate and disappear. The amount of SCP-535-1 utilised appears to have no effect, and multiple 'transmissions' of data can be made by conserving the contents of SCP-535. Pouring activated SCP-535-1 on the device which initially activated it has no effect.
+
+The various forms of electromagnetic waves able to activate SCP-535-1 will be retransmitted to the surroundings regardless of the object SCP-535-1 is poured on.
+
+Physical text and images will be transcribed onto any solid surface in the areas where SCP-535-1 is poured onto (note that text displayed on a digital screen is considered digital media rather than print). This is invariably in the same medium the text was originally written in. Any large collection of text is usually unreadable, as it is resized to fit inside the area in contact with SCP-535-1 and only a relatively small amount of SCP-535-1 is available at any one time due to SCP-535's small size.
+
+When a living human comes within range of SCP-535-1, SCP-535-1 turns white. However, human memories and thoughts are not retransmitted with the same efficiency as other information. The effects of pouring active white SCP-535-1 onto another person are highly unpredictable. In benign situations, the subject may acquire a minor fact or memory. Far more common, however, is mental illness, including but not limited to schizophrenia, dissociative identity disorder, severe anxiety or generalised hallucinations. Schizophasia is also a common effect. In the most extreme cases coma followed by death may occur. So far no pattern has been discerned as to the potential effects of active white SCP-535-1. Further testing with caution is warranted.
+
+The mental contents of other beings do not affect SCP-535-1, with the exception of [DATA EXPUNGED] resulting in [DATA EXPUNGED]
+
+Addendum: Dr. ██████████ has suggested using the replicative properties of SCP-535 with regards to physical media to reproduce substances of value to the Foundation. This proposal has been approved by O5-2 and preliminary experimentation has been scheduled.

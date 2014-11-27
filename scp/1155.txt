@@ -1,0 +1,47 @@
+SCP-1155 after relocating to an abandoned subway station
+
+Item #: SCP-1155
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1155 is currently contained in a disused parking lot adjacent to an abandoned shopping centre in the ███ █████ city metropolitan area. The building is to be marked condemned, and access to both it and the car park should be restricted by Foundation personnel posing as security guards from the █████████ ████ front company. Civilians are to be deterred from entering the site and supplied with Standard Cover Story 47 – “Structural Instability/Sinkhole” if they enquire as to why. SCP-1155 must be kept under constant observation by motion-tracking security cameras. If SCP-1155 is observed to vanish, Mobile Task Force Pi-1 ("City Slickers") should be notified immediately. Personnel should not routinely attempt to view SCP-1155 directly; observation must be conducted remotely.
+
+Whatever flat surface that SCP-1155 is currently inhabiting should be obscured from view by any standard Class II enclosed mobile containment unit, or, in situations where this cannot be effected in a timely fashion, by obstructing it with a vehicle, storage container, or displaced rubble; provided that this can be done without damaging a 3 (three) meter area around SCP-1155’s image. Following Incident 1155b, it has been observed that completely enclosing SCP-1155 has a tendency to hasten a relocation event. Revised procedures now recommend the evacuation of the immediate area surrounding SCP-1155 to the minimum distance necessary to prevent contact with the general public, unless SCP-1155 manifests in a high visibility location or anywhere where preventing public egress is impossible.
+
+At the present time, SCP-1155 cannot be permanently contained by any known means. Approximately every 2-4 months, SCP-1155 has been observed to spontaneously relocate itself to other urban environments, moving as little as 15 meters from its current position up to a maximum observed distance of 800 kilometers. These relocation events can also be triggered by:
+
+Damage to the surface that SCP-1155 adheres to,
+
+Interruption of an attack,
+
+Any attempt to reduce the size of SCP-1155's confinement space to prevent visual contact.
+
+Therefore, current containment efforts are centered around swiftly ascertaining SCP-1155's new location and isolating it from public view. When such a relocation event occurs, Mobile Task Force Pi-1 should be immediately deployed alongside local assets to locate the new site as quickly as possible, re-implement containment procedures, and detain any witnesses. Survivors of attacks should be detained, uninjured witnesses may be administered Class-A amnesiacs and then released.
+
+Description: SCP-1155 manifests as a work of street art/graffiti depicting the form of a humanoid creature with sinewy forelimbs, claw-like hands and the head and feathers of an owl. The depicted pose is variable, but tends towards a predatory stance, with eyes that appear to track the viewer.
+
+Anyone viewing this image directly will experience a compulsion to investigate it further. Victims describe a nervous fascination and a desire to move closer. This can be resisted with effort, especially if the subject is aware of SCP-1155’s anomalous properties.
+
+If a subject approaches to within two (2) meters and is not in the line of sight of another person, they will be subjected to a violent attack, suffering severe lacerations, dismemberment of extremities, whole or partial removal of soft body parts, and penetrating head trauma consistent with those that would be inflicted by a large beak and/or talons. The attack generally takes about 6 seconds to conclude, upon which both SCP-1155 and the victim will vanish, and SCP-1155 will reappear elsewhere in the usual manner of a relocation event within seven (7) days. Attacks can be halted before this event by reestablishing line of sight to the victim, but this is not recommended. (See record of Incident 1155a). Attempts to track where the victims are taken by equipping test subjects with GPS locators have failed.
+
+Based on tested interruptions performed at predefined intervals, the attack follows a defined pattern- the victim will first be restrained, and the eyes and tongue will be removed, rapidly followed by the amputation of the hands and feet. The victim will then be disemboweled and the intestines and stomach removed. Death usually follows due to shock or rapid exsanguination, but only if the attack is interrupted by visual contact; the fate of victims who disappear along with SCP-1155 at the conclusion of the attack is unknown.
+
+Addenda:
+
+Incident 1155a
+
+Incident 1155a:
+
+Two surviving Class D personnel used for 'attack interruption' tests were given medical treatment and kept alive in the aftermath of the event. Both were incoherent and could not adequately communicate what had happened to them, though D-89786, whose eyes were removed during the attack, claimed to still be able to see, and provided a description of a "larder" containing bodies of previous victims of SCP-1155, along with the entity itself.
+
+D-89786 escaped from on-site quarters during a containment breach by SCP-███, and was pursued by local law enforcement in nearby ██████ who were told he was a severely disturbed patient from a local mental hospital. Officer ████ reports they saw the suspect walking in to an alleyway, but before they could apprehend, a scream was heard and when they rounded the corner it was found that D-89786 had disappeared; the alleyway was a dead end with no visible exits.
+
+D-89789 (both eyes, tongue, hands and feet removed before attack halted) was successfully transferred to Site ███. A period of rapid relocations was noted in SCP-1155, where it was observed in several public places with a posture that suggested hunting/tracking behavior. SCP-1155 appeared for several hours high up on the side of the ██████ Building, in full view of many witnesses, who fortunately could not access it. In view of the difficulties of containment, Site Command made the decision to bring D-89789 back into the city. SCP-1155 was observed to appear several times on walls, advertisement boards, and bridges along the transport vehicle’s path. D-89789 was observed to become increasingly agitated and hysterical during this process. D-89789 was transferred to a remote location on the edge of city limits, placed in front of SCP-1155, whereupon visual contact was broken. SCP-1155 and D-89789 disappeared, and SCP-1155 resumed previous pattern of manageable relocation behavior.
+
+Incident 1155b
+
+Incident 1155b:
+
+Elements of Mobile Task Force Pi-1 located SCP-1155 in abandoned subway station after most recent relocation event. Team Leader █████████ made the decision to obscure SCP-1155 with a vending machine until more containment resources arrived, on the basis that there were not enough task force members on site to guarantee a secure perimeter, and local transients were known to use the area for shelter. SCP-1155 immediately displaced to a nearby children’s playground, causing █ casualties before it could again be located. Due to highly public nature of this location, decision was made at Command level to again provoke a displacement event, resulting in the current containment location. Containment at the current location was expensive, requiring that an entire shopping centre be acquired by the Foundation and then subsequently closed, but the revised containment procedures have resulted in the longest time since a relocation event to date.
+
+The last few containment locations may point to a disturbing trend. Previously, SCP-1155 seemed to have a pattern of appearing in low traffic urban areas, often abandoned buildings or quiet underpasses. At risk of anthropomorphism, it appears to have become emboldened and will now readily appear in public spaces, which makes containment difficult. Over the objections of the containment team, leave the damn thing uncovered. Better we lose a few urban explorers or nosy kids every couple of years, rather than risk having it abduct more people before we can locate it each time. – Dr █████

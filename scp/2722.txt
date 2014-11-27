@@ -1,0 +1,59 @@
+Item #: SCP-2722
+
+Object Class: Euclid
+
+Special Containment Procedures: Foundation Orbital Research Compound (FORC)-04 has been established in a Lissajous orbit about the L4 Lagrangian point where SCP-2722 is located. Foundation assets are to liaise with all global space programs to ensure that any spacecraft which pass close enough to L4 or FORC-04 to detect SCP-2722 have their mission data suitably altered or deleted. In order to minimize the risk of accidental detection of SCP-2722 by previously-intercepted craft, the object's albedo plating is to be maintained in a deployed state except during transfer of personnel. Several re-purposed orbital monitoring satellites have been redeployed in orbit about SCP-2722 to assist with mapping efforts.
+
+For the purpose of exploring and studying SCP-2722, two Orbital Task Forces, OTF मा-7 ("Rama Repairmen"), and OTF मा-12 ("Navigators") have been stationed on FORC-04. OTF मा-12 is charged with mapping the interior of SCP-2722 and cataloging useful inscriptions, while OTF मा-7 undertakes the analysis of recovered SCP-2722 technologies.
+
+While the SCP-2722-1 effect is not considered to be contagious, any and all personnel leaving the immediate vicinity of SCP-2722 or FORC-04 are to be administered Class-C amnestics and standard counter-memes to minimize the risk of potential spread.
+
+Supplementary Containment Procedures, Level-4/Heimdall Access Only
+
+Hide Containment Procedures
+
+At least two Level-4/Heimdall-cleared personnel shall be stationed on FORC-04 at all times. In the event that a Heimall CASE TRUE scenario should reach Threat Level Black (>50% civilian casualties, concealment unlikely) or higher, SCP-2722 is to be treated as a Type-5 Defensive Resource and should be brought to full activated status immediately. In the event of such a scenario, SCP-2722 is to be reclassified as Thaumiel. For further details, see Heimdall Operating Plan 2722-REBUILD.
+
+Description: SCP-2722 is a partially-completed spacecraft currently in orbit about the L4 Lagrangian point. The vessel, in its current state, is 25.3km long and 6km across at its widest point, though due to its state of partial deconstruction its final dimensions are unclear. Most of SCP-2722's outer hull is coated with a series of retractable graphene plates with an albedo of 0.03, apparently serving as an anti-detection measure. How SCP-2722 regulates heat absorbed by this plating is currently not understood. The only prominent markings on the outer plating are a series of letters in 647-meter-tall block printing, using an unknown pictographic script, which SCP-2722-1 (See below) generally translates to "Vessel Built by an Organization for Maintaining Normalcy: SOLIDARITY".
+
+Buildup of cosmic dust on the object's outer surfaces indicates the vessel has been present at its current location for at least 150 million years; the means by which the stability of its orbit is maintained is unclear. The object does not appear to have undergone any major meteorite impacts or collisions, though there is limited evidence of micrometeorite impact damage on the bow plating.
+
+SCP-2722 appears to have been constructed and reconstructed by a wide variety of cultures and societal entities, giving its hull shape a distinctive 'patchwork' appearance. Many of the vessel's installed components appear to be designed to maximize modularity and easy of modification, and there is evidence that the vessel has been entirely disassembled and reassembled into wholly different configurations at least four times, and may at one point have been destroyed by cataclysmic internal explosions before being reconstructed.
+
+Much of SCP-2722's internal volume is contained in a series of modules which have been detached from the vessel's main hull, apparently in preparation for dismantling or retrofitting. These modules include living spaces, weapons arrays, a diverse variety of power plants and propulsion systems, and range in volume from 2m3 to over 11km3. Currently, the primary hull of SCP-2722 is known to be fitted with 36 distinct propulsion systems, ranging from simple solid-fueled rockets to highly advanced xenon thrust devices. The largest single propulsion system is a series of 8 heavily-reinforced dish-shaped armour plates mounted near the stern, apparently constituting the 'pusher-plate' component of a nuclear pulse propulsion drive. SCP-2722 is currently powered by 45 catalogued electrical power systems, most of them derivations of conventional nuclear fission or fusion concepts. How the vessel's power system remains stable and functional despite its great age is currently unknown. For further information on SCP-2722 technologies and recovered artefacts, see Document 2722-मा-7A, Recovered Materials.
+
+SCP-2722-1 is a memetic carrier effect which alters human perception of any piece of written material brought within a 27.8-km radius of SCP-2722 or any original component thereof. SCP-2722-1 alters the comprehension of written language; anyone exposed to SCP-2722-1 gains a comprehension of the intent of any piece of writing they are exposed to. This effect extends only to the comprehension of meaning; test subjects exposed to simple messages in languages they did not know were able to accurately grasp the meaning of those messages with an average accuracy in excess of 95%, but were unable to demonstrate any understanding of the phonemes associated with their written characters. As comprehension via SCP-2722-1 is inherently abstract, translation of writings using SCP-2722-1 tend to vary on an individual basis.
+
+SCP-2722-1 has allowed for the interpretation of the significant amount of written material found within SCP-2722, mainly in the form of graffiti or inscriptions on surfaces. Most messages appear to have been left during expeditions into SCP-2722 by unknown parties, and generally take the form of technical commentaries, directions, or general advice on the nature and function of SCP-2722 machinery. To date, inscriptions have been found in 351 distinct languages or scripts, with the total number believed to be significantly higher. It is unclear how the inscriptions have remained intact, given their great age.
+
+Supplementary Information: SCP-2722 Inscriptions
+
+Hide Document
+
+Document: Extract from OTF मा-12 Briefing by Agent J████ S███████.
+
+I know many of you have joined the team because of your experience navigating unusual spatial topologies or extradimensional spaces. These skills will be valuable, but when you're exploring the Solidarity it's worth remembering that the ship itself isn't actually anomalous. That's right. The anomaly here is that the ship exists at all. As far as we can tell, none of the technology incorporated into her is totally beyond our comprehension; sure, there's lots of unusual machinery, but nothing in there will actively try to harm or injure you. The main problem with navigation is that this ship is, for lack of a better word, a maze.
+
+Not a deliberately constructed one, mind you. Each module has its own systematic organization. Each component was logically put together by whoever or whatever built it; it's when they tried to integrate their design into the overall whole that they ran into problems. This ship has been built and rebuilt so many times that it's a wonder we can find our way around at all. There are sections built for beings capable of flight. Ones for aquatic life forms. Sections built by what we're fairly certain was something like a colony of sentient ants. It's taken us years of work to just map out a tiny portion of the ship, and the only reason we've got that far is the writing on the wall.
+
+You've already been briefed about 2722-1, so I won't go into much detail beyond telling you to take advantage of it. We're not the first group to try to map out 2722, and I'm certain we're not the last. We're extremely lucky that those who came before us were, whatever their species or intelligence might be, professional. To some degree, at least. They left thorough signage and labelling everywhere. Now, oftentimes this signage will disagree with itself, depending on whatever wrote it and how the ship was laid out. You'll learn to identify the different groups and what they tended to write about. The Giants- we call them that because they seem to have been at least 12 feet tall- look to have been pretty good with propulsion systems. You'll find their writing near engines and power plants, and it tends to be very accurate. The Mappers liked to draw, but their 'vision' seems to have been based on radio waves so the maps they produce are difficult to interpret. I could list dozens of other examples, but what it all boils down to is this; knowing your graffiti is the difference between mapping a new sector of the ship and accidentally walking into a nuclear reactor chamber built by a species immune to radiation poisoning.
+
+Of particular note is a message written on a 50cm x 50cm brass plaque mounted in what appears to be SCP-2722's primary bridge or control centre. This message, written in a language visually similar to late Sumerian cuneiform, claims to be from the previous overseers of SCP-2722 and is one of the few instances of printed images discovered within SCP-2722.
+
+Document: SCP-2722 Bridge Plaque.
+
+Show Document
+
+Hide Document
+
+Note: While numerous alternate interpretations of the following text exist, this translation is generally considered to be the most definitive by FORC-04 personnel.
+
+Greetings to you, our counterparts from elsewhere. We are certain that you must be as bewildered as we were upon discovering this artefact and gaining insight into its purpose. No doubt you may be suspicious of its origins, as we were, and rightfully so. The universe is a dangerous place, as we are sure you know full well.
+
+We are not certain of where this great vessel originated from. Nor were our predecessors who passed the ship on to us, or those before them. What little we do know is this; the vessel Solidarity only appears in those realities in which an organization exists to preserve normalcy and to prevent the balance of power on their home planet from being disrupted. As far as we know there is only one Solidarity, and it has changed hands and forms innumerable times.
+
+It appeared to us a long time ago, and was ignored until such time as we faced a great threat from beyond the confines of our solar system. Whether this threat was attracted by the vessel, we cannot be sure, but it was sufficient to preserve the stability of our people and ensure our continued survival. We were forced to modify to fit our needs, as many before us obviously have, and it functioned beyond all expectations. As this message is being written, it is becoming increasingly obvious that the vessel, no longer needed, will soon depart this universe; our understanding is limited, but that much is clear.
+
+So, then, to you, whoever you are, we, the people of Earth, and the Sixth Echelon of the Foundation for Anomalous Suppression, wish you luck in all your future endeavours. We end this message by reminding you what we were reminded of in the message we received; no matter the distance or gulf of time between us, so long as we seek to preserve our existence we are never truly alone.
+
+Attached to the bottom of the message is an engraving of 13 individuals, simian in appearance and possessing distinctive sagittal crests, all dressed in identical uniforms. The individuals stand in a semicircle behind an image of a planet visually similar to the Earth, with the exception of a large landmass at the north pole and the presence of a series of islands extending westwards from the Straits of Gibraltar.

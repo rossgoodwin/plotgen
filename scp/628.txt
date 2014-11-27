@@ -1,0 +1,33 @@
+SCP-628-22
+
+Item #: SCP-628
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-628 is contained in Bio Research Site-104, built on-site at █████ ██ ███████. The perimeter of its containment is to be clearly marked by a circle of 3-m wire fence no less than 1 km from the perimeter of the copse. Non-Class-D personnel are not to enter the perimeter without appropriate hearing protection and seismic sensors. Protective gear sufficient for all personnel on-site must be available at all times. All structures on-site, and especially the listening post constructed just outside the perimeter fence, must conform to the stringent earthquake- and wind-proofing building codes laid out in Document 628-03.
+
+Personnel assigned to Site-104 should preferably be selected for a low absolute threshold of hearing. All newly-assigned personnel should be briefed on the visual and emotional effects of infrasound. A brief training course on distinguishing these effects from normal human affect is to be made available on-site.
+
+The weather at Site-104 must be monitored carefully. In the event of a sudden increase in wind speed, the presiding researcher is to be notified. In the event that any winds in excess of 50 km/hr are observed, all personnel are to evacuate to Site-104's soundproofed shelters. Observation may be continued via ground sensors, remote drones, or D-class personnel.
+
+Botanical personnel stationed at Site-104 are to monitor SCP-628 and and maintain it in good health. Regular consultation with MTF Theta-4 ("Gardeners") has been scheduled for this purpose.
+
+Description: Above the soil surface, SCP-628 consists of a copse of 31 large, hollow American sycamore (Platanus occidentalis) trees, with trunks from 224 to 455 cm in external diameter. The copse is a colonial organism: below ground, the trees are linked by massive, hollow woody stolons. These "runner trunks", which lie roughly 2 m below the soil surface, connect the base of each trunk to between three and seven of its neighbors. An average stolon is 2 m in diameter and completely hollow. Above ground, the trees never produce leaves, flowers, or fruit, although their bark is photosynthetic in summer (as is typical for P. occidentalis). The individual trunks are designated SCP-628-1 through -31.
+
+All major aboveground trunks have at some point been broken off; their truncated ends serve as openings to the trees' shared internal cavity. Each member of SCP-628 is oriented geographically such that the prevailing winds at the site tend to blow directly across these openings, producing considerable Helmholtz resonance. Observation by remote camera has revealed contractile structures superficially resembling animal sphincters, located at numerous points inside SCP-628's trunks and branches, each capable of restricting or blocking airflow to a particular large branch.
+
+The trunks' internal diameters and wood structures differ enough that each resonance chamber thus created, when sealed off from the others and subjected to sufficient wind, produces a different pitch. On average, each tree has 3 resonance chambers; the copse can produce 93 notes in total. Its tonal range is equivalent to that of a pipe organ, although much of it lies in the low bass and infrasound. The notes correspond to a Western chromatic scale.
+
+SCP-628 is capable of isolating any given resonance chamber within 0.2 seconds, quickly enough to play recognizable music. Under sufficiently windy conditions, it does so spontaneously. The copse's repertoire includes numerous works composed for pipe organ between 15██ and 18██, as well as a number (██ recorded to date) of previously unknown compositions. Level-2 personnel and above may refer to Site-104's database for recordings of ██ "original works".
+
+The sounds produced by SCP-628 are not anomalous beyond their origin. Ordinary infrasound, however, has been shown to cause feelings of fear, awe, sorrow, anxiety, and disorientation. Sound waves at or very near 18 Hz, the resonant frequency of the human eye, can also produce simple optical illusions. Since the sound is only audible under ideal conditions, exposed personnel frequently ascribe supernatural causes to these sensations.
+
+Incident 628-023: On 04/04/20██, as part of an approved test overseen by Dr. O█████ G████, 2 D-class personnel equipped with chainsaws attempted to harvest SCP-628-8. Approximately at the moment of contact between the chainsaw blade and the item's bark, the local wind speed began increasing, from 9 km/hr to 77 km/hr in less than 80 seconds. SCP-628 activated accordingly, playing at roughly 150 dB a piece later identified as an augmented version of J.S. Bach's "Fugue in █ Minor". While it remained active, personnel across Site-104 experienced affective and physical disturbances consistent with the effects of high-decibel infrasound. On-site seismometers recorded the equivalent of a Richter magnitude 0.63 earthquake.
+
+Anomalous weather activity persisted for another █ minutes ██ seconds, exactly the duration of the fugue being played. Wind speed and cloud cover quickly returned to normal once the piece concluded.
+
+In accordance with containment protocols, experimentation had been suspended shortly after confirmation of anomalous weather activity; SCP-628-8's trunk had been almost halfway severed at that point. When Dr. G████ and the research team returned to SCP-628-8 five hours later, however, they observed that the damage to the item's trunk had begun to heal, smoothly and [DATA EXPUNGED] in a manner inconsistent with known patterns of plant growth.
+
+Incident 628-024: On 05/04/20██, events substantially similar to those reported in Incident 628-023 occurred, with the significant difference that SCP-628-8's trunk, which had healed entirely in the intervening hours, was completely severed before evacuation. The item was partially toppled in the wind before being caught in the branches of its neighbor, SCP-628-15. The damage to SCP-628-8's trunk healed entirely over the following 24 hours, although the item did not right itself in the process. [DATA EXPUNGED] tension wood of considerable interest to the presiding researcher.
+
+Dr. G████ was reprimanded for recklessness.

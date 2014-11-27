@@ -1,0 +1,81 @@
+Picture of SCP-1895 before being seized by the Nevada Gaming Control Board.
+
+Item #: SCP-1895
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1895 is contained within a standard safe-class containment cell equipped with one 120V AC power outlet to facilitate testing. SCP-1895 should be unplugged and unpowered when not undergoing testing.
+
+All instances of SCP-1895-A created should be filed with Site-52's central document repository for analysis.
+
+Addendum: All testing of SCP-1895 is suspended until a method is developed to test for possible changes in causality due to SCP-1895's effects.
+
+Description: SCP-1895 is a modified 3 reel "Wheel of Fortune" slot machine manufactured by International Game Technology. The serial numbers have been removed from the machine, hindering attempts to determine provenance.
+
+SCP-1895's anomalous effects manifest when it is touched by a living human being while it is powered and in an inactive state. The object will not activate a second time for anyone that has previously activated the device. Once activated, 1000 credits will be credited to the machine1 and it will become playable as per standard rules of non-anomalous versions of the machine2. SCP-1895 will retain memory of the number of credits it is set to despite loss of power or disassembly.
+
+The second anomalous effect will occur once the payout button is depressed. Once payout is selected the machine resets to 0 credits3 and a claim ticket (SCP-1895-A) is generated.
+
+Instances of SCP-1895-A lists the name of the person that activated SCP-1895, the final number of credits, and a personalized message. These messages will generally either have a congratulatory or consolatory tone based on the final number of credits when the instance was generated. In most cases, a positive or negative event in the individual's past is detailed, including events that the subject had not known of beforehand. In 12% of SCP-1895-A messages recorded, an event is specified followed by details of what might have occurred if that event had an alternative outcome. In 8% of recorded cases, possible future occurrences are alluded to. Experiments have been inconclusive as to whether SCP-1895 has predictive abilities.
+
+SCP-1895 was originally located in the McCarran International Airport located in Clark County, Nevada. It was seized by the Nevada Gaming Control Board following complaints of a rigged game. The Foundation recovered the object and distributed class D amnestics to affected users and enforcement agents who had been exposed to SCP-1895.
+
+Addendum-1895-A-EL-S: The following are examples of SCP-1895-A instances generated during experimentation. All experiments were performed using D-Class to activate SCP-1895 unless otherwise noted.
+
+SCP-1895-A-001
+
+Name: J███ M█████
+
+Credits: 1000
+
+Nothing ventured, nothing gained.
+
+Name displayed is the legal name of D-54003. Instance was generated after immediately selecting the payout option after activating SCP-1895.
+
+SCP-1895-A-005
+
+Name: The [REDACTED]
+
+Credits: 1201
+
+Congratulations, they didn't find all of the bodies. You only received 3 life sentences.
+
+Name was an alias used by the press to describe D-09345 before his apprehension, who was serving 3 life sentences before induction into the D-Class program.
+
+SCP-1895-A-007
+
+Name: T████ "█████" L██████
+
+Credits: 971
+
+Bad news, all that worry about when (or rather if) you're going to get out has given you an ulcer.
+
+A medical examination of D-09432 did confirm the presence of a previously undetected ulcer.
+
+SCP-1895-A-012
+
+Name: R██████ C██████
+
+Credits: 256
+
+A terrible ending. Of all the times to get stuck with mashed carrots, you had to eat them for your last meal.
+
+D-54322 broke testing protocol and read the generated instance of SCP-1895-A. After this, he became distressed and assaulted security personnel on hand for testing and attempted to leave SCP-1895's containment cell. He was terminated during the struggle. Testing protocol was changed to remove D-Class from the containment room after activation of SCP-1895.
+
+SCP-1895-A-019
+
+Name: D-█████
+
+Credits: 615602
+
+CONGRATULATIONS! You are the big winner! Instead of killing your kid sister in a tragic accident, causing your parents to break up and you embarking on a life of crime until you ended up in the D-Class program, you got to have a stable home and a background studying at a prestigious university before joining the Foundation!
+
+Research Assistant M███████ was used for this test run when the progressive jackpot was hit. SCP-1895 began emitting colored streamers from the claim check slot for approximately two minutes. Following this the above SCP-1895-A instance was generated, and SCP-1895 was reset as though the payout button had been pressed. No record of D-█████ was located in Foundation records. Assistant M███████ is currently being held per the zero tolerance escapee policy, and all testing suspended until the full nature of SCP-1895's effects can be determined.
+
+Footnotes
+
+1. Activating SCP-1895 is the only method to register credits on the machine. The coin and bill acceptance mechanisms have been plugged rendering them inert, and attempts to bypass those mechanisms have failed.
+
+2. There have been no discernible differences in outcomes between cases when the individual activating SCP-1895 uses it and cases when a second party does so.
+
+3. Experiments have failed to exhaust all credits from the machine during normal play, despite two separate attempts to do so.

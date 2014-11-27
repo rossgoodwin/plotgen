@@ -1,0 +1,135 @@
+Item #: SCP-2093
+
+Object Class: Euclid
+
+Special Containment Procedures: The school building containing SCP-2093 is to be locked down when not being tested. As the building has been condemned and no longer serves any public function, any unauthorized individual found roaming the halls is to be detained and interrogated. As of ██/█/2013, SCP-2093 has expanded in size approximately 8 square meters, encompassing the entirety of the drama room. The exact limits can be determined by use of thermal imaging, as the space within SCP-2093 has a significantly lower level of heat and humidity.
+
+Description: SCP-2093 is a spatial anomaly localized in the third floor drama room of ███████ High School and located in █████████, Maryland. Upon entering SCP-2093, personnel inside enter the spatial anomaly, and are able to exit the room while remaining within SCP-2093, allowing for exploration of a recreation of the school building. The recreation conforms with the size and structure of the actual school and is populated by an array of entities appearing as students, ranging in age from elementary students to high school students.
+
+Continued exploration has revealed the limits of the anomaly extend in all directions, with nothing beyond school property save endless grassland. Communication with entities within SCP-2093 has not determined whether the entities are sentient, but they have shown themselves able to retain information given to them. Some entities appear to engage in conversation but are incapable of vocalization.
+
+Individuals outside of SCP-2093 may open the door, allowing for those inside the anomaly to return unharmed. It is unknown why personnel within the anomaly are unable to escape on their own, or if entities within SCP-2093 are bound by the same restriction.
+
+Addendum: An expedition on █/█/20██ encountered a small group of unknown creatures within SCP-2093, roughly resembling bipedal ursines, with a layer of matte gray chitin covering their torsos. Facial features are nonexistent save for two ellipsoid openings of equal size, one atop the other. Entities within the anomaly displayed no reaction to the creatures.
+
+Note: Expedition logs 015 - 018 are made publicly available to all researchers level 2 and above assigned to SCP-2093, as per containment procedures.
+
+Expedition-015
+
+Access Granted
+
+Expedition-015: Agents West and Pierce are assigned to enter the anomaly and make contact with the entities within in an attempt to obtain as much information as possible regarding the anomaly and possibly make contact with the anomalous entities.
+
+Upon entering, Agent West notes the smell of burning plastic. The agents exit the room and descend to the second floor. Entities dressed in school uniforms walk the halls, ignoring the agents. The agents hail a small boy of African-American descent, with bright green eyes.
+
+Agent Pierce: Excuse me, son, can you help us? We're looking for Ms. ████
+
+Entity: I'm at ███████ High School in [REDACTED]. Hello! My name is Johnny.
+
+Agent Pierce: You sure you go to this school? You look kind of young.
+
+Entity: I'm at ███████ High School in [REDACTED]. I'm smart.
+
+Agent West: Do you know Ms. ████? She's a math teacher, teaches in room ███, should be around here?
+
+Entity: I am smart.
+
+No further useful information was gleaned from contact with the entities. Agents made their way through the halls of the second floor, discovering all doors and lockers to be open. The layout of each room follow a set of four distinct arrangements all apparently adjusted for an east-facing entry and west-facing windows. Other rooms are not corrected for directional discrepancy and have windows impeded by walls and an additional door on the west wall of each room. Agent West remarks the smell of burning plastic emanates from these rooms in particular.
+
+The agents make their way to the ground floor of the school, and make contact with a small group of five ursine creatures. After a brief stand-off, a system of rudimentary communication via hand gestures and pantomime is successfully established.
+
+Lack of familiarity with the entities or the location indicates the ursine creatures are not responsible for, or in any way in control of the anomaly. The creatures indicate they were exploring an apparently abandoned structure when they discovered a trap door leading into the anomaly.
+
+The ursine creatures were able to retrace their steps to show Agents West and Pierce the door they had entered through, which appeared to lead up to the drama room on the third floor, to a trap door on stage. The creatures became distressed as they entered the drama room, apparently unaware that returning to their home base required outside assistance.
+
+Note: If the ursines are unable to return where they came from, consideration should be made for taking them in and classifying them with SCP status. - Dr. Marlowe
+
+Expedition-016
+
+Access Granted
+
+Expedition-016: Dr. Jaime Marlowe accompanies Agents West and Pierce, along with █████ ███, a linguistics expert, to attempt conversation with the ursine creatures. The ursines were found in the teachers' lounge, having consumed all available food and using a microwave to heat an unknown foodstuff.
+
+The creatures show an adept knowledge of mathematics and astronomy and are able to graphically reproduce images on paper with great accuracy. When asked to draw their planet of origin, the shape and arrangement of continents were recognized as corresponding to that of Earth approximately 50-70 million years ago. The creatures appeared confused and agitated when Dr. Marlowe indicated Earth as home. The ursines understood the context of the phrase "home world" and insisted upon using it to describe Earth.
+
+The ursines creatures were quick to understand the entities were not sentient, and understood the concepts of artificial intelligence and computational neuroscience. The conversation abruptly ended as the creatures sought to explore the grasslands, and refused to continue further.
+
+Expedition-017
+
+Access Granted
+
+Expedition-017: Agents West and Pierce, accompanied by 4 additional Foundation personnel, enter the anomaly again. The ursine creatures have cleared out the school's cafeteria of furnishings, and are consuming the food products in the kitchen to no apparent ill effect. The creatures claim they have rescue coming soon, but it is unclear if they understand the need for individuals outside of the anomaly to hold the door open.
+
+On the second floor, agents discovered the color of the doors had changed since first emerging, and began checking the class rooms once more. Unlike previous expeditions, the rooms were now properly arranged, with windows facing the outside regardless of room orientation.
+
+Inside one of the rooms a largely empty book was discovered on the teacher's desk, containing notes regarding changes and updates made to the school building and the entities within. The tone of these entries indicate the entities may be artificially programmed or else indirectly controlled by others, with the school itself a simulation of sorts. A recent entry indicates awareness of Foundation personnel within the simulation. Portions of this book are logged at the end of file.
+
+Expedition-018
+
+Access Granted
+
+Expedition-018: Agents West and Pierce are now accompanied by armed security and enter the anomaly. The smell of burnt plastic is noted as being completely gone. No entities are found on the second floor, and all doors leading into classrooms are now locked.
+
+Entities are encountered on the ground floor keeping their distance from Foundation personnel. Several appear actively hostile, but otherwise flee when addressed. Any activity or movement performed by the entities prior to contact with personnel is ceased. The ursine creatures are nowhere to be found, and the cafeteria has been reconstituted. Entities within cease all activity and glare belligerently at Foundation personnel.
+
+The school building was searched for 4 hours, turning up no sign of the ursine creatures. As well, the landscape outside has now been barricaded off by barbed wire fences 3 meters in height, with no signs of an entryway. No further materials within SCP-2093 are recovered.
+
+Recovered 'Changelog'
+
+Full changelog has yet to be recovered since Expedition-018
+
+███████ High School
+
+Version 0.822 Alpha
+
+Date: EAEA-119
+
+Thank you for bearing with us over the changeover to [REDACTED]. Logged kè1 have been restored for testing purposes.
+
+Changelog
+
+0.822
+
+Fixed classroom orientation, so all students can enjoy the sunshine.
+
+Doors to science classrooms should no longer open onto Class B stars.
+
+Under-performing students will now improve gradually rather than immediately.
+
+When finding writing utensils, students will now only search their own pockets.
+
+DVN: We are aware of unauthorized access by bugbears and are working on fixing this right away.
+
+Additionally if anyone feels uncomfortable with the level of outside interference by unauthorized users emerging from the drama room, avoid confrontation and alert a Shaper. This is for your own safety and stability.
+
+0.821
+
+Music teachers should no longer hoard oboes.
+
+More silos have been added.
+
+Lunchroom algorithms restricted to the lunchroom; can no longer trade pudding for principal's desk.
+
+Fixed typo which caused language arts classes to be improperly recognized. Translators are available until art supplies can be replaced.
+
+Disciplinary actions should no longer result in fatalities.
+
+DVN: REQUESTS FOR ADDITIONAL CONES MUST CEASE, AS THEY ARE FLOODING OUR INBOX.
+
+0.820
+
+Teachers should no longer constantly respawn between periods.
+
+Gym has been closed due to epileptic tree incident. As a result, garnishes are no longer permitted within 28 hectometers of croissant-like food items.
+
+Sediment has been removed from weather program
+
+Language files updated to accommodate Tartessian users.
+
+Removed miscellaneous charges from detention slips; students should no longer be accused of "securities fraud", "vicarious liability", "forum shopping", or "contempt of disbarment."
+
+Additional silos added.
+
+Footnotes
+
+1. A Chinese unit of decimal time, corresponding to approximately 14 minutes and 24 seconds

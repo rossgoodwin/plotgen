@@ -1,0 +1,97 @@
+Item #: SCP-2044
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2044-1 is contained in a standard humanoid containment cell, modified to include a small duct to allow for the entry of house flies. SCP-2044-1 has been conditioned against scratching its scalp, laying on its back, rapidly moving its head, taking aggressive action against house flies in its cell or any other activities which may disrupt SCP-2044-2’s community. Personnel are to discipline SCP-2044-1 if any of the above listed activities are performed. For a full list of prohibited actions, see Addendum-2044-D.
+
+Following Incident-2044-B, SCP-2044-1 is to be kept in Site-34’s ICU to be provided with medical care in its comatose state. Subject's head is to be kept upright at all times, by means of a padded brace locked around the neck. A high-definition c-mount microscope camera has been installed directly above the scalp of SCP-2044-1, providing a live video feed of SCP-2044-2 for research staff.
+
+As is standard protocol when dealing with parasitic SCPs, a hazmat suit of Level 2 or higher is to be worn when handling SCP-2044 to prevent potential spread of SCP-2044-2 to a separate host.
+
+Description: SCP-2044-1 is a 28-year-old human male of Estonian descent. SCP-2044-1’s scalp is host to a large colony of head lice (Pediculus humanus capitis) estimated to be composed of two hundred individual specimens, henceforth referred to as SCP-2044-2. SCP-2044-2 instances possess a level of intelligence estimated to be equal to that of the average human, and are capable of building simple structures, operating machinery, and communicating in the Polish language. SCP-2044-2's small size makes communication impossible without the use of specialized acoustic equipment.
+
+SCP-2044-2 has established a small community on SCP-2044-1’s scalp. This community is composed of 130 houses, two churches, a pub, six stores, and a town hall. These buildings are constructed by SCP-2044-2 using SCP-2044-1’s hair and dandruff. The only constructs not composed of materials native to the human scalp are a large factory complex on the outskirts of the community, and three track loaders. The purpose of these non-organic elements seems to be the gathering and refinement of SCP-2044-1’s dandruff into small bricks.
+
+These bricks are taken at the end of every month by a house fly (Musca domestica) which arrives on SCP-2044-1’s scalp, where SCP-2044-2 then loads the refined dandruff onto a metal harness installed in its exoskeleton. These house flies also deliver manufactured goods to SCP-2044-2, all of which are scaled down for their use. These supplies include spare parts meant to repair equipment within the dandruff refinery, small tin cans filled with keratinous materials and fragments of potatoes, and gear which is sold by SCP-2044-2 in its several stores. The house fly will then depart to an unknown location. Attempts to locate the origin of these house flies have been unsuccessful, as have attempts to track outgoing instances.
+
+When questioned on the origin of the house fly, the supplies it brings, the destination of the dandruff bricks, and how the miniature factory complex came to be on SCP-2044-1's scalp, the majority of SCP-2044-2 instances state that “it’s handled by the 'big wigs'.” SCP-2044-2 refuse to elaborate further on this topic, stating that it would violate “company policy.” A transcript of an interview with an instance of SCP-2044-2 is available below.
+
+SCP-2044-1 claims no knowledge of SCP-2044-2’s existence, and currently believes he is being held in Foundation custody for the crime of grand theft auto. Please refer to Incident-2044-B for SCP-2044-1's current condition.
+
+ +Transcript of Interview 2044-A
+
+ -Transcript of Interview 2044-A
+
+Interviewed: SCP-2044-2-104 "Bogusław Jasiński"
+
+Interviewer: Dr. Stangar
+
+Foreword: SCP-2044-2-104 claims to be the "foreman" of the factory present on SCP-2044-1's scalp. This interview was conducted using an experimental two-way communication system developed by Foundation scientist for communication with nanoscopic entities. This was the sixth exchange between Dr. Stagnar and SCP-2044-2-104. Exchange translated from Polish.
+
+<Log Begin>
+
+Dr. Stangar : "Hello, Bogusław? Can you hear me?"
+
+SCP-2044-2-104 : "Ah! Hello big mammal1! I didn't think we would speak again this soon!"
+
+Dr. Stangar : "Yes, now may we return to our previous topic of your refinery?"
+
+SCP-2044-2-104 : "You're breaking my nits with these incessant questions, you bękart! If the big wigs hear that I've been engaging in corporate espionage-"
+
+Dr. Stangar : "Bogusław, I'm trying to help you. This conversation will stay between the two of us. I swear."
+
+SCP-2044-2-104 : "Fine, but you had better not use my name."
+
+Dr. Stangar : "Of course. Now, can you tell me who exactly are these 'big wigs'?"
+
+SCP-2044-2-104 : They're the top of the food chain. They run our entire operation out of their ivory tower in Nowy Gąszcz2, to the east."
+
+Dr. Stangar : "What is the purpose of this company?"
+
+SCP-2044-2-104 : "Providing building materials to all major urban centers across the globe. We just recently provided those termites in Vrotak3 with some foundation for their newest mound. Those bękart in Megachilekutha4 thought they could sell them their crappy honeycomb supports, but we beat them to the punch!"
+
+Dr. Stangar : "….. I see. Would you care to elaborate on the factory? How did it get there?"
+
+SCP-2044-2-104 : "A bunch of big mammals like you came in and installed it six years back. Funny thing is that they were all wearing those white robes like you got on. I don't know how they got it on here, but I'm just proud to be in charge of this big mammal instead of my last one."
+
+Dr. Stangar : "What do you mean by last one? Who else has a facto-"
+
+SCP-2044-2-104 : (SCP-2044-2-104 emits a two-second-long, high-pitched noise, assumed to be the equivalent of a sigh)
+
+SCP-2044-2-104 : "You know what, I'm in enough shit with the big wigs as it is with all these delays in production. Last thing I need is to be caught talking to a fucking big mammal!"
+
+SCP-2044-2-104 rapidly retreats into the refinery, shutting the entrance behind it.
+
+<End Log>
+
+This interview has revealed some startling implications. Not only does it suggest the existence of individuals similar to SCP-2044-1, it also makes reference to insects with a level of intelligence similar to SCP-2044-2. I recommend that we locate and contain these "urban centers" mentioned by SCP-2044-2-104 as soon as possible or at least investigate who these 'big wigs' are and why they built this factory. - Dr. Stangar.
+
+ +Incident-2044-B 
+
+ -Incident-2044-B
+
+The following is a transcript detailing the events which occurred on 9/16/██ which led to SCP-2044-1's current condition.
+
+<9:39> SCP-2044-1 sits upright on its bed, resting its head on its hand. Subject appears to be distraught.
+
+<9:40> SCP-2044-1 gets up and begins frantically clawing at its scalp. Such behavior had not been documented during SCP-2044-1's containment at Site-34. Security teams are mobilized to restrain the subject to prevent potential damage to SCP-2044-2.
+
+<9:42> SCP-2044-1 props his bed frame against his cell door, preventing site security from entering. Subject then returns to scratching its scalp aggressively.
+
+<9:46> SCP-2044-1 (translated from Estonian): "No! I'm done! I want it off! The big wigs can take it back! It's not worth it! It's not fucking worth it! Get out! Get out! I don't care how much they'll give me! I want to go home! Let me go home you bastards! I want them all off!".
+
+<9:48> A small explosive device detonates at the base of SCP-2044-1's neck. The explosion causes traumatic damage to the subjects spinal column, causing SCP-2044-1 to enter a comatose state and collapse.
+
+<9:50> Foundation security teams manage to breach SCP-2044-1's cell. Medical teams are mobilized and SCP-2044-1 is evacuated to Site-34's ICU.
+
+The explosion caused traumatic damage to SCP-2044-1, sending it into a comatose state. When questioned, SCP-2044-2 admitted to detonating the explosion as a "last resort" to pacify their host. Before Incident-2044-B, it was believed that SCP-2044-1 was oblivious to the existence of SCP-2044-2. Investigation into both the subjects final statements and how an explosive implant was present on SCP-2044-1 without being detected by Foundation security is ongoing.
+
+Footnotes
+
+1. "Big mammal" is a term commonly used by SCP-2044-2 to refer to humans
+
+2. Polish for "New Thicket"
+
+3. Roughly translated from the Afrikaner language, translates as "Rotten Branch"
+
+4. Megachile is a genus of large bees. Kutha is Javanese for "city".

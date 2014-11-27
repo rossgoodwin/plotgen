@@ -1,0 +1,91 @@
+Item #: SCP-1968
+
+Object Class: Keter
+
+Zackenburg, Greenland. Site of SCP-1968's recovery
+
+SCP-1968 while inert. Note: apparent blurring is not a photographic artifact
+
+Special Containment Procedures: SCP-1968 is to be secured in a bunker 300m underground accessible only by a single elevator requiring positive action at both the top and bottom of the shaft to operate. Armed guards are to be present at both ends. In case of incursion from within or without, the elevator shaft is to have an explosive self-destruct activated rendering it impassable. In the event of an incursion, guards must be considered expendable.
+
+Description: SCP-1968 appears in its inactive state to be a bronze torus of unknown composition. It has a major diameter of 320cm and a minor diameter of 90cm. It is marked with raised features or glyphs, the presumption being that they act as control surfaces. It is difficult to photograph or visually inspect the artifact as it appears to bend light. Mild, fluctuating gravitational effects have also been observed.
+
+It has proven impossible to take a sample of the artifact. Spectrographic attempts have proven inconclusive. Although not particularly heavy (weighing ~14Kg), inertial and angular momentum studies suggest that neutronium1 (in vanishingly small quantities) may be present in the body of the mechanism.
+
+SCP-1968 demonstrates its anomalous properties when it is handled by a human being. When moderate force is applied to it, it will begin to deform in unpredictable ways, its material composition will appear to change, and it will become animated, surrounding the subject in convolutions and undulating increasingly faster. Its primary effect will manifest itself when an unpredictable threshold is met, after which the artifact will return to its original state.
+
+At this point, the subject will have had their memories altered. They will no longer agree with the historical record, often profoundly. Their self-reported personal history will be at odds with Foundation personnel records. As a consequence, they will often assume a posture of agitation and paranoia. The more pronounced the deformation of the artifact, the more divergent their memories will be. It is theorized that the glyphs, via means as of yet unknown, control the degree of deformation and its resultant effects.
+
+Recovery Log: SCP-1968 was recovered in late 2001 from a core-sample extracted ██ Km deep during a petrochemical survey near Zackenburg, Greenland. Based on the depth from which it was recovered — along with corroborating paleoatmospheric readings — the artifact is estimated to be 31± 2.3 million years old.
+
+Foundation personnel intercepted the radio transmission of its discovery and, owing to its unusual nature and age, moved to secure the artifact. Class B amnestics were administered to the personnel in Greenland, along with those individuals at the governing authority in Denmark who had been made aware of its discovery. Once on site, it was discovered that one of the geological engineers had been placed under a 72 hour psychiatric hold after violently assaulting a colleague and behaving in a manner consistent with the Foundation test subject (see below). It is presumed that they had handled the artifact.
+
+Classified
+
+The unauthorized viewing of the following material is prohibited without the consent of a majority of the O5 level administrators. Failure to adhere to this directive will result in termination, as well as the termination of any other personnel made aware of this material.
+
+Note: this directive is rescinded in the event of an imminent CK, VK, XK, ZK, or Dedekind-uu class event.
+
+[enter decryption key]
+
+[encrypt]
+
+WARNING: DO NOT ATTEMPT TO LEAVE YOUR IMMEDIATE AREA. In the interest of security, you have been administered a lethal memetic agent that can only be counteracted within the hour. Await security personnel and be prepared to confirm your identity.
+
+Object Class (classified): Thaumiel
+
+Note: The previous description is a cover story and is based on what were initial conclusions. The artifact's effects have proven to be of a very different nature. It is likely that SCP-1968 is affecting the past.
+
+Initial Experiments
+
+The first experiment with the subject proved uneventful, with routine medical examinations revealing no untoward effects. When the subject returned to their quarters after debriefing, however, it appeared to them that their furniture had been altered which they reported in keeping with standard procedure. No evidence could be found to support their claim. Subsequently, the subject seemed confused about their shifts of duty, when they were scheduled, and to whom they were to report.
+
+After the second experiment, the subject appeared alarmed and confused. The laboratory where testing had taken place seemed changed to them. The subject also professed that personnel appeared to be missing while others were completely unfamiliar. Interrogation of the subject showed that they were in possession of drastically different memories, encompassing such areas as diverse as their personal history, the nature of Foundation assets, and the historical record. (see interview A, excerpt)
+
+Computer animation of SCP-1968 while in its active state running at 1/1,000th speed. Test subject would be located at the center.
+
+A representation of SCP-1968 while inert based on particle emission studies. Pictured is the spontaneous, coherent alignment of virtual particle-pairs about the artifact's boundary. The artifact can in some ways be likened to the event horizon of a black hole, although Hawking condensation rather than evaporation is in evidence.
+
+At first, it was assumed that the artifact had in some unknown way affected their mind. Interrogation of the subject, however, showed that their memories were extraordinarily detailed and self-consistent. Furthermore, the subject demonstrated knowledge of classified material to which they could not possibly have been exposed, including the existence of SCP-████ and SCP-████ that had, as of then, not been secured, let alone identified. The operating assumption at the time was that the subject had been compromised by forces unknown.
+
+At the conclusion of the third trial, the subject's account of the previous experiments themselves were in stark contradiction with the record. Among other things, they claimed that it had been the nineteenth such experiment. After a lengthy debriefing, the subject was able to furnish a kind of proof of their claims in the form of a testable experimental prediction. (see interview B, excerpt). It was discerned that the subject was referring to a measurable change in the strength of the Casimir force,2 implicating a change in the rate of virtual particle-pair production in the vacuum3, even though ostensibly nothing — even in principle — may affect such rates.
+
+Findings
+
+In an effort to corroborate their account, measurements were performed inside the artifact's sphere of influence, with negative results. Efforts were suspended when, unexpectedly, back-channel reports surfaced of the discovery of just such phenomena at CERN4 at the time the artifact had been in operation. Experiments were repeated away from the artifact's immediate vicinity and succeeded in detecting the effect. Further experiments were performed as distantly as New Zealand, South Africa and the Antarctic, reproducing the same findings. A probe in Jupiter space that had been clandestinely re-tasked concluded the same. The vicinity within the artifact's area of operation (and consequently the subject) appeared insulated from the effect, perhaps by design.
+
+Conclusions
+
+Based on the chronology of these experiments, it seems that the effect propagates nearly instantaneously, at a rate comparable to the cosmological inflation5 which occurred shortly after the Big Bang. Grand Unification theories suggest that the combination of the anomalous virtual particle production along with the super-luminal propagation are consistent with a global retrocausality event.
+
+One interpretation that has been put forth is that the entire Universe is being affected by the artifact. It would be our and the universe's past which is being altered. The subject's memories would then be accurate and would remain the only record of the timeline before its alteration. In light of this possibility, further testing has been suspended indefinitely. The consent of all O5 administrators is required to perform further experiments.
+
+Recent Developments
+
+After testing was discontinued, the subject evaded Foundation supervision and attempted suicide. The subject has since become catatonic and been placed in long-term care.
+
+Two months later, the artifact engaged itself without human intervention in a manner inconsistent with its previous operation. A person which superficially resembled the subject emerged. They were badly wounded, having suffered unidentified chemical burns over 60% of their body. The subject-alternate died shortly thereafter without being able to be interviewed. It remains unknown how the artifact managed to activate itself. Security was increased.
+
+A further month later, the artifact once again activated itself, this time disgorging a non-human entity, heavily armed (see report █-█ ██-██). The entity was ultimately neutralized after killing a dozen personnel and wounding scores more. The weapon in its possession behaved in a manner inconsistent with current understanding of physical law.6 It has been remarked that in outward appearance the weapon resembled SCP-1968. The goal or purpose of the entity has not been established.
+
+Containment procedures were upgraded to the level they remain at now.
+
+Addendum
+
+The suggestion has been made that, in the event of an imminent CK-class reality-ending scenario, SCP-1968 could be used in a last ditch-effort to avert catastrophe, but at the cost of irrevocably and unpredictably altering of the past. Such a decision could obviously not be made lightly. To do so would ensure that the world as we know would cease to exist. At the same time, to do nothing might guarantee the same. Such a Metaphysical dilemma is perhaps beyond our ability to resolve.
+
+It should be pointed out that if the artifact had already been used in this manner, we would have no evidence of it. The incursions that have recently taken place might well have been attempts to use the artifact to accomplish exactly that.
+
+Notes
+
+1. Theoretically one of the densest states of matter possible, neutronium is a proposed name for a substance composed purely of neutrons. It has been used to refer to extremely dense phases of matter resembling the neutron-degenerate matter theorized to exist in the cores of neutron stars.
+
+2. The Casimir effect can be expressed in terms of virtual particles interacting in the vacuum. It is best described and more easily calculated in terms of the zero-point energy of a quantized field in the intervening space between objects. This predicted force has been measured, and is a striking example of an effect purely due to second quantization. Essentially, particle-pairs coming in and out of existence too quickly to measure, even in principle, none the less give rise to measurable side effects.
+
+3. In physics, a virtual particle is a particle that comes into existence for a limited time and space and then just as quickly disappears. The energy and momentum of a virtual particle are uncertain according to the uncertainty principle. The degree of uncertainty of each is inversely proportional to time duration (for energy) or to position span (for momentum).
+
+4. Centre Europeen de Recherche Nucleaire, Geneva, Switzerland.
+
+5. Cosmological inflation is the theorized exponential expansion of the early universe by a factor of at least $10^{78}$ in volume, driven by a negative-pressure vacuum energy density. The inflationary epoch comprises the first part of the electroweak epoch following the grand unification epoch, $10^{-36}$ seconds post-singularity. Following the inflationary period, the universe continued to expand, but at a constant rate.
+
+6. Based on a review of particle detectors in the confinement area at the time, it has been established that the weapon functioned by slightly altering the magnetic moment of the neutron in affected matter, upsetting the electromagnetic balance of the nucleus, and causing it to fission spontaneously. The means by which this is affected cannot be determined as the weapon was destroyed by the entity prior to being killed.

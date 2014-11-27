@@ -1,0 +1,81 @@
+Item #: SCP-2244
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2244-1 and all instances of SCP-2244-2 are off-limits to all Foundation personnel unless explicitly authorized by Order-44-08A7, signed by at least three O5 personnel and both Site-692 Administrators. Personnel who violate these conditions of interaction are subject to severe disciplinary action, up to and including termination of employment and administration of amnestics.
+
+Instances of SCP-2244-2 are not to be accosted, interfered with, or addressed by any personnel not authorized by Order-44-08A7. Personnel who do so are subject to disciplinary action, up to and including suspension without pay and administration of amnestics. All observations of SCP-2244-1 and/or SCP-2244-2 are to be logged with both Site Administrators. Should an instance of SCP-2244-2 become aware of observation (designated a 00A1 Event), Foundation personnel are to abort their task and vacate the area if practicable.
+
+Note that personnel who cannot be accounted for following a 00A1 Event cannot be guaranteed Foundation protection nor recovery efforts in the event they come into custody of an instance of SCP-2244-2. Personnel taken by SCP-2244-2 who are subsequently released are subject to interrogation by Site Administrators and potential re-assignment.
+
+Description: SCP-2244-1 is a four-story office building located on [REDACTED] in Miami, FL, belonging to the "Sunset Community Foundation", a registered 501(c)(3) non-profit organization providing technological components and computer skills training to underprivileged individuals. Prior to ██/██/2014, this organization did not exist1. Despite this, all records pertaining to the SCF indicate they have existed in Miami, FL since 1971, and include legitimate registration and tax-exempt application forms as well as grant records maintained by other businesses, organizations, and corporations.
+
+Instances of SCP-2244-2 are employees of the Sunset Community Foundation. All observed instances appear to be human females between the ages of 14 and 70. No instance of SCP-2244-2 can be accounted for prior to 2014, nor appear to have any roots in the community, nor any records of birth, residence, or home ownership. None of these employees have been observed residing in any location other than SCP-2244-1 for a period of time exceeding 3-4 hours.
+
+Subjects have additionally proven to be immune to all forms of amnestics, possessed of abnormal strength and speed and, if accosted or otherwise restrained, will become catatonic and unresponsive for a period of 30 to 180 seconds before abruptly disappearing2.
+
+While not hostile, SCP-2244-2 subjects have consistently refused all entry into SCP-2244-1, and have refused to answer questions regarding their company, in either a formal or informal context. Attempts by agents to trail and/or befriend subjects have been unsuccessful in yielding any information. Instead, Foundation personnel on Site-692 (established across from SCP-2244-1) are limited to outside observation of the building. All windows display unoccupied offices, and are sealed shut, disallowing any further observation deeper into the building. All entryways into SCP-2244-1 are locked or otherwise guarded by instances of SCP-2244-2.
+
+As of 10/30/2014, SCP-2244-2 subjects have become aware of Foundation surveillance and inquiry attempts. Following Incident 00A8A, subjects have allowed brief interviews by Foundation personnel to answer questions relating to the safety and security of their work, although little else has been discussed.
+
+Discovery: On ██/██/2014, the location of [REDACTED], which had previously been an unoccupied residence, was replaced with SCP-2244-1. Due to lack of eyewitnesses or video surveillance in the area, the incident cannot be pinpointed to an exact time.
+
+Physical evidence of SCP-2244-1 itself, as well as "Sunset Community Foundation", appeared to exist prior to 2014 in multiple locations, both inside and outside the United States. Review of Foundation documentation regarding SCP-████, which had previously been [DATA EXPUNGED] due to its memetic effects, revealed that two businesses investigated between 2005 and 2007 by the Foundation did not in fact contain documentation regarding the "SCF"3. Where post-2014 records showed donations made to the SCF, preserved pre-2014 records show no such donations made.
+
+Incident 00A8A: On ██/██/2015, Foundation surveillance cameras monitoring SCP-2244-1 abruptly lost power. At the same time, personnel on-site reported that SCP-2244-1 had momentarily disappeared and re-appeared as a larger building. Prior to this event, SCP-2244-1 was a two-story building occupying █,███ square meters, after which it became a four-story building occupying ██,███ square meters. Within several hours, SCP-2244-2 subjects began to cover the building in tarps, and brought construction equipment and vehicles on-site to mask the sudden change.
+
+Following this event, a group of SCP-2244-2 subjects approached on-site personnel and offered assurances that SCP-2244-1 was in no way dangerous nor an exposure risk, and that the decision to change was "out of [their] hands". They refused to elaborate further, although one subject made the off-hand remark, "[People] up top say they want the shiny fast new upgrade, not caring that it would be too sudden, then complain that the shiny fast new upgrade is too sudden all at once."
+
+Addendum: An attempt to infiltrate SCP-2244-1 was made by an agent on 1█/██/2015 wearing a concealed audio transmitting device in coordination with three more agents on-site and Site Administrator █████. The agent described encountering SCP-2244-2 subjects standing motionless in each room, unaware of the agent's presence. The agent discovered several conscious subjects and managed to successfully transmit a sample of conversation between subjects prior to being discovered. The agent has yet to be recovered.
+
+Site Administrator █████ refused to provide an explanation for this operation and subsequently submitted their resignation. They will be replaced by Administrator Li starting ██/██/2015.
+
+Log 1█/██/2015
+
+(Note: Signal experienced significant interference, suggesting the presence of some manner of electronic counter-measure within SCP-2244-1. Recorded subjects have not been identified and are identified as "Subject-1", "Subject-2", etcetera.)
+
+Subject-1: Yeah.
+
+Subject-2: [Indistinct] was started. She couldn't do anything else.
+
+(Unidentified laughter)
+
+Subject-1: That's entirely not my problem.
+
+Subject-3: You keep saying that, but someone will make it your problem.
+
+Subject-1: I only handle Partition E. [Indistinct] can't go home otherwise, so why is it any of my business?
+
+Subject-2: People could die.
+
+Subject-1: People always die. Ask them if they've tried turning it off and on again.
+
+Subject-2: I'm just saying.
+
+Subject-4: On. Off. On. Off. [Note: Subject-4 continues repeating this for the duration of the recording.]
+
+Subject-3: [Indistinct]
+
+Subject-1: Thirty years lost because they couldn't be assed to do 5-year backups. Like I said, we can't be giving them our people. What year do they have to start from? Like, 1984?
+
+Subject-2: [Indistinct]
+
+Subject-1: Glad I'm not them. [Indistinct] few decades.
+
+Subject-5: Does Partition C or D have people watching them all the time like we do?
+
+Subject-2: It's the same planet!
+
+Subject-5: That doesn't mean all the partitions are the same.
+
+Subject-2: Are you sure? I thought it — I don't know.
+
+[At this point, the agent is discovered and the transmission is severed]
+
+Footnotes
+
+1. The location of SCP-2244-1 prior to this date was occupied by an abandoned residential building.
+
+2. This applies to any and all clothing worn by the subject, objects attached to their person, body parts, and bodily waste.
+
+3. A full copy of these businesses' records was made at the time.

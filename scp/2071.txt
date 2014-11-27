@@ -1,0 +1,63 @@
+Item #: SCP-2071
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2071 is stored in Vault 86 at Site-11. Vault 86 is to be kept at a constant temperature of -10°C. Tests involving SCP-2071 and reptiles require approval from both the current Site Director of Site-11 and the head of SCP-2071 research.
+
+Maintenance staff assigned to Site-11’s storage vaults are to be trained in reptile handling in the event of a containment incident, and a stock of snake and amphibian antivenin is to be maintained in Site-11’s medical wing.
+
+SCP-2071 may only be transported in a sealed container and by personnel wearing suitable protective clothing to prevent any contact between SCP-2071 and exposed skin.
+
+Description: SCP-2071 is a full-length portrait measuring 106cm by 48cm, entitled Sir Michael Cavendish in the Guise of the King of Serpents. The painting is a work in oil paints on canvas, purportedly painted in 1799 by Adam William Jardine as a portrait of English military officer and baronet Michael Cavendish, though it does not appear to be a factual likeness.
+
+The painting’s central subject is a male humanoid figure in 18th-Century British military dress seated at a table, facing to the left of the painting, with his right arm resting on the tabletop and holding a cup or goblet, his left arm by his side. The figure is clearly not human, and possesses mottled green skin, scales on portions of the face and hands, eyes with yellow irises and vertically slitted pupils, and no hair. The scene is illuminated by light from a window to the right of the subject, and a second, indistinct humanoid figure is visible standing behind the subject’s right shoulder, obscured by darkness.
+
+Skin contact with the painted surface of SCP-2071 is fatal. Through an undetermined process, individuals exposed to SCP-2071 in this fashion begin to produce a number of fast-acting neurotoxins within their own bloodstream, leading rapidly to death by respiratory failure. Examination of toxins found in specimens exposed to SCP-2071 indicate a wide variety of toxins are produced, some of which appear to be the active components of a variety of snake venoms.
+
+SCP-2071 causes significant behavioural alterations in any member of the class Reptilia. Reptiles within a certain distance of SCP-2071 will attempt to reach it by any means available to them. The exact distance of this effect is difficult to ascertain accurately and appears to vary over time, but is believed to extend at least 5 kilometres around the painting at all times. Reptiles affected by SCP-2071 will attempt to travel to its location even at the risk of injury.
+
+Reptiles affected by SCP-2071 congregate around the painting and largely remain motionless. Reptiles in SCP-2071’s presence do not appear to require food, water, exterior heat sources, or sleep, and despite their lack of movement tend to remain in good physical health. SCP-2071-affected reptiles react violently to attempts to remove them from its presence, though they are otherwise largely nonresponsive.
+
+Prolonged exposure to SCP-2071 causes physiological changes in reptiles, usually beginning after several days of continued exposure. Typically, this results in increases in size, and the development of venom glands in non-venomous species.
+
+Addendum 2071-1: Abridged test log for SCP-2071:
+
+Test 2071-8 Date: ██/██/██
+
+Rationale: Analysis of physical changes in SCP-2071-affected reptiles over long periods of time.
+
+Procedure: A single female Green Iguana (Iguana iguana) measuring 1.4m in length was placed in SCP-2071's chamber (cooling of Vault 86 was suspended for the duration of the experiment). The specimen was selected for its size, herbivorous nature, and docility. The iguana was monitored regularly by a qualified herpetologist and veterinarian throughout the experiment.
+
+Results: Growth in the specimen was first detected on day 3 of the experiment. By day 4 of the experiment, the specimen had increased to 1.45m in length and had begun to develop venom glands. By day 6, the subject's rate of growth had accelerated - specimen was now 1.6m in length. Growth continued unabated until day 28, by which time the specimen was 3.4m in length. Between day 30 and day 34, the parietal eye of the specimen underwent a significant metamorphosis into a large, seemingly functional lidded eye.
+
+On day 47, research staff discovered that the specimen appeared to be carrying eggs. As Site Director Feccini had not sanctioned the reproduction of an anomalous lifeform when the experiment began, he requested that the experiment be halted. The specimen was subsequently euthanised and autopsied.
+
+The autopsy revealed that substantial internal modifications had been made to the specimen's reproductive track, allowing it to bear live young. A single foetus was found in the specimen's uterus. This foetus was reptilian, with a humanoid body plan, developed cerebrum, scaled skin, slitted eyes, pointed teeth, and a vestigial tail. The genetic makeup of the foetus did not match the mother, and some sections of its genome closely resembled the human genome. A full report on the biology of both specimen and foetus can be found in document 2071-Padraig.
+
+Addendum 2071-2: SCP-2071 is one of 4 known paintings by Adam William Jardine believed by the Foundation to be both currently extant and to possess anomalous properties, and the only one presently in containment. Of the other paintings, The Rood and the Pit (E-456) is believed to be in the possession of the Horizon Initiative, while The Hunting Party (E-459) and Celia Penrose, in the Guise of a Fountain (E-460) are in the possession of an unknown private individual.
+
+Jardine was a minor English painter active between 1790 and 1819, when he is believed to have died of tuberculosis. Contemporary sources indicate that Jardine was widely believed to be mentally ill and suffered from visual hallucinations.
+
+The portrait is not believed to have had any anomalous properties at the time it was painted. It is unknown when these properties manifested, but SCP-2071 remained unknown to the Foundation until ██/██/1925, when it was recovered after two people died as a result of an attempt to place the painting, along with others, in the public trust in lieu of inheritance tax.
+
+Addendum 2071-3: Extracts from the diary of Michael Cavendish:
+
+…I have been informed of a painter, a Mr. Jardine, from Northumbria. I am told the man is quite mad, and possessed of visions of a spiritual bent. He claims to be able to see the souls of people both living and dead, and to put his visions down in pencil sketches and oils. His work has been recommended to me by a friend, and by that same friend I have been able to engage this Mr. Jardine in dialogue.
+
+In person, Mr. Jardine seemed in rather good humour for a madman. He talked rather sensibly, though he seemed somewhat troubled, as if trying to suppress his nerves, and seldom looked directly at me the whole time. Indeed he seemed so sensible, if somewhat shy, that I began to wonder if the supposed insanity was genuine. But when he showed me his portfolio, I was astounded. Jardine had conjured up a whirl of grotesques and wonders such as would awe anyone living.
+
+Despite his obvious talent, he told me that his work sells poorly; I am told that there are few in the country with the discernment to see his work as anything more than a perversity. As such, he was more than happy to offer his services to me upon seeing that I enjoyed his work, provided I provide payment regardless of his own view of the eventual portrait. This I am more than happy to accept. If Jardine is mad or a charlatan, then it will be a wonderful and curious indulgence; if not, then what is more worthy of payment than a glimpse into my own soul?
+
+…I promised to pay the man regardless of my own opinion, and pay him I have. That said, my own opinion is less than favourable. The damned painter has rendered me as some sort of hideous freak, a combination of lizard and human. It is beyond what I had envisaged when I commissioned the portrait. It cannot be displayed.
+
+If the man has visions, I am now certain that they stem from a disordered mind rather than a divine visitation. I am, at least, convinced that I know enough of my own soul to know that I am no snake, and that this painting is not a reflection even of my principal sins.
+
+The more I look at it, the more I believe that the painting is a poor likeness. Disregarding the obvious, the figure in the portrait is too gaunt, and looks far too old to be a true likeness. This was a waste of time and money…
+
+On ██/██/1829, Mary Cavendish, wife of Michael Cavendish, was found dead in their home by a servant. The cause was, at the time, believed to be a stroke, though later events indicate that she was in fact poisoned by her husband. Michael Cavendish, by now suffering from an undetermined chronic illness, committed suicide in 1842 by drinking poison, confessing in his suicide note to his wife's murder. Suggestions that a large number of snakes were found alongside Michael Cavendish’s body are not verifiable.
+
+The following is an extract from Michael Cavendish's suicide note:
+
+…I confess only that the truth might be known. I do not hope to save my soul by atonement. I do not believe in Hell any more. If, all those years ago, that painter saw me, in my youthful vigor, for the bitter, spiteful creature I became, then this was all predestined, and so no just god could damn me…
+
+…I do not take this measure out of guilt. I do it to escape my present purgatory. I hate my current life, but I do not fear death. After all, a snake can slip out of its skin and become young again. If I am the King of Serpents, as that bastard said I was, why shouldn't I do the same?

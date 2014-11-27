@@ -1,0 +1,49 @@
+Item #: SCP-170
+
+Object Class: Safe
+
+Special Containment Procedure: SCP-170 presents no danger, and as such can be contained safely in any secure storage locker. However, due to the potential misuse of the substance, as well the limited quantity of SCP-170 available, no personnel may remove it from storage without prior approval from Dr. ███.
+
+Description: SCP-170 appears to be a standard tube of superglue, in a yellow tube 13 cm long. There is no manufacturer information or any other text on the outside of the container, apart from the word 'SUPERGLUE' printed in bold letters on the front.
+
+Whenever any amount of the substance is applied to solid material, and that solid is put in contact with any surface, both objects lose molecular cohesion in the area surrounding the contact points, allowing one to be pushed through the other. The effect lasts only moments, however. Within a third of a second of the two surfaces making contact, the ability of each to pass through the other is nullified, leaving both permanently bonded together.
+
+SCP-170 was seized in a raid on an illegal laboratory in ████████, ███, in 19██. The unusual properties of SCP-170 were unknown until a standard test on all seized materials was performed on it. A laboratory technician used a pipette to extract a small amount of SCP-170 for analysis. Upon attempting to dispense the substance onto a slide, the pipette immediately passed straight through the slide, which was on a mount. Further tests were run upon the pipette/slide, and it was discovered that they were bonded on the molecular level. Upon hearing of this, SCP personnel were dispatched to confiscate all seized materials.
+
+Notable tests
+
+Test 04:
+
+Test materials: 1 x heavy duty chain, weights of various sizes.
+
+Procedure: A small amount of SCP-170 was applied to the last link of the chain, which was then bonded to the reinforced ceiling of containment area 17f. Weights of various sizes were then hung on the chain to determine the structural failing point of the bond.
+
+Results: After approximately 9 metric tons were suspended, the chain finally snapped, but not at the bond point. It snapped at the 9th link from the bottom. All links apart from the one embedded in the ceiling were tested and showed signs of distortion and stretching. However, the bond point in the ceiling showed no sign of weakness or separation of chain and ceiling.
+
+Test 07:
+
+Test materials: 2 x identical cubes of 24 carat gold (as close to 100% pure as possible)
+
+Procedure: Using robotic arms to ensure perfect alignment, cube 1 (the cube with SCP-170 applied) was pushed completely through cube 2, leaving what appeared to be 1 gold cube equal in size to either of the original cubes.
+
+Results: Upon examination of the sole remaining cube, it was found to have a density of 38.6 grams per cm3, which is precisely twice the density of gold. Even melting the sample did nothing to change this, as the resulting liquid gold also had the same density. This implies that the substances don't displace each other - every atom is accounted for. Analysis of the atoms has proven that they are regular gold atoms, implying that they don't undergo nuclear fusion to accomplish the increase in density. The atoms are simply packed into a smaller space than the laws of physics would seem to allow.
+
+In light of this experiment, Dr. ██████ has requested permission to use SCP-170 to 'glue' two pieces of uranium together to make a more fissile sample. Due to the obvious safety concerns this poses, this request was denied.
+
+X-ray of subject's finger bonded to the desk (post amputation). The fracture was caused by the subject struggling to free himself.
+
+Test 12:
+
+Test materials: 1 x D-class personnel, 1 x wooden desk.
+
+Procedure: First test using live biological subjects. D-class personnel had a small amount of SCP-170 applied to his right index finger, and was instructed to "poke the desk".
+
+Results: Subject's finger sank into the desk up to the first knuckle. Despite obvious panic, the subject reported no pain, discomfort or sensation below the bond point. However, his finger quickly began swelling and turned purple, as his circulatory system continued pumping blood to an area that could no longer return it. Finger was amputated between the first and second knuckle.
+
+Test 19:
+
+Test materials: 1 x Pratt & Whitney F100 jet engine, the reinforced ceiling of containment area 19b.
+
+Procedure: SCP-170 was applied to the jet engine mountings, which were quickly pushed 3.2 cm (approximately 1.25 inches) into the ceiling of the chamber. After connecting an appropriate fuel supply and control system, the jet engine was fired.
+
+Results: The engine was run continuously at high speed for 40 minutes, while cameras monitored the join point for any signs of stress. While small cracks appeared in the concrete around the join point, there were no indications of any possible structural failures or separation of the two materials, even under a force of 120,000 newtons.

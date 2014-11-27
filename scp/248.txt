@@ -1,0 +1,47 @@
+Item #: SCP-248
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-248 is to be kept in a fire-proof safe in Dr. Mize's office unless being used directly for testing purposes. The safe has a keypad-style opening mechanism. Any personnel of at least Level 2 Security Clearance have full permission to access SCP-248, as the numeric code is [REDACTED].
+
+Description: SCP-248 is a twenty-five (25) page booklet of stickers, each reading "110%" with a small pressed imprint of the words "The Factory" in the bottom right corner. The booklet itself is 7.5 cm in height and 15 cm in length. Each page of SCP-248 contains two (2) of the stickers, making a total of what would be fifty (50), but circumstances before its discovery have left only forty-nine (49) stickers.
+
+SCP-248 was discovered at a small house in ████████, Georgia. The object came to the Foundation's attention after one (1) of the stickers was placed on an old, half disassembled tractor in the family's barn by the youngest son, Ronnie ████. The tractor was suddenly able to operate as if it were brand new and even a little better, despite lacking much of the engine and frame. Agents removed SCP-248 and the tractor from the family in exchange for a bogus coupon for free pesticides for the farm. The family was administered standard Class A amnesiacs and left alive.
+
+Dr. Mize received SCP-248 upon its arrival to Site-██ and took deep interest in its apparent abilities. The tractor is now labeled SCP-248-1. See Addendum 248-01 for testing of SCP-248-1.
+
+Testing of SCP-248 has been approved by Dr. Mize. See Addendum-248-02 and below for preliminary tests.
+
+Remaining stickers in SCP-248: forty-six (46).
+
+Addendum-248-01:
+
+SCP-248-1 is a 1979 John Deere tractor in an extremely rusted state. Most of the engine is missing, apparently from a restoration that was never completed. The frame is also partially missing near the rear of the tractor where the driver would be positioned. A sticker from SCP-248 is located near the back behind the left wheel. Upon turning the key to the ignition, SCP-248-1 starts up and operates as if it were in pristine condition. It is capable of achieving speeds up to 42 km/h, slightly faster than a typical tractor of that specific model. Though the tractor operates with no engine, gasoline is still required to maintain power. Further testing is required to understand whether or not the tractor would operate without a gas tank.
+
+Removal of the gas tank resulted in SCP-248-1 becoming non-functional in all aspects. The whole of SCP-248-1 is to be held in hangar ██ of Site-██ for future tests regarding the need for fuel, but lack of engine to create forward motion.
+
+Addendum-248-02:
+
+Testing of SCP-248 on a ██████ brand computer. A sticker from SCP-248 was placed on the mother board of the computer and started up like usual. The speed of the computer was greatly enhanced, as noted by Dr. ███ █████████, the owner of the computer. Diagnostics of the PC reveal the disc space to have increased from its maximum of 250 GB to 275 GB, as expected. The RAM had also reached the expected 110% efficiency. However, the interior was also experiencing similar results; the heat sink was pulling off 10% more heat than usual, and the conductivity of the wiring was allowing electricity to flow 10% more smoothly than the best modern superconductors. Why the wiring is achieving such a high rate of non-resistant flow, compared to the heat sinks slightly above-optimal cooling, is not understood at this time. Removal of the battery rendered the computer useless, just as in Addendum-248-01. Further study of SCP-248 and power supplies has been noted for future tests.
+
+Dr. ███ █████████'s computer is now labeled SCP-248-2 and is to be kept in Dr. Mize's top desk drawer. The drawer is opened via numeric keyboard, the password to which is [REDACTED].
+
+Dr. Mize has requested that future tests regarding electronics attempt to focus, at least partially, on the implications of this high conductivity. Some form of electricity producing turbine or power plant could potentially increase energy production a thousandfold.
+
+Addendum-248-03:
+
+Testing of SCP-248 on organic matter. A sticker from SCP-248 was placed on the forearm of a Class D who volunteered to work with this unknown SCP rather than being transferred to Site-19 for Keter duty. Initial reaction to the sticker yielded no results. Subject received none of the additional enhancements as seen in previous tests. After 60 minutes of exposure the subject was still unchanged. Retrieval of the sticker was ordered to test the item's adhesive properties. Agent had difficulty removing the sticker, while the subject was claiming to experience extreme pain during the attempted retrieval. After a small talk with Dr. Mize, Agent █████ removed the sticker with much of the subject's skin still stuck to it. Microscopic examination revealed that the resin had bonded to the subject's flesh in the same way Navy grade tape bonds to the sides of submarines to withstand tremendous pressures. Chemical testing of the resin itself shows that it is consistent with average, mass-produced resin used in everyday Scotch tape.
+
+The chunk of skin was labeled SCP-248-3 by Dr. Mize and is now held in a vacuum-sealed plastic container. It is stored in the same fire-proof safe as SCP-248, in Dr. Mize's office.
+
+Addendum-248-04
+
+Testing of SCP-248 on SCP-248-1; attempted removal of sticker. Agent █████ asked to try and remove the sticker with his fingers. After a few moments of failed attempts at scratching it off, Agent █████ is given tools to use: tweezers, a pair of pliers, a pocketknife, a chisel, and a hunting knife had no effect on the sticker itself. This test, along with test 248-03, confirm that the adhesive has properties beyond our understanding.
+
+After failing to remove a sticker, a second sticker was added near the first to test if SCP-248 has "stack-able" abilities. The first speed trial observed SCP-248-1 reaching 84 km/h, which is indeed 220%. However, after a 15-minute period, the tractor showed advanced signs of oxidation wear. After a total of 36 minutes of use with both stickers, SCP-248-1 had almost completely turned to rust and lost all form. At this point the stickers fell free from the pile of rust and were gathered by Dr. Mize for testing.
+
+Results show that the resin had formed a chemical bond, as with the biological matter, and only broke that bond after the original composition of the matter it was attached to had changed. It should be noted that there is no longer resin on the stickers and they no longer stick to surfaces. SCP-248-1 neutralized.
+
+-If this item was mass-produced, like it is assumed that other "Factory" SCPs were, we could have potentially struck gold! If a power grid can be made to function without the degenerative effects of SCP-248, free-flowing power could be possible at room temperature! I will personally begin researching "The Factory" and its whereabouts as soon as High Command approves.
+
+-Dr. Mize

@@ -1,0 +1,69 @@
+Item #: SCP-776
+
+Object Class: Euclid
+
+Special Containment Procedures: A 6.5 meter wall with posted guards and a surveillance system has been built around the town inhabited by SCP-776-A. Civilians are under the impression that this marks the territory of a government research facility. Site-██ has been established within these limits for research into the anomalous properties of SCP-776-A. Personnel assigned to SCP-776-A are free to interact with its members at any given time, but are encouraged to limit such contact to only that which is needed to further understanding of the SCP. Interaction with members of SCP-776-A is limited strictly to testing in light of the events of Incident 776-3. No individual who is part of the SCP-776-A group is allowed to leave the town under any circumstances.
+
+Description: SCP-776-A is the adult population of a remote town located in the far northwest corner of Russia, estimated at 6██ individuals. The members of SCP-776-A have discovered a method of reversing biological aging, designated SCP-776-B. The ritual involves the sacrifice of a human being who must be younger than the performer of the ritual, with children being the preferable subjects of sacrifice. The complete instructions for enacting SCP-776-B have been recorded in Document 776-109-Alpha, a Level 776-4 restricted document. Members of SCP-776-A claim to have been using SCP-776-B since 18██ to sustain eternal life and semi-eternal youth. Members of SCP-776-A refuse to divulge the origins of SCP-776-B. The average age of SCP-776-A members ranges from 23 to 51 years of age. This cycle of aging progresses as follows:
+
+From 23 to 39 years - After regressing in biological age as a result from enacting SCP-776-B, members of SCP-776-A lead considerably active lives, some claiming to have made regular travels abroad when they had sufficient funds to do so. Members of SCP-776-A are also notably lenient in sexual conduct, with married couples frequently partaking in affairs with each others' consent. The overall demeanor of SCP-776-A members is most positive during this period, and a general increase in cooperation is observed during this period. Any pregnancies resulting from the increased sexual activity during this period are terminated by SCP-776-A members as soon as possible.
+
+From 39 to 51 years - Members of SCP-776-A prepare their homes for supporting children as they approach the age of 40. Once the average age of SCP-776-A is 40, members engage in sexual intercourse for the purpose of procreation. Members spend the next approximate 11 years raising their children. SCP-776-A members show signs of depression during this period.
+
+At age 51 - Members of SCP-776-A bring their children to warehouse-like structures near the outskirts of the town to enact SCP-776-B. Each individual enactment of SCP-776-B takes approximately 20 minutes to complete. SCP-776-A members exit the structures approximately 28 years younger than before. The interior of this structure is slated for examination.
+
+SCP-776 was discovered in 19██ after an individual named ██████ ███████ who had stumbled upon the town in 19██ revisited it 12 years later after remembering the hospitality of its citizens. Upon entering the town, ███████ noticed that the town was filled with young adults instead of the families he had encountered during his first visit. ███████ reported that when he questioned a citizen about this, the citizen immediately turned hostile and attempted to murder him. ███████ successfully escaped the town and reported it to nearby authorities. The Foundation soon took notice and took over investigation and administered Class A amnesiacs to Mr. ███████. After a heated debate, the members of SCP-776-A agreed to allow the Foundation to isolate and study them.
+
+SCP-776-A claim their town's name to be ███████. Another town with this name was abandoned in 19██; however, the town populated by SCP-776-A was discovered in 19██, ██ years before the abandonment of the aforementioned town. Russian government officials claim to not have been aware of SCP-776-A's existence nor the town they inhabit, stating never to have plans to build another ███████. SCP-776-A members claim to have no knowledge of when or why "███████" was founded, saying that none of their elders ever discussed the topic.
+
+Incident 776-3: On 03/██/20██ at ████ hours, approximately ███ individual SCP-776-A members launched an assault on Site-██, killing ██ personnel, including █ guards and █ scientists. The remaining guards used their combined force to suppress the attack, killing ██ members of SCP-776-A in the process. The organizer of the group, SCP-776-A-276, was apprehended for interview while the rest of the attacking group was terminated.
+
++ Interview 776-6
+
+- Interview 776-6
+
+Interview 776-6
+
+Interviewee: SCP-776-A-276
+
+Interviewer: Dr. █████
+
+Date: 03/██/20██, ████ hours
+
+Foreword: Interview log is translated from Russian. Dr. █████ was accompanied by 2 security guards to ensure 276 would cause him no harm.
+
+<Begin Log>
+
+Dr. █████: 276, would you care to explain why you lead an attack on Site-██?
+
+276: Don't call me that. Call me by my real name, [REDACTED].
+
+Dr. █████: Very well, then. [REDACTED], why did you organize an attack on our facility?
+
+276: …I suppose there is no point in hiding it now. You scientists are really the only hope we have left. You see, the town has been having…problems…as of recent.
+
+Dr. █████: Please elaborate.
+
+276: We've been trying to raise children again…for the process, but a lot of the townspeople haven't been able to have children anymore. No matter how much they try, none of the women can get pregnant. Well, some can, but…
+
+(276 sighs and pauses for 5 seconds)
+
+276: The babies…they come out all wrong. I've heard of some with too many eyes, and not enough skin, others that look like they had been dead long before they exited the womb. They don't live past a few days at most. We thought we could find a cure if we searched your labs. I originally thought my wife and I were safe, after we had a perfectly healthy child…but then…
+
+(276 is silent for 8 seconds)
+
+Dr. █████: Please continue, [REDACTED]
+
+276: …My most recent child always seemed uncomfortable around me and my wife, always preferring to be alone. I didn't think too much of it, but then the time came when my child could speak properly, when she was around four years old…I've kept her locked in the basement ever since.
+
+Dr. █████: What was it that your daughter said?
+
+276: …She said, "Papa, why did you do that to me? Why did you [DATA EXPUNGED]. I…I didn't even notice how much she looked like my fourth daughter up until that moment…
+
+(276 begins to sob)
+
+Dr. █████: …276?
+
+(276 falls to the floor, still sobbing. The guards approach and escort 276 out of Site-██)
+
+<End Log>

@@ -1,0 +1,169 @@
+SCP-1416-1 prior to disappearance from Sector-25
+
+Item #: SCP-1416
+
+Object Class: Safe
+
+On ██/██/20██ SCP-1416-1, the anomalous object formerly designated SCP-1416, was discovered no longer to be in the possession of the Foundation. The following Special Containment Procedures therefore pertain only to any remaining samples of SCP-1416-2 produced during testing of SCP-1416-1 between ██/██/20██ and ██/██/20██.
+
+Special Containment Procedures: Preparations of SCP-1416-2 should be kept in clearly labelled airtight containers within a standard refrigerated storage unit in Safe Wing-C at Sector-25. Due to the severely limited remaining supply of SCP-1416-2 and unresolved security implications arising from prior experimentation, any further test proposals should be submitted in writing to sector management.
+
+Description: SCP-1416 currently comprises 14 samples of a refrigerated liquid substance, designated SCP-1416-2 - produced using SCP-1416-1, which is no longer in containment. Chemically, each sample consists of pure distilled water, trace minerals from SCP-1416-1 and biological matter from a human tissue sample. A full inventory of extant samples can be found below (see Addendum-1416-01).
+
+When ingested by a higher primate, samples of SCP-1416-2 induce one to three seconds of highly erratic brain activity, registering on EEG as pronounced gamma rhythms. When questioned, human test subjects almost without exception claim to have experienced during this period the entire lifespan of the individual whose tissue was used to prepare the SCP-1416-2 sample, which may be many decades of subjective time. Test subjects are further able to relay considerable information previously unknown to them regarding the donor individual; however, subjects state they had no memory of their real identity during their experience.
+
+Access archived description
+
+Close archived description
+
+Description: SCP-1416 is a ceramic vessel apparently designed for the preparation of tea, in the shape of a human head with Quapaw facial markings. Thermoluminescence dating indicates SCP-1416 to have been manufactured in the mid 16th century.
+
+SCP-1416's anomalous effects become apparent only when a sample of human flesh of 17mg or greater is placed in the vessel prior to boiling water within it. The resulting liquid, when ingested by higher primates, induces highly erratic brain activity and rapid memory formation which is subjectively perceived as experiencing the entire lifespan of the individual whose flesh was used to prepare the liquid.
+
+Addendum-1416-01:
+
+SCP-1416-2 Preparation No.
+
+Date Created
+
+Tissue/Donor
+
+Notes
+
+1416-2-1
+
+Unknown
+
+Index finger/male, Caucasian, 30-40
+
+Tissue found in SCP-1416-1 prior to containment - likely not sampled under experimentally sound conditions.
+
+1416-2-2
+
+██/██/20██
+
+Distal phalanx/male, Black African, 26
+
+Donor has history of mental health problems, received a discretionary life sentence for aggravated rape - D-Class subjects administered this preparation have been noted to subsequently exhibit atypical behaviour consistent with the donor's offender class.
+
+1416-2-3
+
+██/██/20██
+
+Intermediate phalanx/male, Black African, 26
+
+'' ''
+
+1416-2-4
+
+██/██/20██
+
+Proximal phalanx/male, Black African, 26
+
+'' ''
+
+1416-2-5
+
+██/██/20██
+
+Intermediate phalanx/male, White British, 55
+
+Subject convicted in ██/██/198█ of multiple murders; testing of 1416-2 samples from the subject indicated this not to be the case.
+
+1416-2-6
+
+██/██/20██
+
+Ear/male, White British, 55
+
+'' ''
+
+1416-2-7
+
+██/██/20██
+
+23mg biopsy/female, Pakistani, 23
+
+Subject had been administered SCP-1416-2 prior to biopsy sample - preparations of this nature determined effective in capturing 'nested' experiences but also frequently induce disorientation and identity confusion.
+
+1416-2-8
+
+██/██/20██
+
+23mg biopsy/male, Orangutan, 5
+
+Other samples of this nature shown ineffective in inducing gamma activity.
+
+1416-2-9
+
+██/██/20██
+
+25mg biopsy/male, White British, 28 and 25mg biopsy/male, Pakistan, 33
+
+Other blended samples of this nature produced a confused and truncated experience but may still be of limited value.
+
+1416-2-10
+
+██/██/20██
+
+17mg biopsy/male, White British, N/A
+
+Stillbirth, sample effective - donor tissue from ███████ ████ Hospital, Surrey. Notably samples of this nature do not induce an objectively shorter period of gamma activity than samples where a much longer period of time is experienced.
+
+1416-2-11
+
+██/██/20██
+
+Proximal phalanx/male, Caucasian, 50-60
+
+Donor tissue from preserved corpse circa ~4,000BCE; other samples of this nature have proven effective.
+
+1416-2-12
+
+██/██/20██
+
+Finger/male, White and Black Caribbean, 36
+
+Subject was a suspected collaborator with Group of Interest Marshall, Carter & Dark. Two other surplus samples were created from this subject but were since destroyed.
+
+1416-2-13
+
+██/██/20██
+
+25mg biopsy/female, Chinese, 27
+
+Biopsy donated by Junior Researcher Chen: see Dr Barker's statement below.
+
+1416-2-14
+
+██/██/20██
+
+17mg biopsy/████, █████ ███████, ██
+
+Classified by order of ██-██.
+
+Incident Report 1416-████-1:
+
+On ██/██/20██ an experimental procedure devised by Junior Researcher Linda Chen to better verify the retention and accuracy of memories encoded via ingesting 1416-2 was approved by Dr Barker. This procedure involved the production of several preparations of 1416-2 from a punch biopsy donated by Junior Researcher Chen, which were then to be administered to D-Class subjects.
+
+A risk assessment was produced for the experiment, including the possibility of test subjects acquiring sensitive information about the facility or other Special Containment Procedures. Junior Researcher Chen's lack of prior involvement with Euclid and Keter-class or memetic objects was considered to play a prominent role in the approval of the test proposal.
+
+D-3127, formerly an inmate of HMP Belmarsh, was administered a sample of 1416-2 produced using Junior Researcher Chen's biopsy and exhibited a highly atypical response to the substance; the subject claimed that he was, in fact, Junior Researcher Chen and that he strongly believed the individual who had previously administered the sample to now be D-3127. He elaborated his theory that SCP-1416 transfers consciousness between the donor and the subject, contrary to existing theories as to the object's method of operation.
+
+Sector management directed that despite the high possibility of D-3127 being either delusional or deliberately attempting to mislead Foundation staff, there was no alternative but to subject both D-3127 and Junior Researcher Chen to Procedure 552-Hepburn to eliminate the possibility that a transfer of consciousnesses had taken place. Ultimately it was concluded that such a transfer had not taken place due to signs of confabulation and evasion present in D-3127 under high-level interrogation that were not present in Junior Researcher Chen under the same levels of duress.
+
+After the conclusion of the procedure Junior Researcher Chen was permitted six months' paid leave. On her return sector medical staff declined to certify her ready to resume work and she has since opted to discontinue work with the Foundation.
+
+I take full responsibility for the failure to foresee an attempt by a D-Class subject to manipulate facility security in this fashion, and for the subsequent psychiatric issues suffered by Junior Researcher Chen following psycho-epistemological interrogation as part of Procedure 552-Hepburn. I am unfortunately unable to comment on any authorised or unauthorised use of SCP-1416-1 which may have taken place immediately following Incident 1416-████-1 and must again refer security staff investigating the disappearance of the object to the chain of command. - Dr Barker
+
+Addendum-1416-02:
+
+A standard inventory of Safe Wing-C items on ██/██/20██ by Junior Researcher Nielsen determined that the containment locker logged as containing SCP-1416-1 was in fact empty. An investigation and review of CCTV and access logs was carried out; however, exceptional circumstances mean that much of this data is classified at a level beyond normal sector security. Attempts have since been made to reconstruct the last point at which the object was seen by any given staff member, including the collection of affidavits as to lives subjectively experienced through the testing of SCP-1416-2:
+
+Access 1416-1 Staff Access Timeline
+
+Close 1416-1 Staff Access Timeline
+
+Linda Chen, formerly a Junior Researcher at Sector-25, opted to provide the following statement in lieu of a sworn affidavit when contacted:
+
+I want this on the record. If I had done it, I would have taken a hammer and smashed it into a thousand pieces, right in front of everyone. That's the only way you can be sure. I've had a lot of time to think about this. As long as it exists, you can't be sure who you are. You might be you. Or you might be someone else experiencing your life in the future. And you start wondering, does it even matter which? The only thing you can know for sure is that if you see someone die, you can't be them. I saw D-3127's body after they pulled it out of that room. That's the only way I know I'm not him, drinking another cup of me. Or worse, someone drinking a cup of him, experiencing him drinking a cup of me. Do you get it? Until you see the teapot dead, you don't know anything.

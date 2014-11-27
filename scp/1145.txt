@@ -1,0 +1,49 @@
+Image of SCP-1145 Secured in Borosilicate Recovery Unit
+
+Item #: SCP-1145
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1145 is to be contained in a 2m x 2m x 2m Borosilicate glass enclosure at least 15cm thick. This enclosure is to be placed in a containment chamber at least 50m x 50m x 29m and monitored for any persons coming within 5m of the chamber. Within this chamber, 10m outside of the object's enclosure, should be two standard human containment cells with basic necessities. (Labeled Containment Chamber 1145-2 and 1145-3, respectively) One Class-D Personnel must occupy each cell at all times for the eventuality that SCP-1145 will enter its active state.
+
+The borosilicate enclosure is to be filled with water at all times. The water is to be changed on bi-annual basis. Use of Class-D Personnel has been approved by O5-6 to carry out refill procedures in order to minimize researcher risk.
+
+Under no circumstances are research personnel permitted to enter SCP-1145's containment chamber without NBC gear. Should exposure occur, subjects are to be immediately decontaminated and transferred to another site. Eight xenon short-arc lamps outside of the enclosure are to be operated during the bi-annual refill of the borosilicate enclosure. These lamps are to be replaced once yearly. At no time should the object be illuminated by under 20 lumens unless for approved testing. Following Incident 1145-4 (See Experiment Log 1145), no personnel above Class-D are permitted to be within 15 meters of the object. Testing with SCP-1145 is subject to approval only by Level 4 or above Personnel, and carried out by Level 3 or above Personnel. [ALL EXPERIMENTATION AND TESTING OF SCP-1145 CANCELLED UNDER ORDER OF O5-6]
+
+Description: SCP-1145 is a stuffed bear approximately 30 cm tall recovered from Nagasaki, Japan in 19██. Outer fabric consists entirely of leather taken and cured from Ursus thibetanus. The seams are stitched with heavy strands of an unidentified fibrous connective tissue. No attempt has been made to breach the outer covering of the object, as containment protocols do not permit contact with the object long enough to retrieve an inner sample. Aside from a rudimentary snout, SCP-1145 has no facial features. SCP-1145 weighs 9.4 kg, which is considerably heavier than similar stuffed bears of this size; the cause of this discrepancy in weight is unknown.
+
+SCP-1145 is radioactive, with doses measured between 2.7 and ████ PBq. In its inactive state, the object emits this radiation consistent with the decay chain of Pu-239 (Pu-239 -> U-235, Alpha decay) and of Pu-241 (Pu-241 -> Am-241, Beta Decay). Unlike samples of Pu-239 and Pu-241, however, the object does not emit any of the gamma radiation normally associated with radioactive decay.
+
+The amount of radiation SCP-1145 emits at its base level is 2.7 PBq. This increases at a rate of ████ MBq/s if the object is not illuminated. The presence of water in the enclosure is sufficient to absorb any radiation emitted from the object. Due to the effects of Cherenkov radiation, the water also has a side-effect of providing sufficient illumination to prevent SCP-1145 from transitioning states.
+
+When left unilluminated for a period exceeding 3 seconds, the object will enter its active state. When in this state, the object emits gamma radiation. SCP-1145 will begin moving in the direction of the nearest human being. Its method of locomotion is unknown. However, testing has shown the object moves at a speed of approximately 45 meters per second. When in this state, the object is capable of passing through any substance, highly irradiating any surface it passes through, but causing no visible structural damage.
+
+Immediately upon coming to rest within 1m of its target, SCP-1145 will begin to increase its emissions at a rate of ████ PBq every 30 seconds. The emissions will continue to increase until the object has been picked up by its target. Once picked up by its target, the emissions will return to base levels as long as the subject maintains unshielded skin contact with it. Upon expiration of its target, SCP-1145 will revert to its inactive state. Should the subject expire while the object is unilluminated, SCP-1145 will immediately resume its active state.
+
+Experiment Log 1145
+
+Collapse Entry
+
+Incident Log 1145-4
+
+Original Purpose: Determine reason for unusual weight of SCP-1145 by obtaining inner sample of object.
+
+Method: Subject D-1145-59 housed in Containment Chamber 1145 given one (1) pair surgical tweezers. D-1145-59 tasked with attempting to retrieve inner sample of object. Dr. Lucas Cave performing experiment, Security Officer ██████ observing.
+
+Incident Report: D-1145-59 instructed to separate seam of object with tweezers, and describe substance inside. Subject reported that it appeared to be filled with an unidentified metallic substance, silvery in appearance. Subject then reported a metallic taste in her mouth. Shortly after, subject began to vomit, dropping the object.
+
+D-1145-59 continued vomiting for another 90 seconds, and lost consciousness. Security Officer ██████ instructed to enter cell and affix object to D-1145-59 with adhesive tape. Subject awakened during the process, and became violent. In the ensuing scuffle, the light in Containment Chamber 1145-3 was disabled, and a single shot was fired from Security Officer ██████'s service pistol. Subject expired. Security Officer ██████ becomes target for SCP-1145, moving to rest at his feet.
+
+Containment Protocol revised to prevent unnecessary exposure to site personnel.
+
+Security Officer ██████ reclassified as D-1145-60.
+
+Experiment Log 1145-7
+
+Purpose: Determine possible limits regarding the object's detection and pursuit of targets during its active state.
+
+Method: SCP-1145 transported to remote Site ███. Perimeter of 100km cleared of any personnel and inhabitants for the duration of testing. One personnel D-1145-24 placed in 5m3 containment cell 99km from site. Radiation detectors placed along path of estimated trajectory before illumination halted on object.
+
+Result: After light was extinguished, object began emitting gamma radiation. Object travelled along expected path of trajectory at a height of approximately 1m off ground level, passing through foliage as expected. After approximately 20 minutes of travel, radiation detectors reported emission at 440 PBq. Object arrived at target 36 minutes, 27 seconds after illumination ceased. Dose reported on arrival to target measured at approximately 639 PBq. D-1145-24 expired within 4 hours of receiving the object due to acute radiation poisoning. Postmortem analysis estimate the total dose recieved to be approximately 72 Sv.
+
+Site ███ and path of trajectory severely contaminated, requiring 26 months of cleanup to remove all traces of radiation. All further experiments cancelled under order by O5-6.

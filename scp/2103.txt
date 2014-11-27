@@ -1,0 +1,105 @@
+Typical quart-sized Mason Jar.
+
+Item #: SCP-2103
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2103 is to be contained in a Safe Object locker when not in use for testing or experimentation. When so stored, SCP-2103 is to be directly contained in a small (no larger than 1m along any dimension) storage case suitable for transporting fragile, glass-like items. This case is to remain open inside the locker and under automated surveillance at all times; specifically observed by an automated process that is able to detect motion and non-motion based visual changes (such as color changes) to the observed area. Any such observed change must be immediately reported to the research team appointed to SCP-2103.
+
+Due to the object's low tolerance for physical stress and heat, tests to determine SCP-2103's composition are halted indefinitely.
+
+Update 10/23/2013: As of Incident 2103-04, no new Lead Researcher or similar position of singular authority is to be appointed to the object's research team. The research team will consist of no fewer than seven qualified research staff, all of which must be consulted when changes to SCP-2103's containment are made or decisions about the testing methods used on the object are determined. In the event that all members of the research team agree unanimously on a course of such action, one team member is to be selected in an immediate, random fashion1. This team member is to adopt a documented dissenting opinion that is to be attached to the log or proposal that is chosen to be put in effect.
+
+If a member of the O5 Council wishes to countermand an action by the research team, a similar procedure, involving at least three members of the Council, must be executed.
+
+Description: SCP-2103 is visually identical to a typical American-made "Mason Jar" glass container. When not displaying anomalous properties, it is able to contain one quart of liquid (assuming the lower hole is blocked) or equivalent volumes of any other material. Unlike typical Mason jars, there is no brand name, logo, manufacturing data, or similar embossment on the glass. There is also a 25mm diameter hole in the center of the jar's bottom, with smooth edges that appear to be part of the original design and not created afterwards. The jar section is made of a material similar in transparency and density to glass, but has shown a much lower resistance to heat and physical stress than glass.
+
+When used to hold physical objects, SCP-2103 displays no unusual properties - items placed into the top of the jar either remain in the jar or exit through the bottom hole if they are of proper size or makeup to do so. However, the holderowning entity2 (see following for details) may store concepts or ideas into the jar through a poorly understood process.
+
+For the purposes of SCP-2103, "ownership" by an entity is loosely defined as said entity having widely acknowledged (or uncontested) legal, moral, or physical responsibility and dominion over the item. The exact parameters of ownership varies somewhat from item to item, suggesting some manner of sentience or programmed decision making process on the part of SCP-2103. For the most part, concepts and ideas that only affect a single individual seem the most easily "owned", while larger concepts that a wide array of individuals understand, are affected by, know about, or make use of fail this criteria.
+
+SCP-2103 is apparently3 capable of storing a single concept or idea (referred to hereafter as "item") at a time. When so stored, knowledge of the item is removed from reality - the previous owner and others cannot recall the item, and depending on the item in question may or may not be able to realize that something is missing at all. SCP-2103 seems to have further limited reality-altering potential, as in many cases the storage of the item causes shifts in reality accordingly as if the item had never been a part of reality.
+
+Due to Incident 2103-04, SCP-2103 has shown an ability to store physical objects under certain circumstances. See Incident Log 2103-04 for further details. Intentional testing to recreate these conditions is pending review but currently forbidden.
+
+SCP-2103 was acquired by the Foundation following a series of Internet postings referring to a "counselor" who promised his clients the ability to eliminate grief and emotionally painful events from their past. After five separate and unrelated accounts of SCP-2103's properties in action (clients discussing a "therapy jar" and an inability to recall certain events they had posted about previously) Foundation observers were sent to contact the counselor under the guise of potential clients. The owner was unwilling to part with the item for various sums of money or other offered exchanges, and proved unaffected by amnesiacs administered by agents on site. After a short confrontation, the subject escaped but SCP-2103 was recovered.
+
+The previous owner of SCP-2103 remains a person of interest to the Foundation. See related Report A-2103 for details.
+
++ Access Testing Log 2103
+
+- Access Granted
+
+Note: For brevity, unusual or notable testing results have been highlighted in the following list, along with E-2103-T1 (Test 1) for baseline comparison. For a complete log of tests and results, please see document E-2103-T1 through E-2103-T157.
+
+Test E-2103-T1
+
+Subject: One standard ballpoint pen issued to Foundation research team members.
+
+Procedure: SCP-2103 is held approximately one foot above a flat, unoccupied table and pen is dropped in from a height of six inches.
+
+Results: Pen falls through jar, exiting bottom hole.
+
+Analysis: SCP-2103 shows no unusual properties in regards to physical objects. Similar tests with different items of different composition to follow.
+
+Test E-2103-T12
+
+Subject: Assistant researcher's recollection where he parked.
+
+Procedure: A research assistant handles the jar and tries to focus on the memory "going into" the jar. After questioning the researcher to determine success or failure, the memory will be removed through a similar process.
+
+Results: After five seconds, the research assistant is asked if it worked and responds that he was not certain. Assistant is questioned about where his car is parked and responds that he knows but then cannot recall. Assistant shows mild distress and then is able to recall.
+
+Analysis: It is difficult to be certain if the process functioned as expected, due to no indication from the jar. It is possible the research assistant simply had a momentary lapse of memory. Additional testing conditions, specifically to measure success or failure, recommended.
+
+Test E-2103-T13
+
+Subject: Lead Researcher Morris' shoe size.
+
+Procedure: Dr. Morris writes down his shoe size and then attempts to store the information in SCP-2103. After indication of success or failure, the memory will be removed by a similar process.
+
+Results: Dr. Morris takes notes as indicated, then attempts to place the idea of his shoe size into the jar. After five seconds, a research assistant checks the notes and finds where the indication had been, the page is blank. Dr. Morris takes a look at the page, attempts to write down what was there previously, and finds he cannot remember. Memory retrieved afterwards, page returns to normal.
+
+Analysis: As theorized by Dr. Morris, the storage of an idea removes dependent indicators from reality as well. Dr. Morris also noted that during the time his memory was stored, as soon as his attention was drawn to his feet, he felt as if his shoes were too big and too small at the same time. Review of footage after the fact indicates a slight discoloration (yellow/brown in color) of the upper opening of SCP-2103 upon activation.
+
+Test E-2103-T57
+
+Subject: Assistant researcher Jameson's memory of a dead dog. Assistant researcher Santos' memory of breakfast this morning.
+
+Procedure: Dr. Jameson will begin by placing his memory in the jar, then Dr. Santos will do the same. Both researchers will write down some significant part of the memory in order to indicate success or failure. Memories will be retrieved in reverse order.
+
+Results: Dr. Jameson places memory of his dead dog in the jar, and hands SCP-2103 over to Dr. Santos. Dr. Jameson is then questioned about his dog, and cannot recall. As Dr. Santos is executing his part of the test, Dr. Jameson then begins to remember, and written indicators about the memory return to the paper upon which they were written. Dr. Santos' memory is stored as expected and then retrieved. Upon further examination of notes made, a small, handwritten note reading "I told you it's not for that, please stop" in English appears near Dr. Jameson's description of his memory.
+
+Analysis: SCP-2103 seems capable of only storing one item at a time, immediately ejecting the previously entered one. However, as routine study of "patients" seen by SCP-2103's previous owner indicate that they have not regained such memories, it is possible that the jar has an unknown method of storing multiple items, or the previous owner was using multiple such jars. The spontaneously added note is currently being analyzed for handwriting, but was written in the same ink used by Dr. Jameson. Given the possibility of sentience involved with SCP-2103's operation, the item is classified as a potential security leak and memories, concepts, ideas, etc relevant to the Foundation are not to be tested.
+
+Test E-2103-T145
+
+Subject: Assistant researcher Santos' hygiene habits.
+
+Procedure: Assistant researcher Santos looks at the jar and thinks about placing the details of his morning hygiene routine into the jar. Ballpoint pen inserted into SCP-2103 after success or failure of attempt established.
+
+Results: One second after test is initiated, Dr. Santos expresses extreme pain and collapses to the floor. Dr. Santos shows no signs of life and emergency medical teams are unable to revive him. Autopsy reveals multiple infections, diseases, and other medical issues associated with a lack of personal cleanliness. The memory from a previous test is inserted into SCP-2103 and three seconds later, Dr. Santos' corpse loses the transformations gained at the start of the test, but shows no sign of life. Unmeasured moments later (estimated at five seconds), a piece of 8.5" x 11" paper is ejected from the jar with the words, "Sorry, I gave back what I could," written in English. Testing on handwriting, ink, and paper is ordered.
+
+Analysis: While SCP-2103 seems to be able to store concepts, there is apparently a limit to how they can be restored when ejected from the item. Testing in this vein suspended pending 05 review.
+
++ Incident 2103-04 Report. (ACCESS TO LEVEL 3 PERSONNEL OR ABOVE ONLY)
+
+- Credentials Accepted
+
+On 10/18/2103, Head Researcher Morris activated SCP-2103 without his knowledge, leading to a breach situation. The catalyzing event was not directly observed by reporting staff, but has been pieced together from verifiable testimony after the fact. While having lunch with several colleagues, Dr. Morris was discussing his current domestic issues with his daughter. According to testimony, Dr. Morris stated that he felt guilty because sometimes he "really wished [he] could just stuff [his] pain-in-the-ass kid into that jar for a little while."
+
+Due to SCP-2103's reality-altering properties, the activation event was not noticed immediately. When SCP-2103's associated paperwork was later being reviewed after testing, a research assistant notified Dr. Morris that an item from a previous test (a researcher's memory of how many paper clips she placed in a box) had been restored. This prompted the researchers to realize the item had been activated. Senior site staff deliberated on what to do, since it was uncertain what had gone into the jar and how. After several days of preparing for various possible scenarios, SCP-2103 was activated again using the previously stored memory. The result was a return of Dr. Morris' daughter to reality, but deceased. The finer detail's of the corpse's features (eyelashes, hair, pores, clothes threads, and so on) were blurred and indistinct. A note similar to the one encountered in E-2103-T145 was ejected4.
+
+In the aftermath of Incident 2103-04, Dr. Morris has theorized that SCP-2103 is able to, over time, acknowledge an "owner" that is able to activate SCP-2103 without physical proximity. Returned concepts seem affected in quality by either the recollection at the time of entry or retrieval, as evidenced by the state of his daughter's return. This has led to the current containment protocols, developed by Dr. Morris before his withdrawal from the SCP-2103 research team.
+
+Due to the current psychological stress on Dr. Morris and ongoing psychiatric care and marriage counseling, Dr. Morris' clearance has been reduced to Level 1 (with the exception of family loss compensation guidelines set for Level 3 Researchers, to which Dr. Morris remains entitled) until further notice.
+
+Footnotes
+
+1. Such as rolling a die, playing "rock, paper, scissors" between any members who have not been selected for this duty in a certain time period, predicting coinflips, etc.
+
+2. "Entity" can refer to an individual of animal intelligence or greater, or a collection of such individuals with joint authority as noted in the following statement.
+
+3. As it is difficult to quantify a number of ideas, as certain concepts have logical overlap, multiple ideas or concepts intersecting into one idea or concept is generally regarded as "one" for the purposes of testing.
+
+4. "You couldn't even remember her eyes?"

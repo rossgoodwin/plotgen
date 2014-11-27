@@ -1,0 +1,77 @@
+Item#: SCP-349
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-349 resembles a mundane graveyard and poses no apparent threat to the secrecy of Foundation operations or visitors to the site. Current containment protocols are limited to constant remote surveillance, the maintenance of a physical barrier to prevent casual unauthorized entry, and the assignment of a response team to deal with vandalism or other threats to site integrity. Plans exist to expand the site as necessary to accommodate theorized growth.
+
+Description: The artifact designated SCP-349-01 is a large granite tombstone, approximately 400 years old. The primary inscription reads "Nicolas Flamel", followed by the dates "1376-1606". Underneath these inscriptions, there lies the legend "you have failed" in large, capital letters. The tombstone is damaged and partially eroded, with several large cracks evident across its face. It was reported by Agent ███████, an amateur genealogist in cemetery plot near Bath, England on ███████████.
+
+SCP-349 is a cemetery located within a desolate forest clearing 3 km away. It was discovered after a thorough search of the area where SCP-349-01 was discovered. Because of allusions to restricted SCP-related information, Agent ███████ sealed the area and contacted the Foundation.
+
+The cemetery is surrounded by a black wrought-iron fence with a single Gothic-style arched gate. Inside are small memorials to a variety of individuals from around the world and from throughout recorded history (and possibly earlier). The area is apparently maintained through unidentified means, as weed growth and natural erosion are both inhibited within the fence's confines. The epitaphs are brief and vicious, and the inscriber appears to eagerly claim responsibility for the death of each individual. In some cases the inscriptions are particularly spiteful or vindictive, and seem to indicate personal animosity between the inscriber and the individual interred (See survey 349-B).
+
+An analysis of historical records has been able to confirm the existence of some of the individuals mentioned, often by way of mythology. All substantiated historical personalities appear to have pursued or supposedly attained eternal life, through a diversity of means. This does not appear to include those who were born with immortality, such as ██████████████████████, or races/species such as the [DATA EXPUNGED]. Among those identified are personages who are obscure, hidden, or only known to be unaging to certain esoteric orders, and whose existence is a secret to common knowledge. This includes ████████████████████ who are known only in Foundation records. Furthermore, the site references a number of famous figures who apparently passed on much later than historically recorded, such as Christopher Columbus, Sir Francis Bacon, and Albert Heim.
+
+Finally, there exists a small group of buried individuals for which we have no important files or mythology. A few have been tentatively identified as rich or eccentric figures of little renown from many places and times. Full information is available in survey 349-B.
+
+Individuals referenced within SCP-349 appear to have lived an average of 100 years longer than the mean lifespan at their time of death. The longest life recorded at the site as of this writing was, through careful study and comparison to ancient biblical gospels, theorized to be that of "The Wandering Jew" (750 years). Based on this figure's supposed death, it is hypothesized that [DATA EXPUNGED].
+
+Memorial materials and design, body preparation, burial style, religious symbolism, and inscription languages all appear to correspond to the era and culture in which the deceased was born. The oldest site identified is a carved pile of elephant bones, fit together with grooved notches and covered in incomprehensible pictographs and tribal marking. The earliest decipherable inscription is in Sumerian, on a simple rock dedicated to "Ku-Aya the Heart Eater": "You sold your clan into slavery and devoured the flesh of your family and received your reward" The corpses in most graves are in states of decay corresponding to their age, some of the older ones almost dust. Despite the variety of burial methods, close inspection reveals that a majority (~90%) of the plots show scratch marks on the material that was blocking escape, or signs of attempted tunneling to the surface. Nevertheless, each plot excavated so far has a corpse or set of bones afforded to it.
+
+The confirmed age of the various plots, the historical accuracy of its allusions, and the demonstrated familiarity of its keeper with classified Foundation knowledge of modern immortals suggests that SCP-349 is not a simple hoax. Containment has been established to facilitate study and to determine if contact can be made with the entity(-ies) responsible for it. Active intervention of these beings is theorized to have been responsible for ██████████████, as well as the demise of SCP-149-D while in Foundation custody during [DATA EXPUNGED]
+
+The latter is one of two unique instances where an entirely preserved body was unearthed, although the preservation seems to derive from properties the deceased displayed in life rather than any condition imposed in death. The other instance is the remnants of Calothisosi of Britannica (a little known mythological figure who could apparently withstand volleys of arrows and direct strikes with swords). In both cases, they were found with extreme terror on their faces, and their mouths were twisted as if screaming.
+
+Addendum 349-A: Deeper within the necropolis, excavators found a crypt holding a series of unrelated corpses placed together deliberately, apparently in a place of honor. Investigation into their identities [DATA EXPUNGED] Strict containment has been imposed to prevent any suggestion of this from reaching the public, as [DATA EXPUNGED].
+
+Inscription Survey 349-B:
+
+Nicholas Flamel
+
+1376 to 1606
+
+You have failed.
+
+Count Saint Germain
+
+1713 to 1901
+
+Nice Trick
+
+Tithonus
+
+-465 to -370
+
+Exactly what you wanted
+
+Sir Galahad
+
+1222 to [damaged]
+
+Pure thy heart shall ever remain
+
+Christopher Columbus
+
+1451 to 1520
+
+A whole new world to explore
+
+Sir Francis Bacon
+
+1561 to 1739
+
+Think of the children
+
+Albert Heim
+
+1914 to 2008
+
+A final solution
+
+Classified note 349-C: The legitimate nature of SCP-349 is corroborated by the apparent familiarity of its keeper with classified intelligence concerning extranormal individuals. The following incidents are referenced on a grave marker within the site. Where possible interred remains have been positively identified as the individual mentioned.
+
+[DATA EXPUNGED] individuals the Foundation has previously observed and registered as humans who have achieved immortality. Said individuals had either died bizarre deaths or escaped Foundation surveillance and disappeared. The locations of the other █ are currently unknown. ████████████ have expressed through limited contact that they are being “hunted", and that they do not trust the Foundation to protect them.
+
+The identities of all [DATA EXPUNGED] the serum apparently worked, and subjects displayed no adverse reactions until [DATA EXPUNGED]. Apparent paranoia persisted in [DATA EXPUNGED] No corpses were recovered.
+
+SCP-149-D, a high-powered Keter-class human who had attained apparent invulnerability and immortality after experimenting with springs and fountains located in ████████████ designated SCP-███. Containment of his holding cell was breached on his 117th birthday, and SCP-149-D was never recovered (presumed at the time to be escaped and at large). DNA recovered from the intact body was verified to be that of SCP-149-D.

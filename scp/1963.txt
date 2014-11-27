@@ -1,0 +1,43 @@
+SCP-1963.
+
+Item #: SCP-1963
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1963 is to be stored in a triple-locked safe in the director's office in a triple voice-activated safe in Site 38, to be opened only upon voice authorization from the director of Site 38 and two Level 4 researchers brought on Site for testing purposes. Testing of SCP-1963 requires direct approval from Level 5 research staff and all usage must follow such guidelines as are written for experimental purposes. Testing is to be carried out by D-Class personnel only. Any deviation from approved testing guidelines is to be met with immediate termination of all involved personnel.
+
+Description: SCP-1963 is a wooden slingshot that appears to have been handcrafted from commonly available materials; such testing as was successfully carried out appears to show that the wood is composed of common white oak, the sling is built from two repurposed lengths of rubber, and the tape around the body is standard gray gauze.
+
+Three anomalous properties are associated with SCP-1963 when individuals are in the physical presence of the object. First, an unusually high correlation exists between the use of SCP-1963 and unusual, often improbable, injury to individuals near the object, whether targeted or not; as the object is used more frequently, the seriousness of the injuries and the likelihood of collateral damage to nearby individuals will increase. Second, individuals in the presence of SCP-1963 will consistently and repeatedly express the opinion that the object is harmless and that safety protocols regarding its use are not to be taken seriously; while this behavior is not tantamount to a compulsion to use it, individuals near it will nevertheless invariably attempt to use the object in a humorous manner. Third, individuals encountering injuries inflicted by SCP-1963 will consistently express the opinion that such injuries are less serious or less likely to cause permanent damage than an equivalent injury inflicted with another device, even by the injured individual; this makes SCP-1963 even more dangerous, as injured individuals will not seek medical care unless compelled to do so, and even trained doctors will fail to acknowledge the seriousness of the damage, even after the onset of secondary symptoms or death. The latter two effects present themselves even among individuals previously informed of SCP-1963's abilities.
+
+Addendum 1963-A: Testing Log
+
+Test: 1963-22
+
+Personnel Involved: D-5165, D-1689
+
+Description of Orders: Two D-class personnel were ordered to enter the containment area for SCP-1963, pick up the object, examine it for defects, place the object back on its pedestal, and leave. For testing purposes, researchers were asked not to physically intervene under any circumstances.
+
+Description of Events: Both personnel entered containment area without event. Upon examining the item, D-1689 suggested she attempt to launch an object into the mouth of D-5165, who concurred. D-1689 removed a small candy from the pocket of her jumpsuit, loaded it into the sling, and fired it at her counterpart. The candy penetrated D-5165's eye socket and lodged itself in her orbital bone, causing significant bleeding, pain, and blindness (later discovered to be permanent) in that eye. D-1689 began laughing uproariously while apologizing; D-5165, while clearly in substantial distress, repeatedly asserted that "it was nothing" and that she would "walk it off." D-5165 waited until her counterpart's back was turned, gained possession of SCP-1963, loaded another candy into the slingshot, and fired at D-1689; the object entered her mouth and lodged itself in her trachea, causing death by hypoxia. D-1689 refused assistance, waving away her counterpart.
+
+Notes: Both D-class personnel had been searched before entering the chamber and were not in possession of any candy at that time. Candies tested but demonstrated no anomalous properties.
+
+Test: 1963-31
+
+Personnel Involved: D-5983, D-3403, Researcher Ellis
+
+Description of Orders: Same as previous tests. Researchers were authorized to provide assistance at their discretion. D-class personnel strip-searched before entry into testing chamber and confirmed not to be in possession of any foreign objects at that time. Both personnel were informed of SCP-1963's anomalous effects and warned against misuse.
+
+Description of Events: Both personnel entered containment area without event. D-3403 picked up the slingshot and began to inspect the object. Finding nothing of interest, he returned it to its pedestal. D-5983 picked up the object, examined it, and whispered something to D-3403 (not recorded by microphones in testing chamber). Both D-class personnel began laughing. Researcher Ellis ordered both personnel to maintain decorum. D-3403 loaded a small object (later determined to be a pebble) into the slingshot and fired it at the security camera, cracking the glass. Researcher Ellis was startled by the camera's malfunction, jumped from his chair, tripped, and fell to the ground, knocking himself unconscious. All other individuals in the room laughed; while medical attention was called, the delay before treatment was applied resulted in minor but permanent brain damage.
+
+Notes: As with all other tests, the pebble was not present in the chamber or in the possession of the D-class personnel. Pebble tested but demonstrated no anomalous properties.
+
+Test: 1963-35
+
+Personnel Involved: D-4398, D-4859, D-4320, D-1983, D-5389, Researcher Fern, Researcher Timms, Agent Dominic, Agent Juarez, Dr. Ypsilis, Dr. Hollis, Dr. McGehee
+
+Description of Orders: Five D-class personnel were given separate, contradictory orders with regards to SCP-1963; all were effectively ordered to keep the others from using the object, with force if necessary. Researchers were ordered to intervene only with medical assistance if necessary, and then only once security agents had secured the room.
+
+Description of Events: All five D-class personnel became hostile towards one another initially. D-4859 attempted to use the slingshot in a comical manner to defuse the situation, resulting in serious injury to D-4398. When D-1983 reached for the slingshot, D-4859 began rapidly firing multiple objects (later confirmed to be marbles) around the room at random; all marbles began to rebound off of nearby walls or surfaces and impact other personnel, causing increasingly severe injuries. Researcher Timms ordered Agents Dominic and Juarez to secure the room; when Agent Juarez acquired the slingshot, he began firing at Agent Dominic and the D-class personnel. As per protocol, Researchers Timms and Fern entered containment with three doctors to attempt to end the experiment (though Timms was heard to exclaim that he felt intervention to be unnecessary) and were fired upon by Agent Juarez. Once Juarez, who continued to use SCP-1963 on all personnel attempting to recover injured researchers while laughing, finally lost consciousness, additional security forces were able to enter and deliver affected individuals for medical assistance. Dr. McGehee was the only survivor.
+
+Notes: Security measures around SCP-1963 increased during future tests. All marbles contained for later testing.

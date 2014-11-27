@@ -1,0 +1,45 @@
+Item #: SCP-2349
+
+Object Class: Euclid
+
+Special Containment Procedures: A colony of SCP-2349 is kept in an artificial habitat in Site-86. The room housing this habitat is placed within one Faraday cage. Entrance to the habitat requires written consent of one (1) Level-3 Researcher. No metal objects are to be introduced to the habitat outside of regular feeding, including watches or other accessories. The SCP-2349 colony is to be fed 6kg of Iron and aluminum scrap and .5kg of insects killed without the use of pesticides, bimonthly. All instances of SCP-2349-1 are to be removed and destroyed regardless of stage if not allowed for testing purposes.
+
+Description: SCP-2349 are superficially similar to Camponotus alboannulatus1. All specimens of SCP-2349 consume metal and have little need for natural nutrition. SCP-2349 specimens have mandibles heavy in an aluminum copper alloy. Their saliva is heavily corrosive, enabling them to effectively burrow through metal. Additionally, specimen born into the worker caste have a specialized organ at the base of the mandibles which allow them to generate enough electricity in a bite to weld ferrous metals together. SCP-2349's nurse caste has been observed making metallic eggs and filling it with a slurry of unknown composition, it is theorized that these eggs are an inefficient way of reproducing without a queen.
+
+A deceased worker
+
+The initial SCP-2349 colony was found in Singapore. Reports of electrical failures, metal disappearances, and unusual radio signals prompted Foundation investigation. Electromagnetic interference caused numerous equipment failures within 1 kilometer of the hive. Within this range instances of SCP-2349-1, metal beacons created by SCP-2349, were discovered, with denser clusters being found nearer to the hive. These retrieved instances were measured with an average height of 189.4 centimeters and an effective broadcasting range of [REDACTED] kilometers, the largest to date.
+
+Once a colony of SCP-2349 is established, generally in an area rich in ores and at high elevation, construction of SCP-2349-1 begins almost immediately. SCP-2349-1 is the designation for any beacon created by SCP-2349. These beacons are made almost entirely out of the refined metal waste passed by SCP-2349, and exhibit very few patterns in their shape.
+
+Two instances of SCP-2349-1 made in captivity
+
+Once a relay of SCP-2349-1 has been built each instance will begin broadcasting an as of yet undeciphered signal. Each broadcast has been unique in all discovered SCP-2349 colonies. The purpose of these broadcasts are currently unknown (See Addendum 2349-B).
+
+When the Site-86 colony was split and allowed to construct SCP-2349-1 the two groups seemed to communicate with each other. To test this theory a D-class personnel was sent to the first half of the colony and was instructed to stomp near SCP-2349 specimen and generally impede their construction of SCP-2349-1. When the same D-class personnel moved to the second half of the colony, he was assaulted by the only warrior caste SCP-2349 observed to date. These specimen were noted to have formed a boundary around the colony in the direction the D-class personnel was going to arrive given the direction he left the initial group.
+
+After this event the two halves were merged once more and a Faraday Cage has been constructed around the enclosure to prevent any possible communications between the Site-86 colony and outside colonies. After the construction of these two cages the reproductive cycle of captive SCP-2349 specimen slowed significantly, and observed specimens moved as if in a daze lasting for three weeks after construction. The diminished re-population of the Site-86 colony was deemed acceptable to prevent any possible transmissions of classified data.
+
+Since the finding, and capture, of the initial colony only ██ infestations have been found. This, along with the stagnant number of SCP-2349 in Foundation captivity confirms their slow reproduction. While it is unknown what would result from allowing several separate colonies of SCP-2349 to produce SCP-2349-1 in such quantities as the initial colony, it is theorized that the electromagnetic fields generated would cause a complete failure of all electrical grids within ███ kilometers of the core beacon cluster.
+
+Addendum 2349-A: All SCP-2349-1 instances have been sparse and minute in size compared to the instances seen in the initial encounter. It is theorized that the low altitude of Site-86 has more to do with this than the diet provided.
+
+Addendum 2349-B: On ██/██/9█ a colony in ████ ██████, Argentina broadcast the only deciphered signal, a sequence of encrypted rudimentary Spanish, to date. Unfortunately the colony was destroyed by wildfire before it could be investigated further. The transcript of the broadcast follows:
+
+Begin Broadcast
+
+Colony ██-██ transmitting
+
+Position compromised
+
+Hive destruction imminent.
+
+Queen's whereabouts still unknown.
+
+Please come home.
+
+End Transmission.
+
+Footnotes
+
+1. as such, all individual types of SCP-2349 specimen will be referred to by the caste system of ants.

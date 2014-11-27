@@ -1,0 +1,37 @@
+Item #: SCP-600
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-600 is contained in a Class-E suite in Site 17, dimensions 15m x 15m x 3m. Two (2) security cameras monitor the subject at all times. A standard steel door with a reinforced double-paned window secures the suite. No special procedures are required for entering or exiting the suite, with the caveat that SCP-600 may attempt to follow researchers out of containment. A simple reprimand and order to return to containment has proved sufficient to curtail this behavior.
+
+Description: SCP-600 is a humanoid entity, approximately 1.7 meters tall, with a build approximating an adult human male of average weight for its height. The subject is generally featureless, lacking facial features, external ears, nails, body hair, genitalia, and anus. Full-body scans have shown SCP-600 to have no internal structures of any kind, instead being formed from an unknown material of uniform density close to that of human muscle tissue. It neither ingests, respirates, nor excretes. The subject's age has not been determined.
+
+SCP-600 telepathically affects all humans who view it, causing it to take on their superficial personal characteristics. This effect only alters the visual perception of affected persons; SCP-600's actual form can still be detected by cameras, sensors, and touch. The perceived resemblance between SCP-600 and an affected viewer is general and superficial; no viewers have found it to be notable or uncanny in any way. Characteristics imitated by the subject include, but are not limited to, hair color, skin color, eye color, approximate age, clothing style, and general physique. (Note that clothing imitated by SCP-600 is entirely illusory.) Animal tests reveal that non-human organisms appear not to perceive the subject unless they physically collide with it.
+
+When humans are present, SCP-600 will attempt to engage in conversation. Its conversational repertoire is limited; it will discuss trivialities such as weather and other "small talk", or attempt to commiserate with those present about professional matters as if it were similarly employed. Such discussions are superficial, filled with jargon appropriate to the person's area of expertise but consist largely of obvious statements and platitudes. Attempts at more substantial discussion are deflected, and SCP-600 displays no deep domain knowledge of any field of employment. When not in the presence of humans, SCP-600 is generally inactive, standing in a single pose for hours or even days at a time without any apparent reaction to outside stimulus.
+
+The subject is generally cooperative, but displays an unsettling tendency to refer to itself in the third person when speaking to researchers assigned to it, frequently referring to "the SCP-600 case". (See attached Interview Log 600-E for an example of this behavior.) It has requested that researchers refer to it as "George," but is not upset by refusal to do so.
+
+Interview 600-E
+
+Researcher ████████: Good morning, SCP-600. Today we are going to be performing some tests of your recall abilities.
+
+SCP-600: Hey, ████. No need to be so formal. I told you before, just call me George.
+
+Researcher: I don't think that would be appropriate.
+
+SCP-600: Ah ████, always the consummate professional. Anyway, how are the kids doing? ██████ must be getting pretty big, now.
+
+Researcher: I am not going discuss that with you. Now, if you would please look at the four images on this page…
+
+SCP-600: Oh, that's cool. Let's get down to business. Say, what are your thoughts on the SCP-600 case? He's certainly an odd one - not that we haven't seen our share of odd ones, ha ha. Personally, I think the containment procedures are a little lax…
+
+Researcher: Please try to focus on the exercise. Now, in the first picture…
+
+SCP-600: Do you think his ability is memetic? Wasn't Dr. ████'s team looking into that?
+
+Researcher: If you are unable to focus on the matter at hand, I will be forced to discontinue this exercise.
+
+SCP-600: Oh, sorry. It's just such a fascinating case. Do you want to get a beer after work? I have some theories I'd like to bounce off of you. I have a suspicion that [REDACTED] is tied up in this somehow…
+
+Researcher: This exercise is over.

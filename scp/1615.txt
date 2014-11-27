@@ -1,0 +1,43 @@
+Item #: SCP-1615
+
+Object Class: Safe
+
+Special Containment Procedures: All known specimens of SCP-1615, and material contaminated by SCP-1615, are kept in a secure storage area at Research Sector-██. The storage area used to contain SCP-1615 must comply with Biosafety Level 2 regulations, due to the low risk of aerosolization of SCP-1615. SCP-1615 is to be treated as a Level 2 biohazard at all times. Ingestion of SCP-1615 is forbidden except in the case of D-Class personnel for testing purposes.
+
+In case of SCP-1615 infection outside of testing, affected individuals are to be kept in an environment with a light level of under 5,000 lux for three days following ingestion. If symptoms arise, SCP-1615-1 instances are to be fed daily meals in excess of 2100 calories per day until symptoms cease.
+
+Should specimens of SCP-1615 be found to have been distributed to the general populace, a cover story is to be disseminated and affected individuals are to be quarantined until anomalous effects cease, and then administered Class-A or Class-B amnesiacs as warranted and released back into the civilian population.
+
+Food contaminated by SCP-1615 is to be destroyed in the field with the exception of samples taken for research purposes. All areas which have experienced SCP-1615 contamination are to be monitored for a possible resurgence in SCP-1615-1 cases.
+
+Description: SCP-1615 is a species of fungus which belongs to a previously unidentified phylum, similar to mold, that is capable of forming colonies on organic material. Unlike common molds, the fungus has not been observed to spoil food nor form colonies large enough to be visible without microscopic analysis. SCP-1615 seems capable of residing dormant in any infected item indefinitely, provided the item is not damaged by decomposition, dissolution, burning, or exposure to temperatures exceeding 250° Celsius.
+
+SCP-1615 does not present overtly anomalous properties until it is ingested by a human being. If an individual who has ingested SCP-1615 (henceforth designated SCP-1615-1) is exposed to a level of light in excess of around 10,000 lux within approximately 72 hours of ingestion, the subject begins to undergo a series of biological changes. SCP-1615 induces the generation of chlorophyll and associated accessory compounds required to perform photosynthesis, forming structures similar to chloroplasts within the subject’s skin cells. This change takes approximately two hours to fully manifest, and leaves the affected areas of skin with a green discolouration.
+
+The generation of chloroplasts in the skin allows SCP-1615-1 subjects to photosynthesize in order to produce energy. This process appears to be significantly more efficient than the photosynthesis seen in plants and cyanobacteria, with a far higher rate of glucose production, likely in order to make up for the amount of energy required for human movement. SCP-1615 seems to have a beneficial effect on SCP-1615-1, allowing SCP-1615 to generate energy without adequate food supplies or outside nutrition. However, reliance on SCP-1615 as the only source of sustenance can lead to malnutrition, as SCP-1615-1 instances cannot internally manufacture certain substances necessary to keep the human body healthy, such as various vitamins. As such, dietary supplements are necessary to keep SCP-1615-1 subjects in good health.
+
+The anomalous effects of SCP-1615 eliminate the need to eat in order to provide the body with sustenance in most cases, however water intake is still required. The effects of SCP-1615 persist indefinitely; however, should an SCP-1615-1 subject consume an amount of food in excess of around 1700 calories per day over the course of approximately seven days, the effects of SCP-1615 typically begin to wear off over the course of several days. In certain individuals the effects of SCP-1615 appear to be permanent. █ such individuals are known to exist, leaving the rate with which such reactions occur too low to be reliably estimated. At this time it is unknown why this only occurs to certain individuals.
+
+Addendum 1615-1: SCP-1615 was identified by Foundation personnel following a famine in ███████ in 199█. Approximately 200 people living in outlying villages in the region were affected by SCP-1615, necessitating the distribution of amnesiacs on those affected. SCP-1615 was apparently distributed by personnel working for the Manna Charitable Foundation as a form of famine relief.
+
+Manna Charitable Foundation operatives had maintained a high degree of contact with the villagers, and had informed them of the effects of SCP-1615 prior to distributing it. A degree of coercion was necessary to extract information regarding the Manna Charitable Foundation’s operations from the affected villagers. Despite this, the individuals involved in the original distribution of SCP-1615 were not located.
+
+Following this initial incident, SCP-1615 has been found in █ different cases. Foundation investigations into MCF activities have thus far failed to produce any living operatives.
+
+Addendum 1615-2: Following an investigation into the SCP-1615 distribution event in ████████ in 199█, Foundation agents recovered the following documentation from the building which had apparently been used as the distribution centre of SCP-1615. It appears to be a draft copy of a letter intended for delivery to a superior or colleague within the Manna Charitable Foundation.
+
+Dear [ILLEGIBLE]
+
+While I cannot understand why you feel the need to meddle you have decided to involve yourself in a project not under your purview, I can understand your anger at our distribution of the new rations without asking you first your permission.
+
+I can assure you, however, that there is no need for your anxiety. The rations are safe for human consumption, unlike the h and will not pose a threat to our beneficiaries.
+
+There are minor issues, but they are not anything like the kind you are afraid of.
+
+I’ve exercised the proper amount of caution, I promise you. I won’t make a mistake like the one you made. I understand why you are afraid, but we cannot allow ourselves to be held back by fear of
+
+The product is fully safety-tested, and holding the product back any longer would be irresponsible. It works. It is safe. I can promise you that.
+
+Addendum 1615-3: Following a SCP-1615 distribution event in [DATA EXPUNGED] during July 200█, SCP-1615 was found to have contaminated a significant crop of wheat in the area during the harvest the following year. This appears to have been accidental, as no Manna Charitable Foundation interference in the area was reported. As a result of this contamination, SCP Foundation operatives were forced to destroy the crop under the guise of a naturally-occurring brushfire. It is unknown how many casualties indirectly resulted from this operation.
+
+Following this incident, no SCP-1615 distribution events have been reported. The reason for the cessation of SCP-1615 distribution is as yet unknown.

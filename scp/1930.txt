@@ -1,0 +1,73 @@
+SCP-1930 at time of initial containment.
+
+Item #: SCP-1930
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1930 is stored in a standard Safe-class secure item locker at Site 19. Experimentation with SCP-1930 may only be performed with Class D personnel, and a digital audio recorder is to be kept on in SCP-1930's locker and checked every 24 hours for any anomalous audio, which should be forwarded to research staff for analysis.
+
+Description: SCP-1930 is a worn metal first-aid kit box consistent with those produced circa 1944 for the U. S. Army in World War II. SCP-1930 can be identified by a series of scratches on the bottom of the case (|||| ||), as well as by being anomalously heavy (approximately 23kg), even when empty. When opened, the back surface of SCP-1930 appears to be composed of a black material that absorbs all light. All attempts to take a sample of this material or otherwise damage it have failed, and spectroscopic analysis is inconclusive.
+
+If SCP-1930 is placed open on a flat surface near an injured human subject, one or more emaciated human arms will extend from the black inside surface and attempt to treat the subject. Such treatment has taken the form of a variety of procedures from basic first aid to complex surgery; the arms will make appropriate use of any tools or instruments provided. Once treatment is complete, the arms will retract into SCP-1930. The treatment administered by SCP-1930 is typically medically appropriate, if not necessarily effective. As the movements of the arms tends to be jerky or spasmodic, sensitive procedures — especially invasive surgery — tend to result in significant collateral damage and harm to the subject.
+
+SCP-1930 was discovered in the basement of the abandoned [REDACTED] Medical Center near [REDACTED]. A worker assisting in the demolition of the building discovered SCP-1930, which activated and attempted to treat a minor cut on the worker's arm. Witnesses were administered Class A amnestics and later released.
+
+Addendum 1930-01: Notable Experiments Log
+
+Subject: D-3414
+
+Date: █/█/██
+
+Known Injuries: Broken arm
+
+Tools Provided: Full first-aid kit and trauma kit
+
+Results: SCP-1930 applied a splint to the broken arm. Subject complained that the bandage was too tight, and subsequently had to be re-treated due to loss of circulation in the affected arm.
+
+Subject: D-3551
+
+Date: █/██/██
+
+Known Injuries: Gunshot wound to leg, medium caliber
+
+Tools Provided: Full first-aid kit and trauma kit
+
+Results: SCP-1930 removed the bullet, but severely damaged surrounding tissue in the process, resulting in a pronounced limp in Subject.
+
+Subject: D-3559
+
+Date: ██/█/██
+
+Known Injuries: Common cold
+
+Tools Provided: Full first-aid kit and trauma kit
+
+Results: SCP-1930 incised into subject's abdomen with a scalpel, causing massive trauma and internal bleeding while attempting to remove something. Subject expired before procedure was completed; subsequent autopsy revealed an undiagnosed malignant tumor in subject's liver.
+
+Observer Note: Following expiration of D-3559, SCP-1930 appeared to have attempted to cut its own wrist with the scalpel before being forcibly withdrawn.
+
+Subject: D-4819
+
+Date: ██/██/██
+
+Known Injuries: Skin rash
+
+Tools Provided: Full first-aid kit and trauma kit
+
+Results: Observers reported that SCP-1930 emitted a loud screaming sound, and repeatedly stabbed subject with several sharp instruments until subject expired. Autopsy found no unusual conditions in subject.
+
+Observer Note: Examination of subject's criminal record revealed that D-4819 had been a surgeon prior to incarceration, and had been convicted of killing two women undergoing medical treatment.
+
+Addendum 1930-02: Incident Report
+
+On █/██/██, Dr. █████████ inadvertently left a digital voice recorder active next to SCP-1930 following an experimental procedure. When later examined, the voice recorder was discovered to have picked up anomalous audio. Subsequent experimentation confirmed that digital audio recordings made at close range can pick up audio inaudible to human hearing.
+
+To date, the audio recorded near SCP-1930 has included:
+
+The sound of a human male subject sobbing and crying.
+
+Scratching sounds similar to the sounds of nails scraping across a metal surface.
+
+Soft tapping or banging.
+
+An indeterminate male voice whispering, "I'm sorry" and "please let me go".

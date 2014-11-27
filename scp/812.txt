@@ -1,0 +1,27 @@
+SCP-812 in transit to Site 19
+
+Item#: SCP-812
+
+Object Class: Euclid
+
+Special Containment Procedures: Being inanimate and more or less inert, SCP-812 can theoretically be stored almost anywhere. However, to prevent accidental flooding, the object should be kept outdoors. Only one of the object's doors should be opened at a time; carelessness, particularly in transit, can and will result in drowning. If both doors are opened at once, the rate of flow will render the act of closing the double doors impossible; close the side door and the flow will stop.
+
+SCP-812 is currently housed at Site 19, outside, next to the general equipment sheds. It is to be kept securely locked, and tampering by unauthorized personnel is grounds for demotion and/or disciplinary action.
+
+Description: SCP-812 is a nondescript cargo container of corrugated steel measuring 12m x 2.5m x 2.5m. There is a sliding door measuring 2m x 2m set in one of the long sides, and a set of double doors is built into one of the square ends. The object is painted dull red and partially covered with spray-paint graffiti. Official markings include the number 247 and the word "ANTHERCORP," which identifies no commercial entity. The object weighs approximately 4000 kg when empty and can hold up to 26,500 kg.
+
+SCP-812 has a noticeable tendency to be misplaced or forgotten by whomever is charged with it. Photographs and firsthand accounts suggest it has been in motion almost constantly since original manufacture, but despite this, the object has appeared on only two cargo manifests in the last sixteen years, and none before that. Its precise age and origin are therefore impossible to determine.
+
+When the side door is opened, the interior of SCP-812 is completely filled with running water, which flows rapidly in the direction of the double doors, parallel to the long sides. The water is somehow contained within the object and does not pass through the side door, which is otherwise entirely permeable; solid matter passes through easily and can be used to draw out water. This appears to be a two-level binary switch dimensional anomaly; i.e, when the side door is open, SCP-812 remotely accesses a 12m section of an otherwise normal body of running water. When the side door is closed, the object behaves more or less as a normal cargo container.
+
+In the event that both sets of doors are opened at once, all water passing through SCP-812 will flow out the double doors. This will quickly fill any space in which the object is stored, at which point pressure will be neutralized and normal flow will resume, passing through the object and vanishing where the double doors would be ordinarily. Any water outside the object will become stagnant. The side door continues to act as an impermeable membrane, and water will not pass through it under any circumstances save when it is forcibly drawn out. Closing the side door will halt the flow of water.
+
+The current is fairly consistent, hovering around 1500 L per minute, and has very low turbidity despite the object's corrugated interior. Tests have shown that the water is not saline but is quite rich in dissolved minerals (around 240 mg/L - 40% Ca2+, 40% CO32-, 5% Mg2+, 5% SO42-, 5% Fe3+, and 5% PO43-). This composition strongly suggests that it is part of a subterranean river system. No ambient light is evident within the stream, and GPS tracers released into the stream simply vanish from detection, corroborating this hypothesis. Preparation is currently underway for an unmanned expedition to explore the river system; the current is far too swift to dive safely.
+
+No connection is evident between SCP-812 and SCP-109.
+
+GENERAL MISSIVE 812-a:
+
+Researchers and general staff should keep in mind that all flood cleanup will be entirely manual. SCP-402 is far too valuable to use for simple labor reduction, so stop asking for it. Do us all a big favor, and just be more careful in the future.
+
+- Dr. Swanson, Supervisor 3-221, Site 19

@@ -1,0 +1,51 @@
+Item #: SCP-083
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-083 is to be kept under constant video surveillance, with at least one Level 3 staff member on call at all times to respond to security breaches. Entrance to SCP-083 is permissible to level 1 and 2 personnel with proper clearances, provided they wear a tracking device while inside.
+
+Description: SCP-083 appears to be an uninhabited, two-story row house in a general state of disrepair, with an interior of approximately 366 square meters. It is located in the ██████████ block of ███████. The deed and property tax records for the address are missing after ██████. The last known persons to reside at the address were the ███████ family, but [DATA EXPUNGED]. Until acquisition by the Foundation, the property was the reputed "office" for local narcotics dealers who gained entry to the structure through a front window, since the locking mechanisms on both the front and back doors were corroded and frozen shut. SCP-083 first came to the Foundation's attention on ███████, when an altercation outside the building resulted in the front door being kicked in by [DATA EXPUNGED].
+
+Those who entered through the door of SCP-083 (Group A) allegedly found themselves inside a fully-furnished and well-maintained home with functioning electricity and a fully-stocked kitchen whose appliances and decor appeared to be from the early 20th Century. Personnel who entered through the windows (Group B) described the interior as "dark and dilapidated," corresponding to the view through the windows. Personnel in Group A also reported that they couldn't see, hear, or find any members of Group B inside the house or of anyone else besides themselves. Group B observed that members of Group A seemed to "vanish into thin air" upon crossing the door's threshold.
+
+Both groups inside the property not only described very different living conditions, but their descriptions didn't even correspond to the same floor plan. Their descriptions matched only in the relative position of the windows, since both groups saw the same street view. Personnel outside the house, however, reported only seeing members of Group B.
+
+These observations were repeatedly tested and confirmed by staff, with the additional finding that the rear door of SCP-083 also leads to the "furnished" interior. Any non-conventional entry (i.e., windows, holes in the roof, down the chimney, etc), leads to the "dilapidated" interior, and persons inside the different interiors are unable to detect each other's presence, although they both register on standard spectral imaging equipment, so long as said equipment is outside SCP-083. It was also discovered that the furnished interior is not static. The floor plan of SCP-083 apparently changes, with a different layout and different numbers and kinds of rooms manifesting (see Document #083-A). No clear pattern or set interval has been observed in the rearrangement of the interior of SCP-083, but the phenomenon has never been directly observed or experienced by personnel while inside SCP-083 (see summary of experiment 083-03, listed as Document #083-C). So long as a human presence exists inside, the floor plan seems to remain stable. Although the "furnished" interior appears to be well-maintained, no inhabitants or custodians have ever been detected.
+
+Addendum: It has been recommended that SCP-083 be evaluated as a possible autonomous object.
+
+Document #083-A:
+
+Nineteen walkthroughs of SCP-083 have been conducted to date ██████, and each has produced a unique floor plan with a combined total of 154 different rooms, with 17 of those rooms present on more than one walkthrough, though in differing locations (see Document #083-B). The rooms conform to a variety of decorative styles, representative of major artistic trends of the late 19th and 20th centuries, complete with era-appropriate furnishings and technology. However, each of the 19 floor plans still equaled 366 square meters of space, and in each walkthrough, the front door has so far consistently led directly to the same Victorian front parlor, designated FP-0. The rear door [DATA EXPUNGED].
+
+Addendum to #083-A:
+
+Upon comparative analysis of all recorded floorplans for SCP-083, it has been observed that the small door in the north wall of FP-0 always opens up to reveal a closet. Though the dimensions and contents of the closets have varied considerably, a teal and white, "Deluxe Convertible" upright Hoover vacuum cleaner has been observed among the contents over 60% of the time. It is unknown why, of the three doors leading from FP-0, this one (and the Hoover vacuum within) has shown such a high level of conservation when none of the others have.
+
+Document #083-C: Summary of Experiment 083-03
+
+On █████, Dr. ███ ██████ entered SCP-083 through the front door and set up three digital video cameras. One was placed in the middle of FP-0, a second camera on the second floor between DR-2 and K-4, and a third camera in the basement room ST-1. Personnel entering through FP-0 Window A were unable to confirm the existence of any of the rooms, nor of the three cameras, though the cameras' locations inside SCP-083 were externally confirmed with EM sensors.
+
+Observation was conducted for a period of 48 hours, during which time no personnel were allowed to enter. No movements within SCP-083 or any of the rooms were observed, and the camera locations remained fixed. After 48 hours, agents were sent in to retrieve the three cameras, but only found one, the camera in FP-0, at its electronically-confirmed location. The other two cameras, and the rooms in which they were placed, were gone, with different rooms in their place. Despite this, the EM sensors continued to detect the electrical signatures of the other two cameras, indicating that they had not shifted position at all.
+
+Sweeps of SCP-083 were made hourly for the next 36 hours, and although further room rearrangements were noted, neither of the rigged rooms reappeared, and after 36 hours, the signals diminished below detection thresholds (possibly due to a loss of battery power in the two missing cameras). Three weeks later, ST-1 recurred on the second floor and its camera was recovered, with a dead battery. The third camera remains missing.
+
+Note on #083-C Memo
+
+Dr. ███ ██████ requested and was granted permission to repeat Experiment 083-03, (catalogued as Experiment 083-05) which resulted in the similar inexplicable loss of six more cameras. While the Foundation is committed to the pursuit of scientific discovery, it has been decided to abandon further experimentation of this type on SCP-083, until a way can be found to do it without overdrafting the department's budget in order to replace "disappeared" equipment.
+
+—Dr. █████ █████
+
+Document #083-D:
+
+On █████, Agent ██████████ conducted a walkthrough of SCP-083 and reported evidence of food preparation, describing "a sound like banging pots and pans," and "the smell of cooking meat." Agent ██████████ was unable to localize the source of the phenomena, nor even to find a kitchen. Agent ██████████ did eventually encounter a dining room (designated DR-8), but it was clearly in a state of non-use. Agent █████████ estimated the sounds and smell persisted for approximately 20 minutes before "fading away." There were no other signs of intruders.
+
+Document #083-E:
+
+On █████, smoke was observed emanating from SCP-083's chimney. Agent ████████ was dispatched to investigate and found the location designated SR-12 with burning embers in the fireplace. SR-12 had been previously documented on SCP-083 Internal Surveys 5 and 6, but in both prior encounters the fireplace was cold and swept clean. Agent ████████ recovered a partially-burned fragment of newsprint from the fireplace [DATA EXPUNGED], as well as the nub of a █████ cigar.
+
+A sweep of SCP-083 found no other evidence of intruders, and review of video surveillance confirmed no one else entering or leaving the house aside from appropriate personnel at expected intervals. Agent ████████ remained on-site until the fire was out, at which point smoke emanations ceased and did not recur. Agent ████████ made no alterations to SR-12 and left the premises at ████. Twenty-four hours later, Agent ████████ returned to SCP-083, but SR-12 was no longer present and has not been found on three subsequent walkthroughs.
+
+Analysis of the █████ cigar did not produce any DNA, but did yield [DATA EXPUNGED].
+
+Addendum: Recommend SCP-083 be evaluated for upgrade to Euclid status. [Approved ██/██/████]

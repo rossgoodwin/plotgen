@@ -1,0 +1,29 @@
+SCP-072-2 stripped of covers before being removed from ██████████ Apartments
+
+Item #: SCP-072
+
+Object Class: Safe
+
+Special Containment Procedures: All known instances of SCP-072 are to be contained in a 3.5 by 4 meter holding cell. Access is allowed only during authorized testing procedures. Without prior approval from Senior Researcher Grant, no materials created for the purpose of being slept on are to be introduced into a 15-meter vicinity of the holding cell.
+
+Description: Instances of SCP-072 were first discovered in an apartment building in ████████, Michigan, after two local media reports on SCP-072’s effects caused a local panic which drew the attention of embedded Foundation Agent ███████.
+
+SCP-072 is a shadowy and translucent projection which resembles a .9-meter-long hand, the ‘fingers’ of which taper to a sharp point. Detailed recording of SCP-072 is difficult, as it does not manifest at light levels above 5 lux.
+
+Instances of SCP-072 have only been observed to manifest when a human (hereafter referred to as “the subject”) enters REM sleep while located in a bed ‘infected’ by SCP-072 and leaves a foot or feet exposed to open air. If these conditions are satisfied, SCP-072 will emerge from the foot of the bed and appear to use its pointer finger to ‘tap’ on the subject’s foot until they awaken. Subjects have reported that, at this point, they were unable to move, showing symptoms similar to sleep paralysis. This continues as long as SCP-072 is visible.
+
+SCP-072 will then use its pointed fingers to cut portions of flesh from the exposed parts of the subject's foot or feet. It will return to within the bed in between each removal, emerging without the collected material. This will continue until SCP-072 has taken all of the exposed foot or feet, stopping at the ankle. Though subjects exposed to SCP-072 report this process to be immensely painful, its paralytic effects render them unable to scream or call for help. It is unknown if manifestations of SCP-072 feed on the collected material or use them for some other purpose. As long as the wounds are properly treated, SCP-072’s effects are not fatal, but have been observed to cause psychological damage relating to sleep in the future.
+
+There is also a secondary effect: Any bed within an approximately 10-meter vicinity of a bed which manifests the effects of SCP-072 will also host an instance of SCP-072. Destruction of a bed affected by SCP-072 reveals no anomalous materials and no trace of biological material removed from subjects.
+
+Addendum
+
+List of known SCP-072 objects:
+
+SCP-072-1, -2, and -3, recovered from original apartment complex, three twin-sized beds which were located within 10 meters of one another.
+
+SCP-072-4, a king-sized four-poster bed contaminated during SCP-072’s time in Site-██ Temporary Anomalous Objects Holding.
+
+SCP-072-5, a sleeping bag with bottom removed introduced to SCP-072-1 for testing. When D-2191 entered REM sleep in object, [DATA EXPUNGED]. SCP-072-5 not recommended for testing in future.
+
+SCP-072-6 and -7, beds introduced to SCP-072-2 and later destroyed for examination. Remains of SCP-072-6 and -7 appear unaffected, but are to be contained until further studies may be completed.

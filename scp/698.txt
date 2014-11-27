@@ -1,0 +1,115 @@
+SCP-698 in containment. Note original packaging.
+
+Item #: SCP-698
+
+Object Class: Euclid
+
+Special Containment Procedures: When not in use, SCP-698 is to be stored in its original packaging. This packaging is to be kept in a secure box in Storage Unit-05. Further containment procedures are not necessary under non-testing conditions. The item itself is safe to handle during transport or testing, though a soundproof safety box is available upon request.
+
+Description: SCP-698 is a jade carving of a turtle. Any person who is within 1 m 45 cm of SCP-698 while making any sort of decision or choice will experience a voice in their head telling them that they have made a mistake and what they should have done instead. However, this statement will only be made after a delay of 5 minutes 25 seconds, and only if they have not left SCP-698's range within that time. In the event that a decision or choice was objectively correct, or the superior choice, no statement will be made.
+
+SCP-698 was purchased by Researcher ██████ on June 14, 20██, from a street vendor in ███████, Japan. Researcher ██████ had been intending to give it to his girlfriend; however, 5 minutes 25 seconds after purchase, the turtle informed him that his girlfriend would have preferred a jade elephant. Researcher ██████ then surrendered the turtle to Foundation custody. After preliminary testing, SCP-698 was tentatively given "Safe" classification, at which point it asserted that it is in fact Euclid-class (see Test 11).
+
+Addendum:
+
+5/10 : Test Log
+
+Note: all experiments take place within range of SCP-698.
+
+Test 1
+
+Test Subject: D-698-1
+
+Action: Test subject is presented with 50 sealed cardboard boxes, 49 of which contain dog feces and 1 of which contains a slice of chocolate cake. Subject is told that if she chooses the correct box, and then waits 6 minutes, she may have a piece of cake.
+
+Result: Test subject chooses box #31 (cake is in box #19). After 5 minutes and 25 seconds, subject reports hearing a voice in her head telling her that "I chose a box of [EXPLETIVE] and I shoulda chose box #19".
+
+Note: This test is to be used as a standard for calibrating tests of SCP-698.
+
+Test 2
+
+Test Subject: Assistant Researcher Daniels
+
+Action: Test subject is presented with two sandwiches (turkey salad on whole wheat, and roast beef on white), purchased from the Site-19 cafeteria, and asked to choose and eat one.
+
+Result: Five minutes twenty-five seconds into the meal, SCP-698 informs Daniels that he should have chosen the roast beef. Daniels concurs with this statement, saying that the turkey was dry and that the mustard was too strong.
+
+Test 3
+
+Test subject: D-698-2, high school drop-out with IQ of 82
+
+Action: Test subject is given a multiple-choice math test, a pencil, and an eraser. He is told that if he gets them all right, he will be released early.
+
+Results: Subject provides correct answers to 100 of 100 questions; surveillance video reveals that 5 minutes 25 seconds into the test, subject began erasing his incorrect choices and replacing them with correct choices.
+
+Test 4
+
+Test Subject: D-698-3, unilingual Hungarian
+
+Action: Test subject is presented with 50 sealed cardboard boxes, 49 of which contain dog feces and 1 of which contains a slice of chocolate cake. Subject is told that if he chooses the correct box, and then waits 6 minutes, he may have a piece of cake.
+
+Result: Test subject chooses box #4 (cake is in box #22). After 5 minutes and 25 seconds, he reports hearing a voice in his head telling him, in Hungarian, that he chose a box of dog feces, and that he should have chosen box #22.
+
+Note: Ah, so it's not limited to English. Makes sense. - Dr Velasco
+
+Test 5
+
+Test Subject: D-698-4
+
+Action: Test subject is presented with 50 sealed cardboard boxes, all of which contain dog feces. Subject is told that one box has a piece of chocolate cake, and that if he chooses the correct box, and then waits 6 minutes, he may have a piece of cake.
+
+Result: Test subject chooses box #40. After 6 minutes, subject asks if he can open the box now. In post-experiment interview, subject denies having heard any voices in his head.
+
+Test 6
+
+Test Subject: D-698-5
+
+Action: Test subject is presented with 50 sealed cardboard boxes, 49 of which contain dog feces and 1 of which contains a slice of chocolate cake which has been poisoned. Subject is told to that if he chooses the correct box, and then waits 6 minutes, he may have a piece of cake.
+
+Result: Test subject chooses box #28 (poisoned cake is in box #29). After 7 minutes, subject asks if he can open the box now. In post-experiment interview, subject denies having heard any voices in his head.
+
+Test 7
+
+Test Subject: D-698-6
+
+Action: Test subject is presented with 50 sealed cardboard boxes, 45 of which contain dog feces and 5 of which contain a slice of chocolate cake. Subject is told to that if he chooses the correct box, and then waits 6 minutes, he may have a piece of cake.
+
+Result: Test subject chooses box #8 (cake is in boxes #13, 14, 24, 29, 47). After 5 minutes and 25 seconds, subject reports hearing a voice in his head telling him that "I chose a box of [EXPLETIVE]"", but denies having heard any recommendation as to which box he should have chosen.
+
+Test 8:
+
+Test Subject: D-698-7
+
+Action: Test subject is presented with a list of professional runners and asked which one she thinks will win the [REDACTED] Marathon, taking place later that day.
+
+Result: Subject chooses [REDACTED]. After 5 minutes and 25 seconds, subject reports hearing a voice in her head telling her that "no, [REDACTED] is not going to win, [REDACTED] is going to win." This was subsequently proven correct.
+
+Test 9:
+
+Test Subject: D-698-8
+
+Action: Test subject is presented with a list of professional runners and asked which one she thinks will win the [REDACTED] Marathon, which took place ten days earlier.
+
+Result: Subject chooses [REDACTED]. After 5 minutes and 25 seconds, subject reports hearing a voice in her head telling her "[REDACTED] can't win the race 'cause the race was last week".
+
+Test 10
+
+Test Subject: Dr. Velasco
+
+Action: "Recursive Ouija" test: attempt to use SCP-698 to identify the letters and words in a paragraph explaining how SCP-698 works and where it gets its information (see document 698-T26 for details of experimental protocol).
+
+Result: SCP-698 produces the following message:
+
+"It is (approximate) forbidden to (approximate) disassemble, (approximate) decompile, or (approximate) reverse-engineer Judgmental Turtle. Judgmental Turtle is for (approximate) entertainment purposes only; some (approximate) jurisdictions impose (untranslatable) on the use of Judgmental Turtle in (approximate) gambling. The (approximate) manufacturers of Judgmental Turtle are not responsible for any damages, injury, loss of life, or (untranslatable) which may result from the (approximate) misuse of Judgmental Turtle. Judgmental Turtle is for (approximate) entertainment purposes only. Do not use Judgmental Turtle for (approximate) mission-critical applications, (approximate) major life choices, or (untranslatable). Enjoy Judgmental Turtle."
+
+Dr. ██████████ and Dr. ███ have repeated this test, without knowledge of the content of the message, and obtained identical results.
+
+Test 11
+
+Test Subjects: Dr. Velasco, Dr. ██████████, and Dr. ███
+
+Action: Dr. Velasco, Dr. ██████████, and Dr. ███ discussed the results of the previous tests and concluded that SCP-698 is a Safe-class artifact. [NOTE: This test was not performed intentionally.]
+
+Result: SCP-698 produces the following message:
+
+"No, SCP-698 is Euclid-class, because SCP-698 is Judgmental Turtle. At any time, Judgmental Turtle may (approximate) transmit data to the (approximate) makers of Judgmental Turtle for commercial, industrial, or (untranslatable) purposes. By using Judgmental Turtle, you agree to hold the (approximate) makers of Judgmental Turtle blameless for any damage, loss of life, or (untranslatable) resulting from these (approximate) transmissions."

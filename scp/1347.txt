@@ -1,0 +1,149 @@
+Item #: SCP-1347
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1347 is to be kept in a standard containment storage unit with two different sets of locks. Each set is to require a key card and a password. The passwords and the keys are to be kept separately by SCP-1347's lead researcher (currently Dr. Thane) and their research assistant. Said passwords are not to be shared with personnel other than members of the O5 council under any circumstances.
+
+SCP-1347 is to be kept isolated from other anomalous items/phenomena and must be guarded at all times by two (2) armed security personnel who are oblivious to its nature. Said personnel are tasked with preventing any unauthorized access to SCP-1347, and are permitted to use lethal force if necessary.
+
+All testing of SCP-1347 requires written approval from the head researcher of the object. The request submitted must contain the exact wordings of the inquiry that would be inserted into SCP-1347, the intention of the said inquiry and a hypothesis of SCP-1347's reply. All testing of SCP-1347 must be supervised by the attendant security personnel.
+
+In the event that a submitted inquiry does not result in a Type A event within ten minutes, all research personnel assigned to SCP-1347 are to be informed immediately. Mobile Task Force Psi-13 is to cease their current assignment, if any, and to be fully committed to ascertaining the nature of the Type B event by any means necessary unless otherwise commanded.
+
+It is strictly forbidden to insert an inquiry into SCP-1347 that refers to paradoxes, time travel, the Foundation, or any anomalous object/phenomenon in any manner.
+
+Description: SCP-1347 is a pine box measuring twenty centimeters on each side with a hinged lid. There is a slit on one side measuring seven centimeters by one centimeter. The phrase "All answers are born from questions." is written below the slit in black ink.
+
+SCP-1347's anomalous properties will only become active in the event that writing of an inquisitive nature (designated as an "inquiry") is inserted into SCP-1347 via this slot. Every inquiry inserted will cause either a Type A or Type B event to occur. This is believed to be primarily dependent on whether the answer to the question could be answered with minimal experimentation or alteration of reality.
+
+When the inquiry is sufficiently simple to answer, a Type A event occurs. In a Type A event, the item on which the inquiry was written disappears, replaced by an object that is identical save for the inquiry being replaced by SCP-1347's reply. SCP-1347 gives a reply to every inquiry, regardless of the inquiry’s nature. This response will occur to both subjective inquiries as well as inquiries that require some degree of specialized knowledge, so long as they are simple to ascertain.
+
+An occurrence of Type B event takes place when the inquiry inserted is adequately complex or thought-provoking. Note that a Type B event is not always distinguishable from a Type A event, and that the only consistent way to determine which has occurred is the amount of time that elapses between the insertion of an inquiry and the appearance of a reply.
+
+A Type B event is a situation in which SCP-1347 manipulates events in real world to perform an experiment, apparently utilizing any method it deems necessary, which will provide it with the information to formulate a reply to the inquiry. Depending on the nature of the input, the resultant experimentation varies. Once the experiment is over, the reply will appear in a manner identical to that of the appearance in a Type A event. There is no known limit to SCP-1347's capabilities while a Type B event is in progress.
+
+SCP-1347 retains knowledge learned through Type B events and inquiries. At time of writing, it is deemed to possess slightly above average intelligence and a very large knowledge base, although exact measurement of its intelligence level is not currently possible due to its nature.
+
++ Test Log 1347-Gamma
+
+- Test Log 1347-Gamma
+
+Inquiry: What is your purpose?
+
+Occurred Event: Type A event
+
+Reply: I answer questions.
+
+Inquiry: What is your exact nature?
+
+Occurred Event: Type A event
+
+Reply: I believe 'I answer questions' is exact enough.
+
+Inquiry: What's good for dinner?
+
+Occurred Event: Type A event
+
+Reply: You're asking a box about dining? I think the tomato stew would be your best bet.
+
+Note: Interviewed staff members who consumed the tomato stew that evening indicated higher levels of satisfaction on average than those who did not.
+
+Inquiry: What is the current location of Mobile Task Force Sigma-31?
+
+Fact of Interest: This inquiry was inserted prior to the prohibition of Foundation-related inquiries.
+
+Occurred Event: Type A event
+
+Reply: Gone, mate. Might wanna call for some clean-up to aisle [REDACTED].
+
+Note: Mobile Task Force Sigma-31 was found ███████ by SCP-████ at the stated location.
+
+Inquiry: How can we obtain an unlimited source of energy?
+
+Occurred Event: Type B event
+
+Nature of Type B event: ████████████ was incinerated by an explosion which continued for seven days. Upwards of █ exajoules of energy were released during this time. Despite the fact that this amount of energy would have been capable of destroying an area roughly forty kilometers in diameter, the explosion was contained to a sphere five kilometers in diameter. The source of the explosion, if any, disappeared after the explosion ceased. Reply produced after the cessation.
+
+Reply: I got really close, but I doubt it's actually possible. I'll think on it some more, maybe try again if you ask in future.
+
+Note: Object reclassified from Safe to Euclid.
+
+Inquiry: How can we fix Agent McIntyre?
+
+Occurred Event: Type B event
+
+Nature of Type B event: SCP-████ released Agent McIntyre one hour after the inquiry was submitted. Medical personnel on scene immediately began treatment.
+
+Reply: Whoa, that was nasty. Anyway, since this seems to [DATA EXPUNGED] that's all you got to do.
+
+Note: Seven days later, Agent McIntyre spontaneously suffered trauma normally associated with SCP-████, albeit to a lesser degree. Agent McIntyre recovered fully with application of SCP-████ counter-measures obtained from the reply.
+
+Inquiry: What do you know of Eros, the mythological entity?
+
+Occurred Event: Type A event
+
+Reply: Son of Aphrodite and much better known as Cupid, his Roman counterpart. Other than having the golden arrows of love, he also had the bronze arrows of hatred, as Apollo had learned the hard way.
+
+Note: The error in knowledge has been noted.
+
+Inquiry: How good is Dr. Ashe in bed?1
+
+Occurred Event: Type B event
+
+Nature of Type B event: Dr. Ashe reported that she spent the night in Agent Gene's quarters due to emotional distress over her recent assignment to [REDACTED].
+
+Reply: She's really warm, and her skin is nice and soft. Good hugs, too. She hogs the blankets, though.
+
+Note: When interviewed eight days later, while Dr. Ashe recalled the event, Agent Gene was unable to.
+
+Ashe and Carmichael are damn lucky that it didn't choose to interpret that differently. That being said, this has certainly given us some interesting insight into how 1347 works. - Dr. Thane
+
+Inquiry: What is the nature of SCP-████?
+
+Occurred Event: Type B event
+
+Fact of Interest: This inquiry was inserted prior to the prohibition of Foundation-related inquiries.
+
+Nature of Type B event: SCP-████ breached containment. SCP-████ did not pose any harm to Foundation personnel, in contrast with its normal behavior. SCP-████ was returned to containment seven days later after it inexplicably ceased to resist containment.
+
+Reply: So this thing basically does [DATA EXPUNGED]. Good luck with that, I guess.
+
+Note: Investigation indicates that the containment breach was caused by a momentarily lapse in concentration on the part of attendant personnel.
+
+Note: All future inquiries that mention the Foundation will not be permitted on grounds of sensitive information and potential containment breach. - Dr. Thane
+
+Inquiry:What is my next question?
+
+Occurred Event: Type B event
+
+Nature of Type B event: No reply was produced until the next inquiry was submitted.
+
+Reply: What is your opinion of Aleister Crowley and his works?
+
+Note: SCP-1347 does not appear to possess telepathic nor predictive abilities.
+
+Inquiry: What is your opinion of Aleister Crowley and his works?
+
+Occurred Event: Type B event
+
+Nature of Type B event: Unknown A personal copy of biography of Aleister Crowley owned by Research Assistant Jacobs disappeared, as evidenced by camera investigation. The copy reappeared in its previous location seven days later. The reply was produced after the reappearance of the book.
+
+Reply: Well, he was kinda nutty, but he hit a few points pretty spot-on, particularly [REDACTED].
+
+Note: Unless we're missing something big, that's bullshit.- Dr. Thane
+
+Inquiry: How can the problem of poverty be solved?
+
+Occurred Event: Type B event
+
+Nature of Type B event: While it is most likely unknowable the exact extent to which events were influenced by SCP-1347, genocide occurred in [REDACTED]. A total of ███,███ causalities were recorded, corresponding to ██% of the population. The majority of the causalities occurred in poverty-stricken regions. When the United Nations intervened and forced the cessation of the genocide, SCP-1347's reply appeared.
+
+Reply: Killing 'em off seems to be one option. Weapons sales helps too.
+
+Note: A week after the massacre ceased, immigration to [REDACTED] surged, restoring the population size to roughly ██% of its original value. The national GDP of the country experienced minimal deprecation compared to the most recent statistics prior to the event; additionally, the Gini-coefficient fell by 0.25 compared to before. Media coverage of the event became negligible after one week at approximately the same time.
+
+Note: Dr. ██████ refused amnesiac administration and required four months of psychological therapy before being considered fit to return to work.
+
+Footnotes
+
+1. Dr. Carmichael was reprimanded for unprofessional conduct and reassigned accordingly for permitting this inquiry. Dr. Thane is Dr. Carmichael's replacement.

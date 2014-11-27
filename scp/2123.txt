@@ -1,0 +1,181 @@
+Section of Containment Enclosure with portion of SCP-2123's Synchrotron Ring visible. Note air ionization.
+
+Item #: SCP-2123
+
+Object Class: Keter
+
+Special Containment Procedures: The building complex containing SCP-2123 (Site-2123) has been converted into living quarters for containment staff. Personnel entering the Primary Containment Building are to wear dosimetry badges at all times. Any personnel exceeding a total accumulated dose of 650mSv are to be transferred offsite. A security perimeter has been established 2km away from Site-2123 to prevent members of the public from entering the area.
+
+SCP-2123 is surrounded by a 6.5m high lead-lined concrete containment enclosure. Internal inspection and maintenance of enclosure is to occur weekly to ensure continued structural integrity. Personnel entering the enclosure are required to wear standard issue CBRN defense suits, and may not spend more than 10 minutes inside at a time. Only D-Class personnel may perform inspections, except during emergencies and with approval of Site Command.
+
+All Excursion Events must be reported to O5 Command within 30 minutes of manifestation. Agents embedded within High Energy Physics Laboratories are to ensure that evidence of Excursion Events is not leaked to the public.
+
+Data from current testing of SCP-2123 may only be viewed by personnel with Level 4 clearance.
+
+Access Additional Procedures
+
+Access Granted
+
+Any personnel who begin to display symptoms of Acute Radiation Syndrome during Excursion Events are to be placed under remote observation within a shielded isolation ward at Site-2123. Subject who do not expire within 24 hours are to be transferred to Site-2123's Medical Wing for treatment. The remains of subject who expire are to remain in isolation for at least 1 hour before an autopsy can be performed.
+
+In the event that subjects' remains undergo annihilation, the Site Director will be notified immediately. Any personnel below Level-5 Clearance who inquire about, suffer symptom from exposure to, or who have had any interactions with these subjects in the past 18 months, are to be administered Class-A amnestics.
+
+Description: SCP-2123 is a large particle accelerator located in Waxahachie, Texas, consisting of a 11m long linear accelerator, a synchrotron ring measuring 616m in circumference, and a collider ring measuring 1km in circumference. Under most circumstances, SCP-2123 collides [REDACTED] particles at energies of approximately 300TeV. Normal operation releases significant amounts of ionizing radiation, with levels exceeding 100Gy/hr within containment enclosure. There is currently no known way to shut down SCP-2123.
+
+SCP-2123's electromagnets exhibit strengths of 100-800T. The composition of the magnets, and exactly how such high field strengths are produced, are currently unknown.
+
+Following Incident 2123-2007, SCP-2123 will undergo an Excursion Event at an average rate of once every two weeks. During these events, collision energies and emitted level of radiation increase between 10 and 100 times normal levels. When collision energies exceed approximately 5.3PeV,[REDACTED; SEE ADDENDUM 2123-ALPHA (LEVEL 4 CLEARANCE REQUIRED)]. The median duration of Excursion Events is approximately 30 seconds, with the longest observed event lasting 127 seconds.
+
+Personnel with adequate clearance may consult Addendum 2123-Alpha for further information regarding SCP-2123's Keter classification.
+
+Discovery: According to information from the Occupational Safety and Health Administration's regional office in Dallas, SCP-2123 was constructed between 2001 and 2003 by an organization known as Fiz-Hex Inc. (FHI). OSHA ordered FHI to shut down SCP-2123 on September 27, 2003, due to higher than acceptable levels of radiation being released by the device into work areas. On December 24, three OSHA inspectors received fatal radiation doses from exposure to SCP-2123 when they visited the facility to oversee the restart of the accelerator. Although SCP-2123 was in operation, the facility was entirely deserted at the time.
+
+Following this incident, the Foundation took custody of Site-2123. Investigation of Site-2123 found all physical and digital documentation to be completely blank. Site-2123 was secured, and standard information management protocols were enacted. A containment enclosure around SCP-2123 was completed on March 2, 2004. The whereabouts, identities, and number of FHI's employees are unknown.
+
+Addendum: Incident 2123-2007
+
+Between April 8 and August 27, 2007, a series of experiments designated Study 2123-245 were performed. Data gathered from this study resulted in SCP-2123 being upgraded from Euclid to Keter on 1/15/2008.
+
+The following is a series of emails exchanged between several researchers involved. Access to the full results of Study 2123-245 requires Level 4 clearance.
+
+Level 3-2123 Clearance Required
+
+Access granted
+
+FROM: █████ █████
+
+TO: Site Director Douglas ███
+
+CC: Dr Dominick Jensen
+
+SUBJECT: Experimental Proposal for SCP-2123
+
+FROM: Site Director Douglas ███
+
+TO: █████ █████
+
+CC: Dr. Dominick Jensen
+
+SUBJECT: Re: Experimental Proposal for SCP-2123
+
+Your primary proposal, 2123-245a "Study of High Energy Meson Decays within SCP-2123", has been granted temporary approval for 60 days. Please report your findings to to Dr. Jensen within that time.
+
+Your secondary proposal, 2123-245b "Experiments at Energies Exceeding 1PeV", has been placed on hold, pending results of your primary study. Approval may be granted later.
+
+I look forward to your results.
+
+FROM: Dr. Dominick Jensen
+
+TO: Site Director Site Director Douglas ███
+
+SUBJECT: Proposal 2123-245
+
+ATTATCHMENTS: 2123-245a_Data.███; 2123-245b.doc
+
+Dr. █████'s tests have produced several intriguing results.
+
+Firstly, study of neutral kaons produced within SCP-2123 has shown them to consist entirely of K0, with K0 being absent. No oscillation has been observed.
+
+Second, studies of the paths of particles have shown charged kaons, D-mesons, and B-mesons, to "clump" together with similarly charged particles. The exact force causing this is not clear. However, increasing energies by 1TeV allows these "Clumps" to exist for up to 10-10s longer.
+
+It is of my own and Dr. █████'s opinion that study of the force binding these mesons may be easier to study at higher energies. Current models predict that SCP-2123's maximum output is approximately 50PeV. Therefore, collision energies of at least 1-5PeV, as we believe are necessary to study this phenomenon, are possible.
+
+Attached to this email are the complete results of Study 2123-245a, as well as a revised proposal for 2123-245b, courtesy of Dr. █████. We patiently await your response.
+
+FROM: Dr. █████ █████
+
+TO: Site Director Douglas ███
+
+CC: Dr. Dominick Jensen
+
+SUBJECT: Study 2123-245b
+
+FROM: Site Director Douglas ███
+
+TO: Dr. █████ █████
+
+CC: Dr. Dominick Jensen
+
+SUBJECT: Re: Study 2123-245b
+
+SCP-2123 is currently undergoing testing to ensure power increases will not have any detrimental effects on containment. Study 2123-245b is on hold, pending the results of this test.
+
+FROM: Site Director Douglas ███
+
+TO: Dr. █████ █████
+
+CC: Dr. Dominick Jensen
+
+SUBJECT: Re: Study 2123-245b
+
+As testing has revealed no dangers besides increased emission of radiation, permission to operate SCP-2123 at energies of 5PeV on a biweekly basis has been granted for 180 days, beginning on 4/8. Permanent approval is pending.
+
+FROM: Dr. Thomas H███
+
+TO: Dr. Dominick Jensen
+
+SUBJECT: Unusual Results of Mesonic Oscillation Tests
+
+Over the past month, I have been using a non-anomalous linear particle accelerator to attempt to replicate Dr. █████'s results in Study 2123-245b. At this time, I have been unable to replicate meson "clumping" that was observed in his experiment. However, a more unusual result has been observed.
+
+Observation of kaon, B-meson, and D-meson oscillation has shown unusual patterns in the ratio of particles to antiparticles. During initial testing, the ratios were exactly reversed of what was expected, with concentrations of K0, B0, ,and D0 being up to 5% greater than their corresponding particles. Repeated testing confirmed this result.
+
+On ██/██, two weeks after testing commenced, concentrations of K0, B0, and D0 returned to normal levels and remained so for the following two weeks. Ratio of particles to antiparticles continue to reverse at a consistent rate of once every 2 weeks. It should be noted that this directly correlates with the timing of the current tests being conducted with SCP-2123.
+
+I have spoken in person with Dr. █████ and presented my concerns. He has referred me back to you. I request that testing on SCP-2123 be halted immediately until the full implications of this phenomenon are fully addressed.
+
+TO: Dr. █████ █████, Site Director Douglas ███
+
+FROM: Dr. Dominick Jensen
+
+SUBJECT: Termination of Study 2123-245
+
+At this time, I am ordering an immediate stop to Study 2123-245 due to the unacceptable risk of [REDACTED] indicated by several experiments conducted on site, and at Sites ██, ██, and ███
+
+I request an emergency containment meeting be held within the next 72 hours. Further concerns will be addressed at that time.
+
+Addendum 2123-Alpha
+
+The following document is classified Level 4-2123 clearance.
+
+All personnel receiving Level 4-2123 clearance are to be briefed using the following document.
+
+Level 4-2123 Clearance Required
+
+Access Granted
+
+First of all, let me congratulate you on the promotion.
+
+Now, I know you’re curious about what’s behind those redacted brackets. If you weren’t, then you wouldn’t be reading this. You’ve been looking through SCP-2123’s documentation, trying to find any piece of information that could provide answers. There are a few nuggets of information that were intentionally left in the database, which we have watched you synthesize together over your time on this project. Maybe it’s been a month, maybe a year.
+
+But here we are. You found enough to come to your current conclusion, consciously or otherwise. You’re sitting down in a private room and reading this text. Now is the time for answers.
+
+Yes, your conclusion was correct. Once again, if it wasn’t, you wouldn’t be reading this. So let’s remove all doubt from this.
+
+SCP-2123 Excursion Events cause CP-Inversion on a massive, possibly infinite scale. Our universe is converted from matter to antimatter, and vice versa, on a biweekly basis.
+
+Of course, we’re still here. The Earth continues around the sun as the sun circles our galaxy. Our multitude of objects stays in containment. Indeed, the change is subtle.
+
+But we know that the implications of this are, at best, rather unfortunate. Since our universe popped into existence, matter and antimatter were never perfect opposites. Matter was a small bit more stable, and a small bit more of it was produced, due to the phenomenon that you know as CP-Violation. It is because of this imperfect balance why anything exists in our universe at all. It is because of this asymmetry why we can notice the inversions caused by Excursion Events. It is this effect that now undermines the stability of every single object in creation.
+
+We estimate that at least ███,000,000,000,000,000kg of material have been annihilated thus far by excursion events. This, on its own, constitutes a YK-Class Restructuring scenario every two weeks.
+
+By receiving 4-2123 Clearance, you are being reassigned to research ways to stop Excursion Events. All data related to current testing is now available for you to read. Please keep all proposals focused on containment. Trying to use this thing to study our universe has done nothing but put everything at a great risk.
+
+-Site-2123 Director Douglas ███
+
+Addendum: Incident 2123-2008-3
+
+Level 5-2123 Clearance Required
+
+Access Granted
+
+Following Incident 2123-2007, Dr. James Leary, the head researcher on Study 2123-245, was reassigned as consultant on SCP-2123.
+
+On March 8, 2008, SCP-2123 underwent a predicted Excursion Event at 1343 CST, which lasted 103 seconds. Dr. Leary was assisting researchers testing new containment strategies at the time. Personnel observed Dr. Leary collapse and begin to vomit profusely upon the end of the Excursion Event. Dr Leary was transferred to Site-2123’s infirmary and found to be displaying symptoms consistent with an extremely high dose of ionizing radiation. Despite treatment, he expired 12 hours later.
+
+2 minutes following his death, Dr. Leary’s body began to emit high levels of gamma radiation, resulting in minor damage to the medical ward, and 3 medical personnel receiving non-fatal doses. High levels of radiation continued to be emitted, before subsiding over the course of the next hour. No trace of Dr. Leary's body was found.
+
+Over the next three days, multiple personnel reported problems with the files regarding Incident 2123-2007. Examination found that all entries written by Dr. Leary, as well as all mentions of his name, had been blanked. Further investigation found this anomaly to also be affecting Dr. Leary’s Personnel File, and all other entries authored by him.
+
+Following this incident, ██ other researchers have died under similar circumstances. The average distance between victims and SCP-2123 has increased by ██%.

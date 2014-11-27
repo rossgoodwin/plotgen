@@ -1,0 +1,73 @@
+Item #: SCP-2087
+
+Object Class: Euclid
+
+Containment Procedures: Pursuant to Causal Boundary Agreement 04234a, the Foundation shall not engage in initial attempts to contain instances of SCP-2087-01. Instead, designated Foundation monitors shall radioactively tag instances of SCP-2087-01 and monitor, pending the instance’s self-containment at a Foundation-designated facility. Upon self-containment, the Foundation is to arrange living quarters which correspond, insofar as it is practicable, to the transboundary containment areas.
+
+In the event that an instance of SCP-2087-01 fails to self-contain within 48 hours of radioactive dye administration, Foundation personnel shall contact the Intercausal Liason Office, institute a 70m cordon around all areas habitually visited by SCP-2087-01, and institute broad-spectrum amnestic therapy at all incident sites as necessary. No attempt is to be made to contain until confirmation of noncontainment is received from the Foundation Intercausal Liason office. WARNING: By order of O5-03, intercausal liason activities related to SCP-2087 are presently suspended. For more information and associated documents, consult SCP-2087-CN-34a
+
+In addition, the Foundation shall attempt to contain all radioactively tagged individuals determined by cross-boundary containment partners to be instances of SCP-2087-02. Individuals determined to be instances of SCP-2087-02 shall be contained notwithstanding the presence or absence of overt anomalous features; radiotagging shall be considered sufficient evidence of anomalous events.
+
+Description: SCP-2087 [formerly classified SCP-████, SCP-████, and SCP-████] is an anomalous causal phenomenon caused by incomplete divergence of adjacent timelines. To date, all identified divergences have affected individuals. For theoretical considerations, see Two Men With the Same Past: Anomalous Causal Couplings in Objective Bennett Spacetimes, [REFERENCE OMITTED].
+
+SCP-2087-01 consists of individuals causally coupled to adjacent timelines. In all recorded cases, the divergence results from the individual's death in some, but not all, adjacent timelines. Accordingly, most affected individuals are distinguishable by the injuries which resulted in their death. All individuals, including those who did not die with visible injuries, exhibit variable causal synchronization with adjacent nonfatal timelines. These instances may be recognized by their characteristic "jerking," "snapping," or "blinking" movement.
+
+Inconsistent causal synchronization between SCP-2087-01 instances and the primary timeline renders conventional containment strategies impractical. Accordingly, causal contact between primary-timeline and divergent-timeline Foundations is permitted to mitigate consensus risk.1 Under the terms of Causal Boundary Agreement 04234a, the Foundation may tag individuals exhibiting signs of anomalous causal contact with Strontium-90 dye. Any such individuals are to be taken into custody by transboundary Foundation agents and stored until the causal coupling lapses or the affected individual dies.
+
+SCP-2087-02 consists of individuals tagged by divergent-timeline Foundations for containment. Individuals tagged for reciprocal containment are generally overtly nonanomalous; however, two affected individuals have exhibited symptoms of bilateral causal synchronization. Affected individuals are to be contained until no longer radioactively tagged.
+
+Addenda:
+
++ DOCUMENT SCP-2087-CHD-9: CASE HISTORY, SCP-2087-01-R5
+
+- DOCUMENT SCP-2087-CHD-9: CASE HISTORY, SCP-2087-01-R5
+
+DOCUMENT SCP-2087-CHD-9: SCP-2087 CASE HISTORIES
+
+SUBJECT: Deborah A. ███████; SCP-2087-01-R5
+
+CAUSE OF DEATH: Automotive accident.
+
+GROSS ANATOMICAL SURVEY: Subject pronounced dead due to pedestrian/automotive accident at 11:43 PM on 07/09/1974. Initial physical trauma resulted in the avulsion of the right leg at the hip socket and amputation of left leg at the knee, blowout fracture of left eye socket, crushing trauma to left temporal bone, and compound fracture of right humerus. At initial observation, body was non-anomalous, and was transported to the University of Miami medical center for disposition.
+
+CASE HISTORY: On 07/11/1974, subject's upper torso was discovered, apparently conscious, in an unoccupied room the University of Miami intensive care unit. Medical personnel initially attempted to provide supportive medical care. Subject was pronounced dead a second time at 8:41 AM on 07/11/1974. Medical personnel contacted local police, who forwarded the contact to the UIU. Foundation UIU embeds intercepted the case file and commenced containment in situ.
+
+On 07/13/1974, subject's legs were observed to return to the University of Miami medical center, collide with an exterior door, and commence movement consistent with a brisk walk. After 38 seconds, legs disappeared. After 17 seconds, legs reappeared in a second-floor interior stairwell, ascending toward the intensive care unit. The Foundation took measures to restrain subject's torso. By 7:21 AM on 07/13/1974, legs had rejoined subject's body.
+
+Due to poor causal synchronization with primary spacetime, containment was lost at 8:15 AM on 07/14/1974. Request for intercausal containment was escalated to O5-03, and approved due to unacceptable consensus risk. Intercausal containment effort proved successful, and containment was resumed on 07/30/1974.
+
++ DOCUMENT SCP-2087-CHD-9: CASE HISTORY, SCP-2087-01-D3
+
+- DOCUMENT SCP-2087-CHD-9: CASE HISTORY, SCP-2087-01-D3
+
+DOCUMENT SCP-2087-CHD-9: SCP-2087 CASE HISTORIES
+
+SUBJECT: Subject Unidentified; SCP-2087-01-D3
+
+CAUSE OF DEATH: Unknown
+
+GROSS ANATOMICAL SURVEY: Subject presumed dead by 7/13/2003; body not recovered prior to activation as SCP-2087-01. Body has suffered extraordinary premortem damage. Skull, right arm, and torso distal to the 2nd thoracic vertebra are missing and presumed lost. Four molars, portions of the right orbit, and 300 mL of blood appear, appropriately positioned, in the region typically occupied by the head.
+
+CASE HISTORY: On 07/12/2003, routine monitoring of local newspapers alerted the Foundation to the case. A monitoring cordon was erected, and surveillance was commenced on 7/13/2003. First contact was initiated at 6:30 AM █/██/███, when subject arrived at the exterior door of a commercial building in ██████, UK. Subject entered building, colliding with multiple storefront displays, and proceeded to a third-floor office. Subject then engaged in typical workday activities and exited the building at 5:58 PM.
+
+After primary containment, subject exited the building, proceeded 1.15 km northwest of initial site, and desynchronized with adjacent timeline. Containment was lost until subject reappeared in the Foundation-designated containment zone. On further investigation, subject could not be positively identified as a former or current resident of the building. Identity is still undetermined.
+
++ DOCUMENT SCP-2087-ICL-1: INCIDENT REVIEW AND STANDING ORDERS
+
+-  DOCUMENT SCP-2087-ICL-1: INCIDENT REVIEW AND STANDING ORDERS
+
+FINAL INCIDENT REVIEW: SCP-2087-ICL-1
+
+BACKGROUND: On 01/03/2012, Foundation distributed radiation detectors returned approximately 41m positive Strontium-90 signals, distributed consistently with human population patterns. Per sampling protocol, ambient radiation detectors were brought offline, cycled, and returned to service, and transboundary contact was suspended until final resolution by the O5 council. Post-cycle readings exceeded operating parameters; post-exposure sampling three weeks later found that 21% of the human population received between 2 and 7 mSv of radiation exposure.
+
+On 01/04/2012, during a meeting of the full panel of the O5 council, all instances of SCP-2087-01 ceased activity. By unanimous decision of the O5 council, the Intercausal Liason Office was ordered sealed until additional instances of SCP-2087-01 are detected.
+
+STANDING ORDERS: As of 01/07/2012, transboundary contact is indefinitely suspended. All devices and Thaumiel-class artifacts permitting causal contact with adjacent timelines are, until further notice, to be reclassified as Keter.
+
+At present, the Foundation's standing hypothesis is that no adjacent timeline is viable for continued human life. As of 01/14/2013, it is confirmed that macro-scale deviations from the known timeline result in nonviable branching within ~4 nanoseconds. The viability of Planck-scale divergent timelines is presently unknown. The underlying reason for mass fatality in adjacent timelines is unknown. The reason for the continued viability of the primary timeline is, similarly, unknown.
+
+Research into this matter is ongoing. For access to real-time intertemporal monitoring and experimental results, consult with your Site Director.
+
+Footnotes:
+
+1 Under the terms of Standing Order 2170b, causal contact with adjacent timelines is prohibited in order to reduce the risk of causal contamination by nonviable timelines. For further information and risk studies, consult The Maw, the Voice, the Pinhole: Causal Adjacency Risk in Polytemporal Containment Scenarios, [REFERENCE OMITTED.]

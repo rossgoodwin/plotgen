@@ -1,0 +1,21 @@
+SCP-246 photographed in its inert state
+
+Item #: SCP-246
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-246 is to be kept in a wooden crate within Site-██'s secure storage. Researchers who requisition its use for experimentation are responsible for their own room arrangements. SCP-246 is otherwise not to be removed from its container, especially for recreational use.
+
+Description: SCP-246 is a 16-millimeter film projector. When activated, SCP-246's projection lamp lights up and the reels begin turning. When the projector is pointed at a screen or other white surface, a film appears, even though SCP-246's film (hereafter referred to as SCP-246-01) does not pass in front of the projection lamp.
+
+The film feeder has been welded shut, making any attempt to load SCP-246-01 into the second reel impossible. Requests to cut through or replace the feeder have been denied, due to the possibility of inadvertently breaking SCP-246. Examination of SCP-246-01 suggests that it is blank while inert, though high-speed photography shows images on the film when SCP-246 is in its active state. Analysis of these images is underway. When replaced with any other roll of 16 mm film, SCP-246 continues functioning as described below. After using SCP-246 with a reel other than SCP-246-01, that reel exhibits similar properties to SCP-246-01. Microspectrometer analysis of reels made blank by SCP-246-01 has shown anomalous forms of [REDACTED]. Further analysis by Foundation researchers other than Dr. ██████ is not permitted.
+
+Despite SCP-246-01's content or lack thereof, when activated, SCP-246 projects a short film in the style of 1950s educational films.
+
+SCP-246 seems to have a limited degree of awareness, as a female D-class subject was shown a film entitled "So You're Not Going to Live Very Long!". Shortly afterwards, she was terminated at the end of the month as per procedure. An introverted D-class subject ██████-██ (despite previous convictions for [REDACTED]) was shown "Three Easy Ways to Remove ████████", a film explaining tools and techniques for home surgery, and was subsequently terminated after his attempt to use a toothbrush as a surgical instrument. That night, Dr. ████████, employed as a surgeon before the Foundation [DATA EXPUNGED] and who had supervised ██████-██, attempted to follow the film's advice.
+
+Title card of film shown to Junior Researcher ████.
+
+He was found dead the next day, ████████ and viscera scattered on the floor around him. Further experimentation resulted in the films "Digestive Systems of Woodland Creatures", "Three Handy Tips for Handling Amputation", and "Sightless Eyes: Dealing with Total Paralysis", which involved graphic descriptions of stroke victims' slow death by starvation before being found by relatives. All subjects suffered the described afflictions shortly after exposure to SCP-246.
+
+Researchers are therefore discouraged from following SCP-246's directions, and to report any urges to activate SCP-246 to their research supervisor.

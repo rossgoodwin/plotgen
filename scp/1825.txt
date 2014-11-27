@@ -1,0 +1,21 @@
+Agents investigating a wreck caused by SCP-1825.
+
+Item #: SCP-1825
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1825 is to be contained in a 5 m x 5 m x 3 m storage room. Testing with SCP-1825 is recommended to take place inside a 10 m x 34 m x 3 m rectangular room composed of reinforced steel, and must be authorized by at least two Level 3 personnel. SCP-1825 is only allowed to be removed from storage for testing purposes, and is not to be activated outside, or inside a spherical room <See Addendum-1825-01-A>.
+
+Description: SCP-1825 is a blue pinball machine measuring 2 m x 50 cm x 1.7 m. SCP-1825 features an empty playing field, with two flippers on the bottom, and a hatch for a ball to enter at the top, a scoreboard, and a plunger. Currently, the highest score is 30,232,450 <See Test Log-1825-01-11>, which has been recorded on SCP-1825's scoreboard.
+
+When SCP-1825 is activated, all entities in the room are restrained from below their waist by an unseen force, making movement impossible. The subject who activated SCP-1825 is not affected, and is able move freely. When the subject pulls SCP-1825's handle, the hatch will release one metal ball that, once hit by a flipper, will create an invisible force in the room whose movement reflects how the ball moves on SCP-1825's playing field.
+
+When this force collides with a wall, subject, or object in the room, the item hit will be variably damaged from the collision while retaining its position and approximate shape from the time of activation. When the subject is hit, [REDACTED], which results in the subject's upper half disconnecting from their waist, while their lower half remains supported. Objects unaffected from this force are SCP-1825, the subject who pulled the plunger, and any objects and persons entering the room after activation. When the ball returns to the drain, everything that was affected ceases to be supported by SCP-1825, and collapses if it was damaged significantly.
+
+The weight and density of the force created from SCP-1825 increases with the number of points on the scoreboard, which allows the ball to start at an estimated one kg per square meter, and theoretically increase to 999,999,999 kg per cubic meters when the scoreboard has reached its limit. Due to SCP-1825 providing only one ball, and the extensive damage that would ensue, this has yet to be achieved.
+
+Recovery Notes: SCP-1825 was found after an incident on 01/██/20██, where an abandoned arcade game factory in ███████ collapsed. One body was found in the area, ███████ ████, a vagrant presumably seeking shelter inside the factory. It is assumed that ███████ ████ activated SCP-1825, and died from the debris created from leveling the building. SCP-1825 was found in the wreckage, protected from the debris by several steel girders.
+
+Addendum 1825: Testing Log:
+
+Test Log-1825-01

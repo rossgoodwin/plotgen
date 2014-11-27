@@ -1,0 +1,57 @@
+Item #: SCP-1456
+
+Object Class: Euclid
+
+Special Containment Procedures: Media and advertisements in the city of ██████, Colorado are under observation by Foundation personnel for the first stage of SCP-1456. A Foundation outpost, disguised as a call centre, has been established in the town and is operated by TF-Omega 16 “The Contestants”. The centre maintains 60 90 160 unique phone numbers, all publicly listed to Agent ███████. Upon identification of instances of SCP-1456-1, the number presented is immediately called in sequence in order to intercept prize instances. Agent ███████'s listed residence and a block radius is to be monitored during active phases.
+
+A localized media campaign designed to discourage the population from entering the contests presented by SCP-1456-1 has been running for 16 years.
+
+Description: SCP-1456 is a series of anomalous phone-in contests advertised in print, radio, local television and billboards. The advertisements vary considerably in content, claiming to represent organizations both fictional and real presenting a contest or contests promising financial or physical prizes to winning callers. Each will predominately feature a unique phone number. Collectively, these advertisements are referred to as instances of SCP-1456-1.
+
+Instances of SCP-1456-1 appear spontaneously with no discernible external source. Billboards and print examples appear while the medium is unobserved, affecting sets of billboards owned by the same organizations and full runs of local newspapers and periodical simultaneously. Radio and television instances appear to replace regularly scheduled, legitimate advertisements. In either case, no discrepancies have been noted by the owners or operators of the transmission medium.
+
+Calling the number provided by SCP-1456-1 with a local phone number that has not yet been used to call in will result in a “win” or “lose” result. Lose results are a simple tone, commonly described as “harsh” or “grating”, played three times before disconnection. A win result is a chime sound followed by a male voice announcing “You've won!”. Attempting to call in multiple times with the same number will result in a continuous and increasingly loud instance of the “lose” sound, escalating with no known upper limit until the phone is disconnected.
+
+Three days after a successful “win” result, a prize, loosely consistent with the advertised prize, will be delivered to the winner, defined as the owner of the phone number used to make the winning call. The prize appears at the residence of the winner through varying means depending on the contents, by methods both mundane and anomalous.
+
+Sample Prize Instances: For a full list of recovered prize instances, refer to Document 1456-A.
+
+Instance 0054
+
+Advertised Prize: 500 dollar cash prize.
+
+Delivery Mechanism: A homeless local deposited the prize on the doorstep of residence. When questioned, he could not recall the event.
+
+Delivered Prize: Five hundred dollars in assorted bills and small change in a blank envelope.
+
+Instance 0143
+
+Advertised Prize: Non-specific cash prize
+
+Delivery Mechanism: Prize spontaneously manifested traveling at speed through the front window of the residence. Prize was contained inside plastic bag along with a brick.
+
+Delivered Prize: A stolen wallet belonging to █████ ███████, a local resident.
+
+Instance 0567
+
+Advertised Prize: Trip to Rome
+
+Delivery Mechanism: A taxi was waiting at the curb the morning of delivery. Driver identified as a local resident, but could not provide records or reason for arrival.
+
+Delivered Prize: The driver presented Agent ███████ with a one-way ticket on Air ████ to Rome leaving from JFK airport in New York. Driver refused to drive agent to the airport, and would not leave until paid.
+
+Instance 0985
+
+Advertised Prize: Sports Car
+
+Delivery Mechanism: A truck belonging to an unidentified towing service delivered prize. Truck vanished upon leaving observed area. Analysis of footage indicates that the truck corresponds to no known make.
+
+Delivered Prize: Nissan 350Z, heavily damaged in an apparent crash. Two bodies located inside. Identified remains and license plate linked with automobile accident in █████████, Germany two days prior.
+
+Instance 1121
+
+Advertised Prize: A Caribbean cruise
+
+Delivery Mechanism: Spontaneous appearance 50m above ground level.
+
+Delivered Prize: Roughly 900 kilolitres of seawater, a small yacht, and several hundred instances of marine fauna.

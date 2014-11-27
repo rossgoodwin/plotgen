@@ -1,0 +1,25 @@
+Item #: SCP-317
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-317-1 is to be preserved in a vat of liquid nitrogen. Requests for tissue samples from SCP-317-1 must be made in writing; all research into tissue samples from SCP-317-1 must be in compliance with class-5 biohazard protocols.
+
+Examination of SCP-317-2 must be done in class-3 cleanroom facilities. Requests for examination of 317-2 must be made in writing.
+
+SCP-317-3 has been disassembled; the parts are stored in ██ separate locations. Requests for examination of 317-3 must be made in writing to two separate O5-level personnel. No two components of SCP-317-3 may be brought within 100 km of each other.
+
+Description: SCP-317-1 is the cadaver of a sapient reptilian entity tentatively identified as a previously-unknown species of pachycephalosaurid. Subject was bipedal and 3 m tall, and wore clothing made from synthetic polymers; subject also wore corrective lenses. Subject was largely herbivorous, and had prehensile digits.
+
+Subject's metabolism was adapted to a higher atmospheric oxygen content, and therefore subject wore a respirator device when not in its quarters.
+
+Biochemical analysis postmortem (rhodopsins, mitochondria, homeobox genes, cytochrome P450) confirms that SCP-317-1 shared common ancestry with current Earth life. Autopsy records are available in archive 317-B-685.
+
+In the forty days between its arrival in Foundation custody, and its death from a lactobacillus infection, SCP-317-1 learned to communicate via a combination of sign language, crude vocalizations, and drawings; video archive 317-B-36 shows interview sessions with SCP-317-1. Drawings made by SCP-317-1 are available in archive 317-B-42 (general access: basic anatomical figures; interactions between itself and Foundation personnel; demonstration of knowledge of mathematics; demonstration of knowledge of chemistry; demonstration of knowledge of nuclear physics) and archive 317-B-58 (restricted access: circuit diagrams, mechanical schematics, [DATA EXPUNGED]).
+
+SCP-317-2 is the personal effects of SCP-317-1: a tunic, a robe, a tool belt, six tools, corrective lenses, an oxygen mask, three empty oxygen tanks, a fire-damaged document pouch made from synthetic polymers and its fire-damaged contents, and a fire-damaged digital camera whose contents were unrecoverable.
+
+SCP-317-3 is the fire-damaged remains of what is believed to have been a time machine, which SCP-317-1 was attempting to repair at the time it was taken into custody by the Foundation. Preliminary testing of the intact components revealed [DATA EXPUNGED], at which point all testing was halted and SCP-317-3 was disassembled.
+
+Notes: There's something wrong with this one, people. A technological civilization should have left some trace in the stratigraphic record. If there was a Holocene Epoch before us, where did the evidence go? - Dr. █████
+
+It's not just the complete lack of trace in the fossil record. It's the species. How could it have been a pachycephalosaurid that developed intelligence? They were at best average for Cretaceous fauna. Why not a troodontid, an ornithomimid, or another small theropod? There's something going on here that we're missing. - Dr. M████

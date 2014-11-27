@@ -1,0 +1,79 @@
+SCP-435-1
+
+Item #: SCP-435
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-435-1 is to be kept in a secure warehousing facility that constantly provides SCP-435-1 a minimum of 1000 lux illumination. Illumination must be provided by redundant lamps operating from at least three parallel and independent power supplies providing generator and battery backups. Tests for integrity of the lighting system shall be conducted on a daily basis. In addition, two mobile units capable of transporting SCP-435-1 shall remain on standby in the event of Contingency 435-XK-Alpha. No other special protective procedures are required to examine or test SCP-435-1, but research may only be conducted on SCP-435-1 with written O5 approval.
+
+At ground level, a secure perimeter is to be kept for 50 km around SCP-435-2. A no-fly zone of 125 km is to be maintained in the airspace surrounding SCP-435-2. At least two Foundation aircraft and one mobile ground station are to monitor the size and position of SCP-435-2 at all times. Should monitoring detect any growth of SCP-435-2, or any motion of SCP-435-2 relative to SCP-435-1 for a period in excess of 90 seconds, observation teams are to initiate Contingency 435-XK-Alpha. No personnel are to approach within 100 meters of SCP-435-2, and Foundation security teams are authorized to take any action to prevent such contact. No research or testing is authorized on SCP-435-2 without explicit O5 direction.
+
+Description: SCP-435-1 is a type III iron meteorite weighing approximately ██,███ kg, showing significant weathering. Spectroscopic and chemical analysis shows a composition over 99% iron, which at normal densities can only account for ██% of the measured weight. Age is indeterminate, but analysis of weathering suggests it has been exposed to atmosphere for at least ██,███ years.
+
+SCP-435-2 is an irregularly shaped object that currently has approximate dimensions of 15 m x 12 m x 48 m. SCP-435-2 appears somewhat blurred in the visible spectrum, but computer-enhanced imagery in various spectra has shown a complex structure showing a three-fold symmetry along the longitudinal axis. Extending from the axis are long tube-like structures that share characteristics both with biological organisms (in particular, cephalopods of the order Teuthida) and with mathematical models of higher-order fractals. These structures show undulating movements even when SCP-435-2 is stationary. SCP-435-2 does not appear to have mass or inertia, and appears only to be visible due to refraction of light passing through it, and because of [DATA EXPUNGED] resulting in Cherenkov radiation of varying intensity. Any physical object with mass that comes in contact with SCP-435-2 will suffer an instantaneous change in velocity and direction away from SCP-435-2 without any loss in energy. This is apparently caused by being reflected through a higher-order spatial dimension. If the affected mass is in a solid phase, this reflection will cause a change in topology that can result in either an inversion (turning inside out), a reflection (mirroring of all or part of physical structure), or a [DATA EXPUNGED] and high levels of gamma radiation.
+
+Because of these characteristics, it is currently impossible to directly affect SCP-435-2 with any means currently at the Foundation’s disposal. However, it can be moved indirectly by moving SCP-435-1. SCP-435-2 maintains a fixed position relative to SCP-435-1 as long as SCP-435-1 is sufficiently illuminated. (SCP-435-2’s current position is ███ km northwest of SCP 435-1 on a vector ██° above the horizon; about ████ m above sea-level.) Movements of SCP-435-1 have caused SCP-435-2 to move a proportional amount, maintaining a fixed distance and bearing.
+
+If SCP-435-1 ceases to be sufficiently illuminated for a period of time exceeding 8.3 µs, the behavior of SCP-435-2 will change. SCP-435-2 will enter an active state and begin random erratic movements orbiting the location of SCP-435-1. Average distance from SCP-435-1 will increase, and the apparent volume of SCP-435-2 will also increase. The rate of increase in both distance and size appears to undergo a geometric progression over time, and neither has been observed to decrease. This behavior will cease once SCP-435-1 is again sufficiently illuminated, at which point SCP-435-2 will cease motion at whatever location it is at that moment, and remain there fixed in relation to SCP-435-1. The threshold for this effect currently appears to be between 500 and 650 lux, and it appears that this threshold may increase by approximately ██% whenever SCP-435-2 enters an active state.
+
+Because of SCP-435-2’s interaction with normal matter, an active state is considered extremely dangerous. Passing through large volumes of air at speeds in excess of 500 m/s dramatically increases levels of radiation, and if SCP-435-2 intersects water or any land mass [DATA EXPUNGED]. Any active state lasting longer than 90 seconds constitutes a potential XK-class end-of-the-world scenario and requires the initiation of Contingency 435-XK-Alpha.
+
+Addendum 1: Recovery Notes SCP-435
+
++ Recovery Notes SCP-435
+
+- Recovery Notes SCP-435
+
+[REDACTED] SCP-435-2 in active state [REDACTED] March 195█
+
+SCP-435-1 was recovered in 195█ at ██████ █████, ████████ ███████. While surveying sites for testing a ████████ ████, the US Army Corps of Engineers were directed to evacuate the native population from █████, a small island 85 km from the proposed test site. They met heavy resistance from the local population. After evacuating the island by force, they discovered SCP 435-1 in a clearing surrounded by several dozen burning torches. At this time SCP-435-2 was not in an observable location, and the US authorities had no indication of any anomalies. A survey crew was left behind, and according to subsequent interviews, when half the torches burned out [DATA EXPUNGED] as a result of SCP-435-2 moving through [DATA EXPUNGED] before illumination restored to SCP-435-1. Foundation then took custody of SCP-435 and the US government provided a cover story code name ██████ █████, explaining that [REDACTED] was the result of a [REDACTED] having a higher yield than expected.
+
+Addendum 2: Interview with one of the Village Elders evacuated from █████ by US Army Corps of Engineers in Feburary 195█.
+
++ Interview I-435-235 
+
+- Interview I-435-235
+
+Interviewed: ████████, Male 75 years of age, former resident of █████, ████████ ███████, recovery site for SCP-435-1
+
+Interviewer: Dr. Richards
+
+Foreword: Interview is part of background research on the history of SCP-435 prior to Foundation custody.
+
+<Begin Log, 1/12/196█ 1430>
+
+Dr. Richards: What do you know about SCP-435-1?
+
+████████: The sky rock?
+
+Dr. Richards: Yes, the “sky rock.”
+
+████████: There is a story to it.
+
+Dr. Richards: Tell it to us.
+
+████████: Long ago, when the world was only water and sky, there were two brothers, “He-Who-Made-Light” and “He-Who-Made-Dark.” Like all brothers they fought. One time the light brother insulted the work of the dark brother. The dark one, he does not like this, and begins to destroy all the light in the world. “He-Who-Made-Light” cannot let this be so he shoves his brother into a hole that goes outside light and dark, and plugs the hole with a rock. Because “He-Who-Made-Dark” can only see in the dark, “He-Who-Made-Light” puts the rock in a sling and throws it around the sun so it will always stay lit and the dark one will never see how to find his way out.
+
+Dr. Richards: That rock is SCP-435-1?
+
+████████: That is your name for the sky rock.
+
+Dr. Richards: Yes it is. How did it end up [REDACTED]
+
+████████: Long after the brothers fought, the dark one’s rock fell from the sky. It fell so hard that it broke the Earth and raised the land and killed the first people who lived only in the sea. On the Earth, the sun lit it only half the time, so when darkness came, “He-Who-Made-Dark” could see to find his way. Even so, he had been lost outside the world for many many years, so each night he only came a little closer. And each night the rocks shook and bled fire at his approach. The Earth did not like this, so she made the second people to watch over the sky rock, and keep it lit so that the dark one cannot find his way home. [pauses] I think you may be the third people.
+
+Dr. Richards: So do you have any measure of how long you were keeping it lit?
+
+████████: Since before [DATA EXPUNGED] Note: geological formations in the area suggest that if this is true then habitation of █████ predates known human populations in the area by nearly ten-thousand years.
+
+Dr. Richards: [Shows ████████ a photo of SCP-435-2] Do you know what this is?
+
+████████: Y-yes.
+
+Dr. Richards: Is it “He-Who-Made-Dark”?
+
+████████: No. [pauses] It is his shadow.
+
+<End Log>
+
+Closing Statement: The non-material nature of SCP-435-2 lends credence to the hypothesis that it is a projected effect from an unknown extra-dimensional entity somehow bound to SCP-435-1. While dumping the rock into SCP-███ and making it another universe’s problem is tempting, it seems possible that the actual effect would be to only transport SCP-435-1 without transporting the entity it appears to contain, releasing “He-Who-Made-Dark” into the material universe. Therefore Contingency 435-XK-Alpha is only a last resort— O5-█

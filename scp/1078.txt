@@ -1,0 +1,105 @@
+Item #: SCP-1078
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: SCP-1078 is to be stored in a cubical box composed entirely of HDPE plastic at a thickness of no less than 5 cm. This box is to be suspended at all times in a Faraday cage with mesh of no larger than 0.05 mm and with dimensions of no larger than 1m by 1m by 1m. A separate room contained entirely within a Faraday cage of similar mesh size will be set aside for all testing attempts involving SCP-1078; the cage containing the object's box may not be opened unless it is contained in this room and the door is closed.
+
+Experimentation on SCP-1078 requires written consent of at least one (1) Level 4 researcher. All D-Class personnel involved in experiments involving SCP-1078 will be exempted from monthly termination, although it is recommended that no subject be allowed to host SCP-1078 for longer than one year owing to increased possibility of suicide and potential loss of SCP-1078 itself. During the experiment, subject must be monitored at all times for signs of suicidal tendencies. Nothing that could be used for suicide attempts is to be allowed inside of the containment cell. Upon termination of the subject, or in the event of suicide, the room must be immediately entered and SCP-1078 directly observed. A member of medical staff must be present at all times and equipped to remove SCP-1078 from the host; they must be called immediately upon confirmation of the death of an experimental subject.
+
+Description: SCP-1078 is a small spherical glass eye of a form consistent with late 19th-century German glassblowing techniques. Shavings have confirmed the material to be high-quality blown glass, although no sample has been retrieved from a depth of greater than █.██mm. When not fully retracted, bristles composed mainly of copper extrude from a 0.25-cm2 area directly opposite the object's "pupil". The iris of the object is capable of alteration in color; when worn by a subject, it alters to match the color of the eye that was originally in that socket; this change is exact even if the user exhibits heterochromia and the previous eye was completely removed (see Experiment 1078-2). In addition, when worn the iris has been seen to contract or expand in response to outside lighting conditions, and moves along with the normal eye even if the subject's eye muscles are no longer functional.
+
+When inserted into the eye socket of a person missing one or both eyes, the "bristles" will extend and incorporate themselves into the optic nerve. Autopsies of test subjects have confirmed that this is accomplished by barbs of pure silver that extrude from the bristles. Subjects describe this process, which takes approximately two hours, as an itching sensation, but none have reported pain during the process except for the subject of Experiment 1078-8, which is expected due to the experiment resulting in [DATA EXPUNGED]. After a period of time ranging from twelve hours to a few days, integration with neural processes is complete, and subjects report a steadily growing ability to see through the eye. Full visual acuity is confirmed within a month in all cases, and eye tests have confirmed that over the following weeks, the subject's eyesight steadily becomes more and more sharp. While more subjective, other tests indicate that the subject's auditory and tactile senses also sharpen during this period.
+
+After a period lasting between 3 and 7 months, the subject's sensory abilities will peak. Starting from this point, SCP-1078 will begin to selectively erase auditory and visual input from human subjects. This process will initially manifest as blurring of the image of select humans and sound that subjects have described as "like a radio that's stuck between two channels" when a selected human is speaking. Over time, targets will be erased completely from the subject's vision and hearing. This includes all video, photographic, and audio recordings. Tactile senses have been confirmed to be unaffected by this process for reasons unknown. In addition, targets' effects on the surrounding area will still be visible or audible; doors will still seen to be open, and any non-vocal sounds such as clapping will be audible. This allows communication with late-stage subjects through the use of writing.
+
+The process of erasure begins with a small number of people, no more than five at initial onset. Complete erasure of all current targets is confirmed by experiment to be simultaneous. However, the number of targeted individuals in each "round" increases exponentially. In the late stages, testing indicates that the subject is unable to perceive any human excepting themselves, and in one case has been shown to start losing sensory input from animal life.
+
+The erasure process causes slowly developing paranoia and psychosis in the subject; this is confirmed to be a result of the isolation, not a direct effect of SCP-1078. However, subject D-1078-8 reported vivid auditory and visual hallucinations; it is believed now that during the late stages of SCP-1078's integration, it not only blocks out all stimuli from humans but also creates false stimuli in the mind of its host. Subjects that are not terminated invariably take their own life, either directly out of despair or by desperately trying to wrench SCP-1078 out of their eye socket and dying to the resulting cranial hemorrhage. Subject D-1078-8 was prevented from suicide, but after a period of 15 years expired due to [DATA EXPUNGED].
+
+Through a process currently unknown to Foundation researchers, a short period after death, SCP-1078 will vanish from the host body and reappear elsewhere, in one case turning up █ months later in the town of ██████, approximately ████ km distant from the previous containment location. Following death of the subject, SCP-1078 retracts its bristles; if retrieved in a timely fashion it will not disappear. However, SCP-1078 has vanished from its containment on █ separate occasions prior to current containment procedures.
+
+Regardless of the stage, all attempts to remove SCP-1078 from a host after optic nerve integration result in a severe and invariably fatal cranial hemorrhage in the subject. This effect is observed regardless of whether the subject or an outside observer attempted the removal.
+
+Lastly, it should be noted that following Experiment 1078-6, researchers discovered that SCP-1078 emits a low amount of electromagnetic radiation when properly incorporated into a human being. It is currently unknown whether or not these emissions constitute a coherent signal, but containment has been updated to prevent possible communication with unknown entities.
+
++Experiment Log 1078
+
+-Experiment Log 1078
+
+Test Number: Experiment 1078-1
+
+Subject: One D-class personnel (D-1078-1), male Caucasian, 58 years of age. Subject lost eye due to [REDACTED] before remission to Foundation.
+
+Procedure: SCP-1078 was given to the subject; subject instructed to insert SCP-1078 into his empty eye socket.
+
+Results: Subject complied with instructions, and reported an "itching" sensation for approximately one hour after insertion. Subject was afforded access to a furnished one-person containment cell, with daily vision tests and weekly psychological evaluation.
+
+Subject's condition proceeded as outlined above, with vision from the eye after one month and increasing sensitivity following. A visual acuity test administered shortly before termination of the experiment returned a result of 20/█. After six months, D-1078-1 reported difficulty seeing and hearing the psychologist. The following visit, D-1078-1 was unable to see or hear the psychologist in any way, and further interaction was carried out by writing. Symptoms proceeded as indicated until termination of D-1078-1 one year after implantation. Following termination, SCP-1078 retracted its "bristles" and was removed. D-1078-1 was subsequently incinerated.
+
+Test Number: Experiment 1078-2
+
+Subject: One D-class personnel (D-1078-2), female Caucasian, 24 years of age. Right eye infected and surgically removed due to a botched cataract operation. Lost eye was confirmed by records to be lighter in shade than the remaining eye. Prior to testing, subject's visual acuity was measured as 20/50.
+
+Procedure: SCP-1078 was inserted into the subject's empty socket by Researcher G███████. Subject's eyeglasses were taken away for the duration of the experiment.
+
+Results: Subject's vision in the eye replaced by SCP-1078 developed as normal. Observation showed that SCP-1078 turned the shade of her right eye rather than matching to her left eye. After full vision was attained, tests showed a rapid increase in visual acuity. As before, D-1078-2 was terminated one year after implantation; the final test performed on her indicated an acuity of 20/█, the same result as that of D-1078-1.
+
+Conclusions: Regardless of subject's visual acuity at the time of insertion, the peak sensory ability attained by someone hosting SCP-1078 appears to be the same. Also, SCP-1078 will activate regardless of who implanted it.
+
+Test Number: Experiment 1078-3
+
+Subject: One D-class personnel (D-1078-3), male African, 35 years of age. Eye surgically removed while in Foundation custody.
+
+Procedure: SCP-1078 was held against the subject's bare forearm for fifteen minutes.
+
+Results: Subject reported excruciating pain for several minutes and was observed to bleed. Attempts to remove the object during this period only worsened the pain. At the conclusion of this period, subject let out a scream and collapsed, upon which SCP-1078 fell from his arm and was quickly retrieved. Observers noted that at the time of retrieval the "bristles" had completely retracted into the eye. Subject made a full recovery, and reported a horrible pain "like someone shoved a red-hot needle all the way up my arm and into my eye". No injuries observed in the subject except for a number of puncture wounds to the forearm.
+
+Conclusions: SCP-1078 must be implanted directly into the eye to activate; attachment to other parts of the body do not appear to work.
+
+Note: Suggest further testing to determine what is particularly special about the eye socket; could other parts of the body work?
+
+Test Number: Experiment 1078-6
+
+Subject: One D-class personnel (D-1078-6), male Asian, 35 years of age. Eye surgically removed while in Foundation custody.
+
+Procedure: D-1078-6 was placed under general anesthesia and an incision made into the back of the head to allow for direct contact between SCP-1078 and the brainstem of the subject.
+
+Results: [DATA EXPUNGED] All personnel in the room were killed, and subject self-terminated by attempting to forcibly remove SCP-1078. By the time medical teams reported to the testing chamber, SCP-1078 had vanished, and was not recovered for a period of ██ months.
+
+Note: As desirable as the idea of having "eyes on the back of the head" might be, it is clear that SCP-1078 reacts undesirably to direct contact with neural tissue. Let's not try that one again. -Dr. R██████
+
+Addendum: Review of surveillance equipment showed static for a period of ██ frames of video following expiration of D-1078-6. Prior to this, careful analysis of tapes showed slight amounts of interference and fast-period variation in the brightness of the overhead lights. The possibility was raised that SCP-1078 emits electromagnetic radiation while integrated with human neural tissue.
+
+Test Number: Experiment 1078-7
+
+Subect: One D-class personnel (D-1078-7), female African, 54 years of age. Both eyes intact.
+
+Procedure: D-1078-7 was instructed to hold SCP-1078 against her bare forearm, while an electric multimeter was applied to various pairs of "bristles". Antennas were placed at various distances from the subject.
+
+Results: As before, subject reported high levels of pain in her forearm. Multimeter readings indicated a flow of current through the bristles. All current readings decreased exponentially with time, suggesting that SCP-1078 incorporates multiple capacitors in its construction. Current flow ceased after bristles retracted; monitoring indicated no electromagnetic radiation from SCP-1078.
+
+Note: Well, maybe it only "broadcasts", if that's what it's really doing, if it's properly implanted…
+
+Test Number: Experiment 1078-8
+
+Subject: D-1078-7. Eye was not removed prior to experiment.
+
+Procedure: D-1078-7 was restrained, and SCP-1078 placed directly against the right eye.
+
+Results: [DATA EXPUNGED] Subject's screams later estimated to be ~██ dB. Subject survived for ██ minutes before breaking free of restraints and self-terminating. Readings from antennas confirm electromagnetic radiation emitted from SCP-1078 with intensity of approximately 500 W/m^2.
+
+Addendum: Researcher F███████ was the only observer at the time, and ceased monitoring of the room to vomit following [REDACTED]. SCP-1078 vanished from the testing room before a medical team reported. As before, all surveillance equipment experienced heavy static for exactly ██ frames. Antennae indicate an output radiation from SCP-1078 in excess of █0,000 W/m^2 during ██ of these frames, followed by an abrupt drop to zero.
+
+Intervening experiments involve animal testing; SCP-1078 was not observed to react to any specimens other than homo sapiens.
+
+Test Number: Experiment 1078-13
+
+Subject: One D-class personnel (D-1078-8), Caucasian male, 21 years at start of experiment. Subject suffered from slight occular heterochroma, with one eye a noticeably lighter shade of brown than the other.
+
+Procedure: Long term exposure experiment. Subject's lighter-shaded eye was surgically removed and SCP-1078 inserted. Subject was given a furnished containment cell; walls of cell were constructed to be hollow and contain a Faraday cage of mesh size 0.1 mm. Walls also contained concealed antennae to receive and record various wavelengths of SCP-1078 radiation.
+
+Results: Integration with SCP-1078 successful and without incident. Subject made first suicide attempt after four months; subject looked at a picture of [REDACTED], screamed, and attempted to hang himself with his bedsheets. Armed guards posted thereafter to prevent further attempts. Auditory hallucinations confirmed after two years; subject reported several times hearing the voice of [REDACTED]. Investigation confirmed that the individual in question was out of the country at the time. After four years, visual hallucinations were confirmed. Subject was put on a regimen of anti-psychotic drugs to no observed effect.
+
+Subject's hallucinations grew more vivid with time. After █ years, subject reported hallucinations at least once a month consisting of [DATA EXPUNGED]. 15 years after the start of the experiment, subject expired and SCP-1078 was recovered. Autopsy determined that integration with SCP-1078's "bristles" had occurred through ██% of subject's nervous system.
+
+Throughout testing protocol, electromagnetic radiation from SCP-1078 was confirmed at an intensity of 100 W/m^2 over a short range of wavelengths centered at 1███ MHz. Analysis of this radiation for signs of a coherent signal, as well as the content of any such signal, is ongoing.

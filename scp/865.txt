@@ -1,0 +1,73 @@
+SCP-865 in containment
+
+Item #: SCP-865
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-865 is to be kept, unloaded, in a locked firearms safe in the secure archive room at Site 73. SCP-865 is to be equipped with a trigger lock when not being tested and is to be marked with a tag indicating that it is non-functional and is not to be deployed in case of emergency.
+
+As of ██/██/20██, all test firings of SCP-865 are to be conducted by and on D-class personnel only. No other staff are to be within visual range of SCP-865 during testing. D-class involved in testing are to be fitted with explosive collars and informed that any attempts at disobedience or resistance will result in summary termination.
+
+SCP-865 is to be disassembled, cleaned, and reassembled before and after testing by a staff member trained in firearms maintenance. All test subjects are to be debriefed and monitored for lasting psychological effects.
+
+Description: SCP-865 is a handgun of unknown make, superficially similar to a SIG Sauer P226 of the type manufactured after 1996, and bearing no identifying marks. SCP-865 can be disassembled, cleaned, and reassembled in the same manner as a normal pistol of its type. Several circuit boards and microprocessors have been incorporated into SCP-865's grip. The purpose of these devices is not fully understood at this time.
+
+SCP-865 is capable of chambering any round compatible with the P226 and is compatible with standard-size and extended-length magazines. When fired, SCP-865 produces a muffled report similar to that made by a firearm with a suppressor attached, and a shell casing is ejected from the weapon's side. The bullet itself is not ejected from the barrel; high-speed photography has indicated that only trace amounts of powder and steam are emitted when SCP-865 is fired. Attempts to determine what happens to the bullet when SCP-865 is fired have yielded no results.
+
+When fired into the air, at inanimate objects, or at non-human animals, SCP-865 presents no anomalous effects. When fired at a human being, the target immediately reacts as if the body part SCP-865 was aimed at when fired were in intense pain. Test subjects have claimed detailed memories of suffering a severe accidental injury to the targeted body part, and will behave at all times as if the memory is factual, up to and including mimicry of conditions associated with paraplegia, amputation, infection, or brain damage. Physical examination of test subjects indicates that no physical change occurs in body parts SCP-865 has been fired at. To date, no fatalities have resulted from SCP-865 testing. When fired at oneself, SCP-865 has no effect other than inflicting burns due to unignited gunpowder.
+
+SCP-865 was acquired by the Foundation on ██/██/20██ during a raid on a warehouse owned by a front company associated with Marshall, Carter, and Dark Ltd. SCP-865 was found in a glass display case with a paper containing the following copy, believed to have been written as an advertisement;
+
+The end result of over 17 years of research and development, the MCD-226-BPD represents the ultimate in non-lethal discipline for the discreet gentleman who expects the most from his subordinates. Each round fired from this hand-crafted, custom-made device is capable of transmitting up to 7.3 kilosades of psychological trauma to its target, and is 100% guaranteed to leave no incriminating wounds, bruises, or scars. For your convenience, the MCD-226-BPD may be loaded with any standard ammunition for a weapon of its type, or with our custom-made MCD-BPD ammunition (Item #2301943-581-3, sold separately) for best results and seamless shell disposal. A wide variety of customization options are available; consult one of our Client Satisfaction Specialists to help create the model that best fits your style and demeanor.
+
+It is unknown at this time whether SCP-865 is a prototype or whether other devices of its type have been developed and distributed by MC&D to date.
+
++ Show Experiment Log 865
+
+- Hide Experiment Log 865
+
+Experiment Log 865:
+
+All tests conducted by Dr. J███ Everly on ██/██/20██.
+
+Time: 9:38 AM
+
+Subject: D-34021
+
+Procedure: Dr. Everly aimed SCP-865 at D-34021's abdomen and fired twice.
+
+Result: D-34021 suffered intense gastrointestinal distress for several days. In debriefing he claimed his appendix had been inflamed and had been removed the week prior.
+
+Time: 10:48 AM
+
+Subject: D-23304
+
+Procedure: Dr. Everly held SCP-865 next to D-23304's left ear and fired into the air.
+
+Result: D-23304 reported complete hearing loss in his left ear and severe tinnitus in the right. D-23304 claimed to have been guitarist for the heavy metal band [REDACTED] from 1976 (at which time he was seven years old) to 1982, and to have suffered severe hearing loss as the result of the volume the group performed at.
+
+Time: 12:13 PM
+
+Subject: D-95204
+
+Procedure: Dr. Everly fired SCP-865 four times at D-95204's spine.
+
+Result: D-95204 exhibited symptoms of paraplegia and claimed to be unable to move or feel his legs, and claimed to have been wheelchair-bound since the age of 14 as the result of a skiing accident. When asked to reconcile this with the fact that he had murdered two people while fleeing a bank robbery on foot the year before, D-95204 was unable to satisfactorily explain the contradiction.
+
+Time: 3:02 PM
+
+Subject: D-11501
+
+Procedure: Dr. Everly fired SCP-865 point-blank into D-11501's cranium.
+
+Result: D-11501 became comatose for six days. Upon recovering, D-11501 exhibited signs of severe brain damage and amnesia; an IQ test administered by medical staff produced a score of 65. D-11501 lacked the mental faculties to explain how or why he had become thusly impaired.
+
++ Show Addendum
+
+- Hide Addendum
+
+Addendum: On ██/██/20██, two days after the series of tests described above, Dr. Everly reported to the Site 73 infirmary reporting that she had discovered a large scar on her abdomen that she did not recall acquiring. Dr. Anderson identified the mark as a Caesarian section scar. An examination of Dr. Everly's records indicated that she had undergone a C-section in 1998, and that her child had died of a congenital defect six hours after delivery. Dr. Everly denied undergoing a C-section and has stated that she has never been pregnant.
+
+-It appears that SCP-865 has an effect on the user that is inversely related to its effect on the target - it erases traumatic memories in the person pulling the trigger, and inflicts new ones on its target. In light of this discovery, I recommend that any further testing be conducted by D-class. We can't afford to have good people losing their minds over this thing. -Dr. S██████ Samesh
+
+-Request granted. -O5-██

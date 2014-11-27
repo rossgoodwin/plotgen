@@ -1,0 +1,25 @@
+Item #: SCP-1143
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1143 is stored in a 30cm x 30cm x 30cm strongbox, equipped with a simple air recirculation system in order to prevent odour buildup. Researchers with a history of dust allergies are advised to wear face masks when handling the object to reduce discomfort.
+
+Description: SCP-1143 is an irregular chunk of sandstone, measuring approximately 2cm x 8cm x 18cm, which significantly alters the behaviour of animals of the genus Suricata suricatta (the meerkat). Its composition shows no unusual characteristics, and is entirely consistent with other sandstone deposits in the region of the Kalahari Basin where it was found. The stone's only immediately noticeable unusual characteristic is its strong odour, which has been described as "musty" or "stale". While no chemical source for this odour has been discovered, humans with dust allergies react to its presence as if it were an allergen.
+
+Suricates are only affected by SCP-1143 if they are within a direct line of sight with the stone. Animals of the correct genus which are blind or otherwise unable to see the SCP exhibit signs of fear and disorientation, but are otherwise unharmed. Testing has revealed that all animals of the mongoose family exposed to the stone appear to demonstrate severe fear responses. Thus far, suricates who see SCP-1143 undergo one of three consistent effects, designated 1143-3, 1143-2 and 1143-1.
+
+Effect 1143-3 occurs in 75% of all suricates who view the stone. Subjects will stand completely still, and begin to emit a warning cry resembling a combination of the high urgency land and air predator calls of unaffected suricates. This call normally results in other suricates who have not seen the stone leaving the vicinity as quickly as possible and taking shelter. After approximately 3 seconds of crying, the subject will attempt to disembowel itself or cause death by exsanguination.
+
+Effect 1143-2 occurs in 20% of all cases and causes the suricates to emit recruitment calls consistent with foraging behavior. This normally leads to other suricates approaching the stone and falling under its influence. Suricates undergoing 1143-2 will aggressively attack and pursue all other nearby suricates which have not undergone 1143-1, and will fight to the death to defend 1143-1 subjects. Should no other individuals be present, the effects of 1143-2 are functionally identical to those of 1143-3, although the warning cries are absent. 1143-2 subjects who survive in this state for more than a few days gain significant amounts of muscle mass, show reduced mental activity, and shed their fur. SCP-1143-2-19, an individual which was allowed to live for three months, also demonstrated markedly thicker skin and increased rates of blood coagulation, as well as considerable resistance to pain and a heightened metabolic rate.
+
+Effect 1143-1 occurs in the remaining 5%. Victims will slowly approach the stone, stopping frequently to scent-mark the territory around it. Upon making contact with the stone, they will spend between twenty minutes and six hours staring at it without moving, before making a small incision somewhere on their body and daubing a small quantity of their own blood on the stone. Once this is completed, they return to their normal social existence, with some exceptions. They will leave small 'offerings' of food at the base of the stone, and will, if given the opportunity, arrange reflective and/or brightly coloured objects around it. Effect 1143-1 subjects demonstrate significantly increased levels of intelligence, and will coordinate with others in order to expose as many other suricates as possible to SCP-1143. Effect 1143-1 exposure behaviours include:
+
+Placing SCP-1143 outside the burrow entrances of unexposed suricate colonies.
+
+Reorienting SCP-1143 to be close to sources of food and water.
+
+Cooperating to gain "Alpha" status in an unexposed pack, then intimidating the pack into exposure.
+
+Luring predators such as snakes into unexposed burrows, then placing SCP-1143 along the pack's escape route.
+
+Abducting suricate pups from other groups and exposing them to SCP-1143.

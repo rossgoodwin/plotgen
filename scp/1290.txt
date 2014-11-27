@@ -1,0 +1,15 @@
+Item #: SCP-1290
+
+Object Class: Safe
+
+Special Containment Procedures: Research Sites 48-Alpha and 48-Beta have been established around the branch facilities housing SCP-1290-1 and SCP-1290-2, respectively. Activation experiments involving SCP-1290 have been indefinitely suspended pending a better understanding of its operational principles.
+
+Description: SCP-1290 is a pair of prototype electronic devices that were built by Prometheus Labs as part of research into long-range teleportation. Each device consists of a platform 2 m in diameter attached to a 5 m x 20 m x 3 m main unit, both of which draw power from a dedicated generator. The two copies of SCP-1290 are located at diametrically opposed (antipodal) locations of the Earth, with SCP-1290-1 located in [REDACTED], Colombia and SCP-1290-2 located in [REDACTED], Singapore.
+
+When an object is placed on the platform of SCP-1290-1 and the main unit is activated, the object is instantaneously (≤10 ms delay) teleported to the platform of SCP-1290-2. However, due to what is suspected to be a design or engineering flaw, the object retains its orientation and velocity relative to the axis of the earth. That is, when a stationary object enters SCP-1290-1, it exits SCP-1290-2 upside-down and travelling east at approximately 930 m/s. See Addendum 1290-01 for more information.
+
+SCP-1290 came to the Foundation's attention following the closure of the Prometheus Labs main facility and was secured and contained on █/█/██ by elements of Mobile Task Force Mu-4 ("Debuggers"). The chief engineer in charge of SCP-1290, Dr. [REDACTED], is wanted for questioning by the Foundation and has yet to be located. SCP-1290 is currently being reverse-engineered by Foundation research teams in an effort to understand and replicate its technology.
+
+Addendum 1290-01: Incident Report, Initial Activation Experiment on █/██/██
+
+In order to establish the functionality of SCP-1290, Foundation researchers attempted to teleport a regulation 14-pound (6.35 kg) bowling ball from SCP-1290-1 to SCP-1290-2, resulting in three casualties and severe damage to the research facility and a neighboring warehouse. Until SCP-1290 is fully functional and the source of this flaw is identified, activation experiments have been suspended until further notice.

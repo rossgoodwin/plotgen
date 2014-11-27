@@ -1,0 +1,235 @@
+SCP-1190 in a powered off state. Edited to remove identifying features of its location.
+
+Item #: SCP-1190
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1190 is to be contained in a secured, temperature-controlled observation room. The observation room must provide accommodations for long term living, to include a cot for sleeping, a restroom, and a food preparation area.
+
+Video surveillance equipment is to be installed outside the observation windows to record the device’s output as well as any input provided by SCP-1190-1. All recordings from the surveillance equipment are to be permanently archived for study.
+
+A nurse or nurse assistant must be available to care for SCP-1190-1. Nurse duties include delivery of food, bathing, feeding, application of medicine, administration of intravenous feeding systems, and other tasks necessary for the care of a potentially severely disabled person.
+
+Personnel are not to interact directly with SCP-1190 except for D-class personnel cleared to be used as test subjects. Any D-class subjects to be used for testing SCP-1190 are to be cleared with site administration for a stay of execution during the course of the experiment.
+
+Procedure update following experiment 1190-1: The floor of the observation room must have a central drain for eliminating waste.
+
+Procedure update following experiment 1190-2: SCP-1190 is to be powered at all times, with backup batteries and a diesel generator in case of power failure.
+
+Description: SCP-1190 is a 1973 Hewlett Packard 3000 computer system. Installed on the device is a program which performs a physics simulation, beginning with the known origins of the universe. Observation of the simulation suggests that it is capable of simulating physical phenomena beyond our current understanding. While running the program, SCP-1190 exhibits inexplicably powerful processing capability, an anomaly which does not persist while the device performs other tasks.
+
+Attempts to decompile the program or to move it to a different device have failed. The program appears to be corrupt to all observations and actions beyond running it on SCP-1190.
+
+Aside from its anomalous performance characteristics and the inexplicably accurate logic used by the simulation, the only other notable physical characteristic of SCP-1190 is that it is unusually well maintained for its age. Otherwise, it appears to be a normal example of a computer of its make and model.
+
+When the program is executed on SCP-1190, the screen displays:
+
+Press Enter to Begin…
+
+Any individual who activates the program stored on SCP-1190 will become fascinated with the simulation. The individual will want to intervene in the development of the virtual universe to cause it to proceed according to the individual's personal ideals. The individual is designated SCP-1190-1. Over time, SCP-1190-1 will become more obsessed with the simulation, increasingly neglecting personal needs in favor of managing the virtual universe.
+
+Documentation of known commands can be obtained with consent from at least one personnel having clearance level 2/1190 or greater; however, the documentation is believed to be far from complete. Each new subject intuits new commands over time, and while video of the subject's input and the observable results on the simulation have been archived, the exact effects of many commands haven't yet become clear.
+
+History: SCP-1190 came to the attention of The Foundation via an asset embedded in the security department of █████████ Laboratories.
+
+On ██/██/████, a janitor at █████████ Laboratories reported to security that an unpleasant smell was coming from a disused office.
+
+In the office, the responding security officer found a researcher who was thought to have been missing for several weeks (D████ C████, hereby designated SCP-1190-1-A) operating SCP-1190 and surrounded by days of her own refuse and waste. SCP-1190-1-A had at some point brought several days worth of food and water to the office, but only a small amount of water remained.
+
+SCP-1190-1-A displayed symptoms of stage 3 starvation: flaking skin, thinning hair, and insufficient strength to sit up properly. However, SCP-1190-1-A was still operating SCP-1190 while muttering inaudibly.
+
+The security officer attempted to administer aid, but SCP-1190-1-A was uncooperative until the officer disconnected the power to SCP-1190. SCP-1190-1-A became violent and attempted to attack the officer, but because of the aforementioned symptoms was easily subdued. SCP-1190-1-A expired from systemic infection secondary to starvation while being rushed to the hospital.
+
++ Transcript of video taken by security officer
+
+- Transcript of video taken by security officer
+
+Officer: “D████? Is that you? Ugh, it stinks in here—are you okay?”
+
+SCP-1190-1-A: [INAUDIBLE]
+
+Officer: “Holy [EXPLETIVE REDACTED]! D████! Your hair—your skin! What happened to you? SecOps, we need medical on floor █, office ███ immediately! Ugh, what the hell are you sitting in? Stay with me, girl!”
+
+SCP-1190-1-A: [INAUDIBLE]
+
+Officer attempts to remove SCP-1190-1-A from the terminal, but she resists.
+
+Officer: “Hey—what’s going on here? You need help! Let me help you!”
+
+Officer waves a hand in front of SCP-1190-1-A and gets no response. The officer then unplugs SCP-1190 from the wall.
+
+Officer: “You’ve got to focus! Stay with me!”
+
+SCP-1190-1-A: “You… you killed them… m-murderer! You killed them all!”
+
+SCP-1190-1-A attempts to lunge at the officer, but lacks the strength to stay upright and collapses. SCP-1190-1-A claws at the officer’s legs.
+
+Officer: “W-what are you doing? You’ve got to hold still! Ouch! Hey, I’m here to help you!”
+
+The officer restrains SCP-1190-1-A with a pair of handcuffs.
+
+Officer: “SecOps, you’d better get a stretcher up here—something with restraints, I just found D████ and she is delirious and in bad shape.”
+
+SCP-1190-1-A: “Billions… you killed billions. They needed me, I gave them paradise, and you killed them. Monster!”
+
+SCP-1190 was taken into containment by The Foundation on ██/██/████.
+
+Experiment Logs:
+
++ Excerpts from Experiment Log 1190-1
+
+- Excerpts from Experiment Log 1190-1
+
+Subject: D-class personnel D-11593 is a 53 year old Caucasian male.
+
+Subject Background: A former network administrator, D-11593 is a sociopath convicted on 6 counts of torture and murder in the first degree.
+
+D-11593 (hereafter referred to as SCP-1190-1-B) was selected for this experiment due to high scores on computer aptitude tests.
+
+Day 1: SCP-1190-1-B was locked in the observation room for SCP-1190. Subject was instructed to begin the simulation, and to keep a diary during the experiment. Subject was given no further instructions.
+
+Day 2: SCP-1190-1-B spent 2 hours tending to the simulation.
+
+Excerpt from subject diary
+
+“They’re making me run some kind of simulation, it seems. So far all I can see are a bunch of white pixels moving away from each other. I can make them move a little faster or a little slower, but that’s about it.”
+
+Day 7: SCP-1190-1-B spent 8 hours tending to the simulation.
+
+Excerpt from subject diary
+
+“The stars, they have planets! I figured out how to start a chain reaction in a star that makes it supernova and take out a bunch of planets with it. Maybe if I fast forward enough, I can find one with some playthings.”
+
+Day 12: SCP-1190-1-B spent 14 hours tending to the simulation. The rest of the day was spent sleeping and eating with no recreation.
+
+Excerpt from subject diary
+
+“I found another planet with some life starting. I shouldn’t have broken the last planet with life; it took me too long to find another one. This time I think I’ll be more subtle and see how much a life form can take before it just can't live anymore.”
+
+Day 20: SCP-1190-1-B spent 18 hours tending to the simulation. Subject ate at the terminal, leaving only to sleep and use the restroom.
+
+Excerpt from subject diary
+
+“I figured out how to keep the creatures I created alive, even when most of them just want to die. The young ones cry and shake from the pain, but as they get older, they seem to get used to it. I have to figure out a way to change up the pain as they get older, so it will never end.”
+
+Day 42: SCP-1190-1-B spent 20 hours tending to the simulation. Subject ate at the terminal, and only left the simulation to use the restroom. SCP-1190-1-B fell asleep for 4 hours at the desk; upon waking up, subject displayed some anxiety about having drifted off. When instructed to write in the journal, SCP-1190-1-B became agitated and had to be threatened with an electric prod before complying.
+
+Excerpt from subject diary
+
+“The last of the creatures from planet 7 died out today while I was asleep. I should have been there so it wouldn't have been so quick. Now they're making me spend more time away from the universe to write this entry; who knows what else I'll miss?
+
+I suppose I was getting bored anyway, they can only scream so much. I think this time, I'll make the life on planets 12 and 13 evolve so they are perfect for killing each other, then open up a wormhole between the planets and see who wins.”
+
+Day 84: SCP-1190-1-B spent 24 hours tending to the simulation. Subject no longer eats independently, and has been placed on intravenous feeding. The nurse has to give the subject sponge baths, and a drain has been installed in the floor so waste can be flushed. In addition, the nurse has been instructed to regularly manipulate the subject's extremities to mitigate complications from long-term immobility.
+
+When instructed to write in the journal, subject remains unresponsive, even if shocked with an electric prod.
+
+Transcript of surveillance video
+
+SCP-1190-1-B: “No, it can't be over this soon! I know, I'll bring them back, let them fight it out again…”
+
+Day 105: SCP-1190-1-B suffered from a pulmonary embolism resulting from a deep-vein thrombosis. Subject began to have trouble breathing and started coughing. The research assistant on duty called for the nurse, who was off duty and took nearly 30 minutes to respond. By the time the nurse arrived, the subject's symptoms had transitioned to bloody coughing and collapse. Before losing consciousness, SCP-1190-1-B rendered the simulation unusable by bringing about the destruction of the virtual universe.
+
+SCP-1190-1-B was transferred to medical, where an anticoagulant was administered, but SCP-1190-1-B expired from sudden cardiac death.
+
+Transcript of surveillance video
+
+SCP-1190-1-B begins exhibiting trouble breathing, including wheezing and coughing.
+
+Research Assistant Dr. █████ : “Hey, what's going on with our guy? Get the nurse to check him out.”
+
+Approximately 30 minutes elapses before SCP-1190-1-B begins coughing up blood.
+
+SCP-1190-1-B: “What… what's happening…”
+
+SCP-1190-1-B's posture becomes limp during onset of collapse; the nurse arrives and is cleared to enter the observation room.
+
+SCP-1190-1-B: “I can't… leave them… alone. If I go… they're coming with me.”
+
+Nurse ███████ : “We've got tachypnea, hemoptysis and cyanosis. We need to get him to medical immediately!”
+
+SCP-1190-1-B loses consciousness.
+
+Nurse ███████ was reprimanded for responding to a priority 3 page in excess of 10 minutes. Video of this incident is under consideration for staff training purposes.
+
++ Excerpts from Experiment Log 1190-2
+
+- Excerpts from Experiment Log 1190-2
+
+Subject: D-class personnel D-14899 is a 37 year old Hispanic female.
+
+Subject Background: A former professional artist, D-14899 was convicted on 2 counts of murder after one of her art pieces was vandalized.
+
+D-14899 (hereafter referred to as SCP-1190-1-C) was selected for this experiment due to an artistic background.
+
+Day 1: SCP-1190-1-C was locked in the observation room for SCP-1190. Subject was instructed to begin the simulation, and to keep a diary during the experiment. SCP-1190-1-C was given no further instructions.
+
+Day 2: SCP-1190-1-C spent 1 hour tending to the simulation.
+
+Excerpt from subject diary
+
+“This place is like so many other prisons, and yet unlike them. I heard sounds … or maybe I didn’t… in the other areas. Had strange feelings. Ideas came into my mind, inspirations… I want to paint them, but I can't. All I have is this diary, and some computer, showing dots.”
+
+Day 4: SCP-1190-1-C spent 2 hours tending to the simulation, and 6 hours sketching in the diary. Subject's request for assorted art supplies denied.
+
+Excerpt from subject diary
+
+“I tried. I tried to get the ideas out, but I can only do so much with a pencil. The only other thing in here to look at is that computer, and all I can do is move around in space. If only there were some colors to look at.”
+
+Day 9: SCP-1190-1-C spent 12 hours tending to the simulation. The rest of the day was spent writing extensive diary entries, eating and sleeping.
+
+Excerpt from subject diary
+
+“This is amazing! It's the world's biggest, most perfect canvas! But it's more than that. I can shape galaxies into flowers, and those into gardens. I can paint the horizon of a beautiful purple moon with stars that change colors as the planet rotates. It's sculpting, and painting, and music and dance, all at once!”
+
+Day 21: SCP-1190-1-C spent 20 hours tending to the simulation. Subject eats meals at the terminal, and leaves only to use the restroom, to sleep for 2 hours, and to make entries in the diary.
+
+Excerpt from subject diary
+
+“I created the perfect woman. Tall, beautiful, unusual and yet familiar. She seems motherly and yet distant. Her children are unformed pieces of clay with endless possibility. She recognizes their potential, and is proud, but still cries when I transform them. It is beautiful… some people can sculpt what they feel, but only I can literally sculpt using raw emotion.”
+
+Day 30: SCP-1190-1-C spent 23 hours tending to the simulation. Subject eats meals at the terminal, and leaves only to use the restroom and to make entries in the diary.
+
+Excerpt from subject diary
+
+“Art can mean so much more when you're not bound by rules. I can make a line of colors that didn't exist until I invented them that goes from one end of the universe to the other, and it will never move or fall down. I reshaped the structure of carbon to make shapes I never could have thought of in my wildest dreams!”
+
+Day 31: A breach of containment by SCP-███ caused a extended power interruption which powered down SCP-1190. After a momentary delay, SCP-1190-1-C became violent, attempting to destroy objects in the room other than SCP-1190. Security had to enter the observation room to contain the outburst.
+
+SCP-1190-1-C is currently restrained in medical. Class A amnesiacs were administered, but the subject continues to exhibit symptoms similar to sustained withdrawal, including depression, anxiety, fatigue and nausea. Subject indicates that she undergoes persistent cravings for an unidentifiable "fix".
+
++ Excerpts from Experiment Log 1190-3
+
+- Excerpts from Experiment Log 1190-3
+
+Subject: D-class personnel D-17019 is a 67 year old Caucasian male with moderate obsessive-compulsive disorder manifesting in a compulsion to place objects into certain patterns.
+
+Subject Background: D-17019's was convicted on 1 count of arson resulting in the deaths of 9.
+
+D-17019 (hereafter referred to as SCP-1190-1-D) was selected for this experiment due to a unique concept of organization.
+
+Day 1: SCP-1190-1-D was locked in the observation room for SCP-1190. Subject was instructed to begin the simulation, and to keep a diary during the experiment. SCP-1190-1-D was given no further instructions.
+
+Day 2: SCP-1190-1-D spent 1 hour tending to the simulation.
+
+Excerpt from Subject diary:
+
+"Nothing is where it should be the cot is on the north wall with the head facing east. And then there's this computer! The dots are all wrong in every way I want to get in there and fix them so badly.”
+
+Day 3: SCP-1190-1-D has suffered from a sudden embolic stroke. Because the stroke occurred while the nurse was on duty, the subject was able to be transferred immediately to medical. Reports indicate that the subject has been stabilized and that partial recovery is likely; however some damage to the ventral striatum is likely to be permanent, which may affect the subject's long-term behavior.
+
+Day 8: SCP-1190-1-D released from medical and subjected to a full psych evaluation. Reports indicate that the subject no longer feels compulsion to reorganize objects.
+
+Day 9: SCP-1190-1-D placed back into the observation room for SCP-1190. Subject spent no time tending to the simulation.
+
+Excerpt from Subject diary:
+
+“Things which used to seem so significant don't anymore. Nothing really motivates me like it used to.”
+
+Day 10: SCP-1190-1-D spent no time tending to the simulation.
+
+Day 17: SCP-1190-1-D spent no time tending to the simulation. Subject appears to be immune to the compulsion to interact with SCP-1190. Subject's stay of execution will be revoked, and subject will be remanded to general Foundation custody.
+
+Experiment log, ██/██/████
+
+“With SCP-1190-1-D's brain damaged, it appears that SCP-1190 no longer is able to exert a compulsive effect on the subject. While some might call this experiment a failure, it presents a heretofore unavailable opportunity to let the simulation run its course without intervention. The results of this "pure" simulation could be very interesting.”

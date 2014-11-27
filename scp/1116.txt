@@ -1,0 +1,39 @@
+Image from CT scan of SCP-1116-5
+
+Item #: SCP-1116
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1116-1 through -6 and -8 are to be kept in individual 5m x 5m x 3m containment cells at Site-██. Each cell is to be shielded against radio-frequency transmissions of up to ███ W transmissive power with frequencies ranging from █ Mhz to ██ Ghz. All electronic monitoring and communications equipment must be hard-wired with shielded cabling. No wireless communication devices are permitted within ███ m of any instance of SCP-1116. Site-██ is to maintain on "hot-standby" two (2) frequency-agile RF jamming devices of at least ██ kW output, to be activated in case of containment breach by SCP-1116. No specimen of SCP-1116 is permitted above ground at any time unless fully enclosed in a container with the specified shielding. Line-of-sight to the sky must be blocked at all times.
+
+Each cell is to contain one (1) chair constructed of non-metallic, non-conductive materials, secured to the floor and equipped with mechanical restraints and waste disposal facilities, as well as three (3) wide-spectrum RF antennas connected to software-defined radio receiving equipment. All recorded radio transmissions from SCP-1116 specimens are to be forwarded to Site-█ for analysis.
+
+Specimens are to be fed three (3) times daily, with processed food only. Use of restraints during feeding is mandatory. Specimens must be led through calisthenics two (2) times daily, using vocal commands - see Schedule 1116-C█ for approved exercises and Document 1116-B█ for known command phrases and current macros. Cells are not to be opened during exercises; remotely-operated audio equipment is to be utilized, hard-wired and shielded as per above specification.
+
+All testing of SCP-1116 specimens is to take place either within the specimen's own containment cell or within a testing chamber shielded to the same specification. Transport between containment cell and testing chamber is to take place under armed guard, with the specimen restrained and both RF jamming devices activated. During transport and testing, all verbal interactions between researchers and/or security staff are to be confirmed by hand signal (see Addendum 1116-1).
+
+The remains of SCP-1116-7 are to be kept in cold storage at Bio-Research Area-12 for further analysis.
+
+Description: SCP-1116 is a group of 8 7 humanoids of varied race and gender, with apparent ages between 20 and 35 years. All initially appear to suffer from catatonic stupor, including symptoms of catalepsy. Specimens will swallow food and water when placed into their mouths, but will not chew. Specimens will remain in a given position when physically manipulated into said position. Specimens will attempt to maintain homeostasis (including sweat, pupil dilation, and fluctuations in respiratory and heart rate), but will not detectably react to pain stimuli (including heat, pressure or puncture), sexual stimuli (including both displayed images and manual stimulation), or environmental threats (including extreme cold, extreme heat, starvation, dehydration, or large predator animals).
+
+SCP-1116 specimens show no evidence of volition, but will respond to a limited number of verbal commands (eg. "sit", "stand", "raise right arm"), and can remember a sequence of commands for later execution when preceded by a macro phrase (see Document 1116-B█ for more details). This command vocabulary is extremely narrow, however, including only references to gross motor functions, simple counting, and a small number of basic spatial relations.
+
+CT scans of SCP-1116 revealed specimens to possess <10% of the expected neural mass, with the remaining cranial volume occupied by cerebrospinal fluid. Embedded in the outer layer of the skull is a mesh of metallic filaments, composed of an alloy of silver (██%), zinc (██%), and [REDACTED] (█%), and forming a pattern closely resembling a ██-iteration box fractal. SCP-1116 specimens appear to use this mesh layer as a radio antenna, and will transmit █-██ times per hour on ██ different frequencies. Energy for these transmissions appears to derive from normal metabolic processes, but the specific mechanism for generating the required current has not yet been identified. The only vocalizations from specimens to date (excepting Incident I-1116-23, see below) have been low-volume, atonal "singing" noises corresponding to periods of radio transmission. Cryptographic analysis of outbound transmissions is ongoing - current evaluations indicate they are likely connection requests using an unknown protocol.
+
+Addendum 1116-1: After the events of Incident I-1116-23, it has been determined that the cranial antenna of an SCP-1116 specimen can be used to produce localized pockets of heated air, creating sound waves audible only to individual personnel. Multiple survivors of Incident I-1116-23 claimed they heard orders which were determined never to have been given, contributing to and prolonging the containment breach of SCP-1116-7. Containment procedures have been updated accordingly.
+
++ Incident I-1116-23
+
+- Incident I-1116-23
+
+Document# I-1116-23
+
+Date: ██/██/20██
+
+Location: Site-██
+
+Description: During transport from cell to testing chamber, SCP-1116-7 accessed a laptop left 1██ m away with its wireless networking enabled, and through it circumvented Site-██ network security. Audio recordings indicate that coincident with the network breach, subject made a brief "singing" sound, then proceeded to become active and breach containment, resulting in the deaths of ██ researchers and █ security personnel, as well as subject's escape from the facility.
+
+Subject was re-engaged █.█ km away after an additional ██ minutes, and was fatally wounded in the ensuing firefight. Transmissions did not fully cease, however, until subject's cranium was destroyed.
+
+Forensic analysis of the network breach has yet to determine the full extent of the compromised data, but given the █-band frequency emissions detected from subject for the duration of its time on the surface, estimates put the total data leakage at up to ███ GB.

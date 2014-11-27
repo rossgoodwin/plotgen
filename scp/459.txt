@@ -1,0 +1,59 @@
+A picture of SCP-459's effects, with Dr. ██████, Agent █████, and D-3826.
+
+Item #: SCP-459
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-459 is to be kept unpowered in a standard security locker. The access code is to be changed bi-weekly and known to level 3 and higher personnel. Removal for testing purposes must be requested at least one week in advance, and approved by a level 4 personnel. As of 04/15/20██, testing has been indefinitely suspended. Proposals for use should be directed to O5-level personnel.
+
+Description: SCP-459 appears to be a standard home thermostat. The item is equipped with a small display, four buttons, and two dials on either side of the screen; the two buttons on the right side raise and lower temperature, and the other two appear to affect relative humidity in the area - However, these buttons will only work when both dials are set to the off position. The left dial (Dial 1) is marked with several standard weather conditions including "rain", "snow", and [DATA EXPUNGED]. The fourth and fifth positions' lettering has worn off, and have been marked as 4 and 5. The fourth and fifth positions have been respectively designated "T-storm" and "Hurricane". The right dial (Dial 2) has ██ different settings, all of which are unmarked. The rightmost positions on each dial are the "off" positions.
+
+SCP-459 can, when wired to a heating and cooling system, modify weather patterns in addition to temperature and humidity. The area of effect appears to be about 1,500 square feet (about 457 m²), the same amount as a modest home. How these effects are produced is currently unknown, as site-wide heating and cooling systems show no abnormalities in the area, even if the temperature is significantly different. Recent testing may suggest SCP-459 can access resources from other planets, and possibly other dimensions.
+
+Addendum 459-1: SCP-459 was discovered in a suburban home in ██████████, ██████, after reports from neighbors of loud noises and bright flashes at night. Authorities' first attempts to investigate resulted in [REDACTED], attracting the Foundation's attention. A group of agents with standard protection gear cut power to the house and proceeded to retrieve SCP-459 without incident, wherein all agents returned to Site-██ with the device. The bodies of [REDACTED], the occupants of the home, were recovered as well; cause of death is officially listed as a gas leak.
+
+Test Log 459-2
+
+Pre-testing note: The default settings are 20 degrees Celsius and 50% relative humidity. -Dr. ███████
+
+Name: Dr. ███████
+
+Date: 3/16/20██
+
+Temperature/Humidity/Weather setting: 20°C/50%/Dial 1, Snow
+
+Results: After 127 seconds, rain began to fall in the testing area. Temperature indicated by SCP-459 is confirmed. Weather cleared after twenty minutes.
+
+Notes: "I thought it would decrease the temperature… Well, I was half right - this is, functionally, ordinary weather, and follows the same rules." -Dr. ███████
+
+Date: 3/16/20██
+
+Temperature/Humidity/Weather setting: 23°C/75%/Dial 1, "4"
+
+Results: After 47 seconds, dark clouds began to coalesce followed by moderate rain and occasional thunder. Wind speed inside the testing chamber peaked at 67 km/h. Weather cleared after 34 minutes.
+
+Notes: "Nothing particularly unusual, though maybe we should have some weather gear close by next time we test this thing." -Dr. ███████
+
+Date: 3/16/20██
+
+Temperature/Humidity/Weather setting: 26°C/80%/Dial 1, "5"
+
+Results: At first, outcome appeared identical to second test, but seven minutes after activation, weather conditions began to sharply deteriorate, with heavy rain and winds reaching up to 162 km/h, followed by [REDACTED]. Weather took over two hours to clear up. Site-wide brownouts reported.
+
+Notes: "Let's not try that again… While watching a handful of sopping wet researchers being blown around a test chamber is, in retrospect, hilarious, my assistant getting electrocuted and the risk of site-wide containment failure put a bit of a damper on the whole thing." -Dr. ███████
+
+Date: 3/24/20██
+
+Temperature/Humidity/Weather setting: 20°C/50%/Dial 2, leftmost position.
+
+Results: After five minutes of inactivity, Dr. ███████ exited the test chamber due to a spontaneous nosebleed. At 07:32 after activation, a breeze began to blow throughout the room, increasing in speed very rapidly, after which the view was obscured by large amounts of unidentified red material [DATA EXPUNGED] sensors clocked the wind speed at 428 km/h before they were destroyed [DATA EXPUNGED] entire East wing locked down. Weather did not subside for a week after the incident and further testing was suspended until the test chamber could be fully inspected and repaired. Inspection of the chamber showed large quantities of ammonia, hydrogen sulfide, and other chemical compounds known to make up Jupiter's atmosphere.
+
+Notes: "Was that the ███████ red spot?!" -Dr. ███████
+
+Date: 4/15/20██
+
+Temperature/Humidity/Weather setting: 20°C/50%/Dial 2, one turn from leftmost position.
+
+Results: D-class personnel adjusted the device accordingly. After 742 seconds, [DATA EXPUNGED]. All further testing suspended indefinitely.
+
+Notes: "It took three weeks to get the thing back, but it's completely undamaged. It's possible we could use this thing to help recreate natural environments for certain Earth-native animal SCPs." -Dr. ███████

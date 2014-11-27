@@ -1,0 +1,77 @@
+Item #: SCP-828
+
+Object Class: Safe
+
+Special Containment Procedures: Facilities have been designated for design and production of SCP-828. All construction and development of the devices are to be restricted to these areas.
+
+Currently, all subjects used in testing newly produced copies of SCP-828 are to be kept in Foundation-controlled areas, preferably ones where all facets of the subject's behavior can be observed at any time without the subject knowing.
+
+Analysis of the individual control algorithms used by SCP-828 is to be restricted to specially designated Level 1 personnel who report directly to a Level 4 liaison. These personnel are not to be made aware of the existence of SCP-828, and strict compartmentalization of this division is to be maintained. Any exceptions to the compartmentalization protocol to aid research into the algorithms must be reviewed and cleared by the liaison.
+
+Regarding the subjects recovered by the Foundation from the original experiment, please note that the strict behavioral protocols associated with each subject must be followed exactly to maintain the subject in state usable for psychological testing.
+
+Description: SCP-828 is a collection of behavior modification devices intended to be directly implanted in the brains of subjects. The device electrically manipulates the brain to produce subconscious negative stimuli inducing a change in the behavior or intent of the subject. Any deviation in behavior or intent induced by this negative stimuli is often rationalized by the subjects as the result of a conscious decision stemming from visual, auditory, or tactile hallucinations. The stimulation is controlled by an individualized algorithm presumably tailored to each subject. The algorithm actively generates a model of the mind of the subject based on the electrochemical state of the brain. Examples of SCP-828 use this model coupled with the previously mentioned negative conditioning to shape the behavior of the subject. By punishing thoughts based on criteria embedded in the algorithm, the devices take advantage of associative learning in subjects. This operant conditioning makes thoughts that trigger their device less likely to occur within the subject.
+
+The devices were found implanted in the ██ students making up the senior class of ███████ ████████ High School in ███ ███, ██ in what was later identified as a "beta test" of the implants. The Foundation became involved after a side effect of the alterations led to three murders committed by subjects implanted with the devices. The investigation showed that the side effect emerged quickly after the school year began, and initially manifested as a reorganization of extant social groupings. The behaviors escalated as time went on, and included voluntary sleep deprivation, deliberate self-harm, and ritualized scarification. The scarification appeared to be a manifestation of the new social groupings, intended to be seen solely by those considered to be part of the same social group. Immediately prior to the murders these behaviors culminated in seven deaths that were ruled suicides at the time, though the Foundation investigators came to the conclusion that adequate investigation into the cause of the deaths had not occurred.
+
+Note: Further research into the original experiment has indicated that the new social groups formed between subjects with similar conditioning protocols. The current explanation for this behavior, as well as others displayed by the subjects, suggests that the subjects bonded in these "peer" groups to supplement the negative reinforcement of forbidden behaviors with a social component.
+
+Before becoming involved, the Foundation had been unaware of the experiment. Further investigation into the identities behind the scientists conducting the experiment, or the sources of its funding, has stalled.
+
+The original devices recovered from ███ ███ are now classified as SCP-828-█-1 through SCP-828-█-34. Devices manufactured by the Foundation will have the classification code SCP-828- appended to the front of their serial code, and for the time being, are to be considered SCP-class objects.
+
+The subjects used in the original experiment have been retained to see the enduring effects of SCP-828 on the human mind after the implants have been removed, as well as to obtain more information about the individualized algorithms. Each recovered subject shows a great deal of learned helplessness, requiring the presence of others of the formed social group to function semi-independently. The Foundation has identified and outlined several behavioral protocols to be practiced by all teams handling the recovered subjects. These protocols will put the subjects at ease and allow them to be psychologically tested and more efficiently cared for. Failure to follow the protocols has led to cases of non-epileptic seizures and temporary catatonia.
+
+Addenda:
+
+SCP-828-a: Several documents related to the original experiment were recovered by Foundation researchers, and have provided a great deal of information useful in the reproduction of new implants. Unfortunately, no explanation of the algorithms used by SCP-828, nor a copy of the seed process used to generate each individual algorithm was found in the documents. Testing with copies of some of the individualized control algorithms utilized with newly produced copies of SCP-828 and new subjects has begun to yield insight, potentially leading to another general seed algorithm.
+
+To prevent other groups from gaining knowledge of the technology potential embodied in SCP-828, a cover story involving a fire in the school during an official gathering has been put in place. Please see Document SCP-828-f.
+
+The handwritten personal statement found with other papers related to the devices has been separately filed as Document SCP-828-d.
+
+Document SCP-828-d:
+
+The alpha tests, the ones in the lab setting, went fine. Every subject, every single god damn individual test case were cured. Or improved. Some of the patients thanked me, afterward.
+
+Shook my hand.
+
+But — it went wrong. Something in the algorithm, maybe, a synergistic effect we hadn't anticipated. Sometimes I think the algorithms were talking to each other, using those poor kids bodies as the canvas. Silly. The algorithm was not my insight, so it's easy to treat it like a black box. Blame all the trouble on the magick voodoo math rather than the conditioning protocols we put in place or any number of things we forgot to account for.
+
+For you who read this, the historians and scientists who come after, I feel the most tragic aspect of this is not the people who lost their lives today. It's those who won't get help because our haste set this experiment back more than years, and ensured that it wouldn't be pursued for years. I know my technology, my plan is doomed. No one will touch the Clamp after the deaths become public knowledge. But the delivery system doesn't matter. Maybe we were too invasive, or maybe
+
+a small portion has been scratched out and rendered unreadable
+
+I need to be intellectually honest. I don't know why the Clamps went haywire, but the effect only emerged when groups of people equipped with the Clamp interacted. I don't know if this is something systemic to the algorithm or the Clamp technology or if it's specific to this batch of the device we produce.
+
+Since the kids have started to kill people, it's not as though I'll have a chance to start setting up control groups.
+
+I'll leave some specific notes on the technology and the methodology for those who come after, pick up my best. The Clamp works, I know it does. This effect is just a kink it can be smoothed out. This technology can help people. It HAS helped people.
+
+a small portion has been scratched out and rendered unreadable
+
+Honestly, I simply don't have the courage to remain here. I can say it's because I don't have the skill to be the public face of this technology, but I'm afraid. I refuse to see those families again, to look at them across that bench.
+
+I feel dirty. Like something in those kids' eyes reached out into me, and tainted me. Huh. Maybe it was the other way round.
+
+Document SCP-828-e:
+
+From: O5-██
+
+To: Director ██████ "Lyric" ████
+
+Re: Special Research Initiative JX-82
+
+It seems quite obvious to me that the scientists and researchers we rescued this project from suffered from an abject lack of creativity. Really, an electrode in the brain to perform the manipulation of the subjects is like taking a hammer to a watch. It's no surprise that they failed to accurately model the behavior of the subjects when interacting in wide-scale social groups.
+
+As your team works on recreating the science behind the algorithms we retrieved, I want you to keep your team primed to create novel applications for this algorithm. I'm looking for crowd control strategies, external influence strategies, trojan-horse modifications, and subconscious manipulation; Also please consider applications not directly related to behavior modification.
+
+As it seems evident that competing groups have farther progress in the science allowing this comprehensive description of the mind, I am allowing your access to all Foundation files on behavior modification, psychological manipulation, theories of the mind, etc. Further, I have requested special dispensation for you to be allowed to view several human resource protocols practiced by the Foundation that are considered OVERSEER level assets. I am also granting you the right to access SCPs and other critical Foundation assets you think will be useful in exploring this technology. Needless to say, however, as your team consists of Level 1 researchers newly recruited for this job I expect you to maintain a level of compartmentalization. I'll trust your judgment in what you choose to disclose to your team, but please be discreet.
+
+I feel this algorithm will allow us to overcome earlier failures and disappointments with behavior modification schemes tried in the past. For the first time, the human mind is no longer a black box where we have to guess at the inner workings based on flawed data and soft paradigms. The Foundation has been shown the door to getting inside the mind of any human, and I need you to get me the key.
+
+I cannot emphasize my backing of this project enough. Frankly, I view these silly Clamp devices as the first step in a larger technological revolution. They're the Babbage machine of mind control, and frankly, we can do better. Imagine what humanity could become once we start to tinker with our minds and the minds of our fellows the way we tinker with cars, computers, and livestock.
+
+Now imagine that technology being secretly implemented by hands other than ours.
+
+I await the applications your team will develop.

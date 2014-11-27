@@ -1,0 +1,145 @@
+SCP-1918 attempting to block a testing subject's exit. 03/12/██. Camera recovered on the surface, undamaged.
+
+Item #: SCP-1918
+
+Object Class: Euclid
+
+Special Containment Procedures: Entrances to SCP-1918-2 have been secured and monitored with constant video surveillance as of 03/05/██. The sewage facility containing 3 entrances has been quarantined by Foundation personnel and the entrances themselves have been sealed. Workers previously employed at the facility have been issued amnesiacs and replaced with Foundation personnel. All other entrances have been permanently sealed with cement.
+
+Description: SCP-1918 is an object of unknown composition located in what appears to be a utility room in SCP-1918-2. It appears to be a plastic mold attached to a metallic rod, and is usually found moving between hallways. SCP-1918 moves on its own volition, although it does not appear to separate from the ground at any time. The object leans in the direction it travels in, and moves at a set speed of 5 kph.
+
+SCP-1918-2 is the designation for the facility containing the SCP-1918, and is located 12 meters below ground level, although the area itself appears to be undisturbed and shows no sign of an unnatural burial. There are 18 identical rooms in the facility, or 9 compound rooms; each is a “1” room attached to a “2”. “2” and” “1” rooms are identical, save for "1" markings for “1” rooms and "2" markings for “2” rooms. This is denoted with embossings on the outsides of the individual rooms. The design of the facility containing SCP-1918 is mostly symmetrical, with .65 meter wide hallways circling each compound room. The only deviations to this construction are the location of entrances on the sides of each individual room, which vary randomly while the facility is active.
+
+Hallways in the facility are completely devoid of light, with any light produced being absorbed via an unknown mechanism; due to this, exploration must be performed via memorization of the facility interior and touch. Sound behaves abnormally within SCP-1918-2 while an event is active; An audible echo can be heard five (5) seconds after a sound (inaudible) is actually produced.
+
+It is not currently known whether or not SCP-1918 and SCP-1918-2 are separate or identical manifestations as attempts to remove SCP-1918 from the SCP-1918-2 have been largely unsuccessful.
+
+Visual Representation
+
+– hide block
+
+One of two things will occur when a human or canine subject enters the central room. In both cases the room becomes illuminated, and SCP-1918-2 becomes 'active'. SCP-1918 then enters the room containing the subject and moves across the floor, leaving in its trail a message either reading "Tik Tak Tow" or "Memoree", maintaining a consistent speed and leaving immediately after the messages have been inscribed. If the subject attempts to exit the room before this, the room will return to its dormant state, with the subject and any of its possessions disappearing immediately.
+
+It has been found that a trained ear can effectively pinpoint the location of SCP-1918 by a consistent scraping noise it produces as it moves.
+
+The following are approximations of what occurs during these two separate events.
+
+Tik Tak Tow: The object moves to each “1” room, leaving behind "X" markings on the floors if the room is not already marked with an "O" in a manner similar to a game of "Tic Tac Toe". How a subject is meant to accomplish making a mark is unknown, as no means to do so are given
+
+Memoree: Upon exiting the room the subject is rendered unconscious by blunt force, presumably from SCP-1918. The subject regains consciousness in a random section of the facility. Success is marked by finding a “1” room identical to the central room (rooms during this event appear to differ slightly). This event seems to limited to a time limit, as the subject is pursued by SCP-1918 throughout the halls of the facility. The subject "wins" by marking the correct room with an "O".
+
+Entering a “2” room causes SCP-1918-2 to enter a dormant state, and what is assumed to be the death of the subject participating.
+
+If the subject is successful, SCP-1918 will present itself in the room that the subject is currently in. SCP-1918 will then inscribe "new game" on the floor and repeat the process with a new event. If the subject is unsuccessful, SCP-1918-2 will simply revert to its dormant state with the subject participating in the previous event disappearing.
+
+SCP-1918-2 came to the attention of the Foundation after the disappearance of four utility workers in █████, a small town (pop. 226) in Maine. Numerous reports were filed to the local sheriff’s department of a “metallic scraping” beneath the ground, most commonly audible near sewage grates. Connection to SCP-1918-2 is non-Euclidian as entrances tend to be kilometers apart from one another. There are currently 9 known entrances, including 5 sewage grates, 3 utility shafts located in a sewage facility, and 1 toilet.
+
+Testing Log D: D-Class subject is equipped with an earpiece, headlamp, and a chest mounted camera with a live feed to Researchers. Subject is then instructed to enter entrance 2.
+
+D-2934: Okay, so where’s this tunnel taking me?
+
+Researcher Sanders You have been briefed. Continue.
+
+D-2934: Okay so when I get there I do this game and I leave? Why can’t I do that other thing you guys sent up Paul to do earlier?
+
+Researcher Sanders: You have been selected for your expert knowledge of the subject. Where are you located currently?
+
+D-2934: Tunnel stopped, I mean the concrete part. It’s a big ole’ cave, uh, I can see a hole on the end.
+
+Researcher Sanders: Enter the hole.
+
+D-2934: You sure about that? Shouldn’t ya’ll be sending in robots or something?
+
+Researcher Sanders: Would you like to terminate testing, D-2934.
+
+D-2934: Oh yeah, alright, nah that’s alright, yeah I’m headed in. Hell, this is kind of exciting I guess.
+
+Audio and video feed useless as expected during travel in halls. D-2934 moves through darkness before the room is illuminated, and SCP-1918 becomes visible in what is assumed to be the central room.
+
+D-2934: Hey who turned on the lights? Hot damn, what the hell is that thing!? Hey there, hey you guys see this? Hear me? Is that the thing?
+
+D-2934: It’s… oh well ya’ll are seein’ this right? What’s, oh, Tic Tac Toe, haha, what? – hey where’s that thing going? I mean I know where it’s goin’ but-
+
+Researcher Sanders: Please begin the protocol. You have been briefed. Please move quickly.
+
+Video feed black. Scraping against metal can be heard .
+
+Video and audio effective after four minutes.
+
+D-2934: Hah! Beat ‘im to it! So I mark an “O” right? I’m on top left right now, felt the walls, remember it like my hand. Hah. Ya’ll can hear me right? HEY, YOU GUYS THERE?
+
+Researcher Sanders: Yes.
+
+Subject produces marker and marks the floor. SCP-1918 appears in the doorway.
+
+D-2934: Hey ya’ll didn’t tell me about this, what’s it doin’?
+
+SCP-1918 remains in the doorway.
+
+Researcher Sanders: This behavior is currently undocumented. Your cooperation is appreciated.
+
+D-2934: The hell does that mean?
+
+SCP-1918 remains in the doorway for four more minutes.
+
+D-2934: Hey, motherfucker, you gonna let me by?
+
+SCP-1918 tilts slightly left and right.
+
+D-2934: Sore fuckin’ loser it’s just one “O” go mark off another one!
+
+SCP-1918 leaves the doorway back into the halls.
+
+Researcher Sanders: Please continue.
+
+After a course of 20 minutes the event is completed, with D-2934 successful.
+
+D-2934: Hot damn, that means I won. Sucker didn’t even get one box!
+
+Researcher Sanders: Please await the arrival of SCP-1918.
+
+D-2934: The fuck you mean?
+
+SCP-1918 enters the room, inscribing “cheat”, “new game”, and then “memoree” on the floor of the room.
+
+D-2934: Okay. Okay. What the fuck ever Pez Dispenser mothefucker.
+
+D-2934 is incapacitated upon exiting the room. Video feed resumes four hours later, although scraping can be heard continually.
+
+Earpiece and microphone appears to be damaged or lost as audio is no longer audible.
+
+Video appears shaky as D-2934 enters a room, most likely due to severe head trauma.
+
+D-2934 exits the room, appears to be running.
+
+After 12 minutes D-2934 enters another room and appears to clap and rub his hands together.
+
+D-2934 approaches the center of the room. D-2934 appears to make a questioning gesture.
+
+D-2934 paces the room for 3 minutes.
+
+D-2934 approaches a rusted pipe visible on one of the sides of the room.
+
+D-2934 moves his wrist along the pipe, drawing blood, and leans against the wall holding said wrist for a short time.
+
+D-2934 enters a crouching position at the center of the room and smears his wrist repeatedly in a circular pattern.
+
+D-2934 returns to standing position, removes jumpsuit and wraps it around the wrist.
+
+SCP-1918 appears in the doorway. D-2934 remains still.
+
+SCP-1918 inscribes "cheat", and "new game" into the floor and moves to the doorway, then turning around and wobbling left and right slightly.
+
+D-2934 grasps his right forearm with his left hand and extends his middle finger at SCP-1918.
+
+SCP-1918 approaches D-2934.
+
+D-2934 moves to the corner of the room quickly and produces a pipe. D-2934 rushes at SCP-1918 and begins beating it repeatedly in the 'head' with the end of the pipe.
+
+The 'head' of SCP-1918 appears to crack and bleed in certain areas as D-2934 makes contact with the pipe. What appears to be grey matter can be seen falling out of the head of SCP-1918 before video feed ends.
+
+Video feed resumes, although view is fixed continually at the ceiling of the room. (Five hours)
+
+D-2934's head becomes visible, appearing to lean forward to look into the camera, before leaning backwards out of view.
+
+Video feed ends two hours afterwards.

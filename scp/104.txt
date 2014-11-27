@@ -1,0 +1,17 @@
+Item #: SCP-104
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-104 is currently contained in a steel box with electronic keypad access. Access is to be restricted to class 3 and higher. Do not allow SCP-104 to come in contact with any living tissue. Any and all interaction with SCP-104 is to be handled via robotic assistance, or with full haz-mat suits and gloves. Anyone found to be “imprinted” by SCP-104 must submit for “unimprinting”. Failure to do so within 24 hours of exposure will result in termination.
+
+Description: SCP-104 is a sphere, 35.5 cm (14 in) around and weighing 2.3 kg (5 lbs). The outside is glass and very smooth, coating the sphere in a layer 6 mm (0.2 in) thick. Under this layer is an extremely intricate design of very thin black and white lines. This inner “core” is a delicately carved ball of wood, giving slight texture to the line design. The design itself is unimaginably complex and seems to form something of a Rorschach test, as all viewers seem to have a different interpretation. Movement or a ticking sound from inside the sphere has been reported, but at this time is unconfirmed.
+
+Whenever a human touches SCP-104 in its “Unimprinted” state, it will “Imprint” on the subject. If the imprinted subject moves more than 9 m (30 ft) from SCP-104 for more than five minutes, SCP-104 will appear within 2 m (7 ft) of the imprinted subject. This shift appears instantaneous, disappearing and reappearing in less than a nanosecond, regardless of distance or intervening objects. Every hour that the subject remains within 9 m (30 ft) of SCP-104, it will move one foot closer to the subject until it is touching the subject. When SCP-104 is touching its imprinted subject, it will not attempt to move closer. SCP-104 will not exhibit this behavior to non-imprinted subjects and will only imprint on one subject at a time. Thick cloth or metal appears to block the imprinting in most cases.
+
+SCP-104 also appears to be indestructible, in that it always appears whole and undamaged after reappearing. Even after being crushed and incinerated, SCP-104 will reappear whole and undamaged if its imprinted subject is outside of its minimum range for more than five minutes. SCP-104 causes paranoia and anger in most subjects, but this is not an effect of the sphere as some are wholly unaffected by the constant presence of SCP-104, if slightly annoyed at times.
+
+SCP-104 can only be “unimprinted” if the subject is killed or enters a near-death like state. SCP-104 will then enter its unimprinted state until touched. Thick gloves appear to block the imprinting process, as long as they are more than 13 mm (0.5 in) thick. SCP-104 was recovered in a flea market from a man carrying it in a bowling bag. The man never identified himself and sold it to Agent ███████ for a quarter, thanking him profusely before running off.
+
+Notes 104-1108-r:
+
+It has been theorized that SCP-104 is some form of extra-dimensional probe or recording device. This appears to be unlikely, as it appears to be made of terrestrial materials and has no means by which to record or observe anything. However, with few other explanations for its odd behavior, the theory is being investigated. —Dr. █████

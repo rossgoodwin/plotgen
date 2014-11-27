@@ -1,0 +1,17 @@
+SCP-1313 in its inactive state
+
+Item #: SCP-1313
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1313 is contained in a combination-secured sealed storage locker on Site-█. Any Foundation personnel wishing to experiment upon the object in its activated state are required to submit to simple psychological testing. Any non D-class personnel demonstrating strong egocentric or narcissistic personality traits are to be denied access to the SCP.
+
+Description: SCP-1313 is a tape model of 1960s vintage, approximately 12cm in diameter and 1.5cm in height. It is composed mostly of tin, painted with heavily worn lead-based brown paint. The tape itself is composed of treated canvas, with a badly bent tin hook at the extreme end. Etched around the base of the winding handle is the phrase 'Infini-Measure, 25m'. Analysis of the writing and etching tools used have proved inconclusive due to the age of the object. The tape itself is marked in the centimeter/millimeter scale, with labeling in SI exponential notification. Disassembly of SCP-1313 while in an inactive state has revealed no unusual internal characteristics.
+
+SCP-1313 functions identically to a hand-wound tape measure until it is extended to any length of more than 25 meters. At this point, it enters its 'active' state. When active, the SCP's tape is of functionally infinite length, and will continue to extend for as long as it is pulled out of the casing. Labeling on the tape continues normally. Attempts to X-ray or otherwise penetrate the casing while the object is active have failed; an effort to unscrew the two halves of the case while active led to significant damage to the machining equipment used. The SCP seems to actively generate low-level electromagnetic radiation which interferes with electronic devices when active.
+
+When any human being makes direct skin contact with the tape of SCP-1313 while it is active, the object's cognitive effects take hold. Subjects report an immediate feeling of 'relativity': an exact knowledge of their size and insignificance in relation to the universe as a whole. This normally causes immediate and severe depression for a period of between 3 hours and 2 weeks. If the subject survives the depressed period, they report a constant sense of mild euphoria, as well as pervasive feelings of wonder at the [in the words of one subject] “vast and beautiful scape of the cosmos”. These induced symptoms appear to cause no lasting psychological damage. Exposure to SCP-1313 at a length of 26 meters leads to the same results as exposure at a length of over twelve kilometers.
+
+The negative effects of SCP-1313 only take hold when it is touched by a subject with strongly egotistical or narcissistic tendencies. These subjects report the same feelings of depression, but will invariably commit violent suicide or enter a permanent catatonic state within 12 hours of contacting the SCP. Brain scans of these patients indicate sudden, inexplicable failure of all higher brain functions at the time of catatonia. Catatonic patients are to be terminated to avoid life-support expenses.
+
+Addendum: During a test on February ██, 20██, D-37894, a self-described Solipsist philosopher and serial rapist, was exposed to an activated SCP-1313. Upon contact with the tape, he collapsed to the floor. Later investigation revealed that all the major veins in his brain had simultaneously undergone a catastrophic haemorrhage, killing him instantly.

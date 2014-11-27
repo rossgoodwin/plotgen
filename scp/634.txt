@@ -1,0 +1,25 @@
+SCP-634 at time of acquisition
+
+Item #: SCP-634
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-634 is to be kept in a 37.85 L (10 gal) tank in the center of a 10 m x 10 m room. The tank shall include a filtration device, an aerator, a heater set to maintain a constant temperature of 25˚C, and an automatic feeder set to dispense 10 mL of standard goldfish food twice a day. Tank and walls of room will have posted message "DO NOT PUT HANDS INSIDE TANK" at regularly spaced intervals.
+
+A team of no fewer than three D-Class personnel shall be assigned to weekly replace 50% of the tank's water and clean tank as needed. Team will be provided with constant oral instructions over the intercom system. On alternating weeks, team will provide SCP-634 with 12 g of uncooked meat.
+
+Description: SCP-634 has the appearance of a male common goldfish (Carassius auratus) of full maturity, approximately 7 cm in length. SCP-634 was discovered in 20██ in █████, CT. It was housed in a 2 gallon round glass tank placed on the passenger's seat of a car. SCP-634 came to the Foundation's attention when a waitress in a nearby diner noticed that the car had been parked with its emergency lights on for several hours, apparently out of gasoline, with a driver who attempted to start the car approximately once every 90 seconds. She also reported that the officer sent to investigate it had been repeating his walk from his police car to the disabled car and back for more than an hour.
+
+SCP-634 was removed from the scene by agents operating under constant prompting by a team leader who maintained a minimum distance of 5 m from the object at all times. Upon removal of SCP-634, behavior of the driver and officer returned to normal. Officer expressed confusion over what had happened, but otherwise was shown to have no lasting effects. Driver complained of burning sensation in right hand; he was treated for mild dehydration and loss of flesh on the first two carpals of his right index and middle fingers. Due to the effects of SCP-634, driver and officer were released after being treated and given cover stories.
+
+SCP-634 was traced to a local pet store, ██ ████, where the driver had left his wallet. The goldfish in said store were examined and determined to be no threat, but were terminated as a precautionary measure. Efforts to trace the origins of the shipment containing SCP-634 have thus far proved futile.
+
+SCP-634 affects the short-term memory and attention span of living creatures in close proximity to it. The strength of SCP-634's abilities appears to be inversely related to the squared distance from SCP-634, with negligible results after a radius of approximately 3.1 m. The only noticeable anatomical difference between SCP-634 and a common goldfish is its small row of sharp teeth. SCP-634's bite has a coagulating effect, which minimizes blood loss; it also causes a burning sensation at the point of incision.
+
+SCP-634 does not appear to have any further ability to influence a person's mind or otherwise influence him or her to initially put a hand in its tank. Its adaptation is generally suited for use in an area with predators who would naturally be compelled to reach for it.
+
+Also note that SCP-634 does not influence a person's or animal's natural instincts or wants, only affecting their memory of the current context of a situation. Because of this, SCP-634 would be unlikely to stop a rampage of an SCP which has a general inclination towards violence and a dislike of people, as those behaviors would continue regardless of context. SCP-634 may be effective in reducing the damage done by a sentient SCP who has been provoked.
+
+Addendum SCP-634-1: See Experiment Log SCP-634 for further details
+
+Addendum SCP-634-2: Considering the average lifespan of the common goldfish and SCP-634's unique abilities, it may be advisable to introduce a female goldfish for breeding purposes.

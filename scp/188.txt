@@ -1,0 +1,23 @@
+An example of the effect of SCP-188.
+
+Item #: SCP-188
+
+Object Class: Safe
+
+Special Containment Procedures: As SCP-188 poses no direct threat to any Foundation assets, SCP-188 is to be contained in Storage Unit J6-455. Its presence is to be noted during the biweekly Survey of Site Assets. During this time, any environmental effects exerted by SCP-188 are to be reversed.
+
+Description: SCP-188 is a volume of iridium metal hosting an effect that acts on a finite region around the object. With the exception of the regional effect, SCP-188 is, chemically and physically, an otherwise unremarkable sample of iridium metal. SCP-188 has a mass of 181.43 g and has been cast as a cylinder, with a radius of 1 cm and a length of 2.56 cm. SCP-188's current cylindrical shape is not its original form, but one convenient for experimental manipulation and storage.
+
+The regional effect of SCP-188 induces changes in the environment. The changes take the form of discrete manipulations, such as scratches on surfaces or grouping and shaping of ambient material such as dust. These changes emerge over time and are widespread over the entire region of the effect. The changes show a high degree of complexity and structure, and have been seen to change with time. Further, the effect extends to all scales, and has included exceptionally small and intricate structures. When initially contained by the Foundation, SCP-188 consistently induced fractal motifs. Since containment, this has increasingly shifted to include spiral and flow motifs. Biological forms have emerged as a rare but consistent theme.
+
+As the environment around it is manipulated, SCP-188's regional effect will extend outward. Testing has shown that this region will only extend outward to a volume encompassing an area of ~4000 m2.
+
+Attempts to nullify SCP-188's effect have included placement in a Faraday cage, placement in a radiation containment device, powdering, and melting SCP-188. None of these attempts have diminished the regional effect in any way. Current proposals to vaporize SCP-188 and recondense small portions of the vapor are being explored.
+
+SCP-188 first came to the attentions of a predecessor body to the Foundation on ██/██/192█ located at the rural Indiana properties of █████ ████████. After a thorough search, the object was found as a spike partially submerged in the ground, and appeared to be in the process of reshaping the local wheat crop through braiding together and flattening of stalks. No clear pattern had emerged at time of acquisition, though the effect had begun to extend over many meters. Though records are incomplete, it is known that efforts to contain the effect of the object failed. Embedding in bulk material, such as concrete or lead, did not diminish the initial size of the region the effect acted over. Further, these attempts ended with the object carving apart the containment sheath. The Foundation has evidence that more esoteric proposals were suggested, such as encasement in diamond. No evidence exists that these technologically sophisticated and resource intensive proposals were followed up on.
+
+When this parent organization was folded into the Foundation, the object and any existing records were inherited and placed under the SCP-188 classification. When the "crop circle" fad emerged, efforts were taken to determine if there was a connection between the crop-circle makers and the effects caused by SCP-188. Investigation showed no connection beyond the superficial, and it is the opinion of the O5s that the similarity is a coincidence.
+
+Recovered documents related to tests of SCP-188 circa 1975.
+
+Proposals to explore or to illustrate any statistical consistency in the effect SCP-188 has upon its environment are being accepted and evaluated. At this time, due to the lack of inherent danger posed by SCP-188 in its current containment, proposals requiring extreme measures or contact with others SCPs are not encouraged.

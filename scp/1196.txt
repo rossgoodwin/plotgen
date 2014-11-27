@@ -1,0 +1,55 @@
+An instance of SCP-1196-1 attempting to utilize a shovel.
+
+Item #: SCP-1196
+
+Object Class: Safe
+
+Special Containment Procedures: The building formerly housing the ███████ █████████ Back Clinic and SCP-1196 has been repurposed as a Foundation front business. The entrance to the basement has been replaced by a reinforced steel door and is to be triple locked. The unlocking codes are only available for access by level 3 personnel and higher. If SCP-1196's area of effect appears to have shifted in any way, the Site Director should be contacted immediately.
+
+Under no circumstances, unless explicitly for testing, are chairs allowed within SCP-1196.
+
+Description: SCP-1196 is the basement of the former ███████ █████████ Back Clinic, located in ███████, ███████. The basement walls and ceiling are all composed of concrete, with several support pillars at various points in the room. The floor is unfinished. Fluorescent lighting tubes line the ceiling, but only three (3) of them remain in working condition.
+
+SCP-1196’s anomalous properties only arise when a chair1 is introduced to it. As soon as the legs of a chair are allowed contact with the floor of SCP-1196, it becomes an instance of SCP-1196-1.
+
+SCP-1196-1 is the designation given to any chair under the effect of SCP-1196. Instances of SCP-1196-1 appear to gain sentience and the ability to move independently, either by shuffling across the floor, or — in the case of folding chairs — rapidly opening and closing their legs. Chairs removed from SCP-1196 lose all anomalous properties.
+
+Instances of SCP-1196-1 are able to speak in English through unknown means; these vocalizations consist of short, clipped sentences spoken in a high-pitched, "squeaky" voice. Instances of SCP-1196-1 will only vocalize when a human being is inside SCP-1196, regardless of their distance from the subject. Vocalizations are usually commands that refer to the spinal health and posture of the subject. However, these commands are not based on the subjects’ actual spinal health, with instances of SCP-1196-1 saying the same sentences regardless.
+
++ Sample SCP-1196-1 Phrases
+
+- Close
+
+“Stand up straight!”
+
+“Don’t slouch!”
+
+“Fix your posture!”
+
+“Slouching causes scoliosis!”
+
+“I said stand up straight.”
+
+“Straight.”
+
+If a human being spends more than 30 minutes within SCP-1196, all instances of SCP-1196-1 will fixate upon the individual, hereby referred to as the subject. Instances of SCP-1196-1 will follow the subject around and instruct them more clearly on their spinal health. If more then one human being is within SCP-1196, instances of SCP-1196-1 will fixate on a random individual. Exiting SCP-1196 negates this effect. If the subject remains inside SCP-1196, several changes will occur in the current SCP-1196-1 population. As time elapses, instances of SCP-1196-1 will grow more active and vocalize more often, and the voice used will become deeper and louder.
+
+If the subject remains within SCP-1196 for approximately 60 minutes, instances of SCP-1196-1 will vocalize rough commands and statements about the subjects’ spinal health in a more negative light, frequently repeating phrases such as “Awful posture” in threatening tones. After approximately 80 minutes, instances of SCP-1196-1 will begin to assault the subject; methods of attack include ramming, tripping, stabbing (with chair legs), and crushing. The population of SCP-1196-1 will repeat these actions until the subject either escapes or is killed. However, instances of SCP-1196-1, despite being non-sapient entities, appear to display remorse for these actions, vocalizing various apologetic phrases. Individual instances of SCP-1196-1 have attempted to move or bury the bodies, often times trying to utilize tools like shovels and brooms, to little effect.
+
++ Sample “Apologetic” Phrases:
+
+- Close
+
+“We’re sorry.”
+
+“Apologies.”
+
+“I’m sorry.”
+
+“Tried helping!”
+
+“Forgive?”
+
+Footnotes
+
+1. Hereby defined as an object with four legs and a seat that is designed for sitting in; rolling chairs are not affected, although rocking chairs are.

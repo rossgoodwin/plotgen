@@ -1,0 +1,41 @@
+SCP-290-1, Previously Agent R██████, post exposure.
+
+Item #: SCP-290
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-290 is to be held in a 5 m x 5 m x 5 m cell at Site-19. Personnel are forbidden from interacting with SCP-290 except during an approved testing procedure, and any personnel who attempt to do so must be terminated with any force necessary. During any interaction with SCP-290, three guards with full knowledge of the object must flank the object's aperture; anyone (other than Class-D personnel) attempting to enter must be removed from the object's cell. Subjects who undergo reconfiguration are terminated at the conclusion of experimentation.
+
+Description: SCP-290 is a hollow metallic sphere 3 m in diameter, with a circular opening of diameter 90 cm cut into one side. This sphere is welded to four metal posts 50 cm in height. Scans have shown that SCP-290 is composed of a combination of aluminium and [DATA EXPUNGED], many of which do not match any known atomic structure. All attempts to take samples of the metal for more detailed analysis have failed. The external temperature of the sphere remains constant at 318 Kelvin (45 oC) regardless of the ambient conditions. As no power source for the device has been found, how it maintains this temperature is as yet unknown. Researchers have noted that personnel appear to display slightly elevated curiosity about SCP-290's function, although whether this is evidence of a psychological effect or simply due to its abnormality is not known.
+
+Should a subject enter SCP-290 through the circular opening, the aperture will shrink rapidly, rendering the inside section inaccessible. After between 5 and 20 minutes, the aperture will reopen. No sound can be heard emanating from SCP-290 during this period. Subjects emerge from this process alive, conscious (albeit often in a state of extreme distress), but with their anatomy significantly altered. Limbs, facial features and [REDACTED] appear to be relocated randomly, yet without losing functionality. Fingers and toes are often removed from the hands and feet, and eyes rarely remain in a configuration lending itself to binocular vision. Almost all subjects report pain and discomfort in breathing and movement (if either remain possible), with most unable to walk or perform any type of effective locomotion.
+
+Autopsies performed on afflicted subjects reveal that a similar reconfiguration occurs internally, with organ placement changed and blood vessels/nerves lengthened to fit the new arrangement. Evidence of severe internal bleeding and haemorrhage of other bodily fluids is often present, although subjects display none of the connected symptoms on retrieval from SCP-290, and no subject has died as a direct result of exposure to the object. Subjects' bones show evidence of large-scale fracturing, but also rapid healing, ostensibly a part of the modification process. Subjects remain conscious throughout the reconfiguration - see Addendum 290-1 for details.
+
+Addendum 290-1: Experiment Log
+
+Subject: D-59414, male, 18.
+
+Supervisor: Dr. S███████, SCP-290 lead researcher
+
+Purpose: Ascertain the experiences of subjects within SCP-290
+
+Procedure: D-59414 was exposed to SCP-290, having had no prior experience with the object. Subject immediately inquired as to its function, to which Dr. S███████ replied "That is what we intend to find out." After several subsequent inquiries from the subject were rebuffed, subject was provided with an IR-sensitive video camera and ordered to enter the object; subject complied without resistance. Aperture re-opened 17.4 minutes after closure, and subject and video camera were retrieved. The video camera was heavily damaged during the experiment due to the subject's violent convulsions, and around 65% of the footage is unintelligible.
+
+<A transcript of the video feed recovered from the camera follows>
+
+Video feed initially shows subject sitting calmly in the centre of SCP-290, looking around and examining his surroundings by touch at intervals. This continues for around 2 minutes, at which point the subject begins clutching his chest and groaning. Subject then begins to scream, including the phrase "I was only curious, but I know now. Please, let me go." Whether this indicates a secondary consciousness inhabiting the subject's mind with which he was conversing is unknown. It is at this point that the subject begins flailing, impacting the camera repeatedly and causing it to record only small fragments of footage.
+
+Fragments of interest are noted below (in chronological order):
+
+Subject's head appears to be slowly embedding itself into his thigh, both eyes absent.
+
+Subject's fingers visible on his torso
+
+Subject's eye moving across his right foot, eyeball changing orientation rapidly as it does so.
+
+Subject lying in a pattern reminiscent of the fetal position, slow breathing audible.
+
+<End transcript>
+
+A debriefing interview was scheduled, but, owing to the subject's larynx being relocated away from his trachea, could not be conducted. Autopsy showed wide-scale reorganisation of the subject's internal organs, including small-scale fusing of parts of the small intestine and [DATA EXPUNGED], resulting in contamination of the chest cavity [DATA EXPUNGED]. Despite this, the subject had a normal volume of blood within his circulatory system, and levels of other bodily fluids such as bile were within normal parameters. How SCP-290 maintains or replenishes these fluids is unknown.

@@ -1,0 +1,77 @@
+SCP-961 in full sunlight, 11:42 AM.
+
+Item #: SCP-961
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-961 is to be kept outdoors, in its storage container, or in a closed, empty room at Site 38 when not in use for testing. During daylight hours, SCP-961 must be kept in an area exposed to sunlight for as long as possible. Object is to remain under observation by camera at all times. If unusual movement of shadows on SCP-961's face is detected while in full sunlight, object is to be moved indoors and secured in an unoccupied room. SCP-961 is not to be kept in a region where full daylight is not present for at least thirteen (13) consecutive hours, though cloud cover or inclement weather does not seem to activate SCP-961's effect. As seasons change, SCP-961 may be relocated as per Protocol 961-Beta. The storage container discovered with SCP-961 appears to be effective in containing its effect via unknown means. Keeping the artifact in an empty, completely closed room is similarly effective; it is presumed that its effect continues to take place, unnoticed.
+
+When indoors for testing purposes, four D-class personnel with a score of 85 or higher on the Lezak-Hooper Short-Term Memory Inventory are to be kept in an empty room with SCP-961 during the last five minutes of its cycle. Under no circumstances is SCP-961's cycle to be allowed to complete outdoors. A digital clock is to be included in the containment room.
+
+If events observed with SCP-961 contradict available records, report to researchers supervisor O5 command immediately.
+
+Description: SCP-961 is an iron sundial of unknown manufacture, similar in style to late 17th century English models, but lacking any indication of craftsman or previous owners. The sundial has no markings other than Roman numerals in traditional clock formation along the edge, along with a small sticker on the bottom reading "ALEXYLVA UNIVERSITY HISTORY DEPT." No records exist of an institution named “Alexylva University," but the sticker appears to be recent.
+
+When exposed to sunlight and properly aligned, SCP-961 functions as a regular sundial without anomalous properties. When sunlight is not present, however, a dark discoloration will appear to emerge from the center and align itself at twelve o'clock; though taking the appearance of a shadow, the discoloration appears to be imprinted on the surface of the sundial and cannot be dispelled by light at any frequency or intensity. The shape will begin moving counterclockwise along the sundial's edge at usual speed, i.e. reaching every numeral one hour after the last.
+
+When the shape's rotation returns to the XII, SCP-961 will manifest its primary effect on anyone in a contained space with it. If in an enclosed room, the areas around the room will be unaffected. If the door is not fully closed, the effect will expand to include the widest possible contained area. The effect of giving SCP-961's effect access to the outdoors is unknown, but researchers agree that the possible risks outweigh any possible gain.
+
+SCP-961's primary effect takes the form of sudden unconsciousness and vivid hallucinations affecting all people in range. All affected people will experience the same hallucination during any cycle. The hallucination will always take the form of an event in the past, usually one of historical importance. The event will play out before them for exactly ten minutes, including the event's climax. All details about each event as reported by D-class personnel who have experienced the effect match precisely with historical records about the event. At no point has an event witnessed with SCP-961 deviated from historical records; this makes the note recovered along with SCP-961 particularly odd. See Addendum 961-2. Addendum 961-2 classified by order of O5 Command.
+
+Many hallucinations do end with a single detail that has not been previously recorded. One person nearby will play a vital role in the unfolding event; during assassinations, they will unlock doors for the assassins or distract witnesses; during battles, they will rally isolated companies and brigades to successful counterattacks. This entity, termed SCP-961-1, varies in physical appearance and dress with each test. The only consistent feature described by observers is a pair of empty black apertures centered where the eyes should be, though much larger than eye sockets (approximately 5 centimeters in diameter). People nearby will converse with the entity without finding the apertures remarkable. At the end of many hallucinations, after the entity ceases to influence events, it will turn towards one of the observers and speak to them; other observers will hear unintelligible conversation, then the hallucination ends. The observer will not recall what was said to them, only a strong sense of fear or panic. The observer who spoke with the entity will develop acute phobia of sleep, darkness, and being alone, which will subside over the course of the following month.
+
+Addendum 961-1: Report Log
+
+Date
+
+Number of Observers
+
+Description
+
+██/23/0█
+
+1
+
+First display of SCP-961 abilities. Single researcher was sweeping in containment chamber when cycle ended. Later reported a hallucination in which a musician is stabbed through the heart by his girlfriend. All details and descriptions match the events of the death of [REDACTED] in 200█ though death was ruled a suicide. Investigation into SCP-961's abilities begins.
+
+02/10/0█
+
+4
+
+First fully-regulated test of SCP-961. Observers saw a crowded theater in the middle of a play, production confirmed as Our American Cousin. Observers see the guards around the main balcony door distracted, led into an alley, and beaten unconscious. As the assailant turned to allow another man access to the door, very distinctive facial features are first noticed. Entity labeled SCP-961-1.
+
+09/14/1█
+
+4
+
+Observers see a battle, find themselves near an officer's tent. Commanding general appears to be under the influence of multiple narcotics, provided to him by an unseen doctor. Armies dressed in 19th century English and Prussian uniforms are seen breaking through defensive lines. The doctor emerges, confirmed to be SCP-961-1, speaks to one observer; some feet away, a second observer hears muttering, along with "you're welcome."
+
+CLASSIFIED BY ORDER OF O5 COMMAND—AUTHORIZED PERSONNEL ONLY
+
++ Addendum 961-2: Recovery Report
+
+- Hide
+
+SCP-961 was recovered when a standard sweep of radio frequencies typically used by SCP-877 detected a transmission emanating from an uninhabited wooded area near █████, Arkansas. Mobile units responding to the transmission located a wooden box containing SCP-961; the wood of the box contained unknown metallic fragments and was fitted with a device similar to SCP-877. Writing on the box indicates it was being used for shipment via an unknown delivery service called "PTS" or "Phitransimun Combine"; its origin was a location called "Alexandria of Forests" and its destination was labeled as "Novo Scipius of Waters". A note was found inside the box, written in a language approximating both Cherokee and Latin, with syntactic traces of Greek and Nahuatl included. Translated, the note reads as follows:
+
+TO WHOM IT MAY CONCERN,
+
+PRODUCT UNSATISFACTORY.
+
+THE PRESENCE OF NUMEROUS INACCURACIES
+
+IS UNACCEPTABLE.
+
+FIRST INACCURACY NOTED AT 207 B.E.
+
+AT METAURO RIVER.
+
+MOST EVENTS INCORRECT AFTERWARDS.
+
+PLEASE IDENTIFY [illegible] ENTITY
+
+INFLUENCING EVENTS.
+
+RETURNING FOR FULL REFUND.
+
+[illegible signature], DEAN, HISTORY DEPT.

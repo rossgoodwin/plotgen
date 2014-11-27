@@ -1,0 +1,59 @@
+Item #: SCP-1669
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1669 is housed in a standard humanoid containment cell at Humanoid Containment Site-06-3. As a former Foundation researcher, SCP-1669 is considered a low-risk humanoid SCP and may request items or materials at the discretion of Level 3 Security Staff so long as such materials do not violate any security protocols.
+
+SCP-1669 is aware of its classification as a Euclid-class anomalous entity but is not aware of the specifics of its containment, nor of the nature of 1669-Alpha events. Disclosure of this information to SCP-1669 is punishable by immediate transfer and/or termination; in the event of such disclosure, SCP-1669 is to be administered a Class A amnestic. All deceased instances of SCP-1669 are to be stored in separate cryogenic freezers following examination and autopsy.
+
+Until such time that a better understanding of 1669-Alpha events is made, all experimentation regarding and attempts to prevent such Events are indefinitely suspended.
+
+Description: SCP-1669 are instances of human subjects matching the description of Dr. Daniel Isaac, an Israeli biologist and Level 2 Assistant Researcher and laboratory technician formerly employed by the Foundation at Humanoid Containment Site-06-3 until his classification as a Euclid-class entity on █/██/██. Due to SCP-1669's status as a former Foundation employee and the nature of its anomalous properties, SCP-1669 is mostly cooperative with Foundation personnel as long as full disclosure of its anomalous properties and Event 1669-Alpha is not made.
+
+Event 1669-Alpha is an anomalous event that first occurred on █/██/██ and has re-occurred approximately every one hundred and sixty one (161) days since, with a margin of error of approximately thirty-three (33) hours. During a 1669-Alpha Event, a perfect copy of SCP-1669 will spontaneously come into existence somewhere within 30 meters of SCP-1669 and immediately attempt to kill SCP-1669 by any means possible. The newer instance of SCP-1669 will not respond to any attempts at communication and exhibits extraordinary single-mindedness in the completion of its goal; it will attempt to limit collateral damage — especially injury or loss of life — but will not stop until the previous instance of SCP-1669 is dead. To date, no attempt to prevent the death of the previous instance of SCP-1669 has succeeded; new instances of SCP-1669 have exhibited unusual strength, speed, and reflexes as well as the capability to shrug off or ignore pain and injury. See Addendum 1669-01 for more information.
+
+Upon the death of the previous SCP-1669 instance, SCP-1669 will lose consciousness for a period of no less than three (3) minutes, and upon returning to consciousness will have no recollection of any event prior to the initiation of Event 1669-Alpha. Examination and autopsy of SCP-1669 instances has yielded that they are exact copies aside from whatever clothing or equipment they are wearing or carrying at the time, down to the presence of birthmarks, minor injuries, and scar tissue.
+
+Investigation of the work history of Dr. Isaac has not yielded any anomalous items or contained objects which can explain SCP-1669's anomalous properties; as a Level 2 laboratory technician, Dr. Isaac did not have any direct contact with objects in containment.
+
+Addendum 1669-01: Log of Notable Event 1669-Alpha Iterations
+
+Iteration #: 1
+
+Date: █/██/██
+
+Time: 15:21L
+
+Description: During a brief conversation with coworker Dr. ██████ █████████ outside of Biological Laboratory 3, SCP-1669-1 appeared from a nearby hallway, walked up behind Dr. Isaac, and stabbed him thirteen (13) times in the torso with a scalpel. Dr. Isaac died within approximately twenty-three (23) seconds, upon which SCP-1669-1 lost consciousness.
+
+Note: All clothing and carried items on SCP-1669-1 were identical to that of Dr. Isaac, including the serial number and wear pattern on a twenty-dollar (USD$20) note Dr. Isaac had received as the result of a bet with a coworker approximately fourteen (14) minutes before the event.
+
+Iteration #: 2
+
+Date: ██/█/██
+
+Time: 11:08L
+
+Description: SCP-1669-2 appeared out of a large air vent near SCP-1669-1, who had been transferred into a low-security cell following one hundred and sixty two (162) days of observation. SCP-1669-2 entered the cell and strangled SCP-1669-1 before security guards were able to respond, upon which SCP-1669-2 lost consciousness. Examination of the HVAC system showed no possible way in which an adult human could have gained access to the containment wing.
+
+Note: All clothing and carried items were identical, except that the jumpsuit worn by SCP-1669-2 was yellow instead of the regular orange.
+
+Iteration #: 8
+
+Date: █/█/██
+
+Time: 09:17L
+
+Description: With prior approval from the Site Director, SCP-1669-7 was informed of the nature of Event 1669-Alpha and given body armor and a non-lethal firearm prior to the event. Response team members armed with additional non-lethal weapons were assigned to guard SCP-1669-7 with orders to attempt to subdue and take SCP-1669-8 alive if possible. SCP-1669-8 appeared during a shift change for the response team; during the confusion, SCP-1669-8 managed to subdue three (3) armed personnel in hand to hand combat before reaching SCP-1669-7 and shooting it twice in the head with a high-caliber handgun. The non-lethal weapons employed by response team personnel appeared to have no effect.
+
+Note: SCP-1669 exhibited advanced training in hand-to-hand combat techniques in this iteration, which is inconsistent with the level of defensive capability known to be in SCP-1669's possession outside of a 1669-Alpha event. This iteration is also notable as the first iteration in which a new instance of SCP-1669 appeared with a weapon or equipment not in the possession of the previous instance.
+
+Iteration #: 12
+
+Date: ██/█/██
+
+Time: 23:22L
+
+Description: Prior to Event 1669-Alpha, SCP-1669-11 was locked inside an armored personnel carrier crewed and guarded by two heavily armed squads from Mobile Task Force [REDACTED]. MTF █-██ was given discretionary permission to protect SCP-1669-11 using any means at their disposal, up to and including the use of lethal force. SCP-1669-12 appeared wearing heavy body armor and wielding a man-portable high-explosive anti-tank (HEAT) rocket launcher, which it used to destroy the carrier. One (1) member of MTF █-██ as well as SCP-1669-11 were killed instantly and four (4) more team members were wounded in the attack. SCP-1669-12 was also injured by its proximity to the blast.
+
+Note: Injuries sustained by SCP-1669-12 in the explosion included a severed left pinky finger caused by shrapnel from the explosion. This finger was unable to be reattached, and all subsequent instances of SCP-1669 have exhibited the same missing digit. Tracking the serial number on the weapon used in the attack turned up an identical weapon that had been transferred to the armory of Site-██, over 650km away, just two hours prior to the event. Further attempts to prevent Event 1669-Alpha were suspended following this incident.

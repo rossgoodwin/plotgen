@@ -1,0 +1,31 @@
+Item #: SCP-2043
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2043 is contained in standard humanoid containment chamber. Subject is to be monitored and recorded at all times by two or more individuals and/or video recorders. In the event of a containment breach, personnel who come into contact with SCP-2043 are advised to maintain eye contact with subject until fully contained.
+
+Due to subject's inability to communicate and tendency to wander, personnel are to consistently monitor Site-3399 for additional instances of SCP-2043. Use of nonlethal force is authorized if practicable. Containment teams are to consist of no more than two individuals per unit.
+
+Description: SCP-2043 is a 19 year old Caucasian female bearing resemblance to a former missing person Ariella █████ (Note: See section 19-A3). When an individual observing the subject looks away1, SCP-2043 will create physical duplicates of themselves within the individual's line of sight. Each new instance will additionally begin to duplicate in turn at a rate of 20-30 seconds per duplication.
+
+Duplicate instances of SCP-2043 are physically and genetically identical to the original. The effect is increased exponentially with the addition of more viewers, although a fixed number (minimum 2) of viewers can minimize chances of duplication by maintaining overlapping lines of sight.
+
+SCP-2043 is generally unresponsive to external stimuli, remaining nonresponsive to all attempts at communication as well as most attempts at physical contact. SCP-2043's awareness of physical contact appears to be uniform amongst all duplicated instances, which may result in mass panic among SCP-2043 instances, and the potential for uncontrolled duplication depending on SCP-2043 instances' mobility. Attempts at teaching SCP-2043 to communicate via touch have yielded little success.
+
+Note 19-A3: Ariella █████ went missing from [REDACTED] on 7/██/19██ at age 7 before being discovered ten years later in the cellar of a neighbor. Further details are unavailable due to an ongoing investigation.
+
+SCP-2043 was discovered nine years following the disappearance 70 km away, when police were called by an individual who claimed to have discovered Ariella █████ in her cellar. It is unknown if SCP-2043's effects were evident to the individual. The presence of multiple officers triggered the apparition of several hundred instances of SCP-2043, which led to an incident in which shots were fired and multiple instances of SCP-2043 were killed. Foundation personnel were alerted to the situation 18 hours later, necessitating a temporary quarantine of the town of [REDACTED] and mass-administration of Class-B Amnestics to affected individuals (██,███).
+
+Following this event and a thorough investigation, it was noted that SCP-2043 bore a strong resemblance to age-progressed photographs of Ariella █████. A potential link to the disappearance led to a renewed investigation leading to the individual's recovery. A separate parallel investigation by Foundation agents embedded in [REDACTED] found that Ariella █████ had had no knowledge of SCP-2043 nor the individual responsible for discovering SCP-2043. Ms. █████ was also noted to look substantially different from her age-progressed photo. Further details are classified pending an ongoing investigation.
+
+Addendum: Following a recurrence of SCP-2043 apparitions have been reported in the town of [REDACTED], it was discovered that of the individuals exposed to SCP-2043, ██% have retained memory of SCP-2043 and repeated administration of amnestics was found to be necessary to remove memory of SCP-2043. Due to risk of auto-immune and/or neurological disorder as a result of frequent use of high-level amnestics, a cover story has been released and the town placed under watch for recurrences.
+
+Residents of the town frequently hold conferences and rallies in support of SCP-2043, forming a group called "Remember Ari", calling for renewed efforts to locate Ariella █████. Informing unaware residents of Ms. █████'s successful recovery has been largely unsuccessful, as residents quickly return to campaigns and foundations for "Remember Ari". Various stories have been offered by residents to explain this apparent discrepancy, including claims that Ariella █████'s sister simultaneously disappeared, or else referring to SCP-2043 as "another Ari" or "the other Ari".
+
+Addendum 2: As of ██/██/2014, Ariella █████ and her mother have been confirmed as members of "Remember Ari".
+
+Addendum 3: On ██/██/2014, the bodies of two identical twin boys were discovered in [REDACTED] (approximately 700 meters from the recovery site of SCP-2043), bearing gunshot wounds at close range. Discovered on the scene was a missing person's poster for a child Lee ████ ███, containing an age-progressed photo depicting Lee as a teenager. As with SCP-2043, both deceased individuals bore a strong resemblance to the age-progressed photo. While Lee ████ ███ has yet to be found, a potential link to SCP-2043 cannot be conclusively established.
+
+Footnotes
+
+1. Testing has shown mammals, avians, most reptiles and amphibians, and video recording devices trigger this effect as well

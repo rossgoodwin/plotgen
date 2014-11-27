@@ -1,0 +1,143 @@
+Item #: SCP-1979
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1979 is held at Site ███ near ██████████ Bay, Alaska. No other temporally manipulative objects are allowed within 100 kilometers of this site. It is to remain powered at all times, with triple redundancy power supplies. It must be used for a minimum of 55 minutes out of every hour in a darkened, lead-lined room. A mechanic skilled in rapidly repairing models similar to SCP-1979 must be on staff and readily available at all times, in case emergency repairs are needed.
+
+Description: SCP-1979 is a ████████ brand exercise treadmill. When SCP-1979 is powered and in use, it, the individual using it and any personal effects of the individual using it experience a form of time dilation. For every 1 second that passes in the outside world, the affected individual experiences e-x seconds, where x is the speed setting of SCP-1979, in km/h. See Addendum 1979-B.
+
+If SCP-1979 has not been used for at least 30 minutes cumulatively out of every 60, it begins to emanate a spherical field centered on itself with a radius that increases by the rate of 0.5 cm/s. Except for SCP-1979 itself, any object within the field experiences time e.37x times faster than the outside world, where x is the radius of the sphere, in meters. Once this field has been created, it can only be reversed by using SCP-1979 again, during which the field will contract at the same rate that it expanded. Note that the individual using SCP-1979 at this time still experiences the primary effects. See Addendum 1979-C.
+
+In either scenario, the interface between different time-flow rates is well-defined, with no drop-off. Crossing this interface when the time-flow rates differ by more than a factor of 3-5 is difficult and dangerous, as different parts on a transitioning object will be operating at different speeds. Purely mechanical systems are largely unaffected, but electrical or electronic systems experience damaging or catastrophic surges or losses of power, depending on which side of the interface the power supply is located. Living organisms experience damage due to over-/underpressure in their vascular systems; muscular systems, including the heart, typically display arrhythmic contractions and the electrochemical aspects of the nervous system are typically badly disrupted. If the rate differential is great enough, isolated portions of organisms on the faster side of the interface have been observed to die and rapidly decay due to loss of support from critical systems, even while still physically attached to the main bulk of the organism. The greater the time-flow differential, the quicker this occurs relative to the viewpoint of the slower time-frame.
+
+Addendum 1979-A: The interface does not speed or slow the speed of light crossing it. Rather, the energy of the light is increased or decreased according to which direction it is crossing. For instance, light crossing from the faster to the slower side of the interface upshifts such that radio waves, microwaves or infrared light becomes visible and visible light becomes ultraviolet light, X-rays or gamma rays, depending on the severity of the differential. Light crossing from the slower to the faster side experiences a similar downshifting. This was discovered during experimentation when D-1979-337 was induced to run at 10 km/h for 1 subjective minute. When she ceased running 15 days later, she displayed an intense sunburn over every exposed patch of skin and moderate retinal damage. She further reported that the overhead lighting had appeared to glow blue before it became blindingly bright.
+
+Addendum 1979-B:
+
+Time Differential Between a User of SCP-1979 and an Outside Observer
+
+Per 1 Minute Experienced by the User
+
+SCP-1979 Speed
+
+Observed Time
+
+(days:hours:minutes:seconds)
+
+1 km/h
+
+00:00:02:43
+
+2 km/h
+
+00:00:07:23
+
+3 km/h
+
+00:00:20:05
+
+5 km/h
+
+00:02:28:25
+
+7 km/h
+
+00:18:16:38
+
+10 km/h
+
+15:07:06:19
+
+15 km/h (theoretical)
+
+2270:03:04:23
+
+Addendum 1979-C:
+
+Time Differential Between the Inside of SCP-1979 Bubble
+
+and 1 Second in the Outside World
+
+Radius of SCP-1979 Bubble
+
+Time to Reach Radius
+
+(hours:minutes:seconds)
+
+Time Differential
+
+(approx.)
+
+0 meters
+
+00:00:00
+
+1:1
+
+1 meter
+
+00:03:20
+
+1.45:1
+
+2 meters
+
+00:06:40
+
+2.10:1
+
+3 meters
+
+00:10:00
+
+3.03:1
+
+5 meters
+
+00:16:40
+
+6.36:1
+
+7 meters
+
+00:23:20
+
+13.33:1
+
+The following are theoretical
+
+10 meters
+
+00:33:20
+
+40.45:1
+
+15 meters
+
+00:50:00
+
+257.24:1 (4.29 min:sec)
+
+25 meters
+
+01:23:20
+
+10404:1 (173 min:sec)
+
+50 meters
+
+02:46:40
+
+108.25 x 106:1 (206 yrs:sec)
+
+100 meters
+
+05:33:20
+
+11.72 x 1015:1 (371 million yrs:sec)
+
+~109.76 meters
+
+06:05:52
+
+4.336 x 1017:1 (current age of the universe:sec)

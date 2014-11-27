@@ -1,0 +1,39 @@
+The earliest known image of SCP-1745, captured by a traditional camera.
+
+Item #: SCP-1745
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1745 is to be contained on-site at Zone-457. At no time is any electronic equipment to be brought within 1km of SCP-1745. An array of twenty (20) radio broadcasting units are to be arranged in a circle 10km from the center of Zone-457. At all times, the unit furthest from SCP-1745 must broadcast while all others remain silent. Both telescopic and satellite-based observation of SCP-1745 must be maintained continuously. Any breach by SCP-1745 constitutes the immediate implementation of Contingency-Gorynych-A.
+
+Description: SCP-1745 is an intangible Soviet helicopter. Superficially it is identical to the Mil Mi-24D (also known by its NATO designation, "Hind"), though it appears to be entirely incorporeal, traversing through any and all physical obstructions with no observed effect on either body. Given its absence of mass, the reason for its visibility is unclear. In addition, SCP-1745 generates noise consistent with a non-anomalous aircraft of identical make, despite no clear source of the sound. The apparent condition of the aircraft varies between featuring severe damage (though this does not affect its flight or maneuverability) and being pristine.
+
+SCP-1745's presence causes immediate damage in all electrical circuitry within an approximately 300m radius. The exact cause of this damage is unknown, though it universally demonstrates signs of severe overheating. Due to this, close-range electronic observation, recording, and testing of SCP-1745 is generally impossible.
+
+The GRU-P aircraft immediately after being shot down.
+
+SCP-1745 appears to be attracted to artificial radio signals. How it determines whether or not these signals are artificial and whether it is able to decipher/comprehend the content of said signals is undetermined. While this aspect of SCP-1745 has allowed for the implementation of current containment protocols, it also presents a clear danger: due to its tendency to be drawn to human civilization, its indestructible and intangible nature, and its adverse effect on electronic equipment, a breach of SCP-1745 could potentially result in an RK Technological Collapse.
+
+SCP-1745 was transferred to Foundation custody by Russian correspondent [REDACTED] in 1994 following a series of potential breach events. Previous containment protocols developed by GRU Division P ("Psychotronics") were adopted by Foundation staff, and all available documentation on SCP-1745's history prior to 1994 was obtained from this exchange. Presently, it is believed that SCP-1745 originates from a Mil Mi-24D helicopter piloted by GRU-P agents and shot down over [REDACTED] in 1979. Due to open hostilities between [REDACTED] and the Soviet Union at the time, it is not believed that the attack targeted the GRU-P specifically. While the incident yielded no survivors from on-board the vehicle, a series of documents were recovered from a titanium case within the wreckage. The following is an excerpt from said documentation (translated from Russian):
+
+Entry ██/██/1979: The artifact was brought in today. Unusual mineral composite: silicon, magnesium, iron…the trajectory of the impact crater is still being analyzed. Based on audio logs, the collision must have occurred at 0523 hours, so we should be able to get some vague idea of its origin. In any case, a full battery of tests haven't uncovered anything distinctly unnatural about the object, we're removing to primary storage.
+
+Entry ██/██/1979: I don't know what the men are blathering about. I awoke this morning to be told that there's a firefly loose in the sector. Upon hearing this I was equal parts "Why do I care?" and "How could there be a firefly here?" I ordered a full search of the area, the labs, the dorms, the mess room, nothing. Everyone seems convinced it was here though. So convinced that they apparently didn't notice the damage to our equipment. Three computers with burnt out circuits, and no one can tell me how it happened. First the uneventful asteroid and now this, Command is going to shut us down if this continues. I swear those assholes assigned me a bunch of buffoons to this sector.
+
+Now one of our electron microscopes is broken, fuck!
+
+Entry: ██/██/1979: Well. I guess I owe them an apology, but we have much more important things to address. We found it in the Communications Center. Really it's just a levitating ball of light, it doesn't appear to have any mass at all, but testing is impossible. When we tried to touch it, it went berserk, and a nearby light fixture burnt out. We can't afford to let it destroy the communication room, so I've ordered everyone to stay out of there for the time being. This is really a mess.
+
+Entry: ██/██/1979: This explains how our equipment was destroyed; it only seems to go nuts when it's in danger (or rather, perceives itself to be in danger). As long as we move gently and carefully around it, there's no problem, it's even rather friendly and will hover up to our staff to brush against them (naturally we ran the people in contact with it through all the usual tests, but there wasn't any sign of an adverse reaction). Its "body", I guess, is warm, 45 degrees Centigrade; staff are still calling it the firefly. We still don't know why it wants to stay in the communication room. Did it come from the asteroid…? We have no way of knowing but it's too likely to be a coincidence. Perhaps this mess won't be entirely unproductive.
+
+Entry: ██/██/1979: New discovery. It's attracted to radio signals, that's why it won't leave our communication room. It seems only drawn to man-made radio signals, why I can't say. We're looking into possible applications for this thing, but we don't have much on that end yet. Command isn't pleased about the wrecked equipment, though the discovery of the firefly has at least kept them interested. That interest won't last long though if we can't find some use for it.
+
+I hope they don't send a neutralization order.
+
+Entry ██/██/1979: Searching for applications is going nowhere. This is somewhat hampered by the fact that staff are coddling with it, and that's a distraction that's hard to avoid. It has that effect on everyone. I was up late working, and I fell asleep on the desk. It started nudging up against me in my sleep, and I woke up. I stayed up for another hour, at least, just sitting in its glow and warmth, no working, just sitting there. It seemed like it was resting against me…does it sleep? I think it's a child. Maybe it listens to human radio signals because it recognizes them as meaningful. I don't have any real basis for this, it just came to me while I was up last night. I think it's just like listening to someone reading a book.
+
+Entry ██/██/1979: We received orders from command today to bring the firefly in. Nobody wants to see it go, I can hardly blame them, it's just about the only thing that keeps us happy around here. I've had a lot of time to think lately. The reasons we came out here, the reasons I joined this division…I can't really remember why. I mean, I know "why", but not why. The firefly, it doesn't concern itself with things like this, or maybe it can't. That must be nice. I just feel as though…things should be simpler. Why does everything have to be so complicated? Why does there have to be so many levels to everything? What do the levels even mean?
+
+What are we doing here?
+
+The anomalous artifact the aircraft was transporting was not recovered from the wreckage and is believed to have been destroyed. The research sector mentioned in the documentation was destroyed by an unknown party. The extraterrestrial object recovered by GRU-P operatives remains unaccounted for.

@@ -1,0 +1,115 @@
+SCP-2288
+
+Item #: SCP-2288
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2288 is contained in special quarters in Site-███ ((Note: See added containment procedures)), with padded walls and a ceiling containing two separate vents to allow for the introduction of an inhalational anesthetic. Subject is provided with bedding and reading material in the form of softcover books and a television bolted to the wall behind secure cover. Specialty remote control is to be provided, made of softened materials incapable of being utilized as a deadly weapon.
+
+Subject is to be monitored at all times. In the event instances of SCP-2288-A begin to manifest, sevoflurane and desflurane anesthetics are to be vented into containment chamber until SCP-2288 and/or living instances of SCP-2288-A are incapacitated. At such time, living instances of SCP-2288-A are to be terminated, while SCP-2288 is to be kept anesthetized until containment chamber is repaired. SCP-2288 is not to be kept anesthetized longer than necessary due to risk of containment breach.
+
+SCP-2288 is to be fed three times a day in the form of easily portable meals not requiring the use of utensils. Amount of food and drink provided is to be sustained at appropriate levels for one. SCP-2288 is to be observed finishing its meals and is not allowed to hoard food or drink apart from a single 500mL container of water per day.
+
+Terminated instances of SCP-2288-A are to be scanned for contraband and placed in mortuary storage on-site. If an instance of SCP-2288-A poses a biological, radiological, or anomalous threat to SCP-2288 or any other individuals, it is to be incinerated following a standard autopsy and/or toxicology report.
+
+Addendum: As of 08/21/2014, SCP-2288 has been relocated to Site-299. Site-███ is subject to an ongoing process of mass body disposal to prevent an NK-Class scenario. Relevant details are restricted to personnel assigned on-site.
+
+Description: SCP-2288 is a 19 year old Caucasian female, formerly a student at the University of ████████, who under certain life-threatening conditions produces deceased duplicates of itself. Copies of SCP-2288 (labeled SCP-2288-A) appear to initially occupy the same time and space as the subject, coming away when the subject is moved. Additionally, instances of SCP-2288-A have contained copies of inanimate objects on their persons which the subject SCP-2288 may have come into contact with, with a presumed time of between 12 and 18 minutes after last touching the object. Duplicated objects have not been found to be anomalous and are identical to their "original" counterparts in every way.
+
+Subject has displayed no voluntary control over the apparition of these duplicates, which appear to be related to physical altercations in which the subject's life is in peril. Despite full cooperation and compliance from the subject, no method currently exists to ensure complete cessation of its anomalous effect.
+
+This anomaly was first discovered when SCP-2288 suffered a serious injury on-campus, when an instance of SCP-2288-A emerged as students moved in to aid and re-orient the subject. Local authorities were called, and the incident drew the attention of Foundation agents in the police force. After receiving medical treatment, the subject was taken into Foundation custody, and amnestics were administered to students and faculty. Subject was in a highly agitated state, claiming no knowledge of its anomalous behavior.
+
+While in containment SCP-2288 began to resist Foundation personnel, necessitating use of force in restraining the subject. Subject sustained serious injury in the scuffle, necessitating medical attention. While receiving treatment, an instance of SCP-2288-A emerged from the subject. An autopsy determined SCP-2288-A sustained an identical wound to that received by the subject, which proved fatal in SCP-2288-A's case. Further instances of SCP-2288-A continue to bear signs of injury consistent with trauma SCP-2288 has experienced which have proven fatal for the duplicates.
+
+Autopsies performed upon deceased instances of SCP-2288-A have failed to determine a likely source for the instances, or any anomalous features inconsistent with SCP-2288 itself. Instances of SCP-2288-A have been found to be genetically and physically identical to SCP-2288. Scars and lingering injuries have accumulated on instances of SCP-2288-A consistent with the original subject at the time of duplication.
+
+Experiment Logs: Despite the misgivings of several researchers (names will not be included in official report), authorization was given to conduct a series of experiments upon SCP-2288 to determine the following:
+
+Whether the subject has direct control over its anomalous effect.
+
+Whether subject has indirect control over its anomalous effect (such as self-harm for the purpose of manifesting instances of SCP-2288-A).
+
+Whether subject is capable of manifesting individual objects alone.
+
+The circumstances under which living instances of SCP-2288-A manifest. Inconclusive
+
+Experiment-01: SCP-2288 is physically restrained within its chambers, and left for alternating periods of 6 hours. Subject is fed and allowed to watch television. Schedule continues for 4 days before subject becomes uncooperative. Subject forcibly sedated, and experiment continues another 9 days without major incident. Subject then released and treated.
+
+Prognosis: Instance of SCP-2288-A manifested after end of experiment. Rigor and discoloration placed time of death between 6-18 hours prior to experiment's end. Subject complains of pain and numbness, but was at no point during the experiment near death.
+
+Experiment-02: SCP-2288 equipped with a ██████ brand ballistic vest and fired upon with a ██████ 9mm pistol. Subject falls to the ground, shouting in pain. No instance of SCP-2288-A manifests. Blood determined to be from the subject appears at site of impact, but no perforation of subject's skin is found.
+
+Prognosis: Subject suffers bruising of the chest and coccyx. An additional instance manifests during medical treatment. Subject expected to fully recover.
+
+Experiment-03: SCP-2288 placed in medically induced coma and monitored carefully. [DATA EXPUNGED]. Clean-up efforts take several weeks. Damage to medical bay estimated at ██,███.
+
+Prognosis: Subject recovered from the mass without further loss of personnel.
+
+Experiment-04: SCP-2288 given steady doses of arsenic and monitored. Subject displayed signs of acute arsenic poisoning and is quickly given treatment. While subject turns aside to vomit into a container an instance of SCP-2288-A manifests, apparently asphyxiated. ██ more instances manifest before subject is stabilized via chelation therapy.
+
+Prognosis: Subject stabilized with some difficulty, as instances of SCP-2288-A began exerting pressure on the subject while restrained, threatening to violently overturn the operating table. Subject held upright by personnel, allowing instances to fall away without disturbing the subject.
+
+Experiments end after this point
+
+Addendum-1: On ██/██/2014, a living instance of SCP-2288-A manifested, unlike prior incidents, dressed in civilian clothing and carrying a backpack. The living instance was unaware of its surroundings and became belligerent, necessitating physical restraint.
+
+Medical examination of the living instance (reclassified SCP-2288-B) shows no past signs of physical trauma consistent with all prior instances recovered thus far. Found in the subject's backpack were textbooks and writing instruments, along with a personal [REDACTED], and a student identification from the University of ████████, listing the subject's name and the current year.
+
+As SCP-2288-B displays the same abilities as the original subject, SCP-2288-B is to be retained and housed with SCP-2288 to ensure psychological health. All conversations between the subjects is to be monitored, and future requests for entertainment devices are to be considered more favorably, pending further compliance and good behavior.
+
+A list of items recovered from SCP-2288-B's backpack include:
+
+Two history textbooks, published by [REDACTED], sixth edition.
+
+A five-subject notebook. Each divider contains a syllabus for a different class. Classes include: "History of the World up to 1650", "Introduction to Thermodynamics", "Reinventing the Wheel" (out of print), "The Red Dragon: The Qing Empire from 1644 to Today", "Blood, Broads, and Bastards: Medieval Lives in West Europe"
+
+A handwritten letter, presumably written by SCP-2288-B, addressed to an "Ana"
+
+Addendum-2: On 08/21/2014, SCP-2288-B requested and was granted a meeting with SCP-2288. During the meet, SCP-2288-B began to manifest deceased copies of itself. SCP-2288 took advantage of the situation and assaulted and killed SCP-2288-B. Despite its death, instances of SCP-2288-B continued to manifest from its body. The floor was temporarily evacuated as bodies continued to mount. As of ██/██/2014, SCP-2288-B has not been recovered, and all personnel and SCP-2288 have been relocated to nearby Site-299. Recovery teams continue to actively search Site-███ for SCP-2288-B's corpse. A portion of SCP-2288's interrogation has been attached.
+
+Interview Log ██/██/2014
+
+Complete log available upon request
+
+Interview conducted by Dr. Esterhazy.
+
+Extraneous content has been redacted for brevity.
+
+(Begin log)
+
+Dr. Esterhazy: I don't have to explain to you why you're here.
+
+SCP-2288: I broke your prison building. Sorry. At least now you know it doesn't stop if I die.
+
+Dr. Esterhazy: What prompted it? What were you thinking?
+
+SCP-2288: Isn't it obvious?
+
+Dr. Esterhazy: Killing is killing, no matter if you're killing someone who looks like you.
+
+SCP-2288: I've seen myself dead more than enough times. You think I gave a shit about another one?
+
+Dr. Esterhazy: You didn't kill all the others.
+
+SCP-2288: Yeah I did. They're dead and I'm not, and they die when you try to kill me.
+
+Dr. Esterhazy: We aren't trying to kill you —
+
+SCP-2288: I killed her because I'm smart. I've come to see your way of viewing the world.
+
+Dr. Esterhazy: What's that?
+
+SCP-2288: You 'contain' me because I'm an abomination. A freak of nature. You've also had a rough time handling me. You've tortured me, subjected me to 'experiments', and have me imprisoned with no sign of my ever going home. You expect me to play along with you forever? Her, meanwhile… she was new. Never been subjected to what I've been subjected to. Probably from a completely different world. She'd prosper here, safely contained and cared for.
+
+Dr. Esterhazy: You think then that we would kill you and replace you with her?
+
+SCP-2288: Who the fuck am I? An anomaly. If there were two of me, you wouldn't have to deal with me. But now you do. Forever. And if another living one comes through, I'm going to break her neck as soon as she pops out.
+
+Dr. Esterhazy: We don't kill people —
+
+SCP-2288: What do you do with all those people? Those prisoner people you have working and 'helping' with tests? Your peons for your world-wide secret gulag? Why do I never see the same people every month?
+
+Dr. Esterhazy: They're transferred to different facilities on a monthly basis, depending on their tasks and importance to certain projects. You think we kill them, too?
+
+SCP-2288: You call me 'subject', 'it', 'they', 'SCP-2288', never ███████. I think the moment a fresh-faced new 2288 drops from my quantum-ass-hole, you're going to bury me in a box and leave me and myselves to feed the worms. Fuck you, I'm not talking anymore.

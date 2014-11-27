@@ -1,0 +1,81 @@
+Original sample of SCP-759 upon arrival
+
+Item #: SCP-759
+
+Object Class: Euclid
+
+Special Containment Procedures: All samples of SCP-759 are to be stored in wide-mouthed, airtight ceramic or glass-lined containers. Samples are to be kept at temperatures no lower than 0.9 °C and no higher than 11.4 °C unless in active use. Once per week, the following procedure is to be observed by the assigned personnel for each active sample:
+
+- Record date/time of feeding, feeder name, and feeder emotional state at time of feeding
+
+- Open sample container
+
+- Record visual/olfactory condition of sample
+
+- Pour off and retain upper layer of liquid OR stir into main sample as assigned by Foundation orders
+
+- Remove 125 g of sample in an airtight inert container- retain for ongoing analysis or other use as required
+
+- Add 125 g unbleached, unbromated all-purpose white flour and 125 g pure distilled water
+
+- Stir with clean, unpainted wooden implement until fully incorporated
+
+- Seal container and return to cold storage
+
+All removed samples are to be tracked and accounted for.
+
+Description: SCP-759 is a 500-gram mass of sourdough starter composed primarily of wheat flour and water. The starter's active component is an ongoing culture of wild yeasts (including Candida milleri and Saccharomyces exiguus) in symbiotic balance with multiple strains of Lactobacillus and Acetobacter organisms. The original sample first came to Foundation attention after a sudden spontaneous outbreak of attempted murders motivated by apparently baseless jealousy in [REDACTED] County, Vermont. Without exception, the would-be murderers had recently participated in a pancake breakfast fundraiser at the local Methodist church. Further investigation led directly to a single batch of 'Old-Fashioned Melt-In-Your-Mouth Sourdough Flapjacks' produced by a chef with a longstanding untreated case of borderline personality disorder. The chef's starter was confiscated and replaced with a visually and olfactorily indistinguishable sample of equal mass and volume.
+
+Like all starters, SCP-759 acquires a certain amount of its internal composition from its immediate environment. What distinguishes it from other sourdough is its ability to absorb the emotional state of the individuals who tend it, feed it, and bake with it- and transmit that emotional state or a close derivative thereof to anyone who consumes the resultant end product. Relevant variables include length of exposure and intensity of emotional state. Absorption of emotional information ceases upon the baked product achieving 57.5°C for one full minute. Testing of emotional information absorption while samples are in a frozen or dried state is ongoing, but preliminary evidence indicates any such absorption is slowed to the point of negligibility.
+
+Log of tests with SCP-759
+
+Sample condition: Initial recovered sample, raised and fed daily at room temperature for one week. All researchers signed in at feeding time with emotional status of 'calm' or 'neutral'.
+
+Sample use: Batch of 'Old-Fashioned Melt-In-Your-Mouth Sourdough Flapjacks' from original chef's recipe.
+
+Result: No apparent change in emotional state of subjects. Flapjacks pronounced delicious.
+
+Sample condition: Raised and fed weekly for one month by Class D personnel with documented anger management issues and poor impulse control.
+
+Sample use: Two San Francisco-style baguettes.
+
+Result: After consumption of approximately half of the first baguette with butter and jam, an argument broke out over the rightful ownership of the second. The question was rendered moot when one of the test subjects picked up the second loaf and attempted to beat his fellows senseless with it, effectively destroying the remaining bread.
+
+Sample condition: Raised and fed weekly for one month by volunteers under the influence of mood-elevating medication.
+
+Sample use: Sixteen plain bagels.
+
+Result: Significant improvement of mood and temperament in 80% of test subjects for six hours. Remaining 20% experienced nausea, abdominal bloating, and fatigue. (May have been undiagnosed celiac sprue; the test subjects reported feeling significantly more philosophical and mellow about their condition than expected.)
+
+Sample condition: Raised and fed weekly for one month by automated machinery; baked entirely by automated machinery in isolation.
+
+Sample use: Three-stage French pain au levain.
+
+Result: No emotional change noted. Several testers noted a tinny or metallic taste.
+
+Sample condition: Kept in SCP-682's containment chamber for one hour.
+
+Sample use: One loaf challah (braided style)
+
+Result: Initial response appeared similar to that of the baguette experiment in that test subjects became aggressive and argumentative shortly after ingesting several slices. Rather than attacking each other, the test subjects finished the loaf, proceeded to the test kitchens, and began a systematic attempt at the destruction of every other baked good not made with SCP-759 as its primary leavening agent. Subjects proved difficult to subdue.
+
+Sample condition: Also kept in SCP-682's containment chamber for one hour. Adulterated shortly thereafter with 10 grams dry domestic yeast (Saccharomyces cerevisiae).
+
+Sample use: One batch English muffins (Experiment supervisor Dr. █████████ specifically requested the change to 'something with less weight to throw around if the testers get stroppy'), baked under same conditions as the aggression challah.
+
+Result: Subjects immediately became cranky, uncooperative, and argumentative upon consumption of test product. The result has been unofficially dubbed 'grumpy muffins'.
+
+Sample condition: Raised and fed daily at room temperature under the bed of newly married Agent for one week.
+
+Sample use: Six blueberry muffins.
+
+Result: [DATA EXPUNGED].
+
+Sample condition: Raised and fed twice weekly for one month by personnel diagnosed with severe clinical depression.
+
+Sample use: Unlike prior experiments, the liquid layer was not stirred into the main mass of the starter at feeding time, but drawn off and retained separately. Resultant product was then filtered to remove particulate matter and added to lone test subject's alcoholic beverage of choice for one week.
+
+Result: "Liquid despair". Subject began to exhibit signs of emotional distress within minutes of consuming the first doped beverage. Psychological evaluation at the end of the week indicated a depressive state on the order of that diagnosed in 'feeder' personnel, including suicidal ideation. Symptoms had largely cleared two weeks after cessation of experiment, but lingering effects remained.
+
+The possible Foundation uses for SCP-759 are numerous and should be self-evident. Requesting permission to test 'liquid despair' minimum potency and LD-50 as possible means of inducing suicide in otherwise problematic targets.

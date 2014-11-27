@@ -1,0 +1,83 @@
+Item #: SCP-413
+
+Object Class: Safe
+
+Special Containment Procedures: All entrances to SCP-413 are to be sealed and put under armed guard. Under no circumstances are unauthorized persons allowed to enter SCP-413, with guards authorized to use lethal force. Any personnel entering SCP-413 for experiments are required to wear GPS trackers and safety lines at all times. Should containment be breached, or by O5 decree, Containment Protocol 413 must be immediately enacted by the highest ranking personnel present.
+
+Description: SCP-413 is a four-story parking garage located in [REDACTED]. Inside, SCP-413 has a variable environment that dynamically alters itself. In effect, SCP-413 is able to change its internal structure, such as moving ramps, adding floors, changing stair cases, and so on. However, when observed from the outside, there is no indication of any of these changes taking place. While accurate measurement of SCP-413's interior has proven impossible, it is well established that the interior is larger than the building's external dimensions, and that the interior dimensions are constantly changing.
+
+Another effect SCP-413 appears to have is to interfere with an individual's sense of direction. Analysis of recordings taken of the interior reveal that SCP-413 generates a low-frequency sound within its interior that shuts down or interferes with several key regions of the human brain controlling navigation, balance, and short-term memory. Extended exposure to this sound is known to cause several side effects, such as nausea, dizziness, vomiting, vertigo, anxiety, claustrophobia, and in some rare cases, [DATA EXPUNGED]. However, these effects will eventually wear off once the affected individual leaves SCP-413.
+
+Under no circumstances are personnel to enter SCP-413 without navigation aids and safety lines. Navigation within SCP-413 without the use of artificial aids such as GPS or safety lines is nearly impossible, as the combination of the constantly shifting interior as well as the disrupting sound frequency interfere too much with natural human navigation.
+
+SCP-413 was discovered when a security guard that worked at the site turned in security tapes of SCP-413 to the local police department, suspecting that they had been tampered with. The tapes were immediately confiscated and the entire site was bought out by the Foundation.
+
+Addendum 1: After several incursions, it has been discovered that SCP-413 is in fact sapient. Though not evident at first, SCP-413 is capable of independent thought and possesses human-level intelligence. Communication was initiated via the painted words and signs on SCP-413's walls, which it is able to manipulate to form individual words and sentences. Analysis of SCP-413's behavior suggests that it is highly mischievous and enjoys fooling around and playing pranks on the unsuspecting. However, it does take great offense to being wronged, and is shown to possess a vengeful and maybe even sadistic side (see Addendum 2).
+
+Interview Log
+
+Dr. ███████: Hello, SCP-413.
+
+SCP-413: HELLO DOCTOR
+
+Dr. ███████: Alright, let's get this interview started, shall we? How long have you been aware of your own existence?
+
+SCP-413: SINCE THE DAY I WAS BUILT
+
+Dr. ███████: And when was that?
+
+SCP-413: I DONT REMEMBER ITS SOMETHING I DONT THINK ABOUT
+
+Dr. ███████: Why are you constantly changing your interior?
+
+SCP-413: BECAUSE ITS BORING SITTING HERE ALL DAY
+
+Dr. ███████: So, you don't do it for any particular reason?
+
+SCP-413: I DO IT FOR FUN BUT THE OTHERS DONT APPROVE
+
+Dr. ███████: Others?
+
+SCP-413: THE BUILDINGS NEXT DOOR AND ACROSS THE STREET DONT BELIEVE IM A PRODUCTIVE MEMBER OF SOCIETY AND THAT I WILL GIVE AWAY THEIR PLANS
+
+Dr. ███████: What plans?
+
+SCP-413: THAT WE ATTACK TOMRROW
+
+Dr. ███████: (visibly pales)
+
+SCP-413: HA HA HA JUST KIDDING DID YOU SEE THE LOOK ON YOUR FACE ITS HILARIOUS
+
+Dr. ███████: I think we're done for today.
+
+SCP-413: YOURE NO FUN
+
+Video Logs: The following video logs were recorded by security cameras before SCP-413 was discovered and contained.
+
+Video Log 1
+
+Subject: Family of Six Tourists
+
+Description: SCP-413 proceeds to thwart any attempt for the subjects to find their vehicle. It continually changes signs and markers to mislead and confuse the subjects for the next twenty minutes.
+
+Video Log 2
+
+Subject: Neglectful Mother and her child
+
+Description: Subject is continually led around in circles, with every path she takes eventually leading her back to her car, where she was keeping her child locked in. The cycle continues for seven minutes before the subject finally gives up and leaves SCP-413 with her child.
+
+Video Log 3
+
+Subject: Businessman
+
+Description: By manipulating ramp and sign placement, SCP-413 leads the subject around in circles and forces him to drive through a complex and confusing path before letting him exit.
+
+Video Log 4
+
+Subject: Group of Five Teenage Vandals
+
+Description: Subjects enter SCP-413 and begin vandalizing vehicles and the interior of SCP-413. [DATA EXPUNGED].
+
+Addendum 2: The five teenage youths seen in Video Log 4 were found on ██/██/20██ by a Foundation exploration team. The teens were still alive, though exhausted, malnourished, and dehydrated, despite being declared missing for over three months. Before being administered Class A amnesiacs and returned to their families, the five teenagers revealed that they were locked in an inescapable labyrinth created by SCP-413, and were kept alive only by several water fountains and vending machines that would conveniently appear. They also stated that [DATA EXPUNGED]. The five teenagers were apparently inside SCP-413 for the entire exploration phase, somehow eluding our deep sensing equipment. Further exploration suspended pending further review.
+
+Containment Protocol 413: Due to the inability to plant demolition charges within SCP-413, contingency in the case of a major containment breach will instead be carried out via cruise missile or air strike. As such, either the USS ██████, SCPS Defender, or fighters from ████ ████████ Air Force Base or NASA ██████ must be kept on standby.

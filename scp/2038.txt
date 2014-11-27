@@ -1,0 +1,23 @@
+Item #: SCP-2038
+
+Object Class: Euclid
+
+Special Containment Procedures: All objects infected with SCP-2038 are designated SCP-2038-1. To ensure SCP-2038's survival, a standard inanimate test cylinder is to remain infected with SCP-2038 at all times. Every 36 hours, SCP-2038 is to be passed from this cylinder to an uninfected test cylinder. After another 36 hours SCP-2038 is to be passed back to the first cylinder. The process is to be performed by an automated arm with disposable gripping pads within an unobserved chamber. Gripping pads are to be incinerated and replaced after each pass.
+
+Uncontrolled outbreaks of SCP-2038 are to be contained by the isolation of any and all infected instances. Instances of SCP-2038-1 are to remain visually unobserved for 48 hours after infection. Instances of SCP-2038-1 are to be handled and contained with fully disposable, opaque materials. After 50 hours of containment have passed, instances of SCP-2038-1 are to be released and their classification is to be rescinded. The materials used for handling and containing instances of SCP-2038-1 are to be incinerated. Direct physical contact is not to be established with instances of SCP-2038-1.
+
+Note to Attending Personnel: Although "fully disposable, opaque materials" covers a wide range of substances, that does not mean the normal properties of the infected instance can be disregarded. Styrofoam packaging may seem reasonable for some things, but it is not suitable for containing a full mug of coffee or a living rodent for 48 hours. Use discretion.
+
+Description: SCP-2038 is an infectious pathogen with no detectable causative factor. Transmission occurs when an infected subject — designated SCP-2038-1 — establishes new1 direct physical contact with an uninfected subject. SCP-2038 may pass between both animate and inanimate subjects. The sole effect of infection is not immediate.
+
+After infection by SCP-2038, a period of up to 48 hours passes during which SCP-2038-1 will experience no abnormal feelings or symptoms. At any time during the period, if two criteria are met, the effect manifests. The first criterion is that SCP-2038-1 is at physical rest. The second criterion is that attention must be paid to SCP-2038-1 by only one observer, SCP-2038-2, who is also at physical rest, thereby viewing SCP-2038-1 with only one point of observation. SCP-2038-1 instances who do not meet these criteria within 48 hours are no longer contagious and can be considered uninfected. Reinfection is within possibility. Incineration has been proven to eliminate SCP-2038 infection.
+
+When the criteria are met, a brief lapse in attention by SCP-2038-2 causes SCP-2038-1 to undergo a spontaneous physical transformation into a two-dimensional cardboard standee. Its appearance is perfectly photo-realistic, with its depicted perspective taken from the point of view of SCP-2038-2. The standee will then fall forward onto the ground. The transformed SCP-2038-1 has a cardboard easel stand attached to the back similar to that of a picture frame, the intended purpose of which is to keep the standee upright. The easel stand is apparently unable to fulfill this purpose. Any clothing worn by SCP-2038-1 is consistently included in the transformation, as are any implements that connect it with the ground. The cardboard standee remains contagious until the 48-hour period is over.
+
+SCP-2038 originated from an unauthorized looping black fax which was received and printed in Site-41's mail room on 19██-██-██. The fax contained several frames from various ████ █████ cartoons produced by ██████ ████ Cartoons. SCP-2038 then spread to anyone who handled the printed pages. Within 7 days, over 200 inanimate objects and 20 personnel were infected. Containment was implemented after the contagion was traced back to its source. The fax itself was traced to a United States Postal Service office in southern New Hampshire.
+
+SCP-2038 appears to only be virulent on days commonly defined as "business days," i.e. the days of the work week. This excludes federal and national holidays of its current location.
+
+Footnotes
+
+1. No effect has been noted when the subjects are already in contact.

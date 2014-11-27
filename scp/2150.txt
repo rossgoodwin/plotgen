@@ -1,0 +1,141 @@
+Item #: SCP-2150
+
+Object Class: Keter
+
+Special Containment Procedures: Information related to SCP-2150 is to be blocked from all internet service providers. Additionally, other forms of media related to SCP-2150 (including literature, images, and word of mouth, but excluding this document) are to be withheld from personnel. A Level 4 security clearance is required to approve testing related to SCP-2150.
+
+In the event that personnel become an instance of SCP-2150-1, they are to administered Class-F amnestics over a period of 4 to 5 days, in combination with shock therapy. Personnel attempting to detain an instance of SCP-2150-1 are to wear soundproof earmuffs to prevent accidental exposure through word of mouth.
+
+In the case of a Theta-10 event, subjects are to be closely monitored for severe changes in behavior. If behavior among subjects is deemed unsafe, the subjects are to be detained and exposed to SCP-2150 in order to counter the effects of the Theta-10 event. If repeated Theta-10 events yield undesirable results, testing is to be terminated. Subjects are to be administered Class-F amnestics over a period of 4 to 5 days, in combination with shock therapy.
+
+In the event of various personnel in Site-███ being exposed to SCP-2150, unaffected personnel are to immediately report to the Site Director.
+
+Description: SCP-2150 is best understood as a memetic anomaly associated with the name Mark ████████. SCP-2150 is depicted as various individuals, the most common resembling a Caucasian male with facial hair. Information pertaining to SCP-2150 will yield varied results, such as the individual's occupation, biological history, criminal records, etc. No two personnel researching SCP-2150 will discover the same information, despite similar search results between personnel. Because of this, accurate information related to Mark ████████ is impossible to obtain.
+
+Any subject who learns the full name of SCP-2150 will identify themselves as Mark ████████. (referred to as SCP-2150-1) Any personal information the subject discovers related to SCP-2150 will be retained as information related to themselves. Instances of SCP-2150-1 state that they have no memories, except for information related to SCP-2150.
+
+If two instances of SCP-2150-1 meet, both instances will exchange information related to SCP-2150. Any new information gained from one instance will be retained as information related to the other instance. If two pieces of conflicting information meet, both instances will settle on an agreement as to which piece of information is correct.
+
+Additional instances of SCP-2150-1 exchanging information results in collective knowledge believed to be true among instances. If a minority of instances hold conflicting information, it will result in a Theta-10 event. During a Theta-10 event, the majority of SCP-2150-1 instances will attempt to discredit the minority. Examples of this have included:
+
+Accusing the minority of crimes in an attempt to convict them. (Observed in 45% of cases)
+
+Framing the minority in a scandal, in an attempt to deter them from their occupation. (Observed in 22% of cases)
+
+Spreading misinformation related to the minority through word of mouth, literature and other forms of media. (Observed in 65% of cases)
+
+Persuading the minority to believe the majority's viewpoint, resulting in the death of the minority. (Observed in one case. Refer to Addendum 2150-A-12)
+
+Any attempt to discredit instances of SCP-2150-1 results in said misinformation becoming collective knowledge among all instances. Over time, multiple disputes among instances will severely alter any original information gained from their initial exposure. Reintroduction of information to SCP-2150 will overwrite any previous information given from other instances of SCP-2150-1.
+
+Addendum 2150-A-14: On ██/██/████, a D-Class personnel (D-8327M) was identified as an instance of SCP-2150-1, despite not being exposed to SCP-2150 directly (through testing) or indirectly (through other instances or forms of media). D-8327M and other infected personnel were detained and administered amnestics before being returned back to Site-███. However, repeated amnestic treatment failed to rid D-8327M of the SCP-2150 contamination.
+
+On ██/██/████, D-8327M was reported missing from Site-███. Records pertaining to D-8327M's existence in Site-███ were not found. A Junior Researcher recovering records of D-Class personnel was exposed to SCP-2150 on the roster, resulting in accidental exposure. The Researcher was detained and is currently being returned to Site-██. The listed roster was deleted, and a new roster was formed based on the current number of D-Class in Site-███.
+
+To date, no other personnel have been identified as an instance through this method.
+
+Addendum 2150-C-10: INFORMATION RESTRICTED TO LEVEL 4 PERSONNEL OR ABOVE
+
++ INPUT CREDENTIALS
+
+- CREDENTIALS ACCEPTED
+
+Note that the following information will not cause exposure to SCP-2150.
+
+The submission of this document has caused quite the controversy among personnel at Site-███. Some are wondering how to obtain more information on SCP-2150. Others inquire why reading this document doesn't turn you into an instance of SCP-2150-1. The exact nature of SCP-2150 is hard to determine at present. At the expense of possible exposure, I have been able to discover more information about this man.
+
+It is more than a name. It is a phenomenon. Censoring the name associated with SCP-2150 has proven only partially effective in preventing exposure. By censoring the name, it proves effective in severely reducing the chances of a Theta-10 event. However, instances themselves (exposed to this document) fail to retain their original identity. The only known symptom associated with this (as reported by subjects), is the feeling of uneasiness.
+
+Again, it is very difficult to conduct direct research of SCP-2150. The best way to learn more about it is to expose yourself to it. Amnestic treatment has also proven partially effective in reducing the effects of SCP-2150. However, these effects are still prevalent, even after treatment. Anyone exposed to SCP-2150 is infected by it indefinitely. We can treat it, but it is currently impossible to cure someone due to exposure.
+
+I understand that this document might raise more questions than answers. Revealing more information to you would risk infection. However, I advise all personnel reading this document to give extra caution when researching or studying SCP-2150.
+
+If you have any questions or concerns, feel free to contact me at 833-1542.
+
+Dr. ████ ████████
+
+Site Director
+
+Addendum 2150-C-11:INFORMATION RESTRICTED TO LEVEL 4 PERSONNEL OR ABOVE
+
++ INPUT CREDENTIALS
+
+- CREDENTIALS ACCEPTED
+
+On ██/██/████, SCP-2150 breached containment, resulting in a total of ██ personnel becoming instances of SCP-2150-1 and multiple Theta-10 events. In the resulting carnage, the prior Site Director (Dr. ████ ████████) was also suspected to be an instance of SCP-2150-1. A Mobile Task Force was dispatched to the site to detain all instances (including the Site Director). Two members of the Mobile Task Force became instances of SCP-2150-1 during the breach.
+
+The remaining members administered amnestics throughout the site after detainment. Currently, Site-███ is still under operation and contains the original documentation of SCP-2150. After the breach, all personnel without Level 4 clearance or higher are prohibited from accessing the original SCP-2150 documentation.
+
+The original SCP-2150 documentation may be accessed by requesting the permission of the current Site Director.
+
+Addendum 2150-C-12:INFORMATION RESTRICTED TO LEVEL 5 PERSONNEL ONLY
+
++ INPUT CREDENTIALS
+
+- ERROR
+
+PLEASE INPUT CREDENTIALS
+
+…
+
+ERROR
+
+DENIED ACCESS
+
+…
+
+…
+
+BEGINNING REBOOT
+
+SYTE-███
+
+…
+
+…
+
+ACCESS GRANTED.
+
+The original documentation of SCP-2150 may only be accessed by personnel with a Level 5 security clearance. Level 4 personnel requesting access to the original SCP-2150 documentation are to be directed to an alternative version of the current documentation. As of ██/██/████, the original documentation is under the possession of O5-██.
+
+Note that the following information will not cause exposure to SCP-2150.
+
+In Regards to O5-█,
+
+I am currently writing to you in hopes of addressing some key issues concerning SCP-2150 and the former Site Director located in Site-███.
+
+I would first like to say thank you for giving me the opportunity to write the current documentation of SCP-2150. The document has served well in preventing a mass infection due to exposure of SCP-2150. The confidentiality of sensitive information, in combination with alteration of several logs has proven useful in preventing the current infohazards that threaten us. As I have been informed, some O5 members have undergone amnestic treatment prior to promotion, and I am no different.
+
+During the writing of SCP-2150, I have received safe information1 regarding the former Site Director. I have reason to suspect that prior to my promotion, I was the Site Director. My current biological ancestry and criminal records are identical to this man. Upon request, I can provide the documentation to prove my claim.
+
+If this is true, then I am a threat not only to the O5 Council, but also to the Foundation as well. Therefore, I request that I resign from the O5 Council.
+
+Thank you in advance.
+
+O5-██.
+
+In Regards to O5-██,
+
+After reviewing the letter you have sent us, I (in addition to other members) have decided that we will resign you from O5-Council. However, the information you have given us is inconsistent. To the knowledge of the Foundation, the Site Director you've mentioned has never existed. We will not view the information, due to risk of exposure.
+
+Despite the confusion, we thank you for notifying us of this issue, and for your service in the Foundation.
+
+Thank you.
+
+O5-█
+
+In Regards to the O5 Council,
+
+It has recently come to my attention that O5-██ has resigned due to a mishap regarding the documentation of SCP-2150. I have received safe information regarding the former Site Director in hopes to shed some light on the issue. The information indicates that the name associated with the Director was assigned for monthly rotation as a D-Class personnel in Site-████.
+
+In addition, the original documentation of SCP-2150 is now missing; it is likely that the former O5-██ has taken the document with him.
+
+It is now in the Foundation's interest to track down this man. Whoever this man may be, it is very likely that he has already infiltrated our highest chains of command. If this is true, the only way to prevent an outbreak is to continue our current protocol. Due to our procedures, no Council member knows the full name of SCP-2150.
+
+The near introduction of an infohazard is a wake-up call. All we know for certain is that hazardous information was presented to us after the promotion of O5-██. Fortunately, the O5 Council remains uninfected. Stricter containment procedures on infohazards are the only way we can prevent a situation like this from happening again.
+
+O5-█
+
+Footnotes
+
+1. The following information is confirmed to not transmit SCP-2150 infection. This information was received indirectly, through anonymous methods.

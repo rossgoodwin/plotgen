@@ -1,0 +1,31 @@
+SCP-1072 in its case.
+
+Item #: SCP-1072
+
+Object Class: Safe
+
+Special Containment Procedures: Object is kept in a small case in the middle of a twenty (20) metre square room. The door into the room is located in the corner so as to be more than ten metres from the object.
+
+Only one person may be within ten metres of the object when the case is opened. Additional persons may be present outside the ten metre radius.
+
+As of ██/██/████, the case is only to be opened remotely via a robotic manipulator installed in the room. Manual opening of the case is prohibited.
+
+Due to properties detailed in Addendum 1072-1, it is recommended that all subjects be selected from those with as little knowledge of the Foundation as possible. In particular, subjects assigned to SCP-1072 should ideally not have worked with any other SCPs.
+
+Description: SCP-1072 resembles a somewhat dull metal disc with no design stamped on it. It has no apparent unusual physical characteristics, although thermal imaging indicates that its surface temperature appears to rise by approximately one degree Celsius whenever any human subjects are within ten metres of the object. Neither the number of subjects nor their exact distance from the object affect the magnitude of this temperature increase.
+
+All subjects who approach within ten metres of the object report that they feel drawn to open the case. The compulsion appears to be weak, and can be resisted without great effort. Subjects describe the compulsion as a sense of curiosity about the contents of the case, regardless of whether they are already aware of the object's nature. The object is harmless on all counts outside of the ten metre radius, even if it is visible.
+
+Subjects are observed to display a strong compulsion to touch the object when the case is opened. Nearly all subjects report that they perceive it to have the allure of a polished disc of pure gold. Many subjects further describe an overpowering sense that taking the object would somehow improve their enjoyment of life. No variations in the object's appearance have ever been observed either outside the ten metre radius, or on photographs or video footage recorded at any distance from the object.
+
+Upon physically touching SCP-1072, total memory replacement (hereafter referred to as TMR) occurs instantaneously. This almost invariably results in extreme disorientation, and often severe mental breakdown. These effects are due to the subject having a completely different memory of their life up to touching the object. This causes them to be unable to reconcile their current situation with their memory of the previous moment. However, the new memory of said prior instant is still of touching the object.
+
+Time taken to recover from the disorientation is variable, ranging from seconds to hours. In this time the subject appears immune to the compulsion of touching the object. However, as soon as the disorientation wears off, subjects will generally make another attempt to touch it. These attempts require intervention from individuals located outside of the ten metre radius. the remote closing of the box via the installed robotic manipulator. If left uninterrupted, subjects will enter a loop of touching the object. Such loops continue until the cumulative psychological strain causes either permanent brain damage or [DATA EXPUNGED].
+
+Experiments have shown that consecutive TMR incidents sometimes produce replacement memories that have minor similarities to each other. For instance, the subjects of consecutive incidents may "remember" having been in the same region of a particular country for a portion of their life preceding touching the object. See Addendum 1072-1.
+
+As of ██/██/████, the presence of more than one subject within the ten metre radius when the case is open is discouraged. Multiple subjects within the radius will attempt to reach the object at once. In such incidents, subjects typically cause at least minor injuries to one another.
+
+Investigation into shielding against TMR when touching the object was carried out. It was found that nearly all materials provide a sufficient physical barrier as long as they are at least one (1) millimetre thick. However, notable exceptions are leather and other skin-like materials. No material is currently known to modify the effects of physical contact in any way. All tested materials only either permit or prevent TMR. No further testing of materials is planned at this time.
+
+Addendum 1072-1: Recent experiments have suggested that the original memory of a subject touching the object is somehow stored in it. The memory then received in return by the subject appears to be a previously stored one. This possibility came to light when a subject received memories that included employment by the Foundation. These memories were found to be consistent with the known history of a previous subject. Further testing has not yet revealed any pattern to the stored memory that a subject receives. It is also unknown whether a stored memory is erased from the object once a subject has received it.

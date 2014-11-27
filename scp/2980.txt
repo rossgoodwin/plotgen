@@ -1,0 +1,67 @@
+SCP-2980 during testing.
+
+Item #: SCP-2980
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2980 is to be contained in a standard item locker at Site 19. SCP-2980 may only be removed from storage for testing.
+
+Description: SCP-2980 is a nondescript incandescent lightbulb of unknown make, situated on top of a standard plastic 125v wall adapter plug. The bulb itself is clear, with a standard filament and wiring system. The mounting bracket is red in color, with a "smiley face" logo on both sides and a small black on/off switch on the front.
+
+When SCP-2980 is plugged into a standard 125v wall socket and turned on, regardless of whether or not the socket is currently receiving power, and when the local time reaches 2030 hours, SCP-2980 will power on and emit a red light. Any other lights in the room remaining powered at 2030 hours will dim quickly, until the only source of lighting is SCP-2980.
+
+Upon SCP-2980 turning on, a Class V Corporeal Humanoid Entity, designated SCP-2980-1, will materialize somewhere in the room containing SCP-2980. SCP-2980-1 appears as a large, hoofed, bipedal creature, with dark red skin and curled horns. Outside of these characteristics, SCP-2980-1 appears otherwise human, with human facial features and a human torso and arms.
+
+For 15-30 minutes after appearing, SCP-2980-1 will proceed to read a story or collection of short stories to anyone nearby. SCP-2980-1 will read out of a small, black book with a leather binding and parchment pages. Notably, SCP-2980-1 will wear a pair of spectacles during the reading. Upon reaching the end of the tale, or if subjects listening to SCP-2980-1's reading fall asleep, SCP-2980-1 will dematerialize. SCP-2980 will remain on until powered off. Individuals who listen to the entirety of SCP-2980-1's story will invariably fall asleep at its conclusion, and awaken roughly 9 hours later. Subjects universally claim to feel well rested afterwards.
+
++ Interview with SCP-2980-1
+
+- Hide Addendum
+
+On ██/██/██, Dr. Randall entered SCP-2980's testing chamber, interrupting SCP-2980-1's story ("The Tired Little Eldritch Abomination") and requesting an interview. SCP-2980-1 was eager to oblige, and the following interview took place.
+
+Dr. Randall: SCP-2980-1, thank you for sitting down with me. Can you tell me more about what caused you to be here?
+
+SCP-2980-1: Well doctor, I think I just got tired of doing the same old thing all the time, you know? I mean, everybody sort of gets it in their head that it's some easy thing to torture and damn people for an eternity, but it really starts to wear on you after a while. Besides, for the last thousand years or so I'd really been wanting to take my writing on the road, right? Get out there and see my people. So a few months ago I loaded up my things, and well, here I am.
+
+Dr. Randall: I see. So the stories, they're all original?
+
+SCP-2980-1: Oh absolutely. A lot of it is drawn from personal experiences, stuff I encounter on a day to day basis. Pretty personal, you know. I also dabble in a lot of different works. Read a lot of different stuff by different authors. Really try and widen my horizons, right? Get a good feel of what the kids are reading nowadays.
+
+Dr. Randall: Of course, of course. Now, you mention children. SCP-2980 was originally discovered in an orphanage. Any reason in particular why it would've ended up there?
+
+SCP-2980-1: You know, with the kids, it's really all about giving back, right? I just feel like I've lived my whole existence and not really ever had a chance to make a difference in somebody's life. I figured, if I can help some kid rest easier at night, that's gotta count for something. Gotta make every day count. Leave the world a better place than when you found it.
+
+Dr. Randall: Mmhmm. Is there anything else you'd like to add, SCP-2980-1?
+
+SCP-2980-1: Sure. I've got a collection of bedtime stories for children coming out next spring. Really solid stuff, I mean, who am I to say anything about my own work, right? (Laughs) But seriously, the reviews are great. Check it out, definitely worth your time. Proceeds all go to the Xlan'gthmr R'llnmerg Foundation for Underprivileged Youth. Really great cause.
+
+Addendum 2980-A: Sample of SCP-2980-1 Stories
+
+The following is a short sample of stories read by SCP-2980-1 during containment.
+
+The Little Demon Space Cadet
+
+Story depicts a small demon who dreams of going to space. Small demon constructs a spaceship out of human bones, and uses it to fly to the moon.
+
+Sleepy Time With GROG THE UNSPEAKABLE
+
+Story depicts the main character, GROG THE UNSPEAKABLE, trying to find a suitable location to begin his millennium-long slumber. It is mentioned many times throughout that GROG is sleepy.
+
+Bedtime for Baby Beelzebub
+
+Story depicts the infant incarnation of the Lord of Flies being prepared for slumber by a large, insectine creature. Story ends with Baby Beelzebub being covered up by a blanket made of damned human souls, and falling asleep to the screams of the stricken.
+
+[REDACTED]
+
+Story contained sensitive information about SCP-████. When questioned, SCP-2980-1 maintained that it was an original work of fiction.
+
+Damnbi
+
+Story depicts a young deer who, disturbed emotionally by the death of its mother, signs a deal with a demon and goes on a murderous rampage after being twisted into an unholy form and falling from the sky. Story ends with Damnbi falling asleep amongst the corpses of its foes after exacting its vengeance.
+
++ Addendum 2980-B
+
+- Hide Addendum
+
+During routine testing on ██/██/██, SCP-2980-1 told a story entitled "The Little Monstrosity's Early Bedtime", depicting a [DATA EXPUNGED] going on an adventure to get home so it could be reunited with its mother and "countless waiting brethren". Shortly thereafter, Site ██ experienced a breach of SCP-███, which caused ██ casualties and [DATA EXPUNGED] disappeared. Due to the similarities between SCP-███ and the creature in SCP-2980-1's story, Dr. Randall was called in to question SCP-2980-1. SCP-2980-1 responded that "Well, I mean, you write what you know, right? I've been thinking for a while, and really think I'm ready to take my writing in a new direction. You can't please everybody, though, but sometimes you hit one out of the park. That's why we do it, you know? Write, I mean. It's all about pleasing an audience."

@@ -1,0 +1,33 @@
+Item #: SCP-175
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-175 is to be kept in a metal safe when not undergoing testing. The safe is to be secured in a storage room at Site-███, with other low-maintenance SCPs. The room will be guarded by two security guards at all times in accordance with security protocol [DATA EXPUNGED].
+
+Description: When not “active,” SCP-175 resembles a yellowed piece of parchment, slightly larger than a standard piece of paper. The edges are torn, and it appears weathered and brittle. However, SCP-175 is actually quite supple and is indestructible despite its worn appearance, having resisted all attempts to remove pieces for testing.
+
+The more interesting properties of SCP-175 are revealed when moved in relative proximity to a buried object. The proximity range seems to vary under unknown parameters: SCP-175 has become “active” in distances from as short as 30 meters to as far as several kilometers. However, on average the distance ranges between 100 and 200 meters.
+
+When SCP-175 becomes “active,” its appearance changes to become either a map, a set of directions to the buried object, or some hybrid thereof. Though the approximate size and shape of SCP-175 remain constant, its appearance may change to resemble various other paper and parchment varieties, and the writing or drawing implement and style vary as well, seemingly based on the mindset of the individual or individuals who buried the object. For a partial list of buried objects and their buriers, see Document 175-08.
+
+If the buried object is dug up, or the map is removed from the proximity of the object, SCP-175 reverts back to its normal state.
+
+Document #175-08: Partial list of buriers, buried objects, and appearances of SCP-175. All experiments took place at [DATA EXPUNGED] unless otherwise stated.
+
+Dr. ███████ buried a wooden box. SCP-175 became a piece of graph paper, with a pencil-drawn map of the surrounding area, complete with a legend in the bottom-left. The location of the treasure was clearly marked. Dr. ███████ remarked that the handwriting on SCP-175 looked identical to his own.
+
+████ ██████, a 5-year-old female child of Dr. █████, was instructed to bury a wooden box with a couple of her toys in it. SCP-175 became a crayon-drawn map of the surrounding area on a white piece of paper, clearly modeled on the style of a normal child of that age.
+
+███████ ████, a 10-year old male child of Agent █████, was instructed to bury a box containing some of his comic books. SCP-175 became a list of instructions on lined yellow paper, based on several landmarks in the area (trees, rocks, etc). The instructions included where to start, and how many paces to take to the next landmark, the direction to turn, and eventually, where to dig. The instructions were complete with misspellings appropriate for the knowledge of a child of that age.
+
+████ ████████, a well-respected professional landscape artist, was instructed to bury an empty wooden box. SCP-175 became a canvas with an accurately painted overhead view of the surrounding area, with an “x” to mark the spot where the box was buried.
+
+█████████ ███████, a professional puzzle-maker and crossword-puzzle maker, was instructed to bury a wooden box. SCP-175 became a piece of graph paper with several inked crossword and various other word puzzles, along with a meta-puzzle. Solving the smaller puzzles was necessary to find the letters to solve the meta-puzzle, which was a list of instructions for where to find the buried object.
+
+Agent █████, who remembered a box with various objects that he had buried in his backyard at the age of 8, traveled with a research team to [DATA EXPUNGED]. SCP-175 became a pencil-drawn map of the surrounding area, along with labels that did not match his current handwriting, but did match his handwriting from papers his parents had kept that he had done at that age. Most remarkably, the map included several trees that had been cut down in the years since the box was buried.
+
+A D-class personnel who had been a professional architect before his conviction as a serial killer was instructed to bury a wooden box. [DATA EXPUNGED]. For full details, those with sufficient clearance should see Addendum 175-13.
+
+During transport of SCP-175, along with numerous other safe SCPs to [DATA EXPUNGED], one of the guards in the truck reported a high-pitched whine coming from the crate containing SCP-175. As per protocol, the truck was stopped and evacuated, and the nearest task force, Mobile Task Force Omega-7 (Pandora’s Box) was sent to investigate after being briefed on the contents of the crate. According to the debrief, they found a sheet of metal which was emitting the whine, and the sound increased in pitch and volume as they neared a specific location. Digging in this area uncovered SCP-███, at which point the metal sheet reverted to the “inactive” state of SCP-175.
+
+Addendum 175-13: On ███████, a D-class personnel who had been a professional architect prior to his conviction as a serial killer was instructed to bury a wooden box; the intended purpose of this experiment was to see what SCP-175 would look like when buried by an architect. When Dr. ██████ looked at SCP-175, once the box was buried, he immediately screamed, dropped to his knees, clutching his head with both hands, dropping SCP-175 to the ground, luckily, face-down. Agent ████, who was standing by the side of Dr. ██████ during this experiment, reported a flickering mass of color and a sense of extreme nausea at a glimpse of SCP-175 before it drifted to the ground. He quickly dug up the box, in order to reset SCP-175. Dr. ███████ went into a coma after this incident, and intense psychological screening of the D-class subject revealed a well-hidden schizophrenia and sociopathy. Since this experiment, strict protocol has been put in place to protect the mental health of researchers.

@@ -1,0 +1,129 @@
+Item #: SCP-596
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-596 to be secured in standard containment chamber guarded according to usual protocols.
+
+Care must be taken not to allow direct physical contact with SCP-596. Only designated Class-D subjects should do so. Subjects should be medically screened before a new subject is applied to SCP-596. O5 Oversight may permit special exception when a healthy alternative for a unique and critically required subject cannot be found.
+
+All biological material derived from SCP-596 should be handled according to Foundation safety guidelines.
+
+As sedatives have been found to impede the productivity of SCP-596, subjects must remain conscious when applied to SCP-596. Naturally, restraints will be required in order to facilitate the application of a new subject. It is recommended that new subjects be restrained to the operating table with one arm extended outward from the body. This position most easily allows access to quickly decapitate the subject after application is made. The "Lobotomizer" can then be applied to the brain stem once regrowth reaches that point to prevent further cognitive function. The Foundation ethical committee has determined that this practice best ensures a pleasant working environment for assigned personnel.
+
+After the new subject has been applied to SCP-596, the old subject may be disposed of, blood and other fluid harvesting material may be connected to the new subject, and organ extraction can begin.
+
+SCP-596 immediately after subject removal. Severed fingertips and subsequent regrowth not visible from this angle.
+
+Description: SCP-596 is a 63cm high bronze snake statue, believed to be a representation of ████████. SCP-596 was recovered from a hospital in ███████ ██ ███████ in the hands of ████████ ███-█████, suspected by local authorities of being a tomb robber. While the implications are clear, the original location of SCP-596 is still unknown.
+
+When a person makes physical contact with SCP-596, they are unable to release contact or move the statue themselves. The only way to completely remove a subject is for another person to make physical contact with SCP-596, at which point the original subject will expire.
+
+When in contact with SCP-596, any wounds or injuries will heal at incredible speed. Subject also displays extreme discomfort, although the nature of this discomfort is unknown. The regenerative effect of the statue is such that if the subject is surgically removed from SCP-596, the subject will expire and a new body will grow from the parts still attached to SCP-596.
+
+Addendum: Experimental Log
+
+02/17/██:
+
+SCP-596 brought in with sedated subject ████████ ███-█████ attached. Placed in containment chamber under observation. Subject appeared restless and pained, with agitation growing as the sedative wore off. Once conscious, subject began to scream incoherently and writhe in what appears to be great distress. Despite this, subject was unable to move SCP-596. Behavior is consistent with considerable pain, but there is no indication as to whether this is physical or psychic in nature.
+
+02/18/██:
+
+███-█████ still unresponsive to questioning or other stimuli. Subject was led quite easily when gloved personnel moved SCP-596. Subject unable to take food or water, so IV may be required. Will observe the effects of starvation first, however.
+
+03/10/██:
+
+Three weeks after arrival and ███-█████ shows no effects of starvation or dehydration. Subject has maintained motion and constant screaming without sleep for the entire period. The means by which SCP-596 sustains the subject may be of use, provided the other side effects can be eliminated. Otherwise suggest that SCP-596 be scheduled for destruction.
+
+03/13/██:
+
+███-█████ ceased screaming at 12:04 today. Subject was sedated and examined. Examination showed the subject's vocal cords completely shredded. 15 minutes after sedation wore off, subject began screaming again. Further examination showed the vocal cords completely healed. This healing effect gives new promise to SCP-596.
+
+03/14/██:
+
+Tested limits of SCP-596 healing effect. Sedated subject and severed left toe. No regeneration displayed until subject regained consciousness, whereupon toe regenerated in 26 minutes. Severed right foot without sedation. Regeneration began immediately and concluded in 83 minutes. Severed both legs, regenerated simultaneously in 297 minutes. It appears that the regeneration in one area is not slowed by injuries in other locations.
+
+03/15/██:
+
+Severed arms ███-█████ was using to hold SCP below the elbow. Subject's body immediately died. Autopsy showed no identifiable cause of death. Regeneration of attached forearms began.
+
+03/16/██:
+
+Subject began writhing as motor and nervous systems developed. Screaming began again at 07:36 as soon as respiratory system was capable. Full regeneration complete at 21:05.
+
+03/17/██:
+
+Subject sedated and restrained, hypodermic inserted into median cubital vein. Several pints of blood drawn before drop in blood pressure prevented further collection. Upon regaining consciousness, blood pressure improved and the drawing of blood could resume.
+
+03/18/██:
+
+Subject produced 72 pints of blood in the last 24 hours. Clearly, the regenerative power of SCP-596 also accelerates blood production. Request class D subject with type O-negative blood.
+
+03/19/██:
+
+Restrained Class D applied to SCP-596. ███-█████ immediately releases SCP-596 and expires. With multiple draw points, Class D subject should be able to provide the Foundation with a constant supply of universal O-negative blood for transfusions and experimentation. Recommend Class D of blood type AB be kept on hand if universal blood plasma is required.
+
+04/12/██:
+
+While blood production continues, there are difficulties in instituting the organ removal program. Even while restrained, surgical procedures are difficult while the subject continues writhing. Severing the hands allows the collection of a complete body of organs at once, but interrupts the blood production. Decapitation seems to be the best solution, but unpredictable regeneration of the brain stem continues to cause difficulties.
+
+Date: 04/13/██
+
+From: Dr. Jon Drake
+
+To: Foundation Technical Development Request
+
+Subject: SCP-596 - Automatic brain stem removal
+
+Morning Chaps
+
+Any chance you technical boffins could throw something together to chop off a head and stop it growing back? We've been doing it manually so far, and it's becoming quite tedious, not to mention making everyone jump if the process is forgotten and the poor bugger starts screaming again.
+
+Please see the attached documentation, which has been censored appropriate for Level 1 and above.
+
+Regards
+
+Dr. Jon Drake
+
+Date: 04/13/██
+
+From: Foundation Technical Development
+
+To: Dr. Jon Drake
+
+Subject: RE: SCP-596 - Automatic brain stem removal
+
+Your request has been received and approved. A technician will contact you shortly.
+
+Date: 04/21/██
+
+From: Mike Smith - FTD
+
+To: Dr. Jon Drake
+
+Subject: RE: SCP-596 - Automatic brain stem removal
+
+Dr. Drake
+
+Your completed request has been dispatched. Please see attached specifications.
+
+Although the device cannot perform the initial decapitation, consultation with medical personnel assigned to SCP-596 determined that a smaller device that could remain within a regenerated skull would be more useful.
+
+Please complete the performance review for the developed equipment within 30 days
+
+Mike Smith
+
+Date: 04/26/██
+
+From: Dr. Jon Drake
+
+To: Mike Smith - FTD
+
+Subject: RE: RE: SCP-596 - Automatic brain stem removal
+
+Hi Mike,
+
+Glowing review for the new device. The staff have taken to calling it "the Lobotomizer" (although that's obviously technically inaccurate). I thought the suction system to remove the pureed brain matter was quite ingenious. As your specifications noted, by allowing the regeneration of the head, we can now extract eyes and tooth buds from the subject.
+
+Keep up the good work
+
+Dr. Jon Drake

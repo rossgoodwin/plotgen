@@ -1,0 +1,461 @@
+Iteration 1
+
+Iteration 2
+
+Iteration 3
+
+Iteration 4
+
+Iteration 5
+
+Iteration 6
+
+WELCOME TO SCiPNET DIRECT ACCESS TERMINAL. PLEASE ENTER COMMAND
+
+login
+
+PLEASE ENTER USER AUTHENTICATION
+
+jvance1@@foundation.scp | password9910
+
+AUTHENTICATION ACCEPTED. PLEASE ENTER COMMAND
+
+access SCP-2317
+
+INCORRECT FORMAT OR UNKNOWN COMMAND
+
+help access
+
+ACCESS: Displays the Special Containment Procedures synopsis for a given artifact.
+
+Syntax: ACCESS SCP Number Clearance Level
+
+access 2317 0
+
+USER NAME: Jonathan Vance
+
+TITLE: Research Assistant, Site 179
+
+DISPLAYING SCP-2317, CLEARANCE LEVEL 0
+
+SCP-2317
+
+Item #: SCP-2317
+
+Object Class: [DATA EXPUNGED]
+
+Special Containment Procedures: SCP-2317 is to be secured at Containment Area-179 in a reinforced 3m x 3m x 3m containment chamber. Armed guards are to be in place at all times in order to prevent unauthorized access to the facility.
+
+Description: SCP-2317 is a wooden door and frame originally constructed as a basement door for a 19th-century Massachusetts brownstone. Upon opening the door, any person stepping through the door frame will be transported to an alternate reality.
+
+FURTHER INFORMATION ON SCP-2317 IS CLASSIFIED LEVEL 1 (RESTRICTED) OR HIGHER. INSUFFICIENT SECURITY CLEARANCE.
+
+WELCOME TO SCiPNET DIRECT ACCESS TERMINAL. PLEASE ENTER COMMAND
+
+login
+
+PLEASE ENTER USER AUTHENTICATION
+
+hmasterson4@@foundation.scp | 1234Ilovethemarinecorps
+
+AUTHENTICATION ACCEPTED. PLEASE ENTER COMMAND
+
+access 2317 1
+
+YOU ARE ATTEMPTING TO ACCESS A SECURITY LEVEL 1 (CONFIDENTIAL) FILE. PLEASE NOTE THAT ACCESS TO THIS FILE IS RESTRICTED TO PERSONNEL WITH LEVEL ONE SECURITY CLEARANCE, AND THAT INFORMATION IS FURTHER RESTRICTED TO THOSE WITH A NEED-TO-KNOW BASIS.
+
+IF YOU WISH TO CONTINUE, PLEASE RE-ENTER YOUR USER AUTHENTICATION NOW.
+
+hmasterson4@@foundation.scp | 1234Ilovethemarinecorps
+
+USER NAME: Sergeant Hannibal Masterson
+
+TITLE: Assistant Security Specialist, Site 179
+
+DISPLAYING SCP-2317, CLEARANCE LEVEL 1
+
+SCP-2317
+
+Item #: SCP-2317
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2317 is to be secured at Containment Area-179 in a reinforced 3m x 3m x 3m containment chamber. Armed guards are to be in place at all times in order to prevent unauthorized access to the facility.
+
+All personnel assigned to SCP-2317 must rotate out for one month of psychological counseling after two months on-site. Personnel assigned to SCP-2317 must undergo heavy psychological testing before being cleared to enter the site. Individuals must score at least 72 points on the Milgram Obedience Examination, be unmarried, have no offspring, and express nothing less than total loyalty to the Foundation.
+
+While on-site, individuals assigned to SCP-2317 will be issued concealing helmets with integrated voice changers to protect their identity. On-site staff are not to remove said uniforms in the presence of other staff members. Off-duty hours are to be spent in private quarters alone.
+
+A Class D Personnel with a background as a convicted murderer is to be assigned to SCP-2317 each month for the purposes of carrying out Procedure 220-Calabasas. During Procedure 220-Calabasas, at least one Security Clearance 3/2317 staff member must monitor the procedure by camera at all times. Following the procedure, all Class D Personnel must return to their holding cells or explosive collars will be detonated.
+
+Description: SCP-2317 is a wooden door and frame originally constructed as a basement door for a 19th-century Massachusetts brownstone. Upon opening the door, any person stepping through the door frame will be transported to an alternate reality.
+
+FURTHER INFORMATION ON SCP-2317 IS CLASSIFIED LEVEL 2 (RESTRICTED) OR HIGHER. INSUFFICIENT SECURITY CLEARANCE.
+
+WELCOME TO SCiPNET DIRECT ACCESS TERMINAL. PLEASE ENTER COMMAND
+
+login
+
+PLEASE ENTER USER AUTHENTICATION
+
+jchoi9@@foundation.scp | beethovens9th123
+
+AUTHENTICATION ACCEPTED. PLEASE ENTER COMMAND
+
+access 2317 2
+
+YOU ARE ATTEMPTING TO ACCESS A SECURITY LEVEL 2 (RESTRICTED) FILE. PLEASE NOTE THAT ACCESS TO THIS FILE IS RESTRICTED TO PERSONNEL WITH LEVEL TWO SECURITY CLEARANCE, AND THAT INFORMATION IS FURTHER RESTRICTED TO THOSE WITH A NEED-TO-KNOW BASIS DUE TO DIRECT CONTACT WITH SCP-2317.
+
+INFORMATION REGARDING YOUR ACCESS TO THIS FILE (INCLUDING THE DATE, TIME, AND LOCATION) WILL BE REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+IF YOU WISH TO CONTINUE, PLEASE RE-ENTER YOUR USER AUTHENTICATION NOW.
+
+jchoi9@@foundation.scp | Beethovens9th123
+
+INCORRECT AUTHENTICATION. PLEASE ENTER COMMAND.
+
+access 2317 2
+
+YOU ARE ATTEMPTING TO ACCESS A SECURITY LEVEL 2 (RESTRICTED) FILE. PLEASE NOTE THAT ACCESS TO THIS FILE IS RESTRICTED TO PERSONNEL WITH LEVEL TWO SECURITY CLEARANCE, AND THAT INFORMATION IS FURTHER RESTRICTED TO THOSE WITH A NEED-TO-KNOW BASIS DUE TO DIRECT CONTACT WITH SCP-2317.
+
+INFORMATION REGARDING YOUR ACCESS TO THIS FILE (INCLUDING THE DATE, TIME, AND LOCATION) WILL BE REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+IF YOU WISH TO CONTINUE, PLEASE RE-ENTER YOUR USER AUTHENTICATION NOW.
+
+jchoi9@@foundation.scp | beethovens9th123
+
+AUTHENTICATION ACCEPTED. THE TIME AND DATE OF YOUR ACCESS TO THIS FILE HAS BEEN LOGGED AND REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+USER NAME: Dr. Jackson Choi
+
+TITLE: Assistant Researcher, SCP-2317
+
+DISPLAYING SCP-2317, CLEARANCE LEVEL 2
+
+SCP-2317
+
+Item #: SCP-2317
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2317 is to be secured at Containment Area-179 in a reinforced 3m x 3m x 3m containment chamber. Armed guards are to be in place at all times in order to prevent unauthorized access to the facility.
+
+All personnel assigned to SCP-2317 must rotate out for one month of psychological counseling after two months on-site. Personnel assigned to SCP-2317 must undergo heavy psychological testing before being cleared to enter the site. Individuals must score at least 72 points on the Milgram Obedience Examination, be unmarried, have no offspring, and express nothing less than total loyalty to the Foundation.
+
+While on-site, individuals assigned to SCP-2317 will be issued concealing helmets with integrated voice changers to protect their identity. On-site staff are not to remove said uniforms in the presence of other staff members. Off-duty hours are to be spent in private quarters alone.
+
+A Class D with a background as a convicted murderer is to be assigned to SCP-2317 each month for the purposes of carrying out Procedure 220-Calabasas. During Procedure 220-Calabasas, at least one Security Clearance 3/2317 staff member must monitor the procedure at all times. Following the procedure, all Class D Personnel must return to their holding cells or explosive collars will be detonated.
+
+Description: SCP-2317 is a wooden door and frame originally constructed as a basement door for a 19th-century Massachusetts brownstone. Upon opening the door, any person stepping through the door frame will be transported to an alternate reality.
+
+Exploration of the alternate reality (SCP-2317-Prime) is limited, but the area directly accessible through SCP-2317 is a salt pan several kilometers in radius. A circle of seven pillars (SCP-2317-A through SCP-2317-G) are positioned in a ten-meter diameter circle approximately ten meters directly in front of SCP-2317. Each pillar is approximately one meter in diameter, and seven meters tall, constructed of marble and engraved with a series of intricate bas-reliefs. The art style of the engravings do not correspond to that of any known modern, historic, or prehistoric civilization.
+
+Addendum 1: Procedure 220-Calabasas: Procedure 220-Calabasas is a ritual to be performed at solar noon each day (defined as the moment when the sun reaches its height over SCP-2317). Performing Procedure 220-Calabasas requires the following:
+
+[DATA EXPUNGED PER ORDER OF O5-██ ON ██-██-████. INFORMATION MOVED TO EYES-ONLY DOCUMENT 2317-220-CALABASAS. ACCESS TO 2317-220-CALABASAS IS LIMITED TO PERSONNEL WITH SECURITY CLEARANCE 3/2317 OR HIGHER]
+
+Failure at any point to properly perform Procedure 220-Calabasas may result in an XK-Class End of the World Scenario. Should any mishap or failure occur, all personnel are to return immediately through SCP-2317, closing the door behind them. The containment chamber will be immediately locked down, and a Level Two Emergency declared and reported to the O5 Council. Further instructions will be provided to on-site personnel according to Emergency Order Zachariah.
+
+FURTHER INFORMATION ON SCP-2317 IS CLASSIFIED LEVEL 3 (SECRET) OR HIGHER. INSUFFICIENT SECURITY CLEARANCE.
+
+WELCOME TO SCiPNET DIRECT ACCESS TERMINAL. PLEASE ENTER COMMAND
+
+login
+
+PLEASE ENTER USER AUTHENTICATION
+
+vfellini2@@foundation.scp | Sierra charLy pOPPA
+
+AUTHENTICATION ACCEPTED. PLEASE ENTER COMMAND
+
+access 2317 3
+
+YOU ARE ATTEMPTING TO ACCESS A SECURITY LEVEL 3 (SECRET) FILE. PLEASE NOTE THAT ACCESS TO THIS FILE IS RESTRICTED TO PERSONNEL WITH LEVEL THREE SECURITY CLEARANCE DIRECTLY IN CONTACT WITH SCP-2317. CONTINUING WITHOUT PROPER AUTHORIZATION WILL RESULT IN DISCIPLINARY ACTION, UP TO AND INCLUDING ADMINISTRATION OF A BROAD-SPECTRUM CLASS-A AMNESTIC FOLLOWED BY TERMINATION OF EMPLOYMENT.
+
+INFORMATION REGARDING YOUR ACCESS TO THIS FILE (INCLUDING THE DATE, TIME, AND LOCATION) WILL BE REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+IF YOU WISH TO CONTINUE, PLEASE RE-ENTER YOUR USER AUTHENTICATION NOW.
+
+vfellini2@@foundation.scp | Sierra charLy pOPPA
+
+AUTHENTICATION ACCEPTED. PLEASE ENTER YOUR PROJECT-SPECIFIC PERSONAL IDENTIFICATION NUMBER (PSPIN)
+
+329-765-1029-007
+
+THANK YOU. THE TIME AND DATE OF YOUR ACCESS TO THIS FILE HAS BEEN LOGGED AND REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+USER NAME: Dr. Victoria Fellini
+
+TITLE: Senior Researcher, SCP-2317
+
+DISPLAYING SCP-2317, CLEARANCE LEVEL 3
+
+SCP-2317
+
+Item #: SCP-2317
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2317 is to be secured at Containment Area-179 in a reinforced 3m x 3m x 3m containment chamber. Armed guards are to be in place at all times in order to prevent unauthorized access to the facility.
+
+All personnel assigned to SCP-2317 must rotate out for one month of psychological counseling after two months on-site. Personnel assigned to SCP-2317 must undergo heavy psychological testing before being cleared to enter the site. Individuals must score at least 72 points on the Milgram Obedience Examination, be unmarried, have no offspring, and express nothing less than total loyalty to the Foundation.
+
+While on-site, individuals assigned to SCP-2317 will be issued concealing helmets with integrated voice changers to protect their identity. On-site staff are not to remove said uniforms in the presence of other staff members. Off-duty hours are to be spent in private quarters alone.
+
+A Class D Personnel with a background as a convicted murderer is to be assigned to SCP-2317 each month for the purposes of carrying out Procedure 220-Calabasas. During Procedure 220-Calabasas, at least one staff member with Security Clearance 3/2317 must monitor the procedure at all times. Following the procedure, all Class D Personnel must return to their holding cells or explosive collars will be detonated.
+
+Prior paragraph revised as follows: One staff member with Security Clearance 4/2317 will be assigned each month as "Class-D Personnel" in order to act as assistant to the primary celebrant. Personnel without Security Clearance of Level 3 or higher will be told that the assistant is a Class-D personnel chosen from the normal pool of Class-D candidates. All persons directly involved with Procedure 220-Calabasas are to be informed of this fact. No personnel shall be authorized to assist with Procedure 220-Calabasas without first being clearly briefed that the "assistant" is not, in fact, a Class-D Personnel, and should not be terminated in the event that they disobey direct orders from the guards.
+
+Description: SCP-2317 is a wooden door and frame originally constructed as a basement door for a 19th-century Massachusetts brownstone. Upon opening the door, any person stepping through the door frame will be transported to an alternate reality.
+
+Exploration of the alternate reality (SCP-2317-Prime) is limited, but the area directly accessible through SCP-2317 is a salt pan several kilometers in radius. A circle of seven pillars (SCP-2317-A through SCP-2317-G) are positioned in a ten-meter diameter circle approximately ten meters directly in front of SCP-2317. Each pillar is approximately one meter in diameter, and seven meters tall, constructed of marble and engraved with a series of intricate bas-reliefs. The art style of the engravings do not correspond to that of any known modern, historic, or prehistoric civilization.
+
+Addendum 1: Procedure 220-Calabasas: Procedure 220-Calabasas is a ritual to be performed at solar noon each day (defined as the moment when the sun reaches its height over SCP-2317). Performing Procedure 220-Calabasas requires the following:
+
+Two armed Foundation security personnel with Security Clearance of Level 3 or higher (hereafter referred to as "guards").
+
+One Foundation Personnel with Security Clearance of Level 4 (hereafter referred to as "celebrant."
+
+One Class-D Personnel, as specified under Special Containment Procedures (hereafter referred to as "assistant.")
+
+[DATA EXPUNGED]
+
+One obsidian-edged knife (hereafter referred to as "blade").
+
+One silver aspergillum and aspersorium, filled with at least 500 ccs of holy water blessed by a priest of Abrahamaic faith.
+
+Celebrant, guards, and assistant open SCP-2317, step through, and enter SCP-2317 Prime. Assistant will enter first, followed by guards, followed by celebrant. Guards will, at all times, maintain situational awareness of assistant, and should be prepared to prevent escape with deadly force.
+
+Beginning with the pillar closest to and in-line with SCP-2317 (SCP-2317-A), celebrant circumambulates SCP-2317-A through SCP-2317-G, proceeding counter-clockwise at an even and measured pace. At every other step, celebrant will scatter holy water, using the aspergillum and aspersorium, in the direction of the circle's center.
+
+Upon completing one circumambulation of SCP-2317-A-G, celebrant scatters holy water over the head of the assistant and recites the following phrase: "█████ █████, █████ █████, █████ ██████ ███ ███ ███████ ████."
+
+[DATA EXPUNGED]
+
+Assistant then circumambulates SCP-2317-A-G in a clockwise direction, scattering the mixture of blood and holy water in the direction of the circle's center.
+
+Upon completing one circumambulation of SCP-2317-A-G, assistant walks to the center of the circle of stones and pours the remaining mixture of blood and water onto the discolored patch of salt and sand in the center, while reciting the following phrase: "█████ ███ ███ ███ ████, █████ ███ ███ ███ ████."
+
+All materials are gathered up, the obsidian knife is secured, and all personnel return through SCP-2317, which is subsequently closed.
+
+Failure at any point to properly perform Procedure 220-Calabasas may result in an XK-Class End of the World Scenario. Should any mishap or failure occur, all personnel are to return immediately through SCP-2317, closing the door behind them. The containment chamber will be immediately locked down, and a Level Two Emergency declared and reported to the O5 Council. Further instructions will be provided to on-site personnel according to Emergency Order Zachariah.
+
+FURTHER INFORMATION ON SCP-2317 IS CLASSIFIED LEVEL 4 (TOP SECRET) OR HIGHER. INSUFFICIENT SECURITY CLEARANCE.
+
+WELCOME TO SCiPNET DIRECT ACCESS TERMINAL. PLEASE ENTER COMMAND
+
+login
+
+PLEASE ENTER USER AUTHENTICATION
+
+kpcrow@@foundation.scp | sometimesifeeellikeamotherlesschild
+
+AUTHENTICATION ACCEPTED. PLEASE ENTER COMMAND
+
+access 2317 4
+
+YOU ARE ATTEMPTING TO ACCESS A SECURITY LEVEL 4 (TOP SECRET) FILE.
+
+PLEASE NOTE THAT ACCESS TO THIS FILE IS RESTRICTED TO PERSONNEL WITH LEVEL FOUR SECURITY CLEARANCE DIRECTLY IN CONTACT WITH SCP-2317. CONTINUING WITHOUT PROPER AUTHORIZATION WILL RESULT IN DISCIPLINARY ACTION, UP TO AND INCLUDING IMMEDIATE TERMINATION OF LIFE
+
+INFORMATION REGARDING YOUR ACCESS TO THIS FILE (INCLUDING THE DATE, TIME, AND LOCATION) WILL BE REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+IF YOU WISH TO CONTINUE, PLEASE RE-ENTER YOUR USER AUTHENTICATION NOW.
+
+kpcrow@@foundation.scp | sometimesifeellikeamotherlesschild
+
+WARNING: INCORRECT AUTHENTICATION: YOU HAVE SIXTY SECONDS TO ENTER THE CORRECT USER AUTHENTICATION, OR SECURITY PERSONNEL WILL BE SUMMONED TO YOUR LOCATION.
+
+kpcrow@@foundation.scp | ssometimesifeeellikeamotherlesschild
+
+WARNING: INCORRECT AUTHENTICATION
+
+kpcrow@@foundation.scp | sometimesifeeellikeamotherlesschild
+
+AUTHENTICATION ACCEPTED.
+
+PLEASE ENTER YOUR PROJECT-SPECIFIC PERSONAL IDENTIFICATION NUMBER (PSPIN)
+
+369-705-1429-015
+
+PSPIN ACCEPTED.
+
+PLEASE LOOK INTO THE CAMERA FOR A RETINAL IDENTIFICATION SCAN.
+
+INCORRECT ORIENTATION. PLEASE ALIGN THE PUPILS OF YOUR EYES WITH THE GUIDELINES INDICATED ON THE SECONDARY SCREEN AND TRY AGAIN.
+
+THANK YOU. THE TIME AND DATE OF YOUR ACCESS TO THIS FILE HAS BEEN LOGGED AND REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+USER NAME: Dr. Kain P. Crow
+
+TITLE: Senior Supervising Researcher
+
+DISPLAYING SCP-2317, CLEARANCE LEVEL 4
+
+SCP-2317
+
+Item #: SCP-2317
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2317 is to be secured at Containment Area-179 in a reinforced 3m x 3m x 3m containment chamber. Armed guards are to be in place at all times in order to prevent unauthorized access to the facility.
+
+All personnel assigned to SCP-2317 must rotate out for one month of psychological counseling after two months on-site. Personnel assigned to SCP-2317 must undergo heavy psychological testing before being cleared to enter the site. Individuals must score at least 72 points on the Milgram Obedience Examination, be unmarried, have no offspring, and express nothing less than total loyalty to the Foundation.
+
+While on-site, individuals assigned to SCP-2317 will be issued concealing helmets with integrated voice changers to protect their identity. On-site staff are not to remove said uniforms in the presence of other staff members. Off-duty hours are to be spent in private quarters alone.
+
+One staff member with Security Clearance 4/2317 will be assigned each month as "Class-D Personnel" in order to act as assistant to the primary celebrant. Personnel without Security Clearance of Level 4 or higher will be told that the assistant is a Class-D personnel chosen from the normal pool of Class-D candidates. All persons directly involved with Procedure 220-Calabasas are to be informed of this fact. No personnel shall be authorized to assist with Procedure 220-Calabasas without first being clearly briefed that the "assistant" is not, in fact, a Class-D Personnel, and should not be terminated in the event that they disobey direct orders from the guards.
+
+Description: SCP-2317 is a wooden door and frame originally constructed as a basement door for a 19th-century Massachusetts brownstone. Upon opening the door, any person stepping through the door frame will be transported to an alternate reality.
+
+Exploration of the alternate reality (SCP-2317-Prime) is limited, but the area directly accessible through SCP-2317 is a salt pan several kilometers in radius. A circle of seven pillars (SCP-2317-A through SCP-2317-G) are positioned in a ten-meter diameter circle approximately ten meters directly in front of SCP-2317. Each pillar is approximately one meter in diameter, and seven meters tall, constructed of marble and engraved with a series of intricate bas-reliefs. The art style of the engravings do not correspond to that of any known modern, historic, or prehistoric civilization. SCP-2317-A-G extend two hundred meters below the surface of the sand and into SCP-2317-H.
+
+SCP-2317-H is a spherical space one hundred kilometers in diameter located directly underneath SCP-2317-A-G, lined with the same stone used to construct SCP-2317-A-G. Contained within SCP-2317-H is SCP-2317-K, hereafter referred to as "entity."
+
+The following information has been inferred through seismic analysis and ground-penetrating radar, as well as direct observation: Entity appears to be an obese humanlike creature of immense proportions: estimated height if fully erect is over two hundred kilometers. Horns resembling tree branches sprout from its head, which lacks a lower jaw. Entire body is covered in millions of overlapping plate-like scales. Seven heavy hooks are embedded in the entity's back, each one attached to a heavy steel chain connected to the lower end of one of the seven pillars embedded in the ceiling of the chamber.
+
+At the time of the writing of this document, six of the pillars or chains have been broken or damaged, and only one chain remains intact.
+
+Addendum 2317-1: Procedure 220-Calabasas: Procedure 220-Calabasas is a ritual to be performed at solar noon each day (defined as the moment when the sun reaches its height over SCP-2317). Performing Procedure 220-Calabasas requires the following:
+
+Two armed Foundation security personnel with Security Clearance of Level 3 or higher (hereafter referred to as "guards").
+
+One Foundation Personnel with Security Clearance of Level 4 (hereafter referred to as "celebrant."
+
+One Class-D Personnel, as specified under Special Containment Procedures (hereafter referred to as "assistant.")
+
+One live male Gallus domesticus, preferably caged to prevent complications during transport to SCP-2317-Prime (hereafter referred to as "chicken.")
+
+One obsidian-edged knife (hereafter referred to as "blade").
+
+One silver aspergillum and aspersorium, filled with at least 500 ccs of holy water blessed by a priest of Abrahamaic faith.
+
+One kiloton-level nuclear device, to be detonated in case of catastrophic containment failure.
+
+Celebrant, guards, and assistant open SCP-2317, step through, and enter SCP-2317 Prime. Assistant will enter first, followed by guards, followed by celebrant. Guards will, at all times, maintain situational awareness of assistant, and should be prepared to prevent escape with deadly force.
+
+Beginning with the pillar closest to and in-line with SCP-2317 (SCP-2317-A), celebrant circumambulates SCP-2317-A through SCP-2317-G, proceeding counter-clockwise at an even and measured pace. At every other step, celebrant will scatter holy water, using the aspergillum and aspersorium, in the direction of the circle's center.
+
+Upon completing one circumambulation of SCP-2317-A-G, celebrant scatters holy water over the head of the assistant and recites the following phrase: "Seven Seals, Seven Rings, Seven Thrones for the Scarlet King."
+
+Celebrant then moves to a safe distance away from assistant, who will take the obsidian knife and use it to kill the chicken provided as sacrifice. Blood will be drained from the chicken and added to the aspersorium, then stirred to mix with the holy water already contained within.
+
+Assistant then circumambulates SCP-2317-A-G in a clockwise direction, scattering the mixture of blood and holy water in the direction of the circle's center.
+
+Upon completing one circumambulation of SCP-2317-A-G, assistant walks to the center of the circle of stones and pours the remaining mixture of blood and water onto the discolored patch of salt and sand in the center, while reciting the following phrase: "Blood for the Old Gods, Water for the New King."
+
+All materials are gathered up, the obsidian knife is secured, and all personnel return through SCP-2317, which is subsequently closed.
+
+Failure at any point to properly perform Procedure 220-Calabasas may result in an XK-Class End of the World Scenario. Should any mishap or failure occur, all personnel are to return immediately through SCP-2317, closing the door behind them. The containment chamber will be immediately locked down, and a Level Two Emergency declared and reported to the O5 Council. Further instructions will be provided to on-site personnel according to Emergency Order Zachariah, and may include detonation of on-site nuclear warhead.
+
+Addendum 2317-2: History: SCP-2317 was first discovered in 1922, by [DATA EXPUNGED]. Object was subsequently moved to what was then called Provisional Containment Area 17. Object was moved to Containment Area 179 in 1982, where it remains as of the writing of this article.
+
+When initially discovered, four of the seven chains were broken, and three were intact: the breaking of the fifth chain in ████ corresponded directly to a ██████████ event in our world. The sixth chain, which broke in ████, was also coincident with a much more severe ██████████ event, eventually resulting in the deaths of two million persons.
+
+Analysis of supplementary texts retrieved at the time of containment pointed to Procedure 220-Calabasas as an effective means of maintaining containment until an effective means of repairing or reattaching said chains can be discovered. Containment procedures were modified to incorporate Procedure 220-Calabasas. As records show that the sequence of ██████████ events shows an exponential increase in lethality, it can be extrapolated that failure of the final chain (SCP-2317-G), would result in an XK-Class End of the World Scenario.
+
+For this reason, every possible effort is to be made to ensure a successful Procedure 220-Calabasas.
+
+FURTHER INFORMATION ON SCP-2317 IS RESTRICTED TO THE OVERSEER COUNCIL.
+
+WELCOME TO SCiPNET DIRECT ACCESS TERMINAL.
+
+PLEASE ENTER COMMAND
+
+login
+
+PLEASE ENTER USER AUTHENTICATION
+
+O5-13 | sIERRa tANGo CASpER 3CH0.
+
+NOTE: IMPERSONATING A MEMBER OF THE OVERSEER COUNCIL IS PUNISHABLE BY IMMEDIATE DEATH. IF YOU HAVE ENTERED THIS LOGIN INFORMATION IN ERROR, YOU NOW HAVE TEN SECONDS TO EXIT THE VICINITY BEFORE DEPLOYMENT OF LETHAL VISUAL COGNITOHAZARD. OTHERWISE, PLEASE ENTER PERSONAL AUTHORIZATION KEYPHRASE. PLEASE NOTE THAT FAILURE TO ENTER THE PROPER KEYPHRASE WITHIN SIXTY SECONDS WILL RESULT IN DEPLOYMENT OF MOBILE TASK FORCE TO YOUR LOCATION.
+
+Now is the time for all good men to come to the aid of their party. I^H Because I would not stop for death he ^H^H^H^H^H^H^H^H Death he kindly stopped for me. Red Sky in Morning Sailor take e^H wArning.
+
+IDENTITY CONFIRMED. CANCELLING MOBILE TASK FORCE SCRAMBLE ORDER.
+
+PLEASE ENTER COMMAND
+
+access 2317
+
+THANK YOU. THE TIME AND DATE OF YOUR ACCESS TO THIS FILE HAS BEEN LOGGED AND REPORTED TO THE RECORDS AND INFORMATION SECURITY ADMINISTRATION (RAISA).
+
+USER NAME: O5-13
+
+TITLE: Operational Overseer
+
+DISPLAYING SCP-2317, CLEARANCE LEVEL O5
+
+SCP-2317
+
+Item #: SCP-2317
+
+Object Class: Keter Apollyon
+
+Clearance Designation: All O5 personnel.
+
+Level 4 or lower personnel authorized if cleared under CODE NIGHTMARE REGENT RED
+
+Special Containment Procedures: Irrelevant.
+
+Description: SCP-2317 is a primeval entity known as "The ████, Devourer of Worlds" (name redacted intentionally). The Erikesh Codex indicates that it was captured and imprisoned by Erikeshan mystics circa 1894 BCE. An excerpt from the relevant passage follows:
+
+AND THEN KESHPETH LED HIS ARMY OF TEN THOUSAND INTO THE REALM BEYOND THE CLOUDS, AND THERE DID THEY DO BATTLE WITH THE DEVOURER, MAY HIS NAME REMAIN FOREVER UNREMEMBERED. AND THEN KESHPETH AND HIS TEN THOUSAND DID CRAFT SEVEN CUNNING CHAINS OUT OF THE BONES OF JASPETAR, SEVENTH BRIDE OF THE DREAD DEVOURER, MAY HIS NAME REMAIN FOREVER UNREMEMBERED, AND BOUND HIM WITHIN THE PEARL OF THE FATHER OF OYSTERS, HE WHO DWELLS UNDER THE MIRROR OF SALT IN THE REALM UNDER THE SEA. AND KESHPETH ORDERED THAT THE GATES TO THE FAR COUNTRY BE SEALED FOREVER, LEST THE DREAD DEVOURER, MAY HIS NAME REMAIN FOREVER UNREMEMBERED, FIND ITS WAY BACK TO OUR WORLD.
+
+It is not clear how the 19th-century Society of the Golden Arrow discovered how to create a gate to Universe-Kappa-Erikesh, nor their reasons for doing so. What is clear is that the damage to the first four chains that bind the Devourer was accidental. By the time Our Founder took possession of the item following the dissolution of the Society, the organization had bankrupted itself several times over trying desperately to repair the damage caused.
+
+Projected Containment Profile: Indications are that Final Containment Failure will occur at some point within the next century as of the writing of this article: the mean time to failure being calculated at thirty years. All efforts to repair or replace the chains have failed. All efforts to re-discover the method for creating these chains have proven fruitless. Research is currently underway to determine an alternate containment plan, but the possibility that anything can keep the Devourer from entering our universe is slim, especially as the original material used to create the chains (namely, the bones and sinew of another Devourer entity) are no longer in existence.
+
+The primary threat is internal despair or panic. In order to maintain morale, a false containment procedure (Procedure 220-Calabasas) will be authored and implemented. This false containment procedure has been given a sense of veracity by the following means:
+
+Incorporating elements of common ritualistic magics.
+
+Incorporating elements of popular religious rites.
+
+Incorporating elements of other known occult organizations.
+
+Incorporating elements of other known Special Containment Procedures.
+
+Incorporating references to similar but unrelated occult entities.
+
+Increased information security regarding the elements of the procedure.
+
+Appealing to the common institutional meme of the effectiveness of thermonuclear weapons in destroying paranormal entities.
+
+Although completely ineffectual, the purpose of Procedure 220-Calabasas is to provide the appearance of active containment in order to allay anxiety among staff until a more permanent solution can be found.
+
+In the meantime, preparations will be made in order to ensure the survival of the human race following Containment Failure. As most of the recommended preparations overlap with or are identical to preparations already underway in case of numerous other XK-Class scenarios, minimal additional resources are required.
+
+Approved by the unanimous vote of the Overseer Council on ██-██-████.
+
+PLEASE ENTER COMMAND
+
+expunge full
+
+THANK YOU. ALL ACCESS RECORDS FOR THIS COMPUTER FROM THE PAST 24 HOURS HAVE BEEN REMOVED FROM THE LOG. RECORDS AND INFORMATION SECURITY ADMINISTRATION RECORDS REDACTED.
+
+logout
+
+LOGGING YOU OUT. THANK YOU.
+
+WELCOME TO SCiPNET DIRECT ACCESS TERMINAL.
+
+PLEASE ENTER COMMAND
+
+shutdown
+
+SHUTTING DOWN
+
+IT IS NOW SAFE TO TURN OFF YOUR COMPUTER.
+
+//<![CDATA[
+
+OZONE.dom.onDomReady(function(){
+
+        var tabView5cb768c7415cf1de73bac970b7a0f980 = new YAHOO.widget.TabView('wiki-tabview-5cb768c7415cf1de73bac970b7a0f980');
+
+                }, "dummy-ondomready-block");
+
+        
+
+//]]>

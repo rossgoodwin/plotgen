@@ -1,0 +1,29 @@
+A component of SCP-281 during a reverse engineering attempt
+
+Item #: SCP-281
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-281 is currently contained within maximum security storage locker 18-E on level 7 of Research, Reliquary, and Containment Site-76. SCP-281's lithium-ion battery pack is to remain plugged into the site's main power grid unless used in testing. Necessary cables have been supplied and are stored with the object.
+
+Because of the nature of the object's anomalous properties, testing on SCP-281 is to be authorized by the Level 4 senior member of research staff currently assigned to this project. D-Class personnel used in testing are not to be informed on the nature of SCP-281.
+
+Description: SCP-281 is a makeshift device measuring approximately 25 cm x 35 cm x 20 cm. Built into the device is a high capacity lithium-ion laptop battery to provide power. In addition, the object incorporates a variety of components from such diverse sources as a Philips brand alarm clock, a digital kitchen timer of unknown make and model, a NEC PC-8201a portable computer and a USB keypad (brand unknown). Attempts to reverse engineer it have thus far not yielded any significant results. SCP-281 is currently not believed to be functioning as intended by its creator.
+
+SCP-281's effects become apparent when the following tasks are performed in the correct sequence:
+
+1. Subject sets an alarm using the alarm clock interface
+
+2. Subject waits for the alarm to sound and presses the alarm clock's snooze button
+
+The depression of the snooze button triggers the creation of a localized temporal anomaly around SCP-281. The area affected is a spherical field with an approximate radius of six meters, centered on SCP-281 and designated SCP-281-1. Personnel and items outside this anomaly are not affected in any way. How the device creates the temporal anomaly is unknown at this time. The kitchen timer component of SCP-281 will display 9:00 when SCP-281-1 is created and begin counting down. Setting the kitchen timer to any other amount of minutes or seconds prior to activation does not appear to have any effect on SCP-281's functioning.
+
+Within SCP-281-1, time passes at a highly increased rate, with nine minutes lapsing inside it compared to approximately one millisecond outside. From the perspective of those inside the temporal anomaly, time moves at a normal rate while outside of SCP-281-1 time appears to have effectively stopped. Subjects within SCP-281-1 can move around within its limits, but attempts to have subjects cross from an active instance of SCP-281-1 into an area beyond its influence have invariably resulted in subjects undergoing massive and acute cellular disruption along the line separating those parts inside and those outside of SCP-281-1. A similar effect has been observed on subjects and objects brought into an instance of SCP-281-1 from outside its area of effect. It has proven possible to move SCP-281-1 by transporting SCP-281 to a different location while active, but any materials, biological or otherwise, immediately suffer a massive cellular and molecular disruption as described above. Any organic material present within SCP-281-1 when the device is activated is subject to normal biological processes over the period of time that lapses inside SCP-281-1.
+
+To those outside of SCP-281-1, no time appears to have passed. If subjects present in an active instance of SCP-281-1 have moved during the period of time SCP-281-1 was active, they will seem to have teleported to their new location.
+
+As the timer reaches zero minutes and zero seconds, the alarm sounds again and time inside and outside of the instance of SCP-281-1 are instantaneously resynchronized. Due to the abrupt nature of this event, subjects inside SCP-281-1 when the nine-minute period expires, suffer effects resembling severe decompression sickness. Known treatments for that condition have been proven to be equally effective in treating SCP-281 test subjects.
+
+Addendum 281-A-01: Recovery and preliminary containment notes
+
+On ██/██/20██ a remote monitoring station picked up encrypted transmissions emanating from a location in the █████████ Mountains. After decryption, the transmissions were found to be reporting progress on a project referred to as 'Full Circle' and SCP-281 was secured by a Foundation airborne recovery team during a raid on a fortified hiker's cabin. The device's creator, a 36-year-old African American male identified post-mortem as █████ █. ███████, exhibited erratic and aggressive behavior when encountered. No evidence exists of an affiliation with any known GOI or other organization.

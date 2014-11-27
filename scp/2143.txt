@@ -1,0 +1,95 @@
+Item #: SCP-2143
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2143 is contained within an electrically insulated Large Scale Containment Cell at Site-42. The center of the cell is to be furnished according to Class-III Humanoid Containment standards, underneath a 3-by 3-meter Plexiglas roof supported by 3-meter tall steel girders. Two (2) guards equipped with tasers are to be stationed outside SCP-2143's containment chamber at all times. In the event that an Omicron event expands beyond the containment chamber, Kolokol-2 is to be immediately introduced into SCP-2143's containment chamber via the ventilation system until SCP-2143 is sedated. Following the cessation of Omicron events, non-anomalous objects spawned should be incinerated onsite by crew following Bio-safety Level 4 protocols. Anomalous objects that are spawned should be classified as SCPs or anomalous items and contained accordingly. The results of each Omicron event should be recorded and uploaded into the SCP-2143 data file daily.
+
+Description: SCP-2143 is a Greek male, approximately 30 years old, with black hair and brown eyes. Physically, SCP-2143 is non-anomalous in nature, but it possesses extreme proficiency with all musical instruments, an eidetic memory for an unknown number of songs, and a singing voice that personnel describe as "pleasant and enjoyable to listen to". Once per day, SCP-2143 will perform a random musical piece. SCP-2143 appears to have no control over what music it plays, and has never been observed to repeat a piece on its own accord. SCP-2143 is able to take musical requests, but is only able to perform a piece that has already been performed, and is unable to play any musical piece more than twice even under duress.
+
+SCP-2143-2 is a lyre with the ability to immediately relocate to SCP-2143 regardless of distance. If played by anyone other than SCP-2143, SCP-2143-2 will fail to make a sound. When played by SCP-2143, SCP-2143-2 is able to transform into any musical instrument, regardless of size or complexity, such as keyboards, oboes, guitars, and trumpets. SCP-2143 remains able to vocalize while playing wind instruments.
+
+Performance of a musical piece by SCP-2143 invariably results in an Omicron event. During an Omicron event, an anomalous stratocumulus cloud (hereby referred to as SCP-2143-3) will form directly above SCP-2143. Although SCP-2143-3 will produce lightning and thunder, it will rain objects that are thematically linked to the music being played instead of water. Omicron events occur both indoors and outdoors. If indoors, SCP-2143-3 appears just underneath the ceiling, taking on the width and length of the room. If outdoors, SCP-2143-3 appears at a size and altitude typical of non-anomalous stratocumulus clouds. Omicron events only last as long as SCP-2143 is performing a song.
+
+Each musical piece played by SCP-2143 is linked to a single, specific Omicron event. SCP-2143 can view Omicron events, but is unable to physically interact with them. It claims that it does not purposefully cause these events, and usually expresses distress at these occurrences.
+
+If prevented from performing for more than one day, SCP-2143's health and morale will drop drastically. At the same time, personnel who come within a three meter radius of SCP-2143 will be afflicted by an as-yet unknown disease. Each day SCP-2143 is prevented from performing, the area of effect will double in size. Although the symptoms of the disease are that of septicemic plague (diarrhea, fever, low blood pressure, gangrene, shock, etc.), the disease is untreatable by antibiotics. The disease's vector is unknown. If SCP-2143 is allowed to sing, any afflicted persons will quickly recover, and the area of effect will dissipate.
+
+Addendum:
+
+Interview Log 2143-1:
+
+– hide block
+
+The following is an interview of SCP-2143 shortly after the third Omicron Event observed during SCP-2143's incarceration.
+
+Date: Jan. 7, ████
+
+Interviewer: Dr. T█████
+
+[BEGIN LOG]
+
+Dr. T█████: Good morning, SCP-2143.
+
+SCP-2143: Call me ██████.
+
+Dr. T█████: Please answer the following questions.
+
+SCP-2143: Sure thing, good lookin'.
+
+Dr. T█████: Do you know why your singing causes Omicron Events?
+
+SCP-2143: It's not my fault. My father said I needed to stop singing and get to work, but music is my soul! My passion! Drove the old bastard crazy. I don't know why, it'd probably help him with the ladies…
+
+Dr. T█████: SCP-2143, please answer the question.
+
+SCP-2143: I'm a bit rusty on modern music. Anyways, so I'm in the middle of this incredible riff, right, and the old goat comes in, yelling about how my music is distracting him and I need to get back to my "real" work before he gets mad. I tell him, get this, that he's already distracted by his fourth affair in as many days. Of course he throws a fit. Cast me down and dropped a curse bomb too.
+
+Dr. T█████: Who is your father?
+
+SCP-2143: I don't feel like talking about him right now. No, you know what? I do. He is a huge fucking prick. He's got an undeserved god complex and Dane Cook's sense of humor. He can't take a joke or hold his temper or libido. He just curses out everyone around him.
+
+Dr. T█████: When was the first time an Omicron event occurred?
+
+SCP-2143: First time I played a song here. It was a disaster for everyone. I was playing "The Meaning of Lice" for a really nice girl. One ballad away from tapping that and then it's raining lice. It was so fucking embarrassing! And I bet Dad was just laughing his ass off. Ha ha ha. He's such an asshat.
+
+Dr. T█████: Would it be possible to communicate with your father?
+
+SCP-2143: Might as well try to talk to lightning. It's probably a better listener. All I want is someone to listen to my music. What good is music if nobody can enjoy it? But now I can't even do that! Every fucking time I sing, it rains. But I can't stop singing. It won't stop raining. I wish I was in hell. At least there, it wouldn't rain.
+
+At this point, SCP-2143 began playing "Regurgitated Guts" and had to be tranquilized. SCP-2143 was returned to containment.
+
+Addendum: Recent Omicron Events
+
+The following table lists the seven most recent songs performed by SCP-2143 and the results of each. For a full list of all performed songs, see Document 2143-2.
+
+Original Performer: Song
+
+Omicron Event
+
+The Weather Girls: It's Raining Men
+
+Numerous identical instances of Luther Vandross emerged from the storm. All instances appear to have been killed by the fall or being crushed by other Luther Vandrosses. Each instance possessed of a copy of the musical album The Glow of Love.
+
+Beastie Boys: Electric Worm
+
+Several instances of SCP-████ were spawned, killing █ personnel.
+
+The Beatles: Here Comes the Sun
+
+[DATA EXPUNGED]
+
+Hoagy Carmichael: Stardust
+
+Dust composed of iron, silicon, sulfur, chlorine, titanium, scandium, and calcium emerged. SCP-2143's morale decreased sharply afterwards for several days.
+
+Michael Jackson: Blood on the Dance Floor
+
+Switchblades were produced, all with blood on the blade. The blood from each switchblade was genetically identical, although not in the Foundation database, and found to be HIV-positive.
+
+Edvard Grieg: In the Hall of the Mountain King
+
+1963-era Dam dolls appeared. Each Dam doll had a small crown on the head.
+
+Led Zeppelin: Custard Pie
+
+Numerous egg custard pies were produced. The custard of each pie contained vaginal lubrication.

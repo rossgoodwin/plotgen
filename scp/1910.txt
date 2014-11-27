@@ -1,0 +1,19 @@
+Item #: SCP-1910
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1910 is to be contained in an airtight safe at Bio Site-1910. Level A Hazardous Materials suits are to be worn for protection during sample collection, as the object's anomalous properties only activate in contact with living animal tissue. SCP-1910 is not to come into contact with any plant or plant-like SCP item. It must remain empty and unlit at all times to prevent activation, except for purposes of controlled testing.
+
+Description: SCP-1910 is a single-stem portable hookah which, when filled and lit properly with a smoldering coal and Mu'assel (tobacco paste) or Hashish (marijuana resin), produces a dense white fog covering roughly a 200m radius around its position. Whenever any living plant is damaged within this radius, the fog enters an active state, sublimating and absorbing soft tissue and bodily fluids from nearby vertebrates, which tints it deep red. The fog will then use the dissolved animal tissue to repair any damaged plants inside its radius, replacing destroyed tissues and organs with healthy "patches".
+
+The "patches" applied by SCP-1910 consist of living animal cells, genetically and compositionally identical to those of the animal most recently sublimated, reorganized into tissues closely analogous to the underlying plant structures. For example, during Test 1910-33a, SCP-1910 was activated by damage to the stem and leaves of a tobacco plant and reacted by absorbing a pig's forelimb. It replaced the leaf parenchyma with modified skin and fat cells, the stomatal guard cells with muscle cells, the cuticle with waxes derived from sebaceous glands, the stem xylem and phloem with veins and arteries, and the leaf veins with capillaries.1 The resultant patches are fleshy and incapable of photosynthesis, although they do adequately replicate all structural and nutrient-conducting functions of the damaged tissue. Interestingly, the mass of animal tissue absorbed was far greater than that used to construct the patches.
+
+Acquisition Log: SCP-1910 was first cataloged in 1964, after a minor media panic surrounding an incident in the town of █████████, Oregon. Eyewitnesses state that several environmental protesters had chained themselves to large trees at a logging site outside the town and begun passing around a hookah. When loggers disregarded the protesters and moved to fell other nearby trees, SCP-1910's anomalous properties activated.
+
+Five loggers were skeletonized within minutes; witnesses reported the incorporation of the loggers' tissue into the damaged trees. All survivors immediately fled the scene, abandoning SCP-1910 in the forest; the survivors from the scene were admitted to a local hospital with severe dehydration, and in five cases, missing skin and muscle tissues from areas of their body. Foundation experts later confirmed the removal of all soft tissue, including bone marrow, of the skeletonized loggers, and determined a human origin of the incorporated flesh in the trees through species analysis of the hair on the patches.
+
+The Foundation was alerted by local news reports, and immediately initiated cover-up procedures. The loggers' deaths were explained as resulting from a gas leak from a cave in the nearby mountains, and the mass dehydration to the protesters' drug use. SCP-1910 was catalogued and contained; the affected plant matter was isolated at the newly-designated Bio Site-1910.
+
+Footnotes
+
+1. See Test Log 1910 and Document 1910-YT12 for a summary of, and more detailed notes on, the analogies observed in testing.

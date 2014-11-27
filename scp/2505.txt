@@ -1,0 +1,5 @@
+Entry Creation Wizard
+
+For technical support, contact David Rosen, or as I'd rather prefer, don't.
+
+Note: Stop calling and telling me that the Wizard doesn't work on Android or your browser of choice. You shouldn't be accessing the database on anything other than a thoroughly scrubbed system through the standard browser, anyway.

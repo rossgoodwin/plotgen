@@ -1,0 +1,191 @@
+Recovered Item AO-1780-3
+
+Item #: SCP-1780
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1780 is contained in high-value anomalous item storage locker #0097 at Site-17. Access is permitted to personnel with Level 4 clearance at the discretion of the item’s HMCL Supervisor (currently Dr. Iliza Schrader). Experimentation with SCP-1780 and all sub-designations is suspended indefinitely. The procedure below is kept for archival and emergency purposes only.
+
+Exploration of SCP-1780-1 is restricted to D-Class personnel and robotic reconnaissance vehicles only. The entrance to SCP-1780-1 must be guarded by at least three (3) Level 3 security personnel at all times during activation. Anomalous items discovered in SCP-1780-1 are to be contained under standard E-Class protocol until such time as Special Containment Procedures are implemented, or remanded to low-value anomalous item storage as appropriate. Non-anomalous items recovered from SCP-1780-1 may be remanded to low-value item storage or destroyed at the discretion of the item’s HMCL Supervisor. One Level 3 member of Site-17 Security must manually hold the door to SCP-1780-1 open at all times while Foundation personnel or materials are inside.
+
+Should any number or type of SCP-1780-2 instances emerge, the entrance to SCP-1780-1 is to be sealed and SCP-1780 is to be deactivated immediately. Use of deadly force to contain SCP-1780-2 is authorized. Instances of SCP-1780-2 recovered during previous expeditions may be contained under standard Humanoid Containment Protocols (HCP-1).
+
+One hard copy of SCP-1780-3 is on file in high value anomalous documentation storage vault #0053. SCP-1780-3 must remain in a plastic sleeve obscuring its reverse side at all times. Personnel found reading the reverse side of document without authorization are to be terminated immediately. Further complete copies of SCP-1780-3 discovered are to be incinerated.
+
+Description: SCP-1780 is a plastic office nameplate of the style in use by the Foundation between 1990 and 2003. The item shows no special resistance to damage or age related wear, and its condition suggests that it had been buried for several decades at the time of recovery in 19██. The inscription reads “████████ █████, Ph.D / Chairperson: Temporal Anomalies Dept” followed by the Foundation emblem. No person by that name appears in the Foundation employee database, nor is there any record of a Temporal Anomalies Department.
+
+SCP-1780 remains inert unless placed into an appropriately sized nameplate mount. Upon activation, SCP-1780 manifests a standing temporospatial anomaly behind the nearest door within 3 m, designation SCP-1780-1. High-speed photography of SCP-1780-1 manifestation through windowed or glass doors has revealed the effect to be as near to instantaneous as can be measured. As such, the mechanism for this transformation is unknown. The space originally present behind this door remains accessible when approached from other entrances or via the destruction of walls; however, the door in use by SCP-1780 remains indestructible and cannot be opened from within by any means while SCP-1780 remains active.
+
+SCP-1780-1 appears to be Office CB-████, located on the █████ floor of Site-17’s Euclid objects experimentation wing1. Over subsequent observations, SCP-1780-1 has appeared to be in various states of neglect and disuse, but always contains the following items:
+
+Foundation office furniture consistent with equipment purchased during the Site-17 renovation of 1995.
+
+Several white boards containing varying volumes of text and mathematical equations (See [DOCUMENTATION INFOHAZARD EXPUNGED])
+
+A Remington model 870 12 gauge shotgun, loaded.
+
+A copy of Oxford’s Unabridged English Dictionary. Publisher’s info suggests printing date of 2███.
+
+Three (3) copies of Time Life’s Great Ages of Man: A History of the World’s Cultures, only one of which is consistent with observed history.
+
+At least one (1) instance of SCP-1780 and one (1) aluminum nameplate bracket.
+
+Testing with additional instances of SCP-1780 recovered2 has revealed that multiple instances of SCP-1780-1 can manifest simultaneously. What effect, if any, the two manifestations have on one another has yet to be determined. GPS tracking and [REDACTED] indicate that while all instances occupy the same physical location, they are separated by an unknown interval of time. Experimentation using concealed time pieces, video or audio surveillance, and robotic drones to determine the nature of this temporal displacement remains inconclusive. Successfully retrieved time pieces appear, in all cases, to have remained in SCP-1780-1 in excess of one billion (1 x 109) years, and suggest active frustration of experimental efforts. Other objects or personnel left within SCP-1780-1 after the entrance is closed are no longer present when SCP-1780-1 is reopened, and are to be considered irretrievable. SCP-1780-1 will, however, maintain a normal temporal relationship to our world-line so long as the door to the room remains open. See Addendum 1780-1 for a list of notable discovered items and documents.
+
+Approximately one in every ten (~10%) manifestations of SCP-1780-1 has contained some number of humanoid entities, designated SCP-1780-2. These entities vary in appearance and behavior but always claim to be Foundation employees. All SCP-1780-2 instances to date have claimed to be one of the following:
+
+Members of Site-17 security assigned to SCP-1780. Instances are noted to be cooperative with extant Site-17 personnel.
+
+Field agents or research doctors assigned to an unknown Foundation special project team ‘RCT-Δt’ dealing with temporal anomalies. Instances are unpredictable, and may be hostile to Site-17 personnel. Members of this ‘containment team’ have been known to self-terminate when contained.
+
+Dr. ████████ █████. This entity (SCP-1780-2a) has categorically refused to divulge information pertaining to its origin, objectives, or nature, and has successfully evaded all attempts at capture to date. The behavior of the entity seems to indicate familiarity with containment tactics for hostile humanoids.
+
+Of the ██ SCP-1780-2 entities observed, ██ have been successfully terminated, contained, or otherwise accounted for. See Addendum 1780-2 for notable incidents regarding SCP-1780-2 manifestations. No manifestation of SCP-1780-2a has ever been observed outside of experiments with SCP-1780, and further containment attempts have been deemed an unnecessary risk.
+
+SCP-1780-3 is a document periodically found within SCP-1780-1, printed on Foundation letterhead circa 1998, and ostensibly written by SCP-1780-2a. The accidental exposure of Agent B████ and subsequent testing with D-Class personnel has revealed that anomalous properties are isolated to the reverse side and require the reading and comprehension in total for anomalous properties to manifest. The principle content of SCP-1780-3 consists of a ‘welcome letter’ and orientation for an unknown Foundation special project team, ‘RCT-Δt’.
+
+When read from the beginning, the rear of SCP-1780-3 reportedly describes in detail the nature of ‘tachyon flux’ [DOCUMENTATION INFOHAZARD EXPUNGED] ‘T’ boson which controls the rate and direction of time.
+
+Personnel given excerpts from the rear of the document which do not include the ‘primer’ paragraph report all other portions as consisting of indecipherable mathematical expressions and technical jargon. These persons are not subject to the item’s effect3. To date, all personnel who have read the entirety of SCP-1780-3 have disappeared immediately, including those under constant observation. The method by which this is achieved is currently unknown. (See Addendum 1780-3 for more information)
+
+Level 4 personnel may access Document 1780-WL for a transcript of the non-anomalous portion of SCP-1780-3.
+
+Addendum 1780-1: Recovered Items
+
+These items were discovered within SCP-1780-1 upon activation and were deemed of sufficient importance to warrant retrieval and study.
+
+One (1) unidentified semiautomatic pistol chambered for 9mm Luger4.
+
+Three (3) automatic-winding wristwatches bearing the Foundation insignia which always display the correct time.
+
+The remains of two (2) humans, apparently killed by starvation. Remains were clothed in unidentified body armor bearing markings similar to that of Foundation security personnel5.
+
+Several pottery fragments and ceremonial blades marked with an unknown runic language. Blades have proven impossible to blunt or chip.
+
+Various periodical publications dated from 1900 to ████, none of which describe events which are entirely consistent with modern history.
+
+█████ (█) SCP objects, including [DATA EXPUNGED]
+
+Addendum 1780-2: Notable Incident Summaries
+
+Incident 1780-01: 08/01/1990
+
+Sergeant Michael Hadley was investigating an unknown firearm found within SCP-1780-1 when the entrance closed unexpectedly. SCP-1780-1 was found to be in a different condition when opened, and contained a single instance of SCP-1780-2. The instance surrendered immediately, self-identified as Corporal Gregory Thompson, and offered invalid but systemically consistent security credentials when prompted. Entity remanded into custody for investigation. Containment procedures were altered to require measures to prevent the unscheduled isolation of SCP-1780-1.
+
+Incident 1780-02: 24/05/1990
+
+First recorded appearance of SCP-1780-2a. The entity demanded personnel vacate SCP-1780-1 immediately and began firing upon attendant personnel, prompting the premature closing of SCP-1780-1. No projectiles were found in the experimental chamber after the conclusion of this incident. It is believed SCP-1780-2a fired upon researchers using blanks. Containment procedures were altered to require an armed security officer to be present within experimental chamber at all times.
+
+Incident 1780-07: 04/04/1997
+
+Six identical instances of SCP-1780-2 matching the description of SCP-1780-2a found within SCP-1780-1. Entities expressed confusion, refused to comply with the orders of attendant security officer, and opened fire, wounding three (3) researchers. SCP-1780-1 successfully sealed. Containment procedures were altered to require the presence of at least 3 armed security personnel.
+
+Incident 1780-09: 06/12/2003
+
+Five instances of SCP-1780-2 present upon manifestation immediately seek cover and begin dialogue with attendant security. Instances self-identify as members of RCT-Δt and request access to Site-17, citing imminent containment breach of SCP-███. SCP-1780-2 instances are all able to provide valid security credentials. One is found to be a match for Sergeant ███████ ██████, present in attendant security. SCP-1780-2 instances lower weapons and are apprehended by security. All instances self-terminate while in containment, means unknown. Sergeant ██████ was subjected to procedure [REDACTED], administered Class C amnestic and returned to active duty. SCP-███ did not breach containment and no attempt at unauthorized access has been logged.
+
+Incident 1780-12: 13/06/2006
+
+Corporal Gregory Thompson broke protocol while attempting to recover a disabled robotic drone. The wooden wedge used to maintain the entrance to SCP-1780-1 became dislodged, allowing the door to close. SCP-1780-1 was found to be in a different condition when opened, and contained a single instance of SCP-1780-2. The instance surrendered immediately, self-identified as Sergeant Michael Hadley (considered MIA 08/01/1990), and offered valid security credentials when prompted. Administrative review of past SCP-1780-2 encounters discovered Corporal Thompson in containment at Site-17. Both security personnel remain in indefinite containment due to exposure to SCP-1780 to prevent cross-contamination of SCP objects.
+
+Addendum 1780-3: Interview with Agent B████
+
+Foreword: Agent B████ was accidentally exposed to SCP-1780-3 on 22/04/1992 and was presumed dead following his disappearance. On 14/08/2006, an instance of SCP-1780-2 manifested in SCP-1780-1 and self-identified as Agent B████ and offered valid security credentials when prompted. Of particular note is that Agent B████’s appearance has not changed as would be expected after a fourteen (14) year absence. Interview conducted by Dr. Iliza Schrader, First Sergeant Donald Cohen observing.
+
+Dr. Schrader: Welcome back, ████. I’m sorry we couldn’t meet under more favorable circumstances. Says here you—
+
+Agent B████: Can we not, please?
+
+Dr. Schrader: …All right, then. From your perspective, how long have you been gone?
+
+Agent B████: Three years, twenty-one days, eight hours, forty-five minutes… give or take.
+
+Dr. Schrader: That’s awfully specific. Are you sure?
+
+Agent B████: Yes. I’m sure.
+
+Dr. Schrader: Did you calculate that somehow, or…?
+
+Agent B████: No. [Subject begins knocking on the table in rhythm. Knocks spaced precisely one second from one another. Note that no time pieces are present in the room.] I counted.
+
+Dr. Schrader: Forgive me, but I have a hard time believing that. You’ve never lost count? Not even once?
+
+Agent B████: [Subject stops knocking] I did say ‘give or take’, didn’t I? In my line of work… Look, this is exactly why I came back, okay?
+
+Dr. Schrader: Making dubious claims to your own ability to keep time doesn’t seem very—
+
+Agent B████: Stop. Just stop. I know you’re proud of your education and you’re probably a very smart lady. But listen to me: you are getting in the way of your own agenda.
+
+Dr. Schrader: How would you say we’re doing that?
+
+Agent B████: Let’s say, hypothetically, the Foundation knew of an extranormal event which would happen exactly one month from now and would claim… I don’t know, let’s say a million lives. In your opinion, would it be our job to find out how to stop it and save those people?
+
+Dr. Schrader: Of course we would. Who else?
+
+Agent B████: Right, and I agree. What I can’t figure is why that answer is so controversial when the event in question will have happened one month ago.
+
+Dr. Schrader: But if it's already happened, then we can’t do anything about it. We wouldn't be able to know about it unless we were already living out the consequences. Any other way to find out would be anomalous, which is against general protocol and the Foundation charter. Besides, there's no way of knowing that our efforts to stop it don't cause it in the first place, or that we're not being told about it by a hos—
+
+Agent B████: Okay! okay… Then let me put it this way: Let's say, hypothetically, that I know there will be an extranormal event exactly thirty-one calendar days from [subject is silent for approximately 4 seconds] …right now. That I know it will claim about one million human lives. That I know this because I came here from the future, where it will have happened already. And that I know the Foundation can stop this event if it wishes. So let me ask, just hypothetically. What are you going to do about it?
+
+Dr. Scrader: I wouldn't believe you: you're anomalous. There's no reason for me to think you're telling the truth and every reason to think you're lying to manipulate the Foundation.
+
+Agent B████: Of course… Good thing, too.
+
+Dr. Scrader: Excuse me?
+
+Agent B████: That we're speaking hypothetically, because you still can't see how you're getting in your own way. I wouldn't worry about it though. Thankfully, it's not up to you.
+
+END OF LOG
+
+Following this interview Agent B████ was remanded to permanent containment to prevent possible contamination of other SCP objects. No extranormal events of the scale described were recorded in the 90 days following this interview.
+
+Addendum 1780-4: Recovered Notes
+
+The following handwritten notes, believed to be authored by SCP-1780-2a, were recovered within SCP-1780-1. Attempts to use similar notes to communicate with SCP-1780-2a have been inconclusive. Items listed in order of recovery.
+
+140 @ 1300 on 20██/██/██ in String 036. WILL overwrite 001 through 198!
+
+LOOP THIS NOTE.
+
+You’re welcome, but that’s the last warning.
+
+False Flag! Disregard next note!
+
+False Alarm. Please disregard previous note.
+
+Unknown string sending hostiles; at least 2 of them @1953.
+
+Be ready. Loop Message.
+
+Alternate Foundation(s):
+
+Please stop taking my Welcome Letters.
+
+It is becoming increasingly difficult to approve them for printing.
+
+I have at least 20 people who still need to be reached.
+
+I’m sorry… You would have done the same.
+
+Agents █████ and ███████ @2301, Debriefing.
+
+Who keeps using the doughnut?!
+
+Alternate Foundation(s):
+
+Filing paperwork for your camera equipment is wasting my time and your resources.
+
+You will not recover them, please stop trying.
+
+Footnotes
+
+1. Analysis of Office CB-████ has yielded no evidence of anomalous activity. The office may be safely inhabited.
+
+2. Each of these additional SCP-1780 instances were melted down at the conclusion of testing. None of the resultant slag showed anomalous properties.
+
+3. This applies even to those subjects with the background in particle physics and quantum chromodynamics presumed necessary to understand the mechanisms and equations involved.
+
+4. Discovered 1989, found to be a Beretta Px4 Storm during administrative review in 2006.
+
+5. Discovered 1993, found to be the remains of Agents ████ and █████ after their disappearance following encounter with SCP-1780-2a in 2006. Remains removed from anomalous biological cold storage and buried. Agents ████ and █████ were posthumously awarded the Silver Star for meritorious service to the Foundation.

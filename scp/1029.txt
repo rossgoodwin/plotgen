@@ -1,0 +1,25 @@
+A reduced-scale reproduction of SCP-1029 not exhibiting SCP-1029's effect
+
+Item #: SCP-1029
+
+Object Class: Safe
+
+Special Containment Procedures: Three copies of SCP-1029 are currently stored on standard CD-R media in the secure sections of Foundation libraries at Sites ██, ██ and ██. Access is permitted only for authorised research into the cause of its effect.
+
+Description: SCP-1029 is a 683×1024 pixel EXIF JPEG image file with MD5 checksum bbb61a1033967e337e1c691bd1c860fe. It depicts a stalk of purple flowers of the species Hyacinthus orientalis. When displayed full-size on a computer monitor and the surface of the screen is gently rubbed with a finger (skin proximity appears to be necessary to trigger a reaction), the flower's distinctive fragrance is released in the manner of a "scratch 'n' sniff" card.
+
+Air samples taken while rubbing SCP-1029 induce the perception of the same floral scents when later sniffed by test subjects, suggesting that SCP-1029 has a definite physical, rather than purely mental, effect. Chemical analysis of air samples is in progress.
+
+For the image's unusual response to occur, pixel-for-pixel reproduction of SCP-1029 appears to be necessary, along with colour rendition capable of differentiating all the colour values present within the image. While most CRT monitors are capable of showing the effect with no specific adjustment, many low-end LCDs and most panels older than █ years have failed to yield a detectable smell. It should, however, be noted that SCP-1029's odour does not vary in strength depending on image quality; it is simply not produced at all if the image was not reproduced within certain parameters.
+
+Reducing the image's colour depth, rescaling it to a smaller size or applying any lossy image processing or editing procedure (including JPEG recompression) have been found to produce an image which does not display SCP-1029's anomalous effect. Lossless rotation by a multiple of 90°, lossless conversion to PNG or TIFF format, and cropping of up to ██ pixels off the right edge or █ pixels off any other edge of SCP-1029 have been found not to affect the image's properties. Uncorrupted digital copies of the file in any form or medium appear to retain the properties of SCP-1029; in a sense, all such copies are SCP-1029.
+
+SCP-1029 was discovered by Agent █████ on a web image gallery at URL [DATA EXPUNGED] on ██/██/████ while browsing using a touch-screen computer. Agent █████ noticed the image's reaction to being rubbed and saved a copy for further study. The full-size "original" image file (4752×3168 resolution, produced by a █████ ███ 50█ camera according to its EXIF metadata) has also been downloaded from the same site and does not seem to exhibit the same property as SCP-1029; thumbnails and other derived images on the same site are also similarly lacking in SCP-1029's effect.
+
+Researcher █████ has been tasked with attempting to discover a suitable combination of software and settings which, when applied to this full-size image, reproduce SCP-1029.
+
+Agent ███████ has been tasked with cracking into the web server, ascertaining the extent of distribution of SCP-1029, and removing SCP-1029 from public view. The file is to be replaced with a recompressed version of SCP-1029 verified not to exhibit any unusual effect; any logged accesses to SCP-1029's URL are to be traced and contained. The web site is to be monitored for any reappearance of SCP-1029.
+
+Addendum: While output from ink-jet and laser printers, even when carefully calibrated and apparently meeting SCP-1029's criteria, do not display any response to rubbing, dye sublimation prints of SCP-1029 have been found to produce fragrance with little tweaking required. It has been suggested that this is due to the dithering ("dottiness") of ink-jet and laser prints versus the continuous tone output of the dye sublimation process.
+
+Addendum: A correlation between sweat on the skin and odiferous intensity has been observed. Doctor ██████ triggered SCP-1029's effect with an unusually sweaty finger shortly after an episode of strenuous exercise in the gym; the smell was later described as "overpowering". This suggests a phenomenon in which sweat (or some component thereof) is being converted to specific odour molecules. Investigation into this process is ongoing.

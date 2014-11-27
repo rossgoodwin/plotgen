@@ -1,0 +1,119 @@
+Item #: SCP-1635
+
+Object Class: Safe
+
+Special Containment Procedures: All instances of SCP-1635 are to be stored at the Site-25 Low Security Morgue whilst inactive. Active instances should be stored in standard humanoid containment chambers and treated as appropriate for their apparent age and condition with regard to feeding and medical care. Activation of SCP-1635 instances is only permitted in test scenarios; for testing approval, contact the Site Director of Testing.
+
+Description: SCP-1635 is a collection of five humanoid entities, individually designated SCP-1635-1 through -7 (SCP-1635-2 and -4 neutralised during testing). An SCP-1635 instance is indistinguishable from the corpse of a human who has just expired from cardiac arrest: body temperature remains at human average and rigor mortis is not in effect. Instances of SCP-1635 will remain in this state indefinitely unless activated by the procedure described below.
+
+SCP-1635 instances all possess a microchip measuring 14mm x 12mm attached to the spinal cord 10mm below the skin in the nape of the neck. It is attached to the spinal column by a series of microscopic gold wires, which extend into the spinal cord and upwards into large portions of the brain. Removal of this microchip has caused permanent neutralisation of anomalous effects, despite attempts to reinsert it. It is believed that this is due to the connections made between the chip and SCP-1635 neural matter being too fine to re-establish by current Foundation methods. Testing on samples of SCP-1635 neural matter has shown that 87% of neurons within the body contain statistically significant amounts of gold.
+
+If a living human finger touches the area on the back of the neck of an SCP-1635 instance directly above the microchip, the instance will activate. No effect was observed in a microchip outside of an SCP-1635 instance, even when placed into a similar position in other humans or organisms. Repeating this process on an active instance of SCP-1635 will cause deactivation.
+
+Active instances of SCP-1635 resemble living humans, and possess similar bodily functions, although hair and nails do not grow, and no tissues have been observed to age. While they do not require any food, water, or oxygen, they will process them as expected if provided, and will show signs of psychological distress consistent with non-anomalous humans if denied these.
+
+Any physical trauma or pathogenic activity inflicted on SCP-1635 instances will heal as normal for a human whether the instance is currently active or inactive; lethal trauma will cause the instance to deactivate, or become permanently neutralised if somatic integrity is sufficiently compromised. SCP-1635 instances have demonstrated no ability to regrow missing tissue or regenerate limbs beyond that of a normal human.
+
+Active SCP-1635 instances believe that they are ordinary human beings that have been transported to their present location through means unknown to them. They are unaware of their anomalous properties, and if presented with evidence of them, will often react with surprise and distress. Each instance of SCP-1635 has a unique appearance, personality, and set of memories (see Addendum 1635-A for more details). Memories are accumulated as normal after activation, but do not persist after deactivation and subsequent reactivation.
+
+SCP-1635 instances uniformly manifest the same personality every time they are activated, although deviations have been recorded between the memories of the instances between activations. In addition, these memories frequently deviate from reality to a greater or lesser extent. For example, SCP-1635-1 will sometimes claim his side won the battle in which he fought, and other times lost; the affiliation and nature of the enemy against which he was fighting varies frequently as well. Repeated testing has shown a slight trend towards increased deviation between successive instances as the number of activations and reactivations increases.
+
+Addendum 1635-A: List of SCP-1635 Instances
+
+Designation
+
+Self Identification
+
+Description
+
+Notes
+
+SCP-1635-1
+
+Harald Erikson
+
+Male, approximately 35 years of age. Caucasian with red hair and green eyes. Notably muscled and physically strong.
+
+Communicates in Old English. Claims to have come from the aftermath of a battle in 11th Century England. Extremely uncooperative.
+
+SCP-1635-2
+
+Unknown
+
+Female, approximately 20 years of age. African appearance with black hair and brown eyes.
+
+Subject continually displays signs of severe terror, and is either unwilling or unable to communicate with personnel. Occasionally voices utterances in no known language. Neutralised following testing of limit of SCP-1635 to regenerate after trauma. Remains incinerated individually after confirmation of lack of anomalous properties.
+
+SCP-1635-3
+
+Tanaka Kaito
+
+Male, approximately 30 years of age. Japanese with black hair and brown eyes.
+
+Claims to originate in Kyoto, Japan, 1997. Capitulates to any demand made; however, use as source of information diminished by tendency to answer any question with non-committal or sycophantic answers.
+
+SCP-1635-4
+
+Unknown
+
+Male, 22 years of age. Caucasian with blonde hair and blue eyes. Androgynous and skinny in appearance.
+
+Immediately upon activation, attempts to commit suicide by any means available. Due to this, was selected as subject for experimentation with removal of microchip. Following removal, subject behaved as normal human cadaver, with rigor mortis and decay of bodily tissue as expected. Remains since incinerated.
+
+SCP-1635-5
+
+Sorcia Moon
+
+Female, 26 years of age. Caucasian with shaved hair and green eyes. Athletic appearance, many facial and bodily tattoos and piercings.
+
+Claims to originate in London, England, 1983. Extremely friendly and helpful towards all female employees; hostile and aggressive towards any male.
+
+SCP-1635-6
+
+Mo Sam Ben Jak
+
+Male, 7 years of age. Caucasian with blonde hair and blue eyes. Unremarkable in appearance.
+
+Claims to originate from [REDACTED] in the year 3109. Potential use as information source to guide future Foundation activity limited by lack of specific knowledge and suspected Autistic Spectrum Disorder.
+
+SCP-1635-7
+
+Lukas Komorowski
+
+Male, 48 years of age. Caucasian with brown hair and olive eyes. Large moustache.
+
+Unwilling to describe origins, presumed relatively contemporary Poland due to language spoken. Commanding and authoritative in tone, refusing to answer questions and instead demanding answers. When activated, malignant cancerous tumours manifest in bowel and left lung within two weeks; if untreated, these prove fatal to subject within four months. Tumours demanifest within five days of deactivation.
+
+Addendum 1635-B: Circumstances of Discovery
+
+SCP-1635-1 through -7 were discovered in wooden crates in a warehouse in Clapham, London, following the seizure of assets of ███████████ Ltd., an automotive parts company, after its liquidation. As the company has been investigated thoroughly and shows no signs of anomalous activity or any records of the crates, it is currently believed they were dumped there some time between the abandonment of the warehouse and its seizure.
+
+Police initially believed SCP-1635 to be human remains of murder victims as SCP-1635-5 appeared to match records of a missing person dating from the 1980s1 The primary anomalous effects were discovered when a coroner accidentally activated SCP-1635-1 during autopsy. Foundation agents embedded in the Metropolitan Police discovered the anomaly, and standard amnestic and disinformation tactics were successful in suppressing knowledge of the incident.
+
+Addendum 1635-C: Sample Recovered Documentation
+
+The following document was discovered inside the crate containing SCP-1635-6. Similar documents were found inside the other crates.
+
+SoulSearch PLC Returned Item Processing Form (02/39)
+
+Order No.: 1536
+
+Customer No.: CS387
+
+Return Date: 30/05/████
+
+Container Description: M/7 HUMAN Type 12
+
+Search Service Level: Bronze
+
+Reason for Return: 08C (Unwanted facet discovered)
+
+CSO Decision: Refund approved
+
+CSO Comments: Customer failed to specify sufficient SS criteria; item received with unwanted extra facets. Refund approved, but watch account for further activity. Suggest if future orders received that Diamond Service be offered as opportunity to ensure desired item is delivered 100%.
+
+Efforts to identify and locate the company named in the documentation has been so far unsuccessful.
+
+Footnotes
+
+1. Further investigation by the Foundation reveals a number of small differences, such as the exact location and content of bodily tattoos.

@@ -1,0 +1,87 @@
+Item #: SCP-491
+
+Object Class: Euclid
+
+Special Containment Procedures: A one-kilometer perimeter is to be maintained around SCP-491 at all times, for the purpose of preventing sea vessels access to the effects of SCP-491. Entrance is to be barred to all personnel with a security clearance below Level Two. Any intruders are to be questioned to ascertain their intent, then given Class-B amnestics and released no less than twenty kilometers from SCP-491.
+
+Description: SCP-491 is a lighthouse built in the early 20th century, located at ████████████ ███, Nova Scotia. The ocean floor surrounding SCP-491 contains numerous wrecked ships, which vary in time of origin, ranging from 1923 to 1987.
+
+The area within the perimeter of SCP-491 is subject to spontaneous change caused by minor (MW<3.5) earthquakes. The alterations caused to the topography of the seabed are greater than expected for earthquakes of these magnitudes. These earthquakes result in the production of large rocks or shallows in the path of an incoming vessel, inevitably sinking it.
+
+At random intervals, SCP-491's lamp will activate, producing a green light that rotates at six revolutions per minute. Any area of the surrounding sea illuminated by this light will evince several ships, identical to those present on the seafloor. These new ships retain the damage inflicted upon them, and begin to take on water, at a slower rate than non-anomalous counterparts. Displacement of water evidenced by testing has shown that these ships are physical in nature. These ships only last for a short period (t<2s), due to the rate at which SCP-491's lamp rotates.
+
+The interior of SCP-491 shows no anomalous effects, and is typical of a lighthouse built in that era. The lamp room of SCP-491 contains a Mesoradial Fresnel Lens lit by a Dalen Light. Cutting off electrical power to the lamp has no effect on the activation of SCP-491. All attempts to contain the light produced by SCP-491 have failed. The light emitted by SCP-491 is independent of the state of the lamp room; complete removal of lighting components did not prevent activation. Light emitted by SCP-491 can be influenced by sufficiently reflective surfaces, so long as the light reaches the sea. See Incident Log 491-032 for details on attempts to focus SCP-491 into a continuous loop.
+
+Addendum 491-1: An interview with the former owner of SCP-491, █████ Hanna, was discovered in the Nova Scotia Archives by Agent █████████, who submitted it to the Foundation.
+
+Foreword: The following transcript is an excerpt from a local news tribute conducted by Tyler Musuko, for █████ Hanna, the former owner of the lighthouse.
+
+<Commence Transcript>
+
+Musuko: Today indeed marks a sad day for ████████████ ███. Just recently a local hero, █████ Hanna, passed away. A former sailor in Australia, the sinking of his ship on a reef forced him into early retirement. He moved from town to town, including Cape Elizabeth, before finally finding his home here in beautiful ████████████ ███, Nova Scotia. He will always be remembered for his valiant efforts in manning the lighthouse, saving countless ships, no matter the weather or the hour, from the treacherous seas surrounding him. He gave his life last week, diving into the frigid waters to save the crew of the S.S. Kellar, endangered by the rocky seas. We will always remember his undying dedication and caring. Farewell, Mr. Hanna.
+
+Addendum 491-2: On 03/25/████, Foundation personnel sent an unmanned small ship, the S.S. Greaver, into the affected area. A large rock in the path of the S.S Greaver immediately burst out of the water, tearing a large gash along the side of the S.S. Greaver, sinking it within two minutes. During the next "Green Light" event, the S.S. Greaver manifested above the area of its wreck.
+
+Addendum 491-3: Audio Log 491-1:
+
+Foreword: Through the use of several mirrors, Foundation personnel were able to keep the light produced by SCP-491 focused at the wreckage of the S.S. Vancouver. The ship produced by SCP-491 was boarded by Foundation personnel.
+
+<Commence Audio Log 491-1>
+
+Agent Johnston: Ok, we're on board. There doesn't seem to be anything unusual about the ship, no water damage or warping. I'm no expert, but I'd say it's… 30s or 40s? Really large doors, Immigrant ship?
+
+491 Command: Our records of the S.S. Vancouver confirm that. Attempt to proceed to the interior of the ship.
+
+Agent Johnston: Roger that.
+
+Agent Gold: These doors are jammed shut. I can't budge them. We're going to try the crowbar… No, that's not working.
+
+Agent Johnston: Try the Jaws of Life.
+
+At this point, several voices can be heard from within. Only one is discernible above the sound of rushing water.
+
+Unidentified Voice: Give me that bucket!
+
+Agent Gold: We're inside th- Hold! Maintain distance.
+
+491 Command Agents, what is your status?
+
+Agent Johnston: Command, we have a potential biohazard. The hold is occupied by the former crew and passengers, by the appearance of their clothing. They're all undergoing various stages of decay, but they don't seem to be aware of it. Some of the crew are trying to repair the damage to the hull, the others are attempting to contain the passengers in the back.
+
+Unidentified Voice: Oh thank god, more help. Please, could you help us plug up these holes?
+
+Agent Johnston: The passengers have seen us, they're trying to push past the crew. One of the passengers just- Command, they've broken through, we're pulling back. Gold! Move!
+
+Unidentified Voice: What are you doing!? We have to save this ship, [EXPLETIVE REDACTED]! You, give me that pump! Get back here!
+
+There is no audible dialogue for a span of one minute, however sounds of struggle are evident.
+
+Agent Johnston: Command, I'm on deck. Agent Gold just-
+
+All audio is drowned out by a screech that lasts for approximately thirty seconds. The screech can be heard without transceivers from 491 Command, and all radio transmissions were interrupted for the duration of the sound.
+
+Along with the screech, a 6.6 MW level earthquake occurred, dislodging several mirrors focusing the light, which ceases to illuminate the S.S. Vancouver. Radio contact with Agents Johnston and Gold was lost, and they are presumed dead.
+
+Addendum 491-4: Incident Report 491-2:
+
+SCP Involved: SCP-491
+
+Personnel Involved: SCP-491 Staff, Agent Davis
+
+Date: 03/24/████
+
+Location: ████████████ ███, Nova Scotia
+
+Description:
+
+Following the incident recorded in Audio Log 491, Foundation Personnel were placed on high alert for the next "Green Light" event. Several radio devices set to different frequencies were all placed around the area, in hopes that more information would be transmitted by the lost Agents, with no results. At 02:32:47 AM, the following radio transmission was recorded at 160.3 MHz.
+
+Unidentified Voice: Scotia, this is the S.S. Vancouver. All ship repairs have been completed. We are now docking to unload passengers and luggage.
+
+A series of mirrors was quickly constructed around the light, designed to allow the beam movement across the water. The beam's operator soon found the wreckage of the S.S. Vancouver. The manifestation was observed to be mobile, although no disturbances in the water were noted. The new S.S. Vancouver was tracked as it slowly approached a dock that had not previously manifested. The ship docked without incident, the crew successfully readying the ship for departure, despite decomposition.
+
+Following the crew members was a series of passengers appearing to be of Eastern European origin, experiencing the same level of decay as the crew. Passengers were seen stopping to talk to the crew members before picking up their luggage. Although the beam produced by the mirror system was not wide enough to capture all of the passengers, a procession could be seen moving along a flat area of ground towards the mainland. Upon leaving the half kilometer radius, illumination by SCP-491 ceased to reveal any passengers.
+
+Agents Johnston and Gold were identified amongst the passengers. Both agents were observed to be wearing their excursion gear, including radios, but all attempts to communicate via radio received no response, nor did they respond to visual and audio communication attempts. Agent Davis was instructed to attempt to make physical contact with Agents Gold and Johnston and attempt to retrieve them. Agent Davis made physical contact with Agent Gold at 00:39, coinciding with an earthquake of 7.7 magnitude, which damaged the mirrors and redirected the light. All passengers immediately vanished, along with the three agents.
+
+Further rescue attempts are currently suspended, pending review.

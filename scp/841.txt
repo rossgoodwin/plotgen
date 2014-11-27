@@ -1,0 +1,27 @@
+Item #: SCP-841
+
+Object Class: Safe
+
+Containment Procedures: The 14 (fourteen) component parts of SCP-841 are to be individually wrapped in plastic, and contained in a standard inanimate-object storage locker. Except for purposes of approved experimentation, SCP-841 is not to be reassembled. Reassembly of SCP-841 is only to be performed by remote manipulators, or by D-class personnel. Except for purposes of approved experimentation, SCP-841 must never come in contact with the skin of a living human.
+
+SCP-841's twine component is not anomalous, and can be replaced as necessary; consequently, all experimentation using SCP-841 is to be concluded by using a low-level infrared laser (808 nm, 300 mW) to slice through the twine component.
+
+Description: SCP-841 is a wooden puppet crudely approximating a human being: 14 (fourteen) pieces of peeled and unworked wood from the mountain white birch (Betula cordifolia), held together with twine at the major joints (head, torso, upper arms, lower arms, hands, thighs, lower legs, and feet). SCP-841's anomalous properties activate when it is fully assembled and comes in contact with the skin of a living human being.
+
+Upon being grasped or manipulated by a human, SCP-841 will "imprint" upon the human, bending into a configuration which mirrors the human's position as closely as possible. SCP-841 and the subject will then mirror each other's movement, and any force applied to the figure while active will override the subject's own joints to continue mimicking SCP-841. The resulting feedback loop may result in serious injuries or death due to overextension or broken bones. The effect of SCP-841 diminishes quickly upon release, fading entirely in within two seconds.
+
+Test Logs
+
+Test Log A: preliminary testing of object capability
+
+T-841-A1: Seated D-class subject instructed to pick up SCP-841 from table and lift the figure’s left leg. Upon being grasped by the subject, SCP-841 bent its legs into a seated position. Startled, the subject dropped SCP-841 on the table, the impact of which splayed out the figure’s arms and legs. Subject fell out of the testing chair as the fading effect of SCP-841 caused his arms and legs to jerk.
+
+T-841-A2: D-class subject given the same instructions as test T-841-A1. While raising and lowering the figure’s left leg, the subject’s own left leg mirrored the actions precisely. Subject described an uncomfortable pressure on his left knee and hip joints.
+
+T-841-A3: D-class subject instructed to lift SCP-841’s left arm above its head. The movement of the figure’s arm cause the subject to further raise his arm, which further raised the figure’s arm, et cetera. Subject’s arm was separated from his body at the shoulder due to extreme acceleration and overextension. Subject expired of blood loss and shock at T+3 minutes.
+
+T-841-A4: D-class subject instructed to throw SCP-841 to the floor. Subject suffered a shattered right kneecap and left elbow due to extreme hyperextension, an open compound vertebral fracture, two shattered ankles, and a partially severed right leg. Autopsy revealed that the leg had been rotated more than 360 degrees in the hip socket when the corresponding segment of the figure twisted as it fell.
+
+T-841-A5: D-class subject given a pair of scissors and instructed to sever twine loops connecting the head and torso of SCP-841. Subject suffered complete decapitation and a shattered C4 vertebra. SCP-841 repaired to full functionality with a fresh piece of cotton twine.
+
+History: SCP-841 was recovered during a raid on a Marshall, Carter and Dark auction house in ██████ █████████. Accompanying provenance documentation indicates that the item (referred to as a "Reverse Mirror Voodoo Doll Stick Puppet") had been "hand-crafted" by [REDACTED] (referred to as a "high-value, frequent customer" and a "man of unmatched taste, whose talent is known to all"), and that — despite repeated reductions in the asking price — the item had gone unsold for eleven years.

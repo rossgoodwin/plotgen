@@ -1,0 +1,37 @@
+SCP-1591, being tested prior to reclassification.
+
+Item #: SCP-1591
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1591 is to be contained at Area-77, within a vacuum sealed containment vault 3 kilometers below the Area. SCP-1591 is to be placed in the center of this vault, with 30 high intensity spotlights arranged in a 1m circular pattern, above, below and around it. Once every month, the spotlights are to be replaced by D-Class personnel, due to the damage caused by SCP-1591. A 20 meter area around the containment vault is to be filled with iron-enriched water. Additional spotlights are to be kept outside the vault in case of a containment breach.
+
+Every 60 meters, photosensitive broadcasting units are to be set up above, below and around the vault to monitor for a containment breach. In the event that the receptors begin broadcasting, it is to be assumed that containment has been breached. If any photosensitive broadcasting units cease to function, surface teams are to prepare 75 high intensity spotlights, with an intensity 600,000 lx greater than SCP-1591's intensity, to cease the expansion of SCP-1591's effect. In the event that containment is breached, Overwatch is to be alerted to the possibility of an XK-Class end of the world scenario.
+
+Description: SCP-1591 is a glass sculpture in the shape of a star, surrounded by 14 sheets of stained glass. The central sculpture weighs 1.2 kilograms, with the individual panels weighing 12 kilograms each. All components of SCP-1591 are suspended approximately 6 meters above the ground through an as yet unknown mechanism. To date, efforts to affect the levitation of either the sculpture or the panels have been unsuccessful.
+
+SCP-1591 constantly produces light, which slowly increases in brightness and intensity1. When SCP-1591's light comes into contact with a solid object composed of matter, portions of the object's mass will slowly become transparent, reducing in mass until it effectively ceases to exist. Non-solid matter that makes contact with light produced by SCP-1591 will begin to rapidly decrease in temperature until it takes on a solid form. SCP-1591 is immune to its own effect.
+
+Organisms will retain consciousness and mobility while being affected by SCP-1591, although the ability to create speech will be lost. Affected organisms will usually react in a panicked manner, attempting to flee from SCP-1591's light as quickly as possible. If an affected organism ceases being exposed to SCP-1591's light, it will quickly fade and vanish. Further research of this effect has been inhibited by the continued destruction of observational equipment. SCP-1591 being exposed to lights with a greater intensity than its own will cause the rate at which its brightness increases to be reduced by 10,000lx to 50,000lx every 24 hours. The intensity of the light produced by SCP-1591 does not decrease over distance.
+
+SCP-1591 was recovered in 1940, from ███ ████, Italy, where it was in the possession of known Serpent's Hand operatives. During initial containment, SCP-1591's effect was negligible, taking over 82 hours to completely destroy a 3x4x3 meter wooden block. It was contained within Site-77's Safe containment wing.
+
+In February of 1941, Site-77 was partially damaged by Allied bombing raids. These bombs caused SCP-1591's containment to be breached resulting in most of the remaining portions of Site-77 being destroyed. After reconstruction was completed, SCP-1591 was reclassified as Euclid and contained in Site-61. Current containment procedures were established at Site-65, resulting in its classification as Keter when a second containment breach resulted in Site-65 being severely damaged and the loss of ██ personnel.
+
+Addendum: 5/19/1941: several documents relating to SCP-1591 were recovered from a location inhabited by members of the Serpent's Hand. These included photographs, diagrams and documents. One example has been included in this report.
+
+War with Elrich. We had been at peace for almost 568 years, but they had decided to declare war upon us. The verderers tried to assure us that we would be defended, safe from the King's wrath. Killed, all killed.
+
+I saw little boys strung up by their backs, snapping in half as they were wrenched up towards the stars. Women were struck down in the streets, lanced and stabbed until they begged to die. Men who fought back were blinded and made lame, then displayed proudly in shop windows.
+
+My mother was shaved, boiled and eaten by a pillaging group of warriors. It was pure decimation, far beyond what had been necessary to bring vengeance to their kingdom. When the heavens saw this, they cast their eyes away, disgusted by the Elrichian carnage.
+
+The heavens cast themselves to Earth. They could not stand to watch any longer, and soon they were falling every moment. First only on our lands, then on theirs, bringing an even worse carnage than what we had suffered. I could smell the burning from the Northern Provinces.
+
+This star is a gift to you, from heaven. In the right hands it will be a tool to bring down senselessness. But do not forget its origin. If the hatred and carnage once again reach its light, it will cast down purity, wiping it from your lands.
+
+The stars are beautiful tonight.
+
+Footnotes
+
+1. Currently 10,000,230,450 lx

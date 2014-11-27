@@ -1,0 +1,27 @@
+Item #: SCP-1885
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1885 is contained in a lead-lined concrete sleeve conforming to standards used to dispose of spent nuclear fuel rods. This sleeve is further contained in a blast safe graded as sufficient to withstand a 1 ton explosion. Every 3 months, SCP-1885 is to be removed from its sleeve in order to take samples and determine the current composition and fissile state of its core. All sampling and testing of SCP-1885 is to be performed via robot.
+
+Following Incident 1885-A, personnel who are fully edentulous are preferred to staff the facility containing SCP-1885 and all researchers assigned to SCP-1885 are to have all their teeth extracted prior to being transferred to the site. Regardless of the number of teeth they have, all personnel assigned to the facility containing SCP-1885 are required to undergo a full dental exam no less frequently than once every 3 months.
+
+Description: SCP-1885 appears to be a human 3rd molar. However, the enamel and cementum are composed of a dense ceramic-like substance with a radiation shielding capacity comparable to 3 times its thickness of lead. Efforts are underway to replicate this substance. Additionally, the dentin is composed of purified uranium-235 neptunium-237 plutonium-240 americium-241. Every 17 months1, the dentin will spontaneously be replaced by an equivalent volume of an isotope of the next element on the periodic table. The pulp has been replaced by an unknown substance which has resisted all attempts to take a sample of it. Due to radioactive interference from the dentin, it has not been possible to perform any non-invasive scans of the pulp.
+
+The ceramic forming the enamel and cementum has several holes in it, exposing the dentin and pulp, in a pattern similar to cavities caused by dental caries. Despite being exposed to the outside environment and emitting radiation consistent with normal radioactive decay, there has been no measurable decrease in the mass or volume of the dentin, aside from sampling performed by the Foundation. Samples removed from SCP-1885 act and decay identically to isotopes recovered from non-anomalous sources, and are not transformed when SCP-1885 next activates. However, any missing volume in the dentin is filled by the new element.
+
+Incident 1885-A: On 03/07/20██, Dr. ██████, a researcher assigned to SCP-1885, was diagnosed with stage III laryngeal cancer and stage IV oral/mandibular cancer. Standard medical examinations revealed that Dr. ██████'s left lower 2nd molar was emitting ionizing radiation. The tooth was extracted under hazardous materials protocols and dissected. Although the enamel was normal, the dentin and pulp had been replaced by lawrencium-262. Despite the rapid decay rate of lawrencium-2622, the contents of the tooth did not diminish or decay into lighter elements, despite emitting radiation consistent with such decay. The new tooth was tentatively designated SCP-1885-2 and contained under protocols identical to SCP-1885. After 37 months of containment, the lawrencium in SCP-1885-2 was neither replaced by a different element, nor were the removed samples refilled. SCP-1885-2 was fully hollowed out on 05/12/20██ and has remained inert since that time.
+
+Dr. ██████'s course of treatment for the cancers included extensive surgical excision of the tumors and aggressive chemotherapy. Radiation therapy was considered to be too great a risk, considering the properties of SCP-1885. However, Dr. ██████ did not survive treatment. None of his teeth extracted during the surgical excision or recovered during his autopsy have developed any anomalous properties.
+
+(The following memo was written by Dr. ██████ shortly before his death.)
+
+SCP-1885 and those working with it must be monitored regularly. I've been told that my tooth contained a radionuclide several steps further up the chain from SCP-1885's current position, and if this happens again, we must be prepared. Even at its current rate of progression, in less than 30 years, SCP-1885 will begin producing radioactive elements we have never before seen. If copies of it appear that start even higher up the chain, we won't have a great deal of time before these become dangers not just to individuals such as in my situation, but entire populations. The original tooth may have a durable shell, but what if none of the subsequent ones do? Dental enamel isn't that difficult to crack, relatively speaking, and we cannot allow someone to walk around with a miniature nuclear warhead in their mouth.
+
+Dr. ██████
+
+Footnotes
+
+1. +/- 10 days
+
+2. Lawrencium-262 has a half-life of approximately 3.6 hours

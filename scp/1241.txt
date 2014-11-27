@@ -1,0 +1,75 @@
+Item #: SCP-1241
+
+Object Class: Neutralised (formerly Safe)
+
+Special Containment Procedures: SCP-1241 is to be overridden with a localised signal produced by Transmission Stations 1241-a and 1241-b, broadcasting a pre-recorded series of television programmes. A cover story regarding the production of SCP-1241 by a local studio has been circulated in case of containment failure. In order to continually monitor the content of SCP-1241, an apparatus is to be maintained to isolate and record it. Please refer to Document 1241-B for further information.
+
+Update: As of 2011-08-09, SCP-1241 has no active containment procedures. A story describing the bankruptcy of the responsible party referenced in a previously released cover-story has been released. The area is to be continually observed for any signs which could indicate a recommencement of SCP-1241 activity.
+
+Description (prior to 2011-10-23): SCP-1241 is a television broadcast transmitted in a roughly 8 x 8 kilometer area in [REDACTED], Texas, USA; the programme manifests every week on Tuesday at 23:30, for an average of 20 minutes. Analysis of the signal has revealed it to be inconsistent with standard television frequencies, and attempted replications of the broadcast outside of the original area have failed to transmit it coherently. It is not normally possible for standard televisions to coherently play signals of SCP-1241's frequency or strength.
+
+SCP-1241 resembles a television programme of the situational comedy genre. The broadcast consists of multiple episodes1 depicting the domestic life of a middle-aged human male2 and a group of 4-8 humanoid canids, who evidently share an apartment accommodation in Los Angeles, California, US. Each episode possesses the same opening sequence (roughly thirty seconds of music with lyrics sung by an adult human female, describing the aforementioned premise) which gives a list of cast members and other individuals involved in productions, as well as giving the title of SCP-1241 as “Livin’ With Lupes”. None of the named people or the individual portraying the character of "Lad" have been successfully identified: the majority of names are associated with persons not working in an entertainment-related career. For a detailed transcription of the names and lyrics provided in said opening, please refer to Document 1241-C.
+
+The behaviour of the entities featured in SCP-1241 has inconsistently varied between typical canine and more humanoid behaviour with each episode.
+
+Summarised Document 1241-A: The following is a selection of notable examples of SCP-1241.
+
+Episode: 1, "Hemlock".
+
+Summary: The “Lad” character is introduced, shown shopping in a retail store. The character encounters “Martin Wilkinson”, one of the canid organisms. Dialogue between the two characters then ensues, during which the Lad character mentions that he is looking for a residence. The Martin character states that he is renting a room in an apartment complex, but is looking for a room-mate.
+
+Upon later accepting the offer made by “Martin” after some deliberation and arriving at the complex, the Martin character reveals that the remaining canid entities are also living in the residence. The episode ends with a close shot of "Lad" displaying shock.
+
+Additional Notes: Excerpt of dialogue between “Lad” and “Martin”.
+
+Martin: “I had a cousin who was a talking hamster.”
+
+Lad: “Oh, really? Where is he now?”
+
+Martin: “Dead. He joined the IRA and someone ate him.”
+
+Episode: 3, “Dog Eat Dog World”.
+
+Summary: Follows several attempts made by the Martin character to seek employment after resigning from an office job, as a result of a younger individual being promoted to a higher-paid position "for the third time this year.” The character subsequently briefly gains jobs in several low-skill areas including reception, a janitorial position and clerical duties in a public library. During the first fifteen minutes, the character is dismissed from each for various reasons, including repeatedly arriving late, ineptitude and consuming a live chicken in front of several children.
+
+Episode: 14, “Big Wolf Blowing Down”.
+
+Summary: Follows the main characters coping with an unnamed hurricane predicted to affect their area of residence. The latter half of the episode focuses on their behaviour while made to remain inside due to the event. Notably, the video during this period is blurred and shaky, and the majority of the dialogue does not appear to relate to the given premise (see below), instead describing a device of undisclosed function which appears to be at risk of becoming damaged.
+
+Additional Notes: Excerpt of dialogue between “Lad” and an un-named canine character (referred to here as “Unnamed”):
+
+Unnamed: "Please don’t let it break."
+
+Lad: "I won’t."
+
+Unnamed: "It’s too important to break. It’s been so nice, being able to think."
+
+Lad: "I know. I won’t let it break. I’ll fix it somehow. I promise."
+
+Unnamed: "I suppose I should just enjoy the moment before I have to go back. At least it gave me these moments. I’ll always have that."
+
+Episode: 15, untitled (the opening sequence was not present).
+
+Summary: 19 minutes and 32 seconds of footage depicting two malnourished domestic dogs (one Dalmation and one Great Dane) lying down in a cage. The episode terminated at 22:59 with little change in the animals’ activity, camera position or camera angle throughout.
+
+Incident 1241-1: On 2011-05-02, SCP-1241 failed to be detected at its regular time. SCP-1241 was not found to be active in the subsequent two weeks.
+
+A sample of the recovered materials.
+
+On 2011-05-17, a rented space in ███████████████, Canada was investigated by its landlord following a failure of the individual renting it (one ███████ ██████) to make regular payment. Due to the items discovered within the residence, follow-up enquiry was later made by Foundation personnel after the landlord attempted to contact local authorities. The contents of the locale were found to be:
+
+Four large dog crates.
+
+The remains of six dogs of various large breeds and a human subject (later identified as Mr. ██████), all showing damage consistent with roughly two weeks of decomposition and partial consumption (varying between specimens).
+
+Electronic equipment, primarily consisting of that used in recording and broadcasting, including: a Panasonic-brand video camera (non-functioning) and tripod stand, a playback video monitor (non-functioning), a Boom operator and a VHS recorder/player labelled “OUTGOING EPISODES” (non-functioning).
+
+A surviving male Weimaraner specimen, displaying signs of severe deformity and malnutrition. The subject expired within an hour of being removed from the locale despite attempted medical intervention. An autopsy carried out shortly after revealed that part of its skeleton had been replaced with bones of a distinctly humanoid structure, primarily around its jaw, skull and legs.
+
+SCP-1241 was declared Neutralised on 2011-08-09.
+
+Footnotes
+
+1. 15 at time of neutralisation.
+
+2. The name of the aforementioned man is given as “Lad”.

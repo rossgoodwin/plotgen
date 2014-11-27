@@ -1,0 +1,33 @@
+SCP-1966
+
+Item #: SCP-1966
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1966 is to be kept in a dedicated bunker 2km below ground. The bunker is to have 10m thick reinforced concrete walls with an additional 1m of radiation shielding. Location is to be at least 100km away from any major population centers or other Foundation facilities. Current location is at Site-██. Interaction with SCP-1966 is to be done remotely from a monitoring station on the surface. The monitoring station will be permanently manned by at least 5 staff of level 2 clearance or higher, and the on-site director shall be a credentialed psychologist with a level 4 clearance. No interaction with SCP-1966 shall occur without approval of the on-site director. In addition, any interaction with SCP-1966 must conform to protocol Psi-1966-A. (see addendum)
+
+Description: SCP-1966 is a █████ backscatter X-Ray device built by █████ Engineering Group in 20██. It was purchased by the American Transportation Security Administration for use in ███████ International Airport in █████████, ████. It is approximately 3m x 4m x 4m. Passive scans reveal no deviations between the internal structure of SCP-1966 and other body scanners using the same design.
+
+Since 8/26/20██, shortly after being placed in service, SCP-1966 has been emitting the sound of a male human voice. The voice emanates from resonant vibrations in the [REDACTED], and no cause for these vibrations has yet been determined. The voice will respond to speech and other sounds in the vicinity of SCP-1966, and is apparently representative of a sentient consciousness resident within SCP-1966. SCP-1966 will vocalize regardless of any connection to a power source.
+
+SCP-1966 claims to be a Mr. T████ J██████ an insurance salesman from London, Ontario. SCP-1966 claims its last memory before “going blind and unconscious” was his daughter’s fifth birthday party on 8/25/20██, 24 hours prior to SCP-1966’s first vocalization. SCP-1966 claims to currently have no sensory feedback other than hearing, pain, and a sense of vibrations. (It has shown some awareness of when it has been moved, and when attempts have been made to open the outer casing.)
+
+SCP-1966’s vocalizations have ranged from lucid and conversational, to abusive and showing high levels of stress. When SCP-1966’s vocalizations have shown distress, there appears an anomalous spike in ionizing radiation emissions from the device. (These spikes have been measured as high as █.█ Sv/hr in the case when [DATA EXPUNGED] immediate fatalities and an additional ██ deaths within the following two weeks. SCP-1966 was contained immediately after this event and [REDACTED] as a cover story to the media.)
+
+Over time, neutron emissions from these stress events have made the casing of SCP-1966 highly radioactive. The radiation emission does not appear to have an upper threshold.
+
+Protocol Psi-1966-A has been adopted to prevent these high stress events from [DATA EXPUNGED].
+
+Addendum: Protocol Psi-1966-A
+
+When communicating with SCP-1966, it will be referred to as Mr. T████ J██████.
+
+Personnel will accept without contradiction any assertion SCP-1966 makes about its memory or identity.
+
+Personnel shall never refer to the Foundation, the nature of SCP-1966, its actual location, or any details of its actual acquisition or history, or its current status.
+
+If SCP-1966 makes any reference to self-harm or expresses any suicidal ideation, the on-site director is to be notified immediately. Junior staff are not to attempt intervention on their own initiative.
+
+SCP-1966 is to be told that it is in the long term care ward of ██████████ Hospital in Toronto after suffering brain trauma in a car accident. If SCP-1966 asks to talk to its wife or child, the approved response is, “You know you can’t talk to them now.” (SCP-1966 has been told its wife and child died in the same car accident, but reiterating this may cause a stress event.)
+
+Note: Foundation agents have found a Mr. T████ J██████, a London, Ontario insurance salesman whose history up to 8/25/20██ conforms to the memories asserted by SCP-1966. After three years of surveillance and research, no anomalies have been discovered. Mr. J██████ has no recorded contact with SCP-1966, and has never been to ███████ International Airport.

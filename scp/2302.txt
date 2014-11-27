@@ -1,0 +1,85 @@
+Item #: SCP-2302
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2302 is to be stored in a standard containment safe, equipped with surge-protected audio inputs, on Site-93. As SCP-2302 is itself poses no immediate danger to Foundation personnel, containment should emphasize minimizing the damaging effects, be they physical, cultural or psychological, of FERENTES. Communications with SCP-2302-1 are to be recorded and backed up offsite in the event of SCP-2302-2 causing damage to onsite data storage facilities.
+
+In the event that an instance of SCP-2302-2 arrives onsite and a FERENTES Event commences, all personnel, save those tasked with ongoing negotiations with SCP-2302-1, will immediately ingest Class-C amnestics/anesthetic compounds and position themselves away from doors and windows. When the negotiation team has declared the all-clear and onsite threat response teams have located and disposed of the instance(s) of SCP-2302-1, offsite medical staff will move to assist the reawakening of all site staff.
+
+All personnel on Site-93 are reminded that any verbal utterance of the words "jubilation", "token", or "castration"1 in the English language or any modern dialect thereof may trigger a FERENTES Event, and should avoid using English as a spoken language except when in direct contact with SCP-2302.
+
+Description: SCP-2302 is a standard ████████-brand electronic loudspeaker, of the make and model installed on Site-93 during on site maintenance in 1998.2 SCP-2302 is able to recieve audio signals from an unknown source, and can continue broadcasting audio even when disconnected from a power source3. SCP-2302 has been confirmed to be structurally normal and non-anomalous, although disassembly of the loudspeaker has invariably triggered a response from SCP-2302-1 and FERENTES.
+
+SCP-2302-1 is an entity which claims to be in control of the communications center of an alternate-universe version of Site-93 and uses SCP-2302 to deliver messages to Foundation personnel. SCP-2302-1 has only ever communicated in American English, and does not appear to be able to understand any other language. SCP-2302-1 speaks with a General American accent, and uses grammar and a vocabulary consistent with a university-educated native English speaker. In conversation, SCP-2302-1's has been described as "pleasant" or "enthusiastic" with the exception of the replacement of key nouns and adjectives in sentences with allegorical or nonsensical alternatives spoken in a tone of voice three octaves lower. Analysis of SCP-2302's audio has revealed that this second tone is SCP-2302-1's voice, pitch-shifted and spliced into the audio feed in real time. SCP-2302-1 has refused to elaborate on the nature of its speech patterns or its word substitutions.
+
+SCP-2302-1 can be communicated with by connecting SCP-2302 to a microphone as normal. Audio input from the Foundation universe appears to be broadcast in what SCP-2302-1 claims is its universe, and vice-versa. Since initial contact on █/██/2███, SCP-2302-1 has consistently attempted to gain control of Site-93 through spurious messages purporting to be senior staff, and concurrently to negotiate what it describes as a "funtime [sic] happy game plan", or mutual friendship agreement, with the Foundation. SCP-2302-1 utilizes instances of SCP-2302-2 as bargaining tools or gifts in its ongoing attempts to gain concessions from Foundation personnel.
+
+SCP-2302-2 are objects which SCP-2302-1 is able to anomalously create or place in Site-93. SCP-2302-2 have taken a wide variety of forms, but all are characterized by a tendency to materialize just inside of interior doors and windows. The act of witnessing a materialization- codenamed FERENTES- triggers mild to severe symptoms of automatonophobia4, omphalophobia5, and social anxiety. FERENTES effects only occur if the subject is conscious while in the presence of SCP-2302-2 materialization: unconsciousness and mild amnestics have proven to be adequate countermeasures against exposure. Most instances of SCP-2302-2 have been non-anomalous and harmless, but several have proven to have deleterious effects. All instances of SCP-2302-2 recovered to date have been at least partially composed of human gastric acid. SCP-2302-1 can consciously trigger SCP-2302-2 materializations, but appears to be forced or compelled to do so when it hears one of several specific English words (See above).
+
+Addendum 1: Sample instances of SCP-2302-2:
+
+Instance #
+
+Description
+
+Other notes
+
+SCP-2302-2-46
+
+Gift-wrapped tube containing 104 3mm-thick slices of human adipose tissue in a dilute (1%) aqueous solution of human gastric acid.
+
+Genetic analysis of tissue matched that of Site-93 Administrator E████████.
+
+SCP-2302-2-172
+
+Three ceramic jars of concentrated human gastric acid, equipped with a motion-controlled aerosol dispersal system.
+
+Two Site security personnel injured by chemical burns.
+
+SCP-2302-2-290
+
+Sculpture of a wrapped 'present' composed of an unidentified compacted white powder.
+
+Chemical analysis revealed powder to be 75% pure cocaine, 0.5% hydrogen chloride, 0.5% potassium chloride, 0.5% sodium chloride6, 23.5% bacillus anthracis spores by mass.
+
+SCP-2302-2-681
+
+Decorative basket of cut Begonia grandis7, mounted atop a 30-kg base of purified weapons-grade Pu-239. Object had apparently been doused in concentrated human gastric acid before delivery.
+
+Sample disposed of. Arrival area is heavily irradiated.
+
+Addendum 2: Sample SCP-2302 Communication
+
+Following the three subsqeuent FERENTES events on ██/██/2███, and significant radiation damage to Site-93's backup generating systems, Researcher K████ opened communications with SCP-2302-1 in an attempt to minimize further materializations. Tonal shifts from SCP-2302 are marked in italics.
+
+Researcher K████: I will ask you once again, SCP-2302-1. Please refrain from delivering gifts into Site-critical areas. You have already done enough.
+
+SCP-2302-1: We are disappointed that you did not swallow your medicines. They were furious when we appointed them! All that sauce, just spilt all over!
+
+Researcher K████: The effort is appreciated, believe us. However if we are to negotiate the, uh-
+
+SCP-2302-1: Negotiate? No! Together we will inject the game plan! By the mixing of our fluids, it will be happy fun!
+
+Researcher K████: I'm sorry, mixing of the fluids? You've lost me.
+
+SCP-2302-1: We are great fans of fluids! So many splashes in your bellies! What comfort! What peacefulness! But we digress- one thousand apologies! It was a failure! No mixing or stomach rips, only speech and cooperation!
+
+Researcher K████: Very well. The Foundation accepts your apology. Can we agree to put this regrettable incident behind us? And that you will no longer send us radioactive… gifts?
+
+SCP-2302-1: Jubilation! Naturally! We would be pleased to crawl inside you! No more tokens! Of course! And when the time comes for your castration, for the emancipation… Well, I have spoken too much! Keep happily digesting! In the mean time, cheerful chats!
+
+Footnotes
+
+1. Variations on these words, such as "castrate", or similar words in other languages do not trigger this effect.
+
+2. For exact item specifications, see Foundation Standarized Equipment Manifest FSEM-39/A, 'Audio-Visual Equipment'.
+
+3. Site-93 engineering personnel have noted slight increases in power load during the activation of SCP-2302, although these load increases are not consistent with the amount of power needed to supply a ████████ loudspeaker.
+
+4. Fear of objects which resemble, but do not adequately depict the human form.
+
+5. Fear of human navels.
+
+6. Hydrochloric acid, potassium chloride and salt are the primary components of human gastric acid.
+
+7. Common Hardy Begonia.

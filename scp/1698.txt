@@ -1,0 +1,21 @@
+Item #: SCP-1698
+
+Object Class: Keter
+
+Special Containment Procedures: Local disinformation campaigns are to be maintained in all cities hosting an instance of SCP-1698, with the intent to make all local residents or governmental officials believe that the locations are abandoned, closed for renovation, or otherwise off-limits. All locations are provided with portable generators and sufficient fuel to run them for no less than 30 days, in addition to supplies to accommodate up to 20 people for the same timeframe.
+
+Any personnel or civilians trapped by an expansion event are to be offered a mercy termination.
+
+Description: SCP-1698 is a phenomenon affecting 3 buildings: a 12-story hotel in ████, ██, USA; a 2-story boarding house in ████, France; and a 5-story office building in ███ █████, Brazil. The phenomenon affects these buildings such that none of them can successfully be approached by land. Although they can be seen, all attempts to reach them by foot or land vehicle result in encountering obstacles such as intervening buildings, extensive road damage and attendant construction, gridlocked traffic, dead-ends and road closures, and thick and impassable vegetation. Of note is that it is possible to navigate to locations immediately adjacent to these buildings, but invariably some impediment will prevent anyone from actually approaching the affected buildings themselves.
+
+All 3 buildings can successfully be approached by air, and MTF Agents introduced by helicopter have discovered that there are no discernible abnormalities inside the buildings themselves, aside from the expected amount of neglect resulting from long-term lack of human presence. They further report that it is possible to exit these buildings at ground level, but as soon as they no longer have a direct view of the ground floor of the building, it again becomes impossible to locate.
+
+Researchers installed on-site have not been able to detect any spatial anomalies or perceptual hazards, and O5 command has tentatively approved the usage of these sites for long-term storage of infrequently accessed non-digital financial and administrative paperwork.
+
+SCP-1698 was discovered in August 2010 when the Intelligence Office identified multiple simultaneous online complaints from customers, employees and residents of the affected buildings, all reporting the effects of SCP-1698. The Foundation confirmed these reports and within 5 months had purchased all 3 buildings and surrounding locations via shell companies.
+
+Addendum: On 2012-04-17, the areas affected by SCP-1698 expanded, such that it is now no longer possible to locate and approach any location within 37 meters of the buildings originally affected. Additionally, 2 more affected locations were subsequently identified, centered around a small municipal park in ████████, Australia and an abandoned warehouse in █████ ███████, Spain.
+
+During the expansion event, 131 non-Foundation individuals were in the newly-affected areas, consisting of 37 pedestrians, 78 people inside buildings, and 16 individuals inside vehicles. All found themselves unable to exit the area they were in, due to an inability to approach any area that would be considered separate. I.e. individuals on roads could not access parking lot entrances, pedestrians could walk along sidewalks but not enter buildings or step off the curb, and individuals inside buildings could not utilize exterior doors. Attempts to evacuate trapped individuals by helicopter uniformly resulted in a failure of the individuals to reach the ladders due to intervening events such as sudden, extreme inclement weather or the ladders becoming entangled in trees or power lines.
+
+SCP-1698 has been upgraded to Containment Class: Keter until such time as it can be determined how to predict, prevent, mitigate or reverse SCP-1698 expansion events.

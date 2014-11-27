@@ -1,0 +1,77 @@
+SCP-1932-1
+
+Item #: SCP-1932
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1932 is temporarily contained on-site until a more permanent method of containment is found. As components of SCP-1932 do not exhibit anomalous effects when removed, even if reattached, relocation of SCP-1932 is not considered feasible at this time. Temporary containment measures consist of standard, 3 metre high, construction area fencing around the perimeter around SCP-1932. The area should be patrolled by no fewer than 3 guards at any one time, under the cover of construction workers.
+
+Due to the anomalous effects of SCP-1932, it is currently believed highly unlikely that these containment measures will fail; however, the urban location of SCP-1932 makes an off-site, permanent containment considerably more desirable.
+
+Update: As of the events of ██/██/2013, designated Incident-1932-α, all exploration of SCP-1932 is suspended. See Addendum 1932-b.
+
+Description: SCP-1932 is a set of playground equipment located in the London borough of ██████, in a small open grassy area. It consists of three main pieces, designated SCP-1932-1 through -3.
+
+SCP-1932-1 is the largest piece of equipment, and comprises two wooden towers approximately 2.5 metres in height, connected by a bridge composed of wooden slats laid across a base of iron chains. A chute 3 metres in length extends from one of the towers. SCP-1932-2 is a set of 'monkey bars': a wooden frame 5 metres in length and 1 metre in width, with regularly-spaced metal hoops for swinging along. SCP-1932-3 is a pair of wooden swings suspended from a wooden frame by rope. For a more detailed description, and photographs of all equipment, see Document-1932-5.
+
+SCP-1932's anomalous effects present themselves when any of the structures are interacted with by persons under the age of 16, who universally find the play equipment much more intimidating than it is in actuality. The perceived safety and desirability of the equipment is in direct proportion to the age of the perceiver: persons approaching the age of 16 view it with only a little suspicion, and younger children experience extreme terror when observing SCP-1932. These effects extend to moving and static images of the equipment, although with diminished effect. See Test 1932-A through -H for interview logs and test results.
+
+SCP-1932 shows signs of disrepair consistent with █ months of disuse, such as small amounts of lichen on its wooden components and rust on its metal parts, but despite this all components were proven to be in complete working order and safe for use when tested by Foundation personnel.
+
+Addendum 1932-a: Thorough investigation of material samples taken SCP-1932 have revealed that all of its surfaces present above the ground are coated in a thin layer of an unidentified substance, in patterns which suggest it is the remnants of a liquid applied to the equipment which has since dried. This substance consists primarily (82%) of urea, with the remainder taken up by a variety of unidentified biochemicals. Testing on this substance is scheduled to begin on 18/03/201█.
+
+Addendum 1932-b: Incident 1932-α
+
+Exploratory testing was authorised for ██/██/2013 using D-8413 as a test subject, supervised by Researcher Grant. D-8413 was chosen for the genetic conditions he is afflicted with, which have given him an approximated mental age of 6 years, and for his tractability and obedience. Previous testing (see Test 1932-G for details) determined that he was affected by SCP-1932's effects. D-8413 is equipped with a two-way communication headset.
+
+D-8413: Where are we going?
+
+Researcher Grant: We're going to a play park.
+
+D-8413: Can I play?
+
+Researcher Grant: There's just a couple of small things we want you to do first, and then you can play as much as you like.
+
+D-8413 is led through the perimeter and towards SCP-1932. He appears unsettled by SCP-1932 and requires a reasonable amount of convincing to climb up on to SCP-1932-1. He remarks upon the height of it, and how long it will take him to get to the top. It takes him 17 seconds to reach the first platform of SCP-1932-1.
+
+D-8413: (shouting) Wow, that took a long time! You guys are so far down! It's really cold up here!
+
+Note: ambient air temperature is 18°C.
+
+Researcher Grant: You don’t need to shout. We can hear you through the headset. Well done for climbing all the way up! I'm going to pass you up a tape measure, I want you to hold on it, and then tell me what the number says. Okay?
+
+D-8413: (still shouting) How will you get it - oh. Okay. Um… the little red number says… a '2', and then a '3', then a '8'.
+
+Researcher Grant: They're all red? Not just the 2?
+
+D-8413: They're all red.
+
+Note: this appears to indicate that the platform of SCP-1932-1 is 238 metres in height.
+
+D-8413: Can I come down now? It's really scary up here. It really smells. And there’s all this sticky greeny brown stuff.
+
+Researcher Grant: Not just yet. Can you cross over the bridge to the other platform, please?
+
+D-8413: The bridge? It's really broken. All the bits of wood are missing.
+
+Researcher Grant: It's definitely safe, D-8413. Please cross.
+
+D-8413 begins to very slowly cross the bridge. At approximately a third of the way across the bridge, he stops, and looks nervously over his shoulder.
+
+D-8413: I don't like this. I'm going to crawl. It's safer.
+
+D-8413 gets on to his hands and knees. Halfway across the bridge, he stops.
+
+D-8413: Stop shaking the bridge, you guys. It's not funny. It's scary.
+
+Researcher Grant: We are not shaking the bridge, D-8413. You are completely safe. Please continue to the other side.
+
+D-8413 does not respond, and starts rocking from side to side, making the bridge shake slightly.
+
+Researcher Grant: D-8413?
+
+D-8413 does not respond.
+
+Researcher Grant: D-8413, please respond. You may return back across the bridge, if you like.
+
+D-8413 still does not respond, and resumes rocking faster and faster, until the motion is sufficient for him to fall off the bridge on to the sandy floor beneath. His body impacts the floor with a much greater force than expected. Testing confirms that D-8413 has deceased, and cause of death is determined to be blunt force trauma consistent with a fall from over 200 metres in height.

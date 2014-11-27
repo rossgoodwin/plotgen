@@ -1,0 +1,185 @@
+Item #: SCP-2069
+
+Object Class: Safe
+
+Special Containment Procedures: All recovered instances of SCP-2069 have been stored in a re-purposed warehouse at Area-29 following the completion of mandatory biological and memetic hazard screening and quarantine procedures. Transcripts and data extracted from SCP-2069 instances are available through the Foundation research database and direct access to SCP-2069 instances may be granted with permission from at least one (1) Level 3 Senior Researcher.
+
+Description: SCP-2069 is a collection of 2,308 inert objects of presumed extradimensional origin that were discovered washed up on the shore of [REDACTED], Australia during a period of eleven months between 2000-04-08 and 2001-03-02.
+
+Mobile Task Force Sigma-8 ("Beachcombers") was mobilized and assigned to recover objects suspected to be instances of SCP-2069; the occurrence of such objects increased in regularity before suddenly dropping off at the end of February 2001. MTF Sigma-8 was eventually demobilized and disbanded on 2002-09-01, eighteen months after the last confirmed recovery of a SCP-2069 instance.
+
+A full catalog of confirmed instances of SCP-2069 is available by request from the central Area-29 database.
+
+Addendum 2069-01: Notable Instances of SCP-2069
+
+Item: SCP-2069-3 — SCP-2069-97
+
+Date Recovered: 2000-04-18 — 2000-04-21
+
+Description: Fragments from multiple autonomous tracked drones of unknown, possibly non-human manufacture. Tools attached to drones appear to indicate mining and/or construction as their primary purpose and analysis of similar components suggest that the drones were mass-produced via automated assembly. Damaged components are consistent with having received fire from small arms, explosives, and vehicle-mounted weapons.
+
+Item: SCP-2069-198 — SCP-2069-267
+
+Date Recovered: 2000-04-23 — 2000-04-25
+
+Description: Wreckage from a Sikorsky UH-60L Black Hawk helicopter. Analysis of the remains revealed indications of modifications specific to those operated by the Foundation, but serial numbers did not match those in any Foundation registry. Markings on the hull indicate that the aircraft was being operated by an organization named AEGIS. Wreckage is consistent with having crashed due to suffering a catastrophic loss of engine power. Analysis of engine housing shows evidence of high-temperature vaporization consistent with exposure to a focused, high-intensity laser weapon.
+
+Item: SCP-2069-466 — SCP-2069-508
+
+Date Recovered: 2000-05-13 — 2000-05-18
+
+Description: Fragments from multiple autonomous hybrid multiped/tracked drones of similar manufacture to SCP-2069-3 — SCP-2069-97. These instances differ in that they appear to be weaponized and feature armored hulls and high-caliber electromagnetic coilguns. Components recovered from these instances also indicate vastly different optics and sensors, focused primarily on acquiring and tracking fast-moving targets as opposed to prospecting and mining. Damage inflicted to these fragments are mostly consistent with military weapons, but a few instances have damage consistent from exposure to [REDACTED] and [REDACTED], experimental weapons developed from 1992-1997 in a joint research program between the Foundation and Global Occult Coalition.
+
+Item: SCP-2069-821 — SCP-2069-908
+
+Date Recovered: 2000-05-29 — 2000-06-02
+
+Description: Wreckage of a McDonnell Douglas F-15E Strike Eagle fighter with markings consistent with those used by Mobile Task Force Sigma-9 ("Valkyries") based in [REDACTED]; however, in place of the standard Foundation markings, the AEGIS emblem is present. Analysis of the wreckage revealed damage consistent with impacts from high-velocity coilgun rounds resulting in structural compromise of the aircraft's starboard wing.
+
+Item: SCP-2069-1112 — SCP-2069-1308
+
+Date Recovered: 2000-06-02 — 2000-06-17
+
+Description: Partial wreckage of a Nimitz-class supercarrier believed to have been the U.S.S. Abraham Lincoln (CVN-72), also commandeered by AEGIS. Analysis indicates that the vessel took multiple non-catastrophic hits from high-caliber air-launched coilgun rounds before taking a catastrophic hit to its stern from a high-intensity laser weapon.
+
+Item: SCP-2069-1403 — SCP-2069-1499
+
+Date Recovered: 2001-06-19 — 2001-06-22
+
+Description: Fragments from what appears to be large, autonomous aerial drones of non-human manufacture. Drones are powered by highly advanced engines of similar design to ramjets and are equipped with electromagnetic coilguns as well as high-powered laser turrets. Most notably, several fragments exhibit damage consistent with exposure to SCP-███ or weapons derived from the same.
+
+Item: SCP-2069-2088
+
+Date Recovered: 2001-02-27
+
+Description: Damaged remains of a Foundation-standard field-issue laptop computer. Unit is water damaged and unusable, but hard drive was recovered intact.
+
+Research Team Note: See Addendum 2069-02 for transcripts of recovered data.
+
+Item: SCP-2069-2283 — SCP-2069-2308
+
+Date Recovered: 2001-02-28 — 2001-03-02
+
+Description: Wreckage of a Boeing E-3 Sentry airborne early warning & control aircraft. Recovered data from aircraft appears to indicate that the aircraft was originally operated by the Global Occult Coalition before being re-purposed by unknown organization AEGIS. Wreckage appears to have been partially melted as a result of exposure to a high-energy event of unknown origin and power.
+
+Research Team Note: See Addendum 2069-03 for transcripts of recovered flight recorder data.
+
+Addendum 2069-02: Data Recovered from SCP-2069-2088
+
+Transcript of Recorded Video Fragment — 2000-01-02 09:01:18 US-Eastern
+
+(Unknown Female Announcer): […] from SETI have confirmed the existence of intelligent extraterrestrial life. According to the official statement, long-range telescopes detected multiple bright emissions on the morning of New Year's Day, what is now believed to be high-energy engine exhaust from a dozen large objects on the edge of our solar system. The statement indicates that these objects are traveling at tremendous speed but rapidly slowing down in a way that suggests they are trying to head straight for us.
+
+(Unknown Scientist): At this time, we believe that these are interstellar vessels of unknown origin en route to our solar system. From our observations so far, we know that there are at least a dozen of them and they are of a size and mass that would indicate that they are not any kind of deep-space probe. Our analysts are continuing to [indecipherable]
+
+[end of transcript]
+
+Transcript of Recorded Video Fragment — 2000-02-03 17:48:01 US-Eastern
+
+(Unknown Male Announcer): […] despite having been a month since the announcement, there is still no word from official government sources on what plans exist in case the extraterrestrial visitors turn out to be hostile. New data released by SETI and NASA indicate that these objects were originally traveling at a speed close to twenty percent the speed of light, a rate that would imply tremendous technological power and capability. According to these calculations, with the deceleration rate of the ships, they could be in Earth orbit within another six weeks.
+
+Meanwhile, civil unrest continues to erupt around the world, with the newest reports coming in from [indecipherable]
+
+[end of transcript]
+
+Transcript of Recorded Video Fragment — 2000-02-04 05:11:33 US-Eastern
+
+(Unknown Female Announcer): […] breaking news, we have… yes, we have just confirmed that there has indeed been some kind of massive explosion or impact event on the eastern seaboard at approximately five AM this morning. Conflicting reports are still pouring in, but we are hearing from the U. S. Geological Survey that this was centered somewhere near New York City… we are unable to reach anyone near the affected area…
+
+(video begins shaking, screaming is heard before video cuts to a technical difficulties overlay)
+
+(dead air for approximately 37 minutes)
+
+(Unknown Female Announcer): We… we have just received report of another event near Maryland… we are getting panicked reports from across the east coast of a massive earthquake and a huge cloud of what appears to be smoke… from the direction of Washington… oh, my God…
+
+[end of transcript]
+
+Transcript of Recorded Video Fragment — 2000-02-04 18:22:19 GMT (Translated from Russian)
+
+(Unknown Male Announcer): […] of over a dozen impacts over the last eight hours across the United States and Pacific rim, all centered on major population centers… we have lost contact with all of our sources in America at this time… there are reports of mass rioting and panic in the streets as people are fleeing cities as quickly as they can… there have been no reports from military officials…
+
+(pause)
+
+We have just been told that Tokyo has just been hit…
+
+[end of transcript]
+
+Transcript of Recorded Audio Fragment — 2000-02-05 02:53:52 GMT
+
+(Unknown Male Announcer): […] a second impact in Germany… at this time, we are no longer receiving any signals from any areas east of Zurich… here in London there is anarchy in the streets… we will continue transmitting as long as we can…
+
+(static)
+
+(Unknown Male Announcer): […] just felt a massive tremor, which we can only imagine to be very close now, perhaps Paris… this is BBC World Service, signing off. Godspeed.
+
+[end of transcript]
+
+Recovered Document
+
+February 27, 2001
+
+I can't sleep, so fuck it, I'm typing this out because I have nothing better to do. If by some miracle we survive the night, maybe someday some kid or something will want to read this. If we don't, then I guess it doesn't matter.
+
+Where to start? The fuckers hit us first, and they hit us hard. Apparently they'd launched the relativistic kill vehicles before they started slowing down. It just so happened that their engine emissions were so bright that they blinded our telescopes to the slugs, which were probably painted black and super-cooled anyways. They staggered the slugs so that they hit over the course of about sixteen hours, which was just long enough for the planet to turn and present all of our cities right at them. By the time we noticed them coming, it was already too late; before we could warn anyone, New York was already a ninety-megaton crater.
+
+I think they were targeting people, just trying to wipe out as many of us as they could. Maybe they didn't have enough rounds or mass, or maybe they didn't quite get how we work. Either way, it's the only way we managed to get our shit together, because most of our major sites and a couple of other bases like NORAD managed to stay in one piece. Of course, that wasn't much consolation at the time with half the human population dead or dying.
+
+With most of the civilian governments wiped out or crippled, the only big players left were us and the Coalition. We put out as many fires as we could, then put our heads together and decided the only way any of us were going to get through this was if we joined forces and took over as much of the worldwide military that was left. With only about two months left before the ships got to Earth, we didn't have much time to scrounge together a defense.
+
+But we did, and we stockpiled as many weapons as we could in the meantime. We hid in holes as the aliens drew into orbit, and we waited. Maybe they didn't account for our tenacity to live, or maybe they just expected us to turn on each other long before we'd ever manage to unite to fight a bigger threat. Either way, they didn't bother to wipe us out from orbit before they started landing. Of the dozen or so ships that they brought, they landed half of them in Australia — probably the least devastated landmass — and began to set up shop.
+
+That's when we struck back.
+
+We fired over half of our nuclear arsenal at them, all at once. Almost none of them got through; most of them were shot down by lasers and bullets and god knows what else before they got to their targets, but that was just a distraction anyways. The warheads we had hidden on our satellites vaporized or crippled their ships in orbit while their guns were busy tracking missiles, taking away their high ground. Then we launched every ship, plane, and tank we had at the rest of their grounded ships.
+
+It almost worked. We wiped out thousands of the things only to discover that they were all drones. Someone once told me that it was impossible to send humans to the stars because you'd never be able to carry enough food and water for a thousand-year journey and your body would never survive being frozen for that long. The only way we'd ever reach another solar system is if we sent nothing but eggs and embryos and let robots raise our kids when they got there.
+
+We'd managed to hit two of their bases and wiped out most of their worker drones when the shit really hit the fan. The robots in charge must have realized that we were a much bigger threat than they'd anticipated, and they started building real war machines out of materials pulled from our own planet. Overnight, we went from fighting bugs and crawlers to spider tanks and gunships.
+
+We fought well. We all fought damned well, but we always knew that the aliens were far more advanced than we were and they were playing hardball now. We started taking serious casualties and our air support started running out of missiles and bombs. The brass decided to start using experimental tech and stuff we'd adapted from weaponized skips, but the more resources and reserves we pulled up, the more specialized their drones got at killing us in return. Every day, we lose good men, but the machines just recycle their parts and come back just as strong.
+
+Sometime around Thanksgiving, the machines managed to jam our comms; the egg-heads fixed them as quickly as they could, but by the time we pulled our shit out of the fire, Mike and I were the only ones left out of our original squad. By the time Christmas rolled around, we'd been reinforced, but… well, some of the replacements you can barely tell were once human. We managed to break through around the time the new year rolled around and take down another one of their grounded ships, but that's when their aerial hunter-killers started showing up and we had to retreat once more.
+
+We're going to push with everything we have left tomorrow. We've never been more desperate; there's rumblings and rumors among the officers that the brass have something really big planned, but I don't even want to know any more, not after I saw what they did to José and Tom after the first time they died. I know we have to win, that there will be nothing left if we fail, but at what cost?
+
+— PFC Evan Winters, Mobile Task Force Omega-23
+
+Addendum 2069-03: Data Recovered from SCP-2069-2287 (E-3 Sentry Flight Recorder)
+
+[begin transcript]
+
+[static]
+
+(over radio): [indecipherable] I repeat, all [indecipherable] fall back to minimum safe distance.
+
+(over radio): Transports are clear. All remaining aircraft, break off!
+
+(over radio): NOVA detonation in thirty seconds.
+
+(over radio): Reaper Three-Three is hit… we can't hold them!
+
+(over radio): [indecipherable], hit your burners [indecipherable]
+
+(Co-Pilot): We're taking fire!
+
+(over radio): NOVA in twenty seconds.
+
+(over radio): Reaper Three-One is hit, we're —
+
+(Co-Pilot): Engines three and four are out!
+
+(sounds of mechanical failure, screaming from crew)
+
+(Pilot): I'm losing her…
+
+(over radio): NOVA in ten… nine…
+
+(Pilot): Mayday mayday mayday. Oracle Two is going down, I repeat, Oracle Two is going down.
+
+(over radio): … five… four…
+
+(Pilot): It's been an honor, gentlemen.
+
+(over radio): … two… one… NOVA deto — [static]
+
+[end of transcript]

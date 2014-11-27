@@ -1,0 +1,71 @@
+Item #: SCP-190
+
+Object Class: Euclid
+
+Forenote: For definition within this file only, an "adult" is defined as a human being of thirteen years or older. Conversely, a "child" is defined as a human being younger than thirteen.
+
+Special Containment Procedures: Despite the seemingly innocuous nature of SCP-190, extreme measures must be taken to ensure it is not opened by a child. Due to SCP-190's apparent immobility (see Appendix #190-A for more information), a containment facility has been erected around its location in ██████ ████████, disguised as a small corporate office building. SCP-190 is located in the center of this construct, under permanent security vigilance.
+
+Should SCP-190 ever be opened by a child under thirteen years of age, security protocol SCP-190-P/1 dictates that the child be immediately neutralized, either through the use of deadly force or (preferably) a sedative. If the child retrieves any object from within SCP-190 that makes neutralization improbable or impossible, protocol SCP-190-P/2 orders the remote detonation of the facility via four explosive charges attached to the building's foundations.
+
+Description: SCP-190 is a small, ornately carved wooden box, of dimensions 50 centimeters wide by 70 centimeters long by 35 centimeters deep (50 cm x 70 cm x 35 cm). The carvings on the top and sides of the box depict a parade of exotic animals, including lions, elephants, tigers, and panthers. There is nothing special about the engraved animal figures, save for the level of detail achieved. Each beast appears remarkably realistic, and several personnel assigned to surveillance duty have claimed to see them move [Note: see Appendix #190-B for Dr. █████████'s personal notes on these phenomena].
+
+When opened by an adult, SCP-190 contains:
+
+Fourteen (14) marbles of assorted size and color (SCP-190-1 through SCP-190-14)
+
+Two (2) sticks of lightly used blackboard chalk (SCP-190-15 and SCP-190-16)
+
+One (1) deck of playing cards (SCP-190-17)
+
+None of these items appear abnormal, and testing has revealed that they are, in fact, commonplace.
+
+SCP-190's unique behavior only manifests when it is opened by a child; upon opening SCP-190, the child appears to be granted any toy he or she wishes. These "toys" may range from manifestations of invisible companions to a simple rubber ball, but the potential for danger is quite apparent (see TR#190.1.04). SCP-190 is extremely dangerous, not because of its lethality, but rather its potential for chaos.
+
+Timeline:
+
+01.23.1915 - Dr. █████████ investigates reports of unusual activity in ██████ ████████.
+
+01.25.1915 - Dr. █████████ discovers SCP-190; Extraction Squad Theta dispatched to recover SCP-190.
+
+01.29.1915 - After several days of unsuccessful attempts to extradite SCP-190, 05-level Administrator clearance is given to construct containment facility.
+
+01.31.1915 - Construction of CF-190 begins.
+
+02.14.1915 - Dr. █████████ begins examination of SCP-190 and discovers SCP-190-1 through SCP-190-17 (see Appendix 190-B for Dr. █████████'s personal examination notation).
+
+03.01.1915 - CF-190 assumes "Fully Operational" status. Extensive testing of SCP-190 initiated.
+
+03.04.1915 - First child subject (henceforth, SCP-190-CAS01) opens SCP-190, creating SCP-190-18.
+
+03.05.1915 - SCP-190-CAS02 exposed to SCP-190 resulting in [DATA EXPUNGED].
+
+03.08.1915 - SCP-190-CAS03 opens SCP-190; personnel casualties include [DATA EXPUNGED] SCP-190-CAS03 eliminated.
+
+03.09.1915 - Administrator 057-GAMMA (codename: Wrath) suspends testing with child subjects.
+
+09.17.19██ - 057-GAMMA orders testing to be resumed.
+
+09.18.19██ - [DATA EXPUNGED] nineteen (19) casualties.
+
+09.18.19██ - 057-GAMMA permanently terminates testing.
+
+Test Reports — Personal Notations of Dr. █████████
+
+TR#190.1.01 [03.04.1915] — "My son ██████ has expressed an interest in opening SCP-190, and I, having previously classified it as "Safe", was granted permission to allow him to do so (under experimental settings, of course). To my great astonishment, when he reached within "The Toybox" as I have come to name it, he produced a small red rubber ball—SCP-190-18. He giggled in delight and set off to play with his new "toy". Further analysis detected massive quantities of anomalous ion radiation, suggesting supernatural properties. Further investigation to come."
+
+TR#190.1.02 [03.05.1915] — "My daughter, ███, upon seeing ██████'s new toy, demanded to look inside SCP-190. Reluctantly, I agreed. [DATA EXPUNGED] kill my own daughter!"
+
+TR#190.1.03 [03.06.1915] — "…begged 057-GAMMA to suspend testing on child subjects after ███'s horrendous [DATA EXPUNGED]… but to no avail! Alas, I am to test on a new subject, ████████, and observe and record the results… [ILLEGIBLE] …same way as ███; we were forced to dispatch ████████ after his "toy" tore through fifteen armed personnel before it was finally eradicated. I have sent in a formal resignation to 057-GAMMA, also requesting the termination of the SCP-190 Experimental Testing Project."
+
+TR#190.1.04 [09.17.19██] — "Received a letter of reinstatement today from 057-GAMMA, ordering the testing of five new subjects. At once. This is madness! Who knows what whimsical fancy or creature that demon toybox could spawn?! I have sent ██████ away with his father, and I can only pray that I survive this maniacal experiment.
+
+Appendices
+
+#190-A: On the intractability of SCP-190
+
+"SCP-190 appears to be immovable by any human being over the age of 13. Our most intense efforts could not budge what a mere child could pick up. However, given the risk associated with SCP-190, it is ill-advised to have a young child relocate it. As such, I formally request a containment facility to be built on-location in ██████ ████████ to further facilitate investigation of SCP-190." — Dr. █████████
+
+#190-B: On the apparent movement of SCP-190's carvings
+
+"Today I observed a strange phenomenon. I was glancing back and forth between SCP-190 and some reference documents, trying to determine of what origin it was, when a faint trace of movement caught my eye. The engraved animals on the front of SCP-190 appeared to be moving, but only in my peripheral vision! Upon further investigation, I discovered that the animals did, indeed, change physical position within the two-dimensional confines of SCP-190. While fascinating, this phenomenon seemed to have no relevance to SCP-190's true purpose, other than as a mere parlor trick, to entertain babes and fools."

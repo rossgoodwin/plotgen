@@ -1,0 +1,51 @@
+Close-up of lit section of SCP-310 when removed from containment
+
+Item #: SCP-310
+
+Object Class: Safe
+
+Special Containment Procedures: When not used in experimentation, SCP-310 is to be kept in a 0.3 m x 0.3 m x 0.3 m sealed vacuum case composed of flame retardant material. The research chamber surrounding the vacuum case shall be similarly flame retardant and be kept saturated with carbon dioxide, nitrogen, or other fire extinguishing agent when testing is not taking place. Standard Foundation protocols to prevent unauthorized access should be kept in place.
+
+No flammable or semi-flammable substances are permitted within the research chamber, except small quantities for research purposes. Authorization is required for testing on live or otherwise self-propelling test subjects. Chamber is to be kept sealed during testing and emergency vacuum system is to remain active. All personnel are forbidden to wear loose clothing when in chamber. Long hair must be kept tied up. Flame retardant suits are recommended.
+
+Memo #310-AA: For the last time, loose clothing includes ties! Regardless of the normal dress code encouraged on site we want to avoid any more cases like Dr. F██████. No item should be worn that might allow accidental contact with SCP-310. — Dr. Jon Drake
+
+Any object which contacts SCP-310 is to remain in the chamber until fully consumed. Any item or clothing contacting SCP-310 is to be removed as expeditiously as possible while preventing further contact. Any limb or extremity contacting SCP-310 is to be removed immediately. Surgical tools including bone saws are to be kept on hand for this eventuality as well as bolt cutters and power saws in case time factors prevent a more controlled amputation from being performed. Any Class D personnel contacting SCP-310 are to be immediately terminated. If exposure of SCP-310 to Class D personnel is part of test procedure, it is recommended that the test subject is restrained prior to exposure to prevent further accidental contact.
+
+The research chamber is to remain sealed until all objects exposed to SCP-310 are fully consumed. Therefore it is recommended to limit size of test subjects to prevent lengthy lockdowns of research chamber.
+
+Description: SCP-310 is a 157 mm tall white candle, composed of apparently standard tallow. SCP-310 is an unmarked 33 mm diameter cylinder with tapered tip, out of which emerges 7 mm of wick. When not immersed in an oxygen-free medium, the wick produces a steady 24 mm tall flame. This flame can be extinguished through most conventional means: removal of oxygen, immersion in non-flammable fluid, application of sudden intense airflow. However, on the removal of the inhibiting factor, the flame immediately reappears, behaving much like a standard "trick candle".
+
+Only a small amount of tallow is liquefied at the base of the wick, and is not consumed by the flame. Even during the longest duration removed from containment (██ days from ██-██-████ to ██-██-████ as a result of the events of [DATA EXPUNGED]), at no time during those weeks was the tallow level nor the overall height of SCP-310 observed to decrease.
+
+Other than its interaction with the flame of SCP-310, the tallow itself is not unusual in any respect. (Tallow removed from SCP-310 is designated SCP-310-01 and is classified Safe.) It is easily cut and as malleable as would be expected. It also melts and burns as normal when exposed to ordinary flame. Any tallow removed from SCP-310 is slowly replaced by unknown means. If SCP-310 is cut short, tallow will grow from the lit section until the original 157 mm height and unblemished appearance is restored. In one experiment, SCP-310 was placed in a heat chamber, melting the entire volume of tallow so only the wick remained. The flame remained lit even without fuel and gradually exuded tallow until its original state was restored.
+
+Burnt severed hand of SCP-310 victim, Agent P████. Initial accidental contact with SCP-310 occurred at the left mid-forearm, requiring limb to be amputated below the elbow. After hospitalization Agent P████ was able to resume his duties, although understandably is no longer a field operative.
+
+Any flammable or semi-flammable substance which comes into contact with SCP-310 becomes ignited with a slow spreading fire. Unlike the flame of SCP-310, this fire cannot be extinguished by any known means other than exhausting its fuel supply. Experiments have shown that the fire will continue to burn even:
+
+In a vacuum
+
+Under water
+
+In a nitrogen-saturated environment
+
+Under intense airflow
+
+In a refrigerated environment
+
+Encased in a fire-retardant covering
+
+or any combination of the above. Only total consumption of all flammable material in contact with the flames will result in them becoming extinguished. (Any object ignited by SCP-310 are designated SCP-310-02 and are classified Euclid until fully consumed, whereupon they revert to Safe classification.) Therefore in the case of accidental ignition, especially of personnel, separating the lit section from the rest of object as soon as possible is the only way to preserve the rest of the exposed object.
+
+SCP-310-02 objects are also capable of spreading to other flammable or semi-flammable objects, resulting in further SCP-310-02 type objects. The implications of such possibility for chain reaction are worrisome.
+
+Test have shown that bodily contact with SCP-310 is similar to normal immolation — that is, highly painful and damaging. Damage is somewhat more extensive than that of normal flames, probably due to inability to extinguish and the unusually slow rate of spread of SCP-310-02. No unusual psychic or memetic properties have been observed.
+
+Burnt remains of test subject SCP-310-09: Personnel D-492. Initial contact with SCP-310 on right foot while D-492 was restrained. Flames spread upwards towards torso over 63 minutes, whereupon D-492 deliberately cross-contacted SCP-310-02 from upper thigh to head via right hand. Subject expired after a further 17 minutes. Subject was fully consumed 173 minutes after initial contact.
+
+The means by which SCP-310-02 objects are able to continue burning despite all efforts to extinguish is unknown. It is also unknown why SCP-310 itself is so easy to extinguish, albeit temporarily.
+
+Recovery: SCP-310 was recovered from the charred remains of █████-██-█████, a hamlet outside of █████, UK. The isolated nature of the site is probably responsible for the containment of the resulting blaze, which fire fighters had battled unsuccessfully for 8 hours before abandoning the buildings to the flames. In the subsequent investigation, 7 people expired, either through contact with SCP-310 or cross-contact with earlier victims. The event drew Foundation attention and SCP-310 was recovered without incident, due to precautions taken by Agent T██ based on existing evidence.
+
+A further investigation of the site revealed that it was being used as a [DATA EXPUNGED]. The involvement of that organization may go some way to explaining why SCP-310 was located where it was, what it had been used for, and what it started the blaze that led to its recovery by the Foundation. However, the question of SCP-310's origin is still open.

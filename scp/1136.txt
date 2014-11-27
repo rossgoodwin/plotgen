@@ -1,0 +1,35 @@
+SCP-1136-01, photographed shortly before containment
+
+Item #: SCP-1136
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1136 specimens are contained in separate 1m x 1m x 0.5m terrariums secured within an isolated, soundproof chamber at Site ██. All fixtures within SCP-1136's containment room must be bolted down or otherwise secured against shifting during a localized directional event. Experimentation with SCP-1136 requires prior permission from at least two (2) Level 3 Senior Researchers, and personnel within SCP-1136's containment area must wear magnetized boots or otherwise be secured against possible shifting.
+
+Description: SCP-1136 appears to be a species of small lizard similar to Hemidactylus frenatus (common house gecko) and is physically indistinguishable other than its anomalous property. When specimens of SCP-1136 are startled or frightened, they cause gravity within a radius of approximately 7 to 8 m to align itself with its orientation, without affecting the specimen itself. This occurs instantaneously and without any measurable change in the physiology of SCP-1136 other than that which is normal for a surprise response in normal Hemidactylus specimens. This effect continues as long as SCP-1136 remains frightened, and the direction of the gravity shift will continuously change to match its current orientation.
+
+SCP-1136-01 was discovered on ██/█/198█ following anomalous reports at a local hospital in [REDACTED], wherein several children were admitted with minor injuries and limb fractures after reportedly chasing a gecko up the wall of their classroom. Class A amnestics were administered to all affected civilians, and several SCP-1136-01 specimens were located in and retrieved from the school.
+
+Addendum 1136-01: Incident Log 1136-012
+
+On ██/██/██, Dr. █████ accidentally dropped a clipboard while within SCP-1136-01's enclosure, startling it and causing it to run up the wall of its terrarium. During the subsequent gravity shift, Dr. █████ was thrown against a nearby wall, which further startled SCP-1136-01 and resulted in a cyclical gravity shift that continued for several minutes. Dr. █████ was finally removed and treated for multiple bone fractures and a severe concussion.
+
+Addendum 1136-02: Experiment Log 1136-021
+
+SCP-1136-01 was successfully bred with a normal male Hemidactylus frenatus on █/██/██, and its offspring were determined to exhibit the same anomalous property as the original. These specimens have been designated SCP-1136-02 (male) and SCP-1136-03 through SCP-1136-06 (female).
+
+Addendum 1136-03: Incident Log 1136-019
+
+SCP-1136-01 was found dead in its containment area on ██/█/██, apparently of natural causes. Dissection of the dead specimen showed no abnormalities or unusual structures.
+
+Addendum 1136-04: Incident Log 1136-026
+
+Permission was granted by Site Command on █/█/██ to perform a vivisection on SCP-1136-04. Upon incising into the specimen's abdomen, [DATA EXPUNGED] believed to be a short-lived gravitational singularity which caused catastrophic damage to the experiment site.
+
+Addendum 1136-05: Researcher Note
+
+Following an increasing number of anomalous incidents reported in the [REDACTED] region, it is currently believed that there is a standing wild population of SCP-1136 specimens. A Foundation containment team has been assigned to the area, but due to the small size of SCP-1136 and its similarity to mundane Hemidactylus specimens, complete containment of all wild specimens is expected to be extremely difficult if at all possible.
+
+Dr. █████████
+
+Senior Researcher

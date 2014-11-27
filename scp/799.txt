@@ -1,0 +1,25 @@
+A wild instance of SCP-799 in filter-feeding form
+
+Item #: SCP-799
+
+Object Class: Euclid
+
+Special Containment Procedures: Each specimen of SCP-799 is to be kept in a separate bio-containment cell at Bio-Site-66. 100 g of dry brine shrimp is to be sprinkled over each object monthly; if this is not available, 500 g of household dust will suffice. It has been determined that Bio-Site-66’s maintenance staff remove significantly more than the necessary quantity of dust from the D-class dorms monthly. This dust is to be collected in the usual dustpan bags and delivered as necessary. No more than 500 g per specimen is necessary or advised. Should any "throw pillows" or similar objects appear, they are to be placed in separate containment immediately and the presiding researcher notified.
+
+The objects are not to be removed from containment except as authorized for testing.
+
+Description: Members of SCP-799 vary in size, shape, and superficial appearance, but always retain the appearance of a knit or woven item of bedding made from an unfamiliar but very soft natural fiber (resembling high-quality merino wool blend but identified as [DATA EXPUNGED]). An individual's mass ranges from approximately 0.5 to 6 kg and does not change except through ingestion and excretion, so any immediate increase in area comes at the expense of thickness and fabric "weight". The blanket retains heat unusually well. Its coloration and markings are highly variable; it tends strongly towards pastel hues and patterns resembling stylized neotenous animals, particularly when its mass is less than about 2 kg.
+
+The items are living organisms, most similar in physiology and structure to [DATA EXPUNGED] although alternate hypotheses suggest fungal origins (full notes may be found in Document 799-1a). Although well-insulated, they are apparently cold-blooded, hence their adaptation for use by intelligent homeotherms. Instances of SCP-799 are usually torpid and incapable of movement, requiring little nutrition: what they do need, they draw from the organic detritus present in household dust. One specimen is believed to have survived for years on end stored in a damp, ill-maintained attic, living on heat from the house below and detritus from the wooden rafters above. Excretion is minimal; excreta resemble tiny, very dry [DATA EXPUNGED].
+
+If forced to survive for long periods without sufficient nutrition, though, SCP-799 is capable of metamorphosing into a predatory form. The resultant structural changes are invisible to the casual observer. They consist of modifications to the digestive tract and feeding orifices; the latter shift from minute, dispersed filter-feeding mouths into a single large mouth, lined with [DATA EXPUNGED]. The organism also develops contractile tissue similar to animal muscle. Once this metamorphosis is complete, the SCP-799 individual waits for a large animal to wrap up in it and become quiescent (sleep is common) before opening its mouth, tearing off a few kilograms of biomass, and consuming it. The biomass is apparently reduced to thin slurry almost immediately, as even seconds after feeding there is no visible bulge in the blanket. The mouth is completely resorbed ten minutes after feeding; at this point, no evidence of the blanket’s nature is available except by X-ray or by observing the sudden increase in mass. By forty minutes after feeding, the entire carnivorous digestive system is resorbed and the organism returned to filter-feeding phase.
+
+In carnivorous phase, the organism will not feed on inanimate objects or cold-blooded animals. Dr. ██████ hypothesizes that its senses are entirely limited to touch and heat, and that it does not recognize cooler objects as organic.
+
+SCP-799 reproduces by budding. When an individual's mass reaches a certain minimum (very slowly except in case of carnivory), it takes on a more "quilt-like" appearance. Gradually, over the course of several weeks, the "quilt squares" along one margin puff up and slough off to become several small doilies or throw pillows. The offspring are clones of the individual, identical to it in every way, and will grow to a similar size and reproduce in turn given suitable conditions.
+
+The first of the Foundation's captive SCP-799 population (██ individuals at time of writing) was retrieved on █/██/████ from ███████, ██████, where it had been residing in the home of notorious germophobe [DATA REDACTED], after it metamorphosed and apparently fed on his infant granddaughter. A standard biological sweep revealed the blanket’s nature, and it was taken into containment without resistance.
+
+It is not known how many instances of SCP-799 exist outside Foundation containment, as they are very difficult to detect except by genetic testing. Extrapolation of growth rates and reproductive weights from the specimens in containment suggests that a filter-feeding SCP-799 organism reproduces once every fifty to sixty years.
+
+Note: Any wild blankets should be destroyed upon detection. This species is fascinating, but we have a large population in containment and the wild ones pose too much risk of public exposure. –Dr. ████

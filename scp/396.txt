@@ -1,0 +1,23 @@
+Original location of SCP-396
+
+Item #: SCP-396
+
+Object Class: Safe
+
+Special Containment Procedures: Few safety procedures have been applied to the containment of SCP-396, due to both its benign nature and the current lack of understanding regarding an effective way to contain SCP-396 beyond the current methods. As of ██-█-████, all personnel of Level 2 clearance or higher are permitted to utilize SCP-396 and its properties for a maximum of 25 minutes at a time. Failure to observe this limit will result in usage privileges being revoked. Until further understanding of SCP-396's limits has been acquired, all Class D personnel are expressly forbidden access to SCP-396 due to security concerns.
+
+Description: SCP-396 appears to be an ordinary chair of unremarkable make and design, its frame constructed of terrestrial materials such as consumer grade plastic and steel alloys. Two foam-based pads are affixed to the seat and back of the frame, covered in a rough red fabric. All attempts to discern the make, model, or manufacturer related to SCP-396 have failed, yet most observers have reported a feeling of familiarity when first viewing it.
+
+What is of actual interest is SCP-396's ability to displace itself and another chair, repeating this behavior at a consistent interval. Where the original chair is moved to is unknown at the time, but once SCP-396 departs, it reappears exactly as it had been before its displacement. Any living matter in contact with SCP-396 as it teleports is teleported as well. The approximate limits of this teleportation are as follows:
+
+Maximum Range of Displacement: 2.5km
+
+Average Interval: 32 minutes, 45 seconds
+
+Maximum Transferrable Mass: ~3000kg
+
+Since the reclassification of SCP-396 as Safe, it has become a familiar and welcome sight amongst the personnel of Site 19. Staff who have taken advantage of SCP-396 report it to be "incredibly comfortable", far more than its appearance would suggest. Each person describes SCP-396 as their personal preference, with over 103 different descriptions given to date. What has been less comfortable is SCP-396's tendency to displace its user with no warning, leading to more than a bit of confusion since its arrival at Site 19.
+
+SCP-396 was originally discovered in a theater in ██████, ██████████ which Agent ████████ had been a regular patron of. Due to the large number of chairs in the establishment, it had been contained there for quite a long time, and it was only once Agent ████████ found his seat replaced by SCP-396, and subsequently discovered himself in the parking lot during the middle of Act 1. SCP-396 was collected and transported to Site 19 after several frustrated attempts due to its fickle nature. Shortly after, SCP-396 was classified Safe.
+
+Addendum 396-A: After an incident where SCP-396 displaced a chair which had been used by Class D personnel during testing of SCP-173. When Personnel D-345 looked down to notice that his chair had been replaced, Personnel D-367 closed his eyes in a yawn. Immediately, SCP-173 rushed towards D-345, which seemingly prompted SCP-396 to displace before the interval time had been reached, carrying both D-345, and D-388(who had his hand on the back of SCP-396's frame) across the facility. D-367, left alone, died before additional staff could be alerted. However, this has led me to conclude that SCP-396 might react to imminent danger for its user. I'll be requesting additional testing for SCP-396. -Dr. Kondraki

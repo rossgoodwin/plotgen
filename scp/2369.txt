@@ -1,0 +1,31 @@
+Item #: SCP-2369
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2369 and both neighboring residences have been purchased by the Foundation for the purpose of on-site containment. All unauthorized individuals attempting to enter the premises are to be detained, questioned, and administered a Class A amnestic if deemed necessary by on-site security personnel.
+
+Experimentation with SCP-2369 may only be performed with Class D personnel and with prior permission from at least one (1) Level 4 Regional Site Director.
+
+Description: SCP-2369 is a split-level 3-bed/2-bath residential home located in a suburban neighborhood in [REDACTED], Iowa. The interior is decorated and furnished in a French country style, and contains all amenities expected of a fully furnished home ready for occupancy. Investigation has been unable to determine when SCP-2369 was constructed and by whom it was built; neighbors living adjacent to the property were unable to recall any information regarding its construction when questioned, and city records regarding the residence were found to be missing or corrupt.
+
+When at least two living human subjects are present inside SCP-2369 and both the front and back doors are closed, SCP-2369 will emit a blinding flash of light from within and all subjects will disappear without trace. Furthermore, the interior of SCP-2369 will reset to its initial state, and all removed or damaged furnishings will be restored. Any extraneous objects or furnishings introduced into SCP-2369 will likewise be missing. SCP-2369 will only activate when at least one male and one female subject are present, and to date, no individual involved in an activation event has been found. Experimentation utilizing Class D personnel fitted with GPS tracking devices has not been successful.
+
+SCP-2369 was discovered following reports of a missing family in [REDACTED]. Concerned neighbors notified local law enforcement, and responding police officers forced entry and discovered the house to be in a pristine state with no trace of the family's belongings before accidentally closing the front door. The Foundation was notified shortly thereafter, and a Foundation containment team secured the area, administered Class A amnestics to all witnesses, and implemented a cover story.
+
+Addendum 2369-1: Incident Report
+
+On ████-██-██, two individuals later identified as Mr. James [REDACTED] and Mrs. Valerie [REDACTED], a couple with extensive criminal records involving armed robbery and murder, forced entry into SCP-2369 in a burglary attempt. Having been identified as armed and highly dangerous fugitives, on-site security personnel were ordered to not intervene and await backup from a tactical response team from Site-██. As a result, SCP-2369 was activated.
+
+Approximately four hours later, another flash of light was detected from within SCP-2369. On-site personnel investigated and discovered the presence of Mr. and Mrs. [REDACTED], along with the tools they had used to force entry into SCP-2369, various personal belongings, and two disassembled handguns. Mrs. [REDACTED] was discovered in an incoherent and manic state near the back door and required tranquilizers to subdue. Mr. [REDACTED] was discovered comatose but alive in the living room, with a length of unidentified plastic wrapped around his neck. Upon removal of the plastic by responding medical personnel, Mr. [REDACTED]'s head detached from his body and all life signs ceased. The plastic was later determined to be chemically consistent with ordinary pressure-sensitive document tape and did not exhibit any anomalous properties.
+
+A thorough search of SCP-2369 also turned up what appeared to be a handwritten note left on the living room table:
+
+To whom it may concern:
+
+Your product turned out to be extremely violent and completely unsuitable for children. I am frankly appalled; were I not a more watchful mother, it could easily have resulted in bodily harm.
+
+I am requesting an immediate and full refund.
+
+Sincerely,
+
+[DATA EXPUNGED]

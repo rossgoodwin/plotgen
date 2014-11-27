@@ -1,0 +1,45 @@
+SCP-307
+
+Item #: SCP-307
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-307 is to be kept within a 0.5 meter square stainless steel planter, within a hydroponic growth chamber equipped with remotely operated light and sprinkler. The sides of the planter are to be equipped with retractable circular blades, the controls to which must be located outside the containment cell and manned at all times. The hydroponic chamber is to be kept within a 5 m x 5 m x 3 m room with stainless steel walls, floor, and ceiling. There are to be no windows in the room - all light will come from the hydroponic grow light, and any observation of SCP-307 is to be done over a security camera. The temperature of the room is to be kept at 15°C to discourage seed production.
+
+If entry to SCP-307's room is necessary, it is to be done by remotely operated robots. Absolutely no living humans are to enter SCP-307's containment cell, following Incident 307 (see Addendum 2).
+
+If any specimens of SCP-307 are discovered outside the containment cell, they are to be burned immediately until only ashes remain. Any personnel who touches SCP-307 must also be burned.
+
+Description: SCP-307 is a creeping vine, similar in appearance to the common English ivy (Hedera helix), save for the presence of greenish thorns on the stems, and the tendency of the leaves to exhibit a purple hue. The vine puts down roots approximately every 30.5 cm (12 in). The roots can penetrate any porous material, but not metal. Any part of the plant not connected to a root system is to be considered dead and safe to examine up close.
+
+SCP-307 appears to be carnivorous, and seems to exhibit some degree of intelligence (see Document 307-A). When in the presence of a warm-blooded animal (hereafter referred to as "the victim"), it grows at a startlingly rapid rate in the direction of the animal, often growing three vines at a time in what appears to be a flanking maneuver. Upon contact, SCP-307 appears to paralyze the victim, and then liquefy and drain all internal organs, musculature, and blood. The mechanisms by which it does this are presently unknown; they have, however, led to researchers calling it "spider ivy".
+
+SCP-307 was first discovered by Agent "Apocalemur" in ████████, ████, where he witnessed it rapidly growing up the trunk of a tree and consuming a nest of American robins. Further examination has revealed the prevalence of the plant throughout North America. It has shown itself to be highly resistant to any attempts at poisoning. This has included all commercially available herbicides, exposure to allelopathic plants, and formaldehyde. Except for the sample obtained for study, the plant has been burned wherever it has been encountered - however, it is very likely that numerous specimens still exist outside of Foundation control. SCP-307 is only kept alive in the hopes of engineering a biological agent to use on the wild population.
+
+Document #307-A: Experiment logs
+
+Experiment 1: █/██/████. Tray of mealworms introduced to cell.
+
+Result: SCP showed no signs of movement.
+
+Experiment 2: █/██/████. Chilean rose-hair tarantula introduced.
+
+Result: SCP showed no signs of movement. Did not respond when tarantula climbed onto SCP.
+
+Experiment 3: █/██/████. Live mouse introduced to cell.
+
+Result: SCP immediately began to grow in the direction of the mouse. One vine extended directly towards it, while two more grew around and in front of it, effectively surrounding the mouse. Mouse immediately became rigid and stopped moving upon contact with SCP-307. Behavior continued for 26 seconds before mouse fell on its side, obviously dead. Vines outside the planter were severed, allowing D-class personnel to collect mouse. Upon retrieval, mouse was noted to appear to be lacking any anatomic structure beside skin and bones. Mouse was taken for further examination.
+
+When mouse was dissected, researchers noted a complete absence of blood, internal organs, and musculature. All interior structures were instead replaced with a system of roots, which researchers traced back to the mouse's skull. A single seed was found inside the mouse's otherwise empty brain cavity. Mouse was subsequently burned.
+
+Experiment 4: █/██/████. Jar containing 130 aphids introduced. Additional camera added for closeup viewing.
+
+Result: Aphids proceeded to attach themselves to SCP-307 and feed. SCP-307 did not respond in any visible manner. All aphids were dead within five (5) minutes of first feeding. Potential for use as insecticide noted.
+
+Addendum 1: Notes of interest taken by Agent Apocalemur during observation of SCP-307
+
+…The energy necessary to facilitate such a rapid growth rate would be astronomical, yet SCP-307 seems able to "pursue" prey regardless of available light or time since it last fed…
+
+…The behavior exhibited by SCP-307 during Incident 307 would suggest the presence of some kind of botanical muscle. Examination of severed vines has revealed no structure that could conceivably serve this purpose…
+
+Addendum 2: In light of Incident 307, SCP-307 has been upgraded to Keter class. Appropriate adjustments to containment protocol have been made. See Incident Report 307 for more details.

@@ -1,0 +1,141 @@
+SCP-726 reconstituting bovine sample
+
+Item #: SCP-726
+
+Object Class: Euclid
+
+Special Containment Procedures: A single pair of human SCP-726 samples are to be contained at Site-17 in a padded cell for their own safety, cleaned of any waste matter at 24-hour intervals. A diet of mixed vegetable slurry is adequate for their nutritional needs. A jar of smooth peanut butter may be provided to pacify subjects during cleaning and examinations. On a quarterly basis, subjects shall be provided a pair of mixed sex cadavers, and terminated after successful reproduction. Absolutely no other animal tissues of any kind are permitted in the enclosure at any time.
+
+Description: SCP-726 are physiologically and genetically identical to the eggs and larvae of Lucilia sericata, a species of blowfly common worldwide in warm climates. When larvae hatch on decomposing animal matter, they begin to consume nonliving tissues as normal until none remain, at which point they collect at a central point and begin to regurgitate a continuous stream of healthy, living cellular matter, and will multiply in number by unknown means as volume increases. If uninterrupted, SCP-726 will "reconstruct" a complete body matching that of the original tissue source. The reconstruction process occurs at high speed, resembling footage of maggot activity in reverse, and ends with the full restoration of life functions as all larvae abruptly drop off and appear to disintegrate.
+
+While otherwise restored to optimum physical health, any organism reconstituted by SCP-726 exhibits only the mental processes of a mature blowfly. Instances instinctively follow the wafting odors of decaying organic materials and attempt to consume them via licking and sucking actions. Instances of all species move clumsily and periodically spasm in an apparent attempt to beat nonexistent insect wings, with avian and chiropteran examples failing to achieve flight by their usual means. Proximity to any source of decaying flesh will excite subjects into mating behavior, coupling without regard to original species. Any mechanically successful copulation will produce a fertile clutch of SCP-726 eggs, which reconstructed females attempt to deposit on any appropriate food source.
+
+SCP-726 has proven capable of replicating a complete body from any volume of flesh regardless of its condition, including multiple copies of the same body from disconnected fragments. Reconstructed bodies that have subsequently expired can be reconstituted again by SCP-726 like any other tissue sample, but are subject to an increasing degradation of accuracy (see attached Generation Log).
+
+Discovery: On August 16th, 19██ a Mrs. Faber of Beckley, West Virginia, was discovered nude in a dumpster behind a local ██████ ████, engaging in [REDACTED] with a large male [REDACTED] and subsequently hospitalized for acute dementia. Over the following weeks, locals reported outbreaks of abnormal animal behavior, including large numbers of domestic cattle, swine, and poultry inconsistent with local livestock. Foundation operatives deduced the reproductive habits of SCP-726 and discovered animals reconstituting from meat scraps in the dumpster where Mrs. Faber had been found. During containment sweeps, ██ identical instances of Mrs. Faber were found wandering the woods near her property. Under interrogation, Mr. Faber admitted to the murder and dismemberment of his wife.
+
+Test Log: 8/17: Dr. ██████ SCP-726 Generation Log
+
+I've decided to begin by testing the limits of repeated replication. A single SCP-726 egg will be introduced per sample. Due to their rapid multiplication, maggot volume does not affect their speed of operation, only the size of the organism to be reconstructed.
+
+Sample: one (1) freshly killed Norwegian rat, cut in half lengthwise.
+
+Result: SCP-726 reconstituted two versions of the same rat, their coat patterns mirror images of one another.
+
+Sample: remains of duplicate rats from previous experiment, processed into a fine paste and mixed.
+
+Result: SCP-726 separated sample into two portions and reconstructed nearly the same two copies, one with a red right eye.
+
+Sample: remains of least divergent duplicate rat, processed into fine paste.
+
+Result: rat reconstituted with slight limp, blind in both eyes.
+
+Sample: heart from blind rat.
+
+Result: reconstituted without eyes or pigmentation. Squeaks incessantly.
+
+Sample: heart from eyeless rat, cut in half.
+
+Result: two eyeless rats. One only walks in tight circles, other completely devoid of hair and unusually aggressive towards the first.
+
+Note: The insect behavior appears to be degrading with the physiology.
+
+Sample: scrap of flesh from hairless rat.
+
+Result: eyeless, hairless and limbless. Fails to return fully to life. Braincase found to contain a liver.
+
+Sample: liver from "brainless" rat.
+
+Result: eyeless, hairless and limbless with elongated "worm-like" midsection, nodules scattered throughout body appear to be incomplete eyes. Drastic increase in aggression, eventually begins to consume its own posterior end and expires from blood loss.
+
+Sample: fresh, complete remains from previous rat.
+
+Result: large, formless mass of tissues and viscera, trembles until extinguished.
+
+Sample: portion of previous result.
+
+Result: large, slug-like, motile mass of undifferentiated cells. Appears to absorb nutrients through skin.
+
+Sample: portion of previous result.
+
+Result: identical to previous test.
+
+Note: This continued for four additional tests with no divergence. I've decided to keep the final "slug" for long-term observation. I'm calling him Brundle.
+
+Sample: single scrap of dried flesh from cadaver dated ███ B.C.
+
+Result: reconstituted middle-aged male exhibiting expected fly behavior.
+
+Note: This could be an interesting new forensics tool.
+
+Sample: one (1) fingertip from D-class subject.
+
+Result: subject reconstituted and exhibited expected fly behavior. Standard range of identification tests were compared to public and foundation records. DNA a precise match, dentition and fingerprints reversed.
+
+Sample: ocular orb taken from previous D-class subject.
+
+Result: subject reconstituted with normal dentition, entirely foreign fingerprints.
+
+Note: There appears to be a slight margin of error even from original samples.
+
+Sample: one (1) living D-class with large infected gash on ankle, SCP-726 applied to wound.
+
+Result: dead tissues were consumed and reconstruction proceeded until wound was healed. Subject appeared healthy until behavior deteriorated over the course of █ hours. Subject displayed all properties associated with SCP-726 constructs and subsequently terminated.
+
+Note: I guess we can rule out any medical applications.
+
+Sample: porterhouse steak.
+
+Result: mature steer, normal except for dipteran behavior and appetites. Subject slaughtered, porterhouse steaks served to D-class control group. Subsequent examinations unremarkable until [DATA EXPUNGED] consistent with known Calliphoridae. Subjects terminated.
+
+Note: A marginally greater biohazard than we thought. Suggesting closer observation of original site.
+
+Sample: porterhouse steak.
+
+Result: same as above. Cuts variously subjected to a variety of chemical and thermal sterilization methods including radioactive bombardment. Served to D-class individuals in a variety of dishes. Results identical to previous test.
+
+Note: I think we have established that anomalous maggots are not a viable alternative to ranching.
+
+Sample: fine paste of ███ assorted insects and arachnids.
+
+Result: ██████ reconstructed arthropods behaving as flies. All females produced SCP-726 eggs.
+
+Note: This likely wouldn't happen in the wild; dead insects are neither meaty nor malodorous enough to attract blowflies. It takes a substantial quantity decomposing under moist conditions to reproduce the same breeding environment as a vertebrate corpse.
+
+Sample: fine paste of ███ normal adult blowflies matching the species of SCP-726 larvae.
+
+Result: single, abnormally huge fly. Quickly expired.
+
+Note: That was unexpected. Too bad about the square cube law, I'd have loved to observe it further.
+
+Sample: one (1) fillet of salmon.
+
+Result: one (1) mature, male salmon. Convulsed violently as though "drowning" when placed in water. Flopped haphazardly when removed from liquid but did not display stress as it asphyxiated.
+
+Sample: one (1) fried calamari ring.
+
+Result: one (1) adult male squid, immediately placed in pool of water. Writhed helplessly until removed from liquid. Dragged itself crudely with tentacles, actively consumed fecal matter and decomposing flesh. SCP-726 properties in sperm sample.
+
+Sample: one (1) fast food cheeseburger purchased from █████ drive through.
+
+Result: SCP-726 reconstituted two mature cattle and ██ Norwegian rats.
+
+Sample: one (1) can of commercially available "potted meat food product." Analysis showed beef and pork derivatives, high fructose corn syrup and 12 FDA-approved preservative agents.
+
+Result: [DATA EXPUNGED]
+
+Note: What the ███ were those even remotely supposed to be?
+
+Sample: single corpse from previous experiment, ground into paste.
+
+Result: [REDACTED] exhibiting extreme hostility to moving objects. All termination attempts failed. Specimen frozen.
+
+Note: I liquefied it and it kept moving.
+
+Sample: thawed sample of previous result.
+
+Result: [REDACTED] exhibiting properties similar to SCP-███. Incinerated.
+
+Note: I'm not taking these tests any further. I might even put Brundle down.
+
+Addendum: Testing of SCP-726 has been discontinued following Dr. ██████'s recent findings. The samples at Site-17 should be closely monitored for any inconsistent behavior or abnormal growth.

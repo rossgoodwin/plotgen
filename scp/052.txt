@@ -1,0 +1,55 @@
+SCP-052
+
+Item #: SCP-052
+
+Object Class: Euclid
+
+Special Containment Procedures: Although it is not possible to remove SCP-052 from the New York City subway system, its predictable behavior allows The Foundation to prevent the public from encountering it. The 59th St. A/B/C/D Station is to be closed to the public from 11pm-1am on Saturdays/Sundays under the pretext of “track maintenance.” During that time, the station is to be staffed with agents from Mobile Task Force Gamma-6. Agents have been ordered to prevent accidental public access to the station, and to capture anyone seen leaving SCP-052. Anyone who has been on SCP-052 must be transported to Site-21 for debriefing and processing. Members of the public who see SCP-052 may be released after the administration of a Class B amnestic.
+
+Description: SCP-052 is a type R4 New York City subway train. Official records indicate this train was built in 1932 and decommissioned for scrap in 1975. Nevertheless, it continues to appear on the Uptown A/D track at the 59th St. and 8th Avenue station at 11:57 p.m. every Saturday. The train is in perfect condition and labeled as an “A” train. SCP-052 appears at the designated time, opens its doors to accept/discharge passengers for approximately five minutes, then closes its doors and disappears. It does not appear to ever contain passengers, except for those leaving the train during its appearance.
+
+The majority of subjects that have boarded SCP-052 have not been recovered. Passengers leaving SCP-052 claim to have boarded on various dates, from 1976, up to 2204; the latter claims he thought SCP-052 was a 300th Anniversary Special train. Subjects retain no knowledge of time on board.
+
+Addendum: Passengers leaving SCP-052 must be brought to Site-21 and interrogated to determine their origin and possible threat to the current timestream. Generally, passengers from the past may be given Class A amnestics and reintegrated into society. Passengers from the future must be held indefinitely (see order 69-A1 from O5-9). Site-21 currently holds 26 recovered passengers.
+
+Despite our protocols to prevent public access, we are still receiving subjects from the future. Although some are from alternate timelines, it is possible SCP-052 will begin to appear at another time/place, requiring expanded containment.
+
+The Foundation has placed several subjects onto the train, in an attempt to understand its activities when not visible.
+
+Test 052-1: May 31, 2009. Agent ████ placed on train. Not recovered as of present date.
+
+Test 052-2: June 6, 2009. Agent ████████ enters train. Not recovered, as he apparently returned to 1980 and was killed in a confrontation with [REDACTED].
+
+Test 052-3: See notes on recovered passenger 052-4.
+
+After Test 052-3, O5 Command issued orders that no further agents should be risked as passengers on SCP-052. Consideration has been given to using Class D Personnel in their place, but the risk of releasing them into the past is too great.
+
+Log of Recovered Passengers in Foundation Custody
+
+Passenger 052-1: Entered train July 14, 2012; recovered: March 8, 2008.
+
+Notes: An accountant on the way home from the theatre when she entered the train, 052-1 has expressed surprise and dismay to have traveled back in time four years, but appears to be otherwise unchanged and unharmed. She has been determined to currently exist in this timeline and must be held indefinitely to prevent unwanted temporal effects.
+
+Passenger 052-2: Entered train June 12, 1976; recovered: March 15, 2008.
+
+Notes: Subject entered train when lost on the way to “Studio 54”. Although unharmed and not a temporal threat, 052-2 is being held as the examining psychiatrist believes 32 years is too long a period over which to facilitate successful reintegration.
+
+Passenger 052-3: Entered train December 6, 2014; recovered June 20, 2009.
+
+Notes: A tourist from Jacksonville, Florida; subject 052-3 now speaks Albanian instead of English. Held due to O5 orders re: subjects from the future, as well as possible reintegration difficulties.
+
+Passenger 052-4: Entered train June 13, 2009; recovered June 27, 2009.
+
+Notes: Agent ███████ from Test 052-3. Agent returned with his hands surgically removed and a note in his pocket with the message “Send no more.” Subject does not remember his experience on the train, but when subjected to hypnosis, revealed [DATA EXPUNGED].
+
+Passenger 052-5: Agent ████. Entered train at unknown future date, in violation of protocol. On July 11, 2009, body of subject was violently thrown from the train, landing 10 meters away. On examination, subject was found to have been [DATA EXPUNGED]. Whether security should be increased to prevent subject from entering SCP-052 is under consideration.
+
+Passenger 052-6: █████ ████████ claims to be a Level 4 Supervisor from the “SCP Federation” who entered the train in December 2124. Subject had been administered a Class A-Prime amnestic prior to boarding, in a successful attempt to avoid the fate of Passengers 052-4 and 052-5. Recovered Feb. 6, 2010. As he will never be released from Foundation custody, O5 Command has approved sharing otherwise classified information about other artifacts in our possession, in hopes of gaining new methods of containment, and becoming aware of future security breaches. Agent ████████ has been cooperative, and claims:
+
+— That it is good we do not know how to open SCP-699. Subject turned visibly pale and refused to discuss this item further.
+
+— To be a survivor of the “Great Zombie Plague of 2092” caused by an SCP-008 containment breach.
+
+— That SCP-███ can be killed by [DATA EXPUNGED] with a [DATA EXPUNGED] and SCP-███. [Permission to try this has been denied by O5-█.]
+
+— That he worked for Dr. Jack Bright.

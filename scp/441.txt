@@ -1,0 +1,77 @@
+SCP-441
+
+Item #: SCP-441
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-441 is currently housed in a designated outdoor pasture at Bio-Research Area 32. The 100 m2 field is surrounded on all sides and bisected into two rectangular halves by a concrete wall 1 m high.
+
+Once a month, a team of six D-class personnel is to lead SCP-441 from whichever half of the pasture it is currently residing in through the gate in the dividing wall into the other half of the pasture. The previously occupied section of the field is then to be thoroughly cleaned. The field must be carefully examined for any instances of SCP-441-1, which are to be dug out at the root and incinerated. Fresh sod must be sown in places where SCP-441 has grazed or where SCP-441-1 has been removed.
+
+All personnel dealing with SCP-441 are to remain in proximity of less than twenty meters for no longer than thirty (30) minutes. Any personnel showing any health problems whatsoever after contact with SCP-441 are to be examined by medical staff and reassigned.
+
+Description: SCP-441 is an adult male Jacob Ram. Prolonged proximity to SCP-441 leads to a depressed immune system in humans. After approximately thirty minutes of exposure, D-class test subjects showed markedly decreased white blood cell counts. After an exposure of an hour or more, subjects display symptoms of severe immune deficiency. After ninety minutes or more, the immune systems of subjects generally do not recover, and death results from massive infection.
+
+Laboratory analysis of a tissue sample retrieved from SCP-441 revealed a clear viscous mixture of interstitial fluids and blood not unlike arthropod hemolymph. Cell structure is identical to mammalian cells but lacks a nucleus or apparent genetic material. It should be noted that SCP-441 now reacts with aggression towards any personnel wearing a standard issue Foundation lab-coat.
+
+Patches of ground where SCP-441 has grazed begin to exhibit growth of SCP-441-1 after several days. SCP-441-1 resembles common pasture grasses (Poa, Festuca, and Lolium spp.), but exhibits black pigmentation. SCP-441-1 tends not to grow beyond small patches, but appears to have a slightly higher growth rate in the shadowy areas around the concrete containment wall.
+
+Similarly to the tissue sample of SCP-441, analysis of SCP-441-1 has revealed a cellulose-walled cell structure identical to terrestrial plants but lacking in a nucleus or genetic material.
+
+SCP-441 shows little interest in humans, but will make eye contact with any staff members entering its vicinity. Following a routine monthly cleaning, SCP-441 showed a marked and stubborn interest in D-1570, a schizophrenic. On duty staff recognized this change in behavior and convinced D-1570 to participate in experiment 441-1 (see below).
+
+Experiment Log 441-1:
+
+D-1570 spent a two day period living in containment with SCP-441, his official role assigned as “Keeper.” His duties were to groom, feed, and clean up after SCP-441. D-1570 was observed developing an extreme physical and emotional attachment to SCP-441. Surveillance tapes show D-1570 sometimes speaking to SCP-441, and other times sitting cross-legged on the ground in front of it silently for extended periods of time. Frequent medical examinations showed that D-1570’s immune system was degrading rapidly, and the subject perished 43 hours after first exposure. Refer to select transcripts below of an interview conducted with D-1570 shortly before his death.
+
+Excerpts from an audio log of Interview 441-1-a:
+
+<Begin Log>
+
+[14:52]
+
+Interviewer: Please explain your relationship with SCP-441.
+
+D-1570: You mean █████████.
+
+Interviewer: What? Please repeat your answer.
+
+D-1570: █████████. It’s what he calls himself.
+
+Interviewer: May I remind you, these interviews are intended to be conducted with the utmost seriousness.
+
+D-1570: I’m completely serious. (Begins coughing violently)
+
+Interviewer: So you claim SCP-441 is sentient?
+
+D-1570: Yes. He’s been waiting for someone like me, you see (D-1570 is unresponsive for several seconds). He tells me things. Such things…..He’s waiting.
+
+Interviewer: Waiting for what?
+
+D-1570: Doctor, have you ever felt detached from your own body? As if you were still there, still inhabiting your person, but there was this thick wall of cotton between your mind and your body? Like you witnessed every action your body took three or four seconds after it happened?
+
+(D-1570 ceases to respond to questioning at this point)
+
+[15:03]
+
+Interviewer: Have you obtained any further understanding of SCP-441-1?
+
+D-1570: Oh, the black grass? It reminds him of home. (D-1570 begins coughing)
+
+Interviewer: Are you aware of the effect exposure to SCP-441 has on your health?
+
+D-1570: Yes.
+
+Interviewer: And you have no qualms with it?
+
+D-1570: He….he said it was the only way. (Coughing)
+
+Interviewer: Please clarify that statement.
+
+D-1570: Would you like to see what he’s done? (At this point, D-1570 begins lifting his shirt)
+
+Interviewer: Oh God. Shit. [DATA EXPUNGED] (Screaming over microphone) We need a medic in here!
+
+<End Log>
+
+Closing Statement: D-1570 died shortly after Interview 441-1-a from complications relating to acute pneumonia and ██████████████████. It should also be noted that SCP-441 has never been recorded or witnessed making vocalizations of any sort.

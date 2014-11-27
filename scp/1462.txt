@@ -1,0 +1,61 @@
+Models of altered and original chlorophyll molecules
+
+Item #: SCP-1462
+
+Object Class: Keter
+
+Special Containment Procedures: Level A hazmat gear is mandatory for interaction with SCP-1462. The Foundation's role in containment is largely preventative- in the case of containment failure, implanted agents are to convince civilian leadership of the importance of maintaining respiratory protection. Civilians seen unprotected are to be taken into custody and processed for signs of infection. Cover stories for individuals "lost in the blaze" are in place with all major media outlets.
+
+Regular sweeps for signs of SCP-1462 infection are to be performed near known SCP-1462 active sites. Trees infected with the fungal vector for SCP-1462 are to be removed and mulched. Other infected specimens are to be removed and destroyed. All remains of infected specimens are to be disposed of via biohazard incinerator and bleached before disposal. While spores of the fungal vector have proven flame-resistant and are capable of surviving incineration, bleached ashes require no special handling.
+
+Description: SCP-1462 is a strain of airborne virus transmitted via fungal spores. The fungus is dangerous only to trees, but spores can infect both plants and animals with the virus. This virus causes the host organism's natural fluids to be replaced with petroleum analogues.1
+
+Fungus bearing infection of SCP-1462
+
+In animals, this conversion results in widespread chronic cutaneous and hepatic porphyria symptoms2 concluding with massive organ failure and death. Afterwards, all non-skeletal body mass converts into petroleum during decomposition. Despite a 100% fatality rate, standard antiviral precautions are successful in preventing infection from one individual to another.
+
+In plants, infection increases photosynthetic efficiency, as the black pigment shift allows for more complete light absorption, and alteration of the stomata, resulting initially in improved heat release and increased intake of CO2. However, each infected plant also releases trace amounts of a pheromone during CO2 intake. Sufficient saturation3 causes the immediate closure of stomata and subsequent inability to release heat in all infected trees. This reaction is unique to trees and is notably absent in any other instance of infection. Standing theory suggests that the virus was engineered for use on non-tree plants, and its deleterious effect on animals and trees are side effects4.
+
+Infected trees inevitably ignite and set fire to surrounding infected flora. Liquefied remains of fauna ensure high quantities of flammable gas and surface accelerant, leading to rapid expansion of the burn area through infected territory. The final stage of the burn cycle is a firestorm, resulting in aerial dispersal of particulate and fungal spores over twice the original area, as the air currents caused by the conflagration spread the spores across progressively larger expanses of woodland.
+
+It should be noted that the rate of expansion per burn cycle would completely consume the largest forests on Earth within one year while sending enough particulate and spore matter into the stratosphere and troposphere to simultaneously threaten the planet with both global exposure to SCP-1462, and nuclear winter5.
+
+Attachments: File fragments recovered from basement level of destroyed complex following discovery and containment of SCP-1462 in initial burn area
+
+Journal Entries: Research Specialist Robert Dawpins
+
+01/24/2013- [UNRECOVERABLE] breakthrough in the viral engineering department. Got a test batch reliably replacing core ions with vanadium- and the theory's sound. Still photosy[UNRECOVERABLE]
+
+02/30/2013- Vector design is stalled. All test carriers degrade int[UNRECOVERABLE]
+
+03/09/2013- [UNRECOVERABLE]ungus that can carry without conversion. Testing spore matter starts tomorr[UNRECOVERABLE]
+
+03/19/2013- This is extremely promising. All plants expose to vector spores convert without issue! Fruit and roots, too. Gas tomatoes and potatoes! Too bad we couldn't use that tagline Jack suggested. "Losing cash at the gas pump? Coulda burned a V8!" was geni[UNRECOVERABLE]
+
+04/12/2013- We lost the peach trees. Cleanup took us all hours and thos[UNRECOVERABLE]n't going to be usable until repair crews fix the fire damage. We're restricting testing to roots and vines for now, things with less mas[UNRECOVERABLE]
+
+MEMO 4/14/2013- Proposed Ad Text for Grow-Your-Own Product Line: BioFuel
+
+Be part of the solution! With new Grow-Your-Own BioFuel packets, you can turn any backyard garden into a renewable source of BioFuel! Simply sprinkle over the plants* to be used, and within a week, you'll have your very own BioFruits! Give'em a run through your food processor or juicer, remove the pulp and it's ready for use in any Flex-Fuel vehicle!
+
+*GYO BioFuel packets not for use with trees.
+
+04/18/2013- Quarantine orders. Everyone's sick, hydrocarbon poisoning. Bet some joker put some BioFuel carrots into the canteen or someth[UNRECOVERABLE]
+
+04/20/2013- [UNRECOVERABLE]oisoning. Everyones crazy too. Vector crossed to anima[UNRECOVERABLE]lly bad.
+
+Foundation Analysis- Logs cease after 04/21/2013. Evidence suggests massive personnel losses on 04/24/2013. Current theory stands that trees surrounding complex underwent a burn cycle on 04/26/2013 after accidental exposure to fungal spores following clean-up of peach tree burn cycle. Unlikelihood of a full hectare of peach trees used for testing suggests that SCP-1462 is extremely adaptable, and since initial events has allowed for greater expansion prior to burn periods. Further investigation of the Grow-Your-Own Corporation facility responsible for SCP-1462 hindered by severe damage to original site.
+
+Total SCP-1462 conversion
+
+Footnotes
+
+1. This is achieved by altering porphyrins, such as heme in blood cells and chlorophyll in plants, to replace their contained ion with a vanadium ion through a process yet to be completely understood. The end result is a specialized aromatic hydrocarbon that mimics the function of the original fluid to some degree (see below for post-conversion effects).
+
+2. Symptoms include photosensitivity (photodermatitis), blisters, necrosis of the skin and gums, itching and swelling, increased hair growth on areas such as the forehead, abdominal pain, vomiting, acute neuropathy, muscle weakness, seizures and mental disturbances, including hallucinations, depression, anxiety, and paranoia.
+
+3. This has been determined to be reached at roughly one hectare (2.47 acres) of infected woodland.
+
+4. Confirmed- see recovered documentation below.
+
+5. While a misnomer, nuclear winter is caused by particulate matter sent airborne by firestorms. The end result here is identical.

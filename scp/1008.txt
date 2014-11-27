@@ -1,0 +1,43 @@
+Item #: SCP-1008
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1008 is stored in a molded, opaque container, which is stored in a secure locker at Site ██. SCP-1008 may only be removed from its container with prior permission from at least two (2) Level 3 personnel, and all subjects exposed to SCP-1008 must be kept under observation until expiration.
+
+Description: SCP-1008 is a polished, irregular mass of obsidian measuring approximately 8 cm in diameter at its widest point and weighing approximately 1.4 kg. The image of a sun is carved into one surface of SCP-1008, which is surrounded by an as-of-yet untranslated inscription in what is believed to be an ancient Indonesian dialect. When the sun carving of SCP-1008 is pressed against the forehead of a living human subject, its anomalous effect manifests upon nightfall.
+
+In the first stage, which usually lasts approximately one week, subjects affected by SCP-1008 become unable to perceive the sun. Affected subjects can no longer see the sun, and cannot see without the aid of artificial light. Examinations of affected subjects show physical reactions consistent with a complete deprivation of solar illumination, such as eye dilation, and extended exposure to sunlight does not affect subjects or cause blindness. Additionally, subjects report being unable to see the moon or other celestial bodies illuminated primarily by sunlight, though in most cases stars are still observable.
+
+During the second stage, which lasts approximately two (2) to three (3) weeks after stage one, subjects become unable to receive heat and other solar radiation. Subjects report feeling increasingly cold, and will exhibit progressively paler skin tone as well as symptoms of vitamin D deficiency and seasonal affective disorder (SAD).
+
+In the final stage of SCP-1008 exposure, typically four (4) to six (6) weeks after initial exposure, subjects reportedly observe increasing unhealthiness in other living subjects. Plants appear wilted and stunted, and animals appear emaciated. Most importantly, affected subjects in the final stage are unable to obtain nutrition from any plant- or animal-based food product, and will invariably expire due to malnutrition after a period of several more weeks.
+
+Addendum 1008-01: Transcript Excerpt of Interview with Subject 1008-01
+
+Subject 1008-01 (Agent ████ ██████) was accidentally exposed to SCP-1008 while undercover and assigned to [REDACTED]. Agent ██████ immediately brought SCP-1008 to the attention of the Foundation upon manifestation of its effects, and was placed under observation.
+
+Dr. █████████: What was the first indication that something anomalous had taken place?
+
+Subject 1008-01: I woke up at… about five in the morning, I think, the day after first contact. I'm used to getting up before the sun comes up, and I thought it was weird that I couldn't see the pre-dawn glow. And… the sun just never came up. Dr. ██████ called me and asked why I wasn't up on such a fine sunny day, and that's when I broke cover and called it in.
+
+Dr. █████████: What happened next?
+
+Subject 1008-01: Well, for the first few days it wasn't so bad. It was just that the sun never came up, and it was weird when it was completely dark out and you couldn't see anything but people were moving around normally.
+
+Subject 1008-01: It got harder after the first week, though. It just… started getting colder and colder. And everything, the trees and plants, all started looking sick and wilted even though everyone else told me they were just fine.
+
+Dr. █████████: Go on.
+
+Subject 1008-01: Yesterday was when it really started getting really bad, I guess… it's just… everything comes from the sun. All the food we grow, the animals we raise… it's all just energy from the sun… I just can't eat any more…
+
+Subject 1008-01 became unable to eat after 36 days under the effect of SCP-1008 and was eventually sedated and placed on an IV regimen. Subject expired after approximately 43 days in containment, with cause of death determined to be advanced hypothermia and malnutrition.
+
+Addendum 1008-02: Partial Translation of SCP-1008 Inscription
+
+[Sinner?] as [punishment/judgement?]
+
+is [banished/exiled?]
+
+[from the] face of [unknown, possibly "sun" or "god"]
+
+to [die?] in darkness

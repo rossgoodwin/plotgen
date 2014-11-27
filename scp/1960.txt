@@ -1,0 +1,29 @@
+Photograph of Neptune taken by Voyager 2, ██/██/1989, displaying an SCP-1960 message
+
+Item #: SCP-1960
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to the distance between SCP-1960 and the Earth, and the nature of its behavior, direct monitoring or containment of SCP-1960 is not possible at this time. The Foundation is to liaise with all national space research agencies or academic institutions capable of producing high-resolution photographs of Neptune, and digitally edit SCP-1960 messages out of any and all photographs displaying them before dissemination to the civilian population. Use of Class-B amnesiacs on civilian researchers is authorized to prevent information leaks.
+
+Description: SCP-1960 is an intelligent entity of unknown nature or origin, which manifests in the form of brief text statements, in English, superimposed upon high-resolution photographs of the planet Neptune. Communications from SCP-1960 appear on all photographs of Neptune taken at a resolution of greater than [REDACTED], including all photographs of the planet taken by the Voyager 2 spacecraft during its flyby in 1989 and several photos taken from the Hubble Space Telescope and other telescopes in low Earth orbit. All communications are presented in all capital letters and consist of fewer than 50 characters, typically taking the form of a brief question or request.
+
+SCP-1960 was first observed in 1989, when the first high-resolution photos of Neptune were transmitted to Earth from Voyager 2. A subsequent examination of NASA equipment confirmed that the communications were not being deliberately inserted into the photographs after reception and the information was present in the original radio transmissions from Voyager 2, and remote examination of Voyager 2's software indicated no means of introducing text on the part of the probe itself. Initial containment was conducted by NASA without Foundation knowledge; the Foundation was contacted, and assumed international containment management, when photographs taken by the Hubble Space Telescope in 1996 produced additional SCP-1960 communications in an identical typeface.
+
+Le Verrier 3, an unmanned probe designed by the Foundation in conjunction with the European Space Agency, was covertly launched in 2010 for the purpose of establishing a permanent orbit around Neptune from which to conduct further monitoring and attempt to establish two-way communication between the Foundation and SCP-1960. Estimated date of arrival is 11/6/2024.
+
+SCP-1960 communications have provided no information as to the nature or identity of SCP-1960 itself. Recurring themes in SCP-1960 communications include feelings of fear, isolation, and discomfort. Messages from SCP-1960 appearing on photographs have included:
+
+IT'S SO DARK
+
+LONELY
+
+I'M SO COLD
+
+CAN I COME HOME WITH YOU?
+
+PLEASE DON'T LEAVE ME HERE
+
+HUNGRY
+
+I'M SO SORRY

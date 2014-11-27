@@ -1,0 +1,61 @@
+The current state of SCP-1747
+
+Item #: SCP-1747
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1747 is to be stored in a 0.5 meter by 0.5 meter by 1.7 meter steel safe. Containment is currently housed within Sector-19. At no time may any personnel open the safe without authorization from one (1) member of Level 3 security clearance. The containment safe of SCP-1747 must be routinely inspected monthly to ensure that the spread of rust is kept to a minimal degree.
+
+Description: SCP-1747 is a square shovel that is 1.5 meters in length from blade to handle. The blade is composed of iron and measures 0.5 meters by 0.325 meters. The handle is unvarnished maple wood and measures 1.0 meter in length. The shovel was secured by the Foundation in ██████, ██, U.S.A. on █/█/19██. Large portions of the blade have been rusted over. Efforts to eliminate said rust have demonstrated that while the rust is removable, it will return to the shovel within 48 hours. Initial test analysis displays trace amounts of human blood present on the blade of the shovel. DNA tests on the blood have rendered inconclusive results. If SCP-1747 is used on any ground normally penetrable by an ordinary shovel, the blade will stop 3/4 of the way through the ground and become obstructed by a solid object.
+
+Upon usage of the shovel, the tool will strike human remains directly below the shovel's point of entry, regardless of what was beneath the surface prior to excavation, or what material is dug into. Origin and method of placement of said bodily remains are currently unknown and under investigation.
+
+Test results have shown that the time the corpses have been deceased range as recent as █ days, to ██ months. When obtained by the Foundation, minimal rust was observed on the blade and the discovered bodies were only recently deceased and commonly in presentable condition.
+
+Test log format:
+
+Rust level:
+
+Procedure:
+
+Results:
+
+Time since death:
+
+Analysis:
+
+Test A - █/█/20██.
+
+Rust level: 10%
+
+Procedure: Shovel is used to penetrate surface of dirt.
+
+Results: Shovel is obstructed when blade is 3/4 into the ground. Discovery of body of human female, age 19.
+
+Time since death: 3 days.
+
+Analysis: Cause of death is cardiac arrest. Female body appears to contain no anomalies. When found, the corpse was in standard burial position. More specifically, it is laid its on back with its hands on top of the stomach. Body is mostly undisturbed given the circumstances of discovery.
+
+Test B - █/█/20██.
+
+Rust level: 60%
+
+Procedure: Shovel is used to penetrate surface of dirt.
+
+Results: Shovel is obstructed when blade is 3/4 into the ground. Discovery of body of human male, age 46.
+
+Time since death: 57 days.
+
+Analysis: Cause of death is fatality involving motor incident. Male body is beginning to decay. Bruises and fractures are evident in the chest cavity and torso. Body is positioned in fetal position that suggests pain during moment of death.
+
+Test C - ██/██/20██.
+
+Rust level: 90%
+
+Procedure: Shovel is used to penetrate surface of dirt.
+
+Results: Shovel is obstructed when blade is 3/4 into the ground. Discovery of body of human female, age 29.
+
+Time since death: ██ weeks.
+
+Analysis: Cause of death is blunt trauma to the head. Body has suffered a blow on the back of the cranium. Condition of the body is substantially disfigured and mutilated. Analysis of the skull shows minute traces of rust on the point of impact. The bodily position of the corpse is arranged as if the corpse was stuffed into a cramped area by an unknown individual.

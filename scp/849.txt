@@ -1,0 +1,27 @@
+SCP-849 in storage.
+
+Item #: SCP-849
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-849 is currently contained in Storage Unit ██, located at Site ██. SCP-849 is to be kept in a sealed chamber measuring 5m x 5m, which is to be guarded by two (2) security personnel at all times. SCP-849 is to be checked for leaks every three (3) days.
+
+Any unauthorized personnel attempting to enter SCP-849 are to be detained by security and given scheduled visits with Site Psychologist ████ █████. Use of SCP-849 must be authorized by one (1) member of Level 4 personnel.
+
+Description: SCP-849 is a sensory deprivation chamber first recovered by the Foundation from a health spa in ████████, ███ ████. SCP-849 measures 3m x 4m, is white in color and is filled with an opaque, grey liquid. When touched by a human (hereafter referred to as the subject), this liquid instantly transports them and any items which are physically attached to them to a location designated SCP-849-1.
+
+SCP-849-1 takes the form of the subject's home town or a location the subject considers to be their 'home'. This location is populated by civilian entities presumably produced by SCP-849-1, which take the form of individuals the subject is familiar with, even if said individuals do not reside in the location being imitated. Time passes normally in this location, which is confirmed by researchers measuring the time subjects had disappeared for.
+
+For the first seventeen (17) hours of being within SCP-849-1, the subject will experience an ordinary day with the exception that every situation the subject finds themselves in will be resolved positively through apparent luck. The subject will typically make amends with civilian entities imitating individuals whom the subject has wronged or been wronged by during this period of time.
+
+Example of civilian entity degradation.
+
+After seventeen (17) hours have passed in SCP-849-1, the quality of the imitation will begin to rapidly degrade. Effects of this process include, but are not limited to:
+
+Bizarre and nonsensical situations
+
+Illogical changes in civilian entity appearance and biology
+
+Impossible geometry
+
+During the last fifteen (15) minutes of residing in SCP-849-1, subjects have reported the breakdown of physical laws such as gravity, often causing stress and anxiety. After twenty-four (24) hours have passed, all subjects will be forcibly ejected from SCP-849-1.

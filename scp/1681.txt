@@ -1,0 +1,35 @@
+An SCP-1681-1 specimen initiating a Berliner event
+
+Item #: SCP-1681
+
+Object Class: Keter
+
+Special Containment Procedures: Mobile Task Force Chi-23 ("Eavesdroppers") is to actively monitor spontaneous or organized public gatherings of over 1000 individuals in any of the countries composing the former USSR, for the presence of SCP-1681. Upon detection, operatives are to retrieve individuals suspected of having been exposed to SCP-1681, and are to administer amnestics to unaffected individuals within a 50 m radius. New SCP-1681-1 specimens are to be kept in full quarantine at Humanoid Containment Site-83 until such a time as a Berliner event is triggered.
+
+Should a Berliner event be initiated in public, clean-up crews from nearby field offices are to initiate post-event clean-up procedures as further documented in supplemental document 1681/Proc/PostInc:rev1.09. Use of amnestics has been approved.
+
+SCP-1681 has been cleared for research in printed and digital form, as only direct auditory exposure has produced adverse effects.
+
+Please be advised that due to the length of the transition between alpha and beta stage infection, and due to improvement of relations between the US and Russia, Berliner events are theoretically no longer limited to those countries formerly belonging to the USSR.
+
+Description: SCP-1681 is an auditory memetic agent exclusively affecting human beings. SCP-1681 is spread specifically through public gatherings attended by over 1000 individuals in countries belonging to the former USSR, and is capable of spontaneous outbreaks, despite joint Foundation and Global Occult Coalition efforts to eradicate it outside of containment. Documentation seized from GRU Division "P" archives after its dissolution shows that SCP-1681 was developed by that organization in an effort to influence and control public opinion on the United States. SCP-1681 was first deployed on 10/21/1982 and far exceeded projected infectivity. An auditory memetic countermeasure to SCP-1681 is mentioned in this documentation, but does not appear to be effective. It is unknown whether this is because of flawed design or due to SCP-1681 evolving.
+
+SCP-1681 takes the form of a phrase ("After all, when actors lead nations, bears will roar.") appended to the end of an anecdote told by individuals (designated SCP-1681-1) in alpha stage of infection. These anecdotes themselves are not anomalous and do not show a pattern to their subject matter. Regardless of their content, host anecdotes eventually begin to lose coherency, incorporating references to the United States and corresponding symbolism, before terminating in SCP-1681. Exposure to SCP-1681 always results in an alpha stage infection. Listeners are fully aware of the discordance in SCP-1681-1's speech, but attempts to point it out to them results in SCP-1681-1 becoming confused and briefly distracted before trying to return to their story.
+
+An approximate 48% of SCP-1681-1 move on to the beta stage of infection, while the remainder stay in alpha stage indefinitely, spreading SCP-1681. Alpha stage SCP-1681-1 specimens will attend any eligible event to spread SCP-1681, disregarding relative financial expense, travel distance or prior commitments.
+
+Those SCP-1681-1 transitioning to beta stage infection will withdraw from society, severing all ties to family, loved ones and associates. During this time SCP-1681-1 will lapse into prolonged catatonic states, interspersed with brief periods of lucidity. Communication has proven difficult, with attempts at conversations derailed by bouts of euphoric hysteria. Specimens in this transitory stage appear to suffer from mixed aphagia; despite this, the onset of starvation does not occur.
+
+This transitory stage lasts for approximately three to six days, after which SCP-1681-1 will have fully progressed into beta stage. It will then attempt to gain access to the roof of the nearest high-rise building and throw itself off. Upon impact, a Berliner event is initiated. Specimens detained before progressing fully into beta stage will exhibit increasingly restless behavior until a Berliner event spontaneously occurs.
+
+In a Berliner event, an SCP-1681-1 specimen splits into multiple instances of a specific object or animal1, which disperse at speeds up to 500 m/s (depending on the size, shape and mass of the item or animal expelled). The mass and volume of material dispersed does not correspond to that of the SCP-1681-1 instance triggering the Berliner event, and no traces of SCP-1681-1 are recovered post-event. Material produced during Berliner events does not exhibit anomalous properties; however, the high kinetic energy of such projectiles and occasional presence of mundane contaminants may pose a significant hazard to the public at large.
+
+Addendum 1681/A/01:
+
+Management summary of incident report 1681/IncRep/19820411-2:rev1.19
+
+At 14:00 hours on Saturday the 10th of April 1982, an SCP-1681-1 instance climbed the bell tower of Rostov-on-Don's Central Cathedral and jumped off. Upon impact, it exploded in a shower of live bald eagles (Haliaeetus leucocephalus). Seventeen civilians perished, thirteen more were hospitalized with injuries stemming from severe blunt force trauma and, in at least one case, from involuntary ingestion of Haliaeetus leucocephalus.
+
+Footnotes
+
+1. Examples observed include 1:300 scale Statue of Liberty models, Mus musculus specimens with abnormally large ears and McDonalds Big Mac burgers.

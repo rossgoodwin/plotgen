@@ -1,0 +1,37 @@
+SCP-583
+
+Item #: SCP-583
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-583 is to be locked in a heavy-duty chrome steel safe. Any level-3 or higher personnel have access to the safe. A lethal security system is to be kept operative in the containment room for SCP-583 at all times. SCP-583 is fragile and must not approach or be approached by any magnetic field-generating material or device. SCP-583 is only as sturdy as a standard video tape and is to be handled with extreme care. SCP-583 must not be destroyed, due to continued research into [DATA EXPUNGED].
+
+Description: SCP-583 is a Sony Color Collection 60-90 min Mini DV video tape, its case composed primarily of transparent green plastic. Details of the contents of the tape itself, as described by test subjects:
+
+0'00": Nothing on the tape for the first twelve seconds.
+
+0'12": Playback of a recording of "Sesame Street Live" begins, although with no sound. A date stamp of [REDACTED] is visible.
+
+2'58": █████ starts choking and tries to get out of his costume.
+
+3'12": █████ dies from apparent asphyxiation. During the next nineteen seconds, three other characters ([REDACTED], [REDACTED], and [REDACTED]) start choking and die in the same way.
+
+3'31: Recording stops. The rest of the tape is blank.
+
+Subjects who watch SCP-583's recording suffer from a unique perception disorder: after seeing [REDACTED] die of asphyxiation, subjects witness the similar death of every character, fictional or not, that they see on TV or in a movie, hear on radio, or read about, whether printed or in electronic format. This condition appears to be permanent, ending only with the death of the subject.
+
+Consult Document 583-T01 for further information.
+
+Document 583-T01: Recorded testimony of █████ ████, after exposure to SCP-583's recording. Retrieved during Intervention-P12. Translated from French.
+
+Subject was given a hardbound copy of A Clash of Kings and was asked to read aloud from anywhere in the book. Subject started reading at page 201.
+
+One, two. This is █████ ████, testing the effect of SCP-583. I start reading. "Aggo was back next. The southwest was barren and burnt, he swore. He had found the ruins of two more cities, and since, he has started coughing." Ok, I think it has started. I'll read further, he'll die, you'll see. Back to the text. "One was warded by a ring of skulls mounted on rusted iron spears, so he dared not enter, but he had explored the second for as long as he could, before his throat began to ache. He showed Dany an iron bracelet he had found, set with a uncut fire opal the size of her thumb. She was sick too, and the idea of the princess being ill like he was comforted him a little. There were scrolls as well, but they were dry and crumbling and Aggo had left them where they lay. He took a rest in his tent, praying a good night to his Targaryan mistress, and died that same night." I skip a few pages now 'til Dany dies too. "Hear this: Here I stand. Look, if that is your pleasure, but first tell me your names. And then she fell." I need a book with a lot of characters in it, I guess. Okay, so now I'll read this Carambar joke1, so you can see it works with anything. Why did the chicken cross the road? Who cares, halfway across the road, it fell over and choked and died. Haha.
+
+End of testimony.
+
+Addendum 1: Class D personnel exposed to SCP-583 are to be placed into psychological studies to examine the long-term psychological effects of exposure to SCP-583. The standard termination schedule for these subjects may be waived with authorization from Dr. ██████.
+
+Footnotes
+
+1. a French brand of candy bar which contains low-quality jokes on the inside of its wrapper

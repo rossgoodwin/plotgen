@@ -1,0 +1,35 @@
+Instance of SCP-122-1.
+
+Item #: SCP-122
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-122 is to be stored in a standard containment chamber, containing a single electrical outlet. No personnel dormitories are to be constructed within 500 m of the containment area. At no time should SCP-122 enter an unpowered state. Several redundant power systems are to be maintained and inspected regularly. In the event of SCP-122-1 manifestation, 35 members of site personnel assigned to enact containment are to be deployed outside the containment chamber. If it becomes hostile, Procedure-99-Renmar is to be enacted.
+
+To enact Procedure-99-Renmar, all subjects are to assume specific positions in and around the containment chamber, in order to prevent a containment breach. Two subjects are to man a portable generator with which the equipment used in Procedure-99-Renmar is powered. Three subjects are to be equipped with chemical irritants created as a by-product of SCP-1837, which has been found to have a inhibitory effect on SCP-122-1 instances.
+
+After all instances of SCP-122-1 have been reduced to the point where entry is safe, five subjects are to enter the containment chamber, and use an electrical extension cord from the generator to return SCP-122 to a powered state. These personnel are to be considered irrecoverable after entering SCP-122's containment chamber, due to its effect.
+
+The remaining personnel are redundant; they will take the place of any incapacitated personnel.
+
+Description: SCP-122 is a children’s nightlight in the design of a stylized shooting star. When it is in a powered state, SCP-122 lets off between 14-20 lx. No manufacturers mark is present on or within SCP-122's components.
+
+When in an unpowered state, SCP-122 will affect all subjects within a 500 m radius of its location. When the subjects enter REM sleep, they will move into a comatose state in which they will remain until SCP-122 is resupplied with power. While comatose, humanoid figures appearing to be composed of a black, slightly translucent mass will appear from any shadows around the subject. These figures are hereafter known as instances of SCP-122-1.
+
+Instances of SCP-122-1 exhibit signs of sapience and sentience, with physical abilities roughly equivalent to the affected subjects. They will attempt to locate as many human subjects as possible, and expose them to SCP-122's effect. As more subjects are affected by SCP-122, its radius of effect will expand, with the maximum range seen in testing being over 2.7 kilometers. The SCP-122-1 instances will attempt to gather all sleep aids within the area of effect and apply them to the subjects. These objects have included:
+
+Insomnia medication
+
+Traditional medicines known to be used as treatment with insomniacs
+
+Pillows, blankets, mattresses and bed frames
+
+Media such as lullabies.
+
+When in a powered state, SCP-122 will affect the sleep patterns of all subjects within its radius. If a subject awakens from a state of REM sleep while within SCP-122's radius, they will display signs of insomnia, and will complain of unusual dreams. These dreams have been found to cause minor psychological disturbances, and all personnel should be given weekly psychological evaluations. See Incident 122-1.
+
+SCP-122 was discovered within the Linnell Children’s Hospital on ██/██/███, after several reports of SCP-122-1 manifestations reached locally embedded agents. When the area was investigated, it was found that all subjects within the building had been affected by SCP-122. Recovered documents indicate that a patient brought SCP-122 when being admitted. However, no record of the patient's identity has been found. Agents secured SCP-122 with a portable power source, and it was transported to Site-19.
+
+Addendum 122-B: SCP-122 reclassified to Keter following Incident 122-1. Moved to Armed Reliquary Containment Area-02.
+
+Incident 122-1: On ██/██/███, 11 instances of SCP-122-1 breached containment, causing the death of over █ members of site personnel and ██ casualties. Following re-containment operations, SCP-122's containment procedures were put under review. During this review, security footage of several maintenance personnel tampering with SCP-122's chamber-lock was discovered. When questioned, the subjects claimed that they had done so under duress, saying that a "canary" was not allowing them to sleep until they released SCP-122. Affected subjects were given Class-A amnestics, and containment procedures were revised. Upgrade to Keter requested.

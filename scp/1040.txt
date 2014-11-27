@@ -1,0 +1,59 @@
+Item #: SCP-1040
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1040 is stored in vault 89-Q5 at Storage Site 12 as per standard Safe-class long-term storage protocol. No additional care is required.
+
+New personnel assigned to SCP-1040 are to be briefed on the object using the established identity "Daniel" to ensure that consistent and unambiguous communication about the object is maintained. Non-D-class personnel exposed directly to SCP-1040 must be reassigned on a monthly basis.
+
+All data on SCP-1040 is to be corrected electronically through the use of project Null Context to ensure that the object's effects do not interfere with normal documentation procedures.
+
+Description: SCP-1040 is an antique Tiffany floor lamp made of iron and stained glass. The item displays no unusual physical properties. When provided with a 100-watt light bulb and electricity, SCP-1040 functions as is typical for a floor lamp.
+
+The anomalous effects of SCP-1040 manifest when the object is observed or discussed by any human subject. Affected persons will consistently anthropomorphize SCP-1040, referring to and/or interacting with the object as though it were a male acquaintance. In spite of this effect, it is possible for subjects under the influence of SCP-1040 to be reminded that the object in question is a lamp; however, this knowledge has little (if any) effect on subjects' behavior.
+
+The name and other details assigned to the object vary by subject, but to date have never corresponded to any real individual. If a previously affected individual "introduces" the object to a new subject, that subject will identify SCP-1040 as the given persona.1
+
+Addendum 1040-01: Abnormalities at Recovery Site
+
+SCP-1040 was recovered from the home of ██████ ███████ following his death in June of 1991. Responding agents encountered SCP-1040 at the site and "escorted" the object to Site 19, where it was kept in a humanoid containment cell until its properties were identified.
+
+Agents that remained to sweep the remainder of the home reported that all light sources in and around the dwelling (including SCP-1040) had been arranged or decorated strangely. Examples include:
+
+Scarves wrapped around exterior light fixtures
+
+Five desk and table lamps arranged on sofas or chairs and placed in front of the television, open books, and other entertainment media
+
+Two hand-held flash lights wrapped partially in cloth and arranged in a bassinet
+
+Three floor lamps placed horizontally on beds throughout the house
+
+All light fixtures were under power at time of recovery, though many were missing bulbs. This is believed to be related to the owner's cause of death (heart issues exacerbated by electrocution).
+
+Given these findings, additional properties seem likely. I'm authorizing a stay of execution for 5 D-class to study the long-term effects. - O5-██
+
+Addendum 1040-02: Additional Findings
+
+With repeated and/or prolonged direct exposure to SCP-1040, affected individuals will begin to assign unique identities to other inanimate objects even when SCP-1040 is not present. The approximate progression is as follows:
+
+Cumulative exposure time
+
+Observed Effects
+
+2 months
+
+Subject anthropomorphizes any free-standing light fixture greater than 1.25 meters in height.
+
+3 months
+
+Subject anthropomorphizes any free-standing light fixture. Subject develops increasingly elaborate relationships with anthropomorphized objects, including friendship, dislike, envy, and romantic interest.
+
+6 months
+
+Subject anthropomorphizes any object intended for use as a light source. Subject becomes agitated and/or withdrawn when not interacting with a light source and minimizes human contact.
+
+Given the nature of its long-term effects, personnel levels 2 and higher are strongly discouraged from direct interaction with SCP-1040.
+
+Footnotes
+
+1. Exploitation of this property to facilitate containment approved — O5-██

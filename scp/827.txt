@@ -1,0 +1,75 @@
+Item #: SCP-827
+
+Object Class: Safe
+
+Special Containment Procedures: Site 827 has been established at the location of SCP-827's discovery. For the purposes of the Foundation, SCP-827 has been outfitted with a specialized cell reactor that allows for introduction of samples and removal of their products. Personnel actively interacting with SCP-827 are to wear full Level-C or higher Hazmat gear.
+
+Samples introduced into SCP-827 require approval of project director. Samples from only one individual at a time are to be introduced to ensure there is no genetic cross-contamination. All samples are to be screened for genetic chimerism. In the event that more than one distinct genetic sample is introduced to SCP-827, the sample is to be removed using procedure 827-Hari and incinerated.
+
+Tissue from the central nervous system is not to be used in SCP-827 tests following Incident 827-██.
+
+Description: SCP-827 is a semi-solid mass of biologically active human stem cells. SCP-827 is capable of self-renewal and is totipotent, with cells replacing themselves at a rate of approximately 200,000 cycles of mitosis per day, with roughly the same amount dying off per day; at time of writing, SCP-827's mass is currently 353kg, and remains stable.
+
+When a sample of human organ tissue is introduced to SCP-827's mass, it is broken down and assimilated into the mass using a unique enzyme. Following this, SCP-827's cells will enter an active state and will begin to generate copies of the organs from which the tissue originated. These organs, designated SCP-827-A, differ from their original purpose in drastic ways; introduction of muscular tissue, for example, has resulted in full muscular systems developing and attempting to escape SCP-827, while introduction of a human jaw has resulted in what was termed a "broken-tooth tree", a plant-like structure with a trunk of muscular tissue with branches made from malformed jaws. Assuming that SCP-827-A instances are remaining and still in contact after a period of approximately 2-3 days, the instances will be digested and re-assimilated into SCP-827's mass.
+
+SCP-827 is only capable of assimilating human tissues. Attempts to introduce non-human tissues, including hair from lower primates and bone samples of extinct humanoids, has resulted in a deterioration of health in SCP-827. Furthermore, all liquid samples are rejected by SCP-827.
+
+Addendum: Sample Log
+
+Sample: Part of a human liver, donated by Dr. Ming.
+
+Note: Dr. Ming was suffering from liver failure, and due to a rare blood type, donated on the condition that the resultant organ be transplanted back into him.
+
+Result: After 12 hours, SCP-827 produced one apparently healthy human liver matching Dr. Ming's blood type. Transplant was successful; however, the SCP-827-A instance was incapable of producing bile or processing alcohol. Instead, it acted similar to a liver found in a human fetus, producing red blood cells. Dr. Ming developed primary polycythemia, and eventually died due to his condition.
+
+Sample: One pelvis and two femurs.
+
+Result: 7 hours after introduction, the surface of SCP-827 calcified entirely. Researchers present broke through the calcium shell, exposing the resultant SCP-827-A instance to the air. SCP-827-A instance resembled a human pelvis, but with a single joint where the coccyx would be located, with a single leg growing out of it. The instance had developed musculature due to improper cleaning procedures. Approximately 19 minutes after exposure, the instance was broken down by SCP-827.
+
+Sample: One male human head, with all tissue intact. Donor was a civilian, decapitated in an industrial accident.
+
+Result: Sample was digested in 2 hours. 36 hours later, resultant SCP-827-A instance was fully formed; subject was humanoid in appearance, but severely malformed. Skull had been flattened out in a mushroom-like shape to account for a brain that had been unfolded and spread flat. Furthermore, the intestines of the SCP-827-A instance had unraveled, but the spinal column was too weak to support it and collapsed when removed from SCP-827, killing the instance. Before removal, the instance wrote the letter "G" several times in an attempt to communicate.
+
+Sample: Two sets of bones taken from human hands, from two different donors
+
+Result: A vaguely serpentine instance of SCP-827-A was created, assembled entirely from the various bones found in the human hand. The instance was capable of independent locomotion, and began growing musculature and skin resembling that of a human arm. The instance escaped SCP-827 and was capable of surviving for six days despite the lack of any digestive or respiratory system before being neutralized by a security agent.
+
+Sample: One human brain.
+
+Result: After 18 hours, SCP-827 produced a reconstruction of a nervous system was produced, but anomalous in construction; the brain was triple-lobed, and appeared to be built for a hexapodal humanoid, with four arms and two legs. Appeared to be self-sustaining within SCP-827. Upon removal form SCP-827, the instance expired.
+
+Addendum: Recovery Log:
+
+SCP-827 was recovered at the lab of one Dr. George Farrow in [REDACTED], Idaho, USA. Dr. Farrow had disappeared after being diagnosed with malignant pancreatic and breast cancers, and was expected to live less than six months. According to excerpts from Dr. Farrow's personal notes, he was intending to rejuvenate his organs with self-administered stem cell therapy. It is unknown if SCP-827 was the result of that therapy, or the method Dr. Farrow used.
+
+The following are excerpts of notes taken by Dr. Farrow shortly before his disappearance.
+
+The cancer's not going away; the therapy should be working! Instead, there are strange lumps all over my skin, but the doctor says they're not tumors; they're not even melanomas or moles. They're just little humps of flesh. I tried lancing them like a boil, but the one on my shoulder ate the needle; it broke off within the damn thing. Will attempt excision soon.
+
+All samples have been excised; they seem to be the same consistency as the soup1. I placed them in a petri dish, and they conglomerated into one mass. They're completely undifferentiated now, despite being taken from all over my body. I decided to try putting a bit of hair I had saved into it, and it digested it quicker than anything I'd ever seen. I've locked it in the cell incubator for the time being.
+
+I checked on the sample again. It had grown hair all over itself, and it was… I incinerated the damn thing. Now I have even more lumps on my skin; it's like they grow overnight. Insulin levels seem to be stabilizing, at any rate. Maybe the cancer's finally going away?
+
+I collapsed today, from- I don't believe I'm saying this- insulin shock. The doctors said that it was like the entire pancreas just reset itself and released a massive amount of the stuff. I'm writing this from the hospital bed, and I feel fine; the screening said that the cancer was GONE. Meanwhile, they found even more of those damn lumps on my skin; the lab tecs are saying they're some kind of stem cell. That explains the hair thing, I guess.
+
+Will stop therapy as soon as I get back home.
+
+I started incinerating the soup today. About 50% of the cells are gone, but they're replacing themselves relatively fast. Shouldn't be a problem.
+
+I just hit myself in the throat by accident. Hurt my thyroid. Only problem is, I had my thyroid removed back in 1992. What's more, it feels swollen. What's going on?
+
+More of the lumps, and the soup won't stop growing. Dammit dammit dammit. I've just started cutting them off and throwing them into the soup so it's easier to get rid of all at once. I'm thinking of saving a small sample for later analasys analayss analysis
+
+My entire arm is one giant, soupy lump. And it's rotting. Too many waste products. I gotta agitate it somehow. I tried the egg beater, and that seems to be working well. For now.
+
+The entire left side of my body is stem cells. They're useless, but I seem to have full brain function. Got to agitate it constantly, maybe I should just stick it all in that big cell reactor.
+
+I tried cutting off my arm, or what's left of it. It ate the knife. I can feel it cutting through a second esophagus.
+
+My arm just reconstituted itself.
+
+So much blood. Too many toes.
+
+Footnotes
+
+1. Dr. Farrow uses this term repeatedly in his notes to refer to the stem cells he had been using to treat himself.

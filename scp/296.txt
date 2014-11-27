@@ -1,0 +1,45 @@
+Entry point to SCP-296's interior
+
+A number of figures contained within SCP-296
+
+Item #: SCP-296
+
+Object Class: Primary object classification: Safe, secondary object classification: Safe/Euclid/Keter
+
+Special Containment Procedures: Armed Containment Site-03 has been in the process of reconstruction since the discovery of SCP-296 in the geometric center of the destruction caused by enactment of Emergency Protocol XT-████ (refer to Document #1E-027, Addendum 1, viewable in ████████████). Re-installation of tactical thermonuclear devices in a primary perimeter between the established 100km quarantine perimeter and the exposed region of SCP-296 has also been initiated. As SCP-296 has already exhibited resilience in the face of annihilation-grade weaponry, it is suggested that the TTN devices be calibrated to deliver a high-yield, low-radius explosion so as to minimize damage to ACS-03's existing structures.
+
+All personnel, agents and researchers assigned to SCP-296 must have no criminal background, prior to and during SCP service. Any incidents approximating criminal behavior, as well as suspicions of possible criminal behavior, are to be considered disqualification for assignment to duties directly relating to SCP-296.
+
+Description: Upon examination of the blast crater occupying ACS-03's previous location, a stone channel was discovered in the crater's geometric center. The stone is of an unknown composition, and was utterly unaffected by the detonations of the fail-safe devices utilized by Emergency Protocol XT-████. It is unknown whether the structure designated SCP-296 existed prior to the annihilation of ACS-03's previous installations. However, the contents of SCP-296's interior suggest it was somehow created in the explosion.
+
+From the exterior, SCP-296's entry channel appears to simply be a set of carved, fitted stones arranged around a vertical, rectangular shaft. They extend into the ground for several feet before light simply ceases to penetrate and it enters into darkness.
+
+Initial attempts to investigate followed standard procedure using Class D personnel. Each maintained contact for a few moments before failing to report back. After several personnel were lost in this manner, robotic surveillance was initiated, and revealed the presence of an amphitheater-type structure, around which were seated fifty-six (56) figures of similar appearance. Each was roughly humanoid and made of a substance similar at first glance to ice. Thermal scans indicated a variety of temperatures, varying from figure to figure, and most did not conform to temperatures low enough to support solidification of water.
+
+Surveillance also discovered the remains of the Class D personnel. The deceased exhibited the following characteristics:
+
+Personnel A: A was found beside a figure, with cylindrical wounds extending through her skull - one each surrounding the previous location of each eye socket; one passing laterally through the skull and excising the ears and all associated organs; one excising the nose; one excising the mouth. Subject's skin had also been removed whole and rested beside the corpse, along with the cylinders of bone, flesh and viscera that have been removed from her skull, which rested atop the skin. Wounds confirmed to match those inflicted by Euclid Class SCP-███, confirmed to have been present at ACS-03 during initial installation's annihilation.
+
+Personnel B: B was found collapsed on the ground beside a second figure with what initially appeared to be total destruction of his skeletal system. Autopsy later revealed the complete liquefaction of all interior bodily systems. Damage confirmed to match those inflicted by Euclid Class SCP-███, also confirmed to have been present at ACS-03 during enactment of Emergency Protocol XT-████.
+
+Personnel C-G: Personnel C through G were found beside a third figure. All five personnel occupied roughly the same space at different angles. Still technically collectively alive, the resulting recombinant creature was quite obviously both insane and irreparably crippled and was later terminated on-site. Analysis of records pertaining to Keter Class SCP-███ indicated conformity to exposure to its exponential recombination effect. SCP-███ was also confirmed to have been contained within ACS-03 at time of annihilation.
+
+Surveillance was forcibly terminated before further information could be gathered. The final image transferred by the robot was that of the figure beside the still-active form of personnel C-G shattering and the form of SCP-███ appearing amidst its debris. 76 Class D personnel, 23 agents and 5 researchers were lost before sufficient information regarding SCP-███ could be dispatched to allow for the forced initiation of its hibernation cycle. SCP-███ has since been relocated to Armed Bio-Containment Area-14 and subjected to containment in following with its original procedures.
+
+No further attempts to investigate SCP-296 have been made as of this time. Proposals for controlled systematic testing of each figure has been suggested by Dr. ██████ █████████, but have been denied on the grounds that the risk of releasing SCP-███, although its presence within the amphitheater has yet to be confirmed, is too great.
+
+Addendum 296-1: Dr. ██████ █████████ has proposed that the SCP objects lost during the destruction of ACS-03's original facility were somehow repositioned within SCP-296's interior. The reason for this is unknown, as is the cause for their apparent containment within the ice figures. The theory is supported by the remarkable similarity between the number of SCP objects thought lost to the detonation and the number of figures within SCP-296; however, the inexplicable fifty-sixth figure poses the significant possibility of a threat. Further investigation is postponed.
+
+Addendum 296-2: Dr. ██████ █████████ was discovered emerging from within the interior of SCP-296 on ██/██/200█. She was immediately apprehended and subjected to questioning, upon which several facts were made clear.
+
+Dr. ██████ █████████ had, against policy, falsified entry documents and passed the security checkpoints necessary to investigate SCP-296's interior. Upon her entry, she reported she had an instant of feeling psychically violated, followed by immediate unconsciousness.
+
+When she awoke, she claims one of the figures contacted her telepathically. She could not identify which one at that time, as there was no corresponding visible stimuli, but she insists it is the fifty-sixth figure - the additional figure not corresponding to an SCP object previously stored within ACS-03.
+
+The figure communicated that it was known, in our language, as "Judgment." The Class D personnel initially admitted to its interior were found, as Dr. ██████ █████████ put it, "guilty," and were summarily executed by way of utilization of the SCP objects contained within the figures. It equated the figures to jail cells, and implied the release of SCP-███ was analogous to early release for good behavior. She related that "Judgment" will allow innocent personnel entry to the interior of SCP-296, but that it would be responsible for ultimate assignment of guilt - or lack of guilt - of the personnel itself.
+
+Addendum 296-3: Communications between Dr. ██████ █████████'s research team and "Judgment" have revealed new information regarding the figures within SCP-296. They have compiled a list of the SCP objects contained within SCP-296's figures - identical to ACS-03's original contents - as well as a "map" of the figures and their correlating objects. "Judgment" has also supplied a number for each figure which he states corresponds to the number of "services" it must perform before release.
+
+It is assumed that the services to which "Judgment" refers are executions. As there is no way to know whether the information provided is accurate besides expending enough personnel to release the concerned object, further testing has been halted pending other possible detection methods.
+
+It is to be noted that SCP-███'s tally is quite low. All personnel are to be reminded that under no circumstances are any personnel with suspected criminal behavioral patterns, past or present, are to be allowed access to SCP-296. Failure to adhere to this directive will result in termination for all parties involved. SCP-███ cannot be allowed to be released.

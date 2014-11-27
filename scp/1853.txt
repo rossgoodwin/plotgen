@@ -1,0 +1,65 @@
+SCP-1853 during testing
+
+Item #: SCP-1853
+
+Object Class: Safe
+
+Special Containment Procedures: All known samples of SCP-1853 are to be contained in air-tight containers under restricted access at Site-77 in Storage Locker 663. When in containment, SCP-1853 is not to be used on D-Class personnel or any other human subjects for testing purposes. Only chemical analysis testing is approved. When being tested, a small amount should be stored in an aerosol dispersal system.
+
+Any reports of SCP-1853 being used outside of containment should be immediately investigated by Foundation agents, under the guise of testing for normal performance enhancing drugs. Any subject found to have exposed themselves to SCP-1853 is to be interrogated as to how they came to possess it, followed by the administration of a Class-B amnestic and medical treatment to remove SCP-1853 from their systems.
+
+Description: SCP-1853 is a green human-derived serum containing a mixture of unidentified proteins and chemical compounds. When not being applied to an organic object, SCP-1853 displays no anomalous properties, and is functionally identical to water. When applied to a living subject, SCP-1853 will noticeably enhance the performance of the individual subject in a competitive environment.
+
+Initially, Foundation researchers believed this was limited to regulated competitions such as athletic events. Testing in this area showed that athletes were able to improve performance in their preferred athletic event, to the point of being able to achieve feats which should not be possible given the physical limitations of the human body. The Foundation initially discovered SCP-1853 after such an incident occurred, where an American Football player in the ██████ minor league team was reported to leap 6.3 meters over his opposing team in order to score a touchdown. This resulted in a touchdown, and the subject being taken to the emergency room for two fractured legs.
+
+However, further investigation into the distribution of SCP-1853 showed that its effect was equally potent in non-athletic competitions, such as chess, poker, and collectable trading card competitions. Note that this isn't a universal effect, and only applies to areas where the subject previously showed aptitude. Subjects being exposed to SCP-1853 were more consistently able to effectively count cards, analyze opponent strategies, and use psychological methods to achieve victory, depending on their specific avenue of competition. In addition, research has shown that SCP-1853 may be used more frequently in this environment, as it has a more potent effect in non-athletic events.
+
+Further analysis has shown that SCP-1853's effects do not cease after the competitive event is over, and in fact may not desist at all. Reports of known SCP-1853 users at home has shown that any activity the user feels is a competition will activate SCP-1853's effect. These have included but are not limited to:
+
+Moving to the front of a crowded area. Subject claimed they went shopping "every black friday".
+
+Pulling out of a red light faster than the people directly around them. Subject was known to participate in amateur local racing events.
+
+Completing more of a workload than a coworker. Subject was known to desire a promotion.
+
+Finishing a meal before others at a table. Subject had previously been a competitive eater.
+
+Mowing a lawn in a more efficient way than a neighbor. Subject was known to have a keen interest in home maintenance and improvement.
+
+Knowledge of SCP-1853's effect on them has shown to have a psychological impact on test subjects. Some subjects may attempt to turn every event in their life into some form of competition, in order to utilize the anomalous effect. This has been shown to be deleterious to the subject's personality, alienating themselves from many people they had previously been friendly with. In addition, subjects may begin to take aggressive action against those they perceive as not having a proper competitive spirit when the SCP-1853 afflicted user wishes to compete with them.
+
+SCP-1853 was initially discovered on 02/19/98, in a Prometheus Labs facility, following the destruction of their main headquarters. Notes collected with SCP-1853 indicated that it was being developed as a "superhero" serum, with no reference to athletic endeavors. However, after athletes using SCP-1853 began to appear less than two months after initial discovery, it was declared to be partially uncontained, and a task force set out to discover and contain all portions of it. As of 09/18/2005, it is believed that all instances of SCP-1853 are in containment. As such, it has been classified as Safe.
+
+Addendum: Documents recovered from Prometheus labs.
+
+Testing Summary O-1
+
+We've found that application of the serum to the epidermis allows for people to be stronger, faster, but not having more endurance. They were able to complete reflex-based tests in a quarter of the time of the non-affected subjects. This has definitely been a successful round of testing.
+
+Also, tell the handlers to be super careful when they're moving the serum from storage. This stuff is really potent, you only need to touch it to become affected. So, don't touch it.
+
+Summary O2
+
+We've begun to detect mood shifts in the subjects who were affected in the first run of testing. They're much less noble than we would've hoped people given this power would be. Instead, they're all about trying to see who can do the tests the fastest. We've put up a leaderboard to try to keep them docile. Perhaps we should use some people who're more moral as test subjects for the next run. More moral, that's a tongue twister…
+
+Summary O4
+
+They've begun breaking out of the test subject habitation zone. But only to go back to the tracks. This morning, Hank was harassed by about four of them, demanding that he update the scores for runs they did on their own last night. He did what they said. I've assigned additional guards to the track field to monitor their progress, and to make sure they don't go anywhere besides the track. I don't think trying to keep them in would do anyone good.
+
+I've added more cameras in the observation booth to keep an eye on them.
+
+Summary O11
+
+The test subjects are completely disrespectful to the testers. They're demanding to see the test results, to compete with us in how we interpret our data. This round of tests has been an interesting failure, unfortunately. While we were able to get the physical and mental results we needed, the personality changes were just too much to bear. I'll be having Linda do some interviews with them before we administer treatment, see if it's actually from the serum, or just a natural development in their minds. Keeping my fingers crossed that it's us. At least that'd be easier to fix.
+
+Addendum: Recovered evidence.
+
+COMPLAINT FORM STANDARD
+
+WRITER: JIM SIMPSON
+
+SUBJECT: ANDREW BELLIO
+
+COMPLAINT: I know that the cart is supposed to be first come first served, but this is getting ridiculous. Andy just bounds in like a freaking wolverine and takes all the donuts before any of us even have a chance to get in the room! It is unprofessional, and frankly uncourteous of him to do this, and I request that some form of action be taken against it.
+
+OTHER NOTES: N/A

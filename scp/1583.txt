@@ -1,0 +1,33 @@
+Documentation of SCP-1583 instance recovered during containment.
+
+Item #: SCP-1583
+
+Object Class: Keter
+
+Special Containment Procedures: All instances of SCP-1583 are to be held in individual pressurized containment units, located within Joint Containment Area-8. Each chamber is to be separated by a distance of .5 kilometers, and no instance of SCP-1583 should be brought closer than this distance. All chambers are fitted with hydraulic pistons preventing the SCP-1583 instances' lids from opening. All instances of SCP-1583 must be held down with at least 14 MPa of pressure at all times. In the event that a containment breach event occurs within the Area, the pressure being placed upon the contained SCP-1583 instances must increase by 60% for each confirmed breach.
+
+The "Global Occult Coalition" group of interest will report any movement or activity from the containment areas they administrate to contain SCP-1583 instances. If the possibility arises to seize an instance from one of these locations, it should be acted upon immediately. Currently, the Foundation and GOC have contained 61 instances of SCP-1583.
+
+The area around former Site-57 is to be bombarded by intense heat in order to prevent the spread of SCP-1583 entities. A facility built around it has been staffed by Foundation personnel, who are to communicate with GOC personnel on means of destroying the SCP-1583 entity.
+
+Description: SCP-1583 designates a collection of metallic barrels designed for use in supplying fallout shelters. The exteriors contains the information originally printed on them, in addition to this notice:
+
+Notice From Department of Defend
+
+This device can be used in your shelter or other places of refuge, to protect yourselves and your families from the horror of nuclear warfare. Simply enter your family into the shelter of choice, and open your container. Safety will follow. You will be protected and comforted with your family bit by bit, held safely until every other seeker of comfort is too. Then, we come out, rebuilding a burned world together. Blood and stone, flesh to wood, sweat and concrete. Build in your image.
+
+When opened, instances of SCP-1583 will release thin, white threadlike organisms, which will bind together in order to form a large appendage. SCP-1583 will attempt to seize living subjects and bring them within its mass. Following this, the threadlike portions of its mass will disassemble the subject's body. Outer epidermis will be destroyed within 14 seconds of contact, followed by muscles and other tissue. The subject's skeletal structure will slowly dissolve over a period of 2-3 hours.
+
+There is no observed limit to the quantity of this mass SCP-1583 is capable of releasing, with containment breaches in [REDACTED] reaching almost 600 meters above the instance. This organism is capable of opening SCP-1583 on its own, if there is nothing preventing it from exiting on the other side.
+
+These entities are possible to destroy through application of extreme heat, but if additional instances of SCP-1583 breach containment or if containment of other organizations fail, the energy required to neutralize SCP-1583 entities increases. In addition, the mass and speed of emergence has increased over time, currently being at 200 kilograms of matter every 15 seconds. 4 instances of SCP-1583 have been destroyed by the Foundation since initial containment.
+
+If an instance of SCP-1583 is opened, the pressure exerted by the organisms within all other SCP-1583 instances will increase by 60%, requiring additional pressure to prevent containment breaches. This new increase in force will be permanent, and no way of reducing or removing it has been found. The destruction of emergent SCP-1583 entities has been found to have no effect on the new forces produced by other instances of SCP-1583.
+
+SCP-1583 was recovered on 9/19/1989, after an SCP-1583 entity breached from an instance stored within the [REDACTED] campus. Foundation agents were able to destroy the emergent entities, and contained 20 instances of SCP-1583. During this time, SCP-1583 was classified as Euclid and contained within Site-57. However, approximately 6 months into containment, an uncontained instance was apparently breached, causing the destruction of Site-57. SCP-1583 reclassified as Keter.
+
+On 11/15/1999, Foundation assets were able to confirm that the GOC possessed instances of SCP-1583. The GOC is believed to have breached one instance in a 1990 destruction attempt, which caused the initial Foundation reclassification. GOC personnel were contacted, and the current joint containment procedures were negotiated.
+
+Addendum: Following the destruction of Site-57, Foundation and GOC research personnel were able to observe SCP-1583 entities interacting with one another and the area around them. Following the destruction, buildings and other structures were reconstructed from the entities mass. Several buildings which had been torn down or destroyed in the past 50 years were remade, such as the original barracks, greenhouse, and recreation areas.
+
+In addition, portions of the area covered by SCP-1583 entities were constructed to appear from the towns of ████, ████ ██ and ████████ ███. 3% of all research personnel formerly stationed within Site-57 originated from these areas. Humanoid entities have also manifested, bearing resemblance to these subjects. They display limited memory of their past lives, generally having idealistic or incorrect memories of the subjects past. In addition, entities may not match any individual subject, but a mixture of several whom were known to be friends or family members. These entities retain SCP-1583's properties, and should not be approached by Foundation personnel.

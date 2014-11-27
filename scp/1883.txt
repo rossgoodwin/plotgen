@@ -1,0 +1,63 @@
+Screenshot of SCP-1883
+
+Item #: SCP-1883
+
+Object Class: Euclid
+
+Special Containment Procedures: 17 copies of SCP-1883 are kept on mobile phones of various brands in storage at Wing D of Site 76. The phones are to be kept off when not in use, and only allowed to access the phone network through Site 76's secure data connection. When testing SCP-1883 tasks, ensure that targets of tasks are D-Classes or subjects abiding by the Ludd Antitechnic Directive (annexed).
+
+All extant copies of SCP-1883 must be erased with expedience after their origin is ascertained. █████ and ██████ corporations have been instructed to report any copies of SCP-1883 to Sigma Computing & Programmatics, one of the Foundation's cover businesses.
+
+Description: SCP-1883 is a "mobile app" or consumer software application designed to run on mobile phones running either ███ or ██████ operating systems. The interface for SCP-1883 consists of a single screen with a text area labeled "Score" and another labeled "Instructions".
+
+Provided a phone with SCP-1883 is connected to the mobile network, the "Instructions" field will be updated every 5 to 9 hours with a new "task" that the holder of the mobile phone is to perform, and an award in "points". If this task is performed before the instruction field changes, the "Score" field is increased by the number of points described. It is not known how SCP-1883 detects whether a task has been completed.
+
+Certain instructions require the user to interact with other human beings, by phone or in person. (e.g. "Call your friend that most hates spinach and tell them hello - 3 points") When such an interaction is performed, SCP-1883 spreads to the victim's mobile phone or phones through unknown means.
+
+SCP-1883 has a subtle compulsive effect on users, who describe the application using words as "interesting" and "fun" and attempt to perform the tasks even if they are pointless, dangerous or unlawful. This effect increases with large groups of SCP-1883 users, who compete with each other for points and follow informal hierarchies based on each user's score.
+
+SCP-1883 has come to the attention of the Foundation after the ██/██/████ incident, where at least 72 people in the cities of [REDACTED] irreparably wounded their left eyes with various household objects. Most of them were found to be in possession of a mobile phone with SCP-1883 installed.
+
+Instruction Log:
+
+Salute the sun. 1 point
+
+Find a horse. Watch horse for 30 minutes. 7 points
+
+Buy an ice cream cone and let it melt. Then eat the cone. 5 points
+
+Bang your head against a wall. 3 points
+
+Call your friend that most hates spinach and tell them hello. 3 points
+
+Tell a stranger what you really think about them. 10 points
+
+Turn gold into lead. 999 points
+
+If Babe Ruth was that great, why did he need a bat?
+
+Rob a bank. Only take quarters. 150 points
+
+Convince another person that you are dead. 0.5 points
+
+Find a yellow dog and kick it. no points
+
+Eat something that has been in a grave. 200 points
+
+Gain 5 points. 5 points
+
+Ignore this task. 21 points
+
+Walk on glass. Describe the noise it makes. 90 points
+
+Love someone. 15 points
+
+Burn an irreplaceable object. Replace it. 100 points
+
+Breathe. -200 points
+
+[DATA EXPUNGED] 300 points
+
+[DATA EXPUNGED] 450 points
+
+The real skeleton was inside you all along. Are we cool yet?

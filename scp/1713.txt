@@ -1,0 +1,189 @@
+An example of an autonomous machine located within one of SCP-1713's main levels.
+
+Item #: SCP-1713
+
+Object Class: Safe
+
+Special Containment Procedures: Due to the immobile nature of SCP-1713, Site-71 has been constructed in order to contain the object, and to provide a proper processing unit for any materials entering into SCP-1713, or any objects that SCP-1713 may create. Any objects that are created must be inspected by containment staff. No personnel are to enter the core for any reason - any exploration will be performed by remote control robot. Any objects transported out of Site-71 must be cleared by at least three Level-3 personnel. Under no circumstances should personnel be on level eleven. All personnel must wear dosimeter tags while within SCP-1713.
+
+In the event of automatic start-up, all personnel are to immediately evacuate from levels six through twelve, while remaining out of the way of active machinery. Containment teams are to immediately report to the surface to receive any objects produced by the SCP.
+
+Description: SCP-1713 is a large underground factory complex that is constructed primarily of brick, steel and glass. This factory is dedicated to the construction of 18th century goods. Inside the complex is a variety of machines that are clockwork-based; these make up part of a large factory construction line. Disassembly of the industrial machines reveal complex assemblies, including gear trains, unseen types of transmission, and large steel timing chains. Chemical testing of the machines reveals the components to be composed of mostly iron ( > 95%), with the remaining elements composing of traces of carbon, manganese, chromium, nickel and tungsten. No abnormal properties have been observed with the machine parts.
+
+SCP-1713 is divided into 12 levels, with each level connected by elevators and large transport tubes. Ladders, crawl ways, stairwells and suspended catwalks allow for human access into the structure. All levels are connected by a large shaft which routes electricity, water, communication wires and pipes throughout the entire complex. Inside each level is a series of iron chain conveyor belts and tracks for autonomous machines to follow. The complex has been divided into the following:
+
++ Open Floor Plan
+
+- Close Floor Plan
+
+The surface structure is designed for mass storage and preparation for transport. It also provides a point where raw materials can be sent to the raw materials level. Models to be produced are designated from the control room situated within the building;
+
+The first level is the finishing level, where paint is applied, joints are lubricated, and general function of produced items are passed through a quality control system. Any items observed to have failed the forge's automatic quality control is sent down a chute to the recycling level;
+
+Levels two through five are assembly levels - machines at these levels are dedicated to taking components and constructing assemblies from individual components. Level 2 is dedicated fully to completing the products, and is equipped with advanced robotic arms and assembly machines.
+
+Levels six and seven are dedicated to the creation of components. Machines at this level are designed to work with extremely hot material, including molten steel and molten brass. Small machines create dies for larger machines to use for object molds. Example machines at this level include slag stirrers, automatic temperature gauges, oxygen blasters and robotic flyers that scoop up samples of the molten metal for quality testing;
+
+Level eight is a recycling level - any refuse from the higher levels of the complex is sent to this level to be sorted and melted down, before being re-processed. Insect-like robots have been observed to take apart faulty objects and sort them into large bins. Automatic carts take the bins and dump them into a large blast furnace, with stirring machines and air injectors keeping the mass settled. Liquid is transported from this level by large bucket to the seventh level for further processing;
+
+Levels nine and ten are storage for raw ores and materials. Automated carts and arms can be seen transporting materials taken from the surface and transporting them to the elevators for melting down at the upper levels. Materials that have been located at this level include coal, iron ore, bauxite, silicon dioxide, copper ore, and unprocessed gemstones. Robots at this level sort out material brought down from the surface level, and deposit them into large piles according to their type;
+
+Level eleven is the power core of the facility - no robots have been observed at this level;
+
+Level twelve is the research and development workshops of the facility. Robots at this level can be seen developing designs and occasionally send a message via pneumatic tube to the surface for processing. As of this moment, all 65 machines at this level have been shut down, and have been accounted for.
+
+Machines found at various levels include:
+
++ Open Machine List
+
+- Close Machine List
+
+Blast furnaces;
+
+Metal shears;
+
+Hydraulic presses;
+
+Sand blasting machines;
+
+Water jet cutting arms;
+
+Robotic arms;
+
+Large-scale mills and lathes;
+
+Oiling machines;
+
+Magnetic arms;
+
+Degaussing assemblies;
+
+Crucible cranes;
+
+Steam rollers;
+
+Metal planes;
+
+Vacuum pumps, and
+
+Stamping/engraving arms.
+
+In addition to the machines found throughout the facility, various automatons have been observed to work throughout the facility. These machines (with the exception of the machines on level twelve) are based off Babbage-style engines, and are charged periodically by connecting to electrified poles through the levels. Disassembly of a specimen reveals that the machine recharges through electrostatic contact with the poles, and retain the charge through a basic parallel plate capacitor. These automata are made of a similar alloy to the larger, stationary machines. Small automatons rely on fluid or cable-based computers for their instructions, while larger automatons use mechanical computers. The following is a list of observed robots and their functions:
+
++ Open Automaton List
+
+- Close Automaton List
+
+Water-blasting automatons to cool pieces from cutting operations;
+
+Automatons equipped with arc welders to periodically repair the steel supporting structure. These machines also house larger capacitors to store the necessary charge;
+
+Dozer-style machines to clean the level floors and deposit any debris towards a reprocessing tube;
+
+Maintenance automatons that replace and repair any damage to a machine;
+
+Automata equipped with insectile appendages sort out and disassemble faulty components;
+
+Centipede-like machines that move along the top of ingots, inspecting for impurities;
+
+Flying machines that have two rotary blades and are armed with claws. They transport parts to various levels, destroy obstructions or deter intruders (two staff have been injured by these sentries);
+
+Spider-like robots that maintain the integrity of the structure, and
+
+Snake-like robots that are used to inspect the interior of large assemblies and machines.
+
+NOTE: SCP-1713 is creating new robots in response to containment. All staff must refer to Addendum 1713-02 for further instructions.
+
+These lists are by no means exhaustive - research staff are still cataloguing machines and automatons that are discovered.
+
+The core of SCP-1713 is located at the second-lowest level of the complex, and is surrounded by blast doors constructed of a combination of lead plating, iron plating and cadmium plating. Inside the core structure is a reactor bank, composed of 18 glass cylinders arranged on a icosahedral steel object, that is attached by 3-meter thick poles to the floor and ceiling of the room. Pipes filled with a water-like fluid are connected to the suspended cylinders, and are believed to act as a cooling system. The radiation dosage at the core icosahedral structure has been measured in excess of 50 sieverts/hour, making human exploration of the floor extremely dangerous. The radiation from this level extends throughout the facility, though the highest radiation levels are located exclusively on level eleven.
+
+The lowest level of SCP-1713 is composed of small workshops, which appear to have been used to model machines for the main lines, as well as provide models for the machines to produce. On this level, a storage unit has also been located, and completed models have been located in this storage unit. Objects include toys, weapons, personal vehicles, animals and implants. A list of items obtained from level twelve can be found in Addendum 1713-01.
+
+The robots from the lowest level are designed with insect-like appendages for manipulating machines and tools. The distinguishing feature of these robots is that, in the core of each robot, there appears to be a human brain. None of these robots have been disassembled as of this writing. It is assumed that the robots are sentient, but are designed to do nothing but to design. Attempts to communicate with these robots produces no response.
+
+SCP-1713 was discovered located on the island of [REDACTED] within the Pacific Ocean in 1999. Archaeologists exploring the area accidentally came upon the surface building, and brought up some of the materials from the storage units. When the Foundation was alerted to the presence of the SCP, a research team was sent in to contain the object. Upon discovering the actual size of the object, it was decided that Site-71 would be set-up in order to experiment with and take advantage of the SCP.
+
++ Open Addendum 1713-01
+
+- Close Addendum 1713-01
+
+Addendum 1713-01: The following is an incomplete list of model prototypes that have been located within SCP-1713. Items that have been subjected to non-destructive and destructive testing will have notes attached:
+
+Model Number
+
+Item Appearance
+
+Item Description
+
+B-21-612-11
+
+Clockwork bird
+
+Wind-up bird, modeled after a parakeet, that can hop and flap wings. Item made from oak wood, brass, ruby jewel bearings and glass
+
+C-44-220-04
+
+Steam Carriage
+
+Carriage constructed out of wood, with an attached steel steam piston engine
+
+B-67-127-01
+
+Clockwork Housecat
+
+A common housecat, Felis catus, constructed similarly to the bird mentioned above. Item is covered in artificial fur
+
+P-42-412-43
+
+Venus Flytrap
+
+A Venus flytrap, constructed from brass gears, steel teeth, cotton cloth coverings and a wooden stalk. Flytrap is fully operational, injuring one researcher who placed his arm down the trap to observe the gear train
+
+R-55-124-00
+
+Rolling Disc
+
+A circular disc, with bearings underneath and a complex transmission system inside. When operated, disc functions as an automatic personal transport
+
+W-45-124-55
+
+Plasma Pistol
+
+A 18th century duelling pistol, with a miniature reactor similar to the one found in SCP-1713, built into the handle. When tested, a 50 meter line of white light was observed to leave the barrel of the pistol, disintegrating the test target. Extensive thermal damage was noted along the entirety of the line of light. Observing staff (minus the user) were rendered permanently blind. How the user was not harmed remains under investigation
+
+I-12-889-72
+
+Camera Eye
+
+A glass eyeball, with two complex gear and chain assemblies on the inside, mimicking the function of a normal human eyeball. Testing of this object is to be scheduled for a later date
+
+E-51-712-12
+
+Polygraph Counter
+
+A Geiger-style counter that can register blood pressure, heartbeat and respiration. Currently stored within Site-71, awaiting approval to be sent to Site-19
+
+I-51-666-71
+
+Artificial Human Head
+
+A human head, designed out of glass, ruby bearings and brass gears. The brain is replaced by a system of gears resembling a difference engine. A wind-up key was located at the base of the skull. When the key was turned, the head began to speak, mentioning items such as how to create an effective lubricant out of human semen, safely dismantling the flytrap, and how to create a dessert cake from [DATA EXPUNGED]. Head is currently in isolated storage on Site-71, pending approval for transport to Site-19 for further examination and possible SCP classification
+
++ Open Addendum 1713-02
+
+- Close Addendum 1713-02
+
+Addendum 1713-02: The factory complex, in apparent response to continual human exploration, has started constructing new automatons. Observed and captured specimens reveal a set of mechanical glass eyes, as well as a complex card-punching system that punches information similar to binary code onto a cardboard sheet. Automatons have been observed to be following Foundation personnel throughout the structure, and around the island site. Foundation staff are to remain aware of these robots, and are to immediately report to EngO Xiao in the event of new automatons being observed.
+
++ Open Addendum 1713-03
+
+- Close Addendum 1713-03
+
+Addendum 1713-03: The following is a collection of photos taken from exploration into the structure:
+
+A recovered engine taken from a damaged milling machine. The engine was replaced by maintenance robots two hours later.
+
+An inspector robot that was taken to a testing chamber within Site-71. The robot did not resume normal operation until it was returned to its proper sublevel.
+
+A collection of firearms produced by SCP-1713. No anomalous effects were observed from the handling and testing of these weapons.

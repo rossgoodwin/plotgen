@@ -1,0 +1,39 @@
+Item #: SCP-1686
+
+Object Class: Euclid
+
+Special Containment Procedures: The area encompassing SCP-1686 is considered to be the extended grounds of Research Site-27 and is to be closed to civilian traffic under the cover of a military proving ground. If at any time unauthorized persons are found within the area of SCP-1686 they are to be detained and questioned in accordance with Large Site Security Operations Protocol 52-A.
+
+The perimeter of SCP-1686 is to be monitored at all times by members of Research Site-27 security staff via 120 WFOV cameras installed along the perimeter and satellite imagery, as provided by site-dedicated Satellite-219-F. Scans of the area are to be made weekly by personnel using scout vehicles on roads built for that purpose.
+
+In the event of activation of SCP-1686 all facility personnel are to remain on-site. Following the activation period, research and recovery staff are to be deployed within the grounds of SCP-1686 to recover any and all organic materials produced by SCP-1686's effect. These materials are to be cataloged and examined within main site complex. Any materials found to be of an anomalous nature are to be retained for study and any non-anomalous organic materials are to be incinerated on-site.
+
+Revision: 09/10/10: In the event that non-biological material is produced by SCP-1686, materials are to be retained for study in accordance with Extra-Dimensional Object Protocol 11-A.
+
+Description: SCP-1686 is an area of land encompassing approximately 750 km2 of ██████ County, South Dakota. The physical topography of the area consists primarily of grassland plateaus and has not been found to be of an anomalous nature. The flora and fauna of the region have not been known to possess any anomalous properties, although animal population levels in the area are lower than those of the surrounding environs. The area is currently uninhabited, with the exception of Foundation personnel monitoring the phenomenon and conducting biological research.
+
+Once every 20-50 days, SCP-1686 will enter its active state. During this period, cumulonimbus clouds will form within SCP-1686, generally encompassing around 60% of the total area. These clouds will rotate in a counterclockwise direction within SCP-1686 (as viewed from above) and have never been observed to exit the area of SCP-1686. Upon reaching a stage of development normally associated with the production of liquid precipitation, clouds will begin to produce via an unknown mechanism a large number of marine organisms. These entities, which consist largely of fish and other aquatic organisms (see Addendum SCP-1686-1), then fall to the earth normally. It is estimated that approximately 93% of all organisms produced by SCP-1686 are live at time of production, although very few have been known to survive transit to earth. Organisms which do survive transit generally expire shortly thereafter.
+
+Clouds produced within SCP-1686 generally dissipate after a period of 5-7 hours, although they have been known to persist for up to a week. While not in its active state, SCP-1686 has not been known to exhibit any unusual properties, although remains of precipitated organisms do persist within the area for a non-anomalous period of time.
+
+Addendum 1686-1: Organisms produced by SCP-1686 have been noted to possess unusual properties and physiology not concurrent with that of those known to exist within Earth's oceans. These organisms have included but are not limited to:
+
+Thunnus albacares (yellowfin tuna) with dorsal fins elongated to a length of 6m and possessing an especially flexible cartilaginous structure.
+
+Caspiomyzon wagneri (Caspian lamprey) of a length exceeding 7m.
+
+An unknown species of crustacean bearing similarities to both Nephropidae (lobsters) and Conidae (cone snails) capable of producing a chemical which, when ingested by a human subject, produces extremely vivid hallucinations followed by death by cerebral hemorrhaging within 16 hours.
+
+A specimen of Carassius auratus auratus (common goldfish) featuring three extra pairs of dorsal fins with advanced bone and muscular structures, along with a greatly enlarged hindbrain (the area generally associated with motor control).
+
+A school of upwards of 320,000 miniature Istiophorus albicans (Atlantic sailfish), each approximately 3cm in length.
+
+A currently un-identified species of predatory marine organism of unknown taxonomic classification similar in appearance to an extremely large Amanita muscaria (fly agaric, a type of toadstool), featuring a propulsion siphon and a variety of bulb-like growths thought to serve as navigational aids.
+
+Addendum 1686-3: 07/07/79: A previously-unknown species of fungus was found to have infested a large section of grassland within containment area, believed to have originated from an SCP-1686 produced organism. Evidence indicates it was most likely originally found within a mucus membrane of an unidentified filter-feeding organism similar in appearance to Scyliorhinidae (catsharks). Infestation grew to cover an area of approx. 3 km2 within a period of 23 hours during an extended downpour. Containment teams were successful in destruction of infestation after several attempts. Samples of fungus have been retained for study.
+
+Addendum 1686-4: 05/06/86: A large increase in the proportion of Selachimorpha (sharks) produced by SCP-1686 as compared to other groups has been reported. Organisms show abnormalities similar to those present in previously recovered specimens, with an especial propensity towards increased size.
+
+Addendum 1686-7: 10/12/97: First recorded instance of mammalian organism produced by SCP-1686. Organism found to be genetically similar to Balaena mysticetus (bowhead whale) following cleanup. Extensive damage done to portion of research facility as a result of collision. Cover story issued to in-range radar towers regarding testing of experimental targeting systems on large targets to account for radar contact. All future developments of Research Site-27 are to be situated underground and current main facility is to be relocated accordingly.
+
+Addendum 1686-10: 09/10/10: A large (approx. 30m in length), presumably ocean-going vessel was observed to fall from cumulonimbus clouds formed within SCP-1686. The vessel was largely destroyed by impact, but video and forensic evidence indicates that its structure was not congruent with that used by any known culture within historical record. Samples recovered also indicate that the materials used to construct the vessel, thought to be a kind of extremely dense fungal structure, do not match any known materials. The addition of increased shielding to site facilities has been recommended and is currently under review in progress (09/12/10).

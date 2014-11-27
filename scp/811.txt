@@ -1,0 +1,125 @@
+Item #: SCP-811
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-811 should be kept in a climate-controlled, cylindrical glass enclosure, between ten (10) and twenty (20) (inclusive) metres in diameter, filled to a depth of no less than two and a half (2.5) metres on average with wetland soil and stagnant fresh water. It is to be furnished with a variety of aquatic plants from its native swamp in █████, as the remaining vegetation there has exhibited the adaptation to regrow quickly from injuries endured during contact with SCP-811 as long as the roots are undamaged. Logs of manageable size and additional humus-rich soil may be provided for good behavior.
+
+Water depth is not to exceed half a metre (0.5) at its lowest point. Height of the enclosure must be no less than five (5) metres above the highest soil point. Temperature is to be kept at 25°C, and humidity should be kept above 70%. There is to be a decontamination airlock chamber between the door into the enclosure and the door into the rest of the facility. Air that is ventilated into the enclosure should not be recirculated back into the rest of the facility under any circumstances. The methane resulting from SCP-811's normal interaction with its environment is not anomalous and may be bottled for use as fuel. No heated elements or open flames are permitted inside the enclosure.
+
+The enclosure must be tested daily for pH and microbe levels in both the soil and water, as well as for changes in chemical composition. Enclosure should be cleaned biweekly, preferably by D-class personnel. All discarded waste should be put in quarantine for analysis before disposal by standard biohazard protocol.
+
+Subject is to be given at least five (5) kg of live food 24 hours after its completion of its previous meal. Subject is not averse to preying on humans, and it is recommended that personnel not enter the enclosure if SCP-811 has not fed in over 16 hours.
+
+No invasive medical procedure may be performed on SCP-811 outside of emergency situations in which such a procedure is required to save the subject's life. Minimally invasive procedures require review and unanimous approval by SCP-811's assigned medical team and the current project head. See Document 811-b for a list of substances that may be administered as medication to SCP-811.
+
+All requests by the subject are to be reviewed by both an overseeing animal enrichment specialist and at least one Level 3 personnel before approval, and the review should not take more than 48 hours, unless exceptional circumstances dictate otherwise.
+
+While SCP-811 is not generally aggressive unless it feels hungry or threatened, all handling personnel are to be cautioned that it is still an opportunistic ambush predator, and safety precautions must still be taken to avoid possible injury or infection. All personnel entering the enclosure must wear full-body, non-organic biohazard suits and breath masks, and must be in groups of at least two. No personnel are to enter the enclosure if they have open wounds or sores anywhere on their body. Those suffering from asthma or other respiratory-affecting conditions are prohibited from entering the enclosure without a signed note from a physician with Level 4 security clearance.
+
+As far as research indicates, SCP-811 cannot cause serious injury to anyone properly wearing their biohazard suit. Anyone who removes any part of their biohazard suit while still in the enclosure, for any reason at all, will be subject to disciplinary action, up to and including reassignment to a project that would not be adversely affected by their status as an amputee.
+
+Description: SCP-811 is shaped similarly to a human female with disproportionally long and thin limbs and a slightly-bloated abdominal region. It is 171 cm tall, and weighs just under 47 kg due to its strange physiology (see Addendum 811-2 for details). Its skin has slight abrasive properties, and is a mottled green color that serves to camouflage it among the reeds in its natural habitat. Its sweat has been observed to act as a mild skin irritant. It has extremely oily black hair that has proven to be resistant to cleaning with conventional shampoos (See Addendum 811-1). It shows partial comprehension of human language, consistent with case studies of "feral children" that had been abandoned at a few years old, instead of as infants.
+
+The palmoplantar surfaces of SCP-811's skin constantly secrete a clear, green-tinted mucus with minor adhesive properties. This mucus does not appear to have any effect on SCP-811's own tissue, but any other organic matter that it comes into contact with begins to rapidly decompose, through processes not fully understood, reducing the matter into a slightly viscous black liquid.1 SCP-811 can then absorb said liquid through its skin and directly into its circulatory system. Tests have shown that SCP-811's entire circulatory system is filled with liquefied decaying matter. Biopsies taken from SCP-811 have shown the presence of anaerobic bacteria in all examined cells, which, due to the apparent lack of anything resembling functional red blood cells in the subject, are currently presumed to be what SCP-811 uses to metabolise the chemicals in its circulatory system.
+
+SCP-811 does not defecate or otherwise produce feces in the traditional sense, and entirely lacks a small or large intestine. Instead, cellular waste and substances SCP-811 is unable to metabolise collect in what is, anatomically speaking, its stomach. Within the stomach, enzymes and bacterial flora cause it to congeal into a grainy, tar-like substance that SCP-811 periodically voids by voluntary projectile regurgitation, a mechanism which it uses to hunt. It preferentially aims at the face or at any perceived open wounds on its target, then waits for the target to die of either immediate asphyxiation by blockage of the mouth and nose, or in a few days of multi-systemic failure resulting from aggressive bacterial infection. SCP-811's teeth did not seem to have any abnormal resistance to decay resulting from chronic exposure to the compounds and microflora in its waste (See Addendum 811-1).
+
+Prognosis for personnel who have had contact with SCP-811's waste through a mucous membrane or open wound is good if broad-spectrum antibiotic therapy is begun in the first three hours, but then rapidly declines. Personnel who are D-Class or have gone 12 hours without getting treatment may request termination.
+
+Addendum 811-1: To date, SCP-811 has requested:
+
+Regular delivery of bovine prey (denied)
+
+That crocodilians be removed from its prey animal rotation (approved)
+
+The water be stocked with a variety of fish species from its native █████ (denied)
+
+One (1) hair brush, made of 100% synthetic materials (approved)
+
+For 1 D-class personnel to, every other day, come in with a basin and showerhead to wash and condition its hair (approved); it has been noted that standard-strength hair shampoos do not adequately clean away the excessive oil in SCP-811's hair, and use of a formula with a higher proportion of stronger surfactants has been authorised.
+
+To be addressed by a two-syllable name that has been transliterated as “Aé”, SCP-811 being illiterate, and thus not capable of choosing a spelling for itself (approved)2
+
+Relief from its chronic tooth pain. (approved); request was initially denied until a safe and effective method of administering general anesthesia to SCP-811 was discovered and a dental surgery plan devised. Tooth #47 (FDI two-digit notation) removed to test method and adjust for unpredicted special aftercare requirements. Remainder of SCP-811's teeth removed and overdenture implants installed in a second operation. SCP-811 supplied with complete dentures, to be repaired as needed.
+
+One (1) turtle in a hazmat suit for non-dietary purposes (denied); turtles accordingly removed from prey animal rotation. Possibility of placing a small turtle habitat in the observation area outside SCP-811's enclosure for enrichment under consideration.
+
+Addendum 811-2: Due to the fact that SCP-811 has lungs and teeth — despite having no apparent use for either — it was brought to Bio-Research Area-12's radiology lab for X-rays, to examine its internal structure. Results were inconclusive.
+
+Subsequent MRI testing has revealed that SCP-811 has a number of unusual glands and organs attached to its lymphatic system, which may assist in regulation of its ichor's viscosity and microbial flora. One such organ in the abdominal region appears to contain lighter-than-air gas. The possibility that SCP-811 was once [REDACTED] is being explored.
+
+Due to the impossibility of maintaining a sterile operating environment, limited understanding of SCP-811's biology, and difficulty in calculating the subject's mass, the risk of major complications or subject death has been deemed too high to authorise exploratory surgery.
+
+Interview Log 811-16
+
+Interviewers: Dr. Trebuchet, Junior Lab Assistant Wachtel
+
+[Dr. Trebuchet and Junior Lab Assistant Wachtel enter SCP-811's containment unit. Dr. Trebuchet is carrying a clip board with a document on it and a shoe box.]
+
+Dr. Trebuchet: Aé.
+
+SCP-811: Dockty. What want?
+
+Dr. Trebuchet: Questions.
+
+SCP-811: [points to shoe box] Food.
+
+[Dr. Trebuchet nods, opens the shoebox. A frog jumps out]
+
+[SCP-811 brings her foot down on the frog as it lands, and begins to digest it.]
+
+SCP-811: [grins] Dockty wants kestins?
+
+Dr. Trebuchet: Yes. [hands the clip board to Wachtel, points to something on it]
+
+Wachtel: [reading from the clip board] What is the earliest thing you can remember?
+
+SCP-811: Air-wee is thing?
+
+Wachtel: Um…
+
+Dr. Trebuchet: Early things. Things… before.
+
+SCP-811: [seems to understand] Before box?
+
+Dr. Trebuchet: Before before box.
+
+SCP-811: [appears thoughtful] Most before?
+
+Dr. Trebuchet: [nods vigorously] Yes.
+
+SCP-811: [with sweeping, demonstrative arm and hand movements] Big man. Tall. Aé small, very smaller than man. [uses hand to indicate a height of approximately one meter off the ground] [points to her own arm] Was like man.
+
+Dr. Trebuchet: What was like him?
+
+SCP-811: [pinches some of her skin between two fingers] This! Not like Aé. Like man. Like people.
+
+Dr. Trebuchet: Your skin?
+
+SCP-811: Skin… [prods her arm thoughtfully, then smiles] skin.
+
+Wachtel: [alarmed] Wait, you mean you had skin like ours?
+
+Dr. Trebuchet: It appears so. Aé, what after?
+
+SCP-811: [pointing to the inside of one elbow] Pain stick here. Cold.
+
+Dr. Trebuchet: "Needle", Aé. Key're tha—[clears throat] They're called "needles".
+
+SCP-811: Knee-doll here. Cold.
+
+Dr. Trebuchet: And then?
+
+SCP-811: Pain. [pantomiming something coming out of her mouth] Red. Red red red. Was… very hunger-y. Scared. Ate man. Skin… like this.
+
+Wachtel: Oh god…
+
+[At this point, Wachtel begins to vomit in his hazmat suit. SCP-811, misinterpreting this as a sign of hostility, retreats into one of the pools of water in its enclosure, and does not resurface until both Wachtel and Dr. Trebuchet have left]
+
+Notes: While I understand the appeal of training the new blood on something relatively harmless and as green as they are, could you please throw them at some other humanoid for a while? I'm trying to actually get things done here. ~Dr. Trebuchet
+
+Footnotes
+
+1. Prognosis and procedure for personnel who have come into contact with SCP-811's digestive mucus is the same as for naturally-occurring necrosis and gangrene once the mucus has been washed off.
+
+2. Due to SCP-811's difficulty with language, it has been deemed acceptable to use its chosen name when directly speaking to it for the purpose of streamlining meaningful communication.

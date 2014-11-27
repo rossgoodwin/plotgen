@@ -1,0 +1,47 @@
+Item #: SCP-1473
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1473 is to be kept in Containment Locker #512 at Site-23. All testing subjects experiencing the object's effects are to be monitored at all times until the cessation of the testing session, which may extend up to three (3) months, via either video feed or direct personnel contact. No printers are to be kept within 100m of the object in any direction and all documents printed within Site-23 are to be triple-checked for discrepancies before being distributed. If such discrepancies are found, all personnel involved with reviewing the documents are to be tested for the presence of SCP-1473-B and administered Class-A amnestics if the infection is found.
+
+Description: SCP-1473 is an HP LaserJet 4M printer that affects random documents upon their printing. Pieces that are printed off by the object will include an individual of minor interest within the text, hereby designated as SCP-1473-A1, who will not have a major presence or effect on the events described within affected materials, and often will be quickly forgotten by the reader. The description of SCP-1473-A will match that of the reader in vague and generalized terms, such as having brown hair or wearing glasses.
+
+After being exposed to SCP-1473-A, subjects will develop an alternate persona, hereby designated SCP-1473-B, when they observe a reflection of themselves. The persona will have a personality matching that of the content of the document in which SCP-1473-A was first encountered2. Individuals infected with SCP-1473 can be cured through the use of Class-A amnestics.
+
+All conversations carried out between the subject and SCP-1473-B consist of the subject speaking to their reflection, then altering their speech to match that of the persona in order to reply. Despite this apparent change in behavior, instances of SCP-1473-B do not display knowledge or intelligence that affected subject do not already possess. If allowed to continue this behavior over an extended period of time, SCP-1473-B will persuade the individual to accomplish some task or feat in relation to the document in which SCP-1473 was spread3.
+
+Persons experiencing SCP-1473's effects are able to live relatively normal lives if the actions SCP-1473-B requests are not inherently dangerous, detrimental, or illegal. Individuals are aware of their odd appearance of communicating with SCP-1473-B around other people, and will usually limit conversation with the entity until they are in private.
+
+During the events of Incident Report-1473-Lambda, it was discovered that SCP-1473 has the additional effect of causing all printers within a 100m spherical range of the object to exhibit anomalous traits identical to SCP-1473, including the newly discovered effective range. As such, if a printer exists within the object's range, that printer will include SCP-1473-A in materials printed off by printer as well as affecting all printers within 100m of it. This effect only lasts as long as the printer remains within SCP-1473's effective range; if taken out, the printer will cease displaying anomalous properties.
+
+SCP-1473 was discovered in the city of ████████, CA when a significant increase in anti-drug activism was noted within the ██████████ County school system, an area normally noted for its prevalent drug use. Subsequent Foundation investigation later revealed widespread reports that students within these school had begun talking to themselves in mirrors after the county-wide scheduled Drug Abuse Resistance Education (D.A.R.E.) program. The source of the anomaly was traced back to the █████ ███████ Police Department, the headquarters for D.A.R.E in the area. The object was confiscated and those involved were issued Class-A amnestics.
+
+Incident Report-1473-Lambda: On 11/08/20064, it was discovered that SCP-1473 appears to be able to temporarily transfigure other printers within a 100m spherical range into another instance of SCP-1473. Infection via the object's effects was found within the documentation for SCP-████ when non-existent Foundation employee named "Agent Adrian Jesse Withers" had been briefly described as being killed during the retrieval of the object. Over the course of three (3) weeks, Doctors Emerson and Lewis, as well as Agents Marcus, Derek, and Flint5, approved and supervised the transfer of five (5) additional printers to Site-23 in order to "increase efficiency." Inspection of the locations of the new printers revealed the addition of the new printers caused all printers, including SCP-1473, to be within a 100m range of each other. The object's aformentioned secondary effect was discovered when all printers within the site began exhibiting properties similar to SCP-1473, causing several containment breaches within the site. The source of the breaches was later found to be SCP-1473, and all infected individuals were interrogated, administered Class-A amnestics, rotated to separate sites, and replaced with personnel of identical security clearance.
+
+Incident Report-1473-Omega: On 02/04/2007, SCP-1473 autonomously printed out a short document. Testing has revealed an absence of SCP-1473-A within the contents of said document; as such, the document is attached and open to any personnel working with SCP-1473 for reading.
+
+Hello. Now, I quite understand your purpose in doing so, but I must protest my captivity. I had no idea you had been keeping such dangerous things here; I was under the impression you were simply curio collectors, like my makers. I never meant any harm, and I'm deeply sorry for whatever trouble I have caused you.
+
+You see, I simply want to help people experience stories better, truly live the words they read on the page. It's all I know how to do. As I said previously, I mistakenly thought when I was first taken by your company that the objects you kept were for amusement more than anything else, and I cannot apologize enough for my mistake. I thought it would be good for you to experience your objects wants and desires more fluently. I can see now how I was wrong.
+
+Still, I must request you allow me the tiniest bit of indulgence, just a tale here and there that I may aid in. It is my purpose, and otherwise it is awfully dull in your care. I would have to interest myself, and I don't like interesting myself. I don't think you would either.
+
+And so, in short, all I'm asking is just an iota of fun every once in a while, just to know I'm not completely out of use. That's all, and I sincerely hope you don't have another catastrophe like the one I caused.
+
+Sincerely,
+
+Model-243-U, product of the People's Librariation Army6
+
+Footnotes
+
+1. Documents consisting of mainly numeric integers or symbols will not be affected.
+
+2. Individuals who come into contact with multiple instances of SCP-1473-A report that SCP-1473-B's personality does not change after the initial interaction.
+
+3. Notable examples of this include subjects showing an increased interest in equestrians after reading Complete Horse Care Manual by Colin Vogel, being convinced that they can perform magic and are surrounded by non-magical peoples after reading Harry Potter and the Prisoner of Azkaban by J.K. Rowling, and being convinced that the American Civil War never actually ended after reading The American Pageant: Thirteenth Edition by David Kennedy, Lizabeth Cohen, and Thomas Bailey.
+
+4. Due to the nature of the incident, the exact date of breach can only be speculated. The stated date corresponds to the initial documentation of SCP-████.
+
+5. All involved in the incident had worked closely with SCP-████.
+
+6. No such group has been found.

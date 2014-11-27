@@ -1,0 +1,129 @@
+The aftermath of Incident SCP-2581-73, photographed in 20██
+
+Item #: SCP-2581
+
+Object Class: Euclid
+
+Special Containment Procedures: As the originating cause of SCP-2581 has not been identified, pre-emptive containment of SCP-2581-X incidents is not presently possible. Containment personnel shall use operatives within Foundation-managed holding companies and analysis of conventional and social media to investigate reports of offensive or vandalized greeting cards for possible SCP-2581-X outbreaks. Confirmed incidents shall be contained through temporary closure of affected premises for the duration of anomalous effects, under the pretense of building maintenance or health code violations.
+
+Foundation-related holding companies with retail assets shall promote digital and social-media alternatives to physical greeting cards and encourage policies of gradual reduction of floor space dedicated to greeting-card sales, in order to reduce the number of possible vectors for SCP-2581.
+
+SCP-2581-41 is contained at Site-28 in a facsimile of a typical retail greeting-card aisle, which shall be kept stocked with greeting cards in sufficient quantities to sustain the incident. SCP-2581-41 shall be examined by research staff every eight hours to record the content of affected cards and measure the extent of the outbreak. Affected cards shall gradually be removed, incinerated and replaced with new cards in order to keep the proportion of affected cards below fifty percent at all times.
+
+Description: SCP-2581 is the phenomenon which generates incidents of SCP-2581-X, which are individually designated as SCP-2581-1 through SCP-2581-141 as of the date of this log (██/██/2014). While the originating cause of SCP-2581-X outbreaks is unknown, all incidents have been recorded in concentrations of commercial greeting cards that reach a certain critical mass; the smallest recorded incident was recovered from a department store in [REDACTED] containing approximately 2300 cards, while the largest occurred in a shipping warehouse owned by the [REDACTED] Corporation, which contained over 3.7 million cards.
+
+Incidents of SCP-2581-X are initiated when a single card spontaneously acquires a previously absent religious theme in the case of secular cards or adopts a different religious theme in the case of non-secular cards. Each incident of SCP-2581-X spreads themes related to a single religion, which is unique to that incident; each religion that has been recorded has not reappeared in any future incident. Early outbreaks of SCP-2581 primarily featured faiths with a history of religiously themed greeting cards, proselytizing traditions, and living practitioners. However, later outbreaks have increasingly featured religions that lack some or all of these traits, including several religions that do not correspond to any belief system known to exist in human history. Affected cards retain many basic traits of the original card, such as the general subject or event commemorated, the language and script of any text, and the style and scale of artwork.
+
+Unaffected cards positioned close to an affected card will undergo conversion to the religion adopted by the initial affected card. Conversion requires a period of uninterrupted proximity or line of sight to an affected card ranging from an observed minimum of twelve minutes to a maximum of six hours, after which transformation is instantaneous. This process proceeds in order of physical proximity; cards will convert their immediate neighbors before affecting more distant cards. Absent immediate neighbors, cards will convert any card within line of sight. Conversion distance is extremely limited without a direct line of sight, with an observed maximum of 1.2 meters.
+
+Approximately 48 hours after exhausting all avenues of further conversion, all affected greeting cards spontaneously disappear. Attempts to identify the destination of affected cards with embedded tracking beacons have produced no results. A small proportion (roughly one in two thousand) of greeting cards are unaffected by SCP-2581 and are left behind by the disappearance of affected cards. Research is ongoing to identify common factors present in cards that have demonstrated immunity to SCP-2581-X outbreaks.
+
+SCP-2581-41 is an incident contained on ██/██/20██, in a ██████ gift shop in [REDACTED], United Kingdom, after a customer complaint alerted a Foundation agent posted in a senior management position at ██████ for observation of [DATA EXPUNGED]. Foundation operatives closed the shop and secured all greeting cards present in the store. The confiscated cards were airlifted to SCP-2581-41's current containment location at Site-28, during which 92% of cards were found to contain messages relating to the traditional religion of the Akan people of Ghana and the Ivory Coast.
+
+Addendum:
+
++Partial Incident Log SCP-2581-X-03
+
+-Hide
+
+Incident: SCP-2581-13
+
+Sample Card 01 Initial Message:
+
+A photograph of an open Bible - "Congratulations! On Your Confirmation"
+
+Sample Card 01 Final Message:
+
+A photograph of an open Torah scroll - "Congratulations! On Your Confirmation"
+
+Sample Card 02 Initial Message:
+
+Outside: A gold outline of a rose - "In Deepest Sympathy"
+
+Inside: A gift card for groceries from ████████ Stores - "Our hopes are with you in this difficult time."
+
+Sample Card 02 Final Message:
+
+Outside: A gold outline of a rose wrapped around a Star of David - "In Deepest Sympathy"
+
+Inside: A gift card for kosher groceries from ████████ Stores - "Our prayers are with you in this difficult time."
+
+Sample Card 03 Initial Message:
+
+Outside: A 1960s-era vintage photograph of two bikini-clad teenage girls on a beach - "Wish You Were Here…"
+
+Inside: "Greetings from ████ ███████, Florida!"
+
+Sample Card 03 Final Message:
+
+Outside: A 1960s-era vintage photograph of two teenage girls on a beach, dressed in concealing bathing suits conforming to Haredi Orthodox Jewish codes of modesty. A fully clothed older man who appears to be the girls' father watches them from nearby - "Wish You Were Here…"
+
+Inside: Identical message
+
+Incident: SCP-2581-52
+
+Sample Card 01 Initial Message:
+
+Outside: A cartoon image of a house in a giant cardboard box with silhouettes visible inside the windows - "Congratulations on your New Home!"
+
+Inside: No Image - "Best Wishes for Unpacking!"
+
+Sample Card 01 Final Message:
+
+Outside: A cartoon image of a house in a giant cardboard box with silhouettes, angled to make the home's fireplace visible - "Congratulations on your New Hearth!"
+
+Inside: A cartoon image of Vesta, Roman goddess of the hearth, holding a traditional cooking kettle over a fire. A socket is present where the sender may insert their own photograph instead of Vesta's face - "May it Always Burn Bright!"
+
+Sample Card 02 Initial Message:
+
+Outside: A gold outline of the constellation Aquarius - "Your Fortune is Clear…"
+
+Inside: "You're going to do great things this year! Happy Birthday Aquarius!"
+
+Sample Card 02 Final Message:
+
+Outside: A gold outline of a slaughtered sheep with its liver removed and prominently displayed - "The Omens are Clear…"
+
+Inside: "Your fate is great this year! Happy Birthday!"
+
+Sample Card 03 Initial Message:
+
+An oil painting of a staircase set into the clouds ascending toward an archetypical Abrahamic image of Heaven - "If tears could build a stairway / and memories a lane / I'd walk right up to Heaven / and bring you home again"
+
+Sample Card 03 Final Message:
+
+An oil painting of an idyllic natural landscape. The land appears well lit, but the sky is dark and lacks a sun or clouds - Identical poem, except that the third line reads "I'd journey to Elysium"
+
+Incident: SCP-2581-116
+
+Sample Card 01 Initial Message:
+
+Outside: A young father teaching his young son to fish in a boat - "To my Dad and Best Teacher"
+
+Inside: The same father and son, aged twenty years older, fishing in the same boat - "Now and Forever"
+
+Sample Card 01 Final Message:
+
+Outside: A young father teaching his young son how to use a puppet - "To my Dad and Best Teacher"
+
+Inside: The same son, aged twenty years older, but without the father. A skeletal, translucent figure resembling the father moves the son with puppet strings from above - "Now and Forever"
+
+Sample Card 02 Initial Message:
+
+Outside: A cartoon of an old woman winking - "You know you're getting old…"
+
+Inside: A cartoon of a wineglass, confetti, and several cats - "So live it up!"
+
+Sample Card 02 Final Message:
+
+Outside: A cartoon of an old woman pointing directly at the reader - "You know you're getting old…"
+
+Inside: A black-and-white image of a cast iron gate - "So what are you still doing here?"
+
+Sample Card 03 Initial Message:
+
+A pastel image of a little girl running to her mother - "Happy Fifth Birthday to a Mother's Joy!"
+
+Sample Card 03 Final Message:
+
+A black and white image of several children running to a tall, hooded white figure silhouetted against a black cloud - "Only Twenty-Five Years Left to Wait!"

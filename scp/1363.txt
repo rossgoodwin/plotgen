@@ -1,0 +1,67 @@
+SCP-1363 lesions on subject in Stage 1 infection.
+
+Item #: SCP-1363
+
+Object Class: Euclid
+
+Special Containment Procedures: A 5mL vial containing a sample of SCP-1363 is kept in refrigerated biological storage at Bio-Research Site-101. Level 3 Biohazard Protocols are to be observed whenever research is performed on SCP-1363.
+
+Personnel who begin to exhibit symptoms of SCP-1363 infection are to submit to blood testing. In the event of a breach, BRS-101 is to enter lockdown, and infected individuals are to be quarantined under Level 3 Biohazard Protocols. Personnel who recover are to be released one (1) week after symptoms cease. Remains of personnel who expire are to be incinerated.
+
+Requests to interview SCP-1363-1 require the express approval of two (2) Level 3 Researchers. Interviews are only to be conducted while infected subjects are sedated.
+
+Description: SCP-1363 is a highly contagious human specific virus which infects epithelial tissue. Transmission occurs through physical contact with infected bodily fluids. The virus is capable of rapidly mutating resistance to hostile agents, thus far rendering all antiviral treatments ineffective.
+
+Infection by SCP-1363 occurs in three (3) stages:
+
+Stage 1 begins between three (3) days and one (1) week following exposure with subjects reporting a sour, metallic taste and persistent headache. Testing at this stage reveals SCP-1363 present in the blood. Scrape-like skin lesions appear on the extremities through unknown means. This effect is reported to be painless, albeit unnerving.
+
+Stage 2 occurs between two (2) and three (3) weeks following exposure with subjects developing severe and widespread arthritis, as well as anemia and a progressive suppression of the immune system (which is fatal in approximately 7% of cases). At this point, lesions will start to form coherent words and sentences, which are controlled by two entities, collectively designated SCP-1363-1. It is possible to communicate with both entities by writing queries onto subjects, at which point lesions rapidly rearrange into responses. This rearrangement process is also painless, but has been shown to cause panic in subjects.
+
+After 5 months, SCP-1363 will cease replicating, marking transition into Stage 3. At this point, the virus naturally is filtered out by the renal system, followed by a cessation of all symptoms. In all cases, no traces of SCP-1363 remain in the body after seven (7) months.
+
+SCP-1363-1 consists of two entities, designated SCP-1363-1-A and B. SCP-1363-1-A claims to be the late H████ D███████, while SCP-1363-1-B claims to be the late L████ S█████. Both instances of SCP-1363-1 appear to be unaware of their nature, but nonetheless are very amicable in personality, have demonstrated in-depth knowledge of 1940's era nuclear physics, and appear to enjoy interaction. Interviews with the subjects have been very informative, and both entities are extremely willing to divulge personal information.
+
+On September 15, 1945, the first recorded outbreak of SCP-1363 infection occurred at the Los Alamos National Laboratory, resulting in the infection of █ researchers. However, it wasn't until an additional outbreak on May 30, 1946, a further ██ infections, and █ deaths that a quarantine was put into place and the virus was discovered.
+
+As of ██/██/197█, SCP-1363 is contained in BRS-101 and is classified as Euclid.
+
+Addendum 1: Interview Log 1363-1-B-3
+
+Interviewer: Dr.███
+
+Interviewed: SCP-1363-1-B
+
+Foreword: Interview conducted through subject D-9356.
+
+<Begin Log>
+
+Dr.███: Hello SCP-1363-1-B.
+
+SCP-1363-1-B: Please, call me L████.
+
+Dr.███: OK, L████, I would like to ask you some questions regarding your origins.
+
+SCP-1363-1-B: No problem. Well, I was born in [IRRELEVANT DATA REDACTED] So in May of that year I was performing some criticality testing on [REDACTED], right? The same one that killed H████. I'm being a little fast and loose like always, when my hand slipped, and there was immediately this blue light. I pulled apart the assembly, and told everyone to mark their spot on the ground.
+
+Dr.███: What happened next?
+
+SCP-1363-1-B: Then we left the building and I started throwing up. I was in the hospital for a few days, I knew I was done for. It was pretty bad, you know the effects of radiation?
+
+Dr.███: I am aware of the effects of radiation exposure. Continue, L████.
+
+SCP-1363-1-B: See, my memory kinda gets hazy then, I must've been delirious or something. The next thing I knew, I'm floating in this void, but I can see some of my buddies. So I try talking to them, but then they start freaking out like they think their skin is gonna fall off.
+
+Dr.███: Do you know why they were acting that way?
+
+SCP-1363-1-B: Nope. I can't see them anymore, all I can see is a guy in a prison suit. Are you that guy?
+
+Dr.███: No, that's D-9356. My name is Dr.███. Do you know how I'm communicating with you?
+
+SCP-1363-1-B: You're talking to me, right doc? I can hear your voice, I just can't see you. Where are you?
+
+Dr.███: I was about to ask you the same question, L████.
+
+SCP-1363-1-B: I'm with H████. So I guess I'm dead.
+
+<End Log>

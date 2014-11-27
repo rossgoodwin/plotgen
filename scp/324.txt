@@ -1,0 +1,43 @@
+A sample of SCP-324-1
+
+Item #: SCP-324
+
+Object Class: Safe
+
+Special Containment Procedures: While SCP-324 does not require efforts beyond basic botanical maintenance to thrive, access to its products are to be strictly controlled to prevent theft and possible uncontrolled cultivation. SCP-324 is to be contained within a secure solarium or equivalent agricultural facility in a minimum of five (5) cubic meters of soil. Soil should be maintained at a consistent pH of between 4 and 4.5, with a minimum 12% humus (or similar organic compound) component to topsoil. A misting system or other remote means of watering should be implemented to minimize the number of staff with access to SCP-324.
+
+SCP-324 is currently held at Site-23, solarium 16, bay 194 under these conditions. As on-site research staff already has access to specialized botanical testing equipment and methodologies via the containment of SCP-038, transfer of SCP-324 to another facility is subject to Level 4 approval. Products of SCP-324 (designated SCP-324-1) may be transferred between research staff as necessary with Level 3 approval. To maintain SCP-324 as the only mature specimen during initial research, attempts to cultivate further specimens from SCP-324-1 off-site are currently suspended.
+
+Description: SCP-324 is a small, evergreen shrub currently 1.4 meters in height and possessing a complex root system that extends approximately 2.5m below the soil. Leaves are lanceolate, ranging between 4-6cm in width. During the flowering phase, SCP-324 produces small (14-22mm) white flowers with nine (9) petals. Berries produced by SCP-324 are designated SCP-324-1, and appear pinkish-white in color with diameters between nine (9) and fourteen (14) millimeters. Berries are edible, with flavor reported as tart and mildly sweet.
+
+SCP-324's flowering and berry-producing phase are apparently only initiated by the introduction of a deceased mammal of at least 25kg into its soil. The mammal must be within range of SCP-324's root system, and been deceased no longer than three (3) days at the time of its first contact with SCP-324. If these conditions are met, the flowering phase will begin within sixteen (16) hours of introduction, with mature flowers and SCP-324-1 appearing within seventy-five (75) hours. When eaten, each individual sample of SCP-324-1 will produce a vivid sensory experience re-enacting a seemingly random memory of the deceased mammal's life in the consumer of SCP-324-1. In tests with human cadavers buried in SCP-324's soil, consumers of SCP-324-1 report clear aural and visual impressions including specific locations, conversations, and individuals. The consumer of SCP-324-1 appears to experience the deceased's memory as if it were one of their own, but recognizes it as a product of another mind. In tests featuring animal cadavers, consumers of SCP-324-1 report an overwhelming jumble of sensory input devoid of the usual narrative context produced by human thought. Each experience lasts between two (2) and four (4) minutes before it subsides. If multiple samples of SCP-324-1 are ingested at one time, memories experienced proceed one at a time, each with the same 2-4 minute window.
+
+SCP-324 produces SCP-324-1 for approximately one week regardless of the type or mass of the deceased mammal introduced into its soil. After this period has elapsed, all samples of SCP-324-1 wither and become inert until another deceased mammal is accessed by the root system.
+
+Discovery: SCP-324 was discovered in a small cemetery specializing in "natural" (coffinless, non-preservational) burial in rural ██████████ county, New Hampshire. The groundskeeper, a Mr. Declan █████, would regularly transplant SCP-324 to the graves of the newly-deceased and invite surviving family members to partake of SCP-324-1 for a substantial fee. The scheme was discovered inadvertently when Agent ████████ attended services at the cemetery for his deceased ██████. Upon a demonstration of SCP-324-1's effects, Agent ████████ immediately took both Mr. █████ (debriefed 4/19/██, assigned D-Class) and SCP-324 into Foundation custody. Mr. █████ claimed the shrub had been on the grounds when they were purchased in 19██ and knew nothing further of its origins.
+
+Addendum: Experiment logs 324-42.4 through 324-45.2
+
+SCP-324-1 Consumer: Male, D-Class, #67531, Age 56
+
+Soil input: Human, Female, Aged 34 at T.O.D., Deceased 2 days
+
+Experience report: D-67531 placid for duration of experience. Recounts an afternoon picnic from the perspective of a small female child, including impressions of flying a kite and eating a celery stalk with peanut butter and raisins.
+
+SCP-324-1 Consumer: Female, D-Class, #58563, Age 34
+
+Soil input: Chimpanzee, Female, Aged 44 at T.O.D., Deceased 3 days
+
+Experience report: D-58563 thrashes wildly for the duration of the experience, making gestures as if to ward off an attacker. Recounts impression of being assaulted by multiple individuals uttering high-pitched squeals.
+
+SCP-324-1 Consumer: Male, D-Class, #69965, Age 22
+
+Soil input: Human, Female, Aged 93 at T.O.D., Deceased 2 days
+
+Experience report: D-69965 uncooperative, restraints employed. D-69965 force-fed SCP-324-1. Continues thrashing for forty-three (43) seconds before abruptly relaxing. Eyes glazed for duration of experience. D-69965 drools slightly. Recounts staring out a window from a wheelchair at a busy urban street, sprinklers occasionally splashing the window.
+
+SCP-324-1 Consumer: Female, D-Class, #39395, Age 42
+
+Soil input: Dolphin, Male, Aged 19 at T.O.D., Deceased 1 day
+
+Experience report: D-39395 holds breath for duration of experience, passes out at ninety-seven (97) seconds. Revived, recounts impressions of swimming, darkness, pressure. Claims to distinctly recall "speaking" to another individual, but cannot remember content of conversation.

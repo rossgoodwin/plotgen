@@ -1,0 +1,65 @@
+SCP-1392 stored with its suction cups, later found to have no anomalous properties. Click image to enlarge.
+
+Item #: SCP-1392
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1392 is to be stored in Locker 139, in Safe Item Storage room 391. Employees may submit a request for treatments at the referral of a site physician. If approval is given, use of SCP-1392 is to be administered and strictly monitored by a medical professional. In the event of a negative feedback bleeding, a transfusion must be completed as soon as possible to prevent neurological damage.
+
+Description: SCP-1392 is an antique scarificator, dated to the late 19th century. The object is constructed primarily of brass, with an ebony handle, cutting edges of surgical steel. The brass and ebony components are in excellent repair considering the instrument's age. Like mundane scarificators, it is operated by pressing the slotted side of the instrument to the skin, and unlocking the spring mechanisms. The small blades in the instrument are forced out through the slots, creating incisions in the skin prior to retracting.
+
+The anomalous properties of the instrument manifest upon its use. The object has been found to function in a manner consistent with the Hippocratic theory of medicine, and displays etiological and symptomatic curative properties when used on diseases that were treatable by sanguination under the theory. The number of treatments needed to cure an illness is apparently relative to the severity of the illness being treated.
+
+Addendum 1392-01: On 04/04/2013, during testing, the nurse administering the treatment to D-02842 was instructed to bleed the subject to unconsciousness. The hope was to find the upper limits of the object's effect. The subject became confused, dizzy, and eventually lost consciousness. The nurse immediately stopped the treatment and attempted to stop the bleed. Bandages and coagulants failed, leaving the nurse to suture the small cuts and call a site physician. When the physician arrived, a subdermal haematoma had formed, and the wound needed to be reopened. The site physician checked D-02842's blood pressure, finding that is was being maintained at 70 over 40. It became clear that the effect of SCP-1392 was replacing as much blood as he was losing. The subject was left in this state for five hours before it was ruled that the negative feedback bleeding would continue indefinitely. D-02842 was given a blood transfusion and the effect ceased. The lack of blood flow to the brain over the extended period caused irreversible brain damage, and the subject was terminated. Further testing on the negative feedback threshold found the effect to happen between a Class II and a Class III haemorrhage. It was found that the effect of SCP-1392 could not keep up with deep vein or arterial bleeding.
+
+Acquisition Log: The Foundation first received information about the object when Dr. ████ █████ submitted a paper on a patient of his. █████ █████, 26 was HIV positive and seeing Dr. █████ as his primary physician for the virus, and a recent bout of tuberculosis. At the behest of his girlfriend, █████, he visited a local naturopath for a "more natural treatment." The naturopath, ████ ███████, was in possession of the scarificator, and treated Mr. █████ successfully over a period of two weeks. When he visited his primary physician again, he was found not even to have a latent infection. The treatments did not, however, cure his HIV/AIDS. The Foundation closed down Ms. ███████' office under the pretence of renovation, seized her equipment and took her into custody. She was questioned about her techniques, education and the suppliers of her equipment. When she was found to have no anomalous properties, and no connection with any GOIs, she was administered Class B amnestics and released.
+
++ Interview 1392-03
+
+- Interview 1392-03
+
+Interviewed: ████ ███████ (referred to as Ms. M)
+
+Interviewer: Researcher Collins
+
+Note: During Ms. M's detention and questioning regarding her acquisition of SCP-1392, her knowledge of how it functions and probe for possible connections to external agencies, she appeared comfortable and displayed a marked tendency to stray from the line of questioning. Extraneous chatter has been marked and redacted in the following transcription.
+
+<Begin Log, 0701h, 15/03/2013>
+
+Researcher Collins: Good morning, Ms. ███████, I'd-
+
+Ms. M: Good morning, Doctor Collins.
+
+Researcher Collins: Yes. I'd like to ask you a few questions to help clear up some of our records regarding the scarificator, and secondly to inform you that as soon as we're through with this… you will be released.
+
+Ms. M: Fucking finally. This seems like a lot of work for a stupid trinket. Don't you have like, I don't know, ghosts or sasquatches to catch?
+
+Collins: Everything is worth taking a look at, Ms. ███████, and anything worth taking a look at is worth looking at thoroughly. Now where were we?
+
+Researcher Collins reviews the notes from the two previous interviews.
+
+Collins: Ah, here we go… where you received your training, and about your decision to become a naturopath. Would you elaborate on that?
+
+Ms. M recounts her studies and certification as a personal support worker, and her later career shift into naturopathy. Nothing is overtly relevant to SCP-1392, and nothing to this point indicates a perceptible connection to external agencies or other anomalous objects. All her answers to prompting, and explanations were consistent with previous interviews.
+
+Collins: Do you recall from whom you got the object?
+
+Ms. M: Yeah, actually. █████ got it for me as a gift after I'd been open about a month.
+
+Collins: This is Mr. █████ girlfriend?
+
+Ms. M: Yeah, she's a big antiquer, always picked up that kinda stuff. She got it restored so I could actually use it, and she said it was part of a set. Offered to find the other three pieces for me.
+
+Collins: The other- What other items are in this set?
+
+Ms. M: She never said anything else about them, but I assumed they affected the other three humours.
+
+At this point, Ms. M went on a lengthy explanation of the humours, how they purportedly affected the body, and the various treatments she offered for each. Researcher Collins seemed irritated but reluctant to interrupt her.
+
+Collins: Thank you, Ms. ███████. Agent ████████ will finish up with you, and you should be on your way home in shortly.
+
+<End Log, 0832h 15/03/2013>
+
+Closing Statement: In light of Ms. ████████ statements, a field investigative team was dispatched to maintain observation on her business, as well as to locate the previous owner of SCP-1392, and ascertain its origin and the existence of the rest of the set. All attempts to contact “█████” proved fruitless, and no field personnel established positive identification of the woman in question.
+
+When contacted, Mr. █████ claimed when he had returned from a doctor's appointment to find all of her belongings removed. He could not recall her last name, nor did he have any record of a former residence.

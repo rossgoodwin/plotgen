@@ -1,0 +1,63 @@
+Fig. 1: Interior of SCP-1351, with four members of Expedition 01.
+
+Fig. 2: Same image, with false coloration to indicate location of expedition members. Yellow figures are on the "floor" relative to the camera; red figures are on the "ceiling" relative to the camera. Green lines indicate the boundary between local gravity fields.
+
+Item #: SCP-1351
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1351 is contained onsite under the cover of a bat sanctuary with a standard perimeter fence and signs warning away unauthorized personnel. The permanent security team is to be covered as United States National Park Rangers and/or civilian speleologists. The access road to the entrance of SCP-1351 is to be marked “Authorized Vehicles Only” to match nearby park roads which are not open to the general public.
+
+Personnel within SCP-1351 are to follow standard subterranean safety protocols.
+
+All personnel must operate in groups no fewer than four, with each personnel equipped with at least three sources of light (one of which must not be dependent on batteries). In the event of a team member in distress, at least one individual must remain with the distressed individual, while at least two individuals must return to get help.
+
+Personnel must verbally inform at least two individuals (typically the site security watch officer and the on-duty research supervisor) of their intended destination within SCP-1351 and their intended return time, in addition to documenting their intentions in writing.
+
+Personnel must also carry sufficient food, water, and first aid equipment for twice their intended stay within SCP-1351.
+
+Any individual who becomes lost or separated should remain where they are and wait to be found.
+
+The current Director of the United States National Park Service and the current Mammoth Cave National Park Superintendent are to be informed of the importance of maintaining containment; further information related to either SCP-1351 or the Foundation is to be disseminated to these individuals only in accordance with need-to-know and written authorization of O5 Command.
+
+Due to the outbreak of SCP-███-EX1, commonly referred to as “White-Nose Syndrome” (WNS), any persons entering SCP-1351 must submit to biological decontamination. No clothing, shoes, or personal effects which have entered other caves since 2006 are permitted to enter SCP-1351 to prevent the spread of fungal spores believed to be associated with SCP-███-EX. Prior to entering and after exiting SCP-1351, all persons must walk across nylon bio-security mats saturated in a cleaning solution. For consistency, it is recommended the bio-security mats and the associated solution match those used by the Park (presently LysolTM IC Quaternary Disinfectant Cleaner). This is in accordance with publically released SCP-███-EX containment protocols designated “National WNS Decontamination Protocol 03.15.2012”.
+
+Description: SCP-1351 is a cave located within Mammoth Cave National Park in the American state of Kentucky. The main section of cave is approximately 30 kilometers long. No direct connections between SCP-1351 and Mammoth Cave have yet been discovered, though the possibility remains. Like most caves in the area, SCP-1351 appears to have been carved from Mississippian-aged limestone strata capped by sandstone; this has resulted in relatively few flowstone deposits.
+
+SCP-1351 is anomalous for three reasons:
+
+First, it is accessible through a dome in the ceiling of an otherwise unremarkable section of cavern 125 meters underground (see Fig. 3), but this dome's height (~750 meters) would require SCP-1351 to be well above surface level. In spite of the inconsistency, SCP-1351 seems to be subterranean; Foundation speleologists have not yet determined a satisfactory explanation for this phenomenon.
+
+Fig. 3: Entrance to main section of SCP-1351, as observed from the non-anomalous section of the cave. The entrance is apparently a dome extending in excess of 750 meters upward through the ceiling of the non-anomalous cave section to the floor of SCP-1351. Note: the depth of the non-anomalous cave section is only 125 meters below the surface.
+
+Second, the interior of the cave only has a single surface (the floor) and a single boundary component (a wall). Over the course of the cavern's several kilometers in length, the floor "wraps around" to become the ceiling while one wall "wraps around" to become the other. In this it resembles a Moebius strip. Local gravity orients towards the nearest floor; a dark band in the rock wall shows the location of the boundary between the local gravitational fields. The cause of this unusual spatial-warping is not understood at this time.
+
+Third, temporal anomalies have been observed in relation to SCP-1351, though no modern Foundation personnel are known to have experienced any such effects. For more details, see Addenda 2 and 3. These show no consistent pattern.
+
+Addendum 1: Modern History of SCP-1351
+
+The cavern from which SCP-1351 is accessible opened to the surface when a landslide in 1993 uncovered a natural entrance. SCP-1351 was most recently discovered in 1995 by National Park Service speleologists mapping the cavern to determine if it connected to the main cave system in the park. These scientists were subsequently seconded to the Foundation after a standard background check and non-disclosure agreement. Three Expedition Teams (01, 02, and 03) surveyed the interior of SCP-1351 between 1995 and 2002, determining the cavern to be sufficiently safe for a permanent research presence. Research operations are now ongoing.
+
+Fig. 4: Photograph provided by Expedition 1351-1925.
+
+Addendum 2: Expedition 1351-1925
+
+On 23 April 2009, a team of six men and two women, under the command of Major Mortimer S. Cornelius III, emerged from SCP-1351. (See Fig. 4) They were detained by Foundation security personnel. Interviews established that they were a team of explorers dispatched by the Foundation in August 1925, and had only spent eighteen hours within the cave from their perspective. Their clothing and equipment was accurate for the time period, and they possessed apparently bona fide documents supporting their assertions. However, as there is no record of any of the members of the expedition nor of the expedition itself, and since SCP-1351 was not known to have been discovered until 1995, they are being detained indefinitely. For further information, contact Supervisory Special Agent Thomas at Site 19.
+
+Addendum 3: Discovery of Expedition 1351-2030's Remains
+
+On 10 June 2011, Foundation researchers discovered the remains of four adult humans in a pit in Section 07A of SCP-1351. These remains had been mummified and preserved by the calcium nitrate present in the cavern; carbon dating indicated the remains to be in excess of seven thousand years old. One of the bodies had two broken legs, while another had a broken left arm. There was no obvious cause of death for any of the subjects.
+
+Subject 1: Male, 198 cm tall, black hair, facial bone structure suggests Caucasian ancestry. Premortem compound fractures in both left and right tibiae. Foundation-issue dog tags identify as Dr. Nicholas Lusk, serial number [REDACTED].
+
+Subject 2: Male, 186 cm tall, red hair, facial bone structure suggests Caucasian ancestry. Premortem simple fracture in the right ulna. Foundation-issue dog tags identify as Dr. Lionel Dunbar, serial number [REDACTED].
+
+Subject 3: Female, 160 cm tall, black hair, facial bone structure suggests Japanese ancestry. No apparent injuries. Foundation-issue dog tags identify as Dr. Asuka Miyamoto, serial number [REDACTED].
+
+Subject 4: Female, estimated approximately 164 cm tall. Head absent; incision located above C4 vertebra and occurred postmortem. No identification located in vicinity of body.
+
+The bodies were clothed in uniform synthetic spelunking coveralls and equipped with gear estimated to be roughly equivalent to the level of technology expected to exist by the mid-2030s. Among the gear was a damaged camcorder with predictably dead batteries. Efforts to power the camcorder and recover the information documented have [DATA EXPUNGED].
+
+Footnotes
+
+1. SCP-███-EX is a disease affecting numerous species of North American bats which has been confirmed in nineteen American states and four Canadian provinces. Ongoing studies both by Foundation and non-affiliated organizations have accumulated increasing evidence that suggests it is caused by the fungus Geomyces destructans. The disease itself is not well understood by either the Foundation or non-affiliated scientists; research continues. At present, there is no known treatment for afflicted bats, nor is there a known containment protocol capable of preventing transmission. The mortality rate varies by species, but has been observed as being as high as 95%. SCP-███-EX has not been confirmed to be present in SCP-1351; the related containment procedures are intended to prevent it from entering SCP-1351.

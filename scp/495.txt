@@ -1,0 +1,27 @@
+SCP-495
+
+Item #: SCP-495
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-495 is to be kept in a locked room, plugged into a standard, active 120-volt power outlet when not in use. A life-sized mold of a clam, oyster, or other species of sessile bivalve1 is to be stored within SCP-495; the mold is to contain no more than 100 (one hundred) grams of wax.
+
+In the event of a power failure, at least one Level 1 security personnel must enter the storage room and monitor the item for activity until power is restored. Researchers wishing to use SCP-495 must submit a written description of the planned experiment to Dr. ███████. Due to the results of Experiment SCP-495-██, all molds and materials must be approved by at least one Level 3 or higher personnel before use with SCP-495. At least one personnel with experience treating venomous bites and stings must be available on standby while SCP-495 is in use.
+
+Description: SCP-495 appears to be the oven from a 1992 ToyMax "Creepy Crawlers" playset, save that the "Creepy Crawlers" logo sticker has been replaced with the logo from a 1964 Mattel "Thingmaker" hot-plate (a toy of virtually identical function to the more recent ToyMax version, discontinued by Mattel in the 1970's due to insufficient safety features).
+
+While SCP-495 is plugged into a standard 120-volt power outlet, it functions as a normal "Creepy Crawlers" oven. When not plugged into a power outlet, SCP-495 displays the following anomalous behavior:
+
+Upon insertion of a filled or partially-filled mold, SCP-495's activation switch moves to the "ON" position automatically. The internal heating lamp appears to remain unlit, but the oven begins to gain warmth from an unknown source, reaching a peak internal temperature of 257.2 degrees Celsius (as measured by infrared camera). After approximately eight minutes, SCP-495's activation switch moves to the "OFF" position automatically. Contrary to the behavior of a standard ToyMax "Creepy Crawler" oven, SCP-495's door will open immediately instead of remaining locked while the mold cools.
+
+All molded items will animate upon removal from the oven, behaving as though they were natural organisms. Animated objects are physically detailed well beyond what their molds would seem to allow, appearing physically identical to their natural counterparts save for unusual coloration corresponding to the materials used to fill their molds. Dissection of animated objects reveals tissues and other internal structures composed entirely of whatever material was used to fill the mold.
+
+Any substance and mold used with SCP-495 will produce results - hand-made molds or substances other than ToyMax or Mattel "Plasti-Goop" (such as chocolate or wax) will result in animate objects.
+
+Addendum: Just because they're made of plastic doesn't mean they're safe. Where the venom comes from, I don't know, but Agent ██████ is now in the infirmary after being bitten by a tiny purple asp. Please treat the products of SCP-495 as you would any poisonous animal.
+
+- Dr. ███████
+
+Footnotes
+
+1. Personnel are reminded that not all bivalves are sessile; in the event of the mold being destroyed, consult with an on-staff malacologist before obtaining a replacement.

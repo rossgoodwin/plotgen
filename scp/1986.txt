@@ -1,0 +1,375 @@
+The mouth of SCP-1986's tunnel. The first 100m have had lighting installed.
+
+Item #: SCP-1986
+
+Object Class: Safe
+
+Special Containment Procedures: As SCP-1986 is immovable and located in a heavily travelled public building, security must be maintained covertly in order to prevent the general public from becoming aware of its existence. Guards posing as library staff are to be employed. Only non-lethal measures have been approved.
+
+Description: SCP-1986 is a cylindrical tunnel ~2m wide lined with volumes of books. Although the full extent of the tunnel is unknown, Interferometric Synthetic Aperture Radar (IfSAR) has established a minimum depth of 274,700km or nearly 1 light-second (expeditions have confirmed a depth of at least 4,441km). The conjecture has been advanced that the tunnel may be infinite.1
+
+The volumes lining the tunnel often resemble known works, though with substantial alterations as to style, character, plot and subject matter. Authors are occasionally authentic ones, though often they are wholly unknown. The works range from being somewhat unusual to completely nonsensical, though nominally at least intelligible (see the section Recovered Works). All languages currently extant as well as extinct ones are represented. In no case has any volume borne any publication information. Dating techniques have established that the volumes originate from the era they would otherwise appear to, based on semantic and linguistic considerations. No discernible pattern2 has been found to the arrangement of the volumes.
+
+The walls of the tunnel are made of ordinary limestone. Attempts at breaching them have shown that the tunnel is non-Euclidean i.e. to excavate through the floor is to emerge from the ceiling (topologically,3 it can be likened to a 3-torus). Attempts at reaching the tunnel at an angle have proven futile as the tunnel is absent unless approached from its entrance.
+
+Discovery Log:
+
+SCP-1986 was discovered in 1989 by a librarian4 in an unused basement of La Biblioteca Nacional de la República Argentina located in Buenos Aires. Foundation personnel administered class B amnesics to those who had been made aware of its existence and cordoned off the basement under the guise of performing emergency structural repairs.
+
+Recovered Works:
+
+The following is a list of selected works recovered from SCP-1986.
+
+Should other noteworthy samples come to light, please contact the archivist in charge for appraisal and possible inclusion.
+
+Title: The Gospel of Eve
+
+Author: none
+
+Language: Aramaic, circa 1100 BCE–200 CE
+
+Depth of recovery: 75m
+
+Description: A section of Biblical Apocrypha purporting to be an account of Eve's life after her exile from The Garden of Eden. Eve is depicted in furious argument with herself on the nature of free will and original sin.
+
+Title: Intangible Heresies
+
+Author: Carina Giusti
+
+Language: Italian, modern
+
+Depth of recovery: 2,318m
+
+Description: A book of prose poems reminiscent of Italo Calvino's style, though informed by magical realism. The foreword introduces the work as having won the Nobel Prize for Obstinance.
+
+Title: The Worm of Midnight
+
+Author: Edgar Allan Poe
+
+Language: English, modern
+
+Depth of recovery: 433m
+
+Description: A hitherto unknown collection of short stories. An alert researcher recognized this fictitious work as being mentioned (but not elaborated on) in "The man who collected Poe" by Robert Bloch. All the stories concern shellfish.
+
+Title: Je suis Moi-Même la Question de mon Livre (trans: I am Myself the Matter of my Book)
+
+Author: Pierre de Langitaire
+
+Language: French, middle.
+
+Depth of recovery: 171,888m
+
+Description: Similar in style and subject matter to Essais (trans: Attempts) by Montaigne: a collection of a large number of short subjective treatments of various topics inspired by studies in the classics (especially Plutarch), as well as discursions into the autobiographical and anecdotal. Makes heavy use of the passive voice and the future perfect progressive tense (e.g. "the song will have been being sung by an Angel when the fruits of love I desire will have been being consumed by me").
+
+Title: The Need for Legalized Abortion
+
+Author: anonymous
+
+Language: English, modern
+
+Depth of recovery: 28,111m
+
+Description: A polemic on the moral, medical, and societal costs of illegal abortion. Makes the case that abortion should be permitted through the fourth trimester.
+
+Title: Is Itself an Exponent of the Deadpan Non-Sequitur
+
+Author: Claudine Nemejanski
+
+Language: ASL (American Sign Language), modern (note: represented using illustrations of a posed, wooden mannequin)
+
+Depth of recovery: 1,001m
+
+Description: A series of examples and counter-examples to the proposition that the proof of the Banach-Tarski paradox both relies and is independent of Zermelo's axiom of choice. Examples are read in forward order, and counter-examples backwards. Counter-examples outnumber examples two to one.
+
+Title: Choix des Poésies Originales des Troubadours (trans: Selection of Original Poetry of the Troubadours)
+
+Author: Rimbaud
+
+Language: French, modern
+
+Depth of recovery: 40,002m
+
+Description: A fictitious collection of poetry consistent with the style of Rimbaud. Written completely without the letter 'u'.
+
+Title: Jane's Fighting Ships, 2061 annual
+
+Author: various
+
+Language: English, anachronistic
+
+Depth of recovery: 889,484m
+
+Description: A reference on the changing capabilities of modern navies, their ships, aircraft and weapons systems in service and under construction. Many of the vessels and weapon systems are wholly unknown. Written in limerick form.
+
+Title: The Grasshopper Lies Heavy
+
+Author: Hawthorne Abendsen
+
+Language: English, modern
+
+Depth of recovery: 77m
+
+Description: A novel concerning an alternate world where the United States won WWII (but not in a manner consistent with our history), appearing to be written from the point of view of an author living in a world where the Nazis prevailed. A search of 20th century fiction has uncovered this to be an imaginary work central to the plot of the real novel The Man in the High Castle by Philip K. Dick.
+
+Title: A Lapful of Severed Tongues
+
+Author: Lisa Palladino, PhD.
+
+Language: Braille, archaic circa 1850 CE
+
+Depth of recovery: 44m
+
+Description: A collection of essays on the American Suffragette movement. Interspersed with a hitherto unknown variation on the tactile-olfactory implementation commonly referred to as scratch-and-sniff.
+
+Title: I, Lucifer
+
+Author: Antoine Pierce
+
+Language: English, modern
+
+Depth of recovery: 51,200m
+
+Description: A "pulp" novel centering around the sex lives of a circle of lesbians and their children.
+
+Title: Treating Adult-Onset Sudden Infant Death Syndrome: A Diagnostic Approach, sixteenth edition
+
+Author: Dr. Pallas Benchko
+
+Language: Icelandic, old circa 950 C
+
+Depth of recovery: 3,303m
+
+Description: Note: condition actually surveyed is Supernumerary Phantom Limb Syndrome. Composed in blank verse (unrhymed iambic pentameter).
+
+Title: Charm for the protection of a child
+
+Author: none
+
+Language: Egyptian, 8th Dynasty circa 1950 BCE-1300 BCE
+
+Depth of recovery: 2m
+
+Description: An account of the development of religion and thought in Ancient Egypt. Much of the material remains a matter of conjecture as much of it resists translation. Includes parables comparing the well-lived life to the Ford Motor Corporation.
+
+Title: Hagiography and the Gusto-Facial Response
+
+Author: Declan McManus
+
+Language: Basque, modern
+
+Depth of recovery: 1,119m
+
+Description: A libretto for an opera considering the plight of a group of Alaskan firemen snow-bound in their firehouse, driven mad with hunger, and forced to eat their Dalmatians. Dialogue consists entirely of rhetorical questions.
+
+Title: Before the Flood, after the Fall (or Antediluvian, Postlapsarian)
+
+Author: none
+
+Language: Phoenician, ancient circa 1725 BCE-1490 BCE
+
+Depth of recovery: 4,441,113m (note: this is the most remote volume that has presently been recovered)
+
+Description: A series of interrogations between the mythical Minotaur and Sphinx. Answers are composed of anagrams formed from the questions.
+
+Additional List of Recovered Works, by Category (approximate):
+
++Culture
+
+-Culture
+
+Title: Skinning the Elephant: The Pachyderm in Metaphor and Idiom (Illustrated)
+
+Author: Dr. Virgil Wexayz
+
+Language: English, through a simple number-replacement cipher.
+
+Depth of recovery: 2,599m
+
+Description: A historical review of the symbolic role pachyderms have played throughout human history. Makes mention that the African Elephant has been used as a symbol by the Democratic party and the North American Elephant by the Anti-Mason party. Also alludes to but does not elaborate on 'the emerging Human-Elephant conflict'. Illustrated.
+
+Title: The Young Lady's Guide to Etiquette and Grooming
+
+Author: S. Compton, Mme.
+
+Language: French, recent circa 1750 CE
+
+Depth of Recovery: 1,298m
+
+Description: The book is handwritten and describes in extensive detail the way a lady should properly behave in high society. Included are illustrations of the correct placement of the tail for various social settings, how a lady may best scale a tree and preserve her modesty, and the best way to fend off unwanted advances while in estrus.
+
++Fiction
+
+-Fiction
+
+Title: Ucalegon, or The Wanderer
+
+Author: Sophie Marcowitz (With an introduction attributed to Juan Carlos I of Spain)
+
+Language: Gaelic, Manx dielect, archaic
+
+Depth of Recovery: 614m
+
+Description: A fictional first person narrative set in 18th-century Europe, describing how the protagonist, referred to only as 'Ucalegon' is forced into homelessness and vagrancy after being beset upon by a supernatural entity which sets fire to any building that he takes up residence in. The novel contains the frame narrative of a university professor using the story in a lecture to illustrate a thought experiment concerning fate vs free-will. This narrative is interrupted by the appearance of the Ucalegon, and his setting fire to the lecture theatre. The story ends in mid-sentence as the professor and his students are attempting to flee the building. An introduction points out allusions in the narrative to classical myth, the life of Mary Shelley, computational physics, the Oxford comma and the heat-death of the Universe.
+
+Title: Hattard
+
+Author: Darius Jackson
+
+Language: English, non-standard
+
+Depth of recovery: 12,447m
+
+Description: A dramatization of a purportedly true story that occurred during the Great London Earthquake of 2007. It follows the story of the Hattard triplets, residents of London at the time, and their successful attempt at reaching a refugee camp after two weeks of wandering the fallen city. The triplets institute an extra-judicial court to deal with looters caught during the calamity, acting as the prosecutor, defense counsel and judge. In the afterword, the author writes that the three sisters were treated as national heroes and awarded the Damehood by King Albert III.
+
+Title: Je Sais Que Vous L'avez Fait (trans: I Know You Did it)
+
+Author: Miriam Cotillard
+
+Language: French
+
+Depth of Recovery: 1,083 meters
+
+Description: A novella written in the first person in which the author spends the entire story accusing the reader of having stolen her shoe. The novella is divided into twelve (12) chapters, each themed after one of the Zodiacal signs. An overarching theme throughout the text is the 'Seven Stages of Dying', with the writing style reflecting said stages (e.g. pages in the anger sections have been printed in boldface). An epilogue by the author is an apologia where she confesses that she has since found her shoe.
+
+Title: The Last Words
+
+Author: Dutch Schultz (as channeled by Talaimal Langeshlem, PhD.)
+
+Language: Hindi
+
+Depth of Recovery: 41,285 meters
+
+Description: Purports to be the lengthy record of a séance performed over 40 days between a self-styled clairvoyant and the late 20th century crime-figure Dutch Schultz (whose dying words were in fact transcribed by a police stenographer while he lingered between life and death from a gun-shot wound to the head). The text is identical to the words actually transcribed, but with the addition of considerable material, rendering it intelligible. This "unexpurgated" version recounts in heroic form the history of Man from the Bronze age to the beginning of the 21st century. The epilogue chastises the use by other authors of the "false" transcript in what it terms to be "derivative and heretical" works (notably, the author William Burroughs and the authors Robert Shea and Robert Anton Wilson).
+
++History
+
+-History
+
+Title: The Annotated Diaries of Woodrow Wilson, Volume 2
+
+Author: Edited by Dr. T.K.L. Conyer
+
+Language: English, Modern
+
+Depth of recovery: 1,331m
+
+Description: The second of an unknown number of volumes of the private diaries of U.S. President Woodrow Wilson, detailing the political battle for Thailand's statehood, his thoughts on the 20th Amendment to the U.S. Constitution (granting citizenship to "The Afflicted"), and his personal doubts about being named Presbyter of the Imperial States of America.
+
+Title: Martian-Terran Relations: A Literary Approach
+
+Author: Sheila McDonald, PhD.
+
+Language: Afrikaans
+
+Depth of Recovery: 1,203,117m
+
+Description: A historical review of the history of Earth-Mars relations. Begins with Galileo Galilei's initial observation in 1601 of artifacts on Mars and the Church's reactionary attempts to dismiss and then suppress the discovery. Follows with a survey of the speculative writing of the last four centuries, notably by Descartes, Voltaire, and Mark Twain. Details first contact in 1890 when Mars successfully landed a craft off the coast of South Africa and reaction at the time. Covers the impassioned championing of tolerance by Ray Bradbury and Dr. Martin Luther King, as well as H.G. Wells' xenophobic writing and the House Un-American Activities Committee's influential publication, The Red Menace. Concludes with a personal account of the inauguration of the first Martian to the U.S. House of Representatives in 2007, its subsequent assassination, and the President's historic eulogy.
+
+Title: Cannibalism and the Free Market
+
+Author: Samuel Clemens
+
+Language: Spanish
+
+Depth of Recovery: 157m
+
+Description: A transcript of the 1968 U.S. Presidential debates between Barry Goldwater and Adlai Stevenson presented as a series of Socratic dialogs. Concerned primarily with the economic costs and benefits of instituting the political programs outlined in “A Modest Proposal” by Jonathan Swift i.e. eating the poor.
+
++Language
+
+-Language
+
+Title: An English-Cetacean Phrasebook
+
+Author: Various
+
+Language: English, Dolphin (presumed)
+
+Depth of recovery: 191,214m
+
+Description: A short publication consisting of English phrases alongside undeciphered symbols. An examination of the (hypothetically) Cetacean portions have suggested it to be an agglutinative, highly morphologically-rich language devoid of conventional grammatical structure. The English phrases are couched in unusually deferential language reminiscent of feudal Japanese (suggesting that human beings play a subservient role or hold a position of diminished authority).
+
+Title: The Joy of Cooking the English Language
+
+Author: Irma Sanduski
+
+Language: English, modern
+
+Depth of Recovery: 101 meters
+
+Description: A cookbook describing the proper preparation and cooking of words and phrases in a wide variety of meals. Details include precooking blanching techniques for 'crispy' prepositions, recipes for suffixes (described as a 'fun' treat for children), and a modified adjectival meal sufficient to feed eight. The last chapter of the book is devoted exclusively to what is described as 'gourmet words' (e.g. 'inhospitable', 'tertiary', 'periphery', etc…).
+
++Literary Criticism
+
+-Literary Criticism
+
+Title: Grote Werken en Human Leugen (trans: Great Work in Human Fiction)
+
+Author: Gregori Beauchamp
+
+Language: Dutch
+
+Depth of Recovery: 8,884 m
+
+Description: An encyclopedic analysis of what the author describes as 'the most important' works in fiction. Entries include: Winnie the Pooh, Beowulf, the lyrics of John Lennon, World War 1, Jimmy Carter, Atlantis, and the work of Isaac Newton. In addition, the author devotes a section of the book detailing certain revealed truths hidden within these 'great fictions'. Such revelations include: that Nazi Germany did not win WW2 as is commonly believed, that Polio is a disease and not an imbalance of humors as is currently thought, and that the Moon landing in 1969 was in fact a hoax perpetrated on a sound-stage located on the surface of the Moon.
+
+Title: Ahnung Ishskwaday: symbolism of the flame in the poetry of Running Bird Soosaaw'kway
+
+Author: Dr. Running Bird Soosaaw'kway
+
+Language: English, Ojibwe
+
+Depth of recovery: 1,242m
+
+Description: The book begins with analysis and praise of the author's own poetry. The short literary critique ends abruptly after several pages and is followed by hundreds of seemingly random illustrations. They range from detailed sketches of indigenous artifacts to unintelligible graphs. At the conclusion of the book, there is a diagram labeled "Chinoodin Niboowin" ("Big Death Wind"). It depicts a series of dots that resemble the Orion constellation. The left-most star on Orion's belt is circled.
+
++Mathematics
+
+-Mathematics
+
+Title: Principia Mathematica II
+
+Author: Ludwig Wittgenstein (Text), Salavdor Dali (Illustrations)
+
+Language: English, middle circa 1250 CE
+
+Depth of Recovery: 16,357
+
+Description: A 1200-page 'sequel' to the 3-Volume Principia Mathematica written by Alfred North Whitehead and Bertrand Russell published in the early 20th Century. The work is an attempt to extend the logical system of the original into a theory of "surrealist mathematics" wherein arithmetic can be applied to various heterogeneous objects (134 pages are devoted to the proposition that "a Yardstick is neither a yard long, nor is it -not- a yard long").
+
+Title: A game-theoretic analysis of n-dimensional hyperchess and the effect of en-passant rules
+
+Author: Paul Spenceton
+
+Language: English, modern
+
+Depth of Recovery: 574m
+
+Description: A generalized analysis of multidimensional chess, proving that Black has a winning strategy involving en passant when the number of dimensions n (n>1) is given by the formula $n_x = \sum_{r=0}^{x} (r^2 - r + 1), \; x \in \mathbb{N}$ (which includes the case where n=2, i.e. conventional chess). The book does not go so far as to provide the winning strategy, instead only demonstrating that one must exist (i.e. a pure existence proof).
+
++Philosophy
+
+-Philosophy
+
+Title: De Existentia Divinum Deos
+
+Author: Erasmus Rutler
+
+Language: Latin, Renaissance
+
+Depth of recovery: 809,542m
+
+Description: A rigorous 2,119-page ontological proof of the existence of God, embedded in the formalism of Number Theory and Set Theory. Assumes the truth of the Riemann hypothesis and the falsity of The Continuum hypothesis (both currently undecided). It follows from God's existence that: He would be omniscient; that there is no more powerful being than God; that God cannot act contrary to His own will; and that God and the Devil are disjoint 'sets'. Note: no errors in reasoning have yet been discovered by Foundation mathematicians.
+
+Footnotes
+
+1. SCP-1986's discovery was occasioned by a librarian trying to identify the source of a draft. Measurements indicate that the tunnel consumes roughly 400m3/h (i.e. a pressure differential of 25Pa (N/m2) and a draft velocity of 10cm/s). Where the air is being drawn to is unknown.
+
+2. One researcher has put forth the evocative comparison that searching the tunnel for a recognizable book is like traversing the real number line in search of the rational numbers.
+
+3. The 3-torus is a three-dimensional compact manifold with no boundary. It can be obtained by gluing the three pairs of opposite faces of a cube. (After gluing the first pair of opposite faces the cube looks like a thick washer, after gluing the second pair — the flat faces of the washer — it looks like a hollow torus, the last gluing — the inner surface of the hollow torus to the outer surface — is physically impossible in three-dimensional space and can only be accomplished in at least four dimensions.)
+
+4. Before the librarian who discovered the artifact was (voluntarily) administered an amnestic, he brought to the attention of Foundation personnel a story by the Argentine writer Jorge Luis Borges entitled "The Library of Babel". It is noteworthy that Borges worked at the same library. He was unable to be interviewed as he died in 1986. The following is an excerpt from that story:
+
+…These examples made it possible for a librarian of genius to discover the fundamental law of the Library. This thinker observed that all the books, no matter how diverse they might be, are made up of the same elements: the space, the period, the comma, the twenty-two letters of the alphabet. He also alleged a fact which travelers have confirmed: In the vast Library there are no two identical books. From these two incontrovertible premises he deduced that the Library is total and that its shelves register all the possible combinations of the twenty-odd orthographical symbols (a number which, though extremely vast, is not infinite): Everything: the minutely detailed history of the future, the archangels' autobiographies, the faithful catalogues of the Library, thousands and thousands of false catalogues, the demonstration of the fallacy of those catalogues, the demonstration of the fallacy of the true catalogue, the Gnostic gospel of Basilides, the commentary on that gospel, the commentary on the commentary on that gospel, the true story of your death, the translation of every book in all languages, the interpolations of every book in all books…"

@@ -1,0 +1,93 @@
+Item #: SCP-739
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-739 is to be kept at all times in a well-lit room, with its door opened. Two Class D personnel are to be in the room at all times, and are to be rotated out every three hours. One is to be inside SCP-739, and the other is to be outside, to ensure the door does not close. Exceptions are to be made for procedure SCP-739-B, for approved experiments by Drs I██████ or Vettir, or for [DATA EXPUNGED]. Remote observations are to be made at all time by Security level 3 personnel, and in the event of [DATA EXPUNGED], nerve gas is to be flooded into the room containing SCP-739, and any survivors are to be eliminated using conventional weapons. At no point are any electrical recording devices to be brought inside the booth.
+
+Description: SCP-739 is a booth measuring 91.4 cm x 91.4 cm square at the base, 218.3 cm in height, and 87.6 cm x 91.4 cm at the top, in the shape of a symmetrical trapezoidal prism. The exterior and interior are lacquered oak. The two inward-leaning interior walls have a mirror each, facing one another and providing a set of climbing reflections that give the appearance of meeting overhead. The back wall is featureless, and the booth may be opened by use of a door.
+
+A subject standing between the two mirrors will notice that, in the mirror on the left side coming in, the subject's reflections seem to be independent of them after 40 to 70 dependent reflections. The most commonly seen independent action is to mime shutting the door, and to look at the subject expectantly. Any visual electronic recording device will not record any independent reflections, showing only blackness in the mirror, and, on rare cases, causing the point of independent reflection to move closer. Audio recording devices pick up the subject's voice demanding to be let out.
+
+In the event the subject closes the door, from the outside the booth can be seen to rock first to the right, then to the left, then it comes to a rest. The door also appears to seal itself. Once the door is opened from the inside, the subject has undergone a one-dimensional inversion. All asymmetrical aspects of the subject are reversed, from any writing, to internal organs, and even down to asymmetrical molecules: L-amino acids become D-amino acids, and so forth. To the subject, it is the world that has reversed in all aspects. Shutting the door once more returns them to their normal form, but many subjects have noted minor differences in the world around them.
+
+More than two full cycles of use by a subject shows a marked aberration in subject behavior, often claiming to not know close friends or to know people they have never met. The subject also shows a marked paranoia regarding the left-hand reflections. Each time a subject shuts then opens the door, the independent reflections appear to move one reflection closer.
+
+If the door is shut without any subject inside the booth, it is sealed for a period varying between 10 seconds and 2 minutes 3 seconds, then the door opens on its own. Based on discussion with ██████ ██████████, the owner of this booth previous to Dr I██████'s discovery, it is suggested that the booth be kept open at all times, and someone observing the reflections.
+
+Addendum: Any personnel with Security level 2/739 clearance are directed to read document 739-1. Any experiments are to be recorded in file #739-E.
+
+Document 739-1
+
+██████ ██████████ was interviewed by Dr Vettir after Dr I██████'s discovery to gain more insight into the background of SCP-739.
+
+Dr Vettir: So, ██████, you say this was an inheritance from a distant relative?
+
+██████ ██████████: Well, that's what I was told, at first. (██████ ██████████ twitches) Now I'm not sure.
+
+Dr Vettir: Not sure? Look, what happened?
+
+██████ ██████████: At first I thought it was some kind of trick. But the reflections started pounding on the glass, once I'm sure I saw them step through closer. Every time I closed the door, they came closer, and I never closed myself in. They warned me not to do that. Then I tried to get rid of it. Then… Someone came out. He ran outside and started yelling.
+
+Dr Vettir: And you didn't tell anyone?
+
+██████ ██████████: Look, who would believe me? You guys are taking this away? The other thing I was told was that destroying it was a bad idea.
+
+Dr Vettir: Oh? And do you believe it?
+
+██████ ██████████: At first, I thought they were joking. But now? If it's worse than not destroying it, yes. Listen. Whatever you do. Keep an eye on them. The ones on the sinister side. I don't know how, but I know they want through.
+
+Dr Vettir: I see. Well, I'll probably be back tomorrow after we've finished transporting it, we can talk more then.
+
+When Dr Vettir returned to speak to ██████ ██████████ the next day, he was found dead. An autopsy revealed the cause of death as anaphylactic shock due to exposure to [DATA EXPUNGED]. This suggests his claims may have some validity, given [REDACTED].
+
+Excerpts from file #739-E.
+
+Experiment log 739-█ (Drs I██████ and Vettir) ██/██/████
+
+A glass container containing 100 grams of white sugar was placed inside SCP-739, along with D-739-█. The door was closed. After 15 seconds, the door was opened. The sugar was found to be reversed, as was the lettering on the glass container. All sugars were tested, and all L-sugars were found to have become D-sugars.
+
+Dr I██████'s note: Provided you don't have an allergy to this, it can be used as a dietary sweetener.
+
+Experiment log 739-██ (Drs I██████ and Vettir) ██/██/████
+
+Four magnetic storage devices were placed inside SCP-739, along with D-739-█, in 100, 010, 001, and 111 facings, with 100 being perpendicular to the plane of symmetry. In the 100 alignment, no change to data. In the 010 and 001 alignments, data order and value inverted (1 bits became 0s, etc.). In the 111 alignment, the data appeared to largely be corrupted, but where it could be read, order was inverted.
+
+Dr Vettir's note: All fits with a single axis P reversal.
+
+Experiment log 739-██ (Drs I██████ and Vettir) ██/██/████
+
+Dr I██████ first left his keys on a table, then went inside SCP-739, closed the door, opened it, closed it again, opened it once more. His keys were in his pocket, and a flash drive containing non-vital files was missing.
+
+Dr Vettir's note: From now on, only D class personnel are to be cycled through this, for security reasons.
+
+Experiment log 739-██ (Drs I██████ and Vettir) ██/██/████
+
+Dr I██████ brought a digital video camera with microphone into SCP-739, turned on. When turned to the right-hand mirror, no oddities were found. When turned to the left-hand mirror, the camera did not record any of the independent reflections, showing only black. Once Dr I██████ looked up, he blanched, and quickly jumped out. He claimed that his reflections were 'running through the mirrors'. On playback, the audio gave 37 different tracks of Dr I██████, all of them variations on 'let me out' or 'close the door'.
+
+Experiment log 739-██ (Drs I██████ and Vettir) ██/██/████
+
+Subject D-739-11 entered SCP-739, and was instructed to keep opening and closing until the independent reflections reached him. Upon reaching him, the door stayed shut an entire minute, then D-739-11 exited, showing signs of [DATA EXPUNGED]. D-739-11 was killed at the earliest possible moment by Agent ██████, who was on hand.
+
+Audio log of experiment 739-██
+
+Dr Vettir: D-739-11, are you in there?
+
+Dr I██████: Damn thing needs an outside handle.
+
+Dr Vettir: █████████, open the door already! (Door to 739 opens.) My god!
+
+D-739-11: Well hello, doctors. I wouldn't try that, not with [DATA EXPUNGED]. Let's talk.
+
+Dr I██████: Really. Talk.
+
+D-739-11: (D-739-11 smiles.) Yes, talk. We can be reasonable, can we not?
+
+Dr Vettir: I'm sure we can. In fact, I believe we can come to an arrangement. You are a [DATA EXPUNGED], am I correct?
+
+D-739-11: (Sharp look at Dr Vettir.) How do you know that? You shouldn't know that! (Lunges at Dr. Vettir, then is shot by Agent ██████.)
+
+Dr Vettir: Shit. Thank you, Agent. We are NEVER doing that again, you got me █████? Never again.
+
+Dr I██████: Right. Sorry, Dain, if I'd known-
+
+Dr Vettir: No, we needed to know, I think. But we were lucky.

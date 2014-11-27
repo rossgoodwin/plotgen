@@ -1,0 +1,193 @@
+SCP-1468-37, in containment at Foundation Aviary #4.
+
+Item #: SCP-1468
+
+Object Class: Safe
+
+Special Containment Procedures: All recovered instances of SCP-1468 are to be contained in Foundation Aviary #4. Healthy amounts of water and bird seed are provided twice daily, with force feeding via sedation or restraint authorized. Occasional medical care is necessary to maintain the health of SCP-1468. A large block of soft material has been placed within the aviary as a safer carving surface. Due to behavioral differences, not all instances of SCP-1468 utilize this material, and as such some still pose risks to their own health.
+
+Description: SCP-1468 is the collective designation for a population of bird, a subset of the species Poecile atricapillus, or Black-capped Chickadee. All instances of SCP-1468 regularly engage in using their beaks to carve letters and words into any available surface, typically seeking softer materials when available, though some instances have been recorded attempting to carve into materials as hard as iron without success. In most cases the English alphabet is used, but instances of SCP-1468 carving characters from Cyrillic and Persian alphabets have been recorded. Observation suggests that each individual instance of SCP-1468 is slowly transcribing a different piece of known literature, primarily fictional novels. See SCP-1468 Observation Log for further detail.
+
+Instances of SCP-1468 engage in this carving behavior almost nonstop, pausing only to consume small amounts of food and water. As such, restraint or sedation can be necessary in order to provide nutritionally sustainable amounts of food, water, and medical care. Due to repeated and excessive strain brought about by the carving behavior, instances of SCP-1468 can suffer from chipped or cracked beaks, infections, strained muscles in the neck, dehydration and malnutrition, and in some cases, death. Instances of SCP-1468 appear to ignore any pain caused by these injuries, and instead continue carving. This behavior appears to have escalated since initial discovery, and injury rates have increased.
+
+It is not currently known what will happen if an instance of SCP-1468 successfully completes a piece of literature. As of writing, SCP-1468-19 is the closest to completion, being approximately 78% done with Brave New World, by Aldous Huxley. Speed of carving is not uniform among instances of SCP-1468.
+
+Because instances of SCP-1468 rarely engage in behaviors not related to carving, no mating has been observed. Because of this, artificial means have been suggested in order to ensure that current instances of SCP-1468 produce offspring. If this does not succeed, it is believed that SCP-1468 could potentially drive itself to extinction.
+
+Sample SCP-1468 Observation Log
+
+SCP-#
+
+Literature Carving
+
+% Complete
+
+Additional Notes
+
+1468-1
+
+Insomnia by Stephen King
+
+52%
+
+1468-4
+
+Coming Up for Air by George Orwell
+
+23%
+
+Currently being treated for a cracked beak.
+
+1468-6
+
+Currently Unknown
+
+N/A
+
+Currently recorded words are not sufficient to identify source.
+
+1468-7
+
+On a Pale Horse by Piers Anthony
+
+19%
+
+1468-10
+
+A Tale of Two Cities by Charles Dickens
+
+3%
+
+1468-11
+
+Layli o Majnun by Nizami Ganjavi
+
+37%
+
+The only known instance of poetry. Carved using Persian alphabet.
+
+1468-15
+
+Crime and Punishment by Fyodor Dostoyevsky
+
+40%
+
+Carved using Cyrillic alphabet
+
+1468-19
+
+Brave New World by Aldous Huxley
+
+78%
+
+1468-20
+
+America and Americans by John Steinbeck
+
+27%
+
+1468-21
+
+The Invasion by K.A. Applegate
+
+N/A
+
+Deceased due to complications from malnutrition.
+
+1468-26
+
+Good Omens by Neil Gaiman and Terry Pratchett
+
+N/A
+
+Deceased due to complications from malnutrition.
+
+1468-33
+
+Green Eggs and Ham by Theodor Seuss Geisel
+
+N/A
+
+Deceased due to complications from cracked beak.
+
+On 12/█/20██, Researcher Karen ██████ suggested that instances of SCP-1468 may be capable of higher cognitive functioning than previously thought, and proposed an attempt at communication. Enclosed are the attempts to communicate with an instance of SCP-1468. SCP-1468-29 was selected at random.
+
+SCP-1468 Communication Attempts
+
+SCP-1468 Communication Attempts
+
+Attempt #1
+
+Method of Communication: Verbal
+
+Results: Researcher Karen ██████ approached the branch on which SCP-1468-29 was carving the beginning of Chapter 3 of I Am Legend, by Richard Matheson, and said "Hello." SCP-1468-29 displayed no changes in behavior. Researcher Karen ██████ repeated the greeting in Spanish, French, German, Russian, Japanese, and Mandarin Chinese, none of which elicited a response from SCP-1468-29.
+
+Attempt #2
+
+Method of Communication: Written
+
+Results: Researcher Karen ██████ displayed a document with "Hello" written in twenty-nine different dialects to SCP-1468-29. SCP-1468-29 observed pausing briefly in its carving to look at the document for approximately ten seconds before returning to work.
+
+Attempt #3
+
+Method of Communication: Carving
+
+Results: Researcher Karen ██████ displayed a piece of wood with "Hello" hand carved into it. SCP-1468-29 finished the word it was currently carving, then stopped. After observing the wood held by Karen ██████, SCP-1468-29 chirped once, then returned to carving. SCP-1468-29's carving deviated from known literature at this point, inserting the word "Hi" into its transcription of I Am Legend.
+
+Attempt #4
+
+Method of Communication: Carving
+
+Results: Using several blocks of wood with questions carved into them, Researcher Karen ██████ conducted a rough interview of SCP-1468-29. Enclosed are the results, with SCP-1468-29's carving of I Am Legend excluded.
+
+<Begin Log>
+
+Researcher Karen ██████ holds up a block with "Hello" on it.
+
+SCP-1468-29 <carving>: Hi
+
+Researcher Karen ██████ <on block>: Can you understand me?
+
+SCP-1468-29 <carving>: Yes
+
+Researcher Karen ██████ <spoken>: What about like this?
+
+<No response from SCP-1468-29>
+
+Researcher Karen ██████ <on block>: Do you know what you are writing?
+
+SCP-1468-29 <carving>: Yes
+
+Researcher Karen ██████ <on block>: What is it?
+
+SCP-1468-29 <carving>: A story
+
+Researcher Karen ██████ <on block>: Does it hurt?
+
+SCP-1468-29 <carving>: Yes
+
+Researcher Karen ██████ <on block>: Why do you work so hard?
+
+SCP-1468-29 <carving>: I like this story
+
+Researcher Karen ██████ <on block>: What about the others?
+
+SCP-1468-29 <carving>: They like those stories
+
+Researcher Karen ██████ <on block>: You can read, correct?
+
+SCP-1468-29 <carving>: Yes
+
+Researcher Karen ██████ displays a paperback copy of I Am Legend to SCP-1468-29
+
+Researcher Karen ██████ <on block>: Would this do?
+
+SCP-1468-29 <carving>: No
+
+Researcher Karen ██████ <on block>: Why?
+
+SCP-1468-29 <carving>: It is imperfect
+
+<End Log>
+
+As there was a limited amount of pre-carved questions, communication has been put on hold until more can be prepared. Researcher Karen ██████ has been commended for her ingenuity.

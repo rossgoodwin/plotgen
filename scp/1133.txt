@@ -1,0 +1,81 @@
+SCP-1133
+
+Item #: SCP-1133
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1133 is to be kept within a secure testing chamber at Site-███, equipped with one (1) standard power socket. Samples of SCP-1133-X should be stored in an on-site bio-research vault. Both should be guarded by a minimum of one (1) armed personnel at all times in order to prevent unauthorized access.
+
+Description: SCP-1133 resembles an ordinary, hospital-standard intravenous fluid stand. Only the infusion pump displays any anomalous properties. The tubes, stand, power supply and intravenous drip bags are entirely ordinary and can be replaced. With the exception of the tubes passing through the infusion pump, all openings on the device are fused shut, including the rear battery compartment, requiring that SCP-1133 be connected to a standard power socket at all times. All attempts at opening SCP-1133 have so far failed, as the casing has proved remarkably resilient, such that the force required to penetrate the casing would likely cause irreparable damage to its internal components. As a result, internal examination has been postponed until primary research is complete.
+
+The console of SCP-1133 possesses nine (9) buttons not present on a normal infusion pump. The first seven (7) are labeled with a corresponding number, and the final two (2) with the words, ‘Extract’ and ‘Infuse’, respectively. The remainder of SCP-1133’s controls are non-functional. When supplied with power, SCP-1133 will display the message: ‘SELECT OPERATION SETTINGS’, at which point either ‘Extract’ or ‘Infuse’ must be selected, after which SCP-1133 will activate if it is connected to a living human subject. If SCP-1133 is connected to a cadaver or any non-human species, SCP-1133 will display the message ‘OPERATION FAILED’ and shut down.
+
+If the ‘Extract’ setting is selected, one (1) of the number buttons must be selected. This will cause SCP-1133 to begin extracting a substance, hereafter known as SCP-1133-X, from the subject, corresponding to the number chosen. Selecting the ‘Infuse’ option will result in the pump functioning as would be expected, infusing the substance placed in the drip bags into the subject’s bloodstream. Only SCP-1133-X can be infused in this way; the use of any other substance will result in the message ‘OPERATION FAILED’.
+
+SCP-1133-X appears to be synthesized directly from the subject's bloodstream upon extraction, and breaks down almost immediately upon entering the blood during infusion, making it almost impossible to observe its impact on human physiology. However, both the infusion and extraction of SCP-1133-X produces equal and opposite changes in the behaviour and morality of the subject which are easily observable. Subjects are not normally aware of or disturbed by these changes, even when the subject had prior knowledge of SCP-1133’s effects.
+
+SCP-1133-1 through SCP-1133-7
+
+To date, seven (7) different varieties of SCP-1133-X have been recorded, each with a distinct colour and effect, and each corresponding to a specific number on SCP-1133’s console. Samples of SCP-1133-X have no observable effect on the human body if administered by any means other than SCP-1133’s ‘infusion’ function. All attempts to synthesize SCP-1133-X in laboratory conditions have so far failed. For detailed analysis of SCP-1133-X's chemical properties, please refer to Document 1133-█.
+
+There seems to be limits to the quantity of each variety SCP-1133-X that can be extracted from any given subject, which seem to vary from individual to individual, depending on the personality of the subject. For example: subjects with a history of kleptomania seem to have larger natural reservoirs of SCP-1133-3 available for extraction, and requiring less SCP-1133-3 infusion to display more extreme symptoms. It is unknown whether an upper limit exists for the infusion of SCP-1133-X. Below is a list of the seven (7) known varieties and their effects:
+
++ SCP-1133-X Observations
+
+- SCP-1133-X Observations
+
+SCP-1133-1:
+
+Colour: Light green.
+
+Infusion Effect: Increased appetite. Subjects infused with sufficient quantities of SCP-1133-1 are unable to resist the compulsion to consume any form of food in the immediate area, including those normally repulsive to humans, including rotten food, raw meat and animal feed. Subjects will frequently become violent when denied food. Several D-Class subjects infused with SCP-1133-1 have died as a result of choking, or in extreme cases, of stomach ruptures caused by the sheer quantity consumed. In small amounts, SCP-1133-1 infusion has proved to improve the symptoms of eating disorders such as anorexia.
+
+Extraction Effect: Decreased appetite. Subjects display a reduced enthusiasm for food, often forgetting to eat even to the point of starvation, although they can typically be induced to eat without the application of force.
+
+SCP-1133-2:
+
+Colour: Red
+
+Infusion Effect: Heightened stress levels and aggressive behaviour. Those infused with large quantities of SCP-1133-2 typically become dangerous and violent, often becoming hostile towards Foundation personnel. Following Incident 171-█, any experiments involving SCP-1133-2 require an additional two (2) armed security guards at all times.
+
+Extraction Effect: Reduced aggression and increased docile behaviour. When large amounts are removed, subjects will often refuse to defend themselves, even from violent assault. Given the potential of this process to make subjects more compliant, use of SCP-1133-2 extraction in interrogations or pacification of troublesome personnel is being considered, pending further testing.
+
+SCP-1133-3:
+
+Colour: Yellow
+
+Infusion Effect: SCP-1133-3 appears to influence interest in material wealth. Subjects typically become obsessed with financial gain, often showing symptoms of kleptomania. Subjects exposed to high amounts will often become violently fixated on shiny objects, such as wristwatches or metal buttons.
+
+Extraction Effect: Loss of interest in money and material wealth, generally becoming indifferent to material possessions, as opposed to actively generous. Subjects will often show reduced understanding of money and financial issues, as well as reduced motivation for the completion of tasks with material rewards.
+
+SCP-1133-4:
+
+Colour: Blue
+
+Infusion Effect: Increased egotism and self-confidence. Although small infusions can lead to beneficial increases in confidence, further amounts will likely lead to narcissism and vanity, often resulting in violent attacks on any personnel the subject perceives as insulting them.
+
+Extraction Effect: Similar to SCP-1133-2, subjects become quieter and less assertive, although they will still defend themselves if faced with assault. Extraction of the maximum quantity of SCP-1133-4 has resulted in attempted suicide in ██% of cases.
+
+SCP-1133-5:
+
+Colour: Dark Green
+
+Infusion Effect: Increased fixation on the possessions, achievements and privileges of others, with subjects often coming to perceive all others as ‘better off’ than themselves. This has frequently resulted in uncooperative and abusive behaviour in subjects, although subjects are typically not violent, instead preferring acts of sabotage or indirect methods of inducing pain and distress in those around them.
+
+Extraction Effect: Subjects disinterested in the possessions of those around them. SCP-1133-5 extraction seems to have comparatively few detrimental effects on subjects, although there is still a high risk of psychological damage and [DATA EXPUNGED] in all cases.
+
+SCP-1133-6:
+
+Colour: Brown
+
+Infusion Effect: Increased levels of general apathy and reduced energy, in some cases showing symptoms similar to those of moderate to severe narcolepsy. Those subjected to high enough levels of SCP-1133-6 enter a coma-like state, and so far no attempts bar the extraction of SCP-1133-6 have proved successful in recovery.
+
+Extraction Effect: Increased energy levels, activity and enthusiasm. In extreme cases this can result in hyperactivity and symptoms comparable to Attention Deficit Disorder, although subjects will more commonly suffer from insomnia and mental fatigue, resulting from increased physical and mental activity.
+
+SCP-1133-7:
+
+Colour: Purple
+
+Infusion Effect: Increased sexual drive. In extreme cases this results in symptoms similar to clinical hypersexuality. Subjects have frequently resorted to violence in attempts to satisfy the resulting compulsions, which has made testing on the effects of SCP-1133-7 particularly troublesome.
+
+Extraction Effect: Reduced interest in sexual activity. Those having the maximum amount extracted typically become completely disinterested and in some cases repulsed by the idea of sexual intercourse.

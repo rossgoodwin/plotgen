@@ -1,0 +1,25 @@
+SCP-1548
+
+Item #: SCP-1548
+
+Object Class: Euclid Keter
+
+Special Containment Procedures: SCP-1548 is currently uncontainable due to its status as a stellar body. It is to be observed by astronomical personnel at Research Unit-█, currently located at ████████, Sark. Three small-scale radio telescopes are currently in use to allow for 24-hour message reception. All received messages are to be transcribed and transmitted to the SCP-1548 database at Site-█. MTF Gamma-5 is currently assigned the task of suppressing knowledge of the object's characteristics in the mass media.
+
+Description: SCP-1548 is the Foundation term for PSR B0531+21, an optical pulsar in the Crab Nebula. Originally discovered in 1942 by various scientific organizations, the anomalous nature of the star was not known until 1968, when Agent M███████, then an astronomer at [REDACTED], began observations via radio telescope. Radio observations revealed that the star was, in fact, accelerating towards the Solar System, and that it was pulsing in Morse Code. The first fully transcribed SCP-1548 message, translated from Russian and broadcast in three bursts, reads as follows: "I wake/I see all/And find it lacking". SCP-1548 normally pulses at a rate of approximately 30hz, although higher transmission rates have been recorded (see Addendum SCP-1548-A).
+
+Over the course of the next ten years, the star was observed to accelerate to approximately 0.85c (2.55x108m/s). During this period, the pulsar began to transmit increasingly hostile messages, with common phrases being "You cannot hide" and "Only death". Having reached its apparent maximum velocity by unknown means in late 1978, the pulsar's messages changed, becoming significantly more erudite and coherent.
+
+It was at this point that SCP-1548 began to demonstrate awareness of those observing it. Messages began to take on a personal tone, insulting those observing the object. Messages simultaneously received on multiple telescopes will threaten personnel using all telescopes. Messages sent while telescopes are recording automatically, without human involvement, are normally general threats against humanity as a whole, although [DATA EXPUNGED] prompting the establishment of observation posts at these specific sites. The means by which SCP-1548 apparently predicts the future in order to time the reception of its pulses is unknown.
+
+Addendum SCP-1548-A: On █/█/198█, O5-█, on medical leave from Foundation duties, accidentally directed a small optical telescope in the general direction of the Crab Nebula. The telescopes at Sark recorded the following:
+
+"I just remembered this: the coordinates of all SCP secure facilities. And have the personal information of the O5."
+
+Following this transmission, the star's pulse rate increased from 30hz to well over 1khz, necessitating the use of high-speed cameras to record the message. Over the next eight hours, SCP-1548 transmitted [DATA EXPUNGED], totaling more than a gigabyte of information. This was the longest continual message to date.
+
+Addendum SCP-1548-B: SCP-1548 is reclassified as Keter by order of O5-█
+
+I don't care if it gets here in 5,700 years. It knows too much. -O5-█
+
+Addendum SCP-1548-C: After the major solar flare on 11/4/2003, the Sark facility received a brief message stating "Your little world will be next.". Comparable messages have been received after every significant solar event since that date.

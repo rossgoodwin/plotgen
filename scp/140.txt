@@ -1,0 +1,57 @@
+A reproduction of SCP-140
+
+Item #: SCP-140
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-140 must never be brought closer than 15 m to any source of standard ink, human blood, or other fluids suitable for writing. Any contamination by blood or ink must be reported immediately. Any remaining copies of SCP-140 created during the initial printing must be found and destroyed as soon as possible. Only SCP-140 is to be preserved, for purposes of study, early warning, and cataloguing and recording possible SCPs derived from its subject matter.
+
+SCP-140 is contained at Site-76 in a sealed vault containing a single desk. At this time no research is to be carried out upon the original SCP-140; researchers are to read from prepared copies not bearing the signature of its author which lack its properties. In the event of approved research, SCP-140 may not be removed from the vault, and readers may not be in contact with it for longer than 9 hours. Access requires written approval from the head researcher for the explicit purposes of testing. An armed guard stationed outside the vault will meet any attempted theft with deadly force.
+
+Should any personnel begin displaying obsession with SCP-140 or signs of possible memetic contamination, they are to be issued a Class A Amnesiac, false memories implanted as necessary, and transferred to another project. Transferred personnel must be monitored for signs of relapse.
+
+Description: SCP-140 is a modern hardcopy book with an unremarkable black binding and an unknown number of white pages. The book jacket is missing, but the title, “A Chronicle of the Daevas”, is clearly legible. The inside cover is signed by the author, whose name is indecipherable. The text is copyrighted 19██. Careful examination reveals there are far more pages between the bindings than could be contained within them.
+
+Readers admit to feelings of paranoia, unease, and occasional nausea while reading SCP-140, although this may be related to the subject material. Nonetheless, readers almost universally describe SCP-140 as fascinating and express continued interest, despite its frequently unsettling content. One in fifteen readers describe SCP-140 as having a faint odor of dried blood.
+
+SCP-140 is a detailed account of an ancient civilization originating in what is now south-central Siberia, identified as the Daevites. Although like all cultures the Daevites evolved and changed over time, they appear to have exhibited unusual continuity. Universal fixtures of the Daevite culture in all periods included militarism, conquest, ancestor worship, urban centers ruling over large slave populations, gruesome human sacrifice, and the practice of apparently efficacious thaumaturgic rituals. A variety of relics and creatures produced by the Daevite culture would be abnormal or dangerous enough, if the account is to be believed, to qualify for containment in their own right.
+
+If SCP-140 comes into contact with any fluid suitable for writing or human blood, the account of the Daevite civilization’s history expands. Human blood appears the most “potent” of possible writing substances, but in any case the amount of new material does not correspond proportionately to the fluids introduced. Although these new segments sometimes include new descriptions of rituals or cultural traits or illustrations of previously covered material, they more frequently include new, more recent accounts of information chronicling the continued history of the Daevite civilization or descriptions of new individuals and artifacts. Formerly decisive defeats become setbacks; new persons and events are inserted. Foundation archaeologists have discovered corresponding new artifacts and traces of the Daevite civilization in applicable locations and strata, in some cases found in dig sites that had already been thoroughly explored.
+
+Although at times the Daevites were a collection of city-states, they appear to have consistently returned to imperialism under a theocratic aristocracy (the “daeva”), practitioners of cannibalism and thaumaturgy. Although initially Foundation researchers believed the daeva to have been a hereditary class recycling the names of noteworthy individuals, evidence and the events of █-██-20██ now suggest that the daeva possessed preternatural longevity as a result of [REDACTED]. Several researchers, notably Professor ███████, have concluded the Daeva were so divergent from modern humans as to be a separate subspecies, a conclusion supported by graphic representations within SCP-140 and [DATA EXPUNGED].
+
+SCP-140 is remarkably detailed by the standards of a primary source, seeming closer to a biography than a historic text. It includes lurid descriptions of sacrificial rites, battlefield descriptions, daily life, and the life stories of various noteworthy individuals including quotes and dates of birth. Over ███ distinct individuals have been identified including the individual presently termed SCP-140-A, of which only ██ are accounted for by recorded deaths.
+
+Foundation archaeologists have discovered several sites containing ruins consistent with the supposed Daevite culture in various locations across Siberia, northern Iran, and Mongolia. Artifacts and traces of inter-cultural conflict and contact have been discovered as far west as the Carpathian Mountains and as far east as northern Pakistan and China. These include SCP-[REDACTED].
+
+Addendum 140a:
+
+SCP-140 was originally found in the office of deceased historian ███████ ██████. The previous owner was discovered in his office at █████ University, having expired from self-inflicted lacerations on both wrists. There were no traces of ██████’s blood in the office. ██████’s colleagues claimed during interviews they discovered a note in faded ink in ██████’s handwriting next to SCP-140. All witnesses were administered Class A Amnesiacs and false memories implanted.
+
+██████’s note read:
+
+I have to know. I’m sorry.
+
+All texts within 15 m except several books relating to the history of the region were blank; the remaining books now included accounts of supposed interaction between the Daevite civilization and the subject cultures or applicable discussions of Daevite history and culture. These texts were confiscated. All printed forms and media were blank. All pens, printers, and ink cartridges were empty.
+
+Addendum 140b:
+
+Although SCP-140 was published during the 20th century, the tone of the book suggests it is a recounting of events, individuals, and practices experienced firsthand by SCP-140’s unknown author. Foundation investigators have tracked SCP-140’s publication to the [DATA EXPUNGED] printing house in a batch of ██ copies self-published by a wealthy individual hereby termed SCP-140-A. SCP-140-A’s signature on the contract matches the strange signature inside SCP-140.
+
+More than 4█ of the copies produced in this batch were apparently leeched of all ink by the ██ remaining copies. To date, Foundation agents have recovered and destroyed ██ of the remainder, but between █ and ██ remain at large. Two expansion events have been reported during periods when SCP-140 had never been exposed to fluids of any sort or removed from its vault.
+
+An investigation and manhunt for the author of SCP-140 is ongoing. In the event of contact, agents are advised [DATA REDACTED].
+
+Addendum 140c:
+
+Through study of SCP-140 and other contained objects related to the Daevite civilization, Foundation researchers have concluded that, transposed to the modern era, the resurgence of a hostile Daevite civilization in history more recent than 1███ CE would constitute a grave and even possibly retroactive threat to the Foundation and modern civilization as we know it. Even best-case projections of Daevite resurgence in the modern day suggest a CK-class restructuring of modern society and a worldwide conflict with a projected death toll of at least [REDACTED] and an end to the Foundation’s secrecy.
+
+Addendum 140d:
+
+███████ ██████’s journal, found on his home PC in [DATA EXPUNGED], indicates that upon his initial reading of SCP-140, it ended with the almost utter destruction of the Daevite civilization and the genocide of all known daeva in 2██ BCE by the forces of Chinese general Qin Kai. As a result of subsequent containment breaches, including those detailed in the journal, copious quantities of new material have been added, describing survivors regrouping and migrating to another region of central Siberia, rebuilding their empire steadily, and continuing to advance culturally and technologically. At present, the empire is described as having finally been crushed by Genghis Khan during the early period of his conquests, although the fates of many important persons and several cities remain ambiguous. Foundation archaeologists will be dispatched to [EXPUNGED] for investigation and research.
+
+Addendum 140e:
+
+After the incident on █-██-20██ at [DATA EXPUNGED] dig site resulting in over ███ casualties, all Foundation archaeologists excavating sites of suspected Daevite artifacts or ruins are to be accompanied by a fully armed security team. SCP-140-1 has been neutralized. SCP-140-2 remains at large. All other anomalous contacts and artifacts were destroyed when the dig site was struck by a cruise missile. Agent ██████ received a commendation and was treated for post-traumatic stress disorder. Dr. ████ received a posthumous commendation for courage.
+
+An investigation into the possible involvement of SCP-140-A or their agents in the events of █-██-20██ is ongoing.

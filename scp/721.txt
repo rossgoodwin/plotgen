@@ -1,0 +1,45 @@
+Item #: SCP-721
+
+Object Class: Safe
+
+Special Containment Procedures: Instances of SCP-721 are to be contained in one of three designated lockers at Site 19's low-priority item storage facility, depending on whether they are classified as SCP-721-1, -2, or -3. Each instance must be sealed in a plastic bag with a label that clearly identifies their designation.
+
+Upon recovery, all instances of SCP-721 are to be subject to testing with Class D personnel to determine whether they are instances of SCP-721-1, -2, or -3, provided this information is not available from other sources. They are then to be contained according to the procedures outlined in this document.
+
+At time of writing, all six contained instances of SCP-721-1 are used to monitor and aid in the containment of sapient Keter-class SCP items. Any further instances of SCP-721-1 that are contained may be assigned to similar projects at the discretion of O5-8. Contact Site Director Cassidy for further information.
+
+Testing of SCP-721-2 requires permission from Dr. Bright.
+
+The use of SCP-721-3 to terminate any person requires approval from no less than three personnel with relevant Level 4 clearance or higher. Any subject known to have activated an instance of SCP-721-3 is to be euthanized if possible, then disposed of in the nearest suitable furnace.
+
+Description: Each instance of SCP-721 is a steel cylinder painted black measuring 7 cm in diameter and 2 cm in height. One side is covered by a steel mesh, and the other by a weak magnet labeled with "The Factory". Testing does not indicate that the material itself has any anomalous properties.
+
+Instances of SCP-721 can be further categorized as SCP-721-1, SCP-721-2, or SCP-721-3 depending on their effects. At time of writing, the Foundation controls six instances of SCP-721-1, eight instances of SCP-721-2, and two instances of SCP-721-3. There is no known means of distinguishing between instances of SCP-721 apart from activating its anomalous properties by placing at least 0.2 mL of blood from a sapient organism on the mesh side. Said organism is referred to as the subject.
+
+Upon activation of SCP-721-1, all conscious thoughts of the subject will become audible to those within a sixty-meter radius as a whispering in the listener's ear. Additionally, the thoughts of all persons within this range will be audible to the subject in the form of whispers emanating from SCP-721-1. While the thoughts of most subjects are too disorganized and incoherent for others to interpret properly, with practice, subjects have shown the ability to use SCP-721 to transmit coherent thoughts to those within its active range.
+
+Upon activation of SCP-721-2 and the placement of the object on some form of blank medium (i.e. paper, audio tape, video tape, or computer with a blank text file open1), the subject will gain complete mental control over the content of the media in question, and will be capable of transferring any data they can imagine to the media in question.
+
+Excerpts from Test Log 721-2-4
+
+Medium: Blank White Paper
+
+Summary of results: Subject was able to transfer both words and pictures onto the blank paper. The written text showed up in the subject's own handwriting, although it was proven he could change this at will. The text appeared as if written in pencil. The pictures were of a complexity the subject has proven incapable of duplicating without the use of SCP-721-2. This test took place over the course of thirty-five minutes.
+
+Medium: Blank Audio Tape
+
+Summary of results: Subject was capable of transferring multiple monologues onto the tape, in what he perceived to be his own voice, without speaking aloud. After being prompted to do so, subject was able to insert a dialogue he was witness to, in the voices of the researchers. After extensive practice, subject produced what amounted to his own five man play, with multiple voices and sound effects, all indistinguishable from their real-life counterparts. This test took place over two hours.
+
+Medium: Blank DVD
+
+Summary of results: Subject was, with practice, capable of creating video files of high complexity. Beginning with a relatively simple animation, the subject was able to expand upon this until proving capable of producing a full ninety minute live-action movie with special effects included. This test took place over the course of six hours.
+
+Upon activation of SCP-721-3, the subject's body temperature will increase approximately 0.3°C per minute; the exact rate fluctuates. While this increase in body temperature would be fatal in and of itself under normal circumstances, subjects retain full mobility and consciousness during this time, and suffers no visible effects of the temperature increase; further, they report that this process is extremely painful.
+
+Once the subject's body temperature is 100°C, the subject will begin to emit smoke from all orifices; analysis of the smoke indicates that it is consistent with the combustion of the organic components of the subject's blood. This coincides with the loss of the subject's voluntary motor control, although the subject remains conscious during this time. After between fifteen and thirty minutes2, the subject will expire. Testing indicates that, at this point, the subject's blood will be composed entirely of water that, if allowed to escape from the body, will boil away entirely.
+
+Footnotes
+
+1. SCP-721-2 has been shown to function on open-ended media as well, such as radios and televisions.
+
+2. The time spent is roughly proportional to the subject's blood volume.

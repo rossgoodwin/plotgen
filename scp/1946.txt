@@ -1,0 +1,91 @@
+SCP-1946's kitchen area before introduction of test subjects
+
+Item #: SCP-1946
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1946 is contained at Site-116 in its AVB (Anomalous Vehicle Bay), on lot #1542/A. No personnel are to enter SCP-1946 unless testing procedures are underway, and only D-Class personnel are to be allowed access to SCP-1946 during these procedures. As repeated attempts have shown, SCP-1946's main anomalous effect manifests too rapidly for affected subjects to be retrieved, and leaves subjects in a state of physiological stasis. Therefore, any personnel used in testing of SCP-1946 is to be considered permanently attached to this project. As the available space inside SCP-1946 is both non-anomalous and finite, requests for testing are to be screened for feasibility. Exploration of SCP-1946, if needed, is to be performed using robotic reconnaissance equipment.
+
+Description: SCP-1946 is a 1986 Airstream Excella-II trailer, converted into a small mobile diner. It is fully furnished, with a 3 m x 1.5 m kitchen area situated in the back, containing (amongst others) a dishwasher, a deep fryer, a grill and a stove. In addition, this area also contains SCP-1946-1, SCP-1946-3 and SCP-1946-5. Towards the front of SCP-1946 is a ten-person seating area in a traditional American diner style, with red leather upholstered bar stools positioned next to a high wall-mounted table running along the left side of SCP-1946. This also contains SCP-1946-2, SCP-1946-4, SCP-1946-6, SCP-1946-7 and SCP-1946-10. Also in the front of SCP-1946 is the trailer's toilet. It contains both a chemical toilet and SCP-1946-11. The kitchen and seating area are separated by a small counter on which a cash register and SCP-1946-9 sit.
+
+SCP-1946-1 through -11 are subjects previously exposed to SCP-1946's anomalous effect. All but SCP-1946-8 remain inside SCP-1946. SCP-1946-8 is deceased, and was examined to determine potential alterations to subjects' physiology. None were found, though SCP-1946-8's remains have not been noted to undergo decomposition since the subject expired.
+
+SCP-1946's anomalous effect manifests itself when a human being is introduced to its interior. Within approximately 3 minutes of exposure to SCP-1946, subjects will begin to lose any previously established identity and personality, and begin imitating elements of SCP-1946's interior. This process rapidly completes, with the longest cycle from start to finish taking approximately 2 minutes. Subjects first become agitated and confused, before gradually losing all ability to form coherent speech. However, an affected subject does not lose the basic ability to produce sounds. Multiple subjects have been recorded vocalizing in an attempt to more closely imitate an element of SCP-1946 (please refer to addendum 1946-A-01 for examples.) Attempts to communicate verbally with subjects after completion of the anomalous process have yielded no results. However, reactions can be provoked from subjects imitating elements with (digital or analog) controls using remote manipulation equipment. Subjects affected by SCP-1946 appear to enter a state of physiological stasis, do not appear to need sustenance, and have not been shown to undergo normal physiological processes.
+
+Note that as subjects experience SCP-1946's effect, imitated elements inside SCP-1946 do not disappear. Subjects affected by SCP-1946 simply assume a stationary position near their source element, attempting to move as close as possible to it. Subjects will become mobile if they perceive an opportunity to more accurately mimic their source.
+
+Currently, no known remedy exists for SCP-1946's effect. Subjects prematurely retrieved from SCP-1946 continued the transformational process, and were reintroduced to SCP-1946 for ease of containment.
+
+Addendum 1946-A-01:
+
+Designation
+
+Element
+
+Notes
+
+SCP-1946-1
+
+Deep fryer
+
+Removed and ingested all oil from SCP-1946's original deep fryer. Frequently attempts to insert the original wire basket into its mouth.
+
+SCP-1946-2
+
+Barstool
+
+Remains on its haunches and attempts to turn its head as far as physically possible at irregular intervals.
+
+SCP-1946-3
+
+Dishwasher
+
+Produces rumbling sounds and appears to swirl large amounts of saliva around in its mouth. Has attempted to eat utensils and crockery.
+
+SCP-1946-4
+
+Neon sign
+
+Currently standing upright against the short wall nearest to the first door. Has attempted to contort its body to spell out words, and to plug into SCP-1946's nearest wall socket.
+
+SCP-1946-5
+
+Grill plate
+
+Frequently spits saliva into the air. Has attempted to interface with SCP-1946's supply of gas canisters.
+
+SCP-1946-6
+
+Wall-mounted clock
+
+Produced ticking sounds until ██/██/20██. No vocalizations recorded afterwards.
+
+SCP-1946-7
+
+Picture frame
+
+Has attached photo originally contained in actual picture frame to its face using a cocktail skewer and attempted to attach itself to SCP-1946's right wall
+
+SCP-1946-8
+
+Barstool
+
+See SCP-1946-2. Mirrored behavior was noted before it succeeded in turning its neck beyond fracturing point.
+
+SCP-1946-9
+
+Cash register
+
+Ingested all cash from SCP-1946's original register. Has infrequently reproduced both coins and remains of bills.
+
+SCP-1946-10
+
+Blackboard
+
+Naked. Has used markers found in SCP-1946 to write out a menu on its body. Menu contains nonsensical items such as 'Tongue Rock Custard', 'Colon Needle Soup', and 'Frequent Boeing Foot Noodles'. Currently standing up on SCP-1946's wall-mounted table
+
+SCP-1946-11
+
+Chemical toilet
+
+[DATA EXPUNGED] and frequently imitates flushing sounds.

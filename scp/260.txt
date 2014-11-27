@@ -1,0 +1,35 @@
+Item #: SCP-260
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-260's current location and target are to be tracked by Foundation personnel. The current target is to be relocated between ██████████ and █████'██ (due to the nature of the intervening terrain), whenever SCP-260 approaches its vicinity.
+
+Description: SCP-260 appears to be a small clastic rock whose exact composition is unknown. It possesses phenocryst-like formations that identify it as a form of igneous breccia. On one of the larger and smoother portions of the surface is inscribed the name of a human, transliterated into Cyrillic, which changes over time at well-defined intervals. SCP-260 maintains continuous motion along a geodesic across all objects that stand between it and the individual currently named on the stone (hereafter the "target"). Its speed in a vacuum across a frictionless surface has been estimated at approximately 1.22 centimeters per second, but it usually moves much slower than this due to atmospheric and surface friction. (An accurate estimate is impossible, as SCP-260 is known to "stick" to the surface of whatever object it is currently located on, preventing its deposition in pure vacuum.)
+
+SCP-260 does not experience noticeable effects from erosion by the objects that it moves across. Tests have demonstrated that the stone possesses extremely high compressive and elastic strength, surpassing pressures exerted upon it by gunfire and tension presses. Due to the stone's continuous motion, serious experimentation for thermal or chemical sensitivity has not been conducted; however, it is doubtful that such experimentation would be successful, as the stone's composition suggests that it has already experienced high-temperature conditions.
+
+Upon surface contact with the target, all attempts to remove or relocate either the target or the SCP become futile. SCP-260 begins to burrow into the target's body in the direction of the chest at a speed of approximately 0.5 centimeters per second. All organs along the SCP's path are pulverized. As soon as the target's vital signs cease, the stone immediately exits the body via the shortest route (whereupon the name of a new target appears on the same space as the previous name), and recommences motion. Typically, the new target is the person closest to the stone at the time at which it exits the body, but some variations have occurred (consult the addendum for further information).
+
+Addendum: Test Log
+
+The following scenarios were constructed as potential preventative measures to contain SCP-260.
+
+Scenario 1: SCP-260 was lured into a cubic concrete cell and locked inside.
+
+Result: Upon reaching the edge of the floor and climbing halfway up the wall, SCP-260 ceased motion. Observers described it as "flickering" for several seconds between its natural coloration and a "photographic negative", after which it vanished. The current target expired shortly thereafter. An autopsy revealed the stone's presence in the target's chest, having punctured the aorta and the pulmonary artery. Several seconds after discovery the name of Dr. ███████, who performed the autopsy, appeared on the stone and he was immediately evacuated to a more secure location.
+
+Scenario 2: SCP-260 was lured into a hollow, open-ended rotational cylinder mounted on a fixed stand (hereafter referred to as a "gerbil wheel") with its current target placed outside the cylinder, with the aim of allowing the SCP to continue its motion while simultaneously retarding it with minimal effort.
+
+Result: After 57 hours and 22 minutes, SCP-260 ceased motion. Events that followed matched very closely to the results of Scenario 1. An autopsy was not performed, and observation of the corpse was ordered for the following 72 hours. Complaints about the deceased ensued. 9 hours into the observation, perforations were first observed in the corpse's chest, followed by the full emergence of SCP-260 over the following hour. After remaining still for 47 minutes, the SCP began moving towards one of the observers, who was moved to another room for continued study.
+
+Note 1: This appears to be normal behavior for the stone when it is not removed from target following death. Other experiments confirmed that penetration of a wood coffin and 1.8 m (6 ft) of soil requires a little more than 72 hours.
+
+Note 2: Due to the failure of this method of containment it is not recommended that SCP-260 be utilized as a power source.
+
+Scenario 3: SCP-260 was lured into a hollow, transparent, smooth plastic sphere (hereafter "hamster ball").
+
+Result: While SCP-260 was prevented from climbing walls and deterred from teleportation, target motion allowed the SCP to negotiate around various obstacles and and did not prevent it from beginning penetration once the hamster ball achieved physical contact with the target. At this point target panicked and attempted to leave the premises and was detained and terminated by Foundation agents. SCP-260 flickered as before, but immediately targeted Agent █████, who had first shot the target and changed motion accordingly. Agent █████ was removed from the vicinity and the hamster ball was destroyed by gunfire. SCP-260 was unharmed.
+
+Note: Prior to the target's termination the hamster ball containing SCP-260 fell over the edge of an embankment during its pursuit. Observers noted that the ball fell normally (rather than gripping the wall and maintaining its speed as SCP-260 usually does) and retained its momentum at the bottom, causing SCP-260 to follow the target at much higher speeds.
+
+Agent █████ has been relieved of his duties and is currently subject to transportation between sites off the coast of Asia and North America, in order to keep SCP-260 on a geodesic on the floor of the Pacific Ocean that runs through Challenger Deep.

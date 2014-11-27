@@ -1,0 +1,51 @@
+An isolated specimen of SCP-659 in the wild
+
+Item #: SCP-659
+
+Object Class: Euclid Keter
+
+Special Containment Procedures: All specimens of SCP-659 must be kept at least twenty-five (25) meters distant from each other. Ideally, specimens should be stored in separate facilities, but research has shown that 25 meters is sufficient to prevent flock behavior (Document 659-██). Specimens of SCP-659 can be held in containment able to hold an ordinary bird; however, the containment strategy must be changed at least once per week. More frequent changes are permitted if the specimen appears to have discovered an escape method. Previously used containment strategies must not be recycled on the same specimen. In the event of catastrophic containment failure total facility lockdown must be enacted. Due to the likely harmless nature of SCP-659, retrieval of wild specimens is not considered a priority. Recovery or extermination of all wild SCP-659 is extremely high priority; formation of a wild flock must be prevented by any means necessary.
+
+Description: SCP-659 is a species of bird, resembling a heron, which displays a modular intelligence. Native to North America, only a single flock of SCP-659 is known, although there have been unconfirmed sightings in Europe (Document 659-█). SCP-659 is naturally an ichthyovore, and as such prefers wetland habitats, but it can survive wherever open water exists. SCP-659 is now known to be able to subsist on any form of meat, although whenever possible it will still consume fish. When an individual specimen is kept isolated from the flock, it is indistinguishable from an ordinary bird. However, when specimens come near each other, each gains the combined intelligence of the group.
+
+Even when independent from the group, SCP-659 is still more intelligent than most species of bird. An isolated SCP-659 can solve simple problems, use tools, and learn extremely quickly. When in a group, SCP-659 is capable of escaping all forms of containment the Foundation has attempted to use. For this reason, the only effective containment strategy is isolation.
+
+Research has determined that SCP-659 achieves human-level intelligence and sapience when the flock reaches ██ individuals in size. Although the flock is extraordinarily coordinated, it does not display the properties of an aggregate consciousness, or "hive mind": beyond the increase in intelligence, there is no telepathic element to their behavior. Dissent has also been observed. At this level of intelligence, the flock becomes capable of learning human languages, and iterations of the flock have, in the past, learned to converse in English (see Interview Log 659-1), Spanish (Interview Log 659-█), and French (Interview Log 659-█). The flock is capable of even faster learning than an individual, and even a small flock surpasses human learning speed. SCP-659 is not known to be hostile. At this level of intelligence, SCP-659 also develops a vigorous hostility to humans. While this behavior was not present when SCP-659 was first encountered in the wild, it has been present in every iteration of the flock since Incident 659-A.
+
+Addendum: Incident 659-A:
+
+On ██/██/██, a containment breach at Site-██ released a flock of ███ specimens of SCP-659, resulting in the death of all on-site personnel, with the exception of ████ (█) individuals. A full evacuation was mounted, a full report of which can be found in Document 659-██. Summarized, the flock prevented any attempt to leave by pecking holes in the tires of every vehicle on site, severing site phone lines, and sending a detachment to observe the facility from the air. MTF-█████-██████████████ was dispatched to investigate the sudden communications blackout and eventually established control with heavy ([REDACTED]) casualties. The observational detachment remains at large.
+
+Addendum: Interview Log 659-1:
+
+Interviewed: SCP-659-1
+
+Interviewer: Dr. S███████
+
+Foreword: The following interview was conducted after the Site-██ containment breach (Incident 659-A). The flock was not yet separated, thus the Foundation decided to attempt communication. The interviewer is separated from the flock by a pane of bulletproof glass. Dr. S███████ conducted the interview.
+
+Dr. S███████: Hello. I am Dr. S███████. Can you understand me?
+
+(A small group of SCP-659 descends on one of their own, killing it. One individual, not one of the small group, hereafter SCP-659-1, pecks its beak into the corpse, covering it with blood. It writes a message on the glass with the blood.)
+
+SCP-659-1 (written): yes
+
+Dr. S███████: Why did you do this?
+
+(SCP-659-1 begins to write before finding that the blood on its beak has dried. It pecks the corpse again.)
+
+SCP-659-1 (written): don’t act like don’t know
+
+Dr. S███████: I don’t know.
+
+(SCP-659-1 pecks the corpse)
+
+SCP-659-1 (written): you started this
+
+Dr. S███████: We started this? What did we do to you?
+
+(SCP-659-1 pauses. All individuals of SCP-659 appear to shake their heads. SCP-659-1 pecks the corpse.)
+
+SCP-659-1 (written): FREEDOM
+
+After this, SCP-659-1 refused to answer any further questions.

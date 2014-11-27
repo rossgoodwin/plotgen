@@ -1,0 +1,69 @@
+Two of the SCP-315 discs, showing the label and data sides. Glyphs and marking deliberately obscured.
+
+Item #: SCP-315
+
+Object Class: Safe
+
+Special Containment Procedures: Object does not require any special storage arrangements. However, it is currently kept in an opaque cardboard box, away from strong light or heat sources, under the assumption that this will slow the natural decay of any stored data on the object.
+
+Description: Object consists of a set of ninety-five (95) standard 8.5 GB recordable DVD-format discs, arranged in a stack on a black plastic spindle. Examination of the label side of each disc reveals no manufacturer's name. Printed into each matte label is the title "PoC 1/1". Beneath this, each disc carries a unique symbol or glyph. No two discs carry the same symbol.
+
+On examination of the data side of the disc, it can be seen that each disc has already been fully written with data. Placing the disc into a computer or DVD player reveals that it is a standard-encoded video disc. Playing the disc results in one of two effects, depending on whether it is a previously watched disc, or an unwatched one.
+
+If an unwatched disc is played in a DVD player, the video begins. The scene displayed is a well-furnished living room with a chair in the center. Sitting in the chair is a Caucasian male (SCP-315-1), appearing to be around forty years old. SCP-315-1 will then demonstrate the ability to react to and converse with anyone watching the video feed. SCP-315-1 will respond to any questions put to him, appears to be able to see the environment outside of the video screen, and appears to enjoy discussions and debates with 'viewers'.
+
+If a disc that has already been viewed is viewed again, the disc will simply repeat the footage that was seen the first time. SCP-315-1 will not react to viewers' actions, nor deviate at all from the previous viewing. A disc, once played, always contains the same footage, regardless of who is watching it. The only way to communicate with SCP-315-1 is to insert a disc that has never been watched. Given that there are 95 discs, each containing three hours of video, it follows that SCP-315-1 has an effective lifespan of 285 hours, or 11.8 days, not including footage that has already been watched. It should also be noted that SCP-315 is not the complete set of discs. Five others are known to exist. It is known that all missing discs have already been fully viewed.
+
+SCP-315-1 is cognizant of the nature of his own existence. When questioned, he is aware that he is being displayed on a television screen or monitor, and can reliably identify the type, size, and color of the device on which he is shown. When directly asked about his specific nature, however, SCP-315-1 will not give a straight answer, preferring to draw the viewer into a discussion or debate. It is not clear whether SCP-315-1 is withholding information about his origin, or whether he is uncertain himself. He claims the former, stating that to tell us everything would "spoil the game". He neither demonstrates nor admits to any unhappiness with his situation, nor his short lifespan.
+
+SCP-315-1 retains memory between discs. If one viewer interacts with an unwatched disc, then switches to another disc, SCP-315-1 will recognise the viewer and refer to a previous conversation. SCP-315-1 has even shown signs of developing a rapport and friendship with those researchers who have spent a lot of time talking with him.
+
+Attached: Document 315-a - A collection of relevant excerpts from interviews with SCP-315-1. Recommended reading for familiarization with this subject.
+
+Addendum 315-01:
+
+Experimented to see how SCP-315-1 responds to basic video playback functions.
+
+Pause: Entire scene paused, including SCP-315-1. When resumed, SCP-315-1 was able to tell that he had been paused. SCP-315-1 then demonstrated the ability to respond, when resumed, to questions that had been asked during pause.
+
+Rewind: Entire scene rewound, including SCP-315-1. When resumed, DVD played back SCP-315-1's side of previous discussion. SCP-315-1 did not respond to questioning until video had once again reached the furthest watched point. He then resumed normal conversation and requested not to be rewound again.
+
+Fast forward: Whole scene fast-forwarded, including SCP-315-1, who sat still during sped-up play. SCP-315-1 picked up conversation immediately afterward, and requested not to be fast-forwarded again.
+
+Slow forward: SCP-315-1 was able to react to conversation during slow play, but was slowed down himself. When normal playback resumed, he identified that he had been in slow motion, but noted that it made no perceivable difference to him.
+
+Addendum 315-02:
+
+Attempted to copy one of the unwatched DVDs. Was unsuccessful - disc contains some form of copy protection that nobody seems to be able to break. SCP-315-1 showed awareness of this attempt when next consulted, and made reference to 'cheating'.
+
+Addendum 315-03:
+
+SCP-315-1 made reference to discs possibly being pre-recorded. To attempt to disprove, played a disc "out of sequence", i.e., played a disc from the middle of the pile rather than in the top-to-bottom order previously used. No apparent effect - SCP-315-1 was still able to tell the current, real-world time, conversed normally, complimented researcher on guile.
+
+Addendum 315-04:
+
+Further attempt to prove or disprove pre-recording theory. A pseudo-random number generator was used. Displayed number to television screen. SCP-315-1 was able to read out the number. If video is pre-recorded, the algorithm used for event prediction is almost impossibly accurate. Seems far more likely that effect is due to some paranormal phenomenon in the discs themselves, although further suggestions to try and prove either hypothesis are encouraged.
+
+Dr. █████ ███████’s note:
+
+I don’t like this conclusion at all. Without the ability to copy the disc, though, I can think of no way to prove either one hypothesis or the other. There are more important things to worry about at the Foundation, but this one keeps tugging at the back of my brain.
+
+Addendum 315-05:
+
+Two DVD players set up in separate areas. One randomly selected unwatched DVD placed in each player. Both discs played simultaneously to two separate researchers. Each instance of SCP-315-1 engaged in a separate conversation with each researcher. Both instances also showed awareness of the other conversation, and were able to transfer a message from one researcher to another.
+
+Addendum 315-06:
+
+Two DVD players set up in same room, played to two researchers sitting side-by-side. Dual instances of SCP-315-1 able to communicate both with researchers and with each other, creating a four-way conversation. When asked whether they were two separate entities or one entity controlling both instances, the SCP-315-1s were either unable or unwilling to give an answer.
+
+Dr. █████ ███████’s note:
+
+This is driving me up the damn wall. I’m taking myself off this project for the moment. No psych evaluation required, I’m just getting stressed out trying to figure out how the damn discs work.
+
+Addendum 315-07:
+
+Experiment undertaken to disprove the hypothesis that discs are manufactured in the future, based on SCP conversation records. An unwatched disc was placed in a player, watched by Dr. █████ ███████ and logged by researcher █████ ██████████. Researcher was asked to periodically record conversations incorrectly, logging fabricated questions and answers for both Dr. █████ ███████ and SCP-315-1. All accurate records of the conversation, including the disc itself, were subsequently expunged, and experiment participants induced to forget which parts of the record were fabricated. Inaccurate reports filed away as normal. Results: SCP-315-1 continued normal conversation with subject, giving no fabricated answers or statements inappropriate to actual conversation.
+
+Dr. █████ ███████’s note:
+
+Couldn't stay away, but I at least have a decent reason for coming back. This proves that the discs are not scripted conversations of future origin derived from our records. It's not a huge breakthrough, but God, am I glad to finally have disproved something.

@@ -1,0 +1,49 @@
+Item #: SCP-1940
+
+Object Class: Euclid
+
+Special Containment Procedures: Should an instance of SCP-1940 be found outside of containment, all products for sale at that time are to be purchased with Foundation funds. Funds expended in this manner can later be reclaimed using form CrayEx-D/1940-B. Products bought are to be destroyed immediately, and are not to be left on Foundation premises.
+
+One instance of SCP-1940 is to be kept in a standard humanoid containment cell, and will be allowed to sell products provided for it. If SCP-1940-1 shows any sign of suspicion or distress due to none of its products (SCP-1940-2) being bought, one instance of SCP-1940-2 is to be purchased and disposed of appropriately. Due to SCP-1940's pricing scheme, all testing is to be performed with objects of low value. D-class personnel used in testing are to be provided with enough funds to purchase all objects for sale. For more information of incidents regarding SCP-1940's effects, see Incident Report 1940-GT24.
+
+Description: SCP-1940 is an anomalous phenomenon in which a commercial business manifests inside an enclosure1. It will sell all furnishings of the room, similar to products in a store, including items such as appliances, carpeting or tiling, and wallpaper. A number of shelves and displays sufficiently large enough to hold all products will also be present. If the room in question is too small to fit these items, the anomalously created content will be reduced to smaller proportions. However, this does not affect the previous contents of the room.
+
+SCP-1940-1 is a humanoid entity that materializes inside a room affected by SCP-1940, and will appear standing behind a counter with a cash register. Instances of SCP-1940-1 can be of any gender and appearance, and are usually between the ages of twenty and fifty. Upon engagement in conversation, SCP-1940-1 will claim that it is the current cashier of the establishment. SCP-1940-1 will also allow the purchase of all items for sale in SCP-1940 and will accept any local form of legal tender or valid credit and debit cards that would otherwise work in genuine stores within the area.
+
+SCP-1940-1 will claim that they were employed in SCP-1940 prior to its materialization, and can produce documents stating the store's property was under ownership for several years. According to SCP-1940-1, the enclosure inhabited by SCP-1940 was originally purchased by "Light Courier Enterprises". SCP-1940-1 can be harmed, but doing so will cause another instance of SCP-1940-1 to materialize. SCP-1940-1 will continue to materialize indefinitely, though it will begin to beg and plead with its attacker.
+
+An instance of SCP-1940 will dematerialize once all products within SCP-1940 are purchased. All products bought from SCP-1940 will hereby be referenced to as SCP-1940-2, due to their main anomalous effect; SCP-1940-2 will cause a new instance of SCP-1940 to develop 6 hours if left in a enclosure. Attempts of surveillance to observe how SCP-1940 develops have met with failure, due to all surveillance equipment being taken as products in SCP-1940. Recorded data show SCP-1940-1 locating equipment and shutting them off before converting them into SCP-1940-2, though it will deny doing so upon interrogation.
+
+Incident 1940-A: Before SCP-1940-2's anomalous properties were discovered, Agent █████ had taken one product without authorization. An instance of SCP-1940 was found to have developed in Agent █████'s sock drawer. The following is an audio log of Dr. Mill questioning SCP-1940-1, with Agent █████ standing by:
+
+Interviewed: SCP-1940-1
+
+Interviewer: Dr. Mill
+
+<Begin Log, █:██ pm>
+
+Dr. Mill: SCP-1940-1, how did you get in this sock drawer?
+
+SCP-1940-1: [SCP-1940-1 smiles and waves] Good morning, sir! Welcome to the store of the century, brought to you by Light Courier Enterprises! Would you like to purchase some of these fine wares? I have several marvelous pairs of socks here… [Due to SCP-1940-1's decreased size, it falls down after attempting to lift a sock.]
+
+Dr. Mill: …Light Courier Enterprises?
+
+SCP-1940-1: [Mutters to itself and gets up] Simply my world's greatest corporation, my friend! We sell anything that you could imagine, and I suggest you get a job here, too! $1.25 an hour isn't pay that comes easily in these times!
+
+Dr. Mill: Those appear to be Agent █████'s socks, not yours.
+
+SCP-1940-1: [SCP-1940-1 attempts to enticingly display a sock, by utilizing it as a sleeping bag.] Well, I do believe I was situated here first. Finders keepers, you know. Though I do have some documents if you're unconvinced. [Holds up a minuscule piece of paper.]
+
+Dr. Mill: Well, I'm afraid that your products aren't actually legitimate, so-
+
+SCP-1940-2: No, wait! Please, I have kids to bring up and train! I can't be released now, I can't! Look, uh, I don't just have socks! Here are some lovely [REDACTED], Agent █████'s specialty! I only have four in stock, so get them while you can!
+
+<End Log, [█:██ pm]>
+
+[Agent █████ was restrained following a violent outburst, causing him to knock over the drawer containing SCP-1940. SCP-1940-1 was found inside, uninjured due to the several socks acting as cushions. Neutralization was carried through without incident.]
+
+Addendum 1940-B: For further documentation on Group of Interest "Light Courier Enterprises", see SCP-1920 and SCP-1740. Refer to Dr. Mill for supplementary documents regarding manifestation patterns and supposed motives and capabilities.
+
+Footnotes
+
+1. Note: The term "enclosure" is to be defined as an enclosed, indoor area that can be accessed through an opening of any form. This includes doors, furniture such as cupboards, boxes, etc.

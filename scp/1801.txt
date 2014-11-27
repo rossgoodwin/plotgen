@@ -1,0 +1,73 @@
+Item #: SCP-1801
+
+Object Class: Keter
+
+Special Containment Procedures: Due to the complexity of SCP-1801, it is so far proved impossible to isolate outside a host. All subjects infected with SCP-1801 shall be kept in the dedicated SCP-1801 Bio-Research Medical Facility at Armed Bio-Containment Area-14. The entire building shall be kept under Level 4 Biohazard containment protocols, and a 100m security perimeter is to be maintained around the structure under constant guard. Persons attempting unauthorized entry or exit of the secure perimeter are to be immediately terminated and the remains incinerated.
+
+No biological materials are to leave the SCP-1801 Bio-Research Medical Facility. All tests must be performed on-site, without exception.
+
+Physical entry to the SCP-1801 Bio-Research Medical Facility is limited to personnel with approval of the Site Director and only with full Level 4 containment gear. A pre-exit, 72-hour, on-site quarantine in the facility’s dedicated sterile area is mandatory before any personnel are allowed back across the secure perimeter.
+
+All subjects infected with SCP-1801 shall be isolated and remain under observation in individual rooms in the SCP-1801 Bio-Research Medical Facility. As of Incident I-1801-24, no individuals infected with SCP-1801 are permitted to interact with other infectees outside a controlled experiment.
+
+While SCP-1801 itself has only been seen to transmit with direct blood-to-blood or sexual contact, many of its components are normally dangerous and can be transmitted through casual contact or airborne transmission. All individuals infected with SCP-1801 must be treated as highly infectious.
+
+Description: SCP-1801 is a contagious syndrome that appears to be transmissible through a complex of agents that, in isolation, show no anomalous properties. To date, Foundation researchers have identified the components of SCP-1801 to include █ bacterial agents, █ viral agents, and █ prions (█ of which have never been seen in a mammalian host outside of SCP-1801). All these agents are well known and documented in their effects outside their participation in a SCP-1801 infection. When participating in a SCP-1801 infection, their normal epidemiology and symptomatology no longer appear to apply.
+
+Symptoms of SCP-1801 infection will vary based on the vector of the infection, and whether the infected individual has subsequently infected anyone else with SCP-1801. There are three classes of infectee:
+
+SCP-1801-1: An individual who becomes infected with SCP-1801 through contact with SCP-1801-2 or via [REDACTED] becomes SCP-1801-1. Despite hosting several strains of bacteria and virus that normally lead to fatal infections, SCP-1801-1 will remain apparently healthy and asymptomatic until infecting another individual with SCP-1801.
+
+SCP-1801-2: An individual who becomes infected with SCP-1801 through contact with SCP-1801-1 or SCP-1801-3 will become SCP-1801-2. Within 24 hours of infection, SCP-1801-2 will begin showing signs similar to an active infection by Staphylococcus aureus or Clostridium perfringens. However, rather than liquefaction and necrosis, the infected tissues vanish completely. Blood loss is minimal as blood vessels close off as tissue disappears. Because of this, the victim does not suffer from toxemia or shock, and can survive much longer than typical for such a tissue-destroying infection, usually until vital neural or organ tissue is affected. (With the assist of a heart-lung machine and dialysis, one instance of SCP-1801-2 survived 16 days after onset of symptoms and the loss of 80% of muscle mass, all extremities, stomach, intestines, kidneys, liver, as well as the lower mandible, tongue and esophagus. The SCP-1801-2 expired after 30% of brain mass was lost.)
+
+SCP-1801-3: Once SCP-1801-1 has passed on SCP-1801 to at least one other person, SCP-1801-1 will cease being asymptomatic and begin transition to become SCP-1801-3. SCP-1801-3 will begin showing the onset of irregular mature teratomas. The onset of these teratomas will correspond with the onset of symptoms in the SCP-1801-2 that was infected before the transition. Mass and rate of growth of teratomas in SCP-1801-3 will correspond to the mass and rate of tissue destruction in SCP-1801-2. The rate of growth of tumors may accelerate if SCP-1801-3 infects new individuals with SCP-1801. In this instance, mass and rate of growth of teratomas in SCP-1801-3 will correspond to the collective mass and rate of tissue destruction in all instances of SCP-1801-2 so infected. Genetic tests on teratomas show genetic material from SCP-1801-2 rather than SCP-1801-3. Despite this, no incidence of tissue rejection has been observed.
+
+Teratomas growing on SCP-1801-3 show a much higher incidence of complex organ development than is typical; in addition to eyes, teeth and hair, there have been observed a complete kidney, a lung, a complete left hand showing some independent movement, a tongue, a [REDACTED]. While these growths appear random, they interlink with each other and, in advanced cases show a circulatory, endocrine, [REDACTED] systems parallel and independent of SCP-1801-3’s original anatomy. SCP-1801-3 generally survives until tumor growth obstructs normal organ functioning. (In 55% of cases death is from asphyxiation due to airway blockage or lung collapse.) In cases where all associated SCP-1801-2 have expired before SCP-1801-3’s tumors have become life-threatening in size, tumor growth will cease and SCP-1801-3 may survive indefinitely before infecting a new SCP-1801-2 and tumor growth resumes.
+
+Addendum 1: Incident report regarding autopsy of instance of SCP-1801-3
+
++ Incident I-1801-24
+
+- Incident I-1801-24
+
+Document# I-1801-24
+
+Personnel involved: Dr. C ██████████.
+
+Date: 09/13/20██
+
+Location: Surgical Theatre 12B, SCP-1801 Bio-Research Medical Facility, Area-14
+
+Description: Dr. C ██████████ was engaged in a routine post-mortem exam and dissection of a deceased SCP-1801-3. The subject had been the most advanced case of infection to date, with over 65% of its body mass comprised of teratomas genetically linked to seven separate individuals. The largest individual tumor was a 15 kg mass distending the abdomen on the left side. The following is a transcript of the data recording as Dr. C ██████████ retracted the layer of tissue above the tumor.
+
+<Begin Log, [09/13/████ 1330]>
+
+Dr. C. ██████████: I am now looking at an extremely large teratoma growing from the dorsal left of the abdominal cavity, displacing the liver. I see complex structures, skin, hair, an ear, an eye, what might be a partial mouth. [sounds of crashing] Holy ████!
+
+Dr. C. ██████████: [After several deep breaths] Is this recording? The damn tumor blinked at me. [More deep breaths] I’m going to flush the incision and move the camera closer.
+
+Dr. C. ██████████: The teratoma is showing independent movement despite no vital signs at all in the host body. It is definitely looking at me. The partial mouth is moving as well. [Long pause] I don’t believe this. It’s trying to say something.
+
+SCP-1801-3: [indecipherable]
+
+Dr. C. ██████████: No.
+
+SCP-1801-3: [indecipherable]
+
+Dr. C. ██████████: I’m going to move the mic closer, I think it’s responding to me.
+
+SCP-1801-3: [indecipherable] others.
+
+Dr. C. ██████████: Others? Other SCP-1801-3?
+
+SCP-1801-3: Must [indecipherable] what we have learned.
+
+Dr. C. ██████████: What have you learned?
+
+SCP-1801-3: [indecipherable] we [indecipherable] you are.
+
+Dr. C. ██████████: [long pause] What are we?
+
+SCP-1801-3: Our… flesh.
+
+Dr. C ██████████ continued attempts to communicate, but no further intelligible statements were recorded before the teratoma ceased activity.

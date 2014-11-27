@@ -1,0 +1,33 @@
+Interior view of SCP-108
+
+Item #: SCP-108
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-108 is contained entirely by Subject 108-1. Subject 108-1 should be contained in a standard containment cell measuring 3 m x 3 m furnished with whatever items are requested unless said items compromise security. Subject 108-1 is permitted to leave the room, wander freely, and eat in the main canteen. Medical examination to be performed on Subject-108-1 daily; filters to be changed as necessary.
+
+Description: SCP-108 is accessible through the nostrils of Subject-108-1. Subject is an African-American female, 51 years old (see Addendum 108-1), who was previously employed as a cashier at █████ ██████ ███████, a small town hardware store in ████████████, Kentucky. Since █-██-████, SCP-108 has been housed at Site-17.
+
+Endoscopic examination of SCP-108 reveals that the area accessible via the subject's nostrils is not the human nasal cavity, but rather a bunker system of Nazi German construction dedicated to the production and maintenance of WW2-era Messerschmitt Me 262 fighters. Exploration via robotic endoscope reveals that the bunker system has internal dimensions of approximately 2 km x 4 km, with the long axis parallel to the main entrance/exit portal. While the exploration is by no means complete, SCP-108 is believed to contain hundreds of airframes under construction on its assembly line as well as three completed aircraft. There is also a large quantity of human remains in the complex, particularly concentrated around the entry/exit portal, with the corpses of Nazi officials, military personnel, Hitler Youth, and civilians (possibly Ukrainian slave workers) in an advanced state of decay. Evidence of a firefight near the entry/exit portal supports the hypothesis that the German military personnel were swarmed by the civilians and were killed in the ensuing struggle. Some corpses show signs of cannibalism.
+
+Robotic endoscopic exploration continues, and high discharge LED lighting (assembled piecemeal using the "ship in a bottle" technique) has been deployed. Endoscopic examination of the interior of SCP-108 reveals a large "hangar door" area with a kind of double airlock with blast doors large enough to admit two fully assembled fighters. A production line exists which would allow damaged fighters and deliveries to enter on one side of the hangar door, and finished fighters to exit on the other side. Turning the endoscope head 180 degrees reveals the open doorway as an area of total blackness with two nostril-shaped penetrations in it. One nostril-shaped penetration is connected to whichever nostril is admitting the endoscope, and the other is connected to the interior of a human nasal cavity. DNA testing reveals the nasal cavity belongs to the subject. The black area is impenetrable and absorbs all wavelengths of light that the endoscope can carry. The black area is elastic and yielding when probed.
+
+Apparently the portal system is a unique three-way arrangement. If the outside world is designated A, the interior of the Me 262 factory is B and the subject's nasal cavity is C, then traffic is as follows:
+
+Anything (including gasses and light) going from A end up in B.
+
+Items going from B end up in C.
+
+Items going from C end up in A.
+
+Presumably in 1944 it was intended that C and A were to be the interior and exterior of a double hangar at Tempelhof based on the architecture of the hangar doors.
+
+Addendum 108-1: Subject claims that she was training to perform the "Human Blockhead" magic trick in preparation for being a clown at a children's birthday party. After hammering a 4 cm long galvanized-iron nail into her nasal cavity, she lost her grip on the end and dropped it inside her nose. Immediately she noticed a "god awful musty stench" and experienced nausea and disorientation. Blowing her nose had no discernible effect, and left no residue on tissues. She is able to breathe normally through her nose. After about three days subject "got used to the 'hell's asshole smell'" and performed at the children's party to the delight of her nephew.
+
+Approximately a week later, after ignoring numerous complaints about the smell of her breath, subject was diagnosed with pneumonia and placed on a course of Roxithromycin. Pneumonia responded to antibiotics, but recurred a week later. Her general practitioner also noted that nasal examination with an otoscope showed simply blackness, rather than the inside of the nose. After admission to hospital with chronic pneumonia, examination with a 1 m fiber-optic endoscope allowed the endoscope to be threaded in almost the full meter. The attending ENT noted that he appeared to be seeing a "Nazi Eagle badge" through the endoscope. Specialist examination notes were kept in a digital patient management system and intercepted by the Foundation in a routine ██████-████-██████-███-█████ sweep.
+
+The subject was recovered without incident by Task Force Epsilon-9 disguised as High Risk Warrant Team officers in a pre-dawn raid in June of 19██. By the end of the cleanup operation the GP, ENT, 11 hospital personnel and two civilians were terminated. The subject was examined by Foundation staff and provided her with air-filtration units which could be passed through her nostrils piecemeal and assembled like a "ship in a bottle". The filtration filling must be removed on a regular basis when it gets expended (roughly once a week) as the subject is essentially inhaling the atmosphere of a formerly-sealed Nazi mass war grave.
+
+Although initially hostile toward the Foundation, the subject has responded well to enhanced psychological conditioning protocols and now accepts her situation. A plan has been proposed in line with the "Backing up" of all critical Foundation data at Site-62 in SCP-108: Data could be written on to MicroSD cards or similar compact non-volatile media and inserted into the subject's nostrils, provided some way to house the subject in a safe location is assured in the event of an XK-class scenario. Research continues to find a way to move the entrance of the dimensional portal from the subject's nostrils to another location and to discover the physical location of the bunker to determine if alternative access is possible.
+
+The original galvanized-iron nail has yet to be found.

@@ -1,0 +1,121 @@
+WARNING: HMCL and O5 Approval Required
+
+The file you are attempting to access is available to personnel with Level 4/2000 clearance only. This clearance is not included in general Level 4 security protocol.
+
+Attempting access beyond this point without necessary clearance is grounds for termination of Foundation employment and cancellation of all educational, medical, retirement, and mortality benefits. By submitting your credentials you hereby consent to exposure to a known cognitohazardous image, and verify that you have been inoculated against that image. In the event of unauthorized access, this console will become inoperable. Security personnel will be dispatched to revive you and escort you to a detention cell for interrogation. Attempting to access this file from any computer not connected to the Foundation Intranet will result in immediate termination regardless of clearance.
+
+[SUBMIT LOGIN CREDENTIALS: LEVEL 4/2000 CLEARANCE REQUIRED]
+
+[SECURITY COGNITOHAZARD ACTIVATED: SCANNING FOR NEURAL ACTIVITY]
+
+…
+
+…
+
+…
+
+Consciousness confirmed. Retrieving file.
+
+…
+
+…
+
+…
+
+Item #: SCP-2000
+
+Object Class: Thaumiel
+
+Special Containment Procedures: The entrance to SCP-2000 is disguised as a disused Park Ranger station in Yellowstone National Park. Despite several civilian trespassing attempts, the entrance has yet to be breached in the installation’s recorded history, and no further physical containment has been deemed necessary. Protocol Plainsight-201 is in effect for SCP-2000. Necessary supplies and replacement personnel may be delivered via unmarked road vehicles or civilian helicopter as appropriate.
+
+No personnel below Level 4/2000 clearance are permitted access to documentation regarding SCP-2000, or any protocols associated with its containment and upkeep. No personnel below Level 5/2000 clearance are permitted access to SCP-2000 below Sub-level 3. All personnel assigned to SCP-2000 must submit to neural archetype scan on a monthly basis. Personnel stationed on-site must submit to weekly scan, to be stored locally.
+
+Level 4/2000 personnel or above stationed on-site are not permitted to leave Yellowstone National Park during the course of their assignment. In the event of transfer (either elective or compulsory), Class A amnestics must be administered, and false memories implanted consistent with assignment to other high-security or Keter-class SCP objects. Additional personnel may be assigned to SCP-2000 and granted temporary Level 4/2000 clearance at the discretion of the item's HMCL supervisor (currently Dr. Charles Gears) and O5 command.
+
+The exterior surface of SCP-2000 is surrounded by Scranton Reality Anchors (SRAs) every 20 m, arranged hexagonally, to prevent incursion by hostile anomalous interference. Each SRA’s function must be checked semi-annually and replaced as necessary. Technicians servicing SRA components may reference Document SRA-033, rev 1.0.7. Five Xyank/Anastasakos Constant Temporal Sinks (XACTS) capable of maintaining stable tachyon flux across the expanse of the facility (maximum output rating at 100 W each) have been installed and are to be maintained monthly. Technicians servicing XACTS components may refer to Document XACTS-864, rev 1.3.0.
+
+One Pseudo-Riemannian manifold has been initiated at the entrance to Sub-level 4, and must remain open at all times. In the event of the manifold’s failure, Procedure Dead Euclid-101 is to be executed immediately. Other non-anomalous life support and utility systems may be maintained in accordance with standard Foundation Maintenance Protocol, Section 101.5 (Mission Critical Components). Wherever possible, non-anomalous materials and resources are to be used for SCP-2000’s maintenance and repair.
+
+In the event of any K-Class scenario which does not compromise the existence or function of SCP-2000, Procedure CYA-009 is to be enacted as soon as possible. Remaining Foundation installations globally are to monitor the scenario as it unfolds, preserving what material resources are possible under the Ganymede Protocol until such time as all remaining sites respond “All Clear” to SCP-2000 queries as defined in Document 2000XKAC-1.9. Upon receipt of “All Clear” code, Procedure Lazarus-01 is to be implemented.
+
+Administrator Note: I want this on permanent record, and I don’t rightly care if you think it’s an insult to your intelligence; some things are just this important. This device is absolutely not an excuse to let down our guard or take greater risks with SCP objects or cross-test them or whatever you might have in mind. Primary Containment is still our best chance at survival; otherwise there would be no reason to make the cover-up so extensive. We can only suspend God’s disbelief so many times before the universe just says “no”. And considering what we’ve had to deal with in these past few decades, we may have passed that point already.
+
+- Former Administrator Dr. William Fritz
+
+Description: SCP-2000 is a subterranean Foundation installation originally constructed sometime in the last ███ years for the purpose of reconstructing civilization in the event that a K-Class end-of-the-world scenario could not be averted in time to prevent humanity's extinction or near-extinction. Since its inception, SCP-2000 has been activated at least twice. Foundation records regarding SCP-2000’s construction and history prior to this assumed first use have been lost. Whether this information black-out is the result of accident or design is impossible to determine. The mission critical portion of this installation begins 75m below ground level and extends to 100m depth.
+
+Although the scope of engineering required to recreate SCP-2000 in its entirety is impossible to execute while maintaining secrecy, all subsystems of SCP-2000 have been successfully reproduced in laboratory setting; the installation and all procedures involved in its upkeep are mundane in nature. (See Document 2000-SS-EX for information regarding esoteric Foundation technologies necessary for SCP-2000’s function). Primary power for the facility is a Liquid Fluoride Thorium Reactor (LFTR) rated for 1 GW total output, with a reactor life of 70 years at maximum capacity. A geothermal generator has also been installed to take advantage of the region’s volcanic activity. This generator is capable of powering the facility in “stand-by” mode indefinitely. SCP-2000 also contains water treatment facilities, air purification and recycling systems, hydroponic production wings, and housing necessary to permanently sustain up to 10,000 personnel.
+
+To fulfill its primary mission, SCP-2000 includes 500,000 Bright/Zartion Hominid Replicators (BZHR). At peak capacity, SCP-2000 is capable of producing 100,000 viable, non-anomalous humans per day (with a warm-up period of 5 days). Utilizing an underground Riemannian transit pipe to collect raw material from various hot springs and underground magma flows in the area, and a computer memory bank housing data on all known human alleles, this system is capable of recreating any lost human genome or generating as many new and unique genomes as necessary to repopulate human civilization.
+
+Researcher Note: Use of the BZHR system is currently suspended outside of maintenance testing and emergency situations (CYA-009 is still “go”). Possible hostile incursion is still being investigated, and this database is proving particularly difficult to de-bug. We’re still seeing a distribution of congenital and genetic defects far above baseline numbers. Right now, I can only guarantee about 60-75% viability in new specimens. See Addendum 2000-1.
+
+- Dr. Christopher Zartion MD, Biotech Research and Development
+
+Humans produced by this process can be advanced to any age desired without extending the 5 day incubation period. In addition to construction features, the BZHR also has the ability to implant memories by administration of Class-G hallucinogenics and developmental hypnotherapy. Life histories, neural archetype scans, and genomes of many Foundation personnel – including all personnel of Level 4/2000 clearance and above – are maintained to ensure that SCP-2000 may be activated and Procedure Lazarus-01 can be initiated by as few as one surviving human.
+
+After the implementation of the Ganymede protocol (indicating a failure of the Foundation to prevent a K-Class scenario), SCP-2000's security systems will unlock, allowing any Foundation employee to initiate Procedure CYA-009. If, after 20 years, SCP-2000 remains inactive, security will be relaxed further, allowing any non-anomalous human being to access the facility and initiate the procedure. Once activated, SCP-2000's internal monitoring systems will attempt to locate all personnel of Level 4/2000 clearance and assess their condition. Mission-critical personnel not found will be replicated using the most recent neural archetype scan on file, and awakened prior to the initialization of any other systems.
+
+After these personnel are revived, security locks will resume normal function. For a complete list of contingency options available, Level 5/2000 personnel may access Document 2000-CYA-09. Note that receipt of the “All Clear” code as defined by Document 2000XKAC-1.9 may be waived only if all other Foundation facilities have been rendered inoperative. Otherwise, security and MTF elements revived under Procedure CYA-009 will be dispatched to all remaining Foundation facilities to confirm their function and the integrity of local reality.
+
+Procedure Lazarus-01 will begin when an authorized Level 5/2000 Foundation employee inputs the desired “Resume Date” into SCP-2000's BZHR control unit. Available units will then begin production of prominent political and cultural leaders of the time period using descriptions/genetic information on file, as well as replication of a global populace consistent with the chosen time period. Most of SCP-2000’s floor space is dedicated to storage of building materials, construction equipment, factory machinery, agricultural equipment, and computer database storage. In addition to infrastructure concerns, a wide cultural base with copies of thousands of famous works of art, music, literature, and a full backup of the World Wide Web are kept on site in the event that other repositories are destroyed.
+
+HMCL Note: Discovered this note in previous iteration records at Lazarus-01 conclusion.
+
+Researcher Note: If we ever have to do this again, do not set the Resume Date further back than 20 years before the Event. Not only can we piggy-back on a lot of undestroyed structures if we do, but it will make continuity a lot easier to resume. [REDACTED] years is too many. We’re straining personnel such as it is without having to rebuild to chronological specifications just to save time on the population and agricultural demands. Besides, how much of the 20th-2█th centuries do we really want to re-write, and how many times? Isn’t one ‘Great War’ hard enough to keep track of?
+
+Dr. Henrietta Eisenhower, Historian
+
+My tenure as SCP-2000’s HMCL will honor this request. Currently pursuing official documentation update to account for this change. Two World Wars is plenty. We do not need to hazard a third.
+
+- Dr. Charles Gears, HMCL Supervisor
+
+The first replacement humans housed off-site must necessarily be informed of SCP-2000's existence and function as they are being created. This strategy allows newly constructed humans to assist in reconstruction and recolonization efforts directly, and skill sets appropriate to reconstruction have been preselected for increased prevalence in the first 5 million individuals produced. As global population increases, the process of diaspora and reconstruction will accelerate geometrically, allowing economic and agricultural infrastructure to recover as quickly as possible.
+
+While it is feasible that some replacement humans will not survive the initial renovation period, such individuals can be recreated indefinitely until all major population centers and Foundation facilities have been completed. Foundation administrative assets during this period will focus on the falsification of dendrochronological, astronomical, and radiometric dating records necessary to maintain the appearance of historical continuity. Please see Document 2000-RetCon v 2.3.3 for details. In the event that significant portions of natural habitat are also destroyed prior to the project’s completion, refer to Document 2000-OneTear v 3.0 for approved rapid regrowth methods.
+
+It is estimated that the world population, manufacturing capability, agricultural production, and culture can be reset to 2000 CE levels 25 to 50 yrs after the procedure is implemented. At the conclusion of Procedure Lazarus-01, amnestic agent ENUI-5 will be released en-masse, causing all reconstructed humans to forget their affiliation with Foundation assets. History will then resume from the chosen date. Each procedure will necessarily alter the course of human events due to the enormous complexity of human social interaction. Further research into predictive historical modeling based on observations from prior completions of the Procedure Lazarus-01 is ongoing.
+
+HMCL Note: No further proposals for behavioral or cultural modification will be accepted at this time. Previous attempts to ameliorate violent and sociopathic tendencies in humanity as a whole have already been implemented and deemed successful. Experimentation using second iteration subjects indicates that further modification would undermine tenacity to such a degree that technological and social progress would be noticeably inhibited. See Experiment Log ███-█ for further information.
+
+- Dr. Charles Gears, HMCL Supervisor
+
+Document 2000-SS-EX: The following information establishes basic operational parameters of technology developed specifically for the SCP-2000 project. Although this technology may appear to be anomalous, it is based entirely on verifiable scientific principles currently in use by the Foundation to effect containment.
+
+The invention of the Scranton Reality Anchor (SRA) appears to pre-date the first activation of SCP-2000, and is credited to Dr. Robert Scranton in 1889. The main body and much of the circuitry of the SRA are constructed of a corrosion resistant beryllium bronze alloy. Inspired by artifacts recovered [DATA EXPUNGED], effectively eliminating the appearance of virtual particle/anti-particle pairs required for Type Green reality bending phenomena to manifest. Due to the expense involved in producing the beryllium bronze alloy required for the SRA’s construction, Foundation-wide implementation of the device has been limited to units capable of an area of effect less than two cubic meters[1].
+
+Researcher Note: The mechanism of the SRA’s function and the source of its inspiration must be kept secret from all possible Reality Bending entities for reasons which I hope are obvious. Only qualified Level-6/2000 maintenance technicians have been cleared to access this documentation. If any member of SCP-2000 staff reveals to you that they are a Level-6/2000 maintenance technician, please report them to O5 Command so they can be reassigned and submitted to amnestic therapy immediately. This is not a punishment; it is a legitimate safety concern. If these devices are ever compromised, so too is our life-boat.
+
+- Dr. Lowell Henry Piedmont, Esoteric Containment
+
+The Xyank/Anastasakos Constant Temporal Sink (XACTS) is a device designed to stabilize the flow of causality across a given field of effect. XACTS’s use high-power electromagnetic radiation in the radio band coupled with a tachyon field emitter [2] to create a permeable event-boundary, allowing organic and electrical systems to pass through unaffected while maintaining a static causal environment. In other words, temporal anomalies which might normally prevent SCP-2000 from being constructed will have no effect, so long as at least one XACTS remains in operation. There are no plans to implement Foundation-wide use of XACTS devices.
+
+Researcher Note: Temporal sinks can be useful for a lot of things. Containing SCP objects for which you need one second to last 300,000 years is a good example. Holding a point of reference constant during temporal repair missions, so that you can meaningfully record your progress and undo serious mistakes is another. But natural causal relationships are flexible in a way the human mind is not equipped to deal with meaningfully, and creating more than a small handful of isolated static causalities will do more to damage temporal integrity than secure it. XACTS will not be implemented Foundation-wide. Yes, we have tried it during a past iteration. No, further inquiries into the results of that attempt will not be accepted.
+
+- Dr. Thaddeus Xyank, Temporal Anomalies
+
+The use of a Pseudo-Riemannian manifold allows SCP-2000’s floor plan to extend into negative depth, providing 10 km2 of floor space. Original documentation on this system’s construction prior to previous SCP-2000 activations has been lost. While this phenomenon has traditionally been indicative of spatial anomalies, it is the determination of Drs. Robert Boyd and Tristan Bailey that the manifold entrance is consistent with an advanced implementation of modern physics. [3] This ‘negative’ space is maintained via a non-gravitational singularity generated through focused █████ particle emission across the manifold’s desired entrance. In the event of the singularity’s failure, the installation will remain intact in isolation and will not suffer structural collapse. Recreation of the manifold is estimated to take less than 10 hrs if Protocol Dead Euclid-101 is enacted immediately after failure. The isolated portion of SCP-2000 will remain operable and inhabitable for up to 36 hrs after the manifold fails, and is recoverable indefinitely.
+
+Addendum 2000-1: During containment breach of SCP-████ on ██/██/████.2 , SCP-2000 experienced failure of several SRA and XACTS components which coincided with activation of the BZHR units on site. For 25 days following this incident, BZHR units produced over 10 million humanoid entities with internal biology inconsistent with modern humans. Differences include an additional heart chamber, perfect polydactyl of the hands and feet, increased endocranial volume and height, and the presence of an abdominal organ of unknown purpose which emits and responds to radio frequencies in the 2.4-3.6 GHz range. These humanoids were neither dosed with Class-G hallucinogenics during replication, nor submitted to developmental hypnotherapy. All remained unconscious until expiration five weeks later. Classification of SCP-2000-1 for these entities is currently under review.
+
+Whether this event is the direct result of trans-temporal interaction between SCP-████ and SCP-2000, sabotage, information leak, or non-anomalous equipment malfunction is as yet unknown. Diagnostic checks and structural repair are proceeding as scheduled nominally within acceptable risk. SCP-2000 is expected to resume normal function as of January 2008 2013 2020.
+
+Addendum 2000-2: While making repairs to SRA units in Sector 3382 on ██/██/████.2, Technician [DATA EXPUNGED] reported the discovery of human remains in an advanced state of decay. Analysis of clothing fragments discovered with the remains indicates the remains are 450-700 yrs old. Valid Foundation security credentials for Dr. Alto Clef were discovered nearby, although a genetic match could not be established. The following note was recovered from a hermetically sealed plastic document sleeve.
+
+Why did we have to build this thing?
+
+When did we do it?
+
+How long have we been doing it?
+
+Do we even know?!
+
+Subsequent interrogation has verified that Dr. Clef has no knowledge of this event, and is ignorant as to the purpose of the message.
+
+Bibliography
+
+1. “Use of mSRA ‘Scranton Boxes’ to Provide Mission Critical Document Security”; L. Piedmont et. al.; Foundation; Vol 106.8; pp 10-14; 1988
+
+2. “Relativistic Motion in Superfluids for use in Tachyon Emission and Storage”; T. Xyank, A. Anastasakos; Foundation; Vol 10.4; pp 141-143; 1892
+
+3. “Transit Portal Dynamics: Stretching the Brane”; T. Bailey et al. Foundation; Vol 115.2; pp 23-37; 1997

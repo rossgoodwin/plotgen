@@ -1,0 +1,113 @@
+Item #: SCP-691
+
+Object Class: Euclid (Reclassification to Safe pending confirmation from Foundation Intelligence that [REDACTED])
+
+Special Containment Procedures: One instance of SCP-691 (SCP-691-0) is to be stored in a safety deposit box within the Foundation archives at Site-██. Any other instances are to be destroyed following confirmation that they are identical to SCP-691-0. Access is restricted to Dr. ████-████████ and her research assistants. Following Incident SCP-691-I1, second-hand recordings of SCP-691 are prohibited unless permission is granted from a member of staff with level 5 clearance. Please see investigation logs for details of standard experimental procedure with respect to any instance SCP-691.
+
+Description: There are currently fifteen identical instances of SCP-691 that are, or have been, under Foundation control. SCP-691 is a plain blue cassette tape on which is printed "Pure Escapism-Limited Edition. 1 of only 250!" One side of the tape contains a short foreword by an unknown male, introducing a piece of music (see addendum SCP-691-A1 for further details). On the opposite side, Aquarela do Brasil, using S.K. Russel's English lyrics, can be heard. This particular version is played by a modern symphony orchestra with an unidentified lyric tenor providing the vocals. It should be noted that the foreword will always be played first, regardless of which side of the tape is entered into a player, and both pieces will always be played from the beginning.
+
+The foreword is harmless and has yet to be linked to any of the effects of SCP-691, aside from encouraging the listener to turn the tape over. Subjects listening to the musical piece have reported visual, auditory, and tactile hallucinations along with a sense of relaxation and well-being. However, it is unclear whether this is due to the nature of the hallucinations or if it is one of the tape's cognitive effects. Hallucinations have always been described as benign by listeners and have not been cited as a direct cause of any psychological trauma. Even though hallucinations vary, they have shown some consistency for repeat listeners.
+
+Subjects allowed free access to SCP-691 will eventually become capable of doing little more than listening to the tape repeatedly, in several extreme cases forgoing food and drink to do so. Regular listeners who are denied access will not show traditional withdrawal symptoms. Instead, they will show difficulty in acknowledging visual and aural stimuli. In a few cases, subjects have either refused to or been unable to acknowledge any external stimulus.
+
+Addendum SCP-691-A1: Transcript of SCP-691's foreword:
+
+Hi there. If you're listening to this, then I can assume that life has got the better of you. Things didn't work out the way you wanted them to, did they? Sometimes it's bad luck, sometimes you're the cause of your own ruin, or maybe it's just that you're going nowhere, I'm not one to judge. Everybody has regrets, it's perfectly normal, you don't have to lie to yourself. But I'm digressing so I'll get to the point. I've got some good news for you, Sir or Madam! I can offer you a way out- no no no no, it's not suicide, you and I both know you don't have the stomach for that unpleasantness. I'm offering you something so much better, besides. All you have to do flip this tape over, close your eyes and relax. Think of somewhere nice. Think of the good times. Think of those things you always wanted to do. Now I can't promise that I can give you these, but what I can promise is this; on the other side of this tape you will find an escape from your own personal train wreck. Enjoy.
+
+Addendum SCP-691-A2: All further study on SCP-691 is to be focused on identifying traits associated with its use as per Dr.████-████████'s instructions. A request has also been made to study the effects of secondhand recordings of SCP-691-0 at various volumes (approval pending). Foundation Intelligence and a detachment of MTF Alpha-2 are working to identify and retrieve any other instances of SCP-691 that may be available to the general public.
+
++ Incident SCP-691-I1
+
+- Incident SCP-691-I1
+
+Person(s) involved: Dr. ███████████ ██████
+
+Profile: Dr. ██████ was a reliable and conscientious Foundation employee. His work on SCP-███ and SCP-███ has been of great use to the Foundation. Testimony from Dr. ██████'s wife revealed that Dr. ██████ was in substantial financial difficulty around the time of the incident, although it is uncertain whether or not this was a contributing factor to SCP-691-I1.
+
+Report:
+
+05/██/20██, 1325: Dr.██████ enters the cell of subject D-691-25, and begins SCP-691-INV-30
+
+05/██/20██, 1331: Dr. ██████ concludes his investigation and D-691-25 is removed from cell for termination. Dr. ██████ reviews Dictaphone and transcribes recording.
+
+05/██/20██, 1335: [DATA EXPUNGED]
+
+05/██/20██, 1403: Security footage shows Dr. ██████ exiting Site-██. Gatehouse security reports that Dr. ██████ cited a "personal errand" as his reason for leaving.
+
+05/██/20██, 1415: SCP-691-0 is reported missing by Site-██ security. Security footage is reviewed and a retrieval team is scrambled to Dr. ██████'s home in accordance with Foundation missing object policy.
+
+05/██/20██, 1435: Retrieval team finds no trace of Dr. ██████ despite a thorough search of his home and the surrounding area.
+
+05/██/20██, 1600: Dr. ██████'s credit card statement shows that he bought a personal cassette player from a second hand shop in ██████, ████████, at around this time.
+
+06/██/20██, 0930: Dr. ██████ is reported as a missing person by his wife. Local Police Dept. are authorized to conduct a search under Foundation supervision (Standard Cover Story ██-█████ ██████ ██████).
+
+12/██/20██, 1722: Dr. ██████'s body is found near █████████, ██████. SCP-691-0 is recovered. Responsibility for SCP-691-0 is given to Dr. ████-████████.
+
+Afterword: Post mortem showed that the probable cause of Dr. ██████'s death was hypothermia brought about by exposure. The body was found with a personal cassette player containing SCP-691-0. Foundation leaked Standard Cover Story ██-████ ████████ and the local coroner's court returned a verdict of accidental death as a direct result of this, citing Dr. ██████'s "fragile emotional state" as an exacerbating factor.
+
+Agent ███'s report stated that Dr. ██████'s death was an indirect result of [DATA EXPUNGED]. The report did however mention that Agent ███ believed that Dr. ██████'s life could have been saved if he had less knowledge of Foundation missing object policy, and suggested a review of non-classified information for non-security personnel. All three of Dr. ██████'s research assistants have since been subjected to full psychological evaluations and have been transferred to projects where cognitohazards and perceptohazards are not involved.
+
++ SCP-691 Investigation Logs
+
+- SCP-691 Invesitgation Logs
+
+Standard procedure for investigations involving SCP-691 is as follows. Subjects allowed free access to SCP-691-0 are to be provided with a soundproof, fully furnished cell. Foundation staff entering testing cell are to wear ear defenders. Subjects listening to SCP-691-0 under a member of staff's supervision are to do so through headphones. All prompts from Foundation staff should be non-verbal.
+
+N.B. Following Incident SCP-691-I1, Foundation staff must wear ear protection when any instance of SCP-691 is being played, regardless of the circumstances. Sound recording equipment must not be operated whilst any instance of SCP-691 is playing, and only written accounts from test subjects are permitted.
+
+SCP-691-INV-1
+
+Date: ██/██/████
+
+Time: 1025
+
+Subject: D-691-1
+
+Procedure: Standard experimental procedure followed. D-1 was to listen to both sides of SCP-691 in their entirety, and was to give a verbal account of their experience.
+
+Report: D-1 reports nothing unusual whilst listening to SCP-691-0's foreword. Whilst listening to the reverse of SCP-691-0, D-1 describes how the colours of the room have become more vivid, and likens Dr. ██████ to "something like out of a cartoon". D-1 reports a feeling of complete peace. Subject appeared to take great pleasure in how Dr. ██████ was always smiling, although Dr. ██████ reports that this was not the case. D-1 requested further access to SCP-691. Request was denied.
+
+[CLASSIFIED. O5 CLEARANCE REQUIRED]
+
+SCP-691-INV-10
+
+Date: ██/██/████
+
+Time: 0951
+
+Subject: D-691-7
+
+Procedure: Standard experimental procedure was followed. D-7 was allowed free, undisturbed access to SCP-691-0. D-7 was asked to record his experiences via a written journal.
+
+Report: In his first entry, D-7 describes green pastures and a cool breeze. This is followed by a rambling discourse on his feelings of his "newfound freedom". The second, third, and fourth entries continue in a similar vein, describing the sights and sounds of what appears to be rural Switzerland and involving several more asides on various subjects, including freedom, atonement, and forgiveness, each entry being of deteriorating quality. The fifth entry was illegible, and was D-7's last. Dr. ██████ requested that SCP-691-INV-10 be ceased at 1427 on ██/██/████, citing that no more useful information could be yielded.
+
+[CLASSIFIED. O5 CLEARANCE REQUIRED]
+
+SCP-691-INV-15
+
+Date: ██/██/████
+
+Time: 1000
+
+Subject: D-691-12
+
+Procedure: Standard experimental procedure was followed. D-12 was allowed full access to SCP-691-0 for seventy-two hours. After this period, D-12 was denied access to SCP-691-0. Daily interviews were conducted.
+
+Report: D-12's reaction to SCP-691-0 was similar to those of D-class personnel in previous investigations. Dr. ██████ hypothesised that D-12's reaction to deprivation of SCP-691-0 would lead to textbook withdrawal symptoms. Instead, Dr. ██████ encountered considerable difficulty when interviewing the subject. D-12 was not responsive to Dr. ██████'s questions. Other than requests for access to SCP-691-0, D-12 was uncommunicative. An MRI scan of D-12's brain showed minimal response to visual, aural, and physical stimuli. An MRI scan taken whilst D-12 was listening to SCP-691-0 showed signals consistent with external stimuli, along with a strong reaction originating from the nucleus accumbens.
+
+[CLASSIFIED. O5 CLEARANCE REQUIRED]
+
+SCP-691-INV-30
+
+Date: ██/██/████
+
+Time: 1325
+
+Subject: D-691-25
+
+Procedure: Standard experimental procedure followed. Dr. ██████ requested a D-class subject with a generally high quality of life, a background free of alcohol and drug abuse, and lacking traits generally associated with an addictive personality. Subject D-691-25 was acquired via [DATA EXPUNGED], and subjected to a series of psychological tests and a precursory interview to gauge mental wellbeing and to confirm background. Subject was to listen to SCP-691-0 and was to give a verbal account of their experience.
+
+Report: No formal report compiled. Transcript of D-691-25's account is as follows (translated from [REDACTED]).
+
+[BEGIN RECORDING] Ok. I hear a man speaking. I can't understand what he's saying, sounds like English. He's finished now, do you want me to….? Ok, doing it. There. I hear music. I don't recognise the tune but- can you see this? It's a city, it's how I imagined [REDACTED] would be, well until those border security people caught us. Elaborate? You mean you can't see it? It's beautiful, shining skyscrapers, everything's just gleaming. This is the [REDACTED] my brother told me about in his letter. This isn't like a city back in my country, Doctor, you'll have to see this to believe it. I could stay in a place like this for the rest of my life. (Subject begins to hum, ignoring Dr. ██████'s prompts). [TAPE ENDS]. Again. I want to go back there again. No I don't want another medical exam, I want that money you promised me and I want that tape! [RECORDING ENDS]

@@ -1,0 +1,47 @@
+Item #: SCP-2199
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2199 is in a standard Wildlife Observation Chamber, located within Site-77. Listening devices are attached to the hump on a permanent basis, in order to observe the interior of its body. Exploratory testing has been suspended, due to the effect that repeated testing had on SCP-2199's health.
+
+Description: SCP-2199 is an adult male Indian Camel (Camelus dromedarius). The hump is hairless, and has the appearance of being covered in scar tissue.
+
+Instead of being completely composed out of tissue fibers, the hump on SCP-2199's back is filled with water underneath a 10cm layer of fibrous tissue. This water is brackish, self-replenishing, and inhabits a volume roughly equivalent to the total biomass of SCP-21991. Despite the absence of any corresponding light sources, it contains ambient light.
+
+A large number of small organisms, collectively designated as SCP-2199-1, inhabit this space. Each subgroup of SCP-2199-1 resembles a particular species of plant or animal native to an arid region, but has adapted or been heavily modified for small size and aquatic environments; many display extremely unusual body plans. While still superficially resembling their desert counterparts, all SCP-2199-1 instances are between 2 and 10 cm long and the relative sizes of SCP-2199-1 subgroups do not correspond to the relative sizes of their unmodified relatives. Since direct examination of this ecosystem requires that SCP-2199 be anesthetized and its hump surgically opened, visual observation has been limited.
+
+It is, however, possible to observe SCP-2199-1 from outside the hump by listening to their vocalizations and other audio traces. Regular monitoring of SCP-2199-1 is carried out almost entirely via audio, in order to minimize damage to SCP-2199 due to invasive testing.
+
+Observed organism types within SCP-2199-1
+
+Closest apparent ancestor
+
+Description
+
+Bark scorpion (Centruroides sp.)
+
+Closely resembles a legless but otherwise normal bark scorpion. Rapid flicking movements of the tail are used for locomotion (propulsion, orientation control, and posture maintenance).
+
+Ostrich (Struthio camelus)
+
+Individuals are 3-4 cm long, with a small spheroid body, webbed feet, shortened limbs, and two short muscular tails with long feathers. The tails are used similarly to bacterial flagella, generating propulsion by spinning counter to each other. Primarily herbivorous; an active hunter of algae and free-floating microflora.
+
+Meerkat (Suricata suricatta)
+
+Observed only once visually, these rare organisms are benthic detritivores, subsisting entirely on and within the layer of excreta and other detritus that accumulates gradually on the bottom of SCP-2199.
+
+Texas horned lizard (Phrynosoma cornutum)
+
+Resembles the detached head of the lizard, with supernumerary spines and no external locomotor appendages. Moves by launching its 10-cm-long tongue towards a prey animal, then retracting the tongue to pull itself and the prey together for consumption.
+
+Western black widow (Latrodectus hesperus)
+
+Has a single cephalothorax bearing several hundred long legs. The exoskeleton is entirely soft, permitting the body to undulate for jellyfish-like propulsion. The red "hourglass" marking on the abdomen is a bioluminescent lure, used to attract smaller organisms within reach of the legs, which capture them and carry them into the large central mouth for envenomation and consumption. Preys primarily on other black-widow- and scorpion-type SCP-2199-1 instances.
+
+SCP-2199 was discovered outside of Cairo, Egypt in an abandoned desert ruin, with two near-human skeletons. In addition, the ancient remains of several other animals were discovered. The identified specimens include a horse, crocodile, abnormally large birds, and whale bones. The following script was found etched into the wall, translated from Latin.
+
+The carrier/holder/ark has crashed, and we are truly lost/alone. There is nobody to inherit/take the last guardians/warlords of life, and they will be lost in time. This development is unfortunate, but inevitable/destined. They probably wouldn't have gotten along in this dead place.
+
+Footnotes
+
+1. This is despite SCP-2199 containing normal internal organs

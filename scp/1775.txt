@@ -1,0 +1,57 @@
+SCP-1775, inactive state
+
+Item #: SCP-1775
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1775 has been designated as a condemned building; a barbed wire fence has been constructed around a 20 metre radius to deter unauthorized access. Inquiries into the status of SCP-1775 are to be fielded by Samuel Clark Properties, a Foundation construction front.
+
+During SCP-1775's active phase, researchers are to monitor SCP-1775-X instances for any deviations in movement and behavior patterns; should any deviations be noted, the current head researcher of SCP-1775 is to be informed without delay.
+
+Description: SCP-1775 is an abandoned ████ Department Store, located in Detroit, Michigan. SCP-1775 was closed in 1979 and shows wear and damage typical of Detroit's urban decay, with interior support beams and ceilings in advanced stages of neglect. Although similar in appearance and condition to other abandoned buildings in the Detroit area, SCP-1775 is distinguishable by the lack of any evidence of impromptu human habitation ("squatting"), such as trash and makeshift bedding.
+
+SCP-1775's anomalous properties manifest between the hours of 09:00 and 20:00 every day of the week excluding Sunday. During this time, the damage to its interior will be repaired, restoring it to near perfect condition: walls will be repainted, crumbling support beams are restored, etc. Despite these cosmetic changes, the interior of SCP-1775 will remain devoid of any material not present prior to the activation event, with the exception of SCP-1775-X.
+
+SCP-1775-X (where "X" designates a number) are a series of humanoid spectral entities that manifest within the interior of SCP-1775 during an activation event. Aside from occasional deviations (see Addendum 1775-A), SCP-1775-X instances follow a set pattern of behavior during all activation events. All attempts to interact with or directly alter their behavior patterns have failed due to their intangible nature.
+
+After the cessation of an SCP-1775 activation event at 20:00 hours, SCP-1775-X instances will vanish, and the interior of SCP-1775 will once again resemble its inactive state. Attempts to observe SCP-1775 during this transition have been met with failure: recording equipment (including personnel tracking devices) placed in the interior spontaneously fails, and personnel present during the shift have never been recovered.
+
+SCP-1775-X Behavior Log
+
+Entity: SCP-1775-3
+
+Period of Activity: 11:00-17:00, Monday-Thursday
+
+Description: Manifests near a shelf at the back of the store. Spends the entirety of the manifestation event bending down, picking up nonexistent objects, and "placing" them on the shelf.
+
+Entity: SCP-1775-9
+
+Period of Activity: 9:00-18:00, Tuesday-Saturday
+
+Description: Manifests behind a counter at the front of the store. Currently theorized to be a cashier (despite no equipment being present). Frequently moves its fingers up and down in a typing motion in front of its "register", occasionally pausing to make motions with its hands resembling the removal and organization of cash.
+
+Entity: SCP-1775-29
+
+Period of Activity: 9:00-20:00, Monday-Saturday
+
+Description: Stands near the entrance to the store, holding its hands behind its back. When a person enters the store, it will briefly wave at them before returning to its previous stance. To date, it has never shown any signs of movement unless a person enters the store.
+
+Addendum 1775-A: On several occasions, SCP-1775-X instances have deviated from their recorded behavior. A brief summary of these deviations is provided below:
+
+Entity: SCP-1775-3
+
+Date: █/█/████
+
+Deviation: Before placing another item on the shelf, it placed its hands over its head and assumed a fetal position; it remained in this position until the event ended at 20:00.
+
+Entity: SCP-1775-9
+
+Date: █/█/████
+
+Deviation: Stepped away from the counter and covered its face in its hands, in an apparent sign of despondence. After 30 minutes, it ceased this action and resumed its normal behavior.
+
+Entity: SCP-1775-██
+
+Date: █/█/████
+
+Deviation: Ran from its manifestation point in the west side of the store to the east side, colliding with the opposite wall. After colliding, it rapidly punched the wall for approximately 3 hours before collapsing and remaining motionless until the event ended at 20:00.

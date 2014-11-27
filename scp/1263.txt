@@ -1,0 +1,79 @@
+Ultrasound image of an SCP-1263-A instance.
+
+Item #: SCP-1263
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1263-1 through 5 are to be contained in separate humanoid containment cells modified to accommodate pregnancies. New instances of SCP-1263-A are to be analyzed and evaluated shortly after spawning and shall either be terminated or kept for further study at the discretion of Dr. Heung. There are currently 23 specimens of SCP-1263-A being held at Site-107 for testing. Specimens spawned from the same SCP-1263 subject must not be brought within 1.4 meters of each other for any purpose other than approved testing.
+
+Description: SCP-1263 consists of five Caucasian female siblings, designated SCP-1263-1 through 5. SCP-1263-1 through 5 are in a comatose state, and have been for sometime prior to containment. Every four months, 5 instances of SCP-1263-A will manifest within the wombs of SCP-1263 simultaneously. The "gestation period" for SCP-1263-A lasts for 3 months, with a 1 month pause before the cycle begins again.
+
+Instances of SCP-1263-A appear to be disembodied human heads of variable race and gender. SCP-1263-A instances lack connections for associated bodily systems, instead possessing a layer of skin where said connections would normally be located. Despite this, SCP-1263-A instances are alive, and seem to carry out bodily functions as a normal human head would. SCP-1263-A instances lack any kind of structure for transferring blood from and to the placenta of SCP-1263. Tests have shown near constant brain activity in SCP-1263-A specimens. DNA tests on SCP-1263-A have been inconclusive.
+
+SCP-1263-A constantly emit rapid, distressed vocalizations.1 These vocalizations are largely unintelligible. When at least 5 instances of SCP-1263-A spawned from the same member of SCP-1263 are brought into a minimum proximity of 1.4 meters near each other, the vocalizations will begin to synchronize, and will eventually become fully coherent. SCP-1263-A will not engage in this behavior with instances spawned from different members of SCP-1263.
+
+The nature and language of the synchronized vocalizations vary depending on the SCP-1263-A's corresponding SCP-1263 member:
+
+SCP-1263-AA, spawned by SCP-1263-1, recite audio being transmitted on the nearest 99.3 MHz frequency in real time, in Portuguese.
+
+SCP-1263-AB, spawned by SCP-1263-2, sing opera created during the Baroque period, altered to be performed in Urdu.
+
+SCP-1263-AC, spawned by SCP-1263-3, vocalize the thought streams of an unidentified individual2, in Laotian.
+
+SCP-1263-AD, spawned by SCP-1263-4, tell what are believed to be meteorological forecasts from an unidentified extrasolar planet, in Swahili.
+
+SCP-1263-AE3, spawned by SCP-1263-5, act as a two-way communication device for an intelligent entity, designated SCP-1263-Sigma, and speak in English. SCP-1263-Sigma has been largely uncooperative in the Foundation's attempts to extract information from it.
+
+Addendum 1263-01:
+
++ Audio Log 1263-Sigma-01
+
+- Hide Log
+
+Foreword: First recorded instance of communication with SCP-1263-Sigma. At the time, the research staff was performing initial analysis and testing on SCP-1263-AE to determine the nature of their vocalizations. 3 minutes after the chosen SCP-1263-AE instances began to synchronize, SCP-1263-Sigma attempted communication.
+
+<Begin Log>
+
+Unintelligible voices can be heard in the background
+
+Dr. Varghese: This is Dr. Varghese performing Experiment 1263-039-B to determine the nature of SCP-1263-AE's vocalizations. Researchers Janek and White are assisting. The test subject have been grouped within appropriate proximity of each other. We are presently awaiting vocal synchronization.
+
+Over the next 3 minutes, the voices produces by SCP-1263-AE steadily synchronize and evolve into coherent speech.
+
+SCP-1263-Sigma: Hello? Is this thing on?
+
+There is silence for 5 seconds before Dr. Varghese responds.
+
+Dr. Varghese: Umm, yes. We can hear you.
+
+SCP-1263-Sigma: Excellent! Last few times I tried to get a signal didn't turn out so well.
+
+Dr. Varghese: Please state your name.
+
+SCP-1263-Sigma: Jimmy, but that's not important right now. I'm finally able to share my writing. Would you like to hear some poetry?
+
+Dr. Varghese: That won't be necessary. Now, how did you come to acquire this…method of communication?
+
+SCP-1263-Sigma: Oh, come on now! I'm sure you'll love it!
+
+The SCP-1263-AE instances can be heard clearing their throats.
+
+SCP-1263-Sigma: Love. What is life without it? Why should we question about it? It is but the wind in the trees. The funny feeling in my knees. Floating like a bumble bee. So free.
+
+Silence for 3 seconds.
+
+SCP-1263-Sigma: Now, wasn't that lovely? Here's another: Mother Nature, her sweet caress. It's all I need when life gives duress. Sounds so swe-
+
+Dr. Varghese: (to Researchers Janek and White) Take the heads away. We'll try this another time.
+
+SCP-1263-Sigma: Yeesh. Tough crowd. You'll come to like it if you take the time to think abou-(unintelligible)
+
+<End Log>
+
+Footnotes
+
+1. Vocalizations from SCP-1263-A instances are audible from the womb 1 week before spawning.
+
+2. Subject matters of the thoughts indicate that they are those of a resident of Wisconsin named Ron Ackerson.
+
+3. Notably, other SCP-1263-A instances have displayed extreme anxiety when in the presence of SCP-1263-AE.

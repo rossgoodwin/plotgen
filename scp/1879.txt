@@ -1,0 +1,95 @@
+Item #: SCP-1879
+
+Object Class: Keter
+
+Special Containment Procedures: Due to the nature of the anomaly, SCP-1879 cannot be contained by the Foundation at this time. Foundation agents are to monitor police reports within the state of Washington for signs of possible SCP-1879 infection. When an instance of SCP-1879-1 is found, MTF Rho-4 (aka "Shoos Salesmen") are to be dispatched to the location to deal with SCP-1879-1 at the minimum possible cost to those involved. All items obtained from these interactions are to be incinerated, if feasible, and dismantled if not. Civilians that come in contact with SCP-1879-2 are to be administered Class-A amnestics after Foundation questioning.
+
+Description: SCP-1879 is a phenomenon that affects houses in the state of Washington, USA. It has been noted to only affect interior doors, which are hereby designated SCP-1879-1. These doors are visually unchanged; however, when a sapient organism comes within 2m of an SCP-1879-1 instance, repeated knocking emanates from the object. This continues indefinitely until a subject opens the door. At this point, a male humanoid entity, hereby designated as SCP-1879-2, will emerge from the SCP-1879-1 instance. The entity is approximately 1.7m in height and appears to be of Caucasian descent and indeterminate age.
+
+After emerging from the door, SCP-1879-2 will attempt to sell a product to the subject. These products appear to vary widely in purpose and origin, as the entity has presented a variety of objects1. The entity will dramatically explain the purpose and appeal of the product to the subject, often cornering them or suggesting they sit down before doing so. The explanations and tactics utilized are often not particularly persuasive, and the entity uses underhanded methods to sell its product. After fully explaining, the entity will then offer a price. Said price rarely consists of currency and often is detrimental to the subject or the subject's health. The entity consistently refuses to elaborate or comment on the definition of its prices unless it decides to raise them, which it often does if the product is not accepted and paid for quickly. SCP-1879-2 is persistent in its efforts and refuses to leave the subject alone until the product is purchased. However, if it is sufficiently threatened or wounded, the entity will temporarily retreat back into SCP-1879-1, which will then revert back into a non-anomalous door. It will later return within the same house via a different door and confront the subject, attempting more aggressively or even threatening them to purchase their product, as well as increasing the price. Once the product is purchased, the entity will thank the subject and exit the area through an SCP-1879-1 instance.
+
+Retrieval Log-1879-Rho: The following log is a short list of items obtained from deals with SCP-1879-2 along with the described price and the results.
+
+Object Received:
+
+Price Statement:
+
+Results:
+
+Object Received: One (1) red rose
+
+Price Statement: "All I'm asking for is your heart."
+
+Results: Subject expired due to the demanifestation of his cardiovascular system.
+
+Object Received: Two hundred and twenty (220) bananas
+
+Price Statement: "Gimme some sugar, sweetie."
+
+Results: All candied goods within the house disappeared.
+
+Object Received: One (1) thermonuclear explosive2
+
+Price Statement: "I want your soul."
+
+Results: Subject hesitantly complied after encouragement. No notable effects happened at the scene of the exchange; however, the subject later discovered two (2) of her Aretha Franklin albums (Lady Soul and Almighty Fire) to be missing.
+
+Audio Log-1879-Eta: The following log was taken during the initial attempts of Foundation agents to apprehend and discern the nature of SCP-1879-2. Agent Rogers was equipped with audio recording devices at the time of the event.
+
+This incident took place at ████ ████████ ███, Seattle, WA, the home of Shirley Yeats. Mrs. Yeats had previously called the police several times urgently, describing a "salesman that wouldn't get out of her house and kept disappearing into random doors." Foundation agents intervened to investigate the possibly anomaly. Upon arrival at the scene, agents noted a male humanoid entity (SCP-1879-2) that was carrying a juvenile Border Collie and holding it in front of Mrs. Yeats while speaking rapidly.
+
+Rogers: He-
+
+SCP-1879-2: [turning away from Yeats to address Agent Rogers]Oh good, maybe you'll listen to sense. See, I got this dog, right, but I can't keep it, so I thought, "Maybe Shirley'd like this." I just popped over and offered to give it to her—Okay, maybe not "give," per se—A guy's still gotta get by, right? Anyways, I offered it, and—
+
+Rogers: That's not what we—
+
+SCP-1879-2: Hold on, before you say anything, let me tell you about this fuckin' puppy. He's a purebred and the most playful little scamp you'll ever see. [Entity yells over his shoulder] Even if he's apparently not good enough for some people!
+
+Rogers: If you don't listen, I'm re—
+
+SCP-1879-2: [Entity holds up dog to Agent Rogers face.] Just look at him, he's so sad! Look, he's potty trained and everything, I just don't want to see him sad, and I really can't have him anymore. Personal reasons, you know. Really, all I'm asking for is some of your time, you'll barely even notice him around. Cross my heart.
+
+Rogers: [raising his voice] Would you just—
+
+SCP-1879-2: Some of your time is all I'm— [Entity is forced to the ground by Foundation agents, who proceed to gag the entity with a towel taken from the house's kitchen.]
+
+Rogers: [talking to fellow agents] Okay, fuck it, we're taking him back to the Site to interrogate him.
+
+[Agents attempted to escort SCP-1879-2 out of the house. However, upon exiting the front doorway, the entity demanifested. Agents were not able to locate it within the house in the following investigation of the house. SCP-1879-2 later reportedly manifested within the house after approximately six (6) hours, and Foundation agents returned to the scene.]
+
+SCP-1879-2: [speaking to Mrs. Yeats, who was cowering in a corner at the time] Ma'am, please, he just needs a home! I have to sell him! It doesn't cost any money, I promise, just twelve years of your time!
+
+Rogers: [talking to fellow agents] Try to keep the thing in the room this time.
+
+SCP-1879-2: Shirley, just take the dog, and I'll be gone. Swear on my life. [Mrs. Yeats took the animal. Immediately, she disappeared3.] Pleasure doing business with you. [The entity then walked into the closet before agents could apprehend it. After passing through the doorway, SCP-1879-2 demanifested. Class-A amnestics were administered to Mrs. Yeats's family.]
+
+Audio Log-1879-Psi: The following log was taken during a successful Foundation interception of an SCP-1879-1 activation event.
+
+[rapid, inconsistent knocking sounds emanating from SCP-1879-1]
+
+SCP-1879-2: [quietly talking] Goddammit, hurry up, I have to meet the quota by tomorrow or else I have to stay in this fucking world for the next century. [shouting] Hey! I know you're there! Spare a moment of your time? [quietly talking] Why does the boss even need this shit anyways? It's not like he has any use for them any more.
+
+[A musical scale is heard emanating from SCP-1879-1. Knocking ceases.]
+
+SCP-1879-2: [Sighs. Snaps. Scale stops.] Yes, boss? I know, I know, that's not what you meant by "soul," I just thought you'd get a kick outta— Yes. Yes, sir. I will. Yes. I'm sorry. It won't happen again. Please don't hurt it, I'll meet the quota this time, I swear. Yes. Okay. Thank you. Goodbye, sir. [Snaps, quietly talking] I better get to move up to at least Accounting this time. Just get me out of this fucking place already, I've paid my dues and then some.
+
+[Knocking recommences until Agent Rogers opens the door.]
+
+SCP-1879-2: Hello, Mr. Gr— Oh. You. Hi.
+
+Rogers: Hello. Now, I'd like to ask you—
+
+SCP-1879-2: Now, see here, let's think logically. You know I'm not gonna tell you anything. I know you're not likely to buy what I'm selling. So let's just move on to greener pastures. I'm coming up close to a deadline, and I'm sure you're swamped with making sure good people don't do their jobs, so I'll just be on my way and let you do that. Ciao. [Entity attempts to close the door. Agent Rogers holds door open and grabs SCP-1879-2.]
+
+Rogers: That's not happening. [Personnel retrieve and detain SCP-1879-2 within the room.] Now, are you going to talk to me?
+
+SCP-1879-2: Look, I'm busy, so I'll tell you what. I'm going to give you something, no money out of your pocket, and we'll call it even. Sound good? [Within one to three seconds of this statement, approximately two thousand (2,000) coins of assorted origin manifested within the pockets, epidermis, and digestive tract of all subjects at the scene excluding SCP-1879-2. All Foundation personnel involved were confirmed to be deceased. SCP-1879-2 was reportedly encountered later that day on a house further down on the same street, but had apparently demanifested before Foundation agents could reach the scene.]
+
+Footnotes
+
+1. Objects obtained from SCP-1879-2 include an LP record of "Abbey Road" signed by all four members of The Beatles, a leather belt, and a Glock 18 pistol.
+
+2. Object was retrieved by Foundation agents and is currently housed at Non-Anomalous Storage Area 344.
+
+3. The subject was recovered twelve (12) years later from the same location. Subject is physically unchanged and has no recollection of the time during her absence.

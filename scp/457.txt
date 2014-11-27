@@ -1,0 +1,87 @@
+SCP-457, having split into two bodies, observes a camera during testing.
+
+Item #: SCP-457
+
+Object Class: Euclid/Potential Keter
+
+Special Containment Procedures: SCP-457 is to be kept in a 5m x 5m chamber with no less than 22.9cm (9in) of cumulative fireproofing via various materials (asbestos cement, perlite boards) upon all surfaces and a blast-proof observation window with emergency blast shielding installed. The opening to the chamber must consist of at least two temperature-controlled and airtight chambers that may be sealed in case of emergency. SCP-457's chamber should be kept at high humidity with a drainage system installed in the floor, as well as a misting sprinkler system installed and running constantly, and emergency hoses capable of at least 2.1 MPa (300 psi) of water pressure. SCP-457 is allowed a small structure upon the wall of its chamber that remains water-free, but only allows for minimal protection and preservation of form.
+
+All personnel entering SCP-457's chamber should be wearing at least Class-A temperature-controlled, flame-retardant sealed suits, and enter in groups of three, with two members equipped with high-grade blast shields and emergency fire extinguishers. Personnel should only enter SCP-457's chamber in order to supply SCP-457 with its daily allotment of fuel material, or to examine and repair any damage to the chamber or sprinkler systems.
+
+Should SCP-457 engage personnel in a hostile manner, it is to be controlled via emergency extinguishers and hoses until it retreats back to its safe chamber.
+
+In the event that SCP-457 breaks containment, emergency sprinkler systems will be triggered and personnel will be supplied with extinguishers and blast shielding.
+
+Description: For all points and purposes, SCP-457 appears to be a sentient being composed of flame. SCP-457's actual composition is unknown, and has proven to be invisible and undetectable by any known means, but is shaped out by the flames it produces, often assuming a human-like form if given sufficient fuel to assume that size. SCP-457's most rudimentary form appears to be that of a single flame, comparable in size to that of a matchstick. In this form, SCP-457 possesses only the simplest of directives and shows no signs of being unusual compared to any other flame beyond a penchant for suddenly flickering to burn human hands, and the ability to 'jump' to more flammable materials or other flames, which it then assimilates into its total form.
+
+As SCP-457 grows larger, it is able to assume more complex shapes, and its intelligence grows with size and fuel sources. SCP-457's method of intelligence is unknown, but upon reaching an approximately human size, SCP-457 almost always assumes a human-like form surrounded by and composed of flames. SCP-457 has been observed to communicate through writing letters out of its own flames, charring them onto the wall or other surfaces, and more rarely through speech, created via high-pressure, superheated air and the crackling and pops of flames. Once SCP-457 reaches an unknown threshold of size and fuel source, SCP-457 splits into two beings, and so on so forth. However, multiple beings of SCP-457 are aggressive towards each other, and will either attempt to consume or extinguish their doubles, especially if there is only a limited amount of fuel at hand.
+
+SCP-457's behavior is largely predictable, as its goals are simply to acquire larger sources of fuel and to spread. The danger of SCP-457 comes from its ability to increase intelligence with size, and apparent ability to learn and mimic behaviors. This has lead to it purposely damaging and sabotaging sprinkler systems and, in rare circumstances, set up relatively complex traps. It has also attempted to trick or reason with personnel to be released or have access to more fuel. Due to SCP-457's unique composition, variable intelligence, and uncooperative nature, its psychology may not be accurately determined in accordance with any human analogy.
+
+SCP-457 was recovered in ██████, █████ in the summer of 2007, after multiple wildfires were attributed to it. It is unknown where or how SCP-457 initially formed. Investigation into the potential of SCP-457 being responsible for other major fires is underway.
+
+SCP-457 attacking a forest prior to capture, note increased size. Photo taken just before splitting threshold met.
+
+Addendum:
+
+An Interview between Doctor ████ and SCP-457
+
+Dr. ████: Can you speak, currently?
+
+SCP-457: Yes.
+
+Dr. ████: Good. Would you mind answering some questions?
+
+SCP-457: [[No reply]]
+
+Dr. ████: I'll take that as a no. How do you feel about being confined?
+
+SCP-457: [[Crackling]] Dislike. No fuel. No air.
+
+Dr. ████: We have provided you with adequate air and fuel to survive.
+
+SCP-457: Can not burn. No fuel.
+
+Dr. ████: Are you saying that you cannot grow?
+
+SCP-457: Grow. Need. Must grow. [[457 moves about containment area as if searching]]
+
+Dr. ████: How do you feel?
+
+SCP-457: Hungry.
+
+Dr. ████: Do you feel anything besides hunger?
+
+SCP-457: [[No answer, 457 approaches blast shielding separating it from Dr. ████]]
+
+Dr. ████: How do you feel about humans?
+
+SCP-457: They burn. [[457 moves closer to blast shielding, appearing to examine the window and Dr. ████]]
+
+Dr. ████: How do you feel about fuel?
+
+SCP-457: It burns. [[457 places a 'hand' upon the blast shielding to no effect]]
+
+Dr. ████: Please move away from the window. Or we will be forced to reduce your size considerably.
+
+SCP-457: [[No reply or signs of understanding. Does not move.]]
+
+Dr. ████: …How do you feel about water?
+
+SCP-457: [[Emits a high-pitched scream of superheated air and presses body against blast shielding.]]
+
+Dr. ████: Please move away from the window, or we will be forced to turn the sprinklers back on.
+
+SCP-457: [[Backs away from the window, still screaming, hissing, and snapping.]]
+
+Dr. ████: Do you understand that? Stay away from the window, and you will not be doused.
+
+SCP-457: [[Quiets and remains still for several seconds before approaching window again, stopping several feet away.]]
+
+Dr. ████: Do you understand?
+
+SCP-457: Want fuel. Want air. Want burn. Want to burn. Want to burn. Want to burn. [[Repeats self, growing louder and beginning to move about containment area rapidly, apparently searching walls and ceiling for a way out]]
+
+Dr. ████: There is not a way out, if you would please…what is it doing? Is it looking for a way ou-
+
+[[At this point in the interview, SCP-457 managed to severely damage much of the sprinkler system and destroy a portion of the fuel injector that had been sustaining its intelligent form, giving it free access to several gallons of gasoline. The interview transcript was recovered via security footage from before the blast. SCP-457's temporary breach of containment came from an exploitation of the sealant used to attach the blast shielding to the rest of the chamber. How SCP-457 managed to learn of and exploit this weakness is unknown, and it has since been moved to a higher-security chamber.]]

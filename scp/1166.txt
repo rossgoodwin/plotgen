@@ -1,0 +1,81 @@
+SCP-1166 following Experiment 1166-73
+
+Item #: SCP-1166
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1166 is to be contained in Animal Testing Laboratory 51F at Site-23. SCP-1166 is to be maintained in accordance with established care and feeding protocols for Rattus norvegicus, and housed in an appropriate enclosure.
+
+As of ██/██/2011, all research projects and experiments involving SCP-1166 must be submitted to the Site-23 Ethics Committee for approval. At the Committee's discretion, a Class-C amnesiac is to be administered to SCP-1166 after completion of designated projects and experiments, with a minimum recuperation period of 2 weeks before the commencement of additional research.
+
+All staff initially assigned to work with SCP-1166 are to briefed by the Research Director on its anomalous qualities. Staff may request assignment on an alternate project immediately following the initial briefing.
+
+Description: SCP-1166 is a laboratory rat displaying an appearance consistent with a normal instance of R. norvegicus.
+
+Blood samples taken from SCP-1166 reveal that it is a genetically-manipulated chimera, with samples containing an abnormally high percentage of human cells (██.█%) in comparison with previously documented non-anomalous specimens. Biopsies reveal the presence of a significant amount of human brain tissue, and human nerve cells in SCP-1166's spinal cord. SCP-1166 has been demonstrated to mimic human biology almost exactly in an extensive battery of control tests involving D-Class personnel, with analagous reactions to radiation exposure, heat/cold tolerance, rapid decompression, pathogens (including Marburg virus, rabies, ██████ and smallpox), toxins, and other external factors. SCP-1166 displays tolerances to experimental conditions equal to those expected of a 65 kg human male.
+
+Upon death, SCP-1166 will spontaneously revive after a period of between 18-45 minutes. Tissue, vital organs and bodily fluids are seemingly regenerated prior to revival, to the point where severed limbs have been documented to grow back.
+
+As documented in the intake report and subsequent cognition tests, SCP-1166 is sapient, and fully capable of communicating in English with research staff when provided with proper means.
+
+Recovery Log-1166: Following reports received by undercover agents monitoring ████████ Corporation, a pharmaceutical firm, SCP-1166 was recovered clandestinely by Foundation operatives on ██/██/████, during initial trials for ███████, an experimental psychotropic drug. Notes confiscated from these trials indicated that corporate management was aware of SCP-1166's heightened intelligence and ability to communicate, and as such had identified it as a highly desirable test subject for neurochemical-based pharmaceuticals. No other rats in the possession of ████████ Corporation were observed to demonstrate the anomalous properties exhibited by SCP-1166; it is currently unknown how the corporation obtained a specimen that apparently was the end product of genetic engineering far surpassing currently available technology.
+
+After recovery of SCP-1166, Class-C amnesiacs were administered to ██ researchers and three executives of ████████ Corporation. An H-Type internet-based disinformation campaign was commenced by staff due to several references to SCP-1166 by a radical animal rights group.
+
+Intake Report-1166: Upon assuming custody of SCP-1166, Dr. ████████ conducted the following interview. SCP-1166 was provided with a specially modified touchpad in order to respond to staff inquiries through a text generator:
+
+Dr. ████████: Please provide a brief description of yourself for the record, SCP-1166.
+
+SCP-1166: (written response) am a white labraTory rat. specimen R-82611. know wh.en hurting starts when the say R-82611
+
+Dr. ████████: SCP-1166, do you know why you are currently in possession of the Foundation?
+
+SCP-1166: (written response) Foundation makes dokter ██████ stop hurting we. foundation not hu8rt we?
+
+Dr. ████████: I am not going to hurt you SCP-1166. Now, you have been observed to experience a state indistinguishable from clinical death, and then subsequently revive. Yet you retain memories prior to each instance of death. Is this accurate?
+
+SCP-1166: (no response)
+
+Dr. ████████: Is this accurate, SCP-1166?
+
+SCP-1166: (written response) R-82611 remember many many times. painf7l. but better now, dokter?
+
+Dr. ████████: Are you aware of other specimens similar to yourself in existence?
+
+SCP-1166: (written response) no
+
+Dr. ████████: Do you have any insight as to how you came to be self-aware and able to communicate with humans?
+
+SCP-1166: (written response) no
+
+Dr. ████████: That will be all, SCP-1166.
+
+Addendum: Prior to the commencement of Experiment 1166-3, Researcher ███ filed a formal complaint with the Site-23 Ethics Committee. Relevant documentation as follows:
+
+Request for Review by Site Ethics Committee
+
+SCP Involved: SCP-1166
+
+Requested By: Researcher ███
+
+Priority: B2
+
+Comments: SCP-1166 displays intelligence that may be equivalent to that of a normal human, along with emotions such as sadness, anxiety, and fear. Unlike a standard D-Class subject, SCP-1166 has not committed any crimes against established society, nor has it "consented" to any [COMMENTARY EXPUNGED]. Carrying out Experiment 1166-3, or indeed any of the other planned research slated for SCP-1166 would be an act of wanton cruelty for no purpose except to confirm what we already know. Science does not require that we abandon our morals, such as they are in this place, and neither I nor any other Researchers can continue the inhumane treatment of this poor being. We still have consciences, damn it.
+
+MEMORANDUM
+
+To: Dr. ████████
+
+From: Site-23 Ethics Committee
+
+RE: Review Request 1166
+
+After three rounds of voting over a two-day period involving numerous abstentions by members, by a 7-6 decision the Committee has approved further testing involving SCP-1166 provided that updated parameters regarding its use are adopted.
+
+While the Committee recognizes the objections of Researcher ███ regarding intrusive and painful testing on a sapient and non-consenting life form, SCP-1166 displays properties that must be understood and documented in full by the Foundation. SCP-1166's regenerative properties in particular merit further study; applied knowledge of its principles may have great benefit both in the containment of dangerous phenomena and in use by Foundation staff.
+
+This being said, measures to minimize distress to SCP-1166 are authorized and encouraged. The Committee recommends use of amnesiacs to reduce SCP-1166's memories of particularly traumatic events, and after review of Experiment Log 1166-2, anesthesia for medical procedures is now required. Research staff are encouraged to communicate with SCP-1166 on a daily basis regarding non-mission sensitive topics as a further means of documenting its anomalous intelligence.
+
+Upon his request, Researcher ███ has been transferred to work on SCP-████.
+
+- Director ███████

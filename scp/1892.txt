@@ -1,0 +1,23 @@
+SCP-1892
+
+Item #: SCP-1892
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1892 is currently contained in the former ████████ Hospital in ██████████, MA. No fewer than three (3) Foundation agents posing as security guards are to patrol the property twice daily to discourage civilian access. All entrances to the ████████ Hospital building, as well as the entry point to the room containing SCP-1892, are to be fitted with standard Foundation keycard locks. Testing is to be carried out using D-Class subjects only. With the exception of scheduled testing, personnel are required to remain a minimum of five (5) meters from SCP-1892 at all times.
+
+Description: SCP-1892 is a chair located in the psychiatry wing of the former ████████ Hospital. SCP-1892 exhibits no anomalous properties outside a distance of two (2) meters. Upon entering this zone subjects will perceive an older male voice, belonging to SCP-1892-1, encouraging them to sit in SCP-1892 and chastising them for being late to their appointment.
+
+Upon sitting in SCP-1892, subjects are able to visually perceive SCP-1892-1. Subjects have consistently described SCP-1892-1 as an elderly male wearing medical garb appropriate for a physician in the early 1940’s. Testing has revealed SCP-1892-1 to possess considerable medical knowledge, though the entity has no knowledge of (and will ignore) medicine and techniques introduced later than 1944. Once seated, subjects have proven incapable of leaving SCP-1892 until discharged by SCP-1892-1.
+
+SCP-1892-1’s behavior towards the subject depends primarily upon the subject’s history of psychiatric illness. Of note is that the entity has an uncanny ability to determine whether a subject genuinely suffers from a psychiatric disorder: tests involving subjects with genuine psychiatric illness and subjects instructed to feign illness resulted in correct diagnosis by SCP-1892-1 in 96% of cases, a rate significantly higher than Foundation psychiatrists in similar tests.
+
+Subjects with no history of psychiatric illness report the entity subjecting them to a routine physical exam before being discharged. If a subject is diagnosed with a mild to moderate case of psychiatric illness, SCP-1892-1 will express concern, ask a series of follow-up questions, and write a prescription for one of several opioids (commonly used as antidepressants prior to the 1950’s)1. These scripts appear on the subject’s person after they are discharged by SCP-1892-1 and are non-anomalous.
+
+Subjects diagnosed with severe psychiatric illness (major depression, auditory/visual hallucinations, etc.) report SCP-1892-1 muttering to itself before sighing and stating its intent to restrain the subject, citing a lack of alternative therapies. Despite the lack of a physical mechanism, subjects are immediately immobilized in a manner consistent with wrist, ankle and head restraints. Subjects will vocalize extreme distress for a period of five to seven minutes after which they become tranquil and are discharged by SCP-1892-1.
+
+After exposure, these subjects demonstrate marked reductions in emotionality, motivation and interest. Subjects show little to no desire (or ability to plan for) escape and will only react to immediate stimuli. Following monthly terminations, analysis of subjects affected in this manner revealed lesions in the frontal lobe consistent with those of a transorbital lobotomy.
+
+Footnotes
+
+1. Subjects treated according to SCP-1892-1’s instructions show no improvement over similarly treated subjects not exposed to SCP-1892.

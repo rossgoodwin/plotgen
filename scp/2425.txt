@@ -1,0 +1,157 @@
+Item #: SCP-2425
+
+Object Class: Euclid
+
+Special Containment Procedures:
+
+Object Containment Procedures:
+
+SCP-2425 is to be kept in a 10.5m x 8.5m x 5m containment cell in Reliquary Site-251. The cell is to be outfitted with one stage meant for the performance of dramatic acts, specifically musicals. At 16:00 EST on every second Friday of the month, a performance of a single song from a musical with religious themes is to be performed by volunteer Foundation researchers with some form of musical skill.
+
+The list of approved musicals includes:
+
+Jesus Christ Superstar (Andrew Lloyd Webber and Tim Rice)
+
+Joseph and the Amazing Technicolor Dreamcoat (Andrew Lloyd Webber and Tim Rice)
+
+The Prince of Egypt (Dreamworks Animation, dir. Simon Wells, Brenda Chapman, Steve Hickner)
+
+The Fiddler on the Roof (Jerry Bock and Sheldon Harnick)
+
+The Book of Mormon (Trey Parker, Matt Stone, and Robert Lopez)
+
+The following Sunday, a sermon is to be given by a Foundation-appointed religious authority regarding either Exodus 20:3-6, the Book of Leviticus, a passage from the Book of Mormon, a reading from the Torah, a reading from the Qu'ran, or the Horizon Initiative's Universal Text, if available.
+
+Following this, a replica of an instance of SCP-1425 is to be burned within two meters of SCP-2425. If a replica is unavailable, a copy of a film that Steffan Bristow has performed in may be substituted.
+
+Informational Containment Procedures:
+
+It is to be publicly maintained that the actor Steffan Bristow died on January 4th, 2010 of a drug overdose in his room at the [REDACTED] Hotel in New York City. Films that star or feature Steffan Bristow may continue to be distributed, provided they have been scrubbed of Memetic Vector 2425-01, which involves the deletion of no more than five frames of film from the final cut.
+
+Description: SCP-2425 is an android originally made to resemble Steffan Bristow, a Dutch-American actor and member of the Fifth Church. SCP-2425 has a frame made out of an iron alloy similar to Damascus steel, but with approximately 15% more nanotube structures present in SCP-2425 than in the average specimen of the alloy. Upon recovery, SCP-2425 was covered by an anatomically correct approximation of Steffan Bristow's appearance, made out of human skin with an exact DNA match to Mr. Bristow.
+
+SCP-2425's primary anomalous effect occurred when it was part of the production of a major motion picture, specifically during its appearances on-camera2. When appearing on-camera for a duration of more than fifty-five seconds, SCP-2425's eyes glow on-screen. Following this, a short, memetic message flashes on the screen, known as Memetic Vector 2425-01 (hereafter M.V. 2425-01). M.V. 2425-01 usually takes the form of a quote from Fifth Church scripture, a lyric from a Fifthist hymn or song, or a passage from one of the early chapters of SCP-1425. This effect occurs only five times per movie SCP-2425 is featured in, and only occurs for a single frame at a time.
+
+If individuals that have not undergone Level-2 Inoculation against Memetic Vector 2425-01, they will develop an interest in Steffan Bristow's life, leading to affected individuals attempting to find information about Bristow, his films, and any other actors featured within them. This will eventually lead individuals affected by M.V. 2425-01 to information on the Fifth Church. This further leads to up to 20-27% of individuals affected by M.V. 2425-01 to joining the Fifth Church. Post-exposure inoculation within 52 hours can lead to up to a 59% decrease in interest on the subject of Steffan Bristow.
+
+A secondary anomalous effect occurs when SCP-2425 is in its powered-on state. When in this state, various news media outlets located in the Hollywood Area will report stories about Steffan Bristow's continued existence, being held by a 'shadow-governmental agency'. These are believed to be transmissions broadcast by SCP-2425 in an attempt to free itself from containment.
+
+SCP-2425 is powered by an anomalous power source, designated SCP-2425-A. SCP-2425-A is a form of battery that is powered and recharged by specific vibrational frequencies. These frequencies are produced by the human voice during the vocalization of songs by the band Constellation Starfish (a group affiliated with the Fifth Church) including singing, humming, or simply speaking the lyrics; a single word from the song "Old Chilly the Space Trucker", intoned as conceived by the composing artist, was found to produce enough energy to power SCP-2425 for approximately five hours.
+
+Currently, a way to drain SCP-2425's power has not been discovered. As such, it has been classified as a Keter-Class anomaly due to the threat it posses to the Foundation's mission of secrecy. See Experiment Logs.
+
+Experiment Log 2425-D: The following records Foundation attempts to power down SCP-2425.
+
+Test #: 001
+
+Hypothesis: SCP-2425 could be disabled by removing SCP-2425-A
+
+Procedure: D-Class personnel would attempt to manually remove SCP-2425-A.
+
+Result: Upon contact with SCP-2425-A, D-Class personnel D-2812 was electrocuted by SCP-2425-A and immediately died.
+
+Conclusion: Manual removal of SCP-2425-A impossible with bare hands.
+
+Test #: 002
+
+Hypothesis: See Test # 001
+
+Procedure: See Test #001, but D-Class personnel would have full-body electrical insulation.
+
+Result: Electrical charge somehow bypassed insulation; however, resultant electrical shock was not fatal. D-Class Personnel D-2813 complained of having 'a song stuck in his head' until end-of-month retirement.
+
+Conclusion: Manual removal of SCP-2425 is impossible.
+
+Test #: 005
+
+Hypothesis: Due to the fact that SCP-2425-A was apparently powered by Fifthist hymns, Dr. Eldridge hypothesized that hymns from other religions could de-power SCP-2425-A.
+
+Procedure: A small choir of volunteer Foundation researchers was instructed to sing the hymns "Amazing Grace" and "God Rest You Merry, Gentlemen".
+
+Result: No change in power levels in SCP-2425-A; broadcast reporting a sighting of Steffan Bristow in the town of [REDACTED], approximately fifteen kilometers from where SCP-2425 was located, was reported by an NBC news affiliate in Hollywood.
+
+Test #: 011
+
+Hypothesis: Dr. Eldridge hypothesized that a Jewish hymn would depower SCP-2425-A.
+
+Procedure: Originally, it was intended for the song "Ma Nevu" to be performed by volunteer researchers who were fluent in Hebrew; however, Dr. Eldridge's research assistant mistakenly obtained a Hebrew translation of lyrics to the song "To Life (L'chayim)" from the musical Fiddler on the Roof.
+
+Result: Recognizing the tune approximately thirty seconds into the song, Dr. Eldridge ordered the test be terminated, with a repeat of the test to be scheduled for a later date.
+
+However, Dr. Eldridge noted that SCP-2425's movements appeared more sluggish following this test.
+
+Conclusion: Further testing necessary.
+
+Test #: 012
+
+Hypothesis: Songs related to religion, but not explicitly used in religious ceremonies or gatherings, would be effective in depowering SCP-2425-A.
+
+Procedure: Dr. Eldridge selected three songs to be sung by volunteer researchers: "Hello" from the musical The Book of Mormon, "The Man Comes Around" by Johnny Cash, and "The Christmas Shoes" by the group NewSong.
+
+Result:Of the three songs, "Hello" was the most effective, with "The Christmas Shoes" and "The Man Comes Around" having little to no effect. Upon the conclusion of "Hello", SCP-2425 had severely impeded movement. It is hypothesized that this power drain was due to the number of singers required to perform "Hello" being larger than the other two songs.
+
+Conclusion: Songs related to religion, but not explicitly religious in content, will have some effect on SCP-2425-A.
+
+Note from Dr. Eldridge: I'd just like to state, on the record, that seeing those researchers sing a song from that Mormon musical is the happiest I've seen them in a while.
+
+Test: 014
+
+Hypothesis: See Test 12, with the addendum that the larger the group singing the song, the more effective the power drain.
+
+Procedure: The song "Go, Go, Go Joseph" from the musical Joseph and the Amazing Technicolor Dreamcoat would be performed by volunteer researchers; in Broadway productions, this song required at least fifteen people to effectively perform.
+
+Result: Upon conclusion of the song, SCP-2425 saw no further power drain than from previous tests; approximately 50% power drain.
+
+Conclusion: While the musical method is effective, alternate methods must be found for fully depowering SCP-2425-A.
+
+Note from Researcher Mayberry, Research Assistant to Dr. Eldridge: Everyone was laughing after that test. Some of them even started dancing; they really got into it. Think we could do that again, Doc?
+
+Note From Dr. Eldridge: It is under consideration.
+
+Test #: 017
+
+Hypothesis: Destruction of objects related to the Fifth Church would result in further power drain.
+
+Procedure: Test Denied. Items related to the Fifth Church are considered valuable artifacts.
+
+Test #: 018
+
+Hypothesis: See Test # 017
+
+Procedure: A mockup of an instance of SCP-1425 was created, and then incinerated in front of SCP-2425 and several present researchers.
+
+Result: Despite the instance not being authentic, SCP-2425 completely powered down upon destruction of the object.
+
+Conclusion: See Addendum
+
+Addendum: Official Proposal from Dr. William Eldridge:
+
+To: O5-9
+
+Subject: SCP-2425 Containment Revision
+
+Reliquary Site-25 is probably one of the most frustrating places to work in the Foundation. Before I came here, I was a theologian, yes, but I was also an atheist. Seeing things like [REDACTED] shook me to my core. God was real, all Gods were real, and they could kill us at any time, trigger the apocalypse by sneezing.
+
+It is rare that we make any breakthroughs here. I've had two people on my team commit suicide by SCP out of sheer frustration from banging their heads against the wall and never getting a result.
+
+I am happy to report that we have made progress: a way to effectively neutralize SCP-2425, and any other possible instances of it. A combination of spiritual (not explicitly religious) music, performed by a large number of people, along with the apparent destruction of materials related to the Fifth Church, has resulted in a complete powering-off of SCP-2425. As I write this, it has been inactive for the past week.
+
+I have attached to this e-mail revised containment procedures for SCP-2425, which have been revised by members of my team. It is simple, cost-effective, and it works. I recommend implementation as soon as possible.
+
+Dr. William Eldridge,
+
+Hazardous Materials Containment Liaison, Reliquary Site-25.
+
+To: Dr. William Eldridge
+
+Subject: Re: SCP-2425 Containment Revision.
+
+Approved. Implement these procedures immediately. Good work, Dr. Eldridge.
+
+-O5-9
+
+Footnotes
+
+1. Reliquary Site-25 is dedicated to the Containment of several dangerous Euclid-class religious anomalies related to several Groups of Interest.
+
+2. Voice acting done by SCP-2425 does not carry anomalous effects.

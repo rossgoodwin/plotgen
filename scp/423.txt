@@ -1,0 +1,31 @@
+Item #: SCP-423
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-423 is contained in a 5 x 5 meter room containing three (3) 2 x 3 meter bookshelves. An incinerator is located adjacent. All personnel entering or leaving the room are to be searched for written material. Any written material must be checked for any trace of SCP-423 and then, if found clean, incinerated.
+
+At night, SCP-423 is to remain in a small, plain journal marked 423. Failure to remain in this journal at designated times will result in loss of reading material outside of scheduled experiments.
+
+Description: SCP-423 has no physical form. It appears to exist entirely within textual narratives. It was discovered in a used book store in ████████, Texas, on ████ ██, 19██, in a copy of Tom Sawyer. The book was purchased by Agent ██████, who located it during a routine search.
+
+Agent ██████ brought the book back to Sector 28 as instructed. The book seemed perfectly normal except for the inclusion of a character named "Fred," who was not known to exist in any other version of the story. However, it was not until it was left by a copy of Moby Dick that the anomalous nature of SCP-423 became clear.
+
+SCP-423 is able to enter textual narratives, inserting itself as a minor character. The details of the character vary from story to story, but it is always named "Fred," or something similar, and its role in the story is usually minor. Physical descriptions of the character are rare, but it usually appears as a human male of average height and middle years. However, this can change depending on the nature of the narrative. He has appeared as a student in narratives focusing on children (and thus presumably of an appropriate age) or even as a non-human in narratives where humans are absent or rare. At no time is his appearance remarked on as being unusual by other characters.
+
+SCP-423 is able to move from one narrative to another voluntarily, provided the two works are within one (1) meter of each other. The process takes up to three minutes, depending on the length of the new narrative. The entire narrative changes at once, the text on all pages seeming to move. Occasionally, the length of the narrative changes; in these cases, the text grows smaller or larger to fit the page count of the book. It is only able to appear in physical textual narratives. It cannot enter electronic storage, or affect purely visual narratives. If placed in proximity to a graphic novel or other form of sequential art, it will change the text boxes and dialog bubbles, but will not affect the pictures. Similarly, illustrations in a textual narrative do not change, even if they no longer match up to the narrative as affected by SCP-423.
+
+It prefers fictional narratives. However, it can enter any narrative that has characters, including anecdotes, biographies, and research notes (See Addendum 423-1).
+
+It can re-enter a narrative that it has already exited. If it does so, the new narrative typically differs from the last time SCP-423 entered the story. However, it has displayed a preference for narratives it has not yet entered.
+
+It is currently unknown what effect dying in a narrative would have on SCP-423, despite the best effort of researchers. SCP-423 displays a strong grasp of narrative principles, and is usually able to predict the best response in a given circumstance to avoid danger to itself. It has, however, displayed minor injuries. However, these seem to vanish when it enters a new narrative.
+
+SCP-423 can be communicated with by coaxing it into a journal. It responds to questions written within, with SCP-423's responses appearing underneath the questions. When it transfers to another narrative, its responses disappear from the journal.
+
+It has been largely cooperative since its containment. Its only requests so far have been for more narratives. It has expressed a preference for narratives with a large number of background characters, as this makes it easier for it to blend in and "watch the good stuff." It has been recommended that, should it become uncooperative, it be confined to the journal until it becomes more amenable to staff requests.
+
+Researchers who desire more information on SCP-423 should read Experiment Log 423 A.
+
+Addendum 423-1: Researchers are reminded that all physical written material is a potential habitat for 423, and that all notes should therefore be taken electronically. If written notes must, for some reason, be taken, be sure to check for addenda from "Guest Researcher Fred."
+
+Addendum 423-2: The use of SCP-583 to destroy SCP-423 has been suggested. While the SCP is not slated for destruction at the present time, it has been noted should circumstances change.

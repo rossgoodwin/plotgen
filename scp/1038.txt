@@ -1,0 +1,67 @@
+Three composite plugs at one end of SCP-1038. Plugs show no deviation from RCA standard.
+
+Item #: SCP-1038
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1038 is to be kept in a locked storage container within the Site-17 audio/visual department, with keypad combination in possession of Research Director. Due to the nature of the object’s effects, O5-level approval has been granted for SCP-1038’s non-experimental, recreational use on a weekly basis for all Site personnel on Fridays from 1930 - 2230 Hours, using previously tested content.
+
+Description: SCP-1038 is a coaxial audio-visual cable measuring 6.096m in length with both ends terminating in three standard RCA connector plugs, color-coded for composite video and stereo audio. There are no markings on the connectors or cable to indicate the manufacturer or further specifications of the cable.
+
+The cable’s properties manifest when it is plugged into a television or monitor and a media player (VCR, DVD, streaming media device, etc.). While the device plays the selected content, the television will instead display what can best be described as an “alternate reality” version. As of 11/23/2011, SCP-1038 has displayed content from ████ distinct realities (Refer to Addendum-1038-B for a brief experiment summary).
+
+The means by which this effect is generated is unknown, as tests have shown no anomalous power draws from the connected devices, changes in area radiation, or [DATA EXPUNGED].
+
+SCP-1038 appears to exhibit awareness regarding the information being passed through it. Should the selected content not exist in the alternate reality the cable connects to, SCP-1038 will instead play a “closest match” - a VHS recording of a football game, might instead show a gladiatorial fight. At the same time, the object will also only ever show one alternate version for the particular medium. All DVD copies of a film will play the same alternate, which is in turn different from VHS copies of the movie. It is unknown if this is a sign of intelligence or if the data already exists on the storage media.
+
+Addendum-1038-A — Recovery Report: SCP-1038 came to the attention of the Foundation after a 10/3/19██ incident at [REDACTED] Elementary School in ███████████, OR., in which Ms. ████████ attempted to show a recording of a “Cable in the Classroom” documentary to her 4th Grade class. The recorded documentary was about the Great Pyramid, but the viewed content was [DATA EXPUNGED]. During the ensuing arrests, firings, and lawsuits, Foundation agents took custody of the AV equipment used in the incident. Component testing revealed only SCP-1038 showed anomalous properties. Purchase of the cable was not recorded in any district expense reports.
+
++ Show Addendum-1038-B
+
+- Hide Addendum-1038-B
+
+Addendum-1038-B — Partial Experimentation Log:
+
+Medium: VHS
+
+Content: Schindler’s List
+
+Results: SCP-1038 was plugged not into a television, but a recording device. Recorded output did not deviate in any way from the film.
+
+We’ve run this experiment several times with different players and media, with the same results. We are now confident that the object requires a connection to a TV in order to view the ‘alternate’. — Dr. █████, Research Dir.
+
+Medium: VHS
+
+Content: History of the World, Part I
+
+Results: A documentary - apparently closely in line with our own history. Due to the thoroughness of the film, “Part 1” only covers the dawn of the Neolithic. Test terminated after 92 minutes when the VHS tape stopped playing. Alternate version was in the middle of a segment explaining Neolithic agriculture.
+
+Media: DVR recording (Device provided by Research Asst. ███████)
+
+Content: 2010 NCAA Football National Championship
+
+Results: Complete football game, but featuring schools [DATA EXPUNGED]. A portion of the half-time show reveals that teams were selected using a “play-off” format.
+
+Medium: DVD-RW
+
+Content: Recording of children playing at [REDACTED] Park. (Confiscated from Agent ███)
+
+Results: Children played around a statue of ██████████. Plaque on the base calls him “The Hero of Racial Purity.”
+
+Medium: Previous test's DVD-RW from Agent ███
+
+Content: Content of previous test overwritten with tourist video of the Washington Monument and Lincoln Memorials.
+
+Results: Statue of ██████████ similar to the one seen in previous test, but approx. 130 meters tall seen in place of Washington Monument. Lincoln Memorial seems to have suffered blast damage and has not yet been repaired. Data overwite apparently only affects viewed content, alternate reality connected to remains unchanged.
+
+Medium: DVD
+
+Content: Box set of Seasons 1 and 2 of Sliders
+
+Results: No changes. Results of frame-by-frame analysis pending.
+
+Medium: DVD-RW
+
+Content: Collection of footage of Earth and our position in the universe, overlaid with greetings in all known languages (Similar to the Golden Records carried by the Voyager Probes).
+
+Results: An apparently similar message. Of approximately 2,000 verbal greetings, the only languages recognized are Ugaritic, what is possibly Proto-Minoan, a form of Old Chinese, and Hittite. Further, all individuals seen in the footage appear to be [DATA EXPUNGED]. Permission for further communication attempts pending.

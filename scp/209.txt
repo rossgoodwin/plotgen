@@ -1,0 +1,65 @@
+SCP-209 primed for an active phase.
+
+Item #: SCP-209
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-209 is to be held in a 0.5 m x 0.5 m x 0.5 m pressure-sealed storage locker, insulated to prevent any potential aroma from release to the surrounding area. Access to SCP-209 is limited to a single Class 2 or higher staff member for any transport. A standard security detail should accompany any transport of SCP-209 at a distance of at least twenty-three (23) meters. No more than one (1) human subject of any classification should be within the minimum safe distance of twenty (20) meters of SCP-209 at any time outside of a research trial setting.
+
+As current hypotheses regarding the function of SCP-209's "active" phase indicate enticement to use through olfactory manipulation of some kind, any staff assigned to research trial or security detail should be equipped with personal air filtration devices rated at Foundation standards of at least Euclid-III (HEPA filter, oil-resistant).
+
+Research has approved the use of the prototype modular keycard system (SCPassport) for SCP-209's storage locking mechanism. The keycard for SCP-209 storage is modified with a proximity alarm and deactivation protocol to enforce the single user only containment mandate. If more than one (1) human subject is detected in the proximity of both the keycard device and lock, a Level I containment breach alarm will be sounded and the locking system disabled to prevent removal of SCP-209 from its storage locker.
+
+Description: SCP-209 appears to be a single-malt Scotch tumbler, 10 cm in height and with an 8 cm diameter at its widest point. The tumbler shows no manufacturer's marks, but does indicate signs of moderate to heavy use and light wear including a small chip missing from the rim. When not in the possession of a human subject, the tumbler contains approximately 88 to 91 ml (3 oz) of an unknown golden-brown, translucent liquid. This liquid cannot be siphoned, spilled, drained, evaporated, or otherwise removed from SCP-209 by any means other than a human subject taking hold of the tumbler and consuming the liquid. All Activator subjects debriefed following a sampling of the liquid produced by SCP-209 report it to be alcoholic in nature and providing of a sense of warmth, self-assurance, and general well-being. This effect has proven to be highly addictive, with methadone therapy currently holding the highest rates of success for detoxification from SCP-209's effects.
+
+For SCP-209 to enter its active phase, three conditions must be met:
+
+At least two (2) human subjects must be within twenty (20) meters of SCP-209.
+
+At least one (1) of the human subjects must have a normal functioning sense of smell and detect SCP-209's aroma. Anosmic test subjects have been unable to initiate the active phase.
+
+The subject who first detected the odor of SCP-209 must take possession of the tumbler and consume any amount of the liquid within it (hereafter "Activator subject").
+
+Once these conditions are met, SCP-209 enters its active phase. The Activator subject will immediately seek a relaxing or comfortable position in which to finish the liquid in SCP-209 at a leisurely pace. Any other human subject within twenty (20) meters of the Activator subject (hereafter "Prey subject") will be locked into two distinct physical parameters for the duration of the active phase:
+
+Prey subjects will be physically incapable of moving more than twenty (20) meters away from the Activator once ingestion has begun.
+
+Prey subjects will be physically incapable of moving closer than one (1) meter to the Activator once ingestion has begun.
+
+All current attempts at moving any Prey subject beyond these boundaries while living have met with failure. Any human subject entering the twenty (20) meter sphere of SCP-209's influence after the Activator and Prey subjects have been established are not affected.
+
+Any descriptive word or phrase used in reference to SCP-209 by the Activator subject during the active phase will physically reflect upon the Prey subject in a variety of ways. See experiment logs 209-6.2 through 209-33.8 for details. Activator subjects seem aware of both the boundary restrictions imposed on Prey subjects as well as the physical effect of their descriptive language, but no matter the scale of physical harm or distress inflicted upon Prey subjects, Activator subjects seem to retain a light, amused demeanor. It is theorized that the effects SCP-209 inflicts on Prey subjects is intended as a form of entertainment for the Activator subject to enjoy while experiencing SCP-209's intoxicating effects.
+
+When the Activator subject has consumed all the liquid within SCP-209, both boundary parameters are nullified. If still capable of motion, former Prey subjects can and do flee the area with as much speed as possible. The Activator subject will immediately become confused by the now-empty SCP-209 and attempt to refill it with any available liquid. If the Activator is successful in filling SCP-209 with approximately 88 to 91 ml (3 oz) of any liquid, it will transmute into another glass of golden-brown, translucent alcohol and the cycle begins again provided there is another potential Prey subject in range. If Prey subjects or others disable or remove SCP-209 from the Activator before they are able to "refill" it, SCP-209 will exit the active phase and remain empty and inert for approximately seventy-nine (79) hours before refilling itself by unknown means to potentially begin a new active phase.
+
+Addendum: Experiment Log 209-18.4
+
+Three (3) Class-D subjects appropriated for testing. 25 m x 25 m x 6 m room furnished with a single steel folding chair and SCP-209. Activator subject designated "D-Act", Prey subjects designated "D-Prey 1", "D-Prey 2". Log begins 122 seconds following D-Act ingestion of SCP-209.
+
+122 seconds: D-Act seats himself in the single chair provided in the room. D-Prey 1 approaches D-Act. D-Prey 2 begins exploring the room's boundaries.
+
+188 seconds: D-Prey 1 discovers the inner boundary and is unable to approach D-Act.
+
+194 seconds: D-Prey 2 discovers the outer boundary and is unable to reach the eastern wall.
+
+227 seconds: D-Prey 1 begins shouting obscenities and attempts to strike D-Act. No effect. D-Prey 2 attempts to "map" the outer boundary.
+
+255 seconds: D-Act describes SCP-209 as "smoky".
+
+258 seconds: D-Prey 1 begins coughing violently. D-Prey 2 approaches.
+
+284 seconds: D-Prey 1 collapses, wracked with violent coughs. An unknown black smoke-like gas is expelled from his mouth with each cough. D-Prey 2 attempts to approach D-Act.
+
+299 seconds: D-Act describes SCP-209 as "smooth".
+
+302 seconds: D-Prey 2 appears to begin sweating profusely. D-Prey 1 continues coughing spasms. Expulsion of smoke-like substance continues from mouth, nose, eyes.
+
+363 seconds: D-Prey 2 exuding a thick layer of a viscous, near-frictionless substance from all pores. Substance has eroded clothing and apparently the first layer of epidermis. D-Prey 2 is unable to remain standing, falls, and attempts to staunch the flow of the unknown substance from his pores. D-Prey 1 apparently expired. Smoke-like substance continues to vent from mouth, nose, eyes. D-Act applauds intermittently.
+
+484 seconds: Viscous substance exuded from D-Prey 2 has eroded two (2) additional layers of skin; wounds approximate to second and third-degree burns. D-Prey 2 expresses desire to be terminated. Request denied. D-Act appears fixated on the remaining liquid of SCP-209.
+
+522 seconds: D-Prey 2 expires. Substance appears to cease exuding from pores. D-Prey 1 ceases to expel smoke-like substance. D-Act continues drinking SCP-209.
+
+948 seconds: D-Act consumes the last of SCP-209. Immediately stands and rushes to the body of D-Prey 1, begins clawing at the corpse with left hand, while maintaining hold of SCP-209 with the right.
+
+954 seconds: Researchers determine that D-Act is attempting to refill SCP-209 with blood from the corpse of D-Prey 1. Per orders, one (1) security staff member enters and neutralizes D-Act, recovering SCP-209 still in its empty state.

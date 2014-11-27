@@ -1,0 +1,63 @@
+SCP-1162's present form and location
+
+Item #: SCP-1162
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1162 is currently contained in a standard 5x5x5 meter chamber at Site 31. SCP-1162 must be activated at least once weekly to prevent a containment breach; if it is not activated, it randomly shifts location, as detailed below.
+
+Description: SCP-1162 is, currently, a hole in the cinderblock wall of Containment Chamber 4 at Site 31. It measures approximately 14.5 centimeters across, and has a variable depth which changes based on the current user. A portion of cinderblock is currently visible through the hole; however, no light source has been able to illuminate any portion of the interior beyond that, the hole always appears to be dark.
+
+SCP-1162 is activated when a sentient being reaches into the hole to the depth that the girth of their arm allows, at which point their fingers touch a solid surface similar in feel to the current location of SCP-1162, and they discover an item small enough to fit through the hole below their fingertips. These items have universally been recognized as something that the user has lost, or was searching for at some point during their life. However, upon retrieval of the item, another item will vanish from the person of the subject. In addition, any object placed into SCP-1162 will disappear as soon as it is no longer in contact with a person.
+
+If SCP-1162 is not activated at least once every 168 hours, it will randomly shift location to another stone, concrete, or brick wall or floor within a radius not yet shown to exceed 2000 kilometers. The previous hole remains, but shows no abnormal properties. Attempts to destroy SCP-1162 or view it from behind have caused an immediate shift in location, regardless of the time since the last shift.
+
+Addendum : SCP-1162 was discovered by Agent Parks of Mobile Task Force Zeta-9 (aka "Mole Rats") during a routine investigation of an area affected by SCP-184. It was, at the time, a hole in a concrete floor in a service tunnel under █████████, China. Agent Parks dropped his flashlight into the hole accidentally, and, upon reaching into the hole, retrieved a copy of Super Mario Brothers 2 for the NES with his name written on the back in Sharpie. Upon a later inventory check, it was discovered that a standard ration pack was missing from Agent Parks' supplies. SCP-1162 was experimented with on-site for three months before it was left unactivated for a week, and shifted to a wall inside an abandoned office building in India. It was then allowed to shift again, and lost, though rumors of a "magic hole" surfaced in the Netherlands, Venice, Egypt, and Greenland. On April 16, 200█, it appeared at the current location in Site 31, and has been contained there ever since.
+
+Testing Log: The following is a log of all tests performed upon SCP-1162.
+
+Subject: Agent K████████
+
+Item Retrieved: One (1) standard issue M1911A1 magazine, empty
+
+Item Lost: Wallet, but not contents of wallet
+
+Notes: Man, I liked that wallet. At least it left my money.
+
+Subject: Dr. Clef
+
+Item Retrieved: One (1) Package of Aquila Ukelele strings
+
+Item Lost: One (1) Package of D'Addario Ukelele strings
+
+Notes: Well, that's a fair trade, I guess.
+
+Subject: D-4010
+
+Note: D-4010 was wearing only a standard Foundation D-Class uniform, with no shoes, socks, or jewelry, and had no other items on his person during this test.
+
+Item Retrieved: One (1) Half-full bottle of Wild Turkey bourbon
+
+Item Lost: One (1) Foundation D-Class uniform
+
+Notes: That was expected.
+
+Subject: D-4010
+
+Note: Subject was naked and holding no items at the time.
+
+Item Retrieved: 1987 Driver's license for D-4010
+
+Item Lost: Subject complained of intense abdominal pain upon removing his hand from SCP-1162, then collapsed. It was discovered that his left kidney was missing, and all vessels leading to the kidney cleanly severed.
+
+Notes: Future tests must take place while clothed, with at least one object on the person of the subject.
+
+Subject: Agent G█████
+
+Item Retrieved: [DATA REDACTED]
+
+Item Lost: Shoelace from Agent G█████'s left shoe
+
+Notes: Agents actively searching for biological or memetic agents, or any Keter-class SCP objects, are forbidden to use SCP-1162 without a full security complement present.
+
+SCP-1162 is open for testing by any person with Level 1 or greater clearance level. The extended testing logs are located here.

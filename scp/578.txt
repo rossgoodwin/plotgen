@@ -1,0 +1,31 @@
+A sample of SCP-578-1.
+
+Item #: SCP-578
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-578 is to be contained within standard Safe-class anomalous liquids tanks. Any personnel excluding D-class under testing conditions are to wear Level C hazmat suits while handling SCP-578. All newly recovered instances of SCP-578-1 are to be cataloged and destroyed.
+
+Description: SCP-578 is a colorless, odorless liquid consisting of a solution of water, silicon, and a previously unknown and uncharacterized enzyme. It has a viscosity of 0.9cP at 29°C, a boiling point of 123°C at sea level, and a freezing point of 4°C. At the time of this writing, 413L of SCP-578 exist in containment.
+
+SCP-578's anomalous properties manifest when it is brought into contact with human blood. First, SCP-578 spreads throughout the blood by way of rapid diffusion. The enzyme in SCP-578 then causes a clotting cascade in the blood, followed by crystallization of the blood via chemical reaction.
+
+This crystallized blood is designated an instance of SCP-578-1. Approximately 1.7mL of SCP-578 is required to fully convert a liter of blood. SCP-578-1's chemical structure is reminiscent of opals, consisting of hydrated silica. During the crystallization process, clots of blood cells become trapped within the structure of SCP-578-1, resulting in a bright red coloration. Tests involving SCP-578 and blood plasma have confirmed that the absence of these blood clots in the structure of SCP-578-1 results in a significantly weaker structure. SCP-578-1 has a hardness of 6.8 on the Mohs scale, and a melting point of 1020°C. SCP-578-1 is not capable of converting more blood, and can be handled without protective gear.
+
+SCP-578 and several hundred instances of SCP-578-1 were initially discovered during a Foundation raid on a Marshall, Carter, & Dark Ltd. facility. The facility had been used as a production site for various items made of SCP-578-1. The exact process MC&D used to create SCP-578 is unknown.
+
+Addendum 01: Excerpt from Recovered Document HKG-35.
+
+Here at Marshall Carter and Dark, we cater to only the most exclusive clientele, people of discriminating taste. We understand that those of your caliber demand only the finest, the pinnacle of quality in jewelry. That is why MC&D is proud to present the most incredible gems of all time; blood opals. Created from the very sap of men's veins, crafted by artisans into wondrous settings in a true marriage of art and jewelry, these one-of-a-kind pieces easily outclass any you have seen before.
+
+In ancient Greek mythology, the ichor of the gods' veins could grant to mortals agelessness or even immortality. Blood opals capture a similar effect, producing an aura of rejuvenation and regeneration. They add vigor to your limbs, taste to your food, and colour to your cheeks.
+
+This holiday season, show that special someone you care. After all, what says "I love you" like a piece of life, a piece of you?
+
+Addendum 02: SCP-578-0676
+
+Item #: 0676
+
+Recovery Date: █/██/████
+
+Item Description: A statue of a human cardiovascular system composed of SCP-578-1. The item is 2.1 meters in height including a 0.3 meter tall base composed of granite. Analysis of the item has discovered few tool marks, with the exception of those around the metal supports attaching the statue to the granite base. It is theorized that the item must have been created by injecting SCP-578 into a living human, as the pooling of blood in a dead body would result in a partial statue.

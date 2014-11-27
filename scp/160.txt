@@ -1,0 +1,17 @@
+SCP-160 during initial containment
+
+Item #: SCP-160
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-160 is kept in a secure bio-containment chamber at Site ██. SCP-160 is to be fed live prey in the form of a rabbit or other animal of similar mass once per week, with feeding to be performed via automated delivery system only.
+
+Experimentation with SCP-160 may only be performed with prior permission from at least two (2) Level 3 personnel, and any personnel entering the chamber must wear an armored suit at all times.
+
+Description: SCP-160 appears to be a quadriflyer unmanned aerial vehicle (UAV) with a diameter of approximately 1.1 m at its widest point, similar to the [REDACTED] model manufactured by the [REDACTED] Corporation. It is devoid of any identifying marks or manufacturing labels, though visual inspection of SCP-160 has revealed signs of scratches and other superficial damage indicating that prior identifying labels may have been removed.
+
+SCP-160 operates continuously and completely autonomous from any identified control source, and exhibits behavior similar to that of predatory birds. It will actively hunt prey such as rodents and other small animals and, upon locating such prey, dive down at high speed and impale its prey with what appears to be a metallic proboscis. Analysis of its prey shows that it then injects a highly caustic substance that liquefies the internal organs and extracts the resulting slurry. SCP-160 will generally avoid humans and larger animals, but has been recorded using its proboscis in self-defense. Injuries inflicted by SCP-160 are extremely painful, and can cause death via liquefaction of vital organs or internal bleeding.
+
+Further research on SCP-160 is underway, but has proven difficult due to SCP-160's continuous operation. Tranquilizer darts are ineffective as SCP-160 appears to be entirely composed of non-biological components, and requests to attempt a low-intensity electromagnetic pulse to disable it have been rejected due to possible unforeseen damage.
+
+SCP-160 was discovered by Foundation agents on █/██/200█ following multiple reports of household pets from the town of [REDACTED] disappearing and subsequently found dead under unusual circumstances. SCP-160 was quickly identified and lured into a transport vehicle by a containment team and subsequently taken to Site ██. A search of the area turned up over ██ desiccated small animals including house cats, rabbits, wild rodents, and miniature dogs.

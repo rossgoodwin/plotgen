@@ -1,0 +1,19 @@
+A secondary bunker located near SCP-1210-2
+
+Item #: SCP-1210
+
+Object Class: Euclid
+
+Special Containment Procedures: A Foundation laboratory ship as well as two patrol ships are stationed in the region surrounding SCP-1210 at a range of no less than 10 km. As SCP-1210-2 remains active, expeditions to or experimentation with SCP-1210 for more than five (5) hours after a recorded emission event may only be performed with prior permission from at least two (2) Level 4 Personnel. Infrared and visible-light photography by the next over-passing surveillance satellite must be scheduled immediately after a recorded emission event.
+
+The area surrounding SCP-1210 in a radius of 15 km is marked as off-limits on all official maps, and radar overwatch is to be maintained using unmanned aerial vehicles (UAVs). Civilians attempting to approach SCP-1210 must be detained and questioned.
+
+Description: SCP-1210-1 is an uncharted island approximately 31 km off the coast of [REDACTED], Russia with an area of 3.4 km². Its unusual shape suggests that it may have once been larger, but that the eastern half of the island was 'sheared off' via unknown means, leaving a sharp delineation at which point several buildings and roads as well as utility lines have been cut off.
+
+SCP-1210-2 is a World War II era radar installation located on the main hill of SCP-1210-1, consisting of a large radar array and a control bunker containing its readout equipment. Cyrillic signage indicate that the site is named [REDACTED], but no official documentation of this site exists in any Russian or Soviet-era records. The site is in an advanced state of disrepair consistent with multiple decades of abandonment, though several rooms are remarkably well-preserved due to having been inside sealed bunkers. Forensic examination of the site indicates that site personnel were forced to abandon the area in haste and head towards the eastern end of the island, where the main power plant and living quarters are presumed to have been located.
+
+Despite having been disconnected from an active power source for at least 50 years, SCP-1210-2 is still active and periodically generates a low-powered, anomalous radar pulse emission that radiates out to a range of approximately 9 km. The period and frequency of these emissions is unstable, but are usually at or about ██ ms and ██ to ██ Hz. These emissions are also irregular, and have been recorded repeating as often as once every six (6) hours, and as rarely as once every seven (7) days.
+
+During each emission event, localized shifts in the area surrounding SCP-1210-2 occur that coincide with the propagation of the emission signal. These include but are not limited to: changes in the topography of the sea bed and ocean floor, changes in the local plant and animal life, as well as short-lived changes in the chemistry and organic content of the water surrounding SCP-1210. Prior to current containment procedures, individuals within the Red Zone of SCP-1210 during an emission event reported being able to feel a 'ripple' pass through their bodies, resulting in short-term nausea as well as tingling in the extremities that persisted for several days. In rare cases, subjects have also reported short-term memory loss and fatigue, and in two (2) cases, personnel were discovered missing and were unable to be located.
+
+Incident Log 1210-1: On ██/█/██, an emission event occurred while two (2) research personnel were in open water on a small power boat. Foundation patrol ship SCPS Treska received a panicked distress signal that was shortly cut off. Upon investigation, the Treska discovered the shredded hull of the power boat, with puncture damage consistent with the teeth from a C. megalodon. Additional Foundation assets are being considered to deal with the possibility of extinct or otherwise anomalous wildlife as a result of SCP-1210's emission events.

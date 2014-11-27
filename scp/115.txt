@@ -1,0 +1,17 @@
+SCP-115 being transported to Site-██
+
+Item #: SCP-115
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-115-1 is to be stored in the Secure Vehicles Storage Facility in Site-██, where access is restricted unless accompanied by Level 3 personnel or higher. SCP-115-2 is currently being kept in a secure drawer of Dr. ██████'s desk. SCP-115 is not to be used without Dr. ██████'s explicit approval. Any site staff using SCP-115-2 must return it in a timely manner or face punitive measures. No other special containment procedures are required.
+
+Description: SCP-115-1 is a toy dump truck, with no identifying markers or labels to identify its original manufacturer. However, unlike regular toy dump trucks, SCP-115-1 weighs as much as the actual vehicle it represents, roughly 90 tons. It is currently unknown how the vehicle weighs this much, as analysis of SCP-115-1's composition reveals that it is made of the same commercial plastic commonly found in similar cheap-quality toys.
+
+SCP-115-1 is also capable of motorized movement and can function exactly like a normal dump truck, excepting the fact that it is several magnitudes smaller. It is controlled by SCP-115-2, which resembles a heavily modified RC car controller. SCP-115-2 can control SCP-115's movements despite the fact that SCP-115-1 lacks any kind of radio receiver or mechanical parts. SCP-115-2 does not work with any other radio controlled device, but otherwise functions exactly like a mundane radio controller, even requiring batteries to function properly.
+
+Testing has shown that in addition to its abnormal weight, SCP-115-1 also has a similar carrying capacity as its larger counterparts, being able to carry or tow roughly 120 tons of cargo. In addition, SCP-115-1 also apparently needs diesel fuel to run properly. There is a small port in its left side that allows fueling, though it stores and consumes as much fuel as a regular dump truck. How it consumes the diesel fuel, as well as where it is stored are issues currently under study.
+
+SCP-115-1 was originally found in a construction site in ████████, where workers attempted to move it, but found the task impossible due to the fact that SCP-115-1 weighs 90 tons. They were forced to use heavy machinery to finally move SCP-115-1 off the construction site and to a nearby town, where it became a local curiosity. Agents ████████ and ████ discovered SCP-115-1 and found SCP-115-2 at the same construction site. Class A amnesiacs were distributed among the townspeople in order to cover up SCP-115-1's existence.
+
+To anybody using SCP-115-1 for testing, I would like to remind you about Newton's Laws! Driving SCP-115-1 recklessly at high speeds is inviting disaster, and we've already had to deal with several destroyed walls and equipment due to improper handling! -Dr. ██████

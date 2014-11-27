@@ -1,0 +1,25 @@
+SCP-854
+
+Item #: SCP-854
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-854 is contained on US Bureau of Land Management property in ████████ state. Roads and trails leading to the site have been closed for “maintenance” and rendered impassable, while cameras monitor the site and all approaches to it. Supervising personnel are authorized to use any nonlethal means to deter trespassers.
+
+Barriers erected at the ends of the arch prevent access except under controlled circumstances. Wild animals are not permitted in the area in order to prevent unsupervised disappearances.
+
+Description: SCP-854 is a natural arch formation eroded from sandstone in ████████, ██ and known locally as the “Dream Bridge”. Despite its precarious appearance it is exceptionally stable and can support in excess of 400 kg without difficulty. A single large pictogram in an unknown language adorns the base of the structure, but it is otherwise naturally formed.
+
+The arch has no observable anomalous properties unless the top is traversed, like a bridge, from East to West. Animals and people crossing from West to East, walking under or around the formation, or otherwise interacting with it in any other way experience nothing out of the ordinary.
+
+Living animals that cross the arch from East to West vanish at the midpoint of the structure. No organism that has disappeared has ever been recovered. Contact with the arch is necessary for this phenomenon, as birds flying above it in the same direction experience no effects. Nonliving items, such as remote controlled vehicles, also cross without interruption.
+
+No energy discharge, spatial irregularity, or other ancillary phenomenon has been detected that explains the mechanism of the disappearances. Eyewitnesses and sensor recordings suggest that subjects simply cease to exist the moment they reach the halfway point atop the arch. Recording equipment carried by or attached to test subjects vanishes along with them, halting any transmissions.
+
+Local lore ascribes various supernatural properties to the arch and its environs. Usually the arch is depicted as a gate or bridge to another realm, often spiritual in nature, which must be venerated or guarded. Certain oral traditions state that those who cross the bridge are granted an audience with "Mother Sky", a local divinity figure. In past times of need, a messenger would brave the journey to bring news of her people’s plight and a gift to sway her will. Whether the messengers carried the gift with them or were, themselves, the gift varies based on the account.
+
+Capture summary: The “Dream Bridge” arch formation has a history of anomalous stories and myths related to it, but was not examined by the Foundation until 19██. An amateur vacation video filmed by Nancy ███████ of ███████, ██ showed a ground squirrel being chased by the family dog across the arch, with both vanishing in mid-stride at the center. The video was played on local news channels before being explained as a trick of the lighting and recovered by Foundation agents.
+
+Other than the aforementioned disappearances, no abnormal properties attributed to the site in folklore have ever been verified by the Foundation.
+
+Incident Report 854-01: On February 18th 20██, a radiolabeled Foundation tracking tag was intermittently detected 200 km SW of Nord, Greenland by satellite systems. A recovery team located and collected the device, which lay exposed on a remote hilltop. The team also collected 3 metal zippers, 35 brass buttons, a variety of crushed electrical components, 2 gold tooth fillings, hundreds of flint and obsidian axe heads, spear points, and carvings, and a pair of metal pet tags from the same location. The tracking device was identified as one used in Foundation experiments with SCP-854 in 198█. No further items sent through SCP-854 have appeared at this location, perhaps due to some time delay phenomenon. Experiments and observations are ongoing.

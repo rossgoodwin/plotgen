@@ -1,0 +1,29 @@
+Item #: SCP-1962
+
+Object Class: Safe-reliquia
+
+Special Containment Procedures: SCP-1962 is to be kept in a plastic storage container in Reliquary Site-62. Testing of SCP-1962 requires permission from Dr. Stephenson or Researcher Short. Gloves must be worn at all times during testing. In the event that contact is made with SCP-1962 outside of testing, its connection with the subject must be severed immediately if possible. If this is not successful, the subject is to be placed under general anesthesia before removal of SCP-1962.
+
+Description: SCP-1962 is an Egyptian khopesh1 52 centimeters in length dating to approximately 1780 BCE. Hieroglyphics cover the majority of its surface, typically exhortations calling for the granting of wisdom and prowess to the user's heart. Upon recovery, SCP-1962 was heavily tarnished; the object has been refinished without causing any change in functionality.
+
+SCP-1962 contains an interior cavity running the length of its blade with a total volume of approximately 21 cm3. Examination has shown this cavity to be filled with living cardiac muscle tissue belonging to a human male of Middle Eastern descent. How this tissue remains functional is not known.
+
+Whenever a live human grips SCP-1962, cardiac muscle tissue will grow rapidly at all points of contact between the skin and SCP-1962. This tissue will penetrate the subject's skin and merge with the dermis, effectively bonding the subject to SCP-1962. The tissue will also spread along the surface of the subject's skin towards the chest, where it burrows into the subject's body, eventually making contact with and merging with the subject's heart. This process takes approximately four minutes, and has been described as causing a severe itching sensation. Severing SCP-1962 from the subject during this time period halts the process without ill effects.
+
+Upon completion of this process, electrical signals from SCP-1962 will override the natural functioning of the sinoatrial node and regulate the subject's heartbeat. Typically, the subject's heart rate will remain at approximately 75 bpm,2 regardless of the subject's physiological state.
+
+Should the subject attempt to use SCP-1962 as a weapon, signals produced by SCP-1962 will instead be rapid and erratic, ranging between 140 and 190 bpm. This high, irregular heart rate often causes symptoms of arrhythmia, including fatigue, shortness of breath, and fainting. Should the subject suffer an open wound to the head, neck, or torso during this time, SCP-1962 will cause the subject to experience a heart rate of over 260 bpm, rapidly leading to severe heart damage and fatal cardiac arrest.
+
+SCP-1962 will remain attached to a subject until the subject's death, at which point it will detach from the cardiac tissue on the subject's skin. Forceful removal of SCP-1962 prior to this causes the heart to immediately cease functioning.
+
+Addendum 1962-1: Documents recovered from the tomb of Wegaf3 refer to the construction of a khopesh intended to provide the wielder greatly increased reflexes, resistance to pain, and knowledge of various combat techniques by connecting directly to the wielder's heart. It has been hypothesized that SCP-1962 was an attempt to make a sword with the aforementioned qualities.
+
+There is currently no evidence to suggest that SCP-1962 provides any unusual abilities to bonded subjects.
+
+Footnotes
+
+1. A bronze sickle-sword used in Egypt from approx. 3000 BCE to 1300 BCE.
+
+2. Within the average resting heart rate range of most individuals.
+
+3. Pharaoh of Egypt from the 13th dynasty. Ruled 1794-1757 BCE.

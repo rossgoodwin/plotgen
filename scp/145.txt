@@ -1,0 +1,51 @@
+Item #: SCP-145
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-145 is to remain inside its room at all times in a .5m x .5m x .5m plexiglas container unless being studied. Room is to be thoroughly soundproofed and securely locked when studies of SCP-145 are not in progress. Under no circumstances shall any personnel come into physical contact with SCP-145 without being accompanied and constantly observed by one or more other personnel unless conducting testing with proper authorization. Any personnel showing signs of intense psychological trauma must be immediately escorted out of the containment area. Depending on the level of trauma of affected personnel, they may be required to submit to consultation with an approved psychiatrist for no less than two weeks.
+
+Description: SCP-145 appears to be a standard 2002-model cordless telephone handset of Alcatel brand on its standard issue charging base. The charging base appears defaced; all jack inputs are sealed with resin glue and the power input to the device has been gouged out with an unknown sharp tool. Serial number and production date are unavailable as all labels and stickers have been ripped off or defaced. The phone rings constantly whether it is on the base or not regardless of the lack of power source. Tests have shown the battery is removable, and disassembly of the base has not shown any effect on the hand unit. The hand unit itself has had all the seams sealed, preventing conventional disassembly. When answered a female voice speaks on the phone in a voice that shows high levels of stress. This voice varies from conversation to conversation, but in all cases the voice expresses extreme panic, and proceeds to plead with the listener for assistance as she describes instances of torture conducted on unknown victims. In the background, the listener will hear sounds of violence and expressions of pain and anguish. Audio analysis has so far indicated at least ██ individual voices over disparate calls. The methods of torture implied thus far (judging from the phrases and reactions of those speaking at the time of contact) have included branding, electrocution, laceration, sexual assault, [DATA EXPUNGED] and dismemberment.
+
+The callers appear to be non-automated and entirely sentient. Attempts to trace the call or track down the location of the tortured callers have proven unsuccessful thus far. Attempts to block the signal of the phone with the use of a Faraday cage have also been unsuccessful.
+
+Research is conducted in teams of at least three (one Class D staff, one Class 2/145 audio technician, and one Class 3 security staff), with only Class D staff permitted to have direct auditory contact with SCP-145's transmissions. Testing has shown that in 100% of cases, a subject answering SCP-145 without live supervision will vanish without any indications of transportation methods. Video recording devices do not show the method of transport; the subject will be present in one frame and absent in the next. In case of disappearance, the phone will simply fall to the floor. The phone does not appear to have sustained damage from any of these falls thus far. Subsequent communication with the object has revealed that vanished subjects join the group of torture victims.
+
+Testing Log
+
+Testing Procedure: All tests will be conducted with D-Class personnel, any issued equipment for the test must be recorded in the log. The D-Class personnel will then be ordered to pick up the phone. After disappearance of initial test subject the above standard research team will answer the phone and record any observations.
+
+Test 145-A
+
+Date: ██\██\████
+
+Subject: D-145-3749 issued one (1) GPS Locator Device, testing to attempt to ascertain the location described at the other end of the line.
+
+Result: GPS rendered non-functional after disappearance of D-Class personnel. On following interaction with SCP-145 audio technician identifies voice of D-145-3749 has joined other victims.
+
+Test 145-B
+
+Date: ██\██\████
+
+Subject: D-145-4751 issued one (1) GPS Locator Device, one (1) 6” standard issue military combat knife. Second attempt to ascertain the location described at the other end of the line, self-defense option provided to subject.
+
+Result: GPS rendered non-functional after disappearance of D-Class personnel. On following interaction with SCP-145 female voice indicates continued stress and states, “Oh god, he’s cutting him, he’s cutting off [DATA EXPUNGED]” Audio technician then identifies voice of D-145-4751 has joined other victims.
+
+Test 145-C
+
+Date: ██\██\████
+
+Subject: D-145-5319 issued one (1) 9mm semi-automatic pistol, one (1) Kevlar vest, subject compelled to pick up phone. Attempt to determine interactivity of location, determine if any self-defense method is possible.
+
+Result: On following interaction with SCP-145 gunshots are heard, then [DATA EXPUNGED]. Female voice resumes, states [DATA EXPUNGED] and additional gunshots are heard, audio technician identifies D-145-5319 exclamations of pain after each gunshot.
+
+Test 145-D
+
+Date: ██\██\████
+
+Subject: D-145-6842 issued one kg C4 explosive concealed in supply kit, explosive attached to remote trigger with 30-second delay, triggered before interaction with SCP-145. Attempt to determine any possible level of interaction or destruction of location.
+
+Result: [DATA EXPUNGED] resulted in ██ Foundation personnel missing including Dr. ████ and all researchers associated with [DATA EXPUNGED] breaches of SCP security at Site ██. Further testing of this nature suspended at this time.
+
+I don’t know who thought this might be a good idea. I know sometimes we let sympathy get the better of us, but this attempt to bring ‘relief’ to SCP-145’s victims just cost the Foundation a lot of money and resources.
+
+Dr. ██████

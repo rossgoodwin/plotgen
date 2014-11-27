@@ -1,0 +1,35 @@
+SCP-429 in its apparent off state, control 1 secured by strong adhesive.
+
+Item #: SCP-429
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-429 is to be kept in a standard type 3 hazardous object isolation vault. SCP-429 is not to be handled unless an attempt to operate it is to be made. Care must be taken to avoid inadvertently touching any of SCP-429's controls.
+
+Description: SCP-429 is a complex device constructed of brass and leather designed to fit over an individual's right hand. There are a total of 7 controls on SCP-429:
+
+A lever that fits into the palm of the left hand. This is the main activation control and is depressed when the subject has finished setting their destination.
+
+A round dial near the location control 1 meets the main device. The exact function is unknown.
+
+A six sided dial at the front of the main device. This appears to be involved in broad location selection.
+
+A round dial in the centre of the main device. This appears to be involved in fine location selection.
+
+A lever across the clock face. The exact function is unknown.
+
+A dial on the side of the clock face. This alters the clock face, although the function in selecting destination is unknown.
+
+A switch on the side of the main body (not visible in filed image). Exact purpose unknown.
+
+Examination of SCP-429's inner construction reveals a clockwork mechanism, connected to the exterior controls, which drives the clock face. On the exact physical duplicates of SCP-429 constructed by The Foundation, the controls are either not connected to the clockwork (controls 1, 5 and 7) or simply alter the displayed time at varying rates (controls 2, 3, 4 and 6).
+
+When a subject wears SCP-429, they gain an instinctive understanding of its operation, although they do not gain the ability to convey this information to others. If the subject visualises a location and follows their instinctual understanding to adjust the controls, the wearer will disappear from their current location and simultaneously appear at the visualised location. Upon arrival, the controls save for 1 and 6 return to their original positions. Control 1 remains depressed until released and control 6 adjusts the clock face to local time. After activation, SCP-429 is inert until control 1 is released.
+
+The subject does not perceive travel via SCP-429 as instantaneous. Each subject has reported a prolonged period of paralysis and blindness equivalent to the time it would take to travel in a direct line between the activation location and destination travelling at approximately 6-10 km/h. The biological needs of the activating subject progress as normal during this time. Therefore, journeys of more than 510 km are not advised due to the risk of dehydration. Suffocation does not appear to be a hazard, however.
+
+The controls are highly sensitive and will move under the slightest pressure. If the controls are altered without the instinctive understanding granted by wearing SCP-429, it will disappear from its current location and reappear somewhere within 1.76 km, taking the individual who altered the controls with it. The time elapsed in such cases appears to be significantly higher than normal, with the activating subject typically arriving in a state of advanced decay.
+
+On ██/██/20██, SCP-429 was activated remotely via a robotic arm equipped with a video camera and a range of sensor equipment. No data of any kind was recorded by any of the equipment save for the on-board timing mechanism, which recorded an 8 month, 5 day and 37 second time lapse.
+
+SCP-429 came to the attention of The Foundation after a series of seemingly impossible burglaries. The Foundation examined CCTV footage and noticed an individual, believed to be SCP-429's creator, disappearing from sight shortly before each burglary. The individual appeared to be using SCP-429 for short jumps to access inaccessible locations. The Foundation pursued the individual across 3 continents over a period of 9 years before the individual was finally found having died of old age due to extensive use of SCP-429 in ████████, ████████.

@@ -1,0 +1,61 @@
+Item #: SCP-2068
+
+Object Class: Euclid Keter
+
+Special Containment Procedures: SCP-2068 is to be contained in a two meter cubed insulated pressurized vault in Site-15 Armed Bio-Containment Area-14. The vault shall be within its own Faraday cage, and no electronics shall be permitted within twenty fifty meters. The interior of the vault shall have a nitrogen atmosphere at 200 kPa pressure, which shall be remotely monitored via analog pressure gauges. The interior of the vault will be visually monitored through a system of mirrors and lenses to keep the cameras outside the prohibited range.
+
+Should the first vacuum seal be broken, backup tertiary seals shall engage and liquid nitrogen pumped into the vault to 10 MPa pressure and 70 Kelvin for forty-eight hours, after which pressure shall be reduced to 25 10 Pascal and temperature raised to 400 525 Kelvin for an additional forty-eight hours. Under no circumstances is atmosphere to be vented, but rather heated to 600 Kelvin converted to ammonia via Haber process and used as fuel.
+
+If secondary seals should fail, storage area shall be sealed, interior heated to 1000 Kelvin and ammonia fuel pumped within the vault. Temperature and sealing should remain in place for twenty-four hours, then additional ammonia fuel pumped in. Should fuel ignite, on-site warhead should be armed and quarantine put into effect, and interior heated to 1800 Kelvin until combustion ceases. Storage area will be evacuated and atmosphere treated to ensure containment, then SCP-2068 Neutralization will be enacted. All surviving personnel will remain in quarantine for two months to verify SCP-2068 has not broken containment, and undergo testing during that time.
+
+Should tertiary seals fail, on-site warhead shall be detonated.
+
+Testing shall be carried out in a shielded room by technical staff D-class under clean bio-hazard level 4 conditions. Presently, all testing requires approval from level 5/2068 aside from remote observation has been suspended and requires majority O5 authorization to resume.
+
+Description: SCP-2068 is a reciprocal pump manufactured by the ███████ Corporation. SCP-2068 was discovered by Coalition Military Forces in █████, Iraq on ██ ███████, 200█ in the possession of militia forces. After a failed remote disruption, in place Foundation assets contained the device and brought the item to Site-15, due to the detection of unique electronic signatures.
+
+Upon examination, Dr. ██████ discovered SCP-2068 contained several biological mechanisms of unknown artifice. Testing showed SCP-2068 to be the housing for a biological computer as well as several other organs linked together by circulatory and nerve analogs. Through experimentation, Dr. ██████ deduced its purpose was to draw in energy and resources from the environment to both make various hydrocarbon compounds as well as to make more versions of itself.
+
+Subsequent interviews suggest that SCP-2068 was to be placed at one of the depleted oil wells in the region in order to revitalize the well and to serve as a covert source of power and revenue. However, further testing showed SCP-2068 had additional abilities, hence the need for more stringent safeguards and procedures.
+
+Addendum 2068-2: On █/█/20██, Site-15 suffered partial containment failure, centered around SCP-2068, SCP-████, SCP-████, and SCP-███. Analysis showed biological contamination by SCP-2068 in █ technicians, showing changes in the limbic system as well as lesions in the gastrointestinal tract. Security footage shows the affected technicians vomiting on security controls, resulting in compromised safeguards and containment failure with ██ casualties, and an additional ██ euthanized due to spreading contamination even after surgical removals of affected tissues. Furthermore, █ medical personnel were infected.
+
+SCP-2068 shall have its containment upgraded and sent to ABCA-14, effective immediately. Upgrade to Keter denied.
+
+"Clever of it. SCP-2068 appears to be aware of its surroundings and able to act upon them. What is its purpose? Could it be sentient, self-aware, or even sapient?" – Dr. ███████
+
+Addendum 2068-3: Infected medical personnel were placed under quarantine and observed remotely. Each instance attempted to escape, using a variety of chemical attacks on their isolation cells. One instance self-detonated, apparently to give other instances improved odds to escape. Containment held. All instances euthanized and incinerated.
+
+Addendum 2068-5: Per Dr. ███████'s request, Testing of SCP-2068 shall resume under MOPP-4 conditions using D-Class personnel. Foundation personnel shall watch remotely outside the twenty meter effect.
+
+Addendum 2068-9: Per the events of ██/██/20██, whereupon partial containment failure occurred at ABCA-14, resulting in ███ Foundation casualties, all testing of SCP-2068 has ceased. The vivisection and autopsy reports of all D-Class on site will be Overseer Eyes Only until further notice.
+
+Addendum 2068-10:  Requires O5 Authorization
+
+Authorization approved, thank you.
+
+Executive Summary: ABCA-14 Containment Breach, 13/10/2013
+
+Sixteen D-Class and twelve Foundation personnel corpses were recovered, and five living D-Class and fourteen Foundation personnel survivors were discovered to be infected with SCP-2068-1. The apparent vector for the physiological changes in those exposed to SCP-2068, SCP-2068-1 is a protein-sheathed organic molecule that acts much like a virus, with three noteworthy differences.
+
+First, SCP-2068-1 can target any organic substance to either make copies of itself, consume for fuel or to build a wide variety of chemical structures. Second, SCP-2068-1 is capable of self-propulsion in most fluids as well as air. Third, SCP-2068-1 is capable of a high level of coordination and networking with other instances, so that clusters of SCP-2068-1 may act in concert to either make broad physiological changes, to subsume the consciousness of its living host and replace it with its own, or even to use dead tissue as a vehicle to move and protect itself.
+
+SCP-2068-1 is nearly impossible to detect due to its size as well as the fact that it appears to exhibit polymorphism, changing its own structure as needed. Currently, the only means to detect whether an individual has been infected is through MRI, and only when structures can be detected by either the naked eye or through electromagnetic emissions. The Overseer Council recommended the autopsy and vivisection information to be sealed. The fate of those personnel who dealt with the containment breach was voted on, with a 8-5 decision against euthanasia.
+
+All survivors of the containment breach and those who came into contact with them have been reclassified as SCP-2068-2, the designation for potentially infected, and are in permanent quarantine.
+
+Addendum 2068-11: Timeline of events leading to partial containment failure, ██/██/20██
+
+1753: 2 D-Class under security escort to SCP-2068 underwent detonation while within six meters of Security Station Three. Post mortem showed significant portions of their bodies had been converted to various explosive and incendiary compounds.
+
+1755: ███ D-Class in three separate areas began behaving aggressively, resulting in riots. Post mortem showed extensive modification to the endocrine system as well as to the limbic system, which led to excessive bursts of strength and speed without concern for self-harm. Furthermore, ██ D-class reanimated after apparent death several minutes later, acting as sources for chemical, explosive and incendiary attacks against facility and personnel.
+
+1804: Hampered by fires and suicide bombings by D-Class, Foundation first response personnel encountered poisonous and acidic compounds sprayed out by injured, dying and reanimated rioters. This reduced effectiveness of MOPP gear as well as caused █ Foundation security to spontaneously combust several minutes after contact.
+
+1810: Security personal from Security Station Three arrive on scene, begin to open fire on Foundation first response team. Reanimation determined to be by SCP-2068 with the corpses serving as ablative armor, fuel, and factory for reproduction. Incendiary weapons proven most effective over standard firearms and other means. Conventional explosives served only as a means to spread SCP-2068.
+
+1820: Foundation forces partially restored containment, on-site warhead remained armed.
+
+2130: Containment restored.
+
+Addendum 2068-12: Upgrade to Keter approved. A moratorium on testing SCP-2068 has been declared, pending O5 approval. Neutralization denied, due to possible similarities to activities in Ecuador. What appear to have been cosmetic improvements in Sucumbíos by C██████ Inc. now show significant changes in the local ecology with similarities noted in post mortem per the events of ██/██/20██. Unfortunately, due to the on-going legal battles and pervasive interference by foreign nationals, the Foundation is unable to more closely investigate this matter.

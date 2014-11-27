@@ -1,0 +1,53 @@
+Item #: SCP-1848
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1848 is to remain under remote surveillance for possible changes in existing anomalies or possible non-Foundation submersibles. Any non-Foundation submersibles that locate SCP-1848 are to be secured and the crew given Class C amnestics. Testing with SCP-1848-1 have been temporarily suspended in Foundation facilities, and permanently suspended in the area around SCP-1848.
+
+Description: SCP-1848 is a series of structures covering approximately seven square kilometers of the bottom of the Atlantic Ocean, with the coordinates of the center building being [REDACTED]. SCP-1848 is fully submerged in water, and no air pockets have been discovered. The architecture of SCP-1848 matches styles used in various ancient coastal civilizations, most predominantly drawing from ancient Roman and Greek styles. The majority of SCP-1848 is constructed from various species of coral, though it is unknown if the structures were carved from existing coral or built anomalously.
+
+Voices in an unknown language can irregularly be heard throughout SCP-1848, although these voices have no apparent source. However, specialized equipment has detected spacetime distortions in synch with these voices, detecting up to four Hilberts.1 The voices range in sex and tone, though most seem to be adult voices. Music is often heard playing within the central building, and various other sounds have also been recorded. Sounds include an electrical ringing, clacking sounds, loud banging, and repeated shuffling noise.
+
+Based on the discovery of mining equipment and excavated tunnels on the northern edge of SCP-1848, it is assumed to have been a settlement for the mining of an anomalous metal ore, designated SCP-1848-1. SCP-1848-1 matches the atomic composition of copper, but matches all of the physical properties2 of gold. Additionally, when exposed to an active closed circuit, SCP-1848-1 glows at an intensity of roughly 6000 lumen and creates distortions in local spacetime for as long as it receives electricity. The strength of this effect increases with the strength of the applied current and the mass of the SCP-1848-1 used.
+
+Within the center building are three dodecahedron wheels (designated SCP-1848-2) with the ten side faces marked by different order sequences of ten different symbols. All ten symbols are images of aquatic life. SCP-1848-2 are intangible, and float vertically 1.4 meters above the floor and spin at irregular intervals for several seconds before ceasing movement within two seconds of one another. Voices are often heard when SCP-1848-2 stop in a way that align three matching symbols from the front.3 Should the faces marked with what appears to be a shark align, a Ball Lightning (BL) Event is initiated and lasts for approximately thirty seconds, generating upwards of 87 Hilberts. All effects of BL Events are intangible and cannot be interacted with in any way.
+
+BL Events begin with the appearance of a series of orbs of SCP-1848-1 several feet above SCP-1848-2, vertically arranged in a circular pattern. These orbs light up in sequence, giving the light a spinning effect. Lettering of an unknown language, also made from SCP-1848-1, then continuously flashes within the circle. Loud electrical dinging begins as the reality distorting effects of SCP-1848-1 expand.
+
+As the effects of a BL Event expand, SCP-1848-2 become encased in a large slot machine, with SCP-1848-2 making up the three reels. The orbs of SCP-1848-2 are part of the machine, and appear to activate when a player wins the jackpot. Additional slot machines appear throughout the central building, as well as tables for poker, roulette, and other gambling-based games. The entirety of the central building appears to act as a casino, while surrounding buildings act as restaurants, brothels, and hotels.
+
+Technology of the alternate reality visible during BL Events appears to be highly advanced, as metallic automatons make up the work force and the architecture and various services are fully automated. The only exception appears to be the large slot machine that houses SCP-1848-2, as the other slot machines are activated immediately after entering casino chips made of SCP-1848-1.
+
+Adult humanoids (designated SCP-1848-3) of various ethnicity can be seen throughout SCP-1848 during these events. Roughly 60% SCP-1848-3 exhibit signs of possible steroid or other chemical alterations. Roughly 25% show various physical alterations, such as double ocular enucleation or implantation of metal studs in the knuckles. Based on SCP-1848-3 movement and lack of physical abnormalities that would allow underwater breathing, it is theorized that SCP-1848-3's version of SCP-1848 is either not underwater or within a large air pocket. SCP-1848-3 speak an unknown language,4 and are likely the source of the voices heard within SCP-1848 outside of BL Events.
+
+Addendum: Contact was lost with a submersible containing a team of engineers and researchers on ██/██/19██. The submersible was inside SCP-1848 conducting experiments with SCP-1848-1 when a BL Event occurred. The team claimed that the effects of the Event had become tangible. Contact was lost at the conclusion of the Event, and a second excursion showed SCP-1848 to be in its normal state. The submersible could not be located, and future BL Events did not display any tangible properties.
+
+Addendum: Since the loss of the crew, the frequency of BL Events has increased dramatically. Three weeks after the loss of the submersible and its crew, the audio phenomenon within SCP-1848 altered slightly. Previous sounds were still audible at random intervals, however a repeating message was audible from a building near the center of SCP-1848. The message appeared to be from the lost crew, claiming to be in an alternate reality. The message contained repeated cognitohazards used by Foundation personnel, preventing non-inoculated persons from listening.
+
++ Open Audio Transcript
+
+- Close Audio Transcript
+
+This is Spencer Lestrange, engineer employed by the Foundation. I am broadcasting from an alternate reality using equipment built from SCP-1848-1. I believe our crew was transported here because we had an electrical current applied to the SCP-1848-1 we had on board at the same time as this universe did. Do not continue testing with SCP-1848-1 in the vicinity of SCP-1848. Repeat, do not continue SCP-1848-1 testing near SCP-1848.
+
+The inhabitants, SCP-1848-3, have quartered us off inside one of the buildings. We are essentially prisoners, but they provide us with plenty of food and water. Every few days they take us back into the center building, where they've tinkered with the machine housing SCP-1848-2. I assume they can now initiate BL Events whenever they want instead of waiting for someone to hit the jackpot.
+
+We're fairly certain they're attempting to open a path back into our universe. They tied Romero to orbs of SCP-1848-1 and electrified them. They force-fed Cuddy a bunch of SCP-1848-1 tokens and a live electric eel. I don't know what they did to Vetrov, they took only him one day and never brought him back. Woods says they probably dissected him. There's only three of us left, including myself.
+
+But none of that matters. Do not attempt an excursion to recover us. We are as good as dead. I don't know what they want with our reality, but judging from what they're willing to do to get it… it's likely not pretty. But they're self-contained so long as you don't electrify SCP-1848-1 anywhere near here. Have I said that enough times yet?
+
+<Lestrange sighs>
+
+What's the motto? SCP-1848 is secure. This world is contained. Uh… protect… our world. I don't know, probably should have thought that line out before recording this. Whatever.
+
+Looping transmission.
+
+Footnotes
+
+1. A unit of measurement derived by Foundation physicist Alexandre Hilbert in 1959, used to determine fluctuations and distortions in local spacetime.
+
+2. Such as color, mass, and conductivity.
+
+3. Using the main entrance of the building as reference.
+
+4. Linguistic specialists who have analyzed the recordings of SCP-1848-3 speech have concluded that SCP-1848-3 speak in a constructed language, with no connection to any existing language.

@@ -1,0 +1,55 @@
+SCP-1843 and instances of SCP-1843-1 during testing in Foundation property.
+
+Item #: SCP-1843
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1843 is to be held in a Large Containment Vault in Storage Site-12’s Safe SCP Wing. Specimens of the genus Ovis are to be kept at a minimum distance of 2.5 kilometers from SCP-1843's containment. Specimens found within the 2 kilometers radius are to be moved at a minimum distance of 700 meters from SCP-1843’s range of effect or terminated, if necessary. Deceased instances of SCP-1843-2 are to be contained in separate cryogenic freezers after examination.
+
+Controlled testing with specimens of the genus Ovis is to be done outside, and requires the approval of at least one (1) Level 4 personnel.
+
+Description: SCP-1843 is a polyhedron-shaped1 hollow structure of unknown, possibly extra-terrestrial origin. SCP-1843 is mostly composed of silicon, iron and polystyrene. SCP-1843 measures 1.50 meters in height and 1.50 meters in width, weighing approximately 500 kilograms when empty. SCP-1843 can be opened via a small metallic door found on one of its faces.
+
+SCP-1843's anomalous properties only affect specimens of the genus Ovis (referred as SCP-1843-1) present within a 2 kilometers radius. Instances of SCP-1843-1 will move towards SCP-1843 in groups of 5-10 individuals, mostly composed of adult males and female juveniles. Instances of SCP-1843-1 display more hostility than normal, but do not possess physical strength above normal specimens of the genus Ovis.
+
+Once the instances of SCP-1843-1 have reached SCP-1843, they will proceed to perform a "ritual", referred as SCP-1843-A event. SCP-1843-A events are usually of violent nature, consisting of the sacrificial murder of a female juvenile (referred as SCP-1843-2), performed by instances of SCP-1843-1 by crushing SCP-1843-2's skull with their hooves or by repeatedly hitting it with their horns. In rare occasions (<2%), instances of SCP-1843-1 have been observed to cannibalize instances of SCP-1843-2. The older instance of SCP-1843-1 will then proceed to place the remains of SCP-1843-2 within SCP-1843.
+
+After the SCP-1843-A event has ended, all the instances of SCP-1843-1 will bow their heads down to SCP-1843 and proceed to move away from it. Instances of SCP-1843-1 that participated the SCP-1843-A event lose all their anomalous behaviors once they are 500 meters distant from SCP-1843, despite still being in its range of effect.
+
+SCP-1843 was recovered the 2010/██/██ in █████, Germany, after the reports of a metallic object falling in the rural area of Germany. After 2 weeks of investigations, SCP-1843 was found in █████, being "worshipped" by several instances of SCP-1843-1, most being domestic sheep (Ovis aries) and wild mouflon (Ovis musimon). SCP-1843 contained fourteen (14) deceased juvenile specimens of Ovis aries and five (5) deceased juvenile specimens of Ovis musimon, currently contained among other instances of SCP-1843-2.
+
+Addendum 1843-1: Excerpt from Testing Log-1843-13-F.
+
+Testing Log 1843-13-F - 2010/██/██
+
+Subject(s): Seven (7) specimens of Ovis aries; four (4) adult males and three (3) female juveniles, referred as SCP-1843-1-26 to -32.
+
+Procedure: All the instances are transported via vehicle to SCP-1843 to avoid hostile reactions. The instances approach SCP-1843 without accident.
+
+Results: SCP-1843-A event begins. The older specimens begin to "dance", moving in circle around SCP-1843, followed by the younger males. The female specimens emit an high pitched sound throughout the whole event. The dance finishes after 20 minutes and 15 seconds. The younger males (SCP-1843-1-28 and -29) force a juvenile (formerly SCP-1843-1-31; now SCP-1843-2) to lay in front of SCP-1843. The older specimen (SCP-1843-1-26) kills SCP-1843-2 by crushing its skull, and proceeds to place SCP-1843-2 within SCP-1843. At this point, SCP-1843-1-26 screams for 2 minutes, before all the specimens bow down to SCP-1843 and return to the containment vehicle.
+
+Analysis: Those “screams” have been recognized as an attempt of SCP-1843-1-26 to speak German. Those with Level 3 clearance may read Document 1843-12-AD for further information.
+
+Addendum 1843-2: Document 1843-12-AD.
+
+Translator's note: The following is a rough attempt to decipher SCP-1843-1-26's vocalizations. However, since its speech mostly consisted of bleats and German gibberish, this translation is approximate.
+
+SCP-1843-1-26: My Lord, god of all the ones that munch the green, who takes the fear away, grant us peace. We offer you this virgin, for we beg you to listen the [unknown, plea?] our herds asked since your descent. (SCP-1843-1-26 pauses for 10 seconds at the end of every sentence.)
+
+SCP-1843-1-26: We beg you to free us from the [unknown] that has tormented us since the first wool.
+
+SCP-1843-1-26: The [unknown] has forced us to live in fear.
+
+SCP-1843-1-26: [Unknown] has denied us of the warmth in the cold, and devoured us in the warm.
+
+SCP-1843-1-26: If you are our [helper (?), savior (?)], accept this virgin as a treat, and destroy the [unknown].
+
+Addendum 1843-3: Summary of Testing Log 1843-13-G.
+
+On 2010/██/██, SCP-1843-1-26 was exposed a second time to SCP-1843, among other six (6) instances of SCP-1843-1. SCP-1843-1-26 did not participate to the SCP-1843-A event, but limited itself to repeatedly hit SCP-1843 with its horns. SCP-1843-1-26 appeared to emit a vocalization similar to "lügner", the German word for "liar."
+
+SCP-1843-1-26 was later killed by the other instances of SCP-1843-1, instead of SCP-1843-2. At time of writing, only SCP-1843-1-26 has displayed this kind of behavior.
+
+Footnotes
+
+1. More specifically, an irregular triacontagon.

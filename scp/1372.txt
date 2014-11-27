@@ -1,0 +1,85 @@
+Item #: SCP-1372
+
+Object Class: Keter
+
+Special Containment Procedures: Armed Containment Site-70 is to be established on the island of ███████ under the guise of a USPACOM naval installation constructed for the purpose of long-term joint maritime warfare training. Four (4) Arleigh-Burke class guided missile destroyers (DDGs) are to be maintained at ACS-70, with at least two patrolling Zone-1372-Alpha (see below) at all times.
+
+Owing to the nature of SCP-1372, it is not possible to move the anomaly to a facility for containment. Instead, the focus will be on minimizing civilian contact with the anomaly. An area extending from the anomaly to 100 km east of the anomaly and from 100 km south to 100 km north of the south and north extents of the anomaly is to be established, designated Zone-1372-Alpha. Areas with similar dimensions but extents of 5 km and 1 km are also to be established, termed Zone-1372-Bravo and Zone-1372-Charlie respectively. Satellite monitoring is to be maintained of the entirety of Zone-1372-Alpha at all times.
+
+If any ship is detected approaching the boundary of Zone-1372-Alpha, radio contact is to be attempted by ACS-70 personnel. The operator is to identify themselves as being a military officer, inform the ship that military exercises are taking place in the area, and advise the crew to alter their path to avoid Zone-1372-Alpha or to exit it as soon as possible. If the ship refuses to alter its course, or radio contact is impossible, crew of the nearest DDG are to intercept and block the ship's path. The crew of the ship breaching Zone-1372-Alpha are to be subdued, administered Class C amnesiacs, and airlifted to the nearest island.
+
+Any and all instances of SCP-1372-1 are to be engaged and scuttled at once by ACS-70 staff. Under no circumstances is any such instance to be permitted to cross the perimeter of Zone-1372-Bravo. However, ships are not to pass the boundary of Zone-1372-Charlie in the process. Ships that show signs of crew being affected by SCP-1372 are to be remotely detonated and sunk. In addition, following Incident-1372-5 no aircraft are to be permitted within Zone-1372-Charlie, including those under the control of Foundation personnel.
+
+Foundation personnel are to maintain contact with all airlines and airports servicing any area within a 200-km radius of SCP-1372, and are to advise air traffic controllers that the area indicated is in the vicinity of a USPACOM military base and is frequently host to military training exercises that will threaten the safety of any civilian aircraft passing through. Aircraft breaching the 200-km line are to be contacted immediately and advised to alter course for their own safety. Aircraft that ignore this warning and breach the perimeter of Zone-1372-Alpha are to be intercepted by onboard SH-60 helicopters and forced to land on the island, where they will be treated in the same manner as crews of ships breaching the area.
+
+Description: SCP-1372 is the geodesic segment located along ██°██'██" W longitude and extending from ██°██'██" S to ██°██'██" S latitude. Ships crossing SCP-1372 while travelling from west to east do not suffer any ill effects, though D-class personnel used in tests of this nature have reported a compulsion to look west lasting approximately 6 hours and a strong desire to turn around and sail back. After testing, it has been determined that if a ship turns around and sails across SCP-1372 before exiting the boundary of Zone-1372-Alpha, no ill effects are observed beyond continuation of the aforementioned psychological effects.
+
+When a ship approaches SCP-1372 from the east, travelling west, observers onboard the ship will observe a termination of the horizon at a closer distance to their ship directly east than in any other direction. At closer range, the horizon appears to have a physical point of termination, corresponding to what observers describe as an "edge" of the Earth. This effect is visible from any point within Zone-1372-Alpha. Other than cognizance of the "edge" and a mild curiosity as to what it looks like closer up, no psychological effects are noticed at this stage.
+
+Further approach increases the perception of the "edge". Within Zone-1372-Bravo, subjects experience a minor compulsion to continue in spite of any perceived or communicated dangers, and will resist attempts to change their course. This effect becomes more pronounced within Zone-1372-Charlie, and even after removal, subjects will attempt to build or procure a ship and continue towards SCP-1372 regardless of time of separation and in spite of all curative attempts. A small number of subjects appear to be immune to these effects, though it is currently not understood why.
+
+Any ship that crosses SCP-1372 will disappear from all forms of visual contact. GPS monitoring abruptly cuts off once the ship crosses completely. Observers report that the bow of the ship tips down upon crossing SCP-1372 and that the ship appears to descend; however, remote observation does not observe the same effects. No personnel have been successfully recovered after crossing SCP-1372, and remote probes do not appear to function properly. Thus the nature of the area entered by ships crossing SCP-1372 is not yet fully understood. All that is currently known is inferred from analysis and eyewitness reports concerning instances of SCP-1372-1.
+
+On occasion, sailing ships will emerge from SCP-1372. These are collectively designated as SCP-1372-1. Observation of these vessels has shown that the sails are tattered or missing, and engines are corroded beyond usability. In at least 5 cases, the rudder of the ship has been observed to have been destroyed, and one instance of SCP-1372-1 was found with a large hole below the waterline. It is currently unknown how instances are able to sail. To date, over 50 instances of SCP-1372-1 have been observed and contained by the Foundation, ██ of which correspond to ships reported missing in the region or which were observed to cross SCP-1372 previously. When boarded, all instances of SCP-1372-1 were found to contain [DATA EXPUNGED]. Following Incident 1372-1, no attempts are to be made to communicate with any entity onboard an instance of SCP-1372-1.
+
+Note: Following Incident 1372-3, it is now apparent that the effects of SCP-1372 extend not only to any type of sailing vessel, but also to aircraft which cross the geodesic segment. Containment procedures will be modified accordingly. No testing of any kind involving flying vehicles may be performed on SCP-1372. Due to their heightened speed and mobility, it is highly undesirable that there be any possibility of a flying instance of SCP-1372-1 being created.
+
++ Document-1372-1
+
+-close
+
+The following is an excerpt from the logbook of F████████ R████████, mariner serving on the ship [REDACTED], translated from the writer's native Spanish.
+
+12-04-████
+
+I started to get a very strange feeling today. The sea's as calm as it ever was, but… I feel like we shouldn't be sailing this way. The supplies are still holding out, nothing's spoiled, but I can't shake this feeling that we should be sailing west, not east. Still, there's no reason to feel that way, and we've yet to find the trading passage, so I'll just keep this to myself.
+
+13-04-████
+
+Turns out I'm not the only one feeling this way. The captain confided the same feeling in me, and when we asked around, it seems quite a few of the other sailors say the same thing. S██████ says it's an omen, and that we're likely getting close to the edge of the Earth, but the captain says to sail on.
+
+Note: Based on these writings it is presumed that on 12 April ████, the ship [REDACTED] and its companions crossed SCP-1372.
+
+19-04-████
+
+We've made landfall on a small island. Inhabited, though thank God it seems the inhabitants are friendly. They're damned good cartographers, too. They've got maps of the nearby islands for what seems to be five hundred leagues east of here, but oddly enough their maps never show anything to the west. Must be some sort of native religious taboo; maybe they're supposed to regard this island as being closest to their gods. We've seen plenty stranger than that on the way here. Either way, they're friendly, they've got maps of where we're heading, and most importantly there are plenty of supplies.
+
+… So why do I still feel like we should be sailing back west?
+
+22-04-████
+
+The captain ordered a turnaround today. He claims that the food supply may have been tainted. I went below to check myself, but most of it seems to have been thrown overboard already. Not that I care all that much, we've all wanted to sail back that way the past week.
+
+23-04-████
+
+Horizon looks weird today. Almost like it stops. Still sailing back west.
+
+25-04-████
+
+Made landfall on the island from before. The chief looks like he was expecting us. The fleet is sailing on tonight. Lucky the west wind seems to be in our favor.
+
+27-04-████
+
+… If anyone ever finds this, do not sail west from here. All those men we scoffed at were right after all. The world is flat after all, and I've seen its edge. The captain sailed over with almost all hands onboard. I and three others escaped attempts to restrain us and stole the ship's longboat, rowing away as fast as we could to screams of "coward" from the remaining hands. The ship never turned, though, and soon we watched the captain's flagship tip over the edge of the world and fall down into the gulf beyond… may God rest their souls.
+
+30-04-████
+
+Rowing together, we managed to make it back to the island. The chief's taking care of us while we work out what to do next with the remaining ships here.
+
+02-05-████
+
+The flagship returned today, unlooked for. The captain and his men are aboard; we can see them from here, and we're sailing out to meet them. A man has sailed beyond the edge of the world and returned… what a glorious day for our nation of [REDACTED]!
+
+03-05-████
+
+The captain… was only after a fashion onboard. The same goes for the crew… they are gone now, the flames took them. Today is mostly a blur. All I know is that the moment I heard the men onboard that ship speak, I didn't want to understand their far-off words. I wanted to destroy them before they could speak again. God help me, I helped the natives do just that. And now the flagship lies just offshore, one pristine sail still fluttering in the wind… Forgive me, Captain, but I no longer want to know what you saw beyond the edge of the Earth.
+
+01-09-████
+
+After what I saw that day, I couldn't bring myself to return to the sea. The few of us that fled the ships in the longboats as they sailed blithely over the edge into… whatever Hell lies beyond… are the only ones who remain. With the natives' help we were able to make our way north to Asia and slip back west over land.. We'll have to invent quite a story to explain how over two hundred men died, but we'll think of something. We sail at dawn for the Canary Islands; hopefully if we come in from the east we can convince them we were coming from across the Atlantic.
+
+I think it's best for the peace of mind of the world if we tell them there isn't an edge. Some damn fool is bound to go looking for it, and then another ship could end up like [REDACTED] again. Even thinking about something like that freely sailing the seas is reason enough to keep that place a secret. If anyone asks, we sailed around the world. First men. Quite an honor. Shame it has to be a lie, and I know lying's a sin, but none of those men in the Bible ever saw what I saw onboard that dark ship. Forgive me, Lord, but the world needs this children's story, not a man's truth.
+
+The following document is classified Top Secret. Access is restricted to researchers with a clearance level of 4/1372 or higher.
+
+Interview Log 1372-1

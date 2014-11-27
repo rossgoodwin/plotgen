@@ -1,0 +1,41 @@
+SCP-1902 during testing.
+
+Item #: SCP-1902
+
+Object Class: Euclid-numen
+
+Special Containment Procedures: SCP-1902 is kept in its original location in Site 23's basement level. A fire-resistant concrete containment chamber 3m x 3m in interior size and 1 meter in thickness has been constructed to contain SCP-1902 on-site. The chamber has been constructed to allow for two-way audio and visual communication with SCP-1902. Should containment of SCP-1902 at an alternative location be required, full blueprints and materials lists are available at request from Dr. Hall.
+
+Items under 2kg in mass, flammable materials, and potential sources of ignition must be kept away from SCP-1902 except during scheduled testing. SCP-1902 must be extinguished immediately following tests that involve allowing SCP-1902 to ignite.
+
+No less than one hour of audio recordings are to be prepared and played daily to SCP-1902. The recordings must consist primarily of speech in which the speaker praises or argues in favor of values including moderation, weight loss, humility, and pacifism. Personnel assigned to this task are to be provided access to the entirety of Site 23's declassified audio and video collection for this task. No individual clip of sound may be replayed more than once every three days or more than five times in total.
+
+Experiments that involve deviation from the above protocols require the assent and supervision of Dr. Hall. Tests that involve the addition of unusual material to recordings played to SCP-1902 may not take place more than once every three days.
+
+Description: SCP-1902 is a sapient, mobile pile of waste approximately 110 kilograms in mass of variable disposition. SCP-1902 is composed primarily of ash and cinders, with significant quantities of medical waste, paper products, and various waste products from anomalous items contained at Site 23, along with one item that exhibited anomalous properties prior to incineration (See Addendum 1902-1 and Addendum 1902-2). SCP-1902 possesses well-developed senses of hearing and touch, is incapable of sight, and does not appear to possess an olfaction analogue.
+
+SCP-1902 exhibits a great deal of control over its mass (capable of delivering approximately 40kN of force over short periods of time, or 3.0kN of sustained force), with the apparent constraints that at least half of its component items must be in contact with the ground at any one time and that all items in its "body" must remain contiguous with each other. SCP-1902 is able to incorporate items less than 2kg in mass into its body via physical contact, so long as said items are at least partially (>30% of their surface) damaged by fire. Items separated from SCP-1902 cease to display anomalous properties, but may be reincorporated into SCP-1902's mass at a later time.
+
+SCP-1902 is capable of communication by shaping portions of its mass into rough approximations of characters in Japanese, although it is capable of understanding all languages tested thus far. It is roughly as intelligent as the average adult human, and exhibits the ability to learn, but cannot remember events more than one week in the past. It consistently reports the desire to incorporate additional material into its mass,1 and the desire to be worshipped as a deity by ambulatory entities of any nature.2 However, SCP-1902 does not exhibit any consistent knowledge of or theories on its nature or identity, and exhibits no consistent personality, attitudes, or behaviors beyond those mentioned.
+
+SCP-1902 appears to be influenced almost exclusively by the content of speech conducted in its vicinity within the previous forty hours — while SCP-1902 is capable of learning new information (if not remembering its source), any speech to which it is exposed will have no observable impact on its behavior after forty hours. Additionally, SCP-1902 will habituate to speech that it is exposed to repeatedly — any specific stimulus' impact on SCP-1902's behavior will decrease steadily with exposure, with no apparent change being present after ten exposures to the content of any given speech.
+
+Current containment protocols are designed to influence SCP-1902 in a manner that limits its willingness to breach containment or increase its mass. Interviews confirm that SCP-1902 holds values contrary to its urges to expand in size. This appears to cause SCP-1902 significant psychological stress; however, SCP-1902 has yet to attempt to breach containment or harm personnel since enactment of current special containment procedures.
+
+Addendum 1902-1: SCP-1902 was recovered from Site 23's solid waste incinerator on February 15, 1966, when the contents of the incinerator spontaneously animated and destroyed both the incinerator and the two attending personnel. Temporary containment measures were enacted before SCP-1902 could cause additional casualties or harm to the facility.
+
+Addendum 1902-2: Original documentation of the anomalous item incorporated into SCP-1902:
+
+Item Description: An antique wooden idol of Ryukyuan origin (see attached image). The object continuously vibrates and shakes at varying intensity, despite lacking any detectable power source.
+
+Date of Recovery: February 10, 1966.
+
+Location of Recovery: An antiques shop in Naha, Okinawa, Japan
+
+Current Status: In Site 23's Non-SCP Containment Vault. Slated for incineration.
+
+Footnotes
+
+1. It has been noted that SCP-1902 will actively attempt to reach and spread flammable items and sources of ignition in order to facilitate this.
+
+2. SCP-1902 has responded in this manner to a variety of subjects, including humans, animals, small robots, and a cart.

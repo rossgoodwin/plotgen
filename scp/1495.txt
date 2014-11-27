@@ -1,0 +1,203 @@
+Item #: SCP-1495
+
+Object Class: Euclid
+
+Special Containment Procedures: Under normal conditions, SCP-1495 is to be cared for and fed in keeping with the Foundation’s Zoological Containment Standards for large terrestrial mammals at a purpose-built enclosure on Site ██. Anyone assigned to handling SCP-1495-2 through -15 is permitted to use their informal names for the sake of simplified communication.
+
+No guard dogs or other domesticated animals are allowed on the enclosure. With the exception of small rodents, any local mammalian fauna discovered in the enclosure is to be removed or terminated upon discovery.
+
+Unless they are to be utilized for approved testing, D-Class personnel assigned to interacting with SCP-1495 must not be known or assumed violent felons. D-Class personnel used in SCP-1495-M-1 testing are not subject to this criteria; however, their background must be documented prior to testing.
+
+Members of the herd SCP-1495 are free to roam the enclosure. If additional female specimens of SCP-1495 are discovered in the wild, they are to be captured and may be incorporated into the herd at Site ██. Should a male be discovered in the wild, it is to be recorded and studied but terminated no later than August 15 of that year to prevent an uncontained instance of SCP-1495-M. If a male is discovered during an SCP-1495-M event, it is to be terminated immediately.
+
+Prior to an SCP-1495-M event, males are to be fitted with cranial shunts with reservoirs for collection of SCP-1495-M-1. The entire enclosure is to be checked to make sure no local fauna have entered the containment area.
+
+During an SCP-1495-M event, SCP-1495-2, SCP-1495-3, and SCP-1495-4 are to be kept chained in three standalone climate-controlled steel cages at the far end of the enclosure. These cages are surrounded a 5m high wall made of 1.5m thick reinforced concrete. SCP-1495-2, SCP-1495-3, and SCP-1495-4 are to be placed in separate stalls at all times during 1495-M. No food or water, or drugs will be provided to SCP-1495-2, SCP-1495-3, and SCP-1495-4 while in this type of confinement to help shorten 1495-M.
+
+Description: SCP-1495 is a herd of a previously unknown species of elephant similar in appearance to Loxodonta africana. The herd consists of three males, SCP-1495-(2, 3, and 4) and currently 8 females, SCP-1495-(5, 7, 8, 9, 10, 11, 13, and 15). All subjects are observed to be of extremely high intelligence, with craniums roughly 10% larger than Loxodonta africana. They are generally obedient with their handlers. Subjects respond to human speech; older subjects understand over 1000 English words. Efforts are underway to achieve meaningful communication with SCP-1495.
+
+Females: For the most part, the female subjects are physiologically identical to Loxodonta africana, save for their larger cranium, heightened intelligence, and longer average life span (believed to be 75-85 years). Recent testing has shown females have a greater capacity to communicate with their handlers (see Addendum 1495-A4).
+
+Males: Generally, males are also virtually identical to Loxodonta africana, yet there are a few other notable distinctions. Upon reaching sexual maturity, male SCP-1495 become particularly resilient, healing from injury at accelerated levels. At this point, they also seem to stop aging. Researchers have been unable to estimate ages for the three males. Most notably, males have been observed to direct the behavior of other mammals, seemingly willing animals to work cooperatively or coordinate attacks (see Addenda).
+
+SCP-1495-M: Once a year usually in mid-autumn, males experience SCP-1495-M, a state similar to the period of hormonal abnormalities experienced by male elephants known as musth. Like normal musth, SCP-1495-M is accompanied by highly aggressive behavior and a thick, tar like temporal secretion called temporin. Temporin excreted by SCP-1495 is documented as SCP-1495-M-1. Males are to be isolated because the scent of SCP-1495-M-1 has a compounding aggression effect on most animals that can last several hours after they are removed from the vicinity of the SCP-1495-M event.
+
+Chemical analysis tests:
+
+Testing conducted by Dr. Ladd found that SCP-1495-M-1 induces aggressive behavior in several orders of mammal, though tests have shown no effect on primates. To humans, SCP-1495-M-1 has a pleasant scent that appears to be hypoallergenic. When SCP-1495-M-1 was injected in D-Class personnel, it appeared to rapidly cure ailments, but most D-Class ultimately experienced heart failure and expired after about two hours. The lone exception in testing was D-19-0777, who remains under Foundation observation (See Addendum 1495-A3).
+
+SCP-1495-M-1 contains compounds similar to certain unknown chemicals found in SCP-500. Further testing on these substances is pending approval. Note by Dr. Ladd: When Xylazine was used in an attempt to lessen the effect of SCP-1495-M, SCP-1495-M-1 excretions lacked these qualities but effects on other mammals remained unchanged.
+
++ Addendum 1495-A1
+
+- Timeline on Recovery and Initial Containment Breach
+
+29 OCT 1979: [REDACTED] The coordinates indicated a location in Singalila National Park, India. Foundation personnel immediately dispatched from Bombay.
+
+01 NOV 1979: Foundation scout unit arrives in Darjeeling, West Bengal Province. Base camp is set up, local guides and appropriate gear acquired.
+
+02 NOV 1979: Foundation personnel set off on foot in a heavy snow storm. Two local sherpas accompany the team.
+
+03 NOV 1979: Upon reaching the coordinates, the team was surprised to discover a small herd of African elephants (four male, six female).(1) Specialized observation team requested for further evaluation.
+
+09 NOV 1979: Observation team arrives, all ten elephants are tagged.
+
+14 NOV 1979: Subjects noted to be of superior intelligence. Unusual interaction with other species noted.
+
+06 DEC 1979: Though the herd displays no outwardly anomalous traits, their high intelligence, unusual habitat, and the nature of their discovery lead the observation team to request containment of the entire herd.
+
+14 DEC 1979: Herd airlifted to Site-██ and classified as Anomalous/Cryptid.
+
+14 MAR 1980: Construction purpose-built zoological enclosure completed, herd transferred from temporary containment.
+
+09 JUL 1980: First documented incidence of males interacting directly with local fauna.
+
+14 SEP 1980: Early signs of musth prompt handlers to chain all four males to mature trees within the enclosure.
+
+15 SEP 1980: Musth conditions worsen. Xylazine administered by handlers to attempt to lessen the effects of the musth.
+
+17 SEP 1980: Unusual gatherings of Odocoileus virginianus (white tailed deer) noted in the treeline near where the males are chained. No count was taken, but it is estimated that between 75 and 150 deer had gathered.
+
+18 SEP 1980: All four males broke out of their ligatures, breached the enclosure, and began attacking automobiles parked on Site-██. While security teams were scrambled to contain the breach, scores of white tailed deer stormed the D-Class barracks, killing 107 of the 120 D-Class personnel inside. Agent Gareth Marlow was also killed in the attack. Note: It was later determined noteworthy that Agent Marlow had been under investigation by the Ethics Committee for conduct unbecoming of a Foundation agent.
+
+19 SEP 1980: Heavy sedation was used to secure the males. The oldest male (known as “Ganesh” by the handlers) died of heart failure after taking 8 times the normal dose of tranquilizers normally required to sedate an adult male elephant.
+
+21 SEP 1980: Dr. Ladd suggests that not only was there a connection between the elephants and the deer attack, but that the elephants coordinated the containment breach to help facilitate the attack. Dr. Ladd request the entire herd be reclassified as a Euclid-class SCP.
+
++ Addendum 1495-A2
+
+- Notes on attacks in and around Darjeeling
+
+SCP-1495 was discovered independently by the Foundation in 1979 (See Addendum 1495-A1). It is noteworthy that the species most closely resembles the African elephant, but they were discovered in eastern India, thousands of miles from the historical range of Loxodonta africana.
+
+After full containment, the Foundation conducted an investigation of unusual events in the Darjeeling District of West Bengal Province, India, and surrounding areas. Reports of unusual early-autumn animal attacks began in 1972 and occurred every year until containment in November 1979. Each of the attacks occurred during what researchers have generally accepted to be times of year consistent with SCP-1495-M.
+
+Packs of local fauna, sometimes multiple species, would attack and kill people in Darjeeling, Sikkim, and eastern Nepal. Generally, victims were attacked in and around their homes. In virtually every case it appears that the animals targeted a specific individual or individuals while ignoring or passing over other individuals nearby. Attacks varied by species and location, but in most attacks it appears that the animals attacked joint tendons first to incapacitate the victim in order to lengthen the amount of time the victim was alive during the attack.
+
+No discernible pattern was detected among the victims until the Foundation learned of a particularly large attack in 1978 at a Darjeeling prison, in which 18 inmates and one guard were killed by packs of leopard cats and red pandas. All deceased inmates were either convicted murders or rapists, and the deceased guard had been known for sexual abuse against inmates. Imprisoned political dissidents and beggars were not attacked.
+
++ Addendum 1495-A3
+
+- The case of D-19-0777
+
+During initial testing of SCP-1495-M-1, ten D-class subjects have been injected intravenously with the substance. In each case, subjects reported increased energy and feelings of overall improved health, but nine test subjects expired from heart failure within 120 minutes of receiving the treatment. The lone exception was the D-19-0777, the eighth test subject.
+
+At the time of the testing, D-19-0777 had been experiencing symptoms of bronchitis. Once injected with SCP-1495-M-1, symptoms rapidly began to dissipate. Six hours after observation, D-19-0777 showed no signs of circulatory distress and was determined to have survived the trial. After two more test subjects expired in the same manner as the first seven, D-19-0777 was brought out of observation for an interview:
+
+Interviewed: D-19-0777
+
+Interviewer: Agent D. C. Joachim
+
+Foreword: Excerpt from Log starting 04:33 minutes into interview
+
+[BEGIN EXCERPT]
+
+Agent Joachim: Thank you. Now state for the record the charges that ultimately led to your death sentence in the State of █████.
+
+D-19-0777: Double homicide. But I’m telling you I didn’t do it. I loved my wife and my son.
+
+Agent Joachim: You appealed your conviction three times and failed.
+
+D-19-0777: Fuck █████. Fuck their racist ass lawyers and their racist ass judges. I volunteered to take a polygraph and it never happened. I volunteered during each appeal. The people that killed my family are still out there.
+
+D-19-0777: The bullets they took out of my wife and son were “lost” in evidence. They never found my slugs, I was shooting toward the field. I doubt they ever even looked.
+
+[END EXCERPT]
+
+Agent Joachim recommends that we be open to the possibility that D-19-0777 was wrongfully convicted by the State of █████ and has never committed a murder. This combined with the targeted animal attacks in India in 1979 (see Addendum A2) has lead to the hypothesis that SCP-1495-M-1 and animals affected by SCP-1495-M-1 react with chemicals in the human brain associated with guilt.
+
+Prior to further testing, however, that hypothesis was disproved upon review of two previous D-Class test subjects who expired after receiving doses of SCP-1495-M-1. Though also convicted murderers, both of these subjects exhibited sociopathic personality traits, and were therefore physiologically incapable of experiencing guilt or shame. An eleventh test was done on a D-Class who had been sentenced to death for murder, but he had received Class-A long term memory amnestics and was completely unaware of his crimes at the time of testing. He expired the same manner as the other nine test subjects.
+
+At this time it is unknown if SCP-1495-M-1 itself is sentient or sapient, but it appears to possess the ability to identify those guilty of various crimes, such as murder and sexual assault. Testing is pending for effects on various types of crimes to determine if there is a criminal threshold for whom SCP-1495-M-1 kills.
+
+Note from O5-█: Such testing will be very difficult, as we have a finite number of D-Class personnel who are not murderers or rapists.
+
++ Addendum 1495-A4
+
+- Interview log with SCP-1495-5
+
+Interviewed: SCP-1495-5
+
+Interviewer: Dr. Ladd
+
+Foreword: After Dr. Ladd's communication techniques with the females of the SCP-1495 herd were deemed suitably successful, site command requested he conduct an interview with the oldest female to gain further insight into the nature, capabilities, and motives of SCP-1495. SCP-1495-5 has a 2000 word English vocabulary and a rudimentary grasp of spelling. Responses were written by SCP-1495-5 with her trunk on a large chalk board.
+
+Note: Dr. Ladd addresses SCP-1495-5 as "Panca," the Hindi word for five. This is the name used by the daily handlers. The handlers assigned unique names for the sake of communication with individual subjects.
+
+<Begin Log>
+
+Dr. Ladd: Good morning Panca
+
+SCP-1495-5: HI LAD
+
+Dr. Ladd: Panca, I will be asking you questions. Answer them as best you can. Do you understand?
+
+[SCP-1495-5 nods yes]
+
+Dr. Ladd: Thank you. Panca, can you talk to other animals besides people?
+
+SCP-1495-5: NOT ME
+
+Dr. Ladd: Another one?
+
+[SCP-1495-5 nods yes]
+
+Dr. Ladd: Is it the males?
+
+[SCP-1495-5 gestures to indicate that she does not understand]
+
+Dr. Ladd: Is it Balthazar, Melchior, or Gaspar? Note: the handlers' names for SCP-1495-2, -3, and -4.
+
+[SCP-1495-5 nods yes]
+
+Dr. Ladd: Balthazar, Melchior, and Gaspar can talk to other animals?
+
+[SCP-1495-5 nods yes]
+
+Dr. Ladd: Panca, what do Balthazar, Melchior, and Gaspar tell the animals to do?
+
+SCP-1495-5: GOOD
+
+Dr. Ladd: Do they ever tell the animals to kill people?
+
+[SCP-1495-5 nods yes]
+
+Dr. Ladd: Who do Balthazar, Melchior, or Gaspar want to kill?
+
+SCP-1495-5: NO WANT
+
+Dr. Ladd: Who do Balthazar, Melchior, or Gaspar tell the animals to kill?
+
+SCP-1495-5: WITH PAPA
+
+Note: Papa is not a word that has been taught to any of SCP-1495
+
+Dr. Ladd: With father?
+
+SCP-1495-5: NO WITH PAPA
+
+Dr. Ladd: Panca, why do they tell the animals to kill?
+
+SCP-1495-5: BALANS Note: most likely "balance"
+
+Dr. Ladd: Balance?
+
+[SCP-1495-5 nods yes]
+
+Dr. Ladd: Panca, what is papa?
+
+SCP-1495-5: BAD
+
+Dr. Ladd: Papa is bad?
+
+[No response]
+
+Dr. Ladd: Panca, tell me about papa.
+
+SCP-1495-5: NO MOR LAD
+
+[SCP-1495-5 places the chalk at the feet of Dr. Ladd and walks out of the enclosure.]
+
+<End Log>
+
+Closing Statement: It was later determined that "PAPA" may have been meant to be the Hindi word पाप/pāpa which roughly translates as "sin" or "misdeed"

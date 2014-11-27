@@ -1,0 +1,201 @@
+An instance of SCP-2500-A
+
+Item #: SCP-2500
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to the nature of SCP-2500-A, complete containment of the phenomena may currently be unfeasible. Foundation efforts are currently concentrated on finding means to more effectively identify and isolate Visitation Events and on limiting public exposure to SCP-2500-A. Identified instances of SCP-2500-B are to be held in a Standard Humanoid Containment Units and observed constantly. Due to their general ineffectiveness and the greater efficiency of passive or covert monitoring, interviews with instances of SCP-2500-B are currently discontinued.
+
+Description: The phenomena designated SCP-2500 is divided into two distinct but interconnected parts:
+
+SCP-2500-A are incorporeal entities, comprised of strands of currently unidentified luminous matter, typically arranged in loose, vaguely spherical shapes. Instances of SCP-2500-A vary in size (recorded external radius of between 30 cm and 5 m), coloration (from bright red to deep blue) and cadence of light patterns. Instances of SCP-2500-A typically appear shortly following visible meteor showers (for full analysis of the required optical conditions for the appearance of SCP-2500-A, see Document SCP-2500-E21).
+
+Following their appearance, instances of SCP-2500-A will attempt to make contact with specific individuals (designated SCP-2500-B), initiating what has been designated a Visitation Event. During such events, two instances of SCP-2500-A will address the chosen SCP-2500-B in its native tongue (if alive), accompanied by visual cues in the form of either dimming or intensifying their luminescence. SCP-2500-B will always recognize SCP-2500-A, typically treating them with a degree of familiarity. After the conversation is concluded, both instances of SCP-2500-A will leave, seemingly dissipating. Additional effects may occur depending on the physical state of the chosen instance of SCP-2500-B during the beginning of the Visitation Event:
+
+Subtype A: SCP-2500-B is in good physical health. Following the conclusion of the Visitation Event and depending on its conclusion, two contingencies exist: the Visitation Event may conclude with no additional effects to SCP-2500-B, or both instances of SCP-2500-A will make physical contact with SCP-2500-B, briefly absorbing it into their forms. Following this contact, all higher brain functions in SCP-2500-B will immediately cease and a third instance of SCP-2500-A will be created. All instances of SCP-2500-A will then dissipate.
+
+Subtype B: SCP-2500-B is on the verge of death. Following the conclusion of the conversation, SCP-2500-B will expire. One or both instances SCP-2500-A will then make momentary contact with its corpse. During contact, a notable increase in luminosity and pattern speed in SCP-2500-A has been observed.
+
+Subtype C: SCP-2500-B has expired. One or both instances SCP-2500-A will make momentary contact with the corpse. No increase in luminosity or pattern speed noted.
+
+Of the one hundred and seventy-three recorded Visitation Events, twenty-three were identified as Subtype-A (sixteen of which ended with the death of the involved instance of SCP-2500-B), ninety-seven as Subtype-B, and fifty-three as Subtype-C.
+
+No common features (age, race, gender or creed) have been identified in instances of SCP-2500-B. Instances of SCP-2500-B show no unusual physical, psychological or metaphysical traits prior to or following contact with SCP-2500-A. SCP-2500-A will ignore both verbal prompts and physical contact by individuals not chosen by them. Attempts to physically contain instances of SCP-2500-A have thus far failed.
+
+Addendum 2500-A: Incident Log SCP-2500-Aleph (June 1916, Verdun, France)
+
++ Show Log SCP-2500-Aleph
+
+- Hide
+
+Foreword: The following conversation between two instances of SCP-2500-A (originally designated SCP-2500-A-RED and SCP-2500-A-GREEN) and an instance of SCP-2500-B (Sergent █████ ████████ of the French 33rd Infantry Regiment, heavily injured by machine-gun fire, henceforth SCP-2500-B-1) was recorded by the order of ███████ ██████ █████████, commander of the HMFSCP force present at the location of the battle for unrelated reasons. This is the first recorded appearance of SCP-2500-A, and therefore the first recorded Visitation Event.
+
+<Begin Record>
+
+SCP-2500-B-1: Oh. Hey there.
+
+SCP-2500-A-RED: Your legs are gone.
+
+SCP-2500-A-GREEN: You will not walk again.
+
+SCP-2500-A-RED: You are broken.
+
+SCP-2500-A-GREEN: You are dying.
+
+SCP-2500-B-1: Don't. Just don't. You're not going to talk me out of this.
+
+SCP-2500-A-RED: It is enough. Your sample is sufficient, more than that. The Consciousness will benefit. You do not have to do this anymore. We may still leave.
+
+SCP-2500-A-GREEN: We are here to collect, here to deliver. It is time to return.
+
+SCP-2500-B-1: Don't give me that. Don't say that when you know I can't go.
+
+SCP-2500-A-RED: We have told you, it is enough. Further suffering will weaken your link to the Center. Beyond repair.
+
+SCP-2500-A-GREEN: Collection will be assured, but delivery… no. If we go now, we cannot return. Cannot guarantee you will ever be able to return.
+
+SCP-2500-B-1: I can't leave! I'm not done… I can still feel.
+
+SCP-2500-A-RED: You have endured more than your flesh could take. This collection is complete.
+
+SCP-2500-A-GREEN: There is nothing left to learn.
+
+SCP-2500-B-1: All I learned was how it feels to have your legs chewed off by a machine gun! That's… That's not enough. This isn't all we need. It'll be flawed.
+
+SCP-2500-A-RED: Replacement will be found.
+
+SCP-2500-A-GREEN: Deductions, simulations. Death is a constant, and the Consciousness is vast. The difference will be minute, nigh indistinguishable.
+
+SCP-2500-B-1: Now you're just lying to yourselves. You can't simulate this, not the way it should be. Not the way the light keeps winking out, not the numbness in those places where the blood isn't really reaching anymore. No that sour stench of it all.
+
+SCP-2500-A-RED: [luminescence dims, patterns slow] You will not be able to return. You will be lost.
+
+SCP-2500-A-GREEN: Do not do this. Please.
+
+SCP-2500-B-1: I'm sorry… I really am. But that's the way things have to be. It can't be for nothing, all of this. My legs… It can't all be for nothing…
+
+SCP-2500-A-RED: You will not be swayed.
+
+SCP-2500-A-GREEN: We see it now.
+
+SCP-2500-A-RED: You are lost to us.
+
+[SCP-2500-B-1 nods, begins to weep]
+
+SCP-2500-B-1: You let them know. You let it see what I did. What I let them do to me. You take it all, don't you dare waste it. I'm so happy I got to see you, at least this one last time. You tell them what I did. You tell them I felt it all… I felt it all.
+
+SCP-2500-A-RED: We witness.
+
+SCP-2500-A-GREEN: We will remember.
+
+SCP-2500-A-RED: We promise.
+
+<End Record>
+
+Aftermath: SCP-2500-B-1 expired shortly after this conversation. Following its death, SCP-2500-A-RED and SCP-2500-A-GREEN briefly made contact with its corpse before dissipating. Log was delivered by Commander █████████ to HMFSCP HQ in London and given the designation E-357-A.
+
+Addendum 2500-B: Incident Log SCP-2500 Lamed-Vav (██/██/████,Site 53)
+
++ Show Log SCP-2500 Lamed-Vav 
+
+- Hide
+
+Foreword: The following conversation was recorded between two instances of SCP-2500-A (designated for the purpose of this log SCP-2500-A-BLUE and SCP-2500-ORANGE) and an identified, contained instance of SCP-2500-B (identity unknown, designated SCP-2500-B-167). SCP-2500-B-167, a drifter, has been contained following a previously witnessed Visitation Event, and has been subject to two additional such events during its containment. SCP-2500-B-167 has been uncooperative to Foundation inquiries concerning SCP-2500-A.
+
+<Begin Log>
+
+SCP-2500-A-BLUE: We return.
+
+SCP-2500-B-167: So I see.
+
+SCP-2500-A-ORANGE: Will you come with us now?
+
+SCP-2500-B-167: Do we really need to go over this again? Nothing's changed. I'm not done.
+
+SCP-2500-A-BLUE: You have been a captive here for over five years.
+
+SCP-2500-A-ORANGE: Is that not enough? Did you not learn all that you needed to learn?
+
+SCP-2500-B-167: You know what's my answer is going to be.
+
+SCP-2500-A-BLUE: We do not understand this stubbornness.
+
+SCP-2500-B-167: You do. You're playing dumb with me, but you do. I went into this with my eyes open, and I'm going to see this through.
+
+SCP-2500-A-ORANGE: But why this? There are endless sensations to be had, experiences beyond counting. The Consciousness needs them all, will always need them all.
+
+SCP-2500-A-BLUE: Let another take this role. Allow them to share your burden. They would do so, willingly.
+
+SCP-2500-B-167: No. They can’t… they won’t do it right. It has to be me.
+
+SCP-2500-A-ORANGE: [luminescence intensifies] Do you not see what you do to yourself?
+
+SCP-2500-A-BLUE: How your glow grows ever dimmer?
+
+SCP-2500-A-ORANGE: You suffer not for the Consciousness, but for yourself.
+
+SCP-2500-A-BLUE: You are an addict, a glutton for pain.
+
+SCP-2500-A-ORANGE: You are selfish. Do you not see what you do to yourself?
+
+SCP-2500-A-BLUE: Do you not see what you do to us?
+
+SCP-2500-B-167: I’m… I’m sorry. I realize this isn't easy for you, and it's not any easier for me. You know that if it was up to me, I'd leave with you this second.
+
+SCP-2500-A-ORANGE: Then why? Why do you refuse us?
+
+SCP-2500-B-167: Because I have a responsibility. Because it’s what I’m best at. What I’m used to, what I'm good at. It's hard to explain. You know we each have our talents, right? The sensations, the experiences, the stuff we’re most easily attuned to? The stuff that connects with us just right, that lets us send the Consciousness the most lucid images possible, the best possible understanding of what we feel? For some it’s joy, for others it’s exhilaration, or intellectual contemplation, or lust. But for me, it's suffering. Being tired, or hungry, or dirty, or sick. I can feel it better than any of the others. I've been attuned to it for all of my time here, working on it, maximizing my exposure to it. For-
+
+SCP-2500-A-BLUE: Seventy years, three months, two weeks, five days and thirteen hours. Seventy years. Of this.
+
+SCP-2500-A-ORANGE: When will it end? When is enough?
+
+SCP-2500-B-167: You've seen how I lived before. You see where I am now, and what they do to me. What do you think?
+
+SCP-2500-A-BLUE: Do you say that we must go? That we must leave you like this?
+
+SCP-2500-A-ORANGE: For the greater understanding. For the wholeness of the Consciousness. Of the Boundless Project.
+
+[Conversation pauses for approximately ninety seconds]
+
+SCP-2500-A-BLUE: It is bitter to us.
+
+SCP-2500-A-ORANGE: Our great undertaking.
+
+SCP-2500-B-167: Just… just go. I'm alright. I’ll be fine. I always am, aren't I?
+
+SCP-2500-A-BLUE: Your words are empty, but we see what lies behind them.
+
+SCP-2500-A-ORANGE: It is what it is. We are what we are.
+
+SCP-2500-A-BLUE: We will miss you.
+
+SCP-2500-A-ORANGE: We always do. We will always lo-
+
+SCP-2500-B-167: Don’t! Don’t say it. I can’t hear it. Can’t be tainted by that. It has to be pure.
+
+SCP-2500-A-BLUE: We understand. We shall leave you to your work.
+
+SCP-2500-A-ORANGE: Until the next time.
+
+[SCP-2500-BLUE and SCP-2500-ORANGE dissipate]
+
+SCP-2500-B-167: Yeah. Next time.
+
+Aftermath: Following Incident Lamed-Vav, SCP-2500-B-167 began to exhibit increasingly acute signs of chronic insomnia, often spending upwards of twenty-seven hours without sleep. This condition in turn caused in SCP-2500-B-167 what was diagnosed by Foundation physicians as episodes of exhaustion-induced hallucinations. During these episodes, SCP-2500-B-167 would pace its Containment Unit, moving its hands in circular motions and repeating the following phrases:
+
+From the distant glow we came, on scroll-work wings of flame, to seek a truth in existence.
+
+Young. Driven. Ambitious.
+
+Blind.
+
+In fields of clay, I see us all. On hands and knees we do not truly possess, beneath these foreign, ever frozen stars, we toil without end, without rest. Our blazing tails, our shimmering intellect, the vastness of the road that led us here, the magnitude of our task, they all sink into the muck, and I can no longer see. You said it was for something. You said that among this living clay, we will find our brilliance, the singular answer to every question, to questions not yet born. But… I cannot see it. From mud and blood, we make bricks, but where is the tower? Where is that great edifice, that all-knowing face, so hardly earned? I cannot see it. All I see is this alien flesh, and it blinds me. All I hear is the background noise of this false breath, carrying me on to where I never wanted to go. All I feel is the trembling of these clumsy digits, so caked in mud that I can no longer even recognizes their once familiar lines. The lines you left me.
+
+[Here, SCP-2500-B-167 typically ceases to speak and pace for approximately thirty seconds, before continuing]
+
+I put on a brave face, a face which long since lost its youth, and I tell you it's all for the best. That I know what I'm doing, that this is what I want. It's became such an easy lie after so long. I have forgotten what it is to feel without a motive, to think without purpose. I have made myself an instrument, an unfeeling neuron in this grand, uncaring Consciousness, a flake of dust in a galaxy of infinite thought. This was to be our greatest achievement. This is what we all dreamed about, isn't it? What I dreamed about, for so very long?
+
+So why is it that the only thing I want is to go home?
+
+Mom… Dad… I just want to go home.

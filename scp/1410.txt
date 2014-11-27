@@ -1,0 +1,37 @@
+SCP-1410
+
+Item #: SCP-1410
+
+Object Class: Euclid
+
+Special Containment Procedures: : SCP-1410 is to be kept in its designated containment area within Site-30. SCP-1410 is to be moved between the four chambers of the containment area as dictated by the color of its perspirations and the interpretation of the supervising researcher in order to minimize the creation of instances of SCP-1410-1:
+
+- Chamber 1410-A (Yellow): chamber 1410-A was converted from Site-30’s secondary auditorium. SCP-1410 is to be kept on a pedestal in the center of chamber-1410-A if displaying claustrophobic tendencies. If displaying agoraphobic tendencies, SCP-1410 is to be kept in a metal container at the base of the pedestal.
+
+- Chamber 1410-B (Red): chamber 1410-B is a steel vault. When SCP-1410 is kept in chamber 1410-B, an armed guard is to be stationed inside the chamber in order to create a reassuring environment for SCP-1410.
+
+- Chamber 1410-C (Blue): chamber 1410-C is a standard humanoid containment cell, converted to a nursery. Chamber 1410-C is to be painted in soft, muted colors and include toys meant for young children, preferably plush animals. SCP-1410 is to be placed in a crib in the left corner of the chamber, and two personnel involved in the containment of SCP-1410 are to be stationed with it. Said personnel are not to be armed.
+
+- Chamber 1410-D (Green): chamber 1410-D is a standard humanoid containment cell, converted to a mock infirmary. Chamber 1410-D is to be painted white, and contain assorted medical equipment (said equipment does not need to be genuine). SCP-1410 is to be kept on a patient’s bed in the middle of the chamber, and one personnel involved in the containment of SCP-1410 is to be stationed with it at all times, dressed in scrubs. SCP-1410 is to be wiped with disinfectant every hour while in chamber 1410-D.
+
+Description: SCP-1410 is a water-smoothed stone, resembling the type found in cave complexes in the █████ mountains. SCP-1410 appears to possess a limited degree of sapience, which is connected to the chromatic perspirations it emits at regular intervals or upon contact with instances of SCP-1410-1. SCP-1410-1 is comprised of a number of optical illusions created by SCP-1410, whose exact nature is contingent on the same perspirations. SCP-1410 does not seem to be aware that it is the source of SCP-1410-1, and will react negatively to them, increasing its rate of perspiration and thus the creation of additional instances of SCP-1410-1 the longer it is in contact with them. Regardless of subtype, instances of SCP-1410-1 will only acknowledge the existences of SCP-1410, and will entirely ignore all else.
+
+Physical contact with SCP-1410 enables a one-sided communication with it, though it is mostly limited to SCP-1410 broadcasting vague phrases and emotions at whoever touches it. The subtypes of perspiration and the instances of SCP-1410-1 connected to them are as follows:
+
+Yellow Subtype: when emitting this perspiration, SCP-1410 will broadcast phrases and emotions connected with claustrophobia, agoraphobia, and guilt, often alternating between the former two every few hours. Yellow instances of SCP-1410-1 appear as young adults of both sexes, dressed in clothes indicating a high socioeconomic background and artistic tendencies, and suffering from wounds afflicted by makeshift weapons. Yellow instances of SCP-1410-1 will attempt to surround SCP-1410 and attack it, though due to their incorporeal nature those attacks are ineffective. Yellow perspiration will decrease if SCP-1410’s claustrophobia or agoraphobia is dissuaded.
+
+Example of phrasing used during Yellow Subtype: “I was trapped. They were there with me, but they couldn't understand, they weren't like me, not at all. Blind to the voices, to the dark, to the stifling air and the walls always closing down, always growing closer. To the Ichor always calling me to create beauty from them. I had to do it, had to make them beautiful, for her. How quickly did she grow bored with me and left me for what was left of them. They will never stop, closing on me like the walls I painted with them.”
+
+Red Subtype: when emitting this perspiration, SCP-1410 will broadcast phrases and emotions connected with paranoia and anger. Red instances of SCP-1410-1 appear as tall, black-suited humanoids, possessing four eyes, elongated noses, and no ears. Red instances of SCP-1410-1 will attempt to observe SCP-1410 from a distance, often appearing several hundred meters from SCP-1410. Red perspiration will decrease if SCP-1410 is made to feel safe from being observed or approached by instances of SCP-1410-1.
+
+Example of phrasing used during Red Subtype: “It was all their fault! All we did was have some fun at their expense, attempted to bring some creativity to their drab, hollow world. If they hadn't chased us, I never would have left, never would have entered those caves, never would have heard the Ichor’s voice, never would have… but they just keep looking at me, even after they ruined me. They just won’t go away!”
+
+Blue Subtype: when emitting this perspiration, SCP-1410 will broadcast phrases and emotions connected with depression and loneliness. Blue instances of SCP-1410-1 appear as pairs, always comprised of one young adult female and one male toddler. Instances of SCP-1410-1 will pointedly ignore SCP-1410. Blue perspiration will decrease if SCP-1410 is exposed to comforting imagery, particularly related to early childhood.
+
+Example of phrasing used during Blue Subtype: “Anny, Harry… I’m so sorry. Would you at least look at me? Just once? I promise I won’t do the same to you, I know better now. She tricked me, used me, she- nothing I can say can make this better, can it? It’s too late. I’m alone now.”
+
+Green Subtype: when emitting this perspiration, SCP-1410 will broadcast phrases and emotions connected to pain, disgust, and dread. Green instances of SCP-1410-1 appear as various crude works of art, seemingly created using parts of the human body, with bones, hair, teeth and nails being the most prevalent. Green instances of SCP-1410-1 will furnish the room SCP-1410 currently occupies. Green perspiration will decrease if SCP-1410 believes it is exposed to medical care and disinfectant in particular.
+
+Example of phrasing used during Green Subtype: “Here it is, the culmination of my life’s work. How could I have ever believed that they were beautiful? That she was? She made me shape the rest into these…playthings of hers, and when she was done with them, she made me into one. I used to be different, but I can’t remember what I was anymore. Her oily film covers me, and all I can see is her. I just want to be whole again. To be clean again.”
+
+SCP-1410 was found embedded in the outer wall of Site-30 during a routine security check, surrounded by Yellow instances of SCP-1410-1. SCP-1410 was removed from the wall and taken inside Site-30. Current containment procedures were established after repeated contact with SCP-1410.

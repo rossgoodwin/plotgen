@@ -1,0 +1,91 @@
+The original instance of SCP-1035 is to the right, and was recovered following the death of Sally ██████. The instance on the left was recovered █ days ago. Note the similarity in appearance.
+
+Item #: SCP-1035
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1035 is to be kept at Site 19’s Biological Storage Facility while research into its properties continues. Level-3 researchers assigned to the [REDACTED] Project may request the use of SCP-1035 for research provided that requisition forms for D-class personnel are filed at least 1 week prior. Materials that have been exposed to SCP-1035 for extended periods of time are to be treated as Class 2 Biohazards and incinerated.
+
+Description: SCP-1035 is a pink woolen mitten, probably handmade, intended for wear by a small child. Interviews with the family suggest that another mitten of similar appearance was lost up to █ months prior to discovery; its current location, and whether it shares SCP-1035’s effects, is unknown. It is difficult to determine the precise date and time at which SCP-1035 began to manifest its effects, although extrapolation from currently available medical records suggests that the effects first began during late February, 19██.
+
+SCP-1035 first came to the attention of the Foundation as a result of a Foundation asset embedded at ████████ Memorial Hospital, who at the time was investigating a possible [DATA EXPUNGED]. As a result of his position at the hospital, he was a witness to the death of Sally ██████ during emergency surgery, the first recorded fatality as a result of long-term SCP-1035 exposure. All civilians involved, including the parents of the child and medical staff, were administered varying doses of amnesiacs and a cover story was spread involving a case of necrotizing fasciitis. Shortly thereafter, Agent ███████ was able to safely recover SCP-1035 from the ██████ family.
+
+Any organic matter placed within SCP-1035 begins to enter a rapidly accelerated state of decomposition. Short-term exposure to SCP-1035 (less than 2 consecutive hours) is usually not harmful to healthy human beings, as the human immune system is generally able to cope with the effects of SCP-1035. Visible symptoms will begin to be displayed after approximately 2 hours of exposure, and by 24 hours health complications will usually have progressed to the point that the subject’s death is all but inevitable. Nonliving substances, non-human life, and human subjects with pre-existing health conditions may experience different effects from exposure to SCP-1035, especially [DATA EXPUNGED]. For a more comprehensive outline of SCP-1035’s effects and an overview of experimentation on SCP-1035, see Document-1035-█.
+
+Exposure to SCP-1035 is cumulative, and repeated short-term exposure to SCP-1035 can be fatal. Humans who have experienced 2 hours of exposure to SCP-1035 may require over a week to return to full health.
+
+The following chart is based on information from Document-1035-█, and details the typical progression of symptoms in human subjects affected by SCP-1035:
+
+Less than 2 hours of exposure
+
+No visible effects. White blood cell counts in affected subjects may fluctuate slightly.
+
+Between 2 hours and 4 hours of exposure
+
+Subjects report slight tenderness in affected areas. Affected area, especially joints, may appear to be inflamed or swollen. White blood cell count in the affected area plummets.
+
+Between 4 and 6 hours of exposure
+
+Subjects report discomfort and soreness when attempting to move affected areas. Small patches of the affected area may appear lighter than surrounding areas, possibly as a result of the [DATA EXPUNGED]
+
+Between 6 and 8 hours of exposure
+
+Open sores begin to develop on affected areas, and any preexisting injuries become greatly aggravated. Abnormal amounts of a serous fluid may leak from these sores.
+
+Between 8 and 10 hours of exposure
+
+Subjects begin to display symptoms of sepsis. Toxins from the affected area (especially ███████████████) will begin to spread to the rest of the body.
+
+Between 10 and ██ hours of exposure
+
+Abnormal fungal growth has been observed in 7█% of test subjects at this stage. Subjects may contract various nonfatal illnesses during this stage as a result of immune system failure.
+
+Between ██ and ██ hours of exposure
+
+[DATA EXPUNGED]
+
+More than 24 hours of exposure
+
+Almost total necrosis of affected regions. By this point, the combined effects of septic shock and [DATA EXPUNGED] will have all but ensured the death of the subject. █ subjects have survived late-stage SCP-1035 exposure for as long as ██ days following extraordinary lifesaving work by medical personnel. Amputation is effective in preventing other body parts from experiencing the effects of SCP-1035. Requests to test SCP-1035 in conjunction with SCP-500 and other medical-based SCPs have been denied.
+
+Supplemental Material:
+
+Interview 1035-1
+
+close
+
+The following is a transcript of an interview that took place on February ██, 19██.
+
+Agent ███████: How are you feeling, Sally?
+
+Sally ██████: …feel cold. Can't feel most of my arm. Will I be okay?
+
+Agent ███████: Sure you will. I just need to ask a few questions. When did you first put on that pink mitten?
+
+Sally ██████: I don't know. Does it matter?
+
+Agent ███████: It does. Please answer the question.
+
+Sally ██████: I don't know! Last week? It was a present. Grandma made it. Will I—
+
+Agent ███████: You'll be fine. Now, Sally, we're going to have to operate on your arm. It won't hurt—
+
+Sally ██████: They won't let me see my arm, doctor. Does it look better? Please…
+
+At this point the patient began crying and would not respond to further questions.
+
+Agent ███████: This interview is over. The medical staff here wants us to amputate. There is nothing more to learn by studying her symptoms, and there's no way that she'll live with that arm. This one's for Anomalous Infections to sort out. Agent ███████, signing off.
+
+Note: Despite heroic lifesaving attempts, Sally ██████ died due to complications from exposure to SCP-1035. The family was later interviewed by Foundation personnel. Nothing extraordinary was unearthed from later investigations. Surveillance of the family was lifted on March █, 19██.
+
+Interview 1035-2
+
+close
+
+The following is a transcript of an interview with Dr. █████, who founded the [REDACTED] Project.
+
+Dr █████: Once the initial 24 hour period has passed, it is safe to say that further decay of the affected areas does not occur. In fact, the increased rate of decomposition has only been observed in objects completely enclosed within SCP-1035. So, for example, if I stick my hand in this thing, before long that hand's gonna rot off, but my shoulder should be alright.
+
+That doesn't mean, of course, that the rest of my body will be perfectly fine. Have you read up on warfare back in, say, the nineteenth century? One of the really big problems back then was gangrene and things like that—you know what happens when parts of you die? Not good. Oftentimes the areas hit really bad end up as, basically, massive bacteria breeding centres. It's not a problem you want to deal with. That doesn't even take into account the way that thing speeds everything up. You think that Clostridium perfringens is bad? Try Schistosoma. Hell, we've identified close to a hundred new parasites with this. Requesting more D-class personnel for further experimentation. There's a lot that we could learn from this.
+
+Addendum: Since the writing of this article, █ additional objects of clothing have been recovered by Foundation agents bearing similar properties to SCP-1035. These objects are awaiting SCP classification, and are to be designated SCP-1035-2 through █ (the original instance of SCP-1035 will be redesignated SCP-1035-1). The [REDACTED] Project has been tasked with examining the properties, applications, and source of SCP-1035 instances.

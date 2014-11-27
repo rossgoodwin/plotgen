@@ -1,0 +1,57 @@
+Item #: SCP-1702
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1702 is contained in a sealed, re-purposed hangar at Humanoid Containment Site-06-3 which has been fitted with reinforced concrete honeycomb structures. SCP-1702 is to be provided 500 kg of food and mineral supplements daily via automated delivery systems, consisting of material as outlined in Document 1702-06.
+
+Experimentation with SCP-1702 requires prior permission from at least two (2) Level 3 Senior Researchers and direct contact with SCP-1702-1 may only be performed with direct oversight from Site Command. Personnel entering SCP-1702's containment area must wear lightly-colored, reinforced biohazard suits with full re-breathing equipment and must be quarantined for a minimum of six (6) hours after exiting the area. In case of aggression from SCP-1702 or at the discretion of operational oversight, SCP-1702's containment area is to be flooded with smoke and all personnel must proceed directly to the nearest exit. Personnel that fail to report to an exit are effectively unrecoverable and will be declared KIA.
+
+Description: SCP-1702 is a species of apian humanoids consisting of a hive with a single fertile queen and several hundred sterile workers. SCP-1702 specimens have an appearance analogous to normal humans with the notable exception of several prominent apian structures, including antennae extending from their heads and chitinous skin along their backs and limbs. SCP-1702 also have similar internal physiology with the notable addition of a compound stomach with a chamber capable of processing organic material and raw minerals into a substance resembling human bone that can then be regurgitated and used in hive construction and repairs.
+
+SCP-1702-1 is the queen, a large fertile female approximately 2.1 m in length and the only member of SCP-1702 capable of reproduction, typically laying up to thirty (30) eggs per day. Highly intelligent, SCP-1702-1 is capable of communicating with personnel in a previously unknown dialect of French and has proven highly cooperative as well as being the source of most of our knowledge regarding SCP-1702's behavior and hive mechanics.
+
+SCP-1702-2 are male specimens which are only present during the beginning of a mating cycle and have only been encountered once while in Foundation containment (See Incident 1702-05). SCP-1702-2 appear to be only minimally intelligent and did not respond to attempts to communicate by Foundation personnel. At the end of the mating cycle, all SCP-1702-2 specimens were systematically driven away from the hive or killed.
+
+SCP-1702-3 are sterile female workers, currently approximately three hundred and forty (340) in number, responsible for construction and cleaning of the hive's physical structure and nurturing young. SCP-1702-3 also tend to SCP-1702-1 and are responsible for feeding, cleaning, grooming and inducing egg-laying in the queen. SCP-1702-3 appear to be highly intelligent and capable of complex problem solving and logistics but appear to have vestigial vocal cords and have not responded to attempts to communicate. SCP-1702-3 only have a lifespan of approximately five (5) years.
+
+SCP-1702 was first discovered in the Paris catacombs circa 1944 by members of the French resistance during World War II, who were able to broker safe passage through SCP-1702's hive in return for living German prisoners of war. SCP-1702 was re-discovered in 19██, after which a Foundation containment team was able to convince SCP-1702-1 to relocate to Bio-Containment Site 63, citing the effect of urban expansion on its environment and the possibility of being discovered. It is not known at this time whether French government officials were aware of SCP-1702's existence in the intervening time period.
+
+Addendum 1702-01: Researcher Note (translated from French)
+
+SCP-1702-1 has proven a challenge to communicate with. Aside from its unusual dialect, it is also in a constant state of incoherence and delirium consistent with intoxication which I suspect to be a side effect of the pheromones that it is constantly exposed to. On its own, SCP-1702-1 does nothing but wander the hive and must be guided by its workers whenever its eggs are needed.
+
+Despite these issues, SCP-1702-1 has nonetheless been a valuable resource and provided important insight into itself and its hive. I also believe that it may consider me to be a "friend" at this stage, and I may be able to leverage that trust.
+
+Dr. M. Colette
+
+Senior Researcher
+
+Addendum 1702-02: Researcher Note (translated from French)
+
+Despite extensive experimentation, it appears that SCP-1702 requires a minimum of human biological material to reproduce properly; attempts at limiting SCP-1702 to strictly non-human material resulted in the birth of unhealthy workers and caused considerable distress to the hive as a whole.
+
+At the insistence of SCP-1702-1 and with Oversight approval, SCP-1702 is to be provided a new diet as outlined in Document 1702-06, which is to consist of no less than 5% human biological material processed from [REDACTED] and, only if absolutely necessary, terminated Class D personnel.
+
+Dr. M. Colette
+
+Senior Researcher
+
+Addendum 1702-03: Incident Report 1702-05
+
+On █/██/██, during contact conducted by four (4) personnel including Dr. Colette and Dr. █████████, SCP-1702-1 reportedly entered a state of lucidity, during which it suddenly pleaded with personnel to be rescued from its hive. SCP-1702-3 specimens tending to SCP-1702-1 then began to enter an aggressive state, which prompted Oversight to terminate proceedings. Dr. █████████ and Agent █████ were able to escape containment unharmed, but Dr. Colette and Agent ███████ were unable to escape the containment area and were subsequently declared KIA.
+
+A camera carried by Agent ███████ continued to transmit audiovisual data for approximately 2 minutes and 17 seconds before being cut off. Footage recorded showed SCP-1702-1 apparently being attacked and torn apart by SCP-1702-3 specimens while screaming in pain.
+
+Addendum 1702-04: Incident Report 1702-06
+
+For a period of approximately thirty five (35) days following Incident 1702-05, SCP-1702 remained highly aggressive and resisted all attempts by personnel to enter its hive. After SCP-1702 calmed down sufficiently for safe passage, two (2) armed and armored personnel were dispatched into SCP-1702's containment area to investigate.
+
+Personnel reported that not only did they locate SCP-1702-1, but the queen appeared to be unharmed. Recorded footage indicates that while the queen has the exact same appearance, behavior and personality, SCP-1702-1 no longer has any memory or recollection of events prior to Incident 1702-05.
+
+Addendum 1702-05: Researcher Note
+
+Just as in nature, SCP-1702's queen appears to be a prisoner of the hive. So long as she is perfect and productive, the workers will pamper and protect her, but the moment she becomes "damaged", they will turn on and replace her. To the best of our knowledge this is not the same queen any more, just a replacement crafted to the same "perfect ideal" that the hive expects and requires. That the tissue sample the containment team managed to procure shows a DNA match for Dr. Colette only reinforces this theory.
+
+Dr. █████████
+
+Senior Researcher

@@ -91,7 +91,7 @@ void draw() {
   textAlign(LEFT, BOTTOM);
   fill(108, 122, 137);
   noStroke();
-  text("CONFLICTS", 50, 580);
+  text("CONFLICT", 50, 580);
   
   for (int i=0; i<conflictButtons.length; i++) {
     conflictButtons[i].display();

@@ -1,0 +1,45 @@
+SCP-930
+
+Item #: SCP-930
+
+Object Class: Euclid
+
+Special Containment Procedures: An island several kilometres south has been substituted as the original island for the purposes of regional documentation. Maps or works which record otherwise are to be confiscated and destroyed, or modified to remove SCP-930's existence. Security stations have been established on █ nearby islands to observe passing vessels. Should any ship approach within 1.25 km of SCP-930, it is to be intercepted and the crew detained, pending issue of class-A amnesiacs. Should SCP-930-1, [REDACTED] flee from SCP-930, SCPS Guardian is authorized to commence long-range incendiary bombardment.
+
+Description: SCP-930 is a tropical island located at 22.██████°S, 134.██████°W, formerly known as ██████████ by the local populace. SCP-930 is approximately 710 m in diameter, with a range of 680-760 m, although accurate shoreline measurements are impossible due to manifestation of SCP-930's primary effects. Refuse retrieved during exploration attempts suggest that humans may have once lived on the island. Flora consists primarily of the Poaceae and Meliaceae families; however, aerial photography of SCP-930's canopy has revealed a number of introduced species also populate the island.
+
+Several species of birds, dubbed SCP-930-1, inhabit SCP-930. Although the island is located in the South Pacific, carcasses of species native to North America and Australia have been found washed onto the shore after presumably expiring mid-flight. Fowl introduced to the island become instances of SCP-930-1 if released for extended periods, usually 2-56 hours. Studies of social interaction between SCP-930-1 and introduced bird species show that exhibited behaviour is primarily the species' standard for a predation warning, although no fauna has been discovered on SCP-930 which preys on SCP-930-1.
+
+SCP-930-1 Event Dissipation
+
+Sea-faring vessels, such as boats or personal watercraft, trigger an immediate response from SCP-930-1 when approaching SCP-930's shore. SCP-930-1 entities will take flight and circle the island. Attempts to deter SCP-930-1 have no effect, including the use of gunfire and explosives. SCP-930-1 will increase in numbers steadily, reaching peak concentration roughly 7.0 minutes after the phenomenon is triggered.
+
+SCP-930-1 activity usually covers between █.█ to ██.█ square kilometres. Ships that run aground or come to a complete stop at the shoreline will cause all active instances of SCP-930-1 to become aggressive, targeting the vessel and driving exposed crew to cover.
+
+SCP-930-1 shows hostility towards humans after they disembark, to the extent of inflicting non-lethal wounds. It appears that SCP-930-1 will not intentionally kill humans. Extensive attacks usually result in intruders fleeing from the island. Only then will SCP-930-1 cease its activities and return to a passive state.
+
+Addendum-930-1: On ██/██/████ EX-Y7 successfully landed on SCP-930 and retrieved █ specimens of SCP-930-1 for Foundation study. Upon further investigation of SCP-930, EX-Y7 recovered samples from ██ articles of clothing (heavily degraded), █ discarded personal electronic devices (heavily degraded, non-functional), Document-930-1 (degraded), █ human bodies (all showed evidence of massive external trauma), █ cameras (█ non-functional, 1 functional).
+
+Document-930-1:
+
+[BEGIN]
+
+██/██/████
+
+My name is H█████ W██████, and I am the last survivor of the USS Kete, out of a crew of 87. Two weeks ago, 19 of us were marooned on this island. Our vessel had been hit by a mine west of the Ryukyu Islands. We drifted for days before the repairs became unmanageable, and we were forced to abandon ship. Most of us were lost after storms separated our lifeboats, but two of them reached this island, mine included.
+
+[DATA REDACTED FOR IRRELEVANCE]
+
+We thought that the local wildlife were just aggressive and territorial when we first got here, and you probably thought the same. There was a few things I noticed, though, that the others didn't seem to. Our rafts were destroyed by the rocks, not the birds. They did not kill a single one of us, and the injuries they did inflict were only on our arms and legs, not our necks or throats. I don't think anymore, that they were trying to kill us, or harm us. They were trying to protect us. To get us away from this hell.
+
+We went missing, slowly, one or two in the night. Sometimes we never found the bodies, sometimes they would be hanging from the trees. I remember Clair finding that first one, he wouldn't talk for days, he was scared out of his mind. Irving said he just got up and left one day, didn't come back. They all didn't come back.
+
+There's something here, worse than anything I've ever seen. Since everyone left there's been glimpses I've seen of it, out in the bushes. I'm getting so tired now, I can't stay awake any longer. It's going to get me like it got everyone else. You have to get off of this island. You have to escape.
+
+its in the bushes
+
+[END]
+
+Recovered Photography:
+
+Presumed remains of H.W. Unknown background entity.

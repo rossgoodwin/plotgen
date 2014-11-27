@@ -1,0 +1,265 @@
+Item #: SCP-206
+
+Object Class: Euclid
+
+Special Containment Procedures: As SCP-206 is currently unable to be secured, an information suppression plan has been put into effect to conceal its existence. Frequencies known to be used by SCP-206 are to be monitored, and all images relayed to Earth via other probes or satellites deleted from non-Foundation assets after they have been retrieved. Technology and astronomy websites, journals and periodicals are to be monitored for discussion of the rover or the receipt of unusual photographs (see Document 206-AA12 for complete list). Persons who become aware of the existence of SCP-206 are to be administered amnesiacs.
+
+UPDATE - 30/11/20██: As orbital observation of SCP-206 has proven possible, agents within satellite and aerial imaging organizations are directed to keep watch for instances of SCP-206, and remove the images concerned. Deployment of 'image corruption' cover story suggested.
+
+Description: SCP-206 is a Martian exploratory rover (Designation - Invictus) launched on 12/08/20██ as part of a joint Russian Space Research Institute / European Space Agency effort. (Exact object specifications are listed in Document 206-AA1.) Despite a successful launch aboard a Soyuz-FG rocket, telemetry data was lost on 16/01/20██, roughly halfway to Mars. Attempts to re-establish communication failed, and on 10/02/20██ the craft was declared lost.
+
+On 08/06/20██ (a day after Invictus was planned to arrive on the Martian surface) a connection was established with ESA flight control on the rover's assigned frequency. Before terminating at the source, 38 photographs were transmitted, appearing to show views of the expected landing zone in the Victoria Crater. Three days later, a further batch of 11 images was received, showing a drastically different location (later determined to be in the Cydonia Mensae, roughly 2500km due south).
+
+The Foundation was informed of the incidents by operatives at the ESA shortly thereafter, and moved to investigate. Containment procedures were instituted on 21/06/20██, when ESA Control received a batch of 5 images showing panoramic views of the Martian surface, apparently taken from its satellite Deimos. How the rover (which, as designed, is rated at maximum speed of 90m per hour on flat ground) traveled between these locations is currently unknown.
+
+SCP-206 contacts Earth sporadically, utilizing its original channel, [DATA REDACTED]. Once a connection is established, it uploads a number of images in varying formats. Pictures received do not always correspond to the hardware originally installed on Invictus, though the signature and session initiation packets match those programmed.
+
+Tracking stations have received a total of ████ images. A large number of these images (roughly 38%) appear to have been taken on Earth, or worlds similar to it (differing in some detail). The remaining photographs seem to have been taken on, or in the region of, various celestial bodies, only a small percentage of which are currently identified. Periods between transmission vary considerably; the shortest registered to date is 26 hours, the longest 511 hours.
+
+Despite visual confirmation of the existence of something resembling the rover (see Addendum 206-1) no trace of it has been found in the received images, even when the scene includes a reflective surface. Further, a number of photographs show locations exceedingly difficult, if not impossible for a rover the size and shape of Invictus to access.
+
+Addendum 206-01: At the time containment procedures were instituted, it was unknown whether the transmissions originated from the probe itself, or if an unknown entity had simply co-opted the frequency and was impersonating the rover.
+
+However, on 13/08/20██, SCP-206 transmitted a photograph of what was identified as a portion of a Lunar Ranging Retro Reflector. Nearby orbital assets were re-tasked to survey the relevant regions, revealing tracks closely resembling those a rover the size and shape of Invictus could be expected to leave. On 30/11/20██ Japanese lunar orbiter SELENE captured the vehicle itself during a camera calibration session over the Copernicus Crater. Four hours later, SCP-206 uploaded a new image showing a view of the same region. Since then, SCP-206 has been captured by several satellites in various locales - see Sighting Log SCP-206.
+
+Addendum 206-02: Though SCP-206 generally uses [DATA REDACTED], on at least 5 occasions images have been transmitted to (or via) civilian or military space assets. No connection between the image sets in question has been found. See Incident Log SCP-206 for more details.
+
+Archive of images sent by SCP-206
+
+Archive of images sent by SCP-206
+
+Date
+
+Number of Images
+
+Description
+
+Images
+
+07/06/20██
+
+38
+
+The image sent appears to document SCP-206's landing on Mars. Image 1 shows a view of the Victoria Crater, looking to the north-east, from approximately 3 kilometres above the surface. Images 2-37 show the same region at continually decreasing altitudes. Image 38 seems to have been taken at ground level, roughly 500m south-west of the mission's intended landing point.
+
+[DATA LOST]
+
+10/06/20██
+
+11
+
+Mars, Cydonia Mensae
+
+[DATA LOST]
+
+17/06/20██
+
+5
+
+Exo-atmospheric view of Mars. Based on the alignment of celestial bodies in the Local Cluster, the image was taken from Deimos.
+
+[DATA LOST]
+
+21/06/20██
+
+1
+
+The first single-image set, showing the rear of the Spirit rover, which was, at the time, traversing the Gusev Crater. No anomalous readings or images were reported from Spirit.
+
+07/07/20██
+
+1
+
+Ruins of the temple of Mars Ultor (Rome, Italy). This is the first image sent by SCP-206 that shows a place on Earth.
+
+13/08/20██
+
+1
+
+Single image showing the top left portion of a Lunar Ranging Retro Reflector. Later identified as belonging to Apollo 15. Image displays qualities consistent with being taken by a Hasselblad 500/EL data camera, a device not fitted to Invictus.
+
+29/08/20██
+
+7
+
+Various views of Mount Rushmore (South Dakota, USA).
+
+[DATA LOST]
+
+01/10/20██
+
+1
+
+Stern portion of a sunken ship. Letters "L", "S", "T" and "N" are readable.
+
+[DATA LOST]
+
+14/12/20██
+
+1
+
+Racetrack Playa, Death Valley, USA. Image shows the trace of one of the "sailing stones". Judging by the lower part of the image, as well as the stone's trajectory, the image seems to have been taken from one of the sailing stones.
+
+[DATA LOST]
+
+07/02/20██
+
+1
+
+29 boxes with light bulbs. The place was not actually determined; judging by the doors it's a subway entrance in one of the Northern hemisphere cities.
+
+11/02/20██
+
+1
+
+A metal construction of a humanoid figure on a horse-like four-legged creature. Both the "rider" and the "horse" seem to be composed of multiple small details.
+
+21/04/20██
+
+1
+
+Tractor (later identified as a Universal model) on the porch of the Belgorod regional study museum in Russia.
+
+11/09/20██
+
+41
+
+Thirteen images show a funeral mass in a church (later determined to be St. Jerome, Noordwijk, Netherlands). The rest depict a burial of a man in the aforementioned church graveyard. The man was later determined to be D█████ I████████, chief structural engineer of the Invictus Mars rover project.
+
+[DATA LOST]
+
+12/09/20██
+
+1
+
+Gravestone of D█████ I████████. The image is smudged; some dark liquid stains were present on the camera lens at the moment of filming. Later investigation found SCP-206 tracks near the grave and two [REDACTED] of unknown breed.
+
+[DATA LOST]
+
+24/02/20██
+
+1
+
+Mount Rushmore with the face of Jefferson Davis instead of Abraham Lincoln. One of the first photographs to depict an Earth different from the 'original'.
+
+03/07/20██
+
+1
+
+Moscow Kremlin. The image appears to be taken from the Greater Stone Bridge. The walls and towers are white, although judging by the vegetation and people caught on film, the time the image was taken is consistent with the time it was received.
+
+01/08/20██
+
+1
+
+A small football field, exact location unknown. It should be noted that all people and some objects depicted are lacking shadows.
+
+15.09.20██
+
+1
+
+Taj Mahal, Agra, India. Judging by the perspective, the image was taken from the main spire. The structure doesn't look any different from the one we know, but the domes are adorned with gilded symbols that don't belong to any known alphabet.
+
+[DATA LOST]
+
+30/11/20██
+
+8
+
+The Moon, Copernicus crater. Japanese space probe Kaguya has caught SCP-206 on camera here approximately at the same time.
+
+.
+
+01/01/20██
+
+1
+
+[DATA EXPUNGED]
+
+11/01/20██
+
+1
+
+Primary coolant circuit of a nuclear reactor from the inside.
+
+[DATA LOST]
+
+09/03/20██
+
+1
+
+[DATA EXPUNGED]
+
+13/03/20██
+
+1
+
+Temple of Khafre, Giza, Egypt. Judging by the perspective, the image was taken from the Great Sphinx's nasal bridge.
+
+[DATA LOST]
+
+07/06/20██
+
+1
+
+Two broken TV sets with a house cat (Felis silvestris catus) sitting on one of them, looking sideways.
+
+24/07/20██
+
+1
+
+A deceased man lying in what looks like a coffin. The man was presumed to be P████ F███, a known actor, but at the moment the image was taken he was alive.
+
+[DATA LOST]
+
+29/07/20██
+
+1
+
+A scattering flock of doves. The place was later recognized to be the Cathedral Square, Belgorod, Russia.
+
+16/08/20██
+
+1
+
+A lot of dead fish in an unknown place.
+
+[DATA LOST]
+
+31/10/20██
+
+1
+
+A view of a tank driver seat. The interior looks like a Maus super-heavy tank, but a lot more modern.
+
+[DATA LOST]
+
+19/12/20██
+
+1
+
+[DATA EXPUNGED]
+
+[DATA LOST]
+
+26/03/20██
+
+9
+
+An architectural ensemble that looks like Forum of Augustus (Rome, Italy), but in pristine condition. One of the photographs depicts an electronic display installed next to the building presumed to be the Mars Ultor temple. The image shows some text on an unknown dialect of Chinese scrolling on the display. Partial translation reads: "Hail, Mars the Savior, Great Helmsman who led [???] and raised the Celestial Empire [???]. [???] a hundred flowers [???]. May your spear strike [???] shields to cover us."
+
+[DATA LOST]
+
+02/04/20██
+
+3
+
+Interior of the Kostnize church, Kutna Hora, Czech Republic. The interior looks like the actual church, but some of the skulls can be seen having three eye sockets.
+
+04/04/20██
+
+1
+
+A view of Lopan river from the window of Kharkov National University building. Judging by the perspective, the building is at least 10 stories taller than the actual one, although the background corresponds to the date the picture was taken.
+
+[DATA LOST]

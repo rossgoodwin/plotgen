@@ -1,0 +1,109 @@
+Instance of SCP-306-1, formerly Dr. Stan ████
+
+Item#: SCP-306
+
+Object Class: Keter
+
+Special Containment Procedures: Frozen samples of SCP-306 are stored at Bio-Research Site-101. Research on SCP-306 is to be carried out under Biosafety Level 4 protocols.
+
+Subjects infected with SCP-306 are to be immediately placed under quarantine. Any items making physical contact with infected subjects or SCP-306 residue are to be incinerated. Personnel interacting with infected subjects are to remain in full hazmat containment suits. Personnel interacting with infected subjects or SCP-306 residue are to remain under mandatory quarantine and submit to twice-daily examination for a period of two (2) weeks after interaction.
+
+Containment breaches within controlled environments will result in lockdown of affected area. Personnel within the affected area are to remain in place until cleared for release. Hazmat teams are to remove and examine personnel for signs of infection. Infected personnel are to be quarantined. Affected area is to then be sterilized.
+
+A 1km radius around any areas experiencing an outbreak of SCP-306 is to be quarantined. Areas are to have all water and sewer systems sealed. Hazmat teams are to be deployed in the area, and all persons in the quarantine zone are to be evacuated and screened for infection. Uninfected persons are to be released, with non-Foundation employees administered Class B amnestics. Infected persons are to be terminated. Following completed evacuation, enclosed areas are to be sterilized with ethylene oxide. In unenclosed areas, controlled burning, followed by a ground sweep, are to be enacted. Wetlands harboring SCP-306 are to be impounded, filled, and sealed with concrete. Preventing SCP-306 from infecting any large body of water is an Alpha-class priority.
+
+Description: SCP-306 is a fungus related to the genus Trichophyton. SCP-306 can infect humans through inhalation of spores or by skin to skin contact. Initial symptoms of infection include coughing and sneezing, and skin lesions. Lesions caused by SCP-306 display a morphology similar to the benign epithelial tumors caused by HPV infection, and reach full size after approximately two (2) days. Lesions are prone to shedding, after which another lesion forms underneath. Lesions that fall from the body of infected subjects are light enough to be carried by wind, and capable of spreading SCP-306 for years. If untreated, lesions caused by SCP-306 can cover the body within two (2) weeks. SCP-306 appears to mainly infect humans; however, testing is ongoing to determine any additional carriers. SCP-306 has been shown to grow in nearly all biological matter.
+
+SCP-306's primary anomalous property will only manifest when growing on human tissue. When infecting a human, SCP-306 secretes several previously unknown enzymes. These enzymes catalyze an unknown process which drastically alters the structure of cells, resulting in the formation of several extra organelles of an indeterminate function.
+
+Approximately two (2) weeks following infection, infected subjects begin to develop major physiological modifications. Over the course the next three (3) weeks, subjects rapidly lose weight, followed by the development of abnormal pigmentation and increased water permeability of skin. Subjects who are still able to speak describe being in constant, excruciating pain. Over the next two (2) to five (5) months, symptoms include:
+
+Shrinkage of organ systems
+
+Reshaping of the skeletal system
+
+Rapid decrease in intellect
+
+This process can last between two (2) and five (5) months, after which subjects are referred to as SCP-306-1.
+
+Instances of SCP-306-1 on average weigh 25-30kg, measuring 0.5m in length. SCP-306-1 have an appearance similar to amphibians, but correspond to no known species. Autopsies of deceased SCP-306-1 specimens have revealed that internal structures remain morphologically similar to human organs following metamorphosis. Instances appear to enjoy human presence, and actively attempt to gain contact when in human presence. SCP-306-1 remain extremely infectious, with any direct physical contact resulting in infection by SCP-306. SCP-306-1 are capable of reproduction in a similar manner to Agalychnis callidryas.
+
+SCP-306 was discovered in [REDACTED] Louisiana in a swampy area when locals reported a colony of unknown amphibious creatures, coupled with a string of unexplained disappearances. Foundation agents were deployed to the scene to investigate, leading to the objects discovery. Since this event, ██ additional SCP-306 outbreaks have been found in the south-eastern United States.
+
+SCP-306 is treatable with polyene and triazole antifungals in early stages resistant to nearly all treatment, with the exception of high heat. See Addenda.
+
+Addendum 1: Testing on SCP-306 has shown the fungus to be able to grow in nearly all biological matter, including most vertebrates. However, only humans have been shown to develop any deleterious effects from infection. Due to the possibility of a major outbreak, Dr.████ is requesting increased funding for research into SCP-306.
+
+Addendum 2: Memo from Site-██ Director ██████, ██/██/198█
+
+Based off Dr.████'s research into SCP-306, we now consider it extremely likely that large reservoirs of SCP-306 exist in the wild. Because of both the physical danger and danger to secrecy presented, all sites are advised to monitor for wild SCP-306 reservoirs. Any confirmed vectors are to be dealt with by applicable regional forces.
+
+Addendum 3: As of ██/██/198█, Site-██ has reported decreased efficacy of antifungal sprays used to combat SCP-306. O5-6 has authorized further testing to determine the cause of this change.
+
+Addendum 4: Incident I-306-3.
+
+On ██/██/198█, all 12 contained instances of SCP-306-1 escaped primary containment during routine feeding. Researcher Thomson was fatally injured by a stray bullet as security subdued the specimens.
+
+The following is a transcript of an interview conducted with Researcher Fillis immediately following the breach.
+
+Level 3 Clearance Required
+
+Access Granted
+
+Interviewed: Researcher Fillis
+
+Interviewer: Agent Lennard
+
+<Begin Log>
+
+Lennard: Thank you for being here on short notice.
+
+Fillis: Sure.
+
+Lennard: Alright, first order of business, please state what you were doing when the breach occurred.
+
+Fillis: Well, I was conducting feeding for the Three Oh Six Dash One specimens. What's his name, uh, Thomson was getting the feed and I was gonna administer it. I did a count of the specimens, there were eleven, but that was wrong, because there should have been twelve. So I told Thomson to look at the logs and see if one had been moved to another site. All of a sudden, there's this flash of motion, and next thing I know I'm being pinned down by some of the specimens. I don't remember what happened after that. When I woke up, they were gone, and security was already there. Thomson was lying on the ground bleeding from his mouth. The guards escorted me out.
+
+Lennard: So you were attacked by the specimens?
+
+Fillis: Basically.
+
+Lennard: I understand that these creatures are normally quite docile. What caused this aggressive behavior?
+
+Fillis: OK… We've been performing some new testing on the specimens.
+
+Lennard: What kind of testing?
+
+Fillis: Intelligence testing. Putting them through mazes, training them, that sort of thing.
+
+Lennard: And what does this have to do with the breach?
+
+Fillis: Everything. These guys were speeding through puzzles, memorizing commands almost instantly. We looked at the data, and these guys are as smart as primates. Smarter even than that, we tried teaching them how to read, how to write, and they picked it up in the blink of an eye.
+
+Lennard: I have documentation that says those creatures are no more intelligent than a common tree frog.
+
+Fillis: That's what we thought at first. But this testing, it showed that we were dead wrong. They were writing coherent notes to us, they told us what their names were. We gave one of them an IQ test, it scored 127. These things are humans, trapped in the bodies of frogs.
+
+Lennard: So what led to their aggressive behavior then?
+
+Fillis: One of them asked us to bring in some stuff for it to read, so Thomson brought in this kids book with some fairy tales in it. Seemed like they had enjoyed it, but after that, they started getting angry with us. They were… depressed. They wrote notes telling us that we had no right to keep them here, that they needed to be out in the world, they needed to be free.
+
+Lennard: What exactly did they expect to be able to accomplish if they were able to escape?
+
+Fillis: I don't know.
+
+Lennard: Ok, I believe we are done here.
+
+Fillis: Wait, before you go, can you tell me what happened to Thomson?
+
+Lennard: KIA. Stray bullet in the chest.
+
+Fillis: That's a shame. He was going to bring them another story.
+
+<End Log>
+
+Closing Statement: Due to the information revealed in the incident, I order all contained instances of SCP-306-1 to be immediately terminated. They are now presenting a major obstacle to successful containment of an already dangerous object.
+
+-O5-3
+
+Addendum 5: Dr.████ has found that most samples of SCP-306 display wide-spectrum resistance to antifungals. Upgrade to Keter pending. Upgraded to Keter, ██/██/199█.

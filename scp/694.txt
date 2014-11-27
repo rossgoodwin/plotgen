@@ -1,0 +1,135 @@
+SCP-694 entrenchment, open.
+
+Item #: SCP-694
+
+Object Class: Anomalous Euclid
+
+Special Containment Procedures: A source colony of SCP-694 is to be kept in a top-accessed 3m x 3m enclosure on Bio Research Site-21. The enclosure is to consist of a shaft of at least 3m depth, lined with concrete, and filled with a layer of soil cca. 2m thick, with upper glasshouse section (see Document 694-Gamma for enclosure design specifications) to allow for limited ventilation and sunlight, but prevent escape of specimens.
+
+The enclosure is to be seeded with grasses and herbs of species described in Document 694-Gamma, and a dry branch of a deciduous tree (oak recommended) at least 1.5 metre long is to be placed within, following SCP-694 entrenchment.
+
+Post-entrenchment, a fresh pig carcass is to be introduced into the entrenchment cca. every 30-50 days, depending on colony size.
+
+While SCP-694 are not directly dangerous to unharmed individuals, personnel entering SCP-694 containment is forbidden due to risk of specimen escape - if required for experimental purposes, specimens are to be harvested by means of mechanical traps attached to the carcass of a suitable small animal. While handling SCP-694, personnel are required to wear Level D Hazardous Materials protection made of slash-resistant fabric, including face protection.
+
+Colonies of SCP-694 are to be neutralized by means of placing a tent over SCP-694 entrenchment, fumigating with sulfuryl fluoride for a period of at least 36 hours, then filling the entrenchment with soil.
+
+Colonies of SCP-694 outside of urban areas are to be neutralized by means of placing a tent over SCP-694 entrenchment, fumigating with sulfuryl fluoride for a period of at least 36 hours, then filling the entrenchment with soil.
+
+Inside urban areas, the presence of SCP-694 mandates sulfuryl fluoride fumigation of affected structure along with surrounding structures in a 150m radius for at least 72 hours, followed by a thorough inspection to assess and repair potential structural damage caused by SCP-694 action, and removal of dead SCP-694 from the premises.
+
+Description: SCP-694 is the designation for Pseudoteraphosa habilis, an arachnid species closely resembling known members of the Trigonotarbida order, previously thought extinct.
+
+Individual SCP-694 have a leg span of approximately 15-25cm, and a mass of cca. 90g1, and vaguely resemble spiders of the Teraphosidae family, with a number of important differences.
+
+SCP-694 lacks urticating hairs, its body being covered by a chitinous carapace similar to other members of its order. Furthermore, the lower side of SCP-694's abdomen has six functional spinnerets and SCP-694 does produce webs. Perhaps the most significant difference is relatively large, flat pedipalps with sharp edges, covered in a previously unknown organic substance of Vickers hardness ~550 MPa.
+
+The most significant anomalous properties of SCP-694 relate to its etology.
+
+Unlike most large arachnids, SCP-694 lives in colonies cca. 200-300 individuals strong, usually centered around an entrenchment.2 A typical entrenchment consists of a pit cca. 2m deep and roughly 1m in diameter. When such material is available, the bottom of the pit will contain numerous sharpened segments of tree branches, bones, etc. The sides of an entrenchment usually contain a number of shallow tunnels, usually covered in webs, where individual SCP-694 tend to stay. The top of an entrenchment is covered in a web patchwork, intermixed with soil particles, leaves and other debris.
+
+Aside from protection, the entrenchments serve as a means for SCP-694 to hunt prey. When an animal3 steps on the web covering, and falls into the entrenchment, SCP-694 will behave in two possible ways. In the case of small prey4, SCP-694 will attempt to overwhelm the prey, using their bite5, and the sharp pedipalps to inflict damage; upon success, the prey is cut into ~5cm segments, which are wrapped in silk and either devoured, or stored for later consumption, usually by attaching them to the walls of the entrenchment itself.
+
+In the case of larger prey, SCP-694 will generally wait until it weakens or expires from damage inflicted by the fall, groups of ~20 members probing whenever the prey ceases to move significantly.
+
+In the case of a lack of prey, or the number of members exceeding 400-600 depending on conditions, the colony will split, with ~40% of individuals remaining, and the rest splitting into groups of cca. 50 individuals, searching for a new suitable entrenchment. During this phase, SCP-694 tend to be drawn to animal carcasses in the vicinity, often choosing such sites for a new entrenchment even if a more suitable locale (such as a shallow pit) is available elsewhere.
+
+The reproductive cycle of SCP-694 resembles that of other eusocial spider species, with females placing eggs into spun egg sacs, usually located in available cavities such as at the terminus of the habitational tunnels, wood hollows, empty skulls etc.
+
+Recovery Log: SCP-694 came to the attention of the Foundation mid-199█, after a rash of tourist disappearances around the ██████ region, France. On ██/██/199█, the █████-district police received a distress call from a Juan G████, claiming he has "fallen down some damn pit and whenever he stops waving there's tarantulas everywhere." The police were able to trace the signal and attend to his rescue - his report and the footage obtained in situ resulted the Foundation liaison to interview (See Addendum 694-1) him and call for the dispatch of a containment team led by Researcher Alvarez.6 The containment team confirmed the veracity of information provided, and was able to localize and neutralize further ██ entrenchments in the area over the course of following months, after securing a host of 500 live specimens from the original site.
+
+Addendum 694-1:
+
+Interviewed: Juan G████, (further J.G), tourist of Spanish origin.
+
+Interviewer: Agent P█████ N████, (further Agent N.) posing as an employee of the French Ministry of Enviroment.
+
+Foreword: J.G was present at the [REDACTED] police station for the duration of the interview, having been examined by the medical personnel of a nearby clinic Asides from injuries consistent with fall, J.G. showed a significant number of short, shallow lacerations on his legs and back.
+
+<Begin Log>
+
+Agent N: Hello!
+
+J.G. Hello… I … You would be…
+
+Agent N: Yes. Jean-Albert Dupont, trustee of the Ministry of Enviroment. I believe you are some Juan G████, born in Mendoza, 1973?
+
+J.G: Yes… yes sir.
+
+Agent N: You know why I was sent here?
+
+J.G: The officer said something of… poachers?
+
+Agent N: Correct. There's been a rash of poaching cases, using pit traps. I was led to believe you were rescued from one such.
+
+J.G: Sort of. I mean… it was a hole allright, just, It didn't look like…
+
+Agent N: Let's start from Adam.What were you doing in the forest.
+
+J.G: I was… I just off for a walk. I mean, I like walking, always did. Decided to… I had to… I mean, relieve myself, so I went to near a tree that was there, and as I stepped forward, I fell in.
+
+Agent N: In the pit? Describe it.
+
+J.G: It… I didn't see it at all. I just went through… had muck from it all over my face and mouth, because I shouted as I fell, and then, the leg. I … think the doctor said I snapped some lego…
+
+Agent N: Ligaments?
+
+J.G: Yeah, that. In my ankle, but I was lucky, where I fell, and on the feet. I … I don't think that was poacher work. I mean, they do take in the stuff they kill, right? Because there, it was bones, ribs and the like, I think I seen something's skull, but I'm not sure, it was dark, and I sort of freaked out. The bones, some of it broke with a crack, thank god. I mean, thank god I had my boots on, or it'd have gone through. I mean, I didn't really fall on my hands, and one cut me right here.
+
+Agent N: Modern poaching methods are as insidious as they are dangerous to the public… you have seen it yourself. What did you afterwards?
+
+J.G: Like I said to the officers. I first , when I found I'm whole, tried to pick myself up to see if I could get out… it was too high, I tried to reach. Then… I suppose I should have known sooner, but it occurred to me to use the phone. I looked for it, thanks Saint Anthony it wasn't broken, I went to call, couldn't get signal. Started looking for it, just carefully, like, moving my hands about, and then, it, they came out. I … Spiders, lots of them. Looked like tarantulas in all those movies, but there was so many. Maybe fifty, I dunno.
+
+Agent N: Tarantulas?
+
+J.G: Yeah… big ones black, like in that movie. Just that they, in the films they don't care much about people, but these… They started climbing over my legs and biting… they, look ,they cut my pants like this. I freaked out, started stomping on them. One of them bit me in the back, here… I tossed it off. My god, it hurt like fuck but I kept them off… They… when I started moving about, they got… like scared away. I tried to call again, but when I stopped moving, they were there again… more of them even. One of them got over my face, but I snatched it before it could bite. Sometimes, during that time,I got the phone to call… I called the police, left it on like they said. I… I found some rag in there, when I slapped it against the wall in a way… they got scared away, I didn't have to move so much. Still. I tell you, when I heard them shouting it was like the best thing I ever heard, like when the doctor said the liver tests came in clear.
+
+Agent N: Good. I almost forgot. Can you tell me which tourist track it was you were on?
+
+J.G: It was, [REDACTED]. I ,the officers that called you in should know, right.
+
+Agent N: Thank you.
+
+J.G: To you… I … if you can, arrest the fucks. I mean, putting it where people walk, like that - someone could have died there, or a kid could…
+
+Agent N: We will do our best. Before I leave, I talked to doctor █████, we had to look through your injuries for when we'll file a case against the band responsible. Your leg still hurts?
+
+J.G: Like hell…
+
+Agent N: He sent me some analgesics for you to take. Here's the box, take one, should start working in half hour.
+
+J.G: Thanks… I mean, you sure have some healthcare in this country.
+
+<End Log>
+
+Closing Statement: J.G. administered Class-A amnesiacs, and implanted with the cover story of falling into a poacher's trap; official records modified to this extent, with the location changed approximately [REDACTED] from actual incident site. Incident site contained animal and human skeletal remains, with personal items of an individual previously declared missing being found among the debris.
+
+Addendum 694-2: Incident 694-1
+
+On ██/██/20██, three colonies of SCP-694 was discovered during a police raid on an abandoned apartment block occupied by squatters . Foundation operative was alerted and MTF Alpha-16 "Spider Wasps" posing as workers from the Ministry of Public Health put the building into quarantine and interviewed its former inhabitants.
+
+While two colonies showed behaviour analogous to colonies outside of urban areas, attempting to form pit traps in staircases and other soft surfaces, third colony (designated SCP-694-A) resorted to a different modus operandi entirely, using "trip wires" spun from thick web strands, usually located on or near staircases. In a number of locations, SCP-694 appeared to have damaged wall and roof structure, to the extent that significant displacement of attached web strands led to wall section collapse.
+
+A number of inhabitants claimed that present SCP-694 also showed a marked tendency to attack sleeping or intoxicated individuals, if present within ~5 metres of features constructed by SCP-694.
+
+MTF Alpha-16 proceeded to capture a host of ~50 live SCP-694-A specimens, and proceeded to fumigate the site as well as neighbouring structures.
+
+Classification upgraded to Euclid.
+
+Containment procedure updated to codify neutralizing SCP-694-A in urban areas.
+
+Update to the main SCP-694 file pending further investigation of SCP-694 and SCP-694-A etology.
+
+Footnotes
+
+1. Female SCP-694 are on average 30% larger than male members of the species
+
+2. While SCP-694 prefer naturally occurring pits of suitable size, an unentrenched colony will enlarge an existing entrenchment or entrench itself when no such terrain feature is available, using the modified pedipalps as digging tools. A typical splinter colony of 50 individuals will take cca. 2 weeks to entrench itself in such manner.
+
+3. Usually large mammal or a flightless bird
+
+4. Up to the size of a rabbit
+
+5. Poisonous, similar to most Teraphosidae
+
+6. Later forming MTF Alpha-16 "Spider Wasps"

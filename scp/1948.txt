@@ -1,0 +1,55 @@
+SCP-1948
+
+Item #: SCP-1948
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1948 is to be kept in a standard sized avian cage, kept in the minimum security animal containment facility. It does not require any special treatment or security beyond that of non-anomalous members of its species. The cage must be checked for signs of weather related damage periodically due to the nature of the specimen. The specimen is allowed one (1) hour of outside its cage every day under the supervision of resident ornithologist Dr. Erin and meteorologist Dr. Anderson, in order to keep its well being. It is to be released only within the confines of Dr. Erin's designated indoor research area.
+
+Description: The specimen is a male adult Turdus merula, or Common Blackbird. Its anomalous nature stems from its ability to alter the natural temperature and wind flow in an area of approximately seventy-five (75) kilometers around it at will, the effects of this ability being strongest at the epicenter, namely the specimen itself. SCP-1948's weather control abilities are fairly tame, and are incapable of creating any extreme conditions, such as massive heat waves or sudden storms. The specimen seems to prefer a mildly warm weather of around twenty-seven (27) degrees centigrade, and will usually alter the weather to fit this preference.
+
+The specimen was recovered from ███████ █████, ██████, a town known for its tourism industry and remarkably fair weather for its general area. Recovery was problematic and met with armed resistance due to SCP-1948's importance in local traditions (see Recovery Log).
+
++ Show Recovery Log
+
+- Hide Recovery Log
+
+The Foundation was first alerted to the existence of SCP-1948 after the new meteorology station at site ██ picked up unusual weather patterns in the town's general area. Agents █████ and ███ were sent to investigate.
+
+Arriving at the town at ██/██/2███ , the agents began questioning the natives about the town's unusually fair and warm weather for the season. At first, the townsfolk answered their questions politely and casually, but as the agents continued their investigation over the following days, became increasingly restless and hostile towards the agents. Eventually, on the night of ██/██/2███, two weeks after the agents arrival, the agents discovered the existence of SCP-1948 while eavesdropping on a covert meeting of the town's elders. While attempting to contact Command, the agents were discovered and as a result the townsfolk made an attempt on their lives. Five (5) townsfolk were killed in the ensuing firefight, as well as Agent █████. Agent ███, moderately injured, only narrowly escaped. Mobile Task Force ████████ was dispatched to subdue the residents of the town and capture SCP-1948. Members of the Task Force were able to quickly overpower the townsfolk with minimal use of lethal force and take them into captivity, as well as capture SCP-1948. After questioning, most captured townsfolk were given class-A amnesiacs and released, while the remaining few directly involved in the death of Agent █████ remained in Foundation custody and were [REDACTED].
+
+Tests on SCP-1948 found no relation between its weather control abilities and the townsfolk's increased hostility.
+
+Addendum: The following is an interview with ████ █████, a local constable in ███████ █████ (henceforth INT-5), shortly after Mobile Task Force ████████'s raid on the town.
+
+Interviewed: INT-5
+
+Interviewer: Dr. ██████
+
+Foreword: INT-5 is suffering from various minor injuries inflicted during the fight with Mobile Task Force ████████, but appears calm and collected. The subject speaks of SCP-1948 presence at the time of the town's foundation, though it is impossible for SCP-1948 to have been alive at the time considering the average life span of the Common Blackbird.
+
+<Begin Log>
+
+Dr. ██████: INT-5, why did you attack Agents █████ and ███?
+
+INT-5: They knew too much. We couldn't let them spread the word. It would have destroyed ███████ █████. No one could ever know.
+
+Dr ██████: What makes you think their discovery of SCP-1948 would have such effects on ███████ █████?
+
+INT-5: It's not just that. They heard what we did to please the Idol. They couldn't understand. It has always been like this, ever since ███████ █████ was first founded. The Idol protected us, made us prosperous. But sometimes it wouldn't, and the weather would change, and people stopped coming. We knew we had to please it somehow. We tried everything, but nothing would work. So we turned to the old ways.
+
+Dr ██████: Human sacrifice.
+
+INT-5: Yes. We didn't do it often, only when it was necessary. Only when the Idol wouldn't give us spring. Only then. We did what we had to. The Idol demanded it, and we submitted. We kept it quiet, only chose people from the town no one would miss: castoffs and vagabonds, mostly.
+
+Dr ██████: Did SCP-1948 ever directly demand sacrifice? Did you have any proof your sacrifice was working?
+
+INT-5: (shaking his head) It never said anything. But every time we made a sacrifice, spring would eventually return. It worked, and our town flourished. We knew we could depend on the old ways.
+
+<End Log>
+
+Closing Statement: Subject was given class-A amnesiacs shortly after the end of the interview and released, having no direct involvement in the death of Agent █████.
+
+Addendum SCP-1948-1: Further examination of SCP-1948's weather changes in captivity found a pattern to them: approximately every five years, when the quasiperiodic climate pattern known as El Niño occurs across the Pacific Ocean, the specimen's preferred temperature would drop from twenty seven (27) degrees centigrade to five (5) degrees centigrade for a period of three months. This correlated to the time of the human sacrifice practiced by the residents of ███████ █████, though the pattern continued regularly without any need for the sacrifice practiced by the locals, which appears to have no effect on the weather change.
+
+Addendum SCP-1948-2: A request has been made to attempt to breed SCP-1948 with non-anomalous members of its species in order to check the possibility the specimen described by the locals as existing at the time of the town's founding was simply an ancestor of SCP-1948. Confirmation pending.

@@ -1,0 +1,129 @@
+SCP-2122
+
+Item #: SCP-2122
+
+Object Class: Euclid
+
+Special Containment Procedures: A security perimeter must be maintained at a ten kilometer radius around SCP-2122, preventing access to and from the surrounding area. Guards are to be stationed along the perimeter at all times and are to maintain the facade of a Russian military facility. In the event of a security breach by civilians or hostile entities, lethal force is authorized. The remote nature of SCP-2122 ensures accidental discovery to be a rarity. Personnel are to be equipped with Level A hazmat suits when exploring SCP-2122 and when interacting with its community.
+
+Description: SCP-2122 is a Russian village located in Siberia. It has a population of sixty-two.
+
+SCP-2122 was discovered on ██/██/1954 by Foundation operatives after reports of a "plague" afflicting small settlements in the region. Five operatives became fatally ill after contact with what would later be classified as SCP-2122. Several villages were placed under quarantine while proper procedures were shortly established for containment and research of SCP-2122.
+
+Various microbial pathogens have been discovered within the vicinity of SCP-2122, some of which were previously unknown. This has included:
+
+Mycobacterium leprae and M. lepromatosis (the causative agents of leprosy)
+
+Yersinia pestis (in the form of pneumonic, septicemic, and bubonic plagues)
+
+Salmonella enterica subsp. enterica (the causative agent of typhoid fever)
+
+Influenza virus A, B, and C
+
+Vibrio cholerae (the causative agent of cholera)
+
+Variola major and Variola minor (the causative agents of smallpox1)
+
+The inhabitants of SCP-2122, referred to as SCP-2122-1, display a relative resistance to the pathogens present within SCP-2122 - while symptoms develop as per ordinary disease progression, resulting in disfigurement and debilitation of subjects, deaths are comparatively rare.
+
+SCP-2122-1 have shown themselves to be either unwilling or unable to leave SCP-2122. Genetic analysis has revealed significant inbreeding, although SCP-2122-1 have never undergone sexual reproduction while in containment. It is hypothesized that the diseases are a symptom of their primary anomaly and not an anomaly itself.
+
+The most significant anomaly associated with SCP-2122-1 is a rebirth ritual, performed on the first new moon. Any dead instances of SCP-2122-1 are interred in the fields by their living counterparts. Upon the next new moon the formerly deceased are harvested, genetically identical but now have the appearance of a child between the ages of four to seven years. SCP-2122-1 entities are believed to retain the memories of previous incarnations. A soil sample from the field has been analyzed; soil was noted as especially nutrient rich and containing embryonic fluid.
+
+Inhabitants of SCP-2122.
+
+SCP-2122-1 speak an archaic dialect of Russian and, while willing to be interviewed, refuse to divulge substantial details about their history and religion. Their lifestyle has been noted as similar to 14th century serfdom and SCP-2122-1 display acute technophobia. All SCP-2122-1 are believed to be illiterate, the village devoid of books or any other use of written language. What is known about their culture and religion has been gleaned through behavioral observation and a limited number of successful interviews. SCP-2122-1 tend to ignore Foundation personnel and have only shown hostility when their daily routine has in some manner been impeded. Personnel have been able to enter buildings without SCP-2122-1 reacting - the one exception to this is the church. All attempts to access the church have produced violent encounters with SCP-2122-1, resulting in several fatalities via damaged hazmat equipment.
+
+SCP-2122-1 work the fields from dawn until dusk. At sunset, the entire SCP-2122-1 population will enter a dilapidated church located at the center of the village, apparently depositing the days harvest and residing within for approximately three hours before retiring home. SCP-2122-1 will then sleep until dawn, beginning the entire process over the next day. There has been no significant variation in routine throughout SCP-2122's containment history. SCP-2122-1 behavior has also included staring aimlessly for up to two hours, self-amputation of gangrenous limbs and tumorous growths (apparently deposited within the church), and periodic, often incoherent mutterings.
+
+Besides its anomalous usage, the fields are primarily used to grow turnips. Non-SCP-2122-1 cadavers do not undergo anomalous regeneration but do decay approximately 3.5 times faster than remains interred outside of SCP-2122.
+
++ Interview 1: ██/██/1954
+
+- ACCESS GRANTED
+
+Interviewed: SCP-2122-1-26, "Anya". Has the appearance of a female, six to eight years of age. Her back crooked beneath the weight of a large tumor.
+
+Interviewer: Dr. Judith Low, Foundation Historian and Anthropologist
+
+Foreword: First successful interview with an SCP-2122-1. Conducted in Russian and edited for clarity.
+
+<Begin Log>
+
+Dr. Judith Low: Greetings. We do not intend you harm. Would you be able to tell us about your community?
+
+SCP-2122-1-26: You don't belong here. Leave.
+
+Dr. Judith Low: I am afraid that is something we can not do. You look ill. We could provide medical aid if you cooperate.
+
+SCP-2122-1-26: You are not of the covenant. You would never understand.
+
+Dr. Judith Low: I am trying to understand. Please. What covenant do you speak of?
+
+SCP-2122-1-26: A pact signed in blood. Our redemption; our curse. We serve until the end of all things.
+
+Dr. Judith Low: Serve who? Do you speak of a god or…
+
+SCP-2122-1-26: [Interrupts] Our Immortal Father. You cannot know his love. Leave.
+
+Dr. Judith Low: I see. This village. Does it have a name?
+
+SCP-2122-1-26: [Vomits a black, viscous liquid]
+
+Dr. Judith Low: We'll speak again when you're feeling better.
+
+<End Log>
+
+Closing Statement: A greater success than originally anticipated. A sample was gathered from the emesis and sent to Dr. Armitage. Research will be done if its comments coincide with any recorded religion.
+
++ Interview 2: ██/██/1954
+
+- ACCESS GRANTED
+
+Interviewed: SCP-2122-1-10, "Aristarkh". Has the appearance of an elderly male, missing its left arm and much of its epidermis has undergone necrosis.
+
+Interviewer: Dr. Judith Low, Foundation Historian and Anthropologist
+
+Foreword: Second successful interview with an SCP-2122-1 instance. Conducted in Russian and edited for clarity.
+
+<Begin Log>
+
+Dr. Judith Low: Hello. I would like to ask you a few questions.
+
+SCP-2122-1-10: Speak your words.
+
+Dr. Judith Low: When did this begin? How far back are you able to remember?
+
+SCP-2122-1-10: It was a time of Tsars and Khans.
+
+Dr. Judith Low: Your condition. Does it hurt?
+
+SCP-2122-1-10: Pain. Yes. Strife teaches. Tears sin from our bodies. Prepares us for heaven but heaven never comes.
+
+Dr. Judith Low: This ritual you perform. The "rebirth". Can you explain it to me?
+
+SCP-2122-1-10: The Harvest of the Black Moon. We serve until the end. That is the terms of our agreement.
+
+Dr. Judith Low: Are the dead healed? Or is it an entirely new body?
+
+SCP-2122-1-10: The dragon slays itself, weds itself, impregnates itself. That is what he taught us. The covenant must not be broken. We are devoured and the land regurgitates us renewed.
+
+Dr. Judith Low: Why do you continue to do this when you obviously suffer?
+
+SCP-2122-1-10: There is no choice. The land calls. We answer. Nothing ever changes.
+
+Dr. Judith Low: Let me rephrase the question. How did you learn this ritual in the first place?
+
+SCP-2122-1-10: A priest came to our village. This was many deaths ago. He offered us a place in paradise, as long as we served until the end. He said the end would be soon but it has been so long.
+
+We are so very tired. Is this hell? Did we fail him somehow? Winter after winter. We tried to keep count but the number grew too large.
+
+Has he forgotten us?
+
+<End Log>
+
+Closing Statement: Subject quietly sobbed and was unwilling to continue. A soil sample from the fields has been sent to Dr. Armitage.
+
+Footnotes
+
+1. Eradicated outside of SCP-2122 as of 1975

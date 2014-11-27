@@ -1,0 +1,19 @@
+Item #: SCP-2280
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2280 is kept in a dedicated paddock measuring 1 km² in area at Biological Research Area-12, surrounded by a 10 m buffer zone. This paddock is fenced in by 4 m tall reinforced concrete walls with infrared cameras mounted every 10 m along the periphery. Automatic watering and supplemental feed troughs are provided for the use of SCP-2280. All other care needs, including veterinary care, are to be handled via telepresence robots.
+
+No vertebrate animal is allowed within 8 m of SCP-2280 outside of experimentation. Should any animal become affected by SCP-2280's properties, attempts will be made to retrieve the body before SCP-2280 can finish consuming it. Should these attempts fail, fluoroprotein fire suppression foam must be sprayed over SCP-2280 beginning 5 minutes prior to the following sunrise until the final effect has ceased.
+
+Description: SCP-2280 is an adult female Bos taurus whose tissues absorb 100% of all electromagnetic radiation with wavelength between 370 nm and 770 nm1. This results in SCP-2280 appearing as a pure black silhouette from any angle, without visible details. Aside from this and the additional anomalous properties described below, SCP-2280 is genetically and functionally identical to a non-anomalous cow, including diet and thermal signature.
+
+If any vertebrate animal weighing more than 2 kg comes within 5.25 m of SCP-2280, there is an approximately 50% probability that it will become neuromuscularly paralyzed. If this occurs, SCP-2280 will approach the paralyzed animal and consume it in no more than 1.5 hours, despite being otherwise herbivorous. For creatures which are too large for SCP-2280 to swallow whole, it will use its hooves and incisors to separate soft tissues from the skeletal system into bite-sized chunks, as well as break or crush overly large bony structures into more readily-consumable sizes.
+
+The following sunrise, SCP-2280 will go into labor and give birth to an instance of SCP-2280-1, an animal of identical morphology to the consumed animal, with the exception that it emits light at 100,000 lux equally along the entire wavelength spectrum of 370-770 nm. Approximately 95% of SCP-2280-1 instances are stillborn, and their luminence rapidly decreases to the point that they are observably identical to the animal that SCP-2280 had consumed. SCP-2280 will ignore these instances, which can be retrieved for later analysis. The remaining 5% of SCP-2280-1 will immediately rise after being born and move to suckle from SCP-2280, regardless of the species of their originating animal. After suckling for no more than 15 minutes, the instance of SCP-2280-1 will move away from SCP-2280, increase temperature to more than 1000 Cº within 0.4 seconds, and jump directly upwards. It will then accelerate upwards at approximately 37 m/s² before abruptly vanishing 1.7 km above the ground.
+
+Instances of SCP-2280-1 resulting from D-class personnel have not responded to communication attempts, but have been heard mumbling in an unknown language. Linguistic analysis has not succeeded in translating their speech, but have noted similarities to languages in the Afroasiatic family, particularly Coptic Egyptian.
+
+Footnotes
+
+1. Encompassing the visible light spectrum.

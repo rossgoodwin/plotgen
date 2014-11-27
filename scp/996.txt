@@ -1,0 +1,39 @@
+Item #: SCP-996
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-996 is to be stretched to a 1 meter by 1 meter square sheet. It is held in place by four clamps on the corners and mounted on a frame. The assembly is locked in storage under standard security.
+
+Description: SCP-996 is a sheet of sheer gray fabric. Under no stress, it takes the shape of a circle with a 0.5 meter diameter. The fabric seems to be infinitely elastic, as it will stretch under small amounts of force, and large amounts fail to rupture it. Attempts to puncture SCP-996 result in it deforming around the puncture implement. Shear forces will cause elastic deformation, but do not tear the material. Thus, SCP-996 seems to be topologically ideal.
+
+SCP-996 has a thickness, volume, and mass of zero. The fabric can intersect itself: when folded, the two halves pass through one another. Microscopes show images similar to the macroscopic sheet; no additional detail is revealed. Despite an infinitely thin thickness, the material is not sharp and bends harmlessly at a touch.
+
+Experiment Log 996-Mkf
+
+Date: ██-██-██
+
+Procedure: SCP-996 given to D-class. D-class instructed to interact with the fabric as he wished.
+
+Results: D-class experimented with SCP-996, quickly discovering the self-intersection property. Repeated folding, stretching, and manipulation resulted in a tangle around D-class's hands. D-class attempted to remove hands and was successful, then pulled on two edges of SCP-996 to straighten it.
+
+SCP-996 seemed to have manifested a distorted "knot" in the fabric, and despite self-intersection properties, would not come undone. D-class examined the knot, but could not discern its structure.
+
+D-class generated three more knots through similar procedures. D-class attempted to undo the knots by hand, but only succeeded in tangling the fabric once more. After much poorly-understood interaction, [DATA EXPUNGED] believed to be an area of negative volume. D-class extracted hands successfully, but claimed that it "gave [him] a headache". Subject reached into area of negative volume and removed SCP-996. Area reverted to normal. [Footage is being studied to understand the spatial anomaly.]
+
+Intermediate interview:
+
+Dr. L███: What was that…incident, like?
+
+D-class: Hell if I know. It's like…I think the sheet thing was round. Huh, it didn't have a shape, but…it, like, opened when I folded it one way. [EXPLETIVE REDACTED]…
+
+Dr. L███: Do you understand the knots?
+
+D-class: I think I broke it.
+
+D-class instructed to continue interaction. Another knot was quickly generated, followed by a complex fold that joined two knots. Pulling on the sides revealed that a tube had formed between two points on the fabric, defying current understanding of topology. D-class inserted hand into tube and became tangled again. D-class requested assistance.
+
+Dr. L███ arrived and extricated D-class's arm. Arm ended at the wrist; palm and fingers are absent. SCP-996 reverted to regular shape, lacking knots.
+
+Test Log Addendum: D-class terminated on schedule. After several more tests, one well-preserved hand was retrieved from an area of negative volume. DNA tests confirm that it belonged to the terminated D-class.
+
+Note: We still don't know how to recreate any of the impossible knots or phenomena. Further testing will be more controlled—until then, no one is allowed to touch it. - Dr. L███

@@ -1,0 +1,19 @@
+Item #: SCP-135
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-135 is to be contained in a partitioned plexiglass chamber at least 7 metres to a side. All sections are to be completely sealed off from one another to avoid cross-contamination. SCP-135 itself is to be in a central section with 1.0 to 1.5 square metres of floorspace, with a 5 cm-wide runoff trench around the perimeter that drains into a tank, the contents of which are to be piped into an incinerator at the end of every week. The remaining space in the containment chamber is to be used to house 5 chemical harvesting vats, one vat per partitioned section. A single access corridor is to lead from SCP-135's section to outside the chamber. No personnel are permitted within SCP-135's effect radius; all maintenance, taking of samples, etc., are to be carried out by remote-control robots. Disciplinary measures need not be taken against personnel that violate this rule, because the direct consequences of SCP-135's effects have been deemed consequence enough. Robots are to be maintained and cleaned by Level 1 personnel.
+
+Once a week, SCP-135's section is to be hosed down with Solution U82-B until only its outer coating is visible. In emergencies, flamethrowers may be employed to reduce mass quickly.
+
+Description: SCP-135 is a human female between █ and ██ years of age that promotes rapid, uncontrolled cell growth within a radius of 2.25 metres from itself. It remains rigidly in the foetal position, and has never been observed to move. SCP-135's effect is carcinogenic to animal tissue and induces malignant neoplasia in plant and fungal tissues in 100% of recorded exposure cases, with severity and disorganization increasing exponentially with closer proximity to SCP-135. Within 0.1 metres, cells will not die, even under conditions where they would normally, causing SCP-135 to be steadily buried under a continually-growing mass of plant matter, fungal matter, and micro-organisms. This “undying” state extends to SCP-135's cells as well, and SCP-135 has been shown to lack an epidermis, instead having a crust of mixed plant and fungal matter that has incorporated itself onto SCP-135's skin, interspersed with tumours and patches of raw flesh.
+
+SCP-135's lungs, diaphragm, and intestines are ruptured, and growth extends into the chest and abdominal cavities. It has been fitted with wide-diameter plastic tubes for use in draining excess biomatter.
+
+The Foundation came into possession of SCP-135 after it and a surrounding ball of growth rolled off a cliff in the ███████ Mountains, crushing a hiker on the trail below. Class B amnestics were administered to the civilians and law enforcement personnel involved, and the incident was covered up as having been caused by a pair of male goats that slipped and fell off the cliff edge during a dominance battle. Later examination of the growth revealed the partial skeleton of an adult human female with osteosarcomata covering ██% of it. SCP-135 was found in the space between the skeleton's ribcage and pelvis, at the time between █ and █ years old. A viable DNA sample was recovered from the bone marrow of the pelvis, and testing confirmed with ██.█% certainty that the skeleton belonged to SCP-135's biological mother.
+
+All personnel involved with SCP-135's retrieval and initial testing were later diagnosed with various forms of cancer. Out of the ██ affected, only █ are still alive at the time of this writing.
+
+Attempts to terminate SCP-135 with sustained gunfire, flamethrowers, caustic materials, vacuum, and extreme pressure have all failed. Further termination attempts are forbidden by order of O5-██, due to SCP-135's potential uses in cultivating useful bacteria. See Document 135-a for information on the current contents of partitioned vats.
+
+EEGs confirm full brain activity. No attempts to communicate with SCP-135 are to be made at this time.

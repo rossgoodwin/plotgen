@@ -1,0 +1,35 @@
+Item #: SCP-987
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-987 is currently housed at Research Site-14 in an airtight 5 x 12 x 3 meter concrete-walled chamber encased in a Faraday cage. Continuous illumination is provided by conventional fixtures in the ceiling. Access is restricted to Level 2 personnel or D-class personnel assigned by Level 3 personnel. The chamber is to be constantly monitored remotely by thermographic and standard cameras. In the event that SCP-987-1 is not detectable by thermographic imagery, the site director and head of security are to be notified. Although it is probable that SCP-987-1 has vacated the chamber, a Containment Breach Alert is not to be sounded by personnel on duty unless expressly authorized by the site director or head of security.
+
+Description: SCP-987 is a collection of mirrors (SCP-987-a through h m) and an anomalous entity (SCP-987-1) that is only directly detectable by thermographic scans.
+
+SCP-987-1 (commonly referred to as 'the Curator') is an endothermic area approximately 0.5 x 0.5 x 2 meters that moves at ground level. It drains heat in a radius that varies from 1 to 2 meters. It also has demonstrated the ability to manipulate objects up to 150 kg in mass, at a distance up to 8 meters away. Objects manipulated at a distance of more than 2 meters are not subject to heat loss. Periodically SCP-987-1 dissipates and is undetectable for periods between 15 minutes and 1.5 hours, and there has been no record of anomalous activity during these times. It has not been confirmed that SCP-987-1 actually breaches containment. When the chamber is empty of personnel, SCP-987-1 moves about in no discernible pattern, pausing in front of different mirrors for up to approximately 30 minutes each. The entity exhibits awareness of any personnel that enter the containment area and maintains a distance of at least 3 meters away. SCP-987-1 has only aggressively reacted to those who have tampered with SCP-987-a through h m in any manner other than cleaning them carefully.
+
+SCP-987-a through h m are mirrors of various sizes and types. Seven Eight of them are medicine cabinets; the others are wall mounted mirrors of various sizes and makes, the largest of which measures approximately 1 x 1.5 meters. Style and construction details indicate that all were manufactured between the 1940's and 1990's. SCP-987-a through h m exhibit no anomalous characteristics other than their reflections, although exhaustive testing has been hampered by SCP-987-1. Photographic imaging and video recordings show a normal mirrored surface. When viewed directly, the surface of the mirrors do not reflect an image of the room they are currently in, but rather they show a different scene, presumably of their previous location. [Edit] The original locations of SCP-987-c, -k, and -m were identified and confirms the aforementioned theory. [See Addendum Log SCP-987-2] The reflections all show a scene of a violent death of a human subject, most commonly in a bathroom. The images are not static, but rather run as a loop lasting from 48 seconds to over 4 minutes. If viewed for 2 full cycles, the images change and the subjects become aware of the viewer as if looking through a window, often soundlessly pleading for help as the scenes unfold. The aggressor(s) also occasionally interact with the viewer by making hostile gestures or writing on the surface of the mirror.
+
+On 5 occasions since ██/██/199█, SCP-987-1 has dissipated and become unobservable as noted above. In each case a new mirror has appeared among the others as it reforms. In some cases, the mirrors were collected long after the violent incident they portray, even decades later. The latest addition, SCP-987-m, appeared ██/██/2010.
+
+Addendum Log SCP-987-1: [DATA REDACTED]
+
+Addendum Log SCP-987-2: Identified Victims
+
+SCP-987-c
+
+█████ ██████, male, 62 years old, bathroom of an upscale home in █████████, California, ██/██/1968. Victim is bound and kneeling on the bathroom floor. A young Asian woman, dressed in attire suitable for a prostitute of the time enters, [DATA EXPUNGED]. Victim expires due to asphyxiation. During the third cycle, the aggressor usually stops at the mirror to reapply the lipstick and places a 'kiss mark' on the glass while looking directly at the viewer.
+
+SCP-987-k
+
+█████ █████, male, 34 years old, hallway of a home in ██████, Maine, ██/██/20██. Subject is standing on a ladder installing a chandelier. Subject loses balance and becomes entangled in the light fixture, pulling a length of electrical wiring from the ceiling. Subject is simultaneously electrocuted and strangled. During the third cycle, the subject shows various levels of apprehension when starting the task, the incident is more gruesome in nature, and usually includes the discovery of the dying subject by his wife.
+
+Note: In this case, the mirror was observed to be missing from the home when the death was discovered. It appeared at Research Site-14 at approximately the time of subject's demise. SCP-987-1 had dissipated at least 15 minutes before the onset of the events depicted in SCP-987-k.
+
+SCP-987-m
+
+█████ ███████, female, 20 years old, bathroom of Room ███ in the Hotel ███████ in New York City, ██/██/1978. Victim reacts in fear from aggressor out of view and attempts to run out out of room. Unidentified male in denim jacket stabs victim once in abdomen and flees. Victim quickly falls to the floor and expires. During the third cycle, victim is clearly inebriated and attempts to communicate with viewer before aggressor enters. After the stabbing, aggressor proceeds to [DATA EXPUNGED].
+
+Note: It is very probable but not certain that the presence of SCP-987-a through m is a primary factor in the containment of SCP-987-1. In light of this, any testing that may be disruptive to SCP-987-1's behavior patterns must be approved by the site director.
+
+Note: As the Faraday shielding seems ineffective, and the role played by SCP-987-1 in these incidents is uncertain, Dr. ███████ has requested use of ███ █████ technology to attempt to contain SCP-987-1.

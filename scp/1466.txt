@@ -1,0 +1,49 @@
+Item #: SCP-1466
+
+Object Class: Euclid
+
+Special Containment Procedures: A physical copy of SCP-1466-1's text is kept in File Locker 4489 at Site 41, and a digital copy is available on Site 41's mainframe. The same is to be done for SCP-1466-2 and -3. Clearance 3/1466 is required to access any of these. Personnel exposed to SCP-1466-1 are to be relieved of duties and scheduled for further monitoring.
+
+All collections of Emily Dickinson's poetry that purport to contain new or previously undiscovered works are to be monitored for SCP-1466-1. Should a collection contain SCP-1466-1, all copies must be removed from circulation under the Alexandria protocol, with appropriate amnestics administered to any individuals exposed to SCP-1466-1.
+
+Ten D-class subjects have been allocated for production of SCP-1466-2. These subjects have been provided housing at Site 41, and are responsible for the production of one instance per day. With the completion of SCP-1466-2, this project has been liquidated.
+
+Description: SCP-1466-1 is an unpublished ballad stanza composed by the American poet Emily Dickinson (1830-1886) that may present anomalous effects when read or heard, provided that it is comprehended1. Not all subjects who read SCP-1466-1 experience its anomalous properties; testing suggests that individuals with a fondness for poetry in general and for SCP-1466 in particular are most likely to be affected.
+
+Individuals who are affected by SCP-1466-1 are capable of entering and exiting an altered state of consciousness (referred to as a "Delta state") at will. Outwardly, a Delta state manifests as unresponsiveness to external stimuli, relaxed breathing and heart rate, and limp posture, and is often mistaken for sleep; however, this state is physiologically and neurologically distinct from sleep. Subjects have thus far only been able to describe the experience in metaphorical or allegorical terms; however, it has been inferred that the subject may experience urban or natural settings during this time, apparently at random. The urban setting has been described as "alienating" or "Kafkaesque", while the natural setting is generally associated with nonspecific positive emotions.
+
+While subjects who enter a Delta state and experience the natural setting report temporary feelings of confidence and relaxation, repeated usage is associated with disinterest in other activities, flat affect, and refusal to cooperate with requests except under duress. When allowed to act as they wish2, subjects will often spend the majority of their time in Delta states.
+
+After exiting a Delta state lasting more than seven hours, subjects will feel compelled to transcribe a poem that they claim to have devised while in the Delta state; collectively, these poems are designated SCP-1466-2. The instance will be written in Emily Dickinson's typical style, rather than any attributable to the subject. Individually, these poems are not anomalous. See Abridged Research Log 1466-82 for further information on SCP-1466-2.
+
+Abridged Research Log 1466-82:
+
+2008-09-09: Subject 1466-08 independently produces a poem, "A fairy-tale I've never read —" (SCP-1466-2-19), previously produced by Subject 1466-02. Subject 1466-08 has not been exposed to material produced by other research subjects. This is the first instance of independent production of a previously identified instance of SCP-1466-2.
+
+2008-09-11: After seven further instances of repeated poems, it is suggested that subjects may be retrieving SCP-1466-2 instances at random from a limited set of possible poems.
+
+2008-10-31: Increasing instances of copied poems suggests that previous hypothesis is true, and that the determination of the entire set of SCP-1466-2 is plausible; however, progress is hindered by uncooperativeness from subjects. The entire set is estimated at 60 poems.
+
+2008-11-20: SCP-1466-2 is determined to be a set of 59 poems. All instances of SCP-1466-2 produced by subjects are drawn from this set at random.
+
+2009-12-02: Researcher ██████3 accesses the master file for SCP-1466-2. After reading the file, Researcher ██████ accesses SCP-1466-1, then spends the following eighteen hours in a Delta State. Upon exiting the Delta State, Researcher ██████ compiles SCP-1466-3. Researcher ██████ claims that the impetus for this was sudden, inexplicable inspiration.
+
+SCP-1466-3 is a construct composed of SCP-1466-1, all of the poems that comprise SCP-1466-2, and 631 publicly known poems written by Emily Dickinson, when listed in a particular order (see SCP-1466-3 Master File). SCP-1466-3 may be activated by reading one English-language poem (hereby the Initiating Poem), then reading SCP-1466-3. SCP-1466-3 appears to allow the reader to directly manipulate the poetic properties (e.g. theme, metaphors, syntax) of the Initiating Poem. This is accomplished by each poem providing new context or meaning to other parts of SCP-1466-3 and to the Initiating Poem.
+
+SCP-1466-3 is capable of generating both original and previously published works of English-language poetry, including ones with which the reader is unfamiliar, from Initiating Poems. For example, provided a copy of Ozymandias by Percy Bysshe Shelley, subjects have been able to produce eleven separate poems, three of which have been published at some point in the past; similarly, applying SCP-1466-3 to any of these poems results in different poems entirely.
+
+Researcher's Note:
+
+Several personnel have asked for clarification on the nature of SCP-1466-3, given that no such construct exists in "nature". SCP-1466-3 is, in essence, a function that can be applied to poems. It takes a variable input (the Initiating Poem) and, by using the reader's mind as a computer of sorts, applies a series of operations to the variable to generate an output. SCP-1466-3 allows us to treat the various elements that make up a verse as though they were as concrete and easy to manipulate as numbers, and in doing so, show that the Initiating Poem and the output of SCP-1466-3 are related in some manner. When asked to write down their thought processes, readers have tended to describe it much as one would describe the computation of a complex function, and in a manner very similar to one another.
+
+Of particular note is that the output does not necessarily contain any text from the Initiating Poem, the contents of SCP-1466-3, or the reader's memory — SCP-1466-3 operates primarily outside the textual level, appropriating elements of the Initiating Poem that exist independent of its text.- Researcher ██████
+
+Under normal circumstances, SCP-1466-3 may take up to 112 total hours; however, subjects who enter a Delta State are able to complete the requisite manipulations in under 5 hours without producing unusual results. Poems translated into English from other languages have been successfully used as input for SCP-1466-3 on several occasions, but typically result in prose.
+
+Footnotes
+
+1. This appears to require that the subject is fluent in English and familiar with Western culture (particularly Christianity) to the point that they are capable of understanding the majority of the metaphors and allusions in the poem.
+
+2. Stimuli that would wake a subject from sleep are usually sufficient to force them out of a Delta state.
+
+3. At the time, Researcher ██████ was assigned to SCP-1466's research team to provide relevant historical and literary knowledge, due to her familiarity with Dickinson's life and works.

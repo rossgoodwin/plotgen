@@ -1,0 +1,73 @@
+SCP-1360 in containment.
+
+Item #: SCP-1360
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1360 is to be restrained within a humanoid containment cell at Site-19. The presence of four security personnel is required prior to entry. Restraints may not be removed unless specifically required for testing. For communication purposes SCP-1360 is to be provided with a pen and notebook.
+
+Description: SCP-1360 is an animate, fully articulated, android. SCP-1360 stands at 1.83 m tall and weighs 100 kg. Two white PMMA circles, approximately 3 cm in diameter, represent the mannequin’s eyes. SCP-1360’s body is composed of molded polycarbonate casings over an aluminum frame. These casings are covered in a black fabric of unknown composition, referred to as SCP-1360-1. This covering acts as a skin and has a universal thickness of 1 cm. The serial number 031 is woven into SCP-1360’s left arm in a red variant of SCP-1360-1.
+
+Testing to identify SCP-1360-1 has so far met with limited success. The material is a type of aramid fiber with a tensile strength of approximately 4000 MPa, along with a gravity of 1.1, making the material lighter and stronger than Kevlar. The material is self-repairing, with adjacent damaged SCP-1360-1 fibers reweaving and fusing back together. SCP-1360-1 is also capable of repairing damage to SCP-1360’s polycarbonate casings, as SCP-1360-1 fibers will fill in damaged areas during the repair of the outer covering. All samples of SCP-1360-1 disintegrate after 48 hours of separation from SCP-1360.
+
+SCP-1360’s fingers contain a series of tools. These tools are accessed by unscrewing the tip of the finger, and include:
+
+A steel needle attached to a roll of red thread made from the same material as SCP-1360-1. (Left thumb)
+
+A roll of patches made of the same material as SCP-1360-1: 5.1 cm wide. (Left index)
+
+A pair of miniature steel fabric scissors. (Right thumb)
+
+A steel scalpel (Right index)
+
+Both middle and ring fingers are hollow and serve as storage space.
+
+A section of SCP-1360-1 harvested from SCP-1360's lower back on 08/09/2009.
+
+SCP-1360 is intelligent and displays a clear knowledge of unarmed combat and firearms usage. It is obsessed with escaping and subsequent return to an entity it refers to as “Anderson.”
+
+SCP-1360 claims to feel pain despite its apparent lack of a nervous system. It claims that this pain is the result of a component having been removed prior to containment and as a result views itself as incomplete.
+
+Despite being incapable of speech, SCP-1360 can read and write English, Japanese and German fluently. Interviews have been moderately successful, though escape and repair are favorite topics of conversation.
+
+Addendum: 1360-A: The following message was discovered on a flash drive within SCP-1360’s right middle finger upon recovery.
+
+IMPORTANT: DO NOT DISCARD
+
+Dear James,
+
+Congratulations on the purchase of your new Peregrine Series Humanoid Utility Droid (Civilian Model). Unit #31 comes equipped with the following standard features:
+
+Preprogrammed Personality #4 (Hector).
+
+Full understanding of up to three languages (English, Japanese and German).
+
+Our standard aramid covering and full self-repair functionality.
+
+As you discussed with Mr. Saker during your consultation meeting, #31 has also been altered to include your requested modifications, these include:
+
+Removal of Vocalization Capabilities.
+
+Our Advanced Firearms Skill Set.
+
+Our Advanced Unarmed Combat Skill Set.
+
+Like the Kestrel and Merlin units you have purchased, #31 has been programmed to take commands only from yourself and your daughter. In addition it can also serve as a command unit. With your permission, #31 is capable of issuing commands to your other droids in your absence.
+
+It is important to note, however, that unlike your previous purchases, #31 contains a highly adaptive artificial intelligence to make the unit’s interactions more human and personal. #31’s personality will evolve over time based on its interactions with you and your use of the unit. Within a matter of days #31 can become both your daughter’s best friend and your most loyal servant.
+
+As with your other units, please do not attempt to repair #31 if malfunctioning. In the event that you become unsatisfied with the unit’s performance, please lock this flash drive back into place within the right middle finger storage compartment and speak your return phrase. #31 will then automatically return to one of our facilities and you will be contacted with more information on replacing or refunding your purchase.
+
+As always, it’s a pleasure doing business with you.
+
+Anderson
+
+Addendum: 1360-B: On 17/11/2009, following a fourth failed escape attempt, the following note was found in SCP-1360-’s cell:
+
+Return signal terminated. We’re better off keeping you where you are.
+
+We’re sorry, #31.
+
+Anderson
+
+As of this date SCP-1360 has ceased all communication with Foundation personnel. In addition, SCP-1360 has also ceased all resistance to containment and SCP-1360-1 collection.

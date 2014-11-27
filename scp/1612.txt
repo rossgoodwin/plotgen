@@ -1,0 +1,29 @@
+Instance of SCP-1612 in Foundation containment plot.
+
+Item #: SCP-1612
+
+Object Class: Safe
+
+Special Containment Procedures: Live instances of SCP-1612 are to be grown at Bio Site-13 in Nursery-18. The climate and soil of Nursery-18 are to be maintained at conditions typical of areas in which instances of SCP-1612 are found, such as the alpine meadows of Mount Kazbek, Georgia. Instances of SCP-1612 are to be watered several times a day.
+
+Personnel entering Nursery-18 are to wear overalls to prevent minor injuries caused by SCP-1612-1.
+
+All seeds not required to keep SCP-1612 at a viable population level are to be kept in Bio Site-13's storage wing in Biological Secure Lockers and sealed in 4-ply plastic envelopes. The seeds are to be maintained at a constant temperature of −18 °C.
+
+Mobile Task Force Pi-3 (aka "Zeus's Fire Brigade") are to locate uncontained instances of SCP-1612 and transport them to Bio Site-13.
+
+Description: SCP-1612 is a previously unknown variation of Glycine max, or soya bean plant. Instances of SCP-1612 continually secrete a volatile, pyrophoric oil from the central and peripheral zones of their apical meristems. The resultant flame (SCP-1612-1) is generally small and well-controlled, but intermittent flares have previously caused first-degree burns in nursery personnel. The source of additional mass SCP-1612 uses to produce the oil is yet to be determined.
+
+Experimentation has shown that SCP-1612-1 is extremely difficult to extinguish. Oxygen deprivation of below 3% by volume is required to prevent combustion of the secreted oil1. It has been discovered that SCP-1612-1 is resistant to dousing. When SCP-1612 is submerged in water, SCP-1612-1 will continue to burn for several seconds before cessation. However, when SCP-1612 is re-introduced to standard conditions, SCP-1612-1 will reignite. Regular watering of SCP-1612 has shown to produce a reduction in activity from SCP-1612-1.
+
+SCP-1612 was initially discovered near the base of Mount Kazbek, Georgia at 42°40'N, 44°35'E. Since then, groves of SCP-1612 instances have been found in numerous locations on all seven continents, with each grove containing between 20 and 100 instances. The largest groves have been found in the Great Rift Valley, Kenya and the Indus River basin.
+
+Addendum-1612-1: The following note has been found with all discovered groves of SCP-1612 instances.
+
+Don't let the fire die.
+
+-Pangloss
+
+Footnotes
+
+1. Wood stops burning when the oxygen content falls below 17%.

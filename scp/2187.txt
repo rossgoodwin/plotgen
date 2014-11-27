@@ -1,0 +1,67 @@
+SCP-2187-A
+
+Item #: SCP-2187
+
+Object Class: Euclid
+
+Special Containment Procedures: Outpost 2187 has been established to form a 1 km secure perimeter around SCP-2187-A, under the cover of a private-energy power plant. Research Team 44 is currently assigned to investigation and reverse engineering of the technology inside SCP-2187-A.
+
+Knowledge of SCP-2187-B is to be suppressed in major astronomical organizations. Due to increasing cosmological developments rapidly increasing the difficulty of contingency, plans to remove SCP-2187-B from orbit (either to be secured on earth or in orbit of another celestial body) are currently under review. The broadcasts from SCP-2187-B are currently suppressed by a global network of number stations masking the frequency.
+
+Attempts to reconstruct or activate currently inactive equipment related to SCP-2187 requires the authorization of two (2) Level 5 personnel.
+
+Description: SCP-2187 refers to a network of anomalous technology created mid twentieth century. The different components of SCP-2187 are sub-designated by location.
+
+SCP-2187-A is a two-story building in southern Virginia. SCP-2187-A was previously an estate owned by the ██████ family abandoned sometime before the twentieth century. The building is devoid of normal furnishings, and instead contains a variety of technology resembling 1950s era equipment. The equipment is powered by 413 large atomic batteries connected in the basement level. Upon discovery, the doors and windows to SCP-2187-A were heavily reinforced, and the building was completely filled with 323 naked human corpses, all of which had died of blunt trauma or suffocation (see Addendum 2187-1 and -2). The area also contained a large number of researcher notes and journals regarding SCP-2187. The SCP-2187-A designation is not inherently abnormal, but has been created for the anomalous technology found inside of it.
+
+Closeup of components of SCP-2187-A-1
+
+SCP-2187-A-1 is a large computer connected to six (6) complex neural scanners, taking up the majority of SCP-2187-A's interior. Each scanner is a hollow acrylic hemisphere lined with a complex array of metal instruments. The scanners automatically trigger when above a human, and are able to transfer highly-detailed neural patterns from human brains inside it into a data format usable by the computer. The computational portion of SCP-2187-A-1 is mostly made of vacuum tubes and rudimentary transistors, and in design resembles an extremely complex calculator. Upon scanning a human subject, SCP-2187-A-1 will preform an unknown series of operations completed in approximately four (4) seconds, and emit a paper ticket. Large gold-paint lettering on the side of SCP-2187-A-1 reads "Пётр".
+
+SCP-2187-A-2 are twelve elevators connected to the side of SCP-2187-A. Each SCP-2187-A-2 appears as a normal ███████ brand elevator produced in 19██, save for a small unlabeled slot in place of the button panel. SCP-2187-A-2 is only operational when it contains exactly one human. SCP-2187-A-2 activates when a ticket emitted from SCP-2187-A-1 is inserted into its slot. At this point, SCP-2187-A-2 will begin to ascend or descend (determined by uncertain criteria; see Addendum 2187-3) until it reaches the level above or below. At this point, the occupant of SCP-2187-A-2 will disappear. Upon ascending, SCP-2187-A-2 emits a high energy electromagnetic pulse directly upwards, received by equipment on SCP-2187-B. Analysis of the pulse has revealed the data it caries is highly correlated with the subject's neural gamma wave.
+
+SCP-2187-B is an artificial satellite in orbit of earth 540,000 km above SCP-2187-A. SCP-2187-B is geostationary, meaning it retains a constant position relative to the earth's surface, despite that is much farther from the earth than would allow so. SCP-2187-B emits massive amounts of gamma radiation, at levels for which currently there exists no feasible equipment to shield personnel from a lethal dosage at ranges closer than 400 meters.1 SCP-2187-B is cylindrical in shape, measuring exactly 1 km in diameter and approximately 3.6 km long, and rotating at a speed to simulate artificial gravity. The structure of SCP-2187-B appears to be modularized into different sections, each one an identically sized wheel connected to an elongated axle. Large lettering along the circumference of the uppermost section reads "Juĝo Plej Bona."2 The sections below appear to be increasing states of disrepair or incomplete construction, including structural damage and missing portions of hull. SCP-2187-B transmits periodical wireless televisual broadcasts at intervals of six hours; see Addendum 2187-5.
+
+It is unknown what becomes of subjects inside SCP-2187-A-2 when it descends. There is currently no evidence suggest anything occurs other than their ceasing to exist.
+
+Addendum 2187-1: SCP-2187-A was discovered on █ ███ 20██, after several phases of investigation of the post "Building Filled with People" on ██████.com. The building was found sealed, although human limbs were visible through the windows. After the door was cut open, human remains were forcibly ejected, wounding Agents ██ and ███████. Total excavation of the human remains took three weeks.
+
+Subsequent investigation was able to link many of the dead bodies to an extranormal event that occurred over twenty years prior (see Addendum 2187-2 for the original documentation). It is currently theorized that equipment inside SCP-2187-A was able to teleport humans inside upon their death, and that SCP-2187-A was somehow activated, summoning hundreds of people over the course of three minutes. Although the building could accommodate a maximum of a person a second (much faster than necessary at the time of its design), the higher death rate coupled with the confusion of arrivals lead to a build up, as no one was able to escape through the building's reinforced exits. After 323 bodies had filled the building, the pressure caused damage to the equipment, deactivating it.
+
+Addendum 2187-2: Documentation for original extranormal event.
+
+Event Description: Every person who dies from 05:36 to 05:39 UTC spontaneously disappears. Disappearances are global but non-simultaneous over the time period. 169 disappearances confirmed; over 300 hypothesized.
+
+Date of Occurrence: ██/██/19██
+
+Location: Various locations around entire earth.
+
+ Follow-up Actions Taken: Media manipulated to make sure connection is not drawn between various disappearances; public disappearances covered up through amnesiacs.
+
+Addendum 2187-3: Testing on the criteria of ascension or descension of SCP-2187-A-2 has been inconclusive. It has been confirmed that it is dependent on the ticket inserted and the psyche of the person who received it, regardless of who inserts the ticket or is present in the elevator. The criteria appears to particularly regard the subject's memories and psychological disposition. Ascension is rare; over 70% of D-Class and 75% of Foundation personnel have caused SCP-2187-A-2 to descend. D-Class whose scans have caused SCP-2187-A-2 to ascend generally express deep regret or religious repentance over past immoral actions, but are in a sound state of mind.
+
+Addendum 2187-4: For a full list of information materials discovered in SCP-2187-A, see Recovered Materials 2187-A.
+
+Addendum 2187-5: Broadcasts from SCP-2187 are fifteen to sixty (15-60) seconds long, consisting of male narrator speaking one to three (1-3) sentences in Esperanto, repeated in Russian and English. The narrator is a blond Caucasian approximately 35 years old with an Esperanto accent in front of a metal backdrop. The following are selected examples of (the English portions of) broadcasts.
+
+Remember… English is an artifact of your nationalist past. We're all humans here; learn to speak Esperanto. Don't be ashamed if you haven't yet. Just ask!
+
+Juĝo Nova3: Rapture Today.
+
+Better than reincarnation, the Nova Project delivers true justice. Each new member is carefully handpicked from the degenerates for moral character. Not satisfied with your placement? Appeals for re-evaluation are available to all members of Juĝo Nova; neural portfolios sent to the desk of Pyotr processed in 3-5 working days.
+
+Worried about your energy usage? Don't be! With the Power of the Atom, there is plenty to go around. You deserve your spot here, so relax!
+
+Juĝo Nova is a place of reward, but you can always do your part to welcome the next generation of the worthy. Sign up for construction services.
+
+Ever concerned about invasions from jealous degenerates? Put yourself at ease! Juĝo Nova has a full automated security system patrolling 36 hours a day to defend you with the indepletable Power of the Atom! So say thanks to your Automated Nuclear Guards of Eternal Life.
+
+Don't upset the Atom, and the Atom won't upset you.
+
+Footnotes
+
+1. This has rendered close-approach investigations or exploration of SCP-2187-B's interior pending on development of an automated zero-gravity survey robot.
+
+2. Esperanto; translates to "Best Judgement."
+
+3. Esperanto; translates to "New Judgement." Pronounced /yo͞o·jo no·va/.

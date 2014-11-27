@@ -1,0 +1,17 @@
+SCP-1837 during initial testing.
+
+Item #: SCP-1837
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1837-1 is to be suspended in a liquid containment unit, located within Site-77's Safe SCP wing. Currents are to be created within this unit, keeping it suspended in the center of the unit at all times. Daily maintenance is to be performed to ensure no mechanical errors occur. In the event that SCP-1837-1 breaches containment, security teams with hoses are to bombard it with water until it can be re-contained. Diluted samples of SCP-1837-2 are to be contained in Site-77's chemical hazard research center, where they are available for testing.
+
+Description: SCP-1837-1 is a cleaning mop, with no brand name or identifying marks. It is approximately 1.2 meters long and weighs 2.3 kilograms. The handle is constructed out of wood and the mop portion of wool cloth.
+
+If the head of SCP-1837-1 comes into contact with a solid object, the contacted area will be transmuted into a corrosive liquid, known as SCP-1837-2. Any solid surface coming into contact with SCP-1837-2 will be disintegrated over a period of several hours, depending on the composition of the material, with the corrosion rate increasing continuously. If exposed to other liquids, the effect will be reduced, with complete dilution occurring at 100ppm.
+
+When exposed to SCP-1837-2, SCP-1837-1 will become animate and attempt to clean it off the affected area. SCP-1837-1 will suspend itself in the air and move by gliding along smooth surfaces. Occasionally, other behaviors will be observed by SCP-1837-1, such as attempting to prevent itself from coming into contact with a solid surface, obtaining various cleaning materials to try and remove SCP-1837-2 and hiding when a human subject discovers it. In addition, SCP-1837 has been observed cleaning rubble and other damages created by SCP-1837-2 or outside sources.
+
+SCP-1837 was contained after a containment breach by SCP-████, SCP-████ and E-████, on 11/14/████. During the re-containment operations, SCP-1837-1 was found surrounded by a large pool of SCP-1837-2. Containment specialists have theorized that SCP-1837-1 had been created by cross-exposure to the anomalous effects, or had been planted in Site-77 by outside forces during the breach. SCP-1837 was contained and classified as Safe on 2/13/████.
+
+Addendum: On 11/16/████, Site-77 was assaulted by individuals believed to be connected to the [REDACTED] group. After-action analysis of security logs shows that SCP-1837-1's containment was accidentally breached by [REDACTED] as part of an explosive entry into the Safe level containment wing. SCP-1837-1 appeared to hover over the rubble before rapidly progressing behind the intruders, attempting to remove the rubble they left behind. It reached [REDACTED] where they were engaging on-site Security and proceeded to transmute the floor they were under into SCP-1837-2, causing 11 deaths and 6 casualties. This effectively ended the incident and allowed MTF-██-███ to restore containment.

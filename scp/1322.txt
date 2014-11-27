@@ -1,0 +1,199 @@
+Item #: SCP-1322
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1322 is to be contained in a sealed spherical Class-VIII containment chamber with ablative inner surface, hardened against particle beams, nuclear and conventional explosions, and corrosives, and regularly inspected for damage and monitored for viral and bacterial contamination. Atmospheric pressure within the containment chamber should be maintained at as low a level as practical, and Procedure 1322.CD.S311 is to be initiated if atmospheric pressure should exceed 6.00 x 10-2 Pascal. As an anti-pathogenic measure, radiation levels within the containment chamber should be maintained at no less than 4.50 roentgens per second. Consult document 1322-C-SSR-V-0886 for addenda to containment protocol, as protocol is updated on a daily basis.
+
+Description: SCP-1322 is a stable spacetime anomaly, presently hypothesized to be an interdimensional aperture to a parallel universe. The anomaly occupies a fixed location, around which Site-122 has been constructed in order to study and contain it.
+
+The anomaly is roughly ellipsoid in shape, measuring approximately 2.5 cm along its longer (horizontal) axis and approximately 1 cm along its vertical axis. The anomaly is two-dimensional and coplanar with a plane perpendicular to the horizon and oriented approximately 36 degrees west of true north.
+
+Matter and energy are capable of passing through the anomaly in the manner of a traversable wormhole. When lighting conditions in the space in the near vicinity of the other side of the wormhole permit, the space on the other side of the wormhole can be directly observed. Particles and objects of a cross-section not exceeding the anomaly's dimensions are capable of being inserted into the anomaly and thus transported into the parallel universe. The anomaly does not conduct sound.
+
+The parallel universe on the "other side" of the anomaly has been officially designated SCP-1322-A, although the term "Hartle"1 has also been colloquially used. The anomaly appears to have been artificially and deliberately generated from the SCP-1322-A side. The population of SCP-1322-A does not appear to have been successful in generating additional instances of SCP-1322, nor in altering SCP-1322's dimensions or closing it (notwithstanding extensive efforts on their part to do so).
+
+The anomaly appears to have emerged in the standard universe in approximately the year 1952, with the Foundation promptly establishing control over the anomaly's location. Although the Foundation had initially conducted an extensive study program of SCP-1322, including communication with the civilization on the other side of SCP-1322, recent Foundation efforts have focused on containment. See containment and observation log excerpts below.
+
++ SCP-1322 Containment and Observation Log
+
+– hide block
+
+Time Reference
+
+Remarks
+
+08.1952
+
+Anomaly discovered.
+
+09.1952
+
+Foundation obtains custody over SCP-1322. Containment chamber constructed (see Document 1322.v.SRD3006 for plans and technical specifications).
+
+10.1952
+
+Metallic cylinder emerges through anomaly. Cylinder is retrieved and subjected to quarantine and sterilization. Following clearance, cylinder is examined and found to be hollow, with screw cap. Cylinder contains triangular sheets of paper-like substance, upon which glyphs are inscribed. Artifact referred to Linguistics Unit.
+
+11.1952
+
+Experimentation with SCP-1322 progresses, including introduction of various (string-tethered) objects through anomaly. Samples taken of atmosphere in SCP-1322-A space; found to resemble Earth atmosphere but with a higher concentration of argon.
+
+12.1952
+
+Several additional cylinders, containing documents, emerge through SCP-1322 and, after quarantine, are subjected to analysis.
+
+07.1953
+
+Linguistics and mathematics personnel report breakthrough in analysis of documents obtained from SCP-1322-A. Message on glyphs interpreted as representations of geometric principles and texts apparently composed with a deliberate purpose of establishing cordial contact with the discoverers of the message. Linguistics Unit composes reply message using same writing system, prints same on paper, places paper in a metal cylinder of Foundation manufacture but resembling those used by SCP-1322-A culture and inserts cylinder into anomaly.
+
+09.1953
+
+Light activated on "far side" of anomaly. Close observation of anomaly indicates that "far side" of anomaly is located in what appears to be an artificially-constructed containment chamber, broadly similar to that constructed by Foundation for containment of anomaly.
+
+10.1953
+
+Approx. start date of extensive communication with SCP-1322-A civilization. Communication initially consists of reciprocal delivery of text messages on paper, first in glyphic system in which initial messages were composed (which is determined to be a simplified form of the standard written language of the SCP-1322-A civilization), and subsequently in a mutually-developed blend of said glyphic system and English. Communication accelerated when SCP-1322-A civilization proposes the construction of a telegraphic system involving a specially-shielded cable traversing the anomaly, with reciprocal equipment for the encoding and decoding of communications on both ends.
+
+11.1953
+
+Communications with SCP-1322-A civilization indicates that the civilization is comprised of Homo sapiens (or a species not meaningfully different therefrom). Organization with whom communication has been established is a scientific institute associated with the polity comprising the geographic area surrounding the SCP-1322-A-side location of the anomaly (approximately analogous to a nation-state). Details of political organization and technologies of the SCP-1322-A civilization are disclosed. SCP-1322-A civilization has attained an advanced degree of technological and engineering sophistication, particularly in the fields of mathematics and high-energy physics in which that civilization's achievements surpass those of Earth (viz. the creation of the anomaly as an unintended consequence of an experiment to investigate the properties of quantum foam), but with less sophistication in biological science. SCP-1322-A civilization expresses strong interest in sharing samples of music, visual arts, literature (particularly metered poetry in various languages, with a particular interest in Indic and Sinic cultures) and mathematics, but no interest in medicine or religion. Reciprocal deliveries of data from SCP-1322-A civilization are archived and undergo analysis.
+
+01.1962
+
+SCP-1322-A civilization provides detailed log of astronomical observations and suggests that Foundation reciprocate. Analysis of provided data by Foundation's researchers suggests strong probability that there is no position within our observable universe that can correlate to the provided data. Foundation personnel assemble data file for delivery to SCP-1322-A; data is altered at direction of Site-122 administrator citing security concerns. Within 9 hours following delivery of data file, SCP-1322-A civilization identifies the false information and suggests that Foundation personnel proceed with more candor in the interest of mutual scientific and cultural development. Suggestion forwarded to O-5 for consideration.
+
+11.1972
+
+Telegraphic cable through SCP-1322 temporarily disconnected and withdrawn into containment chamber for routine maintenance. Following maintenance, SCP-1322-A cable end is re-inserted into SCP-1322 where SCP-1322-A personnel re-connect it to equipment on their side.
+
+12.1972
+
+Communication received from SCP-1322-A, indicating that a temporary degradation in the customary response time to signals from Foundation would be experienced due to personnel shortages on SCP-1322-A side. In response to a query, message sent by SCP-1322-A side indicating that the organization having custody of their side of SCP-1322 is experiencing a higher-than-normal incidence of personnel illness resulting in absenteeism.
+
+01.1973
+
+Message sent by SCP-1322-A side reporting that its personnel situation is back to normal, but that illness is becoming widespread in the geographic area of the SCP-1322-A facility.
+
+03.1973
+
+Message sent by SCP-1322-A side indicating that local government is imposing quarantine measures in an effort to arrest spread of what is evidently a viral outbreak on their side. In response to a Foundation offer to render assistance, SCP-1322-A civilization delivers data package containing pathology data.
+
+04.1973
+
+After appropriate quarantine measures are taken at Site-122, Foundation requests that SCP-1322-A civilization deliver a sample of the virus. Sample is delivered through SCP-1322 in appropriately shielded ampule, which is then secured and analyzed subject to Class V Contagious Disease Protocol (see document ref 033234098). Upon analysis, virus found to be a harmless flu variant. Foundation researchers send analysis data to SCP-1322-A, together with suggestions on synthesizing a vaccine and administering inoculation protocols.
+
+06.1973
+
+SCP-1322-A reports at least 8 million worldwide casualties attributable to virus (approximately 0.091% of their global population), and that Foundation-developed vaccine has been distributed and administered on widespread basis.
+
+08.1973
+
+SCP-1322-A reports that spread of virus appears to have been arrested and that the number of new incidents of illness from the virus is dramatically decreasing.
+
+10.1973
+
+SCP-1322-A reports worldwide inoculation against the virus.
+
+12.1973
+
+In the course of normal communications, SCP-1322-A reports an unexpected decrease in new pregnancies.
+
+05.1974
+
+SCP-1322-A reports a dramatic drop in birth rate.
+
+08.1974
+
+SCP-1322-A reports that its analysis indicates that decreases in fertility appear to be a side effect of the Foundation-provided vaccine.
+
+01.1975
+
+SCP-1322-A reports widespread social disorder attributable to fertility issues and corresponding stresses on family life. In response to Foundation offer of assistance, message received stating “NO THANK YOU. YOU HAVE DONE ENOUGH”
+
+05.1975
+
+Change in management structure of SCP-1322-A organization with custody of their side of SCP-1322. Communications received from their side are frequently belligerent and accusatory in tone.
+
+07.1975
+
+SCP-1322-A organization unilaterally discontinues communications dealing with scientific and cultural exchange.
+
+09.1975
+
+SCP-1322-A organization reports massive, ongoing worldwide upheaval attributable to drop in fertility. Message received indicating fewer than 1,000 live births reported globally in the past 72 days.
+
+10.1975
+
+Last communication received from SCP-1322-A. Communication consisted of text reading “YOU KILLED US. YOU DID THIS TO US. IN YOUR CARELESSNESS AND YOUR ARROGANCE YOU HAVE DESTROYED OUR POSTERITY. BUT WE SHALL AVENGE. WE OF THE LAST GENERATION PLEDGE AND VOW THIS. WE WILL FIND A WAY."
+
+12.1976
+
+Monitors in SCP-1322 containment chamber indicate that various pathogens have been introduced into the containment chamber from the SCP-1322-A side but have been isolated and destroyed.
+
+01.1977
+
+High-energy particle beam fired through SCP-1322 from the SCP-1322-A side, damaging Site-122 containment chamber. Damage is promptly repaired.
+
+03.1984
+
+High-energy beam of coherent radiant energy fired through SCP-1322 from the SCP-1322-A side, immediately followed by the insertion of various pathogens through SCP-1322. Damage from beam repaired and pathogens isolated and destroyed.
+
+08.1984
+
+Directed energy weapon fired through SCP-1322 from the SCP-1322-A side, immediately followed by the insertion of various pathogens through SCP-1322. Damage from weapon repaired and pathogens isolated and destroyed.
+
+04.1991
+
+Beam weapon fired through SCP-1322 from the SCP-1322-A side, immediately followed by the insertion of various pathogens through SCP-1322. Damage from beam repaired and pathogens isolated and destroyed.
+
+06.1991
+
+At direction of Site-122 administrator, Foundation fills containment chamber of SCP-1322 with quick-setting hardened ceramic.
+
+07.1991
+
+Ceramic dissolved by means of unknown solvent introduced through SCP-1322 from the SCP-1322-A side.
+
+09.1992
+
+High-energy particle beam fired through SCP-1322 from the SCP-1322-A side, immediately followed by the insertion of nanobots through SCP-1322. Damage from beam repaired and nanobots isolated and destroyed.
+
+10.1992
+
+Large numbers of nanobots inserted through SCP-1322 from the SCP-1322-A side over a long and continuous period. Damage to containment chamber from nanobots repaired, and nanobots destroyed.
+
+01.1994
+
+Iron rod, at least 8 kg in mass, fired through SCP-1322 from the SCP-1322-A side at velocity estimated at 0.00006 c., immediately followed by the insertion of nanobots through SCP-1322. Damage from rod repaired and nanobots isolated and destroyed.
+
+12.1994
+
+Beam of coherent radiant energy fired through SCP-1322 from the SCP-1322-A side for over 108 continuous days. Total energy of beam over that period estimated at over 1033 eV. Site-122 extensively damaged, but pathogens and nanobots introduced through SCP-1322 after cessation of particle beam are successfully contained.
+
+03.1995
+
+Device inserted into chamber through SCP-1322 from the SCP-1322-A side. Device is activated and, over a 40-minute period, heats the atmosphere within the containment chamber into a superheated plasma, which damages containment chamber. Plasma successfully vented from chamber, and containment protocol altered so as to require chamber atmospheric pressure to be maintained at near-vacuum.
+
+02.1998
+
+Miniaturized two-stage thermonuclear weapon of incompletely-understood design introduced through SCP-1322 from the SCP-1322-A side and detonated. Site-122 extensively damaged, but pathogens and nanobots introduced through SCP-1322 after detonation are successfully contained.
+
+07.2006
+
+Corrosive fluid pumped into containment chamber through SCP-1322 from the SCP-1322-A side under extremely high pressure. Pressurization of fluid continues after chamber is filled, resulting in damage to containment chamber. Pathogens and nanobots introduced through SCP-1322 after removal of fluid are successfully destroyed and facility repaired.
+
+04.2007
+
+At direction of Site-122 Administrator, remotely-operated miniaturized probe placed in containment chamber and commanded to approach SCP-1322. When probe came within 3 meters of SCP-1322, a series of iron rods, each at least 8 kg in mass, were fired through SCP-1322 at high velocities comparable to that experienced in 01.1994 incident. Rods destroyed probe and caused extensive damage to Site-122, which was promptly repaired.
+
+11.2008
+
+Gas of unknown composition introduced into chamber through SCP-1322 from the SCP-1322-A side under pressure. Following introduction, additional substance introduced through SCP-1322 resulting in extremely rapid phase-change of gas into solid with greater intermolecular separation than gas, which exerts pressure on chamber sides resulting in extensive damage. Solid then rapidly evaporates, following which pathogens and nanobots are introduced. Pathogens and nanobots destroyed and facility repaired.
+
+06.20██
+
+Several miniaturized thermonuclear weapons introduced through SCP-1322 from the SCP-1322-A side and detonated, followed by several high-energy particle beams being fired through SCP-1322 from the SCP-1322-A side at various angles. Site-122 extensively damaged, but pathogens and nanobots introduced through SCP-1322 after cessation of particle beams are successfully contained.
+
+Footnotes
+
+1. Approximate phonetic rendering of the term for "homeworld" used by the population of SCP-1322-A with whom communication has been established.

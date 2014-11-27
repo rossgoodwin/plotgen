@@ -1,0 +1,61 @@
+SCP-818, Early Stage, Passive Phase: Note the continued distortion of surroundings
+
+Item #: SCP-818
+
+Object Class: Neutralized (Previously Keter)
+
+Special Containment Procedures: SCP-818 was confined in a circular area of no less than four meters across, with no object directly obscuring the walls. SCP-818's containment area contained: one (1) sleeping mattress, one (1) table, and one (1) light fixture, fitted with high wattage fluorescent light bulbs. SCP-818's cell was not, under any circumstances, rearranged, nor was the light turned off. Personnel were not permitted in SCP-818's holding cell, nor any area within an additional ten meters around the cell's perimeter, during its active times (from exactly 8:43 A.M. to 9:21 P.M). Personnel exposed to SCP-818's area of effect during its active time were reclassified to Class D and enrolled in SCP-818's test group.
+
+The following document, attributed to the original project head Dr. █████ (19██ to 199█), was considered the major directive of the project for eight years and was given to each new member of the research staff. It is retained here for archival purposes:
+
+It should be noted that SCP-818 is a creature of precise habits. It will follow a specific script [See Attached File SCP-818-Script], without fail each day, to the letter. Built into this model are the times of deviation during which SCP-818 must be closely monitored. It should go without saying that failure to note ANY AND ALL additional deviations could be disastrous.
+
+Description: SCP-818 is a young male, appearing to be approximately seven to twelve years of age. Additionally, SCP-818 displays all the signs of severe autism. The examinations of on site behaviorists and recovered medical records show that this condition has been present for SCP-818's entire life. SCP-818's physical features have a tendency to shift when active; however, during a resting state, it has been noted as having black hair and dark skin. SCP-818 cannot speak and possesses no known direct ability to communicate. SCP-818 has shown no need for nutrition or waste removal, but it has been recorded breathing and, presumably, sleeping. SCP-818 does not appear to age, and has been known to shift between heights (ranging from 1.17 to 1.84 meters) and weights (65 to 80 kilograms), making any determination impossible. This, coupled with the incomplete state of the recovered medical records, leaves much of SCP-818's history blank.
+
+SCP-818 is potentially capable of changing the universe on a fundamental level, but its abilities are severely hampered by its disability. The changes it makes are presumably an attempt to make the world conform to how it perceives things: pigmentation in all objects has a tendency to shift and flow, utensils and tools take on strange shapes, and sounds will emanate from no discernible source. These effects have demonstrated a range of approximately ten meters.
+
+SCP-818 has also shown the ability to spontaneously generate matter. Nebulous objects have been noted to appear, particularly after sessions in which SCP-818 has been doing a creative activity, such as coloring or finger painting [See EXPERIMENT LOG 818-1]. Most of these objects remain for less than a few minutes before vanishing again, though some have been recorded as staying for several hours. Because of this, SCP-818's holding cell has been gradually stripped of all materials that may be used for these purposes. None of the created objects move further than SCP-818's line of sight, leading to Dr. ████████'s hypothesis that SCP-818 is literally creating phosphenes, possibly caused by the contrast of the colors from the arts and crafts and the white walls of its cell. Further testing is required to determine if this is true.
+
+SCP-818 was recovered from what is believed to have been its grandparents' home in rural ███████████, where it had apparently been left since their deaths in 19██ from a presumably unrelated accident. One local banker and two real estate agents were assessing the property when they encountered SCP-818; their failure to return prompted local police to investigate. After █ subsequent disappearances, the Foundation was alerted, and Special Task Force ██████ was reported to investigate. Upon their arrival, [DATA REDACTED]. Subsequently, Dr. ████ suggested that [DATA REDACTED], leading to SCP-818's capture.
+
+Addendum SCP-818-T
+
+During the last ██ years, the containment procedures for SCPs with similar effects have drastically improved, due in part to the efforts of SCP-818's containment staff. However, due to an increasingly erratic and dangerous lack of absolute adherence to the established control script and the increasing presence of more dangerous and deadly effects, we have no other choice but to authorize the termination of SCP-818. [SEE ADDENDUM: SCP-818-00T, Neutralization]
+
+Experiment Log 818-1:
+
+Test subjects entering SCP-818's radius of effect during active hours reported highly distorted vision, auditory and sensory hallucinations, inability to control their motion, and a tendency to repeat actions. After removal of subject, these effects seemed to have lessened, but repeated exposures seem to extend the duration. Presumably, continual exposure would result in the permanence of these symptoms. The nature and severity of symptoms seems to relate directly to what part of SCP-818's scripted program was being enacted.
+
+For the purposes of this testing, subjects were chosen for a resemblance to people in photographs recovered from SCP-818's home in 19██. A slight family resemblance with the passive phase appearance of SCP-818 was inferred from the photographs, and three Class D personnel (D-1922, D-921, and D-837) were selected.
+
+On ████ 17, 19██, testing was scheduled to determine how SCP-818 would react to certain events, specifically those which have shown flexibility in the past, being manipulated. After the failures of D-1922 and D-921 to elicit positive reactions, D-837 entered the enclosure. The highlights of this testing are listed below.
+
+Date: ████ 18, 19██
+
+Subject: Coloring
+
+Procedure: D-837 entered SCP-818's enclosure at ██:██ P.M. Previous information discovered during recovery suggested that this was a specific time when SCP-818 would be at a low point for negative activity. D-837 entered and placed three crayons on the table: one (1) red, one (1) blue, and one (1) yellow. This was followed by a piece of plain white paper. SCP-818 examined each crayon before changing the yellow one to green and proceeding to color. After exactly ██ minutes, SCP-818 ceased coloring and proceeded to the wall of the enclosure, beginning to follow it. D-837 exited the enclosure before symptoms could worsen.
+
+Details: D-837 complained for several days of visual hallucinations, all of which were the color green. No other symptoms were noted. D-837's termination temporarily delayed due to SCP-818's seeming acquiescence to her presence. Testing with D-837 will continue.
+
+Date: ██████ 2, 19██
+
+Subject: Finger painting
+
+Procedure: D-837 entered SCP-818's enclosure at the same time as all previous tests, only having replaced the previous crayons with finger paints of the same colors. SCP-818 was initially hesitant, but eventually changed the color of the yellow paint to green, as in all previous tests. SCP-818 proceeded to paint for several minutes until, at ██:██ P.M, he ceased and proceeded to the wall of the enclosure, beginning to follow it as usual. D-837 exited the enclosure.
+
+Details: D-837 has been experiencing an increase in the symptoms of SCP-818 exposure. After the small change in today's schedule, D-837's vision is entirely tinted green.
+
+On September 17, 20██, D-837 was killed during a breach of SCP-███. The next day, when D-837 did not appear in its containment unit, SCP-818 became extremely agitated, resulting in [DATA REDACTED], causing the death of two research subjects currently contained in its effect radius. Replacement for D-837 may be necessary.
+
+Date: September 20, 20██
+
+Subject: Finger painting
+
+Procedure: D-18274 entered SCP-818's enclosure at the same time as all previous tests with both the crayons and the finger paints. D-18274 was chosen for her resemblance to D-837. For the first time, SCP-818 chose multiple colors, mixing them together on the paper. Additionally, SCP-818 breached its script more severely than any other time, coloring for an additional ██ minutes.
+
+Details: Upon D-18274's emergence from SCP-818's enclosure, D-18274 began demonstrating many of the previous habits observed in D-837, including [DATA REDACTED] and a tendency to whistle show-tunes. After two additional exposures, each mirroring the first, D-18274 is essentially the same person as D-837. Blood tests confirm apparent genetic match. D-18274 is reclassified as D-837. D-837's delay of termination is refiled.
+
+ADDENDUM SCP-818-00T: Neutralization
+
+On January 17, 20██, Dr. ████ entered SCP-818's containment chamber during its passive phase and administered an injection of ██████ and ██████, resulting in SCP-818 first completely ceasing breathing and then ceasing all other recorded bodily functions. Autopsy reports show that the subject died of anaphylactic shock. Remains are remanded to Site-██ and are available for study.

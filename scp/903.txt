@@ -1,0 +1,49 @@
+SCP-903 seen from Station A
+
+Item #: SCP-903
+
+Object Class: Euclid
+
+Special Containment Procedures: Access to either side of SCP-903 is to be restricted to authorized research personnel only. The entrances must be sealed and kept under surveillance at all times. During testing, under no circumstances are personnel to enter SCP-903 or attempt to cross it. Any persons attempting unauthorized entry will be subject to lethal force. Any test subject or item that has passed through or emerges from SCP-903 must be immediately destroyed once testing is concluded.
+
+Description: SCP-903 is an incomplete Site-19 utility tunnel that connects the SCP Containment Wing with the Lambda Laboratory Wing. The tunnel is three meters in diameter, fifty meters long, and buried approximately five meters underground. Because of its incomplete nature, SCP-903 is an empty concrete tunnel that contains no piping, wiring, or other utility equipment. SCP-903 also contains an old rail system that consists of a single monorail that spans the entire length of SCP-903.
+
+SCP-903 was originally used as a discreet and secure method of transporting SCPs from the Containment Wing directly to the Lambda Laboratory Wing. However, this practice was discontinued shortly after Incident 903-1, where the presiding personnel violated standard operating procedure and transported several SCPs at once, rather than one at a time. The resulting incident is most likely what caused SCP-903 to obtain its current anomalous properties.
+
+At first glance, SCP-903's most obvious feature is the fact that the entire tunnel is completely visible, despite the lack of any internal lighting. The lighting appears to be emanating from the white line of paint spiraling around the tunnel walls. It is unclear how this phenomenon works. The monorail systems still functions as normal. However, if an item or organism is placed inside the monorail car and sent through SCP-903, the monorail will suddenly and inexplicably stop in the middle of the tunnel. The anomalous illumination will then deactivate, reducing visibility inside SCP-903 to zero. Attempts to use external lighting or image enhancement technology such as infrared or night vision equipment have proven ineffective in observing SCP-903 during this state. After approximately fifteen seconds, the anomalous illumination and the monorail cart will reactivate, and the cart will continue on its path like normal. However, the item or organism that was previously placed inside the cart will be missing with no trace.
+
+After an indeterminate amount of time, SCP-903 will activate the monorail cart on its own. Once the cart reaches the center of SCP-903, the illumination will shut down for fifteen seconds similar to a deliberate activation. When SCP-903 reactivates, the monorail cart will contain a new item (designated SCP-903-X) and in most cases, an elaborately handwritten note.
+
+The instances of SCP-903-X SCP-903 generates are all universally anomalous in nature, and each instance possesses different anomalous properties. However, each instance's properties seem to consistently match properties of SCPs that had previously been transported through SCP-903 prior to Incident 903-11. Once the instances of SCP-903-X are removed from SCP-903, they will deteriorate and lose their anomalous properties after approximately two hours, assuming they weren't already destroyed beforehand.
+
+The handwritten notes included with the instances of SCP-903-X suggest that SCP-903 is somehow connected with a sapient entity capable of manufacturing instances of SCP-903-X. Attempts to trace the source of the notes based on composition of the ink and paper, as well as handwriting analysis, have so far failed to produce any results. However, the handwritten notes are not anomalous and do not deteriorate like instances of SCP-903-X.
+
++ List of notable SCP-903-X instances and notes.
+
+- Access Granted
+
+SCP-903-1: A pineapple that autonomously launches itself at any individual that makes a subjectively bad joke.
+
+Accompanying Note: I thought the tomatoes were such a hoot, so I thought I'd give it a try with a different fruit.
+
+SCP-903-5: A shard of obsidian carved into a humanoid shape. Whenever an individual cuts themselves on its edge, SCP-903-5 morphs into a perfect image of that individual.
+
+Accompanying Note: For the price of a little pain, you'll have a little buddy to keep you sane.
+
+SCP-903-12: A bronze key that weighs 90 tonnes.
+
+Accompanying Note: With this you can open any door, if you have the strength to get it off the floor.
+
+SCP-903-20: A pack of "Blue Lady" brand cigarettes with a picture of a blue haired female with one eye. Anybody who smokes one of these cigarettes is temporarily afflicted with a condition where they are convinced a one eyed woman is staring at them.
+
+Accompanying Note: Take a puff if you dare, if you can withstand her unbreakable stare.
+
+All other instances of SCP-903-X omitted. For a full list please file a request to Dr. Ryan.
+
+Addendum: After four years of containment and testing, as well as cataloging all instances of SCP-903-X produced, SCP-903 reactivates and produces only a single, handwritten note.
+
+Even the greatest minds can lose their inspiration. Can you please help an artist in desperation?
+
+Footnotes
+
+1. For a full listing of SCPs transported through SCP-903, please send an official request to the current Site Administrator.

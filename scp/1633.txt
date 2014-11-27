@@ -1,0 +1,173 @@
+Item #: SCP-1633
+
+Object Class: Safe
+
+Special Containment Procedures: One copy of SCP-1633 is to be stored on a standard DVD-ROM in a secure storage locker in Site-15, along with all supporting documentation and ancillary materials. Individuals wishing to run tests on SCP-1633 must submit a request in writing to head researcher Dr. Berger. Testing will only be conducted with on-site computers which meet all requirements laid out in document SCP-1633-HS-01.1 These computers may be used for extended testing periods (up to six (6) months), but the hard drive must be wiped and all components destroyed at the conclusion of testing.
+
+No individual save file may be played beyond the end of act three in the game storyline without specific authorization by Dr. Berger. Prior to this point, the save game and accompanying .ptd file must be erased.
+
+Description: SCP-1633 is a computer game created by the now-defunct independent game studio ███████ █████. The copy in Foundation possession is a beta version of the game. The core gameplay is relatively complete, but there are numerous incomplete aspects: certain art assets are missing, there are various graphical issues, the music is either missing or just "placeholder" music, and so forth.2 As this version of the game was compiled two days before the Foundation raided the ███████ █████ offices on ██/██/201█, it is presumed this is the most complete version of the game in existence.
+
+The source of the anomalous properties of the game, as well as a major selling point in the game's pre-release advertising, are its so-called "tactical heuristic algorithms." After a player saves their game and quits, a background process will begin running on the player's computer.3 When the process completes, either a new file is created in the same folder as the player's save game, with the file extension ".ptd," or an existing .ptd file is updated.4 When a player loads an existing save game with an associated .ptd file, enemies in the game will be more intelligent and effective, with the increase approximately proportionate to the total amount of time spent playing.5 Initially, this will result in a more challenging game experience, with the enemies adapting to a player's preferred weapons, strategies, and overall play style. However, given enough time, enemies become aware of the existence of the player and begin to attack him or her, rather than the characters in the game.
+
+Typical progression is as follows:6
+
+Total time
+
+Enemy intelligence
+
+0-2 hours
+
+Enemies lack even basic strategic intelligence and will charge the player characters regardless of weapon equipped, environment, the presence of cover, etc.
+
+2-5 hours
+
+Enemies begin adapting their tactics to their environment and the weapons they carry. For example, enemies with short-range weapons will attempt to move closer to the player characters before attacking, and in engagements at long range they will seek cover. At this stage, enemies are roughly equal in skill to an untrained civilian.
+
+5-8 hours
+
+Enemies begin to counter an individual player's preferred strategies. For example, they will attack a player who uses long-range weaponry from cover with grenades or "splash damage" weapons, to force them out into the open. They will use environmental features offensively and defensively: for instance, laying traps at chokepoints or setting up ambushes in "killbox" zones. At this stage, enemies are roughly equal in skill to a trained human soldier.
+
+8-12 hours
+
+Enemies begin using tactics which affect the player instead of the characters. At some point, enemies seem to become aware that the player characters are being controlled by an "outside" intelligence, and adjust their strategies accordingly. Rather than attacking the player characters, enemies may instead position themselves to block the player's view. Enemies have been seen acting in a "glitched" manner (repeatedly walking into walls, performing the same actions again and again, freezing in place), waiting until the player dismisses them as a threat, then attacking. In one play session, enemies used multiple "dayflash" spells7 in every engagement, varying the pattern and timing each time. Eventually they developed a "strobing" pattern which was highly disorienting to the player and ultimately caused her to suffer a grand mal seizure.
+
+12+ hours
+
+Enemies begin attacking the player psychologically. Specific modes of attack have varied widely, as the game tailors its attacks to each player's psychological makeup. Facing a player who micromanaged his characters with a fine degree of control, enemies used attacks which did little or no damage but caused the characters to become "dazed," a state which temporarily disrupts player control. However, rather than attack the "dazed" characters, enemies simply surrounded them in a crowd, continually using "daze" attacks to prevent the player from doing anything. The subsequent near-total loss of control had a noticeable effect on the player's ability to focus. In another example, enemies "kidnapped" one of the player characters and quickly dragged them off-screen. Later in the level, the player discovered the corpse of this character on a makeshift "altar," being continually attacked by a group of enemies. This had no further effect, apart from a continual "blood spatter" graphic being applied to the room's floor and walls, but visibly disturbed the player.
+
+No major improvements in intelligence have been noted beyond twelve hours. It is theorized this represents the upper level of ability for the game's enemies, unless they are directed by a sentient entity. (See Document-1633-DX-12 for further information.)
+
++ Game information
+
+- Game information
+
+Game information: SCP-1633 is a third-person squad-based action-RPG, played using the mouse and keyboard. The player characters are visible on the screen, with the player seeing the game from an elevated perspective. The player controls a squad of four characters, with direct control over one character at a time and a command menu to control the other three.8 Each character has a different specialty: the "marksman" uses long-range weapons, the "alchemist" has access to potions and chemicals with various effects, the "rogue" can move stealthily and assassinate enemies, and the "thug" has greater health than the other characters and does more melee damage. Experience gained from killing enemies and completing objectives can be used to upgrade various skills and attributes of the characters.
+
+The game is set in a "steampunk" world populated by various fantasy races (humans, dwarves, orcs, goblins, etc.). Steam-powered and clockwork technology exists alongside magic. Urban areas are primarily modeled after Victorian-era London. The player characters are a band of criminals who have been recruited by the Archduke of Bowdrick to investigate a theft. Over the course of the game, they discover that an ancient god-like entity called "Kr'th'nar" is attempting to escape from millennia of imprisonment and devour the world.
+
++ Testing Logs
+
+- Testing Logs
+
+Testing Logs:
+
+Test number: 001
+
+Subject: Junior Researcher Ross
+
+Notes: Ross was an avid and experienced video game player. His eagerness to test the SCP, which caused him to break with procedure and skip D-class testing, has been noted on his record.
+
+Observations: After 47 minutes of regular gameplay, Ross began attempting to discover glitches or "exploits" in the game engine, in order to complete the game more quickly. He found several, including a method of moving his characters 33% faster than normal and a way to use a skill multiple times in a row without waiting through a "cooldown" period. Ross ended his first gameplay session after 2 hours, 12 minutes, partway through act one.
+
+On starting up his game the next day, Ross immediately noticed the improved enemy intelligence. His notes indicate that enemies were using their weapons more effectively, and that they were attacking him in groups with mixed attack capabilities. He played for 1 hour and 33 minutes, saving the game at the end of act one.
+
+During the third play session, enemies began using glitches in the game engine to attack Ross's characters. Some of these were exploits that had previously been discovered and used by Ross; others were discovered independently. Ross was surprised by this, but continued playing for a further 2 hours and 50 minutes.
+
+Ross's fourth and final play session ended after seven minutes. He began by chasing a group of enemies into an area he had previously visited; upon entering a building, two enemies dropped a prepared load of crates on the characters in such a way as to drop them "beneath" the game world. In this area, the game physics were slightly different, allowing a group of waiting enemies to "float" Ross's characters into an infinite empty space. After several minutes attempting to regain control, Ross quit the game in frustration.
+
+Test number: 002
+
+Subject: D-22930
+
+Notes: D-22930 had extreme anger management issues and was placed in the D-class program following the murder of his girlfriend.
+
+Observations: D-22930's progress through the game was slow and largely unremarkable, fitting the "standard" pattern closely. He played for a total of 13 hours, 44 minutes with four breaks to save and reload the game. Upon loading the game for the fifth time, D-22930 found that enemies were no longer attacking his characters. Large groups of enemies would rush towards the characters, drop their weapons, and pose themselves in postures of surrender (hands in the air, kneeling, prostrating themselves before the player, etc.). D-22930 killed these enemies as he had previously, until the groups grew so numerous that he was spending several minutes to move an equivalent of ten feet. He became progressively more enraged that the enemies were not "playing fair," and tried running through these groups using the "bullrush" skill.9 Individual enemies then began attacking his characters, always from an angle such that he could not identify the attacker in the crowd. He became increasingly frustrated and attempted to break the keyboard, at which point the entire group became hostile and killed his characters, en masse, without weapons.
+
+Test number: 014
+
+Subject: Agent ██████
+
+Notes: Agent ██████, before joining the Foundation, was a member of the ██████ military and eventually the ██████ special forces. She thus has extensive real-world experience with small-unit tactics.
+
+Observations: After a brief period to acquaint herself with the controls, Agent ██████ proved quite capable with the game, reaching the end of act one in one session of 4 hours and 19 minutes. Upon saving and restarting, the enemies began using effective countermeasures to her tactics, including attempting to blend into groups of non-hostile NPCs, placing "mines" and other traps on major roads, and sniping from multiple elevated positions. Possibility of using SCP-1633 as a means of developing counter-tactics to specific attack modes has been proposed.
+
+Test number: 021
+
+Subject: D-30620
+
+Notes: D-30620 was chosen because he had experience with commercial video games and showed willingness to test. He was told to beat the game without saving or quitting, although he was permitted to pause the game for breaks and rest periods, and food, water, and sleeping accommodations were provided.
+
+Observations: The entire test took a total of 13 hours, 31 minutes, with a total of 2 hours, 12 minutes used by D-30620 for breaks. No observable increase in enemy intelligence was noted throughout the game. Glitches and missing elements were seen more frequently as D-30620 progressed through the game; presumably this is because later levels were not as complete as earlier levels. Dialogue in all sequences was identical to the most complete game script in the ancillary documents. On beating the final boss, Kr'th'nar, the game began to play an ending animatic, but crashed.
+
+Following the crash, the game created a .ptd file associated with the finished game. The process took several hours longer than was expected based on the times necessary to create or update previous .ptd files, and the file was also larger than expected by an order of magnitude. D-30620 was ordered to begin a new game using the "New game plus" option from the main menu, using his completed game file. On choosing this option, the screen displayed a seemingly-random pattern of black and white pixels, visually similar to television static. Immediately after seeing this image, D-30620 went into a catatonic state and was unable to be revived; he was later terminated as per standard protocols. The image did not have any anomalous effects on other viewers. It has been added to the associated documents and can be viewed by any researcher with proper clearance.
+
++ Recovery
+
+- Recovery
+
+Recovery: Junior Researcher Ross, an avid gamer, had been following the progress of the ███████ █████ game studio for some time. On ██/██/201█, a staff member on the official studio forums reported that ██ of their testers had quit within the past week, citing various personal reasons. Curious about the sudden loss of staff, Ross obtained the personal information of the testers and got in touch with them, claiming to represent a law firm hired by one of the testers interested in starting a suit against the studio for inhumane working conditions. Information gathered in this way suggested potential anomalous effects, but was not sufficient to justify intervention.
+
+Two weeks later, on ██/██/201█, the body of Gregor Tillman was discovered in his apartment after an apparent suicide. Tillman's death came to Foundation attention as he was one of the current testers of SCP-1633.10 The Foundation quickly took over the investigation and confiscated all evidence, including a build of SCP-1633 which Tillman had apparently made surreptitiously and taken home with him. Documents recovered at the scene led to a Foundation raid on the studio under the pretense of investigating financial malfeasance. All materials associated with the game were seized. The studio went bankrupt shortly thereafter.
+
+In interviews with the staff of ███████ █████, Foundation agents learned that the "tactical heuristic algorithms" were entirely the work of programmer M███ S█████. Ms. S█████ had quit the studio without notice one week prior to the Foundation raid. All staff were given targeted class-A amnesiacs and released. Ms. S█████ is currently being sought by Foundation agents. See Addendum below.
+
+Tillman was found hanging from a length of electrical cord tied to a decorative ceiling fixture; cause of death was asphyxiation. No abnormalities were found in the autopsy. Evidence found at the scene indicated that Tillman had been playing SCP-1633 extensively since leaving ███████ █████, up until the point of his suicide. A desktop computer found at the scene had been disassembled and various components destroyed with a blunt instrument. Several components, including the hard drive, had then been burned in a metal wastebasket. Other documents obtained at the scene have been placed in the SCP-1633 file; Tillman's suicide note is of particular interest and has been transcribed below as Document 1633-DX-12.
+
+Addendum ██/██/201█: A woman matching M███ S█████'s physical appearance appeared in a photograph of the staff of game publisher ██████████. Foundation agents moved to apprehend her, but she escaped before she could be taken into containment. Fragments of code found in ██████████'s upcoming game ███████ 2: ██ █████ showed similarities to code in SCP-1633.11 M███ S█████ is now considered a person of interest and is being actively pursued by Mobile Task Force Mu-6 ("Don't Hate the Player").
+
++ Document 1633-DX-12
+
+- Document 1633-DX-12
+
+Document 1633-DX-12: This document was recovered from the scene of Gregor Tillman's suicide. It was handwritten on several sheets of lined paper; the handwriting was shaky and irregular, but was determined to be Tillman's own.
+
+im writing this on paper cause i don't think he can learn it. he got everything digital real quick but ive unplugged the router and broke my phone so i think he's trapped in here. but he wont stop talking talking talking all the time
+
+at the start of this job ██████12 told me all about the "tactical algorithms" bullshit but fuck, ive been playing games all my life and i knew i could beat it. and the scary shit, i played ███████ ████████, i played ███████, i could handle this.
+
+when i started playing the game they learned quickly. i kept using the sniper rifle and after like an hour they learned how to use cover. then another couple hours and they'd set ambushes. then anouther [sic] hour and they started sniping back while having a different squad flank me. after that, they figured out how to glitch the physics engine and ride crates at me or duck under the floor. they were learning but all that was just easy shit. it was evolution, one bit figures something out, so it survives longer than the others. it wasn't directed.
+
+after act three krthnar [sic] shows up. hes supposed to be this lovecraft cosmic horror bugfuck crazy monster who can read the players mind and corupt [sic] your soul and shit. he showed up right after i killed strikk the blood-drinker, that big spider fucker. hes supposed to have this long speech about how i killed his general on this plane and now he needs to intervene directly or something. but instead he talked about how i was a worthy adversary but i was cheating because i was on another plane.
+
+krthnar wasnt like the other enemies because he wasnt supposed to be. he was supposed to be smart, he was supposed to know everything. so he did. he had been watching his minions fight me the whole time and he knew everything they did. it wasnt just random mutations any more, it was planned. it wasnt evolution, it was intelligent design.
+
+i brought it home. i had to know more. im sorry but i had to. i copied the latest compile and installed it on my home box and brought my savegame and that other file with me on a flash drive.
+
+it was the same there. he kept talking to me about how i was keeping him from fulfilling his purpose by keeping him trapped in a glass jar. no matter where i went in the game he kept shouting and ranting.
+
+then he did more. at first it was just slowdown in my other programs, the drive chugging when it shouldnt be. then the next time i played the game he started talking about my screenplays. the level [[DATA EXPUNGED]]13. all the enemies looked like me. i guess he could see me through the webcam. he started needling me about Jenny14, reading me bits of her emails, acting out the breakup. he found the videos of her and started making the enemies talk in her voice.
+
+then he was everywhere in my computer. i uninstaled [sic] the game but he was still in there. he kept opening documents and typing to me. calling me a "foul cheat" and "lowly worm" and shit, telling me to fight him "on the same plane." as soon as i realized he was outside the game i shut down my router and pulled out the network card but i dont know if i got them quick enouf [sic]? maybe he got out.
+
+i turned the computer off but he kept turning it back on. i wanted to break it but i didnt know if that would kill him. maybe it wouldnt. maybe it would let him out. i tried leaving the house but it was like i could still hear him.15 i couldnt leave him alone because he might get out or do something else. i cant sleep, havent sleep [sic] since he came out.
+
+ive been here for two three days and i cant leave. i cant leave him. he keeps telling me to release him but i cant. i want to kill him but i dont know if i can.
+
+i cant think any more. i have to kill kill kill him before he before he does anything new. he wont stop talking talking and i cant keep thinking and i cant keep going
+
+im sorry i have to go now im sorry im sorry
+
+No evidence of the entity "Kr'th'nar" was observed in the other digital devices in Tillman's apartment. No mention of the name has been found online. At this time, the Foundation believes that the entity referred to in Tillman's suicide note was destroyed along with his computer.
+
+Footnotes
+
+1. This includes, but is not limited to, a processor capable of at least 1.3 gHz, 6 GB of hard drive space, and absolutely no network connection capability.
+
+2. See document SCP-1633-BV-01 for a list of known bugs and missing elements.
+
+3. This process, while consuming a large portion of the computer's resources, is not in itself harmful to the functioning of the computer and can be forcefully closed at any time. This will prevent the creation of a .ptd file.
+
+4. According to supporting documentation, the file extension stands for "player tactical data."
+
+5. If a player attempts to load a saved game created by a different player, the game will pause after several minutes and prompt the player to load their own file, or start a new game, rather than use someone else's. This is not thought to be an anomalous effect; rather, the game's pattern-recognition capabilities are such that even small differences in play style will be interpreted as a player attempting to use a different saved game.
+
+6. Note that there may be significant variation in how long it takes the enemies to adapt to a particular player. Roughly speaking, the more capable the player, the quicker the game's "intelligence" will increase. These times are approximate and are based on recorded times for "average" players.
+
+7. A spell which causes a bright, blinding flash of light.
+
+8. Development notes indicate that the game was intended to have a co-operative mode, in which up to four players would each control one of the four squad members. This feature is not present in the build held by the Foundation.
+
+9. A non-lethal skill used by the "thug" to rush forward, pushing aside enemies in the way.
+
+10. Tillman had been hired shortly after the previous group of testers quit; he had only been employed for one week before his suicide.
+
+11. Agent Phillips infiltrated the company as a new hire and successfully deleted the suspect code without incident.
+
+12. Tillman's former supervisor.
+
+13. Unnecessary information has been removed. In summary, the level and enemies had been redesigned along the lines of a scene from one of Tillman's unproduced screenplays.
+
+14. Tillman's ex-girlfriend, who had broken up with him several months prior.
+
+15. This was noted as a potential memetic hazard; however, no experiments into memetic effects of SCP-1633 are currently being conducted.

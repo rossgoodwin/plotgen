@@ -1,0 +1,59 @@
+Item #: SCP-1323
+
+Object Class: Euclid
+
+Special Containment Procedures: Baseline containment of access points to SCP-1323 consists of passive monitoring of nearby communities in order to identify solicitations for contributions to SCP-1323's contests. Solicitations typically appear approximately 7-10 weeks prior to each access point's activation in the form of large parchment or vellum notices glued onto the sides of various buildings. Once a solicitation has been identified, D-class with relevant skills are to be selected and provided appropriate materials to create an entry for each competition. Entries are to be delivered to the access point immediately once they have been completed, and no later than 10 days prior to the activation of the access point.
+
+Active containment is only necessary once an access point activates, and consists of erecting security checkpoints immediately outside the access point under the guise of "anti-terrorism security measures". All individuals attempting to enter SCP-1323 will be provided a "membership wristband" which is to contain a miniature GPS tracker, wireless camera, microphone and transmitter. Attempts to fully prevent civilians from entering SCP-1323 have resulted in individuals spontaneously appearing in SCP-1323, usually escorted by an employee of SCP-1323.
+
+Description: SCP-1323 denotes both an anomalous region of space that can only be accessed from one of four access points located in the British counties of [REDACTED] and the event that occurs within this region. The interior of SCP-1323 resembles a large open field, with permanently cloudy or overcast skies. Travel in any direction will result in a return to the main activity space. Each access point is active for 7-12 consecutive days at some point during the months of October and November. Only one access point is active at any given time.
+
+Located in this field is a fairground, consisting of an exhibition hall, a livestock pavilion, and a sideshow. Interspersed throughout the fairgrounds are a variety of information and ticket kiosks, food stalls, and wandering entertainers. All buildings appear to be made of heavily weathered and cracked granite blocks, and non-permanent structures such as game stalls are typically constructed of aged wood, threadbare cloth, and lightly corroded non-ferrous metals.
+
+The exhibition hall contains a large array of entries into various judging competitions. All entries are homemade and categories have included quilts, jams and jellies, photography (with separate categories for black and white, color, and Kirlian), swords and daggers, gemstone statuary, watercolor paintings, embroidery, and musical instruments. The top three winners in each category will have a leather sack1 appear within their primary residence coinciding with the deactivation of the applicable access point. Each sack contains 13 coins composed of a pure metal, weighing 1 pound (0.4536 kg) each, with the first place winner receiving gold coins, the second place winner receiving silver coins, and the third place winner receiving copper coins.
+
+Entrants in any category receive "free passes" to SCP-1323 and are allowed access to "employee restricted" areas. Surveillance recorded from D-class personnel reveal that this restricted area appears to be underground, with earthen walls and ceilings. Although entrants are generally confined to large rooms, D-class have previously been able to access other areas, which appears to be a complex system of passageways whose layout is topologically inconsistent. Fairground employees can occasionally be seen moving through these passages, although they will uniformly escort non-employees back to the original chamber if seen.
+
+The livestock pavilion is separated into quarters, each containing a different category of animal. These are bovines (various breeds of cattle), equines (various breeds of horses and unicorns), canines (various breeds of hunting dogs and wolves), and porcines (pigs, hogs and boars). In addition to the judged competitions for best example of each animal category, there are irregular exhibition demonstrations involving the animals, such as trick riding, obstacle courses, and death matches.
+
+The sideshow consists of a variety of games, rides, and attractions. These include standard attractions such as ring-toss, bobbing for apples, skee-ball, carousels, ferris wheels and mirror mazes, as well as anomalous attractions such as shooting ranges2, freak-shows, and "guess your weight" booths3. Participation in any of these requires from 1 to 15 tickets.
+
+The food stalls sell typical fair food, such as roasted poultry legs, deep-fried sweets (ice cream, snack cakes, chocolate sandwich cookies, and ambrosia have all been previously identified), candy floss, caramel apples, beer, and lemonade. Prices range from 5-10 tickets. Approximately 17% of all patrons known to have ingested these foodstuffs fail to leave SCP-1323 before the local access point deactivates, and have been later identified as fair employees.
+
+The information kiosks provide maps of the fairgrounds, program schedules, and sell the tickets that are used throughout the fair. Ticket prices are constant across appearances of SCP-1323 and consist of the following:
+
+1 ticket
+
+a joyful laugh and a sorrowful tear
+
+5 tickets
+
+a cherished memory
+
+10 tickets
+
+a year and a day
+
+25 tickets
+
+a lost love
+
+100 tickets
+
+a favor
+
+Civilians and Foundation personnel who purchase tickets will display a variety of mental, emotional, and behavioral abnormalities for up to 7 years, and frequently report a compulsion or sense of foreboding if they are prevented from following any unusual or abnormal impulses during that time.
+
+Fairground employees are all dressed in clothing and costumes consistent with styles from the early 20th century. The behavior and terminology of the employees is strongly reminiscent of stereotypical carnival barkers from that same time period. Only 37% of employees appear to be human, while the remainder are anomalous humanoids. Their morphology varies considerably from individual to individual, including heights ranging from approximately 75-215 cm; skin tones including pure white, various shades of blue and green, and dark brown; and exaggerated or non-standard placement of facial features. All attempts to interview employees, or interact with them in any way other than as part of their duties, are rebuffed with suggestions to "take it up with management." No member of "management" has ever been located despite repeated requests for interviews and exploration of restricted areas.
+
+Any aggressive actions taken towards the employees, other patrons, fairground structures, or contest entries result in the rapid appearance4 of large, muscular entities who eject the offending individual from the active access point. Individuals so ejected are unable to enter any access point in the future, and typically display minor cosmetic changes such as unnatural skin pigmentation changes, rapid cartilage growth of the face and head, and increased body hair growth rate. These cosmetic changes are permanent, and will rapidly restore themselves if surgically corrected.
+
+Footnotes
+
+1. DNA analysis of the leather matches Bos primigenius
+
+2. The targets are small live humanoids, labelled as "goblins" or "pixies" by the game stall employees.
+
+3. All D-class who have tried this type of game have had their weights immediately and radically altered to match that guessed, regardless of the degree of the mass change.
+
+4. Longest recorded response time was 2.6 seconds

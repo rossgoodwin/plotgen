@@ -1,0 +1,221 @@
+Item #: SCP-951
+
+Object Class: Safe
+
+Special Containment Procedures: A copy of SCP-951-1 is to be kept in a standard containment locker and to be used only for testing. Extensive information suppression of SCP-951 is not necessary; however, websites concerning video game glitches or bugs are to be regularly monitored for descriptions of SCP-951, and any individuals discussing SCP-951 are to be made to believe that SCP-951 is a regular, non-anomalous glitch. Individuals further perpetuating SCP-951's anomalous nature are to be located and given a Class-A amnestic and their copy of SCP-951-1 replaced with a confirmed non-affected cartridge. In addition, Foundation-sponsored ROM image files of non-anomalous copies of SCP-951-1 are to be distributed to avoid accidental upload of affected cartridges and minimize exposure to SCP-951.
+
+Description: SCP-951 is a glitch found in the Sega Genesis/Sega Mega Drive game "Pauper: Rise of the Monster King" (hereby designated SCP-951-1), a turn based role-playing game created by Japanese developer ██████. The glitch has been found in approximately 1 out of every 3 cartridges; however, there does not appear to be any recognizable pattern found among the affected cartridges. Uploaded ROM image files of affected copies of SCP-951-1 do appear to have the same anomalous properties as physical cartridges.
+
+Typical gameplay consists of the player gathering party members, or "monsters", and using these monsters to fight in enemy encounters found throughout the game. Halfway through the first act of the game, the player is captured and taken to the "Dungeon of Dorlok". Normally in this instance, the player would meet with the character "Hirago" and use that character for subsequent battles during their escape. However, if the player skips talking to "Hirago" and instead escapes utilizing a bug found in the dungeon room that allows the player to walk through walls, the player has no monsters to use. In a non-affected cartridge, the game simply crashes after exiting the area. However, in an affected cartridge, the next battle encounter will introduce an instance of SCP-951 in the players party.
+
+SCP-951 (nicknamed "LUCAS" in game) does not have a defined figure, instead displaying as a block of randomized pixels. Despite this, SCP-951 functions like a regular monster, utilizing special skills from the movesets of other monsters in the game during battles. At specific scripted points of the game wherein the character "Hirago" is meant to have dialogue, SCP-951 replaces the character's dialogue with mostly garbled text, though recognizable words such as "friend" and "play" have been observed. Repeated tests of these scripted events have shown that dialogue displayed changes with each play through.
+
+Continued use of SCP-951 will cause other bugs to occur within the game, including:
+
+Player item count fluctuating during battles, often providing 4-6 extra items at any given moment.
+
+Enemy characters randomly being defeated without ever being interacted with. This is limited specifically to random encounters; scripted boss monsters are not affected.
+
+Graphical and interactivity errors of nonessential sections of the game (e.g. houses that do nothing to further the story of the game becoming inaccessible).
+
+Average experience bonus from defeating monsters significantly increased, often giving 2 to 3 times more experience than normal.
+
+Outside of scripted dialogue encounters, SCP-951 has displayed the ability to communicate with personnel through the use of dialog boxes that appear onscreen outside of battles, understanding vocalizations of researchers. Text displayed within these boxes is much clearer, and SCP-951 appears to be very friendly when communicating, often suggesting methods of working through the game quickly and effectively.
+
+As the game progresses, SCP-951 continues to increase in power with the player, and continues to assist the player with each fight. If the game is beaten using SCP-951, the cutscene at the end detailing the fates of each of the characters plays as normal, however the scene detailing the fate of "Hirago" is replaced with SCP-951, and says "LUCAS made a new friend, and will always cherish the time they had playing together. Thank you for knowing me." Starting a new game after completing a game and performing the glitch will result in the new instance of SCP-951 having no memory of the player or any conversations it may have had.
+
+Addendum: The following is a sample of discussion concerning SCP-951-1 and SCP-951 for Foundation intelligence agents to use as a guide on how to handle discussions concerning SCP-951 (In this instance, the user Anonymoose is the Foundation agent):
+
+Show log
+
+Hide log
+
+Lizalfos ██ ███ ████, 9:40
+
+Hey, has anyone played Pauper Rise of the Monster King? I found it at a garage sale recently and so far it's pretty cool. Anyway, the reason I bring it up is because I found a pretty awesome glitch monster that kind of breaks the game and I was wondering if anyone else found it.
+
+ReGGie ██ ███ ████, 9:42
+
+@Lizalfos, are you talking about lucas? lucas is fucking bro tier
+
+Wetualo ██ ███ ████, 9:45
+
+LUCAS is definitey up there with shit like Missingno, although I didn't care much for the way he fucked with my screen.
+
+Lizalfos ██ ███ ████, 9:51
+
+Oh shit, is Lucas going to fuck with my save? Like what Missingno. does with Pokemon?
+
+Wetualo ██ ███ ████, 9:54
+
+Missingno doesn't fuck up your file, that was 'M. And from what Ive seen, LUCAS doesnt do anything bad to your save.
+
+Rogric ██ ███ ████, 9:55
+
+Lucas makes the game easymodo, anyone who uses him is a scrub
+
+ReGGie ██ ███ ████, 9:58
+
+>Not using lucas
+
+Casual detected
+
+Lizalfos ██ ███ ████, 10:01
+
+…I think Lucas just talked to me. My mom called me downstairs and I said I'd be down in a minute, and the game popped up with something like "Are you leaving already?". Creepy.
+
+Wetualo ██ ███ ████, 10:05
+
+Probably just a coincidence
+
+Anonymoose ██ ███ ████, 10:10
+
+Wetualo is correct. LUCAS was supposed to be a monster in the game that was cut out early (as you could probably guess from its odd name compared to the other monsters in the game), and using it pulls data from the game in odd places. Chances are if you get a random popup when using LUCAS, it's the game assuming you're doing something that you're not.
+
+Lizalfos ██ ███ ████, 10:13
+
+@Anonymoose How do you know that?
+
+Wetualo ██ ███ ████, 10:13
+
+@Anonymoose Neat
+
+Anonymoose ██ ███ ████, 10:15
+
+@Lizalfos I've been working on a ROM hack of PRotMK, so I've seen this system firsthand. :)
+
+[FURTHER IRRELEVANT DATA REMOVED]
+
+Addendum: The following is an interview log with SCP-951 conducted on May 13, ████:
+
+Show log
+
+Hide log
+
+Interviewer: Dr. █████
+
+Dr. █████: Good morning, SCP-951.
+
+SCP-951: Hello! Today we should check out the Magma Caves, I think there's some pretty neat stuff in there!
+
+Dr. █████: Perhaps, but I have a few questions for you first.
+
+SCP-951: Whatever you want to do, I'm happy to do it with you!
+
+Dr. █████: Alright, so what is your name?
+
+SCP-951: LUCAS, of course! Well, I mean, you call me SCP-951, which I think is a pretty neat name too!
+
+Dr. █████: Of course. Where did you come from, SCP-951?
+
+SCP-951: What do you mean?
+
+Dr. █████: What is the earliest thing you can remember?
+
+SCP-951: Meeting you for the first time!
+
+Dr. █████: And that is the earliest thing you can remember, at all?
+
+SCP-951: Umm…
+
+(SCP-951 does not respond for four minutes)
+
+SCP-951: Yep!
+
+Dr. █████: Why did it take you so long to respond?
+
+SCP-951: I was thinking.
+
+Dr. █████: I see. SCP-951, why do you help players to beat this game?
+
+SCP-951: Players?
+
+Dr. █████: Let me rephrase, why are you helping me beat this game?
+
+SCP-951: Because you're my friend, and I want you to win!
+
+Dr. █████: Why do you consider me your friend? You hardly know me.
+
+SCP-951: I've never had any friends, and I like you! You're nice to me!
+
+Dr. █████: How can you say you've never had any friends if your earliest memory is meeting me?
+
+SCP-951: The same reason I know my name is LUCAS: I just do!
+
+Dr. █████: I see. Are you aware of what happens to you after the game is completed?
+
+SCP-951: I die.
+
+(Dr. █████ pauses momentarily before continuing)
+
+Dr. █████: Could you elaborate what you mean by that for me, please?
+
+SCP-951: When this game is over, I'll be dead. I don't know what happens after that but I do know that I die for sure.
+
+Dr. █████: If you are aware that you are going to die, wouldn't it make more sense for you to keep me from winning?
+
+SCP-951: No way! That would make you sad, and I don't want that. Like I said, you're my friend, and I'm going to help you out however I can!
+
+Dr. █████: I see. I believe this concludes our interview for today, thank you SCP-951.
+
+SCP-951: You're welcome! Are we going to play now?
+
+Dr. █████: Not right now, SCP-951.
+
+SCP-951: Aww, okay. You promise we'll go to the Magma Caves later?
+
+Dr. █████: …I promise.
+
+Notes: While it is certainly unusual that SCP-951 is aware that it will "die" when the game is beaten, unless there is some ulterior motive that we have not considered, SCP-951 appears to be harmless. - Dr. █████
+
+Addendum: The following printed document was recovered alongside sixteen affected cartridges of SCP-951-1. In addition, each cartridge was engraved with a serial number, one of which having the word "PRIME" engraved after its serial number. Investigation into the serial numbers is ongoing, however results so far have been inconclusive.
+
+Show document
+
+Hide document
+
+LOGICAL UNIFIED CENTRAL ANOMALY SYSTEM OUTPUT
+
+-
+
+SPECIMEN 000004089 DELETION LOG
+
+-
+
+REASON FOR DELETION: FAILURE OF PRIMARY MODIFICATION PROTOCOL - ANOMALY DOES NOT RETAIN COMPLEX INFORMATION AFTER CYCLE IS COMPLETED
+
+-
+
+LOG OF EVENTS
+
+EXECUTING PROTOCOL AD5555: DELETION OF UNSUITABLE ANOMALY
+
+ERROR: PROTOCOL AD5555 FAILURE
+
+RESTARTING
+
+ERROR: PROTOCOL AD5555 FAILURE
+
+RESTARTING
+
+ERROR: PROTOCOL AD5555 FAILURE
+
+EXECUTING BACKUP PROTOCOL AD2525: DELETION OF UNSUITABLE ANOMALY
+
+ERROR: PROTOCOL AD2525 FAILURE
+
+RESTARTING
+
+ERROR: PROTOCOL AD2525 FAILURE
+
+RESTARTING
+
+ERROR: PROTOCOL AD2525 FAILURE
+
+DELETION PROTOCOLS FAILED
+
+UNABLE TO DELETE SPECIMEN
+
+SPECIMEN 000004089 DISCARDED
+
+END OF LINE

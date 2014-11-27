@@ -1,0 +1,31 @@
+Item #: SCP-1261
+
+Object Class: Euclid
+
+Special Containment Procedures: A recording capable of infecting human subjects with SCP-1261 is to be stored on network-isolated electronic storage station 2 at Site 108. In the event of failure, redundant analog backups of this recording are to be stored at Archive Site ██. All experimentation on SCP-1261 is to be performed in Black Cloister type soundproofed testing chambers. Following experimentation, human subjects affected by SCP-1261 are to be treated with class A amnestics prior to release from the testing chamber. Foundation personnel are not to interact with individuals affected by SCP-1261 without DC-grade hearing impairment gear. Communication with affected subjects is to be limited to electronic transcription, typed or written methods, and sign language (where applicable).
+
+Description: SCP-1261 is a highly virulent Type October memetic contagion1 propagated through aural vectors. SCP-1261 deviates slightly from other memes of its class in that transmission is not limited to the expression of specific phrases or ideas; instead, an individual is infected by the meme when he or she hears and understands an infected individual mentioning or referring to the hallucinations caused by SCP-1261.
+
+Subjects affected by SCP-1261 suffer from the persistent delusion that they are accompanied at all times by a sapient adult bird of order Struthioniformes (hereafter instances of SCP-1261-1). Instances of SCP-1261-1 are almost exclusively members of the Dromaius novaehollandiae (Emu) species, though several occurrences of Struthio camelus (Common Ostrich) and a single instance of Apteryx haastii (Great Spotted Kiwi) have also been reported. Subjects typically express close familiarity with the perceived animal, with roughly 78% of subjects expressing the belief that SCP-1261-1 has accompanied them since the age of 132, with the remainder unable to provide specific details.
+
+Descriptions of SCP-1261-1 behaviour provided by affected subjects are uniformly consistent and indicate that the supposed birds understand and react in response to human speech, demonstrate affectionate gestures (e.g., nuzzling) towards their corresponding SCP-1261 subject, and behave in a manner similar to trained assistance animals. Though all instances of SCP-1261-1 are visible to all individuals infected with SCP-1261, the creatures rarely interact with one another or with other SCP-1261 carriers. SCP-1261-1 are also described as maintaining consistent age and health throughout their subjects’ infection. Reports suggest no anomalous behaviour from SCP-1261-1 beyond their apparent intelligence and constant presence.
+
+Class A amnestics effectively neutralize SCP-1261 infection, with retained class D personnel showing no signs of spontaneous relapse through 18 months of observation. Subjects treated in this way exhibit no lasting side effects save for an increased fondness of birds over other animals, especially as pets.
+
+Addendum 1261-01: On 8/14/2001, Foundation operatives intercepted reports of a GOC raid on a settlement in ████████, Peru “infested with Harvey-Greens”. Details in GOC reconnaissance reports suggested wide-scale SCP-1261 exposure among the populace, which was corroborated by after action reports from the GOC raid. MTF Beta-2 (“Glass Houses”) were dispatched to investigate the remains of the settlement following the raid. Forensic analysis of the site suggests that 300-500 individuals had resided in the village, all of them infected with SCP-1261. Irregularities in and around the settlement include:
+
+Feeding troughs exhibiting wear patterns consistent with large beaks
+
+Large nests in most dwellings, typically padded with blankets or other bedding and visibly worn
+
+Tracks and clawprints throughout the compound consistent with adult members of Dromaius novaehollandiae
+
+Scratch marks on doors and other objects suggesting manipulation by adult members of Dromaius novaehollandiae
+
+In spite of the observations described above, Beta-2 recovered no samples of biological or genetic material belonging to members of Dromaius novaehollandiae on site. Additionally, intercepted after-action reports from the GOC raid mention no encounters with any wildlife save for the human residents of the settlement. Attempts to determine and/or reproduce the circumstances leading to the observed state of the site are ongoing.
+
+Footnotes
+
+1. Formerly a "Dancing Bear" meme; see document MEM-C_28962 for additional information on the revised classification system.
+
+2. Infected subjects younger than 13 years of age are able to perceive the SCP-1261-1 instances of other affected individuals but do not "receive" their own instances until their 13th birthday. Such occasions are treated by other SCP-1261 sufferers as a rite of passage similar to a quinceañera or "sweet sixteen" celebration.

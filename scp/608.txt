@@ -1,0 +1,41 @@
+Item #: SCP-608
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-608 is to be held in a vacuum chamber at all times while not the subject of active research. Magnetic levitation is to be used to suspend the object in the center of the chamber. In the event of either of these measures failing, a class-3 evacuation of non-essential personnel is to be undertaken, and containment measures are to be restored as soon as possible. If containment failure persists for more than one hour, a class-4 evacuation of personnel not actively involved in the containment of the item is to be undertaken. In the event of superpressurization for whatever reason, a class-5 evacuation and cleanup must be performed immediately.
+
+Description: SCP-608 appears to be a length of silver tinsel with an unusually furry appearance, although depending on environment the item may be surrounded by a 'halo' of decaying particles. Any object coming into contact with it disintegrates slowly, the process being halted the instant that it is removed. At the same time, the halo increases in intensity. Microscope examination, radar, sonar, MRI, and all other known examination techniques are unable to provide insight beyond the fact that the object appears 'fuzzy', with no readily defined border. Rather, it appears to dissipate into the surroundings. This, combined with the disintegration property, led to the SCP's earlier misclassification as Euclid.
+
+Recent investigations have revealed, however, that the item's properties arise from a [REDACTED] state, or more simply its existence as a fractal. In layman's terms, the item has a potentially infinite number of progressively smaller 'branches' radiating off the substance, in such a way that micro-examination and macro-examination produce similar or identical results. The disintegration effects are due to the monofilament and finer 'branches' slicing through a substance at the molecular or atomic level. See Addendum 608-1.
+
+Discovery: SCP-608 originally came to the attention of the Foundation after reports of glowing tinsel in 19██. Considered unlikely to be important, the item was nevertheless sought out. Unfortunately, the house in which it was kept at the time collapsed on it for reasons unknown, causing large masses to be pressed onto the object. The effect was comparable to a [REDACTED], producing an explosive force of ██ ████tons as well as considerable quantities of alpha, beta, gamma and [REDACTED] radiation. No survivors were found within [REDACTED] of the origin, but the item survived apparently unharmed.
+
+Research Potential: The research team is currently awaiting permission to attempt firing beams of small particles at the object, in the hopes of discovering more fundamental particles than those currently known. In particular, the ability of the object to baffle lasers has been the source of some speculation, and it is high on the priority list if such research is ever permitted.
+
+Addendum 608-1: Once the precise nature of the item was determined, it was immediately confined to a vacuum chamber. Attempts were then made to obtain a sample for analysis. Results follow.
+
+Date: ██-██-20██
+
+Tool: Steel scissors.
+
+Result: Scissor blades were ruined, no visible impact.
+
+Date: ██-██-20██
+
+Tool: Vanadium-hardened steel saw.
+
+Result: Saw blade ruined, no visible impact.
+
+Date: ██-██-20██
+
+Tool: 100kW laser.
+
+Result: Halo noticeably intensified, no damage.
+
+Date: ██-██-20██
+
+Tool: Table saw with blade composed of SCP-███-██
+
+Result: The halo intensified when the tool was brought within approximately 1m. There was a noticeable increase in both alpha and beta particles noted as the tool moved within 500mm. Evacuation of non-essential personnel was undertaken before proceeding with the test. After the go-ahead was received, monitoring devices began to cease operation, beginning with the most sensitive. People up to thirty (30) miles away noted unease, likely because of [REDACTED] particles. No more data were received after the item came within 100mm of the tool. On later investigation of the site, all organic material was [DATA EXPUNGED], along with other large molecules such as diamonds. It is theorised that the superdense SCP-███-██ broke down in a chain reaction at the subatomic level. Attempts are ongoing to recover data from sources not as close to the blast point.
+
+Addendum 608-2: On ██-██-20██, an interference spectrometer was used to attempt to determine its composition. The test results indicate the presence of silver, platinum, and polymers containing superheavy elements. As yet, no mechanism whereby these substances could be compressed to the width observed in the item has been proposed, although research is ongoing. One suggestion is that only the main body consists of these substances, and the microfibers are another substance entirely.

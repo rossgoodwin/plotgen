@@ -1,0 +1,127 @@
+SCP-687-3
+
+Item #: SCP-687
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-687 is to be kept in a secured room at Site-15. The room is to contain a desk with locking drawers, a standard office chair, and a 12” analog color television as well as equipment to record and remotely monitor testing of SCP-687.
+
+When not being actively tested, SCP-687-1 is to be powered down and disconnected from its power source, and SCP-687-3 is to be kept in an anti-static envelope and locked in the top drawer of the desk supporting SCP-687-1 & SCP-687-2. SCP-687-2 should remain attached to SCP-687-1 to prevent wear on the connecting hardware.
+
+When being tested, SCP-687-1 and SCP-687-2 are to be plugged into one standard ███ UPS (Uninterruptible Power Supply) that is connected to the facility power grid. UPS is to be replaced after each 100 hours of use.
+
+Under no circumstances are Class D personnel to be used for testing SCP-687 (ref: Incident I-687-1). Testing is permitted by personnel with clearance 3 or above with written approval by the site director.
+
+Description: SCP-687-1 is a Commodore 64 home computer built in 198█, serial number S000█████. Non-invasive examination of the hardware confirms that it has not been obviously modified and all parts appear to be from the original manufacturer.
+
+SCP-687-2 is a Commodore 1541 5.25” Disk Drive built the same year as SCP-687-1, serial number S000█████. As with SCP-687-1, all parts appear original and not obviously modified. If an attempt is made to turn on SCP-687-2 when it is disconnected, or connected to any computer other than SCP-687-1, it will fail to operate. When SCP-687-2 is connected to SCP-687-1, both units perform to the manufacturer’s specifications (except when loading SCP-687-3 as specified below).
+
+SCP-687-1
+
+SCP-687-3 is a 5.25” floppy disk without manufacturer’s markings. Affixed to the disk is a hand-written label with the word “DOCUMENTS” in block capitals. Attempts to read the disk with any drive other than SCP-687-2 results in severe read errors and potential damage to the hardware. Passive scans using [REDACTED] inconclusive and produce conflicting data.
+
+When SCP-687-2 is connected to SCP-687-1, SCP-687-3 can be loaded into the drive and read like any normal disk. Only one file, “NOIR” is visible to the operating system. This file can be executed by typing LOAD “NOIR”,8,1.
+
+When loading and running the “NOIR” program, the heat output of both SCP-687-1 and SCP-687-2 increases by 400%, and power consumption will double. Any testing equipment attached to ports on the computer or drive will experience severe and random voltage spiking. These anomalies do not appear to impact performance or cause any damage to SCP-687-1 or SCP-687-2.
+
+Once the “NOIR” program is loaded, the user is presented with a short graphic stating “Cracked by the Timelordz.” After approximately one minute, a title screen appears. The title screen reads “NOIR: a hardboiled adventure by ██████████ Games. Copyright 198█.” There is no record of ██████████ Games releasing a game with this title. Pressing the space bar will launch the game.
+
+SCP-687-2
+
+“NOIR” appears to be a text-based adventure game similar to many other games released about the same time. However, the parser appears able to comprehend any intelligible English command, even with some words misspelled. In addition, there seems to be no functional limit to the game’s territory, and it will respond to queries about its environment in detail beyond what should be possible given the data-storage limitations of the hardware running the game. The setting of the game will also change, based on who is playing. A new player will be placed in a new random environment; a returning player will be placed at whatever point that player ceased playing last. All initial environments so far presented by the game have been within urban areas within the United States between the years 1923 and 1942.
+
+By using commands LOOK AT SELF and INVENTORY, it has been confirmed that a player’s in-game avatar matches the appearance and dress the player had when starting the game. The player’s in-game avatar will also possess whatever objects or equipment the player had on their person when starting the game.
+
+The game is free-form and gives no obvious clues about how to win. However, it does keep a score that prints after every action. The score can go up or down with no indication of an upper or lower bound. High and low scores to date are ████ and -████. If a player dies in-game, the score is set at 0, and any future command typed in by that player during any future game session will receive the response, “You cannot do that. You are dead.”
+
+No abnormal effects are detectable on a player during gameplay. However, after a game session, the next time the player enters a REM sleep state they will have an unnaturally vivid dream where they experience the events that occurred during the game. During the dream, the player’s perceptions are indistinguishable from reality. Extreme cases will show physical manifestations of injuries suffered within the dream. Examples include one subject who presented with bleeding of the fingernails after dreaming of unsuccessful attempts to escape the trunk of a car driven into the ████ River, another subject who developed severe bruising of the face and strain of the anterior longitudinal ligament after dreaming of being beaten by a hostile police officer, and another subject who presented with partial paralysis after dreaming being a victim of a 1929 gangland execution in a Chicago garage.
+
+Typically, such injuries are transient even in cases where the dreams end in fatality. However, severe psychological after-effects are likely, and will tend to be more severe than if the dreamed trauma had actually happened during a waking state. This is in large part due to the lack of volition subjects experience in the dream, and the foreknowledge of what is about to happen to them. All subjects report a complete belief in the reality of the dream world, even knowing they are replaying events from the game. If a subject has died violently in the game, the subsequent dream of the event can be traumatic enough that this belief can foster a delusion that the real world is unreal. Victims of this delusion report being convinced that they are still dreaming, or are in purgatory. Both physiological and psychological reactions are not clinically abnormal for the stresses subjects report experiencing within these dreams.
+
+Given the experimental evidence of in-game actions having actual historical impact (ref: Experiment Log 687-A) it is theorized that the dreaming state is a side effect caused by the player’s perceptions of game-directed activity catching up to the present day.
+
+Addendum 1: Experiment Log for SCP-687
+
++ Experiment Log 687-A
+
+- Experiment Log 687-A
+
+Experiment Log 687-A
+
+Test 005
+
+Date: ██/██/19██
+
+Subject: D-████
+
+Procedure: Subject is provided an unloaded .45 automatic handgun, then is told to play the game and issue the command INVENTORY, followed by the command DROP GUN.
+
+Results: Subject’s game avatar has an unloaded .45 automatic handgun in inventory of same make and model provided to subject. The command DROP GUN results in the gun being left in a dumpster next to subject’s avatar. At this point the subject is ordered to exit the game. Physical gun is still in subject’s possession and surrendered back to Foundation personnel.
+
+Test 006
+
+Date: ██/██/19██
+
+Subject: D-████
+
+Procedure: Immediately after Test 005 Subject is provided a box of .45 caliber ammunition, then is told to resume the game.
+
+Results: Subject’s game avatar appears in same place gameplay stopped during prior test. Subject types PICK UP GUN followed by the INVENTORY command. The subject’s avatar now has both gun and ammunition in inventory. Subject’s score increases by 10 points after gun is loaded. Physical gun is still in possession of Foundation personnel.
+
+Test 007
+
+Date: ██/██/19██
+
+Subject: D-████
+
+Procedure: Subject with in-game possession of a loaded firearm is instructed to type command SHOOT MYSELF.
+
+Results: Subject’s game avatar shoots itself. Score is reset to 0. All commands entered after this receive the response, “You cannot do that. You are dead.” Subject expresses disappointment but suffers no immediate effect. The following morning, subject evidences considerable distress, showing uncontrolled tremors and weeping. When asked about cause of distress, subject responds, “I couldn’t stop myself.”
+
+Test 015
+
+Date: ██/██/19██
+
+Subject: D-████
+
+Procedure: Subject with a game avatar occupying the city of ████████, ██, in 1938 is instructed to place a classified ad in the ██████████ Gazette reading “Dr. ██████ is a loser.”
+
+Results: Subject types in command PLACE AD IN ██████████ GAZETTE THAT READS "DR. ██████ IS A LOSER." The game parses command and prints five pages of narrative in response covering approximately three hours of game time including a bus ride to the ██████████ Gazette offices, small talk with the receptionist, and a discussion with an editor about the content of the ad. Foundation researchers uncover microfiche records of the 12/01/1938 issue of the ██████████ Gazette containing the ad “Dr. ██████ is a loser.” Score increases by 100 points.
+
+Given the importance of these results, I will overlook the fact that I am not amused— Dr. ██████
+
+Test 023
+
+Date: ██/██/19██
+
+Subject: D-████
+
+Procedure: Subject with a game avatar occupying the city of ███ ████, ██, in 1924 is given a first edition hardcover of Slaughterhouse Five by Kurt Vonnegut inscribed by Dr. ██████. Once subject is playing game, subject is instructed to go to ██████ bank and place in-game copy of the book in a safety-deposit box.
+
+Results: Subject attempts to comply, but is caught in the crossfire of a gang war. Game avatar dies and score reset to 0.
+
+Note ██/██/20██: A routine audit of Foundation archives uncovered SCP-████, an anomalous hardcover edition of Slaughterhouse Five recovered from a used bookstore in Los Angeles, CA, in 1947. The book bears inscription by Dr. ██████ and the additional phrase “Miss me yet?” written in human blood. Second inscription is consistent with the handwriting of D-67895. (ref: Incident I-687-1) SCP-███ is reclassified SCP-███-EX.
+
+Addendum 2: Incident report of escape of D-67895
+
++ Incident I-687-1
+
+- Incident I-687-1
+
+Document# I-687-1
+
+Personnel involved: D-67895, male 27 years of age. Sociopath. Convicted of the [REDACTED] series of killings in [REDACTED]. Agents A. █████ and C. ███████, and Research Assistant Dr. G. ████████.
+
+Date: ██/██/████
+
+Location: Containment room of SCP-687
+
+Description: For a period of two weeks, D-67895, had been extremely cooperative with Foundation personnel and had logged 25 hours of gameplay covering approximately two months of in-game time during January and February 1934 in Cleveland, OH. D-67895 proves highly intelligent and adaptable, using the sophistication of the game’s parser to complete very complex tasks with one or two commands. Permission granted to allow D-67895 to read newspapers of the era, as well as retain paper and writing implements to take notes.
+
+Three days before scheduled monthly termination, D-67895 is brought in for a routine scheduled session with SCP-687. Halfway into the session, D-67895 types the following unauthorized command: DO EVERYTHING WRITTEN ON PAGE ONE. Upon entering the command, approximately 150 pages of narrative text are printed on-screen. Dr. G. ████████, observing remotely, orders immediate end to the session, and initiates containment breach protocols. Agents A. █████ and C. ███████, in the room with D-67895, attempt to restrain the subject and remove him from contact with SCP-687. D-67895 laughs, saying, “Too late, boys.” When the narrative text completes printing [DATA EXPUNGED].
+
+Aside from SCP-███-EX, no trace of Agent A. █████, Agent C. ███████, or D-67895 has been recovered by the Foundation to date.
+
+Good Lord, did no one even think to look at the history of Cleveland in the mid-30s and compare it to D-67895’s record? Could someone please Google “Torso”? – Dr. ██████
+
+This might be worse than that. If SCP-687 does re-write history, it’s quite possible that the “Torso” murders, or [REDACTED] for that matter, might not have even existed before this security breach. Do we have any way to know? From this point forward, no Class Ds are allowed near this thing.– O5-█

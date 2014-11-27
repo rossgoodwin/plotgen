@@ -1,0 +1,15 @@
+SCP-1045
+
+Item #: SCP-1045
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1045 is stored in Low-Security Locker 17 at Site 21. No flammable materials or sources of open flame are to be brought within 5 meters of SCP-1045 except for testing purposes.
+
+Description: SCP-1045 is a square wood-framed candle lantern measuring 15 cm x 15 cm x 32 cm. Its sides are made of translucent waxed paper and its interior framework provides a nested support for a circular glass cup measuring 6.5 cm in diameter and 10 cm in height. The anomalous properties of SCP-1045 do not manifest unless both components are used together.
+
+When a candle is placed within SCP-1045 and lit, the walls of SCP-1045 depict the shadow of a miniature humanoid, as if lit from behind by the candle. The shadow on each side of the lantern depicts a different angle of the same subject. The shadow of the humanoid is always writhing, as if in pain, and it is surrounded by what appear to be semi-opaque flames. The shadow of the figure will persist as long as the candle is burning. Its motions become more frantic as the candle comes closer to burning out.
+
+All candle residue recovered from SCP-1045 consists of rendered human fat, regardless of the original makeup of the candle. Damaged DNA samples have been recovered, but the identity of the source individual(s) has yet to be determined.
+
+Addendum: Testing has revealed that burning scented candles produces shadows of different figures. In addition, burning a scented candle allows the shadows to emit sound. The volume of the sound is dependent on the strength of the scent. To date, all shadows have only produced incoherent screams.

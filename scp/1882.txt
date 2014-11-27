@@ -1,0 +1,47 @@
+SCP-1882
+
+Item #: SCP-1882
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1882 is to be kept in a room that is shielded against electromagnetic signals. Attempts to open SCP-1882's casing must be made off-site, in locations untraceable to Foundation resources. A researcher must be available daily to determine the identity of SCP-1882-A and record it.
+
+Possible new instances of SCP-1882 are to be subjected to Anti-Surveillance Procedure L4 (annexed) before extraction.
+
+Description: SCP-1882 is a bakelite television set of the [REDACTED] brand. The power cord is missing, and the only identifying mark is the number "037" on the underside.
+
+SCP-1882 was recovered from the residence of Mr. ███████ █████, who confessed to having purchased the item from the firm Marshall, Carter & Dark. Four other similar items have been recovered in raids of other MC&D customers, but were destroyed before proper containment procedures could be enacted. Attempts to record video or audio output from SCP-1882 have resulted in the destruction of the recording equipment. Similarly, an attempt to open SCP-1882's casing led to it emitting a microwave pulse - probably a signalling system.
+
+Every day at 05:00 GMT, SCP-1882 spontaneously turns on and begins to broadcast a program. The format of the program does not vary, and follows the pattern described below:
+
+05:00 - SCP-1882 turns itself on. The MC&D logo appears, accompained by a rendition of the first two movements of Haydn's Opus 76 no. 3.
+
+05:03 - A female voice recites a list of digits. The digits change with each program, and have not been decoded so far.
+
+05:15 - The scene changes to a bare room, barely lit from an unseen light source. A person (a different one each day, herefore called SCP-1882-A) is laying on the floor of the room, nude and unconscious.
+
+05:30 (+/- 5 minutes) - SCP-1882-A wakes up. For the next 17 hours, their reactions vary from instance to instance, but are consistent with those of a person that has been removed from their regular life and locked in an empty room. The camera stays in a single spot, and is never remarked upon.
+
+22:10 - Most instances of SCP-1882-A react as though they have heard noises from outside the room, although none can be heard by the viewer.
+
+22:20 - Between three and five specimens of SCP-1882-B enter the field of view, and proceed to [DATA EXPUNGED]
+
+22:45 - SCP-1882-B specimens retreat, leaving SCP-1882-A's corpse on the floor of the room.
+
+23:00 - SCP-1882 turns itself off.
+
+Of note is that while SCP-1882-A instances can all be traced back to people that were living at the time of the broadcast, there is no indication of these people disappearing, and in fact, the Foundation has monitored several "victims" leading their daily life parallel to their SCP-1882-A doubles being sequestered away. Current theory is that SCP-1882-A is a duplicate of the original individual, created solely for the purpose of the broadcast.
+
+Notable instances of SCP-1882-A during the Foundation's possession of the item include:
+
+20/12/2010 - █████ ███████, well-known actress and singer.
+
+17/02/2011 - ███████ ██████, ex-president of ████████.
+
+06/04/2011 - An adult Bengal tiger.
+
+11/07/2011 - Dr. ████████, Level 3 Researcher of Site 75. Despite not knowing SCP-1882's existence, Dr. ████████ surmised that he had been captured by enemy forces and engaged Protocol Phoebus 3.3, causing [REDACTED]. SCP-1882 switched back to the MC&D logo until regular turn-off time.
+
+09/09/2011 - D-99221, enrolled at Site 65. D-99221 was transferred and presented to SCP-1882, but was unable to provide any new information regarding her appearance as SCP-1882-A. Interview and psychological debriefing of D-99221 annexed.
+
+SCP-1882-B specimens are [DATA EXPUNGED]. Some are recognizable as formerly human, and three have been identified as previous instances of SCP-1882-A.

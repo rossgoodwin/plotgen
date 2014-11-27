@@ -1,0 +1,21 @@
+Image of SCP-1414 when found by the Foundation
+
+Item #: SCP-1414
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1414 is to be contained in a 3 meter by 3 meter soundproof room. It is not to be plugged in except during approved testing.
+
+Except during approved testing, SCP-1414's volume knob must never be set higher than '6'.
+
+Description: SCP-1414 is a ████████-brand radio with cassette deck and CD player, made out of standard materials. The cassette deck, CD player, and tuner dial are non-functional; aside from this, forensic examination has revealed no differences from other radios of its make and model, either externally or internally. However, it manifests four distinct anomalies when used; these are presumed to be inherently linked.
+
+The first anomaly is that SCP-1414 responds to language: after SCP-1414's power supply is interrupted and then restored, the first human to speak a command to SCP-1414 will become an instance of SCP-1414-1. SCP-1414-1 is SCP-1414's "owner"; SCP-1414 will change stations, or increase or decrease its volume, upon command from SCP-1414-1. SCP-1414 is able to detect commands from SCP-1414-1 in a variety of formats, including physically muffled speech, voice synthesizers (but only if used by SCP-1414-1), sign language, writing, semaphore flags, and having third parties relay the command in Morse code by clapping their hands; these third-party tests have also revealed that SCP-1414 can distinguish between commands genuinely relayed by a third party, and commands invented by that third party. It is also able to distinguish mechanically-assisted speech from recordings thereof.
+
+The second anomaly is that SCP-1414 appears to be able to receive any broadcast signal described by SCP-1414-1 — including private telecommunications and television audio — anywhere on the planet, regardless of frequency, location of source, or signal strength; it is also able to receive broadcasts when enclosed within a Faraday cage. If given an ambiguous request, SCP-1414 will play the broadcast originating from the physically closest source, regardless of signal strength. SCP-1414's ability to parse natural language has been assessed as the result of the interaction between its first two anomalous properties, and not as an anomaly in its own right.
+
+The third anomaly is that, when SCP-1414's volume is set higher than '6', either by physically adjusting the 'Volume' control or by having SCP-1414-1 request it, SCP-1414-1 will gradually become deaf to any sound not originating from SCP-1414 itself. After approximately 9 minutes of listening to SCP-1414 at volume 7, SCP-1414-1 will be deaf to any external sound not louder than SCP-1414 itself, and after approximately 24 uninterrupted minutes of listening to SCP-1414 at volume 7, SCP-1414-1 will be deaf to any external sound regardless of how loud it is. This induced deafness continues even after SCP-1414 has been unplugged; it has been observed to persist in D-class personnel for 8 months, and can reasonably be assumed to be permanent. Parameters for SCP-1414's deafness induction at higher volumes have not yet been determined.
+
+The nature of SCP-1414's induced deafness does not appear to be physical or neurological in origin; post-mortem examination reveals that all relevant structures are intact. Furthermore, instances of SCP-1414-1 who have been surgically deafened after exposure to SCP-1414 report that they are still able to perceive the content of the broadcasts it plays.
+
+The fourth anomaly is that SCP-1414 is capable of unplugging itself from electrical sockets, and will do so with as much as 5 g's of force. It will do this whenever continuous operation raises its internal temperature to 35C, and resists being plugged back into its socket until it has cooled; in accordance with standard safety guidelines for electrical appliances, personnel are advised to not force it.

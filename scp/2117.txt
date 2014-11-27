@@ -1,0 +1,49 @@
+SCP-2117, immediately before Volley Event #96.
+
+Item #: SCP-2117
+
+Object Class: Safe
+
+Special Containment Procedures: As SCP-2117 cannot be adequately contained by the Foundation and has demonstrated no active hostility towards human life, primary containment of this object will be focused on mitigating the risk posed by Volley Events. As such, during Volley Events, SCP-2117 has agreed to manifest in a 200-meter-deep, 50-meter-wide concrete-walled pit on Site-93. Due to the risk of death or injury from Volley Events, all communication with SCP-2117 is to be performed via the pit's insulated microphone and camera systems.
+
+Description: SCP-2117 is a sapient extra-dimensional entity which intrudes onto the Foundation baseline reality for the purpose of conducting a game of tennis with an unknown party. SCP-2117 is entirely composed of a compacted, self-regenerating mass of iron (II) oxide thermite in a state of combustion. While at rest, SCP-2117's surface remains at a constant 25°C, despite its continued combustion. When active, and during Volley Events, SCP-2117 emits heat consistent with the combustion of aluminum and iron (II) oxide. SCP-2117 is able to modify its form, but primarily appears as an insect resembling those of the order Siphonaptera (fleas), approximately three meters in height.
+
+SCP-2117 is capable of conversation, preferring to speak in the Beijing dialect of Mandarin though it has also demonstrated limited proficiency in both French and English. When speaking to itself, SCP-2117 has been observed to use a form of an as-yet-untranslated argot derived from the combination of Mandarin and high-frequency vocalizations similar to those of bats of the family Mormoopidae.
+
+SCP-2117 is capable of higher-dimensional movement, vanishing for long periods of time and reappearing to commence Volley Events. During a Volley Event, SCP-2117 will manifest carrying a standard tennis racket of unknown make in one of its forelimbs. Within 3 seconds of SCP-2117 manifesting, an object will appear in an apparently-random location, though always to SCP-2117's northwest, and move towards SCP-2117.
+
+The velocity of this object, which high-speed photography has revealed to be a yellow tennis ball of modern make but unknown manufacture, varies widely but has never been observed to be below 340m/s. When SCP-2117 moves to hit the ball, the combination of the force of the impact against the racket and the intense heat emitted by SCP-2117 causes an intense but highly-localized blast wave. When SCP-2117's racket makes contact with the ball, both the ball and the racket will vanish until the next Volley Event. SCP-2117 has never been observed to miss or otherwise fail to hit the ball.
+
+The interval between Volley Events varies from a recorded minimum of 3 seconds to 27 days. SCP-2117 appears to be able to determine the length of this interval, and has remained at Site-93 for extended periods during longer intervals to conduct interviews with staff.
+
+Document SCP-2117-17:
+
+The following is an edited excerpt of an interview between SCP-2117 and Researcher V██████, during the 15-day interval following Volley Event #347.
+
+Researcher V██████: SCP-2117, I'd like to ask you a few questions, if you don't mind?
+
+SCP-2117: I've told you once, and hell, I'll tell you a thousand times, D███. I never expected all the chit-chat. But fine. Shoot.
+
+Researcher V██████: Please do not use my first name, SCP-2117.
+
+SCP-2117: [Three seconds of metallic clicking1] Don't talk back to your elders, D███. Go ahead.
+
+Researcher V██████: Where are you from?
+
+SCP-2117: This, again? Someone new must be in charge at 93, am I right? Asking for updated reports and all that? Well, I'll give you the same answer I gave last time. I was created by Oxidist Factory # 15-dash-2, on—well, I'm sure you've got the dates. Long time ago.
+
+Researcher V██████: Right, and that factory is controlled by—?
+
+SCP-2117: Let me save you the trouble. It was the Southeastern Biological Synocracy. Third year of the war with the Imperium. Back then I was a frontline tactical command/control Oxidist, one of the—what do you call them—stopgap generations built to take on their Mark 24s. Happy, D███?
+
+Researcher V██████: And the game you're playing?
+
+SCP-2117: It's tennis. It's still tennis. It's always been tennis, D███. After the Peace, and after the Imperium tore itself apart, the SBS demobbed the Oxidist Corps. Happiest and saddest day of my life.
+
+Researcher V██████: But why tennis?
+
+SCP-2117: Because I got old.
+
+Footnotes
+
+1. This appears to be SCP-2117's equivalent of laughter.

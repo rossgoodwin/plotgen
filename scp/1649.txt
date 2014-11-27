@@ -1,0 +1,97 @@
+Item #: SCP-1649
+
+Object Class: Euclid Neutralized
+
+Update 23/7/2012: It has been proposed that SCP-1649 be removed from Foundation general records and archived by research team director Dr. Charles Anborough. In accordance with Statute-102-C, any removal of a neutralized SCP object from Foundation general records requires the approval of O5 Command via majority vote. As SCP-1649 was previously classified as Euclid, a two-thirds majority (9/13) is required.
+
+Update 25/7/2012: In accordance with the 2-11 vote of O5 Command, the proposal for archiving of SCP-1649 is denied.
+
+Update 27/7/2012: Dr. Charles Anborough, it is the opinion of the council that your motivations for both assuming custody of SCP-1649 and archiving the object are concerned with the release of Clearance 5/1649 expunged materials in its documentation. Any personal motivations regarding SCP-1649 (and by extension, previous personnel assigned to it) are not an appropriate reason for the archiving of a neutralized object, and your proposal has thus been denied. This memo is not to be considered a reprimand and no disciplinary action will be taken regarding the incident, however, further proposals of this nature are not advisable.
+
+O5-5
+
+Special Containment Procedures: SCP-1649 is considered neutralized and as such does not require active containment protocols. Any evidence that further broadcasts of SCP-1649 exist are to be investigated promptly. Non-anomalous recordings of original SCP-1649 broadcasts remain in storage.
+
+Description: SCP-1649 is an American radio talk-show known as Heck and Becker's Timely Hour. The show originally aired in 1973 and possessed a comedic tone with references to American popular culture. Heck and Becker's Timely Hour was cancelled after only three weeks of broadcasting, as a result of Foundation efforts. Impact from the broadcasts' memetic effects was minimal, mainly due to a relatively small listener base and low communicability of SCP-1649's memetic properties.
+
+SCP-1649's anomalous properties only occur when its broadcasts are heard live (recordings and text-based versions of the broadcast demonstrate no abnormalities). References to American popular culture in the broadcast confer a perception-altering effect when they are recognized by the audience. The exact parameters of this property, including the definitions of "American popular culture" and "recognized" are speculative; however, the memetic communicability of SCP-1649 to an appropriate listener is approximated at only 17%.
+
+SCP-1649's perception-altering effects cause the listener to believe that the event or subject referenced in the broadcast is different from its factual/historical record. The primary difference concerns the presence of an entity designated SCP-1649-1, referred to as [REDACTED] by affected subjects. For example, individuals affected by SCP-1649 during a reference to Charlie Chaplin's film The Great Dictator will believe that SCP-1649-1 starred in said film instead of Chaplin (see DOCUMENT-SCP-1649-I3 for details). Other changes are of similar nature, with SCP-1649-1 replacing important figures in American history (including Elvis Presley, Howard Hughes, Abraham Lincoln, [REDACTED], etc). Amnestic treatment has been successful in eliminating memetic contamination by SCP-1649.
+
+SCP-1649 was discovered after Foundation agent Luke Morris was affected by the anomaly during its second broadcast. Foundation agents subsequently were deployed to the FM broadcasting station (Kansas City, MO) responsible for airing the show and arranged for the program to be removed from the schedule. The individuals responsible for creating Heck and Becker's Timely Hour were never captured and have not made any known reappearances to date. The total number of individuals affected by the anomaly is unknown, but is believed to be fewer than a hundred, and all discovered cases were administered amnestics successfully.
+
+Addendum [1649-001]: Investigation and Findings
+
++ DOCUMENT-SCP-1649-CM (CLEARANCE 4/1649 REQUIRED)
+
+- DOCUMENT-SCP-1649-CM (IDENTITY VERIFIED)
+
+7/4/1974: Broadcasts of SCP-1649 make no references to [REDACTED] or any other abnormal subjects; it is our operating assumption that the creators intended the show to be indistinguishable from common American programming of the time. We believe that SCP-1649's memetic effects were entirely intentional and designed to be as covert as possible. The objective, it is presently thought, was to establish [REDACTED] as a constant and important figure in American history. For what purpose is unclear, however [DATA EXPUNGED].
+
+- Dr. Brian Anborough
+
+An apartment in Kansas City, MO believed to be connected to the individuals "Heck" and "Becker" was discovered on 23/5/1974. Initial raid discovered written scripts for further broadcasts of SCP-1649, analyses of the anomaly's present memetic transference rate, plans for improvement of the memetic transference rate (detailing [DATA EXPUNGED]), and several texts in an unknown language. Also discovered were two anomalous devices (now designated SCP-███ and SCP-████). SCP-███ appears to be a weapon, utilizing an M16 automatic rifle and unknown technology. SCP-████ resembles a flashlight, which when activated produces a space-time aperture of variable size on the surface toward which it is directed (this only functions on inanimate flat surfaces). The area accessible via SCP-████ [DATA EXPUNGED]. For further details, see DOCUMENT-SCP-███ and ████.
+
+Observation of the apartment and its surrounding area was maintained following the removal of all materials therein. On 3/6/1974, an unknown individual was seen watching the window of the apartment from the sidewalk for several minutes. The individual (now designated SCP-1649-A) was successfully detained by Foundation agents and subsequently interrogated:
+
+Interviewed: SCP-1649-A
+
+Interviewer: Dr. Brian Anborough
+
+Foreword: First interview with subject.
+
+<Begin Log>
+
+Dr. Anborough: Please identify yourself.
+
+SCP-1649-A: Declined.
+
+Dr. Anborough: Very well, then, "Declined", please explain what you were doing staring at that apartment?
+
+SCP-1649-A: …You know what, I like you. You should become part of our group.
+
+Dr. Anborough: I'm disinterested.
+
+SCP-1649-A: Well, "Disinterested", why are you so comfortable with not exploring your horizons?
+
+A slight pause follows this question.
+
+Dr. Anborough: I've learned to leave some stones unturned.
+
+SCP-1649-A: Including the one you live under?
+
+Dr. Anborough: What or who is [REDACTED]?
+
+SCP-1649-A: Persistent, aren't you?
+
+Dr. Anborough shrugs.
+
+SCP-1649-A: [REDACTED] is many things. To us…"he", I suppose, is our sovereign leader. To you, he could be a whole new world.
+
+Dr. Anborough: I've encountered several. Most of them aren't worth the investment.
+
+SCP-1649-A: Then you don't know where to bury your gold.
+
+Dr. Anborough: Enlighten me.
+
+SCP-1649-A: Place your trust in [REDACTED]. He will even help you with your wife.
+
+Dr. Anborough: …I don't-
+
+SCP-1649-A: -Have a wife? You've met her though. She's beautiful, isn't she?
+
+Dr. Anborough: I think that's enough for now.
+
+SCP-1649-A: I haven't even told you about [DATA EXPUNGED], surely you'll want to know how to save him?
+
+Dr. Anborough: This interview is over!
+
+<End Log>
+
+SCP-1649-A expired of unknown causes 47 hours later. Autopsy revealed the absence of most organ systems, and the presence of what is believed to be a biological analog for the technology present in SCP-███ and ████. The function of this organ/device is currently unclear as SCP-1649-A disintegrated within five days of its death.
+
+No further SCP-1649-related activity has occurred.
+
+Addendum [1649-002]: Records Update 15/5/1994
+
+By order of O5-5 (and approved by O5-3, 4, 8), SCP-1649 has been reclassified to Neutralized. In addition, information pertaining to [DATA EXPUNGED] is to be transferred to Secure-File-Thanatos-1649 and be reclassified to Clearance 5/1649.

@@ -1,0 +1,91 @@
+Item #: SCP-299
+
+Object Class: Keter
+
+Special Containment Procedures: A 200-metre-wide forest of SCP-299 is to be contained in an underground biodome (Area-299) in the [REDACTED] desert. All other specimens encountered are to be incinerated. No plant life is to come into contact with SCP-299 outside of controlled testing. Areas infested by SCP-299 should be considered class-8 hazard zones, firebombed immediately, and monitored for four (4) weeks. Any further infestation is to be incinerated, as well as all wildlife present on the site.
+
+Description: SCP-299 is an arboriform organism characterised by black, sharp-pointed branches. Closer inspection reveals that each instance of SCP-299 is connected to neighbouring trees by its roots. Prolonged contact converts these neighboring trees into another instance of SCP-299; this is SCP-299's only known method of reproduction.
+
+Addendum 299-1: SCP-299 infection will result from prolonged contact with any material from SCP-299.
+
+Conversion time varies by the size of the infectee. Generally, after a few minutes of exposure, the infected plant begins to shed its leaves. Low branches shift downward to a height of 30 to 100 centimetres and taper to a point. High branches retain leaves and shift toward the top of the tree, forming a dense canopy and making overhead identification impossible.
+
+Addendum 299-2: Microscopic analysis of low branches reveals that these points are composed of the same material as the rest of infected plant, and are remarkably sharp. Direct contact with the point of a branch from SCP-299 is unadvised, as even a sliver of SCP-299 material embedded in skin is known to produce disastrous results (see Experiment Log 299-1).
+
+Vine-like tendrils grow upward from the roots of SCP-299, reaching heights of up to two (2) metres. These tendrils are prehensile and elastic; organic objects entering close proximity are violently seized, impaled upon the lower branches, and incorporated into the organism via gradual conversion on the molecular level.
+
+Specimens of SCP-299 release chemicals known to spread throughout the immediate area and cause heightened paranoia and aggression in most animals, including humans. Under the influence of these chemicals, groups of people tend to split up and wander the forest alone, making them more likely to pass through an infested area.
+
+Addendum 299-3: Examination of material harvested from SCP-299 reveals that the 'wood' is brittle and similar in composition to [DATA EXPUNGED]. A single cell of SCP-299 will retain its infectious nature and is capable of re-configuring an entire organism upon introduction.
+
+Experiment Log-299-1
+
+Item: Maple seedling (Acer saccharum) (x1)
+
+Researcher: Dr. ██████
+
+Test Record:
+
+A sample of matter from SCP-299 is introduced to seedling. Over forty-five (45) minutes, the seedling is completely converted into a specimen of SCP-299, retaining its height and approximate size. Seedling incinerated.
+
+Item: Oak tree (Quercus alba) (x1)
+
+Researcher: Dr. ██████
+
+Test Record
+
+Oak tree transplanted into containment area of SCP-299. Over three (3) hours, the tree is completely converted into a specimen of SCP-299, retaining its height and approximate size. Matter taken from new specimen is consistent with matter from neighbouring specimens.
+
+Item: Sunflower (Helianthus annuus) (x1)
+
+Researcher: Dr. ██████
+
+Test Record:
+
+A sample of matter from SCP-299 is introduced to sunflower. Over ten (10) minutes, the plant is completely converted into a specimen of SCP-299, retaining its height and size. The flower petals have blackened and tapered into spikes, consistent with SCP-299 spike branches. Tendrils are frail and incapable of grasping large objects. Specimen's trunk snapped upon introduction of researcher's foot. Remains incinerated.
+
+Item: European Grape Vine (Vitis vinifera), confined to pot and growing upward along a trellis. (x1)
+
+Researcher: Dr. ██████
+
+Test Record:
+
+Sample of matter from SCP-299 introduced to grape vine. Subject converted within thirty (30) minutes. Subject detached from trellis and adopted prehensile nature of SCP-299 tendrils. Spike protrudes from rooted area.
+
+Item: Results of previous experiment, pig (Sus domestica) (x1)
+
+Researcher: Dr. ██████
+
+Test Record:
+
+Pig introduced to testing area. Subject showed signs of agitation. Upon investigation of SCP-299, subject was violently seized and constricted, eventually suffocating before impalement upon a spike. Specimen was left in containment and observed for 3 days. Over that time, the mass of pig and tendril tissues were integrated into the main vine. Spikes grew from its base, the roots extended and tendrils grew from them, and branches grew from the top of the tree, sprouting buds and leaves. Specimen was incinerated.
+
+Notes:
+
+SCP-299 appears to not be limited to trees. Infected plants seem to react slightly differently, depending on their unique biology. All specimens, however, eventually become SCP-299 'trees' if given time to grow and change form.
+
+Item: Venus Flytrap (Dionaea muscipula) (x1)
+
+Researcher: Dr. ██████
+
+Test Record
+
+[DATA EXPUNGED]
+
+Addendum 299-4
+
+O5 Command has requested that researchers refrain from experimentation with carnivorous plants.
+
+Item: Pig (Sus domestica) (x1)
+
+Researcher: Dr. ██████
+
+Test Record
+
+Matter from SCP-299 injected into pig. Pig began squealing and moving uncontrollably, until it fell to the ground and convulsed. Upon expiration, fine rootlike hairs were observed to grow from the underside of the pig; the flesh of the pig underwent a transformation into SCP-299 material starting from point of injection. After two (2) hours, the pig was observed to have become another instance of SCP-299, complete with tendrils and leaves. Subject incinerated.
+
+Addendum 299-5: As of ██/██/20██, the trees in Area-299 have begun deviating from the standard form of SCP-299, with several growing what appears to be white flowers up to two (2) meters from ground level. Following standard protocol, D-class personnel were sent in to determine if the new mutation was dangerous. Upon approaching the flowers, the petals unfurled into highly mobile tendrils which immediately ensnared the head of one of the D-Class before pulling him back to the tree. All personnel were immediately removed from the area and placed in a 48-hour quarantine.
+
+Subject was observed emerging from the treeline approximately five (5) hours after being ensnared, apparently unharmed. Subject was then put in a separate 48-hour quarantine in accordance to protocol. Subject protested vocally against the quarantine, stating that he "had to see the sun". Ten (10) hours into the quarantine subject spontaneously lost consciousness and several branches of SCP-299 began growing from subject's head and torso. Subject was terminated and then incinerated along with the growths.
+
+Changes to the containment protocol to respond to this development are under review.

@@ -1,0 +1,29 @@
+SCP-1579, at the time of acquisition.
+
+Item #: SCP-1579
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1579 is currently kept in a sterile environment in Chamber B at Secure Storage Warehouse 3 at Bio-Site 66. Separated fragments are kept in Storage Locker 1 in Chamber B, under double combination lock. Personnel are not to make contact with SCP-1579 except for testing purposes.
+
+Description: SCP-1579 is an aged, partially damaged totem pole, carved from cedar and standing approximately 3.4 metres tall. SCP-1579 does not seem to rot, and shows an above-average resistance to heat for an object constructed from cedar. Additionally, a majority of its surface is covered with bright green moss, which does not seem to diminish when removed from humidity or affect the integrity of SCP-1579. Barring these particular structural anomalies, SCP-1579 is still wholly destructible, and chips have been removed through testing. Fragments continue to carry the artifact’s anomalous effects.
+
+When physically touched by a human being, SCP-1579 will shudder slightly, motivated by an unknown force. Following this, the human who touched SCP-1579 will immediately begin to feel a moderate burning sensation emanate from the point that they touched the artifact. Subjects have reported it feel like “a very bad sunburn”, though the discomfort subsides immediately once the entire body has been affected.
+
+Immediately after the burning sensation ends, the subject’s skin will rapidly (~3 minutes) take on a paper-like texture and entirely peel away, revealing a new skin underneath. The new skin will invariably have features similar to, and containing the DNA of, one of the following non-human animal species native to Pacific Canada. It should be noted that several of these animals do not actually feature on SCP-1579.
+
+Those affected by SCP-1579 acquire one of the following sets of features:
+
+Those of Corvus corax, or the common raven: Subject will bear feathering across torso, arms, and upper legs; legs below the knee become yellowed and scaly, with toenails becoming pointed and blackened. Feathers will grow across the face, growing outwards from the subject’s nose and mouth; a beak does not form during the subject’s transformation. Flight feathers grow back against the forearm, and cannot be spread out as a wing; tail feathers grow downwards from the base of the spine. All feathers are the same approximate size as that of a fully grown raven, multiplied in number to cover the subject's body. Additionally, all feathers recovered from test subjects have proven to contain identical DNA matches to a particular male bird.
+
+Those of Ursus horribilis, or the grizzly bear: Subject’s body is covered with brown fur approximately 4 inches long. Additionally, their lips and skin will turn black, with the nose becoming constantly moist. Claws are present, though markedly smaller than that of an ordinary grizzly bear. All DNA samples have proven to match that of a particular male grizzly bear.
+
+Those of Canis latrans, or the coyote: Subject will grow layered fur like that of an ordinary coyote; additionally, the cartilage in their ears will slough out and be replaced with new cartilage, in a similar shape to that of a coyote. Additionally, the subject's skin will turn black, and their nose will become moist to the touch. Nails are replaced with black canine nails. All DNA samples match that of a particular male coyote.
+
+Those of Pseudacris regilla, or the Pacific tree frog: Subject’s skin will become hairless, with a green hue with brown markings, rapidly drying out when outside a humid environment. Skin is also quite thin; subjects’ eyeballs are visible through translucent eyelids. Subjects still require air to breathe; testing has shown that surface area is not sufficient to allow for proper permeation of oxygen in human-sized subjects. All DNA samples have proven to match a particular male frog.
+
+The specific transformation induced will cycle in the order listed above, regardless whether a new subject activates SCP-1579 or it is a repeated activation by the same subject. If a subject is exposed to SCP-1579 again after a transformation, the second or third shifts will become markedly more painful, with the outer layer of skin failing to 'dry out' and bleeding. Excessive bodily trauma and blood loss have been observed in subjects attempting a third or fourth exposure, with subjects normally dying of shock midway through the fourth shift.
+
+Acquisition: SCP-1579 was brought to attention when discovered by an elementary school group hiking through a public path. Their supervising teacher was apparently explaining basic history of totem poles in Native American culture when she touched SCP-1579's side and instigated its effect; according to witnesses, she fell into the artifact in a panic and repeatedly activated its effect, soon dying of blood loss. Class B amnesiacs were administered to the remaining teacher and students, with the initial activator's disappearance attributed to a local serial killer.
+
+SCP-1579 did not feature on the path previous to this initial encounter.

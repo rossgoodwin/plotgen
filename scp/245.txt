@@ -1,0 +1,35 @@
+SCP-245 photographed on █/██/2010
+
+Item #: SCP-245
+
+Object Class: Euclid
+
+Special Containment Procedures: As SCP-245 cannot be physically contained by any means currently available, Foundation efforts are focused on suppression of public knowledge and covert coordination with NASA, FKA, and other space agencies to minimize the possibility of contact between SCP-245 and orbital assets.
+
+See Document 245-0210-A for information pertaining to emergency suppression procedures in the case of public dissemination of knowledge regarding SCP-245, as well as protocol regarding the handling of civilian 'discovery' of SCP-245.
+
+Description: SCP-245 is an unidentified object hovering over the Earth, located directly over ██°██'██"N ███°██'██"W at an altitude of ███ km. Despite the fact that it is impossible for an orbital body to maintain a geosynchronous position at LEO distance, observation of SCP-245 to date has shown no degradation of its orbit or emission traces that would indicate powered correction of its position.
+
+Direct observation of SCP-245 has proven difficult as SCP-245 appears to heavily distort light and radiation passing through or reflecting off of its surface. Current estimates places the object at approximately █ m in diameter with a mass of approximately █,███ kg. Spectroscopic and [REDACTED] analysis are inconclusive, but suggest that SCP-245 may be composed mainly of metallic alloys with traces of [REDACTED]. As such, it is currently assumed that SCP-245 is most likely artificial.
+
+The same effect that makes SCP-245 difficult to observe also causes catastrophic damage to any electronic device that passes within 46 km, making it impossible to make close range orbital passes for photography or analysis. To date, over ██ military and commercial LEO satellites have been damaged or destroyed by SCP-245 and analysis of recovered electronics has exhibited damage consistent with exposure to a high-intensity electromagnetic pulse (EMP). Covert coordination with international space agencies is currently ongoing to reduce the likelihood of additional incidents.
+
+SCP-245 was first detected on ██/█/200█ following loss of contact with NSA satellite [REDACTED] and observation of its last known position utilizing ground-based telescopes. Research into SCP-245's origin and purpose are ongoing, as well as continued research into mitigating its destructive effects.
+
+Addendum 245-001: Incident 245-014
+
+Please see Document 245-0014-I ("Contact lost with military satellite USA 193 shortly after launch.", █/██/2008)
+
+Addendum 245-002: Incident 245-017
+
+Please see Document 245-0017-I ("Orbiting Carbon Observatory crashes after launch.", █/██/2009)
+
+Addendum 245-003: In the aftermath of Incident 245-017, updated analysis of SCP-245 has shown an increase in mass of approximately 3.7% since initial observation. Furthermore, while no positional or emission change was detected, the range of SCP-245's field effect has also increased by approximately 1.9%. Contingency plans are being developed in case the effect field grows to sufficient size to threaten the International Space Station or other major orbital assets.
+
+Addendum 245-004:
+
+The proposal to attempt to knock SCP-245 out of orbit using a kinetic impactor has been declined pending further research and analysis of SCP-245's nature and effect. Without enough understanding of its abilities, any attempt to retrieve it from orbit is far too dangerous to be allowed at this point.
+
+Dr. █████████
+
+Senior Researcher

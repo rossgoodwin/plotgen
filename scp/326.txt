@@ -1,0 +1,25 @@
+Item #: SCP-326
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-326 is contained at Armed Bio-Containment Area 14. Due to SCP-326's severe iatrophobia, personnel who will interact with be seen by SCP-326 are not to wear lab coats. Due to SCP-326's post-traumatic stress disorder, her tendency to undergo panic attacks, and the increased danger she poses to personnel during these episodes, SCP-326 is never to be beyond sight of a 'panic room' into which she can flee; the path between SCP-326 and the closest panic room is to remain unobstructed.
+
+Tranquilizers are to be added to SCP-326's food on a daily basis to mediate her stress; in the event that SCP-326 needs to be transported off-site, she is to be sedated until such time as she can be provided with a new panic room.
+
+SCP-326 is deaf, and communicates via written Chinese; translators are to be available at all times. All communications with SCP-326 are to be archived.
+
+Description: SCP-326 is a human female, approximately 65-70 years old,1 who has been subjected to significant body modifications by an anomalous technology. When inactive, these modifications are detectable only by subject's anomalous weight (230 kg, despite a physique which would indicate a weight of at most 45 kg), and by the presence of significant keloid scarring along her arms, legs, hands, feet, and spinal column. When subject becomes agitated, the scars rupture lengthwise, and the components of a structure emerge; this structure resembles an exoskeleton made from human bone, and bestows upon SCP-326 enhanced strength and speed. The degree to which her speed and strength are enhanced is unknown, as she is reluctant to participate in quantitative testing; however, she has demonstrated the ability to (when in a panic) throw two 100-kilogram security guards over distances greater than 4 meters, and to travel over 20 meters to her panic room in 2.8 seconds. Due to logistical difficulties with sampling (not only is the exoskeleton extremely durable, its accessibility is limited to those times when SCP-326 is panic-stricken), the physical composition of the exoskeleton is as yet unknown, as is its connectivity to SCP-326's musculature and nervous system.
+
+SCP-326 is deaf,2 as a result of having deliberately ruptured both of her own eardrums at some time prior to entering into Foundation custody; her stated goal in doing this was to avoid "hear[ing] bad words". Further questioning on this topic results in SCP-326 becoming agitated and distressed.
+
+History: SCP-326 claims to have been an agricultural worker from the rural village of [REDACTED], in [REDACTED] province, People's Republic of China, at the time of Mao Zedong's Great Leap Forward campaign. She describes having been approached by "some young men from [REDACTED]" who induced her to participate in a procedure "for the revolution". The procedure was "very secret" and involved "bad doctors", "bad magic", and "much death"; eventually, however, "the young men stop[ped] coming", and SCP-326 was "left in the room of ice".3
+
+In 20██, a containment breach by SCP-████ led to the collapse of █ buildings in the Chinese city of [REDACTED]. Foundation cleanup crews discovered SCP-326 wandering in the wreckage of the [REDACTED] building, identified her as anomalous, and took her into custody.
+
+Footnotes
+
+1. This figure is SCP-326's physiological age; chronologically, SCP-326 is over 120 years old
+
+2. but still able to speak, in the Pinghua dialect of Chinese
+
+3. this is thought to indicate cryogenic suspension.

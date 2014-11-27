@@ -1,0 +1,129 @@
+SCP-1457, at rest.
+
+Item #: SCP-1457
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1457 is to be contained in a 5m x 5m x 5m containment area furnished with host plants appropriate to its apparent species. SCP-1457 is to be “fed” every 24 hours by designated personnel (See Addendum 1457-2). Humidity, temperature, and light are to be maintained in the containment area to prevent causing stress to SCP-1457.
+
+Description: SCP-1457 appears to be a Nymphalis antiopa butterfly possessing a missing forewing and solid white eyes. Despite the tattered condition of its wings, SCP-1457 is still capable of flight. Possibly due to its unique feeding habits, SCP-1457 does not show signs of aging.
+
+SCP-1457 is capable of transferring memories between humans through skin contact. Test results thus far invariably indicate that the memories transferred pertain to experiences involving isolation and tend to incite a desire for sympathy or company in the affected party.
+
+When SCP-1457 undergoes stress, the dark blue markings along its wings begin to luminesce. While in this state, SCP-1457 will “broadcast” memories gathered from all humans it has been in contact with. The maximum range SCP-1457 is able to transmit memories through this method is unknown.
+
+SCP-1457 was initially recovered from a relatively suburban area, where a child had discovered it and attempted to care for it. The child was later treated for symptoms of anxiety and depression; SCP-1457 came to the attention of the Foundation when the child’s parents and █ neighbors of the family also began to seek therapy.
+
+Addendum 1457-1: Preliminary interviews with D-Class personnel exposed to SCP-1457 have revealed that memories transferred by SCP-1457 are initially accepted by the receiver as their own. (See interview log)
+
++ Interview 1457-11-19352
+
+- Hide this.
+
+Interview Log 1457-11-19352
+
+Dr. Kiryu and D-Class personnel D-19352 are seated within SCP-1457’s containment area. SCP-1457 rests on D-19352’s hand, wings unfolded.
+
+Dr. Kiryu: This butterfly is called a Mourning Cloak. Does it remind you of anything?
+
+D-19352: No, I don’t think so… Wait…
+
+Dr. Kiryu: Yes?
+
+D-19352: I don’t know why, but… it sort of reminded me… no, it made me remember something. [pauses] When my mother died. In a hospital with light blue curtains. She was crying, because no one else was there. Just me.
+
+Dr. Kiryu: Why do you think the butterfly reminded you of that?
+
+D-19352: I think there was a vase or something with flowers. Somewhere. And a white butterfly was on the vase.
+
+Dr. Kiryu: I see.
+
+<Class D personnel D-19352 averts gaze from interviewer. SCP-1457 folds its wings. D-19352’s eyes are observed to have grown blanker; the pupils dilate and briefly flash white.>
+
+D-19352: Won’t you share my stories?
+
+Dr. Kiryu: I’m sorry? What stories?
+
+D-19352: [pauses] Stories? I didn’t say anything about stories.
+
+Note: A background investigation revealed both parents of Subject D-19352 to be living. Neither had ever been hospitalized or suffered any major injury.
+
+The incidences of subjects appearing to be “possessed” by SCP-1457 are undergoing investigation. It is currently unknown if SCP-1457 consciously attempts or is able to communicate.
+
+Addendum 1457-2: Based on the journal logs of Dr. █████, the first designated “food source” of SCP-1457, it is theorized that SCP-1457 does not sustain itself through human contact, but rather feeds off of certain human emotions.
+
++ Excerpt from Journal Log 1457-██-K
+
+- Hide this.
+
+██ ████, 199█
+
+I should have known the random mandatory EI test was more than just a new routine for staff.
+
+██ ████, 199█
+
+I saw two adults arguing in a hallway; I was huddled by a stairwell in the dark. The screaming continued and a door slammed, someone walked up the stairs but I couldn’t move, because I knew mother wasn’t going to return and she had spoken about it so many times, but I never thought it would actually happen, I thought that they would stay together for just a little longer, because they would always be there for me to talk to when one of them was angry.
+
+██ ████, 199█
+
+There’s a consistency in all of the memories. Every time, every instance, is a scenario in which someone wholeheartedly and desperately yearns for the company of another, whether a loved one or simply any other being. The emotions SCP-1457 appears to channel border on the indescribable; it’s somehow more than loneliness, somehow more than abandonment.
+
+██ ████, 199█
+
+I was walking, watching an airplane fly overhead, maybe carrying my best friend. We’d grown up in the same neighborhood, walked to school together for years. I know for sure I won’t see him again, but he’s so happy to finally be heading out into the world; I hope he remembers me. His apartment is completely empty now; the tree we used to climb is empty, the parking lot and the windows and everything is empty.
+
+██ ████, 200█
+
+It’s uncanny just how many unique memories SCP-1457 seems to have “stored”. Since its age has yet to be determined, it’s quite possible that it’s been around for many years, decades even.
+
+██ ████, 200█
+
+I was seated at a desk. Three deadlines tomorrow, four mouths to feed. It had always been this way, but if I have to drag myself through early waking hours to make sure they can sleep soundly another night, even if they don’t know, it’ll be enough. It’ll have to be enough. I can’t let them worry.
+
+██ ████, 200█
+
+I’ve gone through the testing logs. These memories have been given out before. It seems that if SCP-1457 makes contact with the same human multiple times in succession, the memories given will be in reverse order of SCP-1457’s acquisition of them, with the most recently acquired memories being transmitted first. So if I keep this up long enough, will there be a point where the memories end? Will I know when I receive the memory that started it all?
+
+██ ████, 200█
+
+I was eating dinner alone. This was his first birthday Dad wasn’t around to celebrate. There were still funeral arrangement papers scattered across the table, and the radio is chirping the song he liked to sing to Mom. Outside the sky is gray and miserable and pouring cold rain, but I know at least they’re not alone anymore.
+
+██ ████, 200█
+
+[DATA REDACTED]
+
+██ ████, 200█
+
+I can’t help but wonder how it transfers emotions as well as the memories. I also wonder about the vividness; I wonder why the memories linger. I know they’re not mine, but nevertheless, these are common scenarios, common sob stories. At any given time in the world there is always despair, and as much as I try not to think of it, I feel sorry for them all, but I don’t know what SCP-1457 wants from me, because every time it passes a memory to me, I don’t feel anything.
+
+██ ████, 200█
+
+It talked to me. It actually talked to me. I don’t quite remember how, I just heard a voice in my head when it landed on my hand. Sounded like a child, whispering, “There is no giving or taking. There is only sharing.”
+
+██ ████, 200█
+
+I saw a residential area. It was fairly nice, with neatly-trimmed lawns, healthy trees, flowers on the bushes. But then I saw someone using a hose to remove something from one of the walls of the house—I think it may have been a chrysalis? There were a few scattered on the roofs and ledges. I saw children on bicycles, and I saw unmoving caterpillars on the sidewalks.
+
+██ ████, 200█
+
+Why do I even bother writing these records… There’s no point in feeling sorry for all these people since there’s nothing I can do… Too many people…
+
+██ ████, 200█
+
+“Let me share with you. Please.”
+
+██ ████, 200█
+
+I saw what seemed to be a forest, what was left of a forest. A tree was falling down, no, being chopped down. I think I remember hearing the sound of machinery. I felt like my sensory perception was off somehow; it was confusing. I couldn’t think of what sort of person the memory would belong to.
+
+██ ████, 200█
+
+Today SCP-1457 didn't fly to me like it normally did. All this time, all this sorrow, and it refuses to fly to me today. Doesn’t it feed off suffering? Isn't that what it wants? The worst of it comes when I leave the containment area, I can barely feel the slightest bit of empathy anymore. Who cares about all those memories? Why should anyone bother caring? I’ve tried…
+
+██ ████, 200█
+
+“You still don’t understand.”
+
+██ ████, 200█
+
+“Still, thank you.”

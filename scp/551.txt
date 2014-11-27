@@ -1,0 +1,27 @@
+Item #: SCP-551
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-551 is to be contained in a simple cardboard box. It must be of an adequate size to carry all pieces of SCP-551. The box should be stored in a locker unit on Storage Site-23 and at least one (1) Level 1 staff member is to be notified in the event of its removal.
+
+Description: SCP-551 is a standard, five hundred and fifty (550) piece jigsaw puzzle, which should depict, in its finished form, the image of a solitary woman on a small row boat, surrounded by a stormy sea. However, due to the nature of SCP-551's abnormal qualities, some details of the scene are left incomplete, such as the woman’s face and [DATA EXPUNGED].
+
+SCP-551 was found in the apartment of ███ ████ after other residents complained of an odor seeping out from under the door. The severely malnourished body of ███ ████ was discovered beside SCP-551, with several pieces still clutched in her hand. Roughly one third of SCP-551 was pieced together on her floor.
+
+Multiple subjects testing SCP-551 stated that a completion of the puzzle seems inconceivable. The mental reactions of subjects to SCP-551 was diverse, apparently depending less on the puzzle and more on the personality of the subject (see Addenda 551-1/2/3), though the effects of SCP-551 on the psychology of subjects should not be overlooked.
+
+Addendum 551-1
+
+Standard Class-D personnel is tasked with piecing together SCP-551. Subject spent two weeks in a single room, trying to finish the puzzle, and pausing only to sleep. Subject became increasingly frustrated with his progress on SCP-551, which failed to span past forty (40) connect pieces after this time. Subject slept less during his last days working on the puzzle, and was permitted to stop when he [DATA EXPUNGED].
+
+Addendum 551-2
+
+Class-D personnel with a history of addictive behavior is tasked with piecing together SCP-551. Subject acted aloof about the assignment at first, but after connecting two pieces, she seemed to become alarmingly obsessed with SCP-551. Subject stayed beside it for days, sometimes screaming about her lack of progress. After a period of four weeks, subject lost consciousness from lack of sleep, and the test was ended. One hundred and two (102) pieces of SCP-551 had been connected.  
+
+Addendum 551-3
+
+Dr. ██████, who scored above average on a standard IQ test, expressed skepticism about SCP-551 and was approved to test it. Dr. ██████ completed all but a couple of sections, specifically the woman’s facial features and [DATA EXPUNGED]. Despite this success, Dr. ██████ showed confusion over his remaining pieces and adopted a fatalist attitude toward the puzzle, finally refusing to complete it after four days.
+
+Addendum 551-4
+
+A computer-based approach was taken on the completion of the puzzle. The first tool used was a mechanical arm designed to take a piece and place it in the puzzle, used along with a camera and a desktop computer running an image processing algorithm. The application was tested extensively with normal puzzles; however, when tasked with completion of the puzzle, it would invariably trigger a blue screen or a kernel panic as soon as it finished scanning the piece. An embedded design approach was taken, and the computer was replaced by a microcontroller in charge of moving the piece linked to an image processing DSP; however, the value of the program counter register in all the CPUs would corrupt as soon as the DSP finished scanning the picture of the piece, and in several occasions a sudden, unexpected current peak would result in damage to the CPUs and other components. Automated solutions, therefore, had to be discarded.

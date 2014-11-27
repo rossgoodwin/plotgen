@@ -1,0 +1,37 @@
+Item #: SCP-1417
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1417-1 and SCP-1417-2 are to be contained in a standard Safe-class holding locker when not in use. Any personnel wishing to make use of the objects for testing purposes must submit a summarized testing outline form to Doctor Chapman for approval. Under no circumstances are SCP-1417-1 or SCP-1417-2 to be taken off-site or used without permission. Any personnel found in violation of this protocol will be reprimanded.
+
+Description: SCP-1417 is a collective designation for two related objects possessing anomalous properties. SCP-1417-1 appears to be an ordinary banana (Musa acuminata) of the Cavendish variety, which is partially peeled at one end. Biological analysis reveals that SCP-1417-1 does not differ from an ordinary banana in any way, with its skin and exposed flesh consistent with biological norms. SCP-1417-1's anomalous properties include the inability to continue peeling it; when an effort is made to peel it, the peel is unable to be moved, with testers reporting an intense resistance on the part of the skin. Robotic attempts at peeling have also met with similar results, with pressure increasing equal to the resistance applied in peeling.
+
+SCP-1417-1 also does not suffer from standard biological decomposition; since its acquisition by the Foundation in 2012, the object has not undergone any form of degradation, regardless of location.
+
+SCP-1417-2 consists of two pieces of laminated printer paper, 8.5 cm x 11cm in size, accompanied by a single plastic chip. The second page contains a chart of several options with accompanying blank boxes. Anomalous properties manifest when the chip is placed on one of the boxes. The text of the page is as follows:
+
+SWISS ARMY BANANA
+
+REGISTERED OWNER:
+
+FLARE GUN (SINGLE SHOT) [ ]
+
+TIRE IRON [ ]
+
+CORKSCREW [ ]
+
+POCKET KNIFE [ ]
+
+COMPASS (ONLY POINTS NORTH) [ ]
+
+REST [ ]
+
+When the plastic chip is placed into any of the blank boxes, SCP-1417-1 will take on the properties of the object selected. The banana itself will not change or display any new visual qualities, but will instead function as the selected object. For example, placing the chip into the "POCKET KNIFE" box causes SCP-1417-1's peeled, visible end to become as sharp as a standard stainless-steel quality knife, just as selecting the "COMPASS" box will cause SCP-1417-1 to point its peeled end north, regardless of the direction the object and/or owner is facing.
+
+When the chip is placed into the "REST" box, SCP-1417-1 will return to an inert state and appear as normal. If SCP-1417-1 is not placed into the "REST" position approximately once every twelve hours, SCP-1417-1 will develop a limp appearance and begin to turn green, becoming non-functional until the "REST" option is selected. It is also important to note that the plastic chip, when placed upon SCP-1417-2, cannot be removed by any means other than the owner physically removing it with his or her hand. The paper is apparently indestructible, with ripping, burning and compacting attempts proving to have little to no effect.
+
+Alternatively, if an individual signs his or her name in the "REGISTERED OWNER" text box, SCP-1417-1 will respond to voice commands from that individual, so far as they match the commands found in SCP-1417-2. For example, saying or yelling "REST" whilst in the presence of SCP-1417-1 will cause the item to enter into rest mode. Further testing is in progress.
+
+SCP-1417 was discovered on ██-██-2012 after police responded to a hostage-taking incident in the town of ████, Pennsylvania. First responders found the suspect — a man with a known history of mental illness — holding a neighbour hostage with what appeared to be a banana. After negotiations with the suspect failed, police attempted a raid on the home only to witness the suspect fatally slash his victim with the banana, causing death due to a severed jugular vein.
+
+Foundation personnel embedded within the coroner's office noted the unusual circumstances of the incident and retrieved SCP-1417-1 and SCP-1417-2 from the home of the suspect, with amnesiacs administered to witnesses as necessary. Suspect ████ ████████ retrieved from incarceration and recruited into Foundation program as D-23952.

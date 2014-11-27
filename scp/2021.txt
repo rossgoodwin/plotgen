@@ -1,0 +1,29 @@
+Item #: SCP-2021
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2021 is contained inside an opaque container at least 30 cm x 20 cm x 10 cm. All instances of SCP-2021 must be accounted for, and logged if lost during experimentation.
+
+Description: SCP-2021 is the collective designation of 131 (formerly 140) sheets of U.S. Letter-sized copy paper, found inside a cardboard box labeled in permanent marker "single-sided paper, please hold by the sides, patent pending place for my stuff". The obverse sides of the sheets are normal white copy paper, and the reverse sides apparently "invisible" or otherwise empty space. Stacking the sheets one atop the other has no anomalous effect, and use of opaque storage containers has been successful in containing the sheets.
+
+Experiments 2021-01 - 03
+
+Attending researcher Dr. Jaime Marlowe, D-14190, D-█████, one hamster
+
+Note: Prior to the experiment, Dr. Marlowe lost grip on a sheet of SCP-2021, causing it to land obverse-down onto a table. Instance could not be retrieved and no trace of the sheet could be detected
+
+Log 1: Dr. Marlowe places a sheet (with a strip of tape affixed to the edge to allow for easier retrieval) obverse-down onto a hamster placed on a table. Hamster remains visible, though shows signs of distress. Hamster crawls out from underneath the paper. Dr. Marlowe places the sheet reverse-down onto the hamster. The sheet flattens smoothly upon the surface, leaving no trace of the hamster. Dr. Marlowe carefully drags the paper along the surface of the table before lifting it again, successfully retrieving the hamster.
+
+Log 2: Multiple sheets of SCP-2021 are taped together and suspended with a wire from the ceiling of the testing chamber to create a larger opening. Two Class-D personnel, (D-█████ and D-14190) are ordered to stand opposite one another with the sheet between them; the person behind the obverse side could see the shadow of the individual before them, while the person behind the reverse side could clearly see the other individual. The individual on the reverse side failed to heed instructions and reached out into the "invisible" side of the paper, before quickly withdrawing their hand and making contact with the outer edge of the paper. D-Class experienced a mild paper cut but nothing else unusual.
+
+Log 3: The experiment was repeated with Dr. Marlowe and D-14190. D-14190, facing the reverse side, could see Dr. Marlowe on the obverse side. The two could communicate verbally without issue. After some time, D-14190 was ordered to reach out and grab a volumetric beaker located on the table next to Dr. Marlowe. D-14190 complied, reaching into the empty space and successfully retrieving a beaker. However, the beaker located next to Dr. Marlowe was untouched.
+
+Addendum 1: D-14190 sought medical attention, complaining that their arm "[felt] like it belongs to someone else". Psychological examination revealed nothing anomalous in the patient, though the symptoms described are consistent with agnosia1. D-14190 also claimed to be unable to identify objects by touch using their right hand, consistent with astereognosis2. It should be noted D-14190 used their right arm in the experiment with SCP-2021. Dr. Marlowe has noted a similar effect on her left-hand middle and ring finger tips.
+
+Addendum 2: Several weeks after the experiment's end, Foundation personnel reported the lingering smell of decomposition in the testing chamber used in the experiment. Two thorough cleanings were done, but failed to remove the odor. The chamber has been temporarily shut down pending further attempts to fully cover the odor.
+
+Footnotes
+
+1. A neurological disorder characterized by an inability to recognize objects, sounds, shapes, or smells.
+
+2. Related to agnosia, marked by an inability to identify objects based on touch.

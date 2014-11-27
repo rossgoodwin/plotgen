@@ -1,0 +1,107 @@
+SCP-1866 (detail)
+
+Item #: SCP-1866
+
+Object Class: Safe
+
+Special Containment Procedures: Since 2 July 2010, SCP-1866 is stored at Site 20, Building C, room 184A, in a cardboard box measuring 140 cm x 140 cm x 146 cm. The box contains a card table 137 cm wide, 137 cm long, and 71 cm tall. An envelope has been stapled to the center of the table and is to remain so at all times; SCP-1866 is to be placed inside the envelope when not in use. Pictograph stickers depicting the type of hazards (118 Data Corruption; 003 Self-Propagating) and means of activation (005 Proximity) are affixed in a prominent location on the box's exterior.
+
+The entrance to the containment room must have a sign warning visitors to leave all objects, including writing implements and clothing, outside of the room. Employees with certain kinds of prosthetic devices or tattoos are prohibited from viewing or experimenting on SCP-1866 under any circumstances, by order of O5-2. (For a complete list of personnel restrictions, see Document 1866-01.) Room 183A contains unmarked surgical scrubs, a changing area, and lockers for researchers' personal items.
+
+All records in the containment room or adjacent rooms must record dates using the name of the month (e.g. "November") instead of abbreviating it as a number ("11").
+
+Researchers wishing to bring any object (including experiment logs) into the containment area, or wishing to conduct any experiments involving SCP-1866, must first receive permission from the level 4 researcher responsible for Building C.
+
+Description: SCP-1866 is a single piece of paper, measuring 21.6 x 27.9 cm, visually indistinguishable from a bill from telecom provider [REDACTED]. When it comes within approximately 60 cm of susceptible dates and/or times written in certain formats, it alters said dates and times in a specific and predictable pattern, overwriting magnetically-stored data and physically altering printed or handwritten data. (Interested personnel are directed to Appendix 1866-A below for information on the pattern of date alterations. This knowledge is not necessary for containment, but may be valuable to personnel wishing to make their personal documents more resistant to SCP-1866 containment breach.) Human memory is unaffected by SCP-1866.
+
+Altered documents and devices can propagate the effect to others, though with a smaller and more variable range (measured between 31 and 40 cm). Wireless networks, fiber-optic cable, and other forms of long-distance data transmission do not appear to act as vectors.
+
+The effect is transmitted instantaneously and has not been blocked or attenuated by any material tested to date.
+
+When isolated, affected items lose their ability to spread the effect, and are effectively neutralized within 48 hours; however, 1) the data in a neutralized item remains altered, and 2) adjacent affected objects continuously re-affect one another unless placed outside one another's radius of influence. Successful neutralization therefore requires the separation of affected objects from all others by a distance of at least 40 cm for at least 48 hours.1 Neutralized objects are no longer vulnerable to the effect unless a new time or date is written on or encoded in them.
+
+SCP-1866 itself is always capable of altering susceptible objects and cannot be neutralized.
+
+Recovery Log:
+
+The case which led to recovery of SCP-1866 began on Tuesday, July 21, 2009, in Oxford, IL, a former town of about 15,000 people located in Whiteside County, Illinois. A single individual retrieved SCP-1866 from his mailbox, transmitting the anomalous effect to his driver's license and cell phone, then went to his office at 9 AM. The effect spread immediately to multiple objects within his cubicle and neighboring cubicles, then more slowly as employees moved around the office.
+
+By approximately 10:15 AM, several employees were simultaneously contacting technical support (for computers) and HVAC repair (for the office thermostat). The number and content of these calls were flagged by voice-recognition software wiretaps as a possible anomalous object situation, and the Mobile Task Force Mu-4 ("Debuggers") was alerted.
+
+MTF Mu-4 arrived at [REDACTED] at 12:05 PM. Because the nature of the event and the circumstances by which it was spread were initially unclear, and because the effect slowed agents' ability to communicate, city quarantine procedures were not initiated until 12:43 PM on 21 July. The quarantine was maintained for four days while agents determined what had happened, during which time the effect continued to spread within the town, resulting in: minor disruptions to local telephone service and traffic; significant disruptions to emergency services, medical care, and government function; near-total disruption of electrical service;2 and near-total disruption of banking and commercial services.3
+
+A total of 24 individuals lost their lives as the result of SCP-1866.4
+
+Agents provided regional, state, and national media with a slightly altered version of Cover Story 24A to explain the quarantine and subsequent destruction of the town. Persons known to have been present in the [REDACTED] office during the initial outbreak were questioned prior to relocation, enabling Agents to identify the initial carrier of SCP-1866. Residents were then given Class A amnestics and relocated to Foundation Communities Kilo and Lima. All structures and objects within the town, save the objects in the initial carrier's home, were examined for data relevant to the investigation, then either incinerated or pulverized, over a period of 3 weeks. Razing of structures required an additional 2 weeks. Cartographic, historical, and governmental records have been altered when possible, with the permission of the relevant authorities.5
+
+The initial carrier of SCP-1866's effect was interrogated by Foundation agents from 23 July until 4 August. He maintained throughout interrogation that he had no knowledge relevant to the origin or function of SCP-1866, nor could he think of a reason why anyone would wish to make it appear that he did. All five agents involved in his interrogation concluded that this is likely true (q.v. Interrogation Report 1866-01). On August 5, 2009, the recipient of SCP-1866 was given Class A amnestics and relocated to a Foundation community. All of his personal belongings were collected, transferred to Site 90, cataloged, and tested for SCP-1866 activity.
+
+Due to the extremely large number of items collected and the extra effort necessary to prevent contamination of Foundation information during cataloging, several affected items were no longer active by the time they were tested, leading researchers to the realization that the effect's contagiousness decays with time. Subsequent experimentation resulted in the neutralization of all affected objects except the original, which was revealed as SCP-1866.
+
+The origin of SCP-1866 remains unclear. The paper stock, graphics, and envelope are consistent with that typically used by the utility. The phone calls recorded on the bill are likewise consistent (accounting for alterations introduced by the anomalous effect) with utility records. Neither SCP-1866 nor its envelope contains any unusual markings. The envelope bears a 20 July 2009 postmark, from the Sterling, IL Post Office, consistent with the utility's billing cycle. The original envelope has no ability to block the effect of SCP-1866, as determined from testing, but no similar outbreaks have appeared in Sterling or elsewhere in the country, leading to the conclusion that the anomalous effect was introduced after the bill left the Oxford Post Office.
+
+NOTE: Two of the nine agents who contributed to this report hypothesize that SCP-1866 was a trial run by an unknown terrorist group, and the effect was not necessarily intended to spread beyond Northwestern Illinois. A group seeking maximum spread in 2009 would have chosen a release date in March (3/09), June (6/09), September (9/09), or December (12/09).
+
+No similar objects have been reported since 2009.
+
+Appendix 1866-A:
+
+Appendix 1866-A
+
+Data altered by exposure to SCP-1866 is affected when the following conditions apply:
+
+The data represents a date or time.
+
+The data is represented as a set of integers, at least two of which are not zero.
+
+All integers within the set share a common divisor.
+
+The new date or time is generated by dividing all integers in the original date by their common factor. Therefore 7/28/1981 becomes 1/4/283 (division by 7); 12:36 AM becomes 1:03 AM (division by 12). Times and dates without common divisors (Examples: 8/9/09; 4:17 PM; 1/1) are unaffected. Objects lacking susceptible dates or times can neither be affected nor propagate the effect.
+
+Objects in/on which only a single number is present (example: "03" representing the month of March, or a single time stamp of 0900) are unaltered.
+
+Zeroes count only in the presence of multiple non-zero integers: therefore, 10:00 AM is unchanged, but 10:00:05 AM would be.
+
+"AM" and "PM" designations are ignored; times are always changed to AM. (Thus, both 10:15 AM and 10:15 PM would become 2:03 AM.) Time zone designations are likewise ignored.
+
+Times written in military or 24-hour notation ("1734 hours") are treated as a single four-digit integer, not as two two-digit ones, unless the hours and minutes are separated by punctuation or are stored as separate integers. (E.g. "16:02")
+
+Ordinal dates are susceptible. Consequently, some dates not susceptible to the effects of SCP-1866 when written in more common formats (such as 7/13/10) are vulnerable if recorded in ordinal date format. (7/13/10, written as such, would be unaffected; the same date in ordinal format, 2010-195, would be affected.) Epoch dates are not susceptible until translated to sets of integers.
+
+Due to these properties, the SCP-1866 effect will spread particularly rapidly during some years, months, and hours, and less rapidly during others. Additional resources should be allocated to monitoring for SCP-1866-like outbreaks at the end of the following months, for the specified durations:
+
+January 2012 (for the period 2/12, 3/12, 4/12)
+
+May 2012 (6/12)
+
+July 2012 (8/12, 9/12, 10/12)
+
+November 2012 (12/12)
+
+May 2014 (6/14, 7/14, 8/14)
+
+January 2016 (2/16, 3/2016, 4/16)
+
+May 2016 (6/16, 7/2016, 8/16, 9/2016, 10/16)
+
+Footnotes
+
+1. For purposes of propagating the effect, any sheet of paper with one or more altered dates on it counts as an object, even if sheets are stapled, paper-clipped, or bound together, and the radius of influence of any affected object extends up to 40 cm from all points on its surface, not from its center of mass. Computers and other electronic devices typically contain multiple vulnerable components which can be separated, and consequently tend to remain affected and contagious until completely destroyed or disassembled.
+
+2. (city-wide service was lost on 22 July and was never restored; hospital generators functioned until they ran out of fuel on 25 July)
+
+3. Post-analysis concluded that the most significant initial vectors for the effect (not counting the original carrier) were grocery and convenience stores. Many of the products sold bear expiration dates in susceptible formats, stores typically contain or are located near ATMs, large numbers of people use the same credit-card readers (easily altered via susceptible card expiration dates), people stand in close proximity to one another in checkout lines, and large numbers of date-and-time-stamped receipts are generated throughout the day.
+
+4. Specifically:
+
+1 person being held in the county jail attempted to leave the facility when the electronic locks failed and was subsequently tazed by officers; he died in the hospital a short time later of an undiagnosed heart condition.
+
+Electrical service disruption led to 2 heat-related deaths in one of the city's nursing homes and 3 heat-related deaths elsewhere in the town. Nursing home residents were relocated to the hospital.
+
+Traffic light errors resulted in three serious traffic accidents on the night of 21 July. There were 2 fatalities.
+
+The hospital reported 1 death due to errors in life-support equipment, and 11 fatalities caused by medication overdose (records indicated that medications had been delivered earlier than was the case, resulting in doses being administered too close together), on 21 and 22 July.
+
+2 persons died in a fire at the public library in the late afternoon on July 21, and 2 more died on 25 July, of fire-related injuries; the fire's cause is unknown. A contributing factor is that several electronic security systems reported false alarms when first exposed to the SCP-1866 effect, greatly increasing response times for city police and fire departments between 4:15 PM and 7 PM on 21 July.
+
+5. Foundation personnel have revised the cartographic records of commonly-consulted internet sources to indicate that Oxford was formerly located in Henry County, IL, approximately 100 km southwest of its actual location. Internet traffic has been monitored continuously since the containment of SCP-1866 for references to Oxford, in hopes of locating individuals who might be investigating the town or its disappearance; only 12 such individuals have been detected as of 9 August 2011. All were treated with class B amnestics and released.

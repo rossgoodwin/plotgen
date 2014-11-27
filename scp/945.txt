@@ -1,0 +1,25 @@
+SCP-945 and contents as of ██/██/20██
+
+Item #: SCP-945
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-945 is to remain sealed and locked inside a steel chest, in a 3m x 3m cell at Storage Site ██. The cell is under video surveillance and the walls are carved with deep, irregular patterns to hinder escape. Any staff who have had contact with SCP-945 or its creations must be registered with on-site security. The contents of SCP-945 should be counted and logged 24 hours after the monthly D-class termination, or after the death of any staff who have previously had contact with SCP-945 or any of its creations. SCP-945-1 is to be contained in a locked glass case separate from SCP-945. If SCP-945-1 is not found within its case the Site is to be immediately locked down for a security sweep.
+
+Description: SCP-945 is a rough wooden Egyptian shawabti box dating from approximately 1500-1300 BCE, currently holding 186 clay shawabti figures which have been recently sculpted, designated SCP-945-2 to SCP-945-187. When the Foundation became aware of SCP-945 there was only a single ancient figurine within the box, designated SCP-945-1. In addition to the obvious age of SCP-945-1, it is distinct for being the only figure that bears any inscriptions. As the box was originally designed to hold a full set of 401 figurines, it is theorized that some of the originals may still exist outside of containment.
+
+The inscriptions on SCP-945 and SCP-945-1 are invocations to call the shawabti figurines forth to do the labor of deceased individuals. It was previously believed that these phrases must be read aloud to activate SCP-945, however the box and figurines within have since demonstrated their ability to act on their own in regards to any person who has come in contact with them.
+
+After an individual who had previous contact with SCP-945 passes away, SCP-945-1 will vanish. Within the next 24 hours, a crude clay replica of the deceased individual will manifest within a one mile radius of SCP-945. The replica tends to appear near SCP-945 or in the former living area of the deceased individual. The replica will manifest by stepping out of an appropriately sized flat surface, usually on a wall or closed door. Replicas have been observed traveling from one location to another by stepping into a wall and re-manifesting elsewhere.
+
+If any other applicable individuals pass away, the initial replica will begin sculpting new shawabti figurines to place inside SCP-945. Once the new figurines have been placed in the box clay replicas of the other individuals will manifest.
+
+The replicas will display the basic properties of the deceased individuals they are based upon. They have memories and knowledge relevant to the profession of the individual, and the basic physical capabilities required to perform their tasks. Although they can speak, see, hear and smell, their facial features are inanimate. The figures are not anatomically correct, but prefer to wear the clothes or work uniform of the deceased.
+
+A replica will go about the daily business of the deceased, giving priority to any unfinished work left behind at the time of death. If accosted, the replica will respond in a polite manner and insist that it be allowed to complete its tasks so that the deceased "may rest comfortably in the next world." When supervised, replicas will behave passively, although they will follow orders and use violence within the course of their duty as applicable. Their performance has been described as adequate. Although they feel no pain they are merely dried clay and can be destroyed with appropriate force or by breaking their corresponding shawabti. If the first replica is destroyed, SCP-945-1 will reappear inside SCP-945 until it activates again.
+
+Addendum: Replicas actively attempt to kill living beings when left unsupervised, for the purpose of increasing their numbers. This behavior even extends to non-humans, especially cats. During Incident SCP-945-7b, replicas managed to overwhelm and replace the entire staff of Storage Site ██ during a test to determine if SCP-945's creations could be used to offset the Foundation's high turnover rate. The initial replica smothered two security guards in their sleep and pushed a senior researcher down a flight of stairs while directing suspicion towards D-class personnel. As more replicas were created, they began to coordinate their actions to create a series of accidents and containment breaches that allowed them to increase their numbers sufficiently to overrun the remaining survivors.
+
+After taking the site, the replicas maintained it and kept all other local SCPs contained according to proper procedures. The site was reclaimed without casualties—replicas lacked the training and equipment to resist Mobile Task Force ██ and used predictable tactics from basic security manuals, showing none of the cunning that was involved in the site's takeover.
+
+It has been theorized that SCP-945's creations will cease making new figurines once the full set of 401 has been restored, therefore it is not recommended to destroy any new figurines created during a containment breach.

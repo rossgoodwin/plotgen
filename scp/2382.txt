@@ -1,0 +1,123 @@
+Item #: SCP-2382
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2382 is to be kept in a secure containment locker in Site-32. As testing has been discontinued, SCP-2382 should not be removed under any circumstances.
+
+Description: SCP-2382 is an intricately carved mahogany box, dimensions 20 cm x 15 cm x 4 cm. There is no latch or locking mechanism. The inside of the box is velvet lined. If opened by a living human, a key, designated SCP-2382-1, will be seen inside. This key is fairly large (approximated to be 15 cm long, as it cannot be measured accurately) and appears to be made of stainless steel. Upon either being touched or the box being closed, the key will disappear. Opening SCP-2382 again will reveal it to be empty. If the box is opened by mechanical means, the box will always appear to be empty. If SCP-2382 is opened twice in 24 hours by two separate test subjects, the second test subject will find the box empty and will experience no effects.
+
+The anomalous properties of the box become apparent after the test subject next goes to sleep, but only when they do so in relative darkness, in a room with all doors closed and with no one else present. Occurrences are most common between sunset and sunrise in the location of the sleeping test subject, yet it should be noted that dark areas present during hours of sunlight will also permit this effect to take place.
+
+Approximately █ hours into sleep, the test subject will wake up. This is due to a humanoid figure (hereafter referred to as a SCP-2382-2) pulling on the test subject, usually by gripping an arm or shoulder. All attempts to record instances of SCP-2382-2 have failed, with the recording device simply showing complete darkness while in the presence of it. Bruising and consistent stories of the D-class have given reasonable evidence of their existence, however. The features of SCP-2382-2 have always been obscured by darkness regardless of light levels when the figure is observed. It will attempt to pull the test subject into a standing position, and the force with which it does so will increase until they comply or else are dragged by SCP-2382-2. Willingly or otherwise, the test subject will be pulled towards and through the door of the room.
+
+The door will not lead to its usual destination, but instead to the interior of a building designated SCP-2382-3. SCP-2382-3 is described similarly by all test subjects: a series of corridors and large rooms, all walls, ceilings and floors constructed from highly polished stainless steel and a pale wood assumed to be pine. Photographs taken during tests have confirmed this. Despite a lack of light sources or windows, the rooms are brightly lit. The corridors have no such lighting and receive only that which comes from the rooms.
+
+Upon entering SCP-2382-3, the test subject will be surrounded by approximately ██ instances of SCP-2382-2 that will proceed to restrain them, while also covering their eyes (the light is reported as being completely blocked out) and dragging them away. Several minutes later they will be released. They will find themselves in a different section of SCP-2382-3, disorientated and with little grasp on their current location in relation to the door they entered through.
+
+Test subjects have found the rooms to contain what appears to various types of installation art in varying stages of completion, the materials and equipment required to construct them still in the room as if the artist or artists were interrupted while at work. Some examples of the rooms' contents are:
+
+A field of flowers constructed from broken mirrors. (Incomplete, with close to three quarters of the floor covered and several mirrors and tubes of industrial glue laid against the wall.)
+
+A room resembling a portrait gallery. All of the inhabitants of the frames had been sculpted as reaching out towards the centre of the room. (Incomplete, with a space marked out for a much larger final painting that had yet to be filled.)
+
+A black and white film projected against one wall of the room. The film lasted for ten minutes and sixteen seconds before restarting, and depicted a rose growing in what appeared to be a scrapyard. The speed of the flower's growth was exaggerated and, except for the occasional blurred figure moving in the background, nothing else is observed for the rest of the film. (Complete, but difficult to view due to the bright lighting of the room and half-constructed seating.)
+
+A series of wind chimes composed of several different materials including paper, diamond and hair. (Incomplete. The wind chimes themselves were mostly works in progress, and only two had been hung up in the room. Spaces for the others had been marked on the ceiling. A speaker system had been installed but was silent.)
+
+Barring the room referred to as the Throne Room, which is viewed by all who enter SCP-2382-3 (see Interview-2382-1) no single room has been described by two different test subjects. The door leading back is usually found without incident, and upon closing it the door leading to SCP-2382-3 will lose its anomalous properties and will once again allow access to and from the original room that it led to. All attempts to enter the room the test subject is sleeping in after the anomalous events have started will have resulted in finding the room empty and all doors functioning as expected. The test subject will not appear again in the room until it has been vacated, all doors closed and re-entered after the door to SCP-2382-3 has been closed.
+
+Test subjects will awake the next morning as is usual, but they will be suffering from one of three effects, referred to respectively as SCP-2382-a, SCP-2382-b, and SCP-2382-c.
+
+SCP-2382-a: The subject loses sight completely. No other effects result from this besides the expected psychological response.
+
+SCP-2382-b: In these cases, the subject suffers from no adverse effects after waking for approximately 24 hours. After this time has elapsed they will begin to complain of boredom, listlessness and apathy. Response to stimuli will be reduced, and the subject will lose interest in all people or activities. This is not so extreme as for the subject to lose their survival instinct, and they will still fulfil basic needs.
+
+SCP-2382-c: The subject will not awake at the usual time, and [DATA EXPUNGED]. Any subjects suffering from SCP-2382-c are to be terminated with minimum delay. Under no circumstances should subjects experiencing SCP-2382-c come into the vicinity of SCP-2382.
+
+After the test subject experiences either SCP-2382-a, SCP-2382-b or SCP-2382-c, SCP-2382-1 will reappear in SCP-2382.
+
+Interview-2382-1-A:
+
+Interviewed: Subject D-5793
+
+Interviewer: Dr. ████████
+
+Foreword: This interview takes place after test subject D-5793 was exposed to SCP-2382 and experienced SCP-2382-a.
+
+<Begin Log>
+
+Dr. ████████: My name is Dr. ████████. How are you feeling?
+
+Subject D-5793: I… what's going on? Why can't I see?
+
+Dr. ████████: This an effect of SCP-2382, which you were exposed to. Can you tell me what you occurred between opening SCP-2382 and the loss of your sight?
+
+Subject D-5793: Uh, yeah. I closed the box, but you guys told me to open it again. The key was gone.
+
+[Expunged for triviality]
+
+Subject D-5793: I woke up, but I was being dragged across the floor before I worked out what was going on. I was panicking a bit then, but I managed to get up-
+
+Dr. ████████: Did you see who or what it was?
+
+Subject D-5793: It was a person, I guess. I couldn't see their face, but that was probably just because it was dark and a light was shining from behind them.
+
+Dr. ████████: A light?
+
+Subject D-5793: From the door. I guess they must have opened it. It didn't lead out to the corridor, though… I got a pretty good look later.
+
+Dr. ████████: What happened then?
+
+Subject D-5793: I try pushing them away, but the guy doesn't let go of me and he doesn't stop walking towards the door. Didn't even flinch when I punched him. Next thing you know, he's got me through the door and loads of these guys are grabbing me. It goes dark – like this, now, I couldn't see anything at all – and when I can see again I'm sat in the middle of these huge stacks of books and there's no sign of them.
+
+Dr. ████████: Describe your surroundings at them time, please.
+
+Subject D-5793: Like I said, there are all these books. Massive, old, leather-bound things. Only someone's taken a knife to them and they're all carved up. I guess the shapes they've made with them are kind of nice, but they don't look like anything. I stood up, and there were these boxes at the other end of the room – which was huge, by the way – and when I take a look they're full of more of these books. Uncarved.
+
+Dr. ████████: What language were the books written in?
+
+Subject D-5793: None. The pages were blank.
+
+Dr. ████████: Very well. Carry on with your story.
+
+Subject D-5793: I walk out of the room, being kind of quiet so the people who grabbed me won't hear if they're still around, and there's this corridor. It's kind of dark, but there's a lot of light coming out of the doorways. I look through them as I'm walking and they're all full of weird things like the book room. I kind of just want to get out of there by this point. After a while, maybe ten minutes, I end up outside these massive double doors. Made of some kind of dark wood, so it stuck out. On the floor somebody had drawn a big arrow pointing at the doors, and it said something like, 'Throne Room. All who leave must enter here,' so I guess it's probably a good idea to take a look. Leaving was what I wanted to do. (D-5793 pauses.)
+
+Dr. ████████: What was inside?
+
+Subject D-5793: Well, there was a throne. Kind of had to be, right? (D-5793 laughs nervously.) The room was circular and the throne was in the middle. Steps led up to it, and there were… well, offerings, I guess, placed on the steps.
+
+Dr. ████████: What kind of offerings?
+
+Subject D-5793: Nothing weird. Valuable things, like jewelry made with gold and gems. Assuming it was real. It looked real. Crowns. Some kind of cloth - silk? Satin? Little statues, ceremonial swords. That kind of thing. Gifts for a queen.
+
+Dr. ████████: A queen?
+
+Subject D-5793: The woman sitting in the throne.
+
+Dr. ████████: There was somebody in the room with you?
+
+Subject D-5793: Well – see, she looked dead. Mummified. It was freaky, but I wasn't bothered because I could see the door leading back to the facility on the other side of the room, and she wasn't going to be doing anything to me. Not like that. So I ignored her and kept walking.
+
+Dr. ████████: And then you re-entered your room?
+
+Subject D-5793: No… I was just about to walk past the throne when I hear this noise… like a sigh. I stopped right there, because I know where it came from. So I look. And sure enough, the queen's eyes are open. But she's not looking at me. She's looking past me.
+
+Dr. ████████: Did you see what she was looking at?
+
+Subject D-5793: Yeah. The people who grabbed me, they're all behind me. And it's bright in this room, really bright, and I still can't see their damn faces. I don't move, because I don't even know if they can see. Hell, maybe they don't have faces.
+
+Dr. ████████: What happened?
+
+Subject D-5793: One of them looks straight at me-
+
+Dr. ████████: With eyes that you couldn't see?
+
+Subject D-5793: Y-yeah, and it says something. But it's too quiet. Only then they're all saying it, all at the same time, and then I know I've got to get out. I just run for it and shut the door. They don't open it again.
+
+Dr. ████████: What did they say?
+
+Subject D-5793: 'The queen demands light. The queen demands life. The queen demands tribute.'
+
+<End Log>
+
+Addendum-1: Upon recovery of SCP-2382 on ██/██/████ seventeen (17) notches were observed upon the lid, seemingly made by a knife. Since this time, seven (7) of the notches have disappeared, six (6) of which were noted to have vanished directly after a subject succumbed to SCP-2382-c. The seventh had no such correlating event. Testing has been discontinued.

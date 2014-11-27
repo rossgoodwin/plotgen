@@ -1,0 +1,91 @@
+Item #: SCP-1222
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1222 is to be locked in a 60 x 60 x 60 cm hard plastic container with foam inner-lining to hold it in place. Container can be found inside locker ██ in the storage area of Site-4. If container is damaged in any way, contact administration for replacement. Personnel with Level 1 clearance or higher may access the object for research purposes.
+
+If not used for testing, linseed oil must be rubbed into SCP-1222 for preservation purposes once annually. Linseed oil must also be used after all research tests.
+
+Description: SCP-1222 is a bamboo box, decorated with beads and shells, and measuring 7 x 10 x 10 cm. A lid is attached and held together by a woven thread made of palm fronds. Any human who touches the box with both hands and gazes at its bottom will instantly enter a state of stasis, in which they cannot be repositioned or harmed by any means known to the Foundation; any human in this condition is to be classified as SCP-1222-1. This stasis will continue until SCP-1222-1 is touched by the skin of a live human. SCP-1222-1 has no vital signs (respiration, blood pressure, brain activity), and can remain in this condition indefinitely. Removing SCP-1222 from SCP-1222-1's hands, or blocking it from SCP-1222-1's view, does not affect the stasis. However, only one instance of SCP-1222-1 exists at a time; attempts to successively or simultaneously create multiple instances of SCP-1222-1 have failed.
+
+Examination of SCP-1222-1 through latex gloves has revealed that SCP-1222-1's flesh is hard and unyielding; researchers have described the flesh as being "like stone or metal". SCP-1222-1's clothing is unaffected by the stasis and can be damaged normally; however, hair becomes intensely tough and durable.
+
++ TEST LOG 1222-1
+
+– hide block
+
+TEST: SCP-1222-T12
+
+PROCEDURE: SCP-1221-1's head struck with metal rod 32 times.
+
+RESULT: No damage to SCP-1222-1; rod became warped and dented.
+
+TEST: SCP-1222-T14
+
+PROCEDURE: Fired at with a .38 Special revolver
+
+RESULT: The bullet compressed against SCP-1222-1's right earlobe. SCP-1222-1 fell over.
+
+TEST: SCP-1222-T22
+
+PROCEDURE: Fired at with an AR-10 rifle using 7.62x51 NATO rounds
+
+RESULT: The bullet shattered against SCP-1222-1's right shoulder. SCP-1222-1 fell over.
+
+TEST: SCP-1222-T30
+
+PROCEDURE: Swiped at with 30cm kitchen knife
+
+RESULT: Knife bounced off.
+
+TEST: SCP-1222-T31
+
+PROCEDURE: Stabbed with 30cm kitchen knife
+
+RESULT: Knife broke.
+
+TEST: SCP-1222-T50
+
+PROCEDURE: Fluoroantimonic acid poured onto SCP-1222-1's back
+
+RESULT: Acid seeped off of the subject and into the glass container beneath.
+
+TEST: SCP-1222-T53
+
+PROCEDURE: Partially submerged in Fluoroantimonic acid
+
+RESULT: Subject was asked to hold SCP-1222 above the head while entering stasis. Subject was lowered into a glass container two meters tall with one meter filled with fluoroantimonic acid. Test was conducted with safety measure to ensure no damage to SCP-1222 would occur. After two weeks of no reported changes, subject was removed, cleaned, and reawakened. Subject subsequently died due to accumulation of acid in pores of skin and lower cavities.
+
+TEST: SCP-1222-T63
+
+PROCEDURE: Petrol ignited
+
+RESULT: A small quantity of petrol was poured over the subjects lower back and set alight. The area became scorched black with residue but no visible damage was shown.
+
+NOTE No further tests involving substances that could harm the box will be used unless under strict supervision of a safety team and class 3 personnel. This is only to prevent damage to the box and is not a personal attack on any researcher.
+
+TEST: SCP-1222-T68
+
+PROCEDURE: A slap
+
+RESULT: Both a gloved and ungloved slap were given to the test subject. The gloved slap had no effect and managed to topple over the test subject. The ungloved slapped immediately awoke the test subject, who shrieked in surprise. When D-class personnel was asked to describe the feeling of slapping, he replied “like putting your hand through paper and immediately hitting flesh”.
+
++ RECOVERY LOG
+
+– hide block
+
+SCP-1222 was found in ██████████, a village of Nias Island located off the coast from the Sumatra region of Indonesia on November 18, 1984. A rescue team dispatched in the area discovered a dug out chamber beneath debris of a destroyed home. In the middle of the chamber was a Caucasian woman kneeling on the floor with the item in her hands.
+
+Report Excerpt ██-██-1984
+
+We were relieved at first to find a survivor under all the rubble. A single mother had lived there with two children and an infant, and all four had perished when their home fell. A neighbour had reported that the mother was always talking about a disabled cousin she also cared for, and was worried for the cousin’s safety. After inspecting and moving the rubble, we found a hole in the corner of where the sleeping area would have been. The hole went down two meters before turning toward an entrance of a small chamber. The man who volunteered to go down called out that he had found a woman in prayer and that she was in shock. He then went to pick her up and take her out when the woman started screaming. When he emerged with her she was thrashing about and speaking in a language we didn’t recognise. She was without a scratch on her body, but her clothes were old and falling apart and a thick layer of dust covered all parts. The woman calmed down after we constrained her and was sent to an emergency medical centre set up nearby.
+
+Light amnesiacs were given to all members of the rescue team after receiving the report.
+
+The subject’s name is ████ ██████, born 4 June 18██. Agents acquired her at the emergency medical centre where she was transported to Site-4. The only item with her was SCP-1222. Subject spoke fluent Dutch that was standard for the 1800’s. When questioned about SCP-1222 she went into detail about finding it in a village not far from where she was found, after her father had [DATA EXPUNGED] retrieved it from the ashes. Subject was commissioned to D-Class personnel at Site-3.
+
+Addendum:
+
+Future tests are scheduled for use of radiation, destructive bacteria, nano-machines, and SCPs ████, ████, ████, ████, ████, ████ and ████. Various Keter class SCPs were also considered but decided against due to possibility of the damage or destruction of SCP-1222.
+
+                    

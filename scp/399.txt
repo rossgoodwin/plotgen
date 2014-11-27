@@ -1,0 +1,93 @@
+SCP-399 when not in use.
+
+Item #: SCP-399
+
+Object Class: Safe
+
+Special Containment Procedures: When not being worn by a human being, SCP-399 is inert. SCP-399 is to be kept in a locked safe at Facility ██ when not in use. Testing of SCP-399 requires Level 4 approval and is only to be handled by personnel who have received a rating of "Clear" or better on Psychological Profile 399-1337X. Any generators, power plants, or similar energy sources in the vicinity of testing are to be dedicated exclusively for testing and should not be used to power any other mission-essential equipment or facilities.
+
+As a result of Experiments 399-4 and 399-5, testing of SCP-399 on human subjects requires Level 5 approval and is to be conducted in isolation from other SCPs or sensitive facilities.
+
+Under no circumstances is SCP-399 to be tested or stored in the vicinity of SCP-123 or any "free energy" or "perpetual motion" device.
+
+Description: SCP-399 is a ring consisting of two metallic bands linked by six metal bars, with six pieces of a transparent purple glass between them. The ring is of unknown make and bears no identifying stamps.
+
+When not being worn by a human being, SCP-399 is inert. When placed on a human being's finger, the ring "activates", which is indicated by the six glass segments beginning to glow one by one. In testing this process takes from three minutes to 6 hours dependent on the availability of nearby energy sources. Once fully active, the ring responds to spoken or mental commands from its wearer until removed, at which point it becomes inert until worn and re-energized.
+
+In this mode, SCP-399 is capable of manipulating or reshaping objects within a 5m radius of the wearer at varying levels of complexity. By a currently unknown mechanism, SCP-399 draws in energy from its nearby environment with which to perform these functions. Minor tasks, such as causing a small object to levitate or turn itself inside out, require minor amounts of ambient energy which is primarily drawn from the surrounding atmosphere, causing a temperature drop. At finer scales, progressively more energy is necessary, and SCP-399 has been known to draw energy from electrical generators, nuclear reactors, and [DATA EXPUNGED] to complete the reaction. If there is not sufficient energy within SCP-399's range (approximately 300m) to perform the operation, SCP-399 will draw on its wearer and [DATA EXPUNGED]. More detailed operations also carry a greater chance of catastrophic failure resulting in [DATA EXPUNGED] of the wearer.
+
+The extent of SCP-399's ability to alter objects within its range appears to be solely a function of energy available to it. With an adequate power source, manipulation of objects at the atomic or subatomic level appears to be possible (see Experiment Log 399).
+
+SCP-399 came to the Foundation's attention on ██/██/████, when a string of power outages and unusually cold weather were reported in the vicinity of [DATA EXPUNGED]. The object was located in the possession of a Mr. ████████, who had apparently become deceased during an attempt to use SCP-399 to change lead bars into gold. How ████████ came into possession of the device has not been satisfactorily determined.
+
+SCP-399 does not appear to have any means of storing energy that has been drawn in, simply drawing in the quantity it requires to perform a task and expending it immediately. It has been speculated, owing to the high energy demands of SCP-399, that it was intended for use in conjunction with a dedicated portable energy source of high volume. Such a device was not found among the effects of ████████. In conjunction with such a device or an SCP of a similar nature, SCP-399 could potentially be used to devastating effect as a weapon of mass destruction or to neutralize other Keter-class SCPs. Due to the potential negative consequences of a failure on this scale, this line of experimentation is not to be explored at this time.
+
+Experiment Log 399:
+
+Experiment 399-1
+
+Date: ██/██/20██
+
+User: Dr. ██████ █████
+
+Subject: One (1) phone book
+
+User attempts to open book to page 368. Experiment successful. Ambient temperature of test chamber drops by 4.8 Kelvins.
+
+Experiment 399-2
+
+Date: ██/██/20██
+
+User: Dr. ██████
+
+Subject: One (1) T-shirt, colored blue
+
+User attempts to change shirt's color to red. Experiment successful. Power brownouts reported in nearby sections of facility. Ambient temperature of test chamber drops by 9.7 Kelvins.
+
+Experiment 399-3
+
+Date: ██/██/20██
+
+User: Dr. ██████
+
+Subject: One (1) phone book
+
+User attempts to cause text of book to be translated from English to French. Experiment successful. On-site electrical generator overloads and fails, causing loss of primary power to facility for six hours. Ambient temperature of test chamber drops by 17.4 Kelvins.
+
+Experiment 399-4
+
+Date: ██/██/20██
+
+User: Dr. ██████
+
+Subject: One (1) phone book, 3 D-Class personnel
+
+Special Test Protocols: Experiment 399-4 was conducted in Remote Facility ██. All electrical sources in the area were deactivated except those necessary to power monitoring equipment.
+
+User attempts to cause text of book to be translated from English to French. Experiment successful. D-Class personnel are [DATA EXPUNGED]. No significant reduction of ambient room temperature.
+
+*Dr. Samesh notes: Ewww. Let's not try that again.
+
+Experiment 399-5
+
+Date: ██/██/20██
+
+User: Dr. ██████
+
+Subject: Remains of one (1) D-Class personnel from Experiment 399-4
+
+Special Protocol: Test conducted at Remote Facility ██. A dedicated nuclear reactor was provided as energy source.
+
+User attempts to restore D-Class personnel to his physical condition prior to Experiment 399-4. Nuclear reactor reaches 57% capacity. Subject is successfully reconstructed physically intact but remains deceased. User attempts to restore subject to life. [DATA EXPUNGED]. SCP-399 was recovered by Hazmat personnel 48 hours later. Weather patterns in vicinity of facility site normalized within 96 hours. Radiological contamination of the region has been deemed within acceptable limits.
+
+*Note: Following the loss of Dr. ██████, Dr. C████ requested and was granted permission to conduct the following test on himself.
+
+Experiment 399-6
+
+Date: ██/██/20██
+
+User: Dr. C████
+
+Subject: Dr. C████
+
+User attempts to cause self to levitate. Successful. Upon initial levitation room temperature begins to drop 1 Kelvin approximately every .68 seconds. Dr. C████ then begins to cause himself to hover slowly about the test chamber, which begins to produce electrical brownouts. The rate of temperature decrease increases to 1 Kelvin per .47 seconds at this time and fluctuates as the rate of the Doctor's movement is accelerated or slowed. Experiment is terminated after room temperature drops below zero degrees Centigrade.

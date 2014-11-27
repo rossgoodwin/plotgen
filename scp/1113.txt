@@ -1,0 +1,35 @@
+SCP-1113 in its passive state. Note the addition of the female figurine to the existing top.
+
+Item #: SCP-1113
+
+Object Class: Safe
+
+Special Containment Procedures: Due to it posing no risk when in a passive state, SCP-1113 can be stored in a secure box in a standard containment room. If required for testing it may be signed out for use by Level 3 researchers and above. Any testing involving D-class mortality must be approved in writing by a member of senior staff prior to commencement.
+
+Description: SCP-1113 is a small spinning top comprised of a hollow bronze base, heavily oxidised and showing small flecks of blue from having been previously painted. The upper section is a porcelain figurine of the upper body of a woman, painted with enamel and with a blue and brown blouse made of a rough cotton. It is spun by means of wrapping the string around it and then pulling firmly to rotate the top at speed. The figurine is attached to the bronze segment by a clear resin-like glue concurrent with the apparent age of the manufacture (c.1915). The bronze component has been estimated by thermoluminescent dating to have been cast around 50 BCE (± 40 years). There are imperfections in the alloy and tooling marks on the inside of the top that suggest that the bronze has been retooled and was formerly used in a different construction.
+
+When SCP-1113 is spun by hand the person doing so does not age or suffer any degeneration to their body due to the effects of aging or illness for as long as the top is spinning. Tests using automated robots spinning the top suggest that it will spin for anywhere up to fourteen hours when spun with sufficient force (using levels of force within realistic limits of human strength). Any wounds caused before or during the top being spun remain present and are not affected in any way. The individual is still mortal to life-threatening injury while the top is being spun.
+
+The top came to the attention of the Foundation in ████ when alerted by a member of the London Metropolitan police force with connections to the Foundation. He reported that it had been taken as evidence from a house in Brighton, UK which had been entered by Sussex police after reports by neighbours of an unpleasant smell. On forcing their way into the house they discovered the corpse of a man who was estimated to be around 70 years old. His body was on the floor with one arm stretched out under the sofa. Officers found the spinning top at the back of the sofa. His right palm showed heavy callouses at the base of all the fingers and a wound approximately 1cm deep across the centre of the palm which appeared to be cauterised through burning or friction. Estimates suggest that it would take many weeks of constant friction between the string and palm to cause such extensive damage. There was also severe damage to the right shoulder socket and extreme dislocation caused by the arm being overextended in attempts to reach the spinning top.
+
+Although there was very little personal information found in the flat the body was identified as belonging to Richard Mark Piper, from a 19██ driving license and a birth certificate found in the flat giving the deceased's date of birth as 24/12/18██. Further information may be found in the supplemental materials, consisting primarily of a set of journals found at the home of the deceased and the police witness reports from neighbours.
+
+Supplemental Materials 1113-2C: Fragment from Journal of Richard Mark Piper (errors author’s own):
+
+██ January, 19██:
+
+It definitely works. I mean, I’m not sure how, but every time I start the top spinning, it’s like my hands are opening, expanding like a parched man given a cantene of water. If I’d had this sooner I could have helped win this damn war.
+
+I wonder how it works, it’s magnetism perhaps, or some of that crystal howkum. Howkum? What am I saying? I’m writing this using a fountain pen with my wonderful, working hands!
+
+██ April, 19██:
+
+The people at the club are always asking how I look so good for my age. They think I’m a 60 year old that looks 50 and they’re impresed, imagine if they knew the truth – I remember the last Coronation, let alone this one! This truly is a marvel, I wish I could tell the world what I have discovered, but then it would be taken from me, I know this. If only I could let Rachel use it, she seems so frale these days. But if I did I know she’d not be able to resist telling friends, woman can’t even get a new night cream without telling everyone on the street about it.
+
+██ June, 20██:
+
+Cant hold thpen very well, my hand is awfull sore, cant stop though, I can fel HIM brething down myneck, the reeper, I know Iv held HIM off too long, its getting harder andharder nowshe only spins for a cupple of minutes at atime. She must keep dancig, she dances so beatifuly.
+
+I don want to die.
+
+Addendum Although it’s clear that the effect of this item could result in its use becoming obsessive, we have no evidence on whether or not this is merely psychological or a conditioning created by the SCP itself. Until this is known it is suggested that use is restricted to D-class personnel.

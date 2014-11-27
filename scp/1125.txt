@@ -1,0 +1,79 @@
+A small number of SCP-1125 removed from their packaging for testing purposes
+
+Item #: SCP-1125
+
+Object Class: Euclid
+
+Special Containment Procedures: Specimens of SCP-1125 are to be locked in opaque storage crates and kept in the small items vault at Site-12. Under no circumstances are personnel not currently involved in the testing of SCP-1125 to be allowed their use. In the event of uncontrolled exposure, any and all personnel affected will be detained and separated from SCP-1125 for application of class-A amnestics and psychological reconditioning.
+
+If specimens of SCP-1125 are located outside of Foundation control, they are to be confiscated and contained.
+
+Description: SCP-1125 is a collection of individually packaged dice with their pips replaced by the words 'Yes' (2x), 'No' (2x) and 'Maybe' (2x). All specimens were machined from pine wood, their surface treated with an unremarkable yellow dye and a chemical sealant to prevent wear. The answers available on the dice are rendered in an MS Comic Sans font using a dye containing traces of charcoal, a dye stabilizing agent and [REDACTED]. The words 'The Factory' are found on the cardboard backing attached to each clear plastic packaging. Underneath the company logo an advertising slogan that reads "They'll make up your mind!" is printed in bold red lettering with a white outline. If encountered without their packaging, instances of SCP-1125 are currently indistinguishable from similar nonanomalous answer dice. In light of this, any and all similarly colored answer dice found in Foundation facilities are to be destroyed immediately, without physical contact by personnel.
+
+SCP-1125's effect becomes apparent when a specimen comes into direct-skin contact with a human being. An immediate compulsion to make use of it comes over the subject, who will then phrase a query concerning a binary decision and roll SCP-1125. It then provides an answer, where it must be noted that if a roll indicates an answer of 'Maybe', the subject will continue to roll the die indefinitely until either an affirmative or negative answer has been generated. Subjects will unfailingly keep to the answer provided by SCP-1125, even if this would produce undesirable results. Furthermore, while initial use of the object seems to be made with trivial, sometimes even whimsical questions, testing has shown prolonged exposure to lead to increasingly critical decisions being made dependent on SCP-1125. Subjects in possession of a specimen gradually become unable to take any decision without resorting to the object and over time even base decisions that are not normally consciously made on the result that SCP-1125 provides them with. If challenged, subjects will not perceive this to be abnormal behavior and will actively resist attempts to take SCP-1125 away from them.
+
+The Site-12 small items vault currently holds 79 individual instances of SCP-1125 with several specimens having been removed for testing purposes. These were subsequently destroyed to prevent accidental exposure.
+
+Addendum 1125-A-01: Excerpts from the transcript of video log 1125-DV-23
+
+[Begin transcript excerpt | timestamp 2007/07/14-14:52:31]
+
+D-43426 enters the testing environment, where a package containing 1 specimen of SCP-1125 is laid out on a small metal folding table. In addition, a bed and a single chair are provided.
+
+Dr. ██████: "Please open the packaging and take out the die."
+
+D-43426: "Whatever you say."
+
+Subject picks up the item and examines it briefly before tearing open the packaging. The object falls out and lands on the floor, rolling under the table.
+
+D-43426: "Shit! Sorry, doc."
+
+Dr. ██████: "That's fine, D-43426. Please retrieve the die."
+
+Subject picks up the specimen.
+
+D-43426: "Got it. Now what?"
+
+Dr. ██████: "Please do as you like, D-43426."
+
+D-43426: "Well, might as well roll the little sucker then. So…what do I ask it?"
+
+Dr. ██████: "That is up to you. Anything will do as long as it's a question answerable by 'Yes' or 'No'."
+
+D-43426: "Sure. Should I…should I clap my hands?"
+
+Subject rolls SCP-1125.
+
+Dr. ██████: "Good, D-43426. Now, please read the answer the die gave you."
+
+Subject leans in closer and then turns towards Dr. ██████.
+
+D-43426: "It says 'Yes'."
+
+Subject claps his hands.
+
+Dr. ██████: "Why did you do that, D-43426?"
+
+D-43426: "I don't know, it seemed like the thing to do? I mean, it said yes. Can I roll it again?"
+
+[End transcript excerpt | timestamp 2007/07/14 - 15:04:12]
+
+[Begin transcript excerpt | timestamp 2007/07/19 - 09:23:01]
+
+D-43426: "Should I eat THIS then?"
+
+Subject rolls SCP-1125 and quickly tears open the box of Pop-Tarts provided to him. SCP-1125 is shown to indicate an answer of 'Yes'. This is the first sustenance subject has permitted himself in 18 hours.
+
+[End transcript excerpt | timestamp 2007/07/19 - 09:23:51]
+
+[Begin transcript excerpt | timestamp 2007/07/25 - 12:46:54]
+
+D-43426: "Should I breathe?"
+
+SCP-1125 is shown to have come up 'Maybe' and subject immediately rolls it again. This second roll results in a 'No' and subject seems to comply.
+
+D-43426: "Should I breathe?"
+
+Subject rolls the die again.
+
+[End transcript excerpt | timestamp 2007/07/25 - 12:47:16]

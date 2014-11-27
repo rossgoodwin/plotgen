@@ -1,0 +1,23 @@
+SCP-707 with a quarter for size reference
+
+Item #: SCP-707
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-707 is kept disassembled in a double-locked secure locker at Site-██. Experimentation may only be performed with prior, written permission from at least two (2) Level 3 personnel. Once assembled, SCP-707 may only be handled by Class-D personnel.
+
+Description: SCP-707 is a matryoshka doll, or Russian nesting doll, consisting of one (1) center doll and four (4) separating outer layers. The doll is painted in a primarily blue color palette, and dating of the materials, while inconclusive, shows that it is approximately ██ years old.
+
+When a living human subject removes one or more layers of SCP-707 from a fully assembled state, its anomalous effect will occur approximately ten (10) minutes later. The severity of this effect is dependent on how many layers are opened:
+
+1 layer - Subject's hair and nails will painlessly and completely fall out. This includes internal hair and cilia, such as that within the nose and ears.
+
+2 layers - Subject's skin will split, separate, and fall off. The loss of skin is painless, but exposed internal tissue has been described as being very sensitive, and even a light touch can cause bleeding.
+
+3 layers - Subject's muscles will detach from connective tissue, including the diaphragm and heart.
+
+4 layers - Subject's organs separate and detach.
+
+These effects are cumulative and sequential, and will occur over the course of only a few seconds after the ten-minute mark. No subject to date has survived the separation of more than 1 layer of SCP-707. However, despite the incredible trauma inflicted by the separation of 2 or more layers, brain activity monitors have determined that subjects are fully conscious and aware of their condition for up to several minutes after the separation event, until the subject expires (typically through blood loss or asphyxiation).
+
+Addendum 707-1: The requested use of SCP-707 as an efficient method of procuring viable transplant organs for Foundation uses is under review.

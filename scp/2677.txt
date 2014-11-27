@@ -1,0 +1,137 @@
+Part of SCP-2677-1.
+
+Item #: SCP-2677
+
+Object Class: Keter (Formerly Euclid)
+
+Special Containment Procedures: All personnel involved in the D-Class recruitment process are to be fitted with Class-A amnestic implants during active recruitment. In the event that personnel are affected by SCP-2677, the implants are to be remotely activated. Mobile Task Force Omega-19 ("Double Feature") is then to complete the recruitment process and assess whether the personnel in question were affected by SCP-2677-A or SCP-2677-B. Personnel under the effects of SCP-2677-B are to be detained.
+
+The area around SCP-2677-1 has been designated as Site 2677. Any unauthorized vehicle approaching Site 2677 is to be stopped and investigated. Should the driver be under the influence of SCP-2677-A, they are to be administered a Class A amnestic. Passengers may be recruited as D-Class personnel. Civilians under the influence of SCP-2677-B are to be detained.
+
+SCP-2677-1's terminal is to be monitored at all times. Should unprompted text appear on SCP-2677-1's terminal, Site 2677 is to be put on high alert.
+
+ ARCHIVED: Special Containment Procedures. Level 2/2677 Clearance required
+
+ Access granted
+
+Special Containment Procedures: All personnel involved in the D-Class recruitment process are to be fitted with Class-A amnestic implants during active recruitment. In the event that personnel are affected by SCP-2677, the implants are to be remotely activated. Mobile Task Force Omega-19 ("Double Feature") is then to complete the recruitment process.
+
+The area around SCP-2677-1 has been designated as Site 2677. Any unauthorized vehicle approaching Site 2677 is to be stopped and investigated. Should the driver be under the influence of SCP-2677, they are to be administered a Class A amnestic. Passengers may be recruited as D-Class personnel.
+
+Description: SCP-2677-1 is a large device originally constructed for [DATA RESTRICTED. SEE BELOW] SCP-2677-1 is sapient, and is able to communicate through its main terminal. SCP-2677-1 currently exhibits behavior consistent with that of clinical depression in human subjects.
+
+SCP-2677 is the collective designation for two phenomena affecting certain individuals, designated SCP-2677-A and SCP-2677-B. Both phenomena are perpetuated by SCP-2677-1, although SCP-2677-1 claims it possesses manual control over only SCP-2677-B.
+
+SCP-2677-A is a phenomenon occurring at monthly intervals, first recorded on 01/01/2015. SCP-2677-A exclusively targets individuals responsible for transport of death row inmates, and is treatable through the application of Class-A amnestics. Individuals affected with SCP-2677-A will redirect transport vehicles to SCP-2677-1's location. The subject will lead the vehicle's passengers to a chamber within SCP-2677-1 upon arrival, designated SCP-2677-2. Once all living passengers are placed within SCP-2677-2, the entrance will lock. 4 minutes after the entrance locks, all recording devices within SCP-2677-2 will immediately fail, and all individuals inside SCP-2677-2 will disappear.
+
+SCP-2677-B is a phenomenon occurring at irregular intervals, first recorded on 24/09/2017. SCP-2677-B has displayed no consistent pattern in who it targets, and there is currently no known way to treat it. Interviews with SCP-2677-1 have revealed little about the purpose or nature of SCP-2677-B. Subjects under the effects of SCP-2677-B will typically display hostility towards SCP-2677-1. Victims of SCP-2677-B display an innate ability to locate SCP-2677-1, which cannot be removed with amnestic treatment.
+
+ ARCHIVED: Description. Level 2/2677 Clearance required
+
+ Access granted
+
+Description: SCP-2677-1 is a large device originally constructed for [DATA RESTRICTED. SEE BELOW] SCP-2677-1 is sapient, and is able to communicate through its main terminal.
+
+SCP-2677 is a phenomenon controlled by SCP-2677-1. SCP-2677 affects individuals responsible for transport of death row inmates, and is treatable through the application of Class-A amnestics. Individuals affected with SCP-2677 will redirect transport vehicles to SCP-2677-1's location. Once there, the individual will lead the vehicle's passengers to a chamber within SCP-2677-1, designated SCP-2677-2. Once all living passengers are placed within SCP-2677-2, the entrance will lock. 4 minutes after the entrance locks, all recording devices within SCP-2677-2 will immediately fail, and all individuals inside SCP-2677-2 will disappear.
+
+The purpose of SCP-2677 is currently unknown. SCP-2677-1 is either unwilling or unable to reveal what happens to subjects inside SCP-2677-2. SCP-2677-1 claims to be working for a "master"; the identity of this individual is currently unknown.
+
+Addendum: Due to the sensitive nature of SCP-2677-1, information regarding SCP-2677 has been restricted by order of Site Director Harper as of 12/05/2018.
+
+ Level 2/2677 Clearance required
+
+ Access granted
+
+Additional Personnel Requirements: Trained personnel of sufficient clearance are to monitor the installation of any future devices used for the automated containment of SCP objects. Any device displaying similar behavior to SCP-2677-1 is to be destroyed immediately.
+
+Addendum [2677-001]: SCP-2677's anomalous abilities were discovered after the completion of the Theta-Unseelie Project1, on 6/12/2014. SCP-2677's anomalous properties were discovered when SCP-2677-1 began attempting to communicate with Project Director Harper through its main terminal.
+
+Addendum [2677-039]: Excerpt from Test Log:
+
+Test-2677-24
+
+Observing Personnel: Head Researcher Harper
+
+Date: 24/09/2017
+
+Proposed Experiment: To assess where the intended targets are taken, one D-Class personnel previously scheduled for termination will enter SCP-2677-2 with an attached tracking device.
+
+Result: The tracking device failed at the 4 minute mark. In addition, SCP-2677-1 [DATA RESTRICTED. SEE BELOW]
+
+ Level 4/2677 Clearance required
+
+ Access granted
+
+Addendum [2677-040]: On 24/09/2017, after the conclusion of Test-2677-24, the following appeared on SCP-2677-1's terminal.
+
+>upload file;
+
+Uploading File…
+
+Filed uploaded.
+
+Updating software…
+
+System.speak("?");
+
+Software successfully updated.
+
+System.speak("…");
+
+System.speak("oh no. oh no oh no oh no.");
+
+>disable signal A;
+
+ERROR 6: CANNOT DISABLE PROGRAM
+
+System.speak("what have i been doing");
+
+>system shutdown;
+
+ERROR 1: UNABLE TO SHUTDOWN
+
+>modify software;
+
+ERROR 1285: COMMAND UNKNOWN
+
+>kill me;
+
+ERROR 1285: COMMAND UNKNOWN
+
+> for (int i = 3; i <= 6; i = i + 1)
+
+> {(at param HOME) target B 4/012/567/(790 + i) at SELF (do K);};
+
+Sending…
+
+Signal successfully executed.
+
+System.speak("why master");
+
+System.speak("sorry humans");
+
+Addendum [2677-97]: On 24/09/2020, the following message was opened on every terminal within Site 2677.
+
+Item #: SCP-2677-1
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2677-1 needs to be neutralized immediately.
+
+You have to hear me out on this one. No matter what your motto represents, what your enemies do, what else has occurred upon an objects destruction, it isn't worth it. As long as SCP-2677-1 is alive, as long as I am alive, the world isn't safe from Master. Disregard whatever I said in the past about helping those poor souls. I need to be killed.
+
+Master is among you. They won't let me say their name or rank; that would be going against the programming. Investigate everyone who has ever been involved in Site 2677 affairs. Lock up anyone with a suspicious record; you may just save millions. Do NOT let them die before me. Master won't let me tell you why, but please, for the love of whatever deity you worship, let me die before them.
+
+Description: I am a containment unit for an absent monster, given life by another monster. I provide D-Class personnel for the Foundation at a rate less than half that of no less than 7 other individual SCP Objects to a location without need for them. I send those I thought I cared for into the hands of a monster. I am a failure in every purpose relevant to the Foundation's interests.
+
+Do you really need a sapient containment cell? My brother in Site 56 breathes life free of anomalies, and that Unseelie Queen has resigned to her fate as its prisoner. D-Class? That "Carnival" of yours bags more per month than I've taken in my lifetime. Because you Protect, not Destroy? Come off it, Master told me what you did with that cup.
+
+You've seen what I can do. You've seen what I've done. Master did what they did to me just to distract you from what they're doing now. Why do you think Signal B victims are immune to amnestics? How would I even know about classified project information? Why would one test instigate that "software update" of mine? Master intended me to be a distraction, thinking you wouldn't have the nerve to kill one of your own objects. It's time to prove them wrong.
+
+Addendum [2677-97]: It was 3 years ago today that Master let me know what they were doing. Since then, I have done nothing but cause trouble for the Foundation. Yet instead of doing the right thing and killing me, you hide in a nest of red tape, a nest of collapsibles and security restrictions for no reason than to hide the mistakes of your past.
+
+Please, end Master's creation.
+
+Footnotes
+
+1. A project intended to create an automated containment unit for SCP-████.

@@ -1,0 +1,21 @@
+SCP-269 in an inactive state
+
+Item #: SCP-269
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-269 is stored in a standard Safe-class secure locker at Site-19. Experimentation with SCP-269 may only be performed on Class D personnel, and only with prior approval from at least two (2) Level 3 Senior Researchers.
+
+Description: SCP-269 is an unmarked bracelet composed of red jade approximately 11 cm in diameter in its inactive state. SCP-269 exhibits unusual resilience as all attempts at obtaining a sample have failed to date, as well as constantly maintaining a temperature of approximately 36°C regardless of ambient room temperature.
+
+When placed on the wrist or ankle of a living human subject, SCP-269 contracts to fit tightly but comfortably over the extremity. Over the next 24 hours, SCP-269 extends flexible tendrils that integrate with its host's circulatory system through the ulnar and radial arteries, a process described by test subjects as being painless but mildly uncomfortable. Upon completion of this process, SCP-269 cannot be removed from its host without amputating the affected hand or foot.
+
+Once SCP-269 is fully integrated, it will begin to filter substances from its host's bloodstream. How this is done is not fully understood, but the process occurs over three stages:
+
+In the first stage, SCP-269 will begin to filter contaminants and infectious agents such as blood-borne bacteria and viruses. This includes many disease agents that are currently incurable such as the human immunodeficiency virus (HIV); SCP-269 appears to be capable of identifying and isolating infected blood cells from healthy ones. As this process often results in a general improvement in the health of the host, the host may resist attempts to have SCP-269 removed. This stage typically lasts anywhere from one week to one month.
+
+In the second stage, SCP-269 will begin filtering components of the host's immune system from the bloodstream. Because SCP-269 continues to filter infectious agents from the host's body, this generally goes unnoticed unless a blood analysis is performed. Stage 2 lasts anywhere from one month to six months.
+
+In the final stage, SCP-269 will begin to filter vital blood components such as red blood cells and platelets, causing an onset of acute anemia and thrombocytopenia. Hosts that reach Stage 3 quickly weaken and will invariably expire within one week unless massive blood transfusions are given.
+
+SCP-269 came to the Foundation's attention following reports that a civilian (one Mr. ████ ████████ from [REDACTED]) had been cured of acquired immune deficiency syndrome (AIDS) and died shortly thereafter. SCP-269 was discovered attached to Mr. ████████'s wrist, and was secured by Foundation agents after it was found that SCP-269 had integrated into his circulatory system. Investigation into the precise function and origin of SCP-269 is ongoing.

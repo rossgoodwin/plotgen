@@ -1,0 +1,201 @@
+SCP-1804 in containment
+
+Item #: SCP-1804
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1804 is to be housed in a secure office at Site-19. Any text produced by SCP-1804 showing anomalous properties shall be treated as a Safe memetic SCP, given the next sequential SCP designation number1 and stored in hardcopy-only format in an adjacent secure document locker.
+
+Text produced by SCP-1804 may only be copied as part of an authorized experiment, and such copies must be destroyed upon test completion. After any testing, test subjects must be given Class-A amnesiacs to remove knowledge of the contents of any anomalous text documents.
+
+Description: SCP-1804 is a fully functional Underwood Model #5 Typewriter with a U.S. key layout, manufactured at some time between 1925 and 1928. The machine shows signs of wear consistent with relatively frequent use, as well as several parts that seem to have been replaced and/or serviced during its lifetime. No part of the mechanism is atypical for this model of typewriter, and the materials used in its construction show no abnormalities.
+
+When SCP-1804 is used to produce text, the text produced may exhibit anomalous properties. Anomalous effects will not be present if the majority of text is not original to the document being typed. If such properties are present, they will manifest by triggering abnormal cognitive and/or emotional reactions in subjects upon reading the text. Such effects appear to require the subject’s comprehension of the anomalous text and will affect the typist as well as subsequent readers. The exact nature of these effects appears to vary based on the semantic content of the text, the state of mind of the typist, and the intended purpose of the text.
+
+When text produced by SCP-1804 shows anomalous properties, those properties will manifest in any copies that retain the exact same semantic meaning as the original typewritten manuscript. This includes photocopies, transcriptions, and OCR scans. Translations into other languages and audio reproductions of anomalous text have, to date, shown no anomalous properties.
+
+Addendum 1:
+
++ Document EX-1804-111A
+
+- Document EX-1804-111A
+
+Document EX-1804-111A: Experiment Log for SCP-1804
+
+Test 011
+
+Designation: N/A
+
+Date: ██/██/20██
+
+Subject: D-12758, a bilingual male fluent in English and Spanish.
+
+Procedure: Subject is told to transcribe the poem "Jabberwocky" by Lewis Carroll (1872) using SCP-1804.
+
+Results: Resulting document shows no anomalous properties.
+
+Notes: Confirms the fact that SCP-1804 only produces anomalous text when the content is substantially original. — Dr. R. ██████
+
+Test 012
+
+Designation: SCP-1804-27B
+
+Date: ██/██/20██
+
+Subject: D-12758, a bilingual male fluent in English and Spanish.
+
+Procedure: Subject is told to translate the poem "Jabberwocky" by Lewis Carroll (1872) from English to Spanish using SCP-1804.
+
+Results: All persons reading D-12758's translation become convinced that the poem in question is an original Spanish composition. After typing the original text, D-12758 himself denied authorship and claimed it was an old folktale his grandmother read to him. When shown the original 1872 work, D-12758 theorized that the author plagiarized the ancient Spanish original.
+
+Notes: Apparently the act of translation confers enough original content to trigger SCP-1804's effect — Dr. R. ██████
+
+Test 018
+
+Designation: SCP-1804-29B
+
+Date: ██/██/20██
+
+Subject: D-12758, a bilingual male fluent in English and Spanish.
+
+Procedure: Subject is told to type an original recipe on SCP-1804.
+
+Results: Subject types a recipe for "Mom's Polenta".2 Subjects who read the recipe develop an aversion to corn and corn-meal based foodstuffs to the point of nausea. No anomalous effects were noted when the recipe was prepared and served to subjects who had not read the recipe.
+
+Notes: SCP-1804's effect seems to be influenced quite a bit by the psychological state of the typist.— Dr. R. ██████
+
+Test 037
+
+Designation: SCP-1804-101B
+
+Date: ██/12/20██ - ██/19/20██
+
+Subject: D-56674
+
+Procedure: Over the course of one week subject was instructed to maintain a daily diary using SCP-1804.
+
+Results: The psychological state of the subject progressively degraded, showing worsening signs of depression and paranoid delusion. By day seven, subject was convinced that the Foundation was replacing parts of her body with pieces of SCP-1804.3 Subjects reading SCP-1804-101B develop similar symptoms, progressing similarly as each day's document is read.
+
+Notes: SCP-1804's effect appears to become more profound with repeated exposure as well as with document length. It helps explain why the users of SCP-1804 seem to end up much worse off than those simply exposed to SCP-1804's documents— Dr. R. ██████
+
+Test 048
+
+Designation: SCP-1804-106B
+
+Date: ██/██/20██
+
+Subject: D-11275
+
+Procedure: Subject instructed to compose a fictional narrative of at least 1000 words on SCP-1804.
+
+Results: Subject composes a vignette of a sexual nature detailing a homosexual encounter between [REDACTED] and [REDACTED] from the U.S. television series [REDACTED]. Subjects reading this narrative all express a sense of incompleteness about the "story" in SCP-1804-106B, as well as dissatisfaction in the execution.4 Subjects will subsequently attempt to "do it right," writing their own narratives based loosely on SCP-1804-106B and [REDACTED]. To date, the longest narrative so-produced is a 100,000-word trilogy produced by Dr. S. ██████ after accidental exposure.5
+
+Notes: It'd be interesting to see if there are higher-order effects from compositions that are themselves generated from a compulsion due to SCP-1804's effect— Dr. R. ██████
+
+Test 049
+
+Designation: SCP-1804-107B
+
+Date: ██/██/20██
+
+Subject: D-22138
+
+Procedure: Subject exposed to SCP-1804-106B, then instructed to compose a fictional narrative of at least 1000 words on SCP-1804.
+
+Results: [REDACTED]
+
+Notes: Turns out that was not a great idea.— Dr. R. ██████
+
+Addendum 2:
+
++ Document RL-1804-101A
+
+- Document RL-1804-101A
+
+Document RL-1804-101A: Recovery Log for SCP-1804: Selected list of documents produced by SCP-1804 prior to containment.
+
+Designation: SCP-1804-1A
+
+Summary: SCP-1804-1A was a newsletter of the “[REDACTED] Society” written in ██/██/1973 by Mrs. L██ G██████. The newsletter was reproduced via a spirit duplicator6 running to approximately 150 copies. The newsletter compiles a number of popular conspiracy theories of the time, particularly those involving the assassinations of various political figures.
+
+Anomalous Effects: Effects are confined to subjects who read SCP-1804-1A in whole and in order.7 Those who are affected begin to show typical signs of paranoid schizophrenia, including delusions of persecution focusing around one or more public figures.8 Symptoms progress over time, and subjects are likely to plan and carry out violence against the public figures that are the targets of their fixation.
+
+Containment Notes: SCP-1804-1A9 was recovered by the foundation in 198110 after several detectives involved in the investigation of the murder of ████ ██████ by ████ █████ ██████ were diagnosed with similar psychological problems at around the same time. The copy of SCP-1804-1A [REDACTED] from evidence was replaced by an edited non-anomalous version of the newsletter. To date, ██ copies of SCP-1804-1A have been recovered or confirmed destroyed.
+
+Designation: SCP-1804-2A, SCP-1804-3A
+
+Summary: SCP-1804-2A, SCP-1804-3A are two undated documents authored by Mrs. L██ G██████ in her capacity as a History teacher at [REDACTED] High School in [REDACTED] between 1961 and 1975. Both were reproduced via a spirit duplicator similar to SCP-1804-1A, both are multiple-choice quizzes. SCP-1804-2A concerns events of the U.S. Civil War and SCP-1804-3A concerns the period of the Great Depression.
+
+Anomalous Effects: All subjects, after reading either document, will answer each question in exactly the same manner. A subject will answer 19 of 20 questions correctly on SCP-1804-2A and 18 of 20 correctly on SCP-1804-3A. Subjects will answer the same questions incorrectly, and with the same responses. All subjects, regardless of prior knowledge of American history, will believe all provided answers (including incorrect ones) are accurate. No attempt to convince an affected subject otherwise has been successful.
+
+Containment Notes: SCP-1804-2A11 and SCP-1804-3A12 were recovered along with over 300 other non-anomalous documents authored by Mrs. G██████ as part of the investigation of SCP-1804-1A.13,14
+
+Designation: SCP-1804-8A
+
+Summary: SCP-1804-8A is a letter to the editor of the [REDACTED] newspaper in [REDACTED] written by Mr. C█████ D██████ published on ██/██/20██. The letter expresses D██████'s frustration with corruption in city government, with particular attention paid to cronyism in awarding a liquor license to the "Bucking Bronco" saloon despite numerous complaints about solicitation and violations of city ordinances regulating "gentlemans' clubs."
+
+Anomalous Effects: Subjects reading the letter will develop a strong aversion to public displays of a sexual nature, especially any form of commercial transaction involving sexuality. Subjects will become convinced that all such activity is always illegal regardless of the specific statutes in their current jurisdiction. When confronted directly by someone engaged in such a practice, the subject will be hostile and may respond violently.
+
+Containment Notes: Two days after the publication of SCP-1804-8A, a riot occurred in which the "Bucking Bronco" saloon was burned to the ground and a mob converged on City Hall and proceeded with an attempted lynching of [REDACTED] Foundation agents arrived as authorities were attempting to suppress the riot and began containment with aerosol dispersal of Amnesiacs. When agents converged on the address where SCP-1804-8A originated, a shootout between Mr. D██████ and MTF agents ensued. The MTF team recovered all copies of SCP-1804-8A in the aftermath. ██ separate anomalous text documents were recovered from the remains of Mr. D██████'s residence, and typographic analysis showed that all were written on SCP-180415, which was also recovered at this time.
+
+Designation: SCP-1804-13A
+
+Summary: SCP-1804-13A is a fraudulent suicide note written by Mr. A████ C██████ on ██/██/1939 as part of an elaborate scheme to avoid [REDACTED]. A████ C██████ was discovered by authorities living under an assumed name in [REDACTED] and extradited ██/██/1947 to face trial. Despite significant evidence, including eye-witness testimony to his true identity, he was acquitted in ██/██/1947. Shortly after his release [REDACTED] by agents of [REDACTED]. The body was never recovered.
+
+Anomalous Effects: Subjects who read SCP-1804-13A’s suicide note are convinced that Mr. C██████ did commit suicide on ██/██/1939, despite all evidence to the contrary. Affected subjects believe that the man apprehended, put on trial, and eventually assassinated was some other person who was the victim of mistaken identity. The affected persons included the judge and jurors at A████ C██████’s trial, as well as A████ C██████ himself.
+
+Containment Notes: SCP-1804-13A was not reproduced outside court documentation. All known surviving copies of SCP-1804-13A have been recovered.
+
+Designation: SCP-1804-14A, SCP-1804-15A, SCP-1804-16A
+
+Summary: SCP-1804-14A, SCP-1804-15A and SCP-1804-16A are all internal memoranda giving executive-level intelligence summaries of [REDACTED] occurring in [REDACTED] in the lead-up to World War II. They were authored by Mr. A████ C██████, a clerk in the United States War Department from ██/██/1932 to ██/██/1939. They appear to be part of a ongoing series of such summaries, all dealing with [REDACTED] use of paranormal [REDACTED].
+
+Anomalous Effects: The three documents so-far recovered have similar effects. The reader will experience violent disgust at the document’s subject matter, coupled with an existential disbelief in the topics presented. No only will the subject disbelieve the possibility that [REDACTED] might have some efficacy, they will disbelieve that [REDACTED] would have even attempted to [REDACTED].16 In some cases, this disbelief carries over into a fervent disbelief in all paranormal phenomena.
+
+Containment Notes: While over 100 of these memoranda were authored by Mr. C██████ prior to ██/██/1939, most appear to have been destroyed during World War II. Research efforts to recover any remaining copies from U.S. government archives are ongoing.
+
+Designation: SCP-1804-58A
+
+Summary: A pseudonymous 5000-word short story appearing in the Winter 1957 edition of [REDACTED] entitled "The Creeping Chaos of Chi Centaurus." The story concerns the invasion of a Galactic Republic by an invisible and unnameable hostile force that literally rots the societal structure from within. The story is an obvious allegory for the commonly perceived Communist threat in the United States of the era.
+
+Anomalous Effects: Readers of the story will develop a strong phobia regarding dirt and germs, often expressing an unfounded belief that the interiors of objects, including people, are rotting away. Subjects will often anthropomorphize decay and sickness to the point where they are convinced that "the forces of entropy" are continually watching them.
+
+Containment Notes: SCP-1804-58A17 had been in containment since early 1958, and all editions of the Winter 1957 edition of [REDACTED] were confiscated and pulped excepting █ copies retained for testing. Connection to SCP-1804 and identity of the author was not established until the death of Mrs. W████ K████ in 20██. Mrs. K████ was the surviving spouse of Mr. F████ K████, a minor science-fiction author published in various magazines during the 1950s.18 Mrs. K████ bequeathed her late husband's papers to the University of [REDACTED] resulting in 10 casualties and a police standoff with a graduate student with a high-powered rifle. After the incident, the Foundation recovered the papers from the University and identified 127 separate short stories composed on SCP-1804 between 1955 and 1958, all showing anomalous properties to some degree. ██ of these stories had seen publication, but only SCP-1804-58A had made it into print without editing, and retained SCP-1804's effect.
+
+Footnotes
+
+1. Anomalous documents produced prior to containment shall be identified SCP-1804-{nnn}A, and documents produced after containment shall be identified SCP-1804-{nnn}B, where {nnn} is the next sequential identifier.
+
+2. D-12758 had been convicted of murdering his mother and her live-in boyfriend.
+
+3. For example, she believed her teeth were typewriter keys, her fingers type-bars, and her tongue had become a spool of typewriter ribbon.
+
+4. A common complaint is, "That's not how [REDACTED] would act," even from persons who had never seen the [REDACTED] television series.
+
+5. Dr. S. ██████ revealed in subsequent interviews that [REDACTED] was her favorite series and that, "curiosity got the better of her." Given the benign nature of SCP-1804-106B's effect, and an acceptable post-exposure psychological workup, Dr. S. ██████ was only subject to administrative discipline and reassignment.
+
+6. aka “Ditto Machine”
+
+7. The newsletter is over 30,000 words long, so effective exposure prior to containment was limited.
+
+8. No particular relationship between targets of this fixation and SCP-1804-1A have been found
+
+9. Originally designated SCP-████-1.
+
+10. Recovery of SCP-1804-1A predates the recovery of SCP-1804 by ██ years.
+
+11. Original designation SCP-████-2
+
+12. Original designation SCP-████-3
+
+13. It it theorized that the majority of the non-anomalous documents, all teaching materials for Mrs. G██████'s American History class, were composed on SCP-1804 but lacked enough original content to trigger an anomalous effect.
+
+14. At the time of recovery it was believed Mrs. G██████ was the source of the anomalous effect. She was recovered from an inpatient psychiatric facility by the Foundation and designated SCP-████. She was uncooperative and, due to her psychological state, was unable to provide the Foundation with any usable data before [REDACTED] resulting in her termination.
+
+15. This analysis also tied SCP-1804 to 7 prior SCPs contained by the Foundation
+
+16. Which is false as evidenced by records from [REDACTED] and Thule-Gesellschaft
+
+17. Original designation SCP-███.
+
+18. Mr. K████ committed suicide in 1958.

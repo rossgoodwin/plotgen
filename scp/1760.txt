@@ -1,0 +1,63 @@
+SCP-1760 upon first containment, 11/15/1961
+
+Item #: SCP-1760
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-1760 are to be contained within Site-84. The surrounding four square kilometers are to be enclosed within a chain-link fence topped with barbed wire. Citizens are to be dissuaded with a cover story of archaeological research. During manifestation, all instances of SCP-1760 are to be opened and the contents cataloged. SCP-1760 is then to be refitted with tracking beacons and resealed prior to the end of the manifestation.
+
+Due to the results of the 15/11/2006 opening of SCP-1760-16 and the subject’s increasingly hazardous contents, this particular instance of SCP-1760 is to remain sealed at all times upon manifestation. (See Incident 1760-1)
+
+Description: SCP-1760-1 through 15 are a series of 15 black pine coffins that annually rise from the ground at noon on November 15th in a wooded area outside Minsk, Belarus. Each coffin bears a white Orthodox cross. No other identifying marks are visible.
+
+Upon rising from the ground, SCP-1760-1 through 15 are always sealed and contain a full set of human remains that vary with each manifestation. These remains are always Caucasian and dressed in regional funeral attire. Autopsies have shown that these remains are always newly embalmed upon manifestation.
+
+At midnight on November 20th, each instance of SCP-1760 sinks into the ground regardless of whether or not it has been disturbed. Excavation attempts to locate SCP-1760 upon submersion have shown that the subject stops 3 m below the surface during the remainder of the year. Instances that have been reopened after sinking have been found completely emptied of contents.
+
+Removing an instance from the site prevents submersion but causes the subject to be replaced at the next manifestation by an identical coffin. At this point, the initial instance loses its anomalous properties. These replacements appear to originate from further beneath the site. Excavation attempts to locate this point of origin have so far been met with failure.
+
+Bodies that remain outside SCP-1760 after November 20th rapidly decay within 3 hours of the end of the manifestation. The extent of this decay varies with the subject and can range from light decomposition to the subject disintegrating into ash.
+
+Remains that appear within SCP-1760 have been successfully tracked after the end of a manifestation through the use of tracking beacons. Upon recovery these beacons have been found buried in caskets, sealed within crypts and increasingly within crematory urns, all within Belorussian borders. Remains recovered in this manner lack any of the observed clothing or embalmment seen during the SCP-1760 manifestation. It is currently unknown how SCP-1760 gains access to, reconstitutes or redresses a body prior to manifestation.
+
+Every six years, only one instance of SCP-1760 rises on November 15th. Save for the name Pyotr █████████ carved into the lid, this coffin is identical to the other instances and has been given the designation SCP-1760-16. The past contents of this instance have ranged from packed earth to animated remains. Attempts to trace the origin of these contents have been met with failure as tracking beacons cease to function following SCP-1760-16’s complete submersion.
+
+Investigation into the identity of Pyotr █████████ has revealed that the subject was a Minsk mortician and scientist involved in several Soviet projects in the 1950’s. Records indicate the subject passed away on November 15th, 1959. A majority of the records of █████████’s research were destroyed by the Belorussian government prior to 1960. Anecdotal evidence suggests experimentation with long term chemical preservation of human remains, as well as chemically induced reanimation and regeneration. The identities of any other scientists involved on the projects are also unknown as such names were expunged from existing records. Exhumation of Pyotr █████████ by research staff has confirmed no anomalous properties with either the remains or burial site.
+
+SCP-1760 was brought to the Foundation’s attention in 1961 following local reports of a “casket garden” being opened outside of Minsk. Upon initial containment a plaque was discovered at the site with the following message:
+
+Let us gather here today to honor the lives and memories of our dearly departed such that they are given immortality upon this Earth.
+
+Addendum 1760-A:
+
++ SCP-1760-16 Contents Log
+
+- SCP-1760-16 Contents Log 
+
+<15/11/1964> SCP-1760-16 was filled to capacity with packed earth. Samples matched the soil qualities of a coniferous forest.
+
+<15/11/1970> SCP-1760-16 was filled to capacity with teeth. Tests confirm that the teeth were from a mixture from human, canine, feline and ophidian sources.
+
+<15/11/1976> SCP-1760-16 was filled to capacity with blood. Tests confirm the blood to be human of mixed blood types.
+
+<15/11/1982> 17 bird carcasses. Tests on a captured specimen identified the species as Corvus cornix (Hooded Crow). Upon opening the casket the specimen became reanimated and attempted to fly away.
+
+<15/11/1988> 1 headless animal carcass. Tests identified the species as a Cervus elaphus (Red Deer). Upon opening of the casket the carcass began to move and attempted to flee the area.
+
+<15/11/1994> 1 complete set of human remains similar to those found in normal SCP-1760 instances. Upon opening the casket, the subject began to move and attempted to attack personnel, but was destroyed by Agent ██████ prior to incident.
+
+<15/11/2000> 62 human hands of various size and levels of decomposition. Upon opening the casket, the hands reanimated and attempted to swarm Researcher ████ but were contained prior to any injury.
+
+<15/11/2006> (See Incident 1760-1)
+
+<15/11/2012> (See Incident 1760-2)
+
+Addendum 1760-B:
+
++ Incident 1760-1
+
+- Incident 1760-1
+
+On 15/11/2006, at 14:30, Researchers ███████, █████ and ███ reported the sound of heavy breathing coming from inside SCP-1760-16 prior to opening. The researchers waited for Agents ██████ and ███████ to arrive for additional security before proceeding. Upon opening the casket an animal carcass burst out, knocking Agent ███████ to the ground. The subject then immediately exploded, releasing a large amount of bone matter that acted as shrapnel. The explosion caused █ casualties.
+
+Upon testing the carcass was identified as Sus scrofa domesticus (Domestic Pig) whereas the bone fragments released in the explosion proved to be human. The source of the explosion has yet to be identified.

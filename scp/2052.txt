@@ -1,0 +1,119 @@
+Item #: SCP-2052
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2052 is currently stored in a standard vacuum chamber at Site-██. Sides A and B have been dyed red and blue, respectively, for ease of identification. When not involved in approved experimentation, SCP-2052 must be laid flat inside the vacuum chamber, with side A facing upwards. SCP-2052 must not be exposed to pressures above 0.5 Pascals at any time.
+
+The primary containment vessel is stored in secondary containment vault 2052-C2. 2052-C2 is equipped with three type-B vacuum pumps, and a set of four protective suits suitable for working inside a vacuum, allowing SCP-2052 to be removed from its primary containment vessel. Removal from primary containment is only permitted for the purposes of approved experimentation or scheduled maintainence of the primary containment vessel.
+
+Researchers handling SCP-2052 must ensure that no portions of the fabric facing the same direction become overlapping at any point, except when done intentionally as part of an approved experiment.
+
+Description: SCP-2052 is a 12-centimeter square of silk cloth. Physical forces applied through SCP-2052 do not comply with Newton's third law of motion.1 Forces applied to side B are opposed by a force roughly 810 times greater, rather than the equal force predicted by conventional physics. Conversely, any forces applied to side A are opposed by a force reduced by a factor of 810. Analysis of internal compression of SCP-2052 has determined that the anomalous effect occurs instantaneously at a plane 30 micrometers below side A.
+
+Overlapping layers of SCP-2052 are capable of applying the anomalous effect cumulatively, resulting in an exponential increase of the amplification factor. In the event that three or more layers overlap while facing the same direction, the weight of SCP-2052 can threaten the integrity of supporting structures (see incident log 2052-I-3).
+
+When exposed to typical atmospheric pressures, pressure imbalances will propel SCP-2052 in the direction of side B. SCP-2052 will fly erratically and at high speed, until impacting a solid obstacle capable of resisting pressures of 82 MPa2.
+
+Discovery Log: SCP-2052 came to the Foundation's attention when automated webcrawler CASIMIR-J87 detected anomalous watch-phrases in a YouTube video, archived as 2052-V-1, posted by user "TeslaFyMe" (later identified as Kyle Wathers of Huddersfield, UK). Previous uploads from this account consist of 113 videos, primarily centered around the testing and refinement of alleged free-energy and perpetual motion devices. Foundation researchers reviewing the footage determined that none of the devices shown in prior videos produced anomalous behavior. CASIMIR-J87 successfully removed 2052-V-1 before any users viewed it.
+
+87% of uploads on Wathers' account contain references to another user by the name of "Discord_33", with whom Wathers appears to have shared a personal friendship. Videos on this account employ a variety of face and voice disguising technologies that have prevented the Foundation from determining the user's identity. Content is typically of a theoretical nature, and includes several lectures on engineering techniques which are known to the Foundation to produce anomalous effects. These lectures are worded in ways that prevented detection by CASIMIR-J87, apparently by design. Investigation into possible leaks in the CASIMIR program is ongoing.
+
+Upon discovery of their anomalous content, Foundation agents attempted to delete all videos posted by user Discord_33, but found that they had already been deleted.
+
+Video Transcript 2052-V-1
+
+– hide block
+
+[Wathers is seated at a desk in a residential garage; this setting has been used in 82 of his previous videos. Several previously-shown devices are visible on a workbench against the opposite wall, and have been moved aside to make room for a short cylindrical chamber, approximately 70 cm in diameter and 20 cm in height. This chamber has been designated SCP-2052-1.]
+
+00:00 - Hi guys, sorry I haven't posted any videos lately, I've been dealing with a lot of real life stuff recently and haven't had as much time for the vlog as I'd like. Some of you know what I'm talking about, I know Discord does, but I won't bore everyone else with, uh, the grisly details. If you're really interested, I guess hit me up on Skype or something.
+
+00:22 - So I got a lot of questions on my last video about what kind of magnets I was using, and a lot of the usual ignorant comments about how I don't understand physics or thermodynamics or whatever, so let me just go through and, um, I guess address some of those issues.
+
+00:42 - 09:40 [Irrelevant data omitted; subject responded to comments on previous videos. Full transcript available as document 2052-V-1F. -Dr. Collier]
+
+09:41 - So I was looking at Discord's last video. By the way, dude, "diction-obscuring filters"? [laughs] Really? I know the corporate giants want to suppress this stuff, but that's just getting silly. Nobody cares how often you say "is" or "of". Anyway, it got me thinking about quantum vacuum energy again. Yes, I know I've been harping on about that since forever, but I think you'll forgive me once I show you my results. If I'm understanding the physics right, a discontinuity in the quantum vacuum would act as sort of a one-way street. So I'll go over the math in my next video if it works as well as I think, but for now it's easiest if I just show you my setup.
+
+[Subject picks up the camera and carries it to the workbench, focusing on SCP-2052-1. Several wires are now visible extending from the back of the chamber, leading to a nearby oscilloscope and a control panel. Subject proceeds to open the lid, revealing a series of electromagnets surrounding the interior, alternating with additional devices of unidentifed purpose. The bottom half of the chamber is filled with an unidentified clear liquid.3 A silk square is suspended from the sides of the chamber on a grate roughly level with the surface of the liquid.]
+
+11:03 - I've already done the tricky part, because you need to have a zero-point membrane that doesn't conduct electricity, but it turns out silk works pretty well for that. You just have to expose it to [REDACTED] and then leave it out to dry for a few hours. Discord has a great video on how to do that. Once it's dry, just put it in the activation chamber, and make sure it's only partially submerged. If both sides are exposed you'll defeat the whole point and have to start all over again. [Subject replaces the lid and activates a switch. A low hum is audible.] Now, in theory, all you have to do is dial in the right resonant frequency, and you should see the reaction right away.
+
+13:47 - 14:16 [Subject slowly rotates a dial. The oscilloscope shows slight disturbances at unpredictable intervals, increasing in frequency and intensity until peaking at roughly 14:12.]
+
+14:17 - Okay, I think that's all the reaction I'm going to get this time. I think I need to align the Tesla emitters a little more carefully to get the resonance clean enough. But it's pretty clear something really wants to happen right at this specific frequency, and that means I'm on to something. And, you know, if this stuff works, it'll do a lot more than free energy - you could make a glove out of it, and mold steel with your bare hands. Um, I guess it's not your bare hands in that case. Whatever, you know what I mean. We wouldn't need any dangerous heavy-duty machinery any more. Which probably means all the big manufacturing companies are in on this too, along with the oil cartels. So if I just up and disappear mysteriously tomorrow, well, you guys know what happened.
+
+15:20 - I guess that's all I have for now. Thanks for the well wishes from everybody, hopefully I can get back to regular updates. Oh, and don't forget to like.
+
+Recovery Log: At 10:15 AM 8/7/20██, shortly before the arrival of Foundation agents, local police responded to reports of a series of loud explosions in Wathers' neighborhood. Foundation operatives administered class-C amnestics to all witnesses, and planted cover stories explaining the damage as the result of a natural gas leak. Investigation confirmed that the damage began in a garage identified as the one appearing in 2052-V-1. SCP-2052-1 was still present, and had a large puncture consistent with pressures of 82 MPa applied over a limited area. SCP-2052 appears to have exited through the west-facing wall, and followed a flight path passing through three nearby houses, a telephone pole, and an SUV, in unknown order before impacting the ground and coming to a stop at a depth of 3 meters. Only minor injuries were reported. Forensic analysis indicates that this event lasted approximately 7 seconds.
+
+Foundation recovery teams were able to transfer SCP-2052 to a vacuum chamber for transport to Site-██. SCP-2052-1 was also recovered; however, researchers were unable to reproduce its anomalous effects.
+
+Foundation spyware installed on Wathers' laptop succeeded in activating the attached webcam and recording for the duration of the event.
+
+Video Transcript 2052-V-2
+
+– hide block
+
+00:00 - [Webcam is placed on a desk facing Wathers' workbench. Wathers is seated at the workbench at the left edge of the frame, and is rotating a dial in a similar manner to that seen in 2052-V-1. Notably, the oscilloscope shows much steadier readings of a higher magnitude.]
+
+00:05 - [A loud crash is heard. The webcam is knocked off the desk and now dangles from a USB cable, facing a wall.]
+
+00:06 - 00:13 [Several more loud crashes, more distant.]
+
+00:14 - 00:25 [Silence]
+
+00:26 - 02:15 [Rapid pacing is heard along with shallow breathing, interspersed with occasional deep breaths]
+
+02:16 - 02:28 [Sounds of metallic objects being moved. Wathers replaces the webcam on the desk, briefly exposing his hands to the camera. Shaking is visible consistent with extreme anxiety. Camera now faces a different wall.]
+
+02:29 - 03:12 [Pacing resumes. Wathers briefly exits the garage, then returns, repeating this behavior twice.]
+
+03:13 [A car is heard pulling into the driveway.]
+
+03:18 - Unidentified voice: Are you okay?
+
+03:21 - Wathers: I, uh, I think so. Are you here to arrest me?
+
+03:26 - Unidentified: No, I'm Discord. The police will be here in-
+
+03:30 - Wathers: What? No you aren't.
+
+03:35 - Unidentified: I told you I disguise my face for videos, right?
+
+[3 s pause]
+
+03:46 - Wathers: That's impossible, do you really think I'll believe -
+
+03:51 - Unidentified: You just launched a Kleenex through three houses, and you don't believe in video editing?
+
+03:57 - Wathers: That's not funny.
+
+04:02 - Unidentified: I know. And I'm sorry. But I'm kind of in a hurry here. Because now you know that free energy is real, and -
+
+04:10 - Wathers: I believed in it before.
+
+04:13 - Unidentified: Don't kid yourself. Nobody really believes it, deep down, until they see it firsthand. What's important is, now that you know, that means you know the coverup is real too. And when the police figure out what happened here, they'll know that you know. Can you guess what happens then?
+
+04:31 - Wathers: Well, what are you suggesting? I just go into hiding? Spend the rest of my life in your basement, watching, like, daytime TV?
+
+04:42 - Unidentified: No, I mean you take the fight to the conspiracy. We have a private lab, where you can help us build machines that will -
+
+04:54 - Wathers: Wait, we?
+
+04:57 - Unidentified: It's complicated, but I'll explain when we get there.
+
+[4 s pause]
+
+05:05 - Wathers: You really think I could help take down the oil cartels?
+
+05:11 - Unidentified: I promise everything you build will be used against the people behind the coverup.
+
+Addendum 2052-A-1: On 11/26/20██, hostile forces attempting to seize SCP-████ assaulted Site-██ using four steel slabs of mass 2.4 x 104 kg, which possessed properties similar to SCP-2052. Three of these objects were recovered by the hostile forces, and the remaining one self-destructed and could not be recovered for analysis. The investigation into Kyle Wathers and his associate has been upgraded to a level-3 priority.
+
+Footnotes
+
+1. "To every action there is always opposed an equal reaction."
+
+2. 810 times atmospheric pressure
+
+3. Image analysis indicates a refractive index 28% higher than water.

@@ -1,0 +1,25 @@
+Item #: SCP-803
+
+Object Class: Euclid
+
+Special Containment Procedures: All ██ instances of SCP-803 are to be contained in seperate biohazard containment cells at Site-██. The specimens are to be fitted with radio transmitters set to secure channels. One D-class subject is to be provided for experimentation in the event of extreme hostility from SCP-803 instances.
+
+Description: SCP-803-1 is a currently undetermined number of autonomous machines, resembling small umbrellas, averaging 170 centimetres in width and 150 centimetres in height. An average specimen is almost indistinguishable from a normal umbrella. There are no identifying marks or labels on instances of SCP-803-1. When unfolded, a large amount of medical equipment is visible on the underside of SCP-803-1's canopy. These include vials of varying liquids and gases, plastic tubing, syringes, scalpels, various motors and joints, [DATA EXPUNGED]. All specimens possess the ability to retract, disguise or otherwise hide this equipment, making identification of SCP-803-1 in the field difficult. All attempts to disassemble or deactivate instances of SCP-803 are forbidden by order of Dr. ██████ (see addendum 803-01).
+
+SCP-803-2 resemble SCP-803-1 in almost all respects, except for a greatly increased wingspan of 5 metres and a central power system apparently fueled by [REDACTED]. SCP-803-2 serve as carriers for swarms of SCP-803-1 on rows of metal hooks that replace the medical equipment found in instances of SCP-803-1.
+
+The primary function of SCP-803 instances appears to be the capture, experimentation, and occasionally dissection vivisection of medium to large mammals using the aforesaid apparatus. Specimens of SCP-803-2 hunt by either waiting in a large, open area or by tumbling through the air using natural updrafts and bursts of compressed air emitted from the tips of their canopy. Upon encountering a viable target, the instance will release its flock of SCP-803-1, who will proceed to inject a muscle relaxant into the subject and then experiment upon it. ██% of subjects survive these procedures, which may involve removal and/or transplantation of organs, blood, urine and cerebrospinal fluid sampling, monitoring of [DATA EXPUNGED], and may last up to ███ minutes. Surviving subjects report being fully conscious during the experiments, as well as intense pain and feelings of panic.
+
+Flocks of SCP-803 comprise an average of ██ (██████) individuals, and have been sighted in the following locations:
+
+███ ██ ███████, Brazil.
+
+█████, Japan.
+
+████████, Australia.
+
+[DATA EXPUNGED].
+
+Addendum 803-01: On ██/██/20██, several D-class subjects were ordered by Research Assistant ████████ to dismantle an instance of SCP-803-1 using hammers, saws and wrenches. When the first D-class attempted to remove the handle, the specimen violently ruptured. Two of the three D-class were injured by large, sharp pieces of metal from the instance, inflicting wounds comparable to those caused by crossbow bolts fired at close range. One D-class died instantly due to a metal rod entering his skull. The second D-class initially survived, but later died of viral infections carried on the needles of the specimen. The third D-class quickly [REDACTED] due to unidentified chemicals within SCP-803-1, with only 1.2 kilos of biological material being recovered. Research Assistant ████████ was severely reprimanded.
+
+Addendum 803-02: On ██/█/20██, autopsy of a D-class subject captured by SCP-803-1 instances during the [REDACTED] containment breach discovered a small metallic dodecahedron at the top of the spinal column. The purpose of this object is currently unknown.

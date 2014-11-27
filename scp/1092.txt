@@ -1,0 +1,23 @@
+An instance of SCP-1092 extracted from the pulmonary vein of a goat.
+
+Item #: SCP-1092
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1092 is to be housed in a 5 by 5 by 2.5 meter cell that is completely watertight and is capable of being filled and drained via an installed pumping system. During its parasitic stage, SCP-1092 will be contained in one (1) domestic pig of no less than 54 kg. During this phase, SCP-1092's host is to be fed regularly and otherwise treated as a normal animal. After two (2) months time since initiation of the parasitic stage, the containment cell will be flooded with 40 cm of water and SCP-1092 will be allowed to enter its aquatic stage. The body of its former host will be incinerated. After four (4) months, another domestic pig meeting the same specifications will be placed into the inundated cell. Upon successful infection, the water will be drained and boiled three (3) times at no less than 200°C before being disposed of.
+
+All individuals who experience direct contact will SCP-1092 or its containment area will be analyzed with X-ray radiography after leaving in light of Incident A, personnel suspected of exposure to SCP-1092 will be quarantined for no less than two (2) weeks, during which time they will receive full body X-ray scans every 48 hours. Those infected will be monitored until SCP-1092 exits its parasitic phase terminated (see Addendum 1092-02).
+
+Description: SCP-1092 is an Osteichthyes class fish, during its aquatic phase virtually indistinguishable from other related fishes, except for a tendency toward aggression. However, only adolescent and adult instances of SCP-1092 have been observed outside of a living host; juveniles are obligate parasites. The fish infects the circulatory system of its host, absorbing oxygen and nutrients directly from the host's blood. Once in the bloodstream, instances grow from less than a millimeter in diameter to many times their original size, the largest recorded specimen being 2.1 cm in diameter (extracted from the host's aorta). The way SCP-1092 initially establishes an infection is not clear; however, it is theorized that its tiny eggs enter the bloodstream through cuts and lacerations on the subject's flesh, which would explain its aggressive tendencies. It has been known to infect a number of large mammals, including goats, sheep, humans, █████████, and pigs.
+
+Subjects infected by SCP-1092 often experience fatigue, weight loss, and increased appetite. Further, many subjects affected will report "fluttering" or "squirming" sensations inside their body. Nevertheless, it must be noted that a significant portion of those infected experience no noticeable symptoms until the parasite has matured to the end of its parasitic stage. Once the fish have matured within a host for 6-9 weeks, they will be ready to enter their aquatic stage. SCP-1092 will generally wait for its host to be contacting or surrounded by a significant amount of liquid water (SCP-1092's mechanism for detecting water outside the hosts' body is under investigation, see Document ██████). When the host contacts water, all mature instances of SCP-1092 will forcibly expel themselves from the hosts body, using their teeth to cut through blood vessels and epethelium. Subjects will sustain anywhere from minor injury to severe blood loss and death, depending on the location and severity of infection.
+
+It is important to mention that a small but notable portion of subjects will experience a secondary stage of infection. In these individuals, SCP-1092 will travel up the carotid artery, at which point [REDACTED].
+
+Addendum 1092-01: Incident A
+
+Unknown to any Foundation staff at the time, Agent ██████ was exposed to SCP-1092 and the infection progressed unchecked for at least 6 weeks (it is hypothesized that Agent ██████ was initially infected via a small cut on the inside of his lip). SCP-1092 exited his body without warning while he was taking a shower in facilities at Site ██. Although medical attention was given almost immediately, the hemorrhaging proved too extensive and Agent ██████ died within the hour.
+
+Addendum 1092-02: Incident B
+
+A member of the research team investigating SCP-1092, Dr. █████, despite having no prior history of violent behavior was somehow able to gain control of [DATA EXPUNGED], resulting in a site-wide containment breach, including the temporary release of SCP-███, SCP-████, and SCP-███. This was suspected to have been a distraction staged in order to allow Dr. █████ to [REDACTED] unnoticed. The subject was finally terminated only five kilometers away from the Colorado River Aqueduct. Upon autopsy, the subject was confirmed to have an advanced-stage SCP-1092 infection in his brain.

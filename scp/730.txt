@@ -1,0 +1,21 @@
+Dr. ██████'s lab, including infected sheep subjects
+
+Item #: SCP-730
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-730 and associated materials and subjects are housed in Sector-07 in a Delta level containment facility. Ongoing research necessitates regular staff interaction with affected materials (using appropriate isolation equipment). Researchers are required to undergo 36 hours of isolation and decontamination before leaving the containment facility. Any staff exposed to SCP-730 will be reclassified as a research subject and assigned to the facility indefinitely.
+
+Description: SCP-730 is an engineered retrovirus developed in ████████, Italy by Dr. ████████████. It infects and mutates developing mammalian embryos, including humans, causing abnormal fetal development. Infected individuals grow to term as physically healthy fetuses lacking any anatomical features above the brain stem (see epidemiology report).
+
+This vestigial brain stem is capable of passive maintenance of the body’s functions, including heart rate, respiration, digestion, homeostatic function, and waste elimination. The affected individuals show no higher functionality but respond to pain stimuli, recoiling or fleeing in the limited fashion available. With the use of intravenous life support equipment it appears that the biological functions of affected individuals can be extended indefinitely, though owing to the complete alteration of their genomes by the retrovirus no recovery is possible.
+
+Adult organisms cannot be infected by the virus, but act as passive carriers once exposed. The virus is spread by contact with any bodily excretion, including sweat. Once exposed an individual will continue to harbor a reservoir of the virus without experiencing any ill effects until they contact and expose a pregnant woman, whereupon the virus’s symptoms become manifest. Antivirals and inoculations have thus far been ineffective in cleansing carriers of the virus.
+
+While Foundation operations in support of SCP-730’s recovery and public suppression were successful, the possibility that carrier individuals remain at large cannot be discounted. Surveillance of public health institutions is ongoing even as materials recovered from the initial outbreak are studied to seek a treatment.
+
+Incident 730-01: Capture Summary SCP-730 was designed to affect fertilized mammalian embryos and intervene in the developmental process to produce “decerebrated” or brainless organisms. It was Dr. ███████ intention to use this virus to produce animals without higher brain function which could be raised for meat production without the ethical complications of killing thinking creatures for food.
+
+Shortly after the first successful test with sheep embryos, the virus mutated and was able to cross into members of the lab's staff. Because the virus does not manifest in adults, this jump was not initially detected. Only once hospitals in the region reported an epidemic of unprecedented birth defects did the Foundation become interested and the cause identified.
+
+The epidemic was intercepted before it spread beyond local confines to the global population. Sanitation procedures denied the virus an endemic population of passive carriers to further its spread. Materials and infected subjects were obtained and isolated under Foundation custody for further study, as were Foundation personnel exposed during the initial investigation.

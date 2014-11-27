@@ -1,0 +1,33 @@
+SCP-1514-1A in its original location [REDACTED].
+
+Item #: SCP-1514
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1514-1A is contained at Secure Bunker-███. SCP-1514-1B's status is to be monitored at all times, and any fluctuation of its homeostatic state beyond standard deviations is to be reported immediately. SCP-1514-1A's components are not to be tampered with, any action beyond routine inspection of the device is to be met with immediate termination. Exactly 1 Level 2 or higher personnel with an appropriate engineering background is to inspect these components once every 20 minutes to ensure their continued function. Should said personnel breach protocol, the batrachotoxin collar equipped to them must be remotely activated. No personnel are permitted to enter SCP-1514-1A's containment chamber outside of scheduled or emergency inspections.
+
+While SCP-1514-2 largely isolate themselves from public awareness, Foundation agents within all major astronomical associations are to detect and disguise any instance of their discovery.
+
+Should the signal being transmitted by SCP-1514-1A cease, whether by the destruction of SCP-1514-1A itself or otherwise, Procedure-083-Onager must be implemented. Failure to do so is likely to result in an XK End-of-the-World Scenario.
+
+Description: SCP-1514 is a nuclear deterrent system developed by ███████████ in association with the United States government in 1983. Its development and deployment was disguised by the publicly announced Strategic Defense Initiative (SDI), disparagingly known as "Star Wars", which was put forth by then-President Ronald Reagan during the same year. Officially, SCP-1514 is known as SDI-██ System "Xye", and numerous components of it were developed by legitimate SDI research and development groups (namely Project Excalibur-██). Known records indicate that the system was functional from 198█ to 198█, at which point the artifact's malfunctions and subsequent investigation by the Unusual Incidents Unit (UIU), Federal Bureau of Investigation brought SCP-1514 to the Foundation's attention.
+
+SCP-1514-1A is a 1.5m x 0.9m x 0.6m device comprised mainly of steel. Various instruments along its exterior display the homeostatic state of an entity (SCP-1514-1B) currently residing inside the device. SCP-1514-1A is powered by an unknown internal source, and contains what is believed to be a sophisticated life-support system utilizing an unidentified dark red liquid. Due to the inherent risks of tampering with the device (see below), details regarding SCP-1514-1B and the life-support system are unclear or speculative. The remaining instruments belong to an interface system designed to input and receive data from SCP-1514-1B.
+
+Information on SCP-1514-2 is limited and has thus far only been provided by documentation received from the UIU, [REDACTED], and [REDACTED] (see DOCUMENT-SCP-1514-RM4 for details). However, it is confirmed that SCP-1514-2 are a series of ██ satellites currently in orbit around Earth. Superficially they resemble the [REDACTED] satellite, with what is believed to be an array of 10 tactical X-ray laser (xaser) devices attached to the anterior side. The solar panels visible on SCP-1514-2 instances are reported to be fake, as the satellites' propulsion and weapon systems are powered by an alternative, anomalous source. Design specifications indicate the xaser system was originally to be utilized for disabling Intercontinental Ballistic Missiles (ICBMs), though targeting algorithms do exist for ground-based targets.
+
+SCP-1514-1A generates an anomalous radio transmission once every hour, broadcasting to the nearest SCP-1514-2 instance. This transmission cannot be deterred or disrupted through any known method, including Faraday cage structures. According to documentation provided by [REDACTED], failure to receive this signal for a period lasting longer than 36 hours constitutes the immediate and autonomous implementation of the Coronet Contingency, causing all SCP-1514-2 instances to fire upon their preset land-based targets. Due to the scope of the Coronet Contingency, and the likelihood of nuclear retaliation by the affected targets, this event has been deemed a probable XK End-of-the-World Scenario.
+
+Information from [REDACTED] has indicated that several components of SCP-1514 were developed by ███████████ through CIA Project M██████ between 196█ and 196█, though it is unknown what the original purpose of these components were (see DOCUMENT-SCP-1514-RM27 for details).
+
+SCP-1514-1A's interface is currently unresponsive to input, rendering all manual offensive and defensive capabilities of SCP-1514-2 defunct. This malfunction also prevents deactivation of the Coronet Contingency: this danger was the impetus for [REDACTED] contacting the Foundation and the subsequent Foundation custody of the artifact. While SCP-1514-1A is unresponsive to input, it has been observed to generate text messages via the control panel monitor:
+
++ DOCUMENT-SCP-1514-O (CLEARANCE 4/1514 REQUIRED)
+
+- DOCUMENT-SCP-1514-O (IDENTITY VERIFIED)
+
+Can you hear
+
+I'm happy
+
+Are the stars pretty

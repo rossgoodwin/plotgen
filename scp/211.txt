@@ -1,0 +1,111 @@
+The “white” hallway of SCP-211, located adjacent to what appears to have possibly been a kitchen.
+
+Item #: SCP-211
+
+Object Class: Safe
+
+Special Containment Procedures: Because of the suburban location of SCP-211, the surrounding neighborhood has been vacated through intentional introduction of pollutive industry and redistricting, to promote “NIMBY” sentiment. In addition, the property surrounding SCP-211 is currently under Foundation management, and an armed guard has been stationed in the buildings. Unauthorized personnel entering the area are to be terminated on sight.
+
+A series of explosive charges has been set within SCP-211, and is to be examined every ██ days for degradation. Should SCP-211 become overtly hostile or neutralization is otherwise requested, it is to be terminated by detonating these charges simultaneously.
+
+To avoid inadvertent activation of SCP-211's defense mechanisms, extraction of SCP-211-1 should take place at a rate of fewer than █ pages per hour.
+
+Description: SCP-211 is a two-story building located in an abandoned district of ███████, IA. Records from ███████'s archives heavily suggest that the building was originally a middle-class dwelling, belonging to G██████ S███████████ (since deceased of natural cause). Since then, all furnishings have disappeared, save standard light fixtures and a radiator (pictured above). Note that several of these lights' switches have not been discovered, rendering them useless. Additionally, the building's topography has been nearly completely covered with an estimated ███,███ sheets of paper, hereafter collectively designated as SCP-211-1.
+
+Given these facts, SCP-211 itself is in remarkably poor condition. Severe mold and grime contamination are threatening to collapse a large section of the second floor, and the attempted May 4 demolition (see Document 211-01) has left a large hole in the south wall of the building.
+
+Recovered sheets of SCP-211-1 may be of various aspect and origins: blank, depicting various images, ripped pages from books (most often encyclopedias or novels), printouts from the Internet, etc. The paper may be of any color; in fact, the above picture is of the only hallway in which all sheets are printed on white paper. Entire stacks of paper have been discovered in the building's basement, whose individual sheets bear little or no relation to each other. Their only real identifying characteristic is that individual sheets' edges are unusually sharp, and that should a portion of SCP-211-1 be removed, more sheets appear (from unknown origin) as replacement. Research is pending, but so far, individually, SCP-211-1's constituent parts seem to have little purpose beyond [REDACTED: See Addendum 211-01] and defense.
+
+Document 211-01
+
+SCP Status for SCP-211 was established after the building was condemned and scheduled for demolition on 4 May 2███, when the building “attacked” the team (hereafter labeled Incident Zero). The following is an interview of E████ R████████, one of four survivors, conducted by Dr. Spinoza.
+
+<Begin Log>
+
+Dr. Spinoza: Please state your name and occupation.
+
+Interviewee: E████ R████████, employed at ███████ Construction. Well, former employee. Can't exactly do my job with one crippled leg, now can I?
+
+Dr. Spinoza: My sympathies. Please discuss the events involving the attempted destruction of [DATA EXPUNGED].
+
+R████████: Well, we - ███████ Construction, that is - were commissioned to destroy that thing, so we set about finding the best way to do it. We pretty much ruled out undermining for some reason. Something to do [DATA EXPUNGED]. Main thing is management decides to just use a couple of bulldozers to level the thing.
+
+Dr. Spinoza: Was there any action on the part of the building before you attempted demolition?
+
+R████████: Not really. We went in there, after all, making tests and all that. Found the mold, joked about all that paper all over the place. Only thing that really happened before we started was…yeah, when we were in the basement and someone else, I forget who, started ripping pages from the wall, just t'check how bad the mold was. Big stack of the stuff suddenly drops from the ceiling, outta nowhere, on top of the guy, and he gets a nice bunch of paper cuts. Thing that got us, though? His gear was all cut up as all hell. I mean, clothing, hat, glasses, what have you. All nicked up, had a big damn gouge in his glasses. Damn good thing he was wearing those glasses, I tell you.
+
+Dr. Spinoza: And then?
+
+R████████: Well, we didn't like being in a big house of knives, you know, so we got him out of there. Other than that, besides, well, you know, and nothing else happened.
+
+Dr. Spinoza: And on May 4?
+
+R████████: Well, we had everything set up, and started driving a pair of bulldozers toward the house, when all of a sudden all that paper on that one wall - outside, right? - well, it all just falls off by itself. Now, I should tell you, that day there wasn't a breeze in the air at all, so we thought that, well, the building's destroyin' itself and stuff, and we decide to help it along, and all of a sudden there's a big rumble - one you can hear over the bulldozers! - and all that paper flies into the air by itself and tears up everything in sight!
+
+[END OF INTERVIEW REDACTED]
+
+<End Log>
+
+Document 211-02
+
+Subsequent to Incident Zero, testing was taken to determine the responsiveness of SCP-211. D-Class Personnel were issued a video camera and ordered to interact with SCP-211 in various ways.
+
+Video Log 1
+
+Subject: D-19905 ordered to approach and explore SCP-211.
+
+Result: No response. D-19905 interacted with SCP-211-1 without threat. Building map of first floor made with camera footage.
+
+Video Log 2
+
+Subject: D-19905 ordered to approach and extract a sheet of SCP-211-1.
+
+Result: No response. Page appears to be [REDACTED].
+
+Video Log 3
+
+Subject: D-19905 ordered to approach and extract a pile of SCP-211-1 near SCP-211's entrance.
+
+Result: Before extracting the target, D-19905 hesitates and examines a large poster on the wall near it. When questioned, D-19905 remarks that it's a painting that he made while incarcerated at [REDACTED], and proceeds to pick it up without incident.
+
+When D-19905 picks up the target, a pile of SCP-211-1 falls over, landing on him. D-19905 emerges, suffering lacerations to arms, legs, and face, but manages to extract the collection from SCP-211.
+
+Video Log 4
+
+Subject: D-19905 ordered to approach SCP-211 and explore second floor.
+
+Result: D-19905 enters building via Incident Zero hole without incident. Upon entering contaminated area, D-19905 steps on a weakened part of the floor, which collapses. D-19905 exits building with a broken leg, [REDACTED].
+
+Well, at least we know we can destroy it if we need to. - Dr. Spinoza
+
+Video Log 5
+
+Subject: D- 21938 issued a pack of matches and ordered to light a sheet of SCP-211-1 within SCP-211 on fire.
+
+Result: [DATA EXPUNGED]. Remains removed from door, but main entrance to SCP-211 is now blocked, leaving the Incident Zero hole as the only entrance.
+
+Let's not try that one again, all right? I mean, eurgh. -Dr. Spinoza
+
+Addendum 211-01
+
+Since collection of SCP-211-1 has begun, several specific books have become identified as their origin. Examples of these are as follows:
+
+A 19██ copy of Hitler's Mein Kampf, found in ████████ Public Library.
+
+A Java Data Structures Book, printed in 19██, discovered in a used book store near Site-17.
+
+[REDACTED], currently stored in the United States Library of Congress.
+
+Three printouts of Japanese broadcasts decoded during the MAGIC Cryptanalysis Project in World War II.
+
+The drawing in Document-211-02.
+
+etc.
+
+No documents re: the Foundation have been discovered as of yet; however, security has been increased as a mild informational security threat.
+
+Addendum 211-02
+
+Recent unexplained phenomena regarding SCP-211 have provoked further study. On 28 March ████, three individual sheets of SCP-211-1 were found in SCP-211's “entrance.” Examination of these sheets proved to be Foundation Protocol memoranda addressed to Dr. Spinoza, the interviewer of the previously mentioned E████ R████████. Upon questioning, Spinoza (who had been at Site-17 re: another project) noted that the notices had disappeared soon after he received them, adding that [DATA EXPUNGED].
+
+Since this date, there have been █ other data security breaches involving SCP-211-1, several of which involve SCP-211 as subject material. Upgrade to Euclid status pending.

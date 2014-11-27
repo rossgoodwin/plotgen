@@ -1,0 +1,93 @@
+File photo of "Frankie", first discovered specimen of SCP-1318
+
+Item #: SCP-1318
+
+Object Class: Euclid
+
+Special Containment Procedures: Specimens of SCP-1318 are to be kept in individual wire cages in a secured room in a facility otherwise devoid of laboratory animals. Due to the nature of the cognitive hazard presented by SCP-1318, no research staff shall be permitted to interact directly with specimens. Any experiments involving specimens are to be carried out by appropriately trained class-D personnel under remote observation by the assigned researcher.
+
+Experimental protocols should be designed to strictly limit the duration of exposure to SCP-1318 specimens. No individual class-D is to be scheduled for this duty more than once per week. Under no circumstances should any personnel be assigned duty which would increase their cumulative exposure time to SCP-1318 to over 16 hours.
+
+Any personnel showing signs of excessive SCP-1318 exposure are to be treated with amnestics and must undergo a thorough psychological examination before returning to duty. If delusions persist after drug treatment and counseling, disability leave may be granted at the discretion of the project lead. Class-D personnel experiencing persistent delusions are to be terminated.
+
+Description: SCP-1318 is a spontaneously occurring phenomenon found in an estimated 0.0001% of specimens of the Long-Evans strain of Rattus norvegicus1, the Norwegian Brown Rat. Instances are indistinguishable from other Long-Evans specimens in size, intelligence, appearance, and lifespan. However, humans spending 20-80 cumulative hours in close proximity (approximately 3m) to an SCP-1318 specimen develop the following delusional complex:
+
+That the specimen is sapient, and capable of speech.
+
+That the specimen is a subject-matter expert in their field of employment.
+
+That their "best ideas" originate from conversations with the specimen.
+
+That these properties of SCP-1318 are possibly hereditary, and that any offspring of the specimen should be exempt from experimentation pending unspecified "analysis".
+
+That possession of SCP-1318 provides significant competitive advantage, precluding the sharing of data about specimens with outside organizations.
+
+In addition to this cumulative effect, persons introduced to an SCP-1318 specimen by an affected individual will immediately be affected by the delusional system.2
+
+While affected persons report that they hear the SCP-1318 specimen speaking, review of recordings of such "conversations" reveal that affected persons are, in fact, subvocalizing the specimen's responses to their queries. No reported responses were found to lie outside of the knowledge domain of the affected individual.
+
+SCP-1318 was discovered when a routine performance review in 1993 found that productivity at the biosciences laboratory at Research Site-27 had declined by 75% in a 6-month period without a corresponding decline in research quality. An internal audit of the facility determined that the entire staff of the lab were affected by delusions pertaining to a male SCP-1318 specimen whom they dubbed "Frankie". Two members of the audit team were likewise affected before the nature of the hazard was determined.
+
+All affected personnel were interviewed and treated with amnestics, though 15% of staff suffered from persistent delusional states and were subsequently relieved of duty. "Frankie" was determined to have entered the facility as part of a routine delivery of model organisms from Charles River Laboratories. No anomalous properties were detected in any other specimens in the shipment.
+
+Interview Log 1318-1-5
+
+Agent Davidson: Good morning, Mr. Mooney. I would like to ask a few questions about the model organism designated SCP-1318-1.
+
+Researcher Mooney: Uh. Hey, sure. There sure are a lot of you internal affairs guys around. Is everything … okay?
+
+Agent Davidson: This is an information-gathering exercise, not a disciplinary hearing. Now, what can you tell me about SCP-1318-1.
+
+Researcher Mooney: You mean Frankie, right?
+
+Agent Davidson: Yes, I believe the staff refer to it as "Frankie".
+
+Researcher Mooney: Oh, Frankie's great. He's real easy to talk to and he's got a head for organic chemistry like nobody I've ever seen.
+
+Agent Davidson: How did you discover its anomalous properties?
+
+Researcher Mooney: Well, a couple months ago I was getting really stuck trying to synthesize one of the components from the SCP-███ fluid, and I was bitching about it in the lunchroom. Kowalski from Virology says to me, "Hey, you should run that by Frankie," and I'm like, who the fuck is Frankie?
+
+Agent Davidson: So Researcher Kowalski introduced you to the specimen?
+
+Researcher Mooney: Yeah. He takes me into this mostly empty storeroom, nothing in there except this big cage with one little rat in it, and I'm like "Where the hell is this Frankie guy?" and Kowalski says "That's him right there."
+
+Agent Davidson: Referring to the rat.
+
+Researcher Mooney: Yeah. So I'm just about to punch Kowalski in the mouth for taking me on a snipe hunt, when he starts talking to Frankie. And Frankie starts talking back.
+
+Agent Davidson: What were they discussing?
+
+Researcher Mooney: Oh, Kowalski is like "Hey, my buddy Mooney here is stuck on some hairy O-Chem, do you think you could help him out?" and Frankie is all "Sure thing. Nice to meet you, Mr. Mooney". It was weird too, cuz you'd think a little rat like that would have a squeaky voice or something, but he just sounded like a regular guy.
+
+Agent Davidson: Was your discussion with the organism fruitful?
+
+Researcher Mooney: Yeah! It was amazing, I just told him what I was trying to do and he walked me through a possible synthesis as easy as giving directions to the grocery store. I took it back to the lab and it worked the first time.
+
+Agent Davidson: And you continued to consult with the organism?
+
+Researcher Mooney: Yeah, I did. By the end of the month most of the guys in the lab were talking to Frankie when they got stuck on something. That little bastard can talk about almost anything you throw at him, you know?
+
+Agent Davidson: Why did you not disclose the presence of the anomaly?
+
+Researcher Mooney: Um. Well. It sounds stupid when I say now, but everyone in the bio lab kind of figured that Frankie was our secret weapon? Everyone was doing amazing work and we figured we'd keep it to ourselves for a little bit.
+
+Agent Davidson: Our records show that while the quality of work coming from your labs was consistently high, there was a precipitous drop in total output. If the organism was so helpful, how do you account for this?
+
+Researcher Mooney: Yeah, um. So it was a couple of things, I guess. The biggest problem is that there are only so many hours in the day, and Frankie's asleep for half of them. So the scheduling got to be a little hairy.
+
+Agent Davidson: People were unable to proceed until they could consult with the organism?
+
+Researcher Mooney: Well, it's like you know you could get going without talking to Frankie, but once you talk to him, you'll probably have to start over anyway, so why bother? Also, lots of people's time was taken up with the breeding program.
+
+Agent Davidson: Breeding program.
+
+Researcher Mooney: Yeah, we figured we couldn't keep it to ourselves forever, and how great would it be if every lab in the Foundation had their own Frankie?
+
+Agent Davidson: That will be all for now, Mr. Mooney.
+
+Footnotes
+
+1. This phenomenon appears to be restricted to the Long-Evans strain, and has never been witnessed in other laboratory strains or wild specimens.
+
+2. An "introduction" consists of addressing the specimen as a sentient being who is being made acquainted with the unaffected individual.

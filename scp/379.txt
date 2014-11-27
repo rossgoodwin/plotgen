@@ -1,0 +1,27 @@
+Picture of SCP-379 in Crystal Bottle
+
+Item #: SCP-379
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-379 is to be kept in vault-████ at Sector ████-█ when not in use. When being transported it should be carried in a locked and padded container, such as a padded briefcase, as the bottle is fragile. As our supply is limited, all testing and experimentation must be authorized by Dr. ███████ beforehand.
+
+Description: SCP-379 is a translucent pale silver liquid contained in a small, crystal bottle. The bottle is topped with an atomizer cap which delivers approximately one-half (.5) ml of the clear substance inside the bottle.
+
+The bottle itself has no noted properties of any particular interest. However, the liquid inside (while scentless and ineffective to normal human beings) has the strange effect of inducing a state not unlike human infatuation upon electronic and mechanical devices. When applied to a person or some object, any machines or electronics in the vicinity (aside from those wearing SCP-379) will begin running in an overheated state, unable to process as many commands and consuming more energy.
+
+For cybernetic systems or computers deemed 'sentient', the target seems to exhibit more humanistic qualities of typical 'infatuation' including:
+
+A preference to be around or in contact with the wearer of SCP-379.
+
+More willingness to cooperate with anyone in the room while the wearer of SCP-379 is present.
+
+Slower response times in machines.
+
+A slightly higher chance of minor glitches and malfunctions.
+
+It has been suggested to expose aggressive SCPs such as SCP-███ to SCP-379 to see if the pheromone can reduce their aggressiveness, perhaps allowing us to ask more questions about their function. It has also been suggested to try SCP-379 on SCPs that are not mechanical and do not exist in our 3D, real-world state (as is the case of SCP-732) to see if the pheromone affects them; deemed unlikely.
+
+There is no known reason as to how the sporting of SCP-379 affects most machines; SCP-379 does not release any sort of scent or detectable pheromone into the air. It has been suggested that SCP-379 has an electromagnetic frequency of some sort, but tests have proven this theory inconclusive. Further tests are to be limited until chemical composition is established to determine if SCP-379 can be artificially replicated.
+
+Addendum 379-A: Experiments with 379 and SCP-915 shows that purely mechanical devices of sufficient complexity could be affected by 379. 915's intake of air increased threefold, but this was not accompanied by a detectable increase in computation speed. Requests have been made to test if the internal shifts of 915 increase in response to 379. Due to lack of quantities of 379, continued experiments with 915 are denied.

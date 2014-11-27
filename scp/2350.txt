@@ -1,0 +1,63 @@
+Item #: SCP-2350
+
+Object Class: Keter Neutralized
+
+Special Containment Procedures: At this time, containment of SCP-2350 has been deemed unfeasible due to the expense and difficulty in covertly barring access to the emergence locations. Mobile Task Force Delta-4 ("Get Off My Lawn") has been tasked with predicting the time and location of emergence events, clearing the area of all witnesses beforehand. During an emergence event, one lame cow, one lame horse, and single-limb amputee D-Class personnel are to be left within the red zone. Following an emergence event, the remains of the horse, cow, and D-Class should be removed, and any witnesses administered Class-B Amnestics. As of this time, no containment efforts are necessary. MTF Delta-4 is to remain on standby for the time being.
+
+Description: SCP-2350 refers to a phenomenon that affects various national parks in Germany, specifically Black Forest, Berchtesgaden, Saxon Switzerland, Eifel, Hainich, Kellerwald-Edersee, and Lower Oder Valley National Park. Every 256 hours, a purple oblong portal (approximately 16 meters tall) appears somewhere within one of the parks. The portal emits what is theorized to be Hawking radiation, and causes severe burns to all unshielded organisms within a 2.67 meter-radius of the portal. Based on observation of the entities that exit it, it appears to be a gateway into a universe with at least four spatial dimensions. Electronic devices that enter the portal either malfunction upon entry or are unable to send or receive radio signals through the portal. D-Class personnel that enter the portal are unrecoverable. Attempts to only place part of their bodies in and then pull it invariably results in fatal body distortion and third-degree burns.
+
+Exactly two seconds after the appearance of the portal, two to five organisms (SCP-2350-A) ranging from 8 to 16 meters tall exit the portal. Instances of SCP-2350-A appear as conglomerations of 3-spheres in 3-space, and move by rotating the 3-spheres at the base of their body. Based on the geometrical properties of said shapes, instances of SCP-2350-A are believed to be projections of higher-dimensional entities viewed from three dimensions. Instances of SCP-2350-A often have different colors around their abdomens and lower bodies, but can be identified by the hues of their upper body and head area.
+
+Instances of SCP-2350-A appear to communicate with each other by vibrating at 128 Hz (at minimum), creating low hums that are assumed to be a form of language. With the exception of SCP-2350-A5, all instances of SCP-2350-A ignore living things in their vicinity, including anything that makes physical contact. D-Class that have made physical contact report feeling a smooth, warm sensation similar to heated plastic. With the exception of SCP-2350-A5, these instances wander around the area for 1024 seconds before returning through the portal, which will close behind them after exactly 64 seconds. There are six currently known specimens of SCP-2350-A that have been observed to come through the portal:
+
+SCP-2350-A1 is currently identified as the alpha of the group, and has a slightly bluish hue. It generally leads the movements of the rest of the group. SCP-2350-A1 is often observed making physical contact with SCP-2350-A2, and displays behavior consistent with alpha males of animal species when other instances of SCP-2350-A approach SCP-2350-A2. SCP-2350-A1 frequently interacts with SCP-2350-A5, knocking it down and moving away while vibrating. It is believed that this interaction is a method of establishing dominance, although it is unclear why this interaction only occurs with SCP-2350-A5.
+
+SCP-2350-A2 has been tentatively identified as SCP-2350-A1's mate, and has a darker blue hue. It is usually in extreme proximity to SCP-2350-A1, but will often approach and communicate with or touch other instances of SCP-2350-A1, particularly SCP-2350-A5, which appears to cause mild distress to SCP-2350-A1.
+
+SCP-2350-A3 lacks any distinguishing characteristics besides a light blue hue. It regularly communicates with the other instances of SCP-2350-A, but is typically seen around SCP-2350-A1 or -A4.
+
+SCP-2350-A4 is identical in appearance to SCP-2350-A3. It can be distinguished by its tendency to communicate with SCP-2350-A2 or -A3.
+
+SCP-2350-A5 is considered the omega instance of the group, and has a navy blue hue. It usually lags behind the rest of the SCP-2350-A instances, and is often struck by SCP-2350-A1, occasionally causing it to be knocked down or against an object. The other instances of SCP-2350-A appear to condone this behavior, and with the exception of SCP-2350-A2, appear to mildly ostracize SCP-2350-A5. SCP-2350-A5 also displays behavior different from other instances of SCP-2350-A. It is always the last one through the portal. Once the other instances have left, SCP-2350-A5 will begin searching for live animals, including humans. When it locates one, it will lift the animal into the air with pseudopods, then dismember the creature. SCP-2350-A5 usually vibrates at 128 Hz after removing each limb. Once the body has been fully dismembered, it will drop the body and then search for another organism to repeat the process. If the organism has an odd number of limbs, it will vibrate at 256 Hz instead, before returning through the portal, leaving the remains behind.
+
+SCP-2350-A6 refers to the grey instances of SCP-2350-A observed in Incident 8. These instances have only been observed once, and as such their behavioral patterns are unknown.
+
+Addendum:
+
+During analysis of SCP-2350 emergence events, Dr. ██████ identified a pattern of the location of emergence events that could be expressed in a mathematical formula. MTF Delta-4's use of the formula to predict the location of emergence events has an approximate 70% success rate, and has drastically lowered the number of witnesses to emergence events.
+
+The contents of the formula are available in Document 2350-2.
+
+Addendum: Incident 2350-1:
+
+During the ██th emergence event, SCP-2350-A1 was not present, although the group still adhered to their normal movement pattern. Following the egress of the rest of the group, SCP-2350-A5 began collecting and forcibly arranging various creatures into a bundle resembling a Mandelbrot set (causing massive trauma to the limbs and neck) rather than dismembering them, before picking up the bundle and carrying it through the portal. SCP-2350-A1 remained absent for the next ██ emergence events. This was the first time that the organisms were observed separate from each other.
+
+Incident 2350-2:
+
+During SCP-2350-A1's period of absence, SCP-2350-A2 and -A5 were observed spending much of their time in proximity to each other. Notably, the Mandelbrot bundle of organisms was observed in an unaltered condition in SCP-2350-A2's possession. Near the end of the emergence event, SCP-2350-A5 was observed to hunt for more organisms, arranging them into different fractal-patterned bundles, while SCP-2350-A4 was communicating with SCP-2350-A2. Before reentering the portal, SCP-2350-A5 delivered the bundle to SCP-2350-A2, which vibrated at 512 Hz before briefly coming into contact with and partially engulfing SCP-2350-A5. SCP-2350-A5 appeared unharmed by this engulfing event. This pattern of activity occurred during the next ██ emergence events.
+
+Incident 2350-3:
+
+During the ██th emergence event, SCP-2350-A1 was observed with SCP-2350-A2 and -A5, although SCP-2350-A3 and -A4 were not present. SCP-2350-A1 appeared to be engaging in a sort of dominance ritual with SCP-2350-A5, presumably over -A2. The ritual ended when SCP-2350-A1 collided into SCP-2350-A5 with extreme force, which began leaking a grey, corrosive fluid onto the ground. SCP-2350-A2 immediately moved between SCP-2350-A1 and -A5, while emitting a vibration at ███ Hz which caused noticeable discomfort in SCP-2350-A1 and -A5. SCP-2350-A1 immediately halted its assault and began communicating with -A2. Sixteen minutes later, SCP-2350-A2 exited through the portal, and was quickly followed by SCP-2350-A1. SCP-2350-A5 remained behind, and was noticeably more aggressive for the remainder of its time in the park, indiscriminately ripping apart any animals it came into contact with for the better part of an hour.
+
+Incident 2350-4:
+
+Following Incident 2350-3, SCP-2350-A1 and -A2 were not observed for the next ██ emergence events. SCP-2350-A3, -4, and -5 were observed spending more time together. At one point, SCP-2350-A5 displayed extreme aggression towards SCP-2350-A4, whirling a pseudopod towards it but lowering the pseudopod before making contact, which produced a defensive reaction from SCP-2350-A3. SCP-2350-A3 and -A4 left the area shortly thereafter. SCP-2350-A5 wandered about a little longer, and was observed to be shuddering slightly during this period.
+
+Incident 2350-5:
+
+SCP-2350-A3, -A4, and -A5 were observed together, although SCP-2350-A3 and -A4 appeared more wary of SCP-2350-A5, and were much more sensitive to its movements. At one point, SCP-2350-A4 visibly recoiled from SCP-2350-A5. SCP-2350-A5 appeared to be ignoring their behavior, and was collecting more organisms in what appeared to be an attempt to create another, more complex Mandelbrot set. However, it was unable to successfully construct the set. After several tries, it forcefully crushed the bundle into a sphere, and threw the sphere one hundred meters before it collided with a tree.
+
+Incident 2350-6:
+
+SCP-2350-A2 and -A5 were observed alone. The two communicated for approximately 1900 seconds before pressing their upper bodies together. SCP-2350-A2 immediately pulled back following this contact, and exited through the portal. SCP-2350-A5 made a high-pitched shrieking sound before entering the portal after it. The entire event lasted 2048 seconds, making it the longest emergence event on record. Similar events occurred ██ more times.
+
+Incident 2350-7:
+
+SCP-2350-A1, -A2, and -A5 were observed together. -A5 and -A1 were communicating with each other at lower frequencies than usual, while -A2 attempted to intervene several times. However, it was brushed away each time. After 256 seconds, both SCP-2350-A1 and -A5 turned towards -A2, and simultaneously vibrated. SCP-2350-A2 appeared to be deliberating between -A1 and -A5, while producing several vibrations. After several minutes, SCP-2350-A2 moved besides SCP-2350-A1. SCP-2350-A1 and -A2 pressed their upper bodies together, while SCP-2350-A5 moved away in submission and sat down besides a tree. SCP-2350-A1 produced a short, high-frequency vibration before leaving through the portal with SCP-2350-A2. SCP-2350-A5 remained by the tree, shuddering for several minutes. Following this, it moved through the park in an erratic pattern, vibrating sporadically and at various frequencies while dismembering every animal in its path, before returning to the portal.
+
+Incident 2350-8:
+
+SCP-2350-A2 and -A5 were observed exiting the portal. SCP-2350-A5 was holding SCP-2350-A2 by the head and holding a weapon of some sort. Shortly afterwards, SCP-2350-A1 and multiple grey-colored instances of SCP-2350-A (labeled -A6) exited the portal after it, also wielding similar weapons. SCP-2350-A1, -A2, -A5 and the -A6 instances communicated with each other in what appeared to be a hostage situation, with SCP-2350-A5 aiming its weapon at SCP-2350-A2 while the -A6 instances aimed their weapons at -A5. This stalemate continued for several hours. As the sun began to set, SCP-2350-A2 suddenly broke free of SCP-2350-A5 and fled towards SCP-2350-A1. SCP-2350-A5 raised its weapon and was immediately struck by several pulses of energy from the weapons of SCP-2350-A6. SCP-2350-A5 immediately collapsed. SCP-2350-A1, -A2 and the other instances of SCP-2350-A6 left through the portal shortly thereafter. Approximately an hour later, several more instances of SCP-2350-A6 appeared, covered SCP-2350-A5's body in a film, and took it through the portal.
+
+Since Incident 2350-8, no further emergence events have been recorded. On ██/██/██/, SCP-2350 was classified Neutralized.

@@ -1,0 +1,67 @@
+SCP-1939
+
+Item #: SCP-1939
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1939 is to be contained in a conventionally sound-proofed room measuring 3m x 3m x 3m with a key-coded door lock. SCP-1939 is to be placed on a small table in the center of the room, additional furnishings to include recording devices (2, 1 primary + 1 redundant), and a standard, powered European electrical outlet [CEE 7/4 (German "Schuko" 16 A/250 V grounded)]. All personnel entering the same room as SCP-1939 are required to wear sound-deadening hearing protection. Access may be granted to personnel Level 2 or above at the discretion of the Director of Site 76.
+
+Description: SCP-1939 appears as a commercial radio measuring approximately 45cm x 32cm x 25cm of a design dating to either the late 1920s or early 1930s. All markings on the body and on internal components are in German. Comparison to similar devices of known providence from the suspected timeframe reveal its construction and components are entirely conventional and otherwise unremarkable, though it does not exactly match any product offered in the catalogue of companies known to be manufacturing commercial radios between 1920 and 1953, the year it was discovered by two USAF Personnel demolishing a civilian dwelling to expand a NATO logistical depot near [REDACTED]. The internal components are identical to those found in commercial radios manufactured during the aforementioned timeframe, though the serial numbers found on them do not match any found in the records of companies making similar components.
+
+When powered, SCP-1939 is capable of picking up several “stations” comprising news, music, and state programming. These are entirely in German. The broadcasts which play from its speakers do not match the radio broadcasts of any extant radio station. Radio triangulation has failed to pinpoint a source for these broadcasts, and scans of radio frequencies across all wavelengths are unable to detect them. Jamming attempts using military grade ECM devices have failed to prevent SCP-1939 from receiving them, nor does placing it deep underground, where radio waves should be unable to penetrate.
+
+Much of the music played and artists mentioned are unable to be found in any other media. Excepting when SCP-1939 was being tested or disassembled, Foundation personnel have transcribed and translated these broadcasts, with particular attention paid to the news broadcasts. As with the music, the news events being reported, even the reporters themselves, seem not to exist, or to exist in a completely different capacity. Such reported events include: the death of Adolf Hitler, Fuhrer of the Greater German Reich, in 1963; a manned moon landing, described as the first in history, in 1974 by Sternsegler Hans Dietl and Christoph Mueller; and the celebrations of the 50th anniversary of the end of the Ostkrieg in Berlin and Moscow in 1997.
+
+Historians who were played recordings of the political speeches by undercover agents who approached them in the guise of student filmmakers noted the pronounced presence of National Socialist themes and rhetoric, as well as references to historically significant members of the NSDAP. A recording of a speech taped by Foundation personnel in 1959 revealed a 99.4% match to the voice Joseph Goebbels when examined by audio engineers. The speech itself does not match any recorded address given by him.
+
+Repeated attempts to place some of SCP-1939’s components into another radio, or into a television, to see if the anomalous properties are intrinsic to SCP-1939 itself or are capable of being transmitted by the parts contained therein have thus far gone without success. When powered down, SCP-1939 becomes inoperative, and it ceases to receive any transmissions.
+
+Exposure to the broadcasts from SCP-1939 appears to induce psychological changes in humans. Dr. ██████ noted that janitorial staff assigned to maintain SCP-1939's containment cell had a statistically significant lower rate of absenteeism and reported insubordination, with higher reported rates of job satisfaction. Experiments with D-Class personnel specifically selected for oppositional personalities and histories of insubordination revealed that exposure to the broadcasts from SCP-1939 reduced oppositional and defiant personality markers in 78% of those exposed, inducing what can best be described as docility and obedience. This effect occurs regardless of a subject’s knowledge of the German language, and seems to become more pronounced with greater exposure. Before the experiment was terminated, no discernible maximal point to this effect was noted, though it did seem to diminish after periods without exposure.
+
+Additionally, affected subjects experienced changes to their political beliefs. Regardless of prior political persuasion, or lack thereof, subjects exposed to SCP-1939 begin to have a noticeable affinity for the policies of National Socialism, including: a pronounced support for the curtailing of civil liberties (particularly toward racial and religious minorities); state control and regulation of private economic activity; a sense that the subject’s own race is superior to all others; and the use of military force to impose this political order on non-adherent nations or ethnic groups. The remaining 22% of subjects exposed showed either a statistically insignificant effect or no effect at all. The effect appears only to occur when exposed to broadcasts from SCP-1939 itself, recordings of these broadcasts played to a control group on a different device produced no discernible effect.
+
++ Excerpt of interview with D-87654  
+
+- Close
+
+Interviewed: D-87654
+
+Interviewer:Dr. ██████
+
+Interview Date:██/██/████
+
+Forward:Prior to her acquisition by the Foundation, D-87654 was a member of an animal’s rights activist group who was convicted of Felony Murder when one of her associates died during the break-in of a pharmaceutical company laboratory conducting late-stage drug development testing on animals. She was selected for exposure to SCP-1939 due to her extremely oppositional personality as well as strong involvement in radical politics.
+
+<Begin Excerpt>
+
+Dr. ██████ : I understand you were politically active in college?
+
+D-86754: Yes, I was.
+
+Dr. ██████ : How so?
+
+D-87654: I was a member of numerous animal rights and anti-war groups, and tried to attend a protest or picket at least once a month.
+
+Dr. ██████ : It is my understanding that you formerly were familiar with another D-Class in this experiment, D-45289, but that you two longer associate? Why is that?
+
+D-87654: I don’t know, we just drifted apart, to be honest, I just feel like more comfortable with people of my own race these days.
+
+Dr. ██████ : I see, have you always felt this way?
+
+D-87654: That’s the strange thing, I used to actually consider them my sisters, but now… I don’t know, are we almost done here?
+
+Dr. ██████ : Yes, just one more thing, do you see this pistol on my desk, are you familiar with its operation?
+
+D-87654: Yes.
+
+Dr. ██████ : Good, I need you to take that pistol, walk over to that kennel, and shoot the three dogs in it.
+
+[ Tape is silent for 31 seconds, then two gunshots, tape is silent for 9 seconds, then a single gunshot ]
+
+Dr. ██████ : Very good. How do you feel?
+
+D-87654: Happy to serve, sir.
+
+<End Excerpt>
+
+Closing Statement:After this interview, D-87654’s scheduled termination was delayed by three months in order to see if the effects of SCP-1939 were permanent. At the conclusion of the three months, D-87654 was shown video footage of her actions shooting the dogs. She became emotionally distraught, to the point of becoming physically ill. When asked to explain why she had done this, her answer was, “because I had to follow my orders.” Psychological testing indicated an oppositional personality. Queries regarding D-87654’s political views indicated almost a complete return to her pre-exposure political make-up. Subject terminated at the first of following month per Foundation protocol.

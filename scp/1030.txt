@@ -1,0 +1,99 @@
+Item #: SCP-1030
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1030-1 is to be kept in a 7m x 5m holding cell under video surveillance and staffed by one guard. Minimal furnishing is allowed, as SCP-1030-1 does appear to be able to experience "comfort" and "pain." There are to be no tangible objects in the cell except one word processor terminal, to be built into the wall of the cell. SCP-1030-1 may request materials for self-repair by typing on this terminal. Staff are to place materials in the airlock between the observation booth and the holding cell, then vacate the airlock before SCP-1030-1 is given access to it.
+
+Under no circumstances should SCP-1030-1 be given any sharp objects or potential writing utensils. Any attempt by SCP-1030-1 to draw or carve SCP-1030-2 shall result in revoking of word processor privileges until later review. Any resulting instances of SCP-1030-3 should be reverted by removal of SCP-1030-2, or, if more convenient, destroyed by fire.
+
+Description: SCP-1030-1 is a humanoid figure approximately 1.65m tall, constructed of various objects. As of █/█/████ it is comprised of a pair of shoes, a computer mouse, a garbage can, 4m of rubber hose, crushed remains of a push-cart, a personal digital organizer, a labcoat, a pair of glasses, and ████ ██ ██ █████.
+
+Objects integrated into SCP-1030-1 corrode, rot, or otherwise decompose at an accelerated rate. Heavily damaged objects are expelled and replaced by an unknown force using other nearby objects capable of roughly filling the vacated space. Objects may contort or break if necessary, but preference is given to objects requiring a minimum of effort.
+
+Ruined items are not expelled until a replacement is found. SCP-1030-1 has expressed that keeping damaged items integrated is "painful."
+
+The only constant feature on SCP-1030-1 is the presence of a complex symbol (hereafter SCP-1030-2) that becomes engraved on the “back” of whatever analog SCP-1030-1 is using for a head. Part of the symbol includes the Hebrew word "חיים."
+
+SCP-1030-1 expresses periodic desire to copy this symbol onto other objects. Any objects marked in this way (known as SCP-1030-3) become animate with some control by SCP-1030-1 as long as they are within █m of SCP-1030-1. Beyond that range, SCP-1030-3 invariably become hostile, seeking out and attempting to harm any humans in any way possible. Removal or destruction of any portion of SCP-1030-2 reverts such items to their original, inanimate state.
+
+Recovery notes
+
+SCP-1030-1 was initially contained following stories of a "monster" near a garbage dump in ██████, Czechoslovakia. Agents captured SCP-1030-1 on █/██/19██ using powerful magnets, as much of its body was comprised of scrap metal at the time. SCP-1030-1 offered no violent resistance, attempting only to flee at first contact, and ceased its attempts after several minutes.
+
+Addendum 1030-01: Deviant behavior/New containment procedures
+
+SCP-1030-1 has begun attempting to place SCP-1030-2 on any object it can access, with mixed success. New containment procedures forbidding the presence of non-repair objects implemented due to extra security measures needed for animated furniture. Walls and floor are now padded fabric due to severe structural damage caused by animation of walls and floor. Computer terminal resolution and size have been reduced following input of ASCII version of SCP-1030-2 that resulted in violent animation of computer terminal.
+
+Following implementation of new containment procedures, SCP-1030-1 has ceased regular movement and refused to type on terminal except for the word "Alone," once a day.
+
+Addendum 1030-02: Incident report
+
+Following initial testing on replication of SCP-1030-2, SCP-1030-1 was denied access to any objects for self-repair purposes with the aim of coercing SCP-1030-1 into explaining why the symbol wasn’t effective when copied by Foundation personnel. The word processor was also removed. SCP-1030-1 was told to respond by signing letters in the air.
+
+After 22 days with no useful response, SCP-1030-1’s components appeared to be in severe disrepair. After subject was observed to sit for several hours without motion, then-head researcher Dr. █████ entered the cell with a sealed metal box of debris on a push-cart (current containment procedures were not in place), stating intention to “tempt” SCP-1030-1.
+
+The resulting video record has been preserved for study.
+
+<0754:13> Dr. █████ enters containment cell, pauses while door is sealed behind him, and shakes cart.
+
+<0754:16> SCP-1030-1 rises to “feet,” immediately makes defensive or warding gestures with “arms.”
+
+<0754:20> Dr. █████ takes two steps toward SCP-1030-1 with cart, at which time Dr. █████’s glasses appear to fly off his face and replace a disintegrating cardboard tube as SCP-1030-1’s thumb. Dr. █████ feels face, then lets go of cart and turns to door.
+
+<0754:22> Dr. █████, facing door, appears to leave ground, flying backwards toward SCP-1030-1.
+
+<0754:25> Dr. █████'s entire body [DATA EXPUNGED] violently by an unidentified force, with no apparent regard for previous anatomical functions.
+
+<0754:30> SCP-1030-1 drops to “knees” and repeatedly slams own head (at the time a wastepaper bin) against back wall of containment cell for approximately 30 seconds.
+
+<0755:01> SCP-1030-1 rises, rocking its body, and begins stroking Dr. █████'s head and back, currently located [DATA EXPUNGED].
+
+<0858:15> Dr. █████ ceases movement.
+
+<0858:22> Push-cart accelerates toward SCP-1030-1, discarding box of debris. Cart is crushed and re-shaped by unknown means, replacing portions of Dr. █████, which are expelled onto the floor.
+
+<0858:40> Box accelerates toward SCP-1030-1. Box is crushed, exposing items inside. Box and all items integrated into SCP-1030-1. All previous components of SCP-1030-1 have now been replaced.
+
+<0858:54> SCP-1030-1 sits in corner of cell.
+
+<0920:10> Security and clean-up crews enter. No reaction from SCP-1030-1.
+
+Addendum 1030-03: Unprompted writing
+
+SCP-1030-1 does not typically initiate communication except to request new materials, and only offers minimal response to questions. However, on one occasion, approximately 1 hour after fruitless questioning had ended regarding SCP-1030-1's origins, SCP-1030-1 entered the following on the terminal in its cell.
+
+Was man.
+
+Man lived. Man would die.
+
+Maker came down.
+
+Maker said you live. You make. Maker marked man.
+
+Man lived. Man made things.
+
+Man died. Things made man.
+
+Man lived again. Man made.
+
+Man lived. Man made.
+
+Man lived. Man made.
+
+Man lived. Man made.
+
+Man lived. Man made.
+
+Ask maker, man die please? Man so tired.
+
+Maker said no. Man has mark.
+
+Mark is on head. Mark in head too.
+
+Know mark too good. Always remember.
+
+Cannot forget mark.
+
+Mark is life.
+
+Note: Following review of the above writing sample, simultaneous and contradictory requests have been filed by co-heads Drs. ██████ and ████████. Dr. ██████ requests total cessation of all visual study of SCP-1030-2. Dr. ████████ requests approval for use of D-class personnel for expanded research into the tattoo reproduction and memorization of SCP-1030-2. O-5 response pending.

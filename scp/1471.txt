@@ -1,0 +1,35 @@
+Last image received by SCP-1471-9405 before being rendered inoperative
+
+Item #: SCP-1471
+
+Object Class: Euclid
+
+Special Containment Procedures: All mobile devices that have SCP-1471 installed are to be confiscated and analyzed for any potential leads to other possibly affected devices. Afterwards, affected devices are to have their batteries removed, be assigned a designation (e.g. SCP-1471-#), and be placed in Storage Unit-91 at Research Facility-45.
+
+All online application stores for mobile devices are to be monitored to prevent any inadvertent sales of SCP-1471. Suspected devices are to be targeted using self-uploading malware in order to disable the device until it can be seized by field agents.
+
+Description: SCP-1471 is a free 9.8MB application for mobile devices named "MalO ver1.0.0" in online application stores. SCP-1471 has no listed developer and is somehow able to bypass the application approval process to go directly to distribution. SCP-1471 is also able to avoid removal by other program manager applications.
+
+After SCP-1471 is installed, no icons or shortcuts are created for the application. SCP-1471 will then begin to send the individual images through text messaging every 3-6 hours. All images will contain SCP-1471-A either within the background or foreground. SCP-1471-A appears as a large humanoid figure with a canid-like skull and black hair.
+
+During the first 24 hours following the installation of SCP-1471, the mobile device will receive images taken at locations commonly frequented by the individual. After 48 hours, the mobile device will receive images taken at locations that were recently visited by the individual. After 72 hours, the mobile device will receive images of the individual in real time with SCP-1471-A appearing within close proximity to the subject.
+
+Individuals with >90 hours of exposure to these continuous images will begin to briefly visualize SCP-1471-A within their peripheral vision, reflective surfaces, or a combination of the two. Continued exposure to SCP-1471 after this point will cause irreversible and sustained visualizations of SCP-1471-A. Individuals at this stage have reported periodic attempts made by SCP-1471-A to visually communicate with them, but fail to understand or comprehend these actions. Currently the only known treatment to reverse SCP-1471's effect is to eliminate the individual's visual exposure to these images prior to 90 hours after installation. To date, no apparent hostile activity has been reported regarding SCP-1471-A.
+
++ Open Posted Page on Application Stores
+
+- Close
+
+MalO
+
+ver1.O.O
+
+FREE!
+
+Reviews (O)
+
+Description:
+
+For ████████████. Never settle for those awkward feelings of being alone ever again. MalO is an exciting and interactive experience that will keep you engaged and intrigued. The anxiety of social situations can be nerve-racking, but after just a few hours of MalO you will soon forget all about those painful emotions of disappointment. Be part of the new craze that is quickly becoming the next social substitute. Remember, the more you participate, the more MalO will engage you. Your experience is completely up to you. Absolutely NO ADS. Enjoy!
+
+Buy?

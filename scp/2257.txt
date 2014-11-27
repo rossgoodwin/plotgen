@@ -1,0 +1,165 @@
+SCP-2257
+
+Item #: SCP-2257
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2257 currently belongs to the Foundation, under a constructed identity. In order to maintain a perimeter, a fence is installed around most of the property, and a security team is posted in the residence directly across the road. The lawn is to be mowed once a week, and the lights set on a timer to turn on and off at appropriate times to give the appearance of occupancy.
+
+Description: SCP-2257 is a one bedroom, two bathroom home in a suburban development located in ██████, Wisconsin. The exterior presents no anomalous properties. The interior is normally furnished for a suburban home.
+
+Approximately 48 hours after entering SCP-2257 by any means, all objects and entities become an instance of SCP-2257-1. SCP-2257-1 refers to anomalous items (most commonly furniture or household appliances) found within SCP-2257. SCP-2257-1 instances are sapient and capable of speech in English. Subjects converted into SCP-2257-1 instances do not physically change, but gain individualized personalities, voices, and consciousnesses separate from other instances, although interviews imply a telepathic communication between instances.
+
+All instances of SCP-2257-1 claim to be the sole deity of their respective physical representation. For example, SCP-2257-1-23 is a tan, suede armchair that claims to be the "god of chairs". Other than these properties, instances of SCP-2257-1 have shown no other anomalous qualities. At the time of writing, however, testing has consisted only of inanimate objects. It has been implied however by instances of SCP-2257-1 that a living entity could become another instance of SCP-2257-1. (See Addendum)
+
+The instances of SCP-2257-1 maintain a set of order throughout SCP-2257, often rearranging themselves when shifted to reattain their state of balance. For example, when the cutlery normally set in the dining room is rearranged, instances of SCP-2257-1 become agitated until they are able to return to the formal cutlery arrangement by fine dining standards in the United States of America (the salad fork must be on the far left, the dinner fork beside it, etc).
+
+All instances of SCP-2257-1 are capable of rearranging themselves when left unobserved. When objects and entities enter SCP-2257 that are not currently an instance of SCP-2257-1 enter the premises, instances will try to deter the subject from remaining within the home until the 48-hour threshold has passed, at which point the new instance is welcomed, so long as another occurrence of the same object does not already exist. Instances of SCP-2257-1 will rearrange themselves in ineffectual attempts to menace or otherwise deter objects that are deemed useless or extraneous.
+
++ Interviews with SCP-2257-1
+
+- Hide Interviews
+
+Interviewed: SCP-2257-1-23, "god of chairs"
+
+Interviewer: Doctor B█████
+
+Foreword: Note that Doctor B█████ sat in the chair for the duration of the interview.
+
+<Begin Log, 13:04:12
+
+Dr B█████: You believe to be the, as you put it, "god of chairs". On what basis do you make this statement?
+
+SCP-2257-1-23: I am the lord of upholstery, the king of comfort, and master of laziness! I am the superior seat, and He names me the Chair God! Unlike the damnable gobshite in the room adjacent.
+
+SCP-2257-1-35, "god of toilets": I heard that, you deluded sinner! I am the Toilet God, and I bless your leavings!
+
+Dr B█████: He?
+
+SCP-2257-1-23: Our grand protector, House God! He is our home and our one true king.
+
+SCP-2257-1-35: And I his most loyal of seating arrangements, not you, you gluttonous behemoth! Human, come hither, and experience the most incredulous of excretory experiences!
+
+Dr B█████: And why is it called the god of houses?
+
+SCP-2257-1-23: It is the finest of houses across the land, and simply radiates His divine right! We are but humble servants.
+
+Dr B█████: Right. [Interviewer attempts to rise from chair.]
+
+SCP-2257-1-23: No! You must not leave. Bask in the glorious comfort of Chair God. Bask!
+
+SCP-2257-1-35: Yes, come to me! Experience the holy aperient that is Toilet God!
+
+<End Log, 13:10:17>
+
+Closing Statement: Interviewer rose from SCP-2257-1-23 without incident. SCP-2257-1-23 continues on a rant to attempt to draw interviewer back to it, but fails to convince Doctor B█████. The chair is reported to be comfortable, but not extraordinarily so, defined when off-site as an average armchair.
+
+Interviewed: SCP-2257-1-54 "god of microwaves", and SCP-2257-1-55 "god of ovens"
+
+Interviewer: Doctor B█████
+
+Foreword: Per request, one frozen pizza was placed in each of them.
+
+<Begin Log, 14:07:11>
+
+Doctor B█████: What is the source of argument constantly transpiring here?
+
+SCP-2257-1-54: She seems to believe that her delicacies are far superior to mine! Time wins you no contests.
+
+SCP-2257-1-55: He seems to think this is a race. His nourishment is soggy and subpar at its finest!
+
+Doctor B█████: When did this argument begin?
+
+SCP-2257-1-54: This is a tumultuous battle that has existed since the beginning of time itself! The victor determines the fate of all the lords of cooking appliances.
+
+Doctor B█████: Have either of you ever defeated the other, in any way?
+
+SCP-2257-1-55: He'd like to claim that— [SCP-2257-1-55 is interrupted by loud screeching originating from SCP-2257-1-54.]
+
+SCP-2257-1-54: I've bested you again, my feast is prepared!
+
+SCP-2257-1-55: A feast fit for rodents.
+
+Doctor B█████: I think this will be all for today.
+
+SCP-2257-1-54: No! You must feast upon the glory I have brought to you! You must declare me the victor of this eternal battle!
+
+<End Log, 14:10:53>
+
+Closing Statement: SCP-2257-1-54 continues to shout loudly for Doctor B█████ as he exits the kitchen, then begins accusing SCP-2257-1-55 of deterring him with "the old ways".
+
+Interviewed: SCP-2257-1-136, a Level 3 Foundation Researcher badge.
+
+Interviewer: Doctor B█████
+
+Foreword: SCP-2257-1-136 was originally planted in hopes of creating a sapient entity loyal to the Foundation, in order to ascertain more information on SCP-2257. The ID rests on SCP-2257-1-13, "god of coffee tables", while Doctor B█████ stands.
+
+<Begin Log, 17:23:11>
+
+Doctor B█████: What can you tell us about SCP-2257?
+
+SCP-2257-1-136: You are not who I am looking for.
+
+Doctor B█████: Excuse me?
+
+SCP-2257-1-136: Sorry, O5's ears only.
+
+Doctor B█████: We can't bring you an O5, but I can relay a message.
+
+SCP-2257-1-136: Nope, can't let you do that. The information would kill you!
+
+Doctor B█████: Really now?
+
+SCP-2257-1-136: Yep! Brain would melt on the spot. Boom. No more annoying researcher.
+
+Doctor B█████: You do realize what level of clearance you have, don't you?
+
+SCP-2257-1-136: [Ignoring interviewer's question] Hey, I can tell you some fun facts about the Foundation. Did you know that — [ID is placed inside of interviewer's pocket now, being uncooperative.] No, don't put me in the pocket! No, that's — mmph!
+
+Doctor B█████: Yeah, we're not getting anywhere with this.
+
+<End Log, 17:26:43>
+
+Closing Statement: SCP-2257-1-136 is placed back on the table and left there, resuming its previous silence while occasionally remarking about its "high level secrets" and "an Alpha-K Class Ocean Desalination Scenario if not given access to the O5".
+
+Note: Presence of an O5 member denied as of 3/11/2014. There are much more prudent uses of time for the O5 Council than conversing with a megalomaniac ID badge, let alone one surely unaware of much sensitive information, given its Level 3 Clearance. — O5-7
+
+Addendum:
+
+The conversion of a living entity into an instance under SCP-2257 was previously presumed impossible. However, on 2/25/2014, SCP-2257-2 was created. SCP-2257-2 is a former D-Class, now referred to by other instances of SCP-2257-1 as "The Guardian", and is the result of a need to replace recording equipment continually converting into instances of SCP-2257-1. Conversion occurred unexpectedly after normal 48-hour threshold.
+
++ Interview with SCP-2257-2
+
+- Hide Interview
+
+Interviewed: SCP-2257-2
+
+Interviewer: Doctor B█████
+
+Foreword: SCP-2257-2 is formerly D-Class designation 17350, converted after a 48 hour stay within the premises. SCP-2257-1-143 is former D-Class's left shoe. SCP-2257-1-144 is former D-Class's right shoe.
+
+<Begin Log, 11:24:35>
+
+Doctor B█████: Who are you?
+
+SCP-2257-2: The Guardian.
+
+Doctor B█████: What is your role here?
+
+SCP-2257-2: I protect them. I keep them safe, and I am enlightened.
+
+Doctor B█████: What do you mean by 'enlightened'?
+
+SCP-2257-2: I understand now. The arguments they have, their purpose.
+
+Doctor B█████: And what is that?
+
+SCP-2257-2: It's— [Subject interrupted by his shoes.]
+
+SCP-2257-1-143: Oi, you can't tell him that! He's one of them!
+
+SCP-2257-1-144: Shut up, Lefty!
+
+<End Log, 11:26:21>
+
+Closing Statement: Interview devolves into an argument between SCP-2257-2 and its articles of clothing.

@@ -1,0 +1,43 @@
+Entrance passage to SCP-1671. Elevator chamber located at end of passage.
+
+Item #: SCP-1671
+
+Object Class: Euclid
+
+Special Containment Procedures: The security perimeter of the property containing SCP-1671 is to be monitored by armed patrol and night-vision security cameras. Foundation personnel are not permitted within SCP-1671 without Level A hazardous material suits. All materials recovered from within SCP-1671 are to be sterilized before removal. Any personnel showing signs of sickness after entry to SCP-1671 are to be quarantined immediately.
+
+SCP-1671-2 work cycles are not to be interrupted: all direct study of SCP-1671-2 specimens is to be carried out upon specimens on rest cycle: this consists of interviews, physical examinations. Work cycle observation is to be carried out by remotely-operated vehicle only.
+
+██/██/2011: Physical contact with SCP-1671-2 specimens is not permitted.
+
+██/██/2013: Injured or deceased SCP-1671-2 specimens are not to be disturbed in any way.
+
+For further information on the use of recovered SCP-1671-1 material, please see document 1671-EXP.
+
+Description: SCP-1671 is an abandoned coal mine located near [REDACTED] Pennsylvania. SCP-1671 was originally founded in 1887 by the [REDACTED] Company, and remained in operation until 1923. No reports of anomalous activity have been recovered from the period of operation. No surface buildings from the original mine remain. A guard station has been constructed over the entrance for the storage of research materials and housing of security personnel and the elevator to the mine has been replaced. The room surrounding the primary shaft entrance has been expanded to contain SCP-1671-A and a barracks room. The temperature within SCP-1671 is a constant 35.5° C.
+
+SCP-1671-A is a hemisphere of cast iron, measuring 4.5 meters in diameter and 2.25 meters in height, located in the entry chamber of SCP-1671. Four 1.5 by 1.5 m hatches are located at 90 degree intervals on SCP-1671-A.
+
+The lower levels of SCP-1671 contain seams of human corpses, designated SCP-1671-1. SCP-1671-1 specimens are of varied age and race, with no apparent pattern to these traits. SCP-1671-1 specimens are generally in a state of advanced decay due to the conditions within SCP-1671. Genetic testing has not matched any SCP-1671-1 specimens with known individuals living or dead. The total amount of SCP-1671-1 within SCP-1671 is unknown: seams do not appear to decrease in size. That is, when SCP-1671-1 material is removed, further instances of SCP-1671-1 are pushed to the front of the seam.
+
+SCP-1671-2 designates a group of 243 blind, hairless, humanoid entities found within SCP-1671. SCP-1671-2 specimens stand an average of 1.5 meters in height and weigh an average of 85 kilograms. Each specimen is in possession of identical personal belongings: an iron collar, a black boilersuit, a pickaxe, and shovel. Damaged or lost equipment is replaced by SCP-1671-A through the north hatch.
+
+SCP-1671-2 specimens are apparently sapient and fluent in English, but will generally ignore or disregard attempts at communication. Communication between SCP-1671-2 specimens is rare, and generally consists of monosyllabic directives. It is unknown how SCP-1671-2 specimens navigate: tests to determine if echolocation and thermal sensing properties are present have been negative.
+
+SCP-1671-2 operate in three eight-hour shifts: mining, transport, and rest, with 81 SCP-1671-2 specimens assigned to each task. Shifts begin at 0000, 0800, and 1600, respectively, marked by a low whistling noise heard throughout SCP-1671. The source of this noise is unknown.
+
+SCP-1671-1 material mined by SCP-1671-2 will be transported up to the primary entrance chamber through use of a lift operated by SCP-1671-2 pull teams. Carts of SCP-1671-1 material will then be unloaded into SCP-1671-A.
+
+Addendum-01: ██/██/2011 - Accidental physical contact with SCP-1671-2-232 by Agent ███████ resulted in SCP-1671-2-232 attacking Agent ███████ with its shovel, killing him through collapse of the skull. SCP-1671-2-232 did not show any hostility to other personnel present, and resumed mining immediately upon Agent ███████'s death. No other hostile behavior has been observed from any SCP-1671-2 specimens.
+
+Addendum-02: The following statement was made by SCP-1671-2-23 on ██/██/2011 at 0002. This is the only recorded instance of an SCP-1671-2 specimen speaking with Foundation personnel.
+
+Cease asking questions that cannot be answered. There is nothing to say. We work. We sleep. We work again. The toil repeats. It does not end. Put away your wandering eyes, or take up a pick into your uncallused hands.
+
+SCP-1671-2-23 did not respond to follow-up communication attempts.
+
+Addendum-03: ██/██/2013: SCP-1671-2-106 was killed by a cave-in on Level-5 at 1055. The nearest SCP-1671-2 specimen, SCP-1671-2-104, proceeded to consume SCP-1671-1 material until the rupturing of the stomach, resulting in the expulsion of a full-grown SCP-1671-2 specimen. Two other SCP-1671-2 specimens (SCP-1671-2-110 and SCP-1671-2-087) recovered the body of SCP-1671-2-106 from the rubble, and proceeded to gouge out the eyes. This was then followed by setting stones in the eye sockets, and the placement of a larger chunk of rock in the mouth.
+
+The body was carried to the primary chamber by SCP-1671-2-087, SCP-1671-2-104, SCP-1671-2-104-2, and SCP-1671-2-110, and was unloaded into SCP-1671-A. Upon this, SCP-1671-A dispensed a replacement set of equipment. SCP-1671-2-104-2 placed the iron collar around its own neck and resumed work. The event took thirty-two minutes from the death of SCP-1671-2-106 to the resumption of work.
+
+SCP-1671-2-104's abdominal damage healed within 24 hours.

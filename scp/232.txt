@@ -1,0 +1,215 @@
+SCP-232 without batteries installed
+
+Item #: SCP-232
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-232 is to be kept in a locked safe in the Cognitohazard wing of Site 73. When not in use for testing, its batteries are to be removed. When batteries are not installed, SCP-232 may be handled safely by any authorized staff member. The Foundation is to monitor online auction houses and dealers of vintage toys, and acquire any products of the same model as SCP-232 for testing and disposal. Any other instances of SCP-232 discovered are to be archived appropriately.
+
+When batteries are installed, personnel other than D-Class are not to handle SCP-232 for any period longer than necessary to install and remove batteries. Staff members who have been exposed to works in the Jack Proton franchise, in any format, are not to handle SCP-232 for any period of time while batteries are installed. D-Class carrying SCP-232 for testing purposes are to be monitored at all times and terminated if SCP-232-related behavior should pose a security risk.
+
+The copyright, publication, and merchandising rights of the Jack Proton novels and all spinoff media are to be held by Springfield Crown Publishing, a Foundation front company, for the purpose of keeping the works out of print, thereby preventing activation of anomalous properties in any SCP-232 instances that may exist outside containment. In the event of any public occurrences of SCP-232 behavior, the Foundation shall liaise with local law enforcement authorities to recover the artifact and issue Class-A amnesiacs to affected parties as appropriate.
+
+Description: SCP-232 is a children's toy of early 1950s manufacture, composed primarily of tin and a battery-powered electric light apparatus, with an exterior painted to resemble a laser gun of the type featured in popular science fiction of the early 20th century. A hinged section at the base of SCP-232's handle opens to accept two standard AA alkaline batteries. When batteries have been installed correctly and the trigger is pulled, a small red electric light in the barrel lights up. SCP-232's cognition-affecting properties become active whenever SCP-232 is picked up and held or carried by a human being while it has working batteries installed.
+
+Within 5-30 seconds of picking up SCP-232, the person handling it will begin speaking in English, regardless of any previous fluency with the language or lack thereof, in a manner resembling the speech patterns of pre-teen and/or adolescent American youth culture of the 1950s. Persons so affected will deny that anything is unusual about their manner of speech and will insist that they have always spoken thusly. This behavior continues until approximately 15-20 seconds after the test subject is induced to relinquish possession of SCP-232, after which speech patterns return to normal. In test subjects that have had no exposure to any works from the Jack Proton franchise, SCP-232's effects do not continue past this stage and the subject retains no memory of their behavior while under its influence.
+
+Patent information embossed on the handle of SCP-232, and historical analysis of non-anomalous artifacts identical in appearance, indicate that SCP-232 is a mass-produced "Atomic Zapper" toy, produced by the [REDACTED] corporation from 1953 to 1958 as a licensed merchandising tie-in to "Jack Proton - Space Cop", a series of young adult science fiction novels by American author M.K. Snyder. Approximately █████ units were manufactured and sold during the toy's production run, of which an unknown quantity remain in existence today. The Foundation has acquired 138 units since containment of SCP-232 began, all but three of which have shown no anomalous properties under testing. Thorough examination has indicated no discernable differences between anomalous and non-anomalous units.
+
+The Jack Proton series, consisting primarily of fifteen novels and several dozen short stories written between 1940 and Snyder's death in 1973, revolve around the eponymous Major John Patrick "Jack" Proton, an officer of the "Galactic Police Department" in a 27th century setting where the human race has colonized the entirety of the Earth's solar system. The setting is typical of early 20th century juvenile science fiction and relies heavily on soft sci-fi depictions of space travel common in literature of the time, including the existence of intelligent life on planets within the solar system, a breathable atmosphere on the Moon and other heavenly bodies, faster-than-light travel without relativistic complications, and sapient artificial intelligence in computers based on vacuum tube technology. The novels were additionally adapted into a nationally syndicated radio program from 1947-1952, a television series aired by the NBC network from 1953-1954, and a black-and-white movie released to theaters in 1956. The Jack Proton franchise bears no demonstrable anomalous properties itself, and may be read, viewed, or listened to safely provided that the person doing so does not come into contact with SCP-232.
+
+In subjects who have previously read, watched, or listened to any installments of the Jack Proton franchise, SCP-232's secondary effect begins to manifest after approximately 90-120 seconds of physical contact with the toy. During this stage, the test subject's memories and personality are radically altered, to the extent that the subject believes him/herself to be a resident of the fictional 27th century setting of the Jack Proton novels. Test subjects in this stage refuse to answer to their given names, and will, during interviews, describe life stories and career experiences of life in the 27th century which are internally consistent with themselves and with canonical details about the setting, often describing themselves as close associates of Jack Proton or other major characters featured in the franchise. Polygraph examinations given to test subjects in this state have consistently indicated that the test subjects believe these accounts to be true.
+
+In the third and final stage of SCP-232 exposure, occurring approximately 30-45 minutes after first contact, test subjects begin to experience severe sensory hallucinations, to the effect that they now perceive the world around them to be the fictional setting of the Jack Proton franchise. In this state, test subjects almost invariably believe that they are members of Jack Proton's "Junior Action Squad" and have been assigned a mission of utmost interplanetary security, which researchers and security personnel of the Foundation are involved in or are attempting to prevent them from completing. Though attempts to neutralize Foundation personnel with SCP-232 have invariably proven futile, test subjects have been noted to resort to physical violence on occasion.
+
+Persons afflicted by the later stages of SCP-232 exposure will resist any attempts to remove SCP-232 from their person, and, if separated from it, will attempt to recover it by any means available to them. Effects of the later stages of exposure wear off gradually over a period of approximately 3-6 hours after SCP-232 is removed from the subject's person; in approximately ██% of tests involving long-term exposure, test subjects have retained memories of their artificial persona after dissipation of the effect, resulting in cognitive dissonance and associated psychological impairments.
+
+SCP-232 came to the Foundation's attention on ██/██/████, following the arrest of Martin ██████, a retired steel worker living in [REDACTED], PA, for disorderly conduct following an affray at a shopping mall. ██████, who insisted on referring to himself as "Space Cadet Max Mars", was taken into custody after confronting several mall patrons and brandishing SCP-232, demanding to know the location of "the Phobos Ruby", an artifact the theft of which from the Martian Museum of History drives the plot of the novella Murder on the Io Express. During debriefing prior to amnesiac therapy, ██████ stated that he had owned one of the toys as a child and had been a fan of the series, and purchased SCP-232 from an online auction site for nostalgic value because he had "had so much fun playing cops & aliens with it" in his youth.
+
++ Show Interview logs
+
+- Hide interview logs
+
+All interviews conducted by Dr. J. Andrews. Test subjects had no exposure to the Jack Proton franchise prior to their acquisition by the Foundation. All interviews conducted three hours after initial exposure to SCP-232.
+
+Interview Log 232-1
+
+Test Subject: D-65203 (Caucasian male, 37 years old)
+
+Franchise exposure: Six Jack Proton novels (Jack Proton - Space Cop, Jack Proton Goes to Mars, Humans Must Die!, The Great Callisto Caper, War in Space, The Night The Lights Went Out in Ganymede)
+
+<Begin Log, ██/██/20██, 12:38 PM>
+
+Dr. Andrews: Good afternoon, D-65203. How are you today?
+
+D-65203: Excuse me, sir?
+
+Dr. Andrews: I'm sorry. What is your name?
+
+D-65203: Billy, sir. Billy McMercury.
+
+Dr. Andrews: You're speaking more politely than usual, Billy.
+
+D-65203: Gosh, sir! I wouldn't dare sass off to a real live scientist!
+
+Dr. Andrews: I see. How old are you, Billy?
+
+D-65203: Fourteen. But that doesn't mean I'm not a real space cop! See? Jack Proton gave me this official space deputy badge himself!
+
+D-65203 gestures to the D-Class identification badge pinned to his jumpsuit.
+
+Dr. Andrews: I see. Do you work for Jack Proton, then?
+
+D-65203: Golly, sir! I sure do! I'm part of his Junior Action Squad!
+
+Dr. Andrews: And what is it that you do for him?
+
+D-65203: I'm on a super-secret mission right now! I'm not sure I'm even supposed to tell you. I better check with him first. Is there a hyper-phone in the next room?
+
+Dr. Andrews: Where do you believe you are at this moment, Billy?
+
+D-65203 looks around the interview room, including out a window overlooking the Site 73 parking lot.
+
+D-65203: Gee, sir, I'm no architect. But judging from the view out the window, this has to be Space Station Delta!
+
+D-65203 points at a 1989 Buick Le Sabre, owned by Dr. Graham.
+
+D-65203: Say, is that Admiral Jove's flagship docked out there? Please say you'll let me get his autograph!
+
+Dr. Andrews: We'll see.
+
+<End Log, 12:41 PM>
+
+Interview Log 232-2
+
+Test Subject: D-11503 (Caucasian male, 47 years old)
+
+Franchise Exposure: Six episodes of The Jack Proton Hour radio program, encompassing the two-part stories Marooned on Mars, The Prince of Neptune, and A Pioneer's Homecoming.
+
+<Begin Log, ██/██/20██, 3:42 PM>
+
+Dr. Andrews: Good afternoon.
+
+D-11503 begins to speak in a monotone "robot voice" without natural inflection.
+
+D-11503: Greetings, humanoid.
+
+Dr. Andrews: Would you please identify yourself for the record?
+
+D-11503: I am D-Bot, unit model 11503 at your service.1
+
+Dr. Andrews: You're a robot, you say? You look very lifelike.
+
+D-11503: I was programmed to appease humanoid sensibilities.
+
+Dr. Andrews: And how old are you?
+
+D-11503: I was activated at the Advanced Robotics Facility in Old New Hampshire on Earth, on January 12th 2592.
+
+Dr. Andrews: What is your purpose?
+
+D-11503: I am a fully modular service robot. My purpose is to assist Major John Patrick Proton of the Galactic Police Department in the apprehension of dangerous criminals.
+
+Dr. Andrews: When you say you're fully modular, what does that entail?
+
+D-11503: My body has been designed to make use of a wide variety of customizable limbs. I may remove my factory-installed appendages at will and replace them with those designed for specific purposes.
+
+Dr. Andrews: Could you please demonstrate now by removing your left arm?
+
+D-11503: Affirmative.
+
+D-11503 grabs his left arm at the shoulder with his right hand and attempts, unsuccessfully, to remove it by unscrewing it from its socket.
+
+D-11503: I seem to be experiencing a malfunction. Please refer to my operating manual for information on how to resolve this difficulty.
+
+Dr. Andrews: Never mind, D-Bot. Are you capable of solving logic problems?
+
+D-11503: I am programmed to answer any and all queries directed to me.
+
+Dr. Andrews: A man has been sentenced to death. The morning of his execution, the executioner tells the condemned man he is to be either hanged or drowned, and tells the man to ask him one yes or no question, which he is compelled to answer truthfully. If the answer to the question is "yes", then the man will be hanged. If the answer is "no", then the man will be drowned. The man asks "Are you going to drown me?" Will the man be hanged, or will be he drowned?
+
+D-11503 is silent for 38 seconds.
+
+Dr. Andrews: D-Bot?
+
+D-11503: Error. Error.
+
+Dr. Andrews: I beg your pardon?
+
+D-11503: If answer = no then result = drowning. But no = incorrect if result = drowning. Therefore drowning = impossible, result = hanging. Hanging = impossible if answer = no. Error. Error. Does not compute. System overload! System overload! Consult operator's manual for…
+
+D-11503 slumps over and ceases responding to outside stimuli.
+
+<End Log, 3:49 PM>
+
+Interview Log 232-3
+
+Test Subject: D-67539 (Caucasian female, 26 years old)
+
+Franchise Exposure: One short story collection (Starship Days), one unauthorized fan-fiction short story (Major Sarah)
+
+Foreword: None of the official Jack Proton stories feature female characters as protagonists or action-oriented supporting characters. Prior to Interview 232-3, all experiments with female test subjects had resulted in the subject developing the personality of a damsel-in-distress or innocent-bystander persona. Major Sarah, an unauthorized piece of short fiction published in 1972 by the fanzine Junior Action Squad, which details the experience of the first woman to join the Galactic Police Department and her subsequent forbidden love affair with Jack Proton, was introduced in order to determine whether third-party fiction set in the Jack Proton universe would have an impact on the results of exposure.
+
+<Begin Log, ██/██/20██, 10:38 AM>
+
+Dr. Andrews: Good morning.
+
+D-67539: Sir! Good morning, sir!
+
+D-69539 rises to her feet and salutes. Dr. Andrews returns the salute.
+
+Dr. Andrews: As you were. Please state your name for the record.
+
+D-67539: Sir, Lieutenant First Class Samantha Marie van Saturnburgh, sir!
+
+Dr. Andrews: No need to be so formal, Lieutenant. Please relax.
+
+D-67539: Sir, I didn't get where I am today by relaxing, sir!
+
+Dr. Andrews: I'm not an officer. You don't need to call me sir.
+
+D-67539 pauses.
+
+D-67539: Sir, I… yes, sir. Yes.
+
+Dr. Andrews: You mentioned "getting where you are today". Where is that?
+
+D-67539: I'm currently the youngest officer in the Galactic Police Department.
+
+Dr. Andrews: How old are you?
+
+D-67539: Seventeen.
+
+Dr. Andrews: You were commissioned at seventeen?
+
+D-67539: Not bad for a girl, huh?
+
+Dr. Andrews: Why did they accept you so young?
+
+D-67539: Because I wasn't wasting my time wearing frilly dresses and playing with dolls, that's why!
+
+Dr. Andrews: You must have been very goal-oriented to make it so young. Why did you want to be a space cop so badly?
+
+D-67539: To work with Jack Proton, of course.
+
+Dr. Andrews: Why him, specifically?
+
+D-67539: Because he's the best there is! He's smart, and he's strong, and… can I tell you a secret?
+
+Dr. Andrews: Everything we discuss here is strictly confidential, Lieutenant.
+
+D-67539: Well… he's dreamy.
+
+Dr. Andrews: Dreamy?
+
+D-67539: Those beautiful blue eyes, that rock-solid jaw, those bulging biceps… can't you just imagine him holding your hand on the walk home, sharing a malt with you at the drug store, dancing close together at the spring formal?
+
+Dr. Andrews: I can't say it had occurred to me.
+
+D-67539: I just have to meet him. I'll introduce myself, and he'll be so impressed by how much I've accomplished, and we'll talk about work, and spaceball, and music… and maybe he'll ask if I'll go with him for dinner and a movie at the hover-in! Wouldn't that be a dream come true? I'll wear my hair down and put on my prettiest dress - I mean, I don't wear dresses like some little girl obsessed with princesses and space-ponies, but that doesn't mean I can't wear a dress for him, I bet he loves a girl who knows how to dress up…
+
+<End Log, ██/██/20██, 10:42 AM>
+
+Footnotes
+
+1. The radio program is the only version of the Jack Proton franchise to feature intelligent robots capable of speech. A robot sidekick originally planned for the television series was scrapped due to budget concerns. Novels published after the radio program was introduced acknowledged the existence of robots, but stated that the building of sapient robots had been restricted by the "Robotics Laws" instituted by the Space Congress, and none are ever directly introduced to the reader.

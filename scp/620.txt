@@ -1,0 +1,21 @@
+IMPORTANT NOTE: Looking at the above image for upwards of 10 minutes is not encouraged.
+
+Item #: SCP-620
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-620 is not considered a direct hazard, as such it is currently located in Site-██’s accounting department its containment procedures exist to create an environment where researchers can study its effects without being exposed to them.
+
+SCP-620 is to be mounted to a large two-way mirror separating an observation area from the testing area. It is to be attached to the mirror by suction cup mounts. In the event of suction cup failure, the testing area must be evacuated until SCP-620 can be remounted. Research personnel may remount the object, as brief exposure is not considered dangerous.
+
+SCP-620 is currently connected directly to Site-██’s power supply following Incident SCP-620-█. Any signs of wires needing repair must be reported to Site-██ maintenance staff immediately.
+
+Description: SCP-620 is an analog clock of unknown make and model. It bears no markings indicating a manufacturer or place of origin. Its face is styled after the yellow “smiley” face design.
+
+When SCP-620 is powered, all subjects observing its face experience perceived time acceleration. Constant observation is not required; occasional glances will induce the perceived acceleration as quickly as constant observation. Upon the conclusion of a testing session, test subjects were asked to gauge how much time they thought they had spent testing; all under-reported time spent testing by a factor proportional to time spent exposed to SCP-620. Subjects exposed to SCP-620 for under five (5) minutes were no less accurate at measuring time than a control group. However, as exposure length increases, inaccuracy rises proportionally. Most subjects experience its effects to be pleasurable, and as such SCP-620 has been mounted on the wall in Site-██’s accounting department to increase morale. As of Incident SCP-620-█, indiscriminate exposure to the object is no longer permitted, and the object has thus been relocated to a specialized research area.
+
+The perceived time acceleration only persists as long as the object remains functional. If SCP-620 loses power or its hands cease movement for any reason, all subjects exposed to it will experience time dilation in equal proportion to the time acceleration perceived when it is functional. All subjects, especially those previously perceiving time acceleration, find the time dilation uncomfortable, and after prolonged exposure it becomes unbearable for most test subjects. SCP-620 consumes battery charge at varying and unpredictable levels, causing it to lose power with little warning. As such, SCP-620 currently draws power directly from Site-██'s power supply.
+
+Prolonged exposure to the object in either state is unsafe. After twenty-four (24) continuous hours of exposure, subjects have, in the past, begun to reject food regardless of hunger, frequently stating that they “just ate”, regardless of how much actual time has passed since the subject has eaten. Subjects become overconfident in their recollection, claiming to remember things “as if they were yesterday” but with no measurable increase in recall. Subjects who become aware of how quickly they perceive time to be passing have become chronically depressed, believing their death to be imminent. Subjects exposed to a stopped face for prolonged periods quickly become extremely bored, often pleading with researchers through the mirror for the test to end.
+
+It is important to remember that SCP-620 has no effect whatsoever on the actual flow of time, as far as Foundation equipment can detect. The acceleration and dilation are completely psychosomatic. Subjects who do not know what an analog clock is or how to read one are unaffected by SCP-620.

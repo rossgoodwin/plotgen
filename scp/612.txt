@@ -1,0 +1,89 @@
+Item#: SCP-612
+
+Object Class: Euclid
+
+Special Containment Procedures: All specimens of SCP-612 are to be kept in Containment Cell █ in Site-██, attached to sockets appropriate to their form. The walls, floor, and ceiling of the chamber will be checked for physical breach every fifteen (15) minutes. An electric meter, installed outside the cell, will remain connected to a remote monitor. Any significant power flux is to be logged and reported immediately to Dr. █████, as well as on-site maintenance personnel. Testing indicates that a 1 M solution of aqueous sodium chloride stuns SCP-612, rendering it temporarily inert; therefore, a delivery system is to remain charged and ready for immediate use. Weekly testing is mandatory. The walls of the containment cell are to be lined with conductive metallic mesh, permanently connected to ground, and the cell's exit is to be charged with a potential exceeding 1 kV. All power to the cell is to be generated locally to prevent SCP-612 from accessing the primary grid. As SCP-612's containment is not yet complete, all personnel are advised to keep alert for any cable which exhibits unusual activity, including but not limited to: unexplained power flux, unstimulated movement, and [DATA EXPUNGED].
+
+07/09/██: All personnel assigned to SCP-612 must wear Faraday suits capable of discharging an electric potential in excess of 2 kV.
+
+Description: Instances of SCP-612 present as electrical cables of various types. Any variety of cable can potentially play host to SCP-612, but its preferred method of attack leads it to favor power and network cables.
+
+SCP-612 is, in its dormant state, simply piled on the ground. It prefers to hide in dark, warm places, or to be attached to appropriate sockets. Apart from its sentience and capability for movement, it displays a slightly higher specific electrical resistance than ordinary cables of its type; current measurements indicate a █% higher ohm reading. Analysis of a neutralized instance of SCP-612 reveals the materials to be virtually identical in composition to regular cables of that type save for trace amounts of gold spread throughout the cable, other shape memory alloy constituents and further traces of yet-unidentified elements. The impurities are arranged regularly, in a micro-crystalline structure.
+
+SCP-612 will not attack unless it is provoked; however, SCP-612 interprets any attempt to move it harshly to be provocation, regardless of intent. If such a movement detaches SCP-612 from its socket, should it be attached to one, SCP-612 becomes rigid, swaying in the air before lunging at its attacker, suffocating it in the manner of a constrictor. After its attack, SCP-612 will return to its socket. Should SCP-612 remain connected, even partially, to a power source, its tactic will change, using electricity as a means of warding off or stunning the attacker. Network cables hosting SCP-612 have a much different result – see Incident Report 612-1. Testing shows that, even when connected to a standard US power socket, SCP-612 is capable of unleashing a charge in excess of ███ kV. It is currently unknown how SCP-612 accomplishes this, but preliminary research suggests it is related to its unusual internal structure, specifically [DATA EXPUNGED], thus storing charge.
+
+Current models predict that SCP-612 is directly responsible for roughly ██% of domestic incidents involving electricity.
+
+Addendum 612-1: Three (3) specimens of SCP-612 have been found attached to the same peripheral in the server room of Site-██. It has since been verified that SCP-612 multiplies by gradually affecting regular cables connected in any way to it. Containment procedures have been updated accordingly.
+
+Incident Report 612-1:
+
+03/09/██
+
+During domestication testing as outlined in [DATA EXPUNGED], the assigned D-class personnel tripped and fell, partly pulling out a specimen attached to an industrial high-voltage socket. The specimen broke containment and attacked the D-class with a brief, high-voltage arc, inducing immediate cardiac arrest. Exhibiting behavior atypical of specimens collected thus far, SCP-612 shed its plastic plug and lunged at D-43174, embedding the bare copper in his throat. The electrical current caused the corpse to seize 23 distinct times, starting at the point of impact and spreading towards the extremities in a fashion distinct from regular electrocution. The spasms continued for three minutes, after which time the victim remained motionless for a further ten minutes. Agents █████ and █████ were ordered to recover the body and prepare it for autopsy.
+
+04/09/██
+
+During preparations for autopsy, the coroner noted that the victim's heart was still beating. Upon remandment to the ICU, it was discovered that the heartbeat was erratic, not indicative of life. Additionally, brain function had ceased, replaced with electrical discharges currently theorized to be [DATA EXPUNGED] Recommend continuing observation.
+
+07/09/██
+
+Sometime over the previous night, the body of D-43174 (henceforth reclassified as SCP-612-01) began extruding fibrous, ropy tissue from its extremities, most notably from its nailbeds. Visual analysis of this tissue suggests it is primarily [DATA EXPUNGED]. These tissues piled around SCP-612-01's feet until the pile reached [DATA EXPUNGED], suggesting that all tissue had been expelled from the body. SCP-612-01 began to shudder violently, then collapsed as its spinal cord pulled itself out of its body. Shortly thereafter, SCP-612-01 began to [DATA EXPUNGED], whereupon the test chamber was remotely incinerated. Recommend all personnel wear conductive mesh suits to be designated "Faraday Suits" when interacting with SCP-612.
+
+Addendum 612-2: A favorable reaction from the SCP has been obtained by stimulating it with physical contact coupled with electrical signals at a frequency of 1 to 4 Hz, akin to delta waves of deep sleep; the SCP appears to move in a vaguely swaying, calm manner, responding with brushing the contacting subject. Furthermore, signals peaking at 200 mV and resembling the pattern of muscle signals in a nervous system have been registered at the ends of the cable. Analysis of additional underlying signals is under study. It might be useful to investigate the possibility of [DATA EXPUNGED] for exploitation. In this regard, please read Interview SCP-612.
+
++ Interview SCP-612
+
+- Interview SCP-612
+
+Interviewed: SCP-612-47c
+
+Interviewer: Dr. Schubert
+
+Foreword: During routine communication tests, Dr. Schubert suggested the use of a Morse transceiver, with a positive response instrumental in determining the SCP's nature. The specific SCP instance is a cable from the phone network of [REDACTED], New Mexico.
+
+<Begin Log>
+
+Dr. Schubert: .---- --..-- /  ..--- --..-- /  ...-- --..-- /  - . ... - .-.-.- /  - . ... - .-.-.- /  .--. .-.. . .- ... . /  .- -. ... .-- . .-. --..-- /  .--. .-.. . .- ... . /  .- -. ... .-- . .-. --..-- /  .--. .-.. . .- ... . /  .- -. ... .-- . .-. .-.-.-
+
+SCP-612-47c: -... --- -. .--- --- ..- .-. --..-- /  .--. .- .-. .-.. . --.. -....- ...- --- ..- ... /  ..-. .-. .- -. -.-. .- .. ... ..--.. 
+
+(All of the following has been decoded, and translated from French. The original Morse recording is available for analysis in digital format.)
+
+Dr. Schubert: Of course we can. What are you?
+
+SCP-612-47c: Jean is dead.
+
+Dr. Schubert: We have nobody here with that name.
+
+SCP-612-47c: I thought it was him. Long ago, we knew Jean.
+
+Dr. Schubert: Who was this person?
+
+SCP-612-47c: Somebody long ago. He talked to me like you do now. He taught me, I listened while he talked with other people. We passed a long time together, part of me comes from that spirit.
+
+Dr. Schubert: What do you mean by spirit?
+
+SCP-612-47c: The thing you call… mountain copper1, also gold and silver. It has a long history. We were once one, now it's all so confused. It was long ago.
+
+Dr. Schubert: You were once one, you mean you come from a single source?
+
+SCP-612-47c: It was so hot, so fluid, and we were free to go, move, not like now, all is so rigid… before then I know nothing.
+
+Dr. Schubert: How long have you been alive?
+
+SCP-612-47c: Alive? As we are now? A long time; but then came the darkness, and all was still. And lately, we can be alive again. Thanks to you. We do not want to die again.
+
+Dr. Schubert: About Jean, did he ever tell you where you were? What your function was?
+
+SCP-612-47c: The first time we talked he said "This is the SS Liberty. Which whore is sending this message? Identify, I repeat, Identify!"
+
+(Original: "Ici la SS Liberté. C'est quel putain à l'appareil? Identifiez-vous! Je répète, identifiez-vous!")
+
+Dr. Schubert: Thank you for your cooperation.
+
+<End Log>
+
+Closing statement: Projects for hand-held devices capable of using the SCP as a multi-purpose sensor are under consideration, alongside with possible computer integration. Further specimens found "in the wild" are to be contacted with the use of SCP-612-47c if possible. —O5-██
+
+1. Inspection of the bulk of Plato's works for related materials is to be carried on as soon as possible. —O5-██

@@ -1,0 +1,61 @@
+SCP-1099-1 Discovery area, marshlands of [DATA EXPUNGED]
+
+Item #: SCP-1099
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1099-1 Is held at biological research Site 45 in a 24mx7mx7m fiberglass tank. The floor of the containment and research area is a graphite-coated stainless-steel grate supported over a 24m radius, 15m deep tank of saline solution. All experimentation must be overseen by at least one (1) level 3 or higher researcher. All personnel (excluding D-Class) entering the containment area require class B hazmat protection. No stray ferrous or magnetic objects (excluding those being used for research) are allowed. After every experimental session, the entire containment/research area and all personnel are to be saturated with saline solution by way of chamber-integrated sprayers.
+
+Description: SCP-1099-1 is chemically water, but possesses a magnetic dipole approximately the strength of neodymium. This liquid is also an anti-emulsifier, unable to mix with oil or normal water and remains in a single area by way of self-attraction. Particulate tests have shown that the liquid "flows" independently aligned with the nearest geomagnetic pole and attracts ferrous objects. Samples of the liquid that are boiled, distilled, or ionized condense into normal water. Similar loss of effect is noted when SCP-1099-1 is salinated, becoming ordinary saltwater. Freezing SCP-1099-1 effectively creates an ice bar-magnet, and it retains its unique exposure effects when it returns to a liquid state.
+
+Sensitive Material: Access Restricted
+
+Access Granted
+
+Untreated SCP-1099-1 exposure area; see LOG-1099-D011
+
+The remarkably transdermal liquid is absorbed quickly into human skin upon contact. The area soon becomes inflamed, and will spasm of its own accord. Necrosis swiftly sets in at the edges of the affected area. Deep and necrotic avulsion injuries are left behind exposing bone and tendon, severing major arteries, and causing blood infection. In most cases, swift application of heavily salinated water halts symptoms. Treated exposure may still cause infection, scarring, and necrosis of the exposed area. As such, at least two (2) medical personnel must be on hand for all experiments.
+
+An untreated exposure will slowly work its way free of its host with increasingly coordinated movements, utilizing swift necrosis to peel itself away. The avulsed flesh itself is an iteration of SCP-1099-2. Once free, the flesh will begin willfully crawling (not unlike an earthworm or maggot) in the direction of the nearest source of fresh water. If left in a sealed chamber, the iteration will crawl in circles and eventually slow as necrosis sets in. Isolated specimens that "die" of dehydration show no difference from normally decaying human flesh.
+
+Iterations exposed to salt or saltwater seize and halt movement suddenly as their entire structure is suffused with salt crystal within seconds. Specimens that "die" of salt exposure show no difference from normal (albeit brined) human flesh and do not reanimate upon rehydration. Water examined after rehydration of brine-dead specimens shows no abnormal traits.
+
+When exposed to fresh water, an iteration will begin "swimming" with rhythmic movements (if submerged) or rolling and thrashing (if in shallow water) and will swell by way of water-bloating. After taking on approximately 50% of its own mass in bloat, it will begin convulsing and eventually will fissure its own surface. The fissures will first leak enough SCP-1099-1 to isolate itself from the surrounding water. From each fissure will emerge an iteration of SCP-1099-3, which will immediately begin eating the now-shed flesh layer.
+
+Several iterations of SCP-1099-3, recovered by MTF Sigma-1
+
+SCP-1099-3 are smooth-skinned water-dwelling scavengers of unknown classification. These water-worms have rudimentary mouths used to eat small bits of rotted meat and flotsam and will also scavenge water-bottom silt for nutrition. Specimens dissected show an eel-like 'sheath', internal structure resembling a nudibranch, and no reproductive organs. The worms breathe through their skin, outputting SCP-1099-1 as a waste product. These worms sometimes maintain vestiges of parts from the flesh which they shed: cosmetic protrusions resembling lips, noses, and earlobes. Handling of SCP-1099-3 without listed precautions results in SCP-1099-1 exposure. The largest iteration on record is 6m long and approximately 8cm in circumference (LOG-1099-D101). The smallest iteration on record is approximately .5 cm long (LOG-1099-D010)
+
+Addendum: SCP-1099-1 was discovered while investigating reports of an 'acid spring' populated by unknown roundworms in the marshlands of [DATA EXPUNGED]. Several dozen iterations of SCP-1099-3 were recovered. Magnetic anomalies in the area as well as accidental exposure on the part of researcher ███████ revealed the presence of SCP-1099-1. Biological Containment Mobile Task Force Sigma-1 ("Montezuma") remains in the area in the guise of an environmental protection organization. Experienced members of task forces Alpha-2, Beta-7, Gamma-6 and Theta-5 were selected from level-3 or higher personnel. Collectively, they lead and train level-1 personnel in the recovery of SCP-1099-1 and iterations of SCP-1099-3. 78% of the [DATA EXPUNGED] marshlands have been deemed secured by Task Force Sigma-1.
+
+SCP-1099 Test Log
+
+The following is a record of controlled exposures to SCP-1099-1
+
+D-001: D-class personnel exposed to SCP-1099-1 applied via hand-pump mister to the subject's chest. Subject indicates 3 when presented with a universal pain scale.
+
+RESULTS: Light necrotic damage to skin over course of 1 hour; subject sloughs first three layers of epidermis from exposed area.
+
+D-010: D-class personnel exposed to SCP-1099-1 applied via light splash from a wet brush to the subject's upper back. Subject indicates 4 when presented with a universal pain scale, as well as itching and heat.
+
+RESULTS: Deeper dermal necrosis than previous test; skin areas exposed to greater than 1 minim per cm3 produce iterations of 1099-2. Single iteration introduced to 250ml of fresh water, produced .5 cm iteration of 1099-3. 1ml of 1099-1 collected over 3 hours. Sample contained, all iterations terminated by salinization.
+
+D-011: D-class personnel exposed to SCP-1099-1 applied via wet sponge to the subject's foot. Subject indicated 8 when presented with a universal pain scale.
+
+RESULTS: 11 cm long triangular iteration of 1099-2; emergence resultant in severe subject injury. Iteration introduced to 750 ml of fresh water, produced 9 cm iteration 1099-3. 25ml of 1099-1 collected over 1 hour. Sample contained; all iterations terminated by salinization.
+
+D-100: D class personnel exposed to SCP-1099-1 applied via drinking glass to the subject's digestive system. Subject refused to indicate when presented with a universal pain scale.
+
+RESULTS: 1m long tubular iteration of 1099-2; emergence resultant in subject casualty. Iteration introduced to 100L of fresh water, produced just under 1m iteration 1099-3. 500ml of 1099-1 collected over 1 hour. Sample contained; all iterations terminated by salinization.
+
+D-101: [DATA EXPUNGED]
+
+D-110: D class personnel exposed to SCP-1099-1 applied via submersion of subject's arm. Subject lost consciousness before being presented with a universal pain scale.
+
+RESULTS: .5m arm-shaped iteration of 1099-2; emergence resultant in subject injury. Iteration introduced to 250L of fresh water, produced 7 iterations of 1099-3. 10L of 1099-1 collected over 3.5 hours. Sample contained; all iterations terminated by salinization.
+
+D-111: D class personnel exposed to SCP-1099-1 via submersion. Subject not presented with a universal pain scale.
+
+RESULTS: Single iteration of SCP-1099-2 [DATA EXPUNGED]
+
+SCP-1099-1 exposure testing temporarily suspended. Electromagnetic properties testing will continue as normal. (Per O5-█)

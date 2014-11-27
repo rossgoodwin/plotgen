@@ -1,0 +1,19 @@
+Item #: SCP-234
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-234 is studied at Containment Area 06-234, which encompasses the 300 meter radius Red Zone of SCP-234. The main laboratory building within the Red Zone is built as an "open-air" structure, with no doors or closed windows. No closed containers or spaces of any kind are allowed within the Red Zone of SCP-234. Any space which inadvertently becomes closed within the Red Zone is to be declared a Class II dimensional/implosion hazard and must be remotely destroyed on-site following mandatory evacuation of the laboratory area. Personnel trapped within a closed space are to be considered lost.
+
+Experimentation with SCP-234 may only be performed with express, prior permission from at least two (2) Level 4 Personnel. Experimentation which introduces closed spaces into the Red Zone of SCP-234 may not exceed 1 L in volume, and must be treated as a Class III dimensional/implosion hazard.
+
+Description: SCP-234 is a species of organism of presumed extradimensional origin resembling fish measuring approximately 25 mm in length. SCP-234 does not appear to have any eyes or light-sensitive organs, but navigates via a highly evolved sense of echolocation. It maintains buoyancy via a gas-filled organ similar to a swim bladder which allows it to float in air, and exhibits behavior consistent with an omnivorous scavenger organism, though to date it has not been observed consuming any terrestrial organic matter.
+
+SCP-234 appears to only be able to exist within a closed, air-filled space, and will spontaneously come into existence whenever such a closed space exists or is brought within the Red Zone, an area of approximately 300 meter radius in a remote area in the mountains near [REDACTED]. When an SCP-234 specimen is startled, killed, brought out of the Red Zone, or the closed space containing the specimen is breached, all matter (including air) within the closed space is immediately extradimensionally evacuated with sufficient force to cause a catastrophic implosion within the surrounding area.
+
+SCP-234 was discovered following a series of incident reports and disappearances of back-country hikers near [REDACTED]. A Foundation survey team sent to the area inadvertently created a closed space with a standard adverse-weather camping tent, whose subsequent implosion resulted in the disappearance of one (1) research personnel and severe injuries to an additional two (2) agents.
+
+Research is ongoing into how SCP-234 is capable of extradimensional movement. Experimentation is hampered by the inability to study SCP-234 outside of closed spaces, and attempts to trace evacuated objects via the use of tracking devices has yielded no results; to date, objects evacuated by specimens of SCP-234 have never been found again.
+
+Addendum 234-01: Incident Log 234-031
+
+On ██/█/██, Dr. ███████ accidentally introduced a closed space into the Red Zone of SCP-234 in the form of a sealed coffee thermos. Upon opening the container, the resulting implosion startled four (4) additional SCP-234 instances within the testing area, causing a chain reaction that inflicted severe damage to the laboratory as well as causing injuries to six (6) research personnel. Post-incident photographs of the remains of Dr. ███████ are kept on file as a warning to research personnel assigned to SCP-234 as to the consequences of carelessness during experimentation.

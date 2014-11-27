@@ -1,0 +1,71 @@
+Item #: SCP-1924
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1924 is to be kept in a specialized 10m x 10m x 4m humanoid containment cell at Site ██, AZ. The cell is to be suspended in the center of a 50m x 50m x 50m enclosure. SCP-1924 requires no food, water, nourishment, or rest. The cell is to be furnished as a facsimile of a typical corporate office. Maintenance personnel are to wear clothing and badges consistent with Lockheed-Martin custodial staff. At least one person is to be on hand at all times acting as SCP-1924's corporate manager. SCP-1924 is to be given a standard computer workstation and tasked with a pre-written regimen of phony administrative work. Tasking must be collected and new tasks reassigned every two hours. Tasking may be reused after a forty-eight (48) hour period.
+
+Description: SCP-1924 is a 37 year-old Caucasian male humanoid, formerly theoretical physicist Dr. G█████ F██████ working at Lockheed-Martin's █████ ████ Research Facility. SCP-1924 randomly undergoes minor spacial distortion events including short-range teleportation of its body or individual limbs, restructuring of its anatomy, and partial to complete intangibility. SCP-1924 exhibits extreme cognitive dysfunction; it does not demonstrate understanding that it is contained nor does it notice anything unusual during spatial distortions. Additionally, it suffers from extreme anterograde amnesia, being unable to recall most events beyond a two-hour time frame. Despite numerous containment breaches, SCP-1924 has never broken containment for more than 23 consecutive minutes and has returned to its cell willingly after each breach.
+
+Document 1924-5: Partial Incident Log
+
+Date:
+
+#:
+
+Description:
+
+Notes:
+
+19/11/199█
+
+05
+
+SCP-1924 was in its cell reading a magazine. With no warning, its arm detached from its body, flew twenty-two (22) meters away from its cell, passing through several walls, and then stopped, hovering in the middle of a research laboratory. The arm continued to pantomime the actions of holding a magazine and turning pages. SCP-1924 continued to read the magazine in its cell. The arm flew back and reattached itself after SCP-1924 finished the magazine and stood up.
+
+SCP-1924 is not injured during anatomical separation. Its internal muscles, bone, and tissue were visible through the incident opening, though no blood was lost. The arm continued to display evidence of blood circulation and central nervous connectivity.
+
+10/11/199█
+
+23
+
+SCP-1924 was found twelve (12) meters away from its cell in a hallway, jogging in place. SCP-1924's legs were physically moving appropriate to forward motion jogging, but was gaining no ground. Guards physically lifted and returned SCP-1924 to cell, all while it still pantomimed jogging. SCP-1924 smiled and repeated the words, "Good evening, gentlemen" every 5.4 seconds while in the presence of the guards.
+
+SCP-1924 teleportation events have never been more than 30m. Recommend suspending cell in 50m x 50m x 50m enclosure.
+
+12/05/200█
+
+37
+
+SCP-1924 left the cell, pantomiming opening a door. Cell door did not open, but SCP-1924 walked through solid door. SCP-1924 then proceeded to walk through three walls, down several hallways, and access the Site ██ break room. SCP-1924 removed a half-empty gallon of milk from the refrigerator, then returned to its cell. SCP-1924 did not consume the milk.
+
+SCP-1924's anomalous behavior manifests most when it is active. Recommending long-term sedation.
+
+14/11/200█
+
+71
+
+SCP-1924 disappeared from cell during REM period. A maintenance worker found SCP-1924 in the corner of a Site ██ conference room, upside down with its head sunken into the floor. Its body was suspended in the air, with its arms and legs flailing wildly in an erratic, elastic fashion. While Foundation personnel were deciding what to do, SCP-1924 stood up normally, smiled, and asked if there was a problem. It then returned to its cell upon request.
+
+It is theorized that SCP-1924's mental activity also contributes to triggering anomalous behavior. Recommending lobotomy or possibly a method to keep it continuously mentally subdued.
+
+16/11/200█
+
+73
+
+SCP-1924 altered anatomically: its head was replaced with another leg, with the bottom of the foot attached to the neck. SCP-1924 then jumped straight up in the air 0.31 meters, its new leg perfectly mimicking its existing left leg. SCP-1924 proceeded to jump for 65,535 total times, each time rising exactly 0.31 meters. SCP-1924 intangibly jumped through the ceiling of its containment cell and the roof of Site ██. After the final jump, SCP-1924 immediately appeared back in its cell, anatomically correct.
+
+65,535 is the highest number which can be represented by an unsigned 16 bit binary integer.
+
+Document 1924-7: Personal Note
+
+Document 1924-7 was recovered from the personal e-mail of Dr. G█████ F██████
+
+J█████,
+
+Sorry for not writing back sooner but congratulations again! That picture of the ultrasound is adorable… he looks like a little Han Solo frozen in carbonite!
+
+As for me, yes, I'm fine, this whole project has me fascinated more than ever with my work. I've always enjoyed my job, but I used to see going to the lab as more of a 9-5 to pay the bills than "my life's work" or anything special… but this is all really coming together, and I've immersed myself, and I love it. I'm excited for the first time in a long while! We think we've finally got the hard value for the information density of two-dimensional space… and, yeah, I know that doesn't mean anything to you, but if this all works out… lets just say we should be able to actually read the fabric of reality like a book or the code of a computer program. Okay. Sorry, that probably doesn't mean anything to you either. Point is, there might be a big leap forward in physics soon, and my name is going to be all over it. Hell, if we're right… well… holy shit… you might get Stephen Hawking as the Godfather after all!
+
+Anyways, good luck again with everything. I can't wait to see your new place over Christmas.
+
+G█████

@@ -1,0 +1,53 @@
+Item #: SCP-2655
+
+Object Class: Neutralized Euclid
+
+Special Containment Procedures: SCP-2655 is to be kept in a 0.5 x 0.7 x 0.5 m glass tank, and should be fed a steady diet of small beetles and flies. A pool of water on the left side of the tank should be replaced on a bi-weekly basis.
+
+As of 9/23/13, SCP-2655 is to be housed in a standard 3 x 3 x 2 m cell, modified with lead paneling. Personnel are not to enter SCP-2655's room without a lead-lined suit.
+
+Description: SCP-2655 is a small frog of the Pseudacris crucifer species, commonly known as the spring peeper. The organism is 26 mm long, and is mostly tan in color, with olive and brown markings on its front legs. It is biologically identical to any other member of its species, save for a numeral 3 written on its back in an unknown ink, and a bio-luminescent effect during a set of time the frog perceives to be night. The bio-luminescent effect has proven to be slightly radioactive. At the time of SCP-2655's recovery, the radioactivity measured a negligible 0.03 Ci. This number has increased by 5.1% every six days after the initial observation. It is hypothesized that this effect has been present since birth, as no markings or defects to indicate a surgical procedure or experimentation are present.
+
+As of 9/23/13, SCP-2655 has been neutralized. It was pronounced dead at 5:17 PM, of natural causes associated with old age. The radiation appeared to have no effect on the host frog.
+
+SCP-2655 was recovered on 7/14/13, after news of a glowing frog reached a staff agent in a suburb outside ███████████, California. Following an interview with the family, SCP-2655 was placed in custody.
+
+The frog's owner, a nine-year-old male named Jack ███████, reported in an interview that he had discovered the frog a year prior, in its current state.
+
+Following events on 9/23/13 (see Addendum 2655-I), the designation of SCP-2655 has been reassigned to the frog's previous owner, Jack. He has the numeral 4 written on his back in the same unknown ink, and glows at night in a manner similar to the original SCP-2655. Unlike the original, the new SCP-2655's radiation emissions are significant, beginning at 2 Ci and increasing by 7.3% every six days.
+
+Note: SCP-2655-A
+
+Note A
+
+I don't think people realize how dangerous this is. We lost a lot of good men on 9/23/13. And this is an exponential rate of increase. A small one, but exponential is exponential and it's only a matter of time before the lead cell we've got him in won't be good enough.
+
+I'm requesting a class upgrade. It'll probably be turned down, because he's not exactly a threat to anyone, but at least it'll draw attention to this. Safe-level isn't enough. I don't want to be the one who had to shoot a kid in the face because we ran out of funding.
+
+Euclid-level SCPs get almost three times the money that Safes do. Considering all the equipment we're going to need to not die as soon as we go into that cell in a year or two, we can't operate on this little.
+
+-Dr. Kolibri
+
+As of 9/30/14, following a repeat of events detailed in Addendum 2655-I, Researcher ████ is to be referred to as SCP-2655. She exhibits similar properties to the previous incarnations of SCP-2655, and differs only in an increase in the number on her back (to "5") and an increase in emitted radiation, beginning at 7 Ci and increasing by 9% every five days.
+
+Researcher ████ was present during the 9/30/14 events for a total of six minutes. Prior to this, she had been tasked with feeding the second incarnation of SCP-2655. Total exposure to the second incarnation of SCP-2655 is estimated at twenty-seven minutes.
+
+Addendum 2655-I
+
+2655-I
+
+The following is a log of events regarding the death of the original incarnation of SCP-2655.
+
+8:17 PM: SCP-2655 has been deceased for exactly three hours. Radiation emissions increase from 0.05 Ci to 10 Ci.
+
+8:20 PM: Site Security B1 arrives on scene. Lead-lined suits are distributed to all six personnel.
+
+8:21 PM: The corpse of SCP-2655 disappears from its tank. Site Security B2 is dispatched to locate it. B1 is instructed to remain by the tank and provide updates on any changes.
+
+8:27 PM: SCP-2655 is found inside Jack ███████'s pants pocket by Site Security B2, in the cafeteria of Site 22. Jack was aware of the frog appearing on his person, and handled it for approximately ten seconds prior to B2's arrival.
+
+8:28 PM: Jack ███████ begins to exhibit symptoms of an epileptic seizure. This is accompanied by 1.2 second pulses of 43 Ci gamma radiation.
+
+8:29 PM: Jack ███████ is sedated. Pulses stop. Fifteen bystanders are treated for severe radiation poisoning, resulting in six deaths.
+
+8:47 PM: SCP-2655's Neutralized status is revoked, and containment is reaffirmed. Jack ███████ is moved to a lead cell for the foreseeable future.

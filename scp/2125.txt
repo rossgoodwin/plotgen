@@ -1,0 +1,63 @@
+Exterior of SCP-2125-A.
+
+Item #: SCP-2125
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2125-A is to be guarded by on-site security personnel. No individuals may be permitted to enter without Level 3 clearance or above. In the event that any individual enters SCP-2125-A without the proper authorization, the individual must be contained, administered a Class B amnestic, and turned over to the Avoca Police Department.
+
+Under no circumstances are any personnel to be within the basement of SCP-2125-A during a Beta Event. Under no circumstances are any personnel to cross the threshold of SCP-2125-D.
+
+Description: SCP-2125 is the group designation for a phenomenon located in Avoca, Indiana.
+
+SCP-2125-A is an apartment building, formerly "Park West Apartments", and contains 3 floors, 125 rooms, and a basement level1. Within the center of SCP-2125-A is a courtyard of overgrown plant life. There are 45 rooms on the first level, 45 rooms on the second, and 35 on the third floor. The interiors of each room are identical: concrete floors, a single twin bed composed of a bedframe, a mattress with grey linens, and a single pillow, and a wall clock. If any of the materials in the room are disturbed, they will revert to their original positions after the next 2125-Alpha/Beta Event.
+
+SCP-2125-B are 125 small humanoid entities, approximately 70cm in height, which exist within SCP-2125-A. Each entity wears identical grey robes which cover the entire body, and a grey hood which obscures the face. Individuals who attempt to disturb the coverings of SCP-2125-B will disappear for a period of roughly 10 seconds, before reappearing outside the main entrance of SCP-2125-A. SCP-2125-B entities do not speak or consume food, and spend the hours of 0100-0000 laying face up on the bed in one of the rooms within SCP-2125-A.
+
+SCP-2125-B.
+
+SCP-2125-C is an opening in the ceiling of SCP-2125-A on the northeast corner of the third floor, an area that appears to have once been ten separate rooms, but has had its walls and furnishings removed. This opening is usually covered by a stone slab, and attempts to remove or destroy this slab outside of a 2125-Alpha/Beta Event have been unsuccessful. Attempts to observe the space above SCP-2125-C during an Alpha/Beta Event have been unsuccessful. The muffled sounds of some kind of surgical setting can be heard through the opening during Beta events.
+
+SCP-2125-D is a door located in the southwest corner of the basement within SCP-2125-A. Like SCP-2125-C, it is impossible to open outside of a 2125-Beta Event, however, observation of the space beyond SCP-2125-D is possible during a Beta Event. Beyond SCP-2125-D is a winding staircase that extends an unknown distance below SCP-2125-A. Individuals who cross the threshold of SCP-2125-D do not respond to any form of communication, and will proceed down the stairwell until out of sight. On the wall to the right side of SCP-2125-D is a small bronze plaque, which reads:
+
+Just because you didn't make it then
+
+Doesn't mean you won't make it now
+
+Things will be better this time
+
+I believe in you
+
+Once nightly, during the hours of 0000-0100 local time, a 2125-Alpha or 2125-Beta Event occurs. All Alpha/Beta Events follow a similar pattern:
+
+0000-0005: All instances of SCP-2125-B get up from their beds in unison, and proceed towards SCP-2125-C.
+
+0006-0015: Once all instances of SCP-2125-B have gathered beneath SCP-2125-C, SCP-2125-C will open. Observers of SCP-2125-C have described the interior as being shrouded in "fog-like" haze, which dissipates as it enters SCP-2125-A. For roughly ten minutes, all instances of SCP-2125-B will stare at SCP-2125-C. At the end of this period, one of two scenarios will take place.
+
+No new instances of SCP-2125-B emerge from within SCP-2125-C. This is considered an Alpha Event. Afterwards, all instances of SCP-2125-B return to their beds.
+
+At least one or more instances of SCP-2125-B drop from SCP-2125-C. This is considered a Beta Event. Afterwards, instances of SCP-2125-B proceed towards SCP-2125-D.
+
+0016-0040: All instances of SCP-2125-B move slowly towards SCP-2125-D. Upon reaching the basement level, all instances gather around SCP-2125-D. At the end of this period, SCP-2125-D opens2.
+
+0041-0055: A number of instances of SCP-2125-B matching the number of instances that appeared through SCP-2125-C approach SCP-2125-D and descend, one by one.
+
+0056-0100: All instances of SCP-2125-B return to their rooms.
+
+Incident Report: On 08/13/1983, during initial testing and observation of SCP-2125, a team of Foundation personnel were present within the basement of SCP-2125-A during a Beta Event. The team had previously observed 4 new instances of SCP-2125-B dropping through SCP-2125-C, and were anticipating 4 instances entering SCP-2125-D. The team was given the command to try and gain visual observation within SCP-2125-D, and in the process of attempting to do so, Agent Laurenzana crossed the threshold of SCP-2125-D. Laurenzana then became uncommunicative, and descended the stairs beyond SCP-2125-D. This occurred before the fourth instance of SCP-2125-B had entered SCP-2125-D. Regardless, SCP-2125-D closed after Agent Laurenzana's passing, leaving one instance of SCP-2125-B.
+
+It was observed that the instance of SCP-2125-B left behind did not return to a room at the conclusion of the Beta Event. Instead, the entity moved to the courtyard, where it stood motionless until sunrise. At approximately 0735 hours, the instance of SCP-2125-B disappeared suddenly, leaving behind a handwritten note, which read:
+
+I'm sorry it didn't work out this time
+
+Don't be sad
+
+I'll take care of you for a while
+
+We can try again later
+
+Footnotes
+
+1. The stonework above the main entrance of SCP-2125-A contains an inscription that appears to have been scratched in, reading "A Second Chance"
+
+2. Sounds similar to those detected when SCP-2125-C opens can be heard, although the sounds appear noticeably more frantic.

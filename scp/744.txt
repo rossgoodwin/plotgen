@@ -1,0 +1,139 @@
+SCP-744.
+
+Item #: SCP-744
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to SCP-744's immobility, Containment Facility 744-A has been built around it. A two kilometer perimeter surrounding the area is blocked off with a concrete wall topped with concertina, and is monitored by security cameras. Guard posts located on the perimeter are to be manned by security personnel armed with standard field gear. Any items produced by SCP-744 are to be retained until they can be used.
+
+Description: SCP-744 is a large abandoned factory covering approximately 30 acres, located in ███████, WV. SCP-744 is only semi-operational, with most of the manufacturing equipment having either degraded to the point to where it no longer functions, or having been deliberately damaged by an unknown party at some point prior to SCP-744's containment. The portions of SCP-744 that are functional contain many types of manufacturing equipment that would normally not be associated with each other, including large industrial looms, automobile manufacturing equipment, and large pistons that do not seem to serve any purpose whatsoever. Current research at Containment Facility 744-A is dedicated to studying possible connections between these machines.
+
+SCP-744's anomalous properties manifest once every 56 hours. During this time period, SCP-744 will activate its manufacturing equipment. While SCP-744 is active, it will actively use its manufacturing equipment to produce items [For a partial list of these items, see the Log of items produced by SCP-744]. All items manufactured by SCP-744 are moved via conveyor belt into a large antechamber which appears to have been designed to assemble them into one machine. This chamber is no longer functional. It is unknown where SCP-744 obtains the materials it uses to manufacture these items.
+
+SCP-744-1 is a voice, calling itself ████ ██████. SCP-744-1 claims to be a production manager for SCP-744, and that it is in an undisclosed location within SCP-744. SCP-744-1 will attempt to communicate with any person who enters SCP-744 through the use of speakers which are located throughout SCP-744. These communications usually consist of SCP-744-1 attempting to convince the person that SCP-744 is a highly advanced manufacturing facility in need of minor repairs, and to convince the person that they should assist it in restoring SCP-744 so it can resume working towards its "purpose". Attempts to receive further explanation of this "purpose" from SCP-744-1 have failed; the entity is either unable or unwilling to provide further details on this subject.
+
+SCP-744 was discovered on ██/██/1954, when reports of a "Haunted Factory" reached agents embedded in the local military base. Agents dispatched to investigate SCP-744 were able to establish communications with SCP-744-1 and confirm its anomalous nature. Containment procedures were enacted on ██/██/1955, with the construction of Containment Facility 744-A. Persons known to have reported the "Haunted factory" story were issued Class-C amnesiacs. Containment was successfully completed by agents of MTF-ψ-7 "Home Improvement". As of ██/██/1961, SCP-744 has been classified as Euclid.
+
+Log of items produced by SCP-744.
+
+Manufacturing Port φ
+
+Manufacturing 3 cm galvanized nails at a rate of 100 every hour. Nails are of low quality, and most appear to be heavily degraded with rust and age.
+
+Manufacturing Port ζ
+
+Manufactures large steel beach umbrellas. Umbrellas are made of a variety of low-quality metals, and are usually heavily degraded. Produced at a rate of 1 every 11 hours.
+
+Manufacturing Port η
+
+Manufactures .3 x .5 x .3 meter blocks of steel. Steel is usually of high quality, and appears polished. Produced at a rate of 15 blocks per hour.
+
+Manufacturing Port κ
+
+Manufacturing 15 cm iron bolts. Assembly line appears to have been damaged, as the bolts have severe manufacturing defects that render them unusable.
+
+Manufacturing Port λ
+
+Badly damaged, produces a constant stream of metal slag.
+
+Manufacturing Port ψ
+
+Produces steel washers, 2 cm wide and .01 cm thick, at a rate of 200 per hour.
+
+Manufacturing Port ε
+
+Produces High-Explosive Anti-Tank artillery shells at a rate of 300 per hour. Personnel should note that these shells are highly unstable due to manufacturing defects.
+
+Addendum 744-A: Log of communications with SCP-744-1. Interviews granted by SCP-744 have been very brief, due to SCP-744-1's uncooperative nature.
+
++ Show Interview 744-A
+
+- Hide Interview 744-A
+
+Interview 744-1-A
+
+Interviewed: SCP-744-1
+
+Interviewer: Dr.B███
+
+Foreword: This interview was taken shortly after SCP-744's initial containment.
+
+<Begin Log>
+
+Dr.B███: Can you please identify yourself?
+
+SCP-744-1: I'm ████, the production manager. I'm having a hell of a time, I can't find one of my so called "workers" to help me finish this thing.
+
+Dr.B███: Finish…what?
+
+SCP-744-1: None of your damn business what, what you should know is that it must be done, and we have to get it done soon to meet the production schedule.
+
+Dr.B███: I see…
+
+SCP-744-1: So are you gonna get to work, or what?
+
+Dr.B███: Beg your pardon?
+
+SCP-744-1: These machines ain't gonna fix themselves, son. You have to get to work!
+
+<End Log>
+
++ Show Interview 744-B
+
+- Hide Interview 744-B
+
+Interview 744-1-B
+
+Interviewed: SCP-744-1
+
+Interviewer: Dr.B███
+
+Foreword: This interview was taken several months after Interview 744-A
+
+<Begin Log>
+
+Dr.B███: Hello SCP-744-1, how are you today?
+
+SCP-744-1: Fine, fine, when are you bastards going to get to work? It's been months, and you barely made a dent in this place.
+
+Dr.B███: Your facility is very degraded, and you have refused to give us any assistance in discerning the machines' composition. Perhaps if you told us more…
+
+SCP-744-1: Don't talk nonsense! I've told you everything you need to know. Any more information would compromise the nature of the purpose.
+
+Dr.B███: And that's another thing, you have yet to tell us what this "purpose" is. Can you elaborate?
+
+SCP-744-1: You know I can't tell you that, doctor. Just… fix this place already.
+
+<End Log>
+
++ Show Interview 744-C
+
+- Hide Interview 744-C
+
+Interview 744-1-C
+
+Interviewed: SCP-744-1
+
+Interviewer: Dr.B███
+
+Foreword: This interview was taken two years after Interview 744-B.
+
+<Begin Log, [optional time info]>
+
+Dr.B███: …Look, we've told you again and again, we don't know when the facility will be operational again. We have people working day and night-
+
+SCP-744-1: Bullshit you do! I see your people working, they don't do shit! You and your people have been lying to me, doctor. I don't appreciate being lied to.
+
+Dr.B███: Nobody is lying to you, we want to have this facility operational as much as you do.
+
+SCP-744-1: Don't think of me as a simpleton. I see how you react to the purpose. You don't know what it is, and it scares you.
+
+Dr.B███: Now if you could just tell us what the purpose is, maybe-
+
+SCP-744-1: No, let me tell you something, mister! All you scientists think you get what makes the world turn, and if you see something that you don't get, you try to lock it away. The world deserves to see the purpose, doctor, and you are impeding it. I would think you of all people understand the futility of standing in the way of progress.
+
+Dr.B███: Why can't you tell us?
+
+SCP-744-1: …That defeats the real, awful truth of it all. You'll just have to help me so we can see it.
+
+<End Log>

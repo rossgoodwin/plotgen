@@ -1,0 +1,125 @@
+SCP-1299 prior to containment.
+
+Item #: SCP-1299
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1299 is to be contained in a 8 x 10 x 4 m concrete cell. It is to be kept disconnected from all sources of water, regardless of its current state. The door to its containment chamber is to remain locked at all times unless Procedure F-30 is being enacted. All level-2 and above staff members on site are to carry keys to SCP-1299's containment cell. Once a month, one D-class is to enact Procedure F-30. In case of a containment breach, essential personnel are advised to move as far away as possible from the containment area, and any available female D-class are to be escorted towards the breach site by security.
+
+Description: SCP-1299 is a white porcelain-over-steel freestanding bathtub, manufactured in ████ by the ██████ Corporation. It was discovered when the occupants of a house on 75 ████ Street in ██████████, Ohio experienced an unusually high rate of apparent suicides and murders via drowning. A news story on the anomaly brought the house to the Foundation's attention. The Foundation quickly suppressed all information regarding the crimes and secured the house in question. No anomalies were observed until one agent turned on the handle to SCP-1299, which activated despite being disconnected from the house's water supply, resulting in the agent's death. The Foundation quickly secured the bathtub and moved it to its current containment.
+
+When a living human touches one of the two handles on SCP-1299, the tub will begin filling with water. Once the tub is filled, an invisible force, designated SCP-1299-1, will pull the subject into SCP-1299 and force the subject underwater. An imprint of a pair of hands will appear around the subject's neck while they attempt to escape. Barring outside intervention, the subject will invariably drown, at which point the water will begin to drain via unknown means until the containment chamber is completely dry. The corpse may then be retrieved safely.
+
+If by the 26th night of each month no living body has touched the handles or is in the room, SCP-1299-1 will manifest and leave SCP-1299, leaving a trail of wet humanoid footprints. It will seek out the nearest living human body, which it will drag back to SCP-1299 and begin to drown as normal. If the process is interrupted and the subject pulled away from SCP-1299-1, the subject's personality will undergo a complete resequencing. (For additional information, see Addendum 1299-0-1.) SCP-1299-1 is intangible and impossible to damage by any means yet tested, and does not appear on thermal imaging or X-ray scanning. For additional information see Testing Log 1299-A.
+
+Testing Log 1299-A:
+
+Subject: One (1) D-class personnel (D-985) with background in plumbing.
+
+Conditions: D-985 instructed to attach SCP-1299 to newly constructed water pipe.
+
+Result: SCP-1299 began filling autonomously, and SCP-1299-1 immediately dragged D-985 into SCP-1299 to drown him. Immediately after D-985's death, footprints characteristic of SCP-1299-1 formed a trail towards and through the locked door to the containment chamber. SCP-1299-1 proceeded to grab one of the two guards stationed outside and pull him through the still-locked door into SCP-1299. Site personnel were alerted of a containment breach. SCP-1299-1 continued to seize and drown personnel until it successfully killed a female D-class, at which point SCP-1299 deactivated. The pipe was removed without further incident.
+
+Note: Testing of SCP-1299 to be halted until further notice. Procedure F-30 to continue as scheduled. Recommend female subjects to avoid a second containment breach. -Dr T██
+
+Addendum 1299-0-1: On ██/██/2008, Dr. ████, the researcher who was at the time overseeing SCP-1299, attempted to alter the conditions of Procedure F-30 without proper authorization. D-1130 was introduced to the testing environment and instructed to enter the bathtub per regulation, but when SCP-1299-1 appeared, Dr. ████ breached containment and attempted to pull the subject out of SCP-1299. After approximately 1 minute of struggle, subject was removed from SCP-1299, and the instance of SCP-1299-1 disappeared. D-1130 seemed extremely distressed, asking where he was and insisting that he had just been in his house. Upon further examination and interview, D-1130 referred to himself as ██████, a female who had been killed by drowning ██ years ago in ██████, New York. Her boyfriend had been convicted of her murder, though the evidence was purely circumstantial. After gathering all available information, subject was terminated (for full logs, see Interview 1299-A). One day later, a second D-class was used in Procedure F-30 to prevent a containment breach. Experiments are currently ongoing to determine the cause and results of this secondary effect.
+
+[+]Testing Log 1299-B[+]
+
+[-]Testing Log 1299-B[-]
+
+Subject: Two D-class personnel (D-701 and 803)
+
+Conditions: D-701 instructed to touch handle, then D-803 and D-701 both instructed to lie down in SCP-1299.
+
+Result: After 30 seconds SCP-1299-1 appeared and attacked both subjects simultaneously. Three guards pulled the subjects from the water. Both subjects claimed to be ████, a 25-year old female whose husband killed her by drowning her in the bathtub. Each subject expressed extreme distress at the other's assertions. Both were able to recall intimate details of ████'s life. D-803 was terminated, and D-701 was used as a subject for Procedure F-30.
+
+Subject: One D-class personnel (D-942)
+
+Conditions: D-942 sent in wired to recording net attached to EEG and ordered to perform procedure F-30. Security instructed to pull subject out after five seconds.
+
+Result: At 1.25 seconds after SCP-1299-1's attack, D-942 briefly displayed brainwave patterns consistent with the onset of a grand-mal epileptic seizure, before almost immediately returning to that of an excited state typical of a person being drowned. SCP-1299-1 pulled recording net off subject after two seconds.
+
+Subject: One D-class personnel (D-1074)
+
+Conditions: D-1074 sent in to perform Procedure F-30. Security instructed to remove sample of water from SCP-1299.
+
+Result: F-30 enacted successfully, water sample retrieved. Sample showed no anomalous properties. Mineral concentrations and pH were found to be typical of municipal tap water from ██████, New York.
+
+Subject: One D-class personnel (D-873)
+
+Conditions: SCP-1299 filled using hose attached to external water source. D-873 positioned in containment chamber in case of SCP-1299-1 activation.
+
+Result: Immediately upon SCP-1299 being completely filled, SCP-1299-1 attacked D-873, initiating Procedure F-30.
+
+Subject: One D-class personnel (D-1132)
+
+Conditions: SCP-1299 filled with bleach supplied by hose. D-1132 positioned in containment chamber in case of SCP-1299-1 activation.
+
+Result: No activation of SCP-1299; no appearance of SCP-1299-1.
+
+Subject: One D-class personnel (D-894)
+
+Conditions: D-894 brought in to enact procedure F-30 as scheduled.
+
+Result: Upon seeing SCP-1299, D-894 retreated to the far corner of the room and stayed there screaming until escorted out of the room by security personnel. See Interview 1299-B.
+
+[+]Interview 1229-A[+]
+
+[-]Interview 1299-A[-]
+
+Interviewed: Subject D-1130
+
+Interviewer: Dr. T███
+
+Foreword: Interview with D-1130 after Dr. ████ breached containment during Procedure F-30.
+
+<Begin Log>
+
+D-1130: Where… [3-second pause] Where am I?
+
+Dr. T███: You're in a hospital, you appear to have fallen and suffered brain trauma. Now if you can focus, we need to know what your name is, and the last thing that you remember.
+
+D-1130: ███ ██████. But a hospital? I was just in my house. I'd decided to take a bath.
+
+Dr. T███: What was the date and time?
+
+D-1130: ███████ ██, ████. About █:██ in the afternoon.
+
+Dr. T██: Thank you. What happened next?
+
+D-1130: Well, I went upstairs to the bathroom and… [4-second pause] I don't — I don't know, it all happened so quick… [Subject becomes visibly distraught]
+
+Dr. T███: D-1130? What happened so quick? What was the last thing you remember?
+
+D-1130: Please, I need to get out of here, he's going to come, he's going to come!
+
+[D-1130 gets up and attempts to grab Dr. T███, but is shot twice by Agent █████.]
+
+<End Log>
+
+Closing Statement: Subject's description was found to match the exact date and suspected time of the drowning of ███ ██████ by her boyfriend.
+
+[+]Interview 1229-B[+]
+
+[-]Interview 1229-B[-]
+
+Foreword: Interview with subject D-894 after subject displayed familiarity with and fear of SCP-1299.
+
+<Begin Log>
+
+Dr. T███: Hello D-894. You seem to have previous knowledge of SCP-1299.
+
+D-894: You [EXPLETIVE DELETED] should blow that thing up! That god damned tub ruined my life! But nobody believes me, nobody ever [EXPLETIVE DELETED] believes me!
+
+Dr. T███: Believes you about what, D-894?
+
+D-894: Me and my wife had just bought a house in ██████, and the day after I moved in, the next damn day, I hear screaming coming from upstairs. So I rush into the bathroom and see her thrashing in the tub. By the time I get to her, she's dead. So turns out the neighbor also heard the screams, and called the cops. Well guess who gets the murder charges? But… [2-second pause] You guys have the tub now. Which means you stopped it! So you can tell the world the truth, you can get me off this whole sentence!
+
+Dr. T███: Thank you for your co-operation D-894. Your case will be attended to shortly.
+
+D-894: Thank you doctor, thank you so much, thank you, thank you!
+
+<End Log>
+
+Closing Statement: Subject given B-Class Amnesics, and moved back to holding facilities.

@@ -1,0 +1,133 @@
+Item #: SCP-1914
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1914 is to be housed in a modified humanoid containment cell equipped with ventilation appropriate for preventing exhaust buildup. Every 10-12 hours, SCP-1914's engine must be activated for at least two hours in order to allow its battery to recharge fully; while active, it is to be fed approximately 250 grams of nutrient-supplemented baby food and one half-liter of purified water to maintain its organic components, and may at its request be provided reading glasses and books or music published prior to 1916 for recreational purposes. SCP-1914 is to be provided with a cane for ease of movement within its cell, and is to be transported by wheelchair or stretcher and accompanied by a medical professional at all times if removed from its cell for testing or examination while active.
+
+While inactive, SCP-1914's fuel tank is to be refilled with standard diesel fuel, its waste tank is to be drained, and it is to undergo medical and mechanical examination at least once per week. At least once per month, SCP-1914's oil tank and radiator are to be drained, flushed, and refilled with fresh motor oil and coolant. Any mechanical components in danger of breaking or malfunctioning are to be replaced with components of identical construction as soon as possible and any illness or physical injury not directly related to SCP-1914's anomalous nature is to be treated immediately. SCP-1914 is considered to be at high risk for viral/bacterial infection and is not to be exposed to any staff members suffering from infectious diseases.
+
+Description: SCP-1914 is a human male approximately 1██ years of age as of ██/██/20██, who is believed to have undergone extreme mechanical modification during the early 20th century. SCP-1914's heart, lungs, liver, pancreas, gallbladder, appendix, segments of the small and large intestines, colon, bladder, genitals, and reproductive organs have been removed, and approximately 83% of the specimen's epidermis (with the exception of areas covering the face, right upper leg, and left shoulder) has been replaced with leather. X-ray examination indicates that portions of the musculoskeletal structure in the limbs have been surgically removed and replaced with latex, steel rods, and automotive pistons, and that tubing has been installed allowing liquid coolant and motor oil to travel through the body. A fuel tank, oil tank, and coolant tank have been mounted to the specimen's back, which hold a maximum of five US gallons (18.9 liters), five US quarts (4.73 liters), and one US gallon (3.78 liters) of diesel fuel, motor oil, and coolant respectively.
+
+SCP-1914's abdominal cavity contains an unbranded automobile battery, a radiator (which partially protrudes from the specimen's right side), and a compact two-stroke diesel engine powered by the fuel tank mounted to the specimen's back. The engine is activated by means of a pull cord extending out of SCP-1914's back below the fuel tank; when active, energy produced by the engine provides power to a mechanical pump and bellows installed within the thoracic cavity, which replicate the functions carried out by the heart and lungs in healthy human beings, and charges the battery, which allows these functions to continue while the engine is inactive. While its engine is running, SCP-1914 is conscious and fully aware of its surroundings; when inactive, the specimen becomes non-responsive and enters a state of brain activity resembling non-REM deep sleep. SCP-1914 requires food and water to maintain the health of its organic components; waste matter produced by its digestive tract is expelled into a tank contained in its lower abdomen, which must be manually drained by means of a hatch located between its thighs.
+
+SCP-1914 speaks fluent English with an accent characteristic of the area of Birmingham, England, UK. In its active state, SCP-1914 has been observed to have difficulty standing or walking under its own power; during testing, the specimen has described having extreme difficulty maintaining its sense of balance, and does not appear to be able to bend its right knee, manipulate the toes on either foot, manipulate the fingers on its right hand, or extend either arm above its shoulders. Maximum unassisted walking speed of SCP-1914, when provided with a cane, is approximately 0.5 kilometers per hour. SCP-1914's neck is rigid and it is incapable of turning its head without pivoting the rest of its body. SCP-1914 possesses 20/60 vision and states that it is able to hear people speaking loudly in its presence, but that it possesses no sense of smell or taste, cannot sense ambient temperature, that it does not feel hunger or thirst when deprived of food and water, and that it does not feel pain when its organic components are damaged.
+
++ Show Interview Log 1914-1
+
+- Hide Interview Log 1914-1
+
+Interview Log 1914-1
+
+Interviewed: SCP-1914
+
+Interviewer: Dr. S. Samesh
+
+<Begin Log>
+
+Dr. Samesh: Please state your name.
+
+SCP-1914: Corporal George [REDACTED], 29th Division.
+
+Dr. Samesh: You're in the army, then?
+
+SCP-1914: Volunteered for the war, sir.
+
+Dr. Samesh: Which war?
+
+SCP-1914: The Great War, of course. The war to end all wars.
+
+Dr. Samesh: How old were you when you signed up?
+
+SCP-1914: Sixteen. I told the recruiter I was twenty-one. My folks were livid, but all my friends were joining up too and I thought I ought to do something.
+
+Dr. Samesh: How did you end up the way you are now?
+
+SCP-1914: We were advancing on an enemy position in the Somme and a German shell landed right in front of us. A few feet closer and I'd have been torn to pieces. As it was it nearly took my leg off and I couldn't get back up. It wasn't until nightfall they found me and took me to the medical tent.
+
+Dr. Samesh: Did this happen to you there?
+
+SCP-1914: No. The doctors said there wasn't anything they could do except give me some morphine to make me more comfortable. A priest came by and gave me the Last Rites and all.
+
+Dr. Samesh: When did it happen?
+
+SCP-1914: Some men showed up that day. Americans, in suits. I saw them talking to the doctors for awhile and then one of them pointed at me. They put me on a stretcher and loaded me in a lorry, and told me I was a lucky man.
+
+Dr. Samesh: Who were they?
+
+SCP-1914: They said they were part of some American company that was working with the government on a secret project.
+
+Dr. Samesh: What sort of project?
+
+SCP-1914: To take soldiers who couldn't fight anymore and put them back in the battle. They said they were going to watch me die. And then they were going to bring me back to life.
+
+Dr. Samesh: Is that what happened?
+
+SCP-1914: I'm not sure. I don't remember dying. I remember falling asleep. Then when I woke up… they'd already started working on me.
+
+Dr. Samesh: Did they do all this at once?
+
+SCP-1914: No. It was bit by bit over a few months. They put the engine and the battery in first, called it life support. They kept putting me under and every time I'd wake up something would be different. They started cutting things out because they were infected and putting in more machines to take their place.
+
+Dr. Samesh: Is that why so much of your skin was replaced?
+
+SCP-1914: Yes. I think it was gangrene. It hurt so much back then. It doesn't hurt anymore, at least.
+
+Dr. Samesh: Was it easier to move at any point than it is now?
+
+SCP-1914: Not really. The new legs and arms never really worked to begin with. They tried to teach me how to march and shoot again, but I couldn't even hold a gun. I don't think they knew what they were doing, really. One of the doctors said I was a prototype - they were testing things on me to see what would work.
+
+Dr. Samesh: Were there others?
+
+SCP-1914: I saw lots more now and then. Hundreds, I think. Mostly they had it worse.
+
+Dr. Samesh: How so?
+
+SCP-1914: Most of them didn't last long. The doctor said I was the first one they'd managed to get a working battery on so they could shut the engine off now and then. The other ones, it had to be running all the time or they'd die for good. Some of them looked like there was a lot less left of them than there was of me. I saw a man getting worked on who looked like he was just a head and a bit of chest.
+
+Dr. Samesh: What happened when they were finished working on you?
+
+SCP-1914: They told me one day the government cut funding for the project and they were abandoning the research. They said they hadn't been able to reduce the fuel demands so that the finished product wouldn't run our supply lines dry. Said they couldn't get the armoring heavy enough to withstand gunfire and artillery without making them immobile. Said we couldn't even aim or shoot. Said they wanted unstoppable warriors who felt no pain, and all they had were a bunch of cripples. They were shutting down the other prototypes and asked me if I wanted them to shut me off too.
+
+Dr. Samesh: What did you say?
+
+SCP-1914: I begged them not to.
+
+Dr. Samesh: Why not?
+
+SCP-1914: Because I was scared. I don't want to die.
+
+Dr. Samesh: What happened after that?
+
+SCP-1914: They started keeping me in a glass box in a big room. Couldn't see what was around me, but I think it was a lobby or something. People would walk by all the time when I was awake. Sometimes they'd stare at me, sometimes they'd just ignore me and keep walking. They shut me down every now and then to fix me up and then it was back in the box I went.
+
+Dr. Samesh: Did you ever ask to be let out?
+
+SCP-1914: Yes. They said they had to hold onto me because I'd outlasted the other prototypes. They wanted to see how long I'd keep running for.
+
+Dr. Samesh: How long did that continue?
+
+SCP-1914: Until you lot showed up and brought me here. Not sure how long that was.
+
+Dr. Samesh: Very well. That's all the questions I have for today.
+
+SCP-1914: Wait. Could you do something for me?
+
+Dr. Samesh: What's that?
+
+SCP-1914: Tell my mum and dad I'm alright? Mr. and Mrs. John [REDACTED], No. ██ [REDACTED] Street, Birmingham. They must think I'm dead by now.
+
+Dr. Samesh: We'll look into it.
+
+SCP-1914: And one more thing.
+
+Dr. Samesh: Yes?
+
+SCP-1914: How's the war going? Have we won yet?
+
+<End Log>
+
++ Show Addendum - Level 4 Clearance Required
+
+- CLEARANCE GRANTED
+
+Addendum: During surgery on ██/██/20██ to replace a damaged valve in SCP-1914's pulmonary pump, the words "Mark 1 Refurbished Infantry Personnel: Prototype 1916-317A, Property of Prometheus Labs (Patent Pending)" were discovered embossed on a metal plate attached to the pump. Investigation into a link between Prometheus Labs and the British government during the First World War, and any further cooperation between the two thereafter, is pending.

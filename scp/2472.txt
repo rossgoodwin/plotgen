@@ -1,0 +1,47 @@
+SCP-2472, photographed upon recovery.
+
+Item #: SCP-2472
+
+Object Class: Safe1
+
+Special Containment Procedures: SCP-2472 is not to be kept in an otherwise active Containment Site due to its tendency to disrupt anomaly-sensing and security mechanisms active at said sites. SCP-2472 is currently contained in a Foundation auxiliary facility in Saint Simons Island, Georgia.
+
+Description: SCP-2472 is a metal air coupler, of the kind manufactured for coupling parts of air hoses in machinery, measuring 35 mm in length. SCP-2472 can confidently be described as not anomalous, after extensive testing, with no unusual properties relating to its behavior, appearance, perception, interactions with other objects, or any other factors for which testing is prescribed by Revised Foundation Anomaly Standards, Vol XXIV (2009).2
+
+Despite this, SCP-2472 consistently registers as an anomaly in automated tests designed to recognize extranormal objects. Introduction of SCP-2472 to Foundation Sites equipped with Scranton Reality Gauge Alarms uniformly results in the alarms sounding, despite SCP-2472 having no significant impact on local reality levels in over 25,000 measurements.
+
+Analysis of SCP-2472 experimentation results displaying no anomalous behavior by the Binah Pattern Recognition System in active use by the Foundation returns a result of:
+
+99.9% anomaly certainty
+
+Potentially Category Aleph Room (“Greatest Concern”) (75.4% ±5% confidence)
+
+Potentially Keter (77.7% ±5% confidence)
+
+Potentially uncontainable (26.3% ±5% confidence)
+
+in addition to information about SCP-2472’s composition and physical properties verifiable by experimentation.
+
+External verification of SCP-2472’s non-anomalous properties and behavior has occurred in double-blind testing with eight partner universities and institutions and three treaty partner extranormal organizations.
+
+External verification of SCP-2472’s triggering of automated extranormal detection programs has occurred in double-blind testing with the following treaty partner extranormal organizations:
+
+The Federal Bureau of Investigation Unusual Incidents Unit’s PatternSweep software, developed in coordination with the National Security Agency, classed SCP-2472 as POSITIVE.
+
+The Global Occult Coalition mainframe, codenamed Distant Thunder, classed SCP-2472 as LTE–High Potential.
+
+An independent anomaly-detection system under development by the government of Switzerland returned a rating of Leuthari I/Mederich, indicating a high certainty of anomaly.
+
+The method by which anomaly identifying systems fail at correctly classifying SCP-2472 is currently under investigation.
+
+Addendum: SCP-2472 was discovered when a box containing air hose parts for pressure washers used in the cleaning of Site-48 was removed from an area fitted with automated Scranton Reality Gauge Alarms. Assistant Researcher Declan Hall, who removed the box containing SCP-2472 from the area, and other Site-48 staff were questioned, but no definitive timeline has been established for the introduction of SCP-2472 to the Foundation.
+
+Potential revision of SCP-2472’s Object Class is currently in debate following the disappearance of Assistant Researcher Declan Hall on Jan 11, ████, with a note apparently referring to SCP-2472.3
+
+Footnotes
+
+1. Object Class currently under debate. See Addendum.
+
+2. For extended logs of testing of SCP-2472, see: Evans, Nathaniel, “Thorough Records of Experimentation Regarding a Small Metal Air Coupler That Is Apparently Not Anomalous” Observer: An SCP Foundation Journal (2010): 641.
+
+3. Excerpt: “If one can construct something plain that sets off every alarm, John, one can also construct something extraordinary that all of our best efforts can’t detect. It was, I want to make clear, lovely to work with you. But it’s time to be the one thing on this Earth no one has their eyes on. We’ll meet again.” The note was signed by Declan Hall and handwriting analysis confirms his authorship. A crude drawing of a flower, believed to be a water hyacinth, follows the note.

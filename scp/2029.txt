@@ -1,0 +1,55 @@
+Item #: SCP-2029
+
+Object Class: Euclid (Undergoing Neutralization)
+
+SCP-2029 during recovery.
+
+Special Containment Procedures: SCP-2029 is to be stored in a hermetically-sealed, HDPE-lined ceramic container in Biological Research Area-12's Biosafety Level 4 containment wing. Sampling of the acetic acid held in SCP-2029-1 is to be conducted daily. If titration reveals greater than 50000 ppm of SCP-2029-2 by volume, SCP-2029-1 is to undergo the neutralization procedure described below.
+
+Neutralization of particulate matter produced by SCP-2029 is to be performed in a dual-chamber BSL-4 cabinet reinforced to withstand the sterilization burn necessary to deactivate the material. During transport from its storage unit to a suitable BSL-4 cabinet, SCP-2029's container is to remain immersed in a sealed 1-quart mason jar filled with a 23% acetic acid solution.
+
+Following transport to a BSL-4 cabinet, SCP-2029's container is to be opened and any accumulated particulate matter disposed of. Following disposal of bulk particulate, the cabinet's atmosphere is to be siphoned off. The atmosphere and bulk particulate are to be subjected to a 10-second C2N2 sterilization burn. Following this procedure, SCP-2029 is to be returned to its container, immersed in 500 mL of 23% acetic acid solution, and transported back to its storage location.
+
+Description: SCP-2029 describes a chicken egg of indeterminate age occupying a 946 mL (1 qt.) molded glass canning jar. Collectively, these two objects are referred to as SCP-2029-1. During initial recovery of SCP-2029-1 by the Foundation, the jar contained a 540 mL sample of dilute acetic acid almost completely saturated with what was later determined to be a previously unknown isomer of hydrogen sulfide which maintains a solid state at room temperature. This isomer is designated SCP-2029-2. No anomalous characteristics could be attributed to either the canning jar or the dilute acetic acid sample, both of which were replaced in accordance with current containment procedures.
+
+SCP-2029-1 can be observed to continually produce SCP-2029-2 through an unknown process, averaging 1.73 mL per hour. No commensurate loss of mass or volume is detectable from SCP-2029-2, in an evident display of ectoentropic phenomena. Despite an immediate lack of correlation between SCP-2029-1's mass and the manifestation of SCP-2029-2, it has been observed that SCP-2029-1's total mass is gradually diminishing due to to continuing decomposition of the object, as SCP-2029-1's mass decreases, SCP-2029-2 is produced in fractionally smaller amounts.
+
+The SCP-2029-2 isomer is distinct from normal hydrogen sulfide in several ways. The compound displays uncharacteristic toxicity and intense reactivity and corrosivity against even strongly aromatic compounds and nonreactive metallic elements. SCP-2029-2 also corrodes biological tissue with particular rapidity and severity.
+
+SCP-2029-2 displays catalytic properties during this process, converting sulfur and hydrogen liberated from water molecules into additional SCP-2029-2. This process has a size effect of liberating disproportionate amounts of carbon dioxide not accounted for through either the corrosive or catalytic processes. This phenomenon is thought to be related to the previously described ectroentropic property discovered in SCP-2029-1.
+
+These effects have been flagged as causative factors in a potential GH-Class "Dead Greenhouse" event if SCP-2029-2 was to come into contact with abundant biological tissue outside of controlled circumstances. This potentiality was recognized in the aftermath of Incident 2029-1.
+
+Addendum 2029-1:
+
+An excerpt from Dr. Apth's report detailing a simulated scenario in the instance that SCP-2029-2 breaks containment.
+
+Estimated time since breach
+
+Replication and production of SCP-2029-2
+
+Scenarios
+
+three hours
+
+X10 PPM
+
+Emergency containment protocol in effect. Area damaged. No adverse atmospheric reactions predicted. Lack of inorganic matter slowing the spread.
+
+two days
+
+X130 PPM
+
+Environment becomes contaminated. SCP-2029-2 will spread through organic matter. Possible sterilization procedures enacted to prevent SCP-2029-2's spread.
+
+seven days
+
+X5000 PPM
+
+Region becomes uninhabitable. Rapid increase of temperature and CO2 levels present. Contamination of water in effect and acid rain very likely. Protocol 'Clean Plate' is activated. Total sterilization and destruction of contaminated region is absolute.
+
+thirty days
+
+X50000 PPM
+
+GH-Class scenario in effect. SCP becomes uncontainable. All matter of life extinct. Earth undergoes erosion. Atmosphere is completely contaminated and CO2 levels reach 95%.

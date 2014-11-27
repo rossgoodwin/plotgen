@@ -1,0 +1,165 @@
+Item #: SCP-2216
+
+Object Class: Euclid
+
+Secure testing Site-109 - View from Camera 'S'.
+
+Special Containment Procedures: As the method of transmission utilized by SCP-2216-1 is not fully understood, Mobile Task Force Iota-7 ("Mavericks") should focus efforts on the identification and recovery of SCP-2216-2 instances. Five (5) instances of SCP-2216-2 are to be kept at Site-19/2216 in separate storage lockers equipped with a Faraday cage to prevent wireless transmission of SCP-2216-1. Additional instances of SCP-2216-2 are to destroyed at the earliest opportunity by incineration or confined to a Faraday-equipped storage apparatus in cases where incineration is not immediately possible. Due to SCP-2216-1's anomalous effects, visual testing of SCP-2216-2 is to be carried out exclusively by D-Class personnel.
+
+All MTF Iota-7 agents and level 4/2216 researchers are to wear one-way mirrored, 100% reflective eye protection when viewing any visual media or subjects who have viewed an instance of SCP-2216-2. In the event that eye protection is damaged or removed, affected personnel should be contained and monitored for signs consistent with SCP-2216-1 exposure.
+
+Subjects who have viewed an instance of SCP-2216-2 are to be contained for at least ten (10) days in a windowless 5 meter by 5 meter humanoid containment cell and monitored for signs consistent with SCP-2216-1 exposure. Subjects must undergo Procedure 185-Bellerophon to determine conscious awareness of SCP-2216-1. Subjects are allowed reasonable requests with the exception of electronic devices. Containment cell lighting is to be maintained at two hundred fifty (250) lumens and monitored by CCTV equipment placed behind a one-way mirror. Subjects determined to be a vector for SCP-2216-3 events must be monitored until the completion of testing to forestall SCP-2216-3. All video monitoring equipment is to be destroyed immediately following testing and termination of SCP-2216-3p subjects.
+
+Description:
+
+Note from O5-█: Due to the nature of the infohazard contained herein, access of this document is restricted to three (3) researchers with assigned security clearance 4/2216. Researchers are to be informed of the identity of their peers at the time of assignment to SCP-2216. Upon submission of credentials, personnel are to be contained to Site-19/2216 with staff rotations to occur on a monthly basis. Interaction with outside personnel is restricted to necessary O5 reporting conducted strictly through audio channels. Researchers who have completed work with SCP-2216 are to be debriefed and administered Class-C amnestics before leaving the premises of Site-19/2216. Should any personnel inform you they have been granted level 4/2216 clearance, please report them to O5-█ immediately.
+
+REDACTED BY ORDERS OF O5-█. Enter Credentials: Security Clearance Level 4/2216
+
+-Credentials Accepted
+
+SCP-2216-1 is an entity or group of entities which presently exists in approximately ██% of video media as an obscure, humanoid figure wearing inconspicuous attire. In all cases where SCP-2216-1 has been observed, the video angle or attire will obscure any identifying features. Because of SCP-2216-1's mundane appearance it is often unnoticed upon initial viewings.
+
+In approximately ██% of SCP-2216-1 transmissions, instances of the entity will be present on both the original medium and the copied medium. SCP-2216-1 has demonstrated the following methods of transmission:
+
+Wired or wireless networks
+
+Transfer of digital storage devices
+
+Dual VCR Recordings
+
+Transfer of digital files
+
+Transfer through the human cranial nerve II by way of the retina as the point of transmission and reception. SCP-2216-1 seems to only utilize this method in cases where the subject is consciously aware of its presence within the video media. EEG scans of the subject's brain indicate heightened activity in the posterior parietal cortex suggesting SCP-2216-1 uses this area as a sort of organic storage device.
+
+SCP-2216-1 is assumed to possess other methods of transmission, being present in media under conditions in which the aforementioned criterion are unavailable.
+
+██% of subjects who are consciously aware of SCP-2216-1 will experience psychosis, parataxis, catatonia, and [REDACTED]. In 100% of cases, expiration attributed to synaptic damage in the medulla oblongata will occur within the next ██ to ██ hours. Subjects who display these symptoms and those who are not consciously aware of the entity are not susceptible to SCP-2216-3 events.
+
+SCP-2216-2 denotes video medium in which SCP-2216-1 is present. The first instance of SCP-2216-2 (SCP-2216-2-1) was discovered in the home of ██████ H███, a resident of ████████, New York on the 17th of August, 19██. See Document 2216-15C for further details regarding recovery.
+
+SCP-2216-3 is a dual-phase phenomenon which occurs in ██% of subjects approximately █ to ██ hours after becoming consciously aware of SCP-2216-1.
+
+During the primary phase, subjects (hereafter SCP-2216-3p [Prime]) will report sighting a semi-corporeal figure in their peripheral vision, often assumed to be SCP-2216-1. This entity is seemingly impermanent and will often be absent from assumed locations after passing out of a subject's line of sight. Subjects most often report this entity will manifest in hallways longer than 20 meters (provided a 'T' intersections at end opposite SCP-2216-3p), although it has been reported to traverse the visual width of internal windows no wider than 1 meter (provided the ambient luminosity in the area beyond is less than 50 lumens), partially or fully open doors and in outdoor areas with an obstructed horizontal field of view. Attempts to capture the entity via video monitoring in controlled tests have failed. Subjects also report the entity will maintain a minimum distance of approximately seven (7) meters while in direct visual field; It has been reported to move closer when subjects have sighted it "out of the corner of [their] eye."
+
+The sighting of this entity will trigger the secondary phase during which SCP-2216-3p subjects will instantly vanish upon passing out of the direct line of either direct visual or indirect video surveillance. Tracking devices (including those placed inside the subject) cease to function at this point. Analysis of SCP-2216-3 events reveals carbonization in the immediate vicinity of the subject's location, suggesting a substantial and immediate discharge of energy. Testing of these areas have suggested the presence of [REDACTED] (See Addendum 2216-YKE104).
+
+Secure Testing Site-109 - Blueprint (Not to scale)
+
+Procedure 851-Bellerophon: Secure Testing Site-109 is a 'T' shaped hallway with measurements of thirty three (33) meters from point "S" to point "CP", and forty seven (47) meters from point "F1" to point "F2". Subjects are to be introduced at point "S" and monitored at all times by CCTV cameras located at point F1, F2 and S. Walls of hallway adjacent to point S are to be lined with decor of lead researcher's choosing, preferably photographs. Lights throughout Site-109 are to be reduced to 25 lumens with intermittent flicker effect. At no time during testing should luminosity rise above 50 lumens. Door at point S is to be opened and subject instructed to maintain position and report any movement. After one (1) minute of no reported activity, subject is to be instructed to move forward to examine decor of hallway S, still reporting any movement. If subject reaches contact point CP without reporting movement they may be extracted from the testing site and re-admitted to containment. Subjects are to repeat this process at a rate of once every three (3) days, not lasting longer than ten (10) days in total. Subjects who report no movement during testing period are to be considered SCP-2216-3 negative, administered Class-C amnestics and released.
+
+Testing Logs:
+
++ Test Log 2216-TL1.1: TE-2216-2-1
+
+- Hide
+
+Test: - Date: ███████ ██th, ████
+
+Subject: D-█████
+
+Foreward: [REDACTED] (See Document 2216-X1999-1 for further information)
+
+Procedure: Subject D-█████ was placed in a secure testing chamber identical to the one utilized in TE-2216-2-5. D-█████ was informed to make note of any figures in the film which appeared abnormal or out of place in the video, insert SCP-2216-2-1 into the VCR, and begin playback.
+
+Results: [REDACTED] (See Document 2216-X1999-1 for further information)
+
+Analysis: [REDACTED] (See Document 2216-X1999-1 for further information)
+
++ Test Log 2216-TL1.3: TE-2216-2-3
+
+- Hide
+
+Test: TE-2216-2-3 - Date February 3rd, ████
+
+Subject: D-10199
+
+Foreward: SCP-2216-2-3 is a USB drive with one (1) MPEG-4 file present, depicting a mountain biking run, three (3) minutes, twenty seven (27) seconds in length, from the perspective of the biker's helmet camera. It has been determined that the video was transferred via bluetooth from an █████ cellular phone to a computer, then copied to the drive. Both the phone and computer were determined to be unaffected by SCP-2216-1 at time of recovery.
+
+Procedure: Subject D-10199 was placed in a secure testing chamber identical to the one utilized in TE-2216-2-1. D-10199 was informed to make note of any figures in the film which appeared abnormal or out of place in the video, connect SCP-2216-2-3 to the appropriate port and begin playback.
+
+Results: D-10199 did so with minimal objection and began to view SCP-2216-2-3. From 1:23 to 1:26, the subject in the video, D-10199 communicated the rider panned up from his handle bars and video revealed a humanoid figure walking through the desert brush, roughly forty (40) meters from the subject. Due to the distance from the figure, visual clarity was limited, but D-10199 made note of a smaller frame to the figure. D-10199 was instructed to cease playback and was escorted from the room.
+
+As of [REDACTED], D-10199 has maintained normal behavior (approximately ██ days) and displays minimal symptoms consistent with exposure to SCP-2216-2. D-10199 has communicated to researchers mild feelings of fear and anxiety but otherwise seems unaffected by the viewing.
+
+Analysis: D-10199's response has been wildly inconsistent with established behavior for subjects affected by SCP-2216-2. Dr. ████ has requested a full psychological panel be conducted for D-10199, who will be kept under video surveillance and referred to phase 2 testing following psychological panel.
+
++ Test Log 2216-TL2.3: TE-2216-3-10199
+
+- Hide
+
+Test: TE-2216-3-10199 - Date February 6th, ████
+
+Subject: D-10199
+
+Procedure: See Procedure 851-Bellerophon
+
+Results: D-10199 entered Secure Testing Site-109 at point S. The following is the recorded transcript:
+
+<Begin Log, [00:00:00]>
+
+00:00:02: D-10199 enters hallway from point S. CCTV monitoring reports normal from point S, F1 and F2.
+
+Lead researcher, Dr. L███ [00:00:12]:D-10199, Please remain where you are until you are instructed otherwise. Report any signs of movement.
+
+00:00:14: D-10199 does as instructed
+
+00:00:54: D-10199 has not reported any activity for nearly one (1) minute.
+
+Lead researcher, Dr. L███ [00:00:59]: D-10199, Please take note of the pictures on the walls beside you. You may proceed down the hallway but please examine each one carefully.
+
+00:01:27: D-10199 continues down the hallway often crossing sides to carefully examine each picture. At roughly 8 meters from point S, D-10199 quickly makes a start toward point CP.
+
+D-10199 [00:01:28]: What the [Expletive] was that? What the [Expletive] is in here with me?
+
+00:01:30: D-10199 continues to focus on point CP. CCTV at points F1 and F2 show no abnormal behavior.
+
+Lead researcher, Dr. L███ [00:01:36]: Our cameras show nothing is in there with you. Please continue to examine the pictures. Remember your release is contingent on your cooperation during these exercises.
+
+00:01:50: D-10199 reluctantly returns to the pictures on his right.
+
+D-10199 [00:02:08]: There it is again! There's something in here! [At this point D-10199 appears distressed and proceeds down the hallway at a walking pace]
+
+Lead researcher, Dr. L███ [00:02:10]: D-10199, stop! There is nothing in the testing site with you. Please return to the pictures immediately!
+
+00:02:15: D-10199 continues down the hallway, ignoring the commands of Dr. L███. Doctor gives the orders to raise lighting in the chamber to 250 lumens and dispatch security elements to detain D-10199. Concurrently, cameras at point S, F1 and F2 fail for approximately fourteen (14) seconds.
+
+00:02:32: D-10199 is not visibly present on cameras at point S, F1 or F2. Security elements report the subject is absent from the chamber.
+
+<End Log, [00:02:45]>
+
+Closing Statement: Analysis of camera S video footage shows movement at point CP at 00:01:10, seventeen (17) seconds before D-10199 reported any anomalous movement. Due to testing conditions, this movement can only be attributed to anomalous activity within the testing site although, due to the angle, visual identification has proven impossible. Upon inspection of Site-109, carbon scoring was found present at D-10199's last known position. Video forensics was unable to recover any footage during the 14 second outage.
+
+Supplemental Information:
+
+Document 2216-11A
+
+-Hide
+
+[REMOVED by orders of O5-█, RAISA]
+
+Please refer to Document 2216-X1999-1 for access to Document 2216-11A.
+
+Document 2216-15C
+
+-Hide
+
+[REMOVED by orders of O5-█, RAISA]
+
+Please refer to Document 2216-X1999-1 for access to Document 2216-15C.
+
+Document 2216-X1999-1 - Level 4/2216 Clearance Required: Submit Credentials
+
+-Credentials Accepted
+
+Note from Maria Jones, Director, RAISA: Due to the inherent danger of cross testing SCP's, the O5 has all but banned the practice. However, in rare cases such as this, where containment relies on our ability to ascertain the nature of SCP-2216-1, O5-█ has authorized cross-SCP access to SCP-2216 and SCP-1999 files to yourself and two others. Reading this message is evidence of reception of the intra-site, eyes only memo. If you are receiving this message in error please close this window and report to Site Director ███████ for amnestic treatment. Violation of this protocol is grounds for immediate termination in accordance with protocol 168-Abeloth.
+
+Supplemental Document 2216-X1999-1: Please enter 4/1999 Credentials
+
++ Addendum 2216-YKE104
+
+-Hide
+
+-From the office of T. Xyank, Lead Temporal Researcher,
+
+Contrary to the claims made by SCP-2216-3p subjects, analysis of SCP-2216-3 events reveals carbonization around the footprints of the subject, indicating a substantial and immediate discharge of energy. Testing conducted in these areas suggests the presence of particle/anti-particle interactions most commonly found during FK-Class Temporal Misalignments. If our theory is correct, the entity that subjects assume to be SCP-2216-1 is actually a temporally displaced version of themselves (Classification as SCP-2216-3d [Displaced] pending). Due to the quantity of particle/anti-particle pairs, researchers project SCP-2216-3 events to irreversibly damage the quantum fabric which comprises our reality by the year 19██, spiraling us toward a YK-Class Reality Restructuring Event by the year 20██. To counteract the threat posed by SCP-2216-3 events, termination is required in all cases of SCP-2216-3p subjects following the completion of testing. SCP-2216-3 events, combined with the proliferation of video media in the past two decades, makes a passive approach to containment implausible.

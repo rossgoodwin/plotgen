@@ -1,0 +1,95 @@
+An instance of SCP-2009-01, formerly D-998120-W.
+
+Item #: SCP-2009
+
+Object Class: Keter
+
+Special Containment Procedures: Samples of SCP-2009-02 are to be kept in refrigerated BSL-4-compliant storage at Bio Site 98. Should a instance of SCP-2009-01 be required for testing or interview purposes, a single D-Class personnel is to be exposed to three grams of SCP-2009-02. Following exposure, the infected individual is to be contained in a BSL-4-compliant containment cell for a period of no less than nine days, after which point it is to be treated as a new instance of SCP-2009-01. Infection of D-class personnel with SCP-2009-02 is to take place only with the approval of at least two on-site Level 4 personnel.
+
+For the duration of testing, the instance of SCP-2009-01 is to be a BSL-4-compliant containment cell kept at 10° C. Humidity in the cell of SCP-2009-01 is to be kept at 0%. Foundation personnel are to wear Level A hazmat suits when interacting with SCP-2009-01, and are to undergo full decontamination following interaction. Following completion of testing or interaction, the instance of SCP-2009-01 is to be destroyed and its remains incinerated.
+
+Medical facilities, news media, and law enforcement are to be monitored to detect uncontained instances of SCP-2009. After confirmation and assessment of scale, Mobile Task Force Rho-8 "Mushroom Hunters" is to be dispatched to effect containment.
+
+Description: SCP-2009-01 is the designation for all instances of an anomalous male humanoid capable of asexual reproduction by means of spores. Instances of SCP-2009-01 are genetically identical, and prior to mutation, display no unusual physiology. Instances of SCP-2009-01 are fully sapient and are capable of socializing normally up until the point of production of instances of SCP-2009-02, identifying themselves as "Thomas Hoang." No instance exhibits knowledge of its anomalous properties. All instances also have a shared baseline of memories including childhood and early adulthood taking place in the community of Pollensbee, CA1.
+
+If exposed to temperatures of more than 20° C and humidity in excess of 40%2 for a period in excess of five days, SCP-2009-01 will seek out a darkened area, with preference given to tall buildings and places adjacent to high foot traffic areas. The body of SCP-2009-01 will begin to distend and split into thin chitin-based "hairs." These hairs will be used by SCP-2009-01 to anchor itself to nearby walls and objects and, if possible, draw limited sustenance from them. SCP-2009-01 will cease sapient activity, converting all of its energy to the production of SCP-2009-02. SCP-2009-01 will continue the production and release of SCP-2009-02 until it eventually dies of exhaustion.
+
+SCP-2009-02
+
+SCP-2009-02 is a microscopic spore created by SCP-2009-01, capable of infecting human beings. During a typical period of production, SCP-2009-01 is capable of producing 55 kg of SCP-2009-02. Instances of SCP-2009-02 are airborne and infect humans through the respiratory system. Within 3-4 days of exposure, individuals infected with SCP-2009-02 will begin to experience symptoms of nausea, lethargy, and photosensitivity. Additionally, individuals will shun social contact, isolating themselves from others. Within 5-8 days, the physiology of infected individuals will begin to change to match that of SCP-2009-01. The process can cause varying levels of discomfort, proportional to the physiological similarities between the individual and SCP-2009-01. Infected individuals are aware of the changes, and frequently exhibit extreme psychological distress during the process. Within 8-9 days of exposure, the physiology of the subject will exactly match that of SCP-2009-01, as will its baseline psychological state, DNA, and memories. Newly-created instances of SCP-2009-01 exhibit no knowledge of their lives prior to transformation.
+
+SCP-2009 was discovered when reports of a widespread infection by a previously unknown disease in the town of ████ ████████, MO were made to the Center For Disease Control on ███/███1998. Foundation agents embedded in the initial response team reported extreme physiological changes brought on by exposure to SCP-2009-02 in 46% of the town's residents. The town was immediately quarantined, with infected individuals being taken into Foundation custody. The CDC teams and the remainder of the town's residents were isolated until the nature of SCP-2009 became apparent. The town was destroyed and incinerated under the cover of a story of "freak wildfire" on ██/███1998. The CDC teams and uninfected residents were dosed with Class-E amnestics and released from Foundation custody the next day. All but three of the newly created instances of SCP-2009-01 were destroyed and incinerated, with the rest used for purposes of testing and the creation of instances of SCP-2009-02 for purposes of study.
+
+During the destruction of ████ ████████, the dessicated remains of an instance of SCP-2009-01 were found in the bell tower of ████ ████████ First Methodist Church. It is suspected that this instance was the original vector for SCP-2009-01, although it is unknown whether it was the original instance of SCP-2009-01.
+
+Interview Log 2009-7m 11/13/1999
+
+Interviewed: D-998120-W, an African female, four days after exposure to SCP-2009-02. Interview took place in a darkened BSL-4-compliant containment cell.
+
+Interviewer: Dr. Ahmedov
+
+Dr. Ahmedov: Hello, D-998120-W. How are you feeling today.
+
+D-998120-W: [silence].
+
+Dr. Ahmedov: If you do not feel like cooperating, D-998120-W, I can turn the lights up.
+
+D-998120-W: Awful. I feel awful. I feel like vomiting, the light hurts. Everything hurts. What did you give me?
+
+Dr. Ahmedov: I'm sorry to hear that. Please describe your earliest memory, if you would.
+
+D-998120-W: I- wha? If I answer, can you go away?
+
+Dr. Ahmedov: Once you answer, this interview will be complete. Yes.
+
+D-998120-W: Okay, I was five or six. My mother had had to work late and when she got in, she just fell into the chair in the living room and fell asleep. I thought that she had died.
+
+Dr. Ahmedov: What did your mother look like?
+
+D-998120-W: What do you mean? She looked the same as she normally does? Short, kinda dark yellow skin, round chin.
+
+Dr. Ahmedov: Thank you for yo-
+
+D-998120-W: Wait, what the…? That can't be right. What di-
+
+Dr. Ahmedov: Thank you, that will be all.
+
+<End Log>
+
+Interview Log 2009-7n 11/15/1999
+
+Interview notes: D-998120-W had been informed that any feelings of bodily dysphoria were a result of vaccination against "malign restricula."
+
+Dr. Ahmedov: D-998120-W, how are you today?
+
+D-998120-W: I-I'm not good, really.
+
+Dr. Ahmedov: Oh? And why is that?
+
+D-998120-W: There's all of this… noise. Like I'm not me, I'm people.
+
+Dr. Ahmedov: And who are you?
+
+D-998120-W: Thomas Hoang. I mean, I know I'm Thomas Hoang. But I keep remembering this stuff, like my dad dying when I was a kid or getting a C in art class. But, they're… it's not me. I'm from Pollensbee, not Columbus. My dad is still alive. I mean, do you want to hear the weirdest part?
+
+Dr. Ahmedov: Please.
+
+D-998120-W: I remember stuff, like girl stuff. Like having… ugh, you know what? Nevermind. I didn't just say that.
+
+Dr. Ahmedov: I think I understand.
+
+D-998120-W: Like, y'know, I'm comfortable with myself and everything. It's just… is this going to be a thing?
+
+Dr. Ahmedov: No, no. Such a reaction to the regimen we've put you on is totally within parameters; you should be over it in a day or so.
+
+D-998120-W: Okay, thanks doc.
+
+<End log>
+
+Closing Statement: On ██/██/1999, the transformation of D-998120-W into an instance of SCP-2009-01 was completed. Following completion of testing, the instance was incinerated.
+
+Footnotes
+
+1. No community by such a name, nor having any of the features described by SCP-2009-01, is recorded to have existed.
+
+2. Instances of SCP-2009-01 exhibit no inclination to expose themselves to such conditions.

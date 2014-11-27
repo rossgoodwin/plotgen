@@ -1,0 +1,19 @@
+A picture of SCP-380 while unattached to a host computer.
+
+Item #: SCP-380
+
+Object Class: Safe
+
+Special Containment Procedures: This object should be kept connected to a small computer in health lab H██, in the off position. The object may be disconnected and moved to any computer that is capable of an internet connection, but by the request of Dr. ████████, should never be attached to a computer with internet access.
+
+Description: SCP-380 is a small, blue box with an appearance not unlike an internet router. It has a single antenna, a few lights, a power switch and a single T3-line female connector. Although there is no plug for an outside source of electricity, SCP-380 will work when it is connected to a network-capable computer and the 'power' switch in the on position.
+
+The device seems to be compatible with any computer it is connected to (hereafter referred to as SCP-380-1), and will open a large network connection; low-performance computers are commonly unable to maintain said connection. Instead of wireless connections to other networked computers, however, the network is made up of biological entities within a 15-meter radius. Entities compatible with this network include but are not limited to humans, animals, and plants.
+
+As networked entities enter and leave the radius of connection, network connections are respectively formed and severed. Test subjects (and it is assumed all biological entities) are not aware that they are connected to a network. The only effect that is immediately obvious is the ability of SCP-380-1 to access biological components.
+
+When a biological component is accessed, it contains a single text document readable by whichever operating system is utilized by SCP-380-1. Each text document contains variables such as 'heart rate', 'stress', and 'blood glucose level' - among various other physiological parameters, demonstrating accuracy surpassing that of modern technology.
+
+Experiment 380-01: Attempts to edit any of the text documents kept in organic 'files' has responded with a message reading "ERROR 271: Data out of range.", and the loss of any changes made to the file.
+
+Experiment 380-02: Normal health monitoring devices have shown the numbers reflected from organic 'files' to be accurate and therefore should be accepted as true. Requests to research SCP-380 as a potential health monitoring device are pending.

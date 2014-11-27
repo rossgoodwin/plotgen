@@ -1,0 +1,39 @@
+SCP-1345-A's containment building.
+
+Item #: SCP-1345
+
+Object Class: Euclid
+
+Special Containment Procedures: The building housing SCP-1345 is to be boarded up and marked with signs warning of Hantavirus infestation. Guards under the guise of military police are to detain and question any non-Foundation persons attempting to gain entry to the building. An enhanced security force is assigned to SCP-1345-A; if it proves insufficient, security personnel at the nearby Sites ███ and ██ can be summoned to assist.
+
+SCP-1345 is not to be fully disassembled or moved from its original location unless it is in imminent danger of discovery or seizure by non-Foundation groups of interest. Permission from the North American Regional Director must be obtained if experimentation requires activation of single or multiple components. Activation of the complete SCP-1345 assembly is not to be performed under any circumstances without authorization from the O5 council.
+
+Description: SCP-1345 is an assembly of equipment (SCP-1345-A) in an abandoned Quonset hut, located on ████ ██████████ (a United States Army installation) and an associated memetic phenomenon (SCP-1345-B). SCP-1345-A was constructed between 1949 and 1951 by employees of Los Alamos National Laboratories (LANL), by direction of the United States government.
+
+SCP-1345-A is designed to broadcast precisely modulated microwaves in a direction selected by the operator of the assembly. It is comprised of components commissioned by the United States government during a period between 1949 and 1951. Along with various support equipment, the assembly contains a control computer using miniaturized vacuum tubes as computing elements, signal generation and modulation equipment digitally controlled by the computer, and a synchronized array of high-powered magnetrons to generate the microwave signal. The transmission system terminates in a gimballed parabolic dish antenna, mounted on a steel mast able to telescope through a hatch in the roof. The antenna is able to be aimed precisely via rotation and elevation.
+
+Several aspects of the equipment make the equipment distinct from conventional microwave transmission facilities. The magnetrons driving the antenna are overengineered for their expected power capacity and heat dissipation needs; each was built to handle over 400 kilowatts of power at maximum. The computer exhibits remarkable complexity compared to other contemporary computers; records confiscated from United States government archives show that it was designed and produced specifically for this project, at great cost.
+
+The magnetrons and antenna are calibrated to transmit at ██.████ gigahertz; this frequency is notable for being the third harmonic of a frequency which produces especially strong microwave auditory effects when directed at the human head.
+
+SCP-1345-B is a widespread memetic phenomenon, manifesting in culture as a conspiracy theory regarding a non-existent event known as the Philadelphia Experiment1. The precise date of SCP-1345-B's official manifestation is impossible to precisely determine, but extensive searches of printed and written media archives show that there is no mention of SCP-1345-B prior to the first test of SCP-1345. Reported knowledge of the Philadelphia Experiment appears to have occurred in multiple individuals in a close time period; these individuals were all living at various locations directly north of SCP-1345-A at the time of its first (and only) test. Affected individuals claimed to have knowledge of the Philadelphia Experiment, variously claiming to have witnessed it, read about it in secret United States Navy documentation, or learned about it via other methods; they soon began to contact individuals studying UFOs and other paranormal phenomena. The memetic effect is unusually subtle; compared to other conspiracy theories, an unusually high percentage of those believing in SCP-1345-B do not believe in any other conspiracy theories, and are generally placed high (50-80) on the Gunners Skeptic Scale.
+
+Recovered documentation is scarce; most records related to SCP-1345 were destroyed shortly after its first test. The documents that do exist indicate that SCP-1345 was commissioned as part of a project called "Project Viewpoint"; documentation on the greater project is nearly nonexistent, but it appears to have been a program to develop highly effective psychological warfare equipment and techniques. In internal correspondence, members of the project referred to SCP-1345 informally as "the propaganda machine".
+
+Analysis of remaining documents in United States Archives seem to indicate that SCP-1345-A was intended to be a device to use a currently unknown effect to influence the opinions of citizens of the United States and other countries. Recovered blueprints show that production SCP-1345-A installations, when operable, were intended to be mounted on M35 2½ ton cargo trucks, or in the bomb bays of Convair B-36 Peacemaker strategic nuclear bombers. Listings of a number of prototype programs for SCP-1345-A's computer were recovered; internal comments indicate a variety of purposes, including "inspiring uprisings and installation of governments sympathetic to the United States", "increasing regard of United States-produced products", and "reducing Communist sympathies in foreign and domestic communities". A list of "recommended targets" for the final program was also located; locations for deployment included various countries bordering Warsaw Pact nations, Cuba, and Berkeley, California.
+
+SCP-1345 was tested on ██/██/1951; the first test was believed unsuccessful, and the project was scrapped. This seems to have destroyed confidence in Project Viewpoint, which, together with the internal collapse and purge of ███████████████████, prevented use of anpsych (anomalous psychological warfare) and anint (anomalous international intelligence) techniques by both major powers during the Cold War.
+
+The link between SCP-1345-A and SCP-1345-B was unknown until 1992, when a letter by Dr. ██████ Sharps was recovered from former KGB archives through an intelligence-sharing agreement between the newly-formed Russian Federation and the Foundation. Dr. Sharps was a contractor employed by LANL to design the modulation hardware and software for SCP-1345-A. Before the discovery of the letter, SCP-1345-B was believed to be a non-anomalous, though virulent, conspiracy theory.
+
++ Excerpt from Document SCP-1345-Sharps-1
+
+- Hide
+
+The first test is going to proceed within the next month. The test procedures have been approved by the project supervisor; we will be powering it to five percent of capacity and aiming it directly north. We are running a test regime designed by ████████; if the machine works, anyone affected by it will feel compelled to send a postcard to a mailbox we rented in Philadelphia. Unless you wish otherwise, I have modified the test regime already. If it works, you will be able to detect the extent of its influence easily in the public media here. Look for people talking about "The Philadelphia Experiment". I believe I will be able to secure unsupervised time with the machine within two weeks.
+
+SCP-1345 is currently inoperable, due to degradation of the computer and other equipment. At some point between abandonment of the project, the door was blown open in a windstorm, and further exposure to the elements damaged most of the equipment. Efforts are underway to restore SCP-1345 to a condition conducive to more effective study.
+
+Footnotes
+
+1. An alleged event in which the United States Navy destroyer USS Eldridge variously teleported, traveled through time, or was rendered invisible.

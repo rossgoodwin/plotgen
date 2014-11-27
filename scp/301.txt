@@ -1,0 +1,239 @@
+Item #: SCP-301
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-301 is to be kept in a secure, electromagnetically sealed bunker buried under at least ten meters of earth to conceal its location. The bunker is to be staffed by no fewer than four level three security personnel at all times in order to secure the site and to maintain automated security measures. The perimeter of the bunker is to be lined with a chain-link fence with official warnings to deter intruders. Due to the remote location of SCP-301, additional security is not required.
+
+During experimentation, all research staff and equipment must maintain a minimum distance of at least three meters from the projected edge of SCP-301.
+
+In the event of a containment breach, on-site personnel with the proper security clearance are authorized to implement emergency protocol C-301. All possible entrances to the bunker will automatically seal themselves and remain sealed indefinitely. Emergency protocol C-301 can only be countermanded by an O5 level command.
+
+Description: SCP-301 is an anomalous region roughly three meters in diameter located in the middle of ██████████ National Park. Whenever physical matter enters SCP-301, it temporarily disappears from existence. Following a delay of variable length, the matter that had entered SCP-301 will appear in another location. The duration of this time delay is variable, with a minimum length of ██ seconds and a maximum length of ███ minutes. The exact destination appears to be a random vertex point on a geodesic grid overlaying the Earth’s surface. Each leg of this pattern is approximately 20 km long, resulting in ██████ possible destination points.
+
+The prevailing model of SCP-301’s workings is that teleportation occurs by accessing a coterminous interspatial region lying in a frame of reference attached to the center of the Earth. SCP-301 is invisible to the naked eye, but is detectable through other spectra. SCP-301 also passively emits electromagnetic energy. While not harmful to living organisms, it does interfere with improperly shielded electronics, and may explain why the native fauna does not venture near SCP-301.
+
+Through experimentation, it has been discovered that SCP-301 can accommodate any kind of physical matter with certain size thresholds. The maximum size object that SCP-301 can accommodate can be no larger than SCP-301's three-meter diameter. There is also a minimum limit, though this is based on density rather than size. Currently, most gases and anything on a molecular level are not affected by SCP-301.
+
+For further details, see the experiment logs.
+
+SCP-301 was discovered when there was a spike in disappearances of hikers and tourists in ██████████ National Park, only for several of them to be rediscovered far from the site of their disappearance. The Foundation did not act until it received reports of one of the missing hikers being found in ████, France, and another near ███████, New South Wales, Australia.
+
+Subsequent interviews with these individuals produced inconsistent descriptions of the event, even after the use of ████████████████. Subject 301-a-1 (retrieved in ████, France) described the transfer as a floating sensation, with a mild forward impetus, accompanied by “the ringing of thousands of huge bells,” and “smell[ing] like wet dog and wood smoke,” but having no other sensory components. However, Subject 301-a-2 (retrieved near ███████, New South Wales, Australia) described it as a floating sensation with no sense of forward momentum, but including a “salty taste,” “prickling feeling, like a foot going to sleep” over the entire body, and being able to see “stringy stuff” surrounding the subject. Both subjects were administered a Class-A amnesiac and released. See Document 301-0184678-a for full interview transcripts.
+
+While searching for the anomaly at ██████████ National Park, Agents █████ and ████ accidentally entered SCP-301. They disappeared for approximately ██ minutes until the signals from their locator beacons were reacquired ████ km and ██ km from their last recorded position respectively. Agent █████’s body was recovered by a deep-water retrieval team 43 km SSW of ████████, India. Agent ████ was recovered near ████████, Angola, suffering from exposure, malaria, and amoebic dysentery. Foundation personnel were able to debrief Agent ████ before he died. Agent ████ characterized the teleportation experience as being “swept by a strong current” that “stank of shit.” He also stated that he “saw flames,” and reported hearing “sand falling,” and tasting “sugar, then dirt” in a repeating cycle. Agent ████ died two days later.
+
+Based on the agents’ testimony, SCP-301 was found to be located on a regularly used hiking trail. The Foundation re-routed the hiking trail and built the current facility containing SCP-301.
+
+From information gathered from Subjects 301-a-1 and 301-a-2, and Agent ████, it appears that the interspatial region accessed upon entering SCP-301 is experienced differently by each subject. This experience can manifest as a wide variety of sensory phenomena, including tactile, gustatory, olfactory, visual, aural, and kinetic sensations. Experimentation with Class D personnel to further study this aspect of SCP-301 is recommended. A selection of post-experiment analyses are collected in experiment log 301C.
+
+Experiment Log 301A
+
+Using remote exploration in conjunction with on-going live experimentation, we have managed to map out much of the geodesic grid that SCP-301 teleportation follows. While this has resulted in the discovery of a large number of sites that require Foundation monitoring, many of these sites are in locations that make monitoring them a moot point (i.e. the dozens of egress points that open in the middle of the ocean). -Dr. ████
+
+Experiment Log 301B
+
+After increasing the size of test materials, we've finally found that SCP-301 cannot accommodate items larger than itself. If a piece of matter that exceeds SCP-301's three-meter diameter is placed on SCP-301, there will be no effect. This has been noted for future containment protocols. There is also a minimum limit for what SCP-301 can accommodate. We've filled the containment room with easily detectable gases, as well as bombarding SCP-301 with radioactive particles. However, there is no evidence of any of these substances being successfully transported. The prevailing hypothesis is that SCP-301's minimum limit is based on density rather than size: solids and liquids are affected while gases and individual molecules are not. -Dr. ████
+
+Experiment Log 301C
+
+Entries include subject identification number, egress point, and trip duration, followed by a listing of major sensory elements of the teleportation experience. Note that, for recovery purposes, all test subjects are equipped with a remote beacon harness that reports the subject's GPS co-ordinates to a Foundation satellite every 15 seconds from anywhere on Earth.
+
+Subject: D-05738
+
+Egress Point: ██████, Iowa, United States
+
+Duration: ███ min
+
+Kinetic: None
+
+Visual: None
+
+Auditory: None
+
+Olfactory: None
+
+Tactile: Sensation of slimy tendrils moving over subject’s body
+
+Gustatory: None
+
+Other Notes: None
+
+Subject: D-09983
+
+Egress Point: ██████████, China
+
+Duration: ██ min
+
+Kinetic: Floating sensation, as though suspended in liquid
+
+Visual: A red transparent liquid environment; subject reports seeing many red blood cell-like objects of approx. 3 cm to 50 cm in diameter. Subject also reports seeing a very large shadowy object moving in the distance.
+
+Auditory: None
+
+Olfactory: None
+
+Tactile: None
+
+Gustatory: Coppery taste
+
+Other Notes: Subject reports feeling as though they are about to drown throughout duration of transfer.
+
+Subject: D-25684
+
+Egress Point: ████████████, Mexico
+
+Duration: ███ sec
+
+Kinetic: Rapid “flying” sensation
+
+Visual: Subject reports seeing the terrain they would normally have traveled through to reach the end point of the teleportation process; they also report being unable to see their body. See below.
+
+Auditory: Rushing wind
+
+Olfactory: Fresh bread
+
+Tactile: None
+
+Gustatory: None
+
+Other Notes: Subject also reports seeing a variety of semi-transparent organisms during transit. These creatures [DATA EXPUNGED].
+
+Subject: D-56001
+
+Egress Point: ██████████, Germany
+
+Duration: █ min
+
+Kinetic: None
+
+Visual: None
+
+Auditory: None
+
+Olfactory: None
+
+Tactile: None
+
+Gustatory: None
+
+Other Notes: Subject retrieved exhibiting strong schizophrenia interspersed with lengthy periods of catatonia. This is the first time exposure to SCP-301 has resulted in this level of mental trauma.
+
+Subject: D-56187
+
+Egress Point: Near ████████, Brazil
+
+Duration: ██ sec
+
+Kinetic: Gentle forward movement
+
+Visual: Unknown; subject rendered blind and can not recall any visual stimuli from his time in SCP-301.
+
+Auditory: None
+
+Olfactory: None
+
+Tactile: Spots of cold moving across the left arm.
+
+Gustatory: None
+
+Other Notes: First instance of exposure to SCP-301 causing a physical change in subject.
+
+Subject: D-58092
+
+Egress Point: Near ██████, Laos
+
+Duration: ██ min
+
+Kinetic: Freefall
+
+Visual: None
+
+Auditory: A repeating complex multi-tonal scale; Foundation staff are currently attempting to recreate this scale.
+
+Olfactory: Acetic acid (vinegar)
+
+Tactile: None
+
+Gustatory: None
+
+Other Notes: Though sensors reported a ██ second delay between the subject entering SCP-301 and re-appearing at the destination, D-58092 insisted that she had been in SCP-301 for “several days.” The possibility of a time dilation effect should be investigated.
+
+Subject: D-60014
+
+Egress Point: Near ███████, Canada
+
+Duration: ██ sec
+
+Kinetic: “Flying” sensation; described as “oddly slow”
+
+Visual: Subject reports seeing an unknown number of interlocking gears as far as she can see.
+
+Auditory: Grinding gears
+
+Olfactory: Machine oil
+
+Tactile: None
+
+Gustatory: None
+
+Other Notes: Upon return, subject exhibited an unusual fascination with machinery. Three days later, subject D-60014 began asking personnel about several mechanical SCP objects, including SCP-███, SCP-███, SCP-███, and SCP-███, and displaying knowledge about them that only Level 4 or higher staff could know. Subject interrogated and terminated 15 days ahead of schedule.
+
+Subject: D-60445
+
+Egress Point: Near ██████████████, Siberia, Russia
+
+Duration: ██ min
+
+Kinetic: Unknown
+
+Visual: Unknown
+
+Auditory: Unknown
+
+Olfactory: Unknown
+
+Tactile: Unknown
+
+Gustatory: Unknown
+
+Other Notes: Subject found bisected along the coronal plane. Cause unknown.
+
+Subject: D-61429
+
+Egress Point: Near █████, Florida, United States
+
+Duration: ██ min
+
+Kinetic: Floating
+
+Visual: Painfully bright white light
+
+Auditory: Shouting voices, “like everyone in the whole world was shouting at me at once.” No individual words could be discerned.
+
+Olfactory: None
+
+Tactile: Pain over the entire body, described as “like having red-hot needles stabbing every inch of me.”
+
+Gustatory: None
+
+Other Notes: Subject reports “being watched” and “being judged” by unknown entities.
+
+Subject: D-62225
+
+Egress Point: Near █████, Niger
+
+Duration: ███ min
+
+Kinetic: Unknown
+
+Visual: Unknown
+
+Auditory: Unknown
+
+Olfactory: Unknown
+
+Tactile: Unknown
+
+Gustatory: Unknown
+
+Other Notes: Several life-forms of the types described by D-25684 appear with subject. Subject is killed and life-forms [DATA EXPUNGED]. Area is sterilized.

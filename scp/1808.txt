@@ -1,0 +1,65 @@
+Item #: SCP-1808
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1808-1 through SCP-1808-6 are to be kept within a shared containment locker in Safe Wing-C at Sector-25. Any use of SCP-1808 outside of a strictly monitored testing environment is prohibited.
+
+Description: SCP-1808 is the collective designation of six yellow plastic wristwatches decorated with green polka dots and images of SpongeBob SquarePants, a popular cartoon character from the children's television series of the same name. SCP-1808 operates and is powered via anomalous means, as all watches function normally despite the apparent removal all interior mechanical components.
+
+SCP-1808's main anomalous properties manifest when it is worn by a human being or any other creature possessing limbs and phalanx bones. Once affixed to a subject, SCP-1808 can only be removed by the individual who originally fastened it. Every quarter hour, SCP-1808 will play a sound bite of the Spongebob character's distinctive laugh, and the distal, intermediate, and proximal phalanges (bones of the fingers and toes) of the limb upon which SCP-1808 is worn will grow in length by approximately 6cm. The growth will continue every quarter hour until either SCP-1808 is removed from the subject or SCP-1808's adjustment knob is retracted, halting the watch's timekeeping functions. Subjects experience little to no blood loss when the phalanges penetrate the subject's flesh; however, afflicted individuals have reported the growth to be immensely painful.
+
+When SCP-1808's adjustment knob is retracted and rotated clockwise, the hands on the watch rotate accordingly, resulting in accelerated phalangeal growth. Rotating the knob in the opposite direction reverses the growth process. If the process is completely reversed, the bones will cease shortening once returned to their original length and all areas of flesh damaged by the protruding phalanx bones will be instantly healed. Subjects who have the effects reversed in this way bear no evidence of the previous physical trauma, although any psychological trauma resulting from the experience will be retained. If two instances of SCP-1808 are fastened together and placed around a subject's neck, the subject's teeth lengthen in a similar manner.
+
+Recovery Log: SCP-1808 was one of ██ SCP objects retrieved on 26/04/2004 from a Marshall, Carter & Dark, Ltd. auction house in Somerset, England, during a raid on the facility carried out by Mobile Task Force Eta-2 ("Buyer Beware"). The raid had been initiated after Agent Rosser, an undercover field agent working within the auction house, failed to check in with operatives at Sector-25 for over 24 hours. Rosser was found behind the curtain of the auction stage, bound to a chair with all six instances of SCP-1808 attached to his body: one on each wrist and ankle, and two fastened together around his neck. Once apprehended, the Marshall, Carter & Dark employee who placed the watches on Agent Rosser agreed to cooperate in the removal and containment of SCP-1808.
+
++ Interview Log
+
+- Hide Interview Log
+
+Interviewed: Agent Rosser
+
+Interviewer: Dr. █████████
+
+Foreword: Transcription of the post-rescue video interview with Agent Rosser, who was captured and tortured by Marshall, Carter & Dark personnel on 26/05/2004.
+
+Dr. █████████: Kindly summarize the events leading up to your abduction.
+
+Agent Rosser: Not much to summarize. I went to sleep in my flat and woke up tied to a table. Maybe they drugged me, maybe they used an artifact, who knows?
+
+Dr. █████████: How did Marshall, Carter & Dark come to discover your identity as a Foundation field agent?
+
+Agent Rosser: That's the funny thing. I never spoke a word to anyone about being Foundation. Not my friends, not my loved ones, no one. And I only contacted base through the standard [DATA EXPUNGED], and we both know that's untraceable. You see, I don't think they were even aware I was Foundation. If they were, they would have called off the auction and gotten their goods the hell outta there.
+
+Dr. █████████: If your identity wasn't compromised, why were you abducted and tortured?
+
+Agent Rosser: They weren't doing it to get information out of me. I think it was… (Pause.) I think it was quality assurance. Testing the product, making sure it worked. Experimenting with it. And if the raid hadn't happened, they would have put me on stage and demonstrated it.
+
+Dr. █████████: I see. What events transpired in the timeframe between your abduction and your rescue?
+
+Agent Rosser: Like I said, I woke up in a dark room. Recognized it as the basement. There were a few other blokes there who were also tied up. Coworkers who'd been hired around the same time I was. A couple of the senior staff members came downstairs with the auction items, said they were "downsizing," and started using us as guinea pigs. I got the Spongebob watches. You know, I used to like Spongebob. I saw a couple of episodes. Pretty funny stuff for a kid's show. But after hearing that damn laugh over and over again while the bones in my toes stabbed holes in my shoes, I wouldn't mind throwing that voice actor out a window or two.
+
+Dr. █████████: Please try to stay on topic, Agent Rosser.
+
+Agent Rosser: Right. Sorry. First they just strapped the watches to my wrists and ankles and waited. After they were sure the things went off every fifteen minutes, they started twisting the little knobs. They'd twist them and twist them until my bones started cracking against the walls. Then they'd reel 'em back in and start over. (Pause.) You know how the Foundation does the bamboo-under-the-nails thing to train field agents to withstand torture? This was worse. It was from the inside. The ends of my fingers were worn off and peeled back like an old pair of gloves. And I was lucky; most of my coworkers didn't survive the products that were tested on them.
+
+Dr. █████████: When you were discovered, two of the watches had been joined together and fastened around your neck.
+
+Agent Rosser: (Silence.)
+
+Dr. █████████: Agent Rosser?
+
+Agent Rosser: The MC&D guys didn't think it was enough. They said the effect was okay, but they needed a way to … improve it. (Exhale.) One of them suggested putting two together around my neck. My teeth started getting longer, like my fingers and toes. But they didn't go straight, they went off in different directions. Some went … inside. And every time they grew longer the watches played that damn laugh. And those bastards … they … they … loved … it.
+
+(At this point, Agent Rosser utilized the sickness bag provided for him.)
+
+Dr. █████████: I think that's all we need to know. Thank you very much for your time.
+
+Addendum: The following is a product description of SCP-1808 found in copies of an auction catalogue that was to be distributed at the event:
+
+Lot #14
+
+Six adult-sized wristwatches decorated with illustrations of a popular cartoon character.
+
+These timepieces may appear cheap and tasteless at first glance, but rest assured that their inconspicuous appearance conceals a deeply valuable and mysterious effect. Those who wear these watches are inflicted with substantial pain in fifteen minute intervals. The effect can be activated manually, if desired, and can also be completely undone to remove any evidence of mischief. These watches are the only products in existence with such uncanny abilities, and businesses or individuals wishing to carry out quick, efficient, and mess-free interrogations would be remiss in missing this once-in-a-lifetime opportunity to acquire them, as would our patrons with tastes for intimate sessions of impassioned discomfort.
+
+Starting bid: £14,800

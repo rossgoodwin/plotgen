@@ -1,0 +1,83 @@
+SCP-873 showing office of Dr. Ivan ██████████ circa. 18██ with minimal quantum interference
+
+Item #: SCP-873
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: SCP-873 is kept in a secure room at Site-19. (Revised see: Containment Procedure Updates) Three wide-spectrum high-definition cameras shall be mounted in order to maintain 360-degree observation SCP-873 on a continual basis. Recorded video data shall be archived in the Foundation’s secure network and access granted to any researcher with a clearance 2 or better upon request. Physical examination and testing of SCP-873 is permitted with written approval from Level 3 or above. (Revised see: Containment Procedure Updates)
+
+Containment Procedure Update ██/██/19██: Until further notice, physical access to SCP-873, as well as access to recorded video from SCP-873, is restricted to researchers with direct approval of the site director.
+
+Containment Procedure Update ██/██/20██: Until further notice, physical access to SCP-873, as well as access to recorded video from SCP-873 is restricted to level 4 researchers with O5 approval.
+
+Containment Procedure Update ██/██/20██: SCP-873 is to be permanently relocated to Site ██ and stored in a concrete-lined vault at least 2000m below ground and at least 100km from any other SCP containment facility or human population center. Archives of video surveillance are to be encrypted to a secure, dedicated data warehouse with access limited to level 4 and above. Any changes in mass, volume or apparent refractive index must be reported immediately to O5 command.
+
+Description: SCP-873 is a spherical object 138mm across with a detectable mass of 5.3kg. It gives the appearance of being made of flawless glass or crystal, but all attempts to determine the material of its construction have been inconclusive. No attempt to remove a sample has been successful, and spectroscopic analysis has shown no absorption spectra that can be attributed to the object. Because of its anomalous properties, its refractive index can only be estimated.
+
+The object is transparent, but only 50% of photons entering the sphere will emerge, while a variable percentage of photons emerging from SCP-873 originate from SCP-873 itself. (This has been confirmed using quantum entanglement and a coherent light source.) The photons emerging from SCP-873 appear to originate from light striking an identical object displaced in both time and space from SCP-873. This object has been designated SCP-873-Prime (or SCP-873’). The anomalous effects of both SCP-873 and SCP-873’ seem identical, in that an observer of SCP-873’ will perceive 50% of photons striking SCP-873 as being emitted from SCP-873’, whereas SCP-873 emits 50% of photons striking SCP-873’.
+
+In addition, while the light emitted from SCP-873 shows no anomalous properties in and of itself, the images provided are presented in strict reverse chronological order. To an observer of SCP-873 it appears that SCP-873’ is moving backwards in time at a rate of exactly one second per second. The effect is mirrored for any observer of SCP-873’, who would perceive their images from SCP-873 as progressing backward in time at the same 1:1 ratio.
+
+Despite the differences in perception of time between observers of SCP-873 and SCP-873’, written communication has been possible. Unfortunately, information transfer is often hindered by quantum interference rendering messages illegible. It has been theorized that the interference is a form of paradox censorship.
+
+Current observations and experiments are recording images from SCP-873’ in the possession of Dr. Ivan ██████████, a physician to the court of Tsar Alexander I in 18██.
+
+Addendum 1:
+
++ Acquisition Notes SCP-873
+
+- Acquisition Notes SCP-873 
+
+SCP-873 was purchased clandestinely from the archives of █████████ University in Volgograd in ██/██/1992. Most paperwork in regards to the provenance of the object were lost in the transition between the USSR and the Russian Federation. The only documentation the Foundation has recovered to date is a three page typewritten letter from 194█ from [REDACTED] to [REDACTED] detailing the post-war return of the object to the University. According to [REDACTED] was acquired by a 1927 expedition by the Soviet Academy Of Sciences from Evenk natives in Siberia. No details about the nature, purpose, or participants of the expedition were given.
+
+Addendum 2:
+
++ Incident I-873-5
+
+- Incident I-873-5
+
+Document# I-873-5
+
+Personnel involved: [REDACTED]
+
+Date: 09/12/20██
+
+Location: SCP-873 observation room, Site ██
+
+Description: Since 6/27/19██ SCP-873’ has been in a locked container producing no visual information. Beginning 13:15 on 09/12/19██ the following imagery was recorded.
+
+13:15 - Light abruptly appears entering from the top of box SCP-873’ is inside as the lid is forcefully opened.
+
+13:16 - SCP-873’ quickly rises into the hands of an unidentified man in dress appropriate to the early 19th Century Russian Empire. The man is apparently shouting something at SCP-873’ as he places it on a desk in front of him. Visible on the desk is an open strongbox and, through an open door a female corpse can be seen.
+
+13:17 - The man holds up a partly-crumpled piece of paper to SCP-873’. One message has been scrawled out illegibly, and beneath that is one sentence reading:
+
+"I know what you will do now."
+
+13:18 - The man takes the message and un-writes it with a quill pen drawn from a holder next to SCP-873’. He then violently scratches out the prior message, revealing it. With shaking hands, he unsmoothes the paper, leaving it a crumpled ball, and carefully places it on the floor next to the open door to the office.
+
+13:19 – The man returns to the desk, closes the strongbox, and walks backwards out of the room with it, stepping over the corpse in the doorway.
+
+13:25 - The man runs backwards into the room, almost tripping on the corpse. He is holding a cane that shows signs of blood and hair stuck to it. He comes to an abrupt halt in the doorway and stares down at the dead woman for approximately six minutes.
+
+13:31 - The man raises his cane, and the woman’s corpse leaps up to meet it. The cane rebounds off her head and shoulders three times before she’s left standing, facing the man as he lowers the cane to his side with a visibly trembling hand.
+
+13:32 - The man and woman engage in an animated discussion, during which the crumpled paper jumps up from the ground into the man’s left hand, where he uncrumples it during the discussion. As the conversation ends, the man appears less anxious and more relaxed.
+
+13:37 - The man shuts the door on the woman and quickly backs to the desk, sits down and holds the paper up to SCP-873’, glancing back toward the door once. On the paper, the first message, now legible, reads:
+
+"Dear Friends:
+
+As you know— or will know, time proves such an unwelcome barrier— my wife has always been enthusiastic about our relationship with you. The glimpses of the future you have thus far provided have been [REDACTED] I will apologize if she seems to have gone beyond the bounds of discretion. While you have ever been explicit in requesting our secrecy, you shall find, as I have, that she is strong-willed and has her own opinions about such matters. However, it is her contact with [REDACTED] that may at last provide me with an answer to the origins of this fascinating and terrifying object we share.
+
+Continued communication identifies this man as Dr. Ivan ██████████. Directives from O5 have ordered communication to continue in an effort to gather intelligence about the origins of SCP-873’. Communication with Dr. Ivan ██████████ is ongoing and will continue for the next █ years until the observed SCP-873’ timeline reaches the point where [REDACTED] presented Dr. ██████████ with SCP-873’ as a gift.
+
+Addendum 3:
+
++ Note on update to containment procedures
+
+- Note on update to containment procedures
+
+After extrapolating back the timelines of SCP-873 and SCP-873’ and assuming a constant 1:1 ratio, the point where both timelines become coincident is 00:17 UT June 30, 1908. Given that SCP-873 was recovered in Siberia by a 1927 expedition by the Soviet Academy Of Sciences, and such an expedition in 1927 was the first recorded on-site investigation of [REDACTED] can be almost certain that it is not a coincidence. Since it is unknown if [REDACTED] was the source of the anomalous properties of SCP-873, or if SCP-873 was the cause of [REDACTED] it is recommended that containment procedures and object classification are updated accordingly.
+
+Request granted— O5-█

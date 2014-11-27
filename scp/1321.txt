@@ -1,0 +1,83 @@
+SCP-1321
+
+Item #: SCP-1321
+
+Object Class: Safe Neutralized
+
+Special Containment Procedures: Due to its age and fragility, SCP-1321 is to be kept in an an acid-free, humidity-controlled glass case in Site-19's High Value Containment wing. Personnel who made physical contact with SCP-1321 are to wait a minimum of one (1) week before additional contact. The remains of SCP-1321 are to be kept in a vacuum-sealed bag in its prior containment chamber. No additional containment measures are necessary.
+
+Description: SCP-1321 is the journal of Guillaume Bélibaste, the last known Perfectus of the Cathar religion, who was burned at the stake (according to Church records) in the year 1321 CE on charges of heresy. SCP-1321 is dated to the day before Bélibaste's death. SCP-1321's anomalous properties will manifest when a person touches the object or reads its physical copy to its entirety. When either condition occurs, the list of names appearing in the bottom of SCP-1321 will update, and the subject will usually experience a sense of euphoria and peace, accompanied by vague visions consisting of ethereal imagery. On rare occasions, subjects describe more detailed visions, which always include in some way a human figure attempting to gain entrance to a location, only to be refused. The exact nature of the figure and location changes depending on the subject, and will often take a shape which is in some way familiar to him/her. Subject who experienced this type of vision reported a sense of loss and longing.
+
+Regardless of the vision type, subjects who touch SCP-1321 always react to the experience favorably, and will seek to gain access to SCP-1321 by various means, though they will never resort to violence, even if they have a predisposition to such a behavior. The desire to access SCP-1321 will fade over a period of a few days.
+
+Historical Background: The Cathar religion, also known as the Albigensian Heresy, was a dualism-based belief which thrived in Languedoc between the twelfth and thirteenth century, before becoming the target of persecution by the Catholic Church and finally being destroyed following the events of the Albigensian Crusade. The Cathar religion advocated austere living and rejected the sacraments of the Catholic Church as false, instead practicing only a single sacrament, the rite of Consolamentum. This ceremony, performed only shortly before death, was meant to free the soul from the bonds of the god of flesh and matter, which the Cathars considered evil, and deliver it to the realm of the god of spirit. They believed that if the rite was not performed, the soul was doomed to return to the material plane in another body to live another lifetime of suffering.
+
+The contents of SCP-1321 are as follows:
+
+I am undone. Today, the task of Arnaud-Amaury and his ilk has been completed, or so they think. They believe me to be the last of the Perfecti, and their pride overtakes them, the fools. My final request before the inquisitor was permission to write a last confession, to repent my heresy. I shall do no such thing. Let the writing of this document be my last act of defiance.
+
+The irony. I blame the Inquisition of pride when none is more guilty of this sin than I. I have erred much in my life, and strayed from the path of righteousness. My sin greater than theirs, for I was supposed to be better. My hamlet was more obscene than their golden towers, for my only property should have been my faith. The meat of the goat I slaughtered was more evil than their stuffed peacocks, for I was not meant to taste the flesh of others, nor take a life of any kind. My love for my wife was the foulest of them all, for with it I created more flesh to serve the dark, when my goal was to rid the world of it.
+
+It is right for me to die now, for I have taught others the words. They may perform the rite of Consolamentum and release their brothers and sisters of this mortal coil, this endless agony of feeding and fearing and fornicating. I am a simple man, and never one to coat my words, not when discussing something of this vital importance. The holy words cannot be written upon as foul a substance as velum, the body of evil itself. Instead, it shall be a conduit for those who seek to be free to find those who still keep faith. As long as the words live, mankind might still one day be released. I have no one to perform the holy rite on me, and so I am doomed to return. Perhaps in the light of a different era, I too shall be unbound.
+
+Find them, find the words. Do not allow them to be lost. Forgive me.
+
+Following this text is a list of names, supposedly of individuals with knowledge of the words Bélibaste refers to. This list changes periodically, but the number of names was never observed to reach beyond a few dozen.
+
+SCP-1321 was acquired by Father ████████, an agent of the Foundation employed at the Papal archives, where he observed the item's unusual properties during a routine inventory. Upon retrieval in 1902, the list of names numbered fifty-seven (57). In the year 1938 this number rose to sixty-four (64), the highest recorded, but dropped to only ten (10) by the year 1945, possibly due to efforts by the Gestapo. Foundation efforts to locate any of the those mentioned on the list have thus far failed.
+
+Addendum SCP-1321-A:
+
++ Testing Log SCP-1321-A: Noteworthy Results
+
+- Hide
+
+Subject: D-1321-3, twenty-five (25) years old male, convicted of three accounts of first degree murder.
+
+Test: Subject was instructed to touch SCP-1321 and describe what he sees.
+
+Result: Subject reported seeing a man of similar build, age and coloring to his own attempting to enter "some sort of carnival thing, looks really fucking awesome, with the lights and rides and the smell of fried food". The man was declined entrance by a security guard. When asked for the reason for the guard's refusal, D-1321-3 hypothesized that it was because he thought he was "too greedy, and will eat everything and cut in line and be an asshole to the kiddies. He said I- the man had to promise to be nice, but he couldn't. He didn't know how. So he just wandered off outside, and it wasn't so bad. The stars were all pretty, and there was an ice cream truck."
+
+Subject: D-1321-12, thirty-five (35) years old female, convicted of two accounts of first degree murder, her sister's children.
+
+Test: Subject was instructed to touch SCP-1321 and describe what she sees.
+
+Result: Subject reported seeing a young pregnant women attempting to enter a maternity ward in an unspecified hospital. The woman was declined entrance by a nurse, who D-1321-12 claimed refused to let the woman in because "that baby inside her was sick, you see, and that nurse said that now it won't be born. She said the mother was at fault, that she didn't take her medicine to prevent that. She couldn't, though, she didn't know which medicine was the right one. She can't read. I think that nurse was full of shit, though. I felt the baby. It was okay."
+
+Subject: Junior Researcher █████, twenty-seven (27) years old male. Volunteered.
+
+Test: Subject read SCP-1321 in its entirety.
+
+Result: Subject reported observing a small child attempting to gain entrance to a classroom in which a lecture is in session. The child was refused by a teacher due to "not doing his homework and slacking off. He's too young for that, I don't understand why that teacher needs to be so harsh with him. That lecture was about advanced economics, he couldn't possibly have understood the material. I'm not sure why he wanted to attend it in the first place. It really sounded interesting, though, I wish I could go. There was other stuff going on outside, in the hallway, kids talking, playing, things like that. I just wanted in though."
+
+Addendum SCP-1321-B: In the year 2███, only one name remained on the list. An anonymous tip led the Foundation to the location of ████████ ██████, a physician living in the town of ██████, France. Agents were dispatched to bring ████████ ██████ to questioning. Upon arriving to ████████ ██████'s place of residence, the agents' vehicle suffered a malfunction in the steering system, causing them to lose control of the vehicle and run over ████████ ██████, who was busy working in his garden. ████████ ██████ was pronounced dead on the spot. Upon ████████ ██████ death, SCP-1321 began to show signs of increased aging, finally disintegrating completely two hours later. SCP-1321's remains displayed no anomalous properties. Object reclassified as Neutralized.
+
+Junior Researcher █████, who had previous contact with SCP-1321, attempted to use it again during its final hours. He reported a brief vision of the same child he observed previously banging on the door of a locked classroom, but receiving no reply, not even a rejection. █████, when asked for his opinion on what he saw, replied that the child was expelled from school for his bad behavior, and that he could never go back there again. █████ expressed signs of extreme emotional stress following his final contact with SCP-1321, and developed signs of nihilism and severe depression in the following weeks. The following log was recorded during a physiological examination three weeks after SCP-1321's neutralization:
+
++ Interview Log SCP-1321-█████
+
+- Hide
+
+Interviewer: Dr. ██████ (psychologist)
+
+Interviewed: Junior Researcher █████
+
+<Begin log>
+
+Dr. ██████: Your behavior has been rather concerning these last few weeks. Could you explain your reasons for refusing to eat?
+
+Junior Researcher █████: Not much point, is there?
+
+Dr. ██████: Do you not wish to keep on living?
+
+Junior Researcher █████: I hardly have a choice, now do I? Not anymore. I don't eat because I can't really die.
+
+Dr. ██████: Please, do explain.
+
+Junior Researcher █████: I'll just come back as something else, as another meat marionette, dancing to the flesh god's music. No one is left to cut the strings. I'll never be allowed inside, none of us will.
+
+Dr. ██████: But surely there is still some joy to be found in living? Some purpose? What about those children you saw outside? They were happy, weren't they? So could you, so could we.
+
+Junior Researcher █████: I… I don't know anymore.
+
+<End Log>

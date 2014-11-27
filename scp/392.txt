@@ -1,0 +1,23 @@
+SCP-392 during testing
+
+Item #: SCP-392
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-392 is to be kept in a steel-reinforced concrete cell at Storage Site-23. SCP-392 may only be accessed for research or testing purposes, and with approval from at least two (2) Level 4 personnel.
+
+Description: SCP-392 is a device seemingly capable of breaking down and rebuilding matter at a quantum level. Upon activation, material within a six (6) meter radius of SCP-392 'disappears'. Reappearance takes place four hundred forty-three (443) seconds after initial disappearance. (see Addendum 392-A) The success rate of reassembly appears to vary based on the complexity, density, and material strength of an object. The simpler, denser, and sturdier an object is, the more likely it is to reassemble intact. As the object increases in complexity and decreases in density and strength, the likelihood of the object retaining its shape decreases considerably.
+
+Organic matter is reassembled into the materials to form the specific organism. This process generally leaves micro-structures, such as cells, intact. However, SCP-392 seems incapable of forming these raw materials into a functional organism, likely due to organic matter's complexity and relative fragility, and so simply deposits the remains near the location they originated from.
+
+SCP-392 was discovered ██/██/████ at ██████ ██████████, a physics research facility in ███████, ███████, following the reports of [REDACTED] missing persons, all of which were confirmed as researchers employed at the facility. Upon investigation by Foundation agents, the lab was discovered to be abandoned. The object was discovered in a designated testing lab, standing as the only assembled device in the room, and was retrieved for analysis. SCP-392's properties were not discovered until testing at Site-23. No remains of the researchers were found within the facility.
+
+Addendum 392-A: SCP-392 has two dials, each labeled "Distance" and "Timer". Each are set at six (6) meters and four hundred forty-three (443) seconds, respectively. Both appear to be stuck in place, and any efforts to repair the dials have met with failure. The reason the dials have locked up, and why at said specific measurements, remains unknown at the time of writing.
+
+Incident 392-A: On ██/██/19██, SCP-392 activated, despite the lack of external force. All material within a six (6) meter radius disappeared, as is normal with the object. Upon reappearance of material, however, organic material was found two (2) meters outside of SCP-392's normal radius. Testing of organic material confirmed it was human in origin. The following DNA testing identified the remains as Dr. ██████ ████, one of ██████ ██████████'s missing researchers. Further analysis of partially assembled skeleton revealed the lack of a right hand among the organic material.
+
+Incident 392-B: On ██/██/20██, SCP-392 activated once again without the presence of external force. Like Incident 392-A, all material within a six (6) meter radius disappeared. Upon reappearance, a stone tablet appeared one (1) meter from the object, along with a relatively small amount of organic material. Organic matter was found to contain the partial skeletal assembly of a right hand. DNA testing of organic material confirmed it belonged Dr. ██████ ████. The stone tablet was found to have writing etched into the surface.
+
+Document 392-A: The following document is the transcription of etchings found on the stone tablet in ██/██/20██. (see Incident 392-B)
+
+All they know is what we want. Keep your eyes closed. Check the sheets before you sleep.

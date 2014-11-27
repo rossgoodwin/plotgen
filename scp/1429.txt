@@ -1,0 +1,125 @@
+Item #: SCP-1429
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-1429 are stored at Bio-Site 66 in Facility A-1429. Free instances are to be kept in individual labeled vials in Bio-Containment Locker 1429. SCP-1429 is considered to be a Class 3 infectious disease.
+
+In the case of a broken container, all present personnel are to restrict themselves to the area and call for the nearest recontainment team. Personnel assigned to SCP-1429 are to be made aware that there is no way to detect SCP-1429 before manifestation, and they will be quarantined until an escaped instance is recovered.
+
+No instance of SCP-1429 is to be extracted except for approved testing. Test subjects for SCP-1429 are to be kept in quarantine in specialized human containment suites for the duration of their infection. Upon the manifestation of SCP-1429-B, human test subjects are to be terminated with minimal physical trauma and autopsied for study. When study of a given SCP-1429-B appears unlikely to yield further useful information, instance is to be destroyed and SCP-1429 to be recovered.
+
+Testing is not to be undertaken without a secure enclosure prepared for any eventual instance of SCP-1429-B. Enclosures must possess multiple angles of surveillance and a fresh water source. See Document 1429-3-A for full requirements.
+
+Description: SCP-1429 is a large luminescent amoeboid organism (~1.5mm in diameter) of fluorescent blue colouration and unknown origin. Currently, nine instances of SCP-1429 are in the Foundation’s possession, and one has been destroyed through testing. After an incubation period, SCP-1429 causes acute and variable mutation in human tissue. SCP-1429 does not share physical characteristics with any known terrestrial microorganisms, and do not appear to have a detectable DNA structure. SCP-1429 does not appear to breed or multiply.
+
+Upon infection, an instance of SCP-1429 will enter a human body painlessly through the skin and settle within a large internal organ, rooting itself and becoming effectively undetectable by conventional means. The time between infection and activation varies greatly, with test subjects displaying incubation times between thirty-eight minutes, and eight months two weeks.
+
+After this period of time, the instance of SCP-1429 becomes active and causes a series of radical mutations to the infected organ through an unknown process. Organs undergo genetic and morphological changes and become ambulatory, growing limbs and simple bodily systems of their own, effectively becoming independent organisms. These organisms are classified as SCP-1429-B.
+
+SCP-1429 will remain lodged within SCP-1429-B until the latter’s death, after which they will remain for a short period of time before escaping. Instances are capable of repeatedly infecting new hosts if given the opportunity. No two infections have had exactly the same result.
+
+Discovery: All instances of SCP-1429 were discovered after a series of outbreaks in the central United States over the course of two months. In total, ten civilians had become infected with ten individual instances of SCP-1429, and subsequently perished.
+
+As per protocol, a standard media purge was undertaken to contain public knowledge of the events. Additionally, the remains of civilian victims were retrieved and replaced with false bodies. Live and deceased wild instances of SCP-1429-B were extracted and put in containment for study. During dissection, an instance of SCP-1429 was recovered from each recovered instance of SCP-1429-B.
+
+Research into the victims’ personal histories revealed a shared skydiving trip approximately 22 days before the first death. Proposals concerning the examination of the Earth’s upper atmosphere are pending.
+
+SELECT TESTING SUMMARIES
+
+CLOSE LOG
+
+SCP-1429-B-008.
+
+Testing Summary: In 85% of test cases, the instance of SCP-1429-B succeeded in exiting the host’s body, often by breaking through the skin. In 12% of test cases, SCP-1429-B remained trapped within the body and caused fatal internal damage to the host. The remaining 3% of tests yielded unique responses in subjects due to the placement of SCP-1429 and the nature of the subsequent mutation.
+
+A selection of testing summaries has been compiled below. This list contains instances of SCP-1429-B encountered through standard testing and not instances recovered from the field.
+
+Test Number
+
+Incubation
+
+Affected Organ
+
+Result
+
+1429-B
+
+001
+
+5d4h3m
+
+Liver
+
+Host collapsed in pain as organ began to ambulate violently. Organ tore skin and exited the torso before fully converting, causing fatal internal and external trauma.
+
+1429-B-001 manifested ten boneless legs of equal length and a simple gut, with a beaked mouth replacing the hepatic vein. Instance is capable of herbivorous aquatic life in a freshwater environment.
+
+002
+
+19d19h42m
+
+Sm. Intestine
+
+Host collapsed with sudden, extreme nausea and vomited entire contents of bowel. Went into shock as intestine began to ambulate. Autopsy revealed significant internal bruising where organ detached itself from blood vessels and digestive tract.
+
+1429-B-002 escaped through the host’s mouth after its death by cardiac arrest. Upon expulsion, instance had grown several dozen pairs of muscular lobed fins along its sides, as well as a toothed circular mouth on the front end. Later developed simple eyes and antennae along its back. Instance proved highly carnivorous and amphibious.
+
+004
+
+8d1h7m
+
+R. Lung
+
+Host began internal hemorrhage, and suffocated as its left lung filled with blood. Autopsy released trapped instance of SCP-1429-B
+
+1429-B-004 escaped the thoracic cavity during autopsy. Instance had developed a simple muscular web over its surface and a pair of delicate webbed wings, and was capable of limited jumping and gliding action. Accidentally destroyed by surprised coroner’s aide as it leapt from the thoracic cavity.
+
+005
+
+28d2h58m
+
+Heart and circulatory system
+
+Host collapsed from sudden cessation of blood pressure to the brain. Instance detached itself from the host and escaped through the navel, causing extreme damage to thoracic cavity.
+
+1429-B-005 consisted of heart and a majority of the circulatory system. Instance possessed muscular webbing with a high level of articulation in larger veins and arteries. Finer veins and arteries apparently served as sensory organs. Instance was predatory, having developed a small beak within the inferior vena cava and a simple gut. Hunted by ambushing prey, anchoring itself and ripping off pieces of flesh before fleeing.
+
+007
+
+22h37m
+
+Tongue
+
+Host began producing inarticulate vocalizations, and attempted to bite tongue off as 1429-B began to ambulate. Host was sedated to foster the remainder of conversion, died of hemorrhage caused by SCP-1429-B-007 detaching itself.
+
+Damage inflicted by host prevented the anterior half of 1429-B-007 from completing conversion. Instance possessed four pairs of boneless, muscular limbs and no other mutations.
+
+008
+
+82d7h
+
+Stomach
+
+Host complained of unusually intense stomachache before vomiting blood, expiring from blood loss soon after.
+
+1429-B-008 escaped through the host's mouth. Instance developed several segmented muscular arms and a complex mandible complete with teeth. Instance is carnivorous and retained for study. See attached photo.
+
+011
+
+15d6h11m
+
+L. Eye
+
+Host complained of sudden blindness and pain around her eye. Within four minutes ocular muscles had dislodged from the face and the instance of 1429-B escaped the skull. Event proved nonfatal to host.
+
+1429-B-011 possessed three two-jointed limbs which had erupted from its posterior. Instance dried out in 48 hours and perished with assistance.
+
+015
+
+13m6d11m
+
+Nervous system
+
+Host complained of hallucinations (both auditory and visual) and phantom pain in nonexistent extremities. Was unable to clearly articulate the content of hallucinations. [DATA REDACTED]
+
+Instance required outside assistance to escape the host.

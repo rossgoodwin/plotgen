@@ -1,0 +1,17 @@
+Item #: SCP-167
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-167 is currently kept in Room ██ of Research Command-06. Its door is to be padlocked at all times when not under study. Anyone wishing to obtain the key to conduct unscheduled exploration of or to study SCP-167 may do so only with the permission of the relevant level 3 personnel assigned to this SCP.
+
+Description: SCP-167 is a cube measuring approximately 10 meters on its edge, created from an unidentified shiny white-plastic polymer. Affixed to one of the faces of the cube is a large metal door. It is unknown if this door is part of the original SCP, or if it was affixed by someone else before the object was acquired by the SCP Foundation. The interior dimensions of this cube are identical to the exterior, minus several centimeters for the width of the cube — except that two of the remaining three walls each have doorways in them. These doorways lead directly to identical rooms, each with two more doorways leading to more identical rooms. This pattern continues for as far as the research teams have been able to determine. The placement of these doorways appears to be random; no pattern has been found that explains which two of the three remaining walls have doors.
+
+SCP-167 shows signs of being explored before — a number of rooms, especially those at a low depth, have red dots or other markers painted next to the doorway back to the entrance. Researchers have recently taken to replicate this behavior on any rooms they visit, after the events mentioned in document #167-08. Additionally, several man-made and natural objects have been found scattered in some of the rooms of SCP-167: religious idols, circa 500 BCE; several treasure chests, circa 1500 CE; [DATA EXPUNGED]; and several SCPs, most notably [DATA EXPUNGED].
+
+Addendum 167-01: SCP-167 does not appear to follow the rules of Euclidean geometry. A different path to rooms which should be the same room was taken by two researchers. Both arrived at their destination, but neither saw nor heard the other. How SCP-167 is warping space to create this effect is unknown, but warrants further study.
+
+Addendum 167-02: A request to test the effects of SCP-184 on SCP-167 has been suggested. This experiment is under consideration.
+
+Addendum 167-03: A request to use SCP-167 as a compact storage space for benign SCPs has been proposed by Dr. █████. This proposal requires a reclassification of SCP-167 to Safe class, so a re-evaluation is pending.
+
+Document #167-08: As most of you are aware, Dr. ██████ was videotaped entering SCP-167 several days ago without the requisite ball of twine, and he has not yet returned. His ultimate fate is unknown, but the search teams have turned up nothing. Let this be a reminder to all of you just how easy it could be to get lost in there if you don’t utilize some method of marking your path. If I find that any other researcher has disobeyed the safety regulations and entered without a ball of twine, no matter how far deep they intend to go, they will find themselves being transferred to another facility for researching Keter-class SCPs, where they should have ample motivation to learn to follow safety regulations quite quickly. —Dr. Klein.

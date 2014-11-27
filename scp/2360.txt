@@ -1,0 +1,201 @@
+Item #: SCP-2360
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2360 instances are to be contained in cells shielded with a Faraday cage. Its containment site must be equipped with an EM interference generator in case of cage failure. Augmentations may be serviced by qualified personnel upon request.
+
+SCP-2360 are to be administered 2360 liquid feed in place of the standard humanoid SCP meal plan. Access to the standard humanoid meal plan is permitted at researcher discretion as incentives for good behavior.
+
+Access to system-link play or to SCP-2360's game discs may be revoked as punishment for unwanted behavior, at researcher discretion; however, it is much more compliant and sedentary when allowed these privileges.
+
+SCP-2360's local area network time is to be strictly scheduled. It may be given up to three hours per day, as a maximum of six days per week. Personnel engaged in play against SCP-2360 are to maintain a minimum 1:2 kill-death ratio against SCP-2360; those who fall below this threshold for more than one session will be replaced. If SCP-2360 begins to exhibit signs of an impending Nibbanic event, sever network connection immediately and execute the Upasana Procedure.
+
+Description: SCP-2360 is a set of three male humans who have been augmented internally with electronic systems of identical design.
+
+SCP-2360's primary augmentation is a set of custom-built packs fused to the spinal column which contain the components of an Xbox 360 video game console, disassembled and arranged to fit mostly within the body. Certain parts have been modified to increase console longevity; see SCP-2360 Component Log. Audiovisual data is transmitted subdermally to cochlear and ocular implants. The cochlear implants are internal, and not visible without use of scanning equipment1; however, SCP-2360's eye sockets have been fully restructured to house artificial electronic eyes capable of HDMI interpolation. SCP-2360's irises contain light-emitting diodes that produce a green glow when the game console is activated; according to SCP-2360, this is a cosmetic effect.
+
+SCP-2360's wrists bear wrist-mounted prongs which end in controller inputs; these prongs fold back when not in use to allow freedom of movement. SCP-2360's palms and fingers are incapable of perspiration; this is compensated for, as the wrist-mounted input system also contains controls for a subdermal water-cooling system and for hair-sized muscle stimulation devices which are intended to provide increased reaction time.
+
+The augmentations receive power through integration with the digestive systems of the hosts, which have been modified. SCP-2360 is capable of sustaining life and operation indefinitely when administered sufficient amounts of a specially-formulated liquid feed, taken orally, which contains high-fructose corn syrup, caffeine, orange juice, sodium benzoate, and brominated vegetable oil, among other ingredients.
+
+SCP-2360's primary function is the operation of the game Call of Duty: Modern Warfare. In non-containment environments, it uses its consoles to access online multi-player functions and operates them continuously until it requires rest. During early use, SCP-2360 communicates among itself and with other players using an internal microphone; however, after between twenty minutes and one hour of playtime, instances of SCP-2360 become synchronized. At this point, game footage taken during testing shows the three players acting precisely in sync (concentrating fire, spotting concealed threats, etc.) without any apparent communication between them.
+
+When not connected to online services, SCP-2360 is capable of using wireless networking adapters to play over a local "system link" connection; however, synchronization is never achieved during local play. Initially, containment procedures prevented this behavior; after protests by SCP-2360, it was relocated to a different chamber within the site so that its augmentations can communicate with each other without allowing access to online services.
+
+Soon after this change, SCP-2360's demands to be allowed access to online play grew more severe, citing religious persecution. This culminated in refusal to consume meals, refusal to ingest liquid feed, and eventually direct biological and mechanical self-harm. Foundation personnel negotiated a compromise in which SCP-2360 is allowed limited, scheduled local area network (LAN) play against selected Foundation personnel. However, statements made by SCP-2360 indicate this may cause a Nibbanic event, based on success in-game; as a result, SCP-2360's opponents must be carefully selected, and countermeasures have been established.
+
+LAN privileges were initially granted on a probationary basis, but following a significant increase in SCP object compliance, the schedule has been extended indefinitely.
+
+Interview 2360-A Excerpt
+
+Interviewer: Tell me how you received these augmentations.
+
+SCP-2360-A: What, like, from the beginning?
+
+Interviewer: That would be preferable, yes.
+
+SCP-2360-C: We got invited to this youth program.
+
+SCP-2360-A: Yeah, Wallace brought us over.
+
+SCP-2360-C: At first we came for the free food, but after a few weeks, the church father's message spoke to us.
+
+SCP-2360-A: We realized we were broken.
+
+SCP-2360-B: Broken, and only God could heal us.
+
+Interviewer: God?
+
+SCP-2360-A: You've never heard of God?
+
+Interviewer: I'm asking which deity you're referring to.
+
+SCP-2360-C: …God, man.
+
+SCP-2360-B: He who has broken himself in our image.
+
+Interviewer: You're referring to The Church of the Broken God.
+
+SCP-2360-A: That's a name for it, yeah.
+
+SCP-2360-C: The father said his house was nondenominational, but it respected innovationist and integrationist doctrines.
+
+SCP-2360-A: Really focused on the present.
+
+Interviewer: Innovationist and integrationist?
+
+SCP-2360-A: Innovationism, it's like… God's in us. He's in you, too. So when we innovate, when we create new technology…
+
+SCP-2360-C: That's making a piece of him, bro.
+
+SCP-2360-A: That's bringing us closer. Hey, you an engineer?
+
+Interviewer: And what does "integrationist" mean?
+
+SCP-2360-C: Well, we've got to get as close to God as possible.
+
+SCP-2360-A: And if new technology is part of God…
+
+SCP-2360-B: That's how we can dedicate our bodies to him.
+
+Interviewer: And is that why you've been modified like that?
+
+SCP-2360-A: The father was like, "The time when you feel most at one with the machine, that's what you want to make a part of you."
+
+SCP-2360-C: And the four of us knew, it was when we played COD.
+
+SCP-2360-A: So here we are.
+
+Interviewer: The four of you?
+
+SCP-2360-C: Yeah, Wallace had it done, too.
+
+SCP-2360-A: But 360s have, like… a 25% failure rate.
+
+SCP-2360-B: He didn't talk to us much after that.
+
+Interview Log 2360-B Excerpt
+
+Interviewer: Why do you play this game constantly? [The interviewer points to one of SCP-2360's game discs, stored in a jewel case.]
+
+SCP-2360-C: It's how we're gonna transcend.
+
+SCP-2360-A: Like… meditation. Except epic.
+
+SCP-2360-C: Every point we score, we get closer.
+
+SCP-2360-A: Every match we win, that's a step away from meatspace.
+
+SCP-2360-C: We are the most pro that there has ever been.
+
+SCP-2360-A: The aimbot is—
+
+SCP-2360-C: —within us.
+
+SCP-2360-B: And we will reach heaven with no-scopes.
+
+SCP-2360-C: Except…
+
+Interviewer: Except?
+
+SCP-2360-C: We can't do it playing against each other.
+
+SCP-2360-B: We have to frag those who aren't in the clan.
+
+SCP-2360-C: Otherwise it's just practice.
+
+SCP-2360-A: It's lame.
+
+SCP-2360-B: There is no God in lame.
+
+SCP-2360-B: Should I tell them?
+
+SCP-2360-A: Don't, Kamal.
+
+Interviewer: I'm afraid we can't provide the agreed incentives if you withhold information from us.
+
+SCP-2360-A: Alright, alright. Go for it.
+
+SCP-2360-B: A couple months ago, some alarms started blaring, right? And we all saw this blinding red light, and when we turned our eyes back on, the doors and ceilings of our cells were halfway melted off. It smelled like maple syrup and ass. And Hunter, he says—
+
+SCP-2360-C: Well, I've tried to watch my language since I started becoming whole, but I said… "Shit, see if you can get on Live!"
+
+SCP-2360-B: All the guards were running after it, yelling "Someone turn off the main generator before the… the F-er finds it!"
+
+SCP-2360-A: So we managed to connect to the servers for a little team deathmatch.
+
+SCP-2360-C: But the servers were—
+
+SCP-2360-B: Barren.
+
+SCP-2360-A: We found someone and asked whether a new COD was out since we last connected.
+
+SCP-2360-C: He said there had been, like, six.
+
+SCP-2360-A: We looked for the bros we usually played with, but they were in different games.
+
+SCP-2360-C: And then the guy we had been talking to DC'd.
+
+SCP-2360-B: We didn't have time to change servers, so we just sort of… ran around the map while you carted us into our new cells.
+
+SCP-2360-A: Until the signal went out.
+
+Interviewer: Is that all?
+
+SCP-2360-A: What do you mean?
+
+Interviewer: Did you perform any other actions while connected to online services? Did you communicate with outside individuals about any subject other than Call of Duty?
+
+SCP-2360-C: Nope.
+
+SCP-2360-B: I didn't.
+
+SCP-2360-A: Neither did I. We were too busy trying to play.
+
+Interviewer: Noted. This will be verified, and if it's true, we may show leniency on you for your honesty and relative lack of activity during the breach.
+
+SCP-2360-C: Thanks, man. Can I just ask you one more thing?
+
+Interviewer: You may.
+
+SCP-2360-C: Is the new Xbox out?
+
+SCP-2360-A: The 720.
+
+SCP-2360-C: Or the 360 2, or—
+
+SCP-2360-B: The one after the one inside us, is what they're asking about.
+
+Interviewer: I'm afraid I can't divulge that information until I've cleared it with a supervisor.
+
+SCP-2360-C: That's—
+
+SCP-2360-A: Fine.
+
+SCP-2360-C: Totally fine.
+
+[END OF LOG]
+
+Footnotes
+
+1. Possible methods include X-ray or ultrasound imaging. MRI is not feasible, for obvious reasons.

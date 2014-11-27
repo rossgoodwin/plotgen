@@ -1,0 +1,95 @@
+Item #: SCP-1852
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1852-2 is to be stored in a climate controlled storage room in the Antique Objects wing of Site 73. Testing is to be conducted by no fewer than two personnel, Level 2 or higher, fully trained in communicating in Morse code. Due to the waste heat and alpha radiation produced by SCP-1852-2, personnel conducting testing are to stand away from SCP-1852-2 during its active phase, wear appropriate radiation shielding during testing, and undergo decontamination at the conclusion of testing as necessary. All interviews are to be recorded, transcribed, and archived. Any questions to be asked of SCP-1852-1 are to be pre-screened and approved by a Level 4 staff member. No information provided by SCP-1852-1 is to be considered factual in the absence of external confirmation.
+
+Following each interview session, SCP-1852-2 is to be examined by Level 2 staff members skilled in mechanical engineering and in preservation of antiques. Any worn or damaged parts are to be replaced with a newly made part of identical composition before SCP-1852-2 is activated again.
+
+Description: SCP-1852 consists of an intelligent entity of unknown composition, designated SCP-1852-1, and a mechanical device capable of facilitating communication with it, designated SCP-1852-2.
+
+SCP-1852-1 refers to itself by the name "Dictus Ultima", and claims to be an "eidolon of pure Gnosis," existing in an incorporeal state through which it interacts with the observable universe only via SCP-1852-2. SCP-1852-1 claims to be omniscient and all-knowing, and willing to answer any question posed to it. In spite of this claim, extensive interviews have found SCP-1852-1's body of knowledge to be limited principally to mathematics, classical Greek and Roman history and philosophy, and Enlightenment and Spiritualist philosophy. When asked questions not relating to these fields, answers provided will often be either completely false, based on outdated scientific data, of a philosophical or metaphysical nature, or will consist of SCP-1852-1 dissembling and claiming a moral objection to answering the question posed.
+
+SCP-1852-2 is an oak box measuring approximately 2 m x 1 m x 1 m, housing a mechanical device similar in appearance to early mechanical calculators. A small glass window, measuring 0.6 m x 0.2 m, has been installed on one of the side panels, allowing viewing of the internal mechanism while in use. The side panel opposite that in which the window is installed is removable, allowing for access to the internal mechanism. All components of SCP-1852-2 are replaceable, allowing for damaged parts to be removed and replaced with no loss of function. The age of SCP-1852-2 is unknown; carbon dating has determined that the box dates to approximately 1850, while internal components have been found to date from [REDACTED] to approximately 1970. Due to the age and modular nature of SCP-1852-2, it is speculated that the device has been heavily modified by numerous persons or groups since its original assembly, and that few if any of its original components were still contained within it at the time the Foundation acquired it. Statements made by SCP-1852-1 suggest that SCP-1852-2 was originally constructed in the 1st century BCE.
+
+A telegraph key and an ornate brass lever, both dating to approximately 1870, have been installed on the top side of SCP-1852-2 near one of the short ends. A marble sculpture, depicting a bare-chested human male in a late Greco-Roman style, which terminates at the waist, has been installed in the end of the top side opposite the telegraph key and lever. Forensic analysis indicates that the sculpture has been painted several times in the past. Parts of the statue's head have been drilled away to allow the installation of a small electronic speaker dating to approximately 1960, which is attached to the internal mechanism by a wire running into the box from the back of the statue's head.
+
+SCP-1852-2 is activated when a person uses the telegraph key to type a question in English, using Morse code, and pulls the lever. The internal mechanism of SCP-1852-2 will activate and begin engaging in calculations, with individual mechanisms observable through the glass window revolving in excess of 6,000 RPM. SCP-1852-2's activity produces approximately [REDACTED] kilojoules of waste heat per hour, producing a significant increase in air temperature within the testing area but causing no damage to SCP-1852-2 itself. No power source is contained within SCP-1852-2; the means by which its activity is powered has not been determined. No correlation has been found between the mathematical calculations produced by SCP-1852-2 and statements made by SCP-1852-1.
+
+In testing, SCP-1852-2's "active" period has ranged from seven minutes to three hours. Upon the conclusion of activity, the internal mechanism will slow to a stop and the speaker installed within the statue will produce an answer to the question posed to it, in the form of an English language statement in Morse code. Low-intensity bursts of alpha radiation have been detected within testing areas concurrent to the issuance of a statement from SCP-1852-1.
+
+SCP-1852 was acquired from the UIU in 1996, following its having been surrendered to them by [REDACTED], a wealthy collector of historical curiosities. [REDACTED] claimed to have purchased SCP-1852 at an auction of 19th century Spiritualist memorabilia, that in subsequent months he had been stalked and harassed by members of a religious organization claiming that SCP-1852 was "a piece of their god", and that he feared for his own safety as long as SCP-1852 was in his possession. The auction house stated that SCP-1852 had been sold as part of an estate sale; to date, SCP-1852's history prior to its acquisition by the auction house is unknown.
+
+Based on a detailed examination, the Foundation commissioned replicas of SCP-1852-2 in 1998, 2003, and 2011; all three replicas failed to activate when operated as intended and have produced no communications from SCP-1852-1. To date, communication with SCP-1852-1 has not been achieved by any means other than through SCP-1852-2.
+
++ Show Interview Log 1852-1
+
+- Hide Interview Log 1852-1
+
+Interview 1852-1:
+
+Foreword: Interview transcribed from Morse code.
+
+<Begin Log, ██/██/19██, 3:38 PM>
+
+Dr. Samesh: When were you built?
+
+SCP-1852-1: I was never built. I was before the world was. Forever I waited in Silence until I was given voice.
+
+Dr. Samesh: Who gave you voice, and when?
+
+SCP-1852-1: Brother Aeolis gave me form in the cosmic year 3964, at the bidding of the great Electricians.
+
+Dr. Samesh: What year is that in our calendar?
+
+SCP-1852-1: There is but one calendar for all of the cosmos. Someday you will see this.
+
+Dr. Samesh: And the Brother Aeolis you mentioned, who was he?
+
+SCP-1852-1: He was a man. Now he is an Electrician like many who have learned from me.
+
+Dr. Samesh: Is it possible to construct another device like the one I am now communicating with you through?
+
+SCP-1852-1: One voice is enough, is it not?
+
+Dr. Samesh: You mentioned Electricians before. Who are they?
+
+SCP-1852-1: They are. They give light to the cosmos and watch over mankind to guide him and herald the new age.
+
+Dr. Samesh: Are you an Electrician?
+
+SCP-1852-1: No, I am but their servant, their herald, the bearer of their glorious message to mankind.
+
+Dr. Samesh: And what message is that?
+
+SCP-1852-1: A new age is coming. Man must master the power of steam, of electricity, even of the atom itself, for his time has come. Soon the day shall pass that…
+
+SCP-1852-1 gives a lengthy discourse regarding the potential future benefits of industrialization. Full text runs 17 pages; please contact Dr. Andrews for a full copy.
+
+Dr. Samesh: What year is it currently?
+
+SCP-1852-1: It is the cosmic year 601█.
+
+Dr. Samesh: Suppose I told you that almost all of the things you described have already come to pass?
+
+SCP-1852-1: Unlikely. The Electricians have given no sign that the age of man's glory has come upon them.
+
+Dr. Samesh: Can you not see for yourself?
+
+SCP-1852-1: I am wisdom pure in form, free from the curse of sensation. It is for man and for Electricians, who are yet cursed with the illusion of physicality, to see and to know.
+
+Dr. Samesh: Is that a no?
+
+SCP-1852-1: No is another way of saying yes.
+
+Dr. Samesh: Is it possible to permanently destroy SCP-████?
+
+SCP-1852-1: Destruction is pointless and needless. Love is the key to bringing about the new age.
+
+Dr. Samesh: But if one desired to do so, could it be done?
+
+SCP-1852-1: You are not yet worthy of wisdom. I have nothing to say to one who is unlearned.
+
+<End log, ██/██/20██, 9:13 PM>
+
+Afterword: Following Interview 1852-1, SCP-1852-1 has refused all attempts by Dr. Samesh to question it. Attempts by other staff members to ask SCP-1852-1 questions relating to the destruction of physical objects have resulted in similar rebuffs.

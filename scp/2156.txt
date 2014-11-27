@@ -1,0 +1,45 @@
+Item #: SCP-2156
+
+Anomaly Class: Euclid // Object
+
+Special Containment Procedures: SCP-2156 is to be contained in a Type 5 Humanoid Containment Cell at Site-17. In addition to standard amenities and precautions associated with T5HCC, SCP-2156 has been permitted to provide its own bedding, and may wear clothing that covers its entire body.
+
+SCP-2156 is currently being treated for its insomnia and anxiety. As significant periods of isolation have been shown to increase SCP-2156's anxiety, SCP-2156 is to be visited no less than thrice weekly in addition to its regular therapy sessions. The personnel assigned to this duty and suggested discussion topics are to be prescribed by SCP-2156's HMCL supervisor and are available in Document 2156-C3.
+
+Personnel are only permitted in SCP-2156's cell during the two hours immediately after the conclusion of SCP-2156's active state, during which any necessary maintenance and replacement of items must be performed. Any movement of SCP-2156 to another cell must also be performed during this time.
+
+Description: SCP-2156 is a human female 20 years of age, with either bright red or black skin pigmentation that alternates after each active state1. SCP-2156 experiences chronic insomnia and anxiety, most often sleeping between two and four hours per day at irregular intervals immediately following its active states.
+
+SCP-2156 will involuntarily enter an active state for roughly one minute between three and seven times daily. Active states are more frequent when SCP-2156 is particularly anxious or when it has gone more than five hours without sleep, but will generally not occur more than once in a given two-hour period. If provoked or severely startled, SCP-2156 may enter an active state immediately, although it will not fall asleep after an active state triggered in this manner.
+
+During an active state, items in SCP-2156's vicinity2 will be altered in one of several ways outlined below:
+
+Items with multiple well-defined states (ex. a lightbulb's "on" and "off" states; a candle's "lit" and "unlit" states) will alternate rapidly between the different states.
+
+Items with multiple layers (ex. a sofa with a frame, stuffing, and covering; a living organism) will have their layers exchanged with each other, both between items and within the same item.
+
+The positions of items not fully contiguous with SCP-2156's surroundings will be displaced at high velocity, often causing damage to SCP-2156's surroundings. Frequently, stacks between two and seven items high are briefly formed.
+
+Items that can be assembled or disassembled (ex. a jigsaw puzzle; a piece of cloth) will rapidly assemble and disassemble, often in the wrong configuration.
+
+All items that are primarily red or black in coloration (except for SCP-2156) will be duplicated for the duration of the event.
+
+SCP-2156 itself will appear to possess between one and thirteen heads, changing in number once per second. It will not retain an abnormal number of heads.
+
+SCP-2156 perceives its active states as though it is playing several consecutive games of Klondike3 with the interface associated with the game's inclusion in the Windows 7 operating system4. While SCP-2156 reports that it has control over the cards within the rules of the game, it is unclear whether its actions directly translate to the events that occur during an active state. SCP-2156 firmly believes that meeting some unidentified criteria during an active state will cure its insomnia.
+
+After every 52nd active state, SCP-2156 will disappear completely for thirteen hours and four minutes before reappearing at its prior location. SCP-2156 reports that it is "shuffled" during this time, and experiences substantially heightened mood and alertness for a short period of time thereafter.
+
+History: SCP-2156 was recovered from its dormitory room at ████████ University on February 22, 2014, after it entered its first active state. Due to SCP-2156's alarm at its sudden development of anomalous properties, as well as the mutilation of the two students closest to it, several active states in a row occurred, resulting in six total casualties and substantial property damage. Containment was achieved with great difficulty.
+
+Reports indicate that SCP-2156 began to develop insomnia during January of 2014. Poor grades and dismissal from its part-time job (both due primarily to symptoms of insomnia) resulted in the development of substantial anxiety. No immediate trigger for the development of SCP-2156's anomalous properties has been found.
+
+Footnotes
+
+1. The coloration's origin has not been identified.
+
+2. This is generally limited to the room that SCP-2156 is in, except when the room has relatively few items that would be affected by the active state. The standard furnishings of a T5HCC are more than sufficient to limit an active state's effects to SCP-2156's cell.
+
+3. A patience game, known as "solitaire" in the United States, played with a standard 52-card deck.
+
+4. Records recovered from SCP-2156's personal computer indicate that, prior to recovery, SCP-2156 had played Klondike solitaire with this interface 2704 times, with a win percentage of 52%.

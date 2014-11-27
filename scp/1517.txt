@@ -1,0 +1,89 @@
+Item #: SCP-1517
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-1517 and SCP-1517-A are to be contained in cryogenic suspension in the freezer at Site 23. Additional instances of SCP-1517 and SCP-1517-A reported outside of Foundation control are to be contained if possible, neutralized if necessary. All remains of individuals infected by SCP-1517 are to be incinerated. No instances of SCP-1517 or SCP-1517-A may be removed for purposes other than testing on D-Class personnel.
+
+Description: SCP-1517 is a species of insects superficially resembling the Pharaoh cicada (Magicicada septendecim). Members of the species vary widely in physical coloration but typically exhibit vibrant coloration. Upon reaching adulthood, members of SCP-1517 exhibit behavior identical to that of the adult Pharaoh cicada.
+
+SCP-1517-A refers to the eggs laid by the adult female specimens of SCP-1517. All instances of SCP-1517-A are contained within brightly colored opaque spheres when laid, with approximately 400 to 600 eggs contained within each sphere. The coloration of each individual sphere appears to be independent of the coloration of mother. Each sphere's outer layer is primarily composed of hardened saccharides and measures approximately 3cm diameter. The eggs will remain dormant until the outer shell is dissolved or broken. Upon hatching, instances of newly-born SCP-1517 will attempt to seek out the nearest living tissue and consume it1. If unable to find appropriate tissues, the nymph will die within 2 to 3 minutes.
+
+If appropriate tissues are found, SCP-1517 nymphs will then begin consuming it and converting it entirely into various confectioneries through an unknown process. During this process, the nymphs secrete a substance into the tissue that deactivate the organism's pain receptors in that area. The amount of tissue converted is almost always roughly equal to the amount consumed by SCP-1517. The type of confectionery that the tissue is converted into seems primarily dependent on the coloration of the SCP-1517 nymphs. Each subgroup of nymph targets a different category of tissue. See the chart below for further details.
+
+Tissue Conversion Chart
+
+Close Chart
+
+Coloration of Nymph
+
+Type of Confectionery
+
+Target Tissue
+
+White
+
+Crystallized Sugars
+
+Osseus
+
+Red
+
+Cinnamon Candies
+
+Cardiovascular
+
+Orange
+
+Caramel
+
+Gastrointestinal
+
+Pink
+
+Chewing Gum
+
+Neural
+
+Yellow
+
+Marshmallow
+
+Yellow Marrow
+
+SCP-1517 was discovered in 1943 when 7 adolescents were reported missing at approximately the same time from the city of ██████████, Tennessee. Foundation agents tracked the source of the disappearances to ████'s Candy Shoppe, where all missing youth were found in the back room of the shop, half converted into various candies and covered in what appeared to be Pharaoh Cicada nymphs. The owner and manager of the shop was discovered huddling in the back corner in a fetal position. The man was interrogated, all instances of SCP-1517 and possible instances of SCP-1517-A were contained, and Class B amnestics were issued to witnesses and the shop owner. See Addendum-1517-Theta for the interview log.
+
+Addendum-1517-Theta: Attached is the abridged interview of Arthur ████, owner of the shop where SCP-1517 was initically recovered.
+
+Interviewed: Arthur ████
+
+Interviewer: Agent Fredricks
+
+Foreword: Mr. ████ was interviewed directly following the recovery of SCP-1517 at Site 23.
+
+<Begin Log>
+
+Fredricks: Please describe the incident in as much detail as you can.
+
+████: Y-yes. I was just selling the new batch of gobstoppers to all the kids soon as the store opened. I turned my back to go into the storage room to get some more candy for the display, and then the screaming started. I ran back out to the store, and I… I…(████ begins hyperventilating)
+
+Fredricks: Please calm down. Were the children partially converted by this point?
+
+████: (laughing) Converted? If by "converted" you mean they dropped dead with bugs and candy spilling out of their heads, then yeah, they were fuckin' converted.
+
+Fredricks: (writing down details on a notepad) And where did you get this shipment of gobstoppers?
+
+████: It was a new supplier. Cheaper than the rest. In fact, weirdly cheap. I should've known something was up… The name of the company was Sugarcomb Industries.
+
+Fredricks: Thank you. That will be all.
+
+<End Log>
+
+Closing Statement: Mr. ████ was administered Class B amnestics and released. No company named "Sugarcomb Industries" has been found.
+
+Addendum-1517-Psi: On 10/25/1944, experimentation with SCP-1517 on Subject D-40695 was allowed to progress to the point of total tissue conversion. The process was completed after approximately one hour, at which point the converted remains bonded in a vaguely humanoid shape and reanimated. Subject was capable of locomotion as basic motor controls, but did not show signs of sapience or sentience, and could apparently not vocalize. The animate remains appeared to exhibit personality traits not found in previous psychological examinations of D-40695, such as a lack of aggressive behavior. The subject remained animate regardless of any mass removed2. Subject was incinerated at the end of testing.
+
+Footnotes
+
+1. Nymphs of a certain coloration appear to prefer certain tissues.
+
+2. All removed mass showed continued animation.

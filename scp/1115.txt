@@ -1,0 +1,77 @@
+An SCP-1115 drone at low altitude during signal transmission
+
+Item #: SCP-1115
+
+Object Class: Euclid
+
+Special Containment Procedures: No attempt to capture, intercept, or interfere with SCP-1115 is to be made until further notice. SCP-1115's movement is to be monitored by satellite at all times and by Foundation UAVs trailing at a distance of 50 km. Equatorial weather conditions are to be monitored and Mobile Task Force Upsilon-638 (Phoenix Nest) is to be placed on standby in the event of any phenomena which could result in a disruption of SCP-1115's route. All transmissions of SCP-1115-2 are to be recorded for analysis. In the event of any major deviation from SCP-1115's itinerary, Site 731 is to be evacuated and authorization is granted to execute Procedure Greenbriar at O5 discretion.
+
+A Foundation front company, Space Communication Properties, has acquired licenses to test UAVs for communications purposes in airspace above the equator. Any sightings of SCP-1115 shall be attributed in the media as being prototypes of these UAVs.
+
+In the event that any part of SCP-1115 ceases functioning, Phoenix Nest is to deploy and retrieve it as soon as possible, to be transferred to Site 731 for dismantling and storage. Recovered SCP-1115 artifacts are not to be exposed to any light more intense than 1000 lux.
+
+Description: SCP-1115 currently consists of 87 toroidal unmanned aerial vehicles, approximately 1.2 meters in diameter, of unknown manufacture and origin. At all times since direct observation began in 19██, all SCP-1115 drones have been in flight at an average altitude of approximately 15 km above sea level, traveling due west above areas within 20 degrees latitude north or south of the equator, at an average speed of 1600 km/h. SCP-1115's speed is synchronized to the solar terminator1. SCP-1115 maintains itself at a distance of approximately 45 degrees longitude east of the terminator, resulting in its remaining in a daylit part of the world at all times. SCP-1115 maintains this route at all times, completing a circuit of the globe every 24 hours, altering course only if its direct route is impeded by cloud cover or inclement weather. No SCP-1115 drone has been observed to enter a clouded area. The drones comprising SCP-1115, when not being interfered with by outside forces or moving to evade meteorological phenomena, fly in a pattern comprising several V-formations of the type displayed by migratory birds. The presence of several missing spots in each formation indicates that SCP-1115 initially consisted of at least ███ drones.
+
+At approximately 0500 UTC each day, while SCP-1115 is overflying a region of the Sahara desert located at ██º██'██" N., ██º██'██" E., an individual SCP-1115 drone will descend to approximately 5,000 meters above surface level and transmit a radio signal, designated SCP-1115-2, before ascending and returning to its place in formation. SCP-1115-2 is an audio recording, between 41 and 46 seconds in length on all recorded instances, of a synthesized male voice speaking a language not identified by the Foundation. A large portion of the recording remains the same in all recorded instances, while several other portions vary daily. SCP-1115-2 has occurred every day that SCP-1115 has been under observation except when cloud cover has made it impossible for an SCP-1115 drone to descend to the transmission zone. The intended recipient of SCP-1115-2 has not been identified; several Foundation surveys of the area have failed to locate any pre-existing radio antennae or artifacts similar to SCP-1115. For information regarding the history and translation of SCP-1115-2, refer to addenda.
+
+To date, SCP-1115 has resisted any attempts to capture a drone while in flight. Individual SCP-1115 drones have demonstrated an ability to evade missile and cannon fire as well as ground-based anti-aircraft weapons, and to disable pursuing aircraft by generating an electromagnetic pulse that SCP-1115 itself is not affected by. On ██/██/19██, an aircraft with shielded electronics was used to attempt to intercept an SCP-1115 drone. When the aircraft continued pursuit after the EMP was deployed, the drone responded by ramming the aircraft and detonating a miniaturized nuclear device installed within it, destroying itself and the aircraft, and producing a 5 kt airblast over the [REDACTED] where pursuit was occurring. Emergency aerial dispersal of Class-E amnesiacs in populated areas near [REDACTED] was conducted and Foundation media assets attributed the after-effects to forest fires. All further attempts to intercept SCP-1115 are preemptively denied.
+
+In addition to the incident described above, three SCP-1115 drones have ceased functioning since observation began. Two of the three crashed into the Pacific Ocean after an unidentified failure resulted in their suddenly losing altitude; due to the depth of the crash regions the Foundation has deemed them unobtainable. The third, which crashed on land near [REDACTED] in north Africa in 1942, was not immediately obtainable due to ongoing military conflict in the region; surveys conducted after the war ended have failed to locate it and it is currently believed to have been buried entirely by shifting desert sands. The Foundation has acquired one intact SCP-1115 drone, designated SCP-1115-1, to date; for information on its history and findings regarding it, refer to addenda.
+
+Addenda:
+
++ Show SCP-1115-1 History and Analysis
+
+- Hide SCP-1115-1 History and Analysis
+
+SCP-1115-1 was discovered in 1856 by a British archeological expedition in Borneo. At the time of its discovery, it was partially buried and heavily caked with volcanic ash identified as having originated from Mt. Tambora2. It is speculated that the sudden eruption of Mt. Tambora resulted in SCP-1115-1's propulsion system becoming clogged with ash before it could correct its course, causing it to fail and crash. The expedition sold SCP-1115-1 to the Rajah of Sarawak, who displayed it as a curio in his royal palace until it was acquired by the Foundation in 1901. As the Foundation lacked the capabilities to properly examine it at the time, it was classified as an anomalous object and archived in Reliquary 38. In 20██, a Foundation archivist discovered the similarity between the artifact and SCP-1115, leading to its being reclassified as SCP-1115-1 and transferred to Site 731 for study.
+
+The exterior surface of SCP-1115-1 was found to be composed almost entirely of solar energy collector panels composed of an unidentified polymer. Upon exposure to a bright spotlight generating approximately 5000 lux, SCP-1115-1 immediately became active and began transmitting a previously undocumented variant of SCP-1115-2. Transmission stopped within five seconds of the spotlight being removed. Later data analysis indicated that, during the period the transmission occurred, seventeen SCP-1115 drones broke formation and began to divert from their previous course in the cardinal direction of Site 731. Further exposure of any captured SCP-1115 artifact to bright light is prohibited.
+
+SCP-1115's propulsion system is highly efficient, deriving all necessary fuel from the solar panels, and appears to be based on theoretical models of [REDACTED] that the Foundation does not yet have the capability to test fully. The majority of SCP-1115-1's interior, and all of its external extensions except for a radio antenna, consisted of a wide variety of environmental monitoring devices, not all of which have been identified. Devices for measuring temperature, wind speed, humidity, atmospheric concentrations of oxygen, carbon dioxide, and several noble gases, radioactivity, and [REDACTED] have been identified. Printed circuit boards incorporated into the onboard devices bear markings in an unidentified language, possibly the same one heard in SCP-1115-2. A nuclear device believed to be similar to the one detonated on ██/██/19██ was recovered, consisting of a cube 60 mm on each side composed of an unidentified alloy.
+
+Radiometric testing of materials found in SCP-1115-1 indicate that the drone was manufactured approximately 12.3 million years ago, ± 600,000 years. Collection of further samples is deemed necessary to verify this date. SCP-1115-1 was partially reassembled and is stored at Site 731. A determination has been made that any future SCP-1115 artifacts recovered will be stored at Site 731 as well to prevent any possible further exposure of Foundation site locations to SCP-1115.
+
++ Show SCP-1115-2 History and Analysis
+
+- Hide SCP-1115-2 History and Analysis
+
+SCP-1115-2 was first detected in 1912 by a Foundation expeditionary unit, which was exploring the █████████ region of the southern Sahara to catalogue anomalous items reported there. Upon first reception, the signal was believed to be a unique event. When the same signal was received consecutively several days in a row, further investigation ensued, resulting in the construction of a permanent listening post to receive all further transmissions. As SCP-1115 itself could not be detected at the time, the signal was itself classified as SCP-1115. With the discovery of SCP-1115 in 19██, it was reclassified as SCP-1115-1, and later as SCP-1115-2 when the artifact now designated SCP-1115-1 was reclassified.
+
+The Foundation has collected over 30,000 recordings of SCP-1115-2 to date. SCP-1115-2 has broadcast on approximately 97% of all calendar dates since observation began. As SCP-1115-2 is the only known example of the language spoken in it, attempts at translation have proved next to impossible. Foundation linguists have noted similarities between the language of SCP-1115-2 and the Basque language, as well as the constructed language ████████. Due to the presumed age of SCP-1115, these similarities are believed to be coincidental.
+
+The first breakthrough in translating SCP-1115-2 did not occur until 19██, when ███ ███████, a senior Foundation linguist, discovered that a certain word found in all early recordings of SCP-1115-2 had been replaced with a different and longer word beginning in July of 1945, and, in spite of frequent changes afterwards, the original word had never been used again. Dr. ███████ speculated, in conjunction with information gathered from the study of SCP-1115-1, that the word in question was in reference to atmospheric radioactivity produced by nuclear weapons testing. Based on this assumption, Dr. ███████ and staff were, by 20██, able to decipher a series of words referring to numbers in a base-12 system. Based on the known purposes of instruments found in SCP-1115-1, inferences have been made identifying the meanings of several other words found in SCP-1115-2.
+
+Below is a transcript of an SCP-1115-2 broadcast recorded on ██/██/20██, with current speculated meanings footnoted.
+
+Yehom té ehal3. Alar e-ahallam.4 Ahallam a-eh embarrah B8AA092A5. Teasté6 114.1. Annach heamé7 5A. Mearnoch am had dalles8 7 her. Yehom té ehal. Mear fallars9 0.00050A22. Yehom té ehal. Hemachem am mollah10 216060B. Yehar sel tevàs11 A.6. Reham12 14A. Tevàs13. Turechem embarrah a-té 20, nar nares ahallam14. Yehom té ehal. Yehom té ehal. Yehom té ehal.
+
+Footnotes
+
+1. One of two lines drawn across the Earth's surface delineating the lit and unlit portions of the planet, which move constantly westward as the Earth rotates on its axis.
+
+2. A volcano on the Indonesian island of Sumbara which in 1815 was the site of the most powerful volcanic eruption in recorded history.
+
+3. Meaning unknown. This phrase repeats several times throughout SCP-1115-2. It is currently speculated to be a nationalist or religious proclamation.
+
+4. Meaning unknown.
+
+5. This number has increased by one in each subsequent recording. Currently speculated to indicate the number of successive broadcasts made.
+
+6. Global mean temperature on an absolute scale similar to the Kelvin scale
+
+7. Relative humidity
+
+8. Wind velocity in an unknown scale, and an unidentified term possibly indicating direction
+
+9. Atmospheric radiation in a measurement similar to the Sievert scale
+
+10. Meaning unknown.
+
+11. Meaning unknown.
+
+12. [REDACTED]
+
+13. Meaning unknown. In recordings in 1945, 1947-1973, 1979, 1983, 1997-1998, 2005, and 2009-2011, the phrase "Bé-tevàs" is heard instead.
+
+14. Believed to indicate that SCP-1115 will report again the following day unless new orders are received.

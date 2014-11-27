@@ -1,0 +1,29 @@
+Equipment related to SCP-2082
+
+Item #: SCP-2082
+
+Object Class: Neutralized
+
+Special Containment Procedures: All known samples of SCP-2082's DNA are to be stored in standard biological containment units, located in Site-190. Non-anomalous counterfeits are to be distributed to major scientific organizations which believe they possess portions of SCP-2082. All attempts to create this technology outside of the Foundation is to be hampered by embedded agents within the scientific community. The equipment required to create an instance of SCP-2082 is to be kept in a disassembled state, and stored within Site-77.
+
+Description: SCP-2082 is an extinct subspecies of the animal known as the woolly mammoth (Mammuthus primigenius). When living, it had shoulder heights between 2.7 and 3.4 m and weighed up to 6 tonnes. It has been extinct for approximately 4,000 years, with most of the population having died off 10,000 years ago.
+
+Observation of the SCP-2082 instance has been limited. No accurate gauge of SCP-2082's appearance has been made to date, due to the destructive effect of SCP-2082 on the world around it. When an instance of SCP-2082 is created, there is an immediate alteration to the local temperature of every space within 250 meters of its body. Surface temperatures will instantly drop to -10 °C, usually resulting in the death of any subjects within range. As SCP-2082 instances move, the effect moves with them, while also continuing to affect the areas they previously inhabited.
+
+Once SCP-2082's effect has covered an area greater than 20 square meters, the area around it will exude large amounts of ice and sleet from all solid surfaces. In addition, SCP-2082's area of effect will increase to a radius of 1km 4 minutes after this threshold is reached. The sleet and ice will be continuously produced by SCP-2082 until the affected area resembles blizzard conditions. SCP-2082 is immune to the direct results of its own effect.
+
+Development of the technology which resulted in the creation of SCP-2082 began in 1962, when the Foundation developed cloning technology to recreate specimens of SCP-2082, by use of the tissue and other frozen preserved remains which had been purchased from museums and [REDACTED]. The project was led and directed by Dr. Ascher, and a small team of researchers at Research Area 908. Between October, 1962 and June, 1983, they attempted to create a replica of SCP-2082 using technological means. The technology used to create SCP-2082 was not anomalous, and the purpose of the research project was intended to shed light on the process of cloning.
+
+Currently, all research into cloning additional species of animal has been discontinued, due to the massive destruction caused by Incident 2082-Prime.
+
+Addendum: File 2082-01: Documents recovered from external Site-62-B, regarding Incident 2082-Prime. Documents were an automatic backup, as all original data was destroyed.
+
+Final testing entry: July 4th, 1983. Authored by Researcher Stevens, Junior Researcher Boyd, and remotely supervised by Agent Fredericks.
+
+Initial testing of the cloning device has resulted in total disaster. Testing facility has been reduced to frozen ashes, with all primary research personnel presumed to be dead. Site lockdown has been initiated, and it has been assumed by the remaining research team that the on-site nuclear device will be activated if any more damage occurs. It is reasonable to assume this will be the case.
+
+The entity which emerged from the testing chamber appears to be the cloned specimen, a juvenile (Mammuthus primigenius). Immediately upon opening the chamber doors, the temperatures dropped to -10 °C, and rapidly plummeted from there. All research personnel in the labs, dormitories, and interior chambers were presumed dead after temperatures reached -190 °C within the entire facility.
+
+If this note is recovered by Foundation personnel, please note that the entity did not appear to have any significant physical traits, other than being immune to their own effect. A[DATA INTERRUPTED]
+
+Following recovery operations, and cleanup of Research Area 908, the carcass of SCP-2082 was found about a kilometer away from the site. An autopsy indicated that it had died of an aortic aneurysm, due to imperfections of the cloning process.

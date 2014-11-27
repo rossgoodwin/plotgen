@@ -1,0 +1,79 @@
+SCP-047 in situ before recovery from Site-██ Secure Laboratory after a containment breach.
+
+Item #: SCP-047
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-047 is to be contained in a 0.5 m x 0.5 m x 1 m hermetically sealed storage box at all times. This box is to be locked in storage locker 047a, inside P3-secure biohazard lab 047b. Any entrance to and activity inside 047b will be recorded by biometric scan, closed circuit camera, and [REDACTED].
+
+Entry to 047b requires the authorization of the project manager, in addition to at least one O5 level clearance. SCP-047 is to be treated as a Priority 4 Contagious Biohazard in all protocols, including mandatory quarantine if exposed. Suite q047 has been provided, adjunct to lab 047b, for this purpose.
+
+In the event of outside contamination of SCP-047-1, Lockdown Protocol 047-01 "Yersinia" must be engaged.
+
+Description: SCP-047 is a heavily rusted, breached gas cylinder made of an iron-[REDACTED] alloy. When exposed to open air, the material of the cylinder evaporates slowly, producing a previously undocumented mutagenic gas. This gas has no effect on eukaryotic organisms (e.g. humans), but profoundly alters prokaryotes, showing preference for common human microbiota - the natural microorganisms that live on the skin and throughout the body. On rare occasions these mutations produces a "superbug" (collectively known as SCP-047-1), a natural commensal with enhanced survivability and therefore opportunistic pathogenicity. The pattern of changes induced by SCP-047 suggests that these highly infectious microbes are, at least to some degree, selected for.
+
+Although the specifics of SCP-047-1 species are dependent on the base bacterium from which it is derived, there are several characteristics which appear to be generally consistent across all cases of SCP-047-1 mutation:
+
+Enhanced survivability in the bacterium's natural environment and similar environments;
+
+Full spectrum antibiotic resistance;
+
+Increased reproduction rate and consumption of available material;
+
+Development of a sporulation ability in gram positive bacteria;
+
+Increased ability to uptake, hold, and share plasmids, particularly in gram negative bacteria;
+
+Increased transmission, due to traits described above.
+
+SCP-047-1 samples are normally debilitating and virulent. However, compared to other Keter-class SCPs, it should be noted that SCP-047-1 have a relatively low mortality rate due to their action through "mundane" biological pathways.
+
+Several strains of bacteria have been selectively mutated by SCP-047. Mutation of bacteria in culture is possible, but the process appears to be much more effective with bacteria living on a human host. Generally, mutation of natural commensals for experimental purposes is encouraged. After the containment breach of 30/01/2010 (See Incident Report Yersinia-047-01 (2010)) , mutation of already-pathogenic species is banned and all existing samples must be destroyed.
+
+Three particular species of SCP-047-1 mutated bacteria are of note, due to their involvement in the containment breach of ██/██/201█:
+
+D-15978 infected with P-047-A, 2 days after initial exposure.
+
+Propionibacterium 047-A is a strain of P. acnes mutated by SCP-047.
+
+> Show details
+
+< Hide details
+
+Pathogenicity: Severe skin colonisation around sebaceous glands. Modification of skin pH to levels that become toxic to skin cells. Massive inflammation and immune cell infiltration. Eventual breakdown of skin structure leading to sepsis.
+
+Transmission: Transmitted by skin-to-skin contact. Can remain active on inorganic surfaces for up to five hours.
+
+Lethality: Approximately 40% mortality rate. Runs its course in 2-6 weeks. Very visible symptoms within 5-10 hours; contagious within 2-5 hours.
+
+Handling: As soon as visible symptoms form, victims must be quarantined. Deceased victims should be incinerated.
+
+Streptococcus 047-C is a strain of S. mitis mutated by SCP-047.
+
+> Show details
+
+< Hide details
+
+Pathogenicity: Causes inflammation of the mouth and esophagus initially. Leads to open sores in the mouth, which result in S-047-C entering the bloodstream and becoming septic. Death is usually due to infectious endocarditis.
+
+Transmission: Droplet. Can remain active indefinitely by sporulation.
+
+Lethality: Approximately 35% mortality rate. May become a recurring chronic condition if nonlethal.
+
+Handling: Subjects with any sign of mouth infection should be quarantined. Deceased victims should be incinerated.
+
+Clostridium 047-A is a strain of C. difficile mutated by SCP-047.
+
+> Show details
+
+< Hide details
+
+Pathogenicity: Unknown. C-047-A was developed from tissue culture and has never been exposed to a human. No samples remain in Foundation control.
+
+Transmission: Unknown. Presumably transmitted through fecal contamination, as with C. difficile. Due to smaller, more robust spores, may also aerosolise with flatus. Effects of aerosol intake of C-047-A cannot be predicted.
+
+Lethality: Unknown. Presumed extremely high risk of destruction of endothelial lining of gastrointestinal tract, leading to inflammation, sepsis, toxic megacolon.
+
+Handling: Until further research has been done, victims should be quarantined and placed under 24 hour medical observation to develop functional diagnostics for this strain. Deceased victims should not be incinerated until adequate etiological research has been performed.
+
+Recovery Log 047: SCP-047 was recovered from the Site-██ Secure Laboratory by a Foundation Biohazard Recovery Team in response to a full compromise situation on ██/██/199█. Testing logs indicate that the research team was attempting to contain [DATA EXPUNGED] in a class-██ SCP-stable pressure cylinder, which led to [REDACTED] combining with [REDACTED]. A full molecular biological analysis of this is available in [REDACTED]. The initial release of gas when SCP-047 was structurally compromised was sufficient to cause a microbiotal "bloom" of uncounted species of SCP-047-1, killing all staff in the lab within █ hours. Exposed Site-██ staff obeyed standard Foundation quarantine/containment protocol, and the infection was contained successfully.

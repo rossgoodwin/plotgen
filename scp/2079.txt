@@ -1,0 +1,61 @@
+Item #: SCP-2079
+
+Object Class: Keter
+
+Special Containment Procedures: Where feasible, Foundation personnel are to monitor the laws, code of conduct, canon law, charter, or employee agreements of all nations and organizations listed in Document 2079-1 for signs of SCP-2079 influence. No group may be monitored by one of its own members.
+
+Minor incidences of SCP-2079 may usually be addressed simply by alerting the relevant authorities to the presence of instances of SCP-2079-A. If this proves insufficient, additional efforts to strike SCP-2079 must be approved by the External Operations Board.
+
+In cases where SCP-2079 has progressed to the point where SCP-2079-B begins to manifest, Mobile Task Force Pi-4 will analyze the legal aberrations caused by this occurrence of SCP-2079 to discover and effect a means of dispersing SCP-2079-B. If no vulnerability presents itself, it may be necessary to wait for the ratification of further instances SCP-2079-A before acting.
+
+To prevent a theoretical manifestation of SCP-2079 affecting the Foundation, an independent agency called the Select Committee for Prudence has been established to monitor the Foundation charter for legal anomalies.
+
+Description: SCP-2079 refers to a phenomenon where an authority will begin to enact laws regarding a being referred to as the Grokodus.
+
+SCP-2079-A is the set of laws drawn on during incidences of SCP-2079. Though these laws are in a 10th century dialect of Old English and do not conform to modern legal standards, nothing unusual about this is observed by members of the affected organization. Persons involved in the passage of an SCP-2079-A instance show thorough understanding of that instance, but they demonstrate no additional comprehension of similar Old English writings.
+
+Instances of SCP-2079-A are enacted at an increasing rate, which varies greatly between manifestations. To date, 282 instances of SCP-2079-A have been observed, drawn apparently at random from a total pool that statistical inference suggests contains between 350 and 375 laws. For a sampling of these, please see Addendum 2079-14. If few instances of SCP-2079-A are currently in effect, the SCP-2079 event may be ended by notifying the affected organization of the existence of aberrations in their legal code.
+
+When approximately fifty laws from SCP-2079-A have been ratified, SCP-2079-B will begin to manifest, typically remaining within twenty kilometers of the seat of the affected organization. SCP-2079-B is a large quadrupedal creature covered in stiff black hairs. It has a long snout containing powerful jaws, and does not possess visible eyes. It is surrounded by 29 animate, levitating hands, which appear human and seem to have been severed at the wrist. These protect and manipulate objects for SCP-2079-B, and are believed to be under its direct control.
+
+SCP-2079-B can only be interacted with as specified by those instances of SCP-2079-A currently in force, indicating that it is the Grokodus. In other circumstances, SCP-2079-B is intangible and unaffected by all obstacles. When in accordance to SCP-2079-A, SCP-2079-B has demonstrated several other anomalous capabilities, including mass hypnosis, extreme strength, and production of large quantities of wine.
+
+Certain laws in SCP-2079-A specify punishments should the Grokodus fail to abide by them, the worst of which appears to be dispersal, which immediately ends the SCP-2079 manifestation. Though SCP-2079-B shows signs of sapience, it has never communicated, and all its actions seem to be to ensure it remains in accordance with SCP-2079-A. From when SCP-2079-B appears to when it is dispersed, authorities will become very resistant to repealing SCP-2079-A. It is unknown what would happen if SCP-2079-A were ratified in full.
+
+Addendum 2079-14: The following is a representative sample of the laws in SCP-2079-A, along with a brief analysis of their effects. The text of the laws has been translated from Old English.
+
+SCP-2079-A-1
+
+Reference name — Humility
+
+Text — As the Grokodus stands in defiance of the will of Heaven, it can not set foot on Holy Ground or speak the name of the Father. That it may know its degradation, the Grokodus will make alms to each of the righteous Poor that it should meet, for they are as greater than the Grokodus in the eyes of God as the Grokodus is to the righteous Poor in the eyes of Man.
+
+Effects — As SCP-2079-B does not talk and has never been sighted in a church regardless of whether 2079-Humility is in effect, it is unclear what effect the first portion of the law has. After SCP-2079-B manifested, it was observed to on several occasions give gold coins to beggars it encountered in Canberra.
+
+Notes — This is the first instance of SCP-2079-A to be recorded, having been passed by the Commonwealth Government of Australia in 1960, although the Foundation did not become aware of it until the first manifestation of SCP-2079-B in 1961.
+
+SCP-2079-A-53
+
+Reference name — Sustenance
+
+Text — For we are greater and more magnanimous than the Grokodus, we allow it the luxury of food which it has denied of so many. The Grokodus may consume its food in its own way, but that it does not strip the hills and glens of smiling Men, if it should devour more than ten of the Children of Adam between one midnight and the next, it shall be dispersed unto the Earth. The same shall it suffer if it dares to harm one of Ours.
+
+Effects — Whenever 2079-Sustenance is in effect, SCP-2079-B will use its hands to catch, flay, and remove the eyes of nearby humans. It then eats the collected skin and eyes. SCP-2079 will carefully observe the limit of ten victims each day, but otherwise shows no pattern in who it attacks. The meaning of the last clause is unclear. Notably, corpses with similar injuries have been found whenever 2079-Sustenance is in effect, even if too few laws are in effect for SCP-2079-B to manifest.
+
+Notes — During the incidence of SCP-2079 affecting the bylaws of the Boy Scouts of America, 2079-Sustenance's dispersal method was successfully utilized.
+
+SCP-2079-A-65
+
+Reference name — Iron
+
+Text — In remembrance of how the Grokodus would adopt the airs of Man, though no such thing it was, the Grokodus shall dwell in a house of their most dismal Iron. All Iron that God witnesses pass within a scant foot of its filthy hide shall there remain as long as the Grokodus insists on clawing to Life and Earth. Should it seek to forget, let it find so little solace in the Vine as it finds fear at the recollection of Iron.
+
+Effects — Any iron or alloy containing large amounts of iron that comes within about half a meter of SCP-2079-B is strongly attracted to the surface of its body, apparently causing SCP-2079-B moderate distress. This effect does not apply to its hands, which have been observed pulling metal crushed into flat plates away from its body and throwing it outside the attraction zone.
+
+SCP-2079-A-148
+
+Reference name — Penance
+
+Text — That the Grokodus shall not seek more to escape our Edict into the view of Man, let its judgement be remembered by all whose Shadows cross its awful Shadow. Thus shall the Grokodus find chains where it would find form. That the Grokodus shall not try our Judgement in the world of Death, here we speak to those of Ours who would help it to test those bonds — when you fail, your Will and Act shall evermore serve to keep the Grokodus of the Earth.
+
+Effects — No consistently observed effect, though while 2079-Penance is in effect, SCP-2079-B will occasionally bite the hand off of individuals who try to attack it. Though SCP-2079-B will typically then spend some time observing and trying to interact with the severed hand, this appears to serve no purpose.

@@ -1,0 +1,95 @@
+Still from footage captured by unmanned expedition.
+
+Item #: SCP-752
+
+Object Class: Keter
+
+Special Containment Procedures: Areas 752-1 through -4 have been constructed around the four known entrances to SCP-752. No personnel are permitted to enter SCP-752, although unmanned infiltration missions using technology taken from inside SCP-752 are permitted. In the event of an uncontrollable containment breach, Protocol Shangdu-47 must be implemented. Otherwise, termination is not advised as it could lead to the release of SCP-752-1 in the event of failure.
+
+Captured instances of SCP-752-1 must be transported to Site-17 for questioning and examination and under no circumstance allowed to return to SCP-752. Instances of SCP-752-1 found approaching any of the 752 sites are to be terminated on sight.
+
+Description: SCP-752 is an underground city in the northern █████████ Mountains, spanning ███ km2, population approximately 10,000. An array of electric lighting devices powered by a geothermal generator create day and night matching the rhythm of the outside world. A shield built of an unknown metal surrounds the entire city and blocks all known signals and radiation, including sonar. Study of this metal is restricted to on-site efforts to minimize the chances of containment breach.
+
+A known entrance to SCP-752
+
+SCP-752-1 are the inhabitants of SCP-752. Physically, SCP-752-1 appear human. However, the social behaviour exhibited by SCP-752-1 in large groups bears no resemblance to that of humans or any other social mammal (although parallels exist between ants and other social insects). Individuals of SCP-752-1 possess no self-interest whatsoever and are motivated solely by desire to advance the ’greater good’ of SCP-752. SCP-752-1 currently possess technology significantly more advanced than exists outside of SCP-752; however, their rate of progress has begun to stagnate.
+
+Documents recovered at the sites indicate that SCP-752 was constructed ███ years ago by a group of unidentified scientists and philosophers, operating under the alias ‘Eudaimon.’ SCP-752-1 was engineered by Eudaimon as an attempt to create an ‘ideal society.’
+
+Document 752-3 (recovered from Site-752-1)
+
+Day 1
+
+Eudaimon-Alpha-1
+
+Population of Eudaimonia: 100
+
+What a glorious new day. This is the day Homo eudaimonia will set their calendar by. After the last battery of mass testing, we’ve introduced fifty males and fifty females to the final testing area. Nothing but them, the artificial sun, the temple, and the few animal and plant species we’ve introduced for domestication.
+
+Nothing left for Eudaimon now but to observe.
+
+Document 752-7 (recovered from Site-752-3)
+
+Year 8, Day 24
+
+Eudaimon-Gamma-1
+
+Population of Eudaimonia: 124
+
+Population growth has been above-normal, as expected from our Eudaimoniacs. Instead of competing, they cooperate with one another in everything. All of the animal species provided have been successfully domesticated for food and labour. No signs of agricultural activity yet. Technological progress is proceeding as expected based on the data we left for them in the temple.
+
+Document 752-22 (recovered from Site-752-4)
+
+Year 15, Day 212
+
+Eudaimon-Delta-4
+
+Population of Eudaimonia: 170
+
+Growth has continued, showing marked deviance from normal human social behaviour. Whereas Homo sapiens was never intended to live in groups of more than a few hundred, H. eudaimonia will function perfectly in groups of thousands or millions. Agriculture going at full tilt now, making use of the available aquifers for irrigation.
+
+Deviant behaviours have begun to emerge. The taboo against cannibalism seems to have vanished and dead Eudaimoniacs are being consumed for sustenance. Additionally, disabled or feeble individuals are suiciding or being killed at a worrying rate. Beta-1 wants to interfere, try to lay down moral guidelines, but Alpha-1 insists that finding these things repulsive is one of the problems with our society and any interaction could ‘taint‘ the Eudaimoniacs.
+
+Technological development is proceeding significantly faster than estimated rates. Construction has begun on several structures of unknown purpose, an interesting development considering that no actual buildings previously existed in Eudaimonia.
+
+Document 752-70 (recovered from Site-752-2)
+
+Year 24, Day 4
+
+Eudaimon-Beta-4
+
+Population of Eudaimonia: ~300
+
+Population growth has suddenly exploded, nearly doubling in less than a decade. Presumably this increase is related to the structures.
+
+Some other extremely worrying behaviours have begun to emerge. The Eudaimoniacs have developed a meritocracy caste system, and are forcing the strongest and least intelligent to build for them. No, not forcing — the workers do it voluntarily, but they’re working themselves to death. In fact, everybody in this society is being worked to death. Estimated life expectancy is about forty-five, and we proved in the initial testing that Eudaimoniacs can live to 150 easily. No signs of cultural development so far, except that they’ve built the vague hints of a divine ‘creator’ called the Eudaimon into a brutally strict moral system. On the bright side, they’ve taken to heart the idea that one day the Eudaimon will come back for them and lead them to another world, as we’d intended.
+
+We’ve been calling these odd behaviors ‘deviant,’ but they’re not. This society has no deviance. All innovation is judged based on its merits and implemented or discarded. I’m starting to have serious doubts about the value of this whole thing. Alpha-1 and his team of geneticists seem oddly unsurprised by these developments; I bet they knew this would happen.
+
+Document 752-142 (recovered from Site-752-1)
+
+Year 40, Day 325
+
+Eudaimon-Alpha-1
+
+Population of Eudaimonia: ~1000
+
+Population continues to climb. Technological prowess continues to increase exponentially. At this rate they will reach our level well before the release date.
+
+Beta, Gamma, and Delta have no vision — they grow increasingly disgusted by my wonderful creations. I would never have taken them on the project, but I needed their expertise to construct the development chamber. I have taken measures to ensure they never discover the contents of Eudaimonia's nurseries; hopefully this will be sufficient to forestall a mutiny.
+
+Document 752-314
+
+Year 70, Day 87
+
+Eudaimon Delta-1
+
+Population of Eudaimonia: ~3000
+
+Population growth shows no signs of slowing. High-rise type shelters are now being constructed in addition to the unknown buildings to allow for further growth. Technological advancement continues to exceed all expectations. We can only hope that it will stagnate once they get through what we left in the temple. Undesirable behaviours have worsened. Gamma attempted to intervene and was slaughtered. The rest of us attempted a coup against Alpha. Alpha-3 pretended to sympathize and managed to fatally poison most of Beta.
+
+Nevertheless, the coup was a success. We still don't know what's in those buildings, but considering what happened to Gamma we're not touching it. Alpha-1, -2, and -5 escaped; the others are dead or captured. We’ve disabled the release mechanism and sealed off the place as much as we dare. The Eudaimoniacs still believe that there’s no world beyond that shield Gamma built. Now, hopefully, they’ll never learn otherwise.
+
+Unmanned Exploration Unit 752-a was sent into SCP-752 on ██/██/20██. Footage recovered from within the 'nursery' structures indicates an extensive and apparently voluntary [DATA EXPUNGED] before conception. UEU-752-a went offline ██ hours into the expedition, and within two (2) months, technology evidently derived from it was seeing extensive use in SCP-752. Further expeditions must use as little advanced technology as possible.
+
+As direct competition between Homo sapiens and SCP-752-1 is projected to lead to an SK-class dominance shift, SCP-752-1 must be kept ignorant of the world outside their cavern at all costs.

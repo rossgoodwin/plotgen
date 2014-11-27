@@ -1,0 +1,21 @@
+SCP-1436 in its enclosure before pulse device attached.
+
+Item #: SCP-1436
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1436 is to be contained within an environment-controlled aviary measuring 4 x 4 x 5 meters. This aviary is to contain plants and insect life typical of an Iraqi forest for the purpose of SCP-1436’s nutrition. Due to the current activation procedure the enclosure is to be insulated against electrical charge and any personnel entering the enclosure must wear insulated suits.
+
+The current activation procedure requires that SCP-1436 is fitted with a device programmed to discharge an 8000 volt pulse, sufficient to kill SCP-1436, based on a pseudo-random number generator dependent on atmospheric conditions. The device is to be reattached three weeks into every cycle. The chance of these conditions being met and the pulse being discharged outside of a SCP-1436 event is approximately 1 in 10,000 per day. The device must be confirmed to be functioning when reattached and examined again every day during the second stage of SCP-1436’s cycle.
+
+SCP-1436 is never to be contained at any location with on-site warheads.
+
+Description: SCP-1436 is a male bird of unidentified species with features similar to those of the Meropidae family, including its wingspan of 46 cm. SCP-1436’s behavior is typical of an insectivore bird and it produces calls that have been identified as attempts to communicate with other members of its own species. No other members of SCP-1436’s species have been found or identified at this time.
+
+SCP-1436 constantly undergoes a cycle in which it rapidly matures from an embryo into an adult, dies and decays. After SCP-1436’s form has completely decomposed an egg reappears and SCP-1436 reenters the growth stage of its cycle. Each cycle lasts two months on average, with the growth stage usually lasting one and a half months. During this first stage, SCP-1436 does not require more food than the average bird of its current age despite its accelerated growth. Internal imaging of SCP-1436’s body has shown no anomalous features or bodily processes, besides the subject’s rapid growth rate. Once SCP-1436 reaches full maturity it ceases to age and remains in this state for three days on average before entering the second stage of its cycle.
+
+During the second stage of its cycle SCP-1436 manipulates probability to cause its own death. The area around SCP-1436 during this stage of the cycle will experience events dangerous to SCP-1436. These events are always physically possible, but analysis has shown that most SCP-1436 events would have been extremely improbable. The events at the beginning of the second stage are far more localized than those later in the cycle. Events later in the cycle have shown the effect is capable of causing complex causal chains to kill SCP-1436. The last cycle before SCP-1436’s recovery by the Foundation resulted in the structural collapse of a bird house in the ███████████ zoo, █████ fatally wounding 18 and injuring 32. Records from the zoo indicate that SCP-1436 had been in its second stage for about two weeks and that several accidents related to SCP-1436 had occurred, each larger than the last. SCP-1436 does not seem to consciously cause these events, and continues to take acts of self-preservation during the second stage.
+
+A similar effect to the second stage events prevents any direct action besides a second stage event that would kill SCP-1436 from being completed during both stages. Testing has thus-far failed to kill SCP-1436. The most recent ended in the misfire of a pistol, injuring the researcher and rendering the pistol inoperable.
+
+Once the second stage events have succeeded in killing SCP-1436 it typically fully decomposes, including bone, in 20 hours. Once SCP-1436 has fully decomposed it reappears as an egg in the location where it died, regardless of the carcass's location. SCP-1436’s genetics have shown to be unchanged from cycle to cycle. Tests have shown that SCP-1436 can identify personnel and objects from previous cycles.

@@ -1,0 +1,73 @@
+Sonar Image of SCP-473
+
+Item #: SCP-473
+
+Object Class: Euclid
+
+Special Containment Procedures: A 5 kilometer area surrounding SCP-473 is off limits to all personnel. Human testing in this range is prohibited without O-5 approval. Above all, loss of human life within this 5 kilometer area must be prevented. A further 20 kilometer distance is to be secured by no less than two Foundation combat units at all times. Any unauthorized vessels entering this area are to be sunk and their crew eliminated. Vessels approaching the site but remaining outside of the 20 kilometer kill zone may be boarded and turned away with the use of Class-A amnesiacs.
+
+Description: SCP-473 is a wrecked Spanish galleon typical of those used in the early 16th century. It is resting on the ocean floor at ██º██'██"N ███º██'██"W. SCP-473 was brought to the attention of the Foundation after the loss of a research vessel operated by [REDACTED] University. A Search and Rescue team which approached SCP-473 reported audio anomalies "like giggling, and pleading for help". They reported voices in English, Spanish and an unrecognized language. Agents embedded in [REDACTED] immediately moved to cancel the search, declaring the crew and vessel lost.
+
+Note: Though the wreck is designated SCP-473, anomalies present may be due to cargo within the wreck. Further investigation of this is advised against at this time.
+
+Proximity Effects: Phenomena encountered by ships approaching SCP-473 include disembodied voices (which may have knowledge of Foundation personnel and operations) and minor physical disturbances such as unidentified vibrations and impacts on the ship. Electrical disturbances are common, causing primary and emergency lighting to fail. This results in absolute darkness within a ship which, combined with persuasive voices created by SCP-473, causes extreme disorientation. Personnel in the area are advised to confirm the physical presence of anyone they are in communication with and to ignore any voices that have no discernible source. Periodic cries for help from the water (coming from the direction of SCP-473) are to be expected and ignored. Spontaneous movement of small objects has been observed, but has caused little disruption to operations. Sharp objects and weapons are to be secured in locked containers while within 20 km of SCP-473.
+
+Addendum 1:
+
+Interview SCP-473-b
+
+Interviewed: J. ████, Executive Officer (XO) of the Foundation vessel which identified and sonographed SCP-473.
+
+Interviewer: Dr. Halen, SCP-473 project lead
+
+Forward: The Foundation destroyer ████ sailed within 4 kilometers of SCP-473 before retreating to a distance of 6 kilometers and sinking. Evacuation of the ship was successful (excepting the captain), but 16 hands were lost during the 3 hours the crew awaited rescue. Below is an interview with the highest ranked surviving officer.
+
+<Begin Log, [April 17, 20██]>
+
+Dr. Halen: The destroyer ████ sank minutes after locating SCP-473. Why don't you start by explaining how your ship was damaged?
+
+XO: Well I know what happened, just not how. As we got closer to the site, these voices got louder. Below decks started reporting some hard knocking against the hull. It got rough as we got close. The ship started to vibrate a bit and some of the electronics shorted out. The captain ordered us to turn around, tried to get us out of there. But by the time we’d come about, they’d already started in on the bolts.
+
+Dr. Halen: Could you explain, please?
+
+XO: It started to fall apart from the inside. Screws, bolts, nails in the damn furniture… it all started getting knocked out or unscrewed. Even some of the stuff welded in place. The voices got bad too. And the bastards were always so matter-of-fact and calm, even while they were rattling the ship all to hell and taking everything apart. One of them was talking about all the great things he could show me. Another was gibberish I couldn't make out, but she was pissed. We could all hear the voices, there were just no bodies to go with them. It got hard to tell which voices were our crew and which were the damn… whatever they were.
+
+Dr. Halen: When was the last time you saw Captain █████?
+
+XO: He gave the order to turn around and told me to handle things on the bridge while he checked something below deck. I didn’t know he was missing until after I gave the order to abandon ship and everyone was in the rafts but him. God if that’d only been the end of it…
+
+We started rowing away from the wreck and we heard him yelling for help. It was far off, toward the shipwreck. He and I served together for █ years, we helped bring in SCP-███, I know it was him. I figured he’d gotten knocked overboard or something. And I gave the order for a raft to go get him. Watched them get close to the horizon, must have been 3 or 4 kilometers from the shipwreck when they just went under. No sound to it, like a kid’s bobber getting pulled under by a fish on the line. I’ve seen men die, but I know I sent those guys someplace a lot worse.
+
+Wasn’t long after that that Daniels started whispering to me about what a bastard I was, how I sent them all to die for nothing. He said the only way to make it right was to jump out of the raft and join him. Maybe I would have too, if not for the other guys on my raft. We spent hours rowing, with our friends screaming for help behind us.
+
+Even when they were far behind us, they didn't stop whispering in our ears. My friend █████ told me it was the most beautiful thing he'd ever seen. He never was religious, but he said that he'd found God. He said he only wanted me to see what God had shown him.
+
+We don't leave our people behind. We just… we don't.
+
+<End Log>
+
+Closing Statement: Professor █████ and associates present on the research vessel ████ are confirmed to have been "acquired" by SCP-473. Recommend extreme measures be taken to prevent personnel and civilians from expiring in close proximity to SCP-473. Currently advise maintaining containment at present location due to the inherent danger of recovery and the threat of exponential strengthening through acquisition of Class-D subjects at any given Site.
+
+Note: Interview subject J. ████'s corpse was found in his quarters on April 24, 20██; suicide is suspected. A note nearby read "I SHOULDNT HAVE LEFT THEM". Testing of SCP-473 as a possible cognitohazard is ongoing.
+
+—-
+
+Addendum 2:
+
+Continuing research has found that one Professor █████ led the doomed University expedition to the site of SCP-473. Though his research notes appear to have been lost with him, his last out-going email includes some context of his expedition.
+
+Sent 1/15/20██
+
+Samantha,
+
+You're right, the research papers are wordy and I could never put my opinion in them anyway.
+
+You already know that he led a small army south to Ecuador and eventually killed the high priest in charge of appeasing Supai. But it seems that he also captured his two daughters and arranged to have them sent back to Spain as examples of the indigenous population. Sick bastard wanted them as trophies, or worse. Anyway, the ship's manifest listed a number of cultural artifacts in the girls' personal belongings. On that list was an item that I think represented the god himself and THAT is the real prize. The manifest lists all manner of gold and artifacts that the University would love to have, even if we don't hit the jackpot on this one… Still, can you imagine how incredible it would be to bring back the very artifact that the Inca believed was the god of death?
+
+All the best,
+
+███████
+
+P.S.
+
+Let's keep this quiet, it'd be a disaster if someone beat us there!

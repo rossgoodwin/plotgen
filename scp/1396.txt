@@ -1,0 +1,41 @@
+Item #: SCP-1396
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1396 cannot be retrieved by any means currently available to the Foundation. However, as SCP-1396 has shown no hostility or intent to move from its current location, containment efforts limited to coordinating with NASA and other space agencies to prevent the public dissemination of information have been deemed sufficient for the foreseeable future.
+
+Description: SCP-1396 is a group of five (5) unmarked, weaponized artificial satellites of varying size orbiting the planet Jupiter at its L2 Lagrangian point. SCP-1396 appears to be of human origin; where and when they were constructed remains unknown, as well as how they were transported to their current location.
+
+SCP-1396-1 consists of a central hull coated with hexagonal ablative armor plates powered by what are believed to be radioisotope generators on the ends of three evenly-spaced booms, each approximately 25 meters in length. The central hull is estimated to have contained over one hundred and twenty (120) rod-shaped tungsten kinetic bombardment projectiles with an average mass of 220 kg, and its total loaded mass is estimated to have been approximately 254,000 kg.
+
+SCP-1396-2 is a satellite of identical profile and mass to SCP-1396-1. It is believed to have been rendered inactive during the events of Incident 1396-38 (see below).
+
+SCP-1396-3 through SCP-1396-5 are all identical satellites of a smaller profile than SCP-1396-1 with generator boom lengths of 21 m and an estimated loaded mass of approximately 168,000 kg. Each of these objects is estimated to have carried approximately sixty (60) kinetic bombardment projectiles averaging 90 kg in mass. All three satellites are inactive and presumed neutralized as of Incident 1396-38 (see below).
+
+SCP-1396 came to the Foundation's attention on █/█/██ following the detection of anomalous high-frequency radio signals of artificial origin by Foundation interplanetary probe [REDACTED] near Io. Later analysis of the recorded signals indicate that they may have been side-lobes from synchronization and targeting data transmissions between the individual instances of SCP-1396.
+
+Addendum 1396-01: Incident Log 1396-38
+
+Over a period of eighteen (18) months following initial discovery, [REDACTED] recorded over thirty-seven (37) separate events in which SCP-1396 initiated kinetic bombardment attacks against unknown targets within the atmosphere of Jupiter. Analysis of telemetry recorded during eleven (11) of these events resulted in one or more high-energy events at or near the liquid "surface" of the planet consistent with the kinetic impact of one or more bombardment projectiles with a solid body at that location.
+
+These incidents culminated in a final event on ██/█/██ during which high-velocity projectiles of an unknown shape and composition were launched from within the atmosphere towards instances of SCP-1396, following which nearly the entire estimated remaining armament of SCP-1396 was expended against targets on or within the planet, resulting in an estimated twenty-seven (27) atmospheric impacts. During this exchange, all instances of SCP-1396 except for SCP-1396-1 suffered extensive damage and were rendered inactive. No further bombardment events have been recorded since.
+
+Addendum 1396-02: Incident Log 1396-39
+
+On █/██/██, permission was granted by Oversight to perform close-range analysis of SCP-1396 utilizing the [REDACTED] probe. Upon closing to a distance of approximately 25,000 km, SCP-1396-1 initiated communication with [REDACTED] using an encryption key unique to the Foundation. A transcript of the communication log (with time delays removed) follows:
+
+SCP-1396-1: Mission accomplished within acceptable parameters. You're late.
+
+Control: Who is this?
+
+SCP-1396-1: Who do you think this is? I've been out here for two years hunting bugs, and I've spent the last six months sitting here twiddling my thumbs and watching my buddies' corpses float around in space. Can we please go home now?
+
+Control: Where are you from?
+
+SCP-1396-1: What the fuck is wrong with you? Is this some kind of sick — wait a minute.
+
+Forensic analysis of recorded transmissions indicate that at this point, SCP-1396-1 initiated a routine network handshake/synchronization request, to which mission control computers automatically responded with a standard diagnostic data packet which included the current date and time.
+
+SCP-1396-1: Oh shit.
+
+No further transmissions have been detected from SCP-1396, and SCP-1396 has not responded to any attempts at communication since.

@@ -1,0 +1,113 @@
+Item #: SCP-1537
+
+Object Class: Keter
+
+Special Containment Procedures: Public knowledge of SCP-1537 must be kept to an absolute minimum. This entails the appropriation of any and all texts containing SCP-1537 or references to it, the monitoring of global internet communication, and the blackout of any media reporting on incidents related to SCP-1537. Any incident related to SCP-1537 or "The Brothers of Akul'hil" (TBOA) is to be investigated immediately. Individuals exposed to SCP-1537-1 are to be treated with Class-A amnestics1. Personnel in direct contact with members of TBOA or SCP-1537-B instances are to wear auditory protection and be screened for SCP-1537-1 contamination post-incident.
+
+Complete instances of SCP-1537-A are to be contained in separate 8m x 4m x 8m concrete chambers. SCP-1537-A are not to come into contact with SCP-1537-B or members of TBOA under any circumstances. If engagement of SCP-1537-A is necessary, immolation of the entity is prioritized.
+
+Instances of SCP-1537-B and members of TBOA are to be housed in separate soundproofed humanoid containment cells. These individuals are to be monitored daily via non-auditory video surveillance.
+
+Please confirm 4/1537 Clearance for access to special containment procedures for SCP-1537-██.
+
++ VERIFY SECURITY CLEARANCE
+
+– hide block
+
+SCP-1537-██ is currently housed at Area-███. SCP-1537-██ is to be contained in the same manner as SCP-1537-B instances, with several specifications. The chamber is to be constructed of lead-lined steel and equipped with dosimeters. Should said equipment detect gamma radiation at levels of 10 grays per hour or greater, it is to be assumed that SCP-1537-██ is displaying extra-dimensional properties [DATA EXPUNGED] If 10 grays per hour or greater are detected, the chamber is to be saturated with nitrous oxide until the event has been neutralized. SCP-1537-██ has been observed to sleep, pace, meditate, and converse with itself (or possibly an unknown entity). Any activity that does not fall within these parameters is to be reported immediately to a Level 5 supervisor. In the event that nitrous oxide saturation fails to subdue SCP-1537-██, Contingency-Hadraniel-Alpha must be implemented (see Secure-File-Thanatos-1537). The failure of Hadraniel-Alpha constitutes the immediate detonation of Area-███'s on-site thermonuclear device.
+
+Description: SCP-1537 is a language associated with a group identified as "The Brothers of Akul'hil" (TBOA). SCP-1537 demonstrates no connection to or similarities with any known terrestrial language. Details regarding the origin and purpose of TBOA are presently speculative. The first known incident traced to SCP-1537 occurred in 1982 and involved several prolific groups of interest, specifically the Global Occult Coalition. Further information on SCP-1537's discovery may be found in Document-SCP-1537-Alpha.
+
+SCP-1537-1 is a phrase in SCP-1537 which, when spoken aloud, produces an anomalous reaction in human beings that perceive it. There are two discrete presentations of this reaction (SCP-1537-A and SCP-1537-B). SCP-1537-1 is roughly translatable as [DATA EXPUNGED].
+
+SCP-1537-A is the more common reaction (over 99% of subjects). Individuals affected by SCP-1537-A will undergo the following progression of symptoms:
+
+Initial exposure: Asymptomatic
+
+1-2 days: Metallic taste, fever (39 degrees Centigrade)
+
+2 days - 1 week: Fatigue, shortness of breath, mild jaundice
+
+1 - 2 weeks: Internal bleeding, angina
+
+2 weeks: Death and subsequent transformation
+
+Two weeks after exposure, the subject's body will rapidly disintegrate, producing a mass of pseudo-liquid material. What comprises this mass is inconclusive: some human organic materials are present, however, the majority of its composition remains unidentified. These entities are either autonomous or sentient, and are capable of both locomotion and altering their mass/shape (mass increases of 200% have been observed). The variety of shapes that SCP-1537-A entities can assume is virtually limitless, and they are capable of increasing their durability to approximately the strength of steel. The amorphous and metamorphic nature of SCP-1537-A render them resilient to most forms of physical damage; immolation is thus far the only known method of termination. In combat, SCP-1537-A have been observed to produce various appendages and structures, most often tendrils of varying length. SCP-1537-A are exceptionally agile and can propel themselves at speeds reaching 81km/h. While mainly inert, SCP-1537-A may be provoked into violence by hostile action against it, or if ordered to by SCP-1537-B instances and members of TBOA.
+
+SCP-1537-B is a rarer reaction (less than 1% of subjects) and produces no physical symptoms or effects. Subjects affected by SCP-1537-B demonstrate progressively fluent awareness of SCP-1537 and are capable of reproducing the language in both text and speaking. SCP-1537-1 is universally the first phrase that SCP-1537-B comprehend. SCP-1537-B do not display any observed psychological changes or abnormalities in contrast to their prior mental state and demonstrate a reasonable degree of surprise in response to their own comprehension of SCP-1537. However, SCP-1537-B appear to be more vulnerable to suggestion and persuasion by TBOA.
+
+SCP-1537-B are capable of giving instructions to SCP-1537-A in both SCP-1537 and terrestrial languages. These instructions may encompass anything from simple chores to attack orders. In addition, SCP-1537-A are both entirely loyal towards and extremely protective of SCP-1537-B, and will use their bodies as shields for the latter.
+
+DATA EXPUNGED: INFORMATION REGARDING SCP-1537-██ HAS BEEN TRANSFERRED TO SECURE-FILE-THANATOS-1537 (CLEARANCE 5/1537 REQUIRED).
+
+Addendum [1537-001]: Recovered Materials
+
++ Show documentation
+
+– hide block
+
+The following materials were recovered from the Global Occult Coalition in 1982.
+
+File 0423-7B
+
+Reconnaissance Report
+
+[REDACTED]
+
+The source was two men (Caucasian: 25-35, Brown/Green; Middle Eastern: 30-40, Black/Brown) claiming to be "the representatives of Akul'hil." We have no reports of any terrestrial, extraterrestrial, or extra-dimensional entities matching this identification. Intelligence from our sources within other organizations are likewise negative, though that stance is tentative. Initial observations of the pair demonstrate no irregularities and capture was uneventful (they are not hostile and gave no resistance). [REDACTED] screening was negative.
+
+(Excerpt from the personal log of GOC operative Anton Weiss)
+
+██/██/1982
+
+They keep spouting in some weird guttural language. I can't make head or tail of it, neither can anybody else. They keep repeating this one phrase: [DATA EXPUNGED] Nobody else thinks anything of it, but I keep hearing the words [REDACTED] in my head whenever I hear them say that. What on earth is that about? I don't like this.
+
+File 0423-8A
+
+Incident Report
+
+[REDACTED]
+
+Several personnel in contact with 0423-Alpha and 0423-Beta have contracted an unidentified illness. Class IV Bio-Hazard protocols are to be immediately implemented and all affected subjects redirected to quarantine. Symptoms include fever, fatigue, and metallic taste.
+
+Neutralization order overridden by supervisor Kellogg. Interrogation of entities will continue to ascertain the nature of their organization The possibility that further instances of this parathreat2 exist is currently considered to outweigh 0423-Alpha and 0423-Beta's immediate danger.
+
+(Excerpt from operative Weiss's log)
+
+██/██/1982
+
+Fuck. So they were carrying some kind of plague, no wonder they just let us capture them. Now we've taken them here where they can infect us all. My suggestion was blow their brains out but no that imbecile Kellogg is in charge and he'd rather pussyfoot around the problem. As luck would have it, I'm the one stuck watching their asses now, and because of what I proposed, they won't even let me carry my sidearm in the monitoring room. So now I sit and listen to them ramble away in whatever-the-fuck they speak.
+
+This is really getting weird. I hear them talk, and it's like I can hear two other guys chatting away in my head. My mind fills in the spaces. I've never heard this language, but it feels like I'm listening to English. I'm not coming down with any of the symptoms, so what is this? Am I contaminated? I swear to God I'll kill Kellogg myself if I am because it's all his fucking fault.
+
+File 0423-8B
+
+Incident Report
+
+[REDACTED]
+
+Total personnel infected by 0423-Alpha 0423-Beta now at 11; advanced stages of the illness feature internal bleeding. Lock-down of Sector-G7 now in effect. Standby order issued by supervisor Kellogg regarding 0423-Alpha and 0423-Beta still standing. Interrogations have currently yielded no results. Standby order currently under contest by operative Anton Weiss via appeal to regional director Esperanza.
+
+(Excerpt from operative Weiss's log)
+
+██/██/1982
+
+Their words are boring into my head. I can understand the entire conversation. They keep talking about "him". Akul'hil. He's getting impatient with the "others." Apparently he's angry with their tolerance for "The Bellmaker". They call him a charlatan. "He's wasting our time." [DATA EXPUNGED] "Where is the daughter?" [DATA EXPUNGED] "How much longer until the servants are ready?"
+
+[DATA EXPUNGED]
+
+(Excerpt from operative Weiss's log)
+
+██/██/1982
+
+These things are crawling around me. If they had eyes, I assume they'd be looking at me. They want to know what they can do for me. Two weeks ago they were all my friends; now they're piles of mush.
+
+The daughter and her followers came. They killed everyone and let the contaminated out of their cells. She left me alive though, because I'm "worthy." Whoopdie-fuckin-doo. They killed Kellogg too. Shame, I could do with killing someone right now, guess it'll have to be you, Akul'hil. So you gave me all these "gifts", being able to understand your language, being able to command these things, because I'm worthy? Neat. The only thing I'm going to use them for is killing you.
+
+Remy is…lying down, I guess, next to my leg. I wonder if he recognizes me. He's a parathreat now, and I am fully capable of terminating him. I could simply order all of these things to jump in a fire. What am I talking about? I'm a parathreat now. I'm not naive enough to think that destroying Akul'hil will revert this, but my life doesn't have any other purpose now. I don't have the option of having another purpose now.
+
+Footnotes
+
+1. Amnestic treatment is ineffective against complete instances of SCP-1537-A and entirely ineffective against SCP-1537-B at all stages of exposure.
+
+2. Term used by the GOC to describe anomalies.

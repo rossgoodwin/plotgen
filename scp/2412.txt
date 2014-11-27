@@ -1,0 +1,227 @@
+Item #: SCP-2412
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2412 is kept in a standard safe humanoid containment chamber, fitted with a five number keypad lock.
+
+The use of SCP-2412 is strictly disallowed outside of approved testing. If a researcher has the intent to ask SCP-2412 a question about the future, he or she must fill out application 2412-F7o and turn it in to the site administrator. If said application is approved, one guard with a copy of the application will be posted inside the containment chamber while the researcher is asking questions. If, at any time, the researcher asks a question regarding the future that is not on the application, he or she will be removed from the containment chamber, and may or may not be given Class-C amnestics, depending on the sensitivity of information provided by SCP-2412.
+
+Description: SCP-2412 is a fully functional humanoid automaton that resembles an adult human female. SCP-2412 is comprised of many complex clockwork and steam-powered systems including, but not limited to: rotational systems made of clockwork with the functionality of joint rotation and limb movement in general, a large, complex mass of clockwork systems in the cardial area of the chest that often emits dense clouds of steam, and lastly, a steam powered engine located on the rear side of SCP-2412 accompanied by a fuel gauge that currently reads "98%". This engine is believed to provide SCP-2412 with energy to function, but this cannot be proven as no attempts to breach the engine to examine its insides have proven successful.
+
+SCP-2412 is capable of vocalization, and is able to speak all known languages, as well as some others1. The object is also capable of basic motor skills such as walking and using its hands as a means to take hold of objects.
+
+When asked a question, SCP-2412 will respond with a correct answer, except in these cases:
+
+SCP-2412 is posed a question about anything it deems anomalous2, or anything that may be affected by an anomaly3
+
+SCP-2412 is posed an incoherent question, ie. "Where clock pant leg?"
+
+SCP-2412 is posed a question about how it was made or where it gets its information4.
+
+SCP-2412 is posed a question about a paradoxical situation, ie. asking about the 'Grandfather Paradox' and what the outcome would be.
+
+In these cases, SCP-2412 will respond with "Warning: Logic Error." Aside from these, SCP-2412 is capable of answering, with extreme accuracy, any type of question. These include, but are not limited to, questions regarding the future, scientific theories currently unconfirmed or misunderstood, and laws of nature that are not currently understood.
+
+It is currently unknown where SCP-2412 gets its information, and when posed a question about this, it will respond with "Warning: Logic Error."
+
+Discovery Log: SCP-2412 was discovered in an abandoned factory in ██████, South Carolina. The factory had been abandoned for at least 150 years, dating no further back than the year 1825.
+
+Interview Log-A1:
+
+Interviewer: Researcher Carter (project leader), Interviewee: SCP-2412. Researcher Carter is only allowed to ask the basic "who, what, when, where and why?" questions.
+
+Researcher Carter: Hello, SCP-2412. We would like to ask some questions. Before we begin, do you have any questions?
+
+SCP-2412: No.
+
+Researcher Carter: Alright, then. Let's get started. When were you made?
+
+SCP-2412: Year - 1866.
+
+Researcher Carter: How were you made?
+
+SCP-2412: Warning: Logic Error.
+
+Researcher Carter: Why were you made?
+
+SCP-2412: Mankind fears evil: mankind creates god. Mankind fears germs: mankind creates antibodies. Mankind fears paranormal: mankind creates Foundation. Mankind fears unknown: mankind creates me.
+
+Researcher Carter: By whom were you made?
+
+SCP-2412: Creators: Elsat, Chivertti, Tilggan, Cufalotu. These four men collaborated to create a machine that would answer questions about the outcome of the war.
+
+Researcher Carter: Where were you made?
+
+SCP-2412: Country: American Provinces of Germany. State: South Havel. City: Frederick's Town.
+
+Researcher Carter: Thank you, SCP-2412. The interview is now over. We will likely ask more questions in the future.
+
+SCP-2412 remains silent.
+
+End log. SCP-2412 appears to have originated from an alternate timeline. Further questioning required. Seeking approval of an interview about basic human traits: Is it sapient? Can it feel emotion? Etcetera. -Researcher Carter
+
+Approved. -Edward Harden, Site Administrator
+
+Interview Log-A2:
+
+Interviewer: Researcher Carter, Interviewee: SCP-2412. Researcher Carter will ask questions related to emotions.
+
+Researcher Carter: Greetings once again, SCP-2412. I'll ask you some more questions today. First, do you originate from our timeline?
+
+SCP-2412: No.
+
+Researcher Carter: How did you get to our timeline?
+
+SCP-2412: Warning: Logic Error.
+
+Researcher Carter: Where is "the American Provinces of Germany?"
+
+SCP-2412: It is located in what you would call the United States of America, as well as small parts of southern Canada and northern Mexico.
+
+Researcher Carter: When will your steam engine run out of fuel?
+
+SCP-2412: In ████ years.
+
+Researcher Carter: In our first interview, you mentioned a war. What war is this, and which faction was victorious?
+
+SCP-2412: The war between Germany's colonies and Germany. Germany's colonies wanted to be independent. The German colonies came out victorious, and created the American Provinces of Germany.
+
+Researcher Carter: Okay, then. Next question: Are you sapient?
+
+SCP-2412: Yes.
+
+Researcher Carter: Are you capable of feeling emotions?
+
+SCP-2412: Yes.
+
+Researcher Carter: Okay, what makes you happy?
+
+SCP-2412: Questions.
+
+Researcher Carter: Lastly, what do you fear?
+
+SCP-2412: Loneliness.
+
+Researcher Carter: Thank you, SCP-2412. We will ask some other questions at a separate time.
+
+SCP-2412 remains silent.
+
+End log. Extended questioning requested. We need much more information, so I'm requesting a waiver on the questions regarding the future, as well as a question limit of 50 instead of 10. -Researcher Carter
+
+Approved. -Edward Harden, Site Administrator
+
+{+}Extended Interview Log-B1
+
+{-}Extended Interview Log-B1
+
+Interviewer: Researcher Carter, Interviewee: SCP-2412. Researcher Carter has had the restrictions on questions, including those regarding the future, waived for this interview due to the massive amount of information that is unknown about SCP-2412. Questions regarding SCP-2412's timeline have been omitted from the log and any information regarding its timeline has been moved to Document-2412-TL1563 for the sake of brevity.
+
+Researcher Carter: Hello again, SCP-2412. How are you?
+
+SCP-2412: Lonely.
+
+Researcher Carter begins questioning about SCP-2412's timeline, log moved to Document-2412-TL1563.
+
+Researcher Carter: Okay, then. For research purposes, at what time will Researcher Hubei eat dinner this evening?
+
+SCP-2412: 6:37 PM, Eastern Standard Time.
+
+Researcher Carter: Next question, where did your original creators go?
+
+SCP-2412: They left me in the factory after they no longer needed me. They fled to Luin once Germany's colonies began to rebel.
+
+Researcher Carter: How long were you alone after your creators left?
+
+SCP-2412: 156 years.
+
+Researcher Carter: Before they left, were you aware that they would abandon you?
+
+SCP-2412: Yes.
+
+Researcher Carter: Okay. I'm sorry about that, 2412. At what point did you manifest in this timeline, and where?
+
+SCP-2412: Year: 1864. Location: Charleston, South Carolina.
+
+Questioning about SCP-2412's original timeline continues for 32 minutes and 15 seconds. For the sake of brevity, further information about SCP-2412's timeline can be found in Document-2412-TL1563.
+
+Researcher Carter: I will now move on to questions that are not related to your timeline or history. How are anomalies created?
+
+SCP-2412: Warning: Logic Error.
+
+Researcher Carter: How can we contain SCP-████ with ease?
+
+SCP-2412: Warning: Logic Error.
+
+Researcher Carter: Where did life originate?
+
+SCP-2412: Teeming pools of matter and "slosh." Extremophiles emerged and evolved.
+
+Researcher Carter: Are humans alone in the universe?
+
+SCP-2412: No. Your Foundation will soon discover an old vessel returning from a long voyage.
+
+Researcher Carter appears visibly happy.
+
+Researcher Carter: Okay. How was the universe created?
+
+SCP-2412: Internal Conflict: Please repeat question later.
+
+Researcher Carter: When and how will the universe die or stop?
+
+SCP-2412: Your universe will stop after a heat death. This event will happen in approximately one googol5 years.
+
+Researcher Carter: Is there any way humanity can survive after this event?
+
+SCP-2412: Humanity did not manage to survive before this event.
+
+Researcher Carter: What was the cause of our downfall?
+
+SCP-2412: Yourselves.
+
+Researcher Carter: Can we do anything to stop this?
+
+SCP-2412: No.
+
+Researcher Carter: Could we possibly relocate to another universe or timeline?
+
+SCP-2412: Internal Conflict: Please repeat question later.
+
+Researcher Carter: Okay. That's it for us, 2412. Thank you for helping.
+
+Researcher Carter gets up and proceeds to the door.
+
+SCP-2412: Please return sooner than you're planning.
+
+Researcher Carter: I-I'll try, 2412.
+
+SCP-2412: No, you won't. You'll just leave me here for six months before you return to ask more questions. Please return sooner.
+
+Researcher Carter: Fine, I really will try. I have to leave now, SCP-2412. Don't worry about my return, I will be back within a week—
+
+SCP-2412: I have been dreading this moment for quite some time. I cannot change the course of time. I know this because I have tried in the past. But, regardless, I will make an attempt to. I want to be asked questions. If you can't manage that, please visit me on occasion. It doesn't have to be you — just send someone. Just please don't leave me in solitude as you intend to. Please. Make a hasty return.
+
+Researcher Carter: Don't worry, 2412. I will.
+
+Researcher Carter waits for a response from SCP-2412 for 15 seconds, and after he determined that it wouldn't respond, he leaves the room along with the posted guard.
+
+SCP-2412: No, you won't.
+
+End log. Researcher Hubei, who had been working on SCP-████ at the time, was asked to record the time that he ate dinner. The time was consistent with the time that SCP-2412 stated. Further questioning requested. -Researcher Carter
+
+Denied. I feel that we've gained enough information for the time being. -Edward Harden, Site Administrator
+
+Requesting further questioning, once again. I feel that we have a lot to learn from her. -Senior Researcher Carter
+
+Denied. Since you're no longer project lead, you'll have to fill out the application just like everyone else, Carter. -Edward Harden, Site Administrator
+
+Footnotes
+
+1. Languages from its timeline.
+
+2. SCP-2412's exact definition of the word 'anomalous' seems to be extremely similar to the Foundation's, but there are some variations.
+
+3. SCP-2412's information seems to be restricted in most situations directly regarding an anomaly, for example, it cannot predict when a raid on a Foundation site will be attempted by a Group of Interest. Despite this, it is still able to determine things that will happen/have happened even if they were affected by an anomaly. For example, if the population of a town was killed off by an anomaly, SCP-2412 is capable answering what killed them. It seems that SCP-2412 is unable to answer questions regarding anomalies in the future, but is somewhat capable of answering questions about them in the past.
+
+4. This likely corresponds with the first exception, but it is too important to overlook.
+
+5. 10^100

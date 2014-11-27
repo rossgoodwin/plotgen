@@ -1,0 +1,33 @@
+Item #: SCP-1482
+
+Object Class: Safe
+
+Special Containment Procedures: Site-178 has been built around SCP-1482, with the cover story that the Site is a retirement home for elderly individuals affected by dementia. A chain-link fence around the perimeter with CCTV monitoring is to be maintained. Any unauthorised individuals attempting to access Site-178 are to be detained, interviewed and – if they present no clear threat – released after being provided with a Class-C amnesiac.
+
+Description: SCP-1482 is a structure resembling a residential building located in ██████, Shetland, Scotland.
+
+SCP-1482 appears to be composed entirely of several-hundred objects not typically used in construction (collectively referred to as SCP-1482-1) attached together with string, rope, glue and conventional staples. These objects include: metallic objects such as knives, forks and sheet metal; wooden furniture; living, healthy and in some cases, partially vivisected specimens of Bos primigenius (domestic cattle), Salmo salar (Atlantic salmon), Giraffa camelopardalis (giraffe) and Orcinus orca (killer whale), as well as various members of the Orders Anura (frog) and Lophiiformes (angler fish). The living components of SCP-1482 have been determined to constitute under 10% (ten percent) of its parts, the rest consisting of non-living and artificial objects. These living specimens do not appear to require sustenance or excrete waste.
+
+At 3 (three) known locations on SCP-1482, organs resembling human vocal cords are attached directly to an animal instance of SCP-1482-1 with staples; these vocal cords are identified as SCP-1482-2. Periodically, SCP-1482-2 will produce intelligible vocalisations in heavily slurred Scots English. The specific content of these vocalisations varies, but will typically involve one of the following:
+
+Complaints of being unable to see or hear, often with the mention that SCP-1482 can feel and smell in detail.
+
+Complaints of the interior of SCP-1482 feeling “cold”, “cald”, or in some cases, “baltic”.
+
+Requests that a non-specific listener enter SCP-1482 to warm it up, and provide company.
+
+Attempts to convince individuals who have entered SCP-1482 to stay indefinitely, make extended contact with the organic parts of SCP-1482 to confirm their presence, and protect the structure.
+
+Requests that individuals exiting SCP-1482 cease doing so. Exclamations of this nature tend to be shouted or yelled with increasing urgency.
+
+Screaming, distorted sounds of distress and assertions that if an individual who has recently exited SCP-1482 does not re-enter, "the bad men” or “madmen” are "gonnae come and have an empty1”.
+
+SCP-1482 was recovered from the custody of Group of Interest 3BA-Alpha-C (“the Chaos Insurgency”), following the group's evident attempts to manipulate SCP-1482’s anomalous properties to enable longevity and non-reliance on nutrition in humans. The organisation had largely abandoned projects involving SCP-1482 by the time the Foundation became involved.
+
+Analysis of files recovered from the CI have revealed limited information regarding SCP-1482. From these documents and the testimony of witnesses, it has been determined that SCP-1482 was the former residence of █████ K███████, noted zoology enthusiast, and that the vocal apparatus of the residence at one point functioned to provide information on various animal species. Ms. K███████ has yet to be located.
+
+Further investigation has revealed that, prior to the involvement of the CI, the structure consisted exclusively of animal parts.
+
+Footnotes
+
+1. A term in Scots slang referring to youths hosting a party in their place of residence while their parents, carers or guardians are absent.

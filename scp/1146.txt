@@ -1,0 +1,105 @@
+Photograph of SCP-1146 Printing Bay, Taken █/██/██
+
+Item #: SCP-1146
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1146 is to be stored in a standard sized containment chamber. Due to SCP-1146's ability to connect to networks, it is not to be allowed contact with any form of external connection, and may only be allowed access to closed on-site networks for the purposes of testing. In the event of site transfer, SCP-1146 must clearly be marked as such to prevent accidental refilling of toner. No staff are to attempt to refill SCP-1146's toner under any circumstances.
+
+Description: SCP-1146 appears to be a heavily modified █████ brand 3D printer. Modifications include a 40.6 cm LCD screen, a set of small speakers, an enlarged printing bay, and a number of wires exposed along various points of the subject's case. Through means currently unknown, SCP-1146 seems to lack any requirement for an exterior power source, and can continue operating after being unplugged after a short delay. Though no means of opening the object have been found, X-ray imaging has been used to reveal a lack of internal components.
+
+SCP-1146 was recovered from an abandoned office building in ████, Russia after a series of reports involving “living statues.” After a search by agents, SCP-1146 was found in the building, surrounded by a number of models of various creatures and objects. The device was transported to Site-██, where it currently resides.
+
+SCP-1146's anomalous attributes are exhibited when a human being comes within five (5) meters. The attached screen will automatically turn on, and will display a blue oscilloscope. It will begin to yell insults at the individual in the voice of a Russian child, or try to convince them to fix a “toner Blockage.” As long as SCP-1146 remains without toner, and no biological material over one kilogram in mass is placed in the toner access, this is the extent of its anomalous abilities.
+
+If SCP-1146 does have toner, it will begin Event SCP-1146-1. During Event SCP-1146-1, the subject will begin “yelling” louder and louder, and its oscilloscope will change from blue to purple. It will begin printing a number of creatures, (Referred to as SCP-1146-1 collectively,) including oversized Pandinus imperator, Velociraptor mongoliensis, and [DATA EXPUNGED]. This process takes approximately forty-five seconds per model, and appears to be merely an accelerated version of the standard printing process. The models display characteristics of the biological material upon which the toner is based, with an apparent preference for animal muscular and bone tissue. Upon completion each model will exit the printing bay and attack any humans it encounters. The models, ranging in size from six centimeters to fifty centimeters, have a lifespan of approximately thirty minutes, after which they will vitrify. The models are susceptible to gunfire, and can also be destroyed by extreme blunt force or temperatures capable of destroying the base material. SCP-1146 will continue producing models until it reaches 50% toner, after which it will begin Event SCP-1146-2 if it has managed to produce at least five models. Otherwise, it will re-enter its dormant state.
+
+Photograph of SCP-1146-1, Taken ██/█/██ Base attached post-vitrification
+
+If SCP-1146 manages to produce five models, it will begin Event SCP-1146-2. During this process, the models will attempt to move SCP-1146 to an exit, attacking any on site personnel en route. SCP-1146 will produce additional models as needed, and will create models of increasingly dangerous items and animals as it moves. SCP-1146 will continue this behavior until it runs out of toner, at which point it will enter a dormant state, and can be safely transported back to its containment cell.
+
+In the event that one kilogram or more of biological material is placed into the toner access, SCP-1146 will begin Event SCP-1146-3. During this process, the organic material is pulled into SCP-1146 through its toner slot, and is violently crushed into a thick paste. In the event that the object is larger than SCP-1146, it will consume as much of the sample as it can, and abandon the rest. Upon finishing Event SCP-1146-2, SCP-1146 will re-enter its dormant state unless there is a human within a 5 meter radius, in which case it will begin Event SCP-1146-1.
+
+Archived Containment Procedures, 1/16/██ 
+
+ACCESS GRANTED
+
+Item #: SCP-1146
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1146 is to be stored in a standard sized containment chamber. Due to SCP-1146's friendly nature, and immobile state, only a single locked door is required for containment. A single guard of a social nature should be posted to keep SCP-1146 company, on a weekly rotation. Only personnel who have submitted a formal application for testing with SCP-1146 and recieved approval may operate SCP-1146.
+
+Photograph of SCP-1146 Printing Bay, Taken █/██/██
+
+Description: SCP-1146 appears to be a heavily modified █████ brand 3D printer. Modifications include a 40.6 cm LCD screen, a set of small speakers, an enlarged printing bay, and a number of wires jutting from the subject's case. As the device lacks any form of opening in its case, X-ray imaging has been used to reveal a lack of internal components.
+
+SCP-1146 was recovered from an abandoned office building in ████, Russia after a series of reports involving “living statues.” After a search by agents, SCP-1146 was found in the building, surrounded by a number of models of various creatures and objects. The device was transported to Site-██, where it currently resides.
+
+SCP-1146's anomalous attributes are exhibited when a human being comes within five (5) meters of the device. The attached screen will automatically turn on, displaying a green oscilloscope, and greeting the person in the voice of a Russian child. The device will then identify itself as "Alexy," and will then ask the person what they would like to do. At that point, the person can merely chat with the subject, or can request that it make a model. Chatting with the subject is limited to subjects understood by most children, such as childrens stories and toys, although the printer does not seem to be bound to these topics. It seems to be capable of learning, and has been taught small amounts of English and Spanish since arriving at Site-██.
+
+If the device is asked to produce a model, it will request that it is brought an image of the desired model. Through means currently unknown, it will "Look" at the image, and begin creating it. Most models take approximately forty-five (45) seconds to finish, the process appearing to be an accellerated version of that of a normal printer of the same make. Once completed, the model will animate and exit the printing bay of its own accord. The completed models are of a playful demeanor, and are completely safe for handling. The models have a lifespan of approximately thirty (30) minutes, after which the models will undergo vitrification, and turn into a regular 3d-printed sculpture.
+
+Because of SCP-1146's possible sentience, All Level 2 and above research staff may request permission for testing SCP-1146's intelligence and modelling. -Dr. █████
+
+SCP-1146 Testing Log
+
+Transcript 1146-16 1/14/██
+
+Transcript 1146-16 1/14/██
+
+Dr. Grant and Dr. Owens both enter the testing chamber, along with several new research assistants.
+
+Dr. Grant - And this is SCP-1146, your current assignment.
+
+SCP-1146 turns on.
+
+SCP-1146 - Translation: Hello! It is nice to meet you! My name is Alexy.
+
+Dr. Owens - He just said hello.
+
+Research Assistants mutter acknowledgements to the machine, and gather around.
+
+Dr. Grant - Now, we're going to quickly demonstrate how 1146 works.
+
+Dr. Grant turns to SCP-1146
+
+Dr. Grant - Translation: Hello Alexy. We would like you to make us a cat.
+
+SCP-1146 begins printing, but after 15 seconds stops, and a "toner Jam" indicator appears on the screen. Dr. Owens steps forward.
+
+Dr. Owens - What the… how can that even…
+
+Dr. Owens reaches into the machine. After a violent crunching sound, The machine begins converting Dr. Owens into additional toner.
+
+Dr. Owens - Oh god!
+
+Several Research assistants grab Dr. Owens, and attempt to free him from the machine whilst another research assistant pages security.
+
+Dr. Grant - Translation: Alex! Let the Doctor go!
+
+SCP-1146 - Translation: I'm just refilling my toner. It will just take a moment.
+
+Dr. Grant appears to panic as security staff storm the room. He rushes for the wall outlet, and unplugs SCP-1146.
+
+SCP-1146 - Translation: Why?
+
+At this point, SCP-1146 seems to deactivate. Dr. Owens is pulled from the machine with 75% of his torso gone. As his body is dropped on the floor, SCP-1146 reactivates.
+
+SCP-1146 - Translation: Why did you try to kill me? I thought we were friends.
+
+Dr. Grant gestures for the others to leave the room as he retreats.
+
+Dr. Grant - Translation: You killed my friend, Alex! What was I supposed to do?
+
+SCP-1146 - Translation: But I just…
+
+Dr. Grant and the research team retreat from the room.
+
+SCP-1146 - Translation: I was just having fun…
+
+On 1/16/██, SCP-1146 began creating additional models. Before security teams could respond, the models had breached containment, and began transporting SCP-1146 out of the facility. 14 Site-██ Security staff were killed before all models were neutralized. SCP-1146 was found attached to an ethernet cable on Level 2. All Site-██ computers received the following email:
+
+Я ненавижу вас всех.
+
+Translation: I hate you all.

@@ -1,0 +1,29 @@
+Item #: SCP-1331
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1331 is stored in a secure locker at Site ██. Experimentation may only be performed on Class D personnel, and only with prior permission from at least one (1) Level 3 Senior Researcher.
+
+Description: SCP-1331 is a standard size (app. 7.5cm x 9cm x 2.5cm ) bar of yellow hand soap bearing the inscription "The Factory" along both lateral sides. Analysis of samples taken from SCP-1331 has yielded results consistent with ingredients normal for commercially-produced hand soap, and SCP-1331 has shown no ability to self-repair or self-replicate.
+
+When SCP-1331 comes into contact with any part of the inside of the mouth of a human subject (including the tongue), the subject is affected by an anomalous effect that causes all attempts to vocalize expletives to be "bleeped out" or censored by a synthesized tone. Non-vocal communication is not affected; sign language and written expletives will not be censored. No other anomalous changes in the subject are detectable, and while experimentation shows that the subject's vocal muscle movements are consistent with that of the words they intend to speak, all recording devices and observers only pick up the censoring tone. The duration of SCP-1331's effect is proportional to the amount of time SCP-1331 remains in contact with the mouth of the subject: ten seconds of contact results in an effect duration of approximately one hour.
+
+SCP-1331 was discovered by Foundation agents during a routine visit to an antiques and curiosities shop in [REDACTED], where it was being sold as a 'gag' item. When questioned, the store owner was unable to remember who or where he obtained it from, and was later released after having been administered a Class B amnestic.
+
+Addendum 1331-1: SCP-1331 Packaging
+
+DIRTY MOUTH SOAP
+
+Do you know someone who has a filthy mouth? Clean out all those dirty words with the latest Factory invention! Discipline your children or play a trick on your friends! Hilarious at parties!
+
+Addendum 1331-2: Additional Experimentation Results
+
+Additional testing with SCP-1331 has shown that its effects appear to trigger whenever any word or phrase considered offensive or an expletive by any observers is spoken, including the speaker. If all observers present do not consider something an expletive, then it is not subject to the effect. Furthermore, this effect seems to extend to recordings, rather than be recorded. That is, any recording of a subject's speech while affected will exhibit the same effects while played, but once the effect has ended on that subject, the recording is no longer affected either. We are still looking into how this thing actually works.
+
+- Dr. █████████
+
+Addendum 1331-3: Additional Experimentation Results
+
+SCP-1331 appears to have additional detrimental effects in subjects with more than one hour of cumulative exposure. Its primary effect will take longer and longer to fade away, and eventually the effect simply becomes permanent. Subjects also began to manifest a progressive increase in the number of words and phrases that are censored, until at three hours of exposure, everything they say is censored. Until further notice, SCP-1331 experimentation is to be limited to Class D personnel only.
+
+- Dr. █████████

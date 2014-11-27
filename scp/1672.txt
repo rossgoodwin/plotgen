@@ -1,0 +1,17 @@
+Item #: SCP-1672
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1672 is currently stored inside a 35cm x 35cm x 35cm steel box inside a 3m x 3m x 3m storage room in Site ██. All documentation on SCP-1672 is to be stored in this box. All documentation is to be on paper with a quotation box (such as on this document) for the convenience of those infected. Those infected by SCP-1672 are to either be reassigned to research the object, or to be given Class A amnestics.
+
+Description: SCP-1672 is a single sheet of 20#, U.S. Letter-sized copy paper with a 18x18cm black box in the center. Inside the box is an image of a man with a cardboard box with a "smiley face" drawn on it in black over his head, sitting at an office desk with two monitors. This image is a memetic agent that causes infected individuals to become obsessed with isotropy and the contents of boxes, and also exhibit severe levels of agoraphobia. Infected individuals will ignore any written information not contained within a printed box, such as the ones on this document, and if confronted about this will become irritable and often violent. The meme also seems to have a compulsion factor, as those infected often try to infect others by showing them the image.
+
+Outside of this box are handwritten messages written in black ink. These messages are non-anomalous; however, due to the nature of SCP-1672 they are difficult to read without becoming infected. Having an infected individual cover the image has proven effective, and photographs of SCP-1672 have been proven to not carry its effect. Most of these messages are directed at Foundation personnel in general, mocking the Foundation's modi operandi and the general shortsightedness of its members. None of this information is to be brought to the attention of infected individuals, even if they were aware of these messages prior to being infected.
+
+Acquisition: SCP-1672 came into Foundation custody on 10/24/2006 when the steel box it is currently contained in was found near [REDACTED] of Site ██. After testing whether the box contained a bomb or another kind of immediate security threat, a D-Class was used to open the box. Infection was immediate as D-98634 began to complain that the room lacked isometric design. D-98634 then showed researchers and security personnel present SCP-1672, infecting them all. By 10/26/2006, 90% of Site ██ was infected.
+
+On 10/31/2006, MTF Beta-12 ("Trick or Treaters") entered Site ██ with the intention of distributing Class A amnestics to attempt to counter the memetic effects of SCP-1672. 31% of Site personnel had expired from dehydration after finding isometric containers large enough to fit inside. 43% were found alive in such containers, having been cared for by uninfected personnel. They found that roughly ██% percent of Site ██ had been altered to make the affected rooms isometric. The methods of doing so varied, such as brickwork or stacked wooden pallets, and upon questioning Site ██ personnel confirmed it was the doing of the infected. Amnestics were successfully distributed throughout Site ██ and the memetic agent was contained, designated as SCP-1672, and slated for testing to determine its origin.
+
++ Scan of SCP-1672
+
+- Close Image

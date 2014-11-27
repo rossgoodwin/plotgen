@@ -1,0 +1,17 @@
+SCP-250, taken before capture.
+
+Item #: SCP-250
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-250 is to be kept in a 50-meter-by-50-meter enclosure simulating a prairie environment, with padded steel walls 15 m high and 1 m thick. The temperature must remain between 20 and 28 degrees Celsius by day, and between 10 and 14 degrees Celsius by night, with an average humidity of no more than 8%; this serves the dual purpose of ensuring that SCP-250's overall behavior remains predictable, and of maintaining the physical integrity of its component parts. Vegetation within the enclosure is to be maintained on a weekly basis; see document 250-MB48 for details.
+
+Although SCP-250 does not physically require nutrition, it is to be fed one live adult pig every two (2) days in order to regulate its aggression and hunting instincts. The remnants of its meal are to be removed from its enclosure no less than one (1) hour after the onset of its nightly dormancy period; this includes cleaning any residual biological debris from SCP-250's physical components with compressed air and whisk brooms. At no point during cleaning are any of SCP-250's physical components to be moved by more than 1 meter in any direction, as this risks disrupting its dormancy. Dormancy ends within five minutes of sunrise; access to SCP-250's containment during its activity period is prohibited.
+
+Description: SCP-250 is the animate fossil skeleton of an allosaur (originally identified as Allosaurus fragilis; however, an incomplete scientific article found in the personal effects of paleontologist Dr █████████ indicates that this classification may have been erroneous). It consists of 153 disarticulated bones, and 14 plaster-and-fiberglass replacements, held together and animated by an unknown force. Study of this force is hindered by SCP-250's aggressive behavior, which has been assessed by Foundation palaeozoologists as being well within theoretical norms for an allosaurus.
+
+SCP-250 emulates what are presumed to have been the standard daily activities of a living allosaurus: it wanders its enclosure by day, enters a state of dormancy by night, and will attempt to kill and devour anything which it perceives as suitable prey, including humans. Its lack of organs does not seem to affect its behavior in any way, except in that the remains of any prey it consumes will inevitably fall out of the gaps in its skull, neck, and ribcage, at which point it ignores them.
+
+SCP-250 was first excavated as an 80%-complete skeleton in [REDACTED], 19██ ; records from the excavation do not include any report of anomalies. In 19██ , it was transferred to the ████████ Museum of █████████████ in [REDACTED], where it was assembled, mounted, and put on display.
+
+On the night of ██/██/20██, SCP-250 seized and killed an intruder to the museum. Although damage to the intruder's remains was so extensive as to render forensic identification impractical, they were conclusively shown to not be those of paleontologist Dr █████████, whose office in the museum was extensively vandalized that night and who has not been seen since. Foundation personnel embedded within museum staff reported the incident, and SCP-250 was taken into custody.

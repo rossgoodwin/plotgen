@@ -1,0 +1,71 @@
+Item #: SCP-690
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-690 is to be stored in a refrigerated locked container in Sector-7 Euclid SCP containment, with a temperature no greater than 10 degrees Celsius. Access to SCP-690 is restricted to personnel with level 2 access or higher. Experiments involving SCP-690 must be approved by an individual holding Level-4 clearance before testing commences.
+
+Personnel with any cuts, scratches, or other injuries of the skin are to be restricted from access to SCP-690. If any unauthorized personnel use a bandage from SCP-690, security personnel are to be called immediately to subdue the offending personnel, and then remove and dispose of the bandage as biological waste.
+
+Description: SCP-690 appears to be a standard box of commercially-available adhesive bandages, now containing forty-seven (47) bandages. The logo on the box states that its contents are "Anti-Bandages (box of 64) - for the practical joker!", and that they are supplied by "your friends at the Factory".
+
+When a bandage from SCP-690 is applied to a wound, it will prevent the wound from healing naturally, aggravating the wound and causing infection. Analysis of the bandages has revealed that this is not the result of anomalous properties: the bandages are composed of asbestos and fiberglass, and impregnated with microcapsules which dissolve upon exposure to body heat. These microcapsules contain a mixture of highly concentrated anticoagulants (heparin, hirudin, brodifacoum), and particularly virulent (but not anomalous) strains of Streptococcus, Yersinia, Staphylococcus, and Clostridium.
+
+The anomalous property of SCP-690 is that they impose a moderate compulsion on nearby injured humans to take a bandage and apply it to their wound, regardless of the wound's severity. Furthermore, once the bandage is applied, the affected user will believe that the bandage is helping heal their wound, and will refuse to remove it. The compulsion is not strong enough to provoke violence; however, affected personnel have been quite persistent in their efforts to use or keep using SCP-690. See Test Log 690-A for further details.
+
+Addendum: When first discovered, SCP-690 contained sixty-four (64) bandages. Following containment, seventeen (17) bandages have been removed and used for experimental purposes.
+
++ Test Log 690-A
+
+- hide
+
+Foreword: Subject D-████ received a paper cut on his index finger while reviewing his Orientation Leaflet. Subject was given 1 (one) strip of SCP-690, and quickly applied it to his finger. Every 5 (five) minutes, subject was questioned about his injury, and the strip temporarily removed to observe any physical changes.
+
+Time Applied
+
+Notable Actions
+
+Physical Examination
+
+5 minutes
+
+Subject was asked how his finger felt. Subject stated it felt "just fine," and thanked the observer.
+
+Subject's wound failed to close, causing an abnormal loss of blood for a wound of such nature.
+
+10 minutes
+
+Subject was asked if he had noticed any changes. Subject claimed to feel better.
+
+Slight redness and irritation around the area where SCP-690 was applied.
+
+15 minutes
+
+Subject was noted to continuously scratch the area around SCP-690. When questioned about the itching, subject responded with "It's part of the healing process."
+
+Skin began to raise up around the wound. Subject began to show the first symptoms of a staph infection.
+
+20 minutes
+
+Subject was alerted that he may be suffering from a staph infection. Subject simply ignored the observers.
+
+Subject's finger continued to swell, and a small amount of pus began to leak from the wound. Subject seemed irritated when taking off the strip.
+
+25 minutes
+
+Subject was offered medical attention for his wound. Subject denied and, again, claimed he was "Just fine."
+
+Subject began to secrete fluids from the wound, which leaked through the strip. Swelling noted to accelerate.
+
+30 minutes
+
+Subject began to become distressed due to his constant observation. Requested to be alone. (Denied)
+
+Swelling and moisture on subject's skin caused the strip of SCP-690 to fall off. The strip was reapplied, and subjects finger was wrapped with gauze.
+
+35 minutes
+
+Subject was asked to take the bandage off, to which he refused. Observers alerted subject that he would be terminated if he did not comply. Subject continued to refuse. An observer had to take the bandage off, and was met with little resistance. Testing concluded.
+
+N/A
+
+Post Experiment: Subject asked for another bandage before termination.

@@ -1,0 +1,99 @@
+Item #: SCP-1219
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1219 is to be contained within a sealed area (min. size 2m3, max. size 5m3) in complete darkness (light level ≤ .0001 lux), situated at least 1 kilometer from any other occupied dark area. This chamber should be outfitted with overhead lighting controlled by an external switch.
+
+As of ██-██-██ SCP-1219 is housed at Storage Site-██. Personnel entering the darkened containment area for testing purposes must refrain from vocal utterances unless otherwise instructed by research staff.
+
+Description: The entity or event labeled SCP-1219 may manifest at any time within a sufficiently dark area of a suitable size (determined to be minimum 2m3; maximum unknown), provided at least one sentient being is present to witness the phenomenon. SCP-1219 manifests as a whistled version of the song Camptown Races which rises gradually and erratically in volume until audible to those present in the area. The entity or event will not manifest in the presence of an infrared camera or other low-light recording devices. No anomalous effects have been noted in relation to audio recordings of SCP-1219.
+
+Once triggered, the whistled song lasts for an apparently unlimited duration, generally until light exposure occurs. However, the song will cease within 10-20 seconds if a witness or witnesses attempt to whistle, hum, sing, or otherwise engage with SCP-1219's tune, and the witness(es) will be dismembered (stripped primarily of organs related to vocalization) and severely flayed with marks similar to those inflicted by a bullwhip along the neck, back, and legs, resulting in immediate or delayed death in 100% of observed cases. SCP-1219's whistle does not appear to compel this engagement. Dismemberment and flaying occurs rapidly and cannot be prevented by the introduction of light to the containment chamber. No physical component to SCP-1219 has been recorded or identified.
+
+SCP-1219 has been found capable of instantaneous transfer within a distance of approximately 1km. If exposed to light, the entity or event will cease immediately and recur in the nearest suitable dark space inside its transfer range. If no such space is available, SCP-1219 appears to enter a passive state and will not recur unless and until an accessible area meets all criteria for manifestation.
+
+Researchers speculate that SCP-1219 may be permanently incapacitated via constant illumination of this 1km area. No termination attempts are scheduled at this time.
+
+Acquisition Log 1219-1: SCP-1219 was first documented on 08-16-████ at ███ █ █████ St., an apartment complex in ██████, ██. A paranormal investigations team from the television series █████ ███████ responded to residents' claims of unusual activity. Reports from residents match the Foundation's current knowledge of SCP-1219.
+
+The Foundation acquired the team's unaired footage; a partial transcript follows.
+
+Acquisition Log 1219-1a - █████ ███████ Team, Camera B:
+
+<VIDEO LOG BEGINS - timestamp 22:18:29>
+
+[infrared footage shows a brief shot of a man's face, then swings around to show a room containing a twin-sized bed in the shape of a racecar, a bookshelf (book spines unreadable), and a wall shelf lined with action figures; the camera is aimed from the foot of the bed toward the far wall]
+
+Team member ████████: Is this- here we go. I'm all set up in the second bedroom in apartment ███ with the infrared camera, my trusty EMF reader, a couple thermometers, and an EVP recorder…
+
+[shot pans down to electronic equipment on the floor]
+
+Team member ████████: So we're gonna pick up changes in the electromagnetic fields, cold spots, and we're hoping for some nice clear sounds tonight… They told us this is where the, uh, event, occurs pretty often, so we're gonna settle in and see if we get any unusual recordings.
+
+[Transcript cut to timestamp 01:27:05]
+
+Team member ████████: So, we've been here about three hours… ███ says he's caught some temperature fluctuation in the master bedroom, but I haven't seen much activity in here, just a quick dip in- hang on, battery light's blinking on the camera. We'll have to rely on the tapes for a minute here.
+
+<VIDEO LOG ENDS - timestamp 01:28:44>
+
+Acquisition Log 1219-1b - █████ ███████ Team, Sound Recorder B:
+
+<AUDIO LOG BEGINS - transcribed following video log timestamp 01:28:44>
+
+[muffled clacking]
+
+Team member ████████: Batteries, batteries… shit. [unintelligible vocalization]
+
+Researcher's note: volume increase and audio filter on acquired tapes shows the entity or event manifests at approx. 01:28:45 with fluctuating decibel level of 10-40. Net rise in decibel level brings the sound into audible human range after approx. 9 seconds.
+
+[at second chorus, team member ████████ begins humming Camptown Races, slightly off-key, decibel range 44-50]
+
+[team member ████████ ceases humming; SCP-1219 heard clearly against ambient sound]
+
+Team member ████████: [calls] ███, are you-
+
+[SCP-1219 ceases; loud clatter]
+
+Team member ████████: [unintelligible scream]
+
+[heavy crash]
+
+Team member ████████: [gurgling speech] [REDACTED - see Acquisition Document 1219-1b-2]
+
+<AUDIO LOG ENDS>
+
+Upon Mobile Task Force Pi-1's arrival, Class A amnesiacs were administered to all surviving civilian parties involved. Human body and skin shreds as well as partial lip, vocal cord, and lung fragments were recovered from the site; testing positively identified them as the remains of investigation team member ████ ████████. The remains showed no anomalous properties. SCP-1219 was transferred to Storage Site-██ on ██-██-████ via darkened transport unit and successfully contained without incident.
+
+Acquisition Document 1219-1b-2 access restricted to personnel with Level 3 Clearance and above
+
++ Acquisition Log 1219-1b-2
+
+- Acquisition Log 1219-1b-2
+
+Upon study, researchers found investigation team member ████ ████████'s initially unintelligible final words to be coherent, if hampered by SCP-1219's effects. A full transcript of Acquisition Log 1219-1b follows.
+
+<AUDIO LOG BEGINS - transcribed following video log timestamp 01:28:44>
+
+[muffled clacking]
+
+Team member ████████: Batteries, batteries… shit. [unintelligible vocalization]
+
+Researcher's note: volume increase and audio filter on acquired tapes shows the entity or event manifests at approx. 01:28:45 with fluctuating decibel level of 10-40. Net rise in decibel level brings the sound into audible human range after approx. 9 seconds.
+
+[at second chorus, team member ████████ begins humming Camptown Races, slightly off-key, decibel range 44-50]
+
+[team member ████████ ceases humming; SCP-1219 heard clearly against ambient sound]
+
+Team member ████████: [calls] ███, are you-
+
+[SCP-1219 ceases; loud clatter]
+
+Team member ████████: [unintelligible scream]
+
+[heavy crash]
+
+Team member ████████: [gurgling speech] S-sorry… I… m so- rry. So- [unintelligible]
+
+<AUDIO LOG ENDS>
+
+Transcript redacted on ██-██-████ after all Class D experimental subjects exposed to SCP-1219's effects made similar final utterances for reasons unknown. All D-class subjects expired prior to full interrogation. Further testing and background investigation of SCP-1219 recommended.

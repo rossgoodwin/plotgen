@@ -1,0 +1,129 @@
+SCP-1034
+
+Item #: SCP-1034
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1034 is to be contained in a pass-code protected safe when not in use. Foundation personnel handling SCP-1034 are required to wear EN388 xx44 rated gloves. In the event of accidental skin contact or puncture, the affected subject must be restrained and SCP-1034 wrested from subject’s possession. If subject was cut at any point, SCP-1034 must be immediately rinsed and sterilized.
+
+Description: SCP-1034 consists of a rusted, semicircular suture needle 5 cm in chord length and a spool consisting of twine approximately 1 mm thick. If the thread is removed from the needle, a second spool appears with the end of the twine threaded through the eye of SCP-1034. This only occurs when the needle is not under direct or recorded observation.
+
+SCP-1034 was discovered and filed as evidence by ██PD pursuant to the arrest of serial killer █████ ████. Agents were alerted to possible anomalous activity when a ██PD forensics agent was found dead in the same manner as the victims of █████ ████ despite the latter being held in custody. Initial Foundation interviews with █████ ████ described SCP-1034 and its effects in some detail, allowing for safe retrieval. █████ ████ was later recruited as D-3826 and interviewed a second time. The contents of this second interview are displayed in Addendum 1034-01: D-3826 Interview.
+
+When the skin or blood of a human (hereby referred to as the subject) makes contact with SCP-1034, the subject loses control of all voluntary bodily functions except facial muscles, lungs, and vocal cords. The subject then begins suturing all facial orifices, beginning with the mouth and progressing to the eyes, ears, and nose. The sutures are loose enough for the subject to breathe through his/her mouth and remain conscious during the entire process. After the process is completed, the subject returns SCP-1034 to the location where contact was first made and remains in a sitting or standing position corresponding to the original position of the subject. The subject then begins to perspire until all moisture has been exuded from the body. If death has not already occurred, the subject dies of dehydration during this period.
+
+When handled with gloves or some other barrier between the skin and the needle, the effects of SCP-1034 do not manifest. If the needle is forcefully removed from the possession of a subject, the subject ceases the suturing process with no recorded ill effects. Revision: If the needle has penetrated the epidermal layer of the skin, the effects of SCP-1034 remain active until all blood has been removed from the needle; see Addendum 1034-02: Test Log for more details.
+
+Bodies that have completed the entire process have a skin consistency comparable to leather and have shown significant resistance to decomposition. The skin of the bodies displays hydrophobic properties after the transformation. The skin also displays limited absorption of oils and is most receptive to [REDACTED], which was found in large quantities in the basement of █████ ████ at the time of his arrest. Autopsies of the brain motor control center reveal [DATA EXPUNGED]. The bodies pose no threat aside from minor anomalous behavior noted in Addendum 1034-02: Test Log.
+
+Addendum 1034-01: D-3826 Interview
+
+- close
+
+Addendum 1034-01: D-3826 Interview
+
+Dr. █████: Hello D-3826, please sit down.
+
+D-3826: (sits down) Hello doc.
+
+Dr. █████: How did you come in possession of SCP-1034?
+
+D-3826: The needle and thread? Oh, that’s a funny story, doc. I didn’t always have that needle. Used to have to do things the old fashioned way.
+
+Dr. █████: Please answer the question.
+
+D-3826: Found it on one of my… work tables with a note on it.
+
+Dr. █████: And what did the note say?
+
+D-3826: "Enjoy." And did I ever. I can still feel them, you know, more than the old ones. I could look at them and still hear every scream, every plead for—
+
+Dr. █████: That’s not relevant. How did you learn the effects of SCP-1034?
+
+D-3826: I threw it to one of my girls and told her to start sewing her mouth shut. And she started doing it! That bitch was squealing like a fucking pig and she started doing it!
+
+Dr. █████: And how did you know to give that command?
+
+D-3826: (silence)
+
+Dr. █████: Answer the question.
+
+D-3826: You’d look good as a doll, doc.
+
+Dr. █████: I think this interview has outlived its usefulness. You’ll receive your first assignment in a few hours.
+
+Addendum 1034-02: Test Log
+
+- close
+
+Addendum 1034-02: Test Log
+
+For brevity, only significant tests are displayed
+
+Lead Researcher: Dr. ███
+
+Subject: D-3810
+
+D-3810 instructed to pick up SCP-1034. D-3810 complies. D-3810 immediately begins to suture his mouth shut, correlating with previous interviews with █████ ████. Cries of distress before the mouth was fully stitched indicate that D-3811 did not have control of his body during this process. Heavy perspiration begins after ears have been sewn; D-3810 remains conscious and attempts to scream. D-3810 presumed dead approximately █ minutes after suturing began. Body ceased perspiration approximately █ minutes after death. Autopsy reveals a complete lack of water in the subject's body.
+
+Lead Researcher: Dr. ███
+
+Subject: D-3811
+
+D-3811 is instructed to pick up the spool of twine. Spool of twine has no effect on subject. Spool of twine is severed from SCP-1034 using ordinary scissors and placed into another room. D-3811 is instructed to pick up SCP-1034 sans thread. SCP-1034 has no effect. D-3811 looks away from SCP-1034 while still holding it; spool reappears and D-3811 begins sewing mouth in a manner consistent with the previous test. The original spool remains stationary and undisturbed.
+
+Note: Review of footage indicated a brief obscuration of the needle by the body of D-3811. Later interviews with researchers reveal that no one was looking at the needle at the time of the thread reappearance.
+
+Lead Researcher: Dr. █████
+
+Subject: D-3826
+
+D-3826 was handcuffed to a chair in the test room. SCP-1034 was revealed and placed against the skin of D-3826. Subject attempted to pull hands through the handcuffs and began squealing in pain. Needle removed; D-3826 ceased attempting to pull out of handcuffs and began pleading to be released. Needle inserted into the skin of D-3826. D-3826 resumed and succeeded at pulling one hand through the handcuffs, grasped the needle, and began the suturing process. Autopsy revealed severe skeletal and muscular damage to the freed wrist.
+
+Lead Researcher: Dr. ███
+
+Subject: D-3817
+
+D-3817 is instructed to pick up SCP-1034. The suturing process begins. After the mouth has been sewn shut, D-3817 is restrained and SCP-1034 removed from his possession by Agent ██████. D-3817 attempts to drag himself towards Agent ██████ using the hand previously holding the needle. All other limbs of the subject remain rigid. D-3817 follows Agent ██████ for approximately 15 minutes and shows no signs of fatigue. D-3817 is subsequently terminated.
+
+Lead Researcher: Dr. ███
+
+Subject: D-3821
+
+D-3821 is instructed to pick up SCP-1034. The suturing process begins and is allowed to finish. After SCP-1034 is returned and perspiration begins, researchers cut open all stitches on D-3814. Perspiration immediately stops and D-3821 expresses extreme pain. D-3821 suffers from permanent vision loss from punctures to the eyes.
+
+Note: D-3821 claimed to "feel" a number of people corresponding to the █ tests allowed to complete. Further testing scheduled.
+
+Lead Researcher: Dr. ███
+
+Subject: D-3821
+
+The corpses of all previous SCP-1034 test subjects (except D-3817) are arranged in the test room. D-3821 is escorted to the room and immediately collapses and begins screaming. D-3821 does not respond to any commands and is forcefully removed from the room.
+
+Addendum 1034-03: D-3821 Interview
+
+- close
+
+Addendum 1034-03: D-3821 Interview
+
+Dr. ███: Explain what you felt when you held SCP-1034.
+
+D-3821: I couldn’t stop. I couldn’t. It-It wasn’t me. I couldn’t stop.
+
+Dr. ███: Did you experience any sensations when holding it?
+
+D-3821: Every stab. I could feel every stab and I kept sewing and I couldn’t stop it. I couldn’t stop and it was keeping me.
+
+Dr. ███: Keeping you?
+
+D-3821: Keeping me. It wanted to keep me.
+
+Dr. ███: Interesting. When you entered the room with other subjects, why did you scream?
+
+D-3821: I could see them and they were screaming and I knew it wanted me back.
+
+Dr. ███: See them? Did you regain eyesight?
+
+D-3821: I could-I could feel them. I could feel them and they couldn’t stop either. They couldn’t stop. I don’t want to go back there. Please don’t make me go. I don’t want to go back.
+
+D-3821 continued to repeat the phrase "I don’t want to go back" and would not answer further questions. D-3821 was returned to his cell and terminated at the end of the month without incident.

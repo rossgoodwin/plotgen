@@ -1,0 +1,47 @@
+Item #: SCP-1593
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1593 is to be contained in a reinforced steel safe in Storage Unit 12, located at Site 35. Any transportation of SCP-1593 is to be achieved via mechanical means. No personnel are to make contact with SCP-1593 under any circumstances. In the event that a member of personnel does become affected by SCP-1593, the affected limb or region is to be removed immediately. In cases where this is not possible, the affected individual is to be terminated.
+
+Any experimentation involving SCP-1593 must be authorized by at least one individual holding Level 3 security clearance.
+
+Description: SCP-1593 is a human finger bone, specifically a proximal phalanx, which is believed to have originated from an adult female. Several markings have been carved into SCP-1593, some of which appear to have been scratched out with some form of sharp implement. The meaning of these markings is currently unknown. SCP-1593's anomalous effects first become apparent when a human being makes contact with SCP-1593 with any part of their body.1
+
+After making contact with SCP-1593, the affected individual will perceive all objects they touch to have the texture of skin, bone or decomposing flesh. In cases where the individual is not already aware of the nature of the object they are touching, they will believe that the object is in fact a dead body, claiming to be able to distinguish aspects of the non-existent corpse such as missing body parts or specific injuries. Significant amounts of this second kind of perception will lead to SCP-1593's effects moving on to the next stage.
+
+The affected individual will become convinced at some point that one of the 'corpses' they have touched has grabbed hold of the part of their body which originally made contact with SCP-1593, believing that they are slowly being pulled towards an unspecified location.
+
+The part of the individual's body which first made contact with SCP-1593 will begin to disappear at this point. Despite its absence, the affected individual will suffer no physical discomfort, as blood will flow as if the affected region was still present and the individual will report that they are still able to feel it. In cases where the absence of certain parts of the body would result in other parts not being able to support themselves, these parts of the body will float in place and still be usable by the individual, even if the body part is completely unconnected to the rest of the body.
+
+The individual will believe that any part of their body which has disappeared is in an underground location full of dead bodies, and is being pulled by a skeletal hand. They will often become extremely distressed at this point, although this is not believed to be an anomalous effect on the part of SCP-1593.
+
+This condition will spread throughout the body until the entirety of the individual has disappeared, advancing more quickly if the affected individual is dead or unconscious.
+
+Interview Log 1593-1:
+
+Transcript of a conversation between Dr. ████ and D-2913. SCP-1593's effects had resulted in D-2913 missing their left arm and most of their upper torso when the interview took place.
+
+<Begin Interview>
+
+Dr. ████: Can you tell me what you can feel with your left arm?
+
+D-2913: It's somewhere underground, I think. There's the thing grabbing me, but I've…I've already told you about that. Can you just get this thing off me? Please?
+
+Dr. ████: Can you tell me about it again for the record? We need to get this down officially.
+
+D-2913: There's a hand grabbing my wrist. It's real bony, I think it might be a skeleton. You'd think it would be easy to get off, what with all the missing fingers, but it's strong as shit. It's all…uh, crispy? Burnt or something, you know?
+
+Dr. ████: I see. Is there anything else you'd like to tell me about your surroundings?
+
+D-2913: There's…there's dead bodies. (visibly distressed) My hand's caught between two of them, I think. The thing keeps tugging on it, but it can't get me loose. I think I might be safe, it might just give up, right?
+
+Dr. ████: Maybe it will.
+
+D-2913: Yeah, I think it…I think it will. But, uh, Doc, if it doesn't, could you just shoot me or something? I don't want to go in there. Please.
+
+<End Interview>
+
+Footnotes
+
+1. Protective gear has been found not to prevent SCP-1593's effects.

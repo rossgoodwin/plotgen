@@ -1,0 +1,19 @@
+SCP-563
+
+Item #: SCP-563
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-563 is kept in a standard secure item locker at Site 27. No non-photographic graphic material is allowed within 10 meters of SCP-563, except under testing conditions. Every article of clothing worn by personnel at Site 27 is to be composed of a solid color, with no patterns, graphics, or embroidery. All signage at Site 27 is to be replaced by photographs of similar signage from other sites.
+
+Description: SCP-563 is a pair of unbranded, bright magenta rubber footwear commonly referred to as flip-flops or thongs. When worn as footwear, SCP-563 is able to project a fully immersive three-dimensional audiovisual illusion. This illusion is created instantaneously once the wearer sees any artificial graphic representation, including artwork, logos, artificial abstract patterns, and photographs, but excluding non-pictographic writing systems. The nature of the illusion is dependent on and reflects the visual styling of the material that triggered it. The illusion is centered on SCP-563 and extends to the current visual range of the wearer of SCP-563, but persists even when the wearer is no longer able to see an affected area. The duration of the effect is dependent on the total time SCP-563 is worn, and will cease once an equal amount of time has passed after it is no longer being worn.
+
+The visual portion of the illusions extends to the entire electromagnetic spectrum, including artificial heat signatures, ultraviolet-sensitive coloration on illusory plants, and detectable background radio signals. Similarly, the audio portion of the illusions extends across the entire detectable sonic range, including both subsonic and hypersonic frequencies as appropriate to the illusion. There is no known upper limit to the light intensity or decibel volume capable of being produced by SCP-563.
+
+Photograph of empty test chamber affected by illusion triggered by artwork by Ursula Vernon
+
+Individuals within affected areas will only experience audiovisual input consistent with the triggering graphic, which frequently does not correlate with the actual terrain. This may result in disorientation or injury due to the inability to locate or identify real objects other than by touch. Of note is that illusory objects react to individuals within the affected area as if they were capable of physical interaction, regardless of the fact that there is no physical contact. This allows for situations such as using an illusory light source to illuminate darkened rooms, using weaponry to kill illusory animals, and the ability to see and communicate with individuals separated by actual impermeable physical barriers that are not represented within the illusion.
+
+Experimentation has determined that the individual components of SCP-563 possess the same abilities separate from each other, and can create different illusions simultaneously if activated separately. If the two illusions overlap, the combined illusion will adapt to produce a hybrid of the two original illusions, which is almost always highly disorienting to all individuals who perceive it.
+
+Authorization for testing using the following material is awaiting review: surrealist artwork, dadaist artwork, cubist artwork, depictions of non-Euclidian objects and structures, SCP-085, SCP-099, SCP-753, SCP-1617.

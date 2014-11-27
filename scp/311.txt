@@ -1,0 +1,79 @@
+Item#: SCP-311
+
+Object Class: Safe
+
+Special Containment Procedures: Contained in High Security Item Storage Unit-G78 at Sector-28. Sealed to all personnel without written authorization from three Level 4 or higher senior staff. Item barred for use in further research pending O5 comprehensive review.
+
+Description: SCP-311 is a pair of plain black gloves. They exhibit extreme flexibility which allows them to fit every hand size tested.
+
+Object was recovered from █████████ ██████, a professed "voodoo" practitioner implicated in several suspicious murders in ███████████. Following the incident, the body and all the subject's belongings, including the gloves, were appropriated by the Foundation for containment and study.
+
+When worn, the gloves seem innocuous and present no danger to the wearer. Subject responds normally to trauma inflicted on any part of the body, except the hands where the gloves are worn. All trauma and sensation of any tested kind inflicted on the subject's hands is displaced to another individual, theorized to be an individual the subject is focusing on at the time. Both gloves need to be worn for this effect to occur, but the subject need not be aware of the item's properties. (More detailed analysis of SCP-311's properties in Test Log 311-01.)
+
+Test Log 311-01:
+
+Test 1C
+
+Test Subjects: D-238746, D-892201
+
+Stimulus: Wartenberg Pinwheel
+
+Dr. Silas: All right, how do those gloves feel?
+
+D-238746: Ok. Comfortable, I guess.
+
+Dr. Silas: Good. Now, focus on your partner. (Dr. Silas rolls the pinwheel across D-238746's gloved hand)
+
+D-892201: What the ████? I felt that!
+
+Dr. Silas: Interesting.
+
+<End Log>
+
+Test 2A
+
+Test Subjects: D-238746, D-892201
+
+Stimulus: hypodermic needle
+
+Dr. Silas: Ok, now focus on your partner. (inserts hypodermic needle) Ow! I said focus on your partner!
+
+D-892201: Why, Doctor? Did you feel a little poke?
+
+Dr. Silas: That's irrelevant, if you don't- (sounds of a scuffle) Guards! Restrain this subject!
+
+(Agent Tyler enters the room)
+
+Dr. Silas: Quick, he has the needle in his- ████! ██████████! You son of a █████! Shoot him!
+
+(gunshots)
+
+<End Log>
+
+Instructions for the following test were issued through a speaker using voice modulation, and D-class personnel employed were not exposed to any Foundation personnel prior to the test.
+
+Test 4D
+
+Test Subjects: [DATA EXPUNGED]
+
+Stimulus: Concentrated sulfuric acid basin
+
+Dr. Silas: See those people on the other side of the glass? Focus on them while your hands are placed in the basin.
+
+(Subject's hands lowered by robotic manipulator. After a brief pause subject D-845224 in adjacent room begins to scream and his hands show signs of acid burns.)
+
+D-██████: My god, what's happening to him? Why don't the others help?
+
+(Original subject's screams subside, subject D-986720 begins screaming)
+
+D-██████: Is that happening to every person I think about? Oh my god! You have to stop this now! Please, stop! Oh my god! Oh my god!
+
+(Subject continues pleading until end of log)
+
+<End Log>
+
+Note: Subject's wife and daughter were admitted to ██████ General Hospital later that day presenting with severe acid burns on their hands and heavy blood loss. █████████ was pronounced dead later that night.
+
+Directive 311-02: Due to the proven capabilities of SCP-311 and the serious possibility of misuse, it has been decided to isolate it in a Level-4 classified location pending review. It is also true that the artifacts might prove useful in extreme situations where handling dangerous SCPs proves necessary. In such an event the use of SCP-311 as supplementary containment equipment will be evaluated on a case-by-case basis.
+
+-Dr. ████████

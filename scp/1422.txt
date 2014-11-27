@@ -1,0 +1,49 @@
+Map of Yellowstone National Park retrieved from US National Parks Service website. Click to enlarge.
+
+Item #: SCP-1422
+
+Object Class: Neutralized // Phenomenon (see Addendum 1422-3)
+
+Special Containment Procedures: All information on SCP-1422 is restricted to personnel with Level 4 Operational Clearance. As of March 18, 2009, all personnel have been informed of Yellowstone National Park's existence, and personnel with insufficient clearance have had their memories of SCP-1422 removed.
+
+See Task Force Alif-4's charter for information on Foundation efforts to identify the causal agent of SCP-1422. The identification of this agent is of high priority.
+
+Description: SCP-1422 was an anomalous phenomenon that, prior to July 9, 2007, is believed to have prevented all Foundation personnel (including conscripted individuals, such as D-class personnel, and jointly employed personnel) from learning of the existence of Yellowstone National Park1. The existence of SCP-1422 has been confirmed through several methods:
+
+In a 2008 survey of over five thousand Foundation personnel, zero expressed knowledge of the park. This includes personnel who have lived in Wyoming for extended periods of time, personnel who considered themselves to be avid travelers and/or naturalists, and three personnel embedded in the United States National Parks Service.
+
+National Parks Service records do not show any purchases made by Foundation personnel within Yellowstone National Park, nor do they show purchases of permits or reservations of any kind by Foundation personnel. Purchases made by immediate family members of Foundation personnel are present, but at lower-than-expected numbers.
+
+The internet browsing histories of all Foundation-owned computers have shown a complete lack of searches directly relating to Yellowstone National Park2 (and, relative to search histories obtained from non-Foundation sources, a lack of searches tangentially relating to the park) prior to July 9, 2007.
+
+The Foundation possesses no documentation that refers to Yellowstone National Park dated earlier than July 9, 2007.
+
+Interviewed personnel have either stated that they had had no reason to pay attention to the area of the United States in which Yellowstone National Park is located, or could not recall what, if anything, was located in that area. Several were able to recall conversations or events in which Yellowstone National Park would most likely be mentioned, but was not.
+
+Yellowstone National Park itself is not believed to have any unusual properties, as several investigations have not detected unusual levels of anomalous activity in the park or its vicinity. Approval for Foundation personnel to visit the park during vacations is pending.
+
+Addendum 1422-1: SCP-1422 was discovered, and is believed to have been neutralized, on July 9, 2007 by Junior Researcher Scranton. JR Scranton had been asked to compile a report describing his experiences in SCP-████3; in it, he included a two-paragraph description of a family vacation to Yellowstone National Park. JR Scranton noted that he had not heard of the park prior to his entrance into SCP-████. This documentation was reviewed by Dr. Graff and Junior Researcher Halvorsen.
+
+When Dr. Graff performed a cursory search of relevant reference materials and discovered that Yellowstone National Park not only existed, but was world-famous and widely known, she sent an e-mail to Site 44's mailing list, asking personnel if they had heard of the park. When it became apparent that none had, Dr. Graff requested and obtained funding and personnel to investigate the anomaly further.
+
+Addendum 1422-2: Information on the cause of and exact nature of SCP-1422 is very limited. Several hypotheses relating to SCP-1422 have been put forward:
+
+SCP-1422 was caused by a separate probability-affecting anomaly, which may or may not have apparently unrelated properties. At time of writing, the Foundation does not possess the means to test this hypotheses.
+
+Yellowstone National Park did not exist prior to JR Scranton's exposure to SCP-████, after which reality was altered to incorporate the park. This may have been due to unidentified properties of SCP-████, any of the materials used in its testing, or JR Scranton. This behavior is not consistent with known information on SCP-████, and extensive testing has shown that JR Scranton and the materials used to test SCP-████ are not anomalous.
+
+SCP-1422 has never prevented Foundation personnel from learning of Yellowstone National Park, but instead erased all memories of the park's existence upon their formation. If this is the case, research into SCP-868 may provide a method by which hypothetical anomalies similar to SCP-1422 could be counteracted. For the time being, however, this hypothesis is not actionable.
+
+SCP-1422 was created by a conscious agency in order to conceal activity in or near Yellowstone National Park from the Foundation. Investigation into various groups and persons of interest has not shown conclusively that any individuals or organizations are capable of creating or using an anomaly such as SCP-1422; however, as this hypothetical individual or group could be expected to possess the means to prevent the Foundation from discovering them, this is not unexpected.
+
+Addendum 1422-3:
+
+Several personnel have rightly pointed out that SCP-1422 may not be truly neutralized, but simply operating in a different manner that we are unable to recognize; alternatively, numerous anomalies similar to SCP-1422 may exist, each tailored to specific locations, individuals, or even concepts. Indeed, if either of these were proven to be true, SCP-1422 would most likely qualify for Keter-ubique classification and heavily revised containment procedures. However, as SCP-1422 does not exhibit any observable anomalous properties (except those that no longer appear to be in effect), it is considered neutralized until proven otherwise.- Dr. Graff.
+
+Footnotes
+
+1. A national park in the United States established in 1872. Yellowstone National Park is visited by over two million individuals each year from many nations.
+
+2. e.g. "yellowstone", "Yellowstone National Park", "Old Faithful", "Hayden Geological Survey", etc.
+
+3. SCP-████ is capable of causing individuals to experience extended periods of time in alternate realities within the space of several hours. Further details are classified.

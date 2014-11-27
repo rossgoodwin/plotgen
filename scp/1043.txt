@@ -1,0 +1,59 @@
+SCP-1043
+
+Item #: SCP-1043
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1043 is to be held within a containment room in Storage Unit 9 at Site-33. The air humidity within the containment unit should not exceed 5% to prevent devaluation of SCP-1043, as well as a potential containment breach. Experimentation on SCP-1043 requires approval of level 3 personnel due to limited amount available.
+
+Uncontained instances of SCP-1043-1 are to be left to proceed to completion; a mobile perimeter is to be established around them to prevent public exposure. Resulting SCP-1043-2 is to be demolished and rubble, along with the foundation of solidified SCP-1043-1 removed, and stored at nearest Low-hazard Anomalous Materials Bulk Storage facility.
+
+A mobile perimeter is to be established around uncontained instances of SCP-1043-1 for the purposes of monitoring. If the emerging SCP-1043-2 does not resemble any of the forms described in Addendum 1043-1, the area extending to a radius of at least 200 metres from the edge of SCP-1043-1 in question is to be evacuated, and procedure 28-Surtur applied.
+
+Otherwise, resulting SCP-1043-2 is to be demolished and rubble, along with the foundation of solidified SCP-1043-1 removed, and stored at nearest Low-hazard Anomalous Materials Bulk Storage facility.
+
+SCP-1043-1, in the early stages of constructing SCP-1043-2-3
+
+Description: SCP-1043 refers to approximately 31 134 sacks, labeled "MOLISOLUS MARK III" and numbers "I" to "V" in large red lettering. On the lower right corner of each sack is a green stamp detailing a winged arm holding a hammer, and the designation "APOLLODORUS CONSTRUCTION COMBINE". The sacks contain a grey-green powdery substance, which, if mixed with water and applied onto soil, recombines with it to form SCP-1043-1.
+
+SCP-1043-1 is a self-propagating soil anomaly, appearing similar to a pool of concrete. SCP-1043-1 at this stage has been shown to have remarkable surface tension, able to support pressures of up to 40 kPa.
+
+If removed from the main pool, samples of SCP-1043-1 cease activity and coalesce, producing an isotropic grey solid of stiffness similar to concrete, but a far higher yield strength—Vickers hardness 50 HD30—but otherwise lacking anomalous properties. Laboratory analysis has revealed the composition to be that of surrounding substrate with SCP-1043 acting as a resin matrix. Initially, an instance of SCP-1043-1 propagates at a rate of approximately ██ m²/hr , assimilating surrounding soil, until reaching a depth of cca. 1.5m and a final area of cca. 8 times the area covered by the resulting SCP-1043-2.
+
+After approximately ██ hours, a number of ambulatory growths bearing outwards resemblance to human arms begin to form within SCP-1043-1. Once fully formed, the growths proceed to use SCP-1043-1, as well as occasionally salvage raw materials within the perimeter affected by SCP-1043-1 to construct a structure or object, labeled SCP-1043-2 (see Addendum 1043-1 for a list of SCP-1043-2 types known). After the construction is complete, leftover SCP-1043-1 retreats towards the centre and hardens, providing a foundation for the structure.
+
+Experimenting with decreasing the quantity of SCP-1043 used has shown the process to successfully complete, however, the base layer is proportionally thinner, and beyond a point characterized by the thickness of the transformed soil layer not exceeding ██cm, the process fails to complete.
+
+Addendum 1043-1:
+
+LIST OF SCP-1043-2 TYPES.
+
+Designation: SCP-1043-2-1
+
+Appearance: A smooth-walled rectangular building of base cca. 30x20 metres, and height of cca. 10 metres. The interior divides into two floors, each containing 41 identical rooms, and one of about twice the size. The smaller rooms' walls and floor contain a number of protrusions bearing outward resemblance to shelves, bedding, and a table. The larger room's floor contains several holes cca. 25cm in diameter which terminate below the structure's base. The microstructure of most surfaces has been found to physically interfere with germ growth.
+
+Designation: SCP-1043-2-2
+
+Appearance: A semi-circular dome approximately 16 metres in radius, with decorative elements resembling the architecture of Mussolini-era Italy. There are four entrances, located 90 degrees apart. The interior contains a raised podium, and approximately 500 irregularly arranged seating places, connected via stairs. The internal walls and roof curve considerably and contain a large number of structural features. Analysis has shown the structure to possess excellent auditory properties.
+
+Incident 1043-1:
+
+On ██/██/20██ , members of MTF Chi-4 "Brick Breakers" were dispatched to a supposed instance of SCP-836 infestation in ██████, Canada. However, on-site assessment has shown this to be an uncharacteristic instance of SCP-1043, spreading rapidly in an approximately 10 cm deep layer, and repurposing material within its perimeter to repeatedly construct what appeared to be several sections of a statue1 and fuse them in a seemingly random arrangement, forming a mound approximately ██ m in diameter.
+
+Procedure 28-Surtur used upon operative approval by Dr. G████ shown successful in halting SCP-1043-1 activity.
+
+Incident 1043-2:
+
+On ██/██/20██, a raid on the ████████ █████, a coffee shop suspected to serve as a cover for "Are We Cool Yet?" activity related to the spreading of SCP-███ as a part of the recent "We are the 99 bottles" campaign.
+
+Among the items procured was a Moleskine notebook containing sketches resembling SCP-1043-1 and detailed drawings of structures resembling SCP-1018 , SCP-███, as well as objects of seemingly impossible geometry. The drawings are dimensioned, and surrounded by stenographic markings, a number of yet-undeciphered symbols, as well as arbitrary content such as stylized sketches of common objects , and a drawing of a nude female identified as A███ P█████, a freelance writer frequenting the same establishment.
+
+The notebook contains a number of fingerprint marks, which have been determined to consist of SCP-1043 powder.
+
+Page 23 of the notebook shows a crossed out drawing with features similar to the structure encountered by MTF Chi-4 during Incident 1043-1. It is followed by a number of calculations, ending with "A=43.2[unknown symbol]**2i FUCK YEAH!" underlined twice.
+
+Scanned copies of the notebook's contents are available to personnel with 2-1043 clearance.
+
+Footnotes
+
+1. Identified segments include a humanoid arm approximately 15 metres long, with its fingers embedded into a spheroid, a square slab, and a [DATA EXPUNGED] cross-section.)

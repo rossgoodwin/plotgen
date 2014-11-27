@@ -1,0 +1,39 @@
+Item #: SCP-756
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-756's 10 m x 10 m cell is to remain accessible only by airlock. Personnel entering must wear EVA spacesuits (with an MMU if necessary) and ensure that they do not move too close to any of the planetoids in orbit. No lights are to be shone on or toward the planetoids, and anything that might be loosely described as a heat source must be kept as far from them as possible.
+
+Developments on the surface of each planet are to be examined twice daily by a probe equipped with an electron microscope and a [DATA EXPUNGED], though recorded footage will have to be played in slow motion in order to make the slightest bit of sense.
+
+In the event that Planet IV’s inhabitants attempt to build another satellite weapon (see Incident Report SCP-756 A), personnel assigned to remove it must remain aware that although missiles fired from IV's surface cannot penetrate standard-issue spacesuits, helmets or visors, weapons platforms will almost certainly fire more quickly than the average human being can move.
+
+Description: SCP-756 is a miniature solar system consisting of a single yellow sun and six orbiting planets, each with various moons and satellites. This system is restricted to the confines of a single large cell, originally intended for SCP-███. The cell itself is now devoid of gravity and atmosphere, a state believed to be brought about by SCP-756’s “birth.”
+
+The system’s sun is approximately 68–70 cm in circumference, and is believed to be in the middle stages of its existence based on comparisons with archived footage. The planets orbiting it range in circumference from less than 7 cm to 28 cm.
+
+SCP-756 was first discovered on the body of Researcher █████ ████ after he unexpectedly collapsed during a minor cell inspection in ██/██/████. For several hours beforehand, Mr ████ had been complaining of numerous painful boils on his back. Following his loss of consciousness, a cursory examination showed that these “boils” were actually minute fragments of rock protruding from his flesh.
+
+However, one boil positioned on the back of Mr ████’s neck appeared to be emitting intense heat, likely the reason for his collapse: according to instruments situated within the cell, the temperature of this boil climbed from 70°C to above 550°C. By then, all witnesses had fled the cell and sealed the airlock behind them, leaving Mr ████’s incendiary death to be recorded by the security camera.
+
+When it was ascertained that the heat emerging from the neck boil had stabilised and was not projecting further than two metres, personnel returned to the cell and found that the interior was now little more than a vacuum contained by reinforced concrete. The neck boil had become a new star, while the small rocky protrusions had begun to form simple planets. Since then, SCP-756 has remained under observation, with particular emphasis on the evolution of life in the system.
+
+However, it has been observed that both the astronomical bodies and any life forms that may evolve upon them experience time at an accelerated rate: within a year of SCP-756’s formation, the volcanic surfaces of several planets had given way to oceans, a process that normally would take millions of years.
+
+Some years later, researchers observing Planet III noted the formation and collapse of an empire over the course of ten hours, estimated to measure at least a century in SCP-756’s timespan.
+
+The planets themselves, based on the latest survey, are:
+
+Planet I: volcanic, and far too close to the sun to support life.
+
+Planet II: generally mountainous terrain, with a large population of apparent non-sapients.
+
+Planet III: mostly ocean dotted with islands of varying biome, presently inhabited by a sapient species of nomadic reptilians, with a religion based on ocean tides and the unexpected sight of Doctor ████████’s helmeted face in the night sky.
+
+Planet IV: primarily composed of [DATA EXPUNGED] broken only by what appear to be missile silos and military installations, many of them believed to be covering underground cities.
+
+Planet V: heavily populated, with many large settlements built around wildly varying terrains. Unlike IV, the inhabitants have not achieved space travel, and as a result, are currently at peace.
+
+Planet VI: equally hospitable until the events of ██/██/████ (see Incident Report SCP-756 A) and has since reverted to uninhabited wastelands.
+
+Addendum: Any personnel caught placing glow-in-the-dark stars on the walls of the cell will be reassigned to paperwork.

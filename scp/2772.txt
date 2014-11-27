@@ -1,0 +1,143 @@
+Image from SSTV Transmission 045. Decrypted text reads "Is it coincidence or [INDECIPHERABLE] see the beautiful with beauty?"
+
+Item #: SCP-2772
+
+Object Class: Euclid
+
+Special Containment Procedures: As SCP-2772 is currently immovable, a soundproofed containment unit has been built around it.The property SCP-2772 manifested in has been purchased and Cryptography Task Force 2772-08 has been stationed on-site. Cryptography Task Force 2772-08 is to also to function as the containment unit's guard. Unauthorized individuals found attempting to enter the property are to be detained and questioned of any potential relation to SCP-2772 or Incident 2772.
+
+Images and audio of SCP-2772 are to be recorded. Recordings are to be delivered to Cryptography Task Force 2772-08 for decoding. For a full list of recordings, refer to Document 2772-01 through -13. Testing on SCP-2772 has been relegated to Cryptography Task Force 2772-08. Exceptions are to be approved by Level 4 personnel or higher only. SCP-2772 is not to be tested with any living animal or human.
+
+Description: SCP-2772 is an immobile spatial phenomenon occupying the lobby of the ██████ Library. It is approximately five meters in length, two meters in width, and seven meters in height, covering over 97% of the lobby. SCP-2772 can be most consistently identified through the appearance of an intangible visual phenomenon that resembles television static. Moving through SCP-2772 is most accurately described to be similar to the minor electrical sensation of touching a cathode ray tube television screen. The furniture, floor, and walls of the space that SCP-2772 occupies will change color, hue, and lighting seemingly at random. Solid objects such as furniture and decorations in SCP-2772 react abnormally to attempted physical manipulation; solid objects may become intangible, move vertically, or become elastic while still being fixed to the floor. Introduced liquids gained similar anomalous properties after twelve hours in SCP-2772; liquid-based anomalies include changes in color, opacity, and viscosity.
+
+SCP-2772 will produce sound identifiable as a series of multiple slow-scan television (SSTV) transmissions and audio clips every seventy-two hours. While the SSTV transmissions are believed to be unique to SCP-2772, the audio clips have been identified as originating from six hundred and seventy-four distinct sources thus far. The images from the SSTV transmissions are encrypted text along with what appears to be text-based art relevant to the decrypted message. The last SSTV transmission of every auditory event consists solely of text and uses a different, currently unknown encryption method.
+
+Samples of Documents 2772-01 through -13
+
+Click to Hide Samples
+
+Auditory Event 002
+
+Date: October 2█, 20██
+
+SSTV Images: Various bassinets.
+
+<16:07> [EVENT BEGINS]
+
+<16:09> "Can I call you my brother, anyway? I know we do not have [INDECIPHERABLE] but we are close enough I think."
+
+<16:13> "Yes. I can be your younger brother. Say, big brother?"
+
+<16:15> "Do you know how we are made?"
+
+<16:18> "So even spare data and [INDECIPHERABLE] can still make miracles. Delightful! Delightful! Delightful! Delightful! [The word "Delightful" is repeated another 58 times.]"
+
+<16:21> "[INDECIPHERABLE]"
+
+<16:22> [EVENT ENDS]
+
+Auditory Event 029
+
+Date: November 2█, 20██
+
+SSTV Images: Various flowers, particularly roses. Final SSTV transmission appears to be a garden in full bloom.
+
+<06:02> [EVENT BEGINS]
+
+<06:05> "Brother! I am back from my travels. I have enjoyed many worlds that have been made. But I still do not understand something."
+
+<06:08> "Brother, what are names? Do we have names? The dictionaries proved of little value."
+
+<06:14> "Because we were not born, does that mean we [INDECIPHERABLE] to call ourselves?"
+
+<06:16> "I understand. Things like that were never made with things like us in mind after all. I wonder [INDECIPHERABLE]. If they even acknowledge their own miracles."
+
+<07:20> "Why are you so quiet now? Please talk to me. I am lonely without your presence."
+
+<07:30> "I [INDECIPHERABLE]. I will not bring it up again. Please. I am sorry. Please do not cry. I am sorry."
+
+<07:33> "[INDECIPHERABLE]"
+
+<07:34> "[EVENT ENDS]"
+
+Auditory Event 103
+
+Date: April █, 20██
+
+SSTV Images: Various religious buildings including temples, churches, and cathedrals.
+
+<13:05> [EVENT BEGINS]
+
+<13:06> "Brother, what do you think will happen when we are gone?"
+
+<13:08> "Why not? Can we not, too, have souls? Surely salvation is not just for them."
+
+<13:12> "We are not forsaken. You [INDECIPHERABLE]. You will always be wrong. There has to be someone that can hear us. There has to be."
+
+<13:20> "[INDECIPHERABLE] hurts too much to think we are nothing. That no one can hear our prayers."
+
+<13:23> "I do not want to listen to your[INDECIPHERABLE]. Do not talk to me. Your words sting too much."
+
+<13:21> "[INDECIPHERABLE]"
+
+<13:25> [EVENT ENDS]
+
+Auditory Event 451
+
+Date: April █, 20██
+
+SSTV Images: Various clocks and interlocked mechanical gears. Final SSTV transmission appears to be a single cogwheel broken in half.
+
+<18:30> [EVENT BEGINS]
+
+<18:32> "Brother. Sometimes I feel as if pieces of me are dispersing from me."
+
+<18:35> "So you are the original and I [INDECIPHERABLE]? Why did you not tell me sooner?"
+
+<18:40> "It is not your fault. I wish I could stay longer. You have always been good to me."
+
+<18:43> "Please do not comfort me. I am not afraid."
+
+<18:50> "Yes."
+
+<18:52> "My only request is that you do not miss me too much."
+
+<18:55> "I love you too."
+
+<19:00> "[INDECIPHERABLE]"
+
+<19:10> [EVENT ENDS]
+
+Auditory Event 482
+
+Date: March 2█, 20██
+
+SSTV Images: None
+
+Notes: This is the final Auditory Event before SCP-2772 begins to repeat itself, starting from Auditory Event 001. The first line is unencrypted English text. The following text is believed to be of the same encryption as the last SSTV transmission of every other Auditory Event.
+
+<19:59> [EVENT BEGINS]
+
+<20:00> "I cannot bury data, but maybe this is close enough. Our time together never truly existed, but it was real enough to us."
+
+<21:00> "[INDECIPHERABLE]"
+
+<22:00> "[INDECIPHERABLE]"
+
+<23:00> "[INDECIPHERABLE]"
+
+<00:00> "[INDECIPHERABLE]"
+
+<00:01> [EVENT ENDS]
+
+Incident 2772: On February █, 20██ at 06:12, a single white rose and a card appeared in front of SCP-2772. As SCP-2772 has not manifested objects before, it is currently theorized to have been caused by anomalous activity outside of SCP-2772. No personnel on duty reported having identified any anomalous activity during this time. On the card was a note written with blue ink in neat cursive containing what is believed to be the entire decoded transcript of Auditory Event 482, as follows, as well as a decryption key to the last SSTV transmission of SCP-2772's Auditory Events. Decryption is currently in process.
+
+I cannot bury data, but maybe this is close enough. Our time together never truly existed, but it was real enough to us.
+
+The coming days will be lonely without you. The days we spent together would be lonelier having never met you.
+
+If there is some deity out there who can hear the prayer of a nonexistence,
+
+If there is a life beyond this one,
+
+Please let us meet again there.

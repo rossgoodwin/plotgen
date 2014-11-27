@@ -1,0 +1,205 @@
+SCP-1283
+
+Item #: SCP-1283
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1283 is to be contained in a soundproof storage locker, tuned to a frequency free of broadcasts, with volume on its lowest setting. It is to be checked daily for damage or irregular activity by staff equipped with sound-dampening headphones. In the event that SCP-1283 activates and SCP-1283-1 begins speaking, the nearest Level 3 staff is to be notified immediately, and whoever is determined to have triggered SCP-1283-1 is advised to ignore all vocalizations and remove themselves from the area immediately. In a testing situation, participating researchers are required to wear sound-dampening headphones for the first five (5) minutes of the test, to ensure that only the intended test subject will trigger SCP-1283-1. In the event that personnel other than intended test subjects begin to focus on SCP-1283, they are to be restrained and sedated immediately.
+
+Description: SCP-1283 is a 1930's era home radio, with manufacturing labels that indicate it was made by the ████████ company. The object shows very little damage or wear despite its age. Despite the object's obsolete parts, it has shown to be capable of receiving signals and playing with a consistently high quality of sound, with very little noise or interference. Additionally, SCP-1283 is capable of functioning even when switched off, without any apparent source of power. Inspection of the internal mechanisms of the object reveal parts consistent with other radios of identical make and model.
+
+SCP-1283's anomalous effects become apparent when a person, hereafter referred to as the subject, listens to it for more than fifteen (15) minutes, regardless of what frequency the radio is tuned to. When said amount of time has passed, anything playing on the radio at that time will become silent, and a voice, hereafter referred to as SCP-1283-1, will address the subject by name. Invariably, the voice utilized by SCP-1283-1 belongs to someone known to the subject. Testing has observed SCP-1283-1 belonging to close friends, parents, spouses, authority figures, and on one occasion, a news anchor from the ██████ Network. On occasion, the voice used by SCP-1283-1 has been that of a deceased person. Interviews suggest that the voice chosen by SCP-1283-1 belongs to whomever the subject considers to be the most trustworthy. Attempting to manipulate the frequency, volume, or AM-FM settings of the radio after SCP-1283-1 has begun speaking produces no results.
+
+After SCP-1283-1 has gained the subject's attention, it instructs them to listen carefully. At this stage the subject will begin to focus exclusively on SCP-1283, and will resist attempts to distract them from it. SCP-1283-1 will then provide the subject with information regarding an upcoming event. All information provided by SCP-1283-1 to a subject will be referred to as SCP-1283-2. SCP-1283-2 occurs in three individual phases, each prefaced by a distinct phrase that has been present across all testing. The three phases appear to have nothing connecting them, and only currently affected subjects display any awareness of meaning.
+
+Description of SCP-1283-2: The first phase is prefaced with the question "Do you remember" and involves SCP-1283-1 prompting the subject to remember a specific person, object or event. This phase, like SCP-1283-1, has shown to have personal relevance to the subject, either directly or indirectly.1 Subjects display no difficulty recalling this information, regardless of obscurity.
+
+The second phase, prefaced with the statement "Something bad is going to happen," involves SCP-1283-1 giving a warning to the subject. To outside listeners, this warning is cryptic, meaningless, and appears to bear no relation to the first phase. However, no test subject has expressed confusion in regards to the warning. Instead, subjects react with initial shock and surprise, followed by increasing levels of anxiety. Despite distress, subjects continue to resist attempts to stop them from listening to SCP-1283.
+
+The final phase of SCP-1283-2 is prefaced with the statement "You can stop it." Here, SCP-1283-1 delivers a set of instructions to the subject, with an assurance that following them will stop the threatened event. The instructions vary from simplistic and easily performed to complex and dangerous, and no discernible pattern has been observed. After instructions have been given, SCP-1283-1 becomes silent, and expected programming will resume. At this point, the subject's anxiety will have grown into a severe panic, and they will indicate an intense desire to perform the instructions presented to them and avert the threatened event. Attempts to stop the subject from doing so has resulted in pleading, threats, and in some cases, violent resistance.
+
+Addendum 1283-1: If subjects are allowed to successfully complete the given instructions, their panicked state dissipates, and subjects typically report feelings of intense relief. Observation suggests that subjects act with above average calm and reasoning abilities in future panic situations.2 Interviewed subjects report retention of memories of the radio conversation, but any questions regarding the warning given in the second section of SCP-1283-2 elicit only confused responses. No subject has been able to determine any connection between the prompted memory and the warning.
+
+In the event that a subject is kept from performing the given instructions for an extended period of time, their panic will continuously increase, until the subject proves inconsolable and displays a single-minded drive to follow the instructions. However, these effects have proven reversible. Heavy sedation and Class-A amnestics used in conjunction have proven effective in countering the effects of listening to SCP-1283. Subjects dealt with in this manner do not display any desire to perform the given instructions, but have shown to be more susceptible to anxiety and panic.
+
++ SCP-1283 Test Log
+
+- SCP-1283 Test Log
+
+Note: The identity of the voice used by SCP-1283-1 is determined either through post-test interviews with the subject, or inference from subject dialogue towards SCP-1283-1. While it is common for subjects to speak to SCP-1283-1, at no point has SCP-1283-1 responded to a subject's statements or questions. For this reason, testing logs will exclude Subject transcripts.
+
+Test-1283-01
+
+Subject: D-20283
+
+Voice of SCP-1283-1: "Julia," D-20283's wife.
+
+Record of SCP-1283-2:
+
+Phase 1: "Do you remember your first car?"
+
+Phase 2: "Something bad is going to happen. The well is going to run dry."
+
+Phase 3: "You can stop it. You need to break a plate."
+
+Results: Subject displayed expected panic. Subject was allowed a glass plate with which to follow instructions. After throwing the plate to the ground, Subject's panic subsided quickly.
+
+Test-1283-02
+
+Subject: D-21593
+
+Voice of SCP-1283-1: D-20455, with whom D-29613 had formed a close bond during their stay at The Foundation.
+
+Record of SCP-1283-2:
+
+Phase 1: "Do you remember your fifth birthday?"
+
+Phase 2: "Something bad is going to happen. The benefactor is returning home."
+
+Phase 3: "You can stop it. You must prepare a meal for five people."
+
+Results: Subject displayed expected panic, and was allowed access to some food and basic cookware to follow the instructions. Subject successfully prepared a simple meal fit for five people, and the panic subsided as expected. However, the Subject suffered multiple burns and cuts due to their panicked state and careless methods.
+
+Test-1283-03
+
+Subject: D-21092
+
+Voice of SCP-1283-1: "Greg," later determined to have been a friend of D-21635's. Died shortly after D-21635's incarceration.
+
+Record of SCP-1283-2:
+
+Phase 1: "Do you remember visiting your grandparents?"
+
+Phase 2: "Something bad is going to happen. A key has been forged."
+
+Phase 3: "You can stop it. You must not sleep for one week."
+
+Results: Subject displayed expected panic. Subject was allowed to attempt to follow the instructions. Due to the Subject's agitated state, they successfully went without sleep for four days before succumbing to exhaustion. Upon awakening, Subject immediately expressed a desire to, quote, "try again." Request denied. Sedatives and Class-A amnestics applied.
+
+Test-1283-04
+
+Subject: D-21635
+
+Voice of SCP-1283-1: "Marcus," D-21635's father.
+
+Record of SCP-1283-2:
+
+Phase 1: "Do you remember starting the fire?"
+
+Phase 2: "Something bad is going to happen. The music will stop."
+
+Phase 3: "You can stop it. You need to break your left arm."
+
+Results: Subject displayed expected panic, and attempted to follow instructions, but was successfully restrained and sedated before they succeeded. Subject treated for extensive bruising and mild ligament damage.
+
+Test-1283-05
+
+Subject: D-20917
+
+Voice of SCP-1283-1: [DATA EXPUNGED], the on site psychologist who regularly dealt with D-20917
+
+Record of SCP-1283-2:
+
+Phase 1: "Do you remember Alexander?"
+
+Phase 2: "Something bad is going to happen. The authors grow impatient."
+
+Phase 3: "You can stop it. You must travel to ███████. When you arrive, you must find a child and take them from their home. Keep the child hidden for ██ days. Do not allow the child to know your name. Do not allow the child to come to harm. After ██ days, release them."
+
+Results: Subject displayed expected panic, and was not allowed to follow the instructions. Sedatives and Class-A amnestics applied after ██ hours of observation.
+
++ Incident Report-1283-A
+
+- Incident Report-1283-A
+
+The following is an audio transcript of Incident-1283-A, which took place during routine testing on 12/19/2005
+
+Attending Researcher: Dr. Ivan ██████
+
+Subject: D-24019
+
+Note: Audio begins twelve (12) minutes into the test.
+
+<Begin Log, T+12:19>
+
+D-24019: Doc, are you sure this is worth studying? I mean, I don't mind listening to music, I just don't see how this is at all meaningful.
+
+Dr. Ivan ██████: Just keep listening, D-24019, we're almost done here.
+
+D-24019: Whatever you say, it's not my tax dollars you're wasting.
+
+Note: Two minutes pass with only the only sound being music played from SCP-1283
+
+SCP-1283-1: Darren █████. D-24019's given name.
+
+D-24019: Kelly? Is that you? What's going on? Hey, doc, something weird is happening with this radio.
+
+SCP-1283-1: You need to listen carefully to me, Darren.
+
+Dr. Ivan ██████: D-24019, may I ask how you are feeling at the moment?
+
+D-24019: Shhh, not now doc, I need to listen to Kelly.
+
+SCP-1283-1: Do you remember failing that test?
+
+D-24019: Of course I do, Kelly, how could I not?
+
+Dr. Ivan ██████: D-24019, if you could take a moment…
+
+D-24019: Later, doc!
+
+SCP-1283-1: Something bad is going to happen. There will be a breach.
+
+D-24019: No… no, that can't be right, that's not supposed to happen. Oh god, I don't… what will happen to me? This is bad, this is really bad.
+
+Dr. Ivan ██████: D-240-
+
+D-24019: SHUT UP! JUST SHUT UP SO I CAN LISTEN!
+
+SCP-1283-1: You can stop it.
+
+D-24019: Please tell me how, Kelly! Tell me how to stop the breach!
+
+SCP-1283-1: You must kill Ivan ██████. Do not allow him to leave this room.
+
+<SCP-1283-1 becomes silent. ████ ████████ begins playing on the radio.>
+
+Dr. Ivan ██████: D-24019, do not move. Guard, please sedate the Subj-
+
+<A crash is heard, presumably D-24019 knocking aside the table in an effort to reach Dr. Ivan ██████.>
+
+D-24019: The breach can't happen!
+
+<Struggling is heard>
+
+Dr. Ivan ██████: Guards! Restrain him!
+
+D-24019: No! You don't understand! I need to kill him, or everything is going to go wrong, just like Kelly said! You have to believe me!
+
+Dr. Ivan ██████: Sedate him and take him away.
+
+D-24019: NO! NO, DON'T TOUCH ME! PLEASE JUST LET ME KILL HIM!
+
+<End Log, T+22:49>
+
+Closing Statement: D-24019 was successfully restrained and sedated, but in light of instructions received from SCP-1283-2, subject was terminated for security reasons. Dr. Ivan ██████ treated for a broken nose. SCP-1283 testing discontinued. Request for SCP-1283 reclassification to Euclid is pending.
+
++ Foundation Incident Report
+
+- Foundation Incident Report
+
+Incident 220953, dated 6/4/2012
+
+Incident Description: A minor containment breach occurred in the early morning due to improperly followed security guidelines. SCP-███, SCP-███, and SCP-███ briefly escaped containment, and were recovered after ██ hours. Casualties included several D-Classes and two Foundation personnel. The responsible party was formally reprimanded for their negligence, but no further action was taken against them.
+
+Responsible Party: Dr. Ivan ██████
+
+Actions Taken: Formal reprimand
+
+Incident Status: Resolved
+
+Footnotes
+
+1. As of writing, researchers have found no correlation between the voice selected for SCP-1283-1 and the event selected for SCP-1283-2.
+
+2. It was suggested that prospective task force members be intentionally exposed to SCP-1283 for this reason. Request denied by O5-█, citing potential for loss of resources

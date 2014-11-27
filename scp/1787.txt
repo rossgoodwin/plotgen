@@ -1,0 +1,35 @@
+Example of SCP-1787-B
+
+Item #: SCP-1787
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1787-A is to be contained in standard living quarters with suitable furnishings, including a bed, a bedside table and a lamp, a recliner and a workbench. Other entertainment materials such as books and musical equipment are to be given at the discretion of the on duty researcher. SCP-1787-A is to be made to believe it resides in a retirement home in ██████, Italy.
+
+SCP-1787-A is only allowed access to its tools during its whittling sessions. Otherwise the tools are to be kept in a locked drawer in Dr. Scooter’s office.
+
+All deliveries of SCP-1787-B are to be taken to SCP-1787-A's living quarters after screening. One armed guard and one licensed veterinary physician are to be present while SCP-1787-A whittles. Dog food and a water dish are to be provided during these sessions. Any unfinished SCP-1787-B creations are to be transported to the on-site kennel and treated like non-anomalous canines (as far as physically possible) until they are completed.
+
+All of SCP-1787-A’s creations are to be given thorough physical examinations prior to euthanization. Post-mortem samples are to be collected, analyzed, and cryogenically stored for future research potential. Any remains are to be incinerated. SCP-1787-A is to be told that its creations are sent to caring homes.
+
+Description: SCP-1787-A is an Italian man, approximately 65-70 years old and 1.7 meters tall. SCP-1787-A’s appearance is consistent with its age and ethnicity and generally unremarkable.
+
+Completed results of previously shown SCP-1787-B
+
+Once per week, SCP-1787-A receives one (1) package regardless of its location. Packages are only marked with SCP-1787-A’s name (█████ ████████), a breed of domesticated dog (Canis lupus familiaris), a gender, and a return address1. Packages range in size between ten (10) cm3 and seventy-five (75) cm3 and weigh between three (3) and eighty (80) kilograms2.
+
+Inside each package is a cube of biological material, designated SCP-1787-B. These consist of undifferentiated flesh intermittently covered with fur. DNA testing matches that of C. lupus familiaris. SCP-1787-A uses SCP-1787-B as sculpting medium similar to clay and will use a variety of bladed instruments, such as planes, files, knives and chisels3 to carve a dog in accordance with the desired specifications written on the package. Depending on the size of the dog and the purported quality of the SCP-1787-B (as identified by SCP-1787-A), this can take between 6 hours and 5 days.
+
+During this process, SCP-1787-A will carve out canine features. Finished sections of SCP-1787-A's carvings will become animate and respond as expected for a domesticated dog to its master (For example, a carved tail wags, a finished mouth and jaw area will bark and pant.) The animal shows no sign of pain whilst other parts of its body are being carved and sculpted (and have shown signs of boredom until it is finished.) A finished creation by SCP-1787-A is identical, physically and genetically to a naturally bred canine of the same breed.
+
+The source and method of creation of SCP-1787-B is unknown. The only information that SCP-1787-A is able or willing to provide regarding this is that "an old friend sends it."
+
+SCP-1787-A was discovered in ██████, Italy, after one of its unfinished creations bit a tourist. Local authorities were alerted and embedded agents retrieved SCP-1787-A from its workshop without incident. Class-C amnesiacs were administered to the tourists and a cover story that the individual was attacked by a stray dog was easily planted.
+
+Footnotes
+
+1. This return address leads to an abandoned dog kennel in ████, █████
+
+2. These ranges typically correspond to the average weight and size of the dog indicated on the package.
+
+3. Although SCP-1787-A prefers to use the set of tools it owned prior to Foundation custody, it is capable of using any appropriate tools without difficulty.

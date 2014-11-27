@@ -1,0 +1,35 @@
+Item #: SCP-1674
+
+Object Class: Safe
+
+Special Containment Procedures: The building in which SCP-1674 is situated has been purchased by a Foundation front posing as a historic preservation society. The building is to be cordoned off from public access and view. The door to SCP-1674 is to be kept open while any human subject is inside SCP-1674, except during authorized transport. Care is to be taken not to expose SCP-1674-1 to more light than is necessary to prevent deterioration.
+
+A base has been established in SCP-1674-3 to house test subjects. A communications wire, no thicker than 2 mm, is to be threaded through SCP-1674-2 in order to maintain a connection between SCP-1674 and the base in SCP-1674-3. A flexible tube, no thicker than 3 mm, is to be threaded similarly in order to transfer liquid rations.
+
+Description: SCP-1674 is a room located in a 16th-century building in Zwolle, Netherlands. SCP-1674 has internal dimensions of 3.2 m X 5 m X 2.4 m. Its walls and ceiling are painted maroon and its floor is birch hardwood; all internal surfaces are smooth and sterile. The door, located on one of the narrow walls (henceforth the near wall), swings inwards when opened. When closed it sits flush with the wall. The door does not possess a handle on the inside. The longer walls and the ceiling are painted with horizontal, luminescent yellow pinstripes. These lines converge centrally on the narrow wall opposite the door (henceforth the far wall) in a layered design similar to the circular, staggered tumblers of a combination lock. Located within SCP-1674 are a canvas sheet, designated SCP-1674-1, and a small hole in the far wall, designated SCP-1674-2.
+
+SCP-1674-1 is an animate sheet of heavy canvas paper. It is mounted permanently to a roll on the ceiling against the near wall. SCP-1674-1 measures 3.2 m X 3.2 m X 1 mm and is abnormally damage- and force-resistant. It perfectly absorbs all electromagnetic radiation outside of the visible spectrum. Visible light shone directly on its surface reveals traces of a Baroque landscape painting of an overcast rocky taiga, although the pigments have since faded greatly.
+
+SCP-1674-2 is a round hole 5 mm wide. It is located in the center of the circular design on the far wall. SCP-1674-2 typically lets in a small amount of light. SCP-1674-2 leads to an external area, designated SCP-1674-3, which does not correspond with the room adjacent to SCP-1674 nor to the area outside the building. Visual detail from SCP-1674-3 is sparing while the door to SCP-1674 is open, but the two areas are always connected. Sound and narrow-beam radio waves easily travel through SCP-1674-2. The air pressure differential is negligible.
+
+When the door to SCP-1674 is closed with a human subject inside, SCP-1674-1 unrolls to completely cover the near wall and 0.8 m of the floor; this prevents the door from opening again. The layers of the circular design on the far wall then begin to rotate independently, making various staggered pinstripes align and lock into place. Sections of the wall bordered by the aligned pinstripes then extrude outwards to form a shallow tunnel with an accordion-like structure. As the wall shifts, SCP-1674-2 gradually widens from 5 mm to 2 m, thereby making SCP-1674-3 physically accessible. If the human subject steps through, the process will reverse until SCP-1674 is in its original state again, and the door is able to be opened. Transportation is thus one way only. The process is noiseless.
+
+SCP-1674-3 is an extradimensional region that resembles a rocky taiga or steppe. There is an abundance of native vegetation, some of which is edible; no wildlife has yet been observed besides a single specimen of Lithobates sylvaticus (wood frog). The sky is perpetually overcast; the clouds occasionally take on violet hues towards dusk. SCP-1674-3 is highly irradiated for unknown reasons. Staying for an extended duration will cause focused mutagenic effects in non-native organisms. The mutations are typically concentrated in the eyes, skin, and the lining of the gastrointestinal tract; ultimately inducing their development into a substance chemically and physically identical to SCP-1674-1. Test subjects sent into SCP-1674-3 have reported seeing older settlements (presumably built by people who entered long before SCP-1674 was contained), many of which still contain bodies that display the mutagenic effects.
+
+SCP-1674-2 reportedly exits into SCP-1674-3 from the face of a large mottled rock erupting from the ground. Beside the exit, there is an etching in the rock face in early modern Dutch. A translation follows.
+
+May God rest he who finds these words
+
+My chamber has worked too well. I have worked too poor. Had I not been so enamored by the dream of perfect realism, I would have seen there is no way home. And this realism is flawed. The sky is sick and it tans my hide and burns my throat. I would starve but for these foreign berries and garnishes. And a pinprick in this boulder robs me of hope to go back. I would give my fortunes to traverse the other way. What would have done?
+
+I should have built a mechanism to invert the projection. I should have built a mechanism from this side. I should have made a way to invert the projection. I should have painted a
+
+(message cuts off, then resumes several lines lower)
+
+There is no use for pretense now. I still have this chisel. Soon I will have nothing.
+
+Master Constructor, The Doubtful
+
+Year of Our Lord 1610
+
+A body to which the signed name can be attributed has not yet been located within SCP-1674-3.

@@ -1,0 +1,19 @@
+Item #: SCP-559
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-559 is to be stored appropriately for any object it has taken the form of, within a secure safe containing three (3) other baked items inaccessible to those below Level 3 security clearance. Usage of SCP-559 is only to be done under the supervision of Level 4 or higher personnel with prior approval.
+
+Description: As of the time of writing, SCP-559 is a round vanilla birthday cake. However, its powers have been observed to exist in other baked items like rolls, puffs or cupcakes. Whichever item SCP-559 has subverted in this manner is easily identified by the words "Birthday Time!" marked out in green icing. Materials testing has returned this icing to be regular green icing with no unusual traits.
+
+When lit candles are placed into SCP-559, they cannot be extinguished by any means by someone who is not celebrating their birthday. However, they can be put out by people whose birthday falls on that day (termed "birthdayers" for convenience), upon which the subject will have their age changed to the equivalent of the number of candles on SCP-559. This effect lasts for twenty-four (24) hours before the subject reverts to their original age.
+
+Testing has revealed several other properties. SCP-559 seems to regard anything burning as a candle, regardless of its size or orientation. Matchsticks, fireworks and even high explosives have been used, and when stuck into SCP-559, all were easily blown out by birthdayers. Tests have been conducted with a number of candles from 1 to above 900. Such a high age surprisingly brings about no directly related health problems, and the effects of existing health conditions (weak heart, asthma, etc.) are reduced when "aged" in this manner. In fact, 87% of those who were aged to above 500 years old survived the full 24 hours, although were physically weakened in their aged state as expected. When the 24 hours are up, the subject immediately reverts to the original age (within a span of 20 microseconds), and retains full memory of the period where the age was altered
+
+If SCP-559 is "used" in the above manner, or if a slice is cut from it, its current "host" item will lose its unique properties and green icing, and the nearest intact baked item will gain them instead. It has been observed to "travel" in this fashion over twenty-five kilometres (25km) of sea, and this property thus led to difficulties during location and retrieval of the object.
+
+Retrieval Log: An item containing SCP-559 emerged from a bakery in [DATA EXPUNGED]. It was bought by a family, and when used to celebrate an 82-year-old's birthday, 8 big candles and 2 small candles were placed on the cake. The act of blowing out the candles transformed the birthdayer into a 10-year old, and the alarmed family contacted 911 as a first instinct. Routine monitoring of the 911 call centres alerted the Foundation to SCP-559's presence, and after making suitable negotiations with the family for secrecy, the spent cake was secured. However, after testing was done it was realised that SCP-559 was still in the public domain, and this sparked a hunt for all baked goods similar to the original cake. It was eventually located after it took on the form of a puff pastry, the green icing betraying its unnatural properties, and has since been secured.
+
+Addendum 559-01: Although we appreciate test subjects attempting to gather data for us, seeing as birthdays are only once a year, I would like to remind everyone that there should always be at least one failsafe baked item nearby to contain 559 after usage. Recently there was one usage which had no backup item; fortunately the staff canteen was serving cupcakes that day. Consider yourselves warned.
+
+- Dr. Reg

@@ -1,0 +1,83 @@
+SCP-1428-1, prior to containment.
+
+Item #: SCP-1428
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1428-1 is currently contained at Area-108, and is housed in a tungsten cage within a 1.5m x 2m x 1.5 m incinerator unit. The walls of the unit are constructed in 3 layers: the innermost layer is comprised of fire-proofed concrete at a thickness of 30cm, the intermediary layer is comprised of lead at a thickness of 15cm, and the outermost layer is comprised of concrete at a thickness of 10cm.
+
+SCP-1428-1 is to be constantly incinerated at a temperature of 1,500 degrees Centigrade. Under no circumstances are any personnel to enter the containment chamber or make direct physical contact with SCP-1428-1. Repair and replacement of equipment is to be carried out by remote-controlled drones.
+
+The chamber is equipped with dosimeters to detect whether SCP-1428-1 has entered a passive state; if this occurs, Contingency Fusang-A is to be implemented.
+
+SCP-1428-2 is to remain under surveillance for anomalous activity, and the site is to be enclosed with electrical fencing. Any civilians or unauthorized personnel that approach or attempt to enter the site are to be detained, interrogated, and administered Class-A amnestics (in the case of civilians). Personnel are to report if the object in the statue's third hand moves or regenerates. No fewer than 10 D-Class personnel are to be kept on-site and restrained for the purpose of carrying out Contingency Fusang-A.
+
+Description: SCP-1428-1 is a creature that superficially resembles Corvus macrorhynchos. It is tripedal and does not possess genitalia or anus. The third leg has been observed to remain tucked up under its body unless it enters an active state. It does not need to eat, sleep, or breathe, does not age, and suffers no physically adverse effects from prolonged exposure to extremely high temperatures1 or radiation. SCP-1428-1 has never been observed to communicate, and its intelligence is unclear.
+
+SCP-1428-1 has 3 states: inert, passive, and active.
+
+While inert, it demonstrates no anomalies other than those previously stated.
+
+While passive, it will begin to emit gamma radiation of varying intensity. There is no clear consistency in the charge of the radiation over time, generally ranging from 5 to 90W/m2, but occasionally reaching levels of 150W/m2. The momentum ranges from 1 to 1.5MeV.
+
+While active, SCP-1428 will unleash a burst of gamma radiation at an exponentially increased intensity; previously recorded charges have been as high as 340W/m2 with a momentum of 20MeV. While active states only last an instant, the magnitude of the emission poses a significant risk of lethal radiation poisoning in nearby population centers. In addition, SCP-1428-1 will begin to emit auroral bands consistent with solar radiation. These bands appear to induce a compulsive effect in human observers, causing them to attempt to approach the source of the aurora. Individuals under the influence of this effect are completely unresponsive to external stimuli, and will perform no action other than approaching the aurora. The bands persist for 20-30 minutes after the active state has ended.
+
+SCP-1428-1 will cycle between passive and active states, but it does not appear to be capable of transitioning directly from inert to active (unless under attack). Active states occur approximately once every 2-3 months. There is a direct correlation between the intensity of each active state and the length of the most recent inert state. In addition, SCP-1428-1's cycle does not reset when it becomes inert: if allowed to become passive after being inert for 2-3 months, there is a possibility that it will immediately enter an active state.
+
+While SCP-1428-1 is passive, combustion at an intensity of approximately 1,400 degrees Centigrade or greater will cause it to revert to an inert state. While physical contact with the SCP-1428-1 is possible, any attempt to physically harm it (other than incineration) will result in immolation of the attacker, and it will enter an active state (regardless of present heat). Incineration has no effect on SCP-1428-1 in an active state.
+
+SCP-1428-2 is a temple or shrine located in the ███████ Province of China, approximately ██ km north-northwest of the site where SCP-1428-1 was discovered. The site was constructed in approximately ████ BCE, and contains religious text and iconography inconsistent with the geographic area and time period. The most significant of these inconsistencies are a ritualistic form of human immolation, and the presence of an entity known as [REDACTED]. This entity is a three-armed humanoid, and is featured in numerous designs throughout the site. The majority of these designs depict what appears to be SCP-1428-1 perched on the entity's shoulder.
+
+A .5m x 1.5m x .5m jade statue of [REDACTED] is located at the approximate center of the site, and the entity holds an object in each of its hands: the Earth, the Sun, and a partially burnt2 [DATA EXPUNGED]. This is genuine instead of being constructed of jade, and shows no signs of decomposition despite being at least [REDACTED] years old. Additionally, while biologically dead, it generates a temperature of 30 degrees Centigrade, and has been observed to make subtle movements. It will occasionally fixate upon individuals that enter its range of sight and open its mouth as though trying to speak.
+
+After analyzing several texts recovered from the site and considerable testing, it is confirmed that human immolation in SCP-1428-2's vicinity will reduce the severity of SCP-1428-1's next active state. If immolation occurs, the [DATA EXPUNGED] will begin to gesticulate as though silently laughing, and the burnt tissue on its being will regenerate at a rate proportional to the number of individuals killed by the procedure.
+
+Addendum [1428-001]: Contingency Fusang-A: The intensity of incineration on SCP-1428-1 is to be increased to 3,000 degrees Centigrade. If SCP-1428-1 does not revert to an inert state within 30 seconds, all Class-D personnel housed at SCP-1428-2 are to be immolated.
+
+Addendum [1428-002]: On [REDACTED], the object in the statue's third hand modified its orientation of its own accord and began to fixate upon the approximate location of Area-108. Its position has not shifted since the incident, and no other anomalies have been reported.
+
++ DOCUMENT SCP-1428-A5: EMERGENCY CONTAINMENT REVIEW, [REDACTED]
+
+- DOCUMENT SCP-1428-A5: EMERGENCY CONTAINMENT REVIEW, [REDACTED]
+
+<Begin recording, 8:45 AM, [REDACTED]>
+
+Dr. Adler: This is Dr. ████ Adler, presiding over this emergency meeting regarding SCP-1428 on [REDACTED] at 8:45 AM.
+
+Dr. Albert: We need to amend Fusang-A.
+
+Dr. Adler: What do you mean?
+
+Dr. Albert: I've just been meeting with the anthropologists at SCP-1428-2: we need to stop burning D-Class.
+
+Dr. Adler: We've been over this, ████-
+
+Dr. Albert: No, listen to me, ████, that's what it wants. It wants us to be keep burning people. It came here to make sure we did.
+
+Dr. Adler: What for?
+
+Dr. Albert: For its creator, [REDACTED]. Every time we burn them, that thing in its hand heals more-
+
+Dr. Adler: That may be but we can't just stop, the bird is too dangerous-
+
+Dr. Albert: You don't understand. The bird's not the problem; if that thing finishes regenerating, it will regain the ability to speak.
+
+Dr. Adler: What?
+
+Dr. Albert: According to the text, it will attempt to contact the sun. Supposedly, that's where [REDACTED] and SCP-1428-1 came from, and the former returned there-
+
+Dr. Adler: What will it say?
+
+Dr. Albert: I don't know. The designs were so eroded we could only translate one word from the message.
+
+Dr. Adler: Which is?
+
+Dr. Albert: "Breathe."
+
+<End recording, 8:48 AM, [REDACTED]>
+
+Footnotes
+
+1. No limit to this ability has yet been found; it has been observed to withstand temperatures of approximately 4,500 degrees centigrade.
+
+2. Upon discovery, roughly 78% of its flesh was burnt; the current percentage is closer to 69%.

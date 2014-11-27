@@ -1,0 +1,335 @@
+Capsule Alpha, prior to entering service
+
+Item #: SCP-1844
+
+Object Class: Euclid
+
+Special Containment Procedures: At least twelve members of Task Force Omega-144 are to be stationed at Site-308 at all times, with no fewer than three members of the task force concurrently conducting their respective containment protocols within a deposited capsule at any given time. The containment protocol is to be conducted as follows:
+
+The capsule’s ablative heat shield integrity is to be thoroughly inspected and repaired if necessary. The capsule is to be provisioned with food, drinking water, breathing air and requisite equipment for the conduct of the containment protocols by the relevant task force members.
+
+Five task force members are to enter and be sealed in the capsule.
+
+The capsule is to be deposited within SCP-1844 by means of heavy helicopter lift. Whenever possible, the existing capsule within SCP-1844 is to be retrieved. Capsule placement, including the position of the capsule within SCP-1844 and the orientation of the vertex-focus axis of its parabolic dome, is to conform to instructions provided by the Foundation's computus desk.1.
+
+While the manned capsule is on site, at least three of the five task force members in the capsule are to concurrently conduct their respective containment protocols, continually and with conviction in a loud, clear voice for the duration of their respective duty shifts. These task force members are to operate in rotation in order to allow for rest in shifts.
+
+The capsule is to remain in place until the next capsule is ready to relieve it in rotation. Every effort is to be made to provide that no capsule remains in place for more than 960 hours.
+
+When the capsule is relieved, it is to be recovered from SCP-1844 by means of heavy helicopter lift (provided that capsule recovery is not to be attempted until the placement of the successor capsule is confirmed) and the task force members are to be extracted. The task force members are to be afforded recovery time before return to service, if practicable.
+
+Capsule Charlie (internal detail: magnification of 0.7 mm diameter screw cap)  
+
+Each capsule is to be constructed according to the specifications in Document 28.3.GEH, including heat and soundproofing tolerances. The dome of the capsule is to be composed of silver of millesimal fineness not less than 995 (recycled sacramental equipment preferred), and is to be parabolic in shape. Internal metallic surfaces of the capsule are to be microinscribed with appropriate texts. Capsules are to be retired from service when they are no longer capable of being maintained within required tolerances.
+
+The current roster of Task Force Omega-144 consists of the individuals identified in the table below. The table below also identifies the containment protocol to be performed on-station, within the capsule, by the task force member in question:
+
++ Current Roster of Task Force Omega-144
+
+– hide block
+
+Designation
+
+Name
+
+Affiliation
+
+Containment Protocol
+
+XS9923-231
+
+His Holiness ████████ █████ ██████████
+
+Coptic Orthodox Church of Alexandria
+
+Recitation of Book of Zechariah (Coptic trans.)
+
+YS0121-821
+
+██████ ██████████ ████
+
+Islam (Sufi movement)
+
+Approved dhikr ceremonial recitation in Qawwali style
+
+PR21338-002
+
+Catholicos ██████ ██████████
+
+Armenian Apostolic Church
+
+Recitation of Nicene creed (Armenian liturgical version)
+
+ASD01-0886
+
+Rabbi ████ ███████████
+
+Orthodox Judaism (Chabad movement)
+
+Recitation of Sh'ma Yisrael
+
+JA1136-039
+
+Queen ████████████
+
+Mansion of Bobo Ashanti, Rastafari Movement
+
+Niyabinghi chant "Jah in Zion"
+
+MV1206-089
+
+Mevlâna Jalâluddîn █████
+
+Islam (Sufi dervish of the Mevlevi order)
+
+Sema whirling
+
+CV1666-616
+
+███████ Cardinal ███████████
+
+Roman Catholic Church
+
+Recitation of Nicene creed (Latin liturgical version)
+
+AE213-718
+
+His Holiness Abuna █████ ████████
+
+Ethiopian Orthodox Tewahedo Church
+
+Recitation of Mäshafä Kidan (Ge'ez translation)
+
+CV1666-617
+
+█████ Cardinal ███████
+
+Roman Catholic Church
+
+Exorcism rite per Rituale Romanum
+
+HH006-082
+
+Rev. ██████ █████████
+
+Lord's House Holiness Church
+
+Glossolalia, accompanied by snake-handling
+
+PQ2742-353
+
+Rišamma ██████ █████████
+
+Mandaean community of Chaldea
+
+Recitation of Genzā Rabbā
+
+HB3383-264
+
+██████ ███████, of the lineage of Cohen ha-Mašíaḥ
+
+Orthodox Judaism
+
+Birkat kohanim
+
+BE2322-848
+
+Brother █████ ██████████, O.S.B.
+
+Roman Catholic Church (Ordo Sancti Benedicti)
+
+Vade retro satana
+
+JS124-143
+
+Lady Mujtahideh ███████ █████
+
+Usuli Twelver Shī‘ah Islam
+
+Recitation of Quranic sura Al-Qaria
+
+EF1266-212
+
+Sheikh █████ ████████
+
+Druze (al-ʻUqqāl)
+
+Recitation of Rasa'il al-hikmah
+
+LD5344-866
+
+Prophet-President ██████ ███████
+
+Reorganized Fundamentalist Church of Jesus Christ of Latter-Day Saints
+
+Recitation of Book of Revelation (Joseph Smith trans.)
+
+CV1666-621
+
+Archbishop ███████ ███████████
+
+Albanian Byzantine Catholic Church
+
+Liturgy of St. Basil (Greek version)
+
+BY0206-844
+
+High Priest █████ █████
+
+Samaritan community
+
+Animal sacrifice in accordance with Samaritan scripture
+
+CV1666-627
+
+Mother Superior █████ █████████
+
+Roman Catholic Church (Ordo Fratrum Beatissimæ Virginis Mariæ de Monte Carmelo, 2nd Ordo)
+
+Rosary (Latin liturgical version)
+
+CC9699-012
+
+Ayatollah Uzma █████████ ███████
+
+Usuli Twelver Shī‘ah Islam
+
+Recitation of Various Quranic sura
+
+DG12310-813
+
+Rev. Dr. ████ ██████ █████████
+
+Evangelical Protestant Christianity
+
+Extemporaneous sermon on Revelation, Chap. 8
+
+Each Omega-144 member professes an Abrahamic faith, has qualified by means of apostolic succession or equivalent extra-Foundation protocol, and has been screened by the Foundation's Special Duty Office as consistently rating at least 135 centiakiva/second in piety. The Special Duty Office actively recruits additional suitable members to replace retiring team members. Retiring members of Omega-144 are to be administered a Class B Amnestic. The containment protocols for individual Omega-144 members have been developed based on their proven efficacy in controlling the growth and temperature of SCP-1844; as additional refinements to the containment regimen are developed this document will be accordingly revised.
+
+Description: SCP-1844 is an elliptical open pit or crater located at 31.7███° N, 35.1███° E. The pit has a present mean diameter of approximately 70 meters and a typical floor depth of approximately 260 meters, although there are several narrow fissures in the floor with an indeterminate depth. The vicinity of the pit is maintained as a secure location under the cover story that it was a military ordnance dumping ground and that unexploded ammunition presents a public danger.
+
+SCP-1844 (inspection by Dr. Garcia)
+
+The temperature at the bottom of the pit normally ranges from approximately 3000 K to 5000 K, occasionally spiking to as high as 9600 K. The source of this heat is incompletely understood. The atmosphere within the pit contains high concentrations of carbon monoxide, sulfur and other mephitic compounds.
+
+The pit, or an extradimensional space accessible through the pit, contains an indeterminate number of hostile entities, the escape of which is arrested by means of the containment regimen. Under ordinary conditions, these entities are believed to be incorporeal. Due to the efficacy of the containment protocol, SCP-1844 has been classified as a Type-II theoeschatologic hazard.
+
+There is evidence that the existence of SCP-1844 has been known for an extensive period of time prior to the commencement of Foundation control over the site, and that some form of containment protocol (albeit more primitive and neither as rigorous nor as effective as that maintained by the Foundation) has been undertaken on a more or less continuous basis for at least thirty-six hundred years. Partial documentation and containment log follows:
+
+Date or reference
+
+Remarks
+
+c. 1600 BCE
+
+Approx. date of earliest written records referencing SCP-1844 site. Records consist of papyrus scrolls dating from the reign of Senusret II (Egyptian pharaoh, Dyn. XII) chronicling an Egyptian military campaign into the Levant. Records indicate that the Egyptian army was directed to leave unmolested a "temple cult" headquartered at a site conforming to descriptions of SCP-1844.
+
+c. 70 CE
+
+Reference to SCP-1844 in correspondence from General Vespasian to the commander of the Roman Legio X Fretensis during the First Jewish War. Vespasian commands the armies not to interfere with ritual activities at the site.
+
+c. 636 CE
+
+Correspondence of Khalid ibn al-Walid to Umar, the Rashidun Caliph, describes SCP-1844 and requests that Islamic religious authorities inspect the site in order that the activities conducted there be augmented. Letters refer to a "circle of pious Christians and Jews who stand in a ring around the smoking hole and pray, so that the "Whisperer of Evil" (شيطان) shall not come forth from it."
+
+c. 1208 CE
+
+Journals of Geoffrey de Villehardouin, chronicler of the Fourth Crusade, describe what amounts to a containment breach at SCP-1844. The account refers to a Benedictine monastery and a Muslim madrassa that had been constructed next to the pit, and that a "wind of fire" erupted from the pit, destroying both buildings and preventing the monks and Muslim clerics from carrying out their normal containment activities for a period of several days, during which entities described as "demons" or "devils" are described as roaming freely. It should be noted that Geoffrey is not believed to have visited the site, but compiled his account from second-hand sources.
+
+1529 CE
+
+Letter from Pope Leo X to Sultan Suleiman I refers to SCP-1844 and pledges that despite the ongoing war between the Ottoman Empire and various Catholic powers, the jointly-conducted activities at the SCP-1844 site would continue.
+
+1799 CE
+
+Napoleon Bonaparte visits site during French invasion of the Levant. Napoleon dispatches his chief engineer, Col. Picard de Phélippeaux, to study the site and to apply the principles of "natural philosophy" to augment traditional containment procedures.
+
+1873 CE
+
+Commencement of site control by Foundation's predecessor entity. Rigorous recordkeeping of site activities begins at this date.
+
+1906 CE
+
+Site Director Casimir commences program of controlled study of revisions to containment protocol, measuring efficacy of various procedures.
+
+1921 CE
+
+Formal organization of TF Omega-144's predecessor entity. Efficacy of a task force member's containment protocol is shown to vary as a function of the member's distance from the bottom of the pit.
+
+1923 CE
+
+Containment breach of SCP-1844 for twenty-eight minutes. Entity resembling a malformed juvenile specimen of Ovis aries with supernumerary horns and eyes emerges from pit and attacks containment personnel before being destroyed.
+
+1932 CE
+
+Cumulative improvements to containment protocol lead to 20% decrease in seismic activity and 15% reduction in incidence of psychological damage attributable to SCP-1844.
+
+1935 CE
+
+Introduction of heat-shielded containment apparatus permitting containment protocol to be performed within SCP-1844 rather than merely around its rim. Containment efficacy improves by 30%.
+
+1938 CE
+
+Introduction of regular rotation system among containment personnel reduces suicide rate among task force members by 6%.
+
+1939 CE
+
+Containment breach of SCP-1844 for seventy-two minutes. Entity resembling an emaciated humanoid mounted on an albino specimen of Equus ferus caballus emerges from pit and escapes.
+
+1952 CE
+
+Introduction of closed capsule containment module improves containment efficacy by 20%. Containment personnel report that the closed module system, which permits containment personnel to maintain proximity to SCP-1844 without establishing a line-of-sight, reduces distraction due to the "blasphemous images" commonly associated with SCP-1844's interior, although containment personnel continue to complain of nausea, vertigo and vivid, persistent hallucinations during and after duty shifts.
+
+1955 CE
+
+Containment breach leads to loss of capsule and its personnel. Secondary containment measure prevents several entities from escaping from SCP-1844's interior.
+
+1964 CE
+
+Introduction of electronic noise-reduction system within capsules is reported to further reduce distraction of containment personnel, and results in 15% reduction in suicide rate among containment personnel.
+
+1978 CE
+
+Irregularity in containment protocol performance results in damage to occupied capsule. Omega-144 task force member JPI-265 (HH A. Luciani) is injured, retires from service and returns to Rome.
+
+1986 CE
+
+A further 30% cumulative improvement in containment efficacy is attributed to advances in heat shielding, improved screening of suitability of task force members, and ergonomic improvements to the containment protocols practiced by particular task force members.
+
+1994 CE
+
+O5 approves re-designation of SCP-1844's object class to "Euclid".
+
+2011 CE
+
+Site Director Zafarul congratulates containment team on 200 consecutive days without a Class-C incident or a fatality among on-station task force members.
+
+Containment Memoranda
+
+– hide block
+
+To: Hector Gomez, Assistant Site Director
+
+From: Yusuf Zafarul, SD
+
+Re: SCP-1844 Containment
+
+Hector- I got your memo, and I don't understand why you would advocate scaling back the containment protocol. We've got them bottled up and people aren't getting burned or taken anymore. I would have thought that you- a Jesuit priest, of all people- would be happy about how successful the improved protocol has been. You seem to have forgotten what the "C" in "SCP" stands for.
+
+Yusuf
+
+To: Yusuf Zafarul; Director (Site 308)
+
+From: Hector Gomez, S.J., Ass't. Site Director
+
+Re: SCP-1844 Containment
+
+Yusuf- let me try this again. I've been keeping an eye on the instrument readouts for SCP-1844 for the last couple of weeks, and I am really worried that the contrathaumaturgic pressure that's building up under the bottom of the pit is getting dangerously high. All I'm saying is that before we keep patting ourselves on the back for attaining 99.6% containment efficacy over the last two months, we ought to think about the possible unintended consequences of screwing the lid on too tightly. By analogy, a boiler explosion is a hell of a bigger problem than a steam leak.
+
+Yours in Christ,
+
+Hector
+
+Footnotes
+
+1. The Foundation's computus office determines these instructions for each rotation based on data provided by a consortium of cooperating outside source, which include the Institute of Umm al-Qura Observation, the Vatican Observatory, the Department of Physics at Brigham Young University and the Scientific Office of the Bahá'í Universal House of Justice.

@@ -1,0 +1,45 @@
+Item #: SCP-1511
+
+Object Class: Euclid
+
+Special Containment Procedures: Monitoring outposts have been established at SCP-1511-L1 and SCP-1511-L2. Due to the length of SCP-1511-L and its location in scarcely populated and difficult-to-access areas, monitoring of the entire area of the route is not currently performed.
+
+All newly manifested SCP-1511 objects and SCP-1511-A entities are to be labeled with corresponding sub-designation numbers. SCP-1511 are to be outfitted with a GPS transmitter and automated audio recording equipment. Upon approaching SCP-1511-L2, the equipment are to be removed, and the collected data to be transmitted to Site-197 Digital Archive.
+
+Description: Instances of SCP-1511 are irregularly-shaped polyhedral crystalline objects of unknown origin. The objects range from 4.2 to 5.7 meters in height. SCP-1511 are capable of levitation and self-directed movement. Each instance of SCP-1511 is orbited by a number of humanoid statues, designated SCP-1511-A.
+
+SCP-1511 travel between two locations by a fixed route. The route has been designated SCP-1511-L, with the entry and exit points designated SCP-1511-L1 and SCP-1511-L2 respectively. From 3 to 8 times a year, a single SCP-1511 instance will materialize at SCP-1511-L1 and proceed to travel towards SCP-1511-L2. Upon reaching SCP-1511-L2 the object will disappear. While SCP-1511-L1 and SCP-1511-L2 are approximately 1100 km apart, SCP-1511-L deviates heavily to the north-east and has a total length of 1630 km. Due to the differences in speed between SCP-1511 instances, the time taken to reach SCP-1511-L2 can vary from 3 weeks to up to 4 months. Since 1934, a total of 329 objects have been recorded. None of the SCP-1511 instances that reached SCP-1511-L2 have been encountered again.
+
+On rare occasions, an instance of SCP-1511 may cease movement and descend to the ground. Immediately afterwards all instances of SCP-1511-A accompanying the object will animate. SCP-1511-A will engage in what is believed to be a form of maintenance activity around the inert SCP-1511 instance. During that time, sounds have been recorded emanating from SCP-1511-A. These vocalizations typically describe an afterlife setting unique to each SCP-1511-A instance, with the emphasis on events that will soon take place or will continue to occur indefinitely. This behavior will continue for up to 40 hours, after which time SCP-1511 will resume its normal activity.
+
+Addendum 1511-1: Phrases produced by SCP-1511-A. See Document 1511-TE09 for a complete list.
+
+The ocean is so beautiful. I could never have imagined this shade of water before. Wait with me, the Sun will rise soon.
+
+Hi Dad. I missed you so much. I have so much to tell you. We have all the time we need now.
+
+I have been faithful and righteous. Soon the Lord will embrace me. I can see the gates of Heaven on the horizon.
+
+I am so tired. It is all behind me now. I can finally rest.
+
+This place, strange and beautiful, I haven't seen it before. So much to study and explore. I know that something new will always be just ahead.
+
+Addendum 1511-2: On 2013-02-20, the GPS signal from SCP-1511-327 was lost. Examination of the object's last known position revealed numerous remains of the SCP-1511-A entities; flat dissected edges, partially melted areas, and crumbling of the material were observed on different segments.
+
+SCP-1511-327 was found at the bottom of a nearby gorge, severely damaged. The object had apparently shattered on the impact after being dragged over a cliff. At the time of discovery, SCP-1511-327 was continuously producing identical glass tablets, with new tablet being created every two hours. After producing a total of 31 tablets, the object ceased all activity. The following message was engraved on the surface of each tablet:
+
+VESSEL KL19-6174ζ3-IPTS DANCE_OF_TEARS
+
+MISSION: PRISONER TRANSFER
+
+VESSEL STATUS: EXTENSIVE STRUCTURAL MALFUNCTION
+
+EREBOS LEVEL ACTIVE THREAT DETECTED: PRISONER RA3071-BLUE
+
+PRISONER STATUS RA3071: VIRTUAL BLISS SIMULATION REJECTED
+
+INHIBITOR STRUCTURE UNSTABLE
+
+DECRYSTALLIZATION IN 0.019 LSC
+
+SCP-1511-327-A19 was not found among the remains recovered from the scene. The location and physical state of the entity are currently unknown.

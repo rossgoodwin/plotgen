@@ -1,0 +1,25 @@
+Single unit of SCP-236, held in a liquid solution during testing.
+
+Item #: SCP-236
+
+Object Class: Keter
+
+Special Containment Procedures: Any and all materials leaving the containment area are to be scanned for any contamination by SCP-236. Any objects showing contamination by SCP-236 are to be immediately returned to the containment area and cleared of contamination. Personnel leaving the containment area must submit to a full physical examination and X-ray.
+
+No objects are to be left in the containment area without personnel present. Any objects appearing in the containment area are not to be touched until cleared by supervising personnel. Blast doors are to be opened only to allow personnel in and out of the containment area.
+
+No sudden movement or aggressive action of any kind is allowed in the containment area. Containment area is to be kept as dark as possible, with night-vision goggles recommended for all interacting personnel. Should traditional lighting be necessary, lights must be turned on remotely and a waiting period of one hour is to be observed before entry will be allowed.
+
+Description: SCP-236 appears to be a swarm of near-microscopic crabs. Individuals match no known form of crustacean, and elements of their physiology appear to point to an artificial origin (See Document █████████████████). SCP-236 appears to operate under a form of collective intelligence or “hive mind”. This intelligence appears to grow when individual SCP-236 are in close proximity, and dissipate when they are divided.
+
+Large swarms appear to exhibit “predatory” intelligence, and become significantly more aggressive than individuals. Swarms show aptitude with problem solving, encircling tactics, and stealth. In addition, swarms appear able to take on the physical aspects and appearance of inanimate objects, such as doors, chairs, or even complex patterns such as those found in paintings, for extended periods of time. This mimicry is near perfect under casual observation, and requires detailed observation to detect. Swarms will sometimes even destroy existing objects and replace them in what appears to be an attempt at better disguise.
+
+SCP-236 can create additional individuals from any organic matter. This includes wood, cotton, or other materials derived from an organic source. SCP-236 units appear to remove small portions of matter with their pincers, consume it, then lay small spherical “eggs”, which hatch in to new members after ten minutes. Juvenile SCP-236 look identical to adults but are smaller in size, and lack the chemicals used in the defensive response. Juveniles reach full adult size after six hours.
+
+SCP-236 individuals appear to fear light, rapid movement, or loud noises. This fear is reduced in proportion to the number of units in a swarm, but even large collectives can be startled by a sudden sound or bright light. SCP-236 that are startled while mimicking an object will rapidly break apart into individual units, which will then scatter and hide. Swarm regrouping can take up to 24 hours.
+
+When cornered, or unable to escape quickly, SCP-236 units will initiate their “defensive response”. This entails a unit raising its pincers, and then detonating with an explosion equivalent to 9.07 kg (20 lb) of C-4 explosive. Initial research suggests that this is the result of an internal chemical reaction involving the mixing of three normally inert chemicals. Collection of these chemicals has been problematic due to the relatively minute size of the storage chambers, and the likelihood of startling SCP-236 during the procedure.
+
+SCP-236 will use humans or any other living things as a resource, provided the swarm is of a sufficient size. Moderate size swarms can convert a whole human being in less than five minutes. Individual SCP-236 have also been observed entering the human body, typically while the subject is asleep, and begin to consume it from the inside out. This behavior, coupled with mimicry and the defensive response, make SCP-236 very difficult to detect and contain effectively.
+
+Addendum: While SCP-236 has not been observed to mimic organic life, the possibility exists for SCP-236 to develop this behavior. Notably, during testing on [DATA EXPUNGED]. Such formations are to be immediately reported, and testing area cleared immediately.

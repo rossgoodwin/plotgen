@@ -1,0 +1,41 @@
+Fractal Image Similar to SCP-259
+
+Item #: SCP-259
+
+Object Class: Keter
+
+Special Containment Procedures: A single copy of a computer program capable of producing SCP-259 is to be kept on compact disc in the High Security Containment Vault at Site-25. As discs containing SCP-259 are typically destroyed during experimentation, additional copies may be made for approved experiments.
+
+Mobile Task Force Gamma-10 remains on standby to collect and neutralize any copies of SCP-259 found outside the Foundation. Unauthorized media containing SCP-259 or the means to produce it are to be destroyed immediately.
+
+Description: SCP-259 is a fractal image known as "The Weisenglass Spiral". A completed rendering of SCP-259 acts as an Einstein-Rosen Bridge, opening a portal to an unknown location. The locations accessed appear to vary depending on the size and orientation of the rendered image, and have included:
+
+— An area filled with superheated plasma (estimated temperature 20,000,000 Kelvin). See Incident K-259-1.
+
+— An area populated with venomous cockroaches (species unknown; weight approximately 2 kg). See Incident K-259-2.
+
+— Deep space, estimated to be [REDACTED] km from a black hole. See Experiment X-259-2.
+
+— An area possibly corresponding to the dimension opened by SCP-███. See Experiment X-259-3.
+
+Foundation mathematicians are working on determining why this specific fractal has anomalous properties, and whether other similarly anomalous images exist. By O5 order, any image rendering related to SCP-259 experimentation must take place at least ████ m from inhabited areas.
+
+After Incident K-259-1, 41 copies of a CD capable of generating SCP-259 were confiscated from ██████.com, and a public warning issued that the CD, labeled “100 Fun Fractals You Can Print,” contains a malicious virus that will destroy the user’s computer. ██████.com claimed to have obtained the disks from a reseller's bankruptcy sale, and the Foundation was unable to trace the original producer. Whether SCP-259 was released accidentally, or distributed with knowledge of its anomalous properties, is under investigation.
+
+Incident K-259-2 makes it clear that SCP-259 is being used with malicious intent. The Foundation is working with global anti-terrorism forces to retrieve SCP-259 from the organization responsible for this incident.
+
+Addendum:
+
+Incident K-259-1 – A residence hall at ███████ University was destroyed by explosion/fire on █/█/20██. Authorities were mystified that conditions at the center of the incident resembled the detonation of a small fusion-based device. Graduate student █████ ███████ was completely vaporized, as were ██ others, including several who left shadows imprinted on the nearest standing walls. Questioning of survivors indicated that ███████ had gone to his room with a CD he had recently ordered from ██████.com, “to play with some fractals,” leading to the eventual discovery of a program capable of rendering SCP-259 for sale on the site.
+
+Incident K-259-2 – █/██/201█: Image of SCP-259, approximately 10 m x 10 m in size, appears on Diamond Vision screen during soccer game at ███████ Stadium, outside ██████████, ███████. Approximately 60,000 people in attendance. Survivors report a large circular anomaly appeared in front of the image, and venomous cockroaches "poured out" from it, attacking anyone they could reach. Approximately █████ casualties. Considered a self-containing incident as the insects are unable to survive for more than two hours in Earth's atmosphere.
+
+The cockroaches average 2 kg in weight, and correspond to no known terrestrial species; several live specimens were collected by Foundation MTFs and classified as SCP-████. They are currently held at Site-██ in a 35% oxygen environment. The ███████ ████ organization later claimed responsibility for the image. Mass application of amnesiacs necessary to partially suppress public knowledge of this event.
+
+Experiment X-259-1 — A battery-powered computer was set up in an uninhabited area of the ██████ Desert to render an image of The Weisenglass Spiral, with remote cameras and sensors set up to monitor the results. Foundation personnel observed at a safe distance. Upon completion of the image, a circular area appeared in front of the computer, approximately 1 m in diameter, emitting a blinding white light followed by a ball of superheated plasma. The plasma dissipated after expanding to an area of ███ cubic meters. Given the interference provided by the building in Incident K-259-1, this is consistent with the damage observed.
+
+Dr. ███████ considers it interesting that SCP-259 took effect without direct human observation.
+
+Experiment X-259-2 — Experiment X-259-1 re-created, except the size of the rendered fractal was doubled. Upon completion of image, a black portal approximately 3 m in diameter appeared, and all matter within ███ m was pulled into it. This is consistent with an otherwise unexplained incident in ███████, ████, where an apartment building was described by observers as imploding and disappearing, leaving a ███ m deep hole.
+
+Experiment X-259-3 – Generation of an inverted version of SCP-259. [DATA EXPUNGED] and area quarantined pending containment of multiple examples of SCP-███.

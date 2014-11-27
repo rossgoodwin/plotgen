@@ -1,0 +1,65 @@
+SCP-1183 after manifesting bison skulls on ██/██/18██.
+
+Item #: SCP-1183
+
+Object Class: Euclid
+
+Special Containment Procedures: The airspace in a 25km radius around SCP-1183 is designated a no-fly zone. Any unauthorized aircraft or seagoing vessels entering this radius are to be informed that they are entering a military exclusion zone and rerouted. Aircraft or vessels which do not heed this warning are to be intercepted and detained.
+
+The affected area of SCP-1183 itself is not to be entered within two hours of its expected manifestation events. Observers are to promptly report each new manifestation. If manifested objects present a significant threat to health or safety and cannot be contained, site personnel are to evacuate to sea until the next manifestation occurs. Personnel are not to consume food or beverages manifested by SCP-1183.
+
+Description: SCP-1183 is a remote island in the south Pacific, 18km long by 8km wide, located at coordinates ██°██.█′S ███°██.█′W. Every 126 hours and 14 minutes, SCP-1183 manifests a pile of objects covering up to 85% of its surface. The objects appear instantaneously and silently, and all objects remaining from the previous manifestation simultaneously vanish. The area of SCP-1183 covered by the objects changes from manifestation to manifestation, and freshly-uncovered areas possess low vegetation consistent with local ecology.
+
+The manifested objects always belong to a single class. The breadth of these classes varies somewhat, such as the ██/██/████ manifestation of laptop computers of all makes and models, and the subsequent ██/██/████ manifestation of Apple MacBook Pro laptop computers, but in no case has the class been so narrow that it was difficult to determine its identity. For small classes with a few well-known individual instances, the manifested objects have always been observed to include every instance of that object class which is known to have existed. For more numerous objects, it is impossible to determine exact numbers, but estimates of the number of objects on SCP-1183 generally agree closely with estimates of the number of such objects to have ever existed.
+
+Of the ████ manifestations recorded by the Foundation to date, 76% have been man-made objects, and 16% have consisted of human or animal body parts. Objects manifested by SCP-1183 appear normal in every way while they remain, and man-made objects appear in like-new, ready-to-use condition. This is true even for objects known to have been completely destroyed or, in the case of spacecraft, sent elsewhere in the solar system. No living organisms have been observed to manifest.
+
+Selected Observations:
+
+Date: ██/██/████
+
+Objects Observed: Bibles
+
+Notes: Due to the wide variation in sizes of individual copies, estimates of the number of Bibles present ranged from 3 billion to 6 billion. The pile was searched for early copies of potential historical significance, but given the number of copies present an exhaustive search was not possible. The earliest copy located dated to 1607.
+
+Date: ██/██/████
+
+Objects Observed: Coca-Cola brand soft drink cans
+
+Notes: An estimated 1 billion cans of Coca-Cola brand soft drink, in a large conical pile with a maximum height of approximately 60m. Laboratory mice given only this soda to drink showed no ill effects until the next manifestation, after which they quickly expired. Based on this result, eating or drinking materials manifested by SCP-1183 is prohibited.
+
+Date: ██/██/████
+
+Objects Observed: Saturn V launch vehicles
+
+Notes: All 15 flight-ready Saturn V launch vehicles observed lying side by side on the ground, fully assembled and fueled. The vehicles were extremely cold due to cryogenic fuel, and SCP-1183 was evacuated after initial investigation due to concern of a potential explosion.
+
+Date: ██/██/████
+
+Objects Observed: Human left ears
+
+Notes: An estimated 1,200,000kg of left ears are present, representing approximately 60 billion individuals and covering 30% of the island to a maximum depth of 12m. Ears were initially warm and showed no sign of decay, but decay progressed normally until their disappearance. DNA analysis found normal human DNA representing individuals of a variety of races.
+
+Date: ██/██/████
+
+Objects Observed: Unknown
+
+Notes: The previous manifestation disappeared as expected, but no new manifestation was discovered. It has been suggested that a manifestation may have in fact occurred, but the object or objects were small enough or inconspicuous enough to have escaped notice.
+
+Date: ██/██/████
+
+Objects Observed: British castles
+
+Notes: Every known British castle was represented, along with five unknown castles which may represent previously-destroyed instances. The castles were arranged haphazardly within the affected area, but were situated upright and on the ground. Furnishings were not present.
+
+Date: ██/██/████
+
+Objects Observed: Croissants
+
+Notes: A pile of croissants 80m high at its highest point, covering 6 square kilometers of SCP-1183. Estimating the number of croissants was complicated by the presumed heavy compression of the lower layers by the weight of the upper layers, but the average of the estimates was 126 billion croissants.
+
+Date: ██/██/████
+
+Objects Observed: SCP objects possessing or relating to [REDACTED] abilities
+
+Notes: Eighteen seemingly-unrelated objects appeared. Several of the objects were immediately identified as SCP objects, all related to [REDACTED], and SCP-1183 was promptly evacuated. Due to the danger involved, the manifested objects were not tested to see if they retained the anomalous abilities of the originals. Using photographs of the objects taken prior to evacuation, seven of the objects were matched against SCP objects in Foundation custody. The remaining eleven objects may represent SCP objects to which SCP-1183's researchers do not have clearance to access, or they may represent objects which are not currently in Foundation custody. As the potential for eleven uncontained objects possessing [REDACTED] abilities represents a significant threat, photographs of these objects have been forwarded to a Level 4 review team for further evaluation.

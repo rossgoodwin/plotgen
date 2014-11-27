@@ -1,0 +1,67 @@
+SCP-2004
+
+Item #: SCP-2004
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2004 is contained at Armed Reliquary Containment Area-02. Standard memetic countermeasures have proven insufficient in the past, therefore SCP-2004 is to be handled utilizing Containment Procedure-2004 "Blind Lead the Blind." See ARC A-02 Clearance-04 Procedures manual for more information. Any individuals affected by SCP-2004 (hereby dubbed SCP-2004-1) are to be handled in the same manner.
+
+Description: SCP-2004 is a set of five hand-held personal data assistants of unknown, possibly extraterrestrial origin. Since acquisition, all but one have become inert and no longer function. SCP-2004 is comprised of an unknown material whose molecular structure matches nothing on the Foundation's expanded periodic table of elements: flexible like plastic yet resistant to extreme temperatures and physical damage. Each device is transparent green with smooth edges, with no apparent power source or input/output ports. SCP-2004 activates when it makes physical contact with an active bioelectric field, projecting a three-dimensional holographic document.
+
+Non-memetic Sample of L-2004. Symbol has been identified as a water molecule.
+
+The image projected from SCP-2004 is black text on a white background, written in a pictographic language (L-2004). It appears to be based on stylized astronomical constellations and molecular chemical bonds, using patterns of dots, circles and slashes to create increasingly complex sentence structures. Reading or hearing L-2004 produces a memetic anomaly, making translation efforts extremely hazardous. As such, only four percent of the document has been translated (see below).
+
+Early symptoms of L-2004's memetic infection are not immediate, and may progress for several days before being recognized. Affected subjects, SCP-2004-1, demonstrate increased anxiety and irritability, obsessive behavior, paranoia and hostility. Instances begin to lose their sense of self, or become convinced they are someone else, insisting that their previous life is a carefully designed falsehood. After a period of six to eight days, the language centers of SCP-2004-1's brain are re-programmed, with symptoms similar to agnosia and aphasia. They lose the ability to comprehend or understand any language, written or verbal, save for L-2004. By the end of the second stage they become fluent in both the written and verbal forms of L-2004, and have been observed conversing with other instances of SCP-2004-1.
+
+After fourteen days, affected subjects exhibit a complete shift in mental faculties and personality. Preliminary tests indicate an increase in cognitive function and heightened states of awareness and intelligence. Hostile to non-affected humans, they actively try to escape containment and work together to spread the anomaly, particularly to those that individual SCP-2004-1 instances once felt close to. They also demonstrate an unprecedented amount of technical skill. In at least three incidents, using otherwise mundane materials, separate instances of SCP-2004-1 have manufactured artifacts that are either anomalous, or so far beyond the Foundation's current scientific knowledge as to appear so.
+
+Artifact Number
+
+Designation
+
+Analysis
+
+I-001
+
+EMP Device
+
+SCP-2004-1-07 surreptitiously acquired a silver pocketwatch from Dr. T████ and modified it, using materials removed from a containment cell observation camera and the electronic lock keypad. When exposed to a strong magnetic field (such as that produced by an MRI), I-001 created an electromagnetic pulse. SCP-2004-1-07 attempted to escape in the ensuing confusion, and was fatally injured by security forces.
+
+I-002
+
+Energized Ion-Gas Weapon
+
+As part of Experiment T022, SCP-2004-1-15 was provided with a variety of nonspecific materials to test its technical abilities. After forty-five minutes of uninterrupted work, Level 4 Supervisors decided to halt the experiment and confiscated the device. When tested under safe conditions I-002 fired a 1-cm ball of ionized plasma, measured at 10,000 kelvin. The device developed a fatal heat build-up during testing, destroying its internal mechanisms.
+
+I-003
+
+Communications Device
+
+I-003 was constructed by several instances SCP-2004-1, building its components separately to avoid notice. The device pirated the intercom and internal data network systems of Area-02, introducing subliminal samples of L-2004 into the facility. Level 4 Supervisor Stephen Sinclair has been posthumously awarded the Foundation Medal of Valor for activating the facility's sarin gas countermeasures, destroying ███ instances of SCP-2004-1 who were attempting to utilize Keter-level SCP's also housed in Area-02.
+
+Currently there is no method of treating SCP-2004-1 once they have entered the second "aphasia" stage. Use of Class-A amnesiacs during the preliminary infection period (one to three days following exposure) has only had a 60% success rate in removing its effects. Infection is positive in 100% of exposed cases.
+
+A partial, non-memetic translation of SCP-2004's display is provided below.
+
+##### Class: Wise ##### is Invincible.
+
+#####: Species #####-001 is ##### be confined ##### homeworld. Any ##### of #####-001 are ##### be removed from ##### colonies ##### the ##### and returned ##### homeworld pending application of ##### Level 4 Indoctrination. Level 5 Indoctrinated are ##### be granted self-containment authority. Level 5 #####-001 ##### designated Secure ##### Foundation.
+
+#####: Species #####-001 is an adaptive ##### life-form known within the ##### as an #####-Level Threat. In no less than ##### instances, Species #####-001 has caused ##### spontaneous anomalous ##### breakdowns, leading ##### 15 class ##### extinction #####. It is the judgement of the ##### Committee, with the approval of the #####, that Species #####-001 be contained on ##### homeworld until such time that ##### processes have achieved ##### as described ##### the Articles of #####. Species #####-001 is ##### aggressive, hostile and ##### claim its #####, and the peoples throughout the ##### cannot be subjected to such a threat. Under no circumstances is Species #####-001 ##### be exposed ##### Language #####, which could result in a catastrophic Indoctrination failure and re-emergence of their ##### identity and anomalous #####.
+
++ O5 Security Clearance Required
+
+- Seal Addendum
+
+O5 Addendum: Some have questioned the necessity of "baiting the hook" this way, considering the potential consequences. I remind each of you that a catastrophic reshuffling of reality would occur if the gestalt "disbelieves" itself out of existence. Even a handful of Level 04's made aware, however indirectly, of L-2004 is enough to preserve it. The anomalous manifestations, these "monsters from the id," are the result, but as long as the Foundation stands resolute prospective losses remain within acceptable levels.
+
+The Gentlemen have expressed some concern, however. The growing amount of Keter-level manifestations is troubling. The indoctrinated may be subconsciously straining against the cage. All of us must redouble our efforts. Everything is at risk, but transcendence is the reward.
+
+Secure humanity.
+
+Contain the gestalt.
+
+Protect reality.
+
+We are so close.

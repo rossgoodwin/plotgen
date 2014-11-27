@@ -1,0 +1,29 @@
+Item #: SCP-1906
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1906 breaches containment whenever the current instance of SCP-1906-1 dies, and must be re-discovered; after its rediscovery, SCP-1906 is to be considered unsecured as long as the new instance of SCP-1906-1 has not been taken into custody. Only D-class personnel are to enter SCP-1906 until such time as the physical health of the new instance of SCP-1906-1 has been confirmed by Foundation veterinarians. Any civilians present within SCP-1906 at the time of its rediscovery are to be immediately evacuated with a situationally appropriate cover story.
+
+While SCP-1906 is unsecured, civilians are to be denied access to the library hosting SCP-1906 with a cover story of repair to infrastructure, and additional internal walls are to be constructed onsite to conceal the entry to SCP-1906; because long-term interdiction or institutional decommission of the library hosting SCP-1906 has been found to result in the death of SCP-1906-1, public use of the library is to resume as soon as possible. Foundation personnel are to be embedded among library employees for purposes of monitoring and management.
+
+SCP-1906-1 must never be brought closer than 500 km to the current location of SCP-1906. SCP-1906-1 is to be contained in standard domestic-animal facilities, and is to receive monthly veterinary examinations.
+
+Should an instance of SCP-1906-1 already be a domestic pet, or in some other respect be unavailable for acquisition by the Foundation via licit means, personnel are authorized to falsify the instance's death.
+
+Description: SCP-1906 is a room which manifests within a library somewhere in the world1, where it anomalously integrates itself into the library's architecture to function as an auxiliary reading room. As well, SCP-1906 is anomalously linked to a domestic dog (Canis lupus familiaris, henceforth SCP-1906-1), such that the environment outside SCP-1906's windows is not the environment outside the library into which SCP-1906 integrates itself, but rather the environment in which SCP-1906-1 can be found. No relationship between the location of SCP-1906 and the identity of SCP-1906-1 has yet been determined.
+
+SCP-1906 is 4 meters high, 6.5 meters wide, and 8 meters long, with an open doorway. It contains a varying amount (between 12 and 30 items) of non-anomalous library furniture2, as well as fluorescent lights and two non-functional electrical sockets. The wall opposite the doorway contains two floor-to-ceiling windows which are covered by thick red velour curtains. Although the windows cannot be opened, the curtains can be removed; when exposed, the left window shows SCP-1906-1's surroundings from a vantage point located approximately midway between SCP-1906-1's eyes, and the right window shows the same environment from a vantage point located approximately two-thirds of the way along the left side of SCP-1906-1's torso. The images visible through the windows are at a scale consistent with a "dog's-eye view". Veterinary examination of instances of SCP-1906-1 reveals no anomalies, even when Foundation personnel are clearly visible through the windows. Sound in SCP-1906-1's environment is audible through the windows, but severely muffled; laser interferometry microphones can be used to more clearly resolve the sounds and thereby facilitate identifying and locating SCP-1906-1.
+
+When SCP-1906-1 dies, SCP-1906 vanishes, along with its contents and occupants; consequently, it is not yet known whether SCP-1906 manifests at its next site instantly, or after a delay. No personnel lost within SCP-1906 have ever been recovered; all such personnel have been administratively designated as 'killed in action'. On ██/██/████, the instance of SCP-1906-1 was found to be suffering from terminal cardiac myxoma; before the instance was euthanized, surveillance and locator systems were installed within SCP-1906. All signals were interrupted at the moment of SCP-1906-1's death; when SCP-1906 was rediscovered 103 days later, none of the Foundation-planted systems were present.
+
+If SCP-1906-1 is brought closer than approximately 450 km to SCP-1906, it immediately begins convulsing and vomiting, and requires immediate veterinary attention. Simultaneous with the onset of these symptoms, the electrical systems in the library hosting SCP-1906 undergo catastrophic failure; it is to be noted that under these circumstances, the fluorescent lighting within SCP-1906 continues to function normally.
+
+Breeding experiments with instances of SCP-1906-1 have thus far failed to produce offspring.
+
+Acquisition Log: On January 30, 1985, SCP-1906 manifested within the Site-19 private research library, and was immediately detected as anomalous.
+
+Footnotes
+
+1. Since coming to the attention of the Foundation in 1985, SCP-1906 has never manifested within a library whose collection was less than approximately 700,000 documents; see document 1906-H52 for detailed statistical analysis.
+
+2. Desks, tables, chairs, planter containing a Ficus benjamina tree, and wastebasket; see document 1906-KB-12 for detailed statistical analysis.

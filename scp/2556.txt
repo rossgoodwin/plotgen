@@ -1,0 +1,67 @@
+SCP-2556, photographed on handover to Foundation containment in 1956.
+
+Item #: SCP-2556
+
+Object Class: Safe
+
+Special Containment Procedures: An international no-fly zone has been approved by the UN Security Council and NATO in a 200 square nautical mile1 radius surrounding SCP-2556. A racon buoy, additionally fitted with a Geiger counter, has been stationed directly beneath SCP-2556, transmitting to S.C.P.F. Favonius. Any significant change in SCP-2556’s position or radiation levels will automatically report a Burning Arrow-class containment event to Foundation Atlantic Command. S.C.P.F. Favonius will scramble armed fighters in the event of any detected incursion into the no-fly zone.
+
++ Show prior containment procedure addendum stricken 2003-09-01
+
+- Hide prior containment procedure addendum stricken 2003-09-01
+
+Foundation HH-60H helicopters based on the S.C.P.F. Favonius will rendezvous with SCP-2556 monthly to deliver 1 month of food rations, requested living supplies, reading material and vinyl records approved by the Foundation Ethics Subcommittee on Human Containment to Captain Honeycutt and 2nd Lieutenant Islowski. Owing to 43 years of consistent cooperation in containment procedures, Ilowski and Honeycutt are allowed daily radio conversations with both S.C.P.F. Favonius staff2 and, on request, radio conversations with Foundation psychologists.
+
+Description: SCP-2556 is a Boeing B-47 Stratojet, constructed in 1953, which has been suspended in midair over the Atlantic Ocean at ██° ██′ ██″ N, █° ██′ ██″ W, approximately ███ nautical miles west of Essaouira, Morocco, since 1956. SCP-2556 remains fixed in a geosynchronous position, approximately 4,300 meters above the ocean surface. No efforts to influence SCP-2556’s position have thus far been successful, and experimentation as such has been suspended (with two exceptions) since 1988. SCP-2556’s interior cabin is highly irradiated, with all surfaces within giving out approximately 500 mSv of ionizing radiation per hour.3 Further scientific details on the nature and theorized sources of SCP-2556’s radiation are available to personnel with appropriate security clearance at ⦿/Procedures/2556/addendum1.ftml.
+
+Recovery: SCP-2556 was a United States Air Force plane which departed from Eglin Air Force Base, Fla on ██ █████ 1956, on a non-stop flight to ███ █████ Air Force Base, Morocco. Following its failure to respond to communication from a tanker scheduled for midair refueling, SCP-2556 was declared missing and USAF began an immediate search. When SCP-2556 was discovered immobile in midair by a search party, USAF informed the Global Occult Coalition (GOC), who established initial containment. After determining that destruction of the object was inadvisable, if not impossible, the GOC transferred containment responsibility to the Foundation.4 SCP-2556 (and formerly SCP-2556-1/2) have remained in Foundation containment since.
+
+Crew of SCP-2556 before takeoff. From left to right: Captain Roger Honeycutt, 2nd Lieutenant James Ilowski, Captain Rodney Awen.
+
+Crew and Incident 2556-Aleph: On takeoff from Eglin Air Force Base, SCP-2556 was crewed by three members of the US Air Force:
+
+Captain Roger Honeycutt (SCP-2556-1) b. 1932, d. 2003 — Original pilot of SCP-2556, survived Incident 2556-Aleph. Contained in SCP-2556 until his death.
+
+2nd Lieutenant James Ilowski (SCP-2556-2) b. 1934, d. 2003 — Original crew of SCP-2556, survived Incident 2556-Aleph. Contained in SCP-2556 until his death.
+
+Captain Rodney Awen (SCP-2556-3) b. 1930, missing since 1956, presumed dead — Original co-pilot of SCP-2556. Disappeared during Incident 2556-Aleph in 1956, missing since.
+
+Captain Honeycutt and 2nd Lieutenant Ilowski displayed complete resistance to the effects of the irradiated interior of SCP-2556, but suffered effects of acute radiation poisoning when not exposed to ionizing radiation, as demonstrated on one GOC and two Foundation attempts at removing them from SCP-2556 during their 43-year containment. As a result, containment policies were designed to provide an acceptable living environment on SCP-2556 for Honeycutt and Ilowski, with furniture, entertainment and other living essentials delivered monthly via helicopter to their location.
+
+Captain Rodney Awen disappeared along with the two cases of nuclear weapons material onboard SCP-2556 during Incident 2556-Aleph, at which point SCP-2556 was suspended in midair and the object’s interior cabin became irradiated. US Air Force investigations into the event revealed written communications between Captain Awen and leadership of the Movimiento para la Liberación del Sahara, a Moroccan resistance group desiring independence for the Western Sahara region, which would later form the Polisario Front. Coded portions of the letters have yet to be decrypted, but current leading theories indicate that Captain Awen intentionally initiated Incident 2556-Aleph in an attempt to acquire the nuclear material on board SCP-2556 for the Movement.
+
+Captain Honeycutt died of inoperable brain cancer (believed to be caused by his exposure to radiation poisoning-like effects during rescue attempts) in 2003, at the age of 71. 2nd Lieutenant Ilowski, himself showing symptoms of cancer, requested assisted suicide from the Foundation Ethics Committee following Honeycutt’s death.
+
+Excerpt from Interview 2556-912, Aug 26 2003
+
+Participating: 2nd Lieutenant James Ilowski (SCP-2556-2, via radio), Dr. Elaine Corden (Foundation psychologist)
+
+Corden: Understood. We will forward your request for standard assisted suicide procedures to the Ethics Subcommittee with a recommendation for approval.
+
+Ilowski: Thank you, Dr. Corden.
+
+Corden: Do you have any further statements for the committee to consider?
+
+Ilowski: Not much. This whole thing was one hell of a trip, but I feel lucky through it all, you know?
+
+Corden: Why is that, do you think?
+
+Ilowski: Most people don’t spend 40 years on a plane. But, you know what? Most people don’t get to spend nearly as long with the person they love. I miss him up here, Dr. Corden.
+
+Corden: We miss him down here, too, James.
+
+Ilowski: That’s all, then. God bless.
+
+2nd Lieutenant Ilowski’s request for assisted suicide was approved by the Subcommittee, and he died one week later. His and Captain Honeycutt’s remains showed no anomalous effects besides extensive irradiation commensurate with the time spent on the interior of SCP-2556.
+
+As per their request, Captain Honeycutt and 2nd Lieutenant Ilowski are buried beside one another in specially designed radiation-resistant coffins in a Foundation-controlled area in rural ███████. Their graves are unmarked. Honeycutt and Ilowski were both given posthumous commendation by Foundation International Command for their over 40 years of cooperation in the containment of SCP-2556.
+
+Footnotes
+
+1. 686 sq km. The 2002 Foundation Style Guide Addendum recommends the use of nautical miles for all figures involving naval or air force assets, in accordance with standards of the International Bureau of Weights and Measures.
+
+2. Conversations must follow OPSEC Standard-21 (“U.S. Military”).
+
+3. This is enough to cause an increase in cancer rates in approximately 15 minutes and symptoms of acute radiation poisoning in approximately 45. For this reason, human incursions to the interior cabin of SCP-2556 are restricted to 10 minutes or less per person per year, per Foundation Ethics Subcommittee on Occupational Safety rulings.
+
+4. Alsace, Lorenzo, et al., “Record of Inter-Organizational Negotiations, 1956 Vol. II” Minutes: An SCP Foundation Journal (1956).

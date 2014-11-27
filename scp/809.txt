@@ -1,0 +1,25 @@
+Item #: SCP-809
+
+Object Class: Safe
+
+Containment Procedures: SCP-809 is to be kept in a secure storage locker in Site 19. No additional security beyond a standard keypad lock is necessary for containment. A room outfitted with monitoring equipment and four-point restraints is recommended for testing on unwilling subjects. As of ██/██/20██, please contact Agent ██████ to confirm availability of SCP-809.
+
+Description: SCP-809 is a heavily stained and worn pair of leather boots, designated SCP-809-1 and SCP-809-2 for the left and right boot respectively. Forensic analysis of the boots confirms that the stains are composed of clay-rich soil and human blood. The design of SCP-809 is consistent with those of the boots worn by French infantry in the last years of World War One.
+
+SCP-809 was discovered by Foundation personnel in the attic of an abandoned building in █████, France. Investigation confirms that the building was used as a field hospital from 1915 to 1917.
+
+SCP-809 is activated by a subject donning both boots and closing his or her eyes for five to ten seconds. Upon activation, subjects experience a vision from the point of view as a French Corporal in battle. Drs. ████ and ███, both amateur military historians, have identified the setting as one of the innumerable trenches dug along the French/German border during the War. For the duration, the vision is perceived as reality.
+
+Note that the subject need not be willing or conscious - activation may be achieved under sedation, as long as the subject's eyes are closed.
+
+While minor details differ through separate tests, the general outline of each vision remains constant. Subjects relive the experience of a French infantryman being stabbed repeatedly through the abdomen by the bayonet of a German soldier, followed by approximately seven hours lying in the bottom of the trench before expiring from blood loss and trauma to various internal organs. Upon death in the vision, the subject will awaken. To an outside observer, the entire experience lasts only forty to sixty seconds.
+
+SCP-809 has been confirmed to induce severe post-traumatic stress disorder in 80% of subjects upon the first use, 95% of subjects upon a second use, and 100% of subjects after three or more uses. Data collection is ongoing, but preliminary results consistently indicate permanent insanity after five to seven uses.
+
+Class-A amnesiacs are available upon request to personnel with Level 1 security clearance or higher who have been volunteered for testing.
+
+Addendum: Those with Level 2 Security Clearance should see document #809-a
+
+Document #809-a:
+
+As of ██/██/20██, ownership of primary access privileges to SCP-809 has been given to Agent ██████ for use in interrogation of suspected GOC and ORIA agents. Repeated application of SCP-809 has proven to be both more cost-effective and less likely to result in accidental death than traditional methods of enhanced interrogation.

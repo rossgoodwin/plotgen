@@ -1,0 +1,65 @@
+SCP-1387 in flight prior to containment.
+
+Interior of SCP-1387.
+
+Item #: SCP-1387
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1387 is currently contained in Area-55. Primary containment consists of a 100m x 100m x 30m steel reinforced concrete hangar. SCP-1387 is to be restrained in this hangar with 30 high tension steel cables at all times, and is to be under constant surveillance. At least 10 armed guards are to be on standby in case of a breach. Once per month, SCP-1387's wings are to be clipped.
+
+A 15m high electric fence is to be maintained around the perimeter of primary containment hangar. Fence is to be charged to 5 kV at 1A. During maintenance, fence is to be powered down to 3 kV. All personnel involved in maintenance are to observe standard live-line working procedures.
+
+Description: SCP-1387 is a very large avian creature similar in appearance to a seagull, measuring approximately 20m in length, with a wingspan of approximately 25m. SCP-1387 lacks a heart, respiratory system, or digestive system, as its body cavity instead contains a space closely resembling the cabin of a passenger aircraft. This space is 2.5m x 15m in area, with exactly 40 seats and 20 windows (though none are visible from the outside). On the sides of SCP-1387's body are several rigid flaps of skin which act as entrance points to the interior. SCP-1387 does not require nutrition, but recovers from injury quite slowly, with major injuries rendering the entity comatose for weeks.
+
+Once every 3 to 5 months SCP-1387 will land at the nearest airport to its current location and initiate its primary effect. SCP-1387 will produce a perceptual effect, causing people to observe1 the creature as a regional passenger aircraft. During this state, a group of between twenty-three (23) and thirty-four (34) people in the airport (designated SCP-1387-1) will attempt to move towards SCP-1387 and enter its interior. Testing has shown that it is not possible to prevent instances of SCP-1387-1 from entering SCP-1387's interior, as instances have invariably been able to find other routes when one is blocked. Attempts to physically restrain instances have similarly failed, as instances have been able to escape any restraint.
+
+Once all instances of SCP-1387-1 have entered its interior, SCP-1387 will take off and fly until it next exhibits its primary effect. Thus far, no instances of SCP-1387-1 have been located after this event One (1) instance of SCP-1387-1 has been recovered, and is being held in Site-101. See Addenda.
+
+Current containment procedures have prevented SCP-1387 from manifesting any of its properties. However, the entity is extremely hostile and actively attempts to breach containment. As of ██/██/19██, SCP-1387 is classified as Euclid.
+
+Addendum 1: On ██/██/200█, an instance of SCP-1387-1 (identified as Johnathan ██████) was recovered in [REDACTED] and transported to Site-101. The following interview was conducted upon arrival.
+
+Interviewed: SCP-1387-1 (Johnathan ██████)
+
+Interviewer: Dr. O███
+
+<Begin Log>
+
+Dr. O███: Please state your name for the interview.
+
+SCP-1387-1: Johnathan ██████.
+
+Dr. O███: Do you remember anything about █████████ the ████ of 199█?
+
+SCP-1387-1: Yeah, it rings a bell. Um, I remember going to the airport. I was flying somewhere, I can't remember where exactly. I boarded the plane, and waited for, uh, the plane to takeoff.
+
+Dr. O███: Do you know what happened next?
+
+SCP-1387-1: (pauses) We took off. I was sitting next to this gal, I remember that she had these really beautiful green eyes. I looked out my window, and it was a really nice, sunny day outside. And then, I remember seeing a bird. There was a whole flock of them, flying in this blob shaped swarm. And I looked back at the cabin, there were the other passengers. And we were on the plane…
+
+(SCP-1387-1 appears very distressed.)
+
+Dr. O███: You're doing well. Can you remember past that?
+
+SCP-1387-1: One moment, I see her sitting next to me. And then, in the blink of an eye, she was gone. Not just her, but everyone on the plane, gone. And in their place, all I could see was birds. They filled the cabin, it was almost surreal. Then I couldn't see anything.
+
+Dr. O███: And after that?
+
+SCP-1387-1: Nothing. The next thing I knew, I was on a bench back at the airport. I thought it was all a dream. I was all dazed, and then I started walking. I started getting really dizzy, then eventually a guard found me. He looked at a me and asked if I was drunk. I told him I didn't know what was happening. I think I blacked out there. When I woke up, I was in a police station, and then you guys took me down here.
+
+Dr. O███: OK, I believe we are done here. Is there anything you'd like to add?
+
+SCP-1387-1: I think I saw her.
+
+Dr. O███: Who?
+
+SCP-1387-1: While I was walking down here, she flew by that window in the hall. She was beautiful, like a raven. I knew it was her, because of her eyes. I hope I can see her soon.
+
+<End Log>
+
+Addendum 2: On ██/██/200█, three months after coming into Foundation custody, the sole recovered instance of SCP-1387-1 was reported missing from his cell. A search of Site-101 found no trace of the subject.
+
+Footnotes
+
+1. This effect applies only to direct observation. Photographs and videos are unaffected.

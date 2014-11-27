@@ -1,0 +1,51 @@
+SCP-1246 upon recovery.
+
+Item #: SCP-1246
+
+Object Class: Euclid-nuntii
+
+Special Containment Procedures: Site 1246 has been constructed around SCP-1246 in order to maintain secrecy, house personnel assigned to SCP-1246, and prevent accumulation of fauna.
+
+SCP-1246 is contained in a cylindrical tank of water seventeen meters in diameter and one meter in height. Several pumps are maintained to circulate water over SCP-1246 at a rate sufficient to prevent the accumulation of SCP-1246-1. Once removed from SCP-1246’s tank, SCP-1246-1 is to be filtered from the water and stored in concrete containers lined with steel.
+
+All iterations of SCP-1246-3 are to be recorded and logged. Amnestics are to be administered to all personnel at Site 1246 should SCP-1246-3 contain classified information.
+
+Description: SCP-1246 is a spiral structure approximately fifteen meters in diameter composed of a variety of stones. Individual stones may be removed from SCP-1246 and destroyed without difficulty; however, SCP-1246 will spontaneously and instantaneously reform in its entirety on an irregular basis regardless of damage done.1
+
+Through an unknown process, a mixture consisting primarily of volcanic ash with trace amounts of iridium accumulates on SCP-1246's surface, increasing in depth at an approximate rate of 0.8mm/day. This mixture, designated SCP-1246-1, emits water vapor, carbon dioxide, thermal radiation, and ionizing radiation, all in levels not considered harmful to humans or the environment in the short term.
+
+SCP-1246-2 is a designation given to any non-human vertebrate that view all or part of SCP-1246, or any other member of SCP-1246-2.2 These vertebrates will approach SCP-1246 and, short of coming into contact with it or displacing any other SCP-1246-2, find a spot as close to the structure as possible. Should this be accomplished, SCP-1246-2 will focus on SCP-1246. If the center is not visible due to the presence of other animals or other obstructions, SCP-1246-2 will instead focus on a point above SCP-1246.
+
+SCP-1246-2 will remain in an alert state indefinitely. While viewing SCP-1246, SCP-1246-2 instances do not appear to require any form of sustenance or sleep, and do not suffer from inactivity-related injuries such as atrophy. Further, specimens do not age, nor are they affected by diseases or environmental factors, including SCP-1246-1. Removal of SCP-1246-2 from the presence of SCP-1246 will both remove them from their fixed state and cause the associated biological abnormalities to cease.
+
+SCP-1246 will demonstrate further anomalous behavior whenever a nuclear device is detonated on Earth.3 Whenever an event of this nature occurs, SCP-1246 will emit a series of noises, designated SCP-1246-3, audible up to thirty meters from its center. These noises are audible only to humans and electronic recording media; non-electronic recording devices and non-human animals do not respond to SCP-1246-3 or recordings of it. SCP-1246-3 lasts no less than 13 minutes and 30 seconds, and varies somewhat between iterations. A generalized transcript is available for personnel with Clearance 2/1246 (see below). The transcript applies to all iterations of SCP-1246-3 unless noted otherwise.
+
+Addendum: Transcript of SCP-1246-3
+
+<Begin Log>
+
+0:00 to 7:43: What is believed to be ambient noise from an unidentified urban area. Volume rises until 7:43, then cuts off. Screams are audible from 6:19 to 7:43.
+
+7:43 to 11:22: The sound of a clock ticking once per second. Echoes are audible.
+
+11:22 to 12:00: A series of animal vocalizations arranged in a manner that is reminiscent of the phrase "You know what you've done", repeated in twenty languages. Both the languages in question and their order varies with each iteration.
+
+12:00 to 12:21: Silence.
+
+12:21 to 12:25: A series of animal vocalizations arranged in a manner that is reminiscent of the phrase "No, and we never will be."
+
+12:25 to 13:14: Forty-nine seconds of monologue. While variable between iterations, in each case, the speaker has been a current or former leader of a nation or organization in the possession of nuclear devices. The content of the monologue consistently centers on foreign policy. All monologues documented thus far have corresponded to speeches delivered by the leader in question.
+
+13:14 to 13:30: A sequence of eight digits as expressed in Morse code via telegraph key, varying for each iteration.
+
+<End Log>
+
+Addendum: When interpreted as a date in the form DD/MM/YYYY, the final sequence of digits in SCP-1246-3 corresponds to a date no less than two centuries in the future. On three occasions, the date 30/07/2071 has occurred. The significance of this date has been classified by O5 Command.
+
+Footnotes
+
+1. Further analysis has shown that this event has roughly a 40% chance of occurring every time a solar flare occurs, without regard to the size of said flare.
+
+2. In an uncontained state, this can create a chain effect of animals being converted into SCP-1246-2. Caution should be taken to avoid such an event.
+
+3. The use of nuclear fission or fusion as an energy source does not trigger SCP-1246.

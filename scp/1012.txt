@@ -1,0 +1,69 @@
+[[>]]
+
+[[/>]]
+
+Broadcast tower facility 1012-S3FB9, broadcasting Frequency B'
+
+Item #: SCP-1012
+
+Object Class: Keter
+
+Special Containment Procedures: The Foundation has implemented protocols to cancel or to reduce the risk of generation of three of the five constituent sound tones that comprise SCP-1012:
+
+Frequency B and Frequency D: Frequencies B' and D' are, respectively, the antiphases of Frequencies B and D. These antiphase frequencies cancel frequencies B and D, respectively, within the range of the broadcast.
+
+The Foundation operates active noise cancellation broadcast devices in approximately 36,000 locations worldwide, commonly disguised as public address systems, klaxons, speakers and the like, which continually broadcast at Frequency B' or D' (subject to the availability of power).
+
+Additionally, the Foundation has arranged for Frequencies B' and D' to be continually broadcast by most of the world's electroacoustic transducers. This has been achieved through a combination of inserting design changes into the engineering specifications of most commonly-manufactured electroacoustic transducers manufactured since 1988, inserting Frequency B', D' or both into the transmission of broadcast media and the encoding of recorded media (including inserting design changes into the engineering specifications of recording appliances so that Frequency B', D' or both are automatically encoded), and by manipulating the supply frequencies of commercially transmitted and distributed electric power so as to cause sound equipment and other electric appliances to generate Frequency B' or D'.1
+
+Frequency C: In the wild, most instances of the generation of Frequency C had consisted of the whalesong of Balaenoptera svalbardi, the Svalbard whale. Through Foundation efforts, Balaenoptera svalbardi became extinct in 1982, thereby decreasing the likelihood that the tone would inadvertently be generated in a location near the generation of other constituent tones.
+
+All documentation that specifies the constituent sound tones of SCP-1012 is to be kept strictly confidential.
+
+Description: SCP-1012 is a chord consisting of five sound tones, designated Frequencies A, B, C, D and E. The tones of SCP-1012 are:
+
+Designation
+
+Frequency
+
+Remarks
+
+Frequency A
+
+415.305██ Hz
+
+Within range of human hearing, slightly higher than G#
+
+Frequency B
+
+████ kHz
+
+Ultrasonic
+
+Frequency C
+
+████ Hz
+
+Infrasonic; lower than the range of human hearing but observable, at higher intensities, in the form of vibrations
+
+Frequency D
+
+████ kHz
+
+Ultrasonic
+
+Frequency E
+
+████ Hz
+
+Within range of human hearing but rarely used in the chromatic musical scale
+
+The generation of one or more, but less than all, of the constituent tones of SCP-1012 does not result in anomalous effects.
+
+The simultaneous generation of all five tones of SCP-1012 for a duration exceeding a few seconds affects2 the resonance of certain subatomic particles within range, causing them to disintegrate into their constituent elementary particles. Computer modeling predicts that a generation of SCP-1012 within close proximity of a mass, such as an astronomical body, is likely to result in an uncontrollable chain reaction resulting in the disintegration of virtually all matter comprising the mass. According to the model, once such a chain reaction is initiated, it will continue to progress whether or not the tones of SCP-1012 are being generated, until all available mass is affected (i.e., a CK-class scenario).
+
+Footnotes
+
+1. Under normal conditions, Frequencies B' and D' are each substantially higher than the upper frequency limit for mammalian hearing and are therefore inaudible to humans, as well as other animals with a greater range of hearing such as dogs. However, it has been reported that some humans exposed to strong broadcasts of Frequency D' experience tinnitus. Under certain atmospheric and geological conditions (such as those prevailing in Taos, New Mexico and Bristol, UK), the broadcast of Frequencies B' or D' may be audible. Additionally, certain models of fluorescent lighting tubes and cathode ray tube televisions emit audible tones in sympathetic resonance with Frequency B' or D'.
+
+2. The described result is predicted according to the cosmological model set forth in Foundation Document 8001.2552.KT.1012. Laboratory testing of the model is prohibited.

@@ -1,0 +1,59 @@
+Item #: SCP-1017
+
+Object Class: Euclid
+
+Special Containment Procedures: As SCP-1017 remains confined to the London Underground Metropolitan Railway, containment must be enacted in-situ. Detection and identification of an instance of SCP-1017 is crucial, and to be carried out by three Foundation agents who have been inserted into the human resources, train control, and █████████ departments of the Transport For London (TFL) administration. Fail-safe explosive charges are placed at key locations in the network, so as to be able to isolate segments in the event of a containment breach.
+
+When a manifestation is detected, two additional Foundation agents are to board the affected train disguised as members of the public, carrying concealed type-21 (Somniacene) gas grenades. MTF Epsilon-12 (“The Train-spotters”) are to follow the affected vehicle in a train disguised as an underground railway maintenance vehicle. Any TFL staff attempting to contact the driver of the affected train is to be subtly distracted by the embedded agents. Class-B amnesiacs are authorised for use if necessary.
+
+Should a Phase-2 event occur, all personnel are to enact procedure 108-Captum, as detailed in this report. Any minor delays or interference caused with the wider London transport network are to be explained to staff and members of the public as “signalling errors” or “planned engineering works”.
+
+Description: SCP-1017 is an anomalous phenomenon which frequently occurs on the London Underground Metropolitan Railway. The effect will happen if at least one member of the train driving staff are not present at work due to illness or injury.
+
+The effect first starts when the staff member attempts to notify their supervisor that they will unable to attend work by telephone. The telephone call will not be received and interviews with the staff member in question have revealed that their call went through to an unidentified male recipient, who agreed to pass on the message.
+
+After this, the train that the absent driver was scheduled to operate will function as normal along the planned route. The effect seems to occur with a preference for operating on the ████████, █████████ and █████ lines. The train will stop at stations as normal, and allow passengers to board and disembark as expected. However, the driver’s cabin will be entirely empty. CCTV camera footage of affected trains show the vehicle’s controls operating without any visible operator. Curiously, members of the public rarely seem to notice this anomalous effect. Under most circumstances, the train will operate for a full working day, and then be left at the appropriate sidings at the end of the shift.
+
+Although SCP-1017 will always tend to operate when an employee is unable to work, the effect has been noted never to occur during a number of circumstances, including:
+
+Sundays
+
+An annual period, normally two weeks in duration, usually occurring in the summer.
+
+A one week period stretching over Christmas and New Year’s Eve.
+
+Any time that industrial action is undertaken by the National Union of Rail, Maritime and Transport Workers.
+
+Any day where the soccer team “█████████ ███████” is playing in a premiership match.
+
+The ██th of October.
+
+Infrequently SCP-1017 may undergo a Phase-2 event, requiring more direct intervention by the Foundation. These are normally triggered by individuals attempting to make contact with the driver of the train, members of the public noting that the train is driver-less, interference with the normal running of the train, [DATA REDACTED] and reflective surfaces positioned near the drivers cabin.
+
+Should a phase-2 event occur, the train will immediately begin to accelerate to dangerous speeds, ignoring any stop signals, and potentially injuring members of the public who are attempting to board or disembark. The train will continue to build speed, and should procedure 108-Captum not be enacted, there is a major likelihood of a collision with another vehicle or a de-railing incident. Any conscious passengers on board the train will quickly begin to develop a number of harmful symptoms including:
+
+Intense headaches.
+
+Brain hemorrhages or aneurysms.
+
+Apparent auditory and visual hallucinations.
+
+Loss of reason/rationality.
+
+[DATA REDACTED]
+
+Intensely violent and frenzied assaulting of other passengers.
+
+Violent self-harm or mutilation of the face and eyes.
+
+A summary of procedure 108-Captum follows:
+
+Agents on board the train are to immediately render any members of the public present unconscious, followed by themselves.
+
+Foundation staff are to remotely cut power to the section of the track containing the affected train, ensuring that the train comes to rest between platforms. MTF Epsilon-12 is to rendezvous with the train.
+
+MTF Epsilon-12 is split into two teams. Team alpha will proceed to the front of the affected train, and deploy concussion grenades through the driver’s compartment windows. Team beta is to position themselves outside the passenger doors of train, and commence breaching and boarding actions. If the Foundation agents on-board the train are unsuccessful in their mission, team beta is to tranquillise any members of the public still active.
+
+Should MTF Epsilon-12 fail, the appropriate explosive charges are to be detonated remotely.
+
+Following the conclusion of these events, standard clean-up operations can be carried out, including administration of amnesiacs to involved members of the public and the release of a cover story (approved stories include gas leakages, unexploded WW2 ordinance, or terrorism). To date, procedure 108-Captum has been modestly effective in preventing a containment breach, dealing with 38 Phase-2 events in the past decade, only one of which required the use of the fail-safe explosive charges.

@@ -1,0 +1,23 @@
+Unconfined instance of SCP-697 leaking.
+
+Item #: SCP-697
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-697 are kept in Storage Section-V of Site 18. The area is forty feet below ground level and lined with steel, ensuring only authorized personnel may enter. All unauthorized persons attempting to gain access are terminated on sight.
+
+Each instance of SCP-697 is sealed in a depressurized, four-inch thick titanium container to avoid accidental activation. Removal from the containers is restricted to three instances at a time for Level 4 access approved experiments only. Under no circumstances are any instances of SCP-697 to leave Site 18. Should accidental spills occur at any point, Site 18 is to be evacuated, and the area affected incinerated. Large scale spills shall lead to total abandonment of the Site, and a quarantine of the surrounding area for eight square kilometers.
+
+Further information pertaining to spilling of SCP-697 outside of Site 18 is located in Document-697-Theta.
+
+Description: SCP-697 consists of the contents of one-hundred (100) toxic-chemical containment drums, consistent with those used by Duslo a.s. for waste disposal. All are in either perfect or near-perfect condition, and three have yet to be breached by the Foundation or other persons. Each drum is filled to the brim with an as-yet-unidentified chemical.
+
+When exposed to any substance other than the drums, SCP-697 triggers a highly complex chemical process that converts most forms of solid matter around it into fully-formed plant-like organisms within seconds of contact, effectively terraforming the area immediately surrounding it. Existing multicellular life is quickly broken down into individual cells, which are then converted into further instances of the plant-like organism. It is currently unknown precisely how nonliving matter is altered, but the process appears to involve initial conversion into single-celled life forms, which then agglomerate with anomalous speed into the "plant's" tissues and organs.
+
+The plants created by SCP-697 bear no significant biological resemblance to any known species, though their physical appearance has been described as normal. They possess a physiology unlike any other known organism: they do not undergo photosynthesis, nor do they rely on nitrogen or carbon dioxide. Their primary waste product is an argon- and cobalt-based gas. The source of these elements — neither of which is present in sufficient quantities in any common Earth environment — is unknown, as is the chemical basis for the plants' metabolism, which runs at approximately six times the speed of any Terran plant. As of this writing, the only viable method of destruction is combined incineration and neon gas saturation (see Experiment 697-003).
+
+Though initial contact with the plants is not fatal, long-term exposure has proven extremely hazardous to terrestrial animals. Inhalation of the waste gasses gradually inhibits cardiopulmonary function, while contact with the neurotoxic leaves or flowers results in sudden spreading extreme numbness, with nervous system and respiratory failure occurring soon after. The average time from initial exposure to death is thirteen (13) hours. No treatment for either effect has been developed.
+
+In addition to creating new lifeforms, SCP-697 is apparently capable of self-replication: the effects of a spill invariably spread far beyond the initial area coated in the substance. Prior to the ban on off-site testing, the observed range extended out to six kilometers. Incineration plus neon flooding, as detailed above, are also effective in halting the spread of chemicals.
+
+Addendum-697-001: Six (6) instances of SCP-697 were initially discovered off the coast of █████, California, in the spring of 20██. Fortunately, no spills had occurred at the time, though the incident prompted mass investigations of Duslo a.s.'s waste disposal practices, drawing Foundation attention. Over a period of six months, fifty (50) of the drums currently in containment were discovered, with the rest gradually located over an extended period of time. The current average discovery rate of drums containing SCP-697 is one every three weeks.

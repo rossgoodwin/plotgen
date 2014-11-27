@@ -1,0 +1,113 @@
+Item #: SCP-986
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-986 is currently stored in the Anomalous Document Repository at Site-11. The contents of SCP-986 are to be examined for changes by research staff on a weekly basis. Any changes to the contents of SCP-986 are to be recorded by staff after notifying the Research Director. A list of SCP-986 messages and narratives can be accessed with the permission of the Research Director.
+
+Preference for staff assignment to SCP-986 is to be granted to personnel with an educational background in literary criticism and/or cryptography.
+
+Description: SCP-986 is an unpublished manuscript entitled The Absent Willows, likely written by American novelist William Faulkner. The manuscript consists of 1208 bound pages, containing an original work of fiction and a supplementary section. No references to it were made by Faulkner in any of his personal correspondence, nor has it been cited by literary scholars as being among possible unpublished works of the author.
+
+At irregular intervals, typewritten text will manifest via unknown means in the 850-page supplemental section of SCP-986. While the text of The Absent Willows is written in type consistent with the Underwood Standard Portable typewriter used throughout Faulkner's life, text appearing in the supplemental section does not match any known standard typeface. The content of the text appearing in SCP-986 invariably consists of a repeating six-character format that upon initial viewing does not appear to have any understandable content (e.g. "GQCCKD OVNFSP QXXHAE"). This text currently fills 58% of the supplemental section, with the rest comprised of blank paper.
+
+SCP-986 came to the attention of the Foundation in 1964, after a representative from Random House entrusted with examination of Faulkner's papers attempted to sell it to a literary auction house in Luxembourg. Initial analysis upon the recovery of SCP-986 determined that the anomalous text manifested in SCP-986 was a series of encrypted messages. Cryptanalysts soon recognized the pattern of encryption as a book cipher, but lacked the key. In 1972, with the use of computer-aided mathematical analysis models, the Site-11 Cryptanalysis Office identified a passage in the 1942 first edition of Go Down, Moses as the key to the cipher. Messages appearing in SCP-986 have subsequently been decoded and transcribed.
+
+Research Log 986-1: Contents of SCP-986
+
+Pages 1-358
+
+Summary: A novel titled The Absent Willows, set primarily in rural Mississippi and taking place at three distinct time periods (the American Civil War, the 1910s, and the 1950s). The novel deals primarily with the experiences of members of the African-American Wilpher family at the Jesperson Plantation and the fictional town of Muskogee, Mississippi. Unlike many previous Faulkner novels, this work is not set in Yoknapatawpha County, nor does it utilize any characters from his established canon.
+
+Synopsis: Part One of the novel relates the story of Sunny Wilpher, a slave of the Jesperson family entrusted to oversee the domestic servants of the plantation manor. During the extended absence of Col. Alphonse Jesperson due to the American Civil War and the presence of Union troops in the surrounding countryside, Sunny assumes control of the plantation and its dwindling resources. A revolt against his custodianship by both black and white field hands eventually forces Sunny to acknowledge his paternity of Thomas Sooter, a mixed-race stable boy assumed to be Col. Jesperson's bastard offspring.
+
+Part Two is a first-person narrative told by Slumber Wilpher, an elderly African-American man in the present day (the 1960s by the book's chronology). Slumber (later revealed to be Thomas Sooter's grandson) relates the tale of a boyhood encounter with a traveling preacher in the woods outside of Muskogee, Mississippi. Following a cryptic exhortation from the deaf preacher to "look between the trees", Slumber embarks on a journey deep into the forest. After an attack by wild boar that costs Slumber his right index finger, he passes out from blood loss, only to awaken in a clearing far into the forest's interior. He is told by a hallucinatory figure that he has found his father's final resting place.
+
+Part Three is a poetic transcription of a vision experienced by Tyrus Murtry, Slumber's nephew. Tyrus, living in New Orleans as a dockworker, receives a letter from a person claiming to be his teenage daughter. Upon reading it, Tyrus retreats to his rented room in a Ninth Ward shotgun house and falls into an extended reverie. Laden with metaphorical imagery and narrative that at times appears to directly address the reader, the concluding portion of The Absent Willows focuses on a woman known only as "Hec'ba" and her various interludes in Tyrus' life. The novel ends with Tyrus recollecting his drowning of a female infant by a reed-filled riverbank, an event that may or may not be metaphorical within the narrative.
+
+Notes: No anomalous properties observed. Literary analysis confirms that thematic choices and settings do not conform to any previous works. However, word choice, style, syntax and narrative focus all indicate Faulkner as almost certainly being the author of this work.
+
+Pages 359-491
+
+Summary: This section consists of decoded messages appearing immediately after The Absent Willows. The messages form an untitled narrative that is apparently a retelling of a passage from Part Two of the novel.
+
+Synopsis: An unspecified Native American female enters a clearing in a forest very similar to that described in Part Two of The Absent Willows. She recalls the history of her father's tribe in the region, and in particular the slaughter of a European hunting party days before her birth. After entreating unnamed spirits to watch over her family, she conducts burial rites for her stillborn son.
+
+Notes: This narrative was decoded from text that appeared spontaneously in SCP-986 during a period ending in 1968. Due to early portions of the text existing prior to Foundation recovery, the starting date of this portion of the SCP-986 transmissions is unknown.
+
+Pages 492-656
+
+Summary: Pages 492-656 are an apparent autobiography of William Faulkner. Note that Faulkner did not publish an autobiography during his lifetime.
+
+Synopsis: A narrator (presumably William Faulkner, though at no point does the narrator identify themselves by name) provides an account of the events of their life as a distinguished writer in the American South. The first three chapters of this narrative match known information about the early life of Faulkner. However, beginning with Chapter Four, major deviations from documented accounts of Faulkner's life emerge. These include several major events not known previously to have befallen Faulkner:
+
+A two-year commitment in Willoughby Sanitorium in Jackson, Mississippi at the age of 14 due to an unspecified mental illness.
+
+A homosexual affair with a married professor at Yale University.
+
+A nine-month imprisonment in a German POW camp during the First World War
+
+A meeting with Arthur Findlay during a speaking tour in Great Britain in 1937.
+
+As the narrative continues, events depicted in the autobiography vary increasingly from established understanding of Faulkner's life. In the closing chapters of the book, the narrator skips significant periods of time without explanation of events in between chapters, and events that appear to be completely unrelated to Faulkner's life (such as a stint as a water carrier in the Punjab, test-flying an experimental aircraft and being tried for murder) are related to the reader.
+
+Investigation by Foundation staff has determined that some events described in this narrative (such as the confinement in Willoughby Sanitorium1 and the meeting with Findlay) did in fact occur and were never documented by official biographers, while others (the murder trial, and claims of contracting a case of malaria) have proven demonstrably false. The veracity of much of the narrative, however, is impossible to confirm or deny at this time.
+
+Notes: Following a long period of inactivity, the coded text comprising this section of narrative began manifesting in 1975, and continued appearing until concluding in 1982.
+
+Pages 657-678
+
+Summary: This portion of SCP-986 (titled "What's to be Done?" in accordance with the first line of text transmitted) is a dialogue between two (possibly three) nameless characters.
+
+Synopsis: Two unnamed characters speak to each other for an extended period. The dialogue follows a pattern, wherein the first character will posit a question or statement, followed by the phrase "what's to be done?". The second character will offer a nonsensical solution, followed by the first character asking another question.
+
+EXCERPT OF SCP-986 PAGE 661
+
+"How would you go about convincing a friend that they need to take care of themselves too? What's to be done?"
+
+"Line his pockets with quarters. Make all times feel like the second time."
+
+"Aunt Marta wrote me a letter today. What's to be done?"
+
+"Wait."
+
+From Page 669 onward, the second character will always answer the first character by suggesting an act of self-harm, e.g. self-mutilation, a humiliating action, or some form of suicide. A possible interpretation of this development is that the second character has been replaced by a different speaker.
+
+Notes: "What's to be Done?" was transmitted by SCP-986 from 1982 to 1984. It is the first example of text transmitted by SCP-986 that conclusively does not match Faulkner's writing style. Cryptanalysts currently analyzing this section for evidence of additional ciphers.
+
+Pages 679-798
+
+Summary: Pages 679-798 represent the current "narrative" being transmitted by SCP-986, and consist of an exegesis of the Book of Thomas the Contender, a non-canonical document related to the biblical New Testament.
+
+Synopsis: The majority of this section at the present time consists of a reproduction of passages from the text of the Book of Thomas, followed by lengthy commentary on each passage. The commentary offered in SCP-986 has proven difficult to interpret, as it will often be written in poetic verse, meaningless sequences of letters resembling the original book cipher the text is decoded from, or a dialogue between characters resembling those in "What's to be Done?" (the Book of Thomas is itself a dialogue for the most part).
+
+At Page 796, the style of the section abruptly changes, and is replaced with sentence fragments, usually consisting of between 1-3 words. As of 11/02/2010, this has been the modality of SCP-986 transmissions.
+
+EXCERPT OF SCP-986 PAGE 796
+
+"The writer of this passage can't seem to make up his mind as to whether the lower self or the higher self is speaking. It's possibly related to an inexpert translation, a common problem among the early Gnostic scholars. What's to be done?"
+
+"Put it in fourth. The road will be less
+
+Who.
+
+These eyes.
+
+No hands.
+
+Who.
+
+Flee.
+
+Flee now.
+
+Who.
+
+No idea.
+
+No.
+
+Notes: This section has been transmitting since 1998. Since 11/02/2010, short bursts of between ten and fifteen characters of text have manifested in SCP-986 every 36 days.
+
+Footnotes
+
+1. Willoughby Sanitorium closed in 1929. Foundation operatives have seized all patient records related to the Sanitorium and demolished the former grounds in 1978.

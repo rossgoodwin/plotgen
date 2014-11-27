@@ -1,0 +1,57 @@
+SCP-1640, Post Cover-up. SCP-1640's shape is outlined in the picture below.
+
+Item #: SCP-1640
+
+Object Class: Neutralized; Previously Safe.
+
+Previous Special Containment Procedures 1/23/2011: Observation Probe Delta-6 is currently in orbit, in order to intercept any radio signals emitted by SCP-1640. SCP-1640's trajectory has been altered to prevent escape velocity from the Moon, and is estimated to impact the Moon on 4/14/2035. Knowledge suppression of SCP-1640 is currently in process with select individuals of NASA. Observation of SCP-1640 is currently being held at Research Sector-29, and any changes in orbit or velocity are to be reported immediately.
+
+Exploration Probe Delta-7 is tasked with collecting and disposing of instances of SCP-1640-1, and must be replaced before ceasing function on 8/24/2059.
+
+Revised Procedures: As of 4/10/2011, Exploration Probe Delta-7 is now tasked with removing destroyed instances of SCP-1640-1 and debris from SCP-1640. No further containment procedures are necessary, see Neutralization Event 1640-A.
+
+Description: SCP-1640 is a hemispheric mass of condensed soil, with several artificial pieces of equipment affixed to its surface. It is estimated to be 10 meters in diameter and 6 meters in height. SCP-1640 is approximately 5,000 kilometers above lunar surface, and is equipped with sub-systems typical for a modern man-made satellite. However, they are affixed in various positions as to imitate a temperate forest. This includes:
+
+Green, circular solar cells attached to large, brown metal rods. Back-up batteries are held inside each rod, assumed to be an alternate power source.
+
+Dual magnetometer sensors, UHF antenna, and telemetry control antenna, each positioned on the edges of SCP-1640. Each is mounted by a flower blossom, supposedly artificial.
+
+The main thrusters are positioned underneath the main mass, and are bent at angles not unlike roots.
+
+Irregularly shaped supplementary telemetry equipment, similar in appearance to stones. Apparently used in creating radio signals.
+
+SCP-1640 emits a frequency modulated radio broadcast on the ██.███ frequency band, and may occasionally broadcast sounds of a repeated thumping noise, which has been determined to be Morse code.
+
+SCP-1640 consistently produces various species of flora, and releases said specimens through an exhaust port located at its rear. Recorded specimens include shrubbery, saplings of trees, and various vegetables (edible buds, roots, leaves from various plants). These specimens (hereby referred to as SCP-1640-1) display no adverse effects when exposed to vacuum and ultraviolet-rays. They will continue to grow normally, and though processes such as photosynthesis are continually conducted, the lack of necessary materials (water, CO2, etc.) will not impact their lifespan. Instances of SCP-1640-1 were observed to disintegrate from atmospheric descent, and show no resistance to any other form of damage.
+
+Images of SCP-1640 have confirmed the presence of a rabbit (Lepus curpaeums) above SCP-1640, though its size suggests that it is either newly born or the runt of the litter. It is currently unknown how this specimen is able to remain situated on SCP-1640 or how it is able to survive without any form of protective covering or shelter. Contact with SCP-1640 is currently being devised to detect any other anomalous properties of SCP-1640's inner mechanisms and its inhabitant.
+
+Addendum 1640-C: The following are radio transmissions received from SCP-1640, at the time of discovery. The last transmission was received during SCP-1640's neutralization.
+
+3/█/20██
+
+I see home below me. You must be lonely, I bring you back presents.
+
+3/1█/20██
+
+The moon rabbit, huge. He is fields wide!
+
+Also breach in ship. Gifts falling out. Will try fix.
+
+3/2█/20██
+
+Above the moon! All the white rabbits below, they're sleeping. Landing soon!
+
+3/3█/20██
+
+Still above moon. When is landing?
+
+4/█/20██
+
+How will deliver gifts? When is landing? Home?
+
+The following transmission was found to originate from [REDACTED], which was notably home to a warren of rabbits, and was designated as Anomalous Event 3450-UT. The time between the transmission from SCP-1640 and the Anomalous Event has suggested that it was communicating with SCP-1640. [REDACTED] has displayed no anomalous properties as-of-yet.
+
+Child. A satellite goes in one direction. I sent you alone, because you need strength. Because your life needs purpose, since it has none. So this will be your task from now on: to deliver to the rabbit in the moon for me. You are doing wonderfully.
+
+Neutralization Event 1640-A: On 4/██/20██, control noticed a deviation in SCP-1640's flight path. It appeared to have manually diverted from its standard orbit, and had begun to fall towards the lunar surface. Personnel were unable to prevent SCP-1640's crash-landing and destruction. Upon observation of the crash site, all plant life had lost their anomalous properties, and began to display effects typical of exposure to vacuum and high temperature. No further radio signals were transferred from SCP-1640, leading to its classification of Neutralized.

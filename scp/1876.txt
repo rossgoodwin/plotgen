@@ -1,0 +1,37 @@
+Item #: SCP-1876
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1876 is stored in a standard secure locker in the Safe-class containment wing of Site ██. Experimentation with SCP-1876 may only be performed with prior permission from at least one (1) Level 3 Senior Researcher and must be moved to approved testing areas by fully automated robotic rovers or other automated transport systems. Until further notice, only Class D personnel may handle SCP-1876 directly.
+
+Description: SCP-1876 is a used plastic toothbrush manufactured by [REDACTED], completely unremarkable except for the words "stop taken [sic] my shit", which are written on the handle with a black fine-point permanent marker.
+
+Approximately twenty (20) seconds after a living human subject picks up SCP-1876 or otherwise moves it from its current position, the subject is temporally displaced to a point in time directly prior to that act. The subject is aware of anything that occurs in this time period, regardless of the temporal paradox that should result from taking an alternate action after the "rewind".
+
+SCP-1876 was discovered in a dormitory trash bin at [REDACTED] University in [REDACTED] on █/██/██ and came to the Foundation following reports of its anomalous effect from the janitor on staff who claimed to be unable to move the bin. A Foundation containment team managed to isolate the effect to SCP-1876 and determined through field testing that moving it via completely automated means did not trigger its anomalous effects. Attempts to determine its original owner have not been successful thus far, and DNA and fingerprint analysis of the object have yielded inconclusive data.
+
+Addendum 1876-01: Test Log
+
+Date: █/██/██
+
+Subject: D-33281
+
+Description: SCP-1876 placed on table in testing room by automated rover. D-33281 was then instructed to pick up SCP-1876 and move it to a table on the opposite side of the chamber.
+
+Result: Subject began to reach for SCP-1876, then stopped in surprise and muttered an expletive. When questioned, Subject stated that he had "just put it on the other table, and now it's back again". Subject instructed to do so again, with the same result, before refusing any further testing.
+
+Date: █/██/██
+
+Subject: D-33319
+
+Description: SCP-1876 placed on table in testing room by automated rover. Subject is instructed to move SCP-1876 to a table on the other side of the chamber and informed that if they failed to do so, they would be shot by an armed guard.
+
+Result: Subject begins reaching for SCP-1876, then pauses for several seconds while exhibiting surprise that rapidly changes to shock and then fear. Subject then breaks down, sobbing, while pleading not to be shot. When questioned, Subject claims to have attempted to follow the instructions several dozen times, only to have the actions undone each time.
+
+Date: ██/█/██
+
+Subject: D-33347, Agent █████
+
+Description: SCP-1876 placed on table in testing room by automated rover. Subject is instructed to pick up and hold SCP-1876; Agent █████ is given prior instructions to shoot the Subject with a tranquilizer dart after SCP-1876 is picked up.
+
+Result: Subject reaches for SCP-1876 before suddenly slumping to the ground, unconscious. Medical tests confirmed the presence of sedatives in Subject's bloodstream; Agent █████' dart gun is confirmed to still be loaded and unfired. Subject recovers without incident.

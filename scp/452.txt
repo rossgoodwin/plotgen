@@ -1,0 +1,39 @@
+SCP-452
+
+Item #: SCP-452
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-452 specimens are contained in a 5m by 5m isolation chamber at Site ██. Specimens should be fed live insects (preferably crickets or meal worms, but other harmless insects are viable) at least once a week, and regular observation should be maintained to ensure the health of the specimens. Personnel tasked with maintenance of SCP-452 should wear sealed suits at all times while inside SCP-452's containment.
+
+Experimentation on SCP-452 may be performed with permission from at least one (1) level 4 personnel, provided all safety requirements and regulations are observed. Specimens taken out of primary containment should be kept inside the specially prepared portable terrariums designated for safe use with SCP-452. Exposure of personnel to the effects of SCP-452 should only be performed in isolation chambers for easy recovery of SCP-452 specimens after exposure.
+
+Description: SCP-452 is a colony of Latrodectus hesperus (Western American black widow) physically indistinguishable from normal spiders of its kind. SCP-452 has a preference to spin webs near areas where humans sleep, and when allowed to freely roam, will attempt to relocate if no humans sleep near its web for extended periods of over a week.
+
+When a sleeping human subject within 5 meters of a SCP-452 web enters rapid eye movement (REM) sleep, SCP-452 suppresses the subject's ability to dream, even in subjects with chronic dreams and/or nightmares. Subjects, upon waking, generally report having had restful sleep, though several subjects have also reported feeling "unusual, like [they are] missing something".
+
+Furthermore, if a specimen used in this manner bites any human within approximately one week from the initial event, the bitten subject will suffer vivid hallucinations in addition to the normal effects of spider venom.
+
+SCP-452 was recovered from [REDACTED] following intercepted hospital reports of anomalous visions experienced by spider bite victims, after which a Foundation containment team was dispatched.
+
+Experiment Log 452-1:
+
+Date: █/██/██
+
+Source: D-21017, female Caucasian, 29 years old
+
+Subject: D-21020, male Hispanic, 31 years old
+
+Procedure: Specimen of SCP-452 in sealed terrarium placed near bed of Source for one week, then Subject exposed to specimen, resulting in Subject being bitten. Antivenom administered to mitigate physical effects.
+
+Details: Source confirms no recollection of dreaming during the week, despite a history of recurring dreams. Subject immediately experienced vivid hallucinations for approximately eleven (11) minutes. Upon returning to normal, described hallucinations with great detail. Source later questioned, and confirmed that the described hallucination matched the description of Source's recurring dream.
+
+Date: ██/█/██
+
+Source: D-21389, male African-American, 48 years old
+
+Subject: D-21395, male Caucasian, 26 years old
+
+Procedure: Source selected due to known diagnosis of post-traumatic stress disorder as a result of combat experiences in [DATA EXPUNGED]. Subject confirmed to have no military experience or interest.
+
+Details: Source confirms no recollection of dreaming during the week, despite previously having recurring nightmares. Upon being bitten, Subject experiences vivid hallucinations and is restrained after beginning to scream and thrash. After returning to normal after approximately fourteen (14) minutes, Subject describes hallucinations as being in a combat zone while [DATA EXPUNGED] the bodies of [DATA EXPUNGED]. Several details given match that of standard combat procedures as corroborated by Source, which Subject had no previous knowledge of.

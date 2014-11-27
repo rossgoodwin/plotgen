@@ -1,0 +1,113 @@
+One of the many compartments of SCP-216
+
+Item #: SCP-216
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-216 currently resides in Laboratory 5. Access requires Level 2 clearance. Insertion of recording devices into SCP-216 is prohibited without O5 approval.
+
+Description: SCP-216 is a 35.6 cm (14 in) high iron safe with a multiple-dial combination lock. The lock has 7 dials each with numbers ranging from 0 to 9. The combination cannot be changed while the door is open. The weight of the device appears to fluctuate in an obtuse manner (see document 88-B).
+
+The door of SCP-216 can always be opened, but the accessible interior space appears to change depending on the currently entered combination. Objects placed inside SCP-216 may be accessed by re-entering the combination that was configured when the object was inserted. Objects retrieved from SCP-216 appear to be undamaged by the device.
+
+It is speculated that every possible lock combination results in a different interior, and that there are therefore 10 million available compartments. It is unknown how many objects currently reside inside SCP-216.
+
+An engraving found on the bottom of the safe reads "3/4". It has been hypothesized that the compartments of SCP-216 are shared with three other devices of a similar nature. This hypothesis is consistent with the findings reported in document 88-B.
+
+Document # 88-A: Dr. █████ Initial test log
+
+- Combination lock set to 6692724 and door opened. Compartment appears empty.
+
+- 1 notebook and pencil placed inside and door closed.
+
+- Combination lock set to 6692725 and door opened. Compartment appears empty.
+
+- Combination lock re-set to 6692724 and door opened. Notebook and pencil retrieved from compartment.
+
+Note: "SCP-216 appears to be a very efficient storage solution." - Dr █████
+
+Document # 88-B: Dr. █████ Test log
+
+Testing the effect of inserted items on the SCP's total mass.
+
+- Total mass of unit before inserting item: 935.877 kg
+
+- Notebook and pencil (total mass 350 g) inserted into SCP-216 and door closed.
+
+- Total mass of unit after inserting item: 935.965 kg
+
+Expected mass: 936.227 kg
+
+Actual mass: 935.965 kg
+
+Difference: 262 g
+
+Testing shows that SCP-216 takes on approximately 25% of the mass of its contents, suggesting the mass is distributed evenly between SCP-216 and the three other hypothesized devices.
+
+Document # 122-A: Dr. ███████ Test log
+
+Compartments 0000000-0000206 checked for contents. Compartment 0000000 found to contain traces of sawdust. Compartments 0000001-0000206 found to be empty.
+
+Further testing arranged.
+
+Document # 152-D: Dr. █████ Test log
+
+Compartments 0000332 - 0000398: Each compartment had a body part from █████ ███████, a 28-year-old female who had been reported missing on ██/██/20██. Contents removed for identification and then incinerated. Liver, spleen, and lungs not recovered.
+
+Document # 159-B: Dr. ████████████ Test log
+
+Compartment 0000409: A live wolverine (Gulo gulo; adult male) with a mass of 30 kg. Upon the door being opened, it attacked and killed Dr. ███████ and mutilated two nearby D-class personnel before being shot five times by guards. Autopsy of the wolverine revealed no anomalies.
+
+Subsequent examination of compartment 0000409 has revealed it now contains only loose wolverine hair, with residual traces of wolverine urine and wolverine anal musk.
+
+Document # 160-A: Dr. ████████████ Test log
+
+Compartment 0000456: A fully loaded Glock 19 handgun with a round in the chamber, and one regular flavor Klondike Bar ice cream dessert. The ice cream bar was not melted, cold to the touch and remained so as long as it was in the compartment. It was removed for inspection, and began to melt within 2 minutes. It was placed back in the compartment; the door closed for 3 hours, and then reopened. The ice cream bar was in the same slightly melted state as when it was placed back three hours prior. The ice cream bar was removed, placed in a freezer in the nearby 2nd floor cafeteria for one hour. After one hour it was placed back into the compartment with the handgun and the door closed.
+
+Document # 161-A: Dr. █████ Test log
+
+Chamber 0000501, confirmed to be empty, had one (1) standard Foundation GPS unit placed inside it. When the chamber was sealed, GPS failed. Data from the unit upon retrieval showed that the satellite was unable to confirm source location during this time.
+
+Document # 174-B: Dr. King Test log
+
+Chamber 6162384: 51 apple seeds.
+
+Chamber 1846563: 22 apple seeds.
+
+Chamber 2960104: 9 apple seeds.
+
+Chamber 8585821: 78 apple seeds.
+
+Chamber 1111111: one heavily-decomposed apple.
+
+Document # 152-E: Dr. ██████ Test log
+
+On 04/16/██ all previously checked compartments were opened with the intention of confirming contents. When compartments 0000332 to 0000398 were opened, individual body parts were found corresponding to an unknown male, arranged in the same order as found in experiment 152-D, including the liver, spleen and lungs. All previous traces of tissue from experiment 152-D, which had not been cleaned, were found to have been sterilized from these compartments. Pursuant to request for O5 directive, body parts were placed back into their compartments. Containment procedures currently under review.
+
+Document # 162-A: Dr. █████████ Test log (testing performed by Dr. █████)
+
+One █████████ digital videocamera recorder was set to record and placed in compartment 5500000, oriented so as to face outwards towards the door. The door was closed and compartment 5500001 was opened. Compartment 5500001 was found to be empty. The door was closed, compartment 5500000 was opened again and the videocamera recorder was retrieved.
+
+Upon viewing the recorded footage, Dr. █████ suffered from a transient ischemic attack.
+
+The recorded footage shows Dr. █████ placing the videocamera inside the safe and closing the door. No time passes before the door is re-opened and the videocamera is retrieved from the safe. This is inconsistent with the scene reported by Dr. █████.
+
+No audible sound is present on the recorded footage. A subsequent analysis of the videocamera revealed that several internal components of the camera had been fractured.
+
+Document # 162-B: Dr. █████████ Test log
+
+[DATA EXPUNGED]
+
+[DATA EXPUNGED]
+
+Document # 162-D: Dr. █████████ Test log
+
+One tape recorder was placed inside compartment 5500000 and the door was closed. Several other compartments were opened and closed before returning to compartment 5500000 and retrieving the tape recorder.
+
+The following file has been reported to cause disorientation, nausea, sweating, a sense of overwhelming despair, abdominal pains, panic attacks, migraines, and strokes.
+
+- This file should only be listened to in a secure environment.
+
+- Do not drive or operate heavy machinery for up to 24 hours after listening to this file.
+
+- Refrain from making quick eye movements while listening to this file.

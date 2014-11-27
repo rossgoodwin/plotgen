@@ -1,0 +1,45 @@
+A "Value Size" canister containing SCP-622. Logo designs vary by country/year.
+
+Item #: SCP-622
+
+Object Class: Euclid
+
+Special Containment Procedures: All cans and containers of SCP-622 are to be immediately transferred to Site ██. The formula for SCP-622 must be contained from the public by any means necessary. Any commercial trade of products containing SCP-622 should be documented and preferably intercepted before delivery. Any persons/organizations in possession of SCP-622 are to be taken in for questioning.
+
+Handling SCP-622 will require seal-proof gloves, hand lotion, and at least one (1) canteen of water per personnel present.
+
+In the event of a containment breach, the immediate area affected by SCP-622 is to be quarantined for no less than twenty-four (24) hours and hosed down with regular water shortly after.
+
+In light of Tests 622-1 through 622-3, all future testing of SCP-622 must take place outside of Site ██’s air circulation system.
+
+Description: SCP-622 is the chemical composition [DATA EXPUNGED], also known as █-██████████████ ███████████, developed by the █████ Chemical Company under the trade name “Desert in a Can”. SCP-622 was originally marketed as a security aid for large businesses to incapacitate intruders in a similar vein to tear gas or pepper spray. According to █████ Chemical Company, SCP-622 also doubled as a cleaning agent and insecticide, but due to its hazardous nature, █████ Chemical Company was shut down in 19██ before any more products of this nature could be manufactured. As of █/██/██, there are at least ███ to ████ documented cans of “Desert in a Can” remaining, most of which are still in possession and use by the following companies: [DATA EXPUNGED].
+
+According to the directions, one layer of SCP-622 is applied to hallways during a break-in or robbery. When applied, SCP-622 becomes odorless and colorless. Upon application, all moisture in the immediate area is absorbed by SCP-622, creating an easily-cleanable salt-like crust over the applied areas, identified to be the compounds sodium chloride (NaCl), magnesium sulfate (MgSO4), and ███████ ██████████ (██2██). When SCP-622 is exposed to organic life, the immediate effects are dehydration, dried eyes, and profuse sweating, which is quickly absorbed by SCP-622. Other effects include a significant drop in blood pressure, increase in heart rate, dizziness, and chills. For more information, see Test Log 622-3.
+
+According to the can’s warning label, SCP-622 dissipates after twelve (12) hours, but according to Test 622-1, SCP-622 can last up to twenty-four to thirty-six (24-36) hours. Tests 622-2 and 622-3 show that SCP-622 will only dissipate in twelve (12) hours when [DATA EXPUNGED – SECURITY LEVELS 3 AND UP, REFER TO TEST LOGS 622-2 AND 622-3].
+
+Test Log 622-1:
+
+Inorganic Testing of SCP-622 to determine shelf life of chemical compound [DATA EXPUNGED] in an isolated environment.
+
+Procedure: SCP-622 applied in isolated hallway K-██ and viewed through remote monitoring devices. Moisture measured and monitored by electronic instruments. For a control, hallways K-06 and K-07 were also monitored for humidity content, averaging at 20% relative humidity.
+
+Results: In twelve (12) hours, relative humidity around SCP-622 remained unchanged at 0%. Despite the label’s claim of dissipating in twelve hours, the area did not rise in humidity. It took until nearly twenty-six hours (26) elapsed before the relative humidity rose to 1%. The relative humidity stayed at 1% for nearly an hour more, slowly rising to 2% after the twenty-seventh (27) hour. SCP-622 did not completely dissipate until thirty-five (35) hours and twenty-eight (28) minutes. The final relative humidity capped at 19% (19.26% with significant figures) for the next four (4) weeks and remained there as of writing. It is undetermined if it is a result of SCP-622 removing all excess moisture from the construction phase of Site ██, or if there is a chemical component that does not dissipate.
+
+Test Log 622-2:
+
+Inorganic Testing of SCP-622 to determine shelf life of chemical compound [DATA EXPUNGED] in a controlled environment.
+
+Procedure: Before SCP-622 was applied in hallway K-██, four (4) buckets of water, equivalent to the water content of an average human being, were placed in aforementioned hallway. As with Test 622-1, hallway K-██ was isolated, applied with SCP-622, and viewed through remote monitoring devices. Moisture measured and monitored by electronic instruments. For a control, hallways K-06 and K-07 were also monitored for humidity content, averaging at 20% relative humidity.
+
+Results: In twelve (12) hours, all four (4) buckets of water were completely dried up. The relative humidity stood at 12% until twenty-five (25) hours had passed, finally capping at around 19% (18.87% with significant figures) after thirty-five (35) hours elapsed time. When applying significant figures to the control rooms, the average relative humidity has dropped from 20.24% to 20.17%. It is unknown whether this is directly a result of SCP-622, Site ██’s air system, or a combination of the two.
+
+Test Log 622-3:
+
+Organic Testing of SCP-622 to determine shelf life of chemical compound [DATA EXPUNGED] in a controlled environment.
+
+Procedure: Two D-Class Personnel were requested by Dr. Z███████. Subject D-254, Male Caucasian, 24 years old, 87kg, 169cm, was given a canteen of water prior to entering hallway K-██. Subject D-255, Male Caucasian, 46 years old, 92kg, 172cm, was not given any water prior to entering hallway K-██. As with Tests 622-1 and 622-2, hallway K-██ was isolated, applied with SCP-622, and viewed through remote monitoring devices. Moisture measured and monitored by electronic instruments. For a control, hallways K-06 and K-07 were also monitored for humidity content, averaging at 20% relative humidity.
+
+Results: Almost immediately after entering the affected area, both subjects complained of exhaustion. Subject D-254 immediately began drinking from his canteen. Subject D-255 attempted to struggle with D-254 over the canteen, but found himself too weak to fight. D-255 starts visibly hyperventilating around eight (8) minutes elapsed time. D-255 collapses at ten (10) minutes elapsed time and does not get up. Subject D-254 notices a visible mist coming off his canteen, reports his water is evaporating and needs more. Agent P█████ sent in to give him more water, reports on how dry the air is. Subject D-255’s flesh is visibly [DATA EXPUNGED]. At fifteen (15) minutes elapsed time, Subject D-254 runs out of water, complains about being hungry. Agent P█████ returns with multiple bottles of █████ade brand sports drink, a bucket of water, and several granola bars. Subject D-254 seen dunking his head into the bucket of water before pouring it on himself and consuming sports drinks and granola bars. The water on D-254’s hair and clothes immediately dry up. At twenty-six (26) minutes elapsed time, Subject D-254 collapses from malnutrition. For the next ten (10) hours, the bodies of D-254 and D-255 continued [DATA EXPUNGED], finally reaching the skeletons. The clear salt-like crust from the evaporated moisture had turned to a mix of dark red and brown. The average relative humidity remained at 14% until thirty-five (35) hours elapsed time, averaging at 19% (18.56% with significant figures). When applying significant figures to the control rooms, the average relative humidity has dropped from 20.17% to 19.96%.
+
+Note: I think it’s safe to believe that SCP-622 may have some sort of chemical component that still lingers long after SCP-622 has dissolved. For future reference, let’s do all testing outside of Site ██’s circulation system. I'm aware of the possible permanent effects to Site ██, but look on the bright side: we at least know it's there, and I know to never shop at ████████ again. –Dr. Z████████.

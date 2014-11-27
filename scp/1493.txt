@@ -1,0 +1,47 @@
+SCP-1493.
+
+Item #: SCP-1493
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1493 is to be contained within a lead, soundproofed combination safe with a wall thickness of 10cm. The safe is to be lined with high-quality soundproofing insulation and packaging foam designed to hold SCP-1493 tightly in its center. The containment area is to be kept below a temperature of 270 K. It is to be equipped with sound, temperature, and seismic sensors, as well as seismic stabilizers. If any sound in excess of 110dB, temperature in excess of 278 K, or vibration in excess of 11 Hz is detected, researchers are to be alerted and guards with 120dB-rated ear protection dispatched to await a potential SCP-1493-Upsilon event.
+
+Instances of SCP-1493-1, should they emerge from SCP-1493, are to be subdued with directed blasts of cold air and then placed in storage under the same environmental conditions as SCP-1493. The fabric membrane which covers instances of SCP-1493-1 is not to be punctured or otherwise opened except during necessary testing.
+
+Description: SCP-1493 is a device resembling an electronic audio speaker, constructed from tin, aluminium, brass, plastic, and a fabric membrane of an unknown composition. The fabric membrane is woven with a repeating red and black pattern, and is pinned across the inside of a plus-shaped opening in the device's front by four brass rivets. SCP-1493 weighs 140 grams and measures 5cm x 4cm x 7cm. SCP-1493's upper portion, which is composed of tin, is painted blue with █████████ paint, a brand that was commonly used in the production of consumer appliances and electronics in the 1950s and 1960s. SCP-1493's lower portion, which is composed of aluminium, is embossed with the logo of ██████, a Japanese electrical instruments manufacturing company founded in 19██. There is no record of ██████ manufacturing any product resembling SCP-1493 before closing in 19██. The interior of SCP-1493 is inaccessible. Additionally, it has no input/output ports, nor any visible means of powering it.
+
+When subjected to significant vibrational forces, SCP-1493 acts as a speaker, producing noise through the application of an internal pressure to its fabric membrane by unknown means. The volume of this noise is proportional to the frequency of the vibration — volume was measured at over 90dB when a vibration of 6Hz was applied; however, a formula for this proportion is indeterminable and nonlinear. Even when SCP-1493 is held still, low-level noise is continuously produced. The noise is discordant and seemingly random, and while the noise is produced, the pattern woven in the fabric membrane changes in a manner similar to television static.
+
+On occasion, underlying sounds have been detected in the noise, consistent with the vocal signatures of humans. It has proven difficult to determine if these sounds truly are voices or whether they are saying anything, since they only begin to become detectable when SCP-1493 is vibrated at 5Hz or greater. The voice-like sounds increase in volume at the same rate as the overall noise.
+
+As ██████ was a widespread manufacturer of electronic instruments with global distribution, more instances of SCP-1493 may have been produced. The Foundation is tracking media for reports that may lead to the recovery of more instances of SCP-1493.
+
+Addendum-1493-A: On 20██-██-██, during testing, SCP-1493 was inadvertently breathed upon, and its noise output increased by 5dB for a period of 10 seconds. Tests were conducted to determine the causative factor in this event, including minute changes in air pressure and temperature, and it was discovered that SCP-1493 appears to be translating thermodynamic energy into audible random noise. From this it can be concluded that temperature is a factor in its noise production; exposure to high temperatures should thus be avoided. However, physical disturbance on a macroscopic scale is a far more influential factor.
+
+Addendum-1493-B: On 20██-█-██, SCP-1493 was accidentally dropped on the floor of its containment area. The noise level passed 150dB, deafening the researchers present. After nearly five seconds of this noise, the device's fabric membrane began to expand outwards, forming a hollow tubular shape with a pointed end, designated SCP-1493-1. SCP-1493-1 reached a maximum diameter of 3cm and a length of 230cm before its back end tapered off and it left the fabric membrane entirely. Three more instances of SCP-1493-1, identical to the first, emerged from SCP-1493, and all instances moved towards the researchers in an aggressive manner. After the SCP-1493-1 instances emerged, SCP-1493 no longer produced the voice-like sounds.
+
+Commendably, Researcher ████ managed to subdue the four instances of SCP-1493-1 with a fire extinguisher, although she and the other researchers suffered internal bleeding and neurological damage during the event. After all four instances were subdued, the noise produced by SCP-1493 returned to baseline levels. This event was designated Incident-1493-Upsilon-01, and any future events like it should be designated similarly. The full extent of the effects of an Incident-1493-Upsilon event and of instances of SCP-1493-1 on humans are unknown.
+
+Addendum-1493-C: Through extensive testing, SCP-1493-1 have been determined to be a form of incorporeal, invisible earthworm-like entity. Under normal circumstances, security footage demonstrates that SCP-1493-1 continuously emit several kinds of voice-like sounds in excess of 120dB when exposed to thermodynamic temperatures above 278 K. Instances of SCP-1493-1 are incapable of surviving under the current physical conditions1 of our universe, and as such use the fabric membrane as a form of protective exosuit. The fabric membrane has been determined to be capable of isolating a static pocket of local physical conditions. An instance of SCP-1493-1 expires if the fabric membrane is removed or opened, typically releasing a 190dB shriek lasting 0.2 seconds and then spontaneously combusting. The fabric membrane collapses soon afterwards, and the SCP-1493-1 instance is no longer detectable.
+
+Partial Transcript of Voice-Like Sounds
+
+…ukba, ukba, ukba…
+
+…foom foom foom foom…
+
+…ababababa… …awawawawa…
+
+…leeeeeeeeeeeegh…
+
+…hoh, hoh, hoh, hoh, hoh…
+
+…rrrreeohm…
+
+Researcher's Note: These were taken from security footage of Incident-1493-Upsilon-01. When the volume was dialed down, the voice-like sounds produced by the SCP-1493-1 instances consisted of simple repetitious phonemes and chants. They took place simultaneously and at variable pitches. The total impression was not unlike an a capella song.
+
+Addendum-1493-D: Following the conclusion of Incident-1493-Upsilon-01, a researcher noticed a small piece of paper tucked in the seam between the upper and lower portions of SCP-1493, apparently dislodged from the inside of the device by the event. Upon retrieval, said paper was found to be a strip of ticker tape upon which was the printed English text, "STASIS is NOMINAL PASSENGERS are HUNGRY but RESTED TIME to INTERCEPT ST-IDEAL is UNKNOWN THANK YOU TRAVEL is COURTESY of SUPER GOOD SHIP" followed by the stenciled letters "MLIMA." To the unaided eye, these letters appear to vibrate violently upon the paper. The SCP Foundation is now tracking media for any information relating to the "SUPER GOOD SHIP MLIMA" and their connection to the ██████ company.
+
+Footnotes
+
+1. A direct correlation between their longevity after the fabric membrane is punctured and the value of the fine-structure constant α has been noted, as well as an inverse correlation between their longevity and their proximity to massive amounts of regular matter.

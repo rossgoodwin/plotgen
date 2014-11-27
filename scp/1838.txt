@@ -1,0 +1,199 @@
+SCP-1838.
+
+Item #: SCP-1838
+
+Object Class: Keter
+
+Special Containment Procedures: All professional sporting events in the United States are to be monitored, with particular attention to American football. Should SCP-1838 manifest at any of these events, 2 teams of agents are to be deployed to the location (Team A, consisting of 2 members, and Team B, consisting of 3 members).
+
+Upon arrival, Team A is to monitor SCP-1838 remotely, and must continue to monitor SCP-1838 until its disappearance. Team B is to monitor Team A and SCP-1838, and are not to interact with either entity unless a Lyssa Event occurs. If at any point during its manifestation a third party attempts to intervene and disrupt the SCP-1838's activities, Team A must use all means necessary to prevent this disruption.
+
+When SCP-1838 enters an active state, Team A must seize the vehicle and transfer it from the area, preferably as far away from populated centers as possible (SCP-1838-1 must not be harmed during this process). This process must not exceed 160 minutes, as this risks inducing a Lyssa Event. Should a Lyssa Event occur as a result of Team A's intervention, Team B is to terminate Team A. Team A is to use all available means to expedite this process. Should a third party be responsible, said party must be terminated immediately. Specialized media blackout procedures have been devised for Lyssa Events, and are available for viewing in DOCUMENT-SCP-1838-LE-MP (3/1838).
+
+Any individual that has consumed SCP-1838-2 is to be administered the appropriate amnestic with regards to the timeframe of their exposure.
+
+Access to SCP-1838-3 is currently forbidden (see DOCUMENT-SCP-1838-B7 (4/1838) for details).
+
+Description: SCP-1838 is a food catering truck. The individuals that operate the vehicle and the food dispensed by it are designated SCP-1838-1 and SCP-1838-2 respectively. SCP-1838 is of unknown make and model, its dimensions are (from the front) 1.4m x 2.3m x 7m, and the exterior is largely a patterned chrome. The left side of the truck is emblazoned with the words "Red Bear Bob's Food Truck". SCP-1838, SCP-1838-1, and SCP-1838-2 have not demonstrated anomalous properties in their composition. SCP-1838-1 are highly varied, demonstrating no distinct pattern in gender, age, or ethnicity, and while not aggressive or hostile towards Foundation interference, they remain secretive and vague regarding their personal facts. SCP-1838-2 consist of hamburgers, hot dogs, fried potatoes, fried chicken, various condiments, and soft drinks.
+
+SCP-1838 will manifest within roughly 100km of the site for a professional American football event in the United States; this will occur approximately 18-36 hours prior to the event's commencement. This manifestation has never been directly observed; it is not clear whether this fact is attributable to the nature of the anomaly or not. The manner in which the phenomenon selects events is unclear, but it appears to prioritize those with greater media attention. SCP-1838 will then park and settle within the closest legal proximity to the event location. Within one hour of the commencement, SCP-1838 will enter an active state, and SCP-1838-1 will begin to sell SCP-1838-2. SCP-1838 will continue in this state until 10-20 minutes after the completion of the event. At this point, it will leave the area and disappear within 18-36 hours; this event has likewise never been directly observed.
+
+It is currently unclear how many entities of SCP-1838 exist, though multiple simultaneous manifestations have not been observed. Details of SCP-1838 and SCP-1838-2 remain consistent throughout manifestations, though SCP-1838-1 does not, save for bearing the same uniform (a white cotton shirt bearing the "Red Bear Bob's Food Truck" logo, blue denim pants, and black unmarked shoes).
+
+Any human being that consumes SCP-1838-2 will become subject to its anomalous effect. These individuals will refuse all nutrition that is not provided by the consumption of SCP-1838-2, and they will express a longing for further consumption of said substance. It appears that the anomaly is caused not by the actual ingestion of SCP-1838-2, but by knowledge of its taste and texture, which is universally described by subjects as extremely high in quality. As such, amnestic treatment is sufficient in eradicating this effect. Individuals affected by SCP-1838-2 will additionally demonstrate the ability to produce further instances of SCP-1838-2. It is unclear how this occurs, but the majority of hamburgers, hot dogs, fried chicken, or fried potatoes cooked or prepared by these individuals will possess the same properties as SCP-1838-2, and are thus capable of propagating the anomaly.
+
+If an intentional, conscious effort is made to disrupt SCP-1838's mobility or activities for approximately 3 hours or longer per event (this duration need not be continuous) a now-designated "Lyssa Event" will occur. Numerous additional instances of SCP-1838-1 will manifest via a doorway at the left rear interior of SCP-1838 (this door is now designated SCP-1838-3; no corresponding door exists on the exterior of the vehicle), and will attempt to violently attack the responsible party. To date, these instances have been armed with a wide variety of improvised bludgeon and bladed weapons, including crowbars, tire irons, baseball bats, fire axes, and knives. There has been no observable limit to the number of SCP-1838-1 produced by a Lyssa Event, and said events only appear to subside when the responsible party is terminated. Additional SCP-1838-1 produced by the event will retreat to SCP-1838-3 following the event.
+
+Addendum [1838-001]: Exploration Log IA
+
+D-2535 is a Caucasian male in his early forties. The subject has been equipped with high definition recording unit with direct upload to the Foundation vehicle on-site, where it is being viewed by Dr. Albert. Agent Benet has been assigned to observe the exterior of the vehicle during this exploration. It should be noted that this exploration occurred prior to the identification of SCP-1838-3.
+
+D-2535 enters SCP-1838 after all instances of SCP-1838-1 have been removed from the vehicle.
+
+D-2535: …Okay, everything looks normal.
+
+Dr. Albert: Yeah, we get that a lot.
+
+D-2535: Pardon?
+
+Dr. Albert: Please continue examining the vehicle.
+
+D-2535 complies.
+
+D-2535: …Doctor, there's a door here.
+
+Dr. Albert: Where?
+
+D-2535: Left side, far back.
+
+Camera feed confirms D-2535's claim.
+
+Dr. Albert: Benet, is there a door on the rear left side of the vehicle?
+
+Benet: Negative.
+
+Dr. Albert: Shit.
+
+D-2535: What's going on?
+
+Dr. Albert: Try opening it.
+
+D-2535 successfully opens the door, which does not lead to the exterior of the vehicle.
+
+D-2535: …It's an elevator.
+
+Camera feeds confirms an elevator with chrome walls is beyond the threshold.
+
+Dr. Albert: Noted. Please continue.
+
+D-2535: What the fuck is going on?
+
+Dr. Albert: Please enter the elevator.
+
+D-2535 hesitates, then enters the elevator. Immediately, a secondary sliding door, also covered in chrome, closes behind him.
+
+D-2535: Shit! What now?
+
+Dr. Albert: Point the camera at the control panel.
+
+D-2535 complies, the control panel comes into view. A selection of buttons listing "Units 1-30" are visible, along with a button designated "Ground Floor". The button "Unit 15" is currently highlighted.
+
+Dr. Albert: Try "Ground Floor".
+
+D-2535 complies. The elevator rumbles and emits a low humming noise.
+
+Dr. Albert: Is it working?
+
+D-2535:: Yes.
+
+Less than 30 seconds later, the elevator stops and opens to a corridor. D-2535 exits. The corridor ends abruptly to his right, and continues roughly 20 meters to his left, before turning right. There are no other doors or windows, the floor, walls, and ceiling appear to be constructed of concrete, and a small number of fluorescent lights illuminate the corridor.
+
+D-2535: (Whispering.) Uh.
+
+Dr. Albert: Please continue down the corridor, quietly.
+
+D-2535 complies. Roughly 1 minute later, D-2535 turns the corner at the end of the corridor.
+
+D-2535: What in the-?
+
+A room of immense proportions is visible on the feed, at least 150m x 30m x 100m. A large number of conveyor belt assembly lines are visible, and appear to be fully automated. The items produced by these devices include clothing, accessories, appliances, furniture, automobiles, and food consistent with SCP-1838-2. An elevated, windowed chamber is visible in the distance, overlooking the room. Numerous suspended walkways/catwalks are visible above the machinery.
+
+Dr. Albert: D-2535, respond?
+
+D-2535 is silent.
+
+Dr. Albert: D-2535?
+
+A loud, high-pitched screeching noise is heard, echoing throughout the room.
+
+Dr. Albert: D-2535! What's going on?
+
+The camera feed abruptly cuts out. 1 hour later, D-2535 emerged from SCP-1838 and is recovered for debriefing. For the full aftermath interview, see Addendum [1838-004].
+
+Addendum [1838-002]: Incident Report
+
+On ██/██/20██, at █:██ █M, a Lyssa Event occurred in ██████, ██. The event was later determined to be caused by Team A, who were killed by SCP-1838-1 before Team B could respond. During the incident, the audio gathered by Agent █████'s headset recorded the following statement by an instance of SCP-1838-1:
+
+Why do you fuckers always gotta beat up on Bob, man?! He's just trying to fuckin' help us all-do you know how much he does for us?! Show some fuckin' gratitude-
+
+At this point, said instance struck █████ in the head with an aluminum baseball bat, destroying the headset and presumably killing/incapacitating █████.
+
+Addendum [1838-003]: Incident Report
+
+On ██/██/20██, an internet marketing campaign titled "Let's Get Ready for Red Bear Bob's General Department Store!" was discovered. No such stores were located in the United States, nor were zoning rights obtained for the construction of any such facilities. Global intelligence is incomplete, but is thus far negative. The campaign was successfully neutralized, but the host server remains undetectable for reasons unknown.
+
+Addendum [1838-004]: Exploration Log IB: Interview
+
++ DOCUMENT-SCP-1838-E1B (CLEARANCE 4/1838 REQUIRED)
+
+- DOCUMENT-SCP-1838-E1B (IDENTIFY VERIFIED)
+
+Interviewed: D-2535
+
+Interviewer: Dr. Albert
+
+Foreword: Debriefing of D-2535 after his exposure to SCP-1838-3.
+
+<Begin Log, 8:31 PM>
+
+Dr. Albert: What happened after you entered the assembly room?
+
+D-2535: I don't remember. I blacked out.
+
+Dr. Albert: What happened when you woke up?
+
+D-2535: I met him.
+
+Dr. Albert: Him?
+
+D-2535: Bob. He's a wonderful man.
+
+Dr. Albert: Describe him.
+
+D-2535: I don't know if I can do that in words.
+
+Dr. Albert: Is there another way?
+
+D-2535: Well…you can tell someone that something tasted good, but that doesn't convey the taste.
+
+Dr. Albert: …You tasted him?
+
+D-2535: No, but saying what he looked like or sounded like…just feels wrong. He was like a perfect garlic roasted chicken served with-I don't know.
+
+Dr. Albert: What did he say?
+
+D-2535: Everything.
+
+Dr. Albert: Everything.
+
+D-2535: Everything I needed to know. Who he was, what he did, and what happened to him.
+
+Dr. Albert: Explain.
+
+D-2535: He is all of us. He is our cash, our charisma, our desire for fun. I think he was like Dionysus1; he didn't say that, that's just how I felt when we met.
+
+Dr. Albert: D-2535, are you feeling alright?
+
+D-2535: Yes, I just know who I am now.
+
+Dr. Albert: Who is that?
+
+D-2535: I am Bob. We are all Bob.
+
+Dr. Albert: …What happened to him?
+
+D-2535: He says we forgot who he was, and we need to remember. We did, I felt bad.
+
+Dr. Albert: Did he say anything else?
+
+D-2535: He told me I should stop feeling guilty about [DATA EXPUNGED]…he said I needed to relax, and he was right.
+
+Dr. Albert: How did he know?
+
+D-2535: He is all of us.
+
+<End Log, 8:34 PM>
+
+Footnotes
+
+1. Dionysus: the Greek god of grape harvest, wine and ecstasy.

@@ -1,0 +1,103 @@
+SCP-1551 before Containment
+
+Item #: SCP-1551
+
+Object Class: Euclid
+
+Special Containment Procedures: Two agents are to integrate themselves in the town of ████ █████, Argentina, under civilian guise. Integrating agents are to move into 12 ████ Street, a purchased house, in order to maintain constant surveillance of SCP-1551. Any civilian coming within 30 meters of SCP-1551 are to be questioned and, if not found to be an instance of SCP-1551-X, given a Class-C amnesiac and released. New instances of SCP-1551-X are to be interviewed for confirmation of having gone through the events associated with SCP-1551 before being allowed into SCP-1551. At this time, precautions against a resident of SCP-1551 leaving the containment area are not necessary.
+
+Description: SCP-1551 is a house located in ████ █████, Argentina. SCP-1551 is associated with a repetitive sequence of events that target humans, causing them to eventually be forced by circumstance to live in SCP-1551. These humans are individually assigned a number, so that the first known human under SCP-1551 would be referred to as SCP-1551-01, the second human SCP-1551-02, the third as SCP-1551-03 and so on. When the previous human living in SCP-1551 dies, the sequence of events associated with SCP-1551 repeats. According to reports dating as far back as 19██, the events have repeated themselves 23 times, with the current individual being SCP-1551-23. Almost all iterations have begun with the previous individual's suicide, with the only exception being an accident from falling off the roof of SCP-1551 during repairs.
+
+The exact mechanism of these events are currently unknown, with multiple theories being discussed. See Document 1551-01T for more information. A tentative theory of the events associated with SCP-1551 have been established; see Addendum 1551-T for more detail.
+
+SCP-1551 appears as a house in an extremely dilapidated state. The building itself is not known to exhibit anomalous properties apart from those attributed the events. Research is ongoing; see Interview log 1551-23-02 for more detail. SCP-1551 contains a kitchen, a living room, three bedrooms, and two bathrooms. The house has no functioning plumbing, heating or electricity. The house itself has only basic furnishings, with the current SCP-1551-23 living primarily in the kitchen. SCP-1551-23 is a male of Ashkenazi Jewish descent, approximately 43 years of age. Subject spends all his time attempting to repair SCP-1551; this task is impossible for a single person. The only time he is seen outside of SCP-1551 is to tend to the backyard garden, the only area of the property not in a state of gross disrepair. SCP-1551-23 is fully cooperative towards any Foundation personnel and has lived on the property for █ years, the longest of any human that has lived in SCP-1551 since coming into Foundation custody (the average being 3 months).
+
++ Addendum SCP-1551-T
+
+- Close log
+
+Through multiple interviews with humans who have lived in SCP-1551 and the collaborative efforts of Dr. ██, Dr. ██████, and Dr. ████, a tentative theory has been established of the sequence of the events associated with SCP-1551. This sequence is theorized to accommodate minor variations in circumstance and temperament of each instance. This theory states that the purpose of the events is to force a human into a position where occupying SCP-1551 and attempting to repair it unaided is the only option. The sequence comprises two parts. Initially, events place the subject in a situation of relative prosperity; subsequently, this prosperity is taken away. The general process of the events associated with SCP-1551 are as follows.
+
+The first part of the events typically involves moving the targeted human instance to ████ █████, usually through an offer of work. At this point, if the targeted human was close with their family, they have a misunderstanding which causes them to no longer be on speaking terms. The instance eventually meets and marries a resident of ████ █████. If the couple is fertile, they will have a child before part 2 begins.
+
+The second part of the sequence begins with the spouse of the targeted human leaving them. The spouse typically takes most of their wealth. Either shortly before or shortly after, the subject will lose their job and become unable to maintain their current standard of living. At this point they are informed of SCP-1551, which, if repaired, could be bought cheaply and resold for an extremely high price. The targeted human purchases the property over the option of homelessness. If they have any money left, their remaining savings will go towards hiring construction crews which invariably fail for a wide variety of reasons such as fraud, freak accidents, and sudden bankruptcy of the construction company. Once remaining funds are exhausted, they will move into SCP-1551 themselves and attempt to repair it alone. At this point the sequence is considered complete until the death of the instance, initiating another iteration.
+
++ Interview log 1551-23-01(Translated from Spanish)
+
+- Close log
+
+This interview was to confirm SCP-1551-23's experiencing of the events associated with SCP-1551.
+
+Interviewed: SCP-1551-23
+
+Interviewer: Dr. J██████
+
+<Begin Log>
+
+Dr. J██████: Please state your name for the record.
+
+SCP-1551-23: It's ████ ████████. [agitated] What do you people want? I already have enough to take care of!
+
+Dr. J██████: Calm down. Answer our questions and we'll let you go.
+
+SCP-1551-23: Fine.
+
+Dr. J██████: Tell me how you came to ████ █████. It's pretty far away from where you're from, right? You speak with an accent.
+
+SCP-1551-23: Yes. I'm from ███████. I was looking for work overseas. Got this job offer. Since I already spoke some of the language and they told me I didn't need an interview, I went on over. I worked in manual labor. It was a hard job but it paid well.
+
+Dr. J██████: What're you doing owning such a house? There are some apartments closer to town.
+
+SCP-1551-23: I said was. I'm not working anymore. The company went bankrupt a little while ago. Tried to start a hotel business but stopped because of… other matters.
+
+Dr. J██████: Explain.
+
+SCP-1551-23: [agitated] Do you want every facet of my life?
+
+Dr. J██████: Just answer the question and we'll let you go. This is all confidential.
+
+SCP-1551-23: I met a pretty girl while working. Her name was ████ ███████. We dated and got married when times were good, had a baby. Beautiful little boy. We named him Matthew. Then… One day, ████ woke up and our little Matthew was… [begins to cry] …he wasn't here anymore.
+
+Dr. J██████: Taken?
+
+SCP-1551-23: [agitated, yelling] If by stolen you mean taken by God, you thickheaded bastard! My Matthew was dead! And ████ blamed me! Me! I would never have harmed him! She left me and took half my savings with her! Ran off with some rich asshole! I don't even have enough money to hire a crew for this house anymore! Now leave me alone!
+
+Dr. J██████: Thank you. That'll be all.
+
+<End Log>
+
++ Interview log 1551-23-02(Translated from Spanish)
+
+- Close log
+
+This interview was initially to question SCP-1551-23 about his experiences in SCP-1551, a year after initial interview.
+
+Interviewed: SCP-1551-23
+
+Interviewer: Dr. J██████
+
+<Begin Log>
+
+Dr. J██████: So tell me about your house.
+
+SCP-1551-23: It's old, probably a century, maybe more. I didn't do the research. Hey, do your goons stash food or something around for me? Especially that man snooping around, the one with the kind smile. Thanks, I appreciate it.
+
+Dr. J██████: Go into more detail.
+
+SCP-1551-23: Don't play dumb with me. Sometimes I find food in crevices, nonperishable canned stuff. Sometimes I can warm them, other times I just open them and eat cold. At first I thought it was just the previous person who lived here and forgot to move out with the food. Then, I'd keep finding food in places. Old shelves I was repairing would happen to have some canned soup tucked in the back. I'd explore that cluttered attic and find another stash of food. It's not enough to keep me full but it's enough to keep me alive. I appreciate it.
+
+Note: Every agent that has been on duty around SCP-1551-23 has denied this claim. The entity further specified does not match the description of any agent on current roster for SCP-1551-23. Possible anomalous activity is currently undergoing investigation.
+
+Dr. J██████: Is there anything else unusual you find while working on your house?
+
+SCP-1551-23: Unusual? Well, it's a pretty old house. There's not like any ghosts you mention or something. This place gets me down though. Every time I feel like I'm going to quit this place and get my act together something comes along and knocks the wind right out of me. Just the other day, I found a newspaper about that bastard and his fat new government contract…
+
+Dr. J██████: Who, exactly?
+
+SCP-1551-23: That guy the whore ran off to after stealing my savings, who else? Anyway, I … I didn't feel much like doing anything else that day. I just sat around the house and looked at my lists.
+
+Dr. J██████: Thank you, that will be all.
+
+<End Log>
+
+End Notes: As a result of this interview, investigations of the potential for anomalous properties manifested by SCP-1551 have been launched as of ██/██/20██. Information on these investigations can be found in Document 1551-I.

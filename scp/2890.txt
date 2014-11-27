@@ -1,0 +1,145 @@
+The setting of SCP-2890-2.
+
+Item #: SCP-2890
+
+Object Class: Euclid
+
+Special Containment Procedures: New instances of SCP-2890-1 are to be collected by embedded Foundation agents as they appear, and are to be moved to Site 81 for examination. Instances of SCP-2890-1 are to be kept in airtight, low security storage lockers when not undergoing examination. Should a copy of SCP-2890-1 come into the possession of any non-Foundation personnel, the subject(s) must be administered a Class B amnestic and turned over to their local law enforcement authorities.
+
+Unauthorized playbacks of SCP-2890-1 are to be considered a low risk information breach. If necessary, Protocol 2890-Alpha (Failed Pilot Scenario) may be enacted to contain the spread of sensitive information from an unauthorized playback.
+
+Description: SCP-2890 is a recorded program contained on unmarked, unaltered video cassette tapes (SCP-2890-1). Once per month, an instance of SCP-2890-1 appears in a nondescript manila envelope in the incoming mail of one of several locations, including the United States Capitol Building, the Russian Kremlin, and the British Palace of Westminster. Video surveillance of the mail rooms for these buildings has been inconclusive; the envelopes containing SCP-2890-1 simply appear at a seemingly random time somewhere within the large quantities of mail these locations receive.
+
+SCP-2890-1 instances, when played through any standard video cassette player, display a recording of what appears to be a property auction designed for television (SCP-2890). The recordings appear to have been made with a low-quality handheld camcorder. Subtitles persist throughout the entire recording, usually in English, French, Russian, Mandarin, or Spanish. Individual episodes of SCP-2890 are designated SCP-2890-EXX, and the winners or notable individuals of those episodes are designated SCP-2890-EXX-X.
+
+Notable features of SCP-2890 include:
+
+Most of the participants in the auctions are not human.
+
+Most of the languages spoken are either in an unknown tongue, or seemingly indiscernible by human intelligence.
+
+The currencies being used in the auction vary wildly, including radioactive metallic capsules, German deutschmarks, the excrement of an unknown species of extraterrestrial livestock, and small statues that appear to be made out of solid platinum. The auctioneer seems to maintain the exchange rate between all different forms of currency.
+
+The properties being auctioned off are planets within the Milky Way Galaxy.
+
+SCP-2890 follows a formulaic premise throughout its consistent 22 minute duration. The Auctioneer (Designated SCP-2890-A) opens the show by introducing all of the potential attendees. SCP-2890-A has remained consistent throughout all instances of SCP-2890, and appears to be a roughly 3m tall ellipsoid entity with a bio-luminescent skin layer and several appendages that can extend and retract at will.
+
+SCP-2890-A then addresses the camera, stating what two properties will be up for bid during that program. To date, all properties brought up at the auction have been planets, including Gliese 876-d, HD160691-c, 55 Cancri-f, and [DATA EXPUNGED - See Addendum 2890-C for additional information].
+
+Then, SCP-2890-A will begin the bidding. The bidding always begins with what seems to be an amount measured in a base currency, usually subtitled as [energy]. The auction proceeds slowly, as the individual participants reply only after deliberation with their advisors1. SCP-2890-A keeps track of the bids, and will occasionally remark that a bid does not exceed the previous bid. Upon completion of the auction, SCP-2890-A will proceed to finalize the paperwork, and then award the "title" of the planet to the winner of the auction. The camera will then cut to a post-auction interview with the winner, where an off-screen interviewer will inquire, usually through an interpreter, what the winner intends to do with the planet they have just won. After this interview, there is a brief commercial break2, after which the second part of the auction begins.
+
+Addendum 2890-A: The following is the interview log of SCP-2890-E22. The planet being bid upon during the auction was a previously undetected planet, MRA-22812.
+
+SCP-2890-E22 Interview Log 1
+
+Note: All subtitles are denoted in brackets.
+
+Subject: SCP-2890-E22-1, a large gelatinous creature suspended within what appears to be a machine designed to hold SCP-2890-E22-1 aloft using magnets. Entity appears to have no discernibly sensory organs, and only a low rumbling sound is depicted whenever captions indicate that SCP-2890-E22-1 is speaking.
+
+Interviewer: [Congratulation on your winning today, Mr. Aleky. How do you feel to be walk away with winning?]
+
+SCP-2890-E22-1: [I am always feel good about winning. It is nice to know being can afford more others. Nothing bring Aleky greater happiness.]
+
+Interviewer: [To be for the record, on most recent purchase you spend of 16 unregulated clusters. As such large sum, do not think could be re purposed to impoverish?]
+
+SCP-2890-E22-1: Low, sporadic rumbling, likely laughter. [It is of no being concern.]
+
+Interviewer: [Yes of course! How plan you to utilize winning?]
+
+SCP-2890-E22-1: [Likely to re purpose as new fun wash area for squidwash young squidwash. Hope building will commence prompt. Likely to move squidwash execute interestingly.]
+
+End Transcript
+
+Addendum 2890-B: During the post-auction interview of SCP-2890-E31, the winner of the second auction, SCP-2890-E31-2, made the comment that it would likely change the orbit of the planet it had won, TFD-30023, so that it would collide with the star of that system, TFD-Prime. Being that TFD-30023 was a documented celestial body, Foundation assets in major observatories began to observe and document its orbit shortly after the recovery of SCP-2890-E31.
+
+On 03/05/1995, the Kitt Peak National Observatory observed TFD-30023 undergoing massive orbital destabilization, resulting in TDF-30023 becoming completely engulfed by TFD-Prime on 09/17/1996. After quickly ruling out possible natural events that could have resulted in the orbital destabilization, SCP-2890 was requested to be upgraded to Euclid. This request was granted with a majority vote by the Classification Committee.
+
+Researcher's Note: It is currently unclear when the events of SCP-2890 take place. Because of the results of SCP-2890-E31, it is now clear that the fate of TFD-30023 and SCP-2890-E31 are linked, however, due to the vast distance TFD-30023 is from Earth, and the time it would have taken for light to travel that distance, it is improbable that SCP-2890-E31 was recorded no sooner than ██████ years ago, well before the advent of any kind of human society on Earth. Research into possible temporal abnormalities are ongoing. -Dr. Aktus
+
+Addendum 2890-C: INFORMATION RESTRICTED TO LEVEL 3 PERSONNEL OR ABOVE
+
++ INPUT CREDENTIALS
+
+- CREDENTIALS ACCEPTED
+
+During the recording of SCP-2890-E40, SCP-2890-A brought up for auction a planet listed as ARM-00341. With the information provided, researchers quickly determined this planet to be Earth. This presentation of Earth as an auctioned property coincided with the appearance of a humanoid entity resembling an elderly male of African descent, designated SCP-2890-B, as a participant in the auction. The following is an excerpt of the transcript of that event.
+
+Begin Transcript Excerpt:
+
+SCP-2890-A: [We will begin the bidding at 15 energy.]
+
+SCP-2890-E40-13: [Bid of the amount 17000000 petal.]
+
+SCP-2890-A: [See bid of 17000000 petal.]
+
+SCP-2890-C4: [Bidding 3 unregulated cluster.]
+
+SCP-2890-A: [See bid of 3 unregulated cluster. Who is bid the up?]
+
+SCP-2890-B: Entity speaks in unbroken French. I will bid 2400 terras.
+
+SCP-2890-A: [See bid of 2400 terra. Who am to match?]
+
+SCP-2890-C: [Raise bid to 15 unregulated cluster.]
+
+SCP-2890-A: [See bid of 15 unregulated cluster.]
+
+SCP-2890-B: 3500 terras.
+
+A moment of silence occurs before SCP-2890-A responds.
+
+SCP-2890-A: [See bid of 3500 terra. Any to raise?]
+
+No response from any bidders. SCP-2890-C is observed staring at SCP-2890-B.
+
+SCP-2890-A: [Go one, go two, given! To gentleman from Sol.]
+
+End Transcript
+
+Notably, after the conclusion of SCP-2890-E40, a notice is shown informing the viewer that the winner of the auction, SCP-2890-B, declined a post-auction interview.
+
+Addendum 2890-D: INFORMATION RESTRICTED TO LEVEL 4 PERSONNEL OR ABOVE
+
++ INPUT CREDENTIALS
+
+- CREDENTIALS ACCEPTED
+
+During the events of SCP-2890-E62, Earth was once again brought up for auction without explanation. Although other entities were shown in attendance of the auction, only SCP-2890-C submitted a bid. SCP-2890-A declared SCP-2890-C the winner of the auction, which lasted a record low 45 seconds.
+
+The following is the transcript of the post-auction interview from SCP-2890-E62.
+
+SCP-2890-E62 Interview Log 1
+
+Note: All subtitles are denoted in brackets.
+
+Interviewer: [Congratulate on winnnings, Mr. Borl! How does to the winning make when you feel?]
+
+SCP-2890-C: [Is feeling excel, you appreciate. No better than winnings.]
+
+A commotion is heard in the background of the interview. SCP-2890-C does not change expression or look to the source.
+
+Interviewer: [Well going of nice hearing! So now beings what are you plan for the winnigns?]
+
+SCP-2890-C: [Me sees withers too muching the frogmeat. On the green winnigns, numbers of watermeat, feelin warm for frogmeat. Inside watermeat, many of the frogmeat being gatering and making large.]
+
+Interviewer: [So then making frogmeat to be insidem watermeat?]
+
+SCP-2890-C: [Inside or and around. Make watermeat hunger sack for frogmeat, delicious to an small frogmeat. No needing for adding the egg sack frogmeat additionally. And abundance many of watermeat! Frogmeat pleased with Borl winnings.]
+
+Interviewer: [Yes. Yes! Notably wonderous how working the watermeat for the many sacks of frogmeat. Undeniably for the successes Borl can!]
+
+SCP-2890-C: [Many appreciations for the winnings assistant of giving to Borl from gathering of the World Group. Frogmeat are easily not of losing the memory soon.]
+
+Interviewer: [Yes! Notes to the World-]
+
+Interviewer is cut off as SCP-2890-B enters scene. There is shouting and general disorientation, during which the camera gets knocked to the ground. From its resting angle, the camera records SCP-2890-B approaching SCP-2890-C, who appears to vastly elongate its jaw. A low rumbling is heard, punctuated by the sound of some kind of firearm. The camera shakes violently, and then cuts to black. Throughout the entire exchange, a caption reading [MOMENTARY DISTRESS] is visible on the screen.
+
+Footnotes
+
+1. Usually entities that appear similar to the bidder.
+
+2. Commercials shown are wholly without subtitles and completely illegible.
+
+3. An entity that appeared to be a obelisk composed of constantly rotating lichen.
+
+4. An entity that appeared to be a large Lithobates catesbeianus consisting entirely of carved marble and designated SCP-2890-C.

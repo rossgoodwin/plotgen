@@ -1,0 +1,67 @@
+Item #: SCP-1244
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1244 is currently contained in lock box ██-█ in Site ██. SCP-1244 is currently under observation in storage room ██, which shares a wall with the D-Class cafeteria kitchen. Under no circumstances should the top button be pushed outside of supervised testing procedure.
+
+Description: SCP-1244 appears to be a ██████ ██████ brand stopwatch, specifically a model produced in 19██. X-ray scans of the device reveal a very complex interior filled with gears and levers of various materials. The interior bears little to no relation to the expected components, both in complexity and material composition. Attempts to replicate or even map the design based on scans have met with repeated failure, and all requests to disassemble the watch have been turned down due to risk of damaging the device. An engraving on the back reads, "I'll see you soon -C".
+
+When the button on the top of the watch is pressed, the hand of the watch will quickly spin clockwise reading a time between ten (10) and sixty (60) seconds, then begin counting down to the zero (0) mark at the normal rate for a standard stopwatch. When the hand reaches zero it stops with a loud click, coinciding precisely with an event of significance to a nearby person, with a range of at least 16 meters. The event is always the sort caused by a fixed amount of time passing, and were all in progress before the button was pushed. Statistically the number of such events occur with anomalous frequency during use of the watch, suggesting a sort of temporal causation by unknown method.
+
+Testing Log
+
+Setup: Digital clock with 30 seconds left till alarm
+
+Date: 01/13/██
+
+SCP-1244 spun up to 30 seconds, and counted down along with digital clock.
+
+Setup: Digital clock with 8 minutes left till alarm
+
+Date: 01/17/██
+
+SCP-1244 spun up to 53 seconds. When it reached zero, level 2 researcher ██████ burst into the room, and apologized for being late for scheduled testing. The researcher felt no strange compulsion but had been held up studying and lost track of time, and rushed through the facility in an attempt to arrive on time.
+
+Setup: All time pieces removed from room, all researchers present
+
+Date: 01/17/██
+
+SCP-1244 spun up to 10 seconds. When it reached zero, no event was recorded.
+
+Note: This was later determined to have this coincided with the end of guard shift C. Two guards were stationed in the hallway outside the room at the time. - Dr. ██████
+
+Setup: Researcher in far corner of room instructed to count down from 30 in his head
+
+Date: 1/17/██
+
+SCP-1244 spun up to 27 seconds and reached zero at the same time as researcher.
+
+Note: I guess the guy counted a little fast. - Dr. ██████
+
+Setup: Non-researchers evacuated from testing wing.
+
+Date: 01/19/██
+
+SCP-1244 spun up to 57 seconds. When it reached zero, no event was recorded.
+
+Note: This event occurred at exactly 11PM local time, or Midnight in ████████ time where Dr. ██████'s wife was living at the time. She was furious that he missed their anniversary. - Dr. ██████
+
+Setup: Testing wing emptied, button pushed using remotely operated robotic arm
+
+Date: 01/21/██
+
+SCP-1244 spun up to 32 seconds. When it reached zero the robotic arm sparked and dropped SCP-1244.
+
+Note: We found a servo in the arm whose warranty expired exactly 2 years from time of purchase, matching its failure to the second. It seems that, with no obvious countdown to sync to, it… finds one. - Dr. ██████
+
+Setup: Digital clock with 61 seconds left till alarm.
+
+Date: 01/22/██
+
+SCP-1244 spun up to 60 seconds. When it reached zero, researcher █████ collapsed to the floor, dead of a ruptured brain aneurysm. Subsequently discovered medical reports from 90 days ago had given him roughly three months to live.
+
+Note: It may just be me, but it feels like this was a little vindictive. It is my recommendation that we consider testing done on this particular object, I'd rather not piss it off any more and risk it interacting with any other SCPs in the facility. - Dr. ██████
+
+Incident 1244-A:
+
+On 03/19/██, cleaning staff noticed a faint ticking sound from SCP-1244's lock box. This was reported to research staff who determined that it had been activated by itself after being locked away for nearly two months. Research staff were unable to determine what it was synced with, but the object has since been moved to a room adjacent to a cafeteria kitchen. Monitoring equipment shows that it occasionally activates and syncs with the microwave clock on the far side of the wall. Since this move, this is the only additional anomalous behavior that has been recorded.

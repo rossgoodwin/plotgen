@@ -1,0 +1,147 @@
+Testing materials comprising SCP-1327. 
+
+Item #: SCP-1327
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1327 is to be kept in High-Security Storage Locker J-21b at Site 19. Any further testing requires written approval from supervising researcher.
+
+Description: SCP-1327 is an English-language intelligence testing kit which superficially resembles the Wechsler Adult Intelligence Scale (3rd revision). It comprises nine testing booklets of varying sizes containing a variety of tasks meant to assess various components of intelligence, designated SCP-1327-1 through SCP-1327-9; a set of coloured wooden blocks intended for use in a spatial reasoning task, designated SCP-1327-10; and a pad containing instructions and scoring sheets, designated SCP-1327-11.
+
+The anomalous properties of the object manifest upon completion of any of the individual tasks. Within 500 milliseconds of task completion, both the test-taker and the person administering the test will lapse into a bilateral complex partial seizure lasting approximately 8 seconds, during which time EEG waves show temporal lobe activation consistent with █████████. Upon emerging from the seizure state, the test-taker will have the capabilities of the test administrator in the domain of intelligence that was just tested and vice versa. Neither the test-taker nor the administrator claims to have any knowledge of an 8-second gap, and barring any radical change in intelligence, both generally proceed as though nothing unusual had happened (see Experiment Log 1327-1).
+
+The test materials themselves show overt differences from the standard WAIS-III as follows:
+
+SCP 1327-1 (analogies task): No divergence from WAIS-III.
+
+SCP 1327-2 (vocabulary task): Several words are given nonstandard spellings.
+
+SCP 1327-3 (general knowledge task): In place of their usual content, all prime-numbered questions concern fairly obscure chemical and metallurgical knowledge such as the freezing point of mercury and the proportion of copper to zinc in brass.
+
+SCP 1327-4 (arithmetic task): No divergence from WAIS-III.
+
+SCP 1327-5 (numerical working memory task): No divergence from WAIS-III.
+
+SCP 1327-6 (symbol search task): In addition to the alphanumeric and Boolean operand characters used in the standard WAIS-III, the symbols used in this task include nonstandard symbols resembling alchemical characters used in the 17th-century Holy Roman Empire.
+
+SCP 1327-7 (digit symbol-coding task): see SCP 1327-6.
+
+SCP 1327-8 (matrix reasoning task): The numbers provided in the matrices are different from those in the WAIS-III, but with no obvious pattern.
+
+SCP 1327-9 (picture completion task): The provided pictures are line drawings which appear to represent scenes from The Chymical Wedding of Christian Rosenkreutz.
+
+SCP 1327-10 (block design task): The design which test-takers are meant to duplicate is impossible to achieve with the blocks provided within the allotted time, resulting in failure regardless of the test-taker's aptitude.
+
+SCP 1327-11 (instructions and scoring sheets): No divergence from WAIS-III, other than that scoring guidelines for the anomalous tasks are included.
+
+Recovery notes: SCP-1327 was obtained from the psychology department of ████████ University in 1993. The object became known to the Foundation when a graduate student developed signs of severe mental retardation after using it in a study of Alpha-Thalassemia Syndrome patients.
+
++ Experiment Log 1327-1
+
+- Hide Experiment Log 1327-1
+
+This logfile records all attempts at using SCP-1327. Please use the following format:
+
+Researcher:
+
+Date:
+
+Test administrator:
+
+Test taker:
+
+Task used:
+
+Results:
+
+Notes: (if necessary)
+
+Researcher: Dr. Pran
+
+Date: 06-25-2002
+
+Test administrator: D-60144, a former elementary school mathematics teacher
+
+Test taker: D-59903, a vagrant with no formal education
+
+Task used: SCP-1327-4 (arithmetic task)
+
+Results: Subjects completed the task without incident and entered the complex seizure state as expected. When subsequently tested on a standard intelligence scale, D-59903 displayed a significant increase in mathematical aptitude, going from the 6th percentile to the 82nd. D-60144 was unable to perform basic arithmetic and became highly agitated before he was sedated by Foundation guards.
+
+Researcher: Dr. Pran
+
+Date: 06-27-2002
+
+Test administrator: D-59903
+
+Test taker: D-60144
+
+Task used: SCP-1327-4 (arithmetic task)
+
+Results: D-59903 repeatedly remarked on D-60144's poor performance. Task took approximately 2 hours to complete due to incessant taunting from D-59903. Post-seizure testing showed that both subjects had returned to their original levels of mathematical competence.
+
+Researcher: Dr. Pran
+
+Date: 06-30-2002
+
+Test administrator: D-60150, a former gang member of average intelligence
+
+Test taker: D-59921, left in a persistent vegetative state after exposure to SCP-████
+
+Task used: SCP 1327-2 (vocabulary task)
+
+Results: D-60150 showed some initial reluctance but eventually attempted to administer the test. D-59921 remained in a vegetative state and did not respond to D-60150's questions. No seizure state occurred and there was no subsequent change in D-60150's vocabulary.
+
+Researcher: Dr. Pran
+
+Date: 07-03-2002
+
+Test administrator: D-60259, a murderer with average memory capacity
+
+Test taker: D-60263, an autistic savant with eidetic memory
+
+Task used: SCP 1327-5 (numerical working memory task). D-60263 was instructed to respond “I don't know” to each question.
+
+Results: D-60259 acquired a domain-specific working memory span in excess of 500 unique numbers or musical notes, but showed no improvement in memory for words, spatial locations, or visual scenes. D-60263's memory performance was average for numbers and music but remained extraordinarily high in all other domains.
+
+Notes: So performance on the test doesn't matter – as long as there's some kind of response, subjects' actual intelligence is swapped regardless.
+
+Researcher: Dr. Pran
+
+Date: 10-13-2002
+
+Test administrator: D-61553, a serial rapist with average general intelligence
+
+Test taker: A rhesus macaque monkey (species Macaca mulatta) trained to hold up a small placard saying “I don't know” when prompted
+
+Task used: SCP-1327-1 (analogies task)
+
+Results: D-61553 attempted to leave after the first five questions, protesting that the test was “the stupidest fucking thing I've ever seen,” but was persuaded to complete the task. Post-seizure testing showed that D-61553 was unable to understand several forms of basic logic, including syllogisms, implication, and modus ponens. The monkey displayed human-level analogical reasoning ability.
+
+Researcher: Dr. Pran
+
+Date: 11-01-2002
+
+Test administrator: D-62791, a murderer with slightly below-average general intelligence
+
+Test taker: A bottlenose dolphin (species Tursiops truncatus) trained to make a shrugging motion with its pectoral flippers when prompted
+
+Task used: SCP 1327-3 (general knowledge task)
+
+Results: [DATA EXPUNGED]
+
+Notes: Further experiments with dolphin subjects are strongly discouraged.
+
+Researcher: Dr. Pran
+
+Date: 11-15-2002
+
+Test administrator: D-59841, a multiple sex offender with genius-level intelligence
+
+Test taker: D-61224, a methamphetamine dealer who suffered severe brain damage after accidental exposure to chemical fumes
+
+Task used: Full battery (SCP-1327-1 through -10)
+
+Results: Despite extensive damage to cortical regions associated with speech and motor control, D-61224 was able to stay responsive throughout the test with the aid of Class-C stimulants. The first effects became apparent upon completion of SCP-1327-2, when D-59841 began to pronunce words in the testing materials phonetically rather than according to their proper pronunciation. Further advancement through SCP-1327-4 and -5 prevented D-59841 from tallying the scores in each task. At this point D-59841 began to show signs of extreme distress and had to be forcibly restrained. Upon completing SCP-1372-6 and -7, D-59841 lost the ability to read the testing materials, and complained that the subsequent pages were full of "squiggle things" rather than letters. When instructed to continue, D-59841 again violently attempted to cease testing and was placed under sedation, and instructed to conduct the rest of the test by simply holding the instruction page up so that D-61224 could see it. Finally, completion of SCP-1372-9 and -10 resulted in total visual agnosia, rendering D-59841 completely unable to recognize objects in his surroundings or navigate through physical spaces without colliding into obstructions. D-61224 showed no increase in aptitude, and subsequent functional imaging showed no increase in brain activation in regions associated with visual, linguistic, mathematical, or mnemonic processing.
+
+Notes: Organic brain damage appears to prevent intelligence transfer - at least in one direction. Couldn't reverse this, as neither subject was able to act as administrator after the test was completed.

@@ -1,0 +1,91 @@
+Item #: SCP-430
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-430 is to be kept in a humanoid containment cell on Site-17, placed on a wooden pallet or equivalent loose support at least 20cm above ground to prevent rusting. The cell containing SCP-430 is to be fitted with an adjustable table, a sand basin, a controllable two-position hook-conveyor system, and a master-slave control system as specified in Document 430-Gamma - construction details.
+
+One cell adjacent to SCP-430 is to house a live D-Class subject, designated SCP-430-C, whose suitability was ensured by enacting Protocol Prometheus-11 prior to their internment. SCP-430-C is to be treated in accordance with Foundation Humanoid Containment Guidelines section NP-1. Suitable SCP-430-C candidates are nonviolent, introverted, and capable of carrying out simple tasks without supervision, with claustrophobia being a disqualifying factor.
+
+Other cells adjacent to SCP-430 containment are to be designated long-term low-value item storage (see Site-17 floor plan section IJ-23). The set of cells adjacent to SCP-430 is designated SCP-430-3.
+
+While SCP-430 contains a living subject, designated SCP-430-2, such SCP-430-2 is to be treated in accordance with Foundation Humanoid Containment Guidelines, section NP-5, except as following.
+
+Routine medical examinations of SCP-430-2 are to take place weekly, rather than monthly.
+
+SCP-430-2 is to be fitted with a heart rate monitor.
+
+Due to restricted movement, SCP-430-2 is to be fed an individualized diet as per recommendations of a qualified member of Site-17 medical staff.
+
+SCP-430-2 is to be administered daily doses of aspirin to prevent vein thrombosis. SCP-430-2 is to be encouraged to perform light exercise within the limits of SCP-430's allowance.
+
+While no Foundation staff is present in the containment cell, SCP-430-2 is to have control of the table position, the lighting and the hook-conveyor system by means of the slave controller, unless deemed otherwise by staff of clearance 1/430 or higher. This controller is to be disabled from the main control panel prior to staff entering SCP-430 containment. SCP-430-2 is to be explained the functioning of the controls, and be ordered to transport their cell above the sand basin prior to urination or defecation.
+
+The sand basin is to be cleaned daily.
+
+In the case of SCP-430-2 expiring, as represented by the lack of signal from SCP-430-2 heart rate monitor coupled with visual confirmation, no personnel is to enter SCP-430-3 until visual feed confirms the presence of former SCP-430-C inside SCP-430; subsequently, the remains of previous SCP-430-2 are to be removed from SCP-430, and the new SCP-430-2 briefed.
+
+Protocol Prometheus-11: Prior to being classified SCP-430-C, chosen D-class personnel is to sign a printed copy of the following document.
+
+Note: Following Incident 430-1, personnel are to ensure SCP-430-C has signed the document with their own name. - Researcher Eisenberg
+
+I hereby of my own will declare that I reject the divine mandate of our monarch,
+
+holding them to no more esteem than the lowest of peasants,
+
+for all men were born equal, and that I support and urge my countrymen to rise against feudal tyranny and
+
+fight for freedom, brotherhood and equality.
+
+Undersigned.
+
+Description: SCP-430 is a cylindrical gibbet approximately 3m tall and 0.7m in diameter, weighing ca. 800kg, composed of an unknown material - SCP-430 resists attempts to obtain bulk material samples, and attempts at indentation testing resulted in hardness values inconsistent with other properties1. Samples of surface corrosion are obtainable, and are chemically identical to hydrated ferrous oxide. On the lower rim, the numerals "1772" and name "Hans Drechsler" are carved.
+
+While SCP-430 is occupied by a living individual (designated SCP-430-2), it persists in a passive state. SCP-430-2 can interact with their environment outside SCP-430, subject to the imposed physical constraints. Even if feasible for their size and dexterity, SCP-430-2 will deny having the ability to exit SCP-430. If forced to exit, SCP-430-2 shows signs of mental distress, and reappears within SCP-430 within three hours of removal. SCP-430-2 shows no other anomalous properties or traits.
+
+Individuals within direct sight range of SCP-430 form false memories consisting of alleged reason for SCP-430-2's presence within SCP-430, in the form of a transgression SCP-430-2 has committed. The memories are consistent among test subjects.
+
+When SCP-430-2 expires, SCP-430 enters active state. During active state, SCP-430 attempts to locate a suitable individual in its vicinity, with a radius of effect expanding by ca. 10m/hour, with unknown upper limit.2. A suitable individual, defined as one who has transgressed against laws and regulations of the Royal City of ████████ City Council, valid during the period of 1766-1780, and who is within the effective range, will be instantaneously transported into SCP-430 through an unknown mechanism, becoming the next SCP-430-2.
+
+SCP-430 appears to show strong preference for individuals who have committed crimes against church or feudal authority, such as blasphemy, treason, lèse majesté3 and poaching.
+
+Recovery Log: SCP-430 was recovered from [REDACTED], Western Germany, following a police raid on a compound owned by members of "Die Söhne von Magdalena" (Sons of Magdalene)(see Addendum 430-1), as a result of witness reports detailing Hans ██████, a member of the task force, appearing inside SCP-430 after attempting to aid its previous occupant, who was wounded in the firefight and subsequently expired. A modified report detailing his death during the operation was published, and members of the task force were administered Class-A amnesiacs.
+
+Addendum 430-1: Sons of Magdalene
+
+A fringe christian sect led by a Johann ████, members of Sons of Magdalene venerated SCP-430 as a living manifestation of God's judgement, and considered SCP-430-2 holy martyrs, usually providing them with drinking water, honey and insects, as a reflection of the fasting of Saint John the Baptist.
+
+In its original location, SCP-430 hung from the roof, behind the altar of the compound's church, with a sheet of worked sheepskin with the following inscription4 covering its lower half.
+
+For Mary Magdalene was sinful, but she knew of her sin, and repented in the face of our Lord, and was thus blessed
+
+And the scribes and Pharisees who brought her forth and willed to stone her knew of her sin
+
+But they were sinful and did not know of their own sin, and thus were damned
+
+And Lord Jesus said to them, He that is without sin among you, let him first cast a stone at her,
+
+And blessed were the men and women for they learned of their sin, for they have walked the path of salvation.
+
+Addendum 430-2:
+
+Incident 430-1:
+
+On ██/██/19██, SCP-430-C failed to appear within SCP-430 following expiry of then-current SCP-430-2 even after one hour since event.
+
+153 minutes after event, Researcher A. Novikov disappeared from his office5, becoming the next SCP-430-2, with observers citing charges of sedition and lèse majesté.
+
+When interrogated, SCP-430-C admitted to signing the document with Researcher A. Novikov's name, claiming to have overheard it from security personnel, and citing "I never signed shit with my own name, and not gonna start now" as a reason. Examination of the signed sheet confirmed this finding. SCP-430-C was terminated on disciplinary charges.
+
+Researcher A. Novikov was provided with a computer and continued his work until his death on ██/██/20██.
+
+Footnotes
+
+1. Vickers indentation test resulted in measured hardness values between 18-35HV5, while subsequent attempt at sampling showed the bulk material being capable of causing significant abrasive wear of the diamond-coated cutting disc.
+
+2. Testing aborted after radius of effect exceeded 300m
+
+3. Includes impolite speech to an individual whose patrilineal lineage traces back to nobility born after ca.1650)
+
+4. Translation follows; footage of the original inscription is available in the archive as Document 430-Sigma
+
+5. approximately 250m shortest path from SCP-430-2 containment

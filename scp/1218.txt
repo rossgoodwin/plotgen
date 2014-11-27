@@ -1,0 +1,107 @@
+Instance of SCP-1218-1 prior to containment
+
+Item #: SCP-1218
+
+Object Class: Safe
+
+Special Containment Procedures: All instances of SCP-1218-1 are to be kept within specially fitted crates in protected storage wing L-03 of Site 28. Most instances of SCP-1218-1 are fragile and care should be taken when retrieving, transporting, and storing them. Due to the potential for information leaks, instances of SCP-1218-1 must remain covered when in presence of any sensitive Foundation material.
+
+Any contact with or appearances of SCP-1218-2 are to be recorded and logged.
+
+Description: All instances of SCP-1218-1 are numbered as SCP-1218-1-XX in the order they were recovered. As of the most recent update of this document, we have SCP-1218-1-1 through SCP-1218-1-32 in storage, minus only SCP-1218-1-4 (see Testing Logs). Instances of SCP-1218-1 all appear to be normal wall-mounted mirrors, most frequently rectangular, with sizes between 0.2 and 9.5 square meters.
+
+Upon closer inspection, the objects are in fact one-way reflective glass, with an extremely dark room visible on the far side when viewed in absolute darkness to minimize reflections. The dark rooms, hereafter known as 'viewing chambers', appear to have floors and ceilings of a cracked, concrete-like material with various raised platforms that SCP-1218-2 sit on. There are no side walls visible, with viewing distance tapering off quickly into darkness. Each mirror appears to link to a unique viewing chamber sharing these same characteristics.
+
+SCP-1218-2 refers to the group of creatures between 1.5 and 1.9 meters tall that are frequently visible in the viewing chambers. They appear humanoid with heavily jaundiced skin of a leathery appearance that obscures defining features. Each creature has four wounds on its head, holes ringed in torn flesh, that are roughly equivalent in position to a human's eyes, nose, and mouth. The creatures, hereafter referred to as 'the yellow men', wear moth-eaten suits identified as those in style during the 19██'s. SCP-1218-2 appear aware of viewers in front of SCP-1218-1 and have been seen to not only follow the movements of test subjects, but to actively take notes in what seems to be a ████ brand notebook.
+
+Dr. ███████’s recovered testing logs
+
+█/█/██: We've ruled out the idea of some sort of projection. Test subjects moving to different positions had their field of view through the mirror change accordingly. The subjects were visibly startled when SCP-1218-2 followed their movements, leading one to panic and one to scream. Lights were brought up and subjects removed from test chamber.
+
+█/█/██: It appears that at light levels below 1 Lux the our test subjects start to become uneasy around SCP-1218-1. They describe either the feeling of being watched, or of the room being larger than it appears. I theorize that their subconscious is picking up on subtle visual clues of the 'viewing room' beyond the mirrors that is still too overwhelmed by reflections for their conscious brains to identify. I have rigged up the testing room with hidden low-light cameras which are able to pick up just enough light to make their tapes worthwhile for repeat studies.
+
+█/█/██: Continued testing on multiple instances of SCP-1218-1 suggests that each is linked to a separate room; though the number of viewing SCP-1218-2 changes, suggesting that they may enter and leave the rooms throughout the day. Also of note, it appears that the primary mode of lighting that allows the 'viewing room' to be seen is the embers of a cigarette. If none of SCP-1218-2 are smoking it stands to reason that the viewing room would be pitch black. It's possible that this accounts for the instances when we are unable to see anything through the mirror, even in utter darkness.
+
+█/█/██: So far I've managed to identify at least 19 unique SCP-1218-2 from the viewing logs. Their facial and body structures are extremely similar, but blemishes on the skin, height, and the suits they're wearing are enough to distinguish one from another. Note that these individuals do not always appear in the same viewing room.
+
+█/██/██: Testing on D class subjects so far has found no adverse effects from exposure to SCP-1218-1 or SCP-1218-2. I have therefore decided that it is safe for my assistants and I to perform tests directly.
+
+█/██/██: Given the quantity of SCP-1218-1 we've received, I have approved testing to try breaking one to see if it retains its effects.
+
+█/██/██: Shattering an instance of SCP-1218-1 does cause it to cease displaying any anomalous effects; however [REDACTED], like rotting fruit, which quickly dissipated
+
+█/██/██: One of my assistants came to me today with something I had missed in the early experiments. She noticed that when subject D-9002 screamed in fright, one of the yellow men stepped back suddenly, as if startled. I wonder if perhaps sound might connect these locations as well.
+
+██/█/██: I've added a laser microphone to the complement of recording devices trained on SCP-1218-1-5. We've picked up the following anomalous sounds [See Audio Log Summary]
+
+██/██/██: SCP-1218-2 continue to intrigue me. They respond to my actions as if they can see me clearly, though personally I don't know how they can see anything; the low light has made it impossible to determine as of yet if there are in fact eyes beneath those shredded sockets. It's like watching animals at a zoo, they move to follow our actions, but don't reciprocate any attempts to communicate. I'm curious what they're writing, it's too bad there isn't enough light to read it.
+
+██/██/██: More instances of SCP-1218-1 continue to be brought in. Now that we know their properties, we've begun going through old reports from ███████ and ████ database to gather more leads. Mobile Task Force Beta-6, the "Window Washers" has been created to not only collect more of these mirrors, but to try and trace their origin.
+
+█/█/██: I'll have to go through my notes, but it seems like there are more SCP-1218-2 than usual appearing for my tests.
+
+█/█/██: We have 26 instances of SCP-1218-1 in storage as of this date, having exhausted preexisting leads. I worry that, given the difficulty in noticing the effects, that there could be many more out there.
+
+█/██/██: I know there are more now, the most recent test had over ten of them, watching. I don't like this. I've taken the testing tapes home by [REDACTED], and I'm going to pore over every frame till I find something of use.
+
+█/██/██: I've spent the last three nights poring over the tapes. I think the lack of sleep is getting to me; I was walking past the mirror in hallway H-7 today and I could have sworn I saw something looking out at me.
+
+█/██/██: I broke the mirror in the hallway, at least now I'm sure.
+
+█/█/██: I figured it out, I should have been looking closer at the details on their [REDACTED]. I'm not sure, but I might know where, and what, they are.
+
+[End of record] See Incident H1218-A
+
+Audio Log Summary
+
+The following noises were picked up by the laser microphone over a seven (7) day period. Sound analysis software has been used to identify the most likely source of each sound, as well as its likelihood of accuracy, and the number of times it occurred.
+
+Footsteps (socks) - 99% - Coincided with movement of test subjects
+
+Footsteps (loafers) - 95% - Usually coincided with movement of SCP-1218-2
+
+Dripping water - 99% - Continual
+
+Animal noise (cat, purr) - 18% - Frequent
+
+Running water (faucet) - 92% - 42
+
+Chewing (human, adult) - 12% - 40
+
+Voices (adult, unintelligible) - 80% - 30
+
+Falling item (rubber tubing) - 14% - 29
+
+Running water (shower) - 90% - 13
+
+Machinery (forklift) - 87% - 12
+
+Voices (children, unintelligible) - 84% - 11
+
+Snoring (adult) - 93% - 7
+
+[REDACTED]
+
+Laughter (children) - 93% - 2
+
+Siren (ambulance) - 92% - 2
+
+SCP-███ - 64% - 1
+
+Shaking chains - 88% - 1
+
+Shattering glass - 92% - 1
+
+Voice (adult, female, "[unintelligible]…other one, we're going to be late") - 82% - 1
+
+Scream (adult, female) - 83% - 1
+
++ Incident H1218-A
+
+- Incident H1218-A
+
+On █/█/██ Dr. ███████ was found dead at his private residence. He was discovered hanging by a noose in his attic after failing to show up to work for three days. Forensic evidence at the scene suggested suicide. Every single mirror in his house was found shattered. According to standard protocol, further testing on SCP-1218 is to be postponed until all possible memetic or mental influence is ruled out.
+
+Addendum A: Additional scrutiny of the mirror fragments of the home of Dr. ███████ find that [REDACTED] inconsistent with being shattered by a blow or weapon. The video logs were also missing from the scene. Additional investigations are underway to ascertain all the details of H1218-A.
+
+Addendum B: SCP-1218 is pending upgrade to Euclid status.

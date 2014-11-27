@@ -1,0 +1,51 @@
+SCP-2400-A
+
+Item #: SCP-2400
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2400 is contained on-site at Site-59, which has been constructed around the anomaly. Only personnel with 4/2400 Clearance are permitted to access SCP-2400's containment chamber.
+
++ Enter Credentials
+
+- Clearance Verified
+
+Object Class: Thaumiel
+
+Special Containment Procedures: SCP-2400 must remain open when SCP-2400-A is not in use. Use of SCP-2400-A (and by extension, Site-64T) requires approval from the Site-59 Director (currently Dr. Charles Anborough) and the attached Temporal Anomalies Adviser (currently Dr. Thaddeus Xyank). While SCP-2400-A is in use, the Site-64T supervisor must submit weekly reports to the Site-59 Director, which, due to SCP-2400-A's properties, should be received every sixty-three (63) minutes. Non-D-Class personnel assigned to Site-64T should be chosen from unmarried individuals, preferably with no living family. Individuals with suicidal psychopathology are also preferred. Due to the nature of SCP-2400-A's effects on its inhabitants, personnel assigned to Site-64T are to be declared legally dead, with appropriate Foundation benefits paid to their family.
+
+Personnel maintaining residency in SCP-2400-A past the expiration of their assignment is forbidden. Travelling further than 100 meters past the perimeter of Site-64T is also forbidden, barring SCP-2400-A reconnaissance missions. Any anomalous activity occurring in SCP-2400-A that is outstanding from the area's established properties must be reported to Site-59 immediately.
+
+At all times, four (4) demolition charges must be positioned adjacent to SCP-2400, two (2) on Site-59's side and two (2) on Site-64T's side. In the event of anomalous activity occurring within SCP-2400-A which endangers Site-59, these charges are to be detonated.
+
+Access to the Site-64T Generator Room (Room 128-E) is forbidden barring approval from the Site-59 Director (see Addendum [2400-001] for details).
+
+Description: SCP-2400 is a plain steel door inset on a fragment of concrete wall. The wall fragment is irregularly-shaped and roughly 3.71m x 2.25m, while the door is 0.65m x 0.91m. The origin of SCP-2400 is unclear.
+
+When SCP-2400 is open, it functions as a space-time aperture to an area now designated SCP-2400-A. A second instance of SCP-2400 is present in SCP-2400-A, and is the only object on an otherwise featureless horizontal plane. The size of SCP-2400-A is undetermined, and by all accounts, appears to be a limitless space. The surface of the horizontal plane is composed of an unidentified and indestructible white substance. This material is smooth and similar in texture to concrete. The atmosphere is consistent with the terrestrial location of SCP-2400. At all times, a star consistent with the Sun is visible in the sky, directly above SCP-2400.
+
+When the door of SCP-2400 is closed, the rate of time within SCP-2400-A, relative to the exterior world, undergoes severe temporal dilation. One (1) second of normal time corresponds approximately to one hundred-forty (140) seconds within SCP-2400-A. While SCP-2400 is closed, SCP-2400-A and the exterior world are virtually independent of and inaccessible to one another; neither matter nor energy is capable of crossing the threshold. While SCP-2400 is open, however, the rate of relative time inside SCP-2400-A is the same as Earth.
+
++ Enter Credentials
+
+- Clearance Verified
+
+It was determined that the nature of SCP-2400-A's temporal anomaly was counter-productive to containment of other SCP objects in the area. However, it was also suggested that SCP-2400-A could be utilized for the expedited production of containment critical materials, or the development of containment protocols (including technological research and testing) of other anomalies. This proposal was approved, and Site-64T was constructed inside SCP-2400-A.
+
+Site-64T consists of five (5) floors, the base of which covers an area of 1.51km2. The first floor contains the administrative offices, power plant, utilities, and storage. The second floor consists of personnel quarters and recreational areas. The third and fourth floors feature production facilities for resources including alloys, polymers, complex chemicals, non-perishable foods, and weapons. The fifth floor is reserved for research and development.
+
+Addendum [2400-001]:
+
++ Enter Credentials
+
+- Clearance Identified
+
+On 21/7/2008, Overwatch approved a project to research and neutralize SCP-2700, and Site-64T was selected for the operation to be carried out. As transportation of SCP-2700 to Site-64T proved impossible (due to the dimensions of SCP-2400), the research relied entirely on Nikola Tesla's notes regarding the device, and the Foundation's own in-house analysis. This resulted, unintentionally, in the creation of the Tesla-Anborough Ectoentropic Reactor (TAER), which now serves as the primary power source for Site-64T.
+
+The reactor's core, in essence, contains a self-sustaining paradox wherein the vacuum state is simultaneously non-energetic and infinitely energetic. The former case, as you might guess, should trigger a vacuum meta-stability event (by default a YK-Class Scenario). The latter case, however, seems to actively neutralize this reaction. Unusually for a paradox, the reaction here is rather fortunate.
+
+Dr. Thaddeus Xyank
+
+The TAER can theoretically be reproduced, however, attempts to do so are suspended indefinitely. While the artifact is stable, it must remain at Site-64T until further notice, due to the ongoing risk of a YK-Class Scenario.
+
+Containment Update: The TAER is contained in Site-64T's Generator Room, which is constructed of reinforced lead-lined concrete and safeguarded by a reinforced steel door. This room can only be accessed by a Clearance 4/2400 technician upon order from the Site-59 Director. The status of the TAER should be examined weekly by the technician, or every sixty-three (63) minutes if SCP-2400-A is in use (coinciding with the weekly reports). The artifact is also safeguarded by an automated system linked directly to the Site-64T-side demolition charges attached to SCP-2400. In the event of any detected malfunction of the TAER, the charges will be automatically detonated.

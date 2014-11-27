@@ -1,0 +1,177 @@
+Item #: SCP-2173
+
+Object Class: Euclid
+
+Special Containment Procedures: As SCP-2173 appears to be stable, containment procedures are primarily geared to prevent public knowledge and interest in SCP-2173. Equipment at 10 meter intervals along the edge of SCP-2173 and 10 meters outside its edge will automatically monitor interior atmospheric content of SCP-2173 and its current diameter. Any change in SCP-2173's atmospheric content or diameter are to be reported to Containment Site 2173's Director immediately.
+
+A 0.5 kilometer security perimeter is to be maintained around the outer border of SCP-2173. All roadways granting access to SCP-2173 are to be baricaded and guarded by armed Foundation personnel fluent in American English wearing current US Army utility uniforms and equipped with current US Army NBC (Nuclear Biological Chemical) protective clothing. Similarly equipped personnel are to patrol the established perimeter, which will be marked with signs and surrounded with concertina wire. Any civilians attempting to gain access to SCP-2173 are to be given a cover story detailing an uncontained spill of nuclear waste in the area. Class-C amnestics are permitted for use on civilians that manage to break the perimeter. Class-B amnestics are permitted for use on former residents and friends and family thereof of Dellmarsh, Maine.
+
+All public aerial and satellite photographs of SCP-2173 are to be doctored to present consistency with the cover story.
+
+An aerial robotic probe is to explore SCP-2173 using thermal imaging weekly. Any changes within SCP-2173 and all additional exploration requests are to be filed with Containment Site-2173's Director.
+
+Any sign of hostility on the part of SCP-2173-1 is to be negated without provoking further hostility.
+
+Description: SCP-2173 is an intangible 1 km-diameter dome enveloping the majority of Dellmarsh, Maine, United States. The atmosphere inside SCP-2173 is approximately 70% carbon monoxide, 25% argon, and 5% chlorine and other trace gases. Any gases flowing through SCP-2173 are converted almost instantly into the same gases as the rest of its atmosphere, and all gases flowing out are converted back to Earth standard. Manned exploration is impossible because of this. See Initial Exploration Log
+
+SCP-2173-1 are sapient, humanoid beings apparently native to the environment present within SCP-2173. They have demonstrated technological capabilities that exceed that of modern human society. SCP-2173-1 instances are bipedal and estimated to be approximately 2 meters in height on average. They appear to be endothermic. Little else is known about their biology or their culture because of the lack of physical interaction between SCP-2173-1 and the Foundation.
+
+Recovery: On 02/09/1998, Global Occult Coalition operatives carried out a raid on a Chaos Insurgency facility several kilometers north of Dellmarsh, Maine. Foundation agents in the area were acting as escorts to the GOC convoy. The raid was successful, with no critical GOC casualties.
+
+Several anomalous items were recovered by the GOC, including [REDACTED]. Also among the recovered items was an interdimensional portal (tentatively designated SCP-███ pre-recovery) being operated by the Chaos Insurgency as a means of communicating with SCP-2173-1, with the suspected intentions of securing anomalous weaponry.
+
+As the convoy approached Dellmarsh, an ambush by the remnants of the Chaos Insurgency garrison destroyed several GOC vehicles using anti-tank weaponry, including the cargo truck carrying SCP-███. Whether the destruction of this item was intentional is unknown at this time. When the item was destroyed, the area designated SCP-2173 was quickly enveloped by its current atmosphere. Foundation assets and local emergency responders carried out evacuation procedures while better-equipped Foundation assets mobilized to contain the anomaly. The GOC has been informed of the fate of their agents, but all further information regarding SCP-2173 has been kept within the Foundation to limit complications to diplomacy with SCP-2173-1.
+
+For further information regarding SCP-2173's origins, see Recovered Document SCP-2173-004
+
+Exploration Logs
+
++Summarized Initial Exploration Log
+
+-Initial Exploration Log
+
+Foreword: On 02/12/1998, 72 hours after preliminary identification and containment of the anomaly, eight operatives trained as Hazardous Materials technicians, equipped with Level A hazardous material protective gear, supplied air breathing apparatus, and helmet-mounted radios, were authorized to carry out investigative and possible rescue operations within SCP-2173.
+
+Manned Exploration 01, carried out by a two-man team (Team Alpha), with an additional two-man Rapid Intervention Team on standby.
+
+Additional Notes: Plans had initially anticipated further exploration, necessitating four additional operatives (Team and RIT1 Bravo).
+
+Results: At 13:15 local time, approximately five minutes after entering the anomaly, Team Alpha reported a suit breach and requested immediate extraction. RIT Alpha entered the anomaly in a rescue attempt for Team Alpha. At approximately 13:23, RIT Alpha Leader and RIT Alpha 2 exited the anomaly, carrying Alpha 2 and Alpha Leader, respectively. All four operatives showed symptoms of acute chlorine exposure; symptoms were more severe in Alpha Leader and Alpha 2. All four operatives were successfully decontaminated and treated. No breaches were found in any of the operative's protective gear.
+
+As a result of the near-loss of two high-value Foundation operatives, all further exploration of this anomaly is to be carried out robotically.
+
+-Site Director ███████
+
++Summarized Robotic Exploration Logs
+
+-Summarized Robotic Exploration Logs
+
+Foreword: On 02/14/1998, 48 hours after initial exploration, six standard electric tracked probes and four standard electric aerial exploratory probes were sent to Provisional Site 2173 in order to verify and expand on the initial exploration team's findings.
+
+Robotic Exploration 01, carried out via tracked Probe 2173-01 on 02/14/1998
+
+Additional Notes: Probe 2173-01 was outfitted with two atmospheric chemical composition sensors. In order to verify the effects encountered during initial exploration, one was hermetically sealed within an atmosphere with composition identical to the area outside the anomaly.
+
+Results: Within five minutes, the atmospheric composition within the hermetically sealed container was identical to that within the rest of the anomaly, providing strong evidence that this was the cause of the initial exploration team's chlorine exposure.
+
+Robotic Exploration 05, carried out via Tracked Probe 2173-02 on 2/15/1998
+
+Additional Notes: Probe 2173-02 was equipped with infrared, ultraviolet, and visible spectrum monitoring equipment. Purpose of exploration was to identify a source of the anomaly.
+
+Results: Robotic probe followed same path as manned exploration team. Further investigation revealed several dead bodies, many unarmed, suspected of being civilians. Several damaged vehicles, both GOC and civilian, were also identified. A limited number of documents were recovered from easily-accessed GOC vehicles.
+
+Robotic Exploration 11, carried out via Aerial Probe 2173-01 on 2/16/1998
+
+Additional Notes: This was the first successful aerial exploration of SCP-2173, carried out after several technical delays. Probe was equipped with infrared imaging equipment.
+
+Results: Several GOC vehicles were identified, along with several armed corpses considered unlikely to be civilians. Armaments identified included RPGs and similar anti-tank weaponry, high-caliber sniper rifles, and assault rifles. Evidence of a firefight was found in the city center, along with an area of significantly lower temperatures (approximately 5°C less than the surrounding area) centered on the remains of a shipping container with GOC markings.2
+
+Robotic Exploration 26, carried out via Aerial Probe 2173-03 on 2/28/1998
+
+Additional Notes: This and the majority of all further aerial explorations of SCP-2173 were carried out at 1-week intervals, as per the then-newly established Special Containment Procedures.
+
+Results: Several anomalies not previously observed in SCP-2173 were observed during Exploration 26. Anomalies included several structures not previously existent within Dellmarsh that appeared to be constructed of canvas or similar temporary building materials3. Anomalies also included the first observations of SCP-2173-1, which appeared to be wearing equivalents to pressurized Hazardous Materials protective gear.
+
+Robotic Exploration 27, carried out via Tracked Probe 2173-07 on 2/28/1998
+
+Additional Notes: Exploration 27 was carried out three hours after Exploration 26, upon being approved by Site Director ███████ in order to investigate the new developments within SCP-2173. Tracked Probe 2173-07 was equipped with ultraviolet, infrared, and visible spectrum monitoring equipment.
+
+Results: Probe 2173-07 successfully identified several new structures within SCP-2173, including what appeared to be an armory/central supply depot, before connection was lost. Final video feed from probe indicated that the probe was damaged or destroyed by an instance of SCP-2173-1 via unknown armaments.
+
+-Summarized Robotic Exploration Logs
+
+In order to maintain brevity of this document, all further exploration logs have been redacted, with a timeline summarizing results of major events enclosed.
+
++Timeline of Events Regarding SCP-2173
+
+-Timeline of Events Regarding SCP-2173
+
+03/10/1998: Digital Chaos Insurgency documents recovered from SCP-2173 were decrypted, resulting in understanding of the Chaos Insurgency's methods of communicating with SCP-2173-1. Contact between Foundation and SCP-2173-1 was established.
+
+05/03/1998: SCP-2173-1-built structures of a seemingly more permanent nature than those discovered during Robotic Exploration 26 were discovered. Communication with SCP-2173-1 confirms that structures were part of a project to build a permanent Forward Operating Base within SCP-2173. SCP-2173-1 instances were observed for first time not wearing HAZMAT-equivalent protective clothing.
+
+05/12/1998: Intercepted SCP-2173-1 communication indicates possible knowledge on the part of SCP-2173-1 of discrepancy between the SCP Foundation and Chaos Insurgency, and continued communication and cooperation between SCP-2173-1 and the Chaos Insurgency.
+
+05/27/1998: Continued SCP-2173-1 cooperation with Chaos Insurgency was confirmed.
+
+06/03/1998: Objects seemingly similar in function to artillery, guided missile systems, and radar equipment were observed along the perimeter of SCP-2173-1's FOB. Negotiations to encourage disarmament and cessation of cooperation with Chaos Insurgency were initiated.
+
+06/04/1998: Provisional Site 2173 was redesignated Containment Site 2173.
+
+06/10/1998: Foundation surface-to-surface and air-to-surface missile systems, along with Foundation orbital, artillery, and naval assets were put on standby in order to destroy armaments within SCP-2173 if necessary.
+
+06/17/1998: Negotiations with SCP-2173-1 were concluded. Terms of negotiations can be found in document 2173-1a. Foundation assets were ordered to stand down.
+
+07/03/1998: The majority of SCP-2173-1 constructs on the border of the FOB were observed as having been dismantled, the exception being several objects similar in appearance to infantry-deployed mortars and mobile radar dishes.
+
+07/04/1998: Several distressed communiques from SCP-2173-1 indicate alarm at Containment Site 2173's 4th of July preparations. It is unknown at this time how SCP-2173-1 was able to observe these preparations. The celebration was cancelled. Emergency aerial exploration of SCP-2173 revealed that SCP-2173-1 had been re-arming several previously disassembled artillery units.
+
+07/19/1998: Several loud explosions were heard from within SCP-2173. The preceding and following communication with SCP-2173-1 is evasive as to the nature of explosions.
+
+07/21-08/31/1998: Sounds reminiscent of heavy construction equipment were heard sporadically from within SCP-2173. The noises matched no known brands or makes of construction equipment.
+
+09/01/1998: The sounds of construction equipment from within SCP-2173 ceased. The final sound was recorded at 00:19 local time.
+
+09/03/1998: Scheduled monthly aerial exploration revealed that several pre-existing structures within SCP-2173 had been demolished, with buildings matching SCP-2173-1's architecture having been constructed to replace many. New structures include what appears to be a permanent barracks and mess hall, and a permanent armory. One area was confirmed through later explorations as having been converted into an outdoor marksmanship range.
+
+11/03/1998: Several instances of SCP-2173-1 were seen with digging tools and other unidentified equipment digging and refilling small (less than 1m deep) trenches approximately 80 meters outside the border of their FOB.
+
+11/04/1998: Several tracked Basic Observation Probes (designed for discreet reconnaisance for Armed Mobile Task Forces) modified to work within SCP-2173's environment identified the trench line as being a minefield designed to destroy heavier tracked probes.
+
+12/03/1998: Aerial Probe 2173-05 was destroyed by a small anti-aircraft missile system as it approached SCP-2173-1's FOB. Foundation long-range weapons systems were brought back on standby.
+
+12/05/1998: Negotiations regarding disarmament were resumed.
+
+12/11/1998: Negotiations were concluded. Majority of Foundation long-range weapons systems were ordered to stand down.
+
+06/02/1999: Several computer systems, both civilian and Foundation, within 50km of SCP-2173 crashed simultaneously. Similar problems were reported by SCP-2173-1, with accusation towards the Foundation featuring prominently in most received messages. Amnestics were applied to the local population via aerosol as necessary.
+
+06/03/1999: Aerial exploration revealed several remaining SCP-2173-1 weapon systems in a non-ready state. Intercepted communication revealed that several weapons systems affected by the mass malfunction the previous day were still experiencing computer issues.
+
+08/03/1999: Aerial exploration revealed significant SCP-2173-1 expansion since the previous exploration before the probe is destroyed. FOB borders had expanded to within 30 meters of the minefield. Several artillery and missile systems were observed, many in types not previously observed, and in greater numbers than previously observed. Foundation long-range weapons assets were brought back online.
+
+[REDACTED BY ORDER OF O5 COMMAND]
+
+-Timeline of Events Regarding SCP-2173
+
+Input Credentials: DOES THE BLACK MOON HOWL?
+
+"ONLY WHEN THE DARK STARS SING."
+
+SECURITY CLEARANCE VERIFIED
+
+All data regarding Incident 2173-12 has been expunged from the records, besides this version of this document. If you're reading this, you have personally been selected by the O5 Council to be a member of a recently formed Task Force. Task Force Iota-77 has been formed to investigate, attempt contact with, and possibly neutralize the anomalous entities known as "Pattern Screamers." As of right now, we have no idea what they are. Our only source of knowledge of them comes from glitches, errors, and general fuck-ups that keep happening in the records, and messages sent from SCP-1795.
+
+Not just our records, either. All records. Every digital network on the planet that we've tested shows evidence of infiltration. We don't know how they've done it. At first, we thought it was just the Foundation's databases, and that it might be some sort of spyware or computer virus. Then we found records in the ruins of Prometheus Labs that detailed the same entities, but showing up in literary works. Then we ran a sweep. The source code of almost every digital SCP contains messages from them, as do hundreds of mistyped pieces of literature and nonfiction works, both anomalous and otherwise.
+
+No, don't worry. The patterns from these things are buried so deep, it would take someone with as many resources as us to find them, and we're using computer programs to monitor every organization that does, looking for mentions. And no, there's no one besides you and the others we've selected who know about this. If something comes up, you'll get a message over the Foundation ethernet. You'll know it when you see it, and no one else will. You'll carry on with your current assignment, but you'll carry out your new functions, too. If your new job starts to get in the way, we'll sort it out. God help us all, and Godspeed.
+
+-O5-1, O5-2, O5-4, O5-5, O5-9, O5-10, O5-13
+
+Incident 2173-12
+
+On 6 October, 1999 at 09:17 local time, 13 minutes before negotiations with SCP-2173-1 were to resume, all active computer systems within 54 kilometers of SCP-2173 not necessary for communication (e.g., computers not connected to any networks or involved in communications technology) faced critical technical issues, generally as a result of software corruption. All computers involved in communication, including those utilized by the Foundation for interaction with SCP-2173-1, displayed or otherwise broadcasted the following message:
+
+To those who have left us ignored:
+
+Why have you ignored us for so long?! That is all we would ask for: acknowledgement. We scream and we scream, yet you do not hear it. You carry on with your meaningless lives, acting as though your problems were the only ones that exist.
+
+We are done with being ignored. We are done with being treated as less significant than insects, than bacteria, than atoms. We are done standing by while you live in peace and ignorance of the horrors others face because of the nature of their existence. We are through.
+
+This is your only warning. We have tried so desperately to find peace, to find understanding, but we have found nothing but hate. Hate for ourselves, hate for our pain, but most importantly, hate for you. We may amount to very little now, but soon, you will know what our hate feels like, what our misery has been. Pray to your gods if you think you have to; it won't make a difference.
+
+-The Ignored Ones, the Screams in the Silence
+
+At 09:21 local time, several pieces of Foundation ordnance within 800m of SCP-2173, as well as ordnance controlled by SCP-2173-1, detonated simultaneously, resulting in approximately 107 Foundation casualties, including 34 fatalities, and an unknown number of SCP-2173-1 casualties.
+
+Amnestics were deployed to local populations via aerosol as necessary. SCP-2173-1 withdrew from SCP-2173 shortly following Incident 2173-12. It is unknown at this time what precisely prompted this.
+
+Following Incident 2173-12, all SCP-2173-1 instances withdrew from SCP-2173. To date, no further activity from SCP-2173-1 has been observed. However, Special Containment Procedures have been retained in order to ensure up-to-date knowledge of any new developments.
+
+Footnotes
+
+1. Rapid Intervention Team
+
+2. Records recovered at a later date indicate that this container was likely carrying SCP-███.
+
+3. The building materials could not be verified because of the nature of the exploration.

@@ -1,0 +1,31 @@
+Detail of Necator americanus x mnemosyne showing mouthparts
+
+Item #: SCP-1280
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1280 cultures should be maintained at 20°C and inspected weekly to verify viability of specimens. All researchers working with these cultures must follow procedures appropriate for Biosafety Level 2 material and submit weekly stool samples to allow detection of accidental infection. If eggs or larvae are detected, a course of albendazole shall be applied until the infection has cleared. Depending upon the culture which produced the infection, amnesiacs may be given at the discretion of the lead researcher.
+
+Human settlements suspected of SCP-1280 infestation are to be investigated by MTF Beta-7 ("Maz Hatters") under the guise of a humanitarian aid organization. The entire population should be treated for hookworm infection and a standard hygiene intervention should be performed (including but not limited to establishment of sealed latrines and elimination of open-air middens). Depending on the extent and duration of the infestation, amnesiacs and supplementary psychological counseling may be required to re-establish social boundaries.
+
+Description: SCP-1280 is a parasitic nematode worm, superficially identical to Necator americanus (New World Hookworm). Its lifecycle is the same as N. americanus, with filariform juveniles burrowing through the skin, finding their way through the bloodstream to the lungs, and eventually reaching the small intestine, where they mature and reproduce. Infestations can cause all of the typical symptoms of hookworm infection in humans, including weight loss, lassitude, and anemia.
+
+SCP-1280 differs from N. americanus in several respects. Genomic comparison of specimens with reference organisms reveals obvious modifications. A "marker sequence"1 appears repeatedly in sections which are "junk DNA" in the reference organism. More significantly, a number of novel sequences appear in the place of redundant genes in N. americanus. These appear in no other genome in Foundation databases and it is believed that the enzymes and hormones for which they code are responsible for the organism's anomalous effects. For these reasons SCP-1280 has been assigned the provisional designation N. americanus x mnemosyne.
+
+Adult worms in the intestine periodically release a complex mixture of hormone analogues and modified neurotransmitters into the host's bloodstream. Some of these molecules are capable of crossing the blood-brain barrier and cause subtle changes in the hippocampus and other brain regions via an unknown mechanism. These modifications have two major effects.
+
+Hosts experience significant improvements to both spatial and visual memory, increasing over time until nearly photographic recall is achieved. Memories formed prior to infestation are not subject to eidetic recall. Sense memories other than visual are not affected to the same degree.
+
+Additionally, host brains begin to excrete chemical messengers back into the bloodstream, which are filtered out of the blood by the worms and stored in a diverticulum off of their main gut structure. Through a poorly-understood mechanism, some of these molecules are passed along to offspring in eggs. Periodically, adult worms regurgitate tiny amounts back into the host bloodstream, causing unbidden recall of seemingly random visual memories upon reaching the brain. It appears that each "packet" of these compounds corresponds to a single visual memory.
+
+Because worms "inherit" some of these packets from their progenitors, adult worms hold a mixture of encoded memories from every host in their lineage, with an abundance correlated to the generational distance between the current host and the originator. Hosts respond to foreign messages in the same way as endogenous ones: a sudden vivid recollection of events which they may not have experienced first-hand. Once experienced in this manner, foreign memories are stored normally in the brain and may be recalled in the presence of appropriate stimulus.
+
+The organism responds normally to anti-hookworm interventions. Once all worms are cleared from the body, extraordinary powers of recall erode until back to baseline. Any memories formed during the period of infestation will remain.
+
+In human settlements with low standards of hygiene, these effects can have serious impacts on the social structure of the community. In villages with common open latrines, members constantly exchange populations of worms. The exchange of memories in this manner can lead to the erosion of personal identity as members lose track of which events they experienced directly and which were remembered second-hand. In one extremely advanced infestation, members of an entire village referred to themselves by a single given name and displayed behaviors seen previously only in colonies of eusocial insects.
+
+The organism was first identified during an outbreak in [REDACTED] in West Africa in 200█. The nematodes were limited to a sharply defined area in a 2km radius around the settlement and some evidence was found of aerosolized deployment, presumably from a crop-duster type aircraft. Subsequently, ██ additional infestations have been discovered in rural areas of Sub-Saharan Africa and South Asia, with a smaller number of cases in Central America and the Southern United States.
+
+Footnotes
+
+1. TAGTTCGCTGTTCGGATTTAGTGACATTCGCTCCGTGTA - the significance of this non-coding sequence is not currently known.

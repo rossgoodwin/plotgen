@@ -1,0 +1,95 @@
+A page from SCP-566. The word and its definition have been blurred out for security reasons.
+
+Item #: SCP-566
+
+Object Class: Anomalous Safe
+
+Special Containment Procedures: All copies of SCP-566 are to be stored in Low Valuable Item Storage on Site-10. Any new instances of SCP-566 are to be assessed by a designated researcher with level 4 clearance for this purpose.
+
+Uncontained instances of SCP-566 are to be treated as a Keter-level threat - to this extent, Foundation operatives are to regularly inspect the stock of bookstores and libraries for instances of SCP-566, as well as any other literature or stationery published by the "Living Language Linguists' League". Websites, file-sharing sites and forums are to be monitored for scanned or transcribed SCP-566 contents, and DMCA takedowns issued if any such is found.
+
+Any new reports of anomalies are to be cross-checked with known SCP-566 contents database in order to both ensure a standard response and to make sure any SCP-566 copies potentially present are found. The classification SCP-566-A is to be used for anomalies related to SCP-566 use (See Document 566-Alpha for list and associated containment procedures).
+
+Description: SCP-566 refers to a set of tear-off desk calendars, sold under the name "Word-A-Day 2009 Edition: Wacky Wordables and Idiosyncratic Idioms", with manufacturer listed as "Living Language Linguists' League"1. The front page, where present, includes a black-and-white logo, consisting of a stylized tongue in a top-hat, raising a champagne glass in one hand, and holding a book in the other.
+
+SCP-566 instances themselves exhibit no known anomalous properties, with sample analysis showing no deviation from listed or expected composition2
+
+The only known anomalous property of SCP-566 occurs when an individual reading an entry taps a bolded word in the entry definition with his index finger. The contents of the page change, displaying the definition of the tapped word. The new entry retains this property. The means of returning the entry to its original state are currently not known.
+
+SCP-566 was declared Anomalous due to its contents. While ~80% of the entries consist of uncommon English words, the remainder can be categorized according to Table 1.
+
+Table 1: Anomalous contents of SCP-566 breakdown
+
+Entry type
+
+Proportion
+
+Example
+
+Definition listed
+
+Definition of mundane words or idioms coined post publication date
+
+~3%
+
+sofalizing (n)
+
+Using the Internet or other electronic devices to socialize with people from home, rather than meeting them face to face.3
+
+Definition of mundane words or idioms not previously known
+
+~10%
+
+to breznev (v)
+
+To cover with a thick metal plating, after L.I.Breznev , General Secretary of CPSU known for wearing an excessively large amount of medals
+
+Definition of words referring to anomalous subjects or events
+
+~4%
+
+Fiffle Stinks (n)
+
+a Fifthist worshipper, from their tendency to turn themselves into sentient smoke. He's full of it like a tent's full of Fiffle Stinks - said of a teller of fanciful stories, a liar.
+
+Definitions explicating anomalous acts or events
+
+2%
+
+gobsacking (n)
+
+A trick usually done by hungry college students which goes as follows - a number of them . usually 6-12 meet and [REDACTED] to form an extradimensional pocket inside the mouth of one of them, referred to as "the gobsack". The fellows will then pool their money for an "all you can eat" pizza parlor entrance fee. They wait outside, while the gobsack enters , and artfully pretends to eat as much pizza as he deems sufficient, stuffing it into the pocket without chewing. The rest of the group await him outside , where they will [REDACTED] and partake in the loot.
+
+Definitions of words or idioms referring to classified subjects or events
+
+<1%
+
+to brundle about (v)
+
+To show markedly less activity than doing nothing, after Brundle, a pet mass of cellular matter of Dr. ██████4
+
+It is of note that individual instances of SCP-566 differ in ~20% of their contents, with no clear pattern in the distribution of the differences. As of now, 56 instances of SCP-566 have been contained (see Addendum 566-1 for salient content samples).
+
+Recovery Log: First known instance of SCP-566 was recovered from the house of J████ F██████, after his unsuccessful attempt to follow SCP-566 definition of "to boscovise" (See Addendum 566-1), which resulted in him splitting into 16 ambulatory, sentient segments.
+
+SCP-566 was reclassified as Safe after [REDACTED] led to the recovery of additional instances of SCP-566, which differed in content from SCP-566-1, resulting in the need for a systematic containment procedure not consistent with the Anomalous item classification.
+
+Addendum 566-1: SCP-566 Contents Database
+
+Addendum 566-2: Incident 566-1
+
+On 10/27/2012, a catalog arrived at Site 10, which currently houses SCP-566. There was no return address provided. Its front cover consisted of the text "Living Language Linguists' League" and the company logo. An attached note read
+
+"Heartfelt greetings, friends of the written word. Although [DATA EXPUNGED] two antecedent years have been a trying time for all of us, we have not, as you might have feared, gone hellenious. Instead, we offer you a crispy new 2013 edition of our "Wacky Wordables and Idiosyncratic Idioms" Word-A-Day Callendar. And there's more! For incisive minds, playful spirits, and connoisseurs of obscurity we have daily calendars featuring terms from Speleology, Surgery, and [REDACTED], pardon the pun. The early bird gets the worm, and the early buyer gets a 20% discount! Wait no more, and word up!"
+
+Inquiries made throughout the site revealed that nobody had requested any such catalog, and testing revealed that it was not anomalous.
+
+Footnotes
+
+1. No records of a company or association exist.
+
+2. The base is assembled from molded PVC parts, while the calendar itself is printed using common printing inks on standard coated fine paper, joined with polyvinyl acetate glue
+
+3. First public mentions of word appear in 2010
+
+4. Information appears in the classified SCP-726 file

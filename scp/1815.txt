@@ -1,0 +1,101 @@
+A radio-telescope used to monitor SCP-1815 at Site-59.
+
+Item #: SCP-1815
+
+Object Class: Euclid
+
+Special Containment Procedures: Assets in all major astronomical agencies and establishments are to control information uncovered about SCP-1815's existence and prevent its leakage into the general public. The current position and transmissions of SCP-1815 are to be monitored by radio-telescopic satellites "Ceres", "Liber", and "Libera", the information from which is to be compiled by personnel at Site-59. Any change in the nature of these transmissions, or in the activity of SCP-1815 is to be reported to a Level 3 or higher researcher immediately.
+
+Information regarding the MESSENGER probe supposedly in orbit around Mercury has been fabricated; all pictures and information supposedly gathered by said device were actually obtained by the Foundation "Quicksilver" series of probes. "Quicksilver" missions are to be planned in response to every observed Janus Event (see Document-SCP-1815-MQ for details).
+
+If SCP-1815 or Mercury display anomalous activity noticeable to terrestrial-based observation and standard misinformation protocols are insufficient, the Foundation is to implement a global internet service blackout and notify all government assets of the situation. Misinformation agents are to be dispatched to all major astronomical organizations to suppress knowledge of the incident. The current prepared cover story for such an occurrence is a coronal mass ejection and subsequent geomagnetic storm.
+
+Description: SCP-1815 is an interstellar object of unknown appearance, dimensions, and properties. All attempts at direct observation have thus far failed; the object and its position is only detectable by radio waves it emits. These waves generally feature the same transmission: an unidentified pneumatic sound which occurs at a constant rate of 50bpm. The transmissions feature no background noise or RFI regardless of the object's proximity to the sun. SCP-1815 does not appear to exert a gravitational pull, and has been hypothesized to not be entirely material. SCP-1815 has not exhibited signs of sentience, but the possibility has not been ruled out (See Addendum 1815-001).
+
+SCP-1815 moves in an orbital path, eccentricity, and velocity identical to the planet Mercury, but reversed. Due to this, the object regularly collides with its respective planet; such an event does not appear to have any effect on either affected body, further suggesting that SCP-1815 is partially or wholly insubstantial.
+
+SCP-1815 will infrequently cease all movement across its orbital axis; motion in regards to systematic and galactic movement are unaffected and continue. While this occurs, Mercury will feature numerous anomalies; its appearance under highly-magnified telescopic observation will become irregular and indistinct. The standard transmission will be interrupted by a sustained, scraping noise for the duration of the event, which is usually 115-145 minutes. These occurrences have been termed Janus Events.
+
+A total of 5 Janus Events have been recorded since the object's discovery. Due to the technical difficulties in obtaining samples from Mercury, it is currently impossible to completely measure the effects of each Event on the planet's stability. However, after the first Event in 1986, a series of missions were planned, wherein a Foundation-based probe would monitor the planet and SCP-1815.
+
+Mission I
+
+Probe Designation: Quicksilver-1815-I
+
+Date of Preceding Janus Event: ██/██/1986
+
+Date of Launch: ██/██/1988
+
+Date of Contact with Mercury: ██/██/1988
+
+Date of Contact with SCP-1815: ██/██1989
+
+Results: No observable abnormalities on Mercury's surface. Readings indicate a 4% decrease in the strength of the planet's magnetosphere1. Probe passed through the apparent location of SCP-1815 without incident. It appears that every point of SCP-1815 is transmitting the object's message. Using this data, it was determined that SCP-1815 has a rough diameter of 1,800km.
+
+Mission II
+
+Probe Designation: Quicksilver-1815-II
+
+Date of Preceding Janus Event: ██/██/1990
+
+Date of Launch: ██/██/1990
+
+Date of Contact with Mercury: ██/██/1991
+
+Date of Contact with SCP-1815: ██/██/1991
+
+Results: Results are largely identical to those of Mission I, though readings of Mercury's magnetosphere now show an 11% decrease in field strength, and the approximate diameter of SCP-1815 is now 2,300km.
+
+Mission III
+
+Probe Designation: Quicksilver-1815-III
+
+Date of Preceding Janus Event: ██/██/1996
+
+Date of Launch: ██/██/1996
+
+Date of Contact with Mercury: ██/██1996
+
+Date of Contact with SCP-1815: ██/██/1997
+
+Results: Observation of Mercury's surface shows marked alterations to the planet's geography, including the absence of approximately 70% of previously recorded craters2. Readings of magnetosphere show a 40% decrease in field strength, and the approximate diameter of SCP-1815 is now 4,500km. Contact with probe lost upon reaching the apparent perimeter of SCP-1815.
+
+Mission IV
+
+Probe Designation: Quicksilver-1815-IV
+
+Date of Preceding Janus Event: ██/██/2003
+
+Date of Launch: ██/██/2004
+
+Date of Contact with Mercury: ██/██2004
+
+Date of Contact with SCP-1815: ██/██/2004
+
+Results: Geographical abnormalities reported during Mission III are absent; magnetosphere demonstrates only a 15% decrease in field strength, and the diameter of SCP-1815 is only 2,800km. Probe successfully passed through the apparent location of SCP-1815, however, SCP-1815 transmitted a secondary message to the probe during passage (see Addendum 1815-001 for details).
+
+Mission V
+
+Probe Designation: Quicksilver-1815-V
+
+Date of Preceding Janus Event: ██/██/2012
+
+Date of Launch: (Pending)
+
+Date of Contact with Mercury: (Pending)
+
+Date of Contact with SCP-1815: (Pending)
+
+Results: (Pending)
+
+The constantly diminishing strength of Mercury's magnetosphere suggests that SCP-1815 is causing abnormalities regarding the planet's core, possibly including [DATA EXPUNGED]. If this is true, current projections (omitting the anomaly from Mission III) suggest that complete [DATA EXPUNGED] will take place within ███ years. No adequate cover story has been prepared for the destruction of Mercury if this occurs.
+
+Addendum [1815-001]: Contents of Transmission-1815-QIV
+
+The message received during Mission IV contained a series of 144 images detailing the apparent layout of the Solar System. When viewed in succession, the first 48 frames depict the bodies orbiting in their normal fashion. During frames 49-96, a secondary set of planets and satellites begin to appear; these bodies move in orbits identical to the primary set, but reversed. During frames 97-144, the primary set begins to disappear, until only the secondary set remains. The dimensions of the planets and satellites in the secondary set are ill-defined; no digital resources at the Foundation's disposal appear to be capable of properly rendering the designs (this also applies to the sun in frames 97-144). The transmission utilized an encoding employed by Foundation staff; the possibility of SCP-1815's intelligence is since being reevaluated.
+
+Footnotes
+
+1. This is based on previous data obtained during the 1974 Mariner 10 flyby.
+
+2. This is in contradiction of terrestrial observation of Mercury during this time, which demonstrated no visible anomalies.

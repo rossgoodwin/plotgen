@@ -1,0 +1,167 @@
+SCP-928
+
+Item #: SCP-928
+
+Object Class: Euclid-exsequi
+
+Special Containment Procedures: SCP-928 is kept in a glass viewing case situated at the far end of a 3m x 5m containment room at Site 80. The case can be unlocked by the concurrent use of two keys. These keys are currently held by Researcher Short and Researcher Kaplan. At least two personnel must be present at all times when SCP-928 is being interacted with.
+
+SCP-928 must be monitored with audio and visual surveillance at all times. Recordings are to be analyzed by staff at Site 80.
+
+All chess moves dictated by SCP-928 must be recorded in Document 928-3. Attempts to reconstruct the game that it is playing are ongoing.
+
+Description: SCP-928 is a doll made primarily of ceramic and cloth. The eyes of the doll are capable of movement and will usually follow any person in the vicinity. SCP-928 is otherwise physically unremarkable.
+
+Although its mouth does not move, SCP-928 is capable of producing vocalizations. These vocalizations resemble those of a middle-aged human male with an as-of-yet unidentified accent and typically consist of exchanges of pleasantries or requests for clarification of some sort. Upon review of available data, background noises have been isolated, which may imply that SCP-928 is producing recordings of some sort, rather than producing the sounds wholesale. Background noises noted so far include:
+
+Dull thuds and rumbling possibly corresponding to distant explosions, heavy machinery, or various geological/meteorological phenomena.
+
+An unidentified, indistinguishable feminine voice, most likely that of a young adult. Generally agreed to be urgent-sounding.
+
+A variety of music played on an instrument that is most likely a highly modified piano. Similarities to human singing have been noted, but no conventional musical instruments fully account for these noises.
+
+Rustling and scribbling noises, most likely of paper and the usage thereof.
+
+Periodically, SCP-928 will issue commands corresponding to movements in a game of Capablanca chess.1 In most cases, there will be several weeks or months between commands, but intervals have ranged from three hours to eight years. Commands are not always issued in correspondence with formal chess notation, but are comprehensible.
+
+No link has been firmly established between the status of the match SCP-928 is playing and the vocalizations it makes. It is not currently believed to be speaking to Foundation personnel. Vocalizations deemed not notable are available in Document 928-6. No personal information about the entity or entities controlling SCP-928 has been noted.
+
+If a human subject comes within three meters of SCP-928, SCP-928 will vanish and reappear adjacent to the subject several seconds later. However, if there is at least one additional human within three meters of the subject, SCP-928 will not exhibit this behavior. Approximately 65% of subjects exposed to this behavior have left Foundation custody through various means within four days of exposure, and none have been recovered.2 Of the 35% that remain in Foundation custody, none have died or experienced demotion of any sort.
+
+Though technically impossible to confirm, it is generally accepted that SCP-928's commands correspond to events that occur in the real world, due to the timing of moves made by SCP-928 and the placement of [REDACTED].
+
+ACCESS SCP-928 SUPPLEMENTARY DOCUMENTATION
+
+ACCESS GRANTED
+
+Security memetic: STOLEN AND HIDDEN. CIRCUMSTANCES INDICATE TAMPERING. IMPLIES COMPETING ACCORDANCES.
+
+Addendum: Partial list of notable vocalizations made by SCP-928.
+
+Date
+
+Vocalization
+
+September 13, 1947
+
+Glad that I'm not on my first try here.
+
+May 19, 1958
+
+We are not expecting visitors at any point.
+
+May 30, 1968
+
+Such a controlling nature. It should be tamed.
+
+November 19, 1977
+
+This code, the cipher can be cracked.
+
+September 11, 1985
+
+Shattered to pieces, the princess is unyielding nonetheless.
+
+January 8, 1992
+
+Need some help? It's said I'm quite handy.
+
+October 15, 1998
+
+You and me should play again afterwards.
+
+Remaining records are sealed until further notice.
+
+Addendum: Partial list of hypothesized relationships between SCP-928's moves and real-world events.
+
+Date
+
+Move
+
+Event or events hypothesized
+
+Notes
+
+June 8, 1946
+
+Castling
+
+Recovery and containment of SCP-928 by the Foundation.
+
+None.
+
+September 28, 1951
+
+Archbishop 1B to C3
+
+Formation of Global Occult Coalition by UN Mandate
+
+Move noted to establish a stronghold for White. Defensive position was ceded at the end of [DATA EXPUNGED]
+
+November 9, 1989
+
+Chancellor D3 to D6
+
+Opening of the Berlin Wall by Soviet officials.
+
+Studies of previous moves by the White chancellor are underway have failed to produce useful results.
+
+November 7, 1999
+
+Pawn F3 to E4 takes pawn
+
+Incident ████-███
+
+[DATA CORRUPT]
+
+October 27, 2004
+
+Bishop I7 to J8 takes bishop
+
+Boston Red Sox win the World Series.
+
+Move followed three moves by White's bishop in an apparent attempt to capture Black's bishop.
+
+December 9, 2007
+
+Pawn C7 to C8, promote to queen
+
+Records sealed by order of O5-13 O5-1
+
+Records sealed by order of O5-13 O5-1
+
+December 13, 2007
+
+Bishop to C8 takes queen
+
+Records sealed by order of O5-1
+
+It is assumed that the pawn that was promoted to queen was captured by Black's queen on December 10th. Additional resources have been allocated to research possible identities of the bishop in question.
+
+Remaining records are sealed until further notice.
+
+Addendum: Excerpts from analysis of SCP-928 gameplay.
+
+Document has been modified to increase readability for researchers and executives who are not intimately familiar with chess strategy and tactics.
+
+…While SCP-928's strategy is difficult to ascertain given the very incomplete information existing regarding the game state and the actions of its opponent, I've come to the conclusion that SCP-928 is, if not highly skilled, then at least gives a very good impression of it. I would put it roughly on par with myself and slightly above Researcher Kaplan. It does not appear to possess the center squares, but I believe it is attempting to control them from the outside, suggesting influence from the hypermodern school…
+
+…On the whole, if I were forced to make an assessment, its play style is most reminiscent of Alekhine3 , but as Alekhine did not play Capablanca chess, and I am not as well-versed in that particular variation's masters, I cannot say for sure. Given the dearth of data with which I have to work, nothing more should be expected…
+
+…I can say very little about Black except that it seems to surpass SCP-928 in skill. While SCP-928 is very tactically precise, its opponent seems to practice a prophylactic4 style, stymieing most of White's tactics. Black controls somewhat more space than White and is most likely on the initiative…
+
+…In short, while Black probably has fewer pieces than White, it makes use of them more effectively and has a strategic advantage over White, which I suspect results from a knowledge of its opponent superior to White's understanding of it. Unless we've significantly misjudged the game state or SCP-928 displays some unexpected skills, it will most likely lose within thirty turns. I am obviously unable to say what exactly this would entail for the doll itself or for the Foundation, considering that we are in possession of it…
+
+Signed,
+
+Researcher Lester Short
+
+Footnotes
+
+1. While other variants are possible considering the squares and pieces present, Capablanca Chess is the most widely-known variant that is consistent with known data.
+
+2. Anecdotal evidence of subjects exposed to SCP-928 existing outside of Foundation custody exists; however, none of the subjects appeared to notice or be willing to communicate with personnel and were inexplicably lost. Thus, these reports remain unconfirmed.
+
+3. [Alexander Alekhine was the fourth World Chess Champion. Born Oct. 1892, died Mar. 1946.]— Ed.
+
+4. [Prophylaxis is any move that restricts the opponent's freedom to take action in a certain area unimpeded.]— Ed.

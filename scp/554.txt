@@ -1,0 +1,57 @@
+SCP-554 in situ
+
+Item #: SCP-554
+
+Object Class: Euclid
+
+Special Containment Procedures: A 100m exclusion zone should be maintained around SCP-554 with signage indicating danger of death due to electrocution. A rotating team of 3 field personnel is to be assigned the task of preventing public exposure to the object. The individual currently designated SCP-554-2 is to be held in Foundation custody at Sector-25. In the event of members of the public or Foundation personnel becoming exposed to the effects of SCP-554, the following procedures apply:
+
+174-Macadamia: Where an individual has viewed SCP-554-1. Communication with Sector-25 should be established immediately to confirm that the individual previously designated SCP-554-2 has undergone a 554-Boojum event. Exposed individual is to be designated SCP-554-2 and conveyed to Sector-25. Containment is to be re-established and any eyewitnesses administered amnesiacs.
+
+889-Almond: Where multiple individuals have viewed SCP-554-1 in a short time span. Surviving individual is to be interrogated to establish the identity, where possible, of others exposed. Failing this it will become necessary to remove SCP-554-1 and identify the corpse. Precautions must be taken to avoid accidental exposure while retrieving SCP-554-1. Corpses removed from SCP-554 are to be conveyed to Sector-25.
+
+333-Hickory: Where Foundation agents have been exposed to SCP-554-1 in the course of their duties. Safety of uncontaminated personnel is the highest priority; where the previously exposed individual has not been identified, the exposed agent has sole responsibility for identifying SCP-554-1. Contaminated personnel are to be designated SCP-554-2 and conveyed to the Sector-25 facility; they should be kept under 24-hour surveillance by at least two staff members to delay an 554-Boojum event. Next of kin should be informed that SCP-554-2 has been diagnosed with a terminal medical condition. Video-link or in extremis personal contact with SCP-554-2 is authorised at the discretion of sector management; suitable steps should be taken to safeguard the secrecy of Sector-25.
+
+Detail on SCP-554 interior. Guard has been erected to prevent accidental exposure to SCP-554-1
+
+Level 5 Access Required
+
+Close
+
+451-Cachichin: Where images or footage of SCP-554-1 has become public knowledge and has proven effective at transmitting the SCP-554 effect. SCP-554 is to be reclassified Keter with immediate effect. High explosives to be used to destroy SCP-554. If neutralisation efforts prove ineffective, following protocols are to be implemented in order provided below until containment is re-established.
+
+Whitehouse Protocol: Electronic communications to be disabled worldwide to prevent transmission of SCP-554 effect. State approval is to be sought wherever possible - otherwise Foundation assets are to be directed to sabotage relevant infrastructure.
+
+Ameles Protocol: Use of Project LETHE authorised. Contaminated objects, individuals, and electronic infrastructure are to be destroyed.
+
+Wyndham Protocol: Orbital assets to be used to neutralise human optic nerves in area of contamination to prevent further transmission.
+
+Description: SCP-554 is a structure located on Culver Down, Isle of Wight, England. Its date of construction and original purpose are unclear, but photographs taken from the nearby █████████ Holiday Park date its presence to the late 1970s.
+
+The structure's exterior is composed of partially oxidised iron plates and concrete - radiography suggests its interior to consist of a large number of complex mechanical components. A rusted iron ladder permits access to the structure's roof, though as far as can be determined there is no instrumentation or access to the interior anywhere on SCP-554's exterior.
+
+A human corpse, designated SCP-554-1, wrapped in a black plastic refuse bag, is visible in the space between the concrete beams on which SCP-554 is supported. When SCP-554-1 is viewed by a human subject, designated SCP-554-2, the previous individual to view SCP-554-1 will disappear the next time they are out of sight of any observer; this event is designated 554-Boojum.
+
+Mechanical observation appears insufficient to prevent this effect; they will disappear between frames unless a sentient observer maintains unbroken line of sight to a live visual output of the subject. If SCP-554-1 is removed from SCP-554 and identified it will be discovered to be the corpse of the previous SCP-554-2 - the cause of death is invariably multiple stab wounds to the chest and abdomen and the corpse exhibits a level of decomposition consistent with remaining undiscovered for approximately 72 hours.
+
+Individuals who undergo 554-Boojum are erased from all written and electronic records within approximately 120km; this has led to significant difficulty identifying victims of SCP-554. It is not presently believed that human memory is subject to this effect, though this cannot be ruled out: it can be established only that in some cases memories of the affected individual are not erased, as the Foundation has re-recorded the identities of numerous individuals who have been subject to 554-Boojum.
+
+SCP-554 interior - SCP-554-1 is visible (image has been determined to be safe for viewing)
+
+When SCP-554-1 is viewed by a human subject, activity from within SCP-554 has been detected, including mechanical noise and vibration. Markedly increased activity from SCP-554 has been noted in the case of individuals about whom a significant amount of information might be expected to be stored externally.
+
+If SCP-554-1 is removed from SCP-554, the next time the space beneath SCP-554 is out of line of sight of any observer a new instance of SCP-554-1 will be generated. Only instances that have not yet been moved appear to spread the SCP-554 effect. Approximately 10% of all images of SCP-554-1 in situ cause the effect when viewed. Contaminated images and all footage of SCP-554-1 are to be destroyed as a matter of course.
+
+Addendum SCP-554-01
+
+SCP-554 has been known to the Foundation since 1981 at the latest. Due to the secondary effects of SCP-554 the recovery log initially attached to this document was lost in its entirety at some point prior to 05/07/2005, when the loss was successfully documented. Attempts to reconstruct the circumstances by which the Foundation became aware of SCP-554 via interviewing staff involved with the object at the time are ongoing; the reconstructed Recovery Log appears below. Note that to safeguard further information pertaining to SCP-554 the primary hard copy of this file is stored at Site-33 with a further copy at Site-60.
+
+Reconstructed Recovery Log 554
+
+Attempted detail on SCP-554-1 (image has been determined to be safe for viewing)
+
+Agent █████ , now retired, testifies that SCP-554 was brought to the Foundation's attention in early 1979 as part of an investigation into a Jonathan, John, or Jeremy ███████ , who confessed to a number of murders taking place in the 1970s on the Isle of Wight and the south coast of England. ███████ told police that he had hidden the bodies below an old 'septic tank' on the Culver Downs.
+
+On arrival police discovered a single body, which was removed and found to be that of ███████ himself, who had apparently escaped from police custody with the destruction of all paperwork relevant to his case. Embedded Foundation assets were activated when the officer who had made the initial discovery was subsequently found murdered in the same location, preceding a string of disappearances. Professor ██████████ , a field agent at the time, recalls several Foundation personnel were lost before SCP-554's properties were established and believes the identities of these individuals were redocumented in a separate file.
+
+Note: Dr. ████████ testifies that several police officers were committed to a mental institution in southern England to prevent further investigation of SCP-554. Unfortunately he has been unable to recall the names of these officers or the institution in question. Enquiries into police officers who may have been committed in the early 1980s are ongoing. The file of Foundation personnel subject to 554-Boojum currently dates back no further than 1981.

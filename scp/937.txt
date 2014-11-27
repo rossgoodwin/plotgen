@@ -1,0 +1,33 @@
+A 'hollowed column' instance of SCP-937
+
+Item #: SCP-937
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-937 specimens are to remain at Site-92, located at [REDACTED] in Melanesia. Site-92 is listed by its host government as a UNESCO World Heritage Site and is off limits for all but selected personnel, all of whom are Foundation researchers and security staff. SCP-937 hives in the wild are to be quarantined and incinerated.
+
+Description: SCP-937 is a strangler fig tree, closely related to Ficus watkinsiana, and has been classified as Ficus formicidae in [DATA EXPUNGED]. SCP-937 appears very similar to other strangler fig trees for most of its life cycle, although its reproductive process is unique.
+
+When SCP-937 matures, it begins to flower and bear fruit, designated SCP-937-2. The flowers are apparently self-pollinating, as opposed to other fig trees. When developed, the "fruit" are insectoid in appearance, with a head, thorax, abdomen and six legs, growing up to five centimeters in length. SCP-937-2 specimens have a convergent anatomy with insects, including a cellulose exoskeleton, spiracles and heart analogues, but lacking a proper digestive tract. SCP-937-2 have leafy growths on the back that resemble wings, with ripe specimens hardening to a flattened wing of fibrous, papery tissue, reminiscent of a maple seed's rotors.
+
+SCP-937-2, Forager Subtype
+
+Once it is fully developed, an individual will detach itself temporarily and begin to walk around and tend its parent tree. SCP-937-2 will forage for plant and animal matter and use such to fertilize the roots of not only its host plant, but also any other nearby instances of SCP-937. The various subtypes SCP-937-2 "fruit" behave rather in the manner of ants with the parent SCP-937 functioning as both hive and queen.
+
+SCP-937-2 also behave like ants in terms of their aggressive behavior toward anything outside of their species, as well as their sting. The sting induces necrosis at the site very quickly, and the fruit will work together to overwhelm even small mammals. Fortunately, while painful, the sting does not endanger humans and can be averted with proper precautions.
+
+Once ripe, SCP-937-2 will climb as high as possible and glide to other trees, where they will germinate as a normal hemiepiphyte, eventually extending roots to the ground and foliage upward. Like other strangler figs, SCP-937 will surround the trees that they germinated on and eventually kill them. This combined with the aggressive nature of SCP-937-2 makes SCP-937 a particularly noxious weed should the species manage to gain a foothold.
+
+Experiment Log 937-1:
+
+Date: ██/██/19██, ██ months duration
+
+Subject: Two SCP-937 specimens, twenty fertilized queens of Atta sexdens
+
+Procedure: A large arboretum was constructed at [REDACTED] in Melanesia, where SCP-937 and Atta sexdens were introduced to an established ecology.
+
+Details: Three successful leafcutter ant colonies were founded, and began to expand. Both SCP-937 trees matured and bore fruit, which began to forage. The two species ignored each other until the leafcutter ants attempted to harvest leaves from one of the SCP-937 instances. New subtypes of SCP-937-2 matured, and the SCP-937 hives collaborated to eradicate leafcutter colonies and aggressively colonize the area. After ██ weeks, the ant colonies had been exterminated, and much of the island's ecology had been taken over by SCP-937.
+
+By order of Dr. ████████, senior researcher for SCP-937, the site was remotely destroyed and incinerated until nothing viable remained.
+
+Addendum 937-3: Due to irregularities in soil samples at Site-92, [DATA EXPUNGED], a quarantine for all botanical material is now in place at the site. – Dr. ████████, 4/937

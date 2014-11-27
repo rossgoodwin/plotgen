@@ -1,0 +1,143 @@
+Item #: SCP-1273
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: SCP-1273 is to be kept in Containment Locker #434 at Site 23 when not being actively used for testing with D-Class personnel. SCP-1273 is not to be connected to any electrical power source except for testing purposes. SCP-1273-A is to be treated as a non-hostile but potentially dangerous entity.
+
+SCP-1273-A remains indefinitely in Testing Chamber #741 and is to be monitored at all times. Personnel are forbidden from entering the chamber until further notice. No testing of anomalous objects is to take place in Test Hall-Delta as of 05/11/2014, and in the event of a containment breach, the hallway should be completely sealed off.
+
+Description: SCP-1273 is a ██████ brand children's nightlight. No materials comprising the structure of the object have been identified as individually anomalous. The object has been designed to resemble a stylized rabbit, and functions as a non-anomalous nightlight for the first thirty minutes of being connected to a working power source and turned on. At this point, SCP-1273's anomalous effects will activate and an entity, hereby designated SCP-1273-A, will manifest in the area containing SCP-1273. If the object is turned off or disconnected from the power source during the manifestation of its anomalous properties, the entity will demanifest until the next activation event.
+
+SCP-1273-A appears to be a Caucasian female humanoid entity of approximate teenage appearance. The entity refers to itself as "Abigail Lawrence," a citizen of the town of ███████, ██ where SCP-1273 was initially discovered. Foundation investigation confirms that an individual bearing the same name and description of the entity formerly lived in the town, but was reported dead as of 03/09/2014. The aforementioned person's parents had discovered their deceased child in her room on the aformentioned date, along with SCP-1273 and several other anomalous objects whose function appears to be [REDACTED].
+
+The entity is visually indistinguishable from a non-anomalous human subject; however, it is unable to make physical contact with anything that is not a boundary of the room currently housing SCP-1273. All other objects cannot be manipulated by the subject.1 As such, SCP-1273-A cannot leave the room it manifests in.
+
+Upon manifestation, the subject typically appears to be distressed and attempts to remove SCP-1273 from its power source. Due to the entity's intangible nature, these actions are consistently futile.
+
+Interview Log-1273-Alpha: The following interview was taken upon initial manifestation of SCP-1273's anomalous effects by the presiding head researcher, Dr. Lloyd.
+
+Interviewed: SCP-1273-A
+
+Interviewer: Dr. Lloyd
+
+Foreword: This is the first recorded appearance of SCP-1273-A.
+
+<Begin Log>
+
+Lloyd: Hello, my name is Dr. Jason Lloyd. I'm going to ask you a few questions now, if you don't mind.
+
+SCP-1273-A: [too quiet to be understood]
+
+Lloyd: I'm sorry, what was that?
+
+SCP-1273-A: [turns to look at Dr. Lloyd. Subject appears distressed.] Can I go back?
+
+Lloyd: Go back where? [aside] Note that subject appears to be distressed
+
+SCP-1273-A: I-I was never supposed to come back here… [Subject begins to attempt to remove SCP-1273 from its power source. The entity is apparently intangible, as it does not appear to be able to physically interact with the objects.]
+
+Lloyd: Please, calm down. We can help you, but you have to help us first. [holds out his hand as a gesture of peace]
+
+SCP-1273-A: [shakes head] Please don't touch me. You can't help me. I don't need help, just please let me go back.
+
+Lloyd: Go back where?
+
+SCP-1273-A: [Subject continues to attempt to remove SCP-1273 from its power source.] Away. The place I was before. It was so much better than this, just please, please, unplug this thing.
+
+Lloyd: SCP-1273-A, I'm going to need more information from you before we can release you.
+
+SCP-1273-A: [Subject ceases attempts to remove SCP-1273 from its power source.] And then I can go back?
+
+Lloyd: Yes. Then you can go back.
+
+SCP-1273-A: Okay… my name was Abigail Lawrence, I was 16 years old, and I'm from ███████. I… I don't really remember how I got into the light, but I know it's my home.
+
+Lloyd: "Was?"
+
+SCP-1273-A: Ah, well, as you can see, I'm not exactly… [entity waves hands through SCP-1273]
+
+Lloyd: Ah. I see. Are you completely positive you can't remember anything at all about how you got to be this way?
+
+SCP-1273-A: [looks away from Dr. Lloyd] I'm sorry, I really can't.
+
+Lloyd: I see. If you do remember anything, please don't hesitate to tell us. Now, what's your home like?
+
+SCP-1273-A: [smiles slightly] It's amazing and bright and freeing, and… oh, please let me go back. Just for a bit. I can't stand it here any longer.
+
+[Dr. Lloyd confers with research team for approximately three minutes]
+
+Lloyd: Alright, SCP-1273-A, you can go for now. We'll see you soon enough.
+
+<End Log>
+
+Closing Statement: Dr. Lloyd proceeded to turn off the object and remove it from its power source, causing SCP-1273-A to demanifest.
+
+Interview Log-1273-Beta:
+
+Interviewed: SCP-1273-A
+
+Interviewer: Dr. Lloyd
+
+Foreword: The following interview takes place one week after the events comprising Interview Log-1273-Alpha and mark the second activation of SCP-1273's anomalous state by the Foundation.
+
+<Begin Log>
+
+SCP-1273-A: [sighs] So soon?
+
+Lloyd: Hello SCP-1273-A. Do you recall any more details on the events that lead to you existing in your current state since our last interview?
+
+SCP-1273-A: I'm afraid not, Doctor.
+
+Lloyd: I see. Well, can you tell me more about the place you came from?
+
+SCP-1273-A: [looks around anxiously] I'm, um, afraid that's not allowed.
+
+Lloyd: Not allowed? Who isn't allowing this?
+
+SCP-1273-A: [averts eyes towards the ground] Please, put me back.
+
+Lloyd: Abi, please answer the question.
+
+[Subject does not respond.]
+
+<End Log>
+
+Closing Statement: Subject remained unresponsive for the remainder of the interview. Following half an hour of unresponsiveness, Dr. Lloyd powered SCP-1273 down and unplugged it.
+
+Research Log-1273-Kappa: The following is a series of excerpted notes taken from Dr. Lloyd's experimentation notebook. All excerpts are from notes taken during a series of interviews with SCP-1273-A.
+
+…will not tell us any more about this place. It's quite obvious she's lying about not remembering the process, but why is she hiding it? Researcher Garrison thinks…
+
+…realized that we can encourage the information out of it by refusing to let it go back until it tells us.
+
+…the plane the entity comes from is apparently devoid of all physical matter completely. The entity is being slightly more cooperative, but is apparently trying to deliberately impede Foundation understanding of this area…
+
+Agent █████████ and Agent ███████ appear to be slowly earning SCP-1273-A's trust. Head researchers are to confer about how to possibly use this in conjunction with punishment in the future.
+
+Incident Report-1273-Mu-1: On 05/11/2014, during routine testing of SCP-1273's responsiveness to alternative power sources2, the object's light bulb burned out. However, unlike a typical deactivation event, SCP-1273-A did not demanifest. The entity noticed this, became panicked, and started attempting to remove SCP-1273 from its power source. Personnel proceeded to accomplish this task, which did not cause the entity to demanifest. SCP-1273-A violently approached Agent ███████ and attempted to assault her3 while shouting at the subject4. Instead of passing through the agent as was expected, the entity's appendages appeared to become "trapped" in the subject's physical body. This caused further distress to SCP-1273-A, who vocalized more loudly and struggled to remove itself from Agent ███████'s form. As the entity made increasing contact with the agent's body, SCP-1273-A appeared to be absorbed into it. After approximately three minutes, the entity was fully absorbed into Agent ███████'s body. The agent appears to have died during this process. On site personnel reported a lack of respiration and pulse from ███████, and tentatively declared her to be dead. Soon after, the chamber was cleared of all personnel and objects, save for the corpse of the subject, in order to monitor any possible anomalies resulting from this event.
+
+Incident Report-1273-Mu-2: After approximately three hours of observation, SCP-1273-A emerged from the corpse5 and began attempting to strike the walls and doors of the chamber while shouting6. These actions persisted for approximately forty-five minutes, at which point SCP-1273-A moved to the center of the room and assumed a fetal position. The entity did not move from this position for four hours. It then stood up7and approached the corpse. SCP-1273 entered the corpse and attempted to partially animate it, resulting in erratic movements. The object flung itself at the door of the testing chamber repeatedly for approximately sixty minutes before SCP-1273-A emerged, returned to its position in the center of the room and began crying. The entity is to be continually monitored until further notice.
+
+Audio Log-1273-Sigma: The following excerpts are segments of audio taken from the testing chamber housing SCP-1273-A during Foundation monitoring.
+
+I didn't mean to kill her.
+
+You don't understand how it feels to be trapped. You don't understand the feeling of being restricted, because you've never known being free. Please, let me out. I can show you.
+
+I just want to go home.
+
+Footnotes
+
+1. See Incident Report-1273-Mu
+
+2. Specifically, the effectiveness of circuits powered by alkaline batteries
+
+3. As SCP-1273-A had previously proven to be intangible, Agent ███████ did not make any attempt to defend herself.
+
+4. The entity was noted to say "This is your fault" repeatedly
+
+5. The entity was noticeably panicked at this time.
+
+6. The entity was noted to say several phrases repeatedly, notably "Let me out," and "Don't make me choose between these two prisons."
+
+7. SCP-1273-A was noted to be hesitant during the following actions.

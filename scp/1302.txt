@@ -1,0 +1,87 @@
+SCP-1302-1 display, prior to operation
+
+Item #: SCP-1302
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1302-1 is to be contained in a standard beta-level storage cell at Site-██. Foundation personnel are forbidden from operating SCP-1302-1 under any circumstances. Requests for cross-testing should go through SCP-1302’s immediate overseer (currently Dr. █████) and must receive Level-4 approval before commencement. Instances of SCP-1302-2 have shown no anomalous properties and may be disposed of normally. Instances of SCP-1302-3 must be securely placed in Fireproof Observation Room 3842 until confirmation of Event 1302/Alpha. D-Class personnel assigned to SCP-1302 are to be exempted from standard monthly terminations, paid a nominal weekly wage by the Foundation and provided with facilities for the purchase of goods. The effects of SCP-1302 are closely tied to personal wealth and property, and testing with normal D-Class protocol would be unworkable.
+
+Description: SCP-1302-1 is an ██████-████ brand electronic blackjack machine, recovered from ████████ Resort and Casino, Las Vegas on 2/2/20██ after being brought to the attention of the Foundation by Agent █████. Physically, SCP-1302-1 exhibits only one anomalous property: money fed into it cannot be recovered; analysis is ongoing but has yet to provide any significant results. SCP-1302-1 is otherwise indistinguishable from any machine of the same type and is entirely safe to examine in any way, so long as it is not operated in its intended manner.
+
+When SCP-1302-1 is operated, function is identical to that of any other electronic blackjack game. Dollar notes of any denomination can be inserted, and winnings recovered in the form of ████████ Resort and Casino payout tickets (SCP-1302-2). Chemical analysis has confirmed these tickets to be identical to those issued from similar machines and no anomalous properties have been noted. They are styled SCP-1302-2 only as a result of their connection to SCP-1302-1.
+
+Unlike standard machines of the same type, SCP-1302-1 can be operated when the credit meter is at zero. A successful wager in these circumstances will result in the payout being transferred to the credit meter, where it can be used for further bets or withdrawn in the form of SCP-1302-2 as normal. A loss, however, causes the credit meter to fall into the negative, relative to the amount bet. Further play is possible, allowing the operator to reclaim a positive balance or fall deeper into a negative one. A negative balance can be withdrawn in the same manner as a positive one, though instead of an instance of SCP-1302-2, a black ticket will be printed with no markings but the balance withdrawn, in red, at the centre (SCP-1302-3). SCP-1302-3 is composed of an unknown material structurally resembling paper. No ink, dyes or other colouring agents have been detected on any instance of SCP-1302-3. Both the black and red sections appear chemically identical, and it is not known how the change in colouration is achieved. An instance of SCP-1302-3 is automatically produced should an operator attempt to leave the general vicinity of SCP-1302-1 while the credit meter stands at a negative value.
+
+Within twenty one days of an instance of SCP-1302-3 the person it was issued to will, through events beyond their control, suffer the loss of possessions up to the value of the figure printed upon it. Losses will be experienced only by the person to whom SCP-1302-3 was originally issued regardless of its current location or ownership. When sufficient losses have been incurred SCP-1302-3 will self combust, known as ‘Event 1302/Alpha’. All attempts to prevent this have been unsuccessful, as the fire cannot be extinguished by any normal means. An instance of SCP-1302-3 showing a figure beyond the material value of the possessions of its owner will incur Event 1302/Beta1 after exactly twenty one days. Those to whom an instance of SCP-1302-3 has been issued have experienced a variety of psychological symptoms which appear to increase in magnitude alongside the figure printed. Smaller figures generally produce mild headaches or a sense of general malaise, while in the case of larger ones severe effects have been noted; chronic insomnia, amnesia and psychosis being common. Regardless of severity, spontaneous recovery from these conditions is experienced in 100% of cases after Event 1302/Alpha. Efforts to destroy SCP-1302-3 prior to Event 1302/Alpha have proven fruitless and attempts thus far have resulted in Event 1302/Omega2 in 100% of cases. As such, intentional damage to any instance of SCP-1302-3 for any reason is strictly prohibited. Failure to adhere to this rule is punishable by termination.
+
+Addendum 1302-1: Test Logs
+
+Log 1302-1
+
+Supervisor: Dr. ██████.
+
+Operator: D-84394.
+
+Procedure: Subject provided with $10 and instructed to insert it into SCP-1302-1. Subject does as instructed. Subject reports that on-screen credit meter reads $10.00. Subject instructed to place one $5.00 bet. Subject does as instructed and reports that on-screen credit metre now reads $15.00. Subject instructed to withdraw balance. Instance of SCP-1302-2 noted. Subject instructed to leave testing area. Test concluded. SCP-1302-2 secured, noted to read $15.00 and placed in Observation Room 1133. Interview with D-84394 scheduled for one month (██/██/████).
+
+Observation: Post-test observation of D-84394 shows no abnormalities. Post-test observation of SCP-1302-2 shows no abnormalities.
+
+Interview: D-84394 reports no abnormalities.
+
+Log 1302/3
+
+Supervisor: Dr. ██████.
+
+Operator: D-16434.
+
+Procedure: Subject instructed to operate SCP-1302-1 until balance is negative. Subject does as instructed and reports that on-screen credit meter reads -$4 after approximately two minutes. Subject instructed to withdraw balance. Instance of SCP-1302-3 noted. Subject instructed to leave testing area. Test concluded. SCP-1302-3 secured, noted to read ‘$4’ and placed in Fireproof Observation Room 3842. Interview with D-16434 scheduled for one month (██/██/████).
+
+Observation: Post-test observation of D-16434 shows no abnormalities. Event 1302/Alpha noted at 1806hrs, ██/██/████.
+
+Interview: D-16434 reports feeling slightly ‘fluey’ towards the start of the month, but otherwise nothing of significance. Complaint that the vending machine in Recreation Area 3 keeps ‘eating his quarters’ noted and passed to Maintenance Department.
+
+Log 1302-5
+
+Supervisor: Dr. ██████.
+
+Operator: D-39409.
+
+Procedure: Subject instructed to operate SCP-1302-1 until balance is approximately -$1500. Subject does as instructed and reports that on-screen credit meter reads -$1380 after approximately fifteen minutes. Subject instructed to withdraw balance. Instance of SCP-1302-3 noted. Subject instructed to leave testing area. Test concluded. SCP-1302-3 secured, noted to read ‘$1380’ and placed in Fireproof Observation Room 3842. Interview with D-39409 scheduled for one month (██/██/████).
+
+Observation: Post-test observation of D-39409 shows subject to be restless in bed and prone to apparently aimless walking for approximately eighteen days subsequent to interaction with SCP-1302-1. D-39409 noted to fall on eighteenth day (██/██/████) while carrying ████ brand laptop from Recreation Area 3 to Sleeping Quarters 6. Laptop confirmed destroyed. Event 1302/Alpha noted at approximately the same time (2257hrs, ██/██/████).
+
+Interview: D-39409 reports feeling unwell and confused until recently, noting that on occasion he would ‘forget why he was here’. Difficulty sleeping is also reported, until around the same time. When questioned about his fall, D-39409 expresses annoyance at the damage done to his laptop, but remarks that he felt ‘amazing’ afterwards and had a good night’s sleep for the first time ‘since doing that [EXPLETIVE DELETED] test’.
+
+Log 1302/8
+
+Supervisor: Dr. ██████.
+
+Operator: D-03204.
+
+Procedure: Subject instructed to operate SCP-1302-1 until balance is approximately -$100,000. Subject expresses annoyance and comments that ‘that’ll take [EXPLETIVE DELETED] ages’. Instructions repeated. Subject complies but requests early conclusion to test after approximately three hours and reports that on-screen credit meter reads -$95,780. Dr. ██████ approves this. Subject instructed to withdraw balance. Instance of SCP-1302-3 noted. Subject instructed to leave testing area. Test concluded. SCP-1302-3 secured, noted to read ‘$95,780’ and placed in Fireproof Observation Room 3842. Interview with D-03204 scheduled for one month (██/██/████).
+
+Observation: Post-test observation of D-03204 shows significant psychological breakdown. D-03204 removed from communal areas and restrained in psychiatric section of Medical Wing 12 after stabbing D-45884 with a pencil repeatedly, to the point of severe bleeding and loss of sight in one eye. D-03204 noted to be entirely incoherent following restraint. Observation feeds to Medical Wing 12 abruptly cut off at 1230hrs, ██/██/████; exactly twenty one days after test. Contact restored after five seconds. No trace of D-03204, or sign of any struggle. Medical personnel present report momentary absence of light around D-03204 while remaining able to see each other and the rest of room. Examination of Medical Wing 12 shows no traceable anomalous properties. Event 1302/Alpha noted at exactly the same time as Event 1302/Beta (1230hrs, ██/██/████).
+
+Interview: N/A
+
+Log 1302/11
+
+Supervisor: Dr. ██████.
+
+Operator: D-11131.
+
+Procedure: Procedure: Subject provided with ███ brand lighter. Subject instructed to operate SCP-1302-1 until balance is negative. Subject does as instructed and reports that on-screen credit metre reads -$10 after approximately three minutes. Subject instructed to withdraw balance. Instance of SCP-1302-3 noted. Subject instructed to burn SCP-1302-3. Subject does as instructed. Approximately five seconds after flame touches SCP-1302-3, an entirely black sphere of three metres across appears immediately behind Research Assistant ██████. [DATA EXPUNGED] approach D-11131, ignoring all other personnel and passing directly through all physical barriers. [DATA EXPUNGED]. D-11131 considered lost. Test concluded. SCP-1302-3 secured, noted to read ‘$10’ and placed in Fireproof Observation Room 3842.
+
+Observation: Event 1302/Alpha noted at ████hrs, ██/██/████. Trigger remains unknown.
+
+Interview: N/A
+
+Addendum 1302-2:
+
+As of ██/██/████ all testing with SCP-1302 is prohibited and all personnel reallocated - O5-█.
+
+Footnotes
+
+1. See Test Log 1302/8.
+
+2. See Test Log 1302/11.

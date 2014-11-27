@@ -1,0 +1,35 @@
+Item #: SCP-242
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-242 is kept at a home located in ████████, NM procured by the Foundation on ██/██/████. The home is unremarkable and is inhabited by Dr. ██████ and Dr. ██████████ who pose as a married couple with no children. The backyard is defined along its perimeter with a cinder block wall approximately 2 m high in accordance with the homes in the general vicinity. The pool is monitored at all times by a single Level 1 guard who also covers as the couple's live-in cook (human monitoring was added after Incident 242-1). Swimming or wading in pool is strongly discouraged and any access to the pool by anyone other than Class D personnel for experimental reasons is forbidden.
+
+Description: The original owner of the home where SCP-242 is located was an out of state landlord who had problems keeping the place rented. After retiring, he moved there, but disappeared after only 3 days.
+
+SCP-242 is a swimming pool approximately 4.5 m wide by 9 m long with a depth ranging from 1 m deep on both ends to 1.5 m deep in the center and a total volume of approximately 53,000 liters. It has a dual waterfall feature, an in-pool vacuum unit and stairs on one end.
+
+Any substance when placed into the pool will eventually be transmuted into sterile water which will remain sterile even after being removed from SCP-242 and introduced to a non-sterile environment. A sample taken from SCP-242 and poured into a container of water that had been tinted with red food coloring did not mix, but rather stayed together as a non-miscible bubble. Subsequent examination of samples show them to be nothing more than pure, sterile water.
+
+The length of time required for the transmutation to complete is dependent on the nature of the substance placed into SCP-242. Ordinary river water sampled from █████████, NM was completely sterilized in 7 minutes. Stagnant pond water taken from ████, NM was sterilized in 18 minutes. 50,000 liters of coal tar was converted over the course of 12 days.
+
+While the pool contains nothing but sterile water, there is no apparent action of any of the features of the pool. Once a non-water substance is placed into the pool, the water jets and waterfall will come on even if disconnected from any power source. The pool vacuum, if attached, will also activate and drive around the bottom of the pool even through extremely viscous liquids. There is no cycling of water into or out of the filtration system. Pipes leading to the filtration system have been completely removed and shown to be empty and dry while pool contents were being sterilized.
+
+Stagnant pond water, Time=0 min.
+
+Stagnant pond water, Time=9 min.
+
+Stagnant pond water, Time=16 min.
+
+Stagnant pond water, Time=18 min.
+
+Addendum:
+
+Incident 242-1: On ██/██/████, during a time when the home was vacant but being monitored by a hidden video camera, a man and woman, apparently in their early 20's scaled the rear wall and gained access to SCP-242. They proceeded to undress, and go swimming along with two vinyl inflatable rafts acquired from the shed in the backyard. After the water jets came on, the female was startled and indicated she wanted to leave. The male claimed that it was just the automatic timer coming on to clean the pool, and "there was nothing to worry about". The couple continued to swim and engaged in intimate activities.
+
+24 minutes after the jets started, the female was heard to say that the water was "really warm" and made her feel "tingly". The male agreed, and they both climbed onto their respective rafts and fell asleep holding hands.
+
+29 minutes after the jets started, both of the rafts popped within 4 seconds of each other and the couple was again immersed completely in the water. At this time, significant frothing of the water began with a deep red color being given off from the subjects' locations. Subjects were heard to scream loudly and both attempted to exit the pool. Before exit was possible, the couple went under the surface, the frothing stopped and the pool went from red to clear approximately 48 seconds later. The decision was made to institute a live guard at the pool.
+
+After two weeks, a story was leaked to the press that the couple had eloped to an unknown location somewhere in Mexico.
+
+Note: The use of SCP-242 for possible disposal of any SCP related materials that are "difficult" to manage is being considered at this time. Contact Dr. ██████ for details and/or permission for testing.

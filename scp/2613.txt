@@ -1,0 +1,49 @@
+SCP-2613-1 during the last several seconds of event 2613-A-45
+
+Item #: SCP-2613
+
+Object Class: Euclid
+
+Special Containment Procedures: Monitoring of emergency service communication is to be maintained at all times in the affected area. Mobile Task Force Theta-13 ("Bring Out Your Dead") is to mobilize during any detected SCP-2613 events.
+
+If required, SCP-2613 events are to be explained to any non-Foundation personnel as unscheduled funerary processions. Such observers who view reanimation, dessication or disappearance events are to be administered amnestics before their release back into the general population.
+
+Unless specifically approved for testing, interaction with SCP-2613 events is strictly prohibited. MTF Theta-13 is to prevent non-Foundation personnel from interacting with SCP-2613 events. Corpses recovered during SCP-2613 testing are to be thoroughly cataloged and then destroyed by incineration after no more than a 1 week delay from acquisition.
+
+Description: SCP-2613 is an anomalous event irregularly occurring in the Washington, DC metropolitan area, and which consists of a funerary procession of no known source. These processions are led by a hearse (known as SCP-2613-1) which is joined along its route by a number of vehicles (referred to as SCP-2613-2 instances). Tag numbers present on SCP-2613-2 instances have yielded either no information or information which does not correlate with the details of the vehicles they are attached to.
+
+These vehicles are operated and occupied by a variable number of individuals (referred to as SCP-2613-3 instances) wearing military uniforms belonging to the US Armed forces. Uniforms associated with SCP-2613-3 instances have included all eras of service, including uniforms from eras before the invention of the automobile.
+
+SCP-2613 events initiate immediately after the deaths of certain individuals for whom identification is difficult, if not impossible, and often begin before emergency services have responded. All individuals fully identified by the Foundation have records indicating past service in the US Military. Due to the uniformly vagrant nature of these individuals, Foundation suppression of information relating to these disappearances is not recommended unless events are directly witnessed.
+
+SCP-2613 initiating events have been caught on video surveillance twice, and in both instances the deceased individual displayed signs of distress unrelated to SCP-2613, followed by collapse. Several minutes passed before SCP-2613-1 arrived, followed by a reanimating of the deceased individual. In both events, the deceased individual then opened and entered the rear compartment of SCP-2613-1. It has been determined through examination and testing that individuals involved in these initiating events do not remain reanimated past this point.
+
+With one exception, SCP-2613 events have been observed to follow a similar pattern:
+
+SCP-2613-1 instances collect a deceased individual.
+
+The SCP-2613-1 instance will begin to travel to the nearest cemetery.
+
+At an average rate of approximately 1 additional vehicle a minute, SCP-2613-2 instances will increase the size of the procession.
+
+Upon SCP-2613-1's arrival at the cemetery destination, SCP-2613-1 will slow to a stop.
+
+SCP-2613-1 and SCP-2613-2 instances will immediately vanish along with any occupants.
+
+Video surveillance of disappearance events have yielded little information as to the mechanism of this behavior.
+
+SCP-2613-3 instances have proven relatively friendly and cooperative, however any successful attempt to breach the integrity of SCP-2613-2 vehicles, by either the occupants or Foundation personnel, have resulted in the immediate death and rapid dessication of SCP-2613-3 instances. This includes any attempts to open the doors, windows, and includes unorthodox methods of entry.
+
+Considering the behavior of SCP-2613-3 instances, it is recommended that larger processions be excluded from testing. While SCP-2613 events invariably end without incident when allowed to proceed unmolested, larger processions experience a 'domino effect' of dessication events as SCP-2613-3 instances breach the integrity of their own vehicles in an attempt to investigate the delay.
+
++ Show 2613-A-7 Incident Log
+
+- Hide Incident Log
+
+Incident Report-2613-A-7
+
+During the previous event (2613-A-6), the corpse contained in SCP-2613-1 was retained for further testing and identification. 9 days following the conclusion of the previous event, a funerary procession was found idling at the gate to Site-88. This procession contained no living SCP-2613-3 instances, and did not follow previous behavioral patterns. When the remains related to the previous test were moved to another site, the procession underwent a disappearance event similar to those previously observed.
+
+Following another delay of 9 days, the new site was subjected to a similar event. The SCP-2613 event followed an anomalous pattern of behavior, and a compromise of operational security was determined to be imminent given the gradual addition of new vehicles containing dessicated SCP-2613-3 instances.
+
+A decision was made to destroy the remains from the previous test in an attempt to prevent further escalation. Following this, those remains were then relocated a third time, and another disappearance event was observed. No further deviations from expected behavior followed. The corpse associated with this incident remains unidentified.

@@ -1,0 +1,17 @@
+Item #: SCP-285
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-285 requires no additional protocol regarding its containment, due to its relatively benign nature. Any function requiring use of SCP-285, such as faculty meetings, motivational speeches, or alerting sleepy personnel, involves a simple sign out sheet for monitoring purposes.
+
+Description: SCP-285 appears to be a generic commercial brand megaphone, with a white body and a red rubber grip, along with a small ON/OFF switch. The make and construction of SCP-285 is typical to a normal megaphone of similar size and quality, with the exception of its amplification device. When examined, the device appears to run off electricity, yet no power source has been identified. Long term testing shows that SCP-285 can operate indefinitely barring severe damage to the apparatus, although it is far from indestructible.
+
+When switched on by any organism capable of speech, SCP-285 will amplify anything spoken by its user up to a range of 3500 m. SCP-285 is incapable of emitting any form of sound, but rather transmits whatever is said directly into the minds of all subjects in the direction SCP-285 faces. All standard forms of sound dampening have no effect on SCP-285’s effect, such as earplugs, soundproofing, and noise canceling technology. Even completely deaf subjects report having “heard” the transmission, although they find it understandably difficult to comprehend.
+
+Switching off SCP-285 will not actually disable the device, but reverse its function. SCP-285 will transmit the surface thoughts of all subjects within its range to the user, which has proven to be highly overwhelming in practice. Due to the noise of the collective thoughts, little useful knowledge can be gleaned from this functionality, but research into practical applications of “mind reading” with SCP-285 has been approved.
+
+SCP-285 was originally located at the ██████ ████ School in ███████, AZ. Used by a local cheerleader captain for football games, SCP-285 was eventually discovered after numerous noise complaints from local residents. The home team’s bleachers were placed in front of a residential complex, and the enthusiastic cheers could be heard for nearly a mile. Agent █████ recovered the object while undercover as one of the players, while simultaneously scoring the winning touchdown. SCP-285 is currently located at Site ██ for further study.
+
+Addendum: After an incident where several Level 2 personnel managed to jury rig SCP-285 to accept input from any audio device, SCP-285’s use is to be regulated and monitored.
+
+Note: What the hell is a “rickroll” anyway?

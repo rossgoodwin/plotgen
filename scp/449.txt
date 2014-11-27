@@ -1,0 +1,15 @@
+Item #: SCP-449
+
+Object Class: Safe
+
+Special Containment Procedures: The Foundation currently possesses a sample of SCP-449, which can be kept locked in a standard safe and stored in a secure location. All other occurrences of SCP-449 should be destroyed upon discovery, along with the source if possible. SCP-449 can be destroyed or disposed of with normal methods (incineration, fed to SCP-123, etc).
+
+Description: SCP-449 is a clear, crystalline substance resembling sand in texture. It can be molded into different shapes, ground down into a fine powder, spread on the surfaces of other objects, or dissolved into a variety of liquids. SCP-449 is edible, if tasteless, and extremely addictive.
+
+Upon digestion, SCP-449 releases two chemicals into the bloodstream. The first partially blocks pain receptors in the brain by briefly releasing a massive amount of endorphins and reducing sensory input from the victim’s nervous system. The other chemical targets the stomach, causing the victim to lose the ability to feel full. These effects combined enable a subject to consume vast amounts of SCP-449. Subjects have reported feeling a "gnawing hunger" after ingesting SCP-449.
+
+Due to its addictive properties, subjects will ingest as much SCP-449 as they can obtain, often until their stomach and/or small intestine ruptures. Because SCP-449 blocks pain receptors, the subject usually ignores any internal damage and continues to eat until death from blood loss or other complications. Interestingly, upon autopsy, a larger amount of SCP-449 is found in the subject's system than was originally consumed.
+
+Addendum 449-1: Reports from Agent █████ describe several factories in [DATA EXPUNGED] that harvest large amounts of SCP-449 from the bodies of those addicted to it. For more information, see Field Report 449-01.
+
+Addendum 449-2: If there is no nearby source of SCP-449 (victims seem to be able to smell or somehow locate 449 after consuming some), they will instead devour the nearest granular substance (such as sugar, salt, sand, etc).

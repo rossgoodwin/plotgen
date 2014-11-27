@@ -1,0 +1,39 @@
+Item #: SCP-2666
+
+Object Class: Euclid
+
+Special Containment Procedures: The airspace around SCP-2666 is to be monitored at all times. Any unauthorized vessels or aircraft that approach the area are to be intercepted and escorted away from SCP-2666. Class-C amnestics are to be administered to any and all crew members and passengers. No sharp objects or objects that are easily made sharp are to be thrown into SCP-2666. In addition, GPS and satellite imagery containing SCP-2666 are to be edited by embedded agents so that SCP-2666 is no longer visible.
+
+Any and all instances of SCP-2666-3 leaving SCP-2666 are to be terminated on sight.
+
+Description: SCP-2666 is a ring of 10 volcanically active islands situated on the Mid-Atlantic Ridge measuring 15 kilometers in diameter. Each island has small amounts of tropical vegetation, no animal life, and a 100 meter tall volcano. At the center of SCP-2666 are two humanoid figures (Classified as SCP-2666-1 and SCP-2666-2). Neither of these figures can be removed from SCP-2666. If either figure is damaged, it will start to rebuild itself by an unknown means.
+
+SCP-2666-1 is a 50 meter tall humanoid figure that appears to be made out of granite and magma. Its skin temperature is approximately 150 degrees Celsius. This in combination with the water that it is standing in generates enough steam to keep the entire area obscured. It is normally inactive, but whenever an object other than SCP-2666-3 enters SCP-2666, it will activate and begin destroying objects within SCP-2666 by means of smashing them with its hands. Once it has destroyed all objects within SCP-2666 (apart from SCP-2666-2 and any living instances of SCP-2666-3), SCP-2666-1 will return to its inactive state and SCP-2666-2 will activate.
+
+SCP-2666-2 is a 50 meter tall humanoid figure that appears to be composed entirely of obsidian and ice. When active, it will construct several small humanoid figures measuring approximately 1 meter in height out of the remains of objects destroyed by SCP-2666-1. Once created, these entities (Classified as SCP-2666-3) will exit SCP-2666 and search for objects and/or entities that are within 2 meters of the water's surface. If one is found, SCP-2666-3 will drag the object into SCP-2666, and activate SCP-2666-1.
+
+Addendum 2666-A: It has been noted that SCP-2666-2 and living instances of SCP-2666-3 are impervious to blows from SCP-2666-1. This phenomenon is pending further examination.
+
+Addendum 2666-B: Some instances of SCP-2666-3 are remaining within SCP-2666. They have begun to construct small huts measuring approximately 2 meters in height out of dirt, and some instances have built statuettes of SCP-2666-2.
+
+Addendum 2666-C: Instances of SCP-2666-3 that have been living on SCP-2666 have been observed to perform unexplained rituals on a weekly basis. Some of these rituals include throwing dead instances of SCP-2666-3 to be crushed by SCP-2666-1, lighting fires beneath statuettes of an unidentified humanoid figure, and sacrificing instances of SCP-2666-3 to large sculptures of SCP-2666-2.
+
+Addendum 2666-D: Instances of SCP-2666-3 have been observed to communicate in a language consisting mostly of squeaks and clanks. This language has not yet been translated, although it has been noticed that when "speaking" they move their arms back and forth in an exaggerated fashion as well as occasionally bowing backwards from the waist.
+
+Addendum 2666-E: The SCP-2666-3 population of SCP-2666 appears to have divided into a simple hierarchy. There is one leader that is approximately 0.5 meters taller than a normal instance of SCP-2666-3. It seems to be worshipped by other instances of SCP-2666-3. There is a small caste of SCP-2666-3 that act as bodyguards to the leader. In the event of the death of the leader, one of the members of this group will be chosen to become the new leader1. There is a much larger caste of SCP-2666-3 that are identical to the instances that existed before hierarchy developed. There is also a small group of SCP-2666-3 that are approximately 0.5 meters shorter than all the others. This group acts as servants to the other castes.
+
+Addendum 2666-F: A message has been found engraved into the side of the most active volcano. It is written in Latin. When translated, it reads as follows:
+
+A new world approaches
+
+No signature was found, but a charred human skeleton was found nearby.
+
+Addendum 2666-G: A small cave has been located at the base of the most active volcano. Within this cave are several statuettes of SCP-2666-1, SCP-2666-2, and an unidentified humanoid figure. There is also a wooden bed, a portrait of the unidentified humanoid figure, and several engravings in an unknown language on the wall.
+
+Incident Report 2666-3-01: As an experiment, the leader of the SCP-2666-3 population was terminated. Within approximately 30 minutes, the bodyguard caste started to climb to the top of the nearest volcano. Once they reached the top, they all started emitting humming sounds. These sounds animated both SCP-2666-1 and SCP-2666-2, and both entities started to approach the group of SCP-2666-3. As soon as they arrived, the group of SCP-2666-3 stopped humming. SCP-2666-2 and SCP-2666-1 began to walk towards each other and collided, merging into one entity that was similar in appearance to the unidentified statuettes that the SCP-2666-3 burned. It touched one of its fingertips to the head of each member of the group of SCP-2666-3, emitted a loud humming noise and then disintegrated. SCP-2666-1 and SCP-2666-2 began reconstructing separately in the center of SCP-2666 and one of the members of the bodyguard caste slowly grew taller until it was approximately 1.5 meters tall. A member of the middle caste was chosen at random to become a part of the bodyguard caste, and the SCP-2666-3 population went back to their normal activities.
+
+Incident Report 2666-3-02: An instance of SCP-2666-3 was found in Miami, Florida, slowly dragging a pickup truck to the ocean. The instance was terminated, and class A amnestics were administered to all witnesses. Worldwide searches for other instances are currently pending approval.
+
+Footnotes
+
+1. See Incident Report 2666-3-01.

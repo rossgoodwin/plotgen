@@ -1,0 +1,23 @@
+Item #: SCP-1098
+
+Object Class: Euclid
+
+Special Containment Procedures: All written instances of SCP-1098 are to be burned, painted over, or otherwise obliterated. A single recorded instance is kept on a standard audiocasette for study. Under no circumstances should this recording be digitized.
+
+All instances of SCP-1098-1 are to be contained in converted class-D barracks. They are to be provided food from the site cafeteria at regular mealtimes. Under no circumstances may they be given writing implements or recording media. A television and puzzles and games are to be provided for entertainment of the SCP-1098-1 instances. The barracks must be soundproofed to STC 60+.
+
+Two guards are to be posted at the door of the SCP-1098-1 barracks. All guards are to wear full-ear headphones equipped with active filters designed to scramble human speech.
+
+Description: SCP-1098 is a █-syllable word, with a phoneme pattern consistent with origin among modern speakers of American English. It appears to have no effect on non-English speakers. Persons reading or hearing SCP-1098 in context report that is euphonious and somewhat humorous. Exposure to SCP-1098 out of context appears to be safe but this has not been conclusively established.
+
+Exposure to SCP-1098 in written or spoken form may lead to infection, with increasing probability for each additional exposure. There is an inverse correlation between the size of an individual's working vocabulary and their susceptibility to infection, but this has not been rigorously quantified. Persons in the earliest phases of infection appear to be the most contagious.
+
+Infected individuals (hereafter known as SCP-1098-1) will begin to use SCP-1098 preferentially as a placeholder name (similarly to "whatchamacallit", "thingamajig" or "whatshisname") and respond positively to its use by others.
+
+Example usage:
+
+"Hey Ray, can you hand me that [REDACTED]? No, not that one, the frickin' [REDACTED] over there."
+
+Within 2-3 weeks of exposure, SCP-1098-1 will begin substituting SCP-1098 for other parts of speech with increasing frequency. Initially it is possible to communicate with SCP-1098-1 by inferring the intended meaning of SCP-1098 from context, but soon the prevalence of SCP-1098 in speech becomes so high that only other instances of SCP-1098-1 are able to comprehend it. In the final stages of infection, every utterance of SCP-1098-1 becomes a string of variously-inflected instances of SCP-1098. These effects also appear in written communication.
+
+Instances of SCP-1098-1 are generally cooperative, but express distress upon discovering that they cannot be understood. When speaking with other instances of SCP-1098-1, they appear relieved or even elated. Standardized testing confirms that they have no cognitive impairment other than their muddled speech.

@@ -1,0 +1,71 @@
+Item #: SCP-1334
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1334 is currently under Foundation management, and access to the object requires Level 2 clearance. The immediate property surrounding the apartment complex is to be fenced off, under the guise of ongoing renovation. During daylight hours, two guards posing as building contractors are to be stationed at the main gateway; the outside of the building is to be monitored at all times by camera surveillance.
+
+Any personnel intending to enter SCP-1334 must undergo preliminary training and wear only authorized attire, which will be provided, when entering the building. All interactions with SCP-1334-1 and any observed differences in the interior of SCP-1334 are to be thoroughly documented.
+
+Description: SCP-1334 is a six-story apartment building located in the ████ province of China. The exterior of the complex is nondescript, and the interior rooms each contain specifically arranged items, including:
+
+pairs of chopsticks, bottles of wine, articles of jewelry, and chinaware arranged in multiples of two
+
+bundles of incense sticks, office supplies (pens, pencils, notepads), and children’s toys (marbles, animal figurines, etc), arranged in multiples of three
+
+small potted plants, empty fishbowls, bronze sculptures, ashtrays, and bamboo wind chimes arranged in multiples of five
+
+stacks of paper money and coins arranged in stacks of eight (It was also noted that all clocks in the complex, both analog and digital, had been set to 08:08. None of the clocks were observed to be functional.)
+
+Items placed in groups that are removed from SCP-1334 disintegrate upon crossing the threshold of the bottom floor; the same result occurs if the objects are defenestrated. Replacements will appear roughly 8 hours after removal. Grouped items that are rearranged will automatically return to their original grouping.
+
+SCP-1334 is currently inhabited by a humanoid figure, noted to closely resemble the late █████ ███ who was listed as the contracted tenant of the building’s sixth story apartment. This entity, designated as SCP-1334-1, acts in a manner consistent with complaints filed by the apartment complex’s other tenants, who described Mr. ███ as “eccentric” and “disruptive to others’ households”. Retrieved hospital records indicate that Mr. ███ suffered from paranoia and was discovered missing prior to his 44th birthday, and was later presumed dead. Though SCP-1334-1 appears corporeal, infrared scans of the apartment and complex during sightings do not indicate any heat signatures save for those of Foundation operatives.
+
+SCP-1334-1 is believed to be the cause of the disappearances of the former tenants of the building (as well as ████ ███████ and ██████ █████, a janitor and the landlord of the apartment building, who both visited the complex following the initial disappearances). After these disappearances came to Foundation attention and subsequent containment intervention occurred, Foundation agents sent to investigate SCP-1334 repeatedly encountered SCP-1334-1, who would inform them that their attire was “unlucky” due to accessories or thread count. All agents who encountered SCP-1334-1 reported dizziness and nausea upon leaving the apartment; these symptoms were determined to be due to low red blood cell count. The cause of these effects is unknown.
+
+Addendum SCP-1334-1: After three successful agent interactions with SCP-1334-1, the following interview was conducted by Agent Tai Yang Shen, playing the part of a maintenance inspector checking on a broken window on the fourth floor. Prior to approaching SCP-1334, Agent Shen was given a set of clothes tailored specifically for the experiment.
+
+Note: The following partial transcript has been translated from Mandarin.
+
+Agent Shen: Hello Sir.
+
+SCP-1334-1: Hello. Why are you visiting this place?
+
+Agent Shen: It is time to do maintenance on the building, and the other residents have made complaints about their apartments last time. I am here to inspect.
+
+SCP-1334-1: There are no other residents here.
+
+Agent Shen: Is that true? Sorry, maybe I got the wrong building. But I am sure that my company was responsible for this place.
+
+SCP-1334-1: The other residents left. Since then, not even one person has come here.
+
+Agent Shen: I see. Still, I need to take a look around. The window on one floor is broken.
+
+SCP-1334-1: [pause] Which floor?
+
+Agent Shen: If you step outside, you can see it. The one up there.
+
+SCP-1334-1: Sir, do you know number meanings?
+
+Agent Shen: I think numbers are very important. [rapidly knocks on wall eight times]
+
+SCP-1334-1: Very good! You are careful. Knowing number meanings makes life easier. Please enter and inspect the building. I will show you where the window is.
+
+Agent Shen: Thank you.
+
+SCP-1334-1: You are more careful than the last person. They wore a flower with four petals.
+
+Agent Shen: Really? That is very unlucky.
+
+SCP-1334-1: I also told them that. They did not listen.
+
+Addendum SCP-1334-2: After several subsequent “inspection” visits to SCP-1334, several instances of graffiti (all using the same reddish-brown paint) were discovered in various places throughout the apartment complex. A partial log, translated from simplified Chinese characters, follows:
+
+“The ceiling is a wall. Five is a lucky number. Every room is safe.” (painted onto the back of each door of every room in the building)
+
+“They did not listen to my warning. They left first.” (painted over the doorway of the fourth story apartment)
+
+“I am still here. I will always be here, because I understand numbers. I understand how to use them.” (painted onto the bathroom mirror of the sixth story apartment)
+
+“To let numbers become your life is to let your life become numbers.” (painted across the living room wall in the fifth story apartment)
+
+Addendum SCP-1334-3: During one visit on ██/██/████, Agent Shen did not encounter SCP-1334-1 and proceeded to enter the complex to change a lightbulb near the stairway. Under the guise of ascertaining that the lightbulb was installed effectively, Shen took a picture that included some new graffiti that had appeared on the walls. Said graffiti was written in what appeared to be fresh blood, and comprised entirely of long strings of numbers, each roughly 0.3 meters tall and consisting mainly of the Chinese character eight (八, bā ) while the character four (四, sì) was wholly absent. Upon the next visit, SCP-1334-1 greeted Agent Shen as before, and the graffiti was no longer present.

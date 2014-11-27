@@ -1,0 +1,183 @@
+Entrance to SCP-2088.
+
+Item #: SCP-2088
+
+Object Class: Euclid
+
+Special Containment Procedures: No personnel are to enter SCP-2088 without authorization by Site Command. Level A hazmat suits are mandatory within SCP-2088, as is decontamination upon exit. Personnel compromised by the effects of SCP-2088-1 are to be terminated without prejudice and disposed of per hazardous waste protocols. Due to the difficulty of sustaining a containment facility within the radius of SCP-2088-2, patrols will be periodically sent from the Foundation Site in Zackenberg, Greenland. SCP-2088 is isolated enough to make public discovery unlikely but satellite surveillance must be maintained.
+
+Description: SCP-2088 is a subterranean tunnel complex located in Greenland at coordinates [REDACTED]. It is the largest megalithic structure known to exist within the Arctic Circle, constructed from stone and the bones of marine mammals (primarily Cetacea). These materials have been found to be non-anomalous.
+
+Mummified1 remains found at the site were at first thought to represent an unknown human subspecies but genetic analysis has since disproved that hypothesis. These corpses, presumed builders of SCP-2088, had undergone a wide variety of mutations. These abnormalities most resemble Proteus syndrome though include:
+
+Gigantism
+
+Acromegaly
+
+Polymelia2
+
+Excessive muscle growth, a degree currently unknown to medical science, appears to have compensated for the physical restrictions normally associated with these conditions.3
+
+Artifacts and mitochondrial DNA have respectively connected the original inhabitants of SCP-2088 to the Dorset culture.4 Carbon dating has also revealed the Dorset culture, or “Ur-Dorset” as currently proposed for Foundation historical and anthropological data, to have existed in Greenland since approximately 5000 BCE, predating any other known Paleo-Eskimo culture.5 As with all pre-Thule cultures in Greenland, the Ur-Dorset have no genetic descendants among modern Inuit populations.
+
+One hundred eighty-eight Ur-Dorset bodies have been excavated from SCP-2088. No children have been found among the dead but four stillborn fetuses were discovered, devoid of SCP-2088-1 related mutations. This does not include the corpses of an unrelated twenty-seven killed during the initial recovery. (See Addendum for details)
+
+SCP-2088-1 is an mutagenic agent found within SCP-2088. It is able (through still poorly understood means) to alter the DNA of humans and other animals.6 Flora and fungi introduced to SCP-2088-1 have shown no genetic alteration. No complex organisms are known to naturally frequent the area around SCP-2088 due to inhospitable weather and terrain. Those affected by SCP-2088-1 are to be referred to as SCP-2088-1A. Rate of mutation is positively correlated with depth of descent into SCP-2088.
+
+SCP-2088-2 is a suggestive agent that so far appears to encourage the development of SCP-2088. Much as with SCP-2088-1, it is not currently understood how it is able to accomplish this task but has been found to have an effective radius of up to five kilometers. Originally hypothesized as a hallucinogenic aspect of SCP-2088-1, it has since been discovered to be a separate but related phenomenon, capable of occurring with or without exposure to SCP-2088-1. The effects of SCP-2088-2 are not permanent and symptoms disappear when the afflicted individual is removed from its radius of influence.
+
+Types of hallucinations reported:
+
+Visual
+
+Auditory
+
+Tactile
+
+Thermoceptive
+
+Olfactory
+
+Nociceptive
+
+All reported SCP-2088-2 hallucinations have involved an attempt to lure individuals inside SCP-2088. This has included hallucinations of loved ones, a sensation of intense cold, the scent of a pleasant meal, and commands by Foundation superiors. SCP-2088-2 has so far shown itself able to compel but not control the actions of individuals under its influence. A faint "whispering" is commonly reported during SCP-2088-2 episodes.
+
+The Foundation was first alerted to SCP-2088 in ██/██/19██ when a Danish archaeological expedition was reported missing and subsequent rescue missions failed to return. Operatives, trained and equipped for polar environments, were sent to investigate. SCP-2088 was discovered after six days traveling the same route as the original expedition. The Foundation suffered eight fatalities in conflict with hostile entities later discovered to be the lost expedition and their attempted rescuers, by then under the effects of SCP-2088-1 and 2. Twenty-seven SCP-2088-1A were terminated with one survivor captured by the Foundation. Three Foundation agents would be later terminated due to accidental exposure to SCP-2088-1.
+
+Interviewed: SCP-2088-1A-28. Formally known as Jesper █████, an archaeologist from the University of Copenhagen.
+
+Interviewer: Dr. Judith Low
+
+Foreword: An interview with the only survivor of the archaeological expedition, currently under the effects of SCP-2088-1 and 2. Translated from Danish.
+
+<Begin Log>
+
+Dr. Judith Low: Please, state your name.
+
+SCP-2088-1A-28 Jesper. Not that it matters anymore. Release us.
+
+Dr. Judith Low: I am afraid I cannot allow that. Are you able to tell me what happened?
+
+SCP-2088-1A-28: We must return. Release us.
+
+Dr. Judith Low: Cooperate and I may talk to someone on your behalf. Please focus and answer my questions.
+
+SCP-2088-1A-28: We heard sweet whispers. We learned what we had forgotten. We knew our place. We became what we were always meant to be. We had purpose.
+
+Dr. Judith Low: Why did you attack Foundation operatives?
+
+SCP-2088-1A-28: That is what you call yourselves? Such arrogance. We did no such thing. We would have embraced you. You were never meant for the life you live. You could become like us. Be without doubt, without confusion. But our task is unfinished. We must return.
+
+Dr. Judith Low: What is the nature of SCP-2088? What exactly is down there?
+
+SCP-2088-1A-28: Ugh. No more mouth words. They all fail to translate. Language, civilization; these are accidents of nature. Never intended. Truth is found through simplicity. Beneath is a labor of love. Listen carefully. Hear the whispers. We have become what we were always meant to be.
+
+Dr. Judith Low: You continue to be evasive, but what do you mean? You keep referring to a purpose. What do you think you are?
+
+SCP-2088-1A-28: We are a hammer.
+
+<End Log>
+
+Closing Statement: Subject broke free of its restraints and proceeded to slam its head against a nearby wall. Guards took appropriate action but subject was able to cause significant cranial damage. Due to the potentially infectious nature of SCP-2088-1, resuscitation was not attempted and subject was pronounced deceased.
+
+Autopsy Report: SCP-2088-1A-28
+
+Weight: 580 kg.
+
+Height: 270 cm
+
+Cause of Death: Head trauma
+
+Details: Subject displays an overgrowth of skin, muscles, bones, fatty tissues, and blood and lymphatic vessels. Body is asymmetrical, the left foot twice the size of its right, which is already five times larger than average. Subject was formally a Caucasian male believed to have been in his forties. Dense, gray colored tumors cover the entirety of its epidermis. Toes and fingers are fused together. Bones show sign of repeated fracture and rapid healing, suggesting abnormal regenerative capabilities.
+
+Ur-Dorset skull displaying Cronenberg-Proteus syndrome.
+
+Incident Report: On ██/██/20██, contact was lost with Containment Site. Due to the effects of SCP-2088-1, precautions were taken to minimize potential contamination and fatalities. Mobile Task Force Sigma-9 ("Valkyries") were sent to reestablish contact and secure SCP-2088 if required. Containment Site was discovered abandoned. The carcass of a polar bear, partially consumed, was discovered near the entrance of SCP-2088, the first evidence that SCP-2088-1 afflicted still required food to survive.7 Mobile Task Force Sigma-9, equipped with Level A hazmat suits, explored SCP-2088 but were forced to retreat due to dwindling air supply. New containment protocols would be subsequently adopted.
+
+Addendum: On ██/██/20██, an unmanned drone was used to explore SCP-2088. A steady descent was noted, the tunnel eventually penetrating the Greenland ice sheet at an estimated 200 meters. Building materials and Ur-Dorset artifacts were not visibly present within the glacial cavern, though is still considered an extension of SCP-2088. Visual feed showed entities at 620 meters , having completely undergone SCP-2088-1 metamorphosis and are presumed to be the missing eighteen Foundation personnel. The SCP-2088-1A were observed using their bodies to further excavate SCP-2088, hurling themselves against the ice with anomalous strength and durability. This behavior repeated for two hours before the drone was noticed and subsequently destroyed by an SCP-2088-1A.
+
++ Journal of Elisabet ████ 
+
+- ACCESS GRANTED
+
+██/██/19██:
+
+We were skeptical at first. The very notion of human habitation so far inland was absurd. Yet here we are, inside a structure of clearly human artifice. How they survived is beyond my understanding but this complex must have required many generations to build.
+
+██/██/19██:
+
+The complex is constructed from stone and whale bone. The stone would have likely been quarried nearby (although we have yet to ascertain the exact location for that; not necessarily a priority at the moment) but the bones would have required many trips to the coast. I can only assume these visits included hunting for food as the site is far out of the range for any known terrestrial animals. They would have had to travel for days just to reach territory even capable of sustaining life (at least, not beyond lichen). Why would they bother to live in such a remote location? None of this makes sense.
+
+██/██/19██:
+
+The architecture does not coincide with any currently known indigenous cultures. However, we have discovered many artifacts, primarily carved bone masks and small statues, that are unmistakably Dorset. The complex appears more like a mine than a religious site, which was our original assumption. Artifacts are strewn about the structure rather unceremoniously. Jasper said it was somewhat unnerving but was unable to explain why. I don't know what to think myself.
+
+██/██/19██:
+
+We've found bodies. A massive pile of them. Incredibly well preserved too. But there is something very wrong. All of them suffer from severe deformities. Not to mention being completely nude. I feel ashamed to say it but they appear outright monstrous. We've counted thirty-six so far. Anton thinks it might be an extreme example of inbreeding. That is the only sound explanation. Gigantism, tumors, overgrowth of bone, fat and muscle. They must have lived a tragic and painful existence. I'm reminded of the Elephant Man.8 Inuit oral tradition referred to the Dorset as giants and Viking accounts were roughly similar; I think the word troll was even used a few times. I never thought there could be any truth to it.
+
+██/██/19██:
+
+My feet are swollen and numb. I feared that it might be frostbite but Anton assured me otherwise. He thinks it may simply be an allergic reaction; perhaps to our rations or even the insulation of my boots. He requested I rest. The sooner I recover, the sooner I can get back to work. I feel so useless.
+
+Entry Date Unknown:
+
+I no longer see the others when I wake up. They must be so busy. Over and over, I've found myself mired in fever dreams and every time it is the same. All is black and I cannot see but I nonetheless experience a presence. Superior to me in all ways. Never before have I felt so small; so insignificant.
+
+I'm not perfect.
+
+But she is.
+
+Entry Date Unknown [Handwriting becomes difficult to read; suspected to be related to SCP-2088-1 type deformities]:
+
+We have heard the One Truth, we have seen [illegible]. How beautiful it is to be a part of something so much greater than yourself. How unhappy we were with the petty games we played. We are so eager to feel her [illegible] wrapped around us, to experience her loving embrace. Words fail us, they are useless - innately deceitful by their inability to encompass her.
+
+To her, we surrender. May our flesh soon be one.
+
++ Statement of Dr. Judith Low
+
+- ACCESS GRANTED
+
+Allow me to speak freely with regards to SCP-2088. No doubt you've seen the news. "An iceberg twice the size of Manhattan has broken away from the Petermann Glacier in northern Greenland."
+
+All data support a specific outcome: the source of the SCP-2088 anomalies will breach containment. Do you know what is down there? I don't. It is no threat to us now but it will be. The ice is melting, the glaciers recede; failure of containment is an inevitability.
+
+SCP-2088 turns humans into tools to aid in its liberation. That much is obvious to me. It is either impatient or unaware; perhaps it isn't even sentient. No more intelligent than the ice that surrounds it.
+
+I cannot know if what is down there is worthy of Euclid or Keter. It might easily be worse. We are in the dark and I absolutely hate it.
+
+We have enough horrors in our world. Nature saw fit to imprison this one for us.
+
+Dr. Judith Low
+
++ Attachment
+
+- ACCESS GRANTED
+
+Entrance to SCP-2088.
+
++ INFORMATION RESTRICTED TO LEVEL 4 PERSONNEL OR ABOVE
+
+- ACCESS GRANTED
+
+Between ██/██/20██ and ██/██/20██, the Foundation performed a radioglaciology study near the speculated location of SCP-2088-3 at 77°10'23.71"N, 33°36'14.51"W. SCP-2088-3 is the hypothetical source of SCP-2088 related anomalies.
+
+Radioglaciological data revealed an amorphous mass located at a depth of approximately 750 meters. Structure is believed to be organic and emits a pulse of electromagnetic radiation every 37 seconds at 4 kHz. SCP-2088-3 has an estimated mass of 14 million metric tons. Research into possible connections with SCP-███ and SCP-████ are currently ongoing.
+
+Footnotes
+
+1. Naturally mummified by the exceptionally cold and dry environment.
+
+2. Abnormal development of additional limbs.
+
+3. Proposed Cronenberg-Proteus syndrome. A tribute to the late Dr. Albert Cronenberg.
+
+4. Considered extinct by 1500 CE.
+
+5. The Saqqaq culture were thought to be the first inhabitants of Greenland, having been dated to approximately 2500 BCE. This will remain true in public records unless non-Foundation archaeologists discover evidence of the Ur-Dorset in sites outside of SCP-2088.
+
+6. Rattus norvegicus have undergone mutations relatively equivalent to that of homo sapiens.
+
+7. It remains unknown how long they are able to survive without food but their metabolism is believed to have slowed dramatically. A common trait of arctic fauna.
+
+8. Joseph Carey Merrick (5 August 1862 – 11 April 1890). Originally diagnosed with Neurofibromatosis type I, now believed to have suffered Proteus syndrome.

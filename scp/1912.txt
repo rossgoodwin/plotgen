@@ -1,0 +1,31 @@
+SCP-1912
+
+Item #: SCP-1912
+
+Object Class: Euclid
+
+Special Containment Procedures: The current colony of SCP-1912-1 is to be contained in Biodome-C-7 at Bio-Site 66. A researcher who is familiar with beekeeping using the Langstroth hive method must always be present at Bio-Site 66 and must personally conduct weekly maintenance checks of SCP-1912-1, as well as oversee the bi-weekly harvesting of SCP-1912-B.
+
+SCP-1912-B is to be harvested by two D-Class wearing full protective clothing, and stored in airtight drums in refrigerated storage area C. Contact with SCP-1912-A must be strictly avoided except for during “reproduction” events, which must take place every 14 days using any of the on-site D-Class. It may be necessary to fully restrain the subject for this, however it is vital to not use any form of sedative or otherwise calming drugs on them, as this interferes with the reproduction event.
+
+The colony of SCP-1912-1 is to be maintained at its current number of 45,000 with an acceptable variance of 2,500. SCP-1912 is to remain where it is in the center of Biodome-C-7 and is not to be moved barring a Class A evacuation event.
+
+Description: SCP-1912 is a pocket watch dating from the years 18██-18██ (it is theorised that the watch likely took at least 15 years to complete). The watch is identical in style to those of █████████████ ███████, however several components suggest that it was completed up to 5 years after his alleged death. There have been several minor modifications to the watch. SCP-1912 was discovered in the home of █████ ██████, a prominent member of [REDACTED], a small yet extremely militant environmentalist cult. █████ ██████ had converted his basement into a workshop and is presumed to have died of malnutrition shortly after making the modifications to SCP-1912.
+
+Through unknown means SCP-1912 constantly secretes a clear fluid at a varying rate, hereby referred to as SCP-1912-A. The fluid is identical in every way to nectar except for its primary anomalous effect. Due to the extremely complex nature of SCP-1912, requests to dismantle it and examine the mechanism have been denied.
+
+When SCP-1912-A comes into contact with human skin, a blister is formed over the course of the next 2-6 hours. The blister varies in size in relation to the amount of SCP-1912-A that contacts the skin, with a lower limit of ~5ml producing a very small blister and an upper limit of ~1,500ml capable of producing full-body blisters. Over the course of the next 24-72 hours, the blister both spreads along the skin and grows outwards in size; the experience causes no pain, however subjects have reported feelings of intense discomfort and nausea, as well as movement and "buzzing" from within the blister.
+
+After a period of 72-96 hours the blister will begin to cause the subject extreme discomfort, 'itchiness' and pain. Invariably the infected subject will scratch the blister, regardless of instruction (it is thought this effect is purely physical). Due to the weakening of the affected area, only a small amount of scratching is needed in order to pierce the skin and “burst” the blister.
+
+Once this has occurred, a number of honey bees (Apis mellifera) - hereby referred to as SCP-1912-1 - will be released from the blister. The emerged instances of SCP-1912-1 will be in an extremely compressed ball; however, they will sustain no injuries during the event. The “ball” of SCP-1912-1 will rapidly separate and depending on the size of the blister may be comprised of anywhere from 30 to 1,000 ‘worker bees’. No other kind of bee has ever been observed, presumably due to the nature of SCP-1912-A rendering the need for a queen and drone bees obsolete.
+
+Recently emerged SCP-1912-1 instances
+
+The reproduction event causes surprisingly little physical harm to the subject but may cause emotional trauma, therefore subjects are to be given Class C amnestics after treatment for any minor injuries sustained.
+
+If a reproductive event does not occur at least once every 14 days then SCP-1912-1 will begin to modify their behaviour. As opposed to harvesting SCP-1912-A, SCP-1912-1 instances will instead coat their legs in SCP-1912-A and seek to land on humans. A single instance of SCP-1912-1 is not enough to cause a blister itself however a swarm of SCP-1912-1 has proven to be more than sufficient.
+
+Instances of SCP-1912-1 will instinctively seek out SCP-1912 and seemingly have no range limits on being able to sense it. Even if the reproduction event occurs at a distance where they will die before reaching SCP-1912, instances of SCP-1912-1 will still invariably fly in that direction. It is theorised that instances of SCP-1912-1 are incapable of harvesting nectar in the way typically expected of honey bees.
+
+If allowed into the presence of SCP-1912, instances of SCP-1912-1 will begin harvesting SCP-1912-A. The rate of SCP-1912-A secretion appears to directly correlate with the size of the SCP-1912-1 colony, increasing or decreasing the amount secreted to match SCP-1912-1 numbers. The honey produced by SCP-1912-1 - hereby referred to as SCP-1912-B - has no anomalous chemistry in its makeup and produces no anomalous effects.

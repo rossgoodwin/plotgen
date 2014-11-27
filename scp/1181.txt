@@ -1,0 +1,91 @@
+Item #: SCP-1181
+
+Object Class: Safe
+
+Special Containment Procedures: Site-916 is situated 100 meters from the northern edge of SCP-1181. Patrol teams monitor the perimeter of SCP-1181 and any civilians that come near the perimeter of SCP-1181 are to be escorted away by personnel posing as game preserve rangers. An ultrasonic deterrent device is to remain active near the center of SCP-1181, to prevent activation. The device's full strength range is 300 meters, and weakens until ineffectual at 500 meters. The ultrasonic deterrent and its backup generator is to have daily maintenance checks to ensure it is functioning properly. All staff working within the range of the ultrasonic deterrent are to be equipped with sound negating equipment. Site-916 also contains SCP-1181-1, which is kept in secure containment room 916-4, for low risk objects. Access to SCP-1181-1 is restricted to level 4 personnel and above.
+
+Description: SCP-1181 is a circular clearing 2048 meters in diameter in a forest, located in a game preserve in [REDACTED].
+
+When a living animal, or portion of a living animal, passes through the center of SCP-1181, SCP-1181 and its barrier activates. No other animal will be able to pass into SCP-1181 from the outside, any other animal inside SCP-1181 when it is activated will not be able to leave, until SCP-1181 is deactivated.
+
+The outside of the barrier of SCP-1181 is impenetrable until SCP-1181 is deactivated. The barrier is a sphere, surrounding SCP-1181. The barrier cannot be sensed, except by touch; the sensation is described as similar to touching cold glass. It also cannot detected by any known instruments. Any objects present on the perimeter when SCP-1181 is activated will be split apart either side of the perimeter.
+
+Once the activator moves a random distance between 2 and 8 meters from the center of SCP-1181, 3 other exact copies of the activator will appear around the center of SCP-1181, facing outwards from the center, arranged equally separate from each other, 90 degrees apart. Each of the 3 copies will move identically to the activator.
+
+If the activator continues to move away from the center, it and its copies will be copied again at random distances from the center. The three additional copies will appear around a point 1 meter behind the activator or copy.
+
+Should any simultaneously created copies occupy the same space, their bodies will be fused together. Usually the fusing results in rapid expiration of these copies. If a newly created copy occupies the space of the activator or an already existing copy, the newly created copy will be spawned missing the portions of their body where the existing occupant of the space was, usually resulting in quick, if not instantaneous, death from blood loss
+
+Living fused and/or mutilated copies and copies that block each others' paths will still attempt to the best of their ability to mimic the activators movements.
+
+If the activator or its copies touches the inside of the barrier of SCP-1181 they will begin to combust. If the person or a copy on fire is copied they will spawn copies that are also aflame. Tests with D-Class personnel asked to touch and describe the physical texture of the inside of the barrier have so far been inconclusive.
+
+SCP-1181 will deactivate if the activator passes through the center point a second time, or dies. Should the activator die, they, all their copies, and any remains will disappear. Should the subject pass through the center for a second time, all copies, and any remains of the copies, will disappear, and any injuries the activator sustained will be healed.
+
+Recovery Log SCP-1181 came to the Foundation's attention when a local hunter reported a 'swarm of butterflies, thick as a cloud' in the preserve. When the barrier was discovered, temporary containment protocol 76-Cherry was initiated. The swarm was monitored for several days by Foundation personnel, before it disappeared. Upon discovery that the barrier had disappeared along with the swarm, the area was investigated. During the investigation Agent Havelock activated SCP-1181 and died shortly after. Following this incident, Site-916 was built, permanent containment protocols put in place, and research into SCP-1181 commenced. Four weeks after the completion of Site-916, SCP-1181-1 was found during a regular patrol of SCP-1181's perimeter.
+
++ Test A - Date 27/7/████
+
+- Test A - Date 27/7/████
+
+Subject: D-Class-1033
+
+Procedure: D-1033 was asked to walk in a straight line from point A, on one side of SCP-1181, through the center of SCP-1181, to point B, opposite side of of SCP-1181, and not stop for any reason. D-1033 would be the only subject present in SCP-1181. A UAV fitted with a video camera would record the test from above.
+
+Results: When D-1033 passed through the center, SCP-1181's barrier activated. Once D-1033 had walked 5 meters past the center of SCP-1181, 3 copies appeared around the center of SCP-1181, at 90 degree intervals. The subject did not notice the copies.
+
+When D-1033 had walked 17 meters past the center, he and the other three copies of himself manifested 3 additional copies. The subject turned and noticed the copies of himself which caused him to panic, he and his copies screamed and ran toward point B, despite warnings to remain at a walking pace.
+
+The 4 copies that had spawned facing backwards ran toward the center of SCP-1181. When the copies came into contact with each other they attempted to mimic D-1033 movements further, despite physically obstructing each other to the point of futility.
+
+As D-1033 continued toward point B, he activated several copying points. When the subject was 300 meters from the center of SCP-1181 there were over 16 thousand copies, some fused or otherwise mutilated. Uninjured copies continued to run in various directions, mimicking the subject.
+
+Immediately after D-1033 had passed the 500 meter from the center, there were over 60 thousand copies, interfering with each others progress, and spawning more copies. At this point much of the ground was covered with fused and mutilated corpses, as well as blood. Copies continued to mimic D-1033 and spawn more copies, or attempt to despite impediments and/or injury.
+
+When the subject arrived at point B, he and all copies of himself yelled; "Yes, finally!" As D-1033 and all copies which came into contact with the perimeter, they burst into flame, screaming and rolling around. All other living copies rolled and screamed regardless of if they were on fire.
+
+Seven minutes after coming into contact with the perimeter the subject died from third degree burns. The extensiveness of these burns was not able to be verified. The subject and all copies disappeared, including blood, organs and smoke.
+
+SCP-1181 and its barrier deactivated.
+
++ Test B - Date 13/8/████
+
+- Test B - Date 13/8/████
+
+Subject: D-Class-1059
+
+Procedure: The subject was told to walk in a straight line from point A, on one side of SCP-1181, through the center of SCP-1181, to point B, 20 meters from the center, then turn and head back through the center to point C, 5 meters from the center. The subject would wait at point C for 10 minutes, then walk through the center of SCP-1181 again toward point D, 500 meters from center, then turn around and return to the center of SCP-1181.
+
+D-1059 was told not stop for any reason. D-1059 would be the only subject present in SCP-1181. The subject was informed of the clearing's nature prior to the test to lessen the chance of panic during the test. A UAV fitted with a video camera would record the test from above.
+
+Results: After activating SCP-1181, D-1059 moved to point B; being forewarned, she did not panic when she saw the copies of herself, although she was visibly startled. The subject then turned and walked towards the center of SCP-1181.
+
+2 meters from the center, D-1059 began to struggle through the scrum of her copies as she made her way to the center.
+
+After two minutes, all the copies of D-1059 disappeared. SCP-1181 deactivated. D-1059 was seen crawling towards point B, where she waited for ten minutes, before walking through the center point, towards point D, reactivating SCP-1181. Upon reaching point D, the subject turned and headed toward the center of SCP-1181.
+
+Once D-1059 was 250 meters from the center of SCP-1181, she ran into resistance from her copies, and her progress towards the center slowed. Five minutes later, visual confirmation of D-1059 was lost in a pile of bodies 50 meters from the center. Four minutes later, D-1059 and all her clones disappeared, and SCP-1181 deactivated. D-1059 presumed suffocated.
+
++ Analysis of Tests
+
+- Analysis of Tests
+
+Study of the UAV recordings of subjects interacting within SCP-1181 show SCP-1181's radial symmetry. Any one quarter of SCP-1181 is identical to the other three, no matter how many copies there are or how they are moving, despite mutilation, pile-ups, blood etc. So far it seems that nothing can be done by the subject interacting with SCP-1181 to ruin SCP-1181's perfect symmetry.
+
++ Analysis of SCP-1181-1
+
+- Analysis of SCP-1181-1
+
+Description: SCP-1181-1 is a large stone tablet with an inscription chiseled into it. The type of rock was consistent with local geology. The language of the inscription is not known.
+
+Decoded Inscription
+
+For such a thing to be created, without means to destroy it, it can only be unforgiving maliciousness, unforgivable stupidity, or perhaps both. I will never know.
+
+The symmetrical plague enveloped the planet, but for the mountains, valleys and seas, each hemisphere an identical wedge of swarming [REDACTED], with the source as its polar center. The source, only a point in space, with nothing to identify it, or give warning.
+
+The planet was abandoned. But there was nowhere to go, and the cold cradle of black space could not be our home. In our calm, silent despair, we elected to spend our last days in the pursuit of a hope. A hope that was both for ourselves, and not for ourselves.
+
+With what was salvaged, we did what we could.
+
+May this barrier serve you well, or God help you.

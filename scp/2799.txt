@@ -1,0 +1,69 @@
+SCP-2799-3.
+
+Item #: SCP-2799
+
+Object Class: Thaumiel
+
+Special Containment Procedures: SCP-2799-1, SCP-2799-2, SCP-2799-3, and SCP-2799-4 are contained in separate anomalous item storage lockers at four separate Foundation facilities, Site-77, Site-59, Site-██, and Site-██. No personnel under Level 3 clearance may be made aware of the precise location of more than one item. No personnel under Level 4 clearance may be made aware of the location of more than two. Access to the complete record of SCP-2799's location is restricted to Level 5 personnel.
+
++ [ARCHIVED OPERATIONAL PROCEDURES]
+
+- [ARCHIVED OPERATIONAL PROCEDURES]
+
+While in operation, SCP-2799's surveillance feed must be observed continuously by at least two researchers, with one D-class personnel held in confinement within 2m of the device, rotated monthly.
+
+In the event of any rapid movement from any SCP-2799 components, designated Level 4/2799 "Navigators" are to access the device and interpret the heading and latitudinal information given by SCP-2799-1 and -2. SCP-2799-4 may only be operated by a designated Level 5/2799 "Skipper", of Psi Index 4.0 or higher. All four objects must be within 5 m of one another to acquire a new target. Either the project Skipper or Navigators shall interview the D-Class subject assigned to SCP-2799 for record-keeping purposes.
+
+As soon as the location is identified, a team consisting of no less than two Foundation field agents are to be dispatched to the designated area to investigate "possible anomalous activity." Additional information may be divulged at the discretion of SCP-2799's HMCL supervisor. Standard retrieval procedures for anomalous item investigation and retrieval remain in effect for any new anomalous object discovered through the use of SCP-2799.
+
+Description: SCP-2799 is a set of antique Portuguese nautical navigational equipment, including a brass sextant (SCP-2799-1), compass (SCP-2799-2), pocket watch (SCP-2799-3), and spyglass (SCP-2799-4). All components of SCP-2799 were purchased from civilian companies by the Foundation, and displayed no anomalous properties when acquired. The items were first imbued with anomalous properties at the behest of Foundation Thaumaturgists in ██49, for use in the recovery of theretofore unknown anomalous objects for containment and study ("Project Navigator"). During its tenure as a reconnaissance device, SCP-2799 was employed to recover 126 such items, and has activated a recorded 173 times.
+
+When activated, SCP-2799 will divulge the location of one uncontained anomalous object, person, or event until the anomaly has either been neutralized or successfully contained. SCP-2799-1 will always "sight" Polaris at the given location. SCP-2799-2 will give a directional heading from the current location to the location of the anomaly. SCP-2799-3 displays the local time at the anomaly's location. SCP-2799-4 will give a narrow-angle view of the anomaly and its location as a point of reference. Using this information in conjunction with Mercator projection maps has a 100% success rate in determining the location of anomalous phenomena.
+
+In addition, one subject closest to SCP-2799 will experience a hallucination relevant to the object currently targeted by SCP-2799. These hallucinations commonly give some information about the target object's properties, location, or origins, and will persist until the object is contained. If the subject dies or is otherwise terminated, no other personnel will be affected. Testing has shown that the hallucinations have provided relevant data in 55% of SCP-2799 activation events.
+
++ [INCIDENT REPORT 2799-963 | LEVEL 4/2799 CLEARANCE REQUIRED]
+
+- [Access Granted | Memetic Security Code: Rubber Baby Buggy Bumper]
+
+Foreword: At 3:45 am on ██/██/████, SCP-2799 unexpectedly activated and targeted the researcher dormitories of Site-19. Communication with the facility confirmed that no anomalous activity outside of SCP storage was detected at that time. The following interview was completed with D-0991 at 4:30 am by Security Officer Bertrand Tomlin, Researcher Robert J. Boyd observing.
+
+Tomlin: It's my understanding that you're currently experiencing intense hallucinations.
+
+D-0991: No one asked me… No one ever asks, but they do it anyway, you know?
+
+Tomlin: … I think I understand. Can you describe the experience for me?
+
+D-0991: Not one experience. Three experiences. All of them… it… [distressed vocalization]
+
+Tomlin: It's okay, take your time… Deep breaths.
+
+D-0991: NO ONE ASKED THEM. They just took it. They take it every time. Even when the roots run deep… deep deep deep into the bedrock, so deep that they crack it and it reforms around them. One of… one does all the bleeding. All the bleeding for all of them. And another one does all the living. And they have done. They do all the bleeding and all the living… and now. Now one more. And he does the dying.
+
+Tomlin: Who does? Who are they?
+
+D-0991: Not who. 'It'. Maintain your professionalism. They… MMMM! They're un-people! How do you un-person a person? Even in death? Even in no death? Especially in no death!
+
+Tomlin: What do you mean 'in no-death'?
+
+D-0991: They wait and wait and wait and nothing happens. Things get worse and nothing happens. Bring her back, but nothing happens, even from the top of the pyramid you can't pull out the roots. Let him go, do what they want, use him like a tool for years and nothing happens until he doesn't even have a name. Trade faces and places and sexes and races but never change your mind. Nothing happens. Nothing ever happens.
+
+Tomlin: I don't think we're getting anything useful out of this. Bob, can you turn this thing-?
+
+D-0991: The star that burns three times as bright burns forever and ever and ever and ever and… you're not asking the right questions.
+
+Tomlin: What's the right question?
+
+D-0991: Who's chicken, and what's for breakfast?
+
+END OF LOG
+
+Following this interview, SCP-076-2 breached containment at Site-19, killing an unreleased number of personnel and wounding ██ others. At the time of breach, Dr. Jack Bright was transporting object EO-963 by hand, and was among the first KIB (killed in breach). Approximately █ days later, D1-113, tasked to clear the area of rubble, discovered SCP-963 in the wreckage. Please refer to Interview Log 963 for more detail. Subsequent interrogation of the acting Navigator confirms that SCP-2799-4 depicted the face of Dr. Bright.
+
+O5 Note: With the above incident in mind, and other, better techniques currently available to us, it is the determination of the Overwatch Council that Project Navigator be canceled immediately. Implementation of Special Containment Procedures for all equipment associated with the project, as outlined in the attached document, is expected by the end of this calendar week.
+
+In a related decision, Dr. Jack Bright will retain his status as a Foundation employee, and all privileges associated therewith. No Special Containment Procedures will be enacted for his person. SCP-963 designates the object containing his consciousness only, and not the consciousness itself.
+
+- O5-██
+
+Addendum 2799-01: Due to the improved monitoring technologies and greater staffing resources now available, the use of mundane means to detect anomalous objects no longer requires supplementation from Project Navigator. SCP-2799 and all sub-designations has been retired, and are no longer in use by the Foundation. There are currently no plans to revitalize the project.

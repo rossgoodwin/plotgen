@@ -1,0 +1,97 @@
+SCP-1916-4 in its wrapper
+
+Item #: SCP-1916
+
+Object Class: Safe
+
+Special Containment Procedures: All known instances of SCP-1916 are to be stored in a sealed crate in the secure warehouse at Site 85. Prominent signage is to be placed on and inside the crate indicating that SCP-1916 is non-edible. Mobile Task Force Xi-1964 (Slugworth's Sizzlers) are to monitor distributors and vendors of confections and confiscate any instances of SCP-1916 found in circulation.
+
+All testing of SCP-1916 is to be conducted on D-class personnel who have been implanted with subdermal tracking devices. Outdoors testing is authorized at the remote facility adjacent to Site 85; in the event that an affected D-class breaches containment, use of surface-to-air weaponry to neutralize the test subject is authorized. Pending a full review of the results of Experiment 1916-6-1, all testing on SCP-1916-6 is prohibited.
+
+Description: SCP-1916 consists of six hard sugar confections of the type commonly referred to as "jawbreakers" or "gobstoppers", designated SCP-1916-1 through SCP-1916-6. Chemical analysis indicates that SCP-1916 are primarily composed of sugar and trace amounts of common food additives and colorings, as well as significant quantities of [REDACTED]. Each individual candy is spherical, measuring approximately 3 cm in diameter, and is brightly colored in a distinct pattern as follows:
+
+SCP-1916-1 is a uniform shade of bright red.
+
+SCP-1916-2 is colored a light beige with whitish streaks.
+
+SCP-1916-3 is white with several darker sections arranged in a pattern resembling the Earth's moon.
+
+SCP-1916-4 possesses several horizontal streaks colored orange and white, with several small white and red spots, including a single large red spot.
+
+SCP-1916-5 is a uniform shade of black.
+
+SCP-1916-6 is a uniform shade of black with a large white question mark printed across one side.
+
+SCP-1916's anomalous effects manifest when an individual candy is consumed by a human being. Within 10-20 minutes of consumption, the individual's weight will increase or decrease by a fixed percentage based on which candy the subject has consumed. No physical change in the subject's size or mass has been observed in conjunction with this effect; the means by which SCP-1916 produces this effect is not currently understood. The subject will function as though the gravitational field of their current environment has been significantly altered; subjects testing SCP-1916 have in certain instances demonstrated an ability to jump or carry well in excess of normal human ability, and in several instances have proven able to escape Earth's gravitational field entirely as the result of their own physical ability. This effect lasts for approximately 90 minutes before gradually dissipating. Test subjects who survive the effects of SCP-1916 show no indications of long-term illness. Additional effects have been associated with particular candies; refer to Experiment Log 1916 for details.
+
+At present, the Foundation is in possession of 738 unique instances of SCP-1916, each identical in packaging and composition. Each instance of SCP-1916 is individually wrapped and contained in a cardboard box measuring approximately 20 cm x 30 cm x 6 cm, with the individual candies held in a plastic tray within the box. The front face of the box features a stylized image of a child wearing a transparent glass helmet over his head and riding on the back of a Saturn rocket in outer space, emblazoned with the product name "DR. WONDERTAINMENT'S ZERO-GEE-WHIZ! MOON ROCKS™". The following text is printed on the rear side of SCP-1916's packaging;
+
+HEY THERE, SPACE CADETS!
+
+Can't wait until you're old enough to go to outer space for real? Dr. Wondertainment is here for you! Dr. Wondertainment's Zero-Gee-Whiz! Moon Rocks™ are guaranteed to give you the closest thing to being a real live astronaut! Enjoy hours of high-tech high-jinks as you explore the gardens of Venus and sail the seas of the Moon, all in your own back yard!
+
+Each package of Dr. Wondertainment's Zero-Gee-Whiz! Moon Rocks™ contains six different flavors for a real out-of-this-world experience:
+
+MARTIAN CHERRY: Explore the canals of the Red Planet in style!
+
+VENUSIAN BERRY: Dip beneath the clouds of our closest neighbor! Be careful - the air down there is thicker than water!
+
+LUNAR LIME: Is the Moon really made of green cheese? You'll find out when you're only one-sixth your regular weight!
+
+JOVIAN JELLY: Take a swim in the Great Red Spot on the biggest planet of them all!
+
+OUTER SPACE STRAWBERRY: Find out what it's really like in outer space - the Zero-Gee-Whiz way!
+
+PLANET X: What's it like on the undiscovered planets? You'll have to try it to find out!
+
+Disclaimer: Not for outdoors use. Do not consume more than one Dr. Wondertainment's Zero-Gee-Whiz! Moon Rock™ every four hours. Do not consume in conjunction with Dr. Wondertainment's Ultra-Fizz Diet Phosphate™. Your definition of "high-jinks" may vary from that used by Dr. Wondertainment. Dr. Wondertainment is not responsible for any injury, accident, illness or death resulting from misuse of Dr. Wondertainment's Zero-Gee-Whiz! Moon Rocks™.
+
+Experiment Log 1916:
+
+Experiment 1916-1-1
+
+Subject: D-85021, weighing 76.2 kg
+
+Object tested: SCP-1916-1
+
+Result: Subject's weight reduced to 28.6 kg.
+
+Experiment 1916-2-1
+
+Subject: D-96234, weighing 48 kg
+
+Object tested: SCP-1916-2
+
+Result: Subject's weight reduced to 43.2 kg. Following dissipation of effect, subject experienced symptoms of severe decompression sickness and died 6 hours after consumption from causes resembling high altitude cerebral edema.
+
+Experiment 1916-3-1
+
+Subject: D-23341, weighing 104.3 kg
+
+Object tested: SCP-1916-3
+
+Result: Subject's weight reduced to 16.6 kg. During an outdoors test of ability to lift heavy objects, subject made a running jump and reached escape velocity. Subject was not recovered and is presumed dead.
+
+Experiment 1916-4-1
+
+Subject: D-105421, weighing 117.9 kg
+
+Object tested: SCP-1916-4
+
+Result: Subject's weight increased to 298 kg. Subject complained of intense pain and suffered multiple arm and leg fractures while attempting to move.
+
+Experiment 1916-5-1
+
+Subject: D-23094, weighing 61.2 kg
+
+Object tested: SCP-1916-5
+
+Result: Subject's weight reduced to 0 kg. Subject displayed an ability to move freely through the air by pushing against surfaces and displayed no indications of being affected by atmospheric friction.
+
+Experiment 1916-6-1
+
+Subject: D-68052, weighing 43.1 kg
+
+Object tested: SCP-1916-6
+
+Result: [DATA EXPUNGED]. 82 fatalities at test facility due to exposure to gamma radiation; 438 non-lethal instances of radiation poisoning. Remains of subject have not been located.

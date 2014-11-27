@@ -1,0 +1,37 @@
+Item #: SCP-1059
+
+Object Class: Euclid
+
+Special Containment Procedures: Documents known to be written by personnel infected with SCP-1059 are to be re-written by uninfected researchers. Personnel known to be infected with SCP-1059 are to be treated with counter-memetic therapy and removed from duty until they show no further signs of infection. They are to afterwards be monitored for signs of relapse. Individuals outside the Foundation found to be carrying SCP-1059 are to be treated with Class-A amnesiacs if practical, or otherwise removed from positions where they can potentially infect others.
+
+Description: SCP-1059 is a memetic compulsion to hide, censor, or otherwise obscure information when communicating with others. It is most prevalent in those already dealing with classified or sensitive material.
+
+Infected subjects will, when conveying information, find that apparently random pieces of information will seem disproportionately important. This information will be treated as though it is at the highest level of classification the writer is familiar with. They will do so even after the information has been shown to be relatively harmless, or even vital to those reading the resulting material.
+
+SCP-1059 is spread by reading infected material or discussion with infected individuals. Those most at risk are those still learning classification procedures. Infection can be easily prevented by maintaining a solid grounding in the rules and regulations governing classified material within the organization.
+
+SCP-1059 was discovered at the National Security Agency when a discrepancy was noticed by Agent Jameson, a Foundation operative embedded in NSA headquarters in Ft. Meade, Maryland. Documents originating from certain offices were being classified at Top Secret, regardless of their actual content. After other possible causes were ruled out, further investigation showed several individuals were infected with a previously unknown memetic agent, which was eventually designated SCP-1059.
+
+Addendum 1059-1: Improper handling of infected materials led to an outbreak of SCP-1059 within the Foundation. It has been difficult to track thus far, and a full audit of Foundation documents and staff is pending. So far, seventeen fatalities can be directly attributed to vital information expunged from containment procedures.
+
+Addendum 1059-2: This document has demonstrated signs of SCP-1059 infection, and has been expanded to meet Foundation standards. Please see Document SCP-1059-A for previous version.
+
++ Document SCP-1059-A
+
+- Document SCP-1059-A
+
+Item #: SCP-1059
+
+Object Class: Euclid
+
+Special Containment Procedures: Documents known to be written by personnel infected with SCP-1059 are to be re-written by uninfected researchers. Personnel known to be infected with SCP-1059 are to be treated with [REDACTED] and removed from duty until they show no further signs of infection. They are to afterwards be [DATA EXPUNGED]. Individuals outside the Foundation found to be carrying SCP-1059 are to be [DATA EXPUNGED], or otherwise removed from positions where they can potentially infect others.
+
+Description: SCP-1059 is a memetic compulsion to hide, censor, or otherwise [REDACTED] information when communicating with others. It is most prevalent in those already dealing with classified or sensitive material.
+
+Infected subjects will, when conveying information, find that apparently random pieces of information will seem disproportionately important. This information will be treated as though it is at the highest level of classification the writer is familiar with. They will do so even after the information has been shown to be relatively harmless, or even vital to those reading the resulting material.
+
+SCP-1059 is spread by [REDACTED]. Those most at risk are those still learning classification procedures. Infection can be easily prevented by [DATA EXPUNGED].
+
+SCP-1059 was discovered at the ████████ ████████ ██████ when a discrepancy was noticed by Agent ███████, a Foundation operative embedded in ███ headquarters in ██. █████, ████████. Documents originating from certain offices were being classified at Top Secret, regardless of their actual content. After other possible causes were ruled out, further investigation showed several individuals were infected with a previously unknown memetic agent, which was eventually designated SCP-1059.
+
+Addendum 1059-1: Improper handling of infected materials led to [DATA EXPUNGED].

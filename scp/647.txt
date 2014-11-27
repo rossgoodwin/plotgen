@@ -1,0 +1,41 @@
+SCP-647 in containment
+
+Item #: SCP-647
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-647 is contained in a standard 3 meter by 3 meter biological holding cell. SCP-647 is to be monitored continuously via video feed.
+
+Once per week, a dead (less than 2 days or fully-thawed cryogenically-preserved) human body or animal bodies of at least 45 kg (100 lb) is to be placed into SCP-647. Following the completion of SCP-647's digestive cycle, the enclosure is to be cleaned by D-class personnel. Feeding and cleaning to be supervised by a Level 2 staff member. Any changes in behavior (see Document 647FBL) are to be recorded in Document 647FBL and reported to the HMCL Supervisor on duty.
+
+Description: SCP-647, when observed via video feed, is a cardboard box appropriately sized for a 35-cm CRT-type television. When a live human being (hereafter "subject") is within 1.5 meters of the object, SCP-647 will change its dimensions such that the subject can fit inside it easily. If multiple subjects are within 1.5 meters, the dimensions will adjust to be most appealing to the subject with the most disheveled appearance.
+
+When a subject enters SCP-647, the flaps of the box will close and are unable to be opened. In testing, the flaps resisted a force in excess of 30 kN. Once the flaps are closed, the object will secrete a digestive fluid. This fluid, unlike mammalian stomach acids, is a decaying agent that slowly weakens its victims from the inside out. From there, the body is dissolved and the bones are expelled from [DATA EXPUNGED]. After everything has been digested and the nutrients absorbed, SCP-647 leaves behind its waste as a puddle of water, mixed with a fluid similar to motor oil. This process takes approximately ten minutes.
+
+As the time since the last feeding increases, the transformation becomes more elaborate, including a blanket and lining of newspaper (after two days), cans of food (after three days) and bottles of alcoholic beverages (after five days).
+
+Its natural habitat is an urban environment. SCP-647 chooses one spot, usually in the corner of an alleyway, out of direct view of main streets. After feeding two or three times, SCP-647 will relocate, usually during the night. Locomotion is achieved by means of movement of the flaps.
+
+SCP-647 has also been know to actively attack a subject rather than waiting for them to enter on their own. Attacks have been triggered by:
+
+Attempts to damage SCP-647 (including sample retrieval)
+
+Attempts to remove extra components manifested by SCP-647
+
+Time periods of more than 7 days between feedings
+
+In addition, after eight days, SCP-647 will attempt to relocate. If blocked, it will spray a caustic liquid similar to its digestive juices onto all nearby objects (including walls), causing them to dissolve over fifteen to twenty minutes depending on composition and mass.
+
+SCP-647 is self-repairing. Fibrous tendrils will grow across any tears, taking on the appearance of duct tape after approximately one hour, and appearing as cardboard matching the rest of the surface after twenty-four hours. When set on fire, SCP-647 will let out a loud, human-like shriek and attack any subject in range, while the surface will [DATA EXPUNGED].
+
+Circumstances of Retrieval: A sharp decline in the number of indigent persons with no correlating increase of admissions to homeless shelters in [REDACTED] was noted by routine data-mining. Agents were dispatched to investigate. After a ten-day search, Agents located the source of the decline, SCP-647, as it was feeding in a drainage culvert.
+
+Document 647FBL (Excerpts)
+
+██/██/19██: One (1) dead human body, TOD + 12 hours placed within SCP-647. Corpse consumed without incident.
+
+██/██/19██: Sixty (60) dead lab rats, total mass 50 kg, TOD + 12 to 24 hours placed within SCP-647. Corpses consumed without incident.
+
+██/██/19██: Fifty-five (55) kg of ground beef placed within SCP-647. SCP-647 attacked objects within room with caustic fluids.
+
+Note: Similar tests with multiples of a single body part, headless rats and headless cadavers produced similar aggressive behavior. It appears that SCP-647 needs to process a complete organism, but does not object to a corpse less than two days old. - Dr. [REDACTED].

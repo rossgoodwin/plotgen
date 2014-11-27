@@ -1,0 +1,37 @@
+SCP-643, temporarily moved from cold storage. Temperature in the room is 7° Celsius.
+
+Item #: SCP-643
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-643 is to be contained in a cold storage cell located at Site 77's Safe SCP wing. The ambient temperature of the room that SCP-643 is contained in must never exceed 10° degrees Celsius. Any circumstance resulting in the temperature rising above this threshold is to be treated as a potential containment breach.
+
+Description: SCP-643 is a collection of 79 chocolate candies. Individual instances of SCP-643 do not appear to have notable aesthetic differences from normal chocolates, and on average weigh between 100 and 160 grams. Instances of SCP-643 have a much lower melting point than ordinary chocolates, and have been observed to melt at temperatures as low as 15° Celsius.
+
+If any portion of SCP-643 moves into a liquid state, its anomalous properties will manifest. While it is in a liquid state, SCP-643 will become highly mobile and will move to the nearest edible substance. When a suitable substance is found, SCP-643 will cover as much of its mass as possible. Any substance that is covered with SCP-643 will begin to exude a strong, pleasant aroma. Organisms that consume SCP-643 become instances of SCP-643-1. Instances of SCP-643-1 will possess the same desirability as any edible substance coated in SCP-643. However, note that instances of SCP-643-1 are not covered by SCP-643, which is digested normally. Any organism that views an instance of SCP-643-1 will attempt to consume it regardless of any previous relation. Organisms who consume portions of a SCP-643-1 instance will describe the experience as highly pleasurable.
+
+SCP-643 was recovered from a freezer located inside a bakery in Jacksonville, FL, where police had arrested 3 employees for cannibalizing their co-workers and several of the bakery's patrons. Agents embedded in the local police department noted that SCP-643 had caused the incident, and recovered 79 instances of SCP-643 from the bakery. Witnesses were administered Class-C amnestics, and SCP-643 was classified as Safe on ██/██/1978.
+
+Addendum: Excerpt from Interview 643-A
+
+Interviewed: D-4312
+
+Interviewer: Dr. B███
+
+Foreword: D-4312 had attempted to consume D-1122 while the latter was under SCP-643's effect.
+
+<Begin Log>
+
+Dr. B███: … and why did you feel compelled to attack her?
+
+D-4312: I couldn't help myself, man… she smelled so good, it reminded me of stuff my mom used to make.
+
+Dr. B███: You didn't think it was wrong to eat another human?
+
+D-4312: I would've, but it felt… different. Like, it was okay to eat just a little, because it smelled so good. I just wanted a taste.
+
+Dr. B███: If you "just wanted a taste", why did you continue eating D-1122 after she expired?
+
+D-4312: Well, when I had the taste, it was so good. Like, all the best stuff. I just wanted more and more and more and (D-4312 continued to repeat this phrase for approximately ██ minutes.)
+
+<End Log>

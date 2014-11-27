@@ -1,0 +1,61 @@
+Item #: SCP-1223
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1223 is to be stored in a standard containment crate in the on-site warehouse of Site ██. SCP-1223 is to remain in an unpowered state when not undergoing approved testing. When undergoing testing requiring a powered state, SCP-1223 must be secured in a sealed testing area and monitored via video surveillance. While in a powered state, only D-Class personnel may directly view SCP-1223.
+
+Description: SCP-1223 is a digital photo frame manufactured by the █████ Corporation. Physical examination while in an unpowered state revealed no components unusual for other models of its product line. SCP-1223 possesses a solid-state hard drive with a capacity of 512mb and a 7.18cm LCD display. Electronic analysis of the hard drive determined that the drive is not storing any photo data.
+
+In a powered state, SCP-1223 will display a blue menu screen when unobserved, standard for photo frames of its type. Upon being directly observed by a living human being (hereby referred to as subject), however, SCP-1223’s LCD will alter to a flat black screen with the words “HELLO” in large white text. Experimentation has shown that SCP-1223 must be within direct line of sight of an individual to activate; remote monitoring does not trigger the effect. Within six seconds of observation, SCP-1223’s screen will again change, this time displaying a person or object from the observer’s life. The photo will be displayed until it is directly observed by the subject. Once observed, the photo will again change after six seconds, displaying another event from the subject’s life. SCP-1223 has displayed a tendency to display photos of close individuals, objects or places that the subject displays a strong affection for.
+
+Once observed for several iterations of photos, SCP-1223 will begin displaying plain text captions over the displayed images. Captions are typically descriptive in nature and written from the perspective of an outside observer addressing the subject. Recorded captions include:
+
+Your mom sure loved her gift! (Displayed image: An elderly woman opening a birthday present.)
+
+What a proud papa. (Displayed image: A young man holding a newborn baby girl.)
+
+He’ll always have your back. (Displayed image: Two soldiers posing for a photo atop a burned Iraqi tank.)
+
+This was the best night of your life. (Displayed image: A bride and groom exchanging vows.)
+
+Upon observing a photo from their life, the subject will begin to develop symptoms of retrograde amnesia. Subjects will have difficulty remembering the events pictured in the photo, and will react with confusion if provided evidence of them. Repeated viewing of photographs displayed by SCP-1223 will result in the subject losing all memory of the person, place or object that was featured in the photos. The exact number of displayed images required before total loss of memory of the person, place or object varies between subjects. In one case, D-58134 was able to vaguely recall his childhood best friend until the thirty fifth sequential photo. In another, D-67312 was unable to recall any information about his mother after seven photos featuring her.
+
++ Show Excerpt from Experiment Log 1223-57
+
+- Hide Excerpt from Experiment Log 1223-57
+
+<Begin Log>
+
+Foreword: Subject D-67394 is told that SCP-1223 will display photos from his life using an experimental device monitoring his brain via electrodes. Subject is instructed to view each image and describe his feelings into the microphone to help calibrate the device. Upon activation, SCP-1223 displays ███ consecutive photos of a young woman and two toddlers in various locations. Up until this point, SCP-1223 had only displayed 6 consecutive images of the same individual(s).
+
+*Displayed image 16: The woman is seated in a recliner, with both toddlers lying in her lap. All three are smiling at the camera. Caption: Everyone’s getting cozy with mommy!
+
+Subject D-67394 (Laughs) Oh, man. I forgot all about that chair. [REDACTED] and [REDACTED] used to love climbing over everyone who sat there.
+
+*Displayed image 33: The woman is standing on the back porch of a trailer, wearing shorts and a tank top. Both children are wearing red and blue face paint and carrying sparklers. Dark bruises can be seen on the woman’s thighs and upper arms. Caption: What an *~*EXPLOSIVE*~* Independence Day!
+
+Subject D-67394 I remember that Fourth of July! [REDACTED] didn’t think the kids were old enough to play with sparklers, yet. They loved them! [REDACTED] got scared of hers and dropped it after it burned too close to her hand, but she was a little daredevil. She stole her brother’s ten minutes later!
+
+*Displayed image 78: The two children seated at a dinner table with a large cake in front of them. The children are wearing matching pink and blue hats with the number four written on them in glitter. The woman is kneeling between the two children’s seats while they smear cake on her face. Caption: They thought mommy was the SWEETEST!
+
+Subject D-67394 Oh, god! I nearly peed my pants when they did that! [REDACTED] bent down to cut the cake, and the kids just grabbed handfuls and went at her with it! I couldn’t believe how smart they were to pull that off at the same time like that!
+
+*Displayed image 126: A point-of-view shot inside a small living room of the woman being grabbed by the throat. She displays multiple severe bruises around her mouth, eyes and forehead. One of the children is seen lying on the floor behind the woman, hiding his face. Caption: You told that BITCH to watch her mouth.
+
+Subject D-67394: What? What the fuck is this? Who the fuck did that to her? Hey! What the hell is with this thing? Why is it—
+
+*Displayed image 127: The woman is lying on the floor of the room pictured in image 126. She displays massive facial trauma consistent with a close-range gunshot wound. Caption: She won’t run that pretty mouth any more!
+
+Subject D-67394 Oh, Jesus. I’m gonna be sick. Oh, Jesus. Are these fake? Where did you get this?
+
+*Displayed image 128: A second point-of-view shot. Both children are seen cowering in a corner. A shotgun barrel is protruding from the bottom-right corner of the image. Caption: Little pitchers have big ears!
+
+Subject D-67394 Oh, no. No, no. You made these up, right? Hey, where are [REDACTED]? Hey! Man, I’m talking to you! I want to know where the fuck my wife and kids are, right now! (Subject reacted violently at this point. Subject was restrained with lidlocks and testing resumed.)
+
+*Displayed image ███: A repeat of image 16.
+
+Subject D-67394 (Subject had not spoken for over ██ images.) Huh, cute kids. Who’s she?
+
+<End Log>
+
+Closing Statement: Subject D-67394 was incarcerated for the first degree murder of his wife and children. Recommend further testing using D-class convicted of crimes against friends or loved ones to test potential sapience of SCP-1223.

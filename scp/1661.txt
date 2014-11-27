@@ -1,0 +1,41 @@
+SCP-1661 specimen following capture on ██/██/19██.
+
+A "flock" of SCP-1661 attack ████████ airplane.
+
+Item #: SCP-1661
+
+Object Class: Euclid
+
+Special Containment Procedures: All SCP-1661 specimens are to be contained within a four (4) square meter chamber. Entry is to be made into said chamber by means of an airlock to prevent escape attempts. SCP-1661 specimens are only to be removed from chamber for authorized testing. Mobile Task Force Delta 15 (aka "Red Barons") is permanently assigned to the capture or destruction of wild instances of SCP-1661.
+
+Description: SCP-1661 consists of a swarm of self-replicating automatons composed of aircraft components, apparently assembled in a nonfunctional manner. Size, weight and exact appearance differ widely between specimens although a single "eye," multiple propellers and an array of miniaturized industrial tools including equipment for welding and cutting metal. The exact "toolkit" varies depending on the specimen; see attached Document ██-1661 for a complete list. It is notable that attempts by foundation scientists to assemble common aircraft parts identically to the designs of SCP-1661 specimens universally fail to operate.
+
+SCP-1661 reproduce by means of attacking airplanes in large swarms and removing components of the affected planes, which they then assemble into further SCP-1661 specimens. Attacking swarms of SCP-1661 will primarily remove non-essential parts, allowing for affected airplanes to remain airborne longer for further dismantling. SCP-1661 has shown no responses to prey items other than airplanes, or other artificial flying devices.
+
+Document ██-1661
+
+List of SCP-1661 tools
+
+Tool
+
+Apparent Usage
+
+Small cutting laser above "eye"
+
+Welding and softening of metal
+
+Two (2) miniaturized circular saws on short extendable mechanical arm
+
+Removal and shaping of metal
+
+Two (2) propellers extending from swiveling engine pods
+
+Flight
+
+Two (2) segmented metal arms, ending in two-way pincers
+
+Object manipulation and anchoring to planes in flight
+
+Large amounts of segmented metal tubing and wiring, apparently installed randomly
+
+Unknown

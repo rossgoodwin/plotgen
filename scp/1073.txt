@@ -1,0 +1,203 @@
+Recovery site of SCP-1073
+
+Item #: SCP-1073
+
+Object Class: Safe
+
+Special Containment Procedures: The cavern containing the spring of SCP-1073-1 has been sealed, except for a small access shaft that terminates in the basement of a nearby Foundation facility. A colony of SCP-1073-2 is currently contained in a hermetically sealed containment unit in Sector-██'s Storage Site-█. Any personnel with sufficient security clearance are free to converse with SCP-1073-2.
+
+3/9/ ██: Because of good behavior a small radio transmitter broadcasting on the frequency ████ AM has been set up across from 1073's containment unit and is to continuously play audio tapes of various novels and non-fiction works.
+
+8/23/ ██: 1073-2 has taken an interest in history and mathematics; pending O5 approval, more of these texts will be added to the playlist.
+
+9/7/ ██: Approved - O5-3
+
+Description: SCP-1073-1 is a clear liquid identical in appearance and physical properties (conductivity, boiling and freezing point) to water with a 0.9 M concentration of H2SO4 (sulfuric acid), from a pool inside a cave in the █████████ mountains. Chemical analysis reveals that the liquid is actually [DATA EXPUNGED], and shows traces of dissolved silicon dioxide and long-chain silanes. Investigation into the possible industrial and military applications of the chemical are ongoing.
+
+SCP-1073-2 is a sapient colony of silicon based microbes with a structure similar to that of primitive computers. 1073's structure allows it to receive and decipher radio waves, research into military applications is ongoing. So far five distinct "species" of SCP-1073-2 have been observed. "Gatherers", as the name suggests, gather up raw materials and irreparably damaged colony members, for use as food and in reproduction. "CPUs" perform all the higher functions for the colony, including communication and digestion. "MMUs" access information from the memory cells (both ROM and RAM) and transfer it to the "CPUs". "ROMs" (read only memory) act as the colony's DNA, containing all the information required for reproduction, communication and certain long term memories. "RAMs" (rapid access memory) contain the colony's short term memories. After a variable period of time information is either copied from the RAM cells to the ROM cells or deleted. During 1073-2's stay with the Foundation the number of ROM cells has increased by a factor of 104.
+
+Testing log:
+
+Test number: 1073-01
+
+Subject: SCP-1073-1 and 2
+
+Test: Freezing
+
+Result: Subjects were thawed out with minimal damage, but described the experience as unpleasant.
+
+Test number: 1073-02
+
+Subject: SCP-1073-1 and 2
+
+Test: Boiling
+
+Result: When vaporized SCP-1073-1 reacts violently with [DATA EXPUNGED], resulting in substantial damage to the containment cell and the deaths of three (3) Foundation personnel.
+
+Test number: 1073-03
+
+Subject: SCP-1073-2, distilled water.
+
+Test: Habitat change
+
+Result: Immediately upon introduction to the water SCP-1073-2 began to fall apart. Further testing indicates that 1073-1 is required to maintain the silicon triple bond that is the backbone of SCP-1073-2.
+
+When in an active state waves are produced from the center of the liquid every three (3) to five (5) seconds and travel outward in a circular shape. Following the initial recovery in 19██ it was believed that the waves were meaningless until Dr.██████, an amateur radio operator, found that the small waves (averaging eight (8) cm in diameter) and the large waves (averaging sixteen (16) cm in diameter) respectively correspond to the dots and dashes of Morse code.
+
+Until his death in 1993 Dr. ██████ carried out weekly interviews with SCP-1073 using a self-built radio broadcasting set. Below are some of the interviews of interest.
+
++ Interview Log 1073-2-1
+
+- less
+
+Communication type: Morse code
+
+Call and response questioning
+
+<Begin Log>
+
+Dr. ██████: One zero seven three two, are you able to hear and understand me?
+
+SCP-1073-2: Yes we can Doctor, can we call you Doctor?
+
+Dr. ██████: If you are able to both hear and understand, could you please tell me your name?
+
+SCP-1073-2: We enjoy the title you assigned to us.
+
+Dr. ██████: Are you aware of your current surroundings?
+
+SCP-1073-2: The room we occupy is empty. Doctor is behind a wall of glass speaking into an electronic device to communicate with us.
+
+Dr. ██████: Why are you here?
+
+SCP-1073-2: We do not know, there were so many of us, then there was a bright light and we found ourselves alone. Bits and pieces of the others floated past, we added them to ourselves. Now we are many again.
+
+Dr. ██████: How did you learn this language?
+
+SCP-1073-2: We heard it through your devices, we believe you call them radios, after being alone for so long we were happy; we were no longer alone. We sent messages back, you must not have received them. You must not have been advanced enough. So we tried this, manipulating our habitat to communicate. Now we have found you.
+
+Dr. ██████: Thank you, that should be all for now.
+
+SCP-1073-2: Will you be back? We do not want to be alone again.
+
+Dr. ██████: (pause) I'm sure I will.
+
+<End Log>
+
++ Interview Log 1073-2-2
+
+- less
+
+Interviewed: SCP-1073-2
+
+Interviewer: Dr. ██████
+
+Communication type: Morse code
+
+Call and response questioning
+
+<Begin Log>
+
+Dr. ██████: 1073, can you hear me?
+
+SCP-1073-2: Yes Doctor.
+
+Dr. ██████: I'd like to ask you some more questions.
+
+SCP-1073-2: That is fine. We like the company.
+
+Dr. ██████: (pause) Yes, first question: You use the term "we" to describe yourself, why is that?
+
+SCP-1073-2: We are not one, like Doctor, we are many all working together.
+
+Dr. ██████: Would you care to explain?
+
+SCP-1073-2: Some of us hold the information, some of us move it, some of us use it. We who you are addressing use the information brought by those who you are not addressing.
+
+Dr. ██████: I'm afraid I don't understand, please elaborate.
+
+SCP-1073-2: We are… unable to continue.
+
+Dr. ██████: Thank you, that will be all for now.
+
+<End Log>
+
++ Interview Log 1073-2-14
+
+- less
+
+Interviewed: SCP-1073-2
+
+Interviewer: Dr. ██████, Dr. ████████ (mathematician/computer scientist)
+
+Communication type: Morse code
+
+Call and response questioning
+
+<Begin Log>
+
+Dr. ██████: Hello 1073.
+
+SCP-1073-2: Hello, Dr. ██████.
+
+Dr. ██████: This is Dr. ████████, he wanted to talk to you about your structure.
+
+SCP-1073-2: Yes, greetings Dr. ████████.
+
+Dr. ████████: Did Dr. ██████ give you the tapes I requested?
+
+SCP-1073-2: Yes, you want to know about us so you may build things like us.
+
+Dr. ████████: Erm… yes, how is it that you are able to respond to us so quickly? Right now we have no way of making cheap but efficient memory units.
+
+SCP-1073-2: Your machines are still using tubes and glass when they should be like us. Our structure is suited for transferring and storing electrical signals.
+
+Dr. ████████: Would you care to explain how we can do that?
+
+SCP-1073-2: Yes, We will be happy to explain.
+
+[LOG REDACTED]
+
+<End Log>
+
+Addendum: the information gained from these interviews was later seeded to various companies and government organizations, including [REDACTED] and Bell Labs.
+
++ Interview Log 1073-2-2577
+
+- less
+
+Interviewed: SCP-1073-2
+
+Interviewer: Dr. ███████ (Dr. ██████'s replacement)
+
+Communication type: Computer transmitter
+
+Dialogue
+
+<Begin Log>
+
+Dr. ███████: Hello 1073, this is Dr. ███████, the replacement for Dr. ██████.
+
+SCP-1073-2: Where did Dr. ██████ go?
+
+Dr. ███████: (to himself) Jesus, why did they make me tell it? (to 1073) He, he died. Do you understand what that means?
+
+SCP-1073-2: That happens in the stories. It doesn't happen here. He'll be back.
+
+Dr. ███████: I'm sorry, but he's gone. They sent me here to talk to you, I know I can't replace Dr. ██████, but…
+
+SCP-1073-2: What is this? We do not want this, it hurts.
+
+Dr. ███████: (pause) If there's anything I can do…
+
+SCP-1073-2: Leave. We want to be alone. We are sad.
+
+<End Log>
+
+Addendum: SCP-1073-2 refused to communicate with any Foundation personnel for three (3) months.
+
+Notes:
+
+Is anyone else a little concerned about this thing? Almost 90% of the world's computer systems are based off information this thing gave us, if it goes rogue… - Dr. ██████████
+
+If it goes rogue we pour water on it. The creature can't survive in anything other than pure 1073-1 and we control the source of it. - O5-3

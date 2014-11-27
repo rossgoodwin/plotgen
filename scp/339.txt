@@ -1,0 +1,21 @@
+SCP-339
+
+Item #: SCP-339
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-339 is contained at Site-49. The room containing SCP-339 is 5 m X 5 m X 5 m and sound-proofed. SCP-339 is sealed in a sound-proofed container on a 1.5 m pedestal in the center of the room. The room is only accessible through an outer sound-proofed airlock.
+
+All personnel entering SCP-339’s holding room for maintenance must maintain absolute silence and wear noise-reducing foam-lined boots, available in the airlock. Regular maintenance of SCP-339 is to occur on the 15th of every month, and consists of replacing the degraded sound-proofed container with a new one.
+
+No one is to enter SCP-339’s holding room for any reason other than maintenance.
+
+Description: SCP-339 is a group of tendrils extending off a central mass. It is approximately 50 cm from tip-to-tip, although this is variable. It appears to be made out of weathered copper, but shows a much higher level of durability and independent mobility. The individual tendrils constantly move as though underwater, continually grinding on the sides of any containment, silently pulverizing it at a gradual but constant rate. Because of this, the sound-proofed box it is currently contained in must be replaced at regular intervals.
+
+Any noise above 14 decibels will cause SCP-339 to become hostile. During this noise and for a length of time equal to 5 times the duration of the noise, any movement within visual range will result in the immediate reaction of SCP-339. SCP-339 will expand by extruding tendrils at an extremely high rate, ensnaring any moving organisms or objects, designated "targets." Once the movement has been restricted, SCP-339's tendrils begin to vibrate at rapidly increasing oscillations until the target is rendered incapable of movement. Note that once a target is ensnared, SCP-339 appears to be able to determine when the target truly becomes incapable of movement rather than merely when it stops moving.
+
+SCP-339 will then return to its base shape and size. At this point, secretions of blood and a slurry of bone and muscle tissue from the central mass are to be expected. All movements of SCP-339 are completely silent, even at very high oscillations that should produce noise.
+
+History: SCP-339 was recovered in Iran in 1953, during Operation Ajax on the part of the Iranian military. It was found in one of Prime Minister Mohammed Mossadeq's private collections. After the deaths of the Iranian soldiers sent to secure this collection, the Foundation was alerted and took control. SCP-339 was found in a velvet-draped room on a pedestal.
+
+A quote from the Persian poet Saadi was engraved onto the pedestal in Persian: "Nothing is so good for an ignorant man as silence; and if he was sensible of this he would not be ignorant."

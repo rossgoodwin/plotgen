@@ -1,0 +1,21 @@
+SCP-1613, documented by Agent Boyd during initial containment.
+
+Item #: SCP-1613
+
+Object Class: Euclid
+
+Special Containment Procedures: Foundation assets in major media companies are to monitor for new reports of SCP-1613. Any publications affected by SCP-1613 are to be shut down, with witnesses administered Class-C amnestics, followed by the dissemination of a misprinting cover story. At this time, approximately 3 newspapers affected by SCP-1613 are being published under controlled conditions in order to monitor SCP-1613's content and long-term effects. Field agents deployed in these regions have been assigned with finding Mallory Locicero, the individual believed to propagate SCP-1613.
+
+Description: SCP-1613 is an American newspaper comic titled "The Spoken Fool." It depicts an unnamed adult male speaking on various topics, such as the suffering of independent comic artists at the hands of large corporations. SCP-1613 usually displays poor use of basic artistic and writing concepts, often filling entire panels with text and showing little to no art whatsoever. Currently, SCP-1613 is known to appear within newspapers printed in the states of West Virginia, Tennessee and South Carolina.
+
+After a period of 2 weeks to 1 month (depending on the circulation of the newspaper SCP-1613 is affecting) the content of comics published in the same newspaper as SCP-1613 will begin to deviate from how they appear in other places, taking on large differences in content and syntax. Eventually, this will progress to the general art and dialog style slowly shifting until they become similar to SCP-1613. Changes to nationally syndicated comics appear to be limited to the specific newspaper affected by SCP-1613.
+
+As SCP-1613 exposure persists, comics other than SCP-1613 will cease to be published. The spaces they were formerly placed in will have text replaced with diatribes denouncing the comic author, the content, and the layout of the newspaper SCP-1613 is published in. Eventually, all comics other than SCP-1613 cease to appear and SCP-1613 will begin to repeat the same content on a daily basis. The transcript of this comic is as follows:
+
+Panel One: The male figure appears seated in a chair, with a blank white background. A speech box reads "All your friends are sitting out by the noon. I didn't know, or understand, what was happening, now they have been taken."
+
+Panel Two: The male figure is not visible, due to large block of text. "I'm sorry I had to do it, but they weren't really your friends. They were hollow. Empty shells that existed in the hands of old, numb, and sometimes dead men. They never really wanted to make you laugh, all they wanted was undeserved accolades for being published in a dying format."
+
+Panel Three: The panel is again taken up by text. "Your friends won't be coming back next week. You'll have to find another way to occupy your time. If it helps, they go to serve a cause. I hope you understand."
+
+SCP-1613 is believed to have originally been published in an independent magazine being distributed in the city of ███ ██████, in an independent newsletter distributed to local art groups. SCP-1613 did not display anomalous properties during this time. However, the original author, Mallory Locicero, left the publication shortly after she began working. Approximately 4 months later, SCP-1613 was anomalously published in the ███ █ Gazette, a small newspaper in ███ ██████. SCP-1613 was identified as an anomaly on 9/18/1977, and classified as Euclid.

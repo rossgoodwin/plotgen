@@ -1,0 +1,143 @@
+Item #: SCP-1031
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1031 is to be kept in a secure storage locker at Site ██. It may be removed for experimentation but must be returned set to "Off" and with SCP-1031-2 attached to the side with adhesive tape.
+
+Description: SCP-1031 is a heavy duty weatherproof ABS plastic box measuring 20cm×15cm×5cm, weighing 770g and coloured mid-grey. The box is sealed shut. Screws are visible in deep shafts at each corner, but the screw heads appear to have been reamed out to prevent extraction. A grooved circular metal strap and associated tightening mechanism ("jubilee clip") is attached to the centre of one 20×15cm side, and a printed vinyl label is affixed to the opposite side. The label identifies the box as a "██████████ Ltd1 Red Light Enforcement Module", gives instructions for attaching the box to a traffic light pole, and warns that the item is "Tamper-proof! Do not attempt to open!" accompanied by an iconic representation of an intruder being [DATA EXPUNGED]. Below the label is a keyhole, around which are three labelled settings: "Off", "Enforce" and "Mark".
+
+SCP-1031-2 is a key which fits the keyhole on SCP-1031. It appears to have no special properties and has been successfully copied by a Foundation locksmith using standard techniques. It does not appear to be possible to open the box using the key.
+
+SCP-1031 appears to be inert unless it is (a) attached to a traffic light pole (with lights actively operating in a sequence including red and green phases) in the manner described on the label, and (b) set to "enforce" or "mark" using SCP-1031-2. See attached logs for more information on the item's effects.
+
+It should be noted that SCP-1031 does not require (indeed, has no connections for) any power or other connection, and has not been observed to actually do anything itself (although the effects noted in the test log below are clearly caused by SCP-1031's presence and the position of its keyway). There are no lamps or other indicators on the box. How its effects are caused is currently unknown.
+
+SCP-1031 was retrieved by Agent ███████ from a road-side location in south-west ██████, UK on ██/██/████ after analysis of road traffic accident data revealed the recent very sudden formation of an accident black-spot. SCP-1031-2 had been left in the keyway of SCP-1031.
+
+Test log 1031-01: Testing was carried out at Research Site-██. A traffic signal was installed at a suitable position in the car park, programmed with a simple 30-second green/red sequence and SCP-1031 was installed on the same pole according to its attached instructions. A white line was painted across the road beside the pole, and D-class test subjects ordered to drive a vehicle across the line.
+
+Date: ██/██/████
+
+Subject: D-3879
+
+Key setting: Off
+
+Vehicle type: Hatchback, 1.1L
+
+Speed: 30kph
+
+Phase: Vehicle reached line during green phase
+
+Result: No effect. Subject stopped vehicle 14m beyond line for further instructions.
+
+Subject: D-3879
+
+Key setting: Off
+
+Vehicle type: Hatchback, 1.1L
+
+Speed: 30kph
+
+Phase: Vehicle reached line during red phase
+
+Result: No effect. Subject stopped vehicle 12m beyond line for further instructions.
+
+Subject: D-3879
+
+Key setting: Enforce
+
+Vehicle type: Hatchback, 1.1L
+
+Speed: 30kph
+
+Phase: Vehicle reached line during green phase
+
+Result: No effect. Subject stopped vehicle 9m beyond line for further instructions.
+
+Subject: D-3879
+
+Key setting: Enforce
+
+Vehicle type: Hatchback, 1.1L
+
+Speed: 30kph
+
+Phase: Vehicle reached line during red phase
+
+Result: Vehicle halted suddenly at line, as if in collision with a fixed object. Air bag deployed. Subject suffered bruising to chest due to seat belt and reported feeling "shaken". Full width of vehicle front bumper crushed; little other damage to vehicle.
+
+Subject: D-3880
+
+Key setting: Enforce
+
+Vehicle type: Hatchback, 1.1L
+
+Speed: 30kph
+
+Phase: Vehicle's front bumper crossed line 0.2 seconds before start of red phase; vehicle still crossing line at start of red phase
+
+Result: No effect. Subject stopped vehicle 17m beyond line for further instructions.
+
+Subject: D-3880
+
+Key setting: Enforce
+
+Vehicle type: Hatchback, 1.1L
+
+Speed: 50kph
+
+Phase: Vehicle reached line during red phase
+
+Result: Upon crossing line, front tyres immediately deflated with a loud "bang" causing subject to lose control. Vehicle halted 27m past line, facing sideways relative to its direction of travel. Subject physically unhurt but claimed to be "out of sorts".
+
+Subject: D-3881
+
+Key setting: Enforce
+
+Vehicle type: Bicycle
+
+Speed: 15kph
+
+Phase: Vehicle reached line during red phase
+
+Result: Upon crossing line, front wheel became solidly fixed to road surface. Subject flung over handle-bars and suffered bruising and minor cuts on impact with road surface. Bicycle remained upright with wheel fixed in position; bicycle could be rotated around fixed wheel. 5 seconds before red phase ended, wheel became free to move and bicycle fell to road surface. No damage discovered to road surface, tyre or wheel at point of adhesion.
+
+Subject: D-3882
+
+Key setting: Enforce
+
+Vehicle type: Motorcycle, 750cc
+
+Speed: 40kph
+
+Phase: Vehicle reached line during red phase
+
+Result: Upon crossing line, vehicle's drive chain broke. Subject reported momentary loss of control but was able to bring the machine to a halt safely 8m beyond line. Subject physically unhurt.
+
+Subject: D-3880
+
+Key setting: Mark
+
+Vehicle type: Hatchback, 1.1L
+
+Speed: 50kph
+
+Phase: Vehicle reached line during red phase
+
+Result: As vehicle crossed the line, horizontal red stripes 23cm wide appeared along both left and right sides of the vehicle approximately 80cm above ground level, as if spray-painted by a stationary agent while the vehicle was in motion. Later examination showed no evidence of an extra layer of paint having been added; the original paint-work's colour seems to have been altered. Removal of the stripes is estimated to require a full respray of the affected panels.
+
+Subject: D-3882
+
+Key setting: Mark
+
+Vehicle type: Motorcycle, 750cc
+
+Speed: 40kph
+
+Phase: Vehicle reached line during red phase
+
+Result: Red stripes 23cm wide and 80cm above ground level appeared on both sides of the motorcycle. Where the stripe crossed the subject's leg, the colour change appeared on the subject's clothing (shorts) and, where not covered, skin. Subject screamed as the colour change occurred; subject later reported that pain had occurred in the affected area and had disappeared as quickly as it had appeared. Affected areas of the subject's skin have become a uniform bright red colour matching the stripe on the vehicle. Washing with soap and water does not affect colouration; study of skin biopsies is recommended to determine how the change has been effected.
+
+Footnotes
+
+1. ██████████ Ltd has been traced through Companies House and contacted by a Foundation front organisation. They claim never to have produced such a device, and that they are, in fact, a fashion clothing manufacturer.

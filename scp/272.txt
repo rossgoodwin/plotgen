@@ -1,0 +1,243 @@
+SCP-272
+
+Item #: SCP-272
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-272 is to be contained in a small wooden box in a vault at Sector-25. Apart from this, no further containment is necessary, as the object is completely inert when not in use. Care is to be taken not to drop the item during transit.
+
+Description: SCP-272 is an iron nail, approximately 11.5 cm long, resembling ancient designs. Covering every flat surface are engravings of unknown cultural origin. The engravings have been described as “captivating, but scary” in a majority of staff interviewed.
+
+The nature of the object becomes apparent when it is dropped onto the shadow of an individual. The nail will bury itself exactly 2/3 of its length into the material the shadow is cast on. Following this, two effects should be noted: the person whom the shadow belongs to will not be able to remove the nail, by any means, and they are limited to movements that keep their shadow cast on the nail. The nail, however, may be removed by conventional means by anyone else, although those requested to do so reported a mild aversion, citing claims that “it feels fair”.
+
+The object was discovered during a routine sweep embedded into an exposed rock face near an abandoned air force base in █████, Afghanistan, with a human skeleton scattered around it. It was thought to be mundane until a researcher dropped it at their feet, and was subsequently pinned to the spot for 20 minutes before being assisted.
+
+Experiment log:
+
+Format:
+
+272-X
+
+Test subject:
+
+Surface:
+
+Lighting:
+
+Purpose:
+
+Procedure:
+
+Results:
+
+Conclusions:
+
+Addendum:
+
+272-a
+
+Test subject: 1 D-Class personnel (D-272-01)
+
+Surface: Rock face at discovery site
+
+Lighting: Midday sun (directly overhead)
+
+Purpose: Establish nature of SCP.
+
+Procedure: Subject was handed the nail and told to hammer it into his shadow at his feet.
+
+Results: Subject complies. Once the nail had reached the 2/3 mark, subject could not continue. Subject attempts to move away but is unable to. Subject soon becomes fatigued and succumbs to heatstroke. Object removed. Subject given medical treatment.
+
+Conclusions: Nature of the object established.
+
+272-b
+
+Test subject: 1 D-Class personnel (D-272-02)
+
+Surface: As above
+
+Lighting: Night (Minimal)
+
+Purpose: Establish effects at night.
+
+Procedure: Nail was dropped at the subject’s feet and embedded itself exactly 2/3 of the way in. Subject then asked to move 10 m away from the nail.
+
+Results: Object embeds. Subject complies showing no adverse effects. Subject then attempts to escape and is terminated. Object recovered.
+
+Conclusions: Subject is free to move when no shadow is cast.
+
+272-c
+
+Test subject: 1 D-Class personnel (D-272-03)
+
+Surface: As above
+
+Lighting: As above, 2 hours before sunrise
+
+Purpose: Establish effects of lighting changes.
+
+Procedure: Nail dropped as above. Subject told to walk in a straight line away from the nail.
+
+Results: Object embeds. Subject shows no adverse effects. Sunrise occurs at 6:06 local time. Subject is [DATA EXPUNGED]. Three clean-up teams dispatched. Subject’s torso recovered 106 m from object, showing signs of road rash and severe blunt trauma. Object recovered. Testing moved to Sector-25.
+
+Conclusions: [DATA EXPUNGED].
+
+272-d
+
+Test subject: 1 D-Class personnel (D-272-04)
+
+Surface: Concrete floor of test facility 25-h
+
+Lighting: 1 standard (60 W) light bulb, directly overhead
+
+Purpose: Establish lighting requirements.
+
+Procedure: Nail dropped on the shadow of test subject. Subject told to walk in a straight line away from the object.
+
+Results: Object embeds. Subject is free to move. Object recovered.
+
+Conclusions: Insufficient lighting will cause no effect.
+
+272-e
+
+Test subject: 1 D-Class personnel (D-272-04)
+
+Surface: As above
+
+Lighting: 1 standard (1,500 W) stadium light, directly overhead
+
+Purpose: As above.
+
+Procedure: As above.
+
+Results: Object embeds. Subject trapped. Object recovered.
+
+Conclusions: Lighting requirements established.
+
+272-f
+
+Test subject: 2 D-Class (D-272-04 and D-272-05)
+
+Surface: As above
+
+Lighting: 2 stadium lights, positioned 90° apart
+
+Purpose: Determine if multiple subjects can be held.
+
+Procedure: Subjects positioned so their shadows overlap. Object dropped onto both shadows. Subjects told to advance away from the nail.
+
+Results: Object embeds. Subject D-272-04 continues unhindered, but reports feeling a ‘chill’. D-272-05 is held by the object. Object recovered.
+
+Conclusions: Object cannot hold more than one subject. Potential secondary effect observed.
+
+272-g
+
+Test subject: 8 D-Class (D-272-04 - D-272-11) - See addendum for details
+
+Surface: As above
+
+Lighting: 4 stadium lights, positioned in a ring around the subjects
+
+Purpose: Determine the selection mechanism for which subject is held.
+
+Procedure: Subjects positioned so their shadows overlap. Nail dropped onto all 8 shadows.
+
+Results: Object embeds. Subject D-272-09 is held (18 YOA, Caucasian, 1.8 m, 88 kg), all others free to move. Reports of a scream from all subjects except D-272-09. All subjects except D-272-09 seen to shiver. Object recovered. D-272-09 removed from study, experiment repeated. Subject D-272-06 held (24 YOA, Hispanic, 1.6 m, 102 kg), all others appear to shiver and report a scream but remain free. Experiment repeated four additional times as per the above method; discontinued after D-272-07 fell unconscious. Subject given treatment for severe hypothermia.
+
+Conclusions: Emerging patterns suggest that the youngest possible subject to be held will be. Additionally, secondary effect on larger groups observed; further research pending acquisition of a larger sample group.
+
+Addendum: Subjects of equal gender distribution, ages ranging from 18 to 59, numerous physical traits represented.
+
+272-h
+
+Test subject: 1 D-Class (D-272-05)
+
+Surface: 1 outdoor field, grassy
+
+Lighting: Early morning sun (appr. 9:00 AM)
+
+Purpose: To determine if subject can escape by digging.
+
+Procedure: Object dropped onto subject's shadow. Subject then given a shovel and told to dig out the object.
+
+Results: Subject digs for 90 seconds, then falls over screaming. Subject expires before medical intervention could be administered. Autopsy reveals subject died of a pan-cerebral hemorrhage; cause indeterminate. Object recovered, field repaired. Repeated with D-272-07 and 08; results identical.
+
+Conclusions: Subjects held by SCP-272 cannot dig the nail out; attempting to do so is invariably fatal.
+
+272-i
+
+Test subject: None
+
+Surface: N/A
+
+Lighting: N/A
+
+Purpose: To determine the object's destructibility.
+
+Procedure: 1 D-Class personnel (D-272-09) is given the object and a selection of tools and told to ‘go to town’ in an attempt to destroy the object. Test area evacuated.
+
+Results: Subject selected an angle grinder, set the object in a vise and proceeded to bring the grinder upon the object. An instant later subject is seen writhing on the ground, clutching his temples. Audio recordings from inside the room record subject speaking in [REDACTED]. 30 seconds later, subject expires. Autopsy reveals the cause to be a pan-cerebral hemorrhage. Examination of the object reveals some minor damage from the grinder.
+
+Conclusions: Object appears to be fully destructible, but will resist actions against it with lethal force by an unknown method. Object tested to maintain its original functionality.
+
+272-j
+
+Test subject: 1 D-Class personnel (D-272-10)
+
+Surface: Concrete floor of test facility 25-h
+
+Lighting: 1 stadium light, positioned on a computer-controlled track
+
+Purpose: a.) Determine the effects of rapid lighting shifts and b.) Determine if subject can be withheld from the object via restraints, barriers etc.
+
+Procedure – Test 1: Light positioned to cast a long shadow. Nail dropped into the head of subject's shadow. Light slowly raised.
+
+Results – Test 1: Subject dragged at a proportional rate towards the object. Subject has difficulty standing.
+
+Procedure – Test 2: As above. Light raised very rapidly.
+
+Results – Test 2: As above, but at a more rapid rate. Noted that subject was unable to remain standing and accelerated upon falling; attributed to the decrease in shadow size relative to standing. Subject acquired minor road rash.
+
+Procedure – Test 3: As above. Subject restrained with chains attached to their feet, chicken wire screen placed between subject and object.
+
+Results – Test 3: [DATA EXPUNGED]. Subject expires. Object recovered. Further testing with restrained subjects prohibited.
+
+Conclusions: Subject seen to be ‘dragged’ by their shadow, at a rate required to keep it cast upon the object. Intervening obstacles appear not to impede this function, although will damage the subject, or in the case of barriers like the chicken wire, [DATA EXPUNGED].
+
+272-h
+
+Test subject: 1 D-Class personnel (D-272-04)
+
+Surface: As above.
+
+Lighting: 1 Stadium light in a fixed position, roughly 45° from horizontal
+
+Purpose: Establish the effects of long-term containment.
+
+Procedure: D-272-04 positioned central to the room. Object is dropped onto the subject's shadow.
+
+Results: Subject held. After the third day, subject becomes unresponsive to attempts to provide nourishment. After the first week, subject heard to only speak [REDACTED] (see transcript below). By the eleventh day, the subject, having not eaten or drank in 8 days, seen to become agitated, rapidly shifting between mania and a comatose state. At the fourteen day mark the test is terminated. Object recovered. Subject noted to be severely malnourished, but resumed speaking English once the object is removed, and proceeded to recover rapidly before monthly termination.
+
+Conclusions: Extended containment has yielded that the subject will survive for prolonged periods without nourishment, but will enter a degraded mental state.
+
+Addendum: Partial transcript of subject D-272-04's manic speaking from day 14, translated sections in {}:
+
+(Begin transcript)
+
+Dr. Kimiro: For the record, state your name…
+
+D-272-04: {…Ashes burn at my tongue I cannot taste the water boils at my sight…}
+
+Dr. Kimiro: Can you repeat that?
+
+D-272-04: {…I cannot sleep the screams are heard I am not warm the shadow steals…}
+
+Dr. Kimiro: Right… How do you feel?
+
+D-272-04: {…The chains they bind I cannot move the people [DATA EXPUNGED]}
+
+Dr. Kimiro: What is he saying? What is he speaking? Someone get me a translator.
+
+D-272-04: (Growing louder) {…Cut my flesh to ribbons that I might be free (Subject begins clawing at his skin) [DATA EXPUNGED] I am the prisoner of my own foolishness let the crows come and [DATA EXPUNGED] let my flesh crumble like the apple whose ashes burn at my tongue…}
+
+(End transcript)

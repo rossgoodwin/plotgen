@@ -1,0 +1,65 @@
+SCP-2972, photographed after purchase of lot and prior to full containment in Nov 2005.
+
+Item #: SCP-2972
+
+Object Class: Safe Euclid (Provisional) Safe
+
+Special Containment Procedures: The lot containing SCP-2972 has been purchased from Dollar General Corporation by a Foundation shell group1, Sawgrass Holdings. The building adjacent to SCP-2972 has been demolished, and SCP-2972 has been fenced in. Local Mobile Task Force 769-Ayin ("Clanga") will maintain a surveillance camera on the premises and ensure no motor vehicles are introduced to SCP-2972. will deliver one functioning motor vehicle to the premises of SCP-2972 at least once every 21 days, to prevent the spread of SCP-2972's effect. LMTF 769-ע will coordinate with Sebastopol, Crimea-based Local Mobile Task Force 652-Peh ("Artel's Pot") to ensure vehicles transported via SCP-2972 are recovered and contained.
+
+The origin point (marked ◻︎) and destination point (marked ○) of vehicles transported via SCP-2972.
+
+Description: SCP-2972 is a parking lot, formerly attached to the Dollar General store in Sebastopol, Mississippi. Once, between every two (2) and twenty-one (21) days, SCP-2972 will cause a seemingly random unoccupied motor vehicle parked2 within its bounds to disappear, apparently instantaneously3. The motor vehicle4 simultaneously appears in a warehouse in the industrial district of Sebastopol, Crimea. The vehicle appears with all wheels (if applicable) touching the ground and aligned lengthwise with magnetic north, regardless of original orientation.
+
+Discovery: SCP-2972 was discovered when four consecutive car thefts (believed to be the first events caused by the anomaly) occurred in the Dollar General parking lot in Sebastopol, Mississippi. Following the third vehicle disappearance, store managers installed a security camera in the lot.
+
+When surveillance footage showed the fourth vehicle disappearing between video frames, an embedded Federal Bureau of Investigation Unusual Incidents Unit agent in the Mississippi Highway Patrol took notice of the case. At the time of containment handover from the UIU to the Foundation, Agent Solowski5 recounted the discovery:
+
+Excerpt from Interview 2972-2, Dec 18 2005
+
+Participating: Fmr. UIU Agent Titus Solowski, Foundation Junior Researcher Dr. Shauna Little. Foundation's Jeremy Hornbeck, secretary.
+
+Dr. Little: So, you took over the case in your capacity with the Highway Patrol.
+
+Agent Solowski: Correct. I decided to run a sting, emptying the lot and seeding it with a high-value vehicle, embedded with a GPS.
+
+Dr. Little: And, according to the records, that car disappeared from the lot five days and seven hours later?
+
+Agent Solowski: Affirmative. Our team —
+
+Sec. Hornbeck: For the record, you are referring to the Mississippi Highway Patrol as "our team"?
+
+Agent Solowski: No, UIU. Our team got an alert tracing the object to Ukraine6 of all places. We ran it up the ladder and they phoned up Interpol and y'all. I got flown out to Crimea to help run the sting on the place.
+
+Dr. Little: And the results?
+
+Agent Solowski: A couple guys, if you'd believe it, were grabbing these cars, filing off the VINs and selling them on the black market. Occasionally, they'd get cash or drugs or whatever from inside 'em, too. Nice little business they had.
+
+Dr. Little: Did these individuals —
+
+Sec. Hornbeck: Sorry, point of information. How many guys, exactly?
+
+Agent Solowski: Two. Dr. Little?
+
+Dr. Little: How did these two individuals create this anomaly?
+
+Agent Solowski: They say they didn't, and our extensive interrogation leads me to believe they're telling the truth. They said some whispers on the black market pointed them in the right way, guy called "Penrose." Apparently, the names of the two cities connected them with what he called a "linguistic ley line," making moving stuff between the two trivial. Funny, really, these guys find out 'magic' is out there and their first thought is stealing cars. People really aren't that creative, you know?
+
+Addendum, 8/1/2011: Following the conclusion of testing and creation of initial containment procedures for SCP-2972, no motor vehicles meeting the criteria for disappearance were placed in the bounds of SCP-2972. After 44 days of no anomalous activity, a vehicle belonging to the owner of a nearby service station spontaneously disappeared, appearing in the Crimean location.
+
+SCP-2972 was upgraded to Provisional Euclid by Primary Containment, temporarily, with the classification returned to Safe two months later.
+
+New containment policies requiring the transport of a vehicle at regular intervals appear to have confined the phenomena again to the bounds of SCP-2972. Future car theft reports in the Leake and Scott County areas are to be closely monitored.
+
+Footnotes
+
+1. As part of the initial agreement of containment handover, 40% of the funding for the purchase of SCP-2972 was provided by the Federal Bureau of Investigation's Unusual Incidents Unit in exchange for Foundation responsibility for containment.
+
+2. For the purposes of containment "motor vehicle" includes cars, motorbikes, motor scooters, golf carts, semi trucks, construction equipment and, in one instance, an airboat. "Parked" vehicles do not have the engine running, but may have lights, electronics or other devices active. "Unoccupied" vehicles do not contain any living warm-blooded animals.
+
+3. Atomic clocks onboard five (5) vehicles transported with SCP-2972 indicate no temporal desynchronization during the transportation event.
+
+4. "Or an exact replica of the same." - Secondary Containment Proposal
+
+5. Employed by the Foundation as part of the containment agreement, now Deputy Director of Local Mobile Task Forces, Region 352.
+
+6. In light of the current sensitive nature of the Crimean Peninsula's national status, and out of respect for our employees and allies in both Russia and Ukraine, Foundation Human Resources officially take no position on the ownership of Crimea. Agent Solowski's comments in Dec 2005 accurately represented the political situation of Sebastopol, Crimea at the time.

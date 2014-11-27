@@ -1,0 +1,49 @@
+Item #: SCP-2444
+
+Object Class: Euclid
+
+Special Containment Procedures: Containment of SCP-2444 at Area-994 currently encompasses both the active containment of SCP-2444-2, and the passive monitoring of the ongoing conflict between the four objects comprising SCP-2444-1.
+
+As SCP-2444-2 has proven impossible to safely remove from SCP-2444-1D, it is currently contained within a modified Type-4 Mobile Temporary Containment Unit, measuring 3m x 3m x 5m, located in SCP-2444-1D's central chamber. SCP-2444-2 is connected to a modified ground-penetrating radar system which has been altered for use as a heartrate-monitoring device. A series of pressure sensor gauges have been installed in SCP-2444-2's nasal cavity to allow for measurements of its breathing rate. To minimize the risk of injury to personnel during conflicts between SCP-2444-1D and the other SCP-2444-1, the MTCU has been fitted with a full remote monitoring suite to allow for continued observations while SCP-2444-1D is evacuated. In the event that SCP-2444-2's breathing or heart rate deviate more than 10% above or below their current mean value, SCP-2444-2 is to be treated as a NhuMI (Non-human/Mythological/Intelligent) humanoid E-class object. At least two personnel with an advanced scholarly understanding of the Rig Veda and the Ramayana, as well as working knowledge of spoken Vedic or Classical Sanskrit are to be in Area-994's test monitoring center at all times in the event that SCP-2444-2 regains consciousness.
+
+SCP-2444-1A, SCP-2444-1B and SCP-2444-1C are to be accompanied at all times by at least three Foundation UAVs equipped with current-model electromagnetic monitoring equipment. To avoid the risk of injury or equipment loss, no Foundation aircraft are permitted within a 2-kilometer radius of any of these objects. In the event that any SCP-2444-1 object moves further than 30km away from B█████████ Temple, all local Foundation assets are to coordinate to clear the object's flight path of any civilian air traffic and minimize the risk of detection of SCP-2444-1 from the air. In the event that SCP-2444-1D approaches to within 5km of SCP-2444-1A, B or C, it is to be immediately evacuated of all personnel.
+
+Description: SCP-2444 is the collective designation for several anomalous objects present in the airspace above the B█████████ Temple in K███, India. According to local religious records, SCP-2444-1 have been present since the 12th century at the very latest. SCP-2444-2 was discovered by Foundation research teams exploring SCP-2444-1D's interior after it was determined to be non-hostile in 19██.
+
+SCP-2444-1 is the collective designation for four anomalous airborne objects which engage in simulated combat using electromagnetic radiation-emitting technology in the aerospace above B█████████ Temple. These objects have been assigned the codenames VIYUNA (SCP-2444-1A), TARAKA (SCP-2444-1B), VIRYA (SCP-2444-1C) and PUSHPAKA (SCP-2444-1D) for the purposes of identification. They have been detected at altitudes as low as 500m above local ground level, and as high as 30km, though never beyond a 25km radius from the Temple's lingam1. The objects have been observed to move at speeds of up to 500km/h, even in high winds or inclement atmospheric conditions. All four objects continually generate electromagnetic fields with a radiant flux of approximately 3.5MW/s. In light of the exploration of PUSHPAKA, this has been determined to be a by-product of their presumed power source(s) (See below).
+
+The exact appearance of VIYUNA, TARAKA and VIRYA is unknown, as each projects a sphere of anomalous particulate matter approximately 1.5km in diameter which disrupts most forms of electromagnetic imaging. SCP-2444-1 objects do not appear to generate any significant atmospheric disturbances as a result of their movements, despite mathematical simulations indicating that the movement of a 1.5km-diameter particle field at any significant speed would cause catastrophic turbulence. These particle fields also project an anomalous optical lensing effect which makes them difficult to detect visually from below. To date, all foreign objects entering within the radius of the particle fields of VIYUNA, TARAKA and VIRYA have been rapidly destroyed- recovered debris indicates the usage of extremely high-intensity laser or thermal weaponry.
+
+PUSHPAKA projects a similar spherical particle field, but has not engaged or destroyed any foreign objects which approach it. The object is similar in appearance to a Hindu Vimana temple tower, being comprised of a stepped-pyramidal structure approximately 500 meters in height covered with ornate decorative sculptures, mounted atop a 200-meter-wide base. PUSHPAKA is composed entirely of a material similar in composition to local red sandstone with the exception of greatly increased tensile strength and resistance to heat. Approximately 75% of PUSHPAKA's outer surface is covered by a previously-unknown, non-anomalous subspecies of Gloriosa superba.2 PUSHPAKA has a single entranceway, with the Sanskrit phrase "King of Lanka" inscribed on the lintel.
+
+PUSHPAKA's interior is empty save for 12 pillars composed of 25 rotating segments each, 60 semi-spherical stone structures 50cm high spaced evenly between the pillars3, and a 10-meter-wide, 2-meter thick iron disk mounted above three iron cylinders attached to the floor of the structure. These cylinders emit an intense broad-spectrum electromagnetic field, and thermal analysis has revealed them to be functionally similar to Carnot heat engines with a thermal efficiency approaching 100%. SCP-2444-2 is attached to the floor of the object approximately 50m in from the entrance.
+
+VIYUNA, TARAKA and VIRYA are believed to be engaged in some form of continual combat with PUSHPAKA. Whenever the objects move closer than 1.5km to PUSHPAKA, their particle fields merge, forming an extended tube shape. Recording devices placed aboard PUSHPAKA have revealed that the objects are apparently capable of generating focused beams of ultraviolet light spectrally similar to those of nuclear-pumped carbon-dioxide lasers, generating bursts of laser fire while rapidly maneuvering within their particle fields to avoid impact. Incoming attacks on PUSHPAKA have also been characterized by bright flashes of yellow, white and red light from VIYUNA, TARAKA and VIRYA respectively. SCP-2444-1 normally generate 5 bursts of approximately 30 distinct beams each before breaking off combat. On 3 separate occasions since their discovery, VIYUNA, TARAKA and VIRYA have merged together to form a single cloud with a diameter of 1.7km, and engaged in prolonged 'combats' with PUSHPAKA, lasting several days and encompassing several hundred distinct bursts from both sides. Statistical analysis of the firing patterns of the objects reveals a probable hit-to-miss ratio of less than 0.2%, a possible explanation for the minimal evidence of blast damage present on PUSHPAKA's exterior. Energy bursts from SCP-2444-1 objects are believed to dissipate or be significantly refracted when they connect with the inside of SCP-2444-1 particle fields, as no damage from energy weapons has ever been observed on any object outside an SCP-2444-1 particle field.
+
+SCP-2444-2 is a 4-meter-tall humanoid entity which is believed to be in a form of deep biological stasis or self-induced coma. SCP-2444-2 appears to be composed entirely out of anomalously-dense local gabbros stone, which has proved resistant to most forms of cutting or abrasion. SCP-2444-2 resembles a heavily overweight human with a pair of 50cm-long hircine horns as well as elongated incisors. The entity is clad in a traditional dhoti, composed of the same material as its skin. Radar probing of SCP-2444-2's interior has revealed it to be functionally identical to that of a severely obese human being, albeit on a much larger scale, and in a state of highly reduced biological activity. Tests have revealed that SCP-2444-2's heart beats approximately once every hour, and the entity breathes at a rate averaging 5 breaths/day. SCP-2444-2 rests in a stylized combative pose, right arm at its side with fist closed, and with its left hand opened, palm facing inwards, several centimeters in front of its face. A 1m x 1m gabbros plaque is positioned directly above its navel, bearing a message written in an archaic, highly liturgical form of Vedic Sanskrit.
+
+Document SCP-2444-INSC: SCP-2444-2 Plaque Translation
+
+I, Kumbhakarna, proclaim.
+
+I tire of you mighty eternal deities, victorious in your great battles.
+
+Your enlightenment has left you dull.
+
+Of old we fought mighty combats and won glory everlasting.
+
+Now there is naught but sickening, pious contemplation.
+
+These old toys of my brother and his ilk are but paltry amusements, but they will do for now.
+
+I wait for a true companion, one who understands the thrill of conflict and the slow boredom of the unity of God.
+
+If some brave adventurer would duel as we did of old, speak my name three times.
+
+Footnotes
+
+1. Symbolic representation of Shiva used as a shrine or offering-place in Hindu temples to the deity.
+
+2. Glory Lilly.
+
+3. The purpose of these segmented pillars and the semi-spheres is unknown, as damaging or halting their rotation has had no effect on PUSHPAKA's function.

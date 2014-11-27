@@ -1,0 +1,105 @@
+SCP-1042
+
+Item #: SCP-1042
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1042 is to be contained in a standard EM shielded anomalous materials storage locker. When testing, precautions with equipment should be taken as the object has been noted to affect electrical devices.
+
+Description: SCP-1042 is a standard brick used in foundation construction, typical of homes built in the Victorian era. Analysis has shown that SCP-1042 has similar composition to those made in ███████ during ██████, though closer inspection shows an unusual latticework structure on a molecular level. When introduced to low level electromagnetic fields or struck with a ferrous object, 3-dimensional visual and auditory "projections" of past events appear. These projections are frequently accompanied by the entity labelled SCP-1042-1.
+
+History:
+
+The Historical Society of ███████████████ had taken ownership of a local mansion, the site of a notorious murder, and was giving guided "ghost tours" of the grounds. The original owner of the house, Mr. ████████ ███████████, the town's "land baron," was accused of murdering a maidservant in 18██ but was acquitted of the charges. After the trial, ███████████'s wife removed herself and their children from the area, and he became a recluse before finally committing suicide in the house 3 years later. Since then, owners and staff reported seeing multiple apparitions in and around the manor of the original family and staff, images of themselves performing mundane tasks (labelled by tour-guides as "doppelgängers"), and sightings of "The Black Monk" (now believed to be SCP-1042-1). Frequency of these sightings tended to increase during thunderstorms. In 19██, an electrician wiring the house to the town's new electrical grid scraped a screwdriver across the exposed blocks of the cellar, and was greeted with the image of the house's original owner murdering the maid in a reenactment of the 18██ event. The apparitions showed no acknowledgement of the electrician and faded after approximately 5 minutes.
+
+Procurement:
+
+Posing as safety inspectors, Foundation agents were able to procure SCP-1042 using "foundation maintenance" as a cover story. The brick was located using a standard electro-magnetic field meter. Agents replaced it with a duplicate of equal proportions, as well as structurally bolstering the foundations of the building to avoid arousing suspicion.
+
+In experiments with SCP-1042, it has been determined that sights and sounds of people or objects moving around the object are recorded for later playback. It does not appear to record inactivity, only motion. Playback of events varies in fidelity; most images are transparent and have a blurred effect, audio has noticeable interference described by observers as "metallic scraping" or "stone grinding on stone". When a low-level current is applied to the block, the effects gain much in clarity. Recorded events can be projected by introducing an EM field, or by striking or scraping the block with a steel or iron object; specific events can be chosen for playback by altering the strength of the EM field, the force of the strike, or a combination of both.
+
+The following is a selection of the more notable tests with SCP-1042. The full testing log is available as document SCP-1042-L1
+
++ Show Experiment Log
+
+- Hide Experiment Log
+
+EM Field: ███ W/m²
+
+Striking Force: none.
+
+Result:
+
+The upper half of a middle aged woman, dressed as a kitchen servant appeared with a jar of peach preserves. She placed the jar on an unseen shelf (the jar then hung in the air apparently sitting on a shelf that corresponded to an actual shelf in the basement of the site), then turned and walked three paces before disappearing.
+
+At this point, researchers realized that SCP-1042 was placed on a lab table, approximately 45 centimeters below its original elevation. The block was placed on an elevated shelf adjusted to its approximate height in the basement and the test was conducted again, this time, the full image of the woman was seen. Corroborating with local records, this woman was confirmed to be ████████ ████████, who worked as a servant in the manor.
+
+EM Field: ███ W/m²
+
+Striking Force: ███ newtons
+
+Result:
+
+Researchers saw another experiment conducted in the same room, 13 days before by Dr. Lowenstein on SCP-███. The manifestation lasted 13 minutes, 15 seconds. Objects in the room which remained stationary at the time of the experiment did not appear, only those that changed position. Dr. Lowenstein later confirmed that he did perform those actions, and in the exact procedure as recorded when shown a digital recording of this test.
+
+EM Field: ███ W/m²
+
+Striking Force: ███ newtons
+
+Result:
+
+A reenactment of the maidservant's murder by the owner of the house. The image and sound were particularly clear. After the crime, ███████████ was seen lifting the body over his shoulder and walking towards the location of the basement stairs. The image of ███████████ proceeded to ascend toward the ceiling according to the location of the stairs in the basement, but their structure was not projected.
+
+EM Field: ███ W/m²
+
+Striking Force: ███ newtons
+
+Result:
+
+A man dressed as a mason from the era the house was built appeared, standing in front of the brick with a trowel, setting it into place. Approximately 3 meters behind him, a dark humanoid figure wearing a hooded black robe with a concealed face stood motionless. While the worker appeared in relatively good clarity, the dark figure was of noticeably lesser fidelity. It made no motion but appeared to be staring in the direction of the mason. When viewing a digital recording of the test, the black figure dubbed SCP-1042-1 was not seen.
+
+EM Field: ███ W/m²
+
+Striking Force: ███ newtons
+
+Result:
+
+Three men dressed as groundskeepers appeared and proceeded to cross the room. Clothing and hairstyles seemed consistent with the mid twentieth century. Two instances of SCP-1042-1 also appeared. One directly adjacent to their path, one behind Dr. Thompson. The two younger men engaged in a brief discussion of the various ghost sightings and legends surrounding the house. The third, older man reprimanded them for believing in such things, and admonished them to get back to work. The three picked up gardening tools (the tools appeared in the projection the moment the workers made contact), and vanished. It should be noted that the location of the entity behind Dr. Thompson corresponds to solid earth behind the wall that originally contained SCP-1042.
+
+EM Field: ███ W/m²
+
+Striking Force: ███ newtons
+
+Result:
+
+As Dr. Thompson was preparing this test, Dr. ████████ entered the room and conversed with Thompson for approximately 2 minutes. During this time, the sleeve of her lab coat contacted an Erlenmeyer flask, sending it into a work-sink where it broke along with several test tubes awaiting cleaning after one of Dr. Lowenstein's previously mentioned experiments with SCP-███. After determining the correct parameters to play back this event and summoning his colleague for viewing of her actions, the image manifested as normal. However, moments before the flask was broken, SCP-1042-1 appeared behind Dr. ████████ and moved the flask 4 centimeters towards her arm. When the digital-recording of the playback was viewed, the figure did not appear, nor was the flask seen to move.
+
+EM Field: ███ W/m²
+
+Striking Force: ███ newtons
+
+Result:
+
+One of the groundskeepers from the previous experiment appeared. As he crossed the area of SCP-1042's effect, SCP-1042-1 appeared, knelt down, and pushed a wooden apple crate 6 centimeters toward the man. The groundskeeper's left knee collided with the crate and he proceeded to fall forward onto a garden rake, the tines impaling his face in his right eye and left cheek. SCP-1042-1 stood upright and observed the man writhing on the ground. The scene stopped at this point. Examining local records indicate that the groundskeeper was ████████ ████████. After this accident, confirmed to have occurred in 19██, newspapers and court documents account that he became an alcoholic and was involved in a series of petty crimes. ████████ was killed in an automobile collision after leaving a drinking establishment 2 years later. The driver of the other vehicle sustained minor injuries, the 2 passengers died on impact.
+
+Note: The survivor of that accident was █████ ██████████, who later became a prominent public advocate of drunk-driving legislation, and founder of █████ ███████ ████████ ████████████████. In interviews, ██████████ cited this incident and the loss of his wife and child as his primary motivation.
+
+EM Field: ███ W/m²
+
+Striking Force: ███ newtons
+
+Result:
+
+A test scenario was created by Dr. Thompson and several other researchers moving through the room, displacing a series of objects on to the floor and performing various tasks such as throwing a softball or juggling for approximately 15 minutes. An electric current was applied to SCP-1042 during the recording phase. When the brick was activated for playback, 2 SCP-1042-1 entities appeared in the corners of the room. Dr. Thompson examined the projection of one closely, attempting to discern its features for study. After 3 minutes of observation, the figure turned toward Thompson and a voice was heard saying, "Please stop staring, it makes us frightfully uncomfortable." Startled, Thompson jumped away from the apparition nearly falling backwards. The figure then turned its attention back towards the recorded events.
+
+As before, upon viewing footage of the test, SCP-1042-1 did not appear nor was it heard; Dr. Thompson simply appeared to be interacting with empty space.
+
++ Show Notes on SCP-1042-1
+
++ Hide Notes on SCP-1042-1
+
+SCP-1042-1 appears as a tall humanoid figure, standing at a height of approximately 2.5 meters. Image fidelity of projections varies, but they have never been observed at the full clarity and opacity of other SCP-1042 projections. They appear to be clothed in black hooded robes. Facial features also appear to be obscured by a mask of the same sort of material. Hands are humanoid, with 5 digits, also covered in layers of black material. The exact nature of this clothing cannot be determined.
+
+These entities are seen in approximately 15% of SCP-1042 projections. 80% of these appearances consist of the figure standing motionless facing the subjects' actions. In 20% of appearances, the entities interacted with subjects indirectly, relocating objects in the general vicinity to a slightly altered position, always in a fashion that would ensure that subjects made contact with these objects. The purpose of these actions is unknown.
+
+The only occurrence of SCP-1042-1 vocalizing is the above experiment log. We are unable to determine whether the entity was interacting with researchers in real time, or had predetermined our actions and performed the appropriate response during the recording phase. Given the nature of SCP-1042-1, it is possible that it may not perceive time in a strictly linear fashion; further testing of this hypothesis is recommended.

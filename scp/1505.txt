@@ -1,0 +1,55 @@
+Field quarantined after being occupied by SCP-1505
+
+Item #: SCP-1505
+
+Object Class: Keter
+
+Special Containment Procedures: Any sightings on flocks related to SCP-1505 propagating or migrating are to be reported immediately. Mobile Task Force Lambda-4 (aka "Birdwatchers") is to be tasked with controlling the population the subsequent tracking and eradication of all duplicate specimens related to SCP-1505. All personnel assigned to SCP-1505 will need to be vaccinated against the H5N1 virus (avian influenza) and follow standard protocols for biological hazardous materials. Areas of high concentration (+1M specimens per sq.km) are to be evacuated and cleared using anti-personnel artillery shells or thermobaric missiles until at least 98% of the flock has been reduced.
+
+Should the prime specimen (SCP-1505-Alpha) be identified and located, a containment aviary is to be constructed at its respawn point where population controls can be more easily implemented.
+
+Description: SCP-1505 refers to an anomalous self-propagating time loop stemming from a single adult common raven (Corvus corax). Specimens of SCP-1505 are observed to naturally repeat within a cycle every 10 hours. At the end of the cycle, each specimen will instantly duplicate itself twice while the parent will respawn at its point of origin to begin its cycle again, repeating its behavior exactly as before. Duplicates are observed to act independently of the parent and will have different behavioral cycles. Changes to the environment or containment seem to have no effect on behavior as specimens will act out all of their motions as before regardless of what obstacle it is presented with.
+
+All specimens will repeat this cycle indefinitely until its parent specimen is either killed or is eradicated as part of a larger paradoxical reset. A direct kill is not capable of eliminating a specimen as it will instantly respawn at its point of origin upon death. Any kill will also result in resetting the specimen's cycle, effectively creating a new cycle where the specimen will behave differently than the previous cycle. In theory, if SCP-1505-Alpha is killed/reset, all subsequent duplicates should be eliminated.
+
+If left unchecked, SCP-1505 could have an overwhelmingly disastrous effect on agriculture, the environment, and civilization itself as flocks propagate exponentially. Large scale buildup of feces have lead to structural damage as the uric acid in the droppings have been observed to corrode stone, metal, and masonry over time. As with other avian species, the bacteria, fungal agents, and ectoparasites found in the droppings pose a serious health risk to humans. All specimens of SCP-1505 also appear to be carriers of the avian influenza virus.
+
++ Open SCP-1505 Test Logs
+
+- Close File
+
+Flock observed before conducting Test-1505-001
+
+Test-1505-001
+
+Subject: A flock observed to frequent a large oak tree as part of their cycle.
+
+Procedure: The tree is cut down to observe the flock’s reaction to changes in the environment.
+
+Results: All specimens are observed to position themselves in midair relative to the branches' former positions. As each specimen attempts to land, they close up their wings and fall to the ground. The surviving specimens lying on the ground are observed to behave as if they were perched on a branch, unaware that they are in fact on the ground.
+
+Test-1505-002
+
+Subject: A single specimen recently duplicated from its parent.
+
+Procedure: Specimen is captured manually and placed into a large clear acrylic box before it could fly away.
+
+Results: After its cycle completed, the specimen respawned at its point of origin producing two duplicates inside the box. After respawning the specimen appeared to struggle as if something were holding it down. 2 minutes later the specimen remained on its feet for the remainder of its cycle, never moving from its position.
+
+Test-1505-003
+
+Subject: Two specimens with established cycles.
+
+Procedure: Specimens were produced as part of Test-1505-002 and left inside the box.
+
+Results: After 3 cycles the specimens have duplicated themselves to the point of 54 individuals, effectively filling the box to maximum capacity. Only specimens belonging to the first cycle are docile while the rest are extremely agitated. During the 4th cycle, all 162 specimens are instantly crushed inside the box under their own spatial constraints. This prompted a paradoxical reset as all duplicates inside the box were eliminated. The original two specimens were then observed by themselves inside the box as in the beginning of the Test-1505-003.
+
+Test-1505-004
+
+Subject: Two specimens and a normal raven not associated with SCP-1505.
+
+Procedure: Specimens were produced as part of Test-1505-002 and left inside the box. A normal raven was then placed into the box with the other specimens to observe their reaction. The two specimens do not have established cycles yet.
+
+Results: After the raven is placed inside the box with the two specimens, it is immediately attacked and killed. It is not known what prompted this attack. Multiple reports regarding altercations involving specimens and other ravens have been corroborated by this. It is possible that the Corvus corax species may be threatened.
+
+Addendum-001: Based on the results of Test-1505-004, efforts are currently underway to identify and capture ravens that are not associated with SCP-1505. Computer algorithm projections based on SCP-1505's rate of propagation indicate that the Corvus corax species may already be extinct or near extinction. Any captured ravens are to be relocated to the nearest Foundation controlled aviary to be kept in isolated captivity. This is to ensure the preservation of the species if possible. To date, only 61 ravens have been recovered from existing civilian aviaries.

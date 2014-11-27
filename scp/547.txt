@@ -1,0 +1,147 @@
+Item #: SCP-547
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-547 is to be stored inside a plain black envelope which in turn is to be stored in the security deposit box located in Dr ██████’s office. No Foundation employee is to access SCP-547 without Dr ██████’s consent, and SCP-547 itself should only be handled by test subjects. Please note that any persons exposed to SCP-547's effects are subject to class D status.
+
+Description: SCP-547 is an off-white standard size business card (85 mm x 55 mm) for ███████ ██████, a licensed hypnotherapist from ███████████, UK. The front of the card is unremarkable and inert. On the reverse, the phrase “Je pense donc…?” is written in black ball-point pen. The modified side of SCP-547 is a cognitohazard and should be treated with the relevant precautions.
+
+In all cases, reading and understanding the phrase has ultimately resulted in a complete loss of personality, and a greatly reduced awareness of self. Test subjects have been able to perform most basic tasks, and nearly all are still capable of speech. Subjects are, however, incapable of any subjective thought and emotion beyond the rational and immediate. The effects of SCP-547 are degenerative, with full manifestation occurring approximately ten weeks after exposure. Several stages have been observed:
+
+Exposure- 1 week: No substantial change in personality. Subjects may occasionally forget personal details or answer to a name other than their own.
+
+1-6 weeks: Subjects begin to show confusion as to their own identity and key facts regarding their lives. See interview SCP-547-A for further details.
+
+6-9 weeks: Subjects begin to regress towards final stage of infection. Mannerisms and turns of phrase associated with subject begin to disappear and speech begins to lack inflection and emotion.
+
+10 weeks and beyond: Psychological and cognitive effects previously described are fully manifest. See interview SCP-547-B for further details.
+
++ Interview SCP-547-A
+
+- Interview SCP-547-A
+
+Subject D-547-Tau is a Caucasian male aged 35. Time since exposure to SCP-547: 5 weeks 2 days.
+
+Dr ██████: Good morning, subject Tau, I’m Dr ██████. Records say your name is ████ █████████. Is that correct?
+
+D-547-Tau: It is.
+
+█: Very good. Tell me a little bit about yourself, ████.
+
+D: Where should I start?
+
+█: Well, how about a little regarding your early life? Any happy memories?
+
+D: Oh yes. Every summer, my parents used to rent this place in Maine. I loved it there. Sandy beaches, those quaint little lighthouses. Lobster dinners. I remember my mom telling me, “Henry, if th-“
+
+█: Hang on, can I stop you there? Why did your mother refer to you as Henry?
+
+D: Because that’s my name.
+
+█: You confirmed your name as ████ █████████ 30 seconds ago.
+
+D: I did? I-
+
+█: Please, continue.
+
+D: Like I was saying, my mom always said, “Marcus, if there ever was a paradise here on earth this would be it.” Man, I loved that clean air, all that green. Nothing like BC in the spring.
+
+█: British Columbia?
+
+D: Only BC I know of.
+
+█: Tell me about your parents.
+
+D: Decent people. Both came from █████████, Kentucky. Born and raised. My Dad loved his bikes, named me after one. Got some ribbing at school for that, Harley ain’t all that common a name you know. He was a good man though, loved his pa. Says leaving him at the boarding gate back in ██████ was the saddest day of his life, but a man’s got to make his own way in the world I guess.
+
+█: So he emigrated from ██████?
+
+D: Yes.
+
+█: But he was born in Kentucky?
+
+D: That’s right.
+
+█: Would you mind confirming your name and the last place you lived please?
+
+D: Jacob Maddox, Austin, Texas.
+
+█: And again?
+
+D: Paul Jones. I’m from Cardiff. It’s in the UK in-
+
+█: Again.
+
+D: David Pollock, Birdseye, Utah, I don’t understand why you’re asking, I’ve already told you-
+
+█: Again.
+
+[REMAINDER OF INTERVIEW CLASSIFIED. O5 CLEARANCE REQUIRED]
+
++ Interview SCP-547-B
+
+- Interview SCP-547-B
+
+Fourth interview with SCP-547-Tau. Twelve weeks since exposure.
+
+Dr. ██████: Good morning, Tau
+
+D-SCP-547-Tau: Good morning.
+
+█: I’d like to perform some tests today. Please follow the written directions on the sheet in front of you. You have fifteen minutes.
+
+Subject Tau performs several tests, designed to highlight any loss in cognitive function. Results are negative.
+
+█: Good. Now I’m going to show you a few pictures. Can you tell me what this is?
+
+D: Blue sky with clouds.
+
+█: What do you think of it?
+
+D: I think- I think- I don’t know
+
+█: How about this one?
+
+D: It’s a man. He’s dead. His throat’s been cut.
+
+█:: Any thoughts on this? You used to hate this picture.
+
+D: It's an image of a dead human printed on photograph quality paper. High gloss.
+
+█: Not quite what I was getting at. You have no opinion of it whatsoever?
+
+D: No.
+
+█: Moving on then. According to your profile, you suffered from arachnophobia.
+
+Dr ██████ releases a large, but otherwise unremarkable house spider onto subject Tau’s arm. Heart rate does not rise above 65 bpm.
+
+█: Nothing? It’s been 3 weeks since I’ve been able to elicit any sort of human response from you. Let’s try something else. Do you know what this is?
+
+D: A blowtorch.
+
+Dr ██████ activates blowtorch and moves it towards Tau’s arm, causing subject to flinch. Tau’s heart rate jumps to 135 bpm.
+
+█: Hm.
+
+[REMAINDER OF INTERVIEW CLASSIFIED. O5 CLEARANCE REQUIRED]
+
+From: Dr ██████ ██████
+
+To: O5-█
+
+Subject: SCP-547
+
+In response to your previous email, subjects are unable to recall any previous experiences in an emotional context, and are completely incapable of subjective thought. I would like to suggest that due to their predictable behaviour, subjects exposed to SCP-547 would make perfect control groups for any other psychohazards or cognitohazards we may encounter.
+
+Regards,
+
+██████
+
+From: O5-█
+
+To: Dr ██████ ██████
+
+Subject: Re- SCP-547
+
+I would like subjects D-547- Alpha through Gamma prepped for transport by 0700 tomorrow. You can expect more requests of this nature in the future.

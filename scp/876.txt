@@ -1,0 +1,33 @@
+Samples extracted from SCP-876-52
+
+Item #: SCP-876
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-876-1 through SCP-876-83, excluding SCP-876-43 and SCP-876-61, (known collectively as Group A) are to be kept in a standard large storage container, with two locks. Access to one key is enabled by Level 2 and higher personnel. The second is only available to Level 3 or higher personnel to prevent accidental abuse.
+
+Information as to the location of SCP-876-84 through SCP-876-121, SCP-876-43, and SCP-876-61, (known collectively as Group B) is only accessible to Level 4 or higher. Class B amnesiac must be given when business regarding Group B is complete. Each bottle in Group B must have its own containment cell, with individual keys. The containment site has 1.5 meter-thick walls of lead.
+
+All bottles, whether Group A or Group B, must have their numbers indicated. Labels cannot be placed on the bottles.
+
+Description: SCP-876 is a group of traditional pill bottles, label [DATA EXPUNGED]. The bottles are visually identical. If one is damaged, relabeled, or otherwise altered, it will revert to the usual form in █ seconds. If any of the containers becomes empty, one capsule pill will appear inside of it. The pill will be two different colors, but the coloration is always the same for each bottle—for example, SCP-876-2 always forms ███ and ██████ samples.
+
+Colors observed are red, transparent, orange, blue, green, white, black, violet, yellow, gray, and [REDACTED].
+
+When one pill is swallowed, no ill effects are observed. When a second pill is swallowed, however, an unknown procedure instantaneously converts all atoms of one element in the user's body to that of another, determined by the colors of the pills and the order ingested. This usually causes a catastrophic reaction (See Experiment Log 876). The second pill will cause this effect regardless of time elapsed. For transparent capsules, a small sample of the element in question can be observed inside, excepting radioactive elements—in those cases, there is no sample.
+
+Analysis has shown the colors to follow a simple pattern. If the atomic number (number of protons) for the corresponding element is divided by 11, and the remainder taken, one can match up the quotient and the remainder to two colors. For example, a remainder of 6 will invariably have a purple-sided pill. Therefore, purple means "6".
+
+Refer to the table to determine which number means which color:
+
+[DATA TABLE EXPUNGED]
+
+Unfortunately, a red-and-white pill is indistinguishable from a white-and-red pill. For this reason, it must be recorded which of the bottles the pill came from.
+
+When replacement occurs, the new molecules are usually highly unstable. Spontaneous combustion is common. For combinations that avoid this problem (nitrogen to phosphorus, for example), death is immediate due to complete body chemistry failure.
+
+In rare cases, the effects are beneficial, but this is always because of the replacement of elemental toxins.
+
+The newly formed element always has the most stable number of neutrons: uranium extracted from test subject cadavers is entirely depleted.
+
+Addendum: See Experiment Log 876.

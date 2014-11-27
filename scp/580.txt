@@ -1,0 +1,25 @@
+Item #: SCP-580
+
+Object Class: (Keter) Due to a review of current documentation as of January 5, 2009, this SCP has been reclassified as Euclid.
+
+Special Containment Procedures: Due to the nature of SCP-580 and the environment that it is normally found in, the following protocols are to be observed at all times of contact. Note that this document covers both the item itself (hereafter referred to as SCP 580–01) and the crew found inside (SCP 580–02).
+
+At least one Foundation Agent who is fluent in Mandarin and is of obvious Chinese descent must be present; during an emergency, the former requirement is of higher priority. (For the purposes of this document, this person shall be referred to as the Contact Leader.) All communication occurring between the Foundation team and SCP 580–02 must go through the Contact Leader, as SCP-580-02 will not respond to any other interaction.
+
+Communication must be kept at a non-hostile level; no aggression must be displayed by the contact team at any time. The Contact Leader must state their team’s current mission and agenda as truthfully as possible, both conscious and unconsciously (i.e. body language, stress indicators).
+
+The team must apologize for “Interfering with a military operation on Imperial territory” and state that they are leaving immediately. If in doubt, the Contact Leader may ask for directions to the nearest “neutral area” from any member of SCP-580-02’s group, preferably the one that they interacted with the most. Care must be taken that the team give the impression that they are leaving immediately; further contact with SCP-580 within a 24 hour period from departure is not recommended due to prior hostile behavior at such actions.
+
+Should hostilities commence, the Foundation Team is to leave the area immediately and attempt evasive maneuvers. Reentry into Earth’s atmosphere is permitted as a last resort, should it be necessary.
+
+Interaction with SCP–580 is to be strictly logged and forwarded to Dr. Kamen as soon as possible for analysis. Priority is to be given to any deviations in the protocols listed therein and the results thereof, should any present itself.
+
+Description: SCP–580-01 is a silk and wood zeppelin ostensibly constructed during the reign of Shi Huang Ti in China. The flight component has a dragon and phoenix painted in bright green, silver and gold on its side, while the deck seems to be made out of an unidentified hardwood. The deck itself has no visible weapons, although 8 cannon slots have been identified on both sides. SCP-580-01 seems to have taken no damage from either weapons or environmental hazards present in space, although it does show the standard wear and tear that can be found if such a craft were present in atmospheric conditions. There seems to be no visible means of propulsion from the outside of the ship; records unearthed in archaeological dig sites ██████, ██████ and ██████ have failed to provide any clues regarding this matter.
+
+SCP-580 can be found once one passes the moon; previous encounters (see Data File ███████) show that the crew of SCP-580-01 consider the moon as the boundary of “Imperial territory” and do not venture past that point towards Earth. So far, rough calculations show that one may encounter SCP-580 in the area between the moon and the sun; based on anecdotal evidence, it appears that SCP-580 was commissioned to journey to the sun under orders of Shi Huang Ti. Whether it was for a military expedition or a petitioner’s journey remains unclear so far.
+
+Records retrieved from the dig sites show incomplete plans for SCP-580-01; some pages and notes are missing, apparently from fire or natural causes. However, these plans show that there are compartments in SCP-580-01 that are unrelated to sailing or cargo transport; the notes on these sections indicate some kind of necromantic purpose intended for it, though details are currently unclear.
+
+SCP-580-01 is crewed with approximately 40 terra-cotta warriors, similar to those found in Shi Huang Ti’s tomb and the Terra Cotta army of lore. Each one is a mechanical golem that has shown skill with various ancient Chinese martial arts weapons and unarmed combat. They are armed with the standard weaponry for soldiers for their original time period: short sword, spear, and repeating crossbow. They do not communicate unless spoken to, and refuse to attack unless they are provoked first; in addition, they have shown skill at seamanship and minor maintenance functions for SCP-580-01. Present among the crew are four (4) officer warriors, who seem to lead the crew and determine interaction with outside parties. It is currently unclear which one of the four is the leader, as they are all identical in appearance.
+
+Addendum: Reference Documents ████████, ████████, and █████████, as well as Data File ███████ are currently awaiting declassification, pending approval from Dr. Kamen.

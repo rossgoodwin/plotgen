@@ -1,0 +1,33 @@
+Item #: SCP-1701
+
+Object Class: Safe
+
+Special Containment Procedures: Site-82 has been constructed directly above SCP-1701, with the express purpose of cataloging as much data about the SCP-1701 cave system as possible before further erosion events render the information it contains inaccessible, and to prevent the adverse effects of local mining operations on its stability. Observation and exploration of SCP-1701 is to be performed by untethered, small-scale remote drones, to avoid causing further damage to the structures of the object.
+
+Description: SCP-1701 is the remains of a colony of naturally-occurring nuclear reactors which, for a brief period during the Paleoproterozoic era (approx. 1700Ma), gained sapience and later became extinct. The SCP-1701 cave system is located ███m below the surface in ████, Gabon, and is accessible via a closed branch of the ████ uranium mine. Though the full extent of the cave system has not been mapped due to its structural fragility, radar imaging reveals that it is approximately 20 km3 in volume and comprises at least 31 instances of SCP-1701-1/2. The caves are currently filled with fresh groundwater, inhabited by colonies of cyanobacteria which appear to be descendants of SCP-1701-2.
+
+SCP-1701-1/2 refers to the fluidic/biological nuclear intelligences which inhabited SCP-1701. Composed of extremely fine lattices of highly compacted uranium-235, designated SCP-1701-1, inhabited by colonies of radiation-resistant SCP-1701-2 extremophile cyanobacteria, SCP-1701-1/2 apparently achieved some form of computing intelligence, derived from the movement of water through the 235U matrices via convection currents and the motion of SCP-1701-2 colonies. SCP-1701-1/2 instances, referred to in their own language as "Warmth Occupying Volume", were aware of the presence of other instances through the effects their presence had on ambient heat and water currents, and developed a "spoken" language based on current pressure and temperature regulation.
+
+SCP-1701-1/2's only way of physically interacting with the cave was the use of continuous current to slowly wear regular patterns in stone, a means by which they encoded their knowledge. The vast majority of SCP-1701-1/2 interactions recorded in SCP-1701 appear to have been analogous to philosophical dialogues, or discussions on the nature of SCP-1701-1/2 society. The written language of SCP-1701-1/2 was initially considered untranslatable, until the discovery of SCP-1701-1/2-CARV-1, a section of writing which appears to be a derivation of the mathematical patterns underlying the SCP-1701-1/2 language, beginning with a simple definition of their base-16 number system and working its way up to more abstract concepts. While this has made comprehension of the language possible, researchers are reminded that all SCP-1701-1/2 translations are at best simple closest-fit approximations to complex mathematical symbols and relationships, and cannot be considered totally reliable. Many of the original records appear to have been destroyed over time via friction and erosion from the cyanobacteria colonies.
+
+Document SCP-1701-1/2-CARV-357c:
+
+What follows is an approximate translation of a fragmentary discussion between SCP-1701-1/2-3 ("Colder-than-others") and SCP-1701-1/2-4 ("Rushes-Downwards-To-Stillness"). The tone and language of the discussion is typical of other SCP-1701-1/2 dialogues. Comparative wear patterns reveal that the dialogue was recorded over a period of nearly 500 years, giving some idea of the relative timescale of SCP-1701-1/2 intelligence.
+
+… Upper Turbulence [period of time? Era? Year?], forty-fifth cycle of liquid recirculation. Made permanent in the universe by Think-at-the-World [probably SCP-1701-1/2-6]
+
+[…]
+
+Colder-than-others: You claim that you do not know that I exist. How is this so? Do I not communicate with you? Do my currents not co-mingle with your [warmth/mind/body], that my thoughts might become yours?
+
+Rushes-Downwards-to-Stillness: You interact with my [warmth/mind/body], but how can I be sure that you exist? I sense you, but the turbulence and flow and heat are distinct from my thoughts. In my sense, I can be certain of your existence, but I cannot be certain in my thoughts that you are present.
+
+C: Does not your [warmth/mind/body] come to know me through your mind? Surely, to sense me is to be aware of my existence. It would seem to me that, in your [thoughts? thinking?], you would regard the entire world as being [bubbles? Air-pockets?] of nonexistence, a mere [air-pocket, probably illusion or dream] of your own [warmth/mind/body].
+
+R: Precisely. My senses tell me that I exist, along with you and all the other [Heat], be they [close, lit. strong flow of current] or [far, lit. weak flow of current], surrounded by the water, which is bound by the slowly-destroyable universe. However, in the same way that I can [touch/speak] you a cold current when my true meaning is warm, so too can my senses and [warmth/mind/body] deceive my thoughts.
+
+C: I understand. It seems to me that your thesis is remarkably [non-flowing?]. You give credit only to your own thoughts, and deny the truth of the [warmth/mind/body] of yourself and others.
+
+R: The only truth I truly know is that my thoughts are.
+
+Later SCP-1701-1/2 records indicate that their society began to collapse as SCP-1701-1 structures became more efficient and intricate over time. Computer simulations based off the remains of SCP-1701-1/2 indicate that, after a certain level of lattice complexity, the motion of fluid through SCP-1701-1 would induce destructive sympathetic oscillations, leading to the eventual collapse of any SCP-1701-1/2 configuration beyond a certain level of intelligence. Dialogues and records from the later period of SCP-1701 habitation take on an increasingly negative and nihilistic tone, apparently as SCP-1701-1/2 instances began to fail, with increasing reference to a word which approximates the concept of entropy/air-pocket, or the slow decay towards non-existence.

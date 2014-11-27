@@ -1,0 +1,39 @@
+SCP-224
+
+Item #: SCP-224
+
+Object Class: Euclid
+
+Special Containment Procedures: Item SCP-224 is to be stored in a soundproof enclosure with acoustic destructive interference nodes. Nodes must be replaced on a weekly basis by remote means due to the erratic nature of SCP-224’s effect; non Class-D personnel are not to enter the enclosure. Additionally, SCP-224’s enclosure must be kept free from moisture to avoid rapid oxidation.
+
+In the event that the clock begins to chime, all personnel must evacuate the area, and the location should be secured following procedure Zeit 77.
+
+Description: SCP-224 is a wooden grandfather clock, accented with a black lacquer and gold leaf. Markings remotely observed date its origin at the end of the 19th century. Though internal examination of its components has been done, the density and construction of its gears make method of function impossible to interpret.
+
+The hands of the clock do not move with any known consistency, though the tendency seems to be generally clockwise. Additionally, chimes occur at non-regular intervals, ranging from approximately one minute to several months. To further complicate matters, the numbers on the clock also have a tendency to move and shift, though they generally retain ascending order.
+
+Each chime has an anomalous acoustic signature that causes a drastic localized temporal acceleration. People and objects in range of the sound begin to age. The amount of time is not consistent with the chimes, ranging from essentially inconsequential amounts to several years, though the amount aged during any single event is consistent for all objects within the field of effect.
+
+SCP-224 was originally found in the ████ ████ Antique Shop and purchased by Mr. ████ ██████████ as a gift for his wife. When brought home and wound, the anomalous properties were noticed, though not acted upon, both apparently considering the object broken. Their bodies were discovered in their collapsed house two days later, aged significantly. Foundation personnel monitoring ██████ took interest, and SCP-224 was subsequently recovered. Agents ███████ and █████ were unfortunately lost following exposure during transportation.
+
+Any instances of SCP-224 retaining any numeric pattern for an extended period should be reported to Dr. Simmons Dr. Locke. Failure to do so will result in suspension and possible demotion.
+
+Addendum SCP-224, Cataloged Incidents:
+
+Due to repeated errors on the part of the maintenance crews working on containment for SCP-224, Dr. Simmons insisted that the following report be spread among the onsite work crews to fully stress the importance of SCP-224’s containment. After its circulation, it was added to the primary case file for historical purposes.
+
+Today, I had the pleasure of informing Agent ███████ that he is to be given retirement pay and is free to leave active duty as of this evening. It was not initially approved by Director ██████ until I explained the circumstances.
+
+Agent ███████, who is the father of Alice ███████ and husband of Merilee ███████, was walking past the SCP-224 containment facility on Friday, March 17, 198█. He was reporting to his supervisor’s office to deliver the final report on SCP-███, which he was instrumental in helping acquire. Because SCP-224’s effect is so unpredictable, he had no way of knowing that the object had activated until the acoustic dampening equipment failed, leading to the collapse of the wall. At this time, Agent ███████ was exposed to seven iterations of SCP-224’s effect.
+
+The first one saw him age into his mid-thirties. Those of you who have seen the video are aware that this wasn't a drastic change. However, by the second exposure, he was now well into his forties. There was significant graying of hair. By the third iteration, he was balding, and we estimate his age reached into the early sixties. By the fourth, his skin had noticeably wrinkled, with liver spots appearing in several places.
+
+By the sixth iteration, Agent ███████ collapsed due to a broken hip, fracturing several ribs and his left arm. It was at this time that he lost control of his bowels and bladder. When the seven iteration ended, containment had to be manually reestablished. At this time, Agent ███████ is estimated to be over a hundred years old.
+
+As a note, Agent ███████ volunteered for termination and examination of SCP-224’s effects, should the retirement pay he was now technically entitled to be rewarded to his family. I heartily thank Director ██████ and Agent ███████ for giving us this opportunity to study SCP-224’s effect. I hope you’ll remember in the future that, while some SCP’s kill immediately, others do not. Others leave lingering effects that have ramifications for the people—and the families of the people—who are subjected to them.
+
+Dr. Rasmussen was down the hall from Agent ███████. He is now a thirty-five year old man in an elderly body. Assistant Researcher Jessup, who was pregnant when she was exposed in the same incident, died when her child was forced through her abdomen. Her son is a forty year old man with the mind of an infant. Dr. Quinn's undiagnosed case of bladder cancer consumed his entire abdomen in a matter of moments.
+
+Please keep these incidents in mind before failing to replace the "perfectly fine" acoustic nodes in the containment enclosure.
+
+Dr. J. Simmons, Head of Containment, SCP-224

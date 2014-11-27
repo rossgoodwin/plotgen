@@ -1,0 +1,135 @@
+SCP-1157-1
+
+Item #: SCP-1157
+
+Object Class: Keter
+
+Special Containment Procedures: All instances of SCP-1157 are to be kept in separate 3m x 2m x 3m quarters connected to a secure common area in Sector-07. Curfew is to be enforced at 11pm EST every evening until 6am the following morning. Security must consist of 12 armed guards trained in crowd suppression. SCP-1157-1 is to be kept in isolated quarters not connected to the main containment area.
+
+All staff working directly with any instance of SCP-1157 are to maintain the highest level of information security. No mention is to be made of Foundation staff names, project information, or containment procedures within the SCP-1157 containment area. Verbal communication with SCP-1157 is to be kept to an absolute minimum unless authorized by Dr. Torres. No clothing or equipment used when interacting with SCP-1157 can contain any identifying information. Personnel, including members of MTF Gamma-7, are instructed to carry only digitally encrypted forms of identification when involved in containment or study of SCP-1157.
+
+Mobile Task Force Gamma-7 "Pied Pipers" has been formed to track down and detain any un-contained instances of SCP-1157. Basic information, photographs, fingerprints and DNA samples from SCP-1157 have been distributed to major law enforcement organizations. Coordination with local government and other MTF units will be approved on a case by case basis. Lethal force has been authorized as a last resort.
+
+During a bifurcation event, SCP-1157 personnel are to initiate Protocol-G7 before wake up call.
+
+Description: SCP-1157 is a Caucasian male with brown hair and blue eyes. The subject's anomalous nature was first discovered when an instance of SCP-1157, designated SCP-1157-1, surrendered to the local police in ███████, AZ, claiming to be a member of a terrorist cell. When a bifurcation event occurred while SCP-1157 was in police custody the subject was brought to the attention of the Foundation and transferred to Sector-07 for containment and study.
+
+At intervals of approximately 4 weeks all instances of SCP-1157 will undergo a simultaneous bifurcation event at 3:08AM EST. While SCP-1157 sleeps each subject will split into two identical instances. The event is accompanied by a burst of light and energy which disables any recording devices. Any clothing or other items worn by SCP-1157 will be deposited on the bed underneath the subjects.
+
+Protocol-G7 is to be enacted immediately after every bifurcation event. The containment area is to be flooded with a gaseous sedative. A security team equipped with gas masks must enter the containment quarters and remove one of each resulting subject pairs for euthanasia, study and disposal.
+
+SCP-1157 displays a limited form of shared consciousness. While each instance exhibits their own personality and can make individual choices they also experience the surface thoughts and impulses of all other instances.
+
+Based on subject interviews, at the time of SCP-1157's initial detention at least 5 bifurcation events had already occurred. During containment there have been 3 observed events. To the best estimation the current status of SCP-1157 is as follows:
+
+32 instances contained.
+
+34 instances confirmed deceased.
+
+45 instances euthanized during containment.
+
+86 instances unaccounted for.
+
+Addendum 1:
+
+SCP-1157-1 Interview
+
+Hide SCP-1157-1 Interview
+
+Interviewed: SCP-1157-1/1
+
+Interviewer: Dr. Torres
+
+Foreword: Following initial containment, the 2 instances of SCP-1157-1 were separated and individually questioned.
+
+<Begin Log, 06/18/20██ - 3:45PM EST>
+
+Dr. Torres: Can you explain the nature of your condition, please.
+
+SCP-1157-1: I go to sleep, and when I wake up there's one more of me.
+
+Dr. Torres: And this has happened before?
+
+SCP-1157-1: A few times. Last week makes five. There's thirty-two of me now…No…I will not…
+
+Dr. Torres: Is something wrong?
+
+SCP-1157-1: Heh. They can hear us, you know, the rest. <Subject smiles> They're not happy with me.
+
+Dr. Torres: You can hear them all?
+
+SCP-1157-1: Yes. A bunch of scared bullies shouting in my ear. I saw what they did. I saw what I was becoming…No…Not me. You. I made a choice! <Subject shuts eyes, breathes deeply> I'm sorry. There's a lot of them now. It's overwhelming sometimes.
+
+Dr. Torres: I can imagine. Would you like some time alone?
+
+SCP-1157-1: <Subject laughs>
+
+Dr. Torres: Oh. Right. My apologies.
+
+<End Log>
+
+Closing Statement: Despite being in a separate sound proof interview room, SCP-1157-1/2 was able to repeat the conversation verbatim.
+
+Addendum 2: Incident Reports
+
+Report 1157/1
+
+Hide Report 1157/1
+
+Agent Thomas - Mobile Task Force Gamma-7 Leader
+
+06/21/20██
+
+Utilizing intelligence gathered from SCP-1157-1 interviews, MTF Gamma-7 successfully located and detained 3 more instances of SCP-1157 before they could go into hiding. However, operations for the next several weeks turned up only empty apartments and dead ends. SCP-1157-1's usefulness has diminished rapidly as other instances are now aware of his cooperation and are providing deceptive intelligence.
+
+Report 1157/2
+
+Hide Report 1157/2
+
+Dr. Torres - SCP-1157 Head Researcher
+
+07/10/20██
+
+Following a second bifurcation event SCP-1157-1, now consisting of 4 separate instances, showed increasing signs of distress. An argument over SCP-1157-1's complicity in Foundation activities resulted in a physical altercation and the death of the subject advocating against cooperation. All instances of SCP-1157-1 have been put into indefinite sedation to avoid mental coercion by the growing collective.
+
+Report 1157/3
+
+Hide Report 1157/3
+
+Agent Thomas - Mobile Task Force Gamma-7 Leader
+
+07/14/20██
+
+Intercepting e-mail correspondence between loose SCP-1157 allowed us to locate a safe house used by numerous subjects. MTF Gamma-7 was met with small-arms fire upon engagement, forced to terminate 2 instances, captured 7. Computers and correspondence found on the property indicate that SCP-1157 is aware that an organization is tracking them, but they have no knowledge of the Foundation itself. Requesting a clean-up team to scour the property for any other evidence of SCP-1157 activities.
+
+Report 1157/4
+
+Hide Report 1157/4
+
+Dr. Torres - SCP-1157 Head Researcher
+
+08/22/20██
+
+Interviews with instances of SCP-1157 reveal a narcissistic personality and increasing distrust and contempt for anyone that is not SCP-1157. Subjects have also shown increasingly skillful attempts at tricking researchers into revealing sensitive information. Outside of SCP-1157-1 the subject remains uncooperative.
+
+Report 1157/5
+
+Hide Report 1157/5
+
+Agent Wilson - Mobile Task Force Gamma-7 Lieutenant
+
+08/29/20██
+
+Agent Thomas was lost in our latest engagement with SCP-1157, along with 2 other Gamma-7 members. The bastards have spent the last month training and stockpiling weapons. The warehouse we tracked a subject to held enough SCP-1157 to outnumber us 3-to-1, all armed. Even after capturing 16 and killing 31 there are likely even more SCP-1157 unaccounted for now than there were when we first discovered them. I'm submitting a request for at least a tripling of Gamma-7's numbers and resources. If we don't lock this down in the next month or two we're going to start seeing these guys on every street corner.
+
+Report 1157/6
+
+Hide Report 1157/6
+
+Dr. Torres - SCP-1157 Head Researcher
+
+09/22/20██
+
+The contained instances of SCP-1157 attempted a riot to break out of Sector-07 immediately following a bifurcation event. Using their increased numbers SCP-1157 assaulted the Protocol-G7 team. Reinforcements allowed security to resolve the situation, at which point Protocol-G7 was completed without further incident. Containment procedures were revised and SCP-1157 were restricted to individual quarters for one week. 5 days later each instance of SCP-1157 carved the following into the wall of their quarters: "You cannot contain me. Should one escape your grasp thousands will arise within the year."
+
+O5 Memo: Requests to have contained instances of SCP-1157 reduced in number denied. Our sedated instances of SCP-1157-1 continue to increase in number. If Gamma-7 can sufficiently reduce the number of militant instances we may soon have a sympathetic majority capable of converting the rest. Until that point we want SCP-1157 to believe they have the upper hand. - O5-██

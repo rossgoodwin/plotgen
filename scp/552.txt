@@ -1,0 +1,27 @@
+Item #: SCP-552
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-552 is to be contained in a room furnished as standard living quarters. All furniture is to be padded and bolted into place to prevent accidental collisions. Reading material may be provided at the subject’s request, but any discussion of current events is to be censored. A screen is to play time-delayed security footage of the subject’s containment facility to enable communication. The time delay should be updated once a week to keep pace with the subject’s progressing condition.
+
+SCP-552 is to be gagged and kept in full body restraints to prevent self-harm. It is not to be stored in any facility containing other SCPs or transported through any populated areas.
+
+Description: SCP-552 is a middle-aged human male. The subject’s sensory systems display an anomalous temporal distortion: it cannot perceive its surroundings as they currently are, but only as they will be in the near future. SCP-552 is otherwise physically unremarkable. The subject's physical form can be interacted with normally, but its reactions to any interaction will have already occurred. It is fully cognizant of its condition, and will sometimes attempt to time its reactions to interact normally with researchers.
+
+The subject’s temporal distortion has grown more pronounced over time. When first secured by the Foundation in 19██, it perceived events slightly under one second into the future. Within a year, the subject was noted responding to questions two seconds before they were asked. The temporal distortion has widened at an accelerating rate since then, reaching an 18-month gap after 10 years of containment.
+
+The subject’s predictive capabilities are substantial but not flawless. When a paradoxical situation is presented to SCP-552, in which researchers deliberately defy its predictions, it will experience memory loss regarding the predicted event. SCP-552 has requested the Foundation stop creating paradoxes in this manner, as they cause the subject severe migraines.
+
+The subject’s premature reactions to alarms have proven a reliable forewarning of containment breaches, enabling a heightened level of readiness and minimized loss of life.
+
+Addendum 552-1: At 12:45 on ██/██/████, SCP-552 became extremely agitated, spending 12 minutes thrashing and shouting at Dr. ████ and "Dr. ██████", though the former was not present and no researcher by the latter name is in the Foundation's employ. During this period, it repeatedly insisted that it was fine, and to get away from it. It then collapsed, stiffened, and continued making incoherent cries. Further communication proved impossible: though analysis of the subject’s physical condition revealed no changes, it remained incapable of anything more coherent than grunts and moans, and either cannot or will not move its limbs from a stiffened position. It has remained in some variation of this state ever since. Temporal distortion at the time was estimated at 4 years, 2 months, and 12 days, suggesting that the subject is experiencing an event starting on ██/██/████.
+
+Addendum 552-2: On ██/██/████, shortly before the predicted cause of the subject’s incapacitation, it unstiffened and regained mobility in its limbs for the first time in 4 years. Shortly thereafter the subject began screaming in apparent agony and frantically clawing at itself. After renewed attempts at communication proved fruitless, SCP-552 was physically restrained in a straitjacket and gag to prevent self-harm.1 Since then, SCP-552 has continued attempting to scream and scrape off its own flesh without any kind of pause, including pauses for necessary functions such as eating or sleeping.
+
+It is believed that the subject’s “stiff phase” was due to it experiencing being confined to a straitjacket 4 years before the straitjacket became necessary. It is unknown what experience is reflected by its sudden pain and impulse towards self-harm. Due to the possibility that it is reacting to a future anomalous event, possibly caused by a containment breach, it has been moved to Site 109, away from any other SCPs.
+
+Please be very careful to keep SCP-552 alive, at least until we figure out why he's screaming. If he dies in the next 6-10 years, I don't like the implications. —Site Director Prell
+
+Footnotes
+
+1. The researchers present for this were, as expected, Dr. ████ and the recently hired Dr. ██████.

@@ -1,0 +1,41 @@
+SCP-693-3B
+
+Item #: SCP-693
+
+Object Class: Euclid
+
+Special Containment Procedures: As all instances of SCP-693 are considered Safe, Researchers involved in testing may keep any instance of SCP-693 in their office. After Incident 693/A/050, all instances of SCP-693 are to be returned to regulation containment locker 12C-K when not in use.
+
+As of Incident 693/E, all instances of SCP-693 have been reclassified as Euclid. As such, each instance of SCP-693 is to be contained in a separate steel containment box, measuring 25 cm x 25 cm x 25 cm. Each containment box is still to be stored inside regulation containment locker 12C-K.
+
+When testing on SCP-693, it is imperative that only hair from the head of the subject be used. At no point should any researcher directly access SCP-693 when it is in an attuned state. All hair should be removed from SCP-693 by the D-Class involved in its testing before it is returned to researchers.
+
+Description: SCP-693 is a series of 18 cm humanoid dolls, each one made from a single strand of string, with beads of onyx for eyes. Several instances of SCP-693 have varied forms of clothing, from string shirts or pants to cloth headbands and hats. The clothing appears to have no effect on the properties of the doll. New instances of SCP-693 are found with an instruction sheet attached, the contents of which are detailed in Addendum 693/A.
+
+SCP-693 reacts as a normal string doll until such a time as a piece of hair from the head of a still living human being is placed in a loop of its string, a process referred to as attunement. (For reactions to having hair from a deceased individual used, please see Addendum 693/B.) At this point, the doll begins to move of its own volition, portraying the current actions of whoever it is attuned to. SCP-693 also projects all statements made by said individual, as if it were them. The doll reliably portrays all actions and speech of the attuned individual for a period of nine days.
+
+After nine days, the SCP becomes unreliable in both actions and speech. Depending on the color of base string, the doll will seek to drive its current owner (owner in this case referring to whomever placed the hair in the doll, not the attuned individual) to his death, by inaccurately depicting the actions of its attuned individual. Colors and actions are as follows:
+
+Red- Seeks to anger its owner into increasingly violent fits of rage.
+
+Blue- Seeks to send its owner into bouts of depression, leading to suicide.
+
+Yellow- Encourages its owner to engage in acts of un-reciprocated lust.
+
+Black- Encourages its owner into increasingly dangerous situations.
+
+If an instance of SCP-693 is successful in causing the death of its owner, a new instance of SCP-693 will be found on the owners' body.
+
+The Foundation currently has in containment seven red instances, ten blue instances, five yellow instances and one black instance.
+
+Addendum 693/A: Transcript of Included Instructions: "Congratulations on your purchase of a genuine Knotty Stalker! Do you love someone, but they won't give you the time of day? Do you wish you could hear what they say about you behind their back? Well wonder no more! Using this fantabulous product, you can keep track of your loved ones' every move, their every word! All you have to do is get a single hair from the head of the object of your desires, slip it under a loose string on our Knotty Stalker, and see what you're missing! Another wonderful product brought to you by The Factory."
+
+Addendum 693/B: Concerning the use of hair from a deceased subject: When hair from a deceased subject is used to attune an instance of SCP-693, the doll no longer passively represents actions taken by the attuned. Instead, SCP-693 purports to be the deceased, acting as a guide to the owner. Again, at the nine day mark, SCP-693 becomes unreliable, attempting to ensure the death of its owner.
+
+Incident 693/A/050: On ██/██/████, Director G█████ left two instances of SCP-693 in his office. Director G█████ had recently been the recipient of SCP-050. An hour after leaving his office, the Director was summoned back by security due to a smoke alarm being triggered inside his office. Upon entering, the Director found SCP-050 on his desk, beside an ashtray which was found to hold the ashes of both instances of SCP-693. The ashes had been crafted to spell 'You're Welcome.' As of this Incident, instances of SCP-693 are not allowed to be left in researchers personal space.
+
+Incident 693/E: On ██/██/████, Junior Researcher West returned an instance of SCP-693 to the proper containment locker. West had failed to properly remove the hair from the doll. When the locker was next open, all instance of SCP-693 within were gathered around the attuned doll. Said doll had been crucified upside down against the wall of the locker. It is unknown where the SCPs acquired nails.
+
+Addendum 693/C: After leaving a camera inside the containment locker, it appears that instance of SCP-693 become mobile when not directly observed. While no further outbreaks of violence occurred, unattuned instances of SCP-693 have been shown to go through the actions of the last thirty minutes of the life of their most recent owner. At this point, SCP-693 has been reclassified Euclid, and will be locked in separate containers inside the containment locker.
+
+Incident 693/P: On ██/██/████, Researcher Cole attempted to have D-693/4523 attune SCP-693-R-12 using a pubic hair from D-693/43. The SCP began to move as normal, then stopped. It tilted its head downwards for approximately a minute, then raised its head to look at Researcher Cole. SCP-693 is reported to have said [DATA EXPUNGED] at which point a clean up crew was sent to the testing chamber. Researcher Cole has been reassigned to medical for psychiatric care, and the two D-class were terminated ahead of schedule.

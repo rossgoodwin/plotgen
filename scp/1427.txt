@@ -1,0 +1,115 @@
+SCP-1427 Containment Facility, Pyongyang, DPRK, External View
+
+Item #: SCP-1427
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1427 is to be contained on-site at the Ryugyong Containment Operations Center ("RCOC"), operated by the Foundation in partnership with the Korean People's Army ("KPA"). Due to the artifact's effects, Foundation personnel are not to enter the DPRK, approach to within 130 km of the SCP-1427 exclusion zone, or attempt to interact directly with the object itself. Foundation personnel are to provide remote support to on-site DPRK personnel. Under no circumstances are Foundation personnel to attempt to dissuade KPA containment staff from incorrect or unusual beliefs concerning the nature of their duties at the RCOC or the nature of their national government.
+
+As authoritarian-submissive personality traits provide conditional immunity to the signal broadcast by the artifact, Foundation personnel assigned to offsite monitoring must meet the following psychological testing criteria:
+
+Standardized Milgram Compliance Panel: >71
+
+IPIP Openness Panel: <39
+
+RWA Authoritarian Submission Panel: >17
+
+RWA Conventionality Panel: >31
+
+At present, only three national governments possess citizens with conditioning suitable for containment of SCP-1427: the Republic of Turkmenistan, the Republic of the Union of Myanmar, and the Democratic People's Republic of Korea ("DPRK"). Of the three suitable containment areas, political issues render North Korea the only government suitable for long-term containment. Accordingly, embedded Foundation affiliates in UN Security Council member states shall take no action tending to destabilize the DPRK, promote democratization, or permit the entry of psychologically-unsuitable foreigners into the 600-meter red zone surrounding the Ryugong complex. In the event of democratization, destabilization, or nuclear war, Foundation intergovernmental liaisons shall attempt to transfer the object to a designated secondary containment site.
+
+In the event that no secondary containment sites are available, the primary containment site and its surrounding environment are to be thermally sterilized, using non-nuclear force, without regard to the risk of civilian casualties. Using presently-available techniques, thermal sterilization of Pyongyang and surrounding environs bears a 91% chance of containment failure. Catastrophic containment failure is predicted to constitute a EK-class event, resulting in the extinguishment of all human consciousness within approximately 215 days.
+
+Description: SCP-1427 is a featureless 14m x 2m x 2m beryllium bronze stele. Though originally recovered in an inactive state, the artifact presently produces a directional electromagnetic pulse every 7ns. Disrupting or jamming the pulse reduces, but does not eliminate, the artifact's primary effects. The device's electromagnetic effects are therefore theorized to be a carrier wave for, or side-effect of, the device's primary function.
+
+Targets are selected randomly from the 20,736 (12^4) nearest human subjects, ignoring those already exhibiting the effects of the pulse, but including those who are immune. The device appears to have no effective maximum range: on several occasions, the device has exhibited the ability to make over-the-horizon broadcasts to otherwise occluded subjects by deflecting its signal off of the Earth's ionosphere. The artifact's means of detecting human consciousness, and the causative mechanism underlying its effects, are presently unknown.
+
+Upon receipt of the signal, subjects permanently experience increased suggestibility, severe abulia, and short-term memory loss. These effects are secondary to the artifact's primary effect, which is substantial reduction in prefrontal SQ2 signal. Due to information recovered from SCP-███, Foundation researchers presently believe that this reduced SQ2 signal corresponds to a significant reduction in, or total destruction of, the subject's subjective consciousness. Moderate authoritarian-submissive personality traits appear to provide conditional immunity to the effects of the broadcast; accordingly, since its activation, containment protocols have required placement in high-population-density areas subject to a totalitarian government.
+
+SCP-1427 was originally recovered from a Cistercian monastery in southeastern Algeria by Italian special forces in January of 1938. Laboratory notes from that period mention a rhodium carbide outer casing, embossed with lettering in a known but poorly-characterized Semitic alphabet. That outer casing is presumed to have been destroyed or lost by Italian researchers before the object's transfer to Leipzig in 1944. Between 1938 and 1944, the governments of Germany and Italy attempted to activate the artifact, both without success. In the immediate aftermath of World War II, the object was kept in East German custody. The East German government took no recorded action with respect to the artifact.
+
+In 1947, the East German government transferred SCP-1427 to Soviet control, who moved it to Kyshtim, Chelyabinsk Oblast, USSR. In September of 1957, Soviet researchers intentionally activated SCP-1427. Though the artifact affected human targets in its immediate surroundings, then-existing features of the Soviet government prevented the EK-class end of human consciousness. After attempted nuclear sterilization of the affected area, the Soviet government contacted the Foundation through intergovernmental liaisons, and the artifact was transferred to Foundation custody at Site 67, southwest of Chernhiv, Ukraine. Since initial containment, the artifact has only been transferred once: in 1986, due to predicted instability in the Soviet government, the artifact was transferred to the Democratic People's Republic of Korea.
+
+Shortly thereafter, the Foundation commenced construction of the Ryugyong Containment Facility, where the object has been stored since its completion in 1988.
+
+Addenda:
+
++ SCP-1427-ETR-3: ETHICS COMMITTEE DISSENT, SCP-1427
+
+- SCP-1427-ETR-3: ETHICS COMMITTEE DISSENT, SCP-1427
+
+On December 5, 1991, a nine-member panel of the SCP Foundation Ethics Committee decided, after a 2-4-3 plurality vote, to actively support the government of the Democratic People's Republic of Korea ("North Korea") in order to effectuate containment of SCP-1427. In summary, the deciding plurality found the following points in favor of limited stabilization and support:
+
+Instability and increasing political openness may soon render the USSR unsuitable for containment of SCP-1427.
+
+In the event of political instability in North Korea, the device may be safely transferred to the custody of the People's Republic of China or Indonesia.
+
+North Korea's closed borders limit the risk of exposing foreigners.
+
+Due to limited trade opportunities, Foundation affiliates and liaisons are better able to manipulate North Korean internal policy toward effective containment.
+
+Despite the clear benefits of the above, we dissent.  
+
+ 
+
+Experimentation has demonstrated that SCP-1427 requires no more than 12^4 psychologically suitable individuals in close proximity to the object in order to maintain seamless containment. With that in mind, maintaining over twenty million individuals in a state of perpetual, involuntary totalitarian abjection is an unacceptable cost to impose on human subjects. While it is clear that, in 1957, doing so was a necessary accession to certain facts on the ground (viz., Soviet failure to destroy the object outright), the Foundation has recruited 9,724 D-Class candidates since that date, or just under half the population required to successfully contain the object. Though unclear in 1957, it is now scientifically demonstrated that totalitarian indoctrination may be recreated under laboratory conditions with relatively little sophisticated intervention by researchers See Zimbardo, P, "On 'Obedience to Authority,'" [REFERENCE OMITTED]. Our failure to do so is an ethical failure of catastrophic proportions.
+
+ 
+
+The majority opinion in this review declined to authorize experimentation into artificial totalitarianism on the necessary scale, citing both practical and ethical concerns. They believe that it would be unacceptable to create a totalitarian society in miniature to prevent the end of all mankind. But in order to avoid creating an ethical disaster in miniature, we have authorized one writ large: totalitarianism which selects individuals by a birthright lottery and not by any particular antisocial acts. As recent events in the USSR and elsewhere have demonstrated, totalitarian dictatorship is not a necessary feature of human society. It is a phase of development which occurred and will someday pass, and it is not the Foundation's right (nor even its duty) to permanently arrest the development of the North Korean people for some greater good, no matter how great that good may be. 
+
+ 
+
+The majority are demonstrably correct that taking appropriate action to contain SCP-1427 would involve extraordinary moral compromises by the Foundation, whereas mere abdication of our responsibility shares this ethical burden with all humanity and the North Korean leadership. But when we signed our recruiting paperwork, we consented to bear that burden: to do what must be done for the greater good, no matter the cost. That we now impose this burden on the people of North Korea, rather than shouldering it ourselves, is an unacceptable abdication of our responsibilities as Foundation employees. 
+
+ 
+
+For the foregoing reasons, we the undersigned dissent, reserving the right to appeal this decision to the O5 council. 
+
+█████ ████
+
+[SIGNATURE OMITTED]
+
+Ethics Committee Supervisor, Site 9
+
+ 
+
+████ ██████
+
+[SIGNATURE OMITTED]
+
+Ethics Committee Supervisor, Site 53
+
++ SCP-1427-ACR-2: SUMMARY, ARCHAEOLOGICAL REPORT, SCP-1427
+
+- SCP-1427-ACR-2: SUMMARY, ARCHAEOLOGICAL REPORT, SCP-1427
+
+CASE REPORT, TAMANRASSET OSSUARY, 4/21/1993: FILE WITH SCP-1427
+
+PRINCIPAL INVESTIGATOR: Usman Azmaggan, Ph.D
+
+PROJECT PHASE: IIA
+
+BACKGROUND: Following the disputed SCP-1427 Ethics Committee report of 05/12/1991, O5 authorized phase-two research toward decommissioning or permanently deactivating SCP-1427. As part of the Team B decommissioning initiative, O5 rescinded Standing Order 75128, which prohibited Foundation members from disturbing archeological sites belonging to the Pleistoscene Afro-Asiatic Culture Group ("PACG"). Following the order's revocation, MTF-Rho-293 ("Et Laharog") responded, excavating the site where SCP-1427 was believed to originate, 71km SSW of the city of Tamanrasset, Algeria.
+
+DISCUSSION: Originally discovered by aerial radiographic survey in 1967, the Tamanrasset Ossuary was cataloged and monitored as a PACG archaeological anomaly and assigned low containment priority due to its minimal consensus risk. Upon arrival at the site in February of 1992, Rho-293 found the site substantially undisturbed and the radiological hazard intact. Deep soil strata analysis discovered high levels of trinitite, Pd-107, U-233, U-235, Pu-239, and radioactive decay products consistent with an incomplete fission event roughly 70,000 years prior to the site's discovery. This failure of nuclear fission appears consistent with samples taken from the Kyshtym containment area after the failed detonation of the Soviet failsafe device.
+
+The central site occupies a single blast crater of roughly .75km in diameter, centered on a rectangular depression indicating the existence of a subsurface structure. Disturbance of soil strata indicates that SCP-1427 was likely removed from this subsurface structure at some time prior to the year 1600 AD. In addition, the site appears to have been disturbed both before and after removal of SCP-1427. Site containment appears to have been successfully maintained after 1967. Apart from SCP-1427, no intact artifacts were retrieved from the central area of the site. Like other PACG sites, intact artifacts, remains, and complete texts appear to have been systematically destroyed by later sapiens sapiens populations, except where object size or durability made destruction impracticable.
+
+The peripheral area occupies a single undisturbed geological stratum indicating continuous, low-intensity occupation between approximately 71000 BC and 68000 BC. Artifacts recovered from the site display features common to other PACG sites, including the following characteristics:
+
+Substantial radiological contamination;
+
+Midden deposition and ossuary contents indicating substantial infant mortality;
+
+Vandalism or iconoclasm by archaic sapiens sapiens;
+
+Use of beryllium bronze as a structural material;
+
+Artifacts bearing markings in PACG-Semitic Rectilinear Alphabet B.
+
+Remains recovered from the site indicate cohabitation by Homo sapiens idaltu and a second, unidentified hominid species provisionally designated as Homo sapiens descensus. Relative to the hominin baseline, descensus remains exhibit gigantism and functional postaxial polydactyly, with a median of six digits per limb. Presuming femoral proportions consistent with the human norm, the subspecies' median male height was 7'6", and mean female height was 7'2". Craniometry based on recovered fragments indicates a brain volume of roughly 520cc. Though populations of idaltu increase throughout the period of cohabitation, decensus populations remain static.
+
+Above the radiation-bearing geologic stratum, no members of the descensus subspecies are found, though intermittent idaltu occupation continues until approximately 63,000 BC. In approximately 61,000 BC, nonresident idaltu populations appear to have engaged in a concerted effort to excavate and destroy artifacts belonging to the PACG culture, with a special focus on removing and destroying descensus remains. As few identifying artifacts related to the later idaltu population remain, the reasons for this period of late iconoclasm remain obscure.
+
+CONCLUSION: Though the intended purpose of SCP-1427 remains obscure, its function appears to have been related to the subjugation of early Homo sapiens sapiens by Homo sapiens decensus. Resistance to nuclear attack appears to have been a high priority for PACG engineers: all remaining PACG artifacts appear to have been constructed for high resistance to neutron flux, and many have been recovered from what appear to be the sites of prehistoric nuclear attacks. As PACG artifacts appear to directly interfere with nuclear fission, it is the unanimous recommendation of Rho-293 that decommissioning efforts focus on conventional arms or disassembly, and that recovery of the artifact's sheath or other complete PACG texts be made a containment priority.

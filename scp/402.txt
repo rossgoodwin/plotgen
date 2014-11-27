@@ -1,0 +1,19 @@
+Item #: SCP-402
+
+Object class: Euclid, high-level (see Addendum 402-A-8)
+
+Special Containment Procedures: SCP-402 is to be contained in a concrete bunker capable of withstanding severe weather conditions and possible hostile attack. Guards are to be posted year-round in Site 92 stationed around the aforementioned bunker. (Note that Site 92 is officially listed as a telescope installation.) Any unapproved individual approaching the bunker is to be warned immediately; noncompliance with orders to retreat is grounds for elimination. Under no circumstances is SCP-402 to be moved outside the installation without prior permission from three (3) O5-level personnel. If transported, SCP-402 is to be kept at a minimum of 560 kilometers from any major source of water.
+
+Description: SCP-402 is an oblong black solid approximately 10 cm tall and 6 cm wide, weighing approximately 5 kg and ostensibly composed of a dark rock-like substance resembling polished obsidian. It displays two notable physical properties: firstly, when buried in any granular substance it will always rise to the top; this property has been verified with sand, silica gel, wheat flour, and ball bearings. Secondly, SCP-402 is an astoundingly effective absorber of water. When placed in contact with any form of water, SCP-402 will absorb it at a rate proportional to the saturation of its surroundings. The water absorbed by the item does not predictably affect the item's mass. In experiments the item absorbed 4000 kg of water in under seven minutes, showing a post-absorption mass increase of 131 grams. Attempts to obtain samples of SCP-402 have proved futile; its unique molecular structure allows it to absorb heavy impacts.
+
+Additional notes: Climatologist ███████ ██████████, now employed as [92-0894], observed that patterns of soil moisture absorption in the southwest region of ██████ were inconsistent with standard geological behavior. Investigations interpolating to the center of the anomalous moisture patterns revealed the item's location. Site 92 was constructed in 198█ in order to house this object. [92-0894] speculates that an area with 500 km radius was rendered a desert over an unknown period of time due to the hydrophilic behavior of SCP-402. Chemical analysis of the item has been inconclusive; though the item is not alive, it displays long polypeptide chains not known in nature.
+
+Addendum 402-A-8: Audio recording, ███-██-19██.
+
+Begin transcript.
+
+Gen. ████████ ██████████ ([19-5000]): [inaudible] don't care what you say, ██████████. It'd be an astoundingly useless weapon. I'm ordering you, as your direct superior, to classify 402 as E-level.
+
+Dr. █████████ ████ ([19-4292]): Sir, that's horseshit. Drop that in the Yangtze valley and those bastards won't know what hit them. [inaudible] realize how much 4000 liters is? Seven minutes, for Christ' sake [inaudible] do it, but you're [inaudible] a mistake.
+
+End transcript.

@@ -1,0 +1,97 @@
+Item #: SCP-163
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-163's enclosure consists of four adjoining rooms, 3 m from floor to ceiling, with the following attributes:
+
+One 5 m x 5 m receiving room with an airlock and seating appropriate for both SCP-163's and human morphology.
+
+One 5 m x 3 m storage room capable of storing SCP-163's isolation suit, tools, and games.
+
+One 20 m x 15 m workshop and dining area which contains all salvaged technology, including SCP-163-1.
+
+One 5 m x 5 m sleep area and rest facility, furnished with seating and bedding fitting SCP-163's morphology.
+
+Air is filtered into the enclosure and is automatically monitored at all times by computer and once daily by staff, to check for impurities. Filters are to be changed weekly or any time impurities are found in the air. Two separate lighting systems are used in the enclosure: One which produces radiation between 400 nm and 700 nm and one that produces radiation between 150 nm and 300 nm. The primary lighting system is to remain active at all times to facilitate observation. The secondary lighting system may be turned on or off at SCP-163's discretion. At no point are forbidden elements and chemicals to be introduced into the enclosure above proscribed proportions listed in Manual M-163-1. Personnel, and any items brought with them, will be checked for traces of these chemicals prior to being allowed access to the enclosure.
+
+Personnel are to wear isolation suits at all times while in the enclosure to protect themselves and SCP-163 from cross-contamination. Before being granted clearance to enter the enclosure, personnel are to study Manual M-163-2 and submit to an interview with Dr. ████████. Cleared personnel are permitted to interact with SCP-163 by assisting it with repair of equipment and by playing board games with it.
+
+SCP-163 may leave its enclosure at any time. It must first announce its intent to leave the enclosure through an agreed-upon gesture, and don its isolation suit. The suit contains the same air filters used to cycle the air in the enclosure. In order to facilitate vision, SCP-163 may carry a UV flashlight capable of producing radiation wavelengths of no less than 280 nm, in order to keep risk of skin cancer among personnel to a minimum. When roaming the facility, SCP-163 is to be accompanied by a junior researcher who is to record all actions, gestures, and expressions with a video camera. The escort is to also bar SCP-163 from any areas deemed dangerous to it.
+
+Once every three (3) days, personnel are to deliver to the receiving room a 20 L container with chemical elements in proportions listed in Manual M-163-1. SCP-163 will take the container and pour its contents into SCP-163-1. The empty container is then placed in the airlock for retrieval.
+
+Equipment may be removed from the enclosure only when in the presence of SCP-163. If SCP-163 interferes with the removal of a piece of equipment, the item is to be placed back in the area from which it was taken. At no point is SCP-163-1 to be disassembled, operated, or removed by personnel, under any circumstances. Any attempts to do so will result in severe discipline.
+
+Description: SCP-163 is a sapient organism of extraterrestrial origin. When standing, it is 2 m tall and 1.5 m wide, the bulk of the body being suspended 50 cm from the ground. The body is roughly cylindrical with a circular mouth at the bottom, the equivalent of a head at the top, and eight three-jointed legs arranged radially around the equator. SCP-163 also has a series of specialized limbs, listed here:
+
+Two prehensile feeding apparatus on either side of the mouth
+
+Two arms near the top of the body, used for delicate manipulation
+
+Two larger arms located closer to the legs, used for heavy manipulation and lifting, and capable of producing a steady force of approximately 500 N and a striking force of up to 2000 N.
+
+Two appendages of indeterminate function located between the legs and mouthparts which had been amputated prior to SCP-163's discovery.
+
+30 cm from the top of the body is a single semi-compound eye which extends in a ring around it, allowing a full 360 degrees of vision. There is a blind spot at the back of the head to make way for an organ used for elimination of bodily waste. The compound eye is separated into 88 units. The most likely hypothesis is that each unit receives only vertical information while the brain intuits horizontal information by comparing input from the different units. The eye is sensitive to light wavelengths between 150 nm and 300 nm, equivalent to UVC which is harmful to most terrestrial life.
+
+SCP-163 contains an endoskeleton which consists of tissue similar in chemical composition and structure to cellulose. The skeletal structure protrudes from the uppermost joint of each leg and appears to have been blunted by mechanical means. No pain response is exhibited when samples are taken from these protrusions. The skin is transparent to visible wavelengths of light, but opaque to ultraviolet. Blood samples taken have an oxygen and carbon dioxide transport system based on nickel, rather than the iron or copper used by terrestrial organisms, and is green in colour. Analysis of blood and tissue shows that SCP-163's cells use DNA for instruction, with the standard GCAT bases; however, a different method is used to interpret said instructions. Sets of three bases still code for amino acids, but they are not the same ones that are coded for in terrestrial cells. In addition, some terrestrial amino acids are not present in its biology while others that it uses are not present in Earth's biosphere, allowing for dramatically different protein arrangements.
+
+SCP-163's home environment would have contained different proportions of elements, compared to that of Earth. This is evidenced by its sensitivity to certain common elements and its resistance to other less common ones. ████, a heavy metal poisonous to terrestrial life, is used in SCP-163's metabolism. Iron and calcium, though not used by SCP-163, causes no harmful effects to it. Exposure to █████████████ in any chemical form causes damage to tissue. ███████ and ███████ are as harmful to SCP-163 as they are to us. A full table of safe and unsafe chemicals, along with dietary requirements, is contained in Manual M-163-1. Furthermore, the atmosphere would have had different proportions of gasses. SCP-163 is able to survive in our atmosphere for some time without mechanical aid, but will begin to show signs of illness after one hour. Air that is filtered to remove certain common terrestrial elements will prevent such an event. Analysis of SCP-163's technology includes searches for hermetically sealed chambers which may contain evidence of its home atmosphere.
+
+It is unknown how SCP-163 communicates complex ideas. The only vocalization produced by it is a steady sinusoidal wave of approximately 15 Hz when in certain emotional states. There is no variation to this vocalization, which can last from 15 seconds to 10 minutes. It is recommended that personnel exposed to this sound remain in well-lit conditions to prevent feelings of paranoia. Emotions are primarily displayed by the dome of tissue above the compound eye. Different states correspond to distortion of furrows in the skin by subdermal muscles. In addition, a negative and affirmative gesture have been noted. An affirmative consists of the rapid beating together of SCP-163's delicate manipulators while a negative is the same gesture performed by heavy manipulators. Specific information on gestures and emotional states is contained in Manual M-163-2.
+
+SCP-163-1 appears to be a universal life support device. It is able to convert basic chemical elements into sustenance for SCP-163, in addition to originally projecting the phenomenon in which SCP-163 was found. To ensure the continued health of SCP-163, study of SCP-163-1 is forbidden until after the death of SCP-163. The function of other equipment is still not fully understood. The technology is limited to crude transistors assembled into various specialized analog computers. Many physical processes that these computers model do not correspond to anything known to modern science. It is theorized that SCP-163-1 relies on some of these processes in order to function.
+
+SCP-163 was first discovered by miners in the Andes Mountains on ██-██-20██. The rock strata in which it was found are approximately ████████████ years old; shocked minerals in the vicinity indicate that its spacecraft had crash-landed. The miners reported coming across an impenetrable mirrored surface which abruptly disappeared after enough rock was removed from it. The description suggests that this is a larger version of the phenomenon produced by SCP-163-1. Despite being encased in stone for █████████ years, the contents of the chamber showed no sign of age or degradation, believed to be an effect of the phenomenon. Approximately 30% of the equipment had been looted before agents could reach the scene. Though some have since been recovered, there are many items still at large. Agents are continuing to scour the black market for any further clues as to the whereabouts of the missing technology.
+
+When agents took control of the scene, SCP-163 was still encased in the reflective sphere produced by SCP-163-1. The relative simplicity of SCP-163-1's interface allowed agents to quickly de-activate it. Agents were forced to subdue SCP-163, which was violent at the time. Aside from this initial confrontation, SCP-163 has cooperated with the Foundation, to the extent of its ability to understand us.
+
+The following are select experiments performed on SCP-163. A full list of experiments and results is contained in Manual M-163-2.
+
+Experiment Log 163-46: Facial recognition.
+
+Date: ██-██-20██
+
+Subject: SCP-163
+
+Procedure: Dr. ████████ entered the enclosure of SCP-163 carrying thirty (30) 11x17 cards with images printed on them with UV-absorbing inks. Images were representations of human faces of varying complexity. SCP-163 was shown these images from least complex, a "smiley face", to most complex, a photograph of Dr. ████████.
+
+Details: SCP-163 was not able to recognize the "smiley face" which human infants are able to immediately emulate. It was not until the eighteenth image that SCP-163 reacted by taking the card and placing it over the front of Dr. ████████'s faceplate. Image 18 had exaggerated facial features which included a nose, eyes, ears, and an open mouth showing a row of straight teeth. Image 17 was identical but with a closed mouth.
+
+Experiment Log 163-47: Facial recognition.
+
+Date: ██-██-20██
+
+Subject: SCP-163
+
+Procedure: Dr. ████████ entered SCP-163's enclosure carrying twenty (20) 11x17 cards with images printed on them with UV-absorbing inks. Images were representations of the top of SCP-163's body, ranging in complexity from an isosceles triangle to a photograph of SCP-163.
+
+Details: SCP-163 did not recognize the first card as a member of its species. The second card, depicting an isosceles triangle with a horizontal line going through the middle elicited a response. SCP-163 took all of the cards from Dr. ████████ and looked at each in turn. It then sorted the cards into two stacks, one which contained six images, including Image 1, and one which contained the remainder, including Image 2. It is hypothesized that the first stack includes images which can not be recognized as SCP-163's species while the second stack has images that can. The presence of the photograph in the second stack supports this hypothesis.
+
+Experiment Log 163-80: Altruism test.
+
+Date: ██-██-20██
+
+Subject: SCP-163
+
+Procedure: Dr. ████████ entered the enclosure carrying two wooden blocks and a box capable of holding both. Dr. ████████ opened the box and moved one block into it while feigning great effort. After closing the box, Dr. ████████ moved the second block toward it, again feigning effort, and awaited a response from SCP-163.
+
+Details: SCP-163 opened the box for Dr. ████████ after 10 seconds of him attempting to place the block inside while the lid was closed. The result is consistent with the same experiment performed on human children.
+
+Experiment Log 163-88: Higher functions.
+
+Date: ██-██-20██
+
+Subject: SCP-163
+
+Procedure: Dr. ████████ entered the enclosure with a cart containing an easel, five canvases, assorted brushes, and a selection of pigments which reflect different ultraviolet frequencies between 150 nm and 300 nm. Dr. ████████ briefly demonstrated the act of painting, using three of the pigments, before handing the brush to SCP-163.
+
+Details: SCP-163 immediately began painting with the provided pigments. The image produced was of a landscape containing unrecognizable plants and animals, according to UV imaging. SCP-163 remained still for seven minutes after completing the painting before knocking it from its easel and retreating to a corner of the receiving room. Cranial ridges indicated distress. All further attempts at interacting with SCP-163 failed until Dr. ████████ attempted to remove the painting supplies from the enclosure. At that point, SCP-163's heavy manipulators were protruded from between its legs and indicated the negative gesture. The following day, SCP-163 was seen painting on a new canvas.
+
+Addendum 163-88:
+
+As of this date, fresh canvases, paints, and brushes should be provided to SCP-163 whenever its supplies begin to go low. This is the first truly meaningful communication we have been able to understand. At the very least, we may be able to learn more about the ecology of its homeworld. -Dr. ████████
+
+Addendum 163-93:
+
+The odds of SCP-163 having been discovered at all are mind-boggling, given the size of the Earth. A number of factors would have had to come into play, including plate tectonics, development of terrain by humans, and just plain old dumb luck. I am filing a recommendation that all excavations of █████████-year-old strata be monitored by agents for more members of SCP-163's species. I find it hard to believe that we just happened to come across the one single spacecraft that crash landed on earth millions of years ago, at a time when we are just beginning to develop the capacity to recognize the import of such a find. There must be others hidden in stasis somewhere down there. -Dr. ████████

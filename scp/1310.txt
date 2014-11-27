@@ -1,0 +1,59 @@
+Item #: SCP-1310
+
+Object Class: Euclid
+
+Special Containment Procedures: The building containing SCP-1310 has been designated Site ███. It is to have the appearance of being condemned and awaiting demolition. The door leading to SCP-1310 is to be opened for at least 20 out of 24 hours per day, in order to minimize possibility of generation events. All specimens emerging from SCP-1310 are to be detained for questioning. Following the questioning session, all specimens of SCP-1310-A,-B and -C are to be treated with protocol England-1310-84.
+
+Description: SCP-1310 is the designation for examination room 10 at the former "[REDACTED] Pediatrics" center located on the campus of the [REDACTED] Medical Center in ██████, Ohio. SCP-1310 has the dimensions of 5m x 3m x 5m. The room is designed for simple medical examinations of individuals under 18 years of age, and is decorated with an animal-themed mural on the western wall. It has all the typical apparatuses of a mundane medical examination room, such as a case for syringe disposal, a sink, a supply of gauze and tongue depressors, and an examination table.
+
+SCP-1310 enters an active state when the door to the room is closed for, on average, a span of 5 minutes and 43 seconds. After that time has passed, at least one human being will emerge from SCP-1310, having been generated within the room's confines. The process by which the generation is done is not understood, and attempts to record the inside of the SCP-1310 during the generation process have resulted in failure of all electronic equipment.
+
+The generated humans will fall under three specific categories: one under the age of 18 (hereafter designated SCP-1310-A) and one which the first specimen will usually treat as its parent or guardian (SCP-1310-B). In some cases, a third specimen (SCP-1310-C) will be generated, identifying itself as a doctor or nurse employed at [REDACTED] Pediatrics. These subjects will have memories that correspond to actual people and locations in the town of [REDACTED] and surrounding areas; however, these memories are fabricated. No records of any instances of SCP-1310-A and -B have been found as of the date of writing [██-██-20██], despite items such as social security cards and drivers licenses being found on several of the specimens.
+
+Addendum 1310-01: Following the acquisition of SCP-1310, instances of SCP-1310-A, -B and -C ceased appearing for a 4 month period. Believing there to be a link between the status of the [REDACTED] Pediatrics facility and the appearance of SCP-1310-A and -B, Dr. ███████, the researcher overseeing containment of SCP-1310, ordered the clinic be re-opened and operated as normal for a period of three months. During that time, ██ new instances of SCP-1310-A appeared, with the same number of SCP-1310-B. ██ instances of SCP-1310-C were generated as well. See Document 1310-02 for details.
+
+Document 1310-02: I knew I was on to something! If we let patients into the clinic, SCP-1310 outputs new instances of SCP-1310-A and -B. I have formulated a theory that SCP-1310 exists simultaneously in at least two, if not more, universes. When the door to SCP-1310 is closed in both the opposing universe(s) and in this one, then SCP-1310 re-routes the people within the room to this universe. The only discernible difference between our universe and theirs is that instances of SCP-1310-A and -B do not exist in our universe; request testing to see if inter-universal travel is possible using SCP-1310; if so, then perhaps we could get into contact with the other universe's Foundation! -Dr.███████
+
+Dr. ████████'s request has been approved. Testing is scheduled to begin7-26-200█ 12-1-200█ 3-12-200█ [Edit 7-5-200█] : It has been almost a year since Dr. ████████ has requested testing with SCP-1310, but has not been able to test, as D-Class have not been requisitioned to him for testing. This issue is to be remedied ASAP. [Final Edit: 7-12-200█] Dr.████████ has canceled testing, citing a lack of test subjects.- O5-█
+
+Incident 1310-B-31: On 5/20/20██, SCP-1310 was opened for cleaning, and a single specimen of SCP-1310-B was found inside, with no accompanying SCP-1310-A or -C. SCP-1310-31 identified himself as Charles Freedman and stated that he had been an employee of the Foundation for the past five years. SCP-1310-31 was taken into custody, and interviewed. The following is a transcript of this interview:
+
+>Begin Log<
+
+Dr. ████████: You said that you worked for the Foundation. Why should we-
+
+SCP-1310-B-31: (sighs) I didn't just work for the Foundation. I was your research assistant. You went on for hours about theories you had about SCP-1310.
+
+Dr. ████████: How fortuitous. And, if you were my research assistant in this other universe, what, pray tell, were you doing inside of SCP-1310?
+
+SCP-1310-B-31: Oh, I don't know. Maybe it's because you asked me to go in that room? You said that you finally got the paperwork for your tests in. And that other universe theory? Complete bullshit, you old f-
+
+Dr. ████████: Finish that sentence and you will be demoted to D-Class. I assume the other Foundation had those in your universe?
+
+SCP-1310-B-31: (sighing) Get your head out of your ass, ████████.
+
+Dr. ████████: Excuse me?
+
+SCP-1310-B-31: It doesn't generate people, or bring them in from other universes. It erases them. It- I don't know, maybe it erases people or-or the memories of these people from this timeline or something. I told you that theory over and over when I worked for you. But no. You stuck to your crazy-ass alternate universe theory. Ever hear of Occam's Razor?
+
+Dr. ████████: Are you saying that a room erasing people from a timeline is simpler than people being brought in from alternate universes?
+
+SCP-1310-B-31: Chew on this for a second, then. You remember all the times you were going to test it on humans? See if they could go into other universes? How the tests never happened? What if they did happen, and nobody remembers it, because that's now how SCP-1310 works?
+
+Dr. ████████: I think we're done here.
+
+SCP-1310-B-31: No, we aren't. And one last thing: I know about all the specimens emerging from 1310 that you never reported. There must've been, what, 12 of them? Maybe more?
+
+Dr. ████████: Guard, escort him out.
+
+SCP-1310-B-31: (sounds of struggling) Listen to me! You hid data, just because it didn't match up with your original results! You even said once that, if there weren't at least two of them in the room, it was a fluke and should be ignored!
+
+(At this point, SCP-1310-B-31 was sedated and escorted out of the room)
+
+>End Log<
+
+While I will admit that he did have some valid information on the Foundation, the idea of him ever being my research assistant is preposterous, and just as preposterous is this idea that I hid results.
+
+Hopefully, we can get protocol England-1310-84 over with and make sure he never tries to bother us again.- Dr. ████████
+
+Due to the gross incompetence displayed by Dr. ████████ regarding SCP-1310, he has been demoted to Level 1 Researcher as of 4/20/20██. Containment Procedures will be updated in accordance with the findings presented by SCP-1310-31.- O5-█.

@@ -1,0 +1,41 @@
+An active instance of SCP-121-1
+
+Item #: SCP-121
+
+Object Class: Euclid
+
+Special Containment Procedures: Containment Site-83 has been established outside SCP-121 to house personnel dedicated to the containment of SCP-121. The perimeter of SCP-121 is to remain fenced off from the surrounding area, with guards stationed along the perimeter at all times. Guards are to don local military uniforms and remain heavily armed at all times. Rotation of guards is to occur every four hours.
+
+The surrounding population is to remain informed that SCP-121 is quarantined due to persisting hazardous material. Warning signs are to be placed seventy-five (75), fifty (50), and twenty-five (25) kilometers out along roads leading to SCP-121 to deter trespassers. Civilians who approach the perimeter of SCP-121 are to be reminded of the quarantine and forced to depart; those who resist are to be detained for questioning.
+
+In the event that approaching civilians witness an active instance of SCP-121-1 or -2, Class-A amnestics are to be administered. Any meteorological data regarding SCP-121's anomalous effect is to be censored, and SCP-121 has been labeled a no-flight zone to prevent knowledge of SCP-121, -1, and -2.
+
+Site Task Force Iota-71 ("Home Wreckers") has been established and permanently assigned to Containment Site-83 in response to the threat of SCP-121-2. They are to escort researchers interested in studying non-hostile instances of SCP-121-2 as well as neutralize any instances that have grown to potentially lethal sizes. In the event of an attempted containment breach, Iota-71 is to assist perimeter guards in the neutralization of the instance of SCP-121-2.
+
+Any buildings within SCP-121 that develop into SCP-121-1 are to be recorded and monitored at all times for transition into SCP-121-2. SCP-121-2 that become innately hostile upon transition are to be neutralized; however, passive instances may continue to dwell within the perimeter of SCP-121 for research purposes until they've grown to a size too dangerous to contain or become hostile, at which point they are to be neutralized.
+
+Description: SCP-121 is the region of land occupied by the former town of ███████, Colorado. The town was home to roughly 6,800 prior to enactment of current containment protocol, and holds roughly 3,000 buildings, both residential and commercial. Clouds above SCP-121 appear incapable of entering an area roughly twelve (12) kilometers in diameter, instead passing around the area; it is speculated this is related to SCP-121's range of effect, but it is not known how at this time. Buildings in SCP-121 will sporadically1 detach from any foundations and ascend into the air. At this point, these buildings are identified as SCP-121-1.
+
+Instances of SCP-121-1 ascend to a random height of a minimum of forty-five (45) meters. Regardless of the previous state of the building, doors and windows become locked and any potential entry ways become barricaded by furniture inside. Forced entry has shown an increased ambient temperature of roughly 35°C and a relative humidity of roughly 65%, but a lack of any further anomalous properties. Instances of SCP-121-1 will cease suspension after a minimum period of ten weeks, but may remain airborne for no more than fifteen weeks afterwards. Instances do not show any abnormal levels of durability, and near-total destruction of SCP-121-1 upon impact with the ground is common. After impact, the remains of instances of SCP-121-1 will contain an ovoid object approximately 1.2m x 1.2m x 2m composed of materials consistent with furniture found inside the home.2 The object will begin to locomote on its own accord; at this point, it will be referred to as SCP-121-2.
+
+A grown instance of SCP-121-2
+
+SCP-121-2 begin to form a conglomerate with nearby materials, including debris from SCP-121-1, flora, automobiles, and (on rare occasion) other buildings. SCP-121-2 will continue to attract objects until it forms a body of material nine (9) meters in height, at which point the body will animate and appear to take on levels of sentience. SCP-121-2 may, at this point, begin to simulate ingesting other material, to continue growing at a considerably slower rate. Ingestion appears to be for the sole purpose of continued growth, as instances have gone prolonged periods of time without material. Certain items have been known to attach to SCP-121-2 instantaneously, despite size and the lack of simulated ingestion.
+
+Instances of SCP-121-2 normally resemble animals capable of locomotion on land, but have been known to take on humanoid forms and forms that do not resemble any known animal. They are primarily docile, and normally do not display hostility towards personnel unless provoked. However, SCP-121-2 instances have been known to form with innate aggressive and territorial behavior; this behavior has also been observed to develop following the accumulation of certain items, including firearms, bladed weapons, and in one example, the taxidermy head of a bear.
+
+SCP-121 came to the attention of the Foundation when local authorities were flooded with reports of a previously abandoned residence suddenly "flying in the sky". The town was evacuated under the guise of a hazardous material spill and the residence was observed. Once the instance of SCP-121-1 transitioned into SCP-121-2, SCP-121-2 was quickly neutralized. Following the neutralization, another instance of SCP-121-1 developed3, and the town was permanently evacuated and contained.
+
+Incident 121-A: On 11/04/98, a sound described as a "muffled siren" was heard for approximately five (5) minutes. An active instance of SCP-121-1 was suddenly subject to an immense force following the sound, causing the building to prematurely break apart while suspended before the ten week minimum. Neighboring towns reported hearing the sound; local press were informed quarantine staff were being evacuated due to a temporary elevation in toxic levels. The cause of the sound is currently unknown; further research is recommended.
+
+Three weeks following the sound and the destruction of SCP-121-1, the remains finally fell to the ground. Inside the rubble were remnants of the ovoid object found in SCP-121-2, along with traces of aluminum slag.
+
+Incident 121-B: On 05/09/12, a 1991 Dodge Caravan was found suspended fifty-three (53) meters in the air. Internal surveillance is at this time impossible, due to the windows being obscured by what appears to be wool cloth. Further observation of the vehicle is recommended.
+
+Footnotes
+
+1. No more than one at a time, with three weeks minimum between manifestation.
+
+2. Examination of mostly intact instances of SCP-121-1 show an absence of previous furnishings.
+
+3. This is the only occasion on which the creation of SCP-121-1 has so closely followed the creation of an instance of SCP-121-2

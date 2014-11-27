@@ -1,0 +1,335 @@
+Item #: SCP-2102
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2102 is to be housed at Site-122 in an L-Type Humanoid Anomaly Containment Cell (HACC). This is to be modified to minimize the probability of injury to SCP-2102. SCP-2102 is to remain fully restrained at all times, with its hands and feet encased within padded sleeves to avoid accidental or intentional lacerations of its epidermis. SCP-2102 is to be considered a permanent Class Alpha-Red security risk in light of its suicidal tendencies.
+
+In case of an Unbounded Ectoentropic Reaction (UER), all on-site personnel not specifically attached to this project are to be evacuated, and three members of Security Staff with at least L2/2102 clearance are to enter SCP-2102's cell to initiate its Breach protocol1. Following the incident, SCP-2102 is to be treated by attached Level 3 Medical Staff for any burns sustained during the incident. Excess tissue is to be excised and the resulting wounds are to be cauterized immediately; this is currently the only reliable way to reduce the amount of tissue generated. Excised tissue is to be destroyed as per the standard Biohazard Disposal protocol.
+
+If its Breach protocol fails, all Site-122 personnel with Level 3 Security Clearance have been provided with the passkey to this project's kill switch. This can be activated remotely and doing so will trigger the dispersal of a dicyanoacetylene gas and powdered fluoridated aluminium within SCP-2102's containment cell. This mixture will be ignited automatically after a three-second delay. If the kill switch is not successful in deactivating SCP-2102, no further provisions have been made.
+
+Description: SCP-2102 is an unidentified male of indeterminate age and descent. SCP-2102 measures approximately 178 cm in length and weighs an estimated 48 kg. 100% of SCP-2102's body is covered in hypertrophic scars, a result of the application of its Breach protocol in order to halt past UER/2102 events. Due to this scarification, SCP-2102 is deaf, mute and blind, and cannot be interviewed. All data on SCP-2102 was gathered from testing, and from surviving GRU Division "P" documentation.
+
+SCP-2102's anomalous properties manifest when it suffers a puncture wound or laceration, initiating an anomalous wound healing process (designated a UER/2102 event). This process is instantaneous and though both hemostatic and inflammatory phases occur as normal, the proliferative phase of the process occurs at a greatly increased rate2, and no wound contraction occurs. During a UER/2102 event, SCP-2102 will continue to produce new tissue at an exponential rate, unless all open wounds are successfully cauterized. Based on this, it is estimated that the culmination of an NK-Class scenario would occur approximately four weeks post-event should full neutralization not be achieved. Tissue generated during UER/2102 events will expand into any available open space. Obstructions are able to delay the expansion, but as more tissue is generated, it will exert a mounting pressure on materials. Currently, there is no upper limit to the MPa SCP-2102 is able to generate.
+
+Blunt force trauma that does not break SCP-2102's epidermis will not induce its anomalous properties, and the application of intense heat will cauterize any open lacerations, halting SCP-2102's anomalous wound healing. Tests have also indicated that SCP-2102's anomalous properties would in all probability not persist if all soft tissues were destroyed.
+
+Addendum 2102-A-01: Notes on recovery and preliminary containment
+
+SCP-2102 was recovered from the grounds of the Institute of Experimental Medicine ČSAV in ███████████, Czechoslovakia on 12/02/1972. Foundation agents embedded in the Czechoslovakian government had been aware of the existence of a GRU Division "P" project housed on the grounds of the institute since earlier that year, and intelligence reports indicated its focus to be on the development of practical applications for rapid cellular regeneration. Following the successful appropriation of classified documentation detailing SCP-2102 and its anomalous properties, a recovery operation was planned for January 1973.
+
+On 12/02/1972, at 07:14 UTC/GMT, a disturbance was reported at the Institute of Experimental Medicine ČSAV, and a large number of civilians were seen fleeing the premises. A small Foundation reconnaissance force comprised of members from several Mobile Task Forces stationed in Eastern Europe was immediately dispatched to take stock of the situation before recovery was initiated. Preliminary containment was effected at 23:01 UTC/GMT on 12/02/1972, permanent containment on 12/13/1972.
+
+Addendum 2102-A-02: Excerpts from reconnaissance log 2102/OpRec/721202
+
+[13:38:15]
+
+Command:
+
+Merrick, what is your location?
+
+[13:38:23]
+
+Merrick:
+
+On the grounds, nearing the entrance to the bunker. Looks like it's wide open. No hostiles in sight.
+
+[13:38:36]
+
+Command:
+
+Copy that. You are cleared for approach. Good luck.
+
+[13:38:40]
+
+Merrick:
+
+Moving in.
+
+[13:54:03]
+
+Merrick:
+
+The smell is…off here, can't put my finger on it. Jones, stop bumblefucking and watch that left hallway!
+
+[13:54:09]
+
+Merrick:
+
+Mostly labs and offices. Found what looks like a break room a while back. Most of the files are gone and what they left doesn't look important. Just paperwork on shipments, food, supplies, standard logistical stuff.
+
+[13:54:21]
+
+Command:
+
+Take it anyway. Let IA3 figure it out. Any sign of the anomaly yet?
+
+[13:54:27]
+
+Merrick:
+
+Roger, will do. No sign of the anomaly so far, but it might be on minus 2 or lower. Ashton, start grabbing every scrap of paper you can see.
+
+[13:54:35]
+
+Command:
+
+Keep your eyes peeled, Merrick.
+
+[13:54:38]
+
+Merrick:
+
+Copy that, Command.
+
+[14:13:43]
+
+Merrick:
+
+Almost done on minus one. Still no sign of the anomaly. Smell's getting worse though. We've located an elevator to the lower levels. Will keep you posted.
+
+[14:13:51]
+
+Command:
+
+We copy, Merrick. Proceed with caution.
+
+[14:13:55]
+
+Merrick:
+
+Always. Jones, Ashton, we're going down. I want you to secure…wait. Command, any seismic activity in this area?
+
+[14:14:06]
+
+Command:
+
+Not that we know of, Merrick. Why?
+
+[14:14:11]
+
+Merrick:
+
+I think I just felt something move down there…
+
+[14:17:24]
+
+Merrick:
+
+Come in, Command. Elevator's stuck, we went down maybe about a foot before we hit something. No idea wha…wait, what's that sound?
+
+[14:17:31]
+
+<metal warping and tearing>
+
+[14:17:32]
+
+<multiple screams and cries of alarm>
+
+[14:17:35]
+
+Command:
+
+Come in, Merrick! What is your status?
+
+[14:17:35]
+
+Merrick:
+
+It's [UNINTELLIGIBLE] floor, something's coming through. [UNINTELLIGIBLE] Pry those doors open!
+
+[14:17:36]
+
+<indeterminate noise, multiple voices>
+
+[14:17:36]
+
+<grunting and yelling>
+
+[14:19:33]
+
+Command:
+
+Come in, Merrick!
+
+[14:19:36]
+
+Merrick:
+
+Command, we managed to open the doors and climb out. We've got an unknown amorphous mass coming up from the lower levels, recommend immediate countermeasures.
+
+[14:19:45]
+
+Command:
+
+Copy that, Merrick. We have 2 F-4s on stand-by at [REDACTED]. They'll be with you in approximately…7 minutes. Can you hold out?
+
+[14:17:32]
+
+<semi-automatic weapons fire>
+
+[14:19:53]
+
+Merrick:
+
+I have no fucking clue, Command. Right now we're trying every trick in the book, but every time we damage it, it seems to grow more rapidly. Ashton, see what a couple of lemons do to that thing!
+
+[14:19:53]
+
+<multiple explosions>
+
+[14:19:54]
+
+Merrick:
+
+Command, I hope those birds you're sending have something on board that'll stick, cause nothing we're carrying seems to be stopping this thing.
+
+[14:20:03]
+
+Command:
+
+Don't worry, the guys in IA said they know how to deal with this. Get your team out of there, Merrick.
+
+[14:20:08]
+
+Merrick:
+
+Copy that. We're out of he…
+
+[14:20:09]
+
+<indeterminate loud noises>
+
+[14:20:11]
+
+Command:
+
+Status, Merrick!
+
+[14:20:13]
+
+Merrick:
+
+We're okay, but this thing just exploded through the top soil and it's still growing. Those birds better get here fast!
+
+[14:20:19]
+
+Command:
+
+ETA approximately 6 minutes. How fast is it moving?
+
+[14:20:22]
+
+Merrick:
+
+JONES, GET OUT OF THERE!
+
+[14:20:23]
+
+Command:
+
+Merrick, what's going on?
+
+[14:20:23]
+
+<muffled cry>
+
+[14:20:26]
+
+Merrick:
+
+We lost Jones. He just got sucked under that thing. I have no idea what its speed is, and I don't care. Get those birds here NOW!
+
+At 14:22:56 UTC/GMT, two F-4 Phantoms dropped their payload of M47A1 Napalm Incendiary bombs, successfully cauterizing the tissue generated by SCP-2102 during its UER/2102 event in progress.
+
+Addendum 2102-A-03: Translated excerpts from captured GRU Division "P" documentation
+
+The following selected diary entries were found amongst paperwork recovered from the Institute of Experimental Medicine ČSAV. Their author could not definitively be determined.
+
+Date: 2 March 1972
+
+Finally arrived. I swear, the Tupolev was shaking more than the BMP I rode in during my service. The equipment crates were already there, and mostly intact, though two [REDACTED] chambers and a roentgen got mashed a bit on the train, and the mainframe looks rather unwell too.
+
+I met with the local staff I kept hearing such things about. Comrade doctor Csanyi, their head of research, has some genuinely compelling ideas about test subject suitability index based on basal metabolic rate and a couple other things, though that might have been the result of his barackpalinka.
+
+Date: 3 March 1972
+
+Turns out our and their three-phase plugs are somewhat different. I have a headache.
+
+Date: 5 March 1972
+
+Good news - me, Michail, Kuzma and their technician Prazdnovsky managed to swap the leads on everything, and fix up the broken kit with the spares he managed to dig out from somewhere. All of it works, too.
+
+Bad news - As soon as we plugged in all of it in for a test run, the fuses blew and we knocked out the power from half the institute. I would have thought they prepared things to our specifications.
+
+Ugly news - Looking through their fusing diagrams - it took the three of us half the day to sort it out. Whoever drew these up should be scrubbing the cellars of the Lubyanka.
+
+At least we will have time to go sightseeing. There is a pretty amazing castle ruin nearby, and since comrade Dr. Oravcova's sister works there, we can go for a private tour. Still, the project stagnating for reasons this stupid leaves a bitter aftertaste.
+
+Date: 19 April 1972
+
+It took a couple chats with the ONV board, the institute's director and one angry call to Moscow, but we had the power grid strengthened in record time. Take that, Wattley and Weber4.
+
+In other news, they brought in a couple promising candidates today. Not ideal by far, but we will have to work with what we have. Soon, we will see if the theories are correct.
+
+PS. The trip was a blast. Got Marusja a scarf she will love, too, and what is better, entire stock = about a kilo - of chewing gums - all it took was a roll of rubles to the shopkeeper.
+
+Date: 5 May 1972
+
+The first subject looked promising at first. When we introduced trauma, rapid clotting took place as expected, but the process aborted soon enough, and lesions developed. Turns out Michail mixed in far too much neodymium, the oaf. I swear this is the last straw - I told him if he fucks up again I will drag his ass to Moscow by his collar.
+
+Date: 28 June 1972
+
+Why do they keep dying?! It does not make sense - reducing the amount of neodymium actually made the necrosis worse. I cannot tell Michail that or I will be hearing it for the rest of my life.
+
+Date: 3 August 1972
+
+The cultivation is done, and Elena (MUDr. Elena Oravcova CSc., current whereabouts unknown - red.) had a look at the histology. The results are interesting - almost like an equilibrium of sorts. The cells divide fifty times faster than in control samples, but they die off almost immediately too, until the whole thing chokes on its own waste, so to say. It is not pretty.
+
+It seems that to make this work, we need to shift that balance somehow.
+
+Date: 15 August 1972
+
+So we got another candidate, the 16th since the start of the project. I had gone to Szilard (RNDr. Szilard Csanyi DrSc., see documentation on Operation Redemption - red.) and told him we really needed someone more resilient than normal people. The ministry came through - from what we heard, we got ourselves a counter-revolutionary who spent fifteen years in an uranium mine as punishment detail, and somehow came out fine. Sure enough, histology results point at his cells pulling a Koschei the Deathless, and his natural regeneration is about twice as fast as your average man, too. Who knows? This might be the one.
+
+Date: 5 September 1972
+
+Preliminary results looking good. The wound healing process does not abort anymore, though perhaps it is completing a bit too rapidly. I cannot believe I just wrote that, hah! I wonder if we can refine the process and perhaps even make it permanent? It was not our original goal, but if we manage this…
+
+Date: 24 September 1972
+
+I am finding it increasingly difficult to sleep. X-16 is not like the others, he is not weak. The others never lasted for more than one cycle, but X-16 has been lacerated so many times now, and each time he survives. Today he somehow freed himself from the restraints and attempted to slit his wrists. I should be happy, because it means the effect now lasts several hours longer than we expected, but I cannot help but feel bad for him. I need some time off. Maybe Szilard will let me go see Marusja.
+
+Date: 15 October 1972
+
+Finally! We have found the right composition. It turns out that we needed a little more of that stabilizing agent Jurij (unknown - red.) introduced a few weeks ago. It was staring us in the face all this time. Subject X-16 is responding well, in the medical sense at least; he is as uncooperative as ever. It does not matter. It will be done and over soon, another little step towards our victory. When you think of it, the man is a hero, and he does not even know it.
+
+Date: 3 November 1972
+
+Elena showed up in my section of the lab just as I was preparing another batch of the serum. She looked distraught, and practically dragged me off by the sleeve. Good reason too. Long story short, the samples seem to be gaining mass from nowhere. She thought it was a measurement error, but I got the same after spending the day calibrating the machines. I am very worried.
+
+I got into an argument with Szilard and Jurij - they say it is bound to be an error and want to press on, while I and Elena want to look deeper into what the hell is happening.
+
+Date: 26 November 1972
+
+There is a pattern to the increases in mass and [DATA EXPUNGED] all over, and it is not just X-16 now. I feel the answer is at my grasp. I had it all worked it out yesterday, but I woke up at my desk soon after. I really need more sleep. And Marusja, I miss her, but Szilard is not about to let me go.
+
+Date: 27 November 1972
+
+We were ordered to stop working on sample analysis and focus on empirical tuning of the composition. Me and Elena appear to be the only ones with an ounce of common sense here. Just a few days more.
+
+Date: 2 December 1972
+
+It is far too early to be up, but I cannot sleep. Today is the day we either produce the very first super-soldier, or we start over with nothing. I really do not know which is better. Eh, tomorrow is a day too.
+
+There are no later entries in the diary.
+
+Footnotes
+
+1. See 2102/Prt/Brch-14A:v1.2 for more information
+
+2. Conservative estimations put angiogenesis, collagen deposition, granulation tissue formation and epithelialization occurring at a rate a factor 1015 higher than baseline human physiology.
+
+3. The Foundation Intelligence Agency
+
+4. Oscar Wattley and Norbert Weber, two prominent British researchers in tissue regeneration. Both attended the 1970 World Congress on Experimental Medicine in Vienna and may have met the author there.

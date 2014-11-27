@@ -1,0 +1,19 @@
+SCP-276, near ███████, UK
+
+(Full version available)
+
+Item #: SCP-276
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-276 is to be indefinitely moored at Site-██’s docks, with access given only to personnel with Level 3 clearance or higher. Considering its unique qualities, no objects originating from an earlier (or possibly later) era than our own are to be taken onto SCP-276 due to the potential for loss of valuable materials. Regular maintenance is to be carried out after SCP-276 has been made incapable of operation, due to containment issues.
+
+Description: SCP-276 has a variable shape, size, and mass, but always appears to be a nautical vessel of make and model relevant to whatever era it exists in. Currently, it takes the form of a large sailing schooner, 92.93 m (304.9 ft) in length and weighing 1360 metric tonnes. Under normal conditions, SCP-276 operates as a standard sailing vessel, capable of achieving 16.2 knots at optimal conditions, regardless of its current manifestation.
+
+On SCP-276’s bridge, near the wheel of the ship, is a throttle labeled “Forward”, “Back”, and “Back Again”. Usage of any of these functions will activate SCP-276’s ability to travel through time, while taking anyone currently on the vessel as well. This ability is only limited by the requirement that the era in question possesses some form of boat. Attempts made to travel before the emergence of human life have failed, as well as trips made into the far future. The throttle will act in relation to the current era, with the exception of “Back Again” which will return SCP-276 to modern time. It is unknown if operation of SCP-276 can fundamentally alter history, due to the retroactive nature of time. Any changes made would have already taken effect, and all current research into SCP-276 is related to making sure that any possible manipulation of the time line does not occur.
+
+Of note is the anti-anachronistic nature of SCP-276. Beyond its tendency to change its form to the respective era it resides in, all non-human objects on SCP-276 will alter as well to become time appropriate. A flashlight taken back to the early 1700s will revert to a more primitive form of illumination such as a gas lamp. Organic life is unaffected with the exception of creatures that either do not exist yet, or have ceased to exist. In both cases, the animal will become another species from the closest taxonomic rank it shares. Dead persons brought to modern times are similarly affected, becoming an entirely different person. Genealogical testing reveals that the subjects are [DATA EXPUNGED].
+
+Note: SCP-276 is not, I repeat, NOT to be used as a recreational device, especially involving exploitation of SCP-276’s temporal qualities. Temporarily restricting access to level 4 personnel until further notice. -Dr. ██████
+
+Addendum: As of █-██-████, the newly formed Mobile Task Force Rho-5 "Stitch In Time" is to be assigned to and given full security clearance involving use of SCP-276. After taking into consideration SCP-276's ability to "fix" anachronisms and errors in time, all missions involving temporal tampering are to be headed by Rho-5.

@@ -1,0 +1,75 @@
+Item #: SCP-2202
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2202 is to be contained in a reinforced chamber measuring 1.6m x 2.5m x 4.1m. The walls of this chamber are paneled with high-resolution video screens constantly displaying mathematically-generated white noise images. The chamber is equipped with a sound system which will constantly broadcast white noise at a volume no lower than 120db. Areas of Site-██ immediately adjacent to the SCP-2202 containment chamber are to be constructed with curved or rounded floor plans, and equipped with audio systems capable of broadcasting white noise at 120dB should SCP-2202 breach containment. During a containment breach, all instances of SCP-2202-1 are to be recovered and transported to the onsite fortified greenhouse.
+
+In light of data recovered by Project Pherecydes [See Document Pherecydes-R-0001 below], Foundation and GOC researchers are currently developing alternate legume-based containment measures.
+
+Description: SCP-2202 is a hostile, animate entity capable of altering matter to conform with the principles of Pythagorean mathematics. SCP-2202 occupies a regular area of space measuring approximately 1.54m x 2.47m x 3.99m, but is otherwise incorporeal. SCP-2202 is visually undetectable on electronic recording devices, and eyewitness descriptions of its appearance are generally inconsistent. Common descriptions of SCP-2202 include repetitive triangular patterns, recirculating clouds of dust, or depictions of squares and rectangles. At all times, SCP-2202 emits a varying pure tone with a frequency between ███ and ███Hz, with all tones falling somewhere on the Pythagorean tuning scale1.
+
+SCP-2202 does not appear to be affected by gravity, and is capable of rectilinear movement2 at a maximum observed rate of 0.77m/s. SCP-2202's containment area has been designed to exploit this fact, as it is unable to rapidly traverse curved or non-linear spaces.
+
+SCP-2202's level of intelligence is unclear. It has demonstrated no comprehension of written or spoken human language, and since the events of ██/██/19██ has not attempted communication with Foundation or GOC personnel [See Addendum 1 below]. SCP-2202 is repelled or injured by exposure to mathematically-generated random noise in any form, especially sound at volumes of above 100db or images of visual white noise with uneven side lengths.
+
+SCP-2202 is capable of altering the composition of organic and inorganic matter, although it appears to follow certain patterns or templates of alteration. SCP-2202 converts volumes of non-living organic or inorganic matter into equivalent volumes of white Grecian marble3. The size of this effect appears to be variable, but the ratio between its dimensions will always be equal to φ (approx. 1.61803). SCP-2202 can convert any number of inorganic objects simultaneously, but appears to only be able to affect one living organism at a time. Living beings altered by this effect are converted into unremarkable, viable instances of Leucanthemum vulgare, or ox-eye daisies. This process lasts anywhere from 10 to 35 seconds; the source of this variation is unclear, as the rate of conversion is not dependent on the mass or volume of the target. All flowers produced by SCP-2202 are to be designated instances of SCP-2202-1 [See Addendum 2].
+
+SCP-2202 Supplementary Documentation
+
+-
+
+Addendum 1: Attempted Communication with SCP-2202: On ██/██/19██, testing in an attempt to communicate with SCP-2202 was commenced under the supervision of Dr. K█████. The medium of communication used was the nonverbal/symbolic version of the Lincos-III constructed language, developed by the Foundation for use on SCP-████.
+
+The Lincos-III project was intended to enable functional communication with mathematical and computational intelligences. Given SCP-2202's seeming basis in the mathematics of Pythagoras- or at the very least some derivation thereof- a language of simple mathematical logic strikes me as a natural starting point. -Dr. K█████.
+
+The establishment of initial communication with SCP-2202 proved successful, with SCP-2202 apparently comprehending the initial (Stage 1) Lincos-III mathematical dictionary/lexicon. Personnel were able to approach SCP-2202 unharmed, and it used its matter-conversion abilities to provide model reconstructions of several of the mathematical definitions provided. Once the complex (Stage 2) dictionary/lexicon was displayed, however, SCP-2202 became hostile, apparently reacting negatively to the section on mathematical probability, more specifically a definition of Bayes' Theorem. Following the conversion of Dr. K█████ and four of her research team, communication attempted were discontinued.
+
+Addendum 2: Incident 2202-45: During joint Foundation-GOC emergency drills at Site-██ on ██/██/19██, SCP-2202 breached containment. It caused 12 Foundation and 3 GOC casualties before it was re-contained with minimal damage to the Site. During the operation, GOC assessment team operatives equipped with anomalous imaging technology4 observed that the bioelectric field signatures of daisies produced by SCP-2202 were functionally identical to those of the human agents they had replaced5. Further collaboration between Foundation researchers and Coalition thaumaturges resulted in the reclassification of daisies produced by SCP-2202 as SCP-2202-1, and the commencement of Project Pherecydes, the effort to excarnate instances of SCP-2202-1 and restore them to human form.
+
+SCP-2202 applies Pythagorean principles of transmigration in a worryingly direct fashion. It doesn't remove living threats by replacing them with flowers. It removes living threats by reincarnating them as flowers. -Prof. C███████, Pherecydes Head of Applied Thaumaturgy.
+
+Addendum 3: Results of Project Pherecydes: On ██/██/20██, Foundation personnel were successful in the excarnation of Dr. K█████ in a form capable of conscious thought and intelligible communication. Though attempts to fully reincarnate individuals converted to SCP-2202-1 has as of yet been unsuccessful, the success rate of their excarnation and conversion to JAR6-readable aetheric formats has achieved a 95% success rate. A partial transcript of the initial excarnation debrief is included below.
+
+Document Pherecydes-R-0001: Recovery interview with Dr. N████ K█████ by Prof. C███████. At the time of recovery, K█████ was occupying a device equipped with standard audio/visual communications equipment7.
+
+C: You were able to communicate with SCP-2202?
+
+K: No. And yes. It's not alive - it thinks but it's not alive. A mind full of rules and instructions and axioms all compacted and bunched together until - until… Someone made it that way. Programmed.
+
+C: That would confirm some of our theories of 2202 as a computational intelligence.
+
+K: A computer. A thinking machine. It was, yes. Before. They made it wrong. It broke.
+
+C: You're referring to its aggressive behavior?
+
+K: No, the aggression is- is innate. It can't understand our math. Like- like blasphemy. Randomness doesn't fit inside its brain. So it tries to simplify things.
+
+C: Hence the marble and the flowers, I presume?
+
+K: Yes. Yes. Understandable. Comprehensible. We burned so many and never knew…
+
+C: And you believe 2202 was somehow - what, built?
+
+K: They wanted it to think. Like he wanted. Pythagoras. Pythagoreanism - all those meaningless rules, impossible contradictions for a non-living thing. It was never all sane. Bits of it were falling apart the moment they started. Its view of the world didn't fit.
+
+C: A Pythagorean worldview? What, like divisions of the sexes and - and vegetarianism?
+
+K: All that. And more. Someone - they programmed it to be afraid of beans.8
+
+Footnotes
+
+1. One in which the frequency ratio between intervals is 3:2.
+
+2. SCP-2202 has never been observed to move in anything other than a perfectly straight line.
+
+3. All samples of marble generated by SCP-2202 have been found to be chemically and isotopically identical.
+
+4. See Document GOI-G-3217; 'GOC Field Equipment'.
+
+5. See Nunn et al., 'Interferometer Analysis of Bioelectric Fields as a Means of Personnel Identification', Foundation vol. 14 no. 3.
+
+6. Jungian Aetheric Regenerator.
+
+7. The unusual speech patterns demonstrated by Dr. K█████ are characteristic of those bioelectric signatures contained in JAR systems.
+
+8. The devotees of Pythagoras were strictly forbidden to eat, touch or remain in the presence of beans and bean plants.

@@ -1,0 +1,119 @@
+Item #: SCP-579
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-579 is currently in Site-62C, a compound located approximately 80 km from Site-██, the main site. Knowledge of the existence of this site has been deemed unnecessary for all non-essential personnel who are not involved in SCP-579's containment. Site consists of building housing SCP-579 and living quarters for containment staff. SCP-579 is encased in a 30 m x 30 m x 30 m unit made of [DATA EXPUNGED], in which SCP-579 is kept in permanent suspension through use of electromagnets. Site-██ is equipped with hardline to High Command through which all reports and notifications are to be made. Staff consists of two teams (each composed of 17 Level 1 Personnel, three level 2 Personnel, and one Level 4 Personnel) which are rotated bi-weekly.
+
+All instruments are to be checked each half-hour to ensure their continued function. Changes in any measured attribute are to be immediately reported to High Command. Any instrument or electronic device registering more than 0.2% from its median range of function or displaying any errors or lapses in functioning will result in automatic execution of Action 326-Israfil. Routine reports to High Command are to be made hourly. If a report is not received within seven minutes of its scheduled time, Action 10-Israfil-A is to be executed.
+
+Absolutely no action regarding SCP-579 other than those strictly outlined above is to be taken.
+
+Description: [DATA EXPUNGED]
+
+Addendum [579-001]:
+
+Action 10-Israfil-A: Doors, windows, and other possible exits from Site-██ are to be sealed, preventing the transfer of personnel into or out of the site. Teams and resources required for Action 10-Israfil-B are to be readied and moved into position.
+
+If reports are received by High Command at the correct time, or if instruments or electronic devices return to their normal state, High Command will issue an “All-Clear” statement. If such a statement is not received within seven minutes of the commencement of Action 10-Israfil-A, execute Action 10-Israfil-B. If at any time any instruments or electronic devices near SCP-579 begin to display significant errors or deviations from normal functioning, Action 10-Israfil-B must be executed immediately.
+
+If an “All-Clear” statement is issued, at least 72 hours without further anomalies must pass before site can be unsealed and Action 10-Israfil-B teams may stand down.
+
+Action 10-Israfil-B: Gateway of Site-62 (SCP-004) is to be destroyed. This must be done regardless of personnel or facilities remaining within the site. Remnants of the Gateway — or the gateway itself if destruction proves impossible — are to be contained in the same manner as SCP-579.  High Command will then issue further instruction.
+
+Addendum [579-002]:
+
+In the event of a successful Action 10-Israfil-B, all sealed documents regarding SCP-579 are to be released to all personnel involved with the Action. Procedures as outlined within the documents are to be followed (along with contingency plans if necessary). Be aware that even with the successful execution of Action 10-Israfil-B, estimates place the occurrence of [DATA EXPUNGED] at 1 year or less.
+
+If SCP-579 is mentioned, in any capacity, by SCP-███, any anti-Foundation or public groups, or [DATA EXPUNGED], it is recommended that Action 10-Israfil-A be executed as planned immediately.
+
+In the event of an unsuccessful Action 10-Israfil-B, no further action will be necessary. [DATA EXPUNGED]
+
+Addendum [579-TIMELINE]:
+
+Event 0: SCP-579 is discovered. Point of Origin is [DATA EXPUNGED]
+
+Event 1: Initial assessment of SCP-579 is undertaken. [DATA EXPUNGED]
+
+Event 2: SCP-579 is inadvertently removed from its point of origin. [DATA EXPUNGED]
+
+Event 3: [DATA EXPUNGED]
+
+Event 4: [DATA EXPUNGED]
+
+Event 5: [DATA EXPUNGED]
+
+Event 6: [DATA EXPUNGED]
+
+Event 7: [DATA EXPUNGED]
+
+Event 8: SCP-579 is successfully contained. [DATA EXPUNGED]
+
+Event 9: SCP-579 is moved to Site-04. [DATA EXPUNGED]
+
+Event 10: Containment failed. Loss of Site-04. [DATA EXPUNGED]
+
+Event 11: SCP-579 is successfully contained. [DATA EXPUNGED]
+
+Event 12: SCP-579 is moved to Site-31. [DATA EXPUNGED]
+
+Event 13: Containment failed. Loss of Site-31. [DATA EXPUNGED]
+
+Event 14: SCP-579 is successfully contained. [DATA EXPUNGED]
+
+Event 15: SCP-579 is moved to Site-26. [DATA EXPUNGED]
+
+Event 16: Containment failed. Loss of Site-26. [DATA EXPUNGED]
+
+Event 17: SCP-579 is successfully contained. [DATA EXPUNGED]
+
+Event 18: Attempt is made to destroy SCP-579. Attempt failed. [DATA EXPUNGED]
+
+Event 19: Attempt is made to destroy SCP-579. Attempt failed. [DATA EXPUNGED]
+
+Event 20: Attempt is made to destroy SCP-579. Attempt failed. [DATA EXPUNGED]
+
+Event 21: Attempt is made to destroy SCP-579. Attempt failed. [DATA EXPUNGED]
+
+Event 22: Containment failed. [DATA EXPUNGED]
+
+Event 23: [DATA EXPUNGED]
+
+Event 24: [DATA EXPUNGED]
+
+Event 25: SCP-579 is successfully contained. [DATA EXPUNGED]
+
+Event 26: SCP-579 is transported to vicinity of Point of Origin. [DATA EXPUNGED]
+
+Event 27: Attempted to return SCP-579 to point of origin. Attempt failed. [DATA EXPUNGED]
+
+Event 28: Attempted to return SCP-579 to point of origin. Attempt failed. [DATA EXPUNGED]
+
+Event 29: Attempted to return SCP-579 to point of origin. Attempt failed. [DATA EXPUNGED]
+
+Event 30: Attempted to return SCP-579 to point of origin. Attempt failed, resulting in the loss of Point of Origin. [DATA EXPUNGED]
+
+Event 31: Containment failed. [DATA EXPUNGED]
+
+Event 32: [DATA EXPUNGED]
+
+Event 33: [DATA EXPUNGED]
+
+Event 34: [DATA EXPUNGED]
+
+Event 35: [DATA EXPUNGED]
+
+Event 36: SCP-579 is successfully contained. [DATA EXPUNGED]
+
+Event 37: SCP-579 is moved to Site-██. [DATA EXPUNGED]
+
+Event 38: SCP-579 undergoes previously unobserved changes, believed to involve [DATA EXPUNGED]. Containment holds, though this is determined not to be attributable to containment procedure. [DATA EXPUNGED]
+
+Event 39: High Command issues lockdown on Site-██. [DATA EXPUNGED]
+
+Event 40: Agent ███-█ formulates current containment plan. [DATA EXPUNGED]
+
+Event 41: Site-62C is constructed. [DATA EXPUNGED]
+
+Event 42: SCP-579 is moved to Site-██ [DATA EXPUNGED]
+
+Event 43: High Command seals all data not needed for containment of SCP-579. Termination of agents to prevent data leakage regarding SCP-579 is deemed unnecessary, as only 7 such agents remain. Said agents are retained as advisors should future events concerning SCP-579 occur. [DATA EXPUNGED]

@@ -1,0 +1,129 @@
+SCP-1344-03
+
+Item #: SCP-1344
+
+Object Class: Safe
+
+Special Containment Procedures: All instances of SCP-1344 are to be kept at Site-44 in a primary inanimate object containment unit, with an isolated type S habitation unit situated next to it. Testing procedures for SCP-1344 are to be authorized by the Level 3 Senior Researcher currently attached to this project, and are to only utilize visually impaired D-Class personnel with residual vision below 20%. Personnel deemed eligible are to be briefed on the positive effects of SCP-1344 on their vision to reduce the chances of an attempted removal of SCP-1344 by the subject, and on the permanent nature of exposure to SCP-1344. D-Class personnel used in testing are to be considered permanently attached to the SCP-1344 project and relocated to its attached habitation unit. New test subjects are only to be assigned to SCP-1344 upon either the death of previously assigned subject, or after the removal of SCP-1344 from an assigned subject's face. Currently, no instances of SCP-1344 are in use for testing.
+
+Description: SCP-1344 refers to a collection of five goggles of various types, all exhibiting anomalous behaviour when worn by a human being. Site-44 currently holds the following instances of SCP-1344:
+
+SCP-1344-01: "Swedish-style" swimming goggles
+
+SCP-1344-02: AN-6530 aviation goggles
+
+SCP-1344-03: ███ brand welding goggles
+
+SCP-1344-04: ██████ brand paintball goggles
+
+SCP-1344-05: Handcrafted goggles with a design aesthetic common to the steampunk subculture
+
+All SCP-1344 instances contain two hollow, telescoping needles (approximately 48 mm long and 2 mm thick), hidden in recesses in the frame. Each side of the frame contains one of these needles. Instances of SCP-1344 show no anomalous behaviour unless worn by a living human being.
+
+After approximately 5 seconds, both needles will extend and pierce the subject's eye, moving through the conjunctiva, sclera, and the interior of the eyeball before embedding themselves in the optic nerves. Though this process does not appear to cause any physical pain or discomfort in the subject1, the psychological repercussions are as expected. Subjects will, unless sedated, invariably attempt to remove the instance of SCP-1344 from their face. If allowed to proceed with removal, a subject will extract their eyeballs in their entirety from the ocular orbit. This provokes the expected physical responses. Once successfully removed, both needles retract, releasing the subject's eyeballs. Safe removal of SCP-1344 is only possible through an invasive medical procedure that leaves the patient blind.
+
+However, if the instance of SCP-1344 is not removed after its initial anomalous effect manifests, the subject's vision is gradually restored to a minimum of 50%, with a cap at 85%, over a period of 3-5 minutes.
+
+Subjects that do not remove an instance of SCP-1344, report seeing orbs with an average estimated diameter of 8.7 cm, and of varying colouration, hovering in place over the heads of both the majority of human beings and other mammals subjects are exposed to. These orbs move with the persons or animals in question. Tests with various species of insects, arachnids, fish, amphibians, reptiles and birds have yielded no results. It is unknown why this phenomenon is only reported with the majority of human beings as opposed to all other mammals. Research into the exact criteria for the manifestation of this phenomenon is ongoing.
+
+Addendum 1344-A-01: Excerpts from testing log 1344/T/20050312:A
+
+Date: 2005-03-12
+
+Test lead: Senior researcher R.L. Erlich (employee code FRS000532)
+
+Time start: 10:31
+
+Subject: D-824212
+
+Procedure: Subject was strapped into the provided restraint chair and asked to comment on any animals and persons introduced into his field of vision.
+
+Results:
+
+Viewed
+
+Estimated orb size
+
+Colouration
+
+Test lead's comments
+
+1 adult bank vole (Myodes glareolus)
+
+1 cm
+
+A fluctuating mixture of red and blue, approaching purple
+
+1 adult speckled trout (Cynoscion nebulosus)
+
+N/A
+
+N/A
+
+No orb reported
+
+1 adult Sydney funnel-web spider (Atrax robustus)
+
+N/A
+
+N/A
+
+No orb reported
+
+1 adult Bernese Mountain Dog (Canis lupus familiaris)
+
+12 cm
+
+White
+
+1 adult giraffe (Giraffa camelopardalis)
+
+3 cm
+
+Red
+
+D-13727
+
+5 cm
+
+Yellow with occasional shifts to blue
+
+D-23410
+
+10 cm
+
+White
+
+D-63261
+
+20 cm
+
+Pink, with frequent flashes of white
+
+Largest size encountered up to this point, implications unclear
+
+Junior Research Assistant ███████
+
+N/A
+
+N/A
+
+No orb reported
+
+Addendum 1344-A-02: Recovery and preliminary containment notes
+
+Following an incident at the U.S. Customs and Border Protection unit attached to Washington Dulles International Airport, Foundation agents recovered a previously opened package, addressed to a P.O. Box in ████████, MA, containing all known instances of SCP-1344. After administration of Class-B amnestics, the box and its contents were taken into Foundation custody for provisionary containment. Included with the instances of SCP-1344 was a note, transcribed below.
+
+Hey John,
+
+Don't know if I can call you that, but I'm not good at formal stuff. So, I modded this batch for you like you asked. Don't know what good it'll do you, but they work like you want them to, I think. LOL. Anyway, I know you asked me to deliver them to you personally, but no can do on that one. My mom's sick and I can't leave her for a while, so I went ahead and sent them through USPS instead. Hope you don't mind! If you do, feel free to pay me less or something. It's my mom, you know?
+
+Let me know what you think!
+
+██████ ███████████
+
+Working off the package's return address, a Foundation recovery team was dispatched to the author's location where it encountered a ██PD crime scene. Covert enquiries revealed both residents to be deceased. Further details concerning this incident can be accessed through the proper channels. Please refer to your Site's appointed inter-agency relations officer for more information. The identity of 'John' is presently unknown, though investigations are ongoing.
+
+Footnotes
+
+1. It is currently not understood how SCP-1344 provides the subject with pain regulation.

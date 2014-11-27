@@ -1,0 +1,21 @@
+Item #: SCP-1134
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1134 is contained in Volatile Items Storage Warehouse 14 in a 3m x 3m x 4m room with one exit consisting of a standard reinforced airtight door. All interior surfaces of the containment room are to be coated in SCP-1134-1.
+
+Personnel requesting the use of SCP-1134-1 in containment procedures or security measures must be Level 2 or above and must obtain clearance from Dr. Blank.
+
+Description: SCP-1134 is a circular polyvinyl-chloride 10-gallon container of paint-and-primer mix bearing the label "████████ Conglomerate NO MESS Ballistics-Grade Paint | Colour formula 366" in a translation below the primary label, which is slightly modified traditional kanji. No such company has been located at this time. All other writing on the drum is in this modified traditional kanji, and deals with patent information and date of manufacture, noted as 04/11/20██. The lid is easily detached and reattached.
+
+SCP-1134-1 is the liquid contained in SCP-1134. It has roughly the same consistency as a high-quality paint-and-primer mix. There are currently 8.02 gallons remaining of the original ten, the remaining liquid having been used as paint prior to recovery or in subsequent Foundation testing. SCP-1134-1 is a glossy violet in color.
+
+SCP-1134-1 is extremely hazardous due to the anomalous qualities of the liquid. Any amount of SCP-1134-1 that is allowed to gain free momentum prior to surface application quickly accelerates to a uniform speed of 490 m/s, equivalent to a .357 magnum handgun round. Larger amounts of SCP-1134-1 break up into smaller uniform droplets, measured by high-speed camera to be oblong, 33mm long, and very similar in shape to bullets. Upon impact with an unpainted surface or obstruction, SCP-1134-1 behaves in a similar manner to a bullet.
+
+Unlike bullets, SCP-1134-1 does not lose energy when coming into contact with a surface or obstruction and will instead ricochet at a constant speed until making contact with a SCP-1134-1 painted surface or organic object. Once contact is made with the painted surface, the ricocheting SCP-1134-1 is absorbed into the liquid on the surface and a corresponding increase in surface coverage can be measured. SCP-1134 has been demonstrated to be exempt from damage due to SCP-1134-1.
+
+Once applied to a surface and allowed to dry, SCP-1134-1 has been observed to be completely bulletproof, withstanding impacts up to a .30 caliber sniper round. Any surface painted with SCP-1134-1 will be undamaged by force below 65,000 N (see Test Log 1134-03) applied to the side that is painted. Force applied from the other side of the surface has been met with normal resistance for the surface up to the point at which SCP-1134-1 forms a dry barrier.
+
+O5 Note: We feel that despite the obvious benefits of SCP-1134-1, access must be carefully regulated by the research head due to the limited quantities we currently possess. - O5-██
+
+Recovery Log 1134 Abstract: SCP-1134 was recovered on 07/20/2004 in a warehouse belonging to ███ ████████. It was found among other supplies in the foreman's office, which appeared to be in the middle of renovation. Anomalous properties were determined after Recovery Agent Groulson accidentally spilled a small amount of SCP-1134-1, resulting in 4 deaths.

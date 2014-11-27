@@ -1,0 +1,15 @@
+Item #: SCP-075
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-075 is contained in a 1 m x 1 m x 1 m Level-4 corrosion-resistant container, which must be contained in a secure chamber with equal corrosion resistance. The absolute humidity of the chamber may not exceed 1% at any time. Medicinal-grade desiccants must be available at all times in order to maintain this level of humidity. If the humidity of SCP-075's chamber ever exceeds 1%, all personnel are to be evacuated immediately and the site will be locked down until the humidity is reduced to acceptable levels.
+
+All personnel who enter SCP-075's containment chamber must wear MOPP Level 4 protection. Injection tests, as well as any test which involves an aqueous solution, are strictly forbidden. If any such solution comes into contact with SCP-075, the area will be immediately locked down and flooded with desiccant until the humidity is brought back to acceptable levels. Evacuation of personnel remaining in the area is prohibited.
+
+Description: SCP-075 resembles a large snail 20 cm in length, 13 cm in width, and 15 cm in height, with a muscular foot resembling a six-fingered, clawed hand. SCP-075 is exceptionally heavy, with a mass of approximately 860 kg, a property that is not understood. Desiccation is the only known means of containing SCP-075, as it will enter a dormant state when nearly completely dry.
+
+When not desiccated, SCP-075 moves at incredible speeds for its size and mass. It adopts the behavior of a predator, jumping at and drenching its prey in a highly caustic base solution secreted from pores on its foot. These secretions are more corrosive than any substance known to terrestrial science. Due to SCP-075's aggressive behavior when active, this compound cannot be harvested. No material completely resistant to its corrosive power has been found.
+
+Addendum 075-F: Attempts to harvest SCP-075's secretions must be approved and supervised by all on-site Level 4 personnel. However, approval of said personnel cannot override the standing order to not introduce any liquid solution to SCP-075, including its own secretions.
+
+Addendum 075-G: A cup of SCP-075's secretions was successfully harvested by using SCP-294. Testing is underway to determine what substances, if any, are immune to its corrosion. Testing is also underway to determine why the cup provided by SCP-294 is immune to the substance's effects.

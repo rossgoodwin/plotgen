@@ -1,0 +1,17 @@
+SCP-403 in an inert state
+
+Item #: SCP-403
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-403 is to be sealed in a steel safe with a combination known only by Dr. ████ ███████. The walls of the safe must be reinforced with fire-retardant material complying with Foundation standard C3/403. The safe will remain under surveillance by 2 armed guards at all times.
+
+Description: SCP-403 is a visually unremarkable naptha-fueled lighter that was discovered in a cafeteria at Site-██. When lit once after a prolonged period of disuse, SCP-403 produces an ordinary flame. However, if ignited repeatedly within 24 hours the flame produced by SCP-403 becomes larger and more violent in nature with each subsequent ignition.
+
+During an experiment a Class-D test subject attempted to light SCP-403 a third time within two hours, resulting in a powerful explosion of superheated gas and plasma. This event destroyed the monitoring equipment within the testing cell, and caused significant damage to the flame-resistant plating lining the walls. Despite this, the subject and the item itself remained virtually unharmed. Radio-imaging has shown the formation of a magnetic field around the lighter, which is hypothesized by researchers to be the cause of this immunity.
+
+The fuel used by SCP-403 to produce the detonations is not known as of yet, if any conventional fuel is used at all. Examination of the item shows that the fuel compartment within SCP-403 is empty; no traces of any combustible compound have been found. Considering this, and the amount of energy initiations are capable of producing, SCP-403 should currently be treated as if using a functionally inexhaustible power supply. Tests to ascertain the exact nature of this power source are ongoing.
+
+Addendum 403-1: Continued experimentation has been authorized for SCP-403, and a designated safe detonation area has been provided for testing. After the third ignition, a Class-D personnel attempted a fourth, which caused an explosion that initially appeared to be a thermonuclear blast. Evaluation of the explosion has demonstrated that it was of equivalent magnitude to 10 MT of TNT, far exceeding the yield of most strategic nuclear weapons; this yield was also far greater than extrapolations based on past tests seemed to suggest. Further study of recorded data seemed to show that the event was actually caused by the release of [DATA EXPUNGED] stellar material. No abnormal lasting effects from the explosion were observed, apart from the devastation wreaked by the initial blast. Once again the subject used to ignite SCP-403 was unharmed by the blast.
+
+Addendum 403-2: All further tests have been suspended due to the extreme danger presented by the high-energy detonations SCP-403 is capable of producing. As it seems the power of SCP-403 increases exponentially, a fifth ignition could result in an event comparable to [DATA EXPUNGED]. A blast of this magnitude could devastate vast portions of the continent and present a severe risk of breaching the containment of several Foundation sites, including [REDACTED].

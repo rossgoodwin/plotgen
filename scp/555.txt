@@ -1,0 +1,23 @@
+SCP-555 in containment.
+
+Item #: SCP-555
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-555 is to be placed in a standard containment locker. Corpses are not to be brought within eighteen meters of SCP-555 or the room in which it is contained. SCP-555's containment procedures were revised after Incident 555-1.
+
+SCP-555 is to be housed in a 5x5x3 meter concrete containment chamber. Inside the walls, an electromagnet array with a combined internal field strength of three teslas or greater is installed. In an interstitial chamber, a set of the most powerful permanent magnet arrays available is to be held away from the electromagnet array, and moved into place by automatic systems in the event of power failure. The chamber is to be separated from the rest of the facility by an exclusion zone of at least twenty meters, due to dangers posed by high magnetic fields and by the SCP itself. No corpses are ever to be brought into the exclusion zone. A HEPA air filtering system is to be installed to avoid fouling of the SCP. SCP-555 is never to be stored in the same site as SCP-447.
+
+Description: SCP-555 is a metal cylinder with rounded ends, 1.25 centimeters in diameter and 8 centimeters long, similar to a magnet commonly fed to cattle to prevent hardware disease. It emits a field of unknown nature which exerts an attractive force on dead or necrotic human tissue, including hair separated from the body, corpses, shed skin cells, and, in extreme cases, the epidermal layer of the skin. This field does not tend to follow the inverse-square law and does not interact with matter or electromagnetic fields in a manner consistent with any known force. The SCP itself appears to be impervious to force, showing no response to focused heating, compression, or striking.
+
+The attractive force exerted by the field increases linearly with the amount of dead material in close proximity to the SCP. Past a certain point (measured at approximately 295 kilograms of necrotic material within two meters of the SCP), the progression becomes exponential, and the field's strength and radius increase rapidly.
+
+The field also appears to have an effect on permanent magnets; the field strength of magnets in proximity to SCP-555 decreases over time, with the rate of decrease changing in proportion to SCP-555's field strength.
+
+SCP-555 was recovered by agents in 19██ in a cemetery in ████████, California. The Foundation was alerted to a possible SCP after a coffin due to be buried was pulled from the pallbearers' grip and came to rest above the grave of a ███████ ███████, who died in 1948.
+
+███████ ███████'s body was turned over to Foundation forensic specialists, who noted that the torso appeared to have been smashed inward, though with no skin damage. The SCP was found inside the corpse's stomach. The corpse was found to have no other anomalous properties and was reinterred.
+
+A ground-penetrating radar survey of the cemetery showed that all coffins in a twelve-meter radius had been displaced underground towards the site containing the SCP.
+
+Addendum: See Incident Log 555-1.

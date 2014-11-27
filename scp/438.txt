@@ -1,0 +1,19 @@
+Item#: SCP-438
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-438 is currently deployed in the field in the custody of Reconnaissance Team Kappa-6. Experimental proposals will not be considered at this time; however, SCP-438b may be available. See addendum.
+
+Description: SCP-438 is a white canvas straitjacket of the Posey brand, dating to about 1930, fitted with straps of an unknown material. The jacket is designed for versatility and will fit and securely restrain some 95% of adult humans when properly adjusted.
+
+The threshold for the effects of SCP-438 is unknown, as are the precise extent of the effects; research is based entirely upon self-reported personal experience and is therefore unreliable save in the most quantifiable circumstances.
+
+When SCP-438 is worn in a manner consistent with historical uses of straitjackets, the wearer falls into a comatose state combined with a continuous out-of-body experience (OBE); the subject’s mind effectively becomes a disembodied consciousness. This form has no physical properties, cannot interact directly with the physical world, and cannot be measured or detected by any means available to us, including other SCP objects. However, even cursory tests prove that the state is quite real – the consciousness is actually separated from the body, able to traverse vast distances instantly and effortlessly, and retains a full range of sensory perception. Memory is comparable to what the subject would have in an unaltered state.
+
+During the coma, communication with the subject runs only one way and is possible only insofar as his or her consciousness is actually present. The duration of the OBE is out of the subject’s control, and the straitjacket must be removed for the patient to resume normal function. Leaving the jacket on for prolonged periods results in a reluctance or inability of the subject to return to his or her body. If the consciousness does not return, the subject will experience brain death. The duration at which 50% of subjects do not return to their bodies is roughly 81 minutes. It is unknown, and conveniently untestable, whether or not the consciousness persists after this point.
+
+SCP-438 has obvious applications in the field of espionage and scientific exploration, but carries considerable risk, both to the subject and to sensitive data on the part of the agency employing the item. It is fortunate that the subject must trust his or her comrades in order to use the item safely; if there is reason to suspect the subject's loyalty, the item may simply be left on until the subject has expired.
+
+ADDENDUM [O5 - HIGH PRIORITY]:
+
+An item of identical form and function has been discovered in [DATA EXPUNGED]. Classified SCP-438b, this provides irrefutable proof that SCP-438 is not a unique item. Considering the potential security risk involved, acquisition of any and all others should be pursued as a top priority. Orders from O5-2.

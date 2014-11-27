@@ -1,0 +1,15 @@
+SCP-826
+
+Item #: SCP-826
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-826 is to be kept in a 25 cm x 25 cm safe with a numerical keypad lock. The combination for the lock will be given only to to those with Level-2 clearance, and will be changed on a weekly basis.
+
+Description: SCP-826 is a 20 cm x 15 cm pair of bookends, molded in the shape of two outward-facing dragon heads. Scrapings from the surface of SCP revealed a composition of 99% Sn, 0.5% Cu, 0.3% Sb, and 0.2% Pb, consistent with high-grade pewter. However, it is unclear whether SCP-826 is solid pewter or whether the pewter is merely a plating for some unknown element which gives the SCP its properties.
+
+When a subject places a book between SCP-826, touching both ends, and leaves the room, SCP-826 will, in an instantaneous process, convert the interior of whatever room it is currently located in (a room defined as any enclosed area) into the setting of the contained book. Any form of entry into the room will instead open into a random location within the book's setting. During this transformation process, SCP-826, along with the contained book, will relocate to another part of the book's setting, showing a preference for places where books are normally found (libraries, studies, etc). To reverse the effects of SCP-826, a subject must remove the book from SCP-826, then exit whatever room SCP-826 was found in. The subject will find themselves outside the original room of SCP-826's containment, while SCP-826's containment room will be restored to normal.
+
+In addition, the subject will find themselves at a random temporal location in the book's plot, ranging from the beginning to near the end of the book. If the subject does not find SCP-826 within the setting before the "end" of the book, SCP-826 will "reset" the setting, starting the book's plot over. The subject will then be "incorporated" into the book as a background character, losing all memories of a previous life outside of SCP-826.
+
+Researchers studying SCP-826 are advised to enter the results into Experiment Log 826.

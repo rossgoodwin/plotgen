@@ -1,0 +1,41 @@
+SCP-1691 before acquisition
+
+Item #: SCP-1691
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1691 is installed in 5 x 5 x 5m containment cell. The room is to be observed at all times by a camera, and any unanticipated activity is to be reported immediately. No personnel should enter SCP-1691 at any time unless authorised for testing. In light of the events of Incident-1691-1, entry to SCP-1691 is absolutely forbidden. Two armed guards are placed outside the containment chamber at all times, and should be equipped with hand-held transceivers, only to be used in the event of unanticipated activity from inside the cell. Pressure plates are installed inside the cell to provide an early warning system.
+
+Description: SCP-1691 is a revolving door. Its framework is made from steel, but the glass in the wings of the revolving door has been replaced with silver glass mirrors. SCP-1691 has four wings and each has two mirrors, placed back to back so as to always provide a reflection. The reflected images are clear and undistorted, barring the one mirror which has been cracked. Despite the severity of this damage, all attempts to remove distinct shards of the glass from the door have failed.
+
+When a subject walks through the door to the other side, it will at first appear that they have walked a full circle and returned to the original room. However, it will become apparent that this is not the case. One of the most obvious indications of this is in writing, which will be mirrored (writing brought back to this side of the doors have retained this property) but otherwise no different to the writing present on this side of the door, in terms of location, font, size, etc. Everything else will also be mirrored. Right handed people will become left handed, profiles on coins will face the opposite way, cars will drive on the opposite side of the road as would be expected of the country, etc. It is believed that all people (hereafter referred to as instances of SCP-1691-1), locations and history are identical to ours, differing only in appearance. It has been noted, contrary to hypotheses, that the spoken word is identical to our own and suffers no distortion.
+
+The world and people inhabiting it act in total accord to their doppelgänger on the other side of the door, as far as it can be seen. Unfortunately, any testing using test subjects also results in a mirrored doppelgänger entering into our world. As such beings are technically SCP-1691-1 instances, there was initially complete resistance to letting the SCP-1691-1 outside of the test chamber. Upon realising that returning the doppelgänger also returned the test subject with very little data acquired, this was revised. One supervised trip outside of the facility was allowed before Incident-1691-1. Due to the events that occurred as a result of this, testing has been discontinued and full security procedures have been put in place.
+
+Incident-1691-1
+
+SCP involved: SCP-1691, SCP-1691-1
+
+Personnel involved: D-9237, Dr. ████████
+
+Date: ██/██/████
+
+Location: ████ ██, █████████ █████
+
+Description: On ██/██/████, a supervised trip of D-9237's SCP-1691-1 copy was authorised, under the conditions that settlements such as towns or cities were not approached. The SCP-1691-1 was to be provided with any photos (unaltered) that it asked for, and any information not related to the SCP Foundation or other sensitive topics. The instance of SCP-1691-1 appeared as D-9237 entered SCP-1691. The doppelgänger was initially X-rayed, and its internal anatomy was found to be reversed, as in individuals with situs inversus.
+
+After being searched, the SCP-1691-1 was blindfolded, gagged, restrained and earplugs applied to before being taken off-site, and remained restrained for the entirety of the time it was outside of the containment cell. (Sedation was suggested, but due to a lack of understanding of chemistry inside SCP-1691 - i.e, whether molecules were their chiral opposites or not – researchers decided that they did not know what effect normal tranquilisers would have on the instance of SCP-1691-1. As such attempts were made instead to suppress sensory and motor abilities as much as was otherwise possible.) Requests for information or images were noted and the results of those that were granted were intended to be given to the SCP-1691-1 shortly before being returned to SCP-1691. After being removed from the site, the copy of D-9237 was driven █ kilometres ████. Upon awakening, it was allowed to examine various examples of flora and fauna native to the area whilst handcuffed at the wrists and ankles, and to request photographs of these specimens. Several armed guards surrounded the SCP-1691-1 throughout. Return to the site was uneventful.
+
+However, when being transported back to SCP-1691's containment cell, a minor security breach of SCP-████ occurred. While this was resolved with minimal casualties, SCP-1691-1 was killed. Assuming that the same had also befallen D-9237, the information the instance of SCP-1691-1 had requested was assembled and placed with the corpse of SCP-1691-1 in SCP-1691, which was then turned.
+
+Contrary to expectations, D-9237 returned alive and with mirrored copies of the information provided by the Foundation. Aware that this may be viewed as an act of hostility against the version of the Foundation within SCP-1691, a negotiator, Dr. ████████, was sent through with minimum delay.
+
+No instance of SCP-1691-1 was seen coming through SCP-1691 at this time.
+
+Viewing the information retrieved by D-9237 further confirmed the perfectly mirrored nature of the world beyond SCP-1691, but this raised further questions about a lack of Dr. ████████'s doppelgänger.
+
+Dr. ████████ returned unharmed ten minutes later.
+
+It is unknown to what extent the contents of SCP-1691 have fallen out of synch with our own. While the observed differences seem initially minor, there is nothing to prevent changes of greater scope. SCP-1691 has become unpredictable. While it could previously be controlled through the actions of those who interacted with the door, this safeguard has been removed. In an effort to prevent provocation of instances of SCP-1691-1 and to avoid a variety of unwanted interactions between SCP-1691 and our world, testing has been discontinued.
+
+Research has begun into the decommissioning of SCP-1691.

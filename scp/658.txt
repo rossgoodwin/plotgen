@@ -1,0 +1,75 @@
+An instance of SCP-658.
+
+Item #: SCP-658
+
+Object class: Euclid
+
+Special Containment Procedures: Any small instance of SCP-658 (measuring no more than 50 cm in the largest dimension), when not involved in experimentation, is to be stored, alone, within a steel box preferably kept closed via simple low-tech means, such as tying with strings or duct tape, or weighing down the lid. Boxes with external mechanical or electronic locks are to be avoided for this purpose; boxes with mechanisms accessible from the inside must not be used.
+
+Larger instances of SCP-658 are to be destroyed as soon as possible.
+
+Unless exposure is necessary for sake of experimentation, every instance of SCP-658 is to be kept at least 3 meters from all electronic devices, as well as all noticeably complex mechanical machinery; when in doubt as to whether an item belongs to such a category, personnel is to err on the side of caution. Devices affected by SCP-658, when not used for experimentation, are to be destroyed. Machinery affected by SCP-658 must not be connected to an electric outlet for any amount of time.
+
+Description: Each instance of SCP-658 is an autonomous robotic device. Size and weight varies widely; specimens as small as 5 mm, or as large as ███ m, have been observed. Bottom half of each specimen contains four spiderlike, highly flexible legs and a single "eye". Appearance and structure of upper half is different in every SCP-658.
+
+SCP-658 remain active at all times, despite appearing to lack any power source. While behavior varies between instances, when otherwise unoccupied most tend to explore their surroundings; SCP-658 are capable of running at varying speeds, climbing up even flat vertical walls, and swimming.
+
+SCP-658 are capable of reproduction, achieved through "impregnating" other machines. "Machine", in this case, is essentially defined as any complex manmade mechanism. This includes items as disparate as wristwatches, typewriters, personal computers, motor vehicles, and - though rarely - other SCP-658. Impregnation is carried out via a poorly-understood process that requires only momentary physical contact. As a result of the process, an "embryo" will appear inside the machine (hereafter referred to as "host").
+
+SCP-658 "born" from a street lamp.
+
+The embryo initially appears to be a featureless lump of plastic and metal measuring 1 mm, but develops and grows quickly within its host. As an embryo expands, it connects and incorporates increasingly more of its host's internal mechanisms into its own structure. The embryo partially takes on the task of maintaining the functions of its host, whose users usually fail to notice anything is amiss, and believe that the host machine is working no less effectively than usual; however, visible minor "glitches" and anomalies, as well as external deformation, tend to appear toward the end of the "gestation".
+
+The embryo will also break down some of the host machine's internal components, both for the purpose of constructing its own body, and for weakening the host's structural integrity in preparation for "birth".
+
+At the end of the gestation cycle (which takes a varying amount of time depending on the nature of the host), the embryo, now developed into a mature SCP-658, exits its host by ripping it apart. The new SCP-658 immediately assumes the behavior typical for other SCP-658 instances; in particular, it is immediately capable of reproduction. Size, form and behavior of the new SCP-658 depend on the host machine. See log below.
+
+Excerpt from Document 658-L: Log of past impregnations
+
+Host
+
+Gestation period
+
+Notes
+
+A mechanical wristwatch
+
+18 hours
+
+Resultant SCP-658 measures 1.5 by 1 by 0.5 cm. Upper half of the SCP-658 is occupied by a mass of clock hands jutting out in all directions. SCP-658 walks ceaselessly in a circle, the radius of which increases with time (currently 1056 metres). It attempts to climb or damage any obstacles in its path, and resists any third party that tries to change its course.
+
+Standard issue pistol of security guard C██████
+
+3 days
+
+Resultant SCP-658 measured 10 by 4 by 5 cm. Immediately upon emergence, object fired at researchers (injuring Dr. L███ and Dr. B█████) and fragile objects in vicinity. SCP-658 was capable of firing ceaselessly for approx. one minute, then took approx. two minutes to replenish its ammunition through unknown means. Destroyed.
+
+Computer keyboard
+
+6 days
+
+Resultant SCP-658 measures 31 by 9 by 1 cm. Object has an assemblage of keys with letters and numbers as its upper half. The keys depress themselves rapidly every 30 seconds, spelling out the message "ASK WE WILL ANSWER". When any complete sentence is typed on its keys by a third party, SCP-658 stops and remains immobile for an hour before resuming prior behavior.
+
+Action figure depicting the popular character [REDACTED], with electronic components
+
+10 days
+
+Resultant SCP-658 measures 5 by 2 by 2 cm. Object's legs appear humanlike. Upper half of object occupied by an imitation of a bald human head, without eyes. Head is capable of vocalizations; nearly all of these are imitations of things spoken in its vicinity.
+
+A color TV
+
+14 days
+
+Resultant SCP-658 measures 45 by 45 by 20 cm. Upper half of object occupied by a single video screen, which constantly displays shaky, colorless footage of an unmoving human figure suspended in mid-air within a featureless room (tentatively identified as [DATA EXPUNGED]).
+
+An instance of SCP-658
+
+Approx. 30 days
+
+Rather than destroying its host, the embryo seems to have fused with it permanently. Resultant combination of SCP-658 has been described as resembling "conjoined twins". Object(s) are capable of impregnating machinery as usual, with two embryos implanted instead of one.
+
+Entire public address system of Site-██
+
+Unknown
+
+Time and place of original impregnation unknown. In this incident the SCP-658 "pregnancy" displayed capability to spread along electrical wiring somehow. On ██/██/19██, instances of SCP-658 (40 by 20 by 15 cm) all emerged simultaneously from loudspeakers throughout the site. The objects were typically outfitted with a chaotic array of speakers, broadcasting various arbitrary transmissions at full volume; the song "Happy Birthday" recurred among the transmissions with unusual frequency. Outburst of SCP-658 eventually subdued, but at least four specimens escaped into the wild.

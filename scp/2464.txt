@@ -1,0 +1,49 @@
+Primary access tunnel leading to Area 2464-5.
+
+Item #: SCP-2464
+
+Object Class: Keter
+
+Special Containment Procedures: Restricted access to SCP-2464-1 is to be maintained via 5 checkpoint stations (designated Area 2464-1 through -5) spaced roughly 5 km apart from each other throughout the primary access tunnel. Access into Area 2464-5 is only to be granted to individuals with Level 4 clearance, or the members of authorized exploration/maintenance teams. Individuals who gain access past Area-2464-1 are to be contained, brought to Site 81 for examination, and subsequently administered Class D amnestics or terminated.
+
+The stone slab separating SCP-2464-1 from Area-2464-5 is to be kept in place at all times, except in the event of scheduled exploration or to provide maintenance to SCP-2464-4. Should SCP-2464-2 breach containment, preset charges along the main access tunnel of Site-2464 are to be detonated and the tunnel is to be collapsed. If SCP-2464-2 is able to escape the collapsed tunnel, the on-site nuclear device is to be detonated below the current location of Provisional Site 81-2464.
+
+Maintenance of SCP-2464-4 is the primary concern in regards to continued containment of SCP-2464-2. Research into the design and function of SCP-2464-4 is ongoing, and should be considered the top priority. Under no circumstances, even during maintenance of SCP-2464-4, should SCP-2464-2 and SCP-2464-3 be disturbed in any way.
+
+Description: SCP-2464-1 is a temporal and spatial anomaly existing within the Morris Limestone Mine, designated Provisional Site 81-2464, located near the town of ████████████, Indiana. SCP-2464-1 is only accessible through the removal of a large stone slab that covers its only entrance, and other methods of attempting to access SCP-2464-1 have proven unsuccessful. Cutting into the space where SCP-2464-1 should be located reveals only solid limestone.
+
+The interior of SCP-2464-1 usually appears to be a large, open field of rolling hills that extends indefinitely in all directions. Situated roughly 50m in front of the entrance to SCP-2464-1 is a 1960's American farmhouse in a state of advanced disrepair. Analysis of plant matter within SCP-2464-1 has revealed no unknown or foreign biological substances. The "sun" within SCP-2464-1 is perpetually situated at dusk.
+
+Two anomalous entities and one anomalous machine are contained within the farmhouse. All are located in the 2nd floor master bedroom, which contains only a bed, SCP-2464-2, SCP-2464-3, and SCP-2464-4.
+
+SCP-2464-2 is a human female, aged at approximately 12 years. SCP-2464-2 is roughly 1.4m in height, with brown hair that appears to have not been cut for several years. Eye color cannot currently be determined. SCP-2464-2 is situated on the bed within the 2nd floor master bedroom. SCP-2464-2 is perpetually open-mouthed, but otherwise unmoving and unresponsive, likely due to the effects of SCP-2464-3 and -4. SCP-2464-2 is held to the bed by shackles located on its wrists and ankles, although all are severely rusted. For more information on SCP-2464-2, please see Addendum 2464-2X.
+
+SCP-2464-3 is the identical twin sister of SCP-2464-2. SCP-2464-3 is suspended on the ceiling above SCP-2464-2 by a series of iron clasps around the knees, ankles, elbows, wrists, torso, and neck. SCP-2464-3 is similarly unresponsive, likely due to the effects of SCP-2464-4. SCP-2464-3 is extremely emaciated, and constantly secretes a viscous black liquid through its mouth, which falls into the open mouth of SCP-2464-2. The source of this liquid is currently unknown.
+
+SCP-2464-4 is a machine believed to be designed and constructed by the late Dr. Michael Banning, a Foundation researcher from 1934-1975. It is situated within the 2nd floor master bedroom, against the north-facing wall. SCP-2464-4 consists of a main hub and a number of copper tubes which run up the wall and towards SCP-2464-3. These tubes all enter SCP-2464-3 via copper access ports on its right side, just below the armpit. Additionally, a number of biological components have been discovered at various locations throughout the apparatus, although their purpose is currently unknown. The entirety of SCP-2464-4 is in a state of disrepair, and is the subject of an ongoing attempt to fully restore the entire mechanism.
+
+The apparent purpose of SCP-2464-4 is to extend the lifespan of SCP-2464-3 by means of preventing SCP-2464-3 from aging. While this process appears to have been thus far effective, an apparent side effect is the degeneration of the cell tissues of SCP-2464-3, resulting in a number of cancers appearing throughout the body. While the rate of expansion of these cancers has been kept to a minimum by SCP-2464-4, due to the machine's state of disrepair, current models predict SCP-2464 will be unable to sustain its current processes for longer than an additional 10 years without repair, which will likely result in the expiration of SCP-2464-3.
+
+Discovery: SCP-2464 was initially discovered during routine limestone cutting by Morris Limestone personnel, who reported that they had broken through the limestone shelf into a clearing on the other side. After the nature of the SCP-2464-1 was assessed, Foundation agents took control of the mine and set up Provisional Site-2464. After a thorough examination of the farmhouse within SCP-2464-1, it became clear that the farmhouse was the home owned by Dr. Banning, until it burned down in 1975.
+
+Upon entering the 2nd floor master bedroom, Foundation personnel found SCP-2464-4 in a state of considerable disrepair. It was noted within the original discovery report that although SCP-2464-4 was experiencing several catastrophic malfunctions of critical components of its engineering, it did not give any indication that it was not performing its job as designed. Throughout attempts to repair SCP-2464-4, even when other considerable failures have occurred, SCP-2464-4 has shown little sign of stopping at all.
+
+Addendum 2464-2X: INFORMATION RESTRICTED TO LEVEL 4 PERSONNEL OR ABOVE
+
++ INPUT CREDENTIALS
+
+- CREDENTIALS ACCEPTED
+
+It is currently believed that SCP-2464-2 is a Class V Reality Bending Entity, and that the entirety of SCP-2464-1, outside of the existence of SCP-2464-3 and SCP-2464-4, is a result of that nature. Although SCP-2464-2 has not shown any evidence of active reality bending during its time within Foundation containment, the presence of the spatial anomaly, coupled with the information gathered from Dr. Banning's personal files, has led to the conclusion that the function of SCP-2464-3 was a means by which to hold SCP-2464-2 in an indefinite stasis, within which it would be unable to utilize its anomalous characteristics. Despite this, it seems as if SCP-2464-2 is capable of bending reality subconsciously, likely resulting in the creation of SCP-2464-1.
+
+It is also currently believed that were SCP-2464-4 to malfunction and SCP-2464-3 to expire as a result, SCP-2464-2 would be released from its current stasis. Given the information gathered from Dr. Banning's logs about the severely deteriorated mental state of his daughter, it is well within the realm of possibility that this event could trigger an RK-Class "Reality Restructuring" scenario, by means of SCP-2464-2's out of control reality disruptions.
+
+Because of these factors, it has been proposed to the Containment Committee that SCP-2464 be upgraded from Euclid to Keter, to express the enormity of importance in maintaining SCP-2464-4.
+
+Incident Report: During routine maintenance of SCP-2464-4 on 07/15/2013, the maintenance team leader reported hearing sounds coming from the 2nd floor master bedroom before his team had reached it. Upon entering the room, the team leader reported that SCP-2464-3 had its eyes open, a trait that had not been observed during containment. The order was given to perform the maintenance on SCP-2464-4 as instructed, and continue to monitor SCP-2464-3.
+
+The scheduled maintenance went without further complication. The team leader reported that SCP-2464-3 would follow members of his team with its eyes, but showed no other movement of any kind. Maintenance team departed the farmhouse with no complications, and SCP-2464-3 has not displayed this type of activity since.
+
+Overseer Proposal Response:
+
+SCP-2464 Upgrade from Euclid to Keter: Approved

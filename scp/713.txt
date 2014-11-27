@@ -1,0 +1,23 @@
+SCP-713, removed from containment for experimentation
+
+Item #: SCP-713
+
+Object Class: Safe
+
+Special Containment Procedures: As it is not dangerous in itself, SCP-713 warrants no special containment other than that necessary to prevent unauthorized access. It is to be kept in a standard Safe-class inanimate-object containment cell at Site ██. It is not to be plugged in while stored.
+
+Description: SCP-713 is a desktop personal computer running Windows 95. It bears no external manufacturer’s markings, but internal inspection reveals it to be composed entirely of hardware commercially available in the late 1990s. The keyboard and mouse connectors are soldered into their sockets, and there are no ports available for peripherals except the monitor. The computer has no Internet capability. The hard drive contains assorted commercially available software, including [DATA EXPUNGED] office suite, [DATA EXPUNGED] image-editing software, and Solitaire.
+
+SCP-713's mouse may be used to move its cursor off the screen. The cursor does not change size or appearance, remaining two-dimensional (though capable of moving in three dimensions; the scroll wheel controls the z-direction) and resembling a light projection without an apparent source. It may be used to "click and drag" individual items. Dragged objects' size and mass do not seem to impede it: it has demonstrated the ability to exert forces of at least 150 kN. Care must be taken in use of the object, as sudden flicks of the wrist coupled with poorly-timed release of the left mouse button have resulted in damage to the containment room's walls.
+
+The right mouse button does not appear to function when the cursor is outside the monitor. However, when the word-processing program is open on the monitor, left-clicking on a sheet of writing material produces a cursor like that of a word processor. Typing then results in letters, in composition apparently identical to the cursor although [DATA EXPUNGED], appearing on the writing material. They linger as long as the computer is operating, disappear when it is shut down, and reappear upon restarting the computer and re-opening the word processor. The image-editing software's effects are similar, though much broader in scope. The Solitaire game may be played using ordinary playing cards.
+
+Every effort must be made to avoid crashing SCP-713. When the machine locks up, its cursor either disappears immediately, dropping any held object, or [DATA EXPUNGED] consistent with crushing forces of over ████ kN. Other error types have commensurately more damaging results. See experiment logs and incident reports for further details.
+
+Addendum: Writing materials tested to date with SCP-713's word processor include copy paper, college-ruled notebook paper (text conformed to the lines), handmade vellum, tracing paper, [DATA EXPUNGED], a chalkboard, and a blank wall. Testing is ongoing.
+
+Note: I will shoot the next son of a bitch that pulls a lens flare out of this thing. –Dr. █████████
+
+Note: Testing has been suspended after Incident 713-03, in which D-713-233 "dragged" D-713-054 into the "Trash". Until D-713-054's fate has been determined, access to SCP-713 is denied without express authorization from Level 4 staff or higher.
+
+Note: Further testing authorized. See Experiment Log 713 for details.

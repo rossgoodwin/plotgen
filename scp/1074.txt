@@ -1,0 +1,121 @@
+SCP-1074 at the time of its discovery
+
+Item #: SCP-1074
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1074 is to be kept in a frame with an opaque cover, in a locked archive room at Site 342. No personnel are to view SCP-1074 under any circumstances, with the exception of D-class personnel undergoing testing. Any photography or video recording of SCP-1074 is to be conducted by remote-controlled drone.
+
+In the event of accidental viewing of SCP-1074, subject is to be dosed immediately with Class-A amnesiacs and removed from the area where SCP-1074 is to be stored or tested. The person exposed shall report for psychiatric analysis every two days and receive additional amnesiacs as necessary for as long as the onset of exposure symptoms can be prevented.
+
+Description: SCP-1074 is a portrait-sized oil painting on canvas, produced by an unidentified artist. When photographed or videotaped, the entirety of SCP-1074 appears to be painted a uniform shade of gray, with distinctly visible brush strokes. Samples removed from SCP-1074 by a remote-controlled drone have been identified as an oil-based gray paint of the type commonly available in art supply stores in the United States.
+
+When SCP-1074 is viewed by a human being, the observer immediately begins to exhibit physiological symptoms similar to the onset of Stendhal syndrome1, including increased heart rate, sweating, and vertigo. The individual viewing SCP-1074 will attempt to vividly describe the image they are seeing to anyone present, frequently describing it as the greatest or most moving work of art they have ever seen. Statements from persons so affected describe it not as a blank gray canvas, but as a highly detailed painting of an inconsistent nature. No two individuals exposed to SCP-1074 have described the same painting; recurring themes in subject statements describe imagery suggesting human mortality, individual insignificance, legal or moral judgment, religious eschatology, and [REDACTED].
+
+Once viewing SCP-1074, the subject will not willingly turn their gaze from it unless physically restrained, and will attempt to convince anyone else in their presence to look at it as well. Subjects will become rapidly disoriented and detached, attempting to discuss philosophical questions raised by the painting, of an increasingly esoteric nature as exposure continues. Within 3-5 minutes of first exposure, the subject becomes catatonic and ceases responding to outside stimuli. No means of reversing this state of catatonia has been discovered; the subject will remain stationary and die of natural causes within several days unless physically tended to. EEG readouts of individuals displaying SCP-1074-related catatonia indicate that the subject continues to demonstrate a high level of brain activity, commensurate with a person who is awake and fully aware of their surroundings.
+
+If a subject is removed from the vicinity of SCP-1074 prior to the onset of catatonia, physical symptoms of exposure abate within 30 seconds. The psychological effects, however, continue to develop, albeit at a slower pace. Such individuals will frequently describe every detail of the picture they observed and will report seeing it in their dreams, upon closing their eyes or blinking, and in their peripheral vision while awake. Confusion, dissociation, and catatonia ensue within 5-8 days of first exposure on average; the lengthier the exposure to SCP-1074, the less time passes before onset of catatonia.
+
+Class-A amnesiacs have proven capable of erasing memories of the image and restoring the subject to a normal mental state. In all observed cases, this is temporary; the subject will begin to report memories of the image, and associated mental defects, within seven days of receiving amnesiacs. Subsequent doses of amnesiacs have a gradually diminishing effect; the longest recorded period between exposure and catatonia at this time is 6 weeks, 4 days.
+
+SCP-1074 came to the Foundation's attention on ██/██/20██, following reports of an outbreak of mass hysteria at the █████████ Gallery in [REDACTED]. After the initial cleanup team experienced the effects of SCP-1074 firsthand, it was retrieved by drone. Gallery management stated that the exhibition of the painting, titled "Stendhal's Nightmare", had been arranged indirectly by the artist's agent, had been delivered and installed the night before by a staff under the agent's direction, and was covered by a veil until it was exposed at the opening of the exhibition. All contact information provided by the gallery was found to be fraudulent.
+
++ Show Interview Log 1074-1
+
+- Hide Interview Log 1074-1
+
+Interview Log 1074-1:
+
+Interviewed: D-67583
+
+Interviewer: Dr. █████
+
+Foreword: D-67583, who entered Foundation custody after being convicted of the murder of his wife and children (a charge he vehemently denied in court), was exposed to SCP-1074 in order to determine his reaction and the length of time between first exposure and full catatonia. D-67583 was secured in a chair in a room with SCP-1074, covered, mounted on one wall while Dr. █████ proctored from the other side of a glass window along the same wall, from which SCP-1074 could not be viewed. A full battery of monitoring instruments were connected to D-67853.
+
+<Begin Log>
+
+Dr. █████: Good afternoon, D-67583. We're going to be conducting an experiment today. I'm going to show you a painting and I want you describe what you see. Do you understand?
+
+D-67583: Yeah, yeah. Can we get on with this? I'm fucking missing lunchtime right now.
+
+(Dr. █████ presses a button on his console, withdrawing the covering and exposing SCP-1074 to D-67583. Instruments indicate immediate onset of physical symptoms of SCP-1074 exposure.)
+
+Dr. █████: What do you see?
+
+D-67583: What the… what the fuck, man? You think this is funny?
+
+Dr. █████: I assure you I am not laughing. What do you see?
+
+D-67583: What's the fucking idea? Why am I in this painting?
+
+Dr. █████: I do not know the contents of the painting you are viewing. What are you doing?
+
+D-67583: I'm on my knees… I'm crying? Why am I crying? What the fuck…?
+
+Dr. █████: Please continue.
+
+D-67583: There's flames, everywhere. I'm surrounded in flames. The ground is on fire and all the buildings in the background are on fire. Is this supposed to be me in Hell? And He's there too…
+
+Dr. █████: Who else is there in the painting?
+
+D-67583: …Jesus? Jesus! Jesus Fucking Christ! This ain't funny.
+
+Dr. █████: Do you wish to end the experiment?
+
+D-67583: No. I… this is… this is really something.
+
+Dr. █████: Please tell me who else is in the painting, then.
+
+D-67583: I told you! Jesus Christ! He's standing right there in front of me. Just looking at me! Scowling. He's mad at me. He's holding some things in His hands.
+
+Dr. █████: What kind of things?
+
+D-67583: He's got a sword. All covered in flames. Like everything else. And He's holding up a scale in the other hand. It's got a heart on one end and an apple on the other. The apple is heavier. He's judging me. He's saying I'm guilty.
+
+Dr. █████: Is that true?
+
+D-67583: No. I told them I… I said… I plead…
+
+(D-67583 is silent for 14 seconds.)
+
+Dr. █████: Are you still with us, D-67583?
+
+D-67583: He's right. I am guilty. I killed them all. I lied to everyone. They all must have known. They've always known. It's obvious. Can't you see?
+
+Dr. █████: I am not allowed to see the painting. What should I be seeing?
+
+D-67583: It's all in here. That look on His face. He knows. Of course He'd know. And in His eyes… I can see it. It all makes sense.
+
+Dr. █████: What makes sense?
+
+D-67583: I am nothing. I am everything. Everything is nothing. Nobody is anything. Not even you. You don't exist.
+
+Dr. █████: I beg your pardon?
+
+D-67583: Nothing that exists exists. We're all imaginary. We're dreams in the mind of the dreamer. The dreamer doesn't exist either. One day he'll wake up and none of us will exist unless we can make ourselves exist.
+
+Dr. █████: Please continue.
+
+D-67583: We don't exist. But we have to exist. We must will ourselves into existence. My will will become real and I will become real and we will vanquish the dreamer.
+
+(D-67583 is silent for 27 seconds.)
+
+Dr. █████: I believe that's all we're getting out of him, Control. I'm covering it up now, send in the others to bring him to the infirmary.
+
+D-67583: Wait. I have one more question.
+
+Dr. █████: Yes?
+
+(D-67583 is silent for 17 seconds.)
+
+Dr. █████: What is your question?
+
+D-67583: …are we cool yet?
+
+«End Log»
+
+Footnote: D-67583 was pronounced catatonic 4 minutes, 37 seconds after initial exposure. Investigation into a potential connection between SCP-1074 and the organization known as "Are We Cool Yet?" is pending.
+
+Footnotes
+
+1. a psychosomatic illness induced by exposure to emotionally moving or historically significant works of art

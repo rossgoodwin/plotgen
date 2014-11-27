@@ -1,0 +1,31 @@
+Item #: SCP-2814
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2814 is to be contained in a steel security box. Access to this box requires the approval of two (2) Level 4 personnel, at least one of which must be the Site Director. SCP-2814 is not to be worn outside of approved testing; violation of this protocol warrants immediate termination.
+
+In the event of containment breach, SCP-2814-1 is to be regarded as a Keter-level threat. SCP-2814-1 must be terminated as quickly as possible in these situations, preferably through the use of conventional weaponry. Personnel are advised that use of incineration against SCP-2814-1 is ineffective. In the event that SCP-2814 or SCP-2814-1 display metamorphic properties and/or conventional weaponry becomes ineffective, personnel are to consult Document-2814-Xihe.
+
+Description: SCP-2814 is a ceremonial mask constructed of Zitan wood with fragments of jade. Its dimensions are 24cm x 10cm, and it is largely dark brown in color. Extending from the rear of the mask are four (4) strands of silk, each 83cm in length and dyed a dark red (the composition of this dye is unknown). Prior to its current containment status, SCP-2814 was on display at the [REDACTED] Cultural Museum, from which it was stolen in 2005. The culprits, now confirmed to be members of Huǒjù de Háizi1, were apprehended by the Foundation in 2008 due to a different, though related, event. Presently it is believed that the fatalities produced by SCP-2814, while in the group's possession, total at 108.
+
+SCP-2814's anomalous effects become apparent whenever it is worn by a human being (SCP-2814-1). It should be noted that SCP-2814 suffers no damage from exposure to heat and flames up to 5000 degrees Centigrade, and SCP-2814-1 shares these properties while the mask is being worn.
+
+SCP-2814-1 is capable of interacting with fire as if it was comprised of matter, rather than being a chemical reaction. They can manipulate fire in ways that resemble solid and liquid matter, and can do so without touching it directly (the maximum observed range of the effect is roughly twenty meters). Normal substances that make contact with the anomalous flames are ignited like normal fire, but the flames produced can also be manipulated by SCP-2814-1. SCP-2814-1 can modify the temperature of flames under its control, and may touch or "hold" the fire with no detrimental effects.
+
+While wearing SCP-2814 for extended periods of time does not adversely affect the wearer, observing the mask's thermal properties repeatedly constitutes a degenerative psychological effect. Subjects express profound curiosity to test the limitations of the mask's properties, and will progressively lose their previous ethical and moral standards. Please see the attached documentation for further details on this effect.
+
+Addendum [2814-001]:
+
+During recovery of SCP-2814, all members of Huǒjù de Háizi that were encountered (totaling five) committed suicide. One member, identified as [REDACTED], left a note evidently intended for the recovery team. Originally written in Chinese, here is a translation of that note:
+
+I don't know who you are or what you think you understand, just listen to me. Destroy the mask. Don't put it on or try do anything with it, just kill it. Burning it won't work, you must [DATA EXPUNGED]. Yes, I helped steal it. Yes, I participated in all those killings, but that's the extent of what you know. You don't know what I've seen, what happened when our leader put it on, or what would have happened if I hadn't forced it off him. We love our Radiant Father, but we cannot resurrect him like this, not by means of the heretic.
+
+Addendum [2814-002]:
+
+It was determined by Dr. Jack Garland, an anthropologist of Chinese culture and mythology, that SCP-2814 was crafted in ████ BCE by ███████████, who was associated with the same extinct religious group upon which Huǒjù de Háizi's practices are based. ████████████ is believed to have maintained tenuous and frequently hostile relations with other members of the group.
+
+Dr. Garland, given his considerable experience with the Huǒjù de Háizi artifacts, was allotted supervision of SCP-2814's evaluation and experimentation. For details of the ensuing incident, please click here.
+
+Footnotes
+
+1. "Children of the Torch," a Chinese occultist group.

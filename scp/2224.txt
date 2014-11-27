@@ -1,0 +1,159 @@
+SCP-2224 just before acquisition
+
+Item #: SCP-2224
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2224 is located in the External Environmental Lab on Site 24. Level 2 security clearance or higher is required to access the object, in addition to permission from Dr. Darritz.
+
+Description: SCP-2224 is a teeter-totter made of wood and metal, fitted with two boards and four handles to accommodate up to four riders at a time. The object resembles an older style of teeter-totter which is no longer widely produced due to safety regulations in most countries. It was acquired from a village located in southern Finland after the Foundation was contacted by the local government.
+
+Each of SCP-2224's four seats have a single letter engraved into the wood where the rider would be positioned. The letters are A, B, Ø, and D, with A and B engraved on one board, and Ø and D on the other.
+
+SCP-2224's effects only occur if a rider is sitting on the "A" or "Ø" seats, with another rider on the opposite end of the board. The effects are different depending on which seat is being utilized. Their individual effects are listed below.
+
+"A" Seat: The anomalous effect of the "A" seat is first initiated when both it and the "B" seat are occupied by riders. When the rider on the "A" seat pushes off from the ground causing the "B" seat to then touch the ground, the "A" seat rider will experience the feeling of being launched off the object, approximately 2.2 to 3 meters straight above the seat. When the "B" rider pushes off the ground again, the "A" rider will then feel as if they are falling back down on the seat at a velocity to be expected from their perceived height in the air. Visual and auditory hallucinations accompany this effect.
+
+The "A" rider's experience will always last approximately 2-3 seconds, regardless of how long the "B" rider stays in the ground position after touching down. Tests have been done with the "B" rider staying in the ground position for up to 52 minutes, with the "A" rider not realizing how much time has passed until they are informed by the testing staff. The effect is broken as soon as the "B" rider leaves their seat, even if another person holds down the "B" end of the board first and takes the vacated seat. It can also be broken by removing the "A" rider from their seat(usually by tether) before they reach the ground position again. "A" riders who have the effect broken for them do not experience any anomalous feelings or hallucinations, or possibly forget them immediately. Testing has not yet yielded any other notable results for the "A" seat.
+
+"Ø" Seat: The anomalous effect of the "Ø" seat is initiated in a similar manner as the "A" seat's, with riders occupying both the "Ø" and "D" seats instead. It does differ in that the "D" rider must stay in the ground position for longer than 1.2 seconds after the "Ø" rider reaches their apex. The effect will not occur if the "D" rider's seat does not touch the ground at all, or the "D" rider immediately pushes off the ground again once their seat touches it.
+
+Unlike the "A" seat, riders on the "Ø" seat can have experiences that vary greatly in perceived time and velocity, depending on how long the "D" rider stays in the ground position. Due to the perceived time of the experience for riders of the "Ø" seat, their facial expressions will usually change rapidly while using SCP-2224, which often results in facial muscle tearing. "Ø" riders will often lose consciousness upon returning to the ground position, but only if the "D" rider maintained the ground position for longer than 20 seconds before pushing off the ground again.
+
+Breaking the effect is possible using the methods outlined for the "A" seat, with "Ø" riders having their experience nullified or forgotten similarly. Considerable testing of the "Ø" seat has been done to seek out any other similarities or differences between it and the "A" seat. Those results can be found in the table below. Tests beyond 59 seconds are no longer authorized.
+
++ "Ø" Seat Testing Results
+
+– hide block
+
+Time = amount of time the "D" rider spent in the ground position. Only D-Class personnel have been used to test SCP-2224's "Ø" seat so far. All tests have been conducted outdoors in the External Environmental Lab. SCP-2224's effects do not occur indoors.
+
+Time
+
+Test Subject
+
+Results
+
+1.5 seconds
+
+D-132033
+
+Subject claimed to have experienced being launched an estimated 6 meters in the air before falling back down on the seat of SCP-2224, and that approximately 5 seconds passed. Subject reported pain expected from an equivalent drop of similar height, though it quickly dissipated. Slight bruising appeared around the area of D-132033's tailbone, but it disappeared before it could be photographed.
+
+10 seconds
+
+D-98901
+
+Subject claimed she was launched at least 200 meters in to the air, at a perceived speed of over 70 km/h. Subject was able to see well beyond the boundaries of Site 24, giving an accurate description of the surrounding landscape. Though D-98901 claimed to experience excruciating pain upon landing, the temporary bruising around her tailbone was identical to previous test subjects. Subject was given Class A amnestics to comply with security protocol.
+
+22 seconds
+
+D-102322
+
+Subject lost consciousness after returning to the ground position, and awoke three minutes later. D-102322 claimed to remember very little of the experience because he collided with a goose at approximately 500 meters in the air. Subject did mention they were unable to see any curvature of the Earth, claiming that "the horizon was as flat as a pancake." Temporary bruising was found on D-102322's tailbone and scalp near the left temple.
+
+29 seconds
+
+D-89734
+
+Subject began screaming upon reaching the ground position. Once testing staff were able to calm D-89734 down, he claimed to have died when the seat hit the ground. Subject was unable to make a coherent statement about his perceived height or velocity, and spoke only in sentence fragments about "large shapes in the clouds." Subject died from a myocardial infarction 27 minutes after the conclusion of the test.
+
+40 seconds
+
+D-120048
+
+Subject lost consciousness upon reaching the ground position, awakening after approximately 12 minutes. Upon regaining consciousness, subject went into shock and was sedated. D-120048 awoke 15 hours later and was able to answer questions fielded to him by Dr. Darritz. Please see Interview 2224-1 for a transcript of that interview.
+
+52 seconds
+
+D-119786
+
+Subject lost consciousness upon reaching the ground position, and did not regain consciousness until 34 hours later. While still comatose, subject began developing frostbite on his extremities. Once awake, D-119786 was unable to speak, but was capable of written communication until the frostbite prevented use of his fingers. Subject's internal organs began shutting down 3 hours after regaining consciousness, and died within the following hour. Please see Statement 2224-1 for the transcript of D-119786's written account.
+
+61 seconds
+
+D-87474
+
+Subject lost consciousness before reaching the ground position, which caused him to fall from his seat and to the ground. Subject could not be revived, and expired within 6 minutes of hitting the ground. D-87474's body disintegrated after 14 minutes, leaving only a small amount of carbon dust.
+
++ Interview 2224-1
+
+– hide block
+
+Foreword: Interview with D-120048
+
+<Begin Log>
+
+Dr. Darritz: Can you give me a detailed account of what you experienced?
+
+D-120048: I'm…I'm not sure. I only remember some of it. It's…fuzzy.
+
+Dr. Darritz: Tell me what you do remember.
+
+D-120048: I remember going real fast, like, way too fast. My head hurt real bad, and I thought I was gonna suffocate.
+
+Dr. Darritz: What did you see?
+
+D-120048: I saw the ground gettin' farther and farther away, an' the next thing I know I was in the clouds. I think I passed out at some point, but then I woke up again.
+
+Dr. Darritz: And then?
+
+D-120048: I felt like I was slowin' down, an' I heard a voice. It was real loud, but it still sounded far away. I could tell it was comin' from a cloud in front of me. It sounded real weird though, like my old principal on the loudspeaker back in elementary school, only higher pitched. There was another sound behind it too, like a big roarin' jet engine.
+
+Dr. Darritz: What did the voice say?
+
+D-120048: I…I don't remember much of it, jus' bits and pieces. I remember it sayin' somethin' about gettin' my ticket out. It sounded like it was tauntin' me, I remember now. It kept gettin' louder an' louder.
+
+Dr. Darritz: Did you see what the voice belonged to?
+
+D-120048: Well, not at first. I could jus' tell it was comin' from the cloud like I said. But yeah, it came out of the cloud after a bit, after the engine sound got so loud I thought my head was gonna burst. Things get real fuzzy though after that.
+
+Dr. Darritz: Any detail at all would be helpful. Take your time.
+
+D-120048: It was some sorta airplane, I know that for sure. But it was…pink…or pinkish I guess. I think it had a face, though. I jus' remember it was huge, and it was comin' right towards me, and it was screamin' at me about my ticket. Shit, I dunno if I can handle this right now.
+
+Dr. Darritz: We can take a break if you'd like.
+
+D-120048: Nah, I only remember one more thing anyways. It's the last thing I remember before I woke up in this bed. I think I got sucked into one of the thing's jet engines.
+
+Dr. Darritz: Did you feel pain?
+
+D-120048: Oh yeah, I sure did. But it was only for a second and then things went black. Pretty sure the pink bastard ate me.
+
+Dr. Darritz: Ate you? What makes you say that?
+
+D-120048: 'Cause the last thing I remember before the pain hit was that it wasn't no regular jet engine. It was jus' a gaping pink mouth with a lotta nasty lookin' teeth. And it was where the voice and noise were comin' from. It was screamin' in my ears about my goddam ticket right until it…until it bit me in half.
+
+<End Log>
+
++ Statement 2224-1
+
+– hide block
+
+The following account was written by D-119786 before he expired from organ failure. Spelling and grammar errors have been preserved from the original writing.
+
+I remember being up in the sky I could see everything the birds the trees the buildings and they just kept getting smaller and smaller
+
+Som birds were even folowing me but I couldnt here them I guess they got to high up because their wings fell off and they started droping
+
+I got scared cuz I thought my arms were going to fall off and then I would fall too
+
+Then the sky turned pink and then I heard noises but I couldnt see what was making the noises and then the sky was black
+
+I got very cold when the sky turned black and I was scared but also exited because I thought maybe I would see the stars
+
+There werent any stars tho it was all black and when I looked back at the earth it was just a big pink ball
+
+Then it got small and it then it was gone
+
+I was so cold that it hurt and I thought I was going to die but then I looked down (I think it was down) and I saw something below me
+
+It was a big black sign that said CAVERAGE CO on it
+
+I started falling down towrds the sign and it had one of those little letter r's in a circle on it
+
+The sign was so big that I fell right threw that circle and thats when I woke up here
+
+I dont remeber anything else I have to stop
+
+The Foundation has been unable to locate any records of a Caverage Company. It is possible that D-119786 misspelled or misremembered the name, but additional testing will be required to confirm that. - Dr. Darritz

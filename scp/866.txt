@@ -1,0 +1,145 @@
+Still image of SCP-866
+
+Item #: SCP-866
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-866 is to be contained in situ in the HPC Center of the ████████ University in ████████, ██████. Floor ██ containing SCP-866 is to be permanently sealed off to all but authorized SCP personnel. At least two SCP personnel should monitor the diesel backup generators at all times as a complete power failure could lead to unquantifiable loss of personnel and civilian casualties, unquantifiable loss of equipment, complete loss of acquired experimental data and in the worst case [DATA EXPUNGED]. Access to the input terminals is allowed only with permission of Level 4 Staff. At least two guards should be stationed in the room of SCP-866 and prevent any individual from entering SCP-866 beyond the input terminals. Unauthorized attempts of access should be logged, but due to the location of containment extreme measures should be avoided if possible.
+
+Description: SCP-866 is a ████ Series Supercomputer constructed in 20██. Its anomalous properties were discovered when the system proved capable of running computation jobs with more processors than physically available. Subsequent attempts to determine the reason for this behavior have failed, but have caused █ university employees to disappear. See Addendum 1.1a for details. Foundation operatives determined the system has non-euclidian geometry in the computation node rack topology, possibly a polydimensional n-hypercube structure. This however does not account for the reason for the anomalous computations, only for their speed. An attempt to remove SCP-866 from the power supply has resulted in immediate [DATA EXPUNGED] resulting in ██ displacements and disappearances, including the entire recovery team. See [REDACTED] for additional information. In situ containment measures have been devised.
+
+Addendum 1: SCP-866 has been successfully used by Foundation staff for large-scale simulations and computations. At this time, the limit, if any, to SCP-866 computational capacity is not known. Access to the machine can be made remotely by anyone possessing a student or staff account for the ████████ University System. Addition of a [REDACTED] prevents non-Foundation access.
+
+Addendum 1.1a: █ of the university employees have since been discovered. Prof. ████ has been found in the building's basement by janitorial staff. Analysis of the remains has shown that his death occurred roughly at the same time as the attempt to remove SCP-866 from the power supply. He was found embe[REDACTED]oom wall. Position of the body suggests Prof. ████ was initially alive while in the basement, the words "[illegible] [illegible] died to a rounding error" were written in his own blood. Radar scans of the building's concrete walls are ongoing, but have failed to find anything of note. Research assistant Dr. ████ has been found in Lagrangian point L3 through unrelated observation regarding [REDACTED].
+
+Addendum 2: An analysis of currently running jobs shows that less than 5% of tasks are the result of foundation personnel. This value could not be increased through an increase in jobs submitted, suggesting non-linear relation between job size and machine resources. Attempts to identify the nature of the other jobs has proven so far unsuccessful. Largest observed jobs up to date, still running, are the "TSTWRLD1" to "TSTWRLD4" series submitted by "ao000002" and taking 20% of total machine resources each. Further analysis required.
+
+Addendum 3: Log recovered after attempt to remove from power supply failed.
+
+sysstat@███>Program received signal SIGSEGV, Segmentation fault.
+
+sysstat@███>0x1c0005c2 in Kernel02 () at TSTWRLD2.c:34525
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>Restart from checkpoint attempted
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>Program restart successful
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>Loading checkpoint data..................
+
+sysstat@███>......................................................
+
+sysstat@███>......................................................
+
+sysstat@███>Checkpoint data succesfully loaded
+
+sysstat@███>CRC check in progress
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>CRC complete
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>889 YB data corrupted
+
+sysstat@███>...
+
+sysstat@███>Error correction in progress.............
+
+sysstat@███>.....................................................
+
+sysstat@███>.....................................................
+
+sysstat@███>.....................................................
+
+sysstat@███>456 YB data salvaged
+
+sysstat@███>... 
+
+sysstat@███>Deleting unsalvageable data
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>...
+
+sysstat@███>Continuing simulation
+
+sysstat@███>_
+
+Addendum 4:Investigation Log of TSTWRLD2 program
+
+Dr. █████ Report Log.
+
+ 1.10.20██ Attempt to profile TSTWRLD2 application failed.
+
+ 3.11.20██ Attempt to assess resources used by TSTWRLD2 failed.
+
+15.11.20██ Attempt to analyze parallel communication of TSTWRLD2 succeeded.
+
+16.11.20██ Attempt to store communication pattern failed due to lack of external storage.
+
+21.11.20██ Attempt to sample communication succeeded.
+
+ 5. 1.20██ Attempt to analyze samples complicated by large interdependency between message payloads.
+
+13.10.20██ Attempt to use supercomputer resources for exponential solution to analyze samples succeeded.
+
+24.11.20██ Attempt to prove communication hypothesis failed. Insufficient feedback.
+
+25.11.20██ Request permission to intercept and modify internal application message to test hypothesis.
+
+Exp. will try to change the array index where city of [REDACTED] is stored by 1 element in the simulation.
+
+25.11.20██ Permission received. Experiment completed. Analyzing results.
+
+26.11.20██ Investigation terminated by order or [REDACTED]. Experiments disallowed until further notice.
+
+Satellites detected a large structure identified as a cube with the volume of 10^12 cubic meters,
+
+containing the city of [REDACTED], leaving orbit.
+
+28.11.20██ Investigation revealed a possible rounding error in Dr. █████ programming.
+
+ $10^{12}$
+
+Update
+
+Activity logs have recorded the following output:
+
+TSTWRLD1 simulation complete.
+
+TSTWRLD2 STEP 1 048 523 /1 048 576
+
+TSTWRLD3 STEP 1 048 543 /1 048 576
+
+TSTWRLD4 STEP 1 048 543 /1 048 576
+
+Further investigation required. Priority [REDACTED].

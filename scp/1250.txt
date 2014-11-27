@@ -1,0 +1,25 @@
+One of several boxes containing SCP-1250, recovered after the ██████ County library fire on ██/██/1996
+
+Item #: SCP-1250
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1250 is to be kept in a large double-lock safe, in a fire-proof enclosure at Site-██. SCP-1250's storage container is not to be opened by anyone without level three (3) clearance or higher.
+
+Instances of SCP-1250-1 and SCP-1250-2 that have been expended are to be properly labeled and filed away in a neighboring room, categorized by date, length, and content. Tapes may be reviewed freely by all permitted staff. For a full list of available recordings, please refer to document [REDACTED]. Researchers wishing to use blank SCP-1250-1 or SCP-1250-2 samples for experimentation must submit a formal request to Dr. Carter, with the details of the experiment(s) in question and the required number of samples.
+
+Description: As of ██/██/20██, SCP-1250 is a collection of █████ compact audio cassette tapes, and █████ VHS tapes (SCP-1250-1 and SCP-1250-2 respectively). SCP-1250-1 and SCP-1250-2 samples are ashen in color and devoid of any form of branding or labels. Internally, they are completely indistinguishable from other tapes of similar design, and can be used via any standard audio/video recording equipment. However, SCP-1250-1 and SCP-1250-2 samples do not accurately record events. Upon playback of an SCP-1250-1 or SCP-1250-2 tape, there are notable differences between the content of captured audio/video recordings and the real-world occurrences that participants remember observing.
+
+These alterations, while inconsistent, are initially never drastic. Situations presented in recordings are largely the same, but subtle changes (differences in pronunciation, word choice, furniture present in room, gender/age of recorded individuals) are found when compared to standard recordings. In the case of SCP-1250-2, visual discrepancies will manifest in place of aural, as video samples produce no audio when reviewed. Multiple simultaneous recordings are noted to further alter proceedings, with greater numbers of SCP-1250-1 or SCP-1250-2 tapes present during a single session resulting in more dramatic variations. The only variable consistent across all samples are the exact date, time, & location, which are 100% identical in every recording of a given event.
+
+Example of discrepancies between standard recording (top) & SCP-1250-2 sample (bottom). Both cameras were filming the same bowl.
+
+Testing has also shown that SCP-1250-1 and SCP-1250-2 samples do not appear to have any storage limit. Recording can continue indefinitely until manually stopped. Especially lengthy recordings have not been shown to exhibit a greater number of changes than shorter ones, even if a large variety of events are to occur, or the recording device were to travel a considerable distance during its duration. SCP-1250-1 and SCP-1250-2 can not be overwritten, and all attempts to transfer data to different formats have failed.
+
+Addendum 1250-I: On 02/15/199█, a test was performed that had researchers initiate a set of 3 SCP-1250-2 and 3 standard video recordings at a singular location, and then transport a pair of each in separate directions. All 6 recordings start the same way, with no notable differences occurring until after the groups were significantly separated from one another. As a result of this event, staff now believe that alterations will not manifest in the presence of other partial recordings, and that the recorded events of an SCP-1250-1 or SCP-1250-2 sample are not written in real-time.
+
+Addendum 1250-II: On 04/02/2001, Dr. T████ staged a reenactment of an earlier SCP-1250-1 test conducted on ██/██/199█. The conditions of the control tape were recreated down to the finest detail; all involved staff reprised their roles, and repeatedly lied about the date and time of the proceedings. The SCP-1250-1 results received were not the same as those of the earlier test.
+
+Addendum 1250-III: A series of trials performed between 07/██/2006 and 09/██/2006 by Dr. T████ and Dr. Carter have concluded that SCP-1250-1 and SCP-1250-2 recordings will present fewer changes when recorded in the presence of an event with an exceedingly high number of potential outcomes, particularly games of chance. Footage of gambling paraphernalia in use (cards, dice, slot-machines, roulette wheels, darts) will almost never showcase alterations outside the central object(s), regardless of how many additional samples are used to record.
+
+Addendum 1250-IV: SCP-1250-2 testing has been put on indefinite hiatus. Please see Experiment Logs 1250-A and 1250-B for more details.

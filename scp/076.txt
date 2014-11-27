@@ -1,0 +1,87 @@
+FROM: Dr. █████ █. █████
+
+TO: Director ██████ ███, Records and Information Security Administration
+
+SUBJECT: Revision of SCP-076 SCP File
+
+███,
+
+I have to go on record as saying that I seriously object to the proposed revisions of the SCP-076 Special Containment Procedures File. I know that Redact All Important Stuff Already claims it's a security risk, but you and I both know it's just top brass trying to sweep their biggest and most embarrassing mistake ever under the damn rug. Omega-Seven happened. It existed. Those people died because you screwed up, and you can't change that, no matter how hard you try to hide it.
+
+For God's sake, man, those people guarding him deserve to know exactly what he is and what he did. What WE did. How we fucked up, so they'll know better.
+
+███
+
+Item#: SCP-076
+
+Object Class: Keter
+
+Special Containment Procedures: Containment Area 25b is to be located 200 m below sea level, tunneled out of solid bedrock in a seismologically stable area. Sole access to the containment facility is to be through a vertical elevator shaft separated every fifty (50) meters with a reinforced blast door, constructed of 20 cm thick titanium shielding. Elevator shaft shall be flooded with seawater when not in use.
+
+Containment Area 25b is to be constructed with the following components:
+
+An Outer Security Perimeter against outside threats, staffed by security personnel trained in close quarters battle and counter-intrusion tactics.
+
+An Administrative and Support Area (ASA) consisting of support facilities and living quarters for on-site personnel.
+
+A Primary Containment Zone (PCZ), consisting of a 7 m cube encased in 1.5 m of reinforced titanium. PCZ is to be designed to be flooded and drained as needed, and should remain filled with seawater unless access to contents is required.
+
+A 150 m "killing corridor" which is to be the sole access to the PCZ from the ASA (including water, power, drainage, and ventilation lines). The walls and floor of the corridor are to be reinforced in a similar manner to the PCZ, with the addition of an electric deterrence system capable of delivering a 20,000 volt shock.
+
+A security station located at the entrance to the killing corridor is to be staffed with no fewer than three (3) armed security personnel on watch at any one point in time. Armament is to include, but not be limited to, at least one (1) ███████ CIW system on a pintle mount with a clear line of sight down the corridor, with a plexiglass screen to protect the operator from thrown weapons.
+
+In the event of a full breach, all on-site staff are to proceed immediately to the closest security station for weapons and armor distribution. Staff will remain at Alert Condition One until SCP-076-2 is confirmed neutralized. Should 90 minutes pass after declaration of full breach without a Stand Down order being given by Level 4 or higher personnel, Final Contingency Measures will be activated, flooding the entire facility in seawater and sealing off the access shaft for a minimum of 24 hours before retrieval is attempted. This will, by necessity, result in the deaths of all on-site staff.
+
+Description: SCP-076 consists of two components: a stone cube (SCP-076-1) and a humanoid entity contained within (SCP-076-2).
+
+SCP-076-1 is a 3 m cube made of black speckled metamorphic stone. All surfaces outside and within SCP-076-1 are covered in deeply engraved patterns corresponding to no known civilizations. Radioisotope analysis indicates that the object is approximately ten thousand (10,000) years old. A door is located on one side, sealed with a lock 0.5 m in width, surrounded by twenty (20) smaller locks in a circular pattern. As of yet, none of the keys have been found, making the door impossible to lock once closed.
+
+Interior temperature is approximately 93 degrees Kelvin, and cannot be altered by any means, internal or external. Directly in the center of the room is a 2.13 m tall stone coffin, held in place and sealed shut by several chains of unknown make and substance, which are attached to the inner corners of SCP-076-1.
+
+SCP-076-2 resembles a lean Semitic human male in his late twenties. Hair is black, and eyes are gray, skin tone olive. Subject is 1.96 m in height and 81.65 kg in weight. Numerous tattoos depicting arcane and occult iconography are present all over the body (mostly in the form of leering demonic faces) and ranges from subtle to openly ostentatious. Subject, when encased inside SCP-076-1, is technically dead.
+
+However, occasionally SCP-076-2 will awaken, effectively "reanimating", complete with all vital processes needed to sustain a living human being. Subject will then attempt to leave SCP-076-1. If successful, subject will enter a trance state and seek out the nearest human being, ignoring all other living things in the process. Upon coming into contact with living humans, SCP-076-2 will enter a rage state in which it attempts to engage and kill all human beings encountered. To date, only the subject's death has been shown to be effective in ending these rampages.
+
+Terminating SCP-076-2 is often problematic due to its significant physical abilities. Subject has superhuman strength and speed, and although not invulnerable, has shown a remarkable ability to ignore pain and shock, pressing on despite what would be debilitating wounds in normal humans. Prior encounters have shown that SCP-076-2 has the ability to (among other things):
+
+Rip through a reinforced steel security door over the course of four (4) minutes of sustained assault.
+
+Clear over 64 m of distance in under three (3) seconds.
+
+Take multiple .50 caliber BMG rounds to the head and survive for several minutes to continue killing, despite severe damage to the cerebellum.
+
+Swat handgun and assault-rifle caliber bullets out of the air with a length of steel rebar.
+
+Survive for over one (1) hour deprived of oxygen before finally asphyxiating.
+
+SCP-076-2's most unusual ability, however, is its ability to apparently materialize bladed weapons out of nowhere. Slow-motion video footage reveals that the blades in question are actually pulled from a miniature dimensional rift described as a "small hole in space." Where this portal leads is unknown, as is how SCP-076-2 is capable of generating said rifts. Footage of the blades in question shows them to be made out of a completely non-reflective black material appearing as a "black void in space." As the blades rapidly vanish after leaving the subject's possession, no structural analysis is possible at this time.
+
+SCP-076-2 has effectively been killed several times in various manners:
+
+Sustained fire from multiple heavy-caliber machine guns.
+
+Asphyxiation.
+
+Crushed beneath a 13.6 metric tonne piece of elevator equipment for use on SCP-076-1.
+
+Cremation through the use of a Thermate-TH3 grenade placed directly inside SCP-076-2's open chest cavity.
+
+During the worst breach to date, Containment Area-25 (which previously housed SCP-076) was forced to detonate its on site warhead as a last attempt to contain SCP-076-2 while it was attempting escape, resulting in total destruction of the site and all on-site personnel. SCP-076-1 survived.
+
+Upon death, SCP-076-2's remains will putrefy rapidly, until reduced to dust. SCP-076-1 and the coffin within will then slam shut with great force, and the lock will rotate, sealing it shut. SCP-076-2 will then reform within the coffin, a process taking anywhere from six (6) hours to twenty-five (25) years.
+
+What posthumous analysis of SCP-076-2 exists shows that it has a internal system highly different from our own, documented in [DATA EXPUNGED].
+
+Additional: SCP-076 was found in ████████████, Mongolia, in 18██, by archaeologists from England. All members of the expedition were subsequently killed on the return voyage home. SCP-076 was recovered from the ship █████ ███████ by the ███████ Society (one of the organizations that later merged into the modern Global Occult Coalition) and placed on display in their Inner Sanctum.
+
+SCP-076 remained in storage for ███████ (██) years, until SCP-076-2 became active and escaped on ██-██-████. The reason for SCP-076's activation is currently unknown, but it was at this point that the keys to the outer shell were lost. A massive manhunt, lasting over three (3) years and ████ ███████, took place until SCP-076-2 was incapacitated by ██████████ ███████, killing it and causing it to reform inside SCP-076-1, by then retrieved and secured by agents of the SCP Foundation.
+
+Subject was in custody for three (3) more years, under constant supervision, and was terminated whenever it became active, although it occasionally was able to escape for short periods of time, often due to security breaches caused by attacks from other organizations. The Foundation's death toll due to this was [DATA EXPUNGED]
+
+[DATA EXPUNGED]
+
+[DATA EXPUNGED]
+
+After the last incident, the current procedures regarding SCP-076 were implemented, although they are upgraded regularly with the increase in technological standards.
+
+Addendum 076-2: "Project Able" and "Mobile Task Force Omega-7"

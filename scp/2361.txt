@@ -1,0 +1,121 @@
+Position four moves prior to SCP-2361. Actual position not shown to avoid activating anomalous effects.
+
+Item #: SCP-2361
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to its nature, it is currently infeasible to detect all manifestations of SCP-2361. Worldwide medical records shall be monitored for fatalities consistent with SCP-2361's effects. Medical personnel directly witnessing the effects must be administered Class-C amnestics; the victim's death should be explained as the result of a stroke. When necessary, X-rays and other documentation are to be explained as hoaxes.
+
+Any known civilian contact with SCP-2361-1 must be recorded and archived. Foundation contact with SCP-2361-1 must be supervised by at least two level 4 personnel.
+
+Description: SCP-2361 is a recurring position in the game of Go1. Instances have been observed to manifest in multiple ways:
+
+Arising naturally during a game. When questioned, players believe they are choosing moves of their own free will.
+
+Spontaneous manifestation on unattended Go boards.
+
+Appearance on normally-blank pages of Go-related books, with the caption "White to play" in the language of the book.
+
+SCP-2361 instances created by mundane means will still display anomalous effects, and are only to be created during approved experimentation.
+
+In the event that a player places a white stone at position ██, ██ (or circles it, in the case of printed instances), the subject's brain will begin to display unusual electrical activity, usually focused in the parietal lobe. This activity does not interfere with normal brain functions, and typically passes unnoticed within 24 hours. However, four recorded cases have resulted in fatalities from symptoms superficially resembling a stroke. Autopsies revealed that several irregularly-shaped sections of the brain had been removed by unknown means.
+
+The Foundation has contacted several professional Go players to analyze SCP-2361. These players typically indicate several possibilities for a next move, but invariably note ██, ██ as being one of the strongest candidates.
+
+Addendum 2361-A-1:
+
+Encoded message from SCP-2361-1.
+
+On 11/23/20██, researcher Alice R██████ conducted an experiment to determine how SCP-2361 identifies the player. A remotely-operated mechanism was constructed to place a stone at ██, ██, and was activated simultaneously by two D-Class personnel.
+
+Three seconds after activation, a new board position materialized. Foundation cryptographers determined the new position to be a simple trinary encoding of English letters, representing the message "Please do not interfere with our research". Researcher R██████ proceeded to conduct an interview by rearranging stones using the same encoding. The responding entity has been designated SCP-2361-1.
+
+Interview Transcript 2361-I-1
+
+– hide block
+
+Interviewed: SCP-2361-1
+
+Interviewer: Researcher Alice R██████
+
+Foreword: Interview was conducted in code by rearranging Go stones. Punctuation and capitalization have been added for clarity.
+
+<Begin Log>
+
+R██████: Can you understand this?
+
+SCP-2361-1: Yes.
+
+R██████: My name is Alice R██████. I would like to ask a few questions. May I ask who I am speaking to?
+
+SCP-2361-1: We do not use names in our coherence network. You may call me anything you wish.
+
+R██████: Very well, may I call you dash one?2
+
+SCP-2361-1: That is acceptable.
+
+R██████: Dash one, can you explain what you are?
+
+SCP-2361-1: I am an analysis subsystem responsible for identifying spatial beings for integration purposes. It is difficult to explain further; your language lacks many relevant concepts. [Researcher's note: The length of this message extended off the edge of the board; pieces fell onto the table after materializing. It is unknown whether SCP-2361-1 was aware of this.]
+
+R██████: By "subsystem", do you mean you are an artificial life form?
+
+SCP-2361-1: No. I was not created; I was integrated into a more complex subsystem for this purpose.
+
+R██████: Are you responsible for these? [R██████ reproduces SCP-2361 to the side of the board]
+
+SCP-2361-1: Yes.
+
+R██████: What are they for?
+
+SCP-2361-1: We have difficulty thinking about space. Our supersystem has no analagous feature. Our knowledge-systems have explained it in abstract terms, but we cannot grasp it intuitively.
+
+A teaching-system integrated the game you call Go with all subsystems coherent to our network. The game was meant to teach position, movement, shape. It did not work. The ideas are too bizarre; we are cohered to few subsystems that are capable of understanding the rules. We integrated the game with many other supersystems to find beings capable of spatial intuition.
+
+R██████: What happens to people who place a stone at ██, ██?
+
+SCP-2361-1: We attempt to identify their spatial reasoning subsystems, and if possible, cohere them with our supersystem for analysis.
+
+R██████: Why not just discuss the matter with them, like we're doing now?
+
+SCP-2361-1: We attempted this. Linguistic communication was insufficient to induce understanding. Your ideas are too alien. Direct integration of knowledge is required.
+
+R██████: Those "spatial reasoning subsystems" are parts of our brains, and we need them to function correctly. Can you study the subsystems without removing them?
+
+SCP-2361-1: Coherence is necessary for detailed study. If necessary, you can cohere yourselves with other versions.
+
+R██████: I don't understand. Other versions?
+
+SCP-2361-1: We cannot recohere your spatial subsystems, so you will need to cohere with other compatible versions.
+
+R██████: I'm afraid we don't have any other compatible versions.
+
+SCP-2361-1: "Have"? Please wait a moment. I must integrate with new linguistic subsystems.
+
+[2 minute pause]
+
+SCP-2361-1: This is related to your idea of distance? You cannot cohere with them because they are too far away?
+
+R██████: As far as we know, they don't exist at all.
+
+SCP-2361-1: "Exist"? This is not related to space?
+
+R██████: No, not exactly. It's more like they are missing. Are you saying that in your universe, all things that could exist do exist?
+
+SCP-2361-1: We do not use this distinction between "exist" and "missing", but I believe you understand correctly.
+
+R██████: Doesn't that mean there are subsystems that already understand space and geometry?
+
+SCP-2361-1: Yes. That is true.
+
+R██████: Why don't you talk to them?
+
+SCP-2361-1: We do not know which ones they are.
+
+<End Log>
+
+Footnotes
+
+1. A board game played by placing black and white stones on a grid. Also known as Igo, Wei-Qi, or Baduk.
+
+2. Encoding did not allow numerals.

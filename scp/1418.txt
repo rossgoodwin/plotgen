@@ -1,0 +1,27 @@
+SCP-1418 shortly after recovery - several teeth have since been removed for analysis
+
+Item #: SCP-1418
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1418 is to be kept in secure storage at the Sector-25 containment facility. Experiments on human subjects should be carried out under full biocontainment conditions.
+
+Description: SCP-1418 is an ornate ivory liturgical comb consistent with 12th century craftsmanship. Its anomalous properties become apparent when worn by a human subject; the subject is rapidly transformed, physically and biologically - tissue samples harvested from subjects during medical exploration indicate this effect extends down to a genetic level. The process typically takes approximately 1 minute; once complete, the subject's physical appearance is that of a Caucasian female who appears to be 25-30 years old. The description of the transformed subject closely matches that of the object's presumed previous owner; see Recovery Log 1418.
+
+The transformed subject is biologically dead - vital signs are absent and algor mortis begins immediately. In all tests to date, however, the subject retains consciousness and is able to follow physical and mental tasks to completion for at least 20 hours after transformation. Tissue analysis confirms the presence of complex long-chain proteins which appear to actuate the subject's nervous, muscular and cardiovascular systems.
+
+Over the next 24 hours following the transformation, the body of the subject will undergo an accelerated process of decomposition, entering putrefaction approximately 18 hours after the transformation. Necrophilic bacteria on the body of the subject demonstrate a level of activity commensurate with the most virulent strains of Escherichia coli: accordingly, subjects under the influence of SCP-1418 should be considered active biohazards. The user's capacity to move and act progressively degrades until at 23 hours and 50 minutes from transformation consciousness and movement cease.
+
+Removal of the comb before approximately 22 hours from transformation will result in the reversion of the subject to their former state, with all vital signs returning to normal; this process takes approximately 10 minutes. After 22 hours, damage to the transformed body - whether related to the accelerated decomposition process or otherwise - fails to revert fully, with portions of the user's tissues typically continuing to exhibit necrosis. After the cessation of consciousness, removal of the comb fails to initiate reversion of the subject to their former physical condition. Experiments on D-class subjects indicate that the transformation and reversion process can be initiated in any given subject once in any given 24-hour period - suggesting sustained use of the item by an individual subject is possible providing that it is used for no longer than ~20 hours per day.
+
+Recovery Log 1418
+
+SCP-1418 was recovered with 149 other articles and effects from the estate of the late Lady ████████, a dowager of some notoriety who had been placed under surveillance due to her association with Marshall, Carter & Dark Ltd. Lady ████████'s body was found in her home on the morning of ██/██/19██; she was reported by law enforcement officials to have been dead for approximately 4 weeks before discovery, based on the condition of her body. Foundation surveillance agents had recorded a liaison between Lady ████████ and a figure assumed to be a lover the previous evening, and a recovery team was assigned to investigate.
+
+Due to Lady ████████'s high profile and connections to the peerage, an official inquest (which failed to record a cause of death) and a public auction of her assets was permitted. All assets were successfully acquired by Foundation agents posing as representatives of various buyers. SCP-1418's properties were discovered only during exhaustive testing of the recovered items, which otherwise proved non-anomalous and were destroyed.
+
+Addendum 1418-01
+
+It remains unclear whether the body identified as Lady ████████ was indeed that of the dowager countess, and if not, at what point the substitution was made, given the close observation to which she was subjected. Given the object's properties it cannot even be assumed that Lady ████████ was a single individual rather than several parties utilising SCP-1418. It is however noteworthy that the comb was found locked in a desk in the room the corpse was discovered, suggesting the death was not a result of overuse of SCP-1418. Given its observed properties in testing, a third party would have needed to remove the item from the corpse.
+
+It is evident that SCP-1418 in some way stores the pattern or template to which it conforms the body of the wearer: the inability of the object to sustain cellular life in the transformed subject appears to be by design rather than a result of damage or degradation of its intended function, given the complex chemical activity that allows the subject to continue to operate. Experiments are currently under way to determine whether the stored pattern can be updated or replaced: absent this functionality it would appear from the object's provenance that the pattern is hundreds of years old. This would strongly imply that Lady ████████ herself is an invented identity, possibly created for agents of MC&D.

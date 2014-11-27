@@ -1,0 +1,119 @@
+SCP-1913-1
+
+Item #: SCP-1913
+
+Object Class: Euclid (Previously Keter)
+
+Special Containment Procedures:
+
+[+] REVISION-7
+
+[-] REVISION-7
+
+(04/04/191█)
+
+Convoy Omega-8 (aka "The Cats In The Cradle") has been formed to handle the containment, research, and transfer of SCP-1913-1, and the avoidance and clean-up of SCP-1913-2 and SCP-1913-3 attacks. SCP-1913-1 is to be kept in a lead case equipped with a single speaker, to aid in interrogation. SCP-1913-1 is not to be allowed outside of its box, unless confined to a windowless room, and is not to know its location.
+
+Convoy Omega-8 is to maintain constant movement across underpopulated areas of America, and be prepared for engagement of both SCP-1913-2 and SCP-1913-3. Brief stops between sites for fuel, food, and equipment repair are permitted. Personnel are to wear latex gloves while directly handling SCP-1913-1, and are to avoid skin contact at all times. If unprotected physical contact is made, staff are to immediately wash their hands of any ink-like substance. If stains begin to spread, the affected staff are to be terminated before symptoms occur.
+
+Containment of SCP-1913-1 is to be considered a priority until improved containment procedures can be developed. SCP-1913-1 must not be given to SCP-1913-2 or SCP-1913-3 under any circumstances. SCP-1913-2 and SCP-1913-3 have yet to be contained. Authorization has been given for any and all measures deemed necessary to neutralize SCP-1913-2 and SCP-1913-3.
+
+REVISION-8
+
+(04/12/191█)
+
+All SCP-1913 instances are to be contained at least 1600 Km away from each other, in areas where the Foundation has established major sites (for specific locations of each SCP-1913 instance, refer to Document 1913-53).1 Each SCP-1913 instance is to be placed in the middle of a tubular glass ring with a radius of 4 m. The inside of the glass ring is to be filled with sulfur dust.
+
+Personnel are to wear latex gloves while handling SCP-1913-1, and are to avoid skin contact at all times. If unprotected physical contact is made, staff are to immediately wash their hands of any ink-like substance. If stains begin to spread, the affected staff are to be terminated before symptoms occur.
+
+Injuries caused by SCP-1913-2 may require termination if they cannot be healed. Staff must remove any visible armor or lab coats before entering SCP-1913-2's cell to prevent aggravation.
+
+SCP-1913-3's cell is to be blast and fireproofed. Entry into SCP-1913-3's ring is not permitted.
+
+Description: SCP-1913 is the collective term for three separate entities, designated SCP-1913-1, SCP-1913-2, and SCP-1913-3. SCP-1913 instances do not show signs of mortality, either regenerating fatal injuries over time, or reappearing near the place of 'death' when its body has been destroyed within an hour. All SCP-1913 instances have shown an extreme aversion to sulfur, being either unwilling or unable to touch or cross over it without assistance.
+
+SCP-1913-1 is a sapient ceramic statue depicting a cat, measuring 20.5 cm in height and weighing 8.3 kg. SCP-1913-1 has the name 'Agatha' etched on the bottom, and is decorated with white gloss paint on the nose, ears, and forehead, and a black, wet ink-like substance around the object's eyes, mouth, and paws. SCP-1913-1 is capable of communication, emanating a young female voice from its interior. SCP-1913-1 has shown disdain towards Foundation personnel, but is cooperative when threatened through the shaking of its container. SCP-1913-1 has given considerable information regarding other SCP-1913 instances' abilities and reasons for pursuit, but has also been known to withhold information or give false statements relevant to its own containment, such as it not detailing its detestation towards sulfur.
+
+The ink covering SCP-1913-1's eyes, mouth, and paws is composed of 50.9% water, 48% ash, 0.9% salt, and 0.2% silver. Upon contact with a living subject's epidermis, the substance will be absorbed by the subject's pores. Depending on the quantity of ink, the affected areas will rapidly begin to dissolve, and eventually disappear. The subject does not seem to die from this process until, the entire body has been dissolved, despite the disappearance of vital organs. If the torso has been consumed, but the subject's limbs remain, the limbs will continue to function until completely dissolved, usually attempting to move across the floor and grab nearby objects or legs.
+
+SCP-1913-2 in containment.
+
+SCP-1913-1's ink does not appear to be capable of spreading on to objects, cadavers, dead tissue such as hair or fingernails, or those who have not touched SCP-1913-1 in the past 8 hours, and is only capable of causing the disappearance of living tissue. Unless contact is made with the subject's blood stream, washing off the substance around the affected areas is sufficient to preventing its effects, though scarring may occur. SCP-1913-1's ink is harmless when diluted with water.
+
+SCP-1913-2 is an animate humanoid skeleton covered in dark hair and ash, which gives it the physical shape of a female humanoid. SCP-1913-2's skeleton is human in structure, with the exception of its skull and digits, which appear to belong to a large canine. SCP-1913-2 is capable of moving at speeds of up to 65 kph, despite lacking the tissues required for motility.
+
+SCP-1913-2 does not appear to be sapient, and appears to act almost entirely on the orders given to it by either SCP-1913-1 or SCP-1913-3. It is presumed that SCP-1913-3 has taught SCP-1913-2 to attack anyone wearing either a lab coat or the standard armor commonly worn by Convoy Omega-8 (formerly known as "The Cats In The Cradle") on sight prior to Event-1913-3, due to the specific nature of these triggers. Otherwise, unless provoked or provided with an insufficient amount of food, SCP-1913-2 is unexpectedly docile.
+
+SCP-1913-2 will attack its victims when provoked, typically through clawing at the victim. However, despite major organ damage and blood loss, SCP-1913-2 is not capable of killing a victim. Subjects will show continued life signs until sustaining fatal injuries from another source, including non-anomalous wounds and the effects of SCP-1913-1's ink. If an organ or limb has been separated from the subject, then that organ will continue to live independently from the subject. Subjects will not die if an organ separated from its body via SCP-1913-2 dies.
+
+SCP-1913-2 will continue attacking a victim until either the victim ceases moving, typically from shock, or another subject provokes it. Although SCP-1913-2 does not require substance for survival, it has shown a proclivity towards eating the meat of its victims, and will become agitated if food is not provided. SCP-1913-3 refers to SCP-1913-2 as 'Telly'.
+
+SCP-1913-3 appears to be adolescent, male black Labrador retriever (Canis lupus familiaris), lacking a mouth, nose and eyes. SCP-1913-3's face consists of several ragged holes mimicking a grinning visage, which reveals a dim white light. SCP-1913-3 is sapient, and refers to itself as 'Freddie'. SCP-1913-3 refuses to elaborate on its reasons for its pursuit of SCP-1913-1 beyond 'family matters', but it has been reported that SCP-1913-3 does not want to harm SCP-1913-1. Information from SCP-1913-1 suggests a physical change in SCP-1913-1's form, but has not been confirmed.
+
+SCP-1913-3
+
+When SCP-1913-3 collides with an object or subject, SCP-1913-3 will emit a burst of grey colored flames from the holes in its face. Flames produced in this manner reach temperatures of up to 1200 °C (~2192 °F), and have the expected effect upon coming into contact with non-living objects.
+
+Fires started due to contact with these flames will continue to burn until a subject's skin has been fully consumed, or until the fire has been put out. Subjects will suffer severe burns from exposure to SCP-1913-3, typically resulting in complete loss of sight, hearing, and touch. The termination attempts of the victims of SCP-1913-3 have only been successful when the victims have been dissolved by the ink of SCP-1913-1. Unless 'blocked' by a significant amount of sulfur, SCP-1913-3 is able to determine the general location of other SCP-1913 instances. SCP-1913-3 periodically experiences mood swings, ranging from neutral to aggressive, often cursing containment personnel. SCP-1913-3 has been responsible for at least two major fires following the 24th of March, 191█.
+
+SCP-1913-1 Recovery: On 03/24/191█, SCP-1913-1 was discovered at the V███████ harbor upon investigation of a local shipwreck. Agent Crowely discovered SCP-1913-1 in the wreckage of the ███████, which was believed to have been in transit to New York City, but was instead on route to S████. Two bodies were found in the wreckage, but the remaining 2█ passengers were missing.
+
+After learning of the properties of SCP-1913-1, two life boats loaded with 2█ cadavers were planted in V███████ waters to throw off groups of interest. Cadavers were D-class personnel who have died during testing. Due to the ship's state of disrepair prior to voyage, the sinking of the ███████ was proclaimed to have been caused by its mechanical condition.
+
+Encounter-001 Report: Upon SCP-1913's arrival at Site-██ on 04/02/191█, SCP-1913-2 and SCP-1913-3 attacked the site, causing emergency evacuation protocols to be activated. SCP-1913-2 repeatedly threw SCP-1913-3 at the escape vehicle carrying SCP-1913-1, which caused considerable damage to the vehicle before escaping. SCP-1913-2 and SCP-1913-3's exclusive interest in SCP-1913-1 led to the formation of Convoy Omega-8, and the collective designation of the three entities.
+
+Encounter-015 Report: An additional attempt to capture either SCP-1913-2 or SCP-1913-3 has failed. SCP-1913-2 and SCP-1913-3 have yet to cease pursuit of Convoy Omega-8. SCP-1913-2's constant movement, apparent knowledge of Foundation vehicles, and SCP-1913-3's constant explosive nature has made containment of the entity difficult. Tranquilizer darts, blasts of water, fire, and gunfire have been utilized, but have yet to subdue either entity.
+
+Encounter-029 Report: SCP-1913-2 and SCP-1913-3 followed and attacked Convoy Omega-8 while it was receiving supplies at Site-45-A. Convoy Omega-8 requested back-up, but was incapacitated before arrival. Dr. Hayward and Agent Crowely attempted to proceed to the roof to await evacuation with SCP-1913-1, but were lead into Research Lab 1██, where Agent Crowely prevented SCP-1913-3's acquisition of SCP-1913-1, while preventing Dr. Hayward's termination. For more information, see Interview 1913-A. SCP-1913 has been reclassified as Euclid.
+
+Interview 1913-A:
+
+Interviewed: Agent Crowely
+
+Interviewer: Dr. Toki
+
+<Begin Log>
+
+Agent Crowely: Can I say something for the record?
+
+Dr. Toki: Wha- Oh, go ahead.
+
+Crowely: It was a mistake to put Dr. Hayward up with The Cats in the Cradle. The kid's bright, but he's too green. He just got out of school; he hardly even knows the difference between mind-altering effects and infohazards. He didn't do anything wrong, but if he just… I apologize. I like the kid, and I'm obviously biased, but he could've been more prepared if he was assigned to a safer group first; experienced these things instead of getting some lecture about it… [exhales] Sorry, I needed to get that off my chest.
+
+Dr. Toki: It's fine.
+
+Crowely: … You wanted to ask me about encounter twenty-nine, right?
+
+Dr. Toki: Please.
+
+Crowely: Right. We only needed basic supplies: food and fuel. We weren't expecting to spend more than a few minutes at 45, but we were all kinds of jumpy. We hadn't seen the dog or the girl for days, so we were expecting something from them. Hayward and I were hauling Dash One to the site's garage, and sure enough, the car exploded behind us. They must've been following us, waiting till we got to another site to attack, because they seem to've attacked us immediately after the twelve of us got out.
+
+Dr. Toki: And this is when you alerted Site-45, and attempted to reach the roof for evac?
+
+Crowely: Yes. Either that or let them do god knows what with it. Didn't matter much though, because we ended up in some poor bastard's lab, with those two banging down the door. Two started throwing itself at the door till Dash Three told it to move over before it blew the door off, which set off the sprinklers. That… thing, Three, just walked right up to me. Didn't do anything: didn't attack, didn't explode, didn't have the girl attack, and have it explode, it just sat there. Only thing I could think to say was 'Why?'… Its been a long time since I felt so powerless… It told me that it was doing this as a service, that its flame was redemption. It said that they can't see, can't hear, can't feel; they're just left with themselves… see no evil, and all that…
+
+Dr. Toki: What happened to Dr. Hayward?
+
+Crowely: [pause] The idiot threw a microscope at it… Didn't matter much, Dash Three knocked him into the counter afterward. It was steamed, clearly. Hayward got burned, but he was soaked too. Prevented him from burning too bad… I don't know why, but Three told Two to kill him for it. Maybe it thought the kid was beneath it or figured that Two'd do a better job.
+
+Ended up picking the kid up and throwing him to the far wall, crashing into these jars of sulfur before… Well, before Dash Two reached through his chest. Dash Two was about to charge him, but it stopped. Three seemed to get angry at Two till it took a look at the rocks covering Hayward. I put two and two together and assumed that the rocks were what was spooking them, so I did what I could… It felt good, seeing those things actually running from us for a change… Hey, is that all? I'm hoping to see some people at the infirmary before visiting hours close.
+
+Dr. Toki: You said to remind you that you wanted to share a concern about the SCP-1913 entities as a whole? What was it?
+
+Crowely: Ah, yeah, Hayward was going to report it at Site-45. He's been interrogating Dash One for a while, and got something out of it. He's had his suspicions about how SCP-1913 functions, and felt that there was something more to it than what we knew. Didn't tell me, but it seemed urgent. Thought it was worth bringing up.
+
+Listen, I'd tell you if I knew it, but all I really know is that I lived to see those things tear out Hayward's fucking heart… And so did he.
+
+<End Log>
+
+Closing Statement: Dr. Hayward was released from intensive care one month after this interview, recovering from third degree burns over his arms and torso, and the cauterization of a hole through his chest. Mentions of the release or creation of a fourth entity if SCP-1913-2 or SCP-1913-3 reaches SCP-1913-1, in addition to a physical change in SCP-1913-1, has been discussed with Dr. Hayward and was confirmed by SCP-1913-1, but denied by SCP-1913-3.
+
+Footnotes
+
+1. DOCUMENT 1913-53 version-1
+
+SCP-1913-1: Site-45-C, Las Vegas. Floor 7, Secure Holding Cell #703.
+
+SCP-1913-2: Site-██, Orlando, Fla. Floor ██, Secure Holding Cell #████.
+
+SCP-1913-3: Site-██, New York City. Floor █, Secure Holding Cell #███.

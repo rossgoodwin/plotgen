@@ -1,0 +1,145 @@
+3214 Hybris as observed during 2012 close approach
+
+Item #: SCP-255
+
+Object Class: Keter
+
+Special Containment Procedures: Tissue samples and specimens related to SCP-255 are contained at Bio Site-16, a purpose-built containment and research facility designed to Priority Beta contagious phenomenon specifications. Bio Site-16 is subject to a remote location personnel rotation waiver in addition to standard contagious phenomenon preventive quarantine periods. Bio Site-16 is located in the Vaitupu Atoll of Tuvalu on an island owned by Ragnarik Ecological Modeling Inc., a Foundation front organization.
+
+Persons and animals determined to be infected with SCP-255 are to be secured and transported to a designated temporary holding facility prior to transfer to Bio Site-16. In cases where capture of an SCP-255 carrier is exceedingly difficult or impossible, lethal force is authorized.
+
+The Office of Celestial Anomalies is to continually track the orbit of 3214 Hybris, maintain a schedule of upcoming near-Earth flybys, and alert the Research Director if any changes in observed orbit occur. The next scheduled flyby of 3214 Hybris is 11 November 2023, when it is predicted to pass within 950,000 km of Earth.
+
+Description: SCP-255 is an anomalous infectious phenomenon of extraterrestrial origin, manifesting in most living subjects as a neurological disorder with varying symptoms. Eligible carriers of SCP-255 have thus far been observed to be organisms possessing a cerebral cortex with approximately ≥5.4 billion neurons. Experimentation has determined that species capable of contracting SCP-255 include humans, chimpanzees, African elephants, bottlenose dolphins, false killer whales, and others.
+
+In non-human carriers SCP-255 causes, through unknown means, degeneration of motor neurons and nerve cells. The rate of degeneration and severity of related symptoms is inversely related to the number of neurons the subject possesses in its cerebral cortex, with less neurologically-developed organisms displaying the most debilitating effects.
+
+The effects of SCP-255 on humans, however, is markedly more complex. While degradation of brain cells and the nervous system has been noted on a limited basis in humans, a range of more unusual symptoms occurs in these subjects. See SCP-255 Research Log for more details.
+
+Individuals infected by SCP-255 can be reliably diagnosed through EEG observation and confirmation of verified markers in measurements of neurological activity. See Appendix B for further documentation.
+
+Signature SCP-255 EEG pattern, observable thirteen seconds after commencement of observation protocol
+
+Outbreaks of SCP-255 coincide with close flybys of 3214 Hybris, a relationship that was theorized using advanced statistical models following the second outbreak in 1965, and confirmed during the asteroid's 1987 close approach. Observations of 3214 Hybris have determined it to be an approximately 110 meter C-type asteroid with no anomalous properties observed at this time. The nature of the orbit of 3214 Hybris brings it into close approaches with Earth once every 11 years.
+
+Addendum 255-1: Research Log
+
+The following is a listing of known SCP-255 outbreaks and relevant data
+
+Estimated Date of Outbreak
+
+Location(s)
+
+Number of Confirmed Human Cases
+
+Incidence Rate
+
+23 May 1968
+
+Sagaing, Myanmar
+
+86
+
+N/A
+
+The first known outbreak of SCP-255 occurred in 1968, known now to have coincided with 3214 Hybris passing within 350,000 km of Earth. All known infected individuals resided within 7 km of the township of Mawlaik.
+
+Foundation assets became aware of SCP-255 while investigating an unknown illness affecting certain primates, including humans, in rural regions of northwestern Myanmar. The number of animals affected is unknown, but was estimated at the time to be between 1,000-5,000 individuals, primarily among forest-dwelling monkey species.
+
+All human instances and a representative sample of infected monkeys were brought under Foundation control, and special containment procedures enacted. In controlled laboratory conditions, animal subjects displayed advanced signs of motor neuron impairment, with a 100% mortality rate over a period of three weeks. Human subjects displayed mild neurological impairment, comparable to that experienced after a minor stroke. Experimentation confirmed that the disorder was not contagious. All human subjects recovered within ten days, and were released without incident after being informed that they were treated under a World Health Organization initiative.
+
+Estimated Date of Outbreak
+
+Location(s)
+
+Number of Confirmed Human Cases
+
+Incidence Rate
+
+19 June 1979
+
+Acre, Brazil; Rote Island, Indonesia; Croker Island, Australia
+
+11
+
+N/A
+
+A second SCP-255 outbreak occurred in 1979 in three separate regions, undetected until 19 months later when a routine review of forthcoming medical literature documented several individuals complaining of a "phantom limb" sensation affecting the dominant hand, simulating the spastic movement and persistent ache of an extraneous eleventh digit.
+
+Foundation personnel covertly interviewed subjects claiming to be affected by this phenomenon. Subsequent research determined that all individuals resided within 25 km of the 11th parallel south, and were experiencing an anomalous condition. Lack of person-to-person transmission capabilities were confirmed, and disinformation measures in the scientific community were carried out, achieving effective containment.
+
+The second outbreak was classified as a separate SCP designation until 1984, when research determined it to be the same phenomenon as SCP-255.
+
+Estimated Date of Outbreak
+
+Location(s)
+
+Number of Confirmed Human Cases
+
+Incidence Rate
+
+30 May 1990
+
+Chihuahua, Mexico
+
+121
+
+N/A
+
+The third documented outbreak of SCP-255 occurred in Chihuahua, Mexico, in 1990, coinciding with the passage of 3214 Hybris within 550,000 km of Earth. Characteristic of SCP-255, the outbreak is noted to have started in what was at the time the eleventh-most populous city in the eleventh-most populous country on Earth. Beginning in this instance and continuing through subsequent outbreaks, only human subjects have been infected by SCP-255.
+
+Affected subjects in this outbreak displayed altered circadian rhythms, sleeping for periods between 3-4 hours at a time and awaking fully refreshed, conducting activities, and then tiring and sleeping within an average period of 7 hours, thus operating biologically in accordance with an eleven-hour day.
+
+During interactions with researchers, test subjects displayed a tendency to change subjects in the middle of speaking to say "hello" in either English, Portuguese, or Indonesian, the languages spoken by infected subjects in the second outbreak. Subjects would state "hello" in one of these languages regardless of any prior linguistic knowledge, and uniformly claimed no recollection of doing so. Additionally, these subjects would address Foundation personnel as members of the World Health Organization without prompting. In all other manners, test subjects observed in this iteration of SCP-255 functioned in their altered biorhythm in a normal manner, before recovering and returning to a normal, non-anomalous state within 2-3 weeks.
+
+Estimated Date of Outbreak
+
+Location(s)
+
+Number of Confirmed Human Cases
+
+Incidence Rate
+
+11 November 2001
+
+Quito, Ecuador
+
+1,331
+
+13.9%
+
+The fourth outbreak of SCP-255 took place in an office building in the 12 de Octubre Avenue Business District of Quito, Ecuador. At the time of the outbreak, Ecuador had a population of approximately eleven million people. Additionally, the building in which the initial outbreak was localized was eleven stories high. The fourth outbreak is the first observed instance of SCP-255 being transmitted from person to person, with an incidence rate in laboratory conditions of 13.9%. Infectious iterations of SCP-255 have since been observed to be transmitted from person to person by sustained close proximity (generally within a 2 m radius), despite the lack of observable pathogens. This change in pathogenecity, along with the higher initial number of cases, was responsible for the reclassification of SCP-255 to Keter effective 23 December 2001.
+
+Foundation operatives seized control of the building under the established World Health Organization cover. The size of the outbreak, however, mandated heightened secrecy protocols. Test subjects were transported to Bio Site-16 for observation.
+
+Similar to the second outbreak, infected individuals reported experiencing a phantom limb-like sensation. However, in this event the phenomenon was intensified greatly. Test subjects reported the sensation of seven additional limbs, originating at seemingly random points of the body with no apparent relation to existing anatomy. While the precise nature of the additional appendages was difficult to ascertain, infected persons reported that they felt as though they had three joints, were approximately a meter in length, and had no structure analogous to a hand or foot at the end. These "limbs" were apparently not subject to the painful contractions and sensations normally associated with amputees. However, subjects uniformally reported heightened distress at the sensation of seven additional limbs, moving independently of their control at most times.
+
+Additionally, test subjects lost conscious control of their left arms. At most times, subjects were unable to move their left arms. However, at 1100 hours local time each day, the left arms and hands of infected individuals would independently make motions analogous to what appeared to be the act of writing. When supplied with pen and paper, these individuals all wrote, in crudely formed script, the numbers "11 11 65", theorized at the time to be the date of the next outbreak, and confirmed eleven years later.
+
+All infected individuals ceased to be affected by SCP-255 within 3-4 weeks. Test subjects were administered broad spectrum amnestics and released to Ecuadorian authorities. Foundation assets within the World Health Organization disseminated disinformation related to an exotic strain of malaria and subsequent treatment efforts as part of containment efforts.
+
+Estimated Date of Outbreak
+
+Location(s)
+
+Number of Confirmed Human Cases
+
+Incidence Rate
+
+11 November 2012
+
+Brussells, Belgium
+
+11
+
+100%
+
+The fifth and most recent outbreak of SCP-255 took place in Brussells, Belgium, where 11 individuals working on the eleventh floor of the NATO headquarters building all complained to medical staff of constantly hearing a set of eleven electronic tones, repeating constantly. Containment protocols were activated by Western Europe Sector personnel, and all infected subjects were transported to Bio Site-16.
+
+Test subjects continued to complain of hearing the repetitive set of tones. Most subjects experienced heightened stress and irritability, as well as sleep deprivation. Infected individuals were adminstered sedatives to ameliorate secondary SCP-255 symptoms. Testing of this group of infected individuals revealed the incidence rate of SCP-255 was now 100%, ensuring that any humans exposed to the subjects would contract it.
+
+Eleven days after the test subjects were secured at Bio Site-16, infected individuals reported a cessation of the perceived repetitive tones. One test subject immediately reported hearing an "electronic" voice, similar to that generated by speech simulation software, repeating the Spanish word "estrella". Once the subject reported the phenomenon to researchers, it immediately ceased, whereupon another of the original eleven test subjects reported a similar phenomenon. The original cluster of infected individuals appear to comprise a phrase in this manner, the constituent words of which were repeated in order for every new case of infection beyond this group. The phrase is transcribed below, translated from Spanish to English for this version of the document:
+
+BINARY STAR LOST NOT LOST TRANSPOSE DEAD INSTRUCTION URGENT AWAIT TRANSMISSION
+
+Upon relating to researchers this particular symptom, all test subjects ceased to display any signs of SCP-255 infection. Subjects were amnesticized per SCP-255 guidelines and released.

@@ -1,0 +1,47 @@
+Item #: SCP-1596
+
+SCP-1596
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1596 is to be kept in storage at Site ██, Section R-█, Security Box 107. Room temperature should remain between 10° and 20° Celsius and 45%-55% Humidity. All testing involving SCP-1596 must be administered in the presence of at least one (1) Level-4 Staff Member All testing involving SCP-1596 is suspended indefinitely pending further investigation. -O5
+
+Description: SCP-1596 appears as a nondescript matchbox containing ██ individual matches, all standard in size and appearance. All attempts to track down the origins or manufacturer of SCP-1596 have yet to yield results, through further investigation by researchers is encouraged.
+
+When a match from SCP-1596 is struck alongside the box, it will remain aflame for approx. 26-34 seconds, at which point the flame will slowly smolder out. Despite being lit, matches from SCP-1596 will exhibit no signs of damage after their flames extinguish, and in fact can be used multiple times without appearing to take on any sort of damage. Attempts to light the matches on any object other than SCP-1596 have proven futile, and trying to spread the flame from the match to any other object likewise seems impossible.
+
+When a match from SCP-1596 is lit, the "home" of the person who lit it (hereafter referred to as the "Subject") has been observed to catch fire at precisely the same time, steadily growing stronger as the match burns before eventually consuming the entire structure. Attempts to subdue or extinguish this fire have proven unsuccessful, though it has been observed that the flames will remain within the structure and not spread to the surrounding environment. The fire will continue to burn until the entire structure and all its contents, living or non-living, have been destroyed.
+
+Addendum: Dr. █████ Test Log
+
+Test 1
+
+Subject: Agent ███████
+
+Conditions: Subject lives approximately ██ miles from Site ██ and was briefed on the nature of SCP-1596 prior to testing; her home was emptied of all belongings prior to the experiment.
+
+Results: Staff assigned to monitor Subjects's home confirmed that it caught fire at precisely the same moment that she lit a match from SCP-1596. Their report shows the fire started on the far left of the second floor; Subject confirmed that this was her bedroom and the room in which she spent most of her time. During the test, Subject attempted to light a gasoline-soaked rag with her match; several attempts at doing so were all met with defeat. Subject was thanked for her cooperation and granted 110% market value of her home as compensation.
+
+The flame from the match seems to be "sterile" in its inability to spread to other substances; further testing could explore this peculiarity further. Also, it may be that there's a connection between where the fire starts and where the Subject spends the majority of his or her time. This may mean that there's no association between the Subjects "home" and SCP-1596 at all; after all, it would make sense that the majority of most subjects' time is spent at home. -Dr. █████
+
+Test 2
+
+Subject: Agent ███
+
+Conditions: Subject was flown in from the Foundation's Chinese branch for this experiment. As with Test 1, Subject was informed of the nature of SCP-1596 and given time to prepare his home beforehand.
+
+Results: Subject was recorded attempting to light his match on a variety of substances, including three other matchboxes and even an open flame. The match remained unlit, however, until struck against SCP-1596. Staff assigned to Subjects's home confirmed that the fire again began at the exact moment that the match was struck; no deviation between times was recorded. Fire was observed to begin on the right side of the first floor; Subject confirmed this to be his "workplace" and where he would spend the majority of his time. While the match was lit, Subject attempted to light another match from from SCP-1596 with it. Despite several attempts, the flame from his match refused to spread before extinguishing. Subject was thanked for his cooperation and granted 110% market value of his home as compensation.
+
+Test 2 seems to indicate that the matches will not light by any means other than SCP-1596 and that a match's flame will not spread to any other substance. Furthermore, distance has not been observed to play any significant factor in the affect of SCP-1596, and Test 2 seems to add credence to my hypothesis that SCP-1596 is tied to where the Subject spends the most time, not where their "home" is. -Dr. █████
+
+Test 3
+
+Subject: Agent ██████
+
+Conditions: Match from SCP-1596 attached to a robotic arm and positioned to strike SCP-1596 upon activation. Subject was placed in separate room and told to press a button when prompted that would activate the arm and ignite the match. As before, Subject was warned of SCP-1596's nature and given the opportunity to prepare.
+
+Result: Staff positioned at Subject's residence did not report any event of a fire; further investigation showed no sign of fire damage within. Two hours later, Subject was informed of a house fire at ███████████████, ██████, his childhood home. Fire patterns were consistent with those found in Tests 1 and 2. The house fire claimed █ lives, all of which were immediate family members to the Subject. Subject was granted indefinite leave for grieving; upon his return, he revealed that his childhood house was where he always "truly felt" at home. When asked, he also confirmed that the kitchen, which is where investigation showed the fire began, was "the room that first came to mind when [he] thought of [his] old home". Subject's requests for amnesiacs that would block his memory of participating in Test 3 were denied; Subject was instead enrolled into counseling at the Foundation's Psychiatric Center.
+
+We still can't rule out the possibility that the house fire was coincidental and that SCP-1596 simply doesn't work when it's not used directly. Still, when you see hoof prints, think Horses, not Zebras. Seems to be that SCP-1596 might possess some sort of telepathic abilities to "sense" where the Subject "feels" most at home, which would negate my previous theories. More testing is going to be needed, but I'm going to petition for SCP-1596 to be reclassified a "Euclid" until further notice. -Dr. █████
+
+O5 Notice - All testing/experimentation involving SCP-1596 is suspended indefinitely pending further review of its nature. Requests for reclassification will likewise be evaluated.

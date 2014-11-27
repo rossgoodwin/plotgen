@@ -1,0 +1,87 @@
+Several instances of SCP-936
+
+Item #: SCP-936
+
+Object Class: Euclid
+
+Special Containment Procedures: Specimens of SCP-936 are to be kept on the grounds of Bio Research Site-104, enclosed by a fence to prevent unauthorised access, and watered daily. Approximately once a month, the plantation is to be screened for any SCP-936-1 by two (2) D-Class personnel of adequate physical ability and SCP-936-1 are to be harvested according to site plan.
+
+Harvested SCP-936-2 are to be incinerated if unused, can be fed to contained carnivores upon removal of seeds, which are to be incinerated.
+
+Following Incident 936-1, the D-class personnel performing the screening are to be screened thoroughly for infectious diseases, and are to use sterile gloves and facial filters to prevent contamination.
+
+Uncontained SCP-936 instances are to be dug out and any SCP-936-1 and SCP-936-2 incinerated. For purposes of containment, the Foundation is to ensure SCP-936 is declared an invasive species by local governments; a censored description is to be made public for this purpose.
+
+Description: SCP-936 is a species of deciduous, self-pollinating tree resembling Fagus sylvatica, inhabiting the region of northern and eastern Europe, most notably clustering around ██████, Ukraine. SCP-936 is capable of forming clonal colonies, the ol[DATA EXPUNGED].
+
+It has been shown that the roots of SCP-936 are host to nitrogen-fixing bacteria, similarly to the legumes - as during most of its lifecycle, the plant doesn't display anomalous properties, checking for unusual soil nitration levels shows promise as an identification method.
+
+SCP-936 is monoecious, and during flowering, specimens can be recognised by an unusually high male to female flower ratio - there are only several dozen female flowers, usually growing directly on older wood. Out of those, on average, less than six continue development, and it is rare for more than a single fruit to reach maturity.
+
+The resulting fruit, classified SCP-936-1 is covered in a green cupule, and rapidly grows towards its ripe mass of app. 85 kg; SCP-936's foliage grows denser in order to cover for the energetic expenditure. Dissection has revealed the inside of SCP-936-1 contains a length of stem wrapping around a structure closely resembling a human body, designated SCP-936-2. Tissue samples obtained from SCP-936-1 physiologically resemble human tissue, possessing functionality in most aspects1, with the exception of ██████, █████ and ███████ █████ which contain a mass of brown-black seeds approximately 3cm in diameter.
+
+As SCP-936-1 reaches maturity, the stem thickens considerably and the cupule wilts, eventually breaking, and causing SCP-936-2 to descend, hanging from the stem which in most cases wraps around its cervical region.
+
+The appearance of SCP-936-2 produced by a single SCP-936 varies in size, visual appearance, and apparent gender with no discernible pattern.
+
+The seeds within SCP-936-2 have a thick skin, and take approximately sixteen months to germinate. However if exposed to an acidic environment (pH < 2), germination occurs within ██ weeks.
+
+Recovery Log: SCP-936 was first discovered near ██████, Finland, after reports of an unusually high reported suicide rate. Intelligence agent ████'s report has revealed this to be due to the statistics including a number of nude hanging victims being periodically discovered on trees in the nearby ████ forest, and the local cemetery, their identity being impossible to determine.
+
+Suspecting a cognitohazard, a perimeter was established around said yard under the premise of widespread bark beetle infection, and the site was placed under observation. During observation period, a new corpse was discovered despite security footage showing no violations of perimeter within assumed time of death. Autopsy revealed anomalies inconsistent with human anatomy; notably, seeds located in [REDACTED]. Agent F████ noted that all victims have been found hanging from a single species of tree, and a thorough examination has resulted in the procurement several samples of unripe SCP-936-1, leading to SCP-936 classification.
+
+MTF Xi-8 "Spearhunters" performed removal of all instances of SCP-936 within an surrounding area of 45 km sq. Obtained seeds contained at Bio Research Site-104.
+
+Addendum 936-1:
+
+EXPERIMENT LOG SCP-936
+
+SUBJECT: D-532, 25 year old male.
+
+GRAFT: 100 cm sq. of skin taken from SCP-936-2.
+
+RESULT: Skin graft implanted successfully. Skin shows higher mechanical resistance, possibly due to interstitial cellulose fibers. However, incisions take longer to heal, and poor resistance to UV light.
+
+SUBJECT: D-821, 25 year old male.
+
+GRAFT: muscular tissue taken from biceps of SCP-936-2.
+
+RESULT: Muscle graft implanted successfully. Muscular tissue appears to behave ordinarily, and has similar strength/volume ratio. Despite D-821 being restrained for several days due to operation , implanted muscle showed no traces of atrophy. Subject D-821's diet switched to protein-deficient - measurements of rate of muscle loss showed this to be lower by a factor of ██.
+
+SUBJECT: D-231, 30 year old male.
+
+GRAFT: Kidneys taken from SCP-936-2.
+
+RESULT: Graft implanted successfully. Kidneys shown to have remarkable liquid economy. Subject expired due to renal failure after seven weeks.
+
+SUBJECT: D-512, 23 year old female.
+
+GRAFT: Digestive system taken from SCP-936-2.
+
+RESULT: Graft implanted successfully. D-512, instead of via regular digestion, appears to absorb products of bacterial decay - intestinal microflora changed substantially. D-512 appears emaciated. D-512's urine abnormal - further testing shows intestinal flora removes cca.██% of urea from her bloodstream and reprocesses it.
+
+I suspect the new intestinal tract isn't long enough for this mode of digestion. - Dr ██████
+
+SUBJECT: D-721, 25 year old female.
+
+GRAFT: [REDACTED]
+
+RESULT: Graft implanted successfully. D-721 appears to produce a steady supply of seeds.
+
+SUBJECT: D-723, 31 year old female.
+
+GRAFT: Subject impregnated with sperm harvested from SCP-936-1.
+
+RESULT: Pregnancy initially appears to progress normally. However, after ██ weeks, ultrasound reading [DATA EXPUNGED]01. Foetus artificially aborted.
+
+Note: This might explain why [DATA EXPUNGED]gmen - Researcher Eisenberg
+
+Addendum 936-2:
+
+Incident 936-1:
+
+On ██/██/19██, one of the D-class personnel tasked with SCP-936-1 harvest, later shown suffering from a rhinovirus infection, transmitted the virus onto at least one SCP-936-1. The infection spread through as of yet unknown means, causing a crop failure SCP-936, heavily delaying research progress. Removal of infected/dead SCP-936-1 successful in halting infection progress.
+
+Footnotes
+
+1. Notably, circulatory system appears fully functional, and fMRI shows cerebral activity resembling that of an individual submerged in a sensory deprivation tank.

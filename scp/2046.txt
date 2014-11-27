@@ -1,0 +1,35 @@
+A reproduction of SCP-2046 at time of writing to demonstrate scale of effect. Anomalous entries are blacked out to prevent memetic exposure.
+
+Item #: SCP-2046
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2046 must be affixed to the wall of a secure, air-tight containment cell equipped with an airlock and radiation shielding. Several other, non-anomalous periodic tables of identical dimensions to SCP-2046 must be affixed to the wall nearby. At any given time, there must be no fewer than twenty (20) periodic tables on the wall. In addition, the containment chamber must have a table set with a one gram (1g) sample of the first 92 elements on the standard periodic table of elements1, each sealed in an air-tight glass bottle.
+
+Every 24 hours, a D-class personnel equipped with a Level A hazardous materials suit must inspect the periodic tables and compare them to another periodic table for reference (one not stored in the chamber). D-class personnel assigned to this duty must be largely ignorant of the subject of chemistry2, and are to be treated with class C amnestics afterwards. Periodic tables that have been modified by SCP-2046’s effect (hereafter referred to as SCP-2046-1, see below) must be taken down and replaced with new periodic tables. Instances of SCP-2046-1 are to be sealed in a black paper envelope, shredded, and incinerated. Similarly, the element samples must be disposed of and replaced on a monthly basis.
+
+Should the radiation inside the containment chamber begin to exceed 2000 CPM, the air must be evacuated, stored in shielded gas canisters, and disposed of.
+
+All waste produced during the course of containment procedures must be deposited in one of the Foundation’s secure, underground radioactive waste disposal centers.
+
+Description: SCP-2046 is a poster of the periodic table of elements printed on a sheet of glossy paper, roughly 91 by 61 cm in dimension. When not observed, SCP-2046 will expand itself, adding new elements and groups to the periodic table it depicts3. New elements added in this way do not conform to the established laws of chemistry or the organization structure of the periodic table. At time of writing, SCP-2046 displays 191 anomalous elements, only ██ of which are listed on the Foundation’s expanded periodic table.
+
+SCP-2046 exerts a memetic effect on observers, causing roughly 80% of them to believe that the anomalous periodic table depicted is the “correct” periodic table, and will express confusion when presented with the standard periodic table. The other 20% remark that something seems amiss with the table, but unless they are able to compare it to another, non-anomalous periodic table, they will be unable to say what. Administration of class C amnestics have been somewhat effective in removing this effect4.
+
+In addition, SCP-2046 will introduce these anomalous elements into the surrounding environment by transmuting random atoms into the new elements. Most of these anomalous elements cannot exist in our universe, and decay instantly into fundamental particles, resulting in the gradual build-up of radiation. Human beings exposed to this effect will begin to show symptoms similar to heavy metal poisoning, radiation sickness, and [DATA EXPUNGED]. The exact rate of transmutation has yet to be determined, but it is noted that prior to containment, SCP-2046 hung on the wall of a lecture hall at [REDACTED] Georgia for roughly a month prior to the first reported cases of affected students.
+
+Instances of SCP-2046-1 are other periodic tables affected by SCP-2046. If a periodic table is left unattended in proximity of SCP-2046, it will eventually change to match the anomalous table depicted on SCP-2046. Instances of SCP-2046-1 do not share SCP-2046’s ability to transmute elements, but they are still a memetic hazard, and must be disposed of in accordance with the special containment procedures (see above).
+
+Under the direction of Dr. █████████, researchers were able to develop containment procedures using [REDACTED]. By exposing SCP-2046 with representations of the standard physics-compliant periodic table and elements, SCP-2046’s physics-distorting effects are inhibited. Since the implementation of these procedures, no new elements have appeared on the table, and the level of radiation within the containment chamber has only risen [REDACTED].
+
+Addendum: Senior research personnel predict that the release and propagation of stable, anomalous chemical elements could damage the laws of chemistry, eventually resulting in a CK-class reality restructuring event. As such, all experiments involving the anomalous elements themselves are restricted, pending O5 approval.
+
+Footnotes
+
+1. Exceptions can be made for highly unstable atoms, such as francium, astatine, etc.
+
+2. A lack of high school level chemistry education is sufficient to qualify as "largely ignorant" for this purpose.
+
+3. SCP-2046's dimensions do not change. The periodic table itself scales down to accommodate new elements.
+
+4. The effectiveness of this treatment seems inversely proportional to the subject's knowledge of chemistry. All D-class personnel lacking a high-school education have thus far been cured with a single treatment, but more educated subjects, such as the students of [REDACTED] who were initially subjected to this effect, often suffer relapses, requiring multiple subsequent treatments. The original owner of SCP-2046, Dr. ███████, who has a PhD in chemistry, remained uncured after █ treatments, and was eventually given class B amnestics. Treatment of this scale requires lengthy rehabilitation, and is generally not recommended.

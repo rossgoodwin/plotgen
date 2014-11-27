@@ -1,0 +1,43 @@
+SCP-1560-01, photographed on █/██/██ from Foundation observation aircraft Roc One-Seven shortly after being chased off.
+
+Item #: SCP-1560
+
+Object Class: Euclid
+
+Special Containment Procedures: As living specimens of SCP-1560 currently cannot be contained by any means available to the Foundation, Mobile Task Force Lambda-4 "Birdwatchers" is currently tasked with tracking known populations of SCP-1560. Deceased specimens of SCP-1560 are stored in standard cryogenic biological storage units at Site ██, and personnel may gain access to said specimens with prior permission from at least two (2) Level 3 Senior Researchers.
+
+Description: SCP-1560 is a species of animal of presumed extradimensional origin resembling Thalassarche melanophrys, or the Black-Browed Albatross, with the notable exception of its unusually large size, eyes, and complete lack of legs or feet. Adult SCP-1560 can grow to wingspans of over 3.8m (approximately three times that of T. melanophrys), and appear to have lifespans exceeding that of the duration under which the Foundation has had SCP-1560 under observation (approximately ██ years). SCP-1560's eyes differ greatly from that of terrestrial avians, as they have compound eyes that have been determined via testing to be extraordinarily sensitive to ultraviolet light.
+
+SCP-1560 populations exist in small familial groups at an altitude of no less than 8,100 m above sea level, of which the Foundation is currently tracking six (6) eight (8) fifteen (15) known families. SCP-1560's behavior is similar to that of a terrestrial marine avian, with the exception that SCP-1560 does not land, and only drops below an altitude of 8,100 m to feed, at which point specimens completely disappear for a period of five (5) to ten (10) minutes. Long-range photography and extensive study of the behavior of SCP-1560 suggests that hunting specimens displace into an extradimensional space inhabited by a species of large cephalopod which form the primary diet of SCP-1560; SCP-1560 specimens often bear wounds or scars similar to those seen on sperm whales that hunt deep-sea giant squid.
+
+To date, the Foundation has not been able to capture a live specimen for study. When injured or trapped, SCP-1560 specimens will spontaneously extradimensionally displace, regardless of current altitude. Attempts to tranquilize specimens have ended in the same result, and in most cases tranquilized specimens have not returned and are presumed deceased. As SCP-1560 appear to be minimally intelligent and have begun to develop an aversion to Foundation observation aircraft, further attempts to capture SCP-1560 specimens have been indefinitely suspended.
+
+Addendum 1560-01: Log of Significant SCP-1560 Individuals
+
+Designation: SCP-1560-01
+
+Description: The largest and oldest known specimen, SCP-1560-01 appears to be a highly intelligent male with a wingspan of 3.86 m. It was an adult at time of documentation and is still alive after ██ years of Foundation observation, thus making it the current baseline of maximum lifespan for SCP-1560. SCP-1560-01 led a flock of eight (8) specimens, of which one disappeared and has not been seen since the Foundation's attempt to capture it. SCP-1560-01 is mildly aggressive and will chase off Foundation aircraft that approach within 500 m of its flock.
+
+Designation: SCP-1560-08
+
+Description: A mature female specimen, SCP-1560-08 was observed on ██/█/██ to disappear for a period of approximately eighteen (18) minutes, after which it reappeared with three (3) apparently newborn specimens of SCP-1560, designated SCP-1560-29, SCP-1560-30 and SCP-1560-31.
+
+Designation: SCP-1560-21
+
+Description: SCP-1560-21 reappeared badly wounded from a "hunting dive" on ██/██/██. It managed to stay airborne in a state of extreme distress for approximately one hour before succumbing to its injuries and falling out of the sky, after which it was retrieved by MTF Lambda-4 members. SCP-1560-21's remains are cryogenically frozen at Site ██, as well as its stomach contents and the fragments of barbed tentacle that were embedded in its wounds.
+
+Designation: SCP-1560-28
+
+Description: [DATA EXPUNGED]. Wreckage of Roc One-Niner retrieved from crash site with no complications. No survivors.
+
+Addendum 1560-02: Observer Note
+
+To date, SCP-1560 have only ever been observed cruising in an East-to-West direction, regardless of prevailing winds or hemisphere. The significance of this discovery is under investigation.
+
+Dr. █████████
+
+Addendum 1560-03: Observer Note
+
+While we have been extraordinarily lucky so far, the nominal cruising altitude of SCP-1560 combined with their large size and increasing numbers means that it's only a matter of time before we have an incident with a civilian aircraft involved. Until such time that a permanent containment procedure can be developed, we may have to consider culling SCP-1560's numbers by exterminating one or more of their flocks.
+
+Dr. █████████

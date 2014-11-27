@@ -1,0 +1,75 @@
+Instance of SCP-1746
+
+Item #: SCP-1746
+
+Object Class: Euclid
+
+Special Containment Procedures: The Foundation’s astronomical/meteorological forecasting office is to predict the formation of instances of SCP-1746 by gathering and processing weather and climate data from national and international weather forecasting institutions, ground-based and space-based auroral electromagnetic monitors and the Foundation’s own sources. Under the current forecasting model, formation of SCP-1746 instances can be predicted only thirty-three minutes in advance, with travel path predictions reaching 55% accuracy only after instances have formed. This presents a very brief window of time for the necessary resources to be deployed to perform Protocol 1746-Aleph (see Document HG-1746-Aleph).
+
+Thirty-six (36) mobile task forces (designated MTF-1746-Aleph/A through MTF-1746-Aleph/AJ) which specialize in the application of Protocol 1746-Aleph are each to be stationed in an area within 12 minutes flight time of a geographic area known to be susceptible to SCP-1746. Each such task force is equipped with two (2) modified Boeing CH-46 (or equivalent) heavy-lift helicopters, four (4) reinforced steel 12-meter cargo containers (in which the protocol equipment is to be stored), and the equipment listed on the manifest appended to Document HG-1746-Aleph.
+
+Each of these task forces is to be staffed with an appropriate number of the following staff members, together with alternates:
+
+Two (2) qualified helicopter pilots
+
+Four (4) construction engineers and two (2) qualified surveyors
+
+Seven (7) trained actors (consisting of four (4) males and three (3) females), meeting the following specifications:
+
+Actor M1: Male, at least 66 kg in mass.
+
+Actor M2: Male, at least 50 kg in mass, belonging to Y-chromosome haplogroup O3
+
+Actor M3: Male, at least 105 kg in mass, left leg amputated above the knee, with a blood alcohol content of at least 0.25% at the time of performance of Protocol 1746-Aleph.
+
+Actor M4: Male, at least 56 kg in mass, maximum age 34 years, belonging to Y-chromosome haplogroup R1a
+
+Actor F1: Female (mass irrelevant) with full urinary bladder.
+
+Actor F2: Female, mass between 58 and 62 kg, pregnant (1st trimester), wearing cosmetics meeting the specifications described in Document HG-1746-Aleph, Appendix F2-A.
+
+Actor F3: Female, maximum mass 24.5 kg, who is a lineal descendant of the Actor M4 engaged in the protocol application.
+
+One (1) squirrel wrangler
+
+Two live (2) mature female eastern grey squirrels (Sciurus carolinensis)
+
+It is not recommended that any of a task force’s actors or the wrangler perform “double duty” as pilot, engineer or surveyor due to the risk that injuries could be sustained by personnel due to the unpacking and deployment of the equipment under stress, which could render an actor or the wrangler unfit or unable to perform their prescribed duties within the applicable specifications.
+
+Following the forecasting of a path of a given instance of SCP-1746, the relevant task force is deploy to an appropriate site within the flight path, the engineers and surveyors are to precisely install and arrange the equipment, and the actors are to carry out the protocol in accordance with the specifications. Document HG-1746-Aleph, together with its exhibits and schedules, comprehensively describes the steps that are to be taken to perform the protocol. All actions described in that document must be precisely timed, placed and vectorized consistent with the tolerances set forth in the document. The following protocol performance issues merit special attention:
+
+Care should be taken to properly fuel and maintain the appliances and motor vehicles included among the protocol equipment, as equipment failures may render it impossible to perform the protocol within the applicable specifications.
+
+The fuel used in the Buick Wildcat must be leaded gasoline and must be free of additives except as specified in the protocol. The car is to be painted red.
+
+Redundant cooling systems should be employed to prevent the frozen dairy confection from liquefying before the specified time.
+
+The positioning and height of the traffic light are to be adjusted depending upon the timing of the protocol's performance in relation to the lunar tidal cycle.
+
+Actor M1 is to be dressed as an Episcopalian priest (regardless of Actor M1's actual religious affiliation, which has not been shown to be relevant). His cigarette must be menthol.
+
+The Kentucky bluegrass (Poa pratensis), must be cut to a mean height of 7 to 9 cm. The willow tree (Salix alba) must be female.
+
+The change cup carried by Actor M3 (the hobo) must contain only coins satisfying pre-Coinage Act of 1965 metallurgical standards.
+
+Vehicle 2 (the Dodge Dart; color irrelevant) must be driven at a constant velocity of 10.72 m/s ±0.04 m/s in accordance with the specified vector, with the song "Till There Was You" (original cast recording), commencing at 36 seconds into the track, being played on its radio concurrently with the vehicle's entry into the protocol zone.
+
+Immediately after dropping the frozen dairy confection, Actor F3 is to adopt body language consistent with distress over loss of the dessert.
+
+The head of lettuce in the grocery bag must be Lactuca sativa var. longifolia. The use of any other variety of lettuce is prohibited.
+
+Description: SCP-1746 is an anomalous and extremely violent storm pattern. Instances of SCP-1746 are also characterized by “pulsations” of dozens or hundreds of simultaneous lightning strikes concurrent with episodes of ball lightning, intermittent hurricane-force updrafts and wind gusts, and electromagnetic phenomena which result in the instances being far more powerful and destructive than similarly-sized non-anomalous storms. Non-Foundation climatological organizations have compared instances of SCP-1746 to multiple concurrent F5-class storms.
+
+Instances of SCP-1746 are remarkably regular and consistent from instance to instance in shape, speed, size, patterns of wind speed, gusting and barometric pressure, cloud structure and the timing and frequency of lightning strikes. The uniformity of instances of SCP-1746 has made it possible for a protocol to be formulated to dissipate the instance of SCP-1746 and avoid the catastrophic damage that would otherwise result from it. Although the basis for the effectiveness of Protocol 1746-Aleph is imperfectly understood, it has been theorized that Protocol 1746-Aleph, when precisely timed and performed, creates microclimatological and electromagnetic conditions which result in a positive feedback loop that dissipates the storm.
+
+The development of Protocol 1746-Aleph originated after an instance of SCP-1746 formed in Texas on May ██, 1966 but suddenly dissipated. Foundation climatologists who had been studying SCP-1746 before that time had hypothesized that it may be possible to disrupt an instance of SCP-1746 by generating appropriate atmospheric and electromagnetic stimulus; the dissipation of that instance appeared to confirm the hypothesis and pose the question of how the stimuli had, in this case, been serendipitously produced. Fortunately, a television news crew that had been filming for stock footage purposes in the town of ████ (within the projected path of the SCP-1746 instance) had recorded a sequence of events which Foundation climatologists, statisticians and mathematicians were able to verify as producing the required stimulus. The Foundation was subsequently able to develop Protocol 1746-Aleph by studying the film and reproducing the necessary series of events to generate the stimuli. Protocol 1746-Aleph, therefore, represents a deliberate effort to produce the disruptive stimulus by artificially and accurately re-creating the precise sequence of events that generated the stimulus in 1966.
+
++ Special Staffing Note
+
+– hide block
+
+All members of MTF 1746-Aleph-AC were posthumously awarded the Foundation Star after the loss of the entire team resulting from a protocol defect during a containment effort in August 2011.1 In view of the age of MTF 1746-Aleph-AC's Actor F3 at the time of her loss (she is the youngest Foundation Star recipient to date), Dr. Garcia has recommended that MTF 1746-Aleph teams be henceforth staffed with appropriately-sized, but adult, candidates. This suggestion has been forwarded to O5 for consideration.
+
+Footnotes
+
+1. Squirrel 2 failed to carry the frozen dairy confection to its designated mark before consuming it.

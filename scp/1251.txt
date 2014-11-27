@@ -1,0 +1,43 @@
+Item #: SCP-1251
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to the quasi-random movement of SCP-1251 and its presence on public roads, embedded agents in the local emergency services and the UK Highways Agency have been instructed to act as liaison with on-site personnel.
+
+Roads leading to SCP-1251's current site are to be secured and traffic redirected, with the nearest three traffic intersections to be kept under video and gravimetric surveillance. From the 26th day from the last known relocation of SCP-1251 the team should be on high alert for activity and be prepared to transfer containment measures at any time.
+
+As of ██/██/████ the containment team is to be expanded to six members and placed on 14-hour overlapping shifts of three personnel (see Addendum 1251-01). Attempts are under way to influence the movement of SCP-1251 towards a secure facility (see Addendum 1251-02); Foundation personnel in local civic planning offices should be advised of any necessary road closures and title transfers.
+
+Description: SCP-1251 is an free-standing phenomenon currently centered on a mini-roundabout located in ██████ , United Kingdom. It exerts an anomalous pseudo-gravitational force on all objects within 12m of its center, typically varying between 0.4N/kg and 2N/kg.
+
+It has been determined that SCP-1251 is able to transmit itself between roundabouts and other circular junctions and does so approximately once a month. No pattern has been detected to the fluctuations in its 'schedule' relative to the lunar or Gregorian calendar.
+
+The force SCP-1251 exerts on its surroundings is inversely proportional to the size of the intersection - large roundabouts and junctions are generally safe to approach and its anomalous effects would not be readily apparent to traffic. At mini-roundabouts, traditional crossroads and similar arrangements it has displayed far greater destructive potential; the highest measured force exerted by SCP-1251 (at a 'painted circle' mini-roundabout in ███████████) is 1,200N/kg.
+
+Use of ground-penetrating radar has located a mass 1.8m below site 1251-██ , revealed by ferromagnetic imaging to be a metal cage consistent with a 16th century gibbet. No corresponding execution was recorded on the site, and further tests following SCP-1251 shifting to a new location showed that the object had disappeared, only for a similar mass to be detected at SCP-1251's new site. It can safely be assumed that this object, or what it contains, is the cause of SCP-1251.
+
+Attempts to excavate the affected area while SCP-1251 is in a relatively low-activity state to retrieve this object have thus far been unsuccessful, as removal of large amounts of material from SCP-1251's current site has been observed to dramatically increase the pseudo-gravitational force exerted by the anomaly.
+
+Study of traffic accident records indicates that SCP-1251 may have been operating for some time. A moving 'accident black spot' can be traced moving through the road network apparently originating in Folkestone, UK. Correspondence with colleagues in Secteur-26 suggest that SCP-1251 may have been active in France before apparently 'jumping' to the UK via the Channel Tunnel. Given this new information, priority is to be given to finding a way of reliably controlling SCP-1251's direction of shift so it can be guided towards a secure facility or at least an unpopulated area; otherwise there is a significant danger that SCP-1251 will eventually leave Sector-25's jurisdiction.
+
+Recovery Log 1251
+
+SCP-1251 came to the Foundation's attention on ██/██/████ due to a pileup at a rural roundabout in ████████. Emergency services arriving on the scene immediately sustained near-identical vehicular damage and casualties, and a fast-response team was dispatched to investigate.
+
+It was quickly established that SCP-1251 was exerting an anomalous force of approximately 1N/kg within the area of the roundabout. Personnel represented themselves as members of an Explosive Ordnance team and the incident was reported as an act of terrorism targeted at the most senior casualty of the pileup, a Parliamentary Under-Secretary of State returning from a delegation in Indonesia. Surrounding roads were immediately closed under the cover of repair work.
+
+Containment was lost on the 29th day of Foundation presence; the team began experimentation on the morning of ██/██/████ to discover that Site-1251-1 no longer possessed any anomalous qualities. Sector-25 began intercepting police and emergency services notification from a site 1.5 miles away from the containment zone.
+
+Upon arrival it was discovered that a car had become stranded on the traffic island; the occupant had reported difficulty leaving their vehicle. Further measurements indicated that the roundabout was exerting an attractive force of 1.6N/kg. The team was faced with the challenge of winding up operations at Site-1251-1 whilst simultaneously securing Site-1251-2 using the pretext of a road subsidence.
+
+Addendum 1251-01
+
+Agent ████████ , tasked with supervising the on-site team, has been placed on leave due to mental and physical exhaustion exacerbating a previously undiagnosed nervous condition (see Log-1251-01). O5-██ has read the medical report produced by Dr. ███████ and is satisfied that the contents of Agent ████████'s field logs are the product of stress and poor deployment practice leading to a personal crisis, rather than further anomalous behaviour exhibited by SCP-1251. Agent ████████ is not to return to active duty unless cleared by a Foundation psychiatrist.
+
+Addendum 1251-02
+
+Significant progress has been made in 'guiding' the movement of SCP-1251. The anomaly shows a clear preference for 'travelling' along open, publicly-owned roads without doubling back on itself, and furthermore favours intersections with a specific configuration (to whit, through road with second road intersecting at a right-angle, low dome mini-roundabout without double yellow lines).
+
+By applying pressure on local government bodies to temporarily close and/or transfer strategic sections of road to Foundation ownership the containment team has been able to encourage SCP-1251 to move along a more or less predictable route. Current projections indicate that SCP-1251 can be guided to Site-60 within the next two years, where it can be safely contained by placing it on a 'track' comprising two mini-roundabouts on a circular carriage and linked by a further road.
+
+The behaviour SCP-1251 exhibits when choosing its next location suggests it may have some degree of sentience - further research is advisable.

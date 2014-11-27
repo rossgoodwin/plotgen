@@ -1,0 +1,49 @@
+SCP-1785
+
+Item #: SCP-1785
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1785 is to be stored in a standard passcode-secured locker. Update: Given Incident 1785-1, SCP-1785 is henceforth to be stored in a glass case in a reinforced concrete chamber, 5m x 5m x 5m, with steel-plated, passcode-locked doors. Level 4 security clearance is required for entry, and two guards considered to be of exceptionally high integrity and with exceptional loyalty to the Foundation are to be posted outside at all times. The guards should be informed that while SCP-1785 does not pose a security risk in and of itself, Foundation personnel without the proper security clearances may attempt to gain access to it through deceptive or violent means in order to use its properties for personal gain. These measures are temporary, pending further O5 review.
+
+Description: SCP-1785’s appearance is consistent with that of a mask dating from the late 19th century and originating on the island of Java, in Indonesia. The mask is of a type worn by performers in wayang topeng dance drama, a highly stylized form of classical Javanese dance commonly performed in the court of the Yogyakarta Sultanate.
+
+It remains inert unless its inside surface comes into contact with a human face1, at which point it will adhere to the entirety of the face, begin shaking in a violent but localized fashion, and become temporarily impossible to remove. This is accompanied by a loud and horrific sound generally described as “squishing and grinding.” If the subject is conscious, he or she will also exhibit significant vocal distress indicating high levels of pain.2 After a period of 2-3 hours, SCP-1785 becomes inert again and can be easily removed. There appears to be a "cooldown period" of unclear length before it can be used again on the same individual, but experiments have shown that it is possible to use it again immediately on another individual.
+
+After wearing SCP-1785, subjects exhibit minute and variable differences in facial structure, some of which are not known to be possible by means of modern cosmetic surgery, including slightly increased nose size or distance between eyes. Specific differences are usually only detectable through the use of facial recognition software: whether or not the viewer was familiar with the face of an individual affected by SCP-1785, "before" and "after" pictures always appear to be different, though the viewer cannot pinpoint specifically affected characteristics. Test subjects comparing such pictures often claim to rely to a much higher degree than normal on instinct or "gut feeling."
+
+All individuals who were previously familiar with a subject's face will fail to recognize that subject after he or she has worn SCP-1785, no matter whether the subject was a close friend, longtime colleague, spouse, parent, child, or any other relationship. If evidence is presented to prove the subject's identity, others will claim that the subject has been replaced by an impostor. This effect has been described by Dr. S█████ as “mass Capgras delusion,” referring to a mental condition in which patients become convinced that one or more close friends or family members have been replaced by impostors. The delusion instilled by SCP-1785 cannot be reversed by DNA proof, shared secret knowledge, or any other identifying markers, even if the individual making the claim was familiar with the nature of SCP-1785 and was present before, during, and after the entire period when it was being worn by the altered individual. Manifestation of the effect is not exclusively reliant upon facial recognition: if two individuals are introduced while one individual's face is concealed, using SCP-1785 on that individual will cause lack of recognition by the other. This effect has been shown to cause severe psychological distress in affected individuals that does not appear to be memetic in nature, but rather results from the refusal of their friends and family to acknowledge their identity.
+
+SCP-1785 was discovered during a police raid on the Bangkok mansion of N██████ T█████████, a major Thai crime boss, and was subsequently acquired by the Foundation after its unusual properties became known. When interviewed by Foundation agents, T█████████ was very reluctant to disclose any information about SCP-1785, but eventually revealed under duress that he had obtained it as partial payment for a debt from a very elderly man residing in Phuket who had since died. Attempts to gain further information about this man, or SCP-1785’s origin, have proven fruitless.
+
++ Addendum 1785-1: Report by Dr. S█████ (Requires Level 4 Clearance)
+
+- Addendum 1785-1: Report by Dr. S█████ (Requires Level 4 Clearance)
+
+The fact that SCP-1785 could theoretically be used to render an individual unidentifiable to police, family members, or anyone else—in effect, a sort of "identity wipe"—has raised significant interest among certain personnel, particularly Class D personnel. We obviously do not want to encourage this sort of behavior, as identity wiping removes an important element of our coercive power over Class D personnel. Therefore, all requests to borrow SCP-1785 for personal use are to be denied at this time. I believe we should consider a disinformation campaign to spread rumors of unexpected and harmful long-term effects among users of SCP-1785, in order to alleviate unwelcome interest in the item.
+
++ Addendum 1785-2: Incident 1785-1 Report (Requires Level 4 Clearance)
+
+- Addendum 1785-2: Incident 1785-1 Report (Requires Level 4 Clearance)
+
+On the morning of ██/██/██, a group of ██ Class D personnel attempted to gain access to SCP-1785 by means of [DATA EXPUNGED] explosion resulting in ██ deaths. All survivors were taken into custody and, upon being stringently questioned, indicated that their purpose [DATA EXPUNGED] All known members of the conspiracy were terminated; the ringleaders, F██████ and R███, were publicly terminated as an example to others with similar inclinations.
+
+Given the possibility of similar events, SCP-1785 is to be moved to a much higher-security facility, and that the disinformation campaign suggested by Dr. S█████ is to be carried out by means of Addendum 1785-3.
+
+Addendum 1785-3: Report by Doctor S██████
+
+Follow-up with users of SCP-1785 indicates unexpected and harmful long-term effects. After a dormancy period of approximately 6 months, facial features begin to lose size and definition: wrinkles become shallower, jawlines and noses soften, eyes and mouth become smaller, etc. By two to three weeks after symptoms manifest, this effect has become extremely pronounced, with faces becoming very smooth and all facial features shrinking to occupy a palm-sized space in the center of the face. By around the one-month mark, all features have vanished completely, leaving a "face" of smooth, featureless skin. The teeth, tongue, etc. remain intact behind the "face," but senses of sight and smell are completely lost; as the subject now lacks a breathing or feeding orifice, he or she will asphyxiate unless connected to a mechanical ventilator, and will starve to death unless fed intravenously. Surgical attempts to open feeding/breathing orifices on the surface of the "face" have all proven fatal, as the smooth flesh appears to lack blood-clotting capabilities.
+
+Until this phenomenon is better understood, use of SCP-1785 is therefore strongly discouraged.
+
++ Addendum 1785-4 (Requires Level 4 Clearance)
+
+- Addendum 1785-4 (Requires Level 4 Clearance)
+
+Dr. S██████'s report, in addition to the ███████ response to Incident 1785-1, appears to have been successful in discouraging the interest of Class D personnel in SCP-1785, at least for the time being. Dr. S██████ is to receive a special commendation for his excellent work on this case.
+
+Footnotes
+
+1. SCP-1785’s effects have also been shown to work on unconscious or deceased humans, and even babies, but not animals.
+
+2. In spite of the deep and intense pain they unanimously profess to have experienced, subjects do not exhibit signs of facial trauma.

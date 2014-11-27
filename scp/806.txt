@@ -1,0 +1,25 @@
+SCP-806, upon recovery.
+
+Item #: SCP-806
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-806 is to be kept sealed in Containment Locker 8 at Bio-Site-66. Researchers interested in utilizing the item are to contact Dr. Bridge for an interview.
+
+SCP-806-a is to be kept for research purposes, and has been given a standard humanoid containment suite at Bio Site-66. SCP-806-a is permitted Level-0 clearance; in addition, SCP-806-a is to be supervised by at least one (1) Level-1 personnel at all times.
+
+Attempts to create SCP-806-1 require a clear goal to be set. Instances of successfully created SCP-806-1 are to remain in use only as long as they are required, and are to be terminated promptly upon reaching the required goal.
+
+Description: SCP-806 is a large, modified film projector, circa 1900. The object’s normal glass lens has been replaced with one made of several dozen thin layers of shaved precious stones, as well as several layers of unidentified materials. In addition, the original projection bulb has been replaced by a LED array. Originally built for 35mm film, many of the mechanical components have been replaced with similar components of various complex alloys, and modified to allow for most film sizes to be played. Additional mechanisms have been installed underneath SCP-806 allowing for extremely long, or multiple, spools of film to be played through the item without interruption.
+
+SCP-806 is capable of “projecting” deceased persons depicted in films into reality, creating a nude “copy” of the deceased in the open space before the screen. This process effectively recreates the subject as they were at the time of the latest recording used. Note that fictional characters depicted are not restored; only the actor of that character will be recreated. Cartoon films have no effect within SCP-806. No identifiable source for matter produced through SCP-806 can be discerned at the present time.
+
+“Copies” created this way are henceforth SCP-806-1. In order to produce SCP-806-1, film reels containing recordings of the deceased are projected onto a silver lenticular cinema screen. A minimum of 33 consecutive hours of unique recording is required to produce a physical form; approximately 40 hours is required to recreate the deceased person’s mental faculties. At least one individual must be consciously viewing the film in a sitting position through the duration of the attempt, or the present attempted instance of SCP-806-1 will fail to continue formation and dissolve into graphite dust. However, viewers may rotate between shifts watching the projection; the same individual need not be required to watch the projection in its entirety. If SCP-806’s projection is otherwise interrupted or the body is physically touched after complete physical formation of SCP-806-1, but before 40 hours of film has been viewed, the body will succumb to brain death.
+
+Finalized instances of SCP-806-1 will appear as if in monochrome, independent of the quality or colorization of the original source material. In addition, successful instances of SCP-806-1 retain all memories of their past life, and initially will believe that they are the original individual.
+
+8088-a and Discovery: SCP-806-a is the first known subject recreated through SCP-806. Subject is a 22 year old woman named ██████ █████, born circa 1930. SCP-806-a was recovered in ███████ █████, [REDACTED]. Agent ████████, imbedded in the local police force, was investigating a call that hoodlums had broken into the local theatre, which had been closed for holidays. Agent ████████ encountered a male interacting with SCP-806-a, who fled immediately. A proper description of the male could not be made; search ongoing. MTF Alpha-2 (“the Mailmen“) was called to recover SCP-806, SCP-806-a, and approximately 99 hours of various types of film, most being home movies centering on SCP-806-a as it was in life.
+
+Addendum-806-002: Interrogations: If enough film is available, SCP-806 may be utilized to supplement interrogation attempts. Inquiries are to be forwarded to Dr. Bridge.
+
+Addendum-806-013, Selection: SCP-806 is equipped with no means to select which subject is intended to be “reborn” during a given run, such as if multiple deceased subjects are present on supplied recordings. However, in all tests, the intended subject for revival has been selected, even when viewers are not aware as to the nature of the item or which person is intended. It is theorized that the intended subject of SCP-806-1 is set at the beginning of the projection; research pending for possible [REDACTED].

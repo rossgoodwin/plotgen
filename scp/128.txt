@@ -1,0 +1,19 @@
+Item #: SCP-128
+
+Object type: Euclid
+
+Special Containment Procedures: SCP-128 is to be kept in a chamber measuring at least 10 m x 10 m x 5 m with walls and door armored in 5 cm steel plate. All personnel who enter the containment room must wear full suits of heavy body armor, including ballistic plates. All loose objects of mass greater than 5 kg are strictly prohibited. Clothing and related items are generally considered safe, as the entity appears to be incapable of distinguishing these from their wearers. Writing utensils, loose change, and other trinkets present considerable hazards to personnel and should therefore be used sparingly.
+
+All items are to be cleared from room via suction before any personnel will be permitted to enter. Once personnel have exited, SCP-128 is to be given small objects, both to study its behavior and to alleviate boredom (if applicable). In the event of escape, the surrounding area will be evacuated and locked down, possibly followed by attempts to herd SCP-128 back into its enclosure. Past experience suggests that the latter is unnecessary, as the entity has shown no apparent desire to vacate the premises and will eventually return of its own accord.
+
+Description: SCP-128 has no material form. It manifests itself via an apparently limitless supply of kinetic energy which can be conferred upon any inorganic solid within its line of sight. Experiments have revealed several limits which make containment possible. First, the entity seems to be bound by the limits of physical sight, and cannot see or manipulate objects located beyond an opaque surface. Locks, for example, are generally secure as long as the entity cannot breach them by other means, such as fracture. Second, SCP-128 cannot pass through solid barriers or openings which are smaller than two square centimeters at any point. Thus, a room of solid construction with a secure door is sufficient to contain the entity.
+
+It is difficult to determine whether SCP-128 is intelligent at all or merely an arbitrary outlet for energy derived from another source. It appears to have some degree of consciousness, as indicated by a slight statistical preference for unfamiliar objects over familiar ones, but does not interact with organic matter in any way, and displays no awareness of its imprisonment.
+
+Interestingly, research has shown that although SCP-128 is normally incorporeal, once it reaches a volume of approximately four cubic centimeters, it becomes both tangible and incompressible. This may explain why it is unable to escape through smaller openings.
+
+Primary research at this point centers around using SCP-128 for power generation, as it does not appear to require any sort of energy input. Such a power supply would have a low yield, but would be effectively inexhaustible.
+
+Given matter to work with, SCP-128 generally shows itself as a field or swarm of floating objects. The field may be as small as twenty cubic centimeters or as large as one hundred twenty-five cubic meters. Although the energy which animates these objects is theoretically limitless, it is imperfectly focused: it is highly unlikely for any one object to exceed 100 kg in mass, and those that come close move very slowly. Far more dangerous are objects in the 0-5 kg range, which may be propelled at great speed without warning.
+
+Objects under the control of SCP-128 follow no predictable pattern. They usually float about at various speeds ranging from near-stationary to supersonic, and may be propelled with considerable force. Other objects may remain unaffected, for reasons unknown.

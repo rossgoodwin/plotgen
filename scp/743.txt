@@ -1,0 +1,45 @@
+SCP-743, while flowing, set up for termination of [DATA EXPUNGED]
+
+Item #: SCP-743
+
+Object Class: Keter
+
+Special Containment Procedures: No one may enter SCP-743’s containment area except for scheduled D-class personnel. Any activity that must be performed within SCP-743’s containment area must be performed remotely by robot.
+
+SCP-743 is to be kept in a Level-4 carbide-steel secure container, 1.5 m x 75 cm x 75 cm, no less than 5 cm thick. This container will itself be kept in a Level-4 secure room, 10 m x 10 m, with enhanced hard-metal lining. A full array of redundant sensors within the container will remain trained on SCP-743; another array of sensors will watch the container for any signs of breach. Video, audio, and data feeds from all arrays will pass to a control room manned at all times by at least two personnel. Any abnormal or aggressive activity by SCP-743 must immediately be reported to Level 4 staff.
+
+Housing for 24 D-class personnel (designated Housing Unit 743, or HU-743) must be set up adjacent to SCP-743's containment area. At the first of each month, D-class personnel who are scheduled to be terminated must instead be moved into HU-743, enough to fill the housing to capacity. If at any time fewer than eight D-class personnel are residing in HU-743, at least sixteen D-class personnel are to immediately be transferred to HU-743. In case of containment breach, all D-class personnel housed in HU-743 are to immediately be exposed to SCP-743. Keter-class recontainment protocols apply.
+
+Every two days, one D-class personnel currently assigned to HU-743 is to be locked alive in SCP-743’s containment room with several plates of food, at which time SCP-743’s container will be remotely unlocked and opened. This D-class personnel may eat as much as desired of the available food, including the liquid from SCP-743. Under no circumstances is this D-class personnel to be allowed to exit SCP-743’s containment area.
+
+SCP-743 may not be transported without O5 approval except under emergency protocols. When transported, SCP-743 must be accompanied by no fewer than eight Level-4 security personnel and no fewer than eight D-class personnel from HU-743. As of ██/██/20██, SCP-743 is kept in Containment Annex Delta at Armed Reliquary Containment Area-02.
+
+Description: SCP-743 is a stainless-steel chocolate fountain, 112 cm (44 in) tall and 47 cm (18.5 in) wide, with a mass of 35 kg (77 lb). On the base of SCP-743 is a laser-etched logo for Sephra, a company that specializes in producing chocolate fountains. SCP-743 usually appears to be in pristine condition: immaculately clean, well-polished, and completely undamaged. SCP-743 can be disassembled into its component parts (base, auger, cylinder, tiers, and crown), but standard examination of the individual components do not reveal any unusual traits.
+
+When assembled, SCP-743 exhibits several different behaviors:
+
+Resting: SCP-743 displays no apparent activity.
+
+Flowing: SCP-743 appears to operate like a standard chocolate fountain, i.e. a heated chocolate-flavored dark brown liquid flows from inside the crown, down over the tiers and into the base. This liquid smells and tastes like high-quality dark chocolate, and in fact its aroma is quite enticing (but does not appear to be compelling). Subjects who consume significant quantities of the liquid typically experience a feeling of warmth and euphoria. Chemical analysis shows this liquid contains many substances found in dark chocolate, though with higher concentrations of many nutrients, particularly sugars and amino acids. The flow of liquid is not affected by the presence or absence of fountain chocolate or anything else in its base.
+
+Feeding: At semi-regular intervals, when organic material is available nearby, a stream of small, brown ant-like entities starts pouring out of the crown of SCP-743. These “ants”, which can number in the millions, swarm over available animal, plant, and fungal material; cut small pieces off these materials with their pincers; and carry these chunks into SCP-743’s base. SCP-743 seems to prefer consuming live humans, particularly those who have consumed SCP-743’s liquid, but will also consume live animals, dead humans and animals, plants, fungi, and even some processed animal and plant material (e.g. leather, cotton clothing, and paper). These ants have been known to travel more than ███ km round-trip, bringing a carcass piece by piece back to SCP-743.
+
+Hunting: If sufficient organic material is not readily available to SCP-743, different types of arthropoid entities start to emerge from SCP-743’s crown. Many of these entities resemble known arthropods (particularly insects and arachnids), but a large number resemble no known species of arthropod or other animal. These arthropoids, which are always the same color as SCP-743’s liquid, are usually specialized for a particular task. Types of arthopoids that have been observed include:
+
+Small, winged insectoids used for scouting, observation, and reconnaissance.
+
+Insectoids that can bore through most materials, including steel and titanium. Although individuals can each only bore out small amounts of the hardest substances before expiring, a seemingly endless stream of insectoids from SCP-743 will eventually bore clear through.
+
+Larger, more aggressive insectoids and arachnoids used to hunt down prey. Again, individually they are nothing more than a nuisance, but SCP-743 has been known to produce swarms of aggressive arthropoids numbering in the billions, more than enough to [DATA EXPUNGED].
+
+Maintaining: SCP-743 has been known to use arthropoids to clean and polish itself; repair dents, scratches, holes and nicks; and even put itself together when disassembled. SCP-743 doesn’t need to be turned on to start flowing, but it can change the positions of its controls by itself.
+
+Although the arthropoids that emerge from SCP-743 are significantly stronger than their normal counterparts, they are not significantly tougher. Stomping an individual arthropoid with a heavy boot will usually be sufficient to “kill” it, at which time it will fall apart into a drop or puddle of SCP-743’s liquid and quickly evaporate, its enticing aroma lingering. However, arthropoids from SCP-743 are almost never encountered alone.
+
+It is not yet known how the arthropoids communicate with each other, or even if they are individual consciousnesses or part of a collective mind. It is also not yet known who or what controls the arthropoids (if anything), where the organic matter taken into SCP-743’s base goes, how SCP-743 can produce a seemingly endless supply of liquid and arthropoids, or where all that liquid comes from.
+
+SCP-743 does not appear to be invulnerable. However, SCP-743 is both highly resistant to damage and will employ its arthropoid army as an active defense system. It is theorized that SCP-743 can be destroyed using [DATA EXPUNGED]. However, due to the apparent extradimensional characteristics of SCP-743, coupled with its inherent resistance to damage, no termination testing can be performed on SCP-743 without O5 authorization.
+
+Note: “Due to the nature of SCP-743, it is difficult to study the source of its abilities. No one can get close to it without risking being eaten, our instruments don’t last longer than a few minutes before being shredded by 743’s bugs, probes sent into 743 can’t see anything but brown, and the liquid evaporates so quickly most of what we know of it comes from analysis of its gaseous phase. What we do know is that 743 is dangerous. We have yet to see any limit to the amount of stuff 743 can pour out. I firmly believe 743 could breach containment if it seriously tried. That said, 743 seems to behave itself as long as it gets a steady stream of live people to eat. Thus, I propose that some D-class personnel that will be terminated anyway be fed to 743. Kill two birds with one stone.” –Dr. Lambert
+
+Proposal “Death by Chocolate” approved by O5-██, ██/██/20██.

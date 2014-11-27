@@ -1,0 +1,37 @@
+SCP-1168, shortly after containment.
+
+Item #: SCP-1168
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1168 is currently contained in a 5cm-thick locked box, itself held within a locker at Site-██. Access requires the authorisation of at least two (2) Level 4 Personnel.
+
+When handling SCP-1168, staff are to use a remotely operated robotic device. Two (2) backup devices are kept on-site in case of primary device malfunction. In case of emergency, staff are to interact with SCP-1168 using tongs with a minimum length of 20cm. Individuals who come into contact with SCP-1168 are to be detained or, if appropriate, terminated.
+
+Description: SCP-1168 is a featureless cloth doll, depicting a humanoid figure wearing a black dress. It does not bear any marks which would identify an official doll maker; however, its design would seem to indicate that it was manufactured sometime in the mid-19th century. The words “Captain Electricity!” are written on its back in black felt-tip pen, presumably some significant degree of time after its original construction.
+
+SCP-1168’s anomalous property manifests when it comes within 1.2cm of a living multi-cellular organism. The effects are not fully understood, but appear to involve an increase in conductivity in the tissue of affected subjects. Tests on laboratory rats have shown the following:
+
+Experimentation has determined that SCP-1168’s observable effects follow the same consistent pattern in animals. In one test involving laboratory rats, reaction time and hearing were seen to improve over the first 6 (six) minutes.
+
+After 11 (eleven) minutes, erratic behaviour – including spasmodic muscle contraction and irregular movement – was noted, as well as a decrease in body temperature and severe movement reduction (movement reduction appeared to partially caused by motor impairment, and partially by an increase in the friction on the subject's skin and fur). At eighteen (18) minutes, the above effects had been further exaggerated. Twenty-three (23) minutes in, the subject died from intense hypothermia.
+
+In another, similar test where the ambient temperature was raised to 37°C in order to minimise the loss of body heat, the subject survived for a full hour, at which point the test was ended. Apart from temperature decrease, the subject was affected in much the same way as in the first test; however, at thirty-eight (38) minutes, a transparency became visibly noticeable, presumably resulting in temporarily impaired vision,1 which continued to progress for the following twenty-two (22) minutes. See Experiment Logs SCP-1168-1 through -7 for more details.
+
+SCP-1168 has no effects on non-living substances or unicellular organisms. If a subject in contact sustains a severe amount of injury, SCP-1168's effects immediately cease.
+
+Summarised Recovery Log: SCP-1168 was first retrieved from the village of ███████, S███████ on ████-04-11 after causing the related deaths of three (3) prepubescent children: two (███████ W███████ and █████ K██████ ) were found to have died from the condition detailed above. The third (████ K██████) was found to have suffered severe injury from inserting a metal implement into one of his room’s plug-sockets.
+
+SCP-1168, along with Document 1168-1 (see below), had apparently been delivered to the residence in an unmarked package.
+
+Document 1168-1: The following is a copy of a letter found with SCP-1168 at the time of recovery. It seems to have been intended to serve as a summary of SCP-1168’s effects, despite gross inaccuracies. The text is written in the same type and colour of felt-tip pen as the label on SCP-1168’s back.
+
+Hey kids! Now, this may look like just a normal doll, but this here is CAPTAIN ELECTRICITY! With this, you’ll be able to freeze the environment, run at super speeds, turn invisible, react super quick and – of course – CONTROL ELECTRICITY. Just2 just merely hold it and you’ll be able to do ALL THESE THINGS.
+
+Investigation into the original writer and possible previous owner of SCP-1168 is ongoing. Both the handwriting and source have yet to be identified.
+
+Footnotes
+
+1. This is speculated, as at this point the subject was incapable of any behaviour which would suggest this.
+
+2. This section was noted to be smudged.

@@ -1,0 +1,75 @@
+Item #: SCP-1233
+
+Object Class: Safe
+
+Special Containment Procedures: The Site-93 Annex containing SCP-1233 is to be surrounded by a 5-meter barbed-wire fence at a minimum distance of 10m from the edge of the phenomenon. The perimeter of the Annex is to be patrolled by 2 armed site security personnel on an hourly basis. Due to SCP-1233's psychological repulsion effect, the possibility of personnel unintentionally entering the area of effect of the phenomenon is believed to be negligible. To minimize the risk of harm to essential personnel, only D-class personnel are permitted to enter the perimeter area. Testing and test observations are to be performed via remote drone.
+
+Description: SCP-1233 is a cylindrical area of space occupying a volume of approximately 13.57km3, near ██████████, Australia, exhibiting anomalous properties. The area of effect extends 4 meters above ground level, and has a radius of 1.47 kilometers. Ground penetrating radar tests during SCP-1233-2 alterations have revealed that the anomaly extends to a depth of approximately 2 kilometers. Soil and plant samples removed from SCP-1233 exhibit no anomalous properties. Close proximity (under 7 meters) to SCP-1233 induces feelings of fear or revulsion in mammals; human test subjects have described an instinctual desire to flee the area and a semi-conscious understanding of their exact location in relation to the borders of the anomaly. These feelings subside once the 7-meter limit has been crossed. SCP-1233's anomalous effects are generally limited to two broad classifications: SCP-1233-1, the rapid alteration of living animal tissue, and SCP-1233-2, the geokinetic reordering of the area of effect to reflect certain characteristics of that tissue.
+
+SCP-1233-1 occurs when any live mammal enters SCP-1233 and remains there for more than 22 seconds. Silica crystals proportionate to the overall volume of the mammal will manifest directly into the animal's dermis, frequently causing mild to-severe lacerations or heavy bruising. Skin cells undamaged by the intrusion of silica crystals begin to generate pheomelanin at a rapid rate, causing the skin to assume a characteristic reddish-brown color. Living subjects removed from the area of effect before 41 seconds of exposure time have a 95% survival rate, although permanent disfigurement is common. SCP-1233-1 does not appear to affect non-living mammals or mammal tissue. Mammalian cell cultures, reptiles and birds exposed to the phenomena are unaffected.
+
+Should a subject remain in the area of effect for more than 41 seconds, they will develop immediate, full-body paralysis, normally falling prone. Subjects lose consciousness within 10 seconds of the onset of paralysis. Once a subject is unconscious, their internal organs will be slowly replaced with clay-rich soil1. Concurrent to this process, the skeletal structure of the subject is replaced with an equal volume of sandstone; at this point, skeletal collapse is common due to differentials in density and tensile strength. Once organ and skeletal conversion is complete, various specimens of non-anomalous vegetation will begin to sprout rapidly on any portion of the subject's body exposed to sunlight; no two crops have been identical, but all are composed of plant and fungus species endemic to the area. In 14.2% of cases, any remaining liquids or food in the remains of the subject's digestive system will be converted to an equal volume of pure distilled water.
+
+SCP-1233-2 occurs following the death and conversion to soil/sandstone of all mammals within SCP-1233. During SCP-1233-2, the geology of SCP-1233 will alter to arbitrarily reflect certain biological characteristics of whatever animals have been converted by SCP-1233-1. This alteration is highly variable, and occurs rapidly. Once SCP-1233-2 has ceased to alter SCP-1233, the geology of the area will remain stable until such time as another mammal is affected by SCP-1233-1. Artificial objects placed within SCP-1233 are unaffected by SCP-1233-2 alterations, but can be damaged or moved by rapid shifts in terrain, etc.
+
+Addendum: Sample SCP-1233-2 Alterations:
+
+Instance #
+
+SCP-1233-1 Subject(s)
+
+SCP-1233-2 Alteration
+
+SCP-1233-2-11
+
+5x Rattus norvegicus
+
+All groundwater in SCP-1233 replaced with 50% solution of groundwater and dilute rat blood. No other notable changes.
+
+SCP-1233-2-26
+
+1x Sus domesticus
+
+Several prominent rock formations assume the shape of porcine skeletal vertebra. Testing of samples show rocks to be composed of approximately 97% hydroxylapatite2.
+
+SCP-1233-2-71
+
+1x juvenile Balaenoptera musculus
+
+All subsurface dirt and clay deposits replaced with an equal volume of a thick, yellow substance, revealed via sample extraction to be B. musculus blubber.
+
+SCP-1233-2-77
+
+D-2816
+
+All pebbles within SCP-1233 altered in appearance to match the shape of human molars. Examination of samples revealed them to be inconsistent with subject's dental records.
+
+SCP-1233-2-94
+
+D-6762, D-1103, D-3407, D-3708
+
+All landforms and plant life within SCP-1233 are replaced by a contiguous mat of fibrous clay composed of 35% human collagen.
+
+During initial remote exploration of SCP-1233, an object was discovered resting on the surface at the closest point to the area's direct center. This stone statue, referred to as SCP-1233-3, is composed entirely of local sandstone and depicts a life-sized androgynous human figure with a large flywheel or disk embedded in its back in a grovelling or kneeling posture atop a low plinth. Analysis of the wear patterns on the stone in an attempt to determine its age have been inconclusive. The following was found carved into the base of SCP-1233-3:
+
+WE MEANT THE BEST
+
+WE TRIED ALL WE COULD
+
+THE SOIL WOULD BE RICH
+
+THE PEOPLE WOULD GROW STRONGER
+
+STAY AWAY
+
+WE DID NOT UNDERSTAND
+
+FORGIVE US
+
+IMP.AUS.INC
+
+Footnotes
+
+1. Similar in composition to Vertosol, a highly fertile clay-rich soil type found across much of northeastern Australia.
+
+2. The calcium-heavy mineral that composes a significant part of osseous tissue in the vertebrate skeleton.

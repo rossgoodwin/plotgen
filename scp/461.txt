@@ -1,0 +1,29 @@
+Item #: SCP-461
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-461 is to be kept in a locked room without windows and its display faced away from the door. The door must be guarded by one Level 3 security personnel whose presence is monitored via security cameras. A Level 2 security rating is required to enter the room. No one is allowed entry from 0300 to 0305 GMT until further notice.
+
+Description: SCP-461 is a 25-inch cathode ray tube (CRT) television of unknown origin, although it outwardly resembles a Zenith unit manufactured in the early 1980s. The model number is “ZT-035,” but this does not correspond to any known Zenith television. Once a day, at exactly 0300 Greenwich Mean Time (GMT), SCP-461 self-activates and displays video footage lasting precisely five minutes. The nature of the footage varies widely, but it is never a conventional broadcast. Instead of standard television programming, SCP-461 displays what appears to be video feeds of closed-circuit security cameras in both commercial and residential settings. All footage appears contemporary and transmitted "live."
+
+SCP-461 does not require an external energy source to operate; it has no power cable. It also has no antenna. When it is active, changing the channel has no effect, and its unadjustable audio produces only low static. Its knobs to adjust color, sharpness, tint, or other visual settings have no effect and may not be connected.
+
+All attempts to physically access the internal components have proved fruitless. The device has no seams, screws, bolts, or other entry point or fastener. X-ray scanning does not reveal the interior of SCP-461, and sonographic inspection is similarly inconclusive. The unit is also unusually heavy for a CRT television — approximately 50 kilograms above normal weight for a device of this type.
+
+Addendum 461-A: Incident log, 03/08/20██
+
+We put the device inside of a Faraday cage today to filter out all incoming signals. Nevertheless, SCP-461's behavior proceeded as normal at 0300 GMT. Perhaps it's transmitting from an internal data storage component?
+
+Dr. ████
+
+Addendum 461-B: Incident log, 09/04/20██
+
+Today, the device displayed footage of the interior of the room it is contained in, from the perspective of the corner just above the door. However, there are no security cameras or other video recording devices in the room. Advise that no fewer than two individuals occupy the room at one time. Also advise closed-circuit cameras to be installed in the room to monitor for unusual phenomena. Said footage is designated SCP-461-1.
+
+Dr. ████
+
+Addendum 461-C: Internal SCP correspondence, 09/12/20██
+
+I did some analysis on SCP-461-1 as you asked. Nothing really jumped out at me at first, but I punched up the gamma and brightness, contrast, and a few other doodads, and it looked like there's someone standing in the far corner. I checked the entry log for that day, and no one is recorded going in or out. The hallway camera tapes don't show anyone going in or out either. Are you guys running an experiment on long-term exposure to this thing?
+
+Robert ██████

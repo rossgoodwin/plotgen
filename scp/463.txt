@@ -1,0 +1,61 @@
+Item #: SCP-463
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-463 is to be maintained in the small glass display case within its containment cell at Site-██. If SCP-463 must be transported from its current location, it should be transported in its display case, or some other container. At no time should any Foundation researchers come into direct physical contact with SCP-463. Following the incident of █/██/██, personnel are strongly discouraged from bringing food of any sort into SCP-463's cell.
+
+Description: SCP-463 is a small silver spoon, approximately 17.5 cm in length, with a mass of approximately 153 g. Unless handled by a human, SCP-463 displays no abnormal behavior. Neutron imaging, MRI, and the [REDACTED] imaging system have revealed no detail to the inner structure. All analysis of SCP-463 is consequently limited to its directly observable effects.
+
+Any individuals who pick up SCP-463 have their spines bent backwards at a 90o angle, just below the T6 Thoracic vertebra. This bending typically proves fatal, although some test subjects have survived with full lower-body paralysis. Its effect on humans is displayed regardless of whether or not the subject is wearing gloves, oven mitts, or any other such barrier; the only apparent requirement for SCP-463 to be able to 'bend' its holder is that the subject have a firm grip. Subjects who have held SCP-463 very weakly (i.e. with just the tips of the fingers) have been unaffected.
+
+Testing has demonstrated that SCP-463 displays no unusual effects when in contact with autonomous machines, remotely controlled machines, animals, or corpses.
+
+Addendum: It is the opinion of Dr. ████ that SCP-463 does not actually physically bend the user, but has somehow been embedded with a psychic trigger, which causes the user's back muscles to violently contract. This would explain the absence of SCP-463's effect when handled by non-humans.
+
+Memo: See testing logs SCP-463-█, ██ and ██.
+
+-Dr. ████
+
+Testing Log SCP-463-█:
+
+3:01:25 Subject D-4221 is placed in proximity to SCP-463's unlocked container. Subject D-4221's back muscles were surgically removed from his body during surgery for spinal stenosis.
+
+3:01:53 Subject D-4221 is instructed to pick up SCP-463.
+
+3:01:58 Subject experiences bending of the upper spine.
+
+3:02:06 Subject goes into neurogenic shock.
+
+3:02:48 Subject declared clinically dead. Body removed from testing site.
+
+Testing Log SCP-463-██:
+
+4:15:39 Subject D-4279's wheelchair is placed in proximity to SCP-463's unlocked container. Subject D-4279 has already had a complete fracture of the C5 vertebra, and has no neuromuscular connection to any muscles below the neck.
+
+4:15:51 Researcher, using tongs, places SCP-463 in D-4279's hand.
+
+4:15:53 Subject experiences non-fatal bending of the upper spine. Minor injuries are sustained as a result of falling from wheelchair.
+
+4:15:58 Subject removed from testing site.
+
+Testing Log SCP-463-██:
+
+4:45:43 Subject D-5119 is placed in proximity to SCP-463's unlocked container. Subject D-5119 has been paralyzed below the waist by prior interaction with SCP-463.
+
+4:45:48 Subject becomes highly agitated, and attempts to remove herself from the testing chamber.
+
+4:45:59 An armed guard is called into the testing chamber to ensure compliance of D-5119.
+
+4:46:39 Subject D-5119 is instructed to pick up SCP-463. Subject does not comply.
+
+4:46:45 Subject D-5119 is instructed to pick up SCP-463. Subject does not comply.
+
+4:46:56 Subject D-5119 is instructed by the armed guard to pick up SCP-463.
+
+4:47:10 Subject experiences non-fatal bending of the spine, about the T6 Thoracic vertebra. No further injuries are sustained.
+
+4:47:20 Subject removed from testing site.
+
+Memo: It would seem that SCP-463 does indeed exert a direct force on the user's spine. Sadly, we have absolutely no clues as to the nature of the force. We don't even know what the net torque is. I think the next course of action should be to test SCP-463 on personnel from whom the spinal column itself has been removed. Further testing is clearly in order.
+
+-Dr. ████

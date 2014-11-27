@@ -1,0 +1,107 @@
+Item #: SCP-1485
+
+Object Class: Euclid
+
+Special Containment Procedures: Site 68 has been constructed around SCP-1485 for containment purposes. As the atmosphere, environment, and biological inhabitants of SCP-1485-A have been proven to be virtually identical to Baseline equivalents through multiple controlled tests and analyses, standard protocol regarding the vacuum-sealing of dimensional containment chambers is to be ignored. All technological and cultural information sent to SCP-1485-A must be screened ahead of time by a Level 3 Researcher in order to avoid potential security breaches.
+
+Once weekly, a Foundation liaison is to be sent through SCP-1485 for purposes of diplomatic contact. As of 22 October 19██, all inter-personnel exchanges between SCP-1485-A and the Baseline reality have been suspended indefinitely (see SCP-1485 Discovery and Liaison Log). The automatic defense grid housed in SCP-1485's containment chamber, previously to be used in the case of a potential invasion, has been repurposed to prevent unauthorized access to SCP-1485-A. Researchers assigned to SCP-1485 must undergo extensive background checks to ensure their loyalty to the Foundation, and are to be under the guard of security officers at all times while conducting research on SCP-1485.
+
+Description: SCP-1485 is an extradimensional space-time anomaly, measuring 9.71 metres by 10.54 metres. It acts as a transition point between our universe ("Baseline" for the purposes of this document) and a parallel universe, designated SCP-1485-A. SCP-1485 is impermeable to atmospheric substances such as oxygen and carbon dioxide, while being penetrable by other forms of matter, including human beings.1
+
+The world of SCP-1485-A is nearly identical to the Baseline: physical laws, historical events, and chemical makeup of the atmosphere and environment bear an estimated 99.98% similarity to the Baseline world.2 Several parallel counterparts to Baseline people exist in the SCP-1485-A universe, of whom roughly 3/4 have lives similar or nearly identical to their equivalents in our universe.
+
+SCP-1485-A is primarily distinguishable from the Baseline world by its apparent total lack of anomalous or otherwise extranormal activity. With the exception of SCP-1485, activities, events, or persons directly contradicting scientific laws do not occur on a regular basis, and those few alleged to occur are regarded as myths or superstitions by the academic and scientific communities of SCP-1485-A. Extensive research has determined that no Foundation-equivalent, nor any Groups of Interest, exist in SCP-1485-A. Groups dedicated to the containment of paranormal events and artifacts are regarded with derision and condescension by the public at large.
+
+Due to the lack of a Foundation-equivalent organization, diplomatic contact is carried out through the SCP-1485-A counterpart to the United States government. Because of the extensive similarities between the Baseline world and SCP-1485-A, research is primarily focused on understanding the properties of SCP-1485 and the minor historical divergences between the two worlds. Previously, the Foundation conducted regular diplomatic liaisons into SCP-1485-A; however, these have been suspended due to high desertion rates (see below).
+
+Level 3 Clearance Required
+
+- Clearance Accepted
+
+As of February 20██, relations between SCP-1485-A and the Baseline have begun to deteriorate. Communications from SCP-1485-A have become accusatory and hostile in nature, citing the anomalous nature of the Baseline universe and the potential threat it poses to SCP-1485-A. SCP-1485-A authorities have expressed a desire to seal SCP-1485 and prevent Foundation access to their universe; diplomatic relations may be severed in the near future.
+
+SCP-1485 Discovery and Liaison Log
+
+Date
+
+Event
+
+January 19██
+
+SCP-1485 discovered. Site 68 constructed and completed several months later.
+
+April 19██
+
+SCP-1485 discovered by SCP-1485-A inhabitants. Diplomatic relations established.
+
+July 19██
+
+First diplomatic liaison into SCP-1485-A conducted. Exploration reveals aforementioned properties of SCP-1485-A. Agents return to Baseline two days later.
+
+November 19██
+
+First recorded desertion by Foundation personnel. Two agents assigned to SCP-1485-A leave their provided accommodations and escape into the outside world. As of this writing, they have not been recovered from SCP-1485-A. Security protocols updated.
+
+January 19██
+
+Entire Foundation liaison team assigned to SCP-1485-A deserts. Of the ten personnel that deserted, only two were intercepted. One self-terminated prior to capture, and one surrendered to SCP-1485-A authorities (see SCP-1485 Interview Log).
+
+October 19██
+
+Diplomatic liaisons to and from SCP-1485-A suspended indefinitely. Security protocols updated.
+
+SCP-1485-A Interview Log
+
+Agent ████ was a Foundation officer assigned to SCP-1485-A, and the only personnel member recaptured after the January 19██ desertion incident. She had been employed by the Foundation for nine years prior to her desertion and was considered to be highly dependable and trustworthy. Interview is being conducted by Head Researcher Smithers.
+
+Head Researcher Smithers: Good afternoon, agent.
+
+Agent ████: Hey there, Smithie. How's the family?
+
+Head Researcher Smithers: Repetitively pleasing, as always. [Sifts through papers before finding Agent ████'s file.] You'll forgive me if I wish to dispense with the small talk. I trust you know why I am speaking to you today?
+
+Agent ████: [Appears lethargic] Yeah. Let's just get on with it.
+
+Head Researcher Smithers: I suppose we should start from the beginning. Could you describe the events leading up to your liaison mission to SCP-1485-A?
+
+Agent ████: Well, it hadn't been the first time I'd been on a multiverse assignment. Ever since that incident with [REDACTED] I'd been the go-to girl for a lot of the Foundation's dealings with alternate realities. Makes sense, I guess. Always loved science fiction growing up. Heh. Never thought it wasn't fiction.
+
+Head Researcher Smithers: How did the mission go?
+
+Agent ████: Well, we made our way through the portal easy enough. God, or whatever passes for it in this fucked up world of ours, was nice enough to make it big enough for us to easily slip into.
+
+Once we got to the other side and made ourselves comfortable, it was…different. I don't mean "different" as in something that immediately tells you you're not in your universe. Nothing big like zeppelins in the sky or traffic driving on the other side of the road. It was just…
+
+[Several moments pass.]
+
+Head Researcher Smithers: Agent?
+
+Agent ████: I felt like I had a giant weight lifted off my shoulders.
+
+Head Researcher Smithers: I see. And how did the mission go over the next few days?
+
+Agent ████: It was pretty standard multiverse stuff. Make contact with the other side, take samples, get an update on the current situation, yadda yadda yadda. Thing is, they kept giving us odd glances when they thought we weren't looking.
+
+Head Researcher Smithers: You think they were suspicious of you?
+
+Agent ████: Not suspicious, but…wary. I mean, this was the first time they'd ever had to deal with any of this stuff. Then they find out it's par for the course in our universe. Can't blame them for not trusting us.
+
+Head Researcher Smithers: So if they did not trust you and kept you under constant surveillance, why did you betray us? You've worked at the Foundation for nearly a decade, and we have always rewarded you for your service appropriately. What made you decide to throw that all away?
+
+Agent ████: You've never been there, have you? If you had, you wouldn't be saying that.
+
+Head Researcher Smithers: SCP-1485-A is hardly a utopia, ████. They have wars, suffering, and death just like we do.
+
+Agent ████: Well, yeah, of course. But when you're walking down the street, you can trust your eyes. You know that what you see is what's really there. There's nothing hiding in your peripheral, nothing lurking in the shadows. Everything is…normal. Everything is right. You can trust your senses, because there are no cognitohazards. You can trust science, because there's nothing that defies it. It's just…
+
+[Several moments pass.]
+
+Head Researcher Smithers: Agent?
+
+Agent ████: It just makes sense.
+
+Footnotes
+
+1. For details regarding the makeup of SCP-1485, please consult Supplementary Document 75-A. Level 3 clearance is required.
+
+2. The remaining .02% of divergence is mostly historical. [REDACTED] likely due to the absence of a Foundation-equivalent. For more details, consult SCP-1485-A Historical Document 20.

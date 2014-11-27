@@ -1,0 +1,27 @@
+SCP-376 shortly before it was relocated to Site-██
+
+Item #: SCP-376
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-376 is to remain in the Secure Agriculture Facility at Site-██. It is to be linked to a single underground electric cable that is to be powered by a single generator not attached to the main power grid. There is no need for any additional security measures to contain SCP-376 other than the existing security at the Secure Agriculture Facility.
+
+Description: At first glance, SCP-376 appears to be an irregular traffic light with far too many components attached. However, SCP-376 is not a man-made object, but is in fact a naturally occurring organism. It is currently unknown how or why SCP-376 has managed to mimic the appearance of a traffic light.
+
+Testing has revealed that the exterior of SCP-376 is actually composed of organic material, rather than steel. The bark that it produces hardens to form a protective coating around SCP-376 that takes the appearance of steel. However, while the bark does appear and feel like steel to the touch, the bark is not nearly as strong, only able to withstand stresses similar to regular tree bark. The light that SCP-376 produces is a form of bioluminescence, which it is able to manipulate to glow in the three colors commonly associated with traffic lights: red, green, and yellow. SCP-376 is somehow able to control which light activates and does so in a predictable sequence, though it is not known how or why.
+
+Extended video recording of SCP-376 shows that it has an uncontrolled growth rate, necessitating constant care and trimming. Each individual traffic light begins as a bud, but will quickly mature into a full size traffic light within the space of several minutes. The appearance of a new light on SCP-376 typically happens every nine to ten days. Removing one of the lights causes it to cease functioning, and the wound caused in SCP-376 will immediately be closed by growing extra bark. If left alone, the light will eventually biodegrade and rot like any other organism.
+
+Unlike other plants, SCP-376 does not use photosynthesis to sustain itself. Instead, its roots will dig through the pavement and ground towards the nearest power line. SCP-376's roots are capable of penetrating underground power lines and patching into them, effectively attaching itself to the power grid. SCP-376 uses the electricity it obtains as the primary energy to create food, rather than sunlight.
+
+In terms of reproduction, SCP-376 has a rather unique method of propagating itself. Rather than using regular spores or seeds, SCP-376 is able to transfer "seedlings" through the power grid it is connected to, meaning that a new instance of SCP-376 can be created anywhere the power lines reach. For further information, see Experiment Log 376A.
+
+SCP-376 was found during rush hour in ██████████, California on a busy intersection. The entire event was explained as an art exhibition and SCP-376 was promptly moved to its current location.
+
+Experiment Log 376A: Once it was discovered that SCP-376 required electricity to survive, it was attached to Site-██'s power grid. This mistake was quickly realized when on-site staff began reporting the appearance of additional traffic lights scattered around the facility. Once these lights were removed, SCP-376 was connected to a separate power grid that was laid under a specially constructed test area. After analyzing the results, it was discovered that SCP-376 is somehow able to discern which areas it can grow without arousing undue suspicion. All recorded test subjects were reported to grow in areas where traffic light placement would be logical. There is currently no explanation to how SCP-376 is able to control where it grows so effectively.
+
+Experiment Log 376B: After continued testing, it became known that SCP-376 is not restricted to just traffic lights. After several weeks of observation, it was noted that additional structures began appearing. So far, the forms SCP-376 can take include but are not limited to: Fire hydrants, power lines, street lights, and street signs.
+
+Experiment Log 376C: After additional testing and observation, it was discovered that the SCP-376 currently contained is an abnormality, even among its own kind. DNA comparison between itself and other subjects show that it is suffering from some kind of defect that causes it to grow uncontrollably, which could explain how it was discovered so quickly.
+
+Addendum 1: After cross-analyzing Department of Transportation records and total national power consumption, Foundation analysts have estimated that there may be as many as [DATA EXPUNGED] instances of SCP-376 in the continental United States alone. Containment teams are currently being mobilized to respond.

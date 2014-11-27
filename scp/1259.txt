@@ -1,0 +1,55 @@
+SCP-1259 at the time of discovery
+
+Item #: SCP-1259
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1259 is to be stored behind opaque glass in a climate-controlled room in the Infohazard Wing of Site 38. SCP-1259 is not to be moved or to be removed from its case except for testing, subject to Level 3 approval. No personnel other than D-Class assigned for testing are to read SCP-1259; in case of accidental exposure, affected personnel are to report immediately and receive Class-A amnesiacs.
+
+Upon reading SCP-1259, the affected individual is to write or type a copy of the text as it appears to them for archival and comparison to current K-Class preparedness scenarios. Affected individuals are to be quarantined in a standard humanoid containment cell and undergo regular psychiatric counseling; end-of-month termination of affected D-Class is indefinitely postponed for the purposes of long-term study of SCP-1259's effects. Release into the civilian population for test purposes may be authorized at O5 discretion; if so authorized, the affected individual is to be shadowed by Foundation security personnel at all times and apprehended immediately in the event of potentially threatening action.
+
+Description: SCP-1259 is a fragment of a damaged parchment scroll, measuring approximately 1.3 meters x 0.3 meters. Analysis of SCP-1259 indicates that it was produced in the 1st century BCE and that it was originally part of a larger scroll which to date has not been identified. SCP-1259 contains text on one side in a language which when photographed superficially resembles ancient Hebrew; analysis of these images, however, indicates that the photographed text consists entirely of a random arrangement of letters incomprehensible as a legible document.
+
+When SCP-1259 is directly viewed by a human being, its text is described by the reader as being legible in a language which the reader is familiar with. The text described by readers of SCP-1259 varies considerably between individuals. In all documented cases, the text presents itself as a prophecy regarding the imminent extinction of mankind as the result of a K-Class event occurring on a specific date within three to six months of when SCP-1259 is being read, in addition to a number of omens and precursor events which will lead up to said event. The nature of the prophesied event varies from reader to reader and appears to relate directly to the reader's personal beliefs and knowledge of the world; documented instances of the text have included references to religious eschatons, nuclear or biological warfare, containment breaches of Keter-class SCP objects, or actions taken by the Foundation itself. In no documented instance have any of the events prophesied in the text of SCP-1259 occurred. Written or typed copies of SCP-1259 text produce no anomalous effects and may be read safely.
+
+After reading SCP-1259, the reader will express a belief that the text of SCP-1259 is correct and that the prophesied K-Class event will occur on the date referred to in the text. This belief is initially expressed as a mild concern and grows increasingly severe as the date approaches, with the reader identifying world events or events in their personal life, including events of a mundane or inconsequential nature, as "signs" or indications that the prophecy is occurring as predicted. Within 7-12 days of the date referenced in the text, the affected individual will come to believe that he or she is a "chosen one" who is personally responsible for preventing the event from occurring, and will attempt to engage in extreme measures to prevent the event, including political assassinations, displays of religious faith, human sacrifice, or [REDACTED].
+
+To date, approximately 78% of affected individuals have died prior to the date referenced in the text of SCP-1259, either due to suicide or as the result of being killed in the process of attempting to prevent the event from occurring. Individuals who survive past the scheduled date have frequently reported symptoms of extreme depression, feelings of meaninglessness and futility, and suicidal thoughts. If the affected individual is prevented from committing suicide during this period and is provided with adequate psychiatric counseling, full recovery is possible and no long-term psychological effects have been documented. Subsequent exposure of persons surviving this stage to SCP-1259 has produced no anomalous effects.
+
+Experiment Log 1259-1:
+
+Date: 06/23/20██
+
+Test subject: D-83201, Hispanic male, 38 years of age
+
+Summary of reported SCP-1259 text: Description of a Christian eschaton largely similar to the depictions in the Book of Revelation and in American "Rapture" literature, with the end of life on Earth occurring on 10/3/20██. (See XK-3621.)
+
+Long-term results: D-83201 requested a Bible and a meeting with a minister, and began praying regularly. In the days leading up to 10/3/20██, D-83201 frequently entreated security personnel and other D-class personnel to repent their sins. Following scheduled date, D-83201 ceased praying, discarded the Bible, and attempted suicide four times before succeeding on 10/12/20██.
+
+Date: 8/16/20██
+
+Test subject: D-29403, Caucasian female, 27 years of age
+
+Summary of reported SCP-1259 text: On 9/3/20██, Islamic terrorists introduce a weaponized, airborne form of Ebola virus into the civilian population. Virus becomes pandemic by 9/23; global breakdown of society ensues, followed by widespread rioting, warfare, and famine. Human extinction as the result of the disease and subsequent chaos occurs on 12/6/20██. (See XK-5604.)
+
+Long-term results: D-29403 immediately began refusing physical contact with all Foundation personnel and has refused to leave her cell since 9/17/20██. D-29403 made frequent requests for laboratory equipment and textbooks on microbiology, insisting to staff that "the cure" was within her grasp. Following 12/6/20██, D-29403 is of the belief that she is the last living human being on Earth and that all Foundation personnel interacting with her are hallucinatory. Observation ongoing.
+
+Date: 2/12/20██
+
+Test subject: D-38202, Caucasian male, 23 years of age
+
+Foreword: D-38202 is formerly Sgt. ██████ ██████, a Global Occult Coalition field operative surrendered into Foundation custody following Security Incident 2338-Psi-Omicron-Delta.
+
+Summary of reported SCP-1259 text: On 5/28/20██, the GOC launches a coordinated strike on several Foundation facilities, resulting in the assassination of the entire O5 Council and the escape of several Keter-class SCP objects from containment. [DATA EXPUNGED], current director of Site ███, assumes command authority and authorizes nuclear strikes to neutralize uncontained SCP objects. Nuclear activities are mistaken as an enemy attack on the United States of America, resulting in a brief nuclear exchange between the United States and [REDACTED]. In the ensuing breakdown of the Foundation chain of command, Procedure 110-Montauk is not conducted on schedule, resulting in [DATA EXPUNGED] on 6/3/20██. (See XK-209.)
+
+Long term results: On 5/23/20██, D-38202 successfully breached containment and escaped Foundation custody. D-38202 proceeded to report to his former GOC post and gave a lengthy oral report to his former superior regarding the Foundation's weaknesses, how to contain or neutralize several SCP objects currently in custody, and the importance of ensuring that Procedure 110-Montauk is performed on schedule. Intelligence assets within GOC leadership confirm no hostile actions are planned against the Foundation. D-38202's superior surreptitiously issued Class-B amnesiacs; a review of Foundation security is underway in light of the information leak. D-38202 was returned to Foundation custody and terminated on schedule.
+
+Date: 3/26/19██
+
+Test subject: Dr. James A. Parsons, African-American male, 43 years of age
+
+Foreword: Dr. Parsons was a senior Foundation linguist exposed to SCP-1259 during initial study, before its anomalous effects became known.
+
+Summary of reported SCP-1259 text: Identical to the English-language text of SCP-1050-1. Review of Dr. Parsons' personnel file indicated he had previously been involved in the translation of several sections of SCP-1050-1. The final date in the text was replaced with the date 6/22/19██. (See XK-2330.)
+
+Long term results: Dr. Parsons made frequent assertions that the arrival of "the Destroyers" referred to in SCP-1050-1 was imminent. Dr. Parsons was relieved of duty and committed to psychiatric observation following an attempt to contact several members of the O5 Council to demand immediate deployment of space-based weapons platforms. On 6/18/19██, Dr. Parsons left his quarters and attempted to seize control of [DATA EXPUNGED] in order to launch a preemptive orbital defense, resulting in the deaths of 17 staff members and security personnel before being apprehended and forcibly returned to quarters. Dr. Parsons committed suicide by hanging on 6/20/19██, leaving a suicide note stating "Death by my own hand is preferable to what those bastards will do to us."

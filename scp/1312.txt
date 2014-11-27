@@ -1,0 +1,131 @@
+Item #: SCP-1312
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1312 is to be contained behind a perimeter of electrical fencing two (2) meters in height. All potential exits from SCP-1312 are to be kept under guard at all times. Any entities attempting to leave SCP-1312 are to be subdued and taken into containment immediately. No objects or individuals are to enter SCP-1312 without specific authorization.
+
+Any testing of SCP-1312 must be approved by at least three (3) members of Level 3 personnel.
+
+Description: SCP-1312 is the designation given to the unfinished Site 41, which experienced an incident seven (7) months into construction in which the entire site relocated three (3) kilometers north. All staff present within SCP-1312 at the time are presumed killed or in such a state that they are to be considered lost.
+
+SCP-1312 is home to a large amount of humanoid entities1, all of which resemble featureless human beings of solid coloring. These entities show limited intelligence and are docile until they become aware of the presence of an object or organism foreign to SCP-1312. At this point, they will take the object or organism and contain it utilizing the facilities already present in SCP-1312. In cases where the foreign presence is an organism, they will subdue it first by rendering it unable to move or unconscious. These humanoid entities are divided into three separate types:
+
+SCP-1312-1: Humanoid entities of a solid white color. SCP-1312-1 will engage in acts which are assumed to be attempted experimentation with objects or individuals which have been captured. They will typically not approach captured objects themselves, instead directing SCP-1312-3 instances via a series of clicking and groaning noises. SCP-1312-1 also appear to write documentation regarding objects or individuals they have captured. (See Recovered Documents 1312-1.)
+
+SCP-1312-2: Humanoid entities of a solid black color. SCP-1312-2 appear to be in charge of the capture and subduing of foreign objects and individuals. They are capable of speech, but this appears to be limited to the shouting of 'containment breach' when they sight a foreign presence in SCP-1312.
+
+SCP-1312-3: Humanoid entities of a solid orange color. SCP-1312-3 are directed by SCP-1312-1 in experimentation involving objects foreign to SCP-1312. They will usually follow SCP-1312-1 instances throughout SCP-1312 in large crowds. SCP-1312-3 appear incapable of independent thought and will not act unless prompted by SCP-1312-1.
+
+Recovered Documentation 1312-1
+
+Hide
+
+On ██/██/20██, a small expedition was attempted into SCP-1312, the humanoid entities having been distracted by the placement of several objects in SCP-1312 shortly before. During the brief expedition several documents which SCP-1312-1 entities had been observed to write previously were discovered in offices and empty containment chambers. Unfortunately, one member of the expedition was captured by SCP-1312's humanoid entities during the attempted exit. (See Recovered Document 3.)
+
+Recovered Document 1312-1:
+
+Item #: SCP
+
+Object Class: Safe
+
+Special Containment Procedures: It goes in the box. It stays in the box. It is kept in the box by security. Do not let it out of the box. Only doctors can use it.
+
+Description: A stick of orange with blackness inside. The blackness makes itself on paper. This is an experiment written on paper.
+
+When a D-Class eats it, it makes him die. It is contained in his neck. He is cut open with sharp things and it is taken out again. It has chew-marks on it now.
+
+Experiment Log SCP-1
+
+The First Experiment: It is put in water.
+
+Result: Wet.
+
+The Second Experiment: It is put in the cold room.
+
+Result: Cold.
+
+The Third Experiment: It is put in the warm room.
+
+Result: Warm.
+
+The Fourth Experiment: It is asked questions.
+
+Result: Silent.
+
+The Fifth Experiment: It is cut apart with sharp things.
+
+Result: Broken. Now it is only blackness, without the orange.
+
+Recovered Document 1312-2:
+
+Item #: SCP
+
+Object Class: Safe
+
+Special Containment Procedures: It is kept in a room. The room is locked. Do not unlock the room. Only doctors can unlock the room. Two security keep it contained. Do not drink it.
+
+Description: A white cylinder. It has liquid in it. The liquid was once warm, but is now cold. This is because it is in a cold room. This is what an SCP deserves. Remember our motto: Secure the Contain and Protect. When D-Class drink it, they say it is good. They do not say this anymore, because it is cold.
+
+Dr. ████2 says he remembers drinking it. Do not listen to him. He is a LIAR A LIAR HE'S LYING HE'S A LIAR A LIAR A LIAR A LIAR A LIAR (This continues for several pages.)
+
+Experiment Log SCP-1
+
+The First Experiment: It is put in water.
+
+Result: Wet.
+
+The Second Experiment: It is put in the cold room.
+
+Result: Cold.
+
+The Third Experiment: It is put in the warm room.
+
+Result: Warm.
+
+The Fourth Experiment: It is asked questions.
+
+Result: Silent.
+
+The Fifth Experiment: It is cut apart with sharp things.
+
+Result: Doesn't work.
+
+Recovered Document 1312-3:
+
+Item #: SCP
+
+Object Class: Keter Neutralized
+
+Special Containment Procedures: Do not listen to it. It does nothing but lie. Keep it in the room. Feed it D-Class. Do not listen to what it tells you. If it tries to get out, hit it. After you hit it, put it back in the room. Any personnel who says it is not a liar are lying. Do not trust them.
+
+Description: It is like a man but pink, and with tough material on it. It can talk, but all it does is lie. It insults personnel who go near it. Sometimes it screams.
+
+It says it is an agent of the SCP Foundation. This is a lie and it is a liar. It had a metal item with it. It kills a D-Class when it is pointed at them and the trigger is pulled. There is a thing in the D-Class's head after that. When it isn't pointed at the head they take longer to die.
+
+It had another metal item. Voices come from the item and ask if Agent Banks is there. We ask if it is an SCP, and the voices stop talking. It has been designated as SCP because of this. Now it is contained.
+
+The First Experiment: It is put in water.
+
+Result: Splash.
+
+The Second Experiment: It is put in the cold room.
+
+Result: Shivers.
+
+The Third Experiment: It is put in the warm room.
+
+Result: Warm.
+
+The Fourth Experiment: It is asked questions.
+
+Result: Lies.
+
+The Fifth Experiment: It is cut apart with sharp things.
+
+Result: Wet.
+
+Footnotes
+
+1. Information regarding these humanoid entities was gleaned through a rover which was placed in SCP-1312-1. The rover recorded the capturing process and subsequent behavior of the entities.
+
+2. This name had been scratched out of the paper by what is presumed to be a fingernail or other sharp implement.

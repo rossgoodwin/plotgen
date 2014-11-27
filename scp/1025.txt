@@ -1,0 +1,71 @@
+SCP-1025, with publisher's name redacted
+
+Item #: SCP-1025
+
+Object Class: Keter Safe
+
+Special Containment Procedures: Due to its potential as a bioweapon capable of destroying all life on Earth, SCP-1025 is to be kept in an isolated underground vault secured by no fewer than 10 armed guards, to be rotated twice weekly and checked for compromise by infectious agents. The vault should be armed with a thermite mine to be detonated at the first sign of containment breach.
+
+Revision: SCP-1025 is to be kept in a passcode-secured locker. Further research requires O5 approval.
+
+Description: SCP-1025 is a hardcover book, approximately 1,500 pages long. The front cover and spine feature the title "The Encyclopedia of Common Diseases." The publisher's page indicates the book was printed in 19██ by █████ Press. No other copies of a book with that title and publisher have been found, and no record of the publisher exists.
+
+Readers of the book seem to exhibit symptoms of any disease they read about. The effect can take between █ and ██ hours to manifest. (See Test Log)
+
+Addendum 1025-01: Test Log
+
+Subjects: D-1025-01
+
+Test: Subject read entry entitled "Common Cold." Subject observed for several hours afterward.
+
+Results: Subject exhibited cough within 2 hours, and when asked, claimed to feel "slightly achey," though he attributed this to uncomfortable sleeping arrangements.
+
+Subjects: D-1025-02
+
+Test: Subject read entry entitled "Chicken Pox." Subject observed for several hours.
+
+Results: Over the course of one hour, subject observed to scratch at no fewer than 5 points on her body repeatedly. Subject's medical history indicated she had contracted chicken pox at age 8. Possible evidence that item can override natural immunities noted.
+
+Subjects: D-1025-03
+
+Test: Subject read entry entitled "Cancer of the Lungs." Subject observed for several hours. Test was to determine item's ability to accelerate advancement of illnesses.
+
+Result: Subject observed to cough 4 10 6 a significant number of times over the course of █ hours within a relatively small amount of time. Subject denied feeling any discomfort, but observation of subject's breathing indicated irregularities. Subject terminated and sent for autopsy. No tumors apparent.
+
+Note: We clearly didn't wait long enough. But we all heard the coughs, and his wheezing.
+
+Subjects: D-1025-04
+
+Test: Previous test repeated, but subject observed for 7 days.
+
+Results: A lot of coughing and wheezing, far beyond what should be considered normal. Subject terminated and sent for autopsy. No tumors apparent.
+
+Note: What if the illness vanishes after death, making infection all the more insidious?
+
+Subjects: D-1025-05
+
+Test: Same as previous.
+
+Results: Same as previous, but subject sent for vivisection, utilizing [DATA EXPUNGED] hours before expiring from shock. No tumors apparent.
+
+Note: We have to keep trying. Imagine if this were an infectious agent. Imagine if there were more books like this out there.
+
+[Redundant tests redacted for brevity. In summary, each test used one D-class subject, who read one entry from the item, and was then tested or vivisected in search of signs of infection following reported symptoms. After test 15, research was moved to a dedicated isolated facility in ████, ██, staffed by 3 researchers and 2 security. One D-class subject delivered as needed to minimize space and ration needs.]
+
+Subjects: D-1025-27
+
+Test: Subject read entry entitled "Appendicitis." Subject had undergone an appendectomy at age 16. Observed for 3 days.
+
+Results: After 52 hours, subject complained of stomach ache significant abdominal discomfort. Vivisection performed. No appendix found, but area where appendix would normally be looked a few shades more red than it should be, by general consensus of research staff.
+
+Subjects: D-1025-28 (formerly Researcher ████ ██████)
+
+Test: Subject had developed persistent cough, despite never reading SCP-1025, and was placed in observation for one week.
+
+Results: None apparent for 6 days. At 0930 hours on day 7, subject appeared slightly taller than the day previous. Noted as evidence that item's anomalous properties can cause generation of diseases other than those researched by the victim, and without direct viewing of reading material. Vivisection considered, but overruled for the time being.
+
+Note: ████ got out! The crazy bastard got out somehow! We were so stupid! The addition of height is a classical symptom of SCP-016 adapting to the stress of being confined in that room. Who knows or cares what he was coming down with first? There was a grating on the ceiling. A few more feet of height, and a few inches skinnier, and he'd easily fit. He could be up there right now, growing claws and vomiting infected blood everywhere and taking who knows what other dormant diseases with him. SCP-008? SCP-742? Oh, God, what if he's come down with SCP-217?
+
+Addendum 1025-02: A recovery team was sent to the facility on █/█/██ after no contact was made from the facility for 72 hours. Agents found Researchers █████ ████ and ███ ████ sealed in the observation booth, both wearing biological containment suits. Nearly all stored air tanks were depleted. Agent █████ ███ was found crawling through the facility's air ducts with sidearm drawn. Researcher ████ ██████ had locked himself in the barracks with an improvised flamethrower made of aerosol cleaner and a box of matches. Later interview indicated ██████ had not climbed into ducts, but simply used his passcode to leave the observation chamber while other researchers were distracted. Agent ███████ █████ was found dead in a supply closet locked from inside, with several empty bottles of water and ration packages. The door had been given an airtight seal with garbage bags and duct tape.
+
+Note: After careful review of all research on SCP-1025, I'm ordering an immediate evaluation of whoever approved the use of 27 D-Class subjects, an isolated facility and a dedicated underground bunker on this money pit. Not one out-of-the-ordinary infectious agent was found anyplace this item was tested. And every involved staff member had passed a basic psych exam within the previous year. I have no idea how far up the chain of command this "hypochondria by proxy" effect can reach, or how it works, and frankly, I see no benefit in learning. Stick it in a box, lock it up, and for God's sake, try not to worry about it. -O5-█

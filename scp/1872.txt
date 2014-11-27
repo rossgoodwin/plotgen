@@ -1,0 +1,17 @@
+Agents exploring wreck caused by SCP-1872.
+
+Item #: SCP-1872
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1872 is to be kept in an unpowered state in a Safe security locker. This locker is to be checked once a day for signs of tampering. Any testing done with SCP-1872 must be done in an indoor vehicle testing facility, and only with approved vehicles. No personnel other than D-Class are to be present inside of these vehicles during testing.
+
+Description: SCP-1872 is a laser pointer, devoid of any type of manufacturing mark or brand name. It weighs 120 grams when it has no batteries, and is exactly 25 millimeters long. The light produced by SCP-1872 during its active phase is red. The light produced by SCP-1872 has a wavelength of approximately 650 nm; despite this, SCP-1872 appears to have a range of at least 1.5 kilometers.
+
+If SCP-1872's light is directed within 1.5 meters of any vehicle with a person inside of it, the vehicle will begin to actively pursue the light. Note that the vehicle is not simply "dragged", and that it will actively move to avoid obstacles in order to pursue it. Persons within vehicles that have been affected by SCP-1872 will have no control whatsoever over their vehicles. Vehicles affected by SCP-1872 will pursue it until they are either in some way incapacitated to the point where they no longer function, or run out of fuel. If the light produced by SCP-1872 is still, vehicles will circle it until it begins to move again.
+
+SCP-1872 appears to affect any vehicle that a person is capable of operating, and has been found to be able to affect a variety of vehicles, including (but not limited to) vehicles such as automobiles, bicycles, skateboards, construction equipment, aircraft, and aquatic vessels. There does not appear to be a limit to the number of vehicles SCP-1872 can affect at one time, with testing having shown it can affect at least up to 37 automobiles, 5 aquatic vehicles, 4 helicopters, 12 bicycles, and 2 trains.
+
+However, if the user deactivates SCP-1872 before the vehicles that have been affected by it are incapacitated, they will begin to pursue the user until SCP-1872 is reactivated. Vehicles that pursue the user can determine the user's location as long as they are both within a range of 1.5 kilometers. If these vehicles catch up to the user, they will begin to slowly approach the user, blinking their headlights and revving their engines. If the user does not activate SCP-1872 within three to five minutes of being approached, the vehicles will begin driving towards the user, circling them repeatedly. This will continue until the user is either run over enough times to perish, or they re-activate SCP-1872. Death of the user will render any vehicles affected by SCP-1872 inert.
+
+SCP-1872 was recovered from █████, FL after several people on a bridge above a highway used it to create a traffic accident that caused 14 casualties, including the injury of several Foundation agents. Due to the agents' reports of SCP-1872's effect on their vehicles, SCP-1872 was contained within 24 hours of the incident. The persons who were found with SCP-1872 were killed during recovery operations. SCP-1872 was classified as Safe as of ██/██/2009.

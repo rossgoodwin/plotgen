@@ -1,0 +1,19 @@
+Item #: SCP-1276
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1276 is contained on-site with a full research and security staff under the guise of a government-sanctioned archaeological dig team. All unauthorized individuals attempting to approach the area must be detained and questioned, then administered amnestics or terminated at the discretion of site security staff.
+
+All personnel must clear the upper platform at least one (1) hour prior to activation events and remain clear for at least thirty (30) minutes following confirmed activation. Activation experiments may only be performed with Class D test subjects, and only with prior approval from at least two (2) Level 4 Senior Research staff.
+
+Description: SCP-1276 is a step pyramid of presumed Mayan construction 31 m in height, 68 m in width and approximately 2700 years old, located in a remote area of the [REDACTED] River Basin in [REDACTED]. The structure is heavily engraved and believed to have been dedicated to astronomy and astrology. The anomalous property of SCP-1276 is centered at a platform at the top of the structure, on which lies a 3.1 m square metallic plate of unknown composition. Unlike the rest of the structure, this platform shows no sign of aging and is heavily engraved with Ancient Mayan hieroglyphs as well as what is believed to be mythological figures along the outside perimeter, along with human figures prostrated before them.
+
+Whenever the heliacal rising of the planet Venus occurs, the platform atop SCP-1276 is momentarily suffused with a blue glow, after which all living human subjects standing on the platform are instantly accelerated upwards into the atmosphere through unknown means to a speed of approximately 0.01 c at the exact moment that Venus appears above the horizon. Ground- and satellite-based observatories have tracked and confirmed that all such subjects are launched in the direction of Venus and, barring outside intervention, will enter its atmosphere within a period of three (3) to twenty-four (24) hours after launch, depending on the relative distance between the Earth and Venus.
+
+It is not known at this time how subjects appear to not be affected by atmospheric heating when leaving the Earth's atmosphere. Even so, it is presumed that all unprotected test subjects have expired due to either the sudden acceleration or eventual asphyxiation. Development of a man-portable electronics package capable of surviving the launch process as well as interplanetary communication is ongoing.
+
+SCP-1276 was discovered on █/█/██ by a team of Mexican archaeologists and came to the Foundation's attention following its accidental activation, resulting in the deaths of three (3) civilian team members. The surviving archaeologists were detained by the responding Foundation containment team.
+
+Addendum 1276-001: Partial Translation of Platform Inscription
+
+[indecipherable] offer to [indecipherable] upon this victorious [day?] that [indecipherable] of the sky [indecipherable] may return [in time?] [indecipherable]

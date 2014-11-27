@@ -1,0 +1,135 @@
+SCP-1536-1 in inactive state following Test 1536-20
+
+Item #: SCP-1536
+
+Object Class: Euclid
+
+Special Containment Procedures: Inactive SCP-1536 instances should be contained in standard locked storage boxes in Sector 37 of Site 19. Instances of SCP-1536 may only be activated for testing purposes; active state instances of SCP-1536 may be stored in containment quarters appropriate to their current form. Once testing is completed, instances of SCP-1536 must be returned to inactive state for long-term storage.
+
+Update: As of ██/██/20██ (Incident 1536-γ), all testing of SCP-1536 is to be suspended until further notice, and no new objects shall be exposed to SCP-1536. Identifying and containing additional instances, especially any which may be present in or around Foundation facilities, is considered an Epsilon-level priority.
+
+Description: Inactive SCP-1536 instances are brown ovoids 35 centimetres in length and 15 centimetres in diameter composed of a number of previously unknown compounds analogous to common terrestrial biochemicals. The outer 'skin' of SCP-1536 resembles chitin, and the interior is a homogeneous colloid similar to intra-cellular fluid. Two appendages similar in appearance to arthropod legs emerge from either side of the main body.
+
+When in inactive state, instances of SCP-1536 will slowly drag themselves around their containment areas, and have on occasion been observed making scraping motions against containment walls; these have not left any mark whatever on the steel of standard containers. Inactive instances of SCP-1536 do not appear to require any form of sustenance.
+
+An instance of SCP-1536 will enter its active state when presented with direct line-of-sight on a sufficiently complex moving object. Through an unknown means, the instance of SCP-1536 will entirely alter its composition and appearance to exactly match the object with which it has been presented, a process which always takes just over 3 seconds.
+
+The criteria SCP-1536 use to judge whether to replicate an object is not known: moving pictures on a screen have not been replicated, but moving inanimate objects such as wind-up toys have been replicated. SCP-1536 will always replicate members of the animal kingdom. If presented with multiple replicable objects, SCP-1536 will replicate the object with closest proximity to its geometric centre.
+
+After replicating, SCP-1536 will be unable to replicate another object for a period of time just over 16 minutes in length. Once this recovery phase is over, if presented with a new replicable object, an instance of SCP-1536 will immediately change to replicate the new object.
+
+SCP-1536 instances in an active state have the same life requirements (if applicable) as the original object, but may, if sustained, remain in this state indefinitely. Once an SCP-1536 instance has replicated an object, it is identical in every measurable aspect to the original. This includes DNA, skin markings such as coat pattern and fingerprints, and memories and personality. See interview logs for information on experience of human subjects.
+
+Active SCP-1536 instances will react precisely as the object which they have replicated to all stimuli, and will suffer damage or wounding as normal. However, if it is completely incapacitated (or killed, if an animal has been replicated), an instance of SCP-1536 will return to its inactive state, and be unable to replicate again for approximately 16 minutes. The process of returning to inactive state lasts exactly the same time as transition to active state. Damage dealt to the replicated form may still be present in the inactive state, but will gradually disappear during the recovery phase. Once the recovery phase is over, the instance of SCP-1536 will then replicate as normal if exposed to a new object.
+
+Addendum 1536-A: selected test logs
+
+Test number: 1536-20
+
+Object presented: Male Rattus norvegicus, 6 weeks old.
+
+Test aim: Determine the ability of SCP-1536 to recover from damage.
+
+Result: SCP-1536-1 replicates the subject. Left foreleg of SCP-1536-1 is removed, and SCP-1536-1 is terminated by incineration. Inactive state of SCP-1536-1 is observed to be heavily charred, and missing one of its appendages. Missing limb regrows and burn damage heals over the course of the recovery phase. Notably, removed limb does not revert and decays as expected for rodent tissue.
+
+Test number: 1536-34
+
+Object presented: ███████ brand toy in the shape of a duck, powered by clockwork.
+
+Test aim: Determine the extent to which SCP-1536 can replicate mechanical objects.
+
+Result: SCP-1536-1 is presented with immobile toy, and does not replicate. Toy is removed, wound up, and presented to SCP-1536-1 in motion. SCP-1536-1 replicates the toy and moves in an identical fashion along the same vectors.
+
+Test number: 1536-52
+
+Object presented: D-90124
+
+Test aim: Determine the effects of SCP-1536 on humans.
+
+Result: SCP-1536-1 replicates the subject, including clothing. For more details, see Interview Log 1536-52.
+
+Test number: 1536-75
+
+Subject involved: D-90124 (subject of Test 1536-52; ██ days after initial exposure)
+
+Test aim: Determine the long-term effects of exposure to SCP-1536.
+
+Result: [REDACTED; CLEARANCE 4/1536 SEE ADDENDUM 1536-C]
+
++ Addendum 1536-B: Interview Log 1536-52
+
+- Hide interview logs
+
+Interviewed: D-90124, subject of Test 1536-52
+
+Interviewer: Researcher Grant
+
+Researcher Grant: Good morning, D-90124. Please describe exactly what happened during Test 1536-52.
+
+D-90124: Jesus Christ… that was fucking horrific. Just… how do you even have shit like that? Anyway. So, I'm taken out of my cell and it's testing time again. Tall guard comes to get me, uh, Asian or something, he hates me. Took me a couple of weeks ago to have this weird shit injected that turned my piss purple.
+
+Researcher Grant: Please tell me what happened during the test, D-90124.
+
+D-90124: Right, yeah, sorry. You don't give a shit about what I think about the guards, do you? Uh, so, I'm put in this like airlock, and they shut the door behind me. The other door opens, and I get a brief look at this thing on the floor - looks like a rugby ball, of all things - and then… it starts growing really quick. (D-90124 pauses.) I'm like 'Oh Jesus, what have they got for me now?' and then it grows like arms, and legs, and a head, and then it's got a mouth and it's screaming, so loudly. Then it falls forward and like three seconds later it's a man on the floor on his hands and knees.
+
+Researcher Grant: What happened then?
+
+D-90124: Well, then it looked up. And it looks like me. Like almost exactly like me, but not quite. Just a tiny bit off. I'm like 'Oh my God what the fuck', and just can't say anything or even move, and suddenly it runs towards me. I dive the fuck out of the way, and it starts banging on the door shouting 'Let me out! That fucking thing's jumped me! I'm the real █████!' and then - Jesus, I actually nearly did shit myself here - the door opens and the thing goes through it! I'm like 'Fuck me, they're going to let that out and I'll be locked in here!' but then the door opens again and you come through the door. What did you do with that thing?
+
+Researcher Grant: I'm afraid I cannot tell you that. Can you tell me anything more about the replication process? Did you feel anything whilst it occurred?
+
+D-90124: Apart from, like, terrified? It was weird. It felt… it felt kinda like it took something from me. You know? Not anything like literally from me, it didn't touch me, but shit man.
+
+Researcher Grant: Do you still feel like this?
+
+D-90124: (shivers) It's like something's missing. I dunno what. Like a spark, or something. It's funny, it's almost like…
+
+Researcher Grant: Like what?
+
+D-90124: It's like it's more real than I am.
+
+Note: post-testing psychoanalysis shows that D-90124 is suffering from sudden-onset major depressive disorder, a phenomenon which has occurred in less than 5% of other test subjects. It is believed that this is not a direct result of SCP-1536's anomalous effect, but rather a psychological response to the trauma.
+
+D-90124 is placed into solitary confinement to study the long-term effects of SCP-1536 exposure, if any. See Test 1536-75.
+
+Interviewed: SCP-1536-1, immediately after Test 1536-52.
+
+Interviewer: Agent Rajesh
+
+Agent Rajesh: Tell me what just happened.
+
+SCP-1536-1: How the fuck do I know what happened?
+
+Agent Rajesh: Answer the question, or I am authorised to terminate you.
+
+SCP-1536-1: Jesus… always hated me, didn't you? Right, fuck, okay. So you show me into the cell, right? And there's this weird fucking rugby ball thing sitting on the floor. Next thing I know, it feels like my whole fucking body is, like, on fire. Like, the worst pain I've ever felt, so I sort of fall to my hands and knees. Then just like that, the pain's gone, and I look up, and there's this fucking thing that looks just like me standing over me. Well - not exactly like me, it looked just slightly off, you know? Slightly wrong. Christ. My first thought is 'Oh shit, they're gonna think that's me', so I run over to the door, and start banging on it, like 'Let me out! That fucking thing's jumped me! I'm the real █████!' I tell you, I was fucking glad that door opened! I was even pleased to see you… man, I was petrified you were gonna leave me in there. What're you gonna do with that thing now it looks like me?
+
+Agent Rajesh: I don't need to tell you that. Describe the transformation process in more detail.
+
+SCP-1536-1: I already did. It fucking hurt. What more do you want me to say? And what's with all of this shit, anyway? (SCP-1536-1 indicates the sheet of reinforced glass separating it from the interviewing agent and the cuffs securing it to its chair.)
+
+Agent Rajesh: It is necessary for the safety of the facility.
+
+SCP-1536-1: No, it fucking isn't! The safety of your fucking facility never depended on all this before! Hell, I'm probably safer than your facility; I'm not the one with shit like that cloning rugby ball locked up inside me!
+
+Agent Rajesh: You will be terminated if you refuse to co-operate. This is standard procedure.
+
+SCP-1536-1: Standard… what do you think I'm going to do? You showed the skip to me, not… holy fuck, you think I'm the skip, don't you? It's tricked you! I'm fucking real! I am! I'm █████ ████████, D-90124, my mother's name is ████ ████████, N.I. No. ██ ██-██-██-█, I went to school at [REDACTED], two weeks ago you injected me with SCP-fucking-████ and I pissed purple, I'm - I'm -
+
+Note: at this point, SCP-1536-1 began to enter its active state and replicate Agent Rajesh. The agent was able to terminate SCP-1536-1 by triggering the Dangerous Interviewee Chamber fail-safe, successfully returning it to inactive state.
+
++ Addendum 1536-C: Incident 1536-γ [LEVEL 4/1536 CLEARANCE REQUIRED]
+
+- Incident 1536-γ
+
+Test number: 1536-75
+
+Subject involved: D-90124 (subject of Test 1536-52; █ months after initial exposure)
+
+Test aim: Determine the long-term effects of exposure to SCP-1536.
+
+Result: D-90124 developed sudden-onset major depressive disorder immediately following the events of Test 1536-52; this was hypothesised to be due to psychological trauma and not anomalous SCP-1536 effect. Psychotherapy delivered via video communication during solitary confinement proved moderately effective.
+
+After a period of ███ days in solitary confinement with no display of any anomalous effects, D-90124 was removed from confinement and a comprehensive series of tests were performed, all of which corroborated absence of anomalous effect. D-90124 was administered Class-C amnestics, which were incidentally effective in treating the major depressive disorder, and returned to normal rotation.
+
+Four days later, during work with SCP-████, D-90124 sustained severe injuries, and later expired in Medical Wing ██; following this, D-90124 began transition into a new instance of SCP-1536. New instance is designated SCP-1536-2 and contained separately to SCP-1536-1.

@@ -1,0 +1,77 @@
+Native fauna found within the White Zone, prior to extermination.
+
+Item #: SCP-1859
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: The current goal of studying SCP-1859 is to catalogue the endemic life forms contained within and to prevent the escape of endemic life into the surrounding ecosystem. To this end, all known access points are to be either sealed or continually monitored by closed circuit television (maintained weekly for any malfunctioning components). Exploration of the walls of the surrounding chamber for further access points is ongoing, and any newly discovered tunnels are to be thoroughly examined and mapped, prior to being permanently sealed, in order to ensure that there are no infestations of endemic fauna.
+
+SCP-1859 is divided into three concentric areas, entitled the Green Zone (consisting of the space surrounding the centre of the phenomenon to a distance of ██ km), the Red Zone (between ██ km from centre and ███ km from centre), and the White Zone (███ km from centre to ███ km from centre). Monitoring Station ██ has been established at the base of the primary access shaft, at the outer edge of the White Zone.
+
+Personnel entering the White Zone are to wear full hazardous materials gear and a radiation monitor, and are limited to no more than 30 minutes of exposure. The exception to this rule are D-Class personnel entering the Red Zone and Green Zone for the purposes of an expedition.
+
+Due to the high flux of ionizing radiation within the Red Zone, expeditions within it are limited to no more than five hours (subjective time). No personnel, other than D-Class, may enter or go beyond the Red Zone. In order to ensure compliance during an expedition, D-Class personnel are told that they have been exposed to a pathogen which incubates for five hours before symptoms become fatal and that an antidote is available upon successful completion of the mission. To this end, D-Class personnel assigned to an expedition must first be screened for any background suggesting that they are aware of the symptoms of radiation poisoning.
+
+As electronic components are easily damaged by the radiation produced in the Red Zone, a fleet of specialized mechanically powered vehicles, dubbed Zip Racers by onsite staff, are maintained for the purpose of quick transportation to and from an expedition.
+
+Because of the primary anomalous effect of SCP-1859, Monitoring Station ██ must be equipped with three separate chronometers. Chronometer A details subjective time at Monitoring Station ██. Chronometer B details the external time calculated based on measurements of the anomalous properties of SCP-1859. Chronometer C is located on the surface, at the top of the primary access shaft, with a direct feed to Monitoring Station ██. Any discrepancies between Chronometers B and C must be noted immediately.
+
+Description: SCP-1859 is a rapidly developing ecosystem enclosed by a temporal anomaly, located in a chamber, ███ km in diameter. The chamber is located at [DATA REDACTED], approximately █ km below the surface, initially believed to have been a natural nuclear fission reactor due to relatively high amounts of emitted radiation. It is currently unknown how the chamber is able to remain stable despite its size, or why the chamber is cooler than the surrounding mantle, however it is hypothesized that this is related to the temporal anomaly in some way.
+
+Initial observations of SCP-1859 noted unusually high levels of incredibly energetic ionizing radiation, with both wavelength and flux decreasing as one travels away from the centre of the chamber. When researchers looked into the centre of SCP-1859, they observed it as appearing incredibly hazy and distorted. It was soon discovered that both of these observations were related to the above mentioned time anomaly. As one approaches the centre of the chamber, time is observed to pass at a different rate, such that an observer farther from the centre sees external time pass more quickly than an observer closer in.
+
+The relationship between time and the distance from centre is such that radiation that enters the anomaly is red-shifted so that, when it is reflected from an object within, it is scattered in a manner consistent with a much lower frequency wave. Likewise, radiation produced in the centre of the anomaly, no matter how low its energy, is blue-shifted to such an extent that the end result, when observed from outside, appears as high energy ionizing radiation. Though the actual source is unknown, calculations indicate that, at the centre, the photons are consistent with the primary resonance frequency of electromagnetic radiation in the chamber itself (approximately ███ Hz, at a rate of [REDACTED]). Despite the rate of photon production being very low, the compression of time ultimately results in lethal doses of ionizing radiation at certain distances.
+
+The innermost Green Zone (initially labeled the Black Zone) is a region in which flux and frequency of radiation are such that life can theoretically be sustained. The Red Zone is where the radiation is blue-shifted to potentially dangerous frequencies and the flux is high enough that lethal exposure is guaranteed. Radiation in the outermost White Zone, though more energetic, is sufficiently diffused that radiation poisoning can be treated, so long as exposure is limited.
+
+When initially discovered, the entirety of SCP-1859 was sterile, due to the effects of ionizing radiation, as verified by Expeditions E-1859-1 and E-1859-2. Samples from within the Black Zone confirmed a thick deposit of simple organic matter. Following Expedition E-1859-3, from which D-2388 did not return, a sudden decrease in oxygen levels within the chamber was observed before levels restabilized. E-1859-6 through E-1859-8 found a coating of slime on the chamber floor which increased in mass as time went on. This slime, along with other life seen in future observations, have been determined to have descended from the gut flora of D-2388, based on recovered samples.
+
+Drops in radiation flux were noted after E-1859-8, determined, in later expeditions, to be related to the emergence of photosynthetic organisms which use the resonant radiation of the chamber as an energy source. In addition, primitive animal-like life forms had been observed.
+
+On ██/██/████, observations from Monitoring Station ██ saw signs of fauna native to the Green Zone performing actions inside the White Zone. Despite the majority not surviving long after passing through the Red Zone, excursions of native fauna have since increased in frequency, leading to current Special Containment Procedures.
+
+Addendum 1859-1: Expedition E-1859-██ has found evidence of primitive tools used within the Green Zone. The life form that produced the tool has not yet been directly encountered, however this suggests the potential of a sapient entity developing within this ecosystem. New expeditions have been scheduled over the following days to search for further signs of an emerging civilization.
+
+Addendum 1859-2: Expeditions E-1859-██ through ██ have shown little change in the design of new-found tools, suggesting that the population producing these tools are remaining stagnant in their development. The search for the creatures that made them is ongoing.
+
+Addendum 1859-3: The primitive tools detailed in Addenda 1859-1 and 1859-2 have been attributed to a predatory plant, as of Expedition E-1859-██. The stones are fashioned using a set procedure that is dictated purely by instinct. Despite this being a false alarm, we highly recommend that a guideline be put in place, should a sapient life form evolve within SCP-1859.
+
+Request has been forwarded to Overseer Command for evaluation.
+
++ Note from Dr. O█████
+
+- Close
+
+Are we to treat these theoretical intelligent life forms as a new friend or as a potential threat? And, if they are deemed a threat, is it not wiser to use any means to destroy the Green Zone ecosystem immediately, rather than sit idly by as the danger becomes more and more likely? Time is ticking while we think things over. Let's hope that it won't be too late when we finally come to a decision.
+
++ The Natural History and Ecology of SCP-1859: A Summary
+
+- Close
+
+Prior to discovery of SCP-1859 and Expedition E-1859-3, it was impossible for life to maintain any kind of foothold inside what is now called the Green Zone. Despite a large deposit of organic material on and within the chamber's surface, living things were not able to survive the transition through the Red Zone. Two methods existed for bacteria to pass through the Red Zone: Via air and via ground. Neither proved viable.
+
+Airborne bacteria, though rare, exist within the SCP-1859 chamber. Air currents allow these bacteria to pass through the Red Zone where the radiation quickly kills them. The result ultimately settles on the cavern floor and denatures through a combination of oxidation and further exposure to ionizing radiation. Over time, this produced the organic deposits within the chamber. Endolithic bacteria have also been found within the chamber, primarily in the outer regions of the White Zone. Because they reproduce slowly, these bacteria are not able to survive extended exposure to the radiation found closer to the centre of SCP-1859.
+
+The reasons for D-2388 remaining within what was, at the time, the Black Zone are still unknown and are likely to remain a mystery. His quick transition through the Red Zone via Zip Racer allowed a small number of bacteria living on and within his body to survive. The bacteria fed on the remains of D-2388 until a few made the transition to the organic deposits. Their descendants spread through the entirety of the Black Zone until, by the time of E-1859-6, they had managed to produce an extensive biofilm.
+
+The initial development of photosynthesis within the primitive biofilm is a matter of speculation. Photosynthetic molecules from recovered samples consistently denature when brought through the Red Zone, preventing researchers from determining their biochemical origins. Because the oxygen levels within the chamber stabilized fairly quickly, it is believed that this had occurred early on, during the initial spread of life. The possible ecological consequences of this happening at a later time are beyond the scope of this summary.
+
+The emergence of true plant analogues in later expeditions warranted renaming the centre-most region from the Black Zone to the Green Zone. The unusual physics within SCP-1859 require that all photosynthesis depends on the radiation produced in the centre of the phenomenon. Therefore, the first flora proved to be ridges extending from the biofilm, each its own unique ecosystem that depended on the primary radiation frequencies found in that region. The most successful colonies ultimately spread through the biofilm, producing concentric rings centering around the radiation source.
+
+The competition between concentric colonies had two ultimate effects: The first was the development of independently autonomous fauna. The first were slow-moving extensions of an outer colony that would eat the ridges closer in and provide a gap through which radiation could pass, in addition to providing the parent colony with organic matter. The ancestors of the current native fauna were likely a reproductive adaptation that caused the extensions to bud off and find a new area in which to settle, similar in function to a plasmodial slime mold. Since that initial adaptation, the fauna have developed into multiple complex forms that have few, if any, morphological similarities to their plant-like ancestors. Many have even lost their photosynthetic capability.
+
+The second effect was the current distribution of flora within the Green Zone. Though little is known of the biochemical pathways that allow photosynthesis in the native flora, it is clear that there is a lower limit to the radiation frequencies that can be absorbed. This has been determined to be [REDACTED], as indicated by the innermost ring of plants and its distance from the centre of the chamber. The energy absorbed by the flora is transformed into chemical energy and is ultimately re-emitted as black body radiation. Due to the blue shift produced by the temporal effects of SCP-1859, the black body radiation eventually becomes energetic enough that it can be absorbed via the same biochemical pathway by other plants growing farther out. The process is ultimately analogous to a step-down transformer, with the flora playing an active part in its execution.
+
+The step-down transformer ecology is believed to be what allows some native fauna to pass through the Red Zone relatively unharmed, as ionizing radiation is weakest near the chamber's surface. Though some of these life forms have been seen to adapt via behaviour, the scattering of photons from farther in still kills many of them.
+
++ Note from Dr. P████████
+
+- Close
+
+Many have wondered what it is like to walk through the Green Zone. Interviews from multiple expeditions have shed light, so to speak, on what one would experience. As you enter the wilderness within the Green Zone, you will notice a faint red light between the leaves of the plants. The plants themselves would be dark. Going deeper, you will see that faint glow remain unchanged, though the shapes of the leaves might be different. The red light is nothing more than Sisyphus' boulder, caused by the infra red radiation produced by the inner plants, blue shifted into visibility. You will never find its source, no matter how far in you go.
+
+Turning around to leave, you will see nothing but darkness. Should you have a flashlight in hand and turn it on, you will see an impossibly sharp image. The light that you produce is blue-shifted as it travels, until it connects with the plants that live there. It is then reflected back to you with very high resolution. Sadly, the human eye is not equipped to resolve much of the detail that is there. What is interesting is that some of that light, because it's so energetic by the time that it reaches its destination, will pass through the plant and reflect off of layers that are still farther out. And so, hidden within the detail of one layer will be a faint echo of others still farther out.
+
+Now point the flashlight back in. You will see what can perhaps be one of the saddest and inspiring sights you've ever witnessed: The wall of plants in front of you will visibly wilt from the visible radiation produced by your flashlight. Deeper in, you will see the red plants that had teased you earlier also wilt away, even more quickly than those directly next to you. Several layers will eventually be exposed, each whiter than the last. When you get to a shade about the same as what you see coming from the flashlight, the plants there will begin to grow on top of each other, attempting to absorb every last bit of light that you've produced. For a short time, you will have become a bringer of new life within the Green Zone. When you finally turn your flashlight off, though, be aware that you will have also taken the source of that life away forever.
+
+All of these things have made me and several other researchers envy the D-Class personnel who actually see this first-hand. We don't envy them enough to allow ourselves to die of radiation sickness, just for the experience, but still enough to sigh wistfully at what could have been.

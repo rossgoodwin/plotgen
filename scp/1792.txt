@@ -1,0 +1,79 @@
+SCP-1792-4, one of the early videocassettes; 1792-18, a DVD copy; and 1792-37, an image produced by 1792-35. 37, as with all such instances of SCP-1792, is kept concealed at all times.
+
+Item #: SCP-1792
+
+Object Class: Safe
+
+Special Containment Procedures: All instances of SCP-1792 in physical media are to be kept in a locked room, away from human contact. Recordings of SCP-1792 are not to be played, and devices it has been played on are to remain disconnected from power sources and display devices. Images produced by SCP-1792 are to be covered at all times; visual contact, direct or indirect, is prohibited.
+
+Individuals suspected to have viewed SCP-1792 are to be contained, for their safety and the safety of others. They are not to be allowed any objects with which they may injure themselves or others, and may only communicate with Class D personnel verbally; visual and digital modes of communication are expressly forbidden. Those infected by SCP-1792 are also to be monitored closely at all times, and are to be stopped if they begin to inflict self-harm or other suspicious activity. Recording of the subjects is prohibited.
+
+Everything related to SCP-1792, living or not, is to be stored in facilities without any SCP specimens demonstrating telepathic abilities, to prevent possible contamination. Any facility containing an instance of SCP-1792 is considered unsafe for such entities, and suspected instances of SCP-1792 are not to be brought to any facility with such subjects already present.
+
+Description: SCP-1792 appears to be a fragment of video footage with mind-affecting properties; none who view it are able to coherently describe what they saw, and many begin exhibiting strange behavior after exposure. Reactions to viewings of SCP-1792 have varied immensely. Strong emotional responses are not uncommon; many appear to be perturbed or distraught by what they saw, and fearfulness, frustration, contentment, hysteria, giddiness, and severe melancholia, among other reactions, have all been seen in those exposed to SCP-1792s.
+
+Not all exposed to SCP-1792 exhibit intense reactions; many give little or no response to it, replying in vague, noncommittal answers when questioned. More than one subject has viewed SCP-1792 and later expressed no recollection of it at all; polygraph tests confirmed their conviction in this statement. Researchers were able to confirm that these individuals did in fact view SCP-1792, however. No cause for the widely-varying responses has been discovered as of this time.
+
+SCP-1792's other notable quality is its self-propagation. When a tape or disc containing SCP-1792 is inserted into a device to play the contents, it infects the device; all future media played on the device will have SCP-1792 recorded onto them, playing it back instead of their original contents. These copies also display the infectious behavior; testing so far has not discovered a limit to its self-propagation, with all generations producing media containing SCP-1792.
+
+The exact extent to which this contagious behavior extends is unknown; display devices such as televisions used to play SCP-1792 do not carry the infection, but a device has SCP-1792 inserted then ejected from without playing will still be contaminated, implying immediate spread upon contact. Experiments confirm that SCP-1792 can spread outside of its original medium; the number of vectors that SCP-1792 can be transmitted by is unknown.
+
+There is no widespread consensus on SCP-1792's origin or purpose at this time; one hypothesis is that SCP-1792 exists mainly to propagate itself, like a virus, with its effects on viewers an unintended side-effect. Others contest this, claiming that the universal inability to describe SCP-1792's content and that it affects so many viewers at all signify some reason for these effects.
+
++ List of SCP-1792 Instances
+
+- List of SCP-1792 Instances
+
+Item #
+
+Description and Important Details
+
+SCP-1792-1
+
+A VHS tape, no label. While not the first SCP-1792 sample discovered, it is currently dated as the oldest, hence its numbering. Apart from its age and slightly more wear than most samples, it would not be more notable than most items on this list but for its potential to be the original source of SCP-1792.
+
+SCP-1792-2
+
+A ███████ brand VCR. It is among the oldest samples found; while its age is less than that of SCP-1792-1, it is possible for older tapes to be played on newer VCRs, making this item the second most likely origin of SCP-1792. However, evidence provided by instances such as SCP-1792-33 suggests the possibility that neither is the true origin.
+
+SCP-1792-4
+
+A VHS tape, no label. Found in [REDACTED], in the possession of a Mr. ██████, it was the first sample of SCP-1792 found. Mr. ██████ was arrested for assaulting his wife and daughter; police reports state that Mrs. ██████ reported her husband beginning to act strange after watching a tape lent to him by a friend; she claimed to have not seen the contents of the tape herself. Mr. ██████ died in prison several months after being arrested; the current location of Mrs. ██████ and her daughter is unknown.
+
+SCP-1792-12
+
+A VHS tape of [REDACTED], an animated children's movie. Found in a video rental store in [REDACTED], SCP-1792-12 is presumed to have been infected when rented out to someone who had already encountered a different instance of SCP-1792. Despite the Foundation scouring [REDACTED] and surrounding towns, no more copies of SCP-1792 could be found in the area, and it is unknown if SCP-1792-12 was rented out after being infected.
+
+SCP-1792-18
+
+A ████████ brand DVD-R disc. It is currently hypothesized that SCP-1792 was played on a hybrid DVD/VCR player at some point, resulting in its spread to newer media.
+
+SCP-1792-24 (destroyed)
+
+A ███████ tower computer. After discovering an online discussion about a "haunted video tape", two agents were dispatched to investigate. On entering the author's home, the agents found him using his computer to make a digital copy of the contents of a VCR. Agent ████████ drew his sidearm and fired several bullets into the computer tower, destroying the hard drive and motherboard. The tape inside the VCR was later confirmed to be another instance of SCP-1792; as averting the threat of SCP-1792 infecting the Internet was high-priority even then, Agent ████████ received a commendation for his actions. The thread author, Mr. ████████████, was convinced to not report the event to the police.
+
+SCP-1792-27 (destroyed)
+
+A (possibly unfinished) symbol or picture, painted in blood. After an SCP-1792 experiment with Class D personnel, one of the subjects reported feeling unwell and was dismissed early. That night he was found dead in his room by another Class D, having bled out due to a self-inflicted wound. On the wall was a large image, painted using his own blood. The Class D who discovered him notified security personnel, and while a response was swift three more Class D's, two security guards, and a researcher saw SCP-1792-27 before someone realized what it may be. The area was cordoned off, and a Class D was sent in to wash away SCP-1792-27, bringing the total number of personnel exposed to it up to eight. While all who saw it were able to describe it more coherently than the average person exposed to SCP-1792, with more difficulty seeming to arise from the quality of the image rather than the effects of SCP-1792, all of them were quarantined; the Class D personnel showed no signs of instability or other symptoms of SCP-1792 exposure prior to their scheduled termination, but as of now the three staff members are still contained. This incident raised the concern that SCP-1792 could be spread through living beings as well as digital media, with the main result being greatly increased restrictions on those exposed to SCP-1792. Reclassification of SCP-1792 to Euclid is proposed.
+
+SCP-1792-28
+
+An ████ music player. One of the Class D personnel in an SCP-1792 experiment was given the item before entering the viewing room, having been instructed to use it to record the sounds made by SCP-1792. After the viewing was over, the device was taken back, then given to a Class D who hadn't been exposed to SCP-1792. She was told to listen to any song on it; after she had done so, she began to display signs of exposure to SCP-1792, despite having never seen it nor any images of it. Prior to this experiment, the auditory aspect of SCP-1792 was considered unimportant; seeing it while it was paused or muted could still infect someone, as could pictures of the content within. Additionally, subjects asked about what they experienced almost never attempted to describe what they heard, focusing more on the visual and emotional aspects of it. SCP-1792-28, however, proved that sonic transmission was also possible, resulting in many hypotheses being revised.
+
+SCP-1792-31 (destroyed)
+
+An albino lab rat. After the concerns raised by the SCP-1792-27 incident, two researchers were assigned to exploring the possibility of SCP-1792 spreading through living beings. To this end, they conditioned a lab rat to watch a monitor in its tank. After this was complete, they inserted SCP-1792-18 and left the room, taking the DVD player's remote control with them. After leaving, they pressed the play button on the remote, then waited for ten minutes before pressing the power button to turn the DVD player off, then reentered the room, in a manner similar to how standard SCP-1792 experiments with Class D personnel are conducted. There they found the rat behaving oddly, scrambling about backwards with its head pressed to the floor of its tank. When he noticed that it appeared to be forming lines in its bedding, Dr. █████████ panicked and promptly crushed it with a nearby Bunsen burner. The experiment was scheduled to be repeated at a later date, but the SCP-1792-34 incident rendered this unnecessary.
+
+SCP-1792-33
+
+A painting produced by one of the Class D personnel exposed to SCP-1792. Some time after exposure to SCP-1792, the Class D began making odd requests for painting supplies. When researchers were informed of this, the incident with SCP-1792-27 was re-examined. As it was still unknown whether individuals exposed to SCP-1792 could transmit it or create new instances of it, and all attempts to make Class D personnel write or draw what they saw had failed, as most were not sure of what they saw themselves. Thus, the request was approved; the Class D was sequestered to a different, secure area of the site to prevent the SCP he was potentially creating from infecting others. When it was finished, the item was claimed from the Class D and contained, to eventually be tested for the presence of SCP-1792.
+
+SCP-1792-34
+
+The entire security monitoring system of Site ██. When the first experiment with SCP-1792-33 was being prepared, a failure to follow protocol led to a containment breach, during which SCP-1792-33 was exposed outside of its sealed testing room. A security camera captured the incident, and the guard monitoring the feed observed SCP-1792-33. After realizing what had occurred, he put the facility on alert, shut down the security monitoring system, and waited for other personnel in a state of partial shock. Upon their arrival, he reported what he had seen, to the extent that he could; he was unable describe SCP-1792-33 despite having clearly seen it. That he was infected through the security feed led indicated something even worse: SCP-1792 was now likely in the facility's computer system. What followed was months of difficulty as the entire security system of Site ██ was dismantled and replaced, with alternative methods of monitoring the SCP's in the facility enacted until the procedure was complete. Additionally, all information saved in the system was lost, as the threat that any data within was corrupted by SCP-1792 was too great for recovery to be attempted. With the worst fears created in the wake of SCP-1792-27 confirmed, the protocol for handling those exposed to SCP-1792 was completely overhauled; the most notable addition was the ruling that all were considered instances of SCP-1792. The manner in which those exposed to SCP-1792 are monitored was changed as well; each individual's container is to be monitored by its own security system, independent of and disconnected from each other and the facility's main system, so as to prevent SCP-1792 contamination from spreading if a similar event occurs again. After this incident, the Foundation began attempts to track down individuals known to have been exposed to SCP-1792 in the past, for the purpose of containment; however, most have proven to be unable to be located thus far.
+
+Addendum: From the notes of Dr. █████: "SCP-1792 is far more dangerous than previously believed. Despite its Safe class, it is not fully-contained, and must be treated as an active threat. With the number of potential carriers out there, as well as the quantity of possible vectors of transmission being far greater than previously believed, the damage SCP-1792 can potentially inflict is enormous, and its containment is a top priority.
+
+"My request that cross-experimentation with other SCP's be forbidden, without exception, has been approved. Contamination by SCP-1792, especially in an SCP capable of transmitting it remotely, represents a threat that simply cannot be risked.
+
+"Even more importantly, SCP-1792 must be kept off of mediums such as the Internet; even before it was fully understood, it was apparent that many people would be hurt if it were to somehow get online. With what we know now, that would be among the least it could potentially do."

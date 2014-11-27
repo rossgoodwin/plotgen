@@ -1,0 +1,249 @@
+SCP-1051 egg upon release
+
+Item #: SCP-1051
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to SCP-1051's main danger being information leakage, efforts towards containment have been placed into denial or falsification of rumors surrounding its existence. Agents are to be reminded that any reference towards SCP-1051 or similar concepts during interaction with a civilian, whether online or offline, are to be met with ridicule and/or denial. Knowledge beyond current cultural information may require the application of a Class-A amnesiac.
+
+SCP-1051 is to be patrolled by no less than twenty (20) personnel dressed in uniforms superficially resembling that of the United States Air Force, in a two (2) km radius surrounding SCP-1051. Intruders into this radius are to be shot. Personnel are reminded to not injure intruders, but only shoot a sufficient amount to repel them. Repeated attempts at entry or entry beyond a one (1) km radius will result in the application of a Class-A amnesiac.
+
+Satellites orbiting over or near SCP-1051 are to have their transmissions monitored for suspected interference. Any antennae discovered in a 10 km radius around SCP-1051 with no known purpose are to be either destroyed or surrounded by a Faraday cage.
+
+Description: SCP-1051 is a large, immobile organism presumably extra-terrestrial in origin. Its "shell" measures approximately 700 meters by 500 meters by 60 meters. SCP-1051 is an ambush predator in nature, and lures its prey using a variety of sociological and psychological manipulation.
+
+SCP-1051 has a shell that mimics large structures. For the past ██ years, SCP-1051 has remained in appearance to an aircraft hangar.
+
+SCP-1051 will periodically produce and launch "eggs" (see above) from itself. They are elliptical in design but are flattened at the bottom to make a domed shape. This is presumably for ease of travel through terrestrial atmospheres. Currently █ out of ██ "eggs" have successfully been reclaimed by Foundation personnel. Eggs not intercepted by Foundation personnel have been ejected out of Earth's atmosphere and are irretrievable.
+
+SCP-1051 will frequently attempt to connect with orbiting satellites in order to send television signals, images, or a variety of other media forms. SCP-1051 currently has a 2█% success rate in connection. SCP-1051 may also transmit radio signals or connect to telephone lines.
+
+SCP-1051 arrived on Earth in 194█ in an "egg". It was originally discovered by the United States Air Force, which transported it to █████ ████, Nevada. SCP-1051 did not come into Foundation attention until 195█, following a distress signal by Air Force personnel stationed at █████ ████.
+
+Addendum 1051-1: Anatomy of SCP-1051:
+
+Aerial photograph of SCP-1051 taken 195█. Note that the majority of SCP-1051 is underground.
+
+1. Mouth of SCP-1051. Doors to SCP-1051 shut and prey is pushed deeper into SCP-1051's body.
+
+2. Gizzard of SCP-1051. Grinds prey into fine paste before digesting.
+
+3. Stomach of SCP-1051. Digests prey into nutrients and waste products.
+
+4. Sphincter and waste tube of SCP-1051. Nutrients are sent to point 5 while waste product is released through southern cavity.
+
+5. Brain of SCP-1051.
+
+6. Distributing organ of SCP-1051. Note that this organ extends several different antennae and wires underground, allowing it to connect to various phone lines, emit radio transmissions, and connect to satellites. Foundation personnel have only been able to discover ██ of the presumed ███ antennae SCP-1051 utilizes above ground.
+
+7. Presumed to be tongue of SCP-1051. Analysis of this paved area has shown fine indentations in the concrete, suggesting that SCP-1051 may have taste buds. ██/██/19██: This was confirmed after SCP-1051 retracted it momentarily following a chemical spill, giving the appearance of a disappearing air-strip.
+
+Addendum 1051-2: Transmissions Successfully Distributed by SCP-1051:
+
+Repeated uploading of various false information to various "Conspiracy" websites, including:
+
+Information of various spacecraft being reverse-engineered inside itself
+
+Various "Men in Black" theories of extra-terrestrial contact
+
+Its use as testing for the following items: Exotic energy weapons, weather controlling devices, time and teleportation machines, and impossible propulsion systems
+
+Various messages in radio and television transmissions regarding its use by a "shadow government" [NOTE: This is considered a high-level information leak. Class-A amnesiacs are authorized for use dependent on the level of classified information.]
+
+Calls to several production studios in California.
+
+Dozens of calls, faxes, and Emails to the National Enquirer offices in █████. National Enquirer offices have been monitored by Foundation personnel since 198█.
+
+Masked orders to officially reveal its existence, sent to U.S. Military Intelligence.
+
+Addendum 1051-3:
+
+Interview 1051-1
+
+Collapse
+
+Interviewed: SCP-1051
+
+Interviewer: Dr. Richardson
+
+Foreword: A small radio apparatus was set up nearby SCP-1051's distributing organ in an attempt to communicate with it. Agents found SCP-1051's distributing frequency at the time after 2 hours of scanning.
+
+<Commence Log>
+
+Dr. Richardson: Hello? 1051, can you hear me?
+
+SCP-1051: Give.
+
+Dr. Richardson: Pardon?
+
+SCP-1051: Give.
+
+Dr. Richardson: Give what?
+
+SCP-1051: Want feed.
+
+Dr. Richardson: You don't get any food.
+
+SCP-1051: Area-51 is currently being controlled by the SCP Foundation, a shadow government organization that has designated it SCP-1051. Here are a few names of the operatives-
+
+Dr. Richardson: Send out D-7238. (One D-class personnel is sent into SCP-1051's "mouth".) …Now, why are you sending out these signals?
+
+SCP-1051: Bring food.
+
+Dr. Richardson: What do you mean?
+
+SCP-1051: Learn humans curious. Make curious.
+
+Dr. Richardson: What about those discs we captured?
+
+SCP-1051: Catch baby? (An audible groan can be heard coming from SCP-1051's "brain")
+
+Dr. Richardson: They're eggs? You reproduce that way?
+
+SCP-1051: (2 minute pause) Dr. Richardson, Agent Adler, Agent Crescent. Its coordinates are the following: [DATA EXPUNGED]
+
+<End Log>
+
+Closing Statement: SCP-1051 proved to be highly uncooperative following the interview. All attempts to destroy SCP-1051's distributing organ met with failure.
+
+Interview 1051-2
+
+Collapse
+
+Interviewed: Sgt. James Bernson
+
+Interviewer: Dr. Richardson
+
+Foreword: Sgt. Bernson sent out the distress signal received by Foundation personnel that led to the discovery of SCP-1051.
+
+<Begin Log>
+
+Dr. Richardson: Good afternoon, sergeant.
+
+Sgt. Bernson: Good afternoon.
+
+Dr. Richardson: You were working in Area-51, yes, the Air Force base?
+
+Sgt. Bernson: Yes.
+
+Dr. Richardson: And what project were you assigned to?
+
+Sgt. Bernson: Security and regulation of research regarding the unidentified flying object recovered from Roswell in 1947.
+
+Dr. Richardson: And what was the object itself?
+
+Sgt. Bernson: White, dome-shaped meteorite.
+
+Dr. Richardson: What did they discover during research?
+
+Sgt. Bernson: The meteorite was hollow, but filled with some kind of liquid. Something was very slowly moving around inside of it.
+
+Dr. Richardson: And how long did study of the object take place?
+
+Sgt. Bernson: █ years.
+
+Dr. Richardson: It would have continued longer but it was interrupted, yes?
+
+Sgt. Bernson: Yes.
+
+Dr. Richardson: You were the one that sent out a distress signal?
+
+Sgt. Bernson: Yes.
+
+Dr. Richardson: Why?
+
+Sgt. Bernson: The meteorite hatched.
+
+Dr. Richardson: Pardon?
+
+Sgt. Bernson: The meteorite hatched. It was an egg.
+
+Dr. Richardson: And that's when you sent out the distress signal?
+
+Sgt. Bernson: Yes.
+
+Dr. Richardson: Can you describe the incident in more detail?
+
+Sgt. Bernson: Dr. James, Dr. Gold and I were working late. We heard a cracking noise and looked at the object. A crack began to appear along it. We were surprised, so we just stared. Then after about 5 more minutes of cracking it broke through the shell.
+
+Dr. Richardson: It?
+
+Sgt. Bernson: The alien. We began to run but something snaked out of the shell and grabbed Dr. James. Then it… absorbed him. Dr. Gold and I both escaped out of the hangar. That's when I sent out the distress signal.
+
+Dr. Richardson: What happened then?
+
+Sgt. Bernson: As I was finishing signalling Dr. Gold tapped me on the shoulder and pointed at the hangar. I turned to look and saw it shaking. Then it expanded a bit and collapsed. Inside we could see… it writhing around.
+
+Dr. Richardson: Was Dr. James there?
+
+Sgt. Bernson: No. The alien then began to form a shell around itself. The shell moved around a little, then it suddenly looked like the hangar.
+
+Dr. Richardson: Is that it?
+
+Sgt. Bernson: After that your men arrived and took me in for questioning.
+
+Dr. Richardson: Alright. Thank you for your time, Sergeant.
+
+<End Log>
+
+Closing Statement: I'll have to have a chat with this Dr. Gold. I have a hunch. - Dr. Richardson
+
+Interview 1051-3
+
+Collapse
+
+Interviewed: Dr. Jonas Gold
+
+Interviewer: Dr. Richardson
+
+Opening Statement: Dr. Gold was one of the original researchers of SCP-1051.
+
+<Begin Log>
+
+Dr. Richardson: Good evening, Doctor.
+
+Dr. Gold: Yourself.
+
+Dr. Richardson: I'd like to ask some questions about Dr. James.
+
+Dr. Gold: He was a good friend of mine.
+
+Dr. Richardson: I am sure this is hard for you.
+
+Dr. Gold: It's fine. Go on.
+
+Dr. Richardson: What were Dr. James's interests?
+
+Dr. Gold: I suppose his interest was his job. A real sci-fi nut.
+
+Dr. Richardson: Really?
+
+Dr. Gold: [Dr. James] always liked to go on about stuff from other worlds, new technologies, hell, he could have been a writer for all those B-movies you see in the cinema.
+
+Dr. Richardson: What was his opinion on the military?
+
+Dr. Gold: Well, he was working for them of course, so keep this under your hat, but [Dr. James] honestly thought they actually already had aliens.
+
+Dr. Richardson: Where did he think they kept the extra-terrestrial?
+
+Dr. Gold: He didn't mention it. Or he just didn't know. Probably figured that if we already had a secret meteorite we must have had an honest-to-god space-craft somewhere, kept secret.
+
+Dr. Richardson: I have one more thing, doctor.
+
+Dr. Gold: Go on.
+
+Dr. Richardson: Does anything about this seem familiar? (Dr. Richardson plays tape recording of Interview 1051-1)
+
+Dr. Gold: […] Where did you get this?
+
+Dr. Richardson: Why do you ask?
+
+Dr. Gold: That voice. It's [Dr. James].
+
+Dr. Richardson: Thank you for your time, doctor.
+
+Dr. Gold: No, wait!
+
+<End log>
+
+Closing Statement: Dr. Gold was escorted out by security personnel.

@@ -1,0 +1,41 @@
+SCP-1167
+
+Item #: SCP-1167
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1167 and any related objects are to be stored in a 3m x 3m x 3m chamber at Site-1167-2. Each is to be kept in a locked case equipped with a security camera.
+
+Site-1167-1 is to be staffed by 2 security personnel at all times, disguised as forest rangers. Exploration temporarily suspended.
+
+Any anomalous material or items found at Site-1167-2 are to be studied and cleared by Dr. Stinson before being brought into contact with SCP-1167.
+
+Description: SCP-1167 is an automaton approximately 20cm tall consisting of a control unit attached to an articulated arm and a flat base. The subject's components are of unknown manufacture and utilize an advanced power source that has not required recharging at any point during containment. SCP-1167 was discovered by spelunkers in [REDACTED] and delivered to local authorities, who passed it on to Foundation personnel. Site-1167-1 has been established at the discovery location.
+
+SCP-1167 is capable of limited locomotion by pushing at the ground with the base of its arm to gradually propel the control unit forward. Left alone, SCP-1167 will attempt to navigate outside of any containing structure, at which point it will adopt a heading towards 23.56 S, 68.16 W, changing direction only to avoid obstacles.
+
+SCP-1167 is capable of synthesized speech but does not respond to questions. SCP-1167 continually repeats the following message in 124 languages, including 8 dead languages and 15 which have not been identified.
+
+SCP-1167: Broadcast alert. Recovery failed. Initiate retreat and seek reinforcements. Alert. Alert.
+
+If a nearby person speaks approximately 5 full sentences of a specific language, SCP-1167 will use that language exclusively until the person leaves the immediate area. Between each repetition SCP-1167 will produce a 1 second burst of static. The sound is identical each time, but has not yielded any meaningful information.
+
+SCP-1167 was delivered to multiple testing sites and placed on the ground to track movement over 100m. This information was used to triangulate the subject's possible destination. A research team was sent to the location, which is in the vicinity of the Monturaqui crater in Chile. An initial survey yielded no anomalous discoveries. SCP-1167 was delivered to the site and placed upon the ground. SCP-1167 scanned the environment before speaking.
+
+SCP-1167: Scan complete. Conveyance missing. Maintain location and await reinforcements.
+
+Site-1167-2 has been established for further study and excavation of the target location. Several anomalous objects have been located and presented to SCP-1167 to produce additional messages.
+
+Addendum:
+
+SCP-1167-1: A mechanical hand with similar construction to SCP-1167, discovered 220m NE of Site-1167-2, 5m below ground. The wrist is cleanly severed.
+
+SCP-1167 Reaction: Scan complete. Missing component relocated. Retain for repair.
+
+SCP-1167-2: Unnatural scarring of a section of bedrock measuring 150m x 1m, discovered 1km NE of Site-1167-2, 8m below ground. Sample acquired.
+
+SCP-1167 Reaction: Scan complete. Archived status report: Weapon modification ineffective. Continue pursuit.
+
+SCP-1167-3: A non-functioning control unit similar to SCP-1167, minus the arm/base. Recovered during an exploration of the cave system under Site-1167-1. 4 members of the exploration team remain missing.
+
+SCP-1167 Reaction: Scan complete. Archived status report: Unit leader terminated. Target lost. Initiate retreat.

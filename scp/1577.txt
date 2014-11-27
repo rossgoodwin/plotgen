@@ -1,0 +1,123 @@
+SCP-1577-1. Note the RAF branding.
+
+Item #: SCP-1577
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1577-1 is to be kept in a standard containment locker, unloaded, when not in use for testing. Access is permitted only to Foundation personnel specifically assigned to this item. Personnel are required to log all testing of SCP-1577-1, in addition to all materials recovered during testing. In the event that more instances of SCP-1577-1 are discovered, they are to be contained in separate lockers.
+
+Description: SCP-1577 refers to two objects, designated SCP-1577-1 and SCP-1577-2. SCP-1577-1 is a flare gun, identical in model to the one utilized by the United Kingdom Royal Air Force since shortly before World War II. The object shows minor wear and damage consistent with its apparent age. However, the serial number has been completely worn away, and analysis suggests this was a deliberate effort. The object functions as would be expected, and is capable of firing any flares of appropriate size (25 mm.) SCP-1577-1's properties become apparent when fired. Any flare fired from SCP-1577-1 burns much hotter, brighter, and longer than would be expected. SCP-1577-1 is also capable of reliably firing in all circumstances, regardless of the condition of the loaded flare.
+
+Exactly one hour after a flare is fired from SCP-1577-1, a model 685 Avro York transport aircraft, SCP-1577-2, appears sixty kilometers east of the point from where the flare was fired, traveling towards that location with a velocity of 650 km/h, at an altitude of 8,250 meters. This velocity is approximately 200 km/h higher than the known maximum velocity of historical models of this aircraft, and the altitude is approximately 1000 meters above the known maximum operational altitude.
+
+There are no immediately apparent spatial anomalies at either point where SCP-1577-2 appears or disappears. However, instruments placed close to expected entry and departure points have shown that the ambient temperature in the immediate area drops by two to three degrees Celsius when SCP-1577-2 reaches them. On materialization, SCP-1577-2 appears to be almost entirely covered in frost, including the engines. This icing does not appear to affect performance of the aircraft at all, and three minutes after SCP-1577-2's arrival, most has melted or fallen away. Analysis of the water that forms this ice reveals no unusual properties.
+
+SCP-1577-2 travels over the location from which SCP-1577-1 was fired, and performs an airdrop consisting of one supply crate equipped with a parachute. After performing the airdrop, SCP-1577-2 continues west before vanishing sixty kilometers from the flare point. Given its speed, SCP-1577-2 is only detectable for approximately ten minutes.
+
+The crate dropped by SCP-1577-2 measures 1m x 1m x 1m, and is comprised primarily of wood, with several iron nails holding the crate together. Analysis of the crate and its parachute have revealed no anomalous properties. The surface of the crate contains stamping indicating what the crate contains, and in what amount. The supply crate is rarely filled to capacity. Supplies differ with every instance, but take the form of objects apparently intended for military use. Invariably, the contents of the crate display unexpected properties that inhibit their utility, or are outright dangerous. See testing log for further details.
+
++ SCP-1577-Testing Log
+
+- SCP-1577-Testing Log
+
+Stated Contents: One hundred (100) "B-Menu" MRE.
+
+Description: Meals Ready to Eat containing sausage, mashed potatoes, beans, and a bar of chocolate. One was opened, and the contents were determined to be uncooked. Labeling indicated that the MRE are cooked using water-activated chemical heating, similar to modern ones.
+
+Additional Notes: The chemical heating process consistently burns at too high a temperature, and results in burnt, inedible food, and on one occasion, a minor chemical fire.
+
+Stated Contents: One hundred (100) bottles of water purification tablets, fifty (50) tablets each
+
+Description: Tablets appear identical in composition to modern instances.
+
+Additional Notes: Water treated with these tablets found to contain a high concentration of salt. Entirely unfit for human consumption.
+
+Stated Contents: Thirty (30) "Cold Night" Raincoats
+
+Description: Poncho-style raincoat, with hood, made from nylon.
+
+Additional Notes: Unexpectedly porous, and did not adequately keep wearers dry or warm.
+
+Stated Contents: Ten (10) "Lanchester-Special" submachine guns, Fifty (50) box magazines of 7.62 mm ammunition, each containing 32 rounds.
+
+Description: Similar to Lanchester submachine guns used by the R.A.F during World War II, except chambered for modern 7.62×51 mm rounds. The original design for this weapon was exclusively chambered for 9×19 mm Parabellum ammunition.
+
+Additional Notes: Due to insufficiently reinforced components suitable for the increased chamber pressures produced by the ammunition, the weapons displayed a tendency for stoppages, malfunctions, and catastrophic failures.
+
+Stated Contents: Fifty (50) Water Canteens
+
+Description: Capable of holding one and a half quarts of water. Containers found to be a poor insulator, and are prone to leaking.
+
+Additional Notes: A handwritten note was found stapled to the side of a crate, reading "Frequency ███.███ mHz. Call sign Icarus' Wing. You will make contact." See SCP-1577-2 Radio Contact Log for report.
+
++ SCP-1577-2 Radio Contact Log
+
+- SCP-1577-2 Radio Contact Log
+
+SCP-1577-2 Radio Contact Log
+
+Log takes place one hour after firing SCP-1577-1 on 7/13/20██
+
+<Begin Log>
+
+Dr. Lionel ███████: Icarus' Wing, come in Icarus' Wing, this is Skipping Stone 23, please identify yourself.
+
+Icarus' Wing: Ah, hello and pip pip, chap! You must be the one who is incessantly requesting supplies. It is jolly good to hear from you, old fruit.
+
+Dr. Lionel ███████: You will identify yourself immediately or you will be forced to land.
+
+Icarus' Wing: I am only being lower-class cheeky impertinent, old fruit. I am Royal Air Force Sergeant Norwood ██████, service number █████. Can you identify yourself in reciprocity, governor old chap?
+
+Dr. Lionel ███████: Not with as much detail, that's classified. You can just call me Doctor Lionel.
+
+Icarus' Wing: You can just call me Norwood, Doctor Lionel. Rank and service number are just details. Why do you request so many supplies? I do not often visit the same location more than once, old bean.
+
+Dr. Lionel ███████: We were trying to figure out the process. How this works.
+
+Icarus' Wing: 'How this works'? Doctor Lionel, you fire the flare, I bring in the supplies, I drop them. That is how my missions always work. What else do you try to figure out, old chap?
+
+Dr. Lionel ███████: How long have you been delivering supplies, Sergeant?
+
+Icarus' Wing: You can just call me Norwood, Doctor Lionel. Rank and service number are just details. How long is irrelevant. A flare is fired, and I answer, old chap. I have delivered supplies for many.
+
+Dr. Lionel ███████: Sergeant, things don't appear that simple on our end. Are you aware of any anomalous properties of your aircraft?
+
+Icarus' Wing: No. There is nothing unusual, governor.
+
+Dr. Lionel ███████: What about your cargo? Can you tell me about it?
+
+Icarus' Wing: No. There is nothing unusual, governor.
+
+Dr. Lionel ███████: Did you know that Norwood ██████ was killed in action on June █, 194█?
+
+Icarus' Wing: Yes.
+
+Dr. Lionel ███████: Then who are you?
+
+Icarus' Wing: You can just call me Norwood, Doctor Lionel.
+
+Dr. Lionel ███████: You've dropped some intriguing supplies, Sergeant. Will you tell me where they come from? Where do you land to load and refuel your plane?
+
+Icarus' Wing: No. That is classified information, chap.
+
+Dr. Lionel ███████: Consider it a personal favor.
+
+Icarus' Wing: No. That is classified information, chap. Pip pip, jolly right.
+
+Dr. Lionel ███████: In that case, can you tell me why all of your delivered supplies are flawed and useless?
+
+Icarus' Wing: Because you do not need the delivered supplies, Doctor Lionel. My superiors have determined that you do not require emergency supplies of functional utilitarian quality, Doctor Lionel. Governor, old fruit.
+
+Dr. Lionel ███████: And who would these 'superiors' be?
+
+Icarus' Wing: That is classified information, chap. Pip pip, jolly right. Blimey.
+
+Dr. Lionel ███████: I'm sorry to hear that. Our instruments show that you're reaching your exit point.
+
+Icarus' Wing: I am. It is quite cold. I cannot stop you from using the signal device, Doctor Lionel chap old bean. I politely ask, as one Englishman to another, that you stop wasting my time. I have supplies to deliver.
+
+Icarus' Wing ceases radio contact
+
+SCP-1577-2 vanishes at the expected location
+
+<End Log>

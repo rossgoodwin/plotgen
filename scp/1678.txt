@@ -1,0 +1,135 @@
+A case of SCP-1678-A under containment.
+
+Item #: SCP-1678
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1678 remains only partially contained. Mobile Task Forces Tau-4 and Epsilon-6 have succeeded in establishing a defensible perimeter around the Hyde Park district of SCP-1678, with cases of SCP-1678-A largely ceasing their attacks on the perimeter of the Foundation-held area. A long-term research base is currently under construction, and Mobile Task Force commanders are preparing an assault on the SCP-1678 Natural History Museum with the intent of capturing a forward command post to direct defense efforts. Current short-term aims involve the capture, and extension of the defensible perimeter to, the SCP-1678 Natural History Museum, and to research and to ascertain the origins, construction, and weaknesses of the SCP-1678-A entities. Long-term aims involve efforts to halt, hinder, or control the production of the SCP-1678-A entities, and to assault the SCP-1678 Houses of Parliament, where the being, entity, or intelligence responsible for the creation of SCP-1678 is believed to reside, and to capture and contain the aforementioned being.
+
+Description: SCP-1678 is a full-scale mirror-image reconstruction of the British city of London, located exactly one kilometer underneath the original city of London. Currently only the Hyde Park district of SCP-1678 has been explored, but all buildings, at least within the explored district, correlate exactly to their surface counterparts in terms of location, as well as the exterior size and shape, although rarely in terms of architecture, building material, and interior layout. The city has been constructed to resemble the city as it was in the Victorian era, with constructions designed to resemble traditional gas lighting prevalent on the streets and with all modern buildings in the original city of London being represented in a Victorian style of architecture, most notably the skyscrapers of the Business district. Illumination is infrequent and unreliable, and it is unknown how SCP-1678 has acquired a steady oxygen and gas supply.
+
+SCP-1678 is believed to have been constructed instantaneously by unknown means, with the SCP-1678 Houses of Parliament serving as the ‘epicenter’ for the construction process. This is evidenced by the fact that, as distance from the Houses of Parliament increase there is an exponentially increasing frequency of flaws in the construction of SCP-1678, such as houses built entirely out of copper pipes or other unconventional materials, ‘gas lights’ being little more than a metal rod topped with a floating orb of light, buildings containing no floors, and, at the furthest explored distance from the epicenter, no windows or doors. Aside from Foundation occupants and cases of SCP-1678-A, B and C, SCP-1678 is believed to be uninhabited.
+
+The SCP-1678 version of the ██████ street intersection. Note the design flaws such as exterior pipework.
+
+SCP-1678 is believed to have been constructed with the intent to harbor the survivors of an XK-class end-of-the-world event. This is evidenced by an audio recording that will activate and play upon any person entering the city.
+
++ SCP-1678 Audio Transcript (Entrance)
+
+- SCP-1678 Audio Transcript (Entrance)
+
+[My fellow citizen. If you are hearing this tape, then the world as we knew it has finished. The sky has broken, the ground heaves with the tramp of terrible feet, and all the horror and madness from the dark corners of the world has broken free to exact its vengeance on the world of Man. Those who sought to contain them are killed or scattered, and we soon learnt that to attempt to fight these creatures is almost invariably to face one’s death. Countless billions have been slaughtered in their attempt to sate their endless appetite for death, and there is nothing-was nothing- we could do to stop them. Evil has raised its bloody flag upon all nations of the world and crowed its unholy victory to the broken sky. Yes, this is the end.
+
+But there is a new hope.
+
+Welcome to UnLondon, a city of the survivors, a city of the free. Together, fellow citizen, we will wait and prepare for the new beginning, the grand new world that is soon to come. Let the world above burn. We will endure. Let the monsters have their world. We will prepare. And let the ground tremble with a new Armageddon, as evil consumes itself, for I tell you, citizen, upon the day of the ruination of Man, their insatiable appetites will turn them against one another in their endless lust for death. We will wait.
+
+And I tell you, citizen, that there will be a new morning. And you will emerge from UnLondon, and stand blinking in the sun, as our children play and laugh in the bones of horrors long dead. And you will walk, hand in hand, to the sea, our faces skywards, as the rising sun ushers in the new age of Man. And you will gather, citizen, at my feet as I summon UnLondon from its rest, and it shall burst, phoenix-like, from the ashes of the old. And on that day, citizen, there shall be a new order, as we raise the Union Flag over the entire world.
+
+I welcome you to UnLondon, the Last City.
+
+And the first.]
+
++ SCP-1678 Audio Transcripts (Misc)
+
+- SCP-1678 Audio Transcripts (Misc)
+
+The following message is relayed on the end of every hour:
+
+‘The time is [TIME] o’clock. All is well.’
+
+On approaching any bank or police station:
+
+‘Citizen, you are entering a restricted area. Have your authorization papers ready. A Bobby will arrive to escort you shortly’ (WARNING: a single case of SCP-1678-A will be summoned)
+
+On being sighted by a case of SCP-1678-A.
+
+‘Halt! Police!’
+
+‘Drop your weapons!’
+
+‘Come now, let’s be having you!’
+
+‘Police! Don’t run!’
+
+Randomly, once per hour. The messages below are selected samples of the 1078 observed audio recordings.
+
+‘No one is safe from the influence of memetic beings. Have yourself assessed today.’
+
+‘You could be possessed by a memetic horror and not even know it! Psyche assessments are free and easy-visit a clinic today.’
+
+‘Do you find light uncomfortable? Identifying a Cortex Worm's infection early makes them possible to remove. Speak to your doctor today.’
+
+‘Have you noticed anyone acting oddly? Tell a Bobby immediately.’
+
+‘Crime will not be tolerated in UnLondon. I warn you: the tormentors of society will become its defenders.’
+
+‘Evil can walk in human form and human flesh. Stay vigilant.’
+
+‘Are you frequently anxious or depressed? It could be a symptom of the Pattern Screamer’s influence- notify a Bobby immediately’
+
+‘Ensure you are well rehearsed in all breach protocols. There is no excuse for panic or confusion during drills.’
+
+‘Can’t make ends meet? Do not be ashamed. Bryson’s Home for the Poor is here to help.’
+
+‘I rule in the interests of the many, not the few. There are no special privileges.’
+
+‘Swelling and abnormal growths are an early sign of the Slaver Man’s possession. Report any abnormal sickness to your doctor immediately.’
+
+‘Each and every one of you is responsible for the safety of UnLondon and its citizens. Be watchful.’
+
+Most explored buildings within SCP-1678 appear to have been outfitted for the purpose of extremely dense inhabitation with closely grouped steel bunk beds a common feature in any building suitable for the purpose. Foundation researchers have advised that most explored buildings within SCP-1678 are unfit for human habitation, due to a high preponderance of mould, damp, and poor construction within these buildings. Some buildings are outfitted for other purposes, most notably the SCP-1678 version of the Natural History Museum, which is featuring an exhibit titled ‘The Fall of Man’ and contains representations of several known SCP entities, and images and artwork depicting apocalyptic settings.
+
+The key threat posed by SCP-1678 is by entities referred to in some SCP-1678 audio recordings as ‘Bobbies’ (‘Bobbie’ is known to be a Victorian-era British slang term for ‘Policeman’), henceforth referred to as SCP-1678-A, these entities are constructed out of human corpses crudely dismembered at the head, wrists, knees and elbows and re-assembled using simple industrial hinges and screws. The head is always wrapped in bandages. They are dressed in a uniform similar to Victorian-era police and are extremely hostile towards Foundation personnel, attacking them on sight with improvised weapons. These attacks are always preceded by SCP-1678-A emitting a noise similar to that of a policeman’s whistle, and all loudspeakers within one hundred meters emitting the audio recording ‘‘Police! Halt, criminal!’’. Instances of SCP-1678-A are extremely resistant to damage, with only high-caliber rounds and explosive weapons proving sufficent to destroy them. They are believed to originate from a building named ‘Bryson’s Home for the Poor’, as evidenced by an inmate-style jumpsuit worn under the uniform.
+
+To what extent they interact with other SCP-1678 entities is unknown.
+
++ SCP-1678-B Overview
+
+- SCP-1678-B Overview
+
+SCP-1678-B
+
+Role: Surveillance.
+
+A.K.A: Eyes in the Sky.
+
+Cases of SCP-1678-B are bio-mechanical constructs which resemble that of a small avian life form. They are composed of central mass of a red organic matter stitched together by a copper exoskeleton that resembles a spine and wing bones. The head has been demonstrated to be a small video camera and remnants of feathers and plastic on their exterior suggests they were once intended to resemble a pigeon. Cases of SCP-1678-B are known to possess no offensive or destructive capabilities, yet their ability to track Task Force movements should not be underestimated, as it is currently unknown if they are capable of communicating with, or summoning cases of, SCP-1678-A. Cases of SCP-1678-B are relatively simple to contain or destroy, yet their large numbers makes their observation of Foundation activities extremely difficult to stop.
+
+Occasional posters throughout the Foundation-explored area allude to their existence. These posters display an image of a small pigeon observing criminal activity beneath the title ‘UnLondon’s Eyes in the Sky!’ alongside a small message to the effect that anyone destroying or vandalizing an ‘Eye in the Sky’ faces up to six weeks in the ██████ unit.
+
++ SCP-1678-C Overview
+
+- SCP-1678-C Overview
+
+SCP-1678-C
+
+Role: Unknown
+
+A.K.A: Wretch
+
+Cases of SCP-1678-C resemble a humanoid figure dressed in rags. They appear to be of old age and are usually, although not always, female. They have always been encountered outside the Foundation-held area.
+
+There have been very few direct encounters with the SCP-1678-C entities, and it is currently unknown how many cases exist or to what level of threat they pose to Foundation security or safety. Encounters typically feature cases of SCP-1678-C sitting on a street corner with a begging dish, whereupon they will attempt to attract the pity or mercy of any Foundation personnel within their proximity with pleading or begging for food or money. Supplying a case of SCP-1678-C with food will cause them to begin weeping before dematerializing with a burst of dense black smoke. Foundation personnel are currently under instruction to not interact with them.
+
+They are briefly alluded to in a SCP-1678 audio recording: ‘Do not pity the Wretch. Allow them to pay the price of their betrayal for all eternity. Remember, citizen: on the day UnLondon rises I shall reward the loyal, but traitors shall be forever damned.’
+
++ SCP-1678-D Overview
+
+- SCP-1678-D Overview
+
+SCP-1678-D
+
+Role: Food Supply.
+
+A.K.A: ‘Dr. Goody’s Wonderfood!’
+
+SCP-1678-D is believed to be the primary food source on offer in the event that SCP-1678 receives full-scale occupation. SCP-1678-D is freely and easily available from steel vending machines installed in virtually every building or structure outfitted for the purpose of habitation. The vending machines are upright steel pumps similar in size and shape to that of a modern petrol pump, containing a slot for the receiving of coins and a flexible rubber hose ending in a trigger-operated nozzle that will deploy half a liter of SCP-1678-D upon the appropriate payment. All vending machines display the legend ‘Dr. Goody’s WONDERFOOD!’ alongside an image of a smiling child enjoying a bowl of SCP-1678-D and text bubbles advising that SCP-1678-D costs ‘Just a farthing a bowl!’, that it ‘Contains all the nutrients you need!’ and ‘Completely restores health and vitality!’ It has proven to be extremely attractive to cases of SCP-1678-B, C, and an unknown species of colored mollusc which has been observed feeding on any spillages.
+
+SCP-1678-D is a synthetic starch gel heavily enriched with various minerals, vitamins, fats and bulking agents. In addition to this it contains several unknown molecular structures and various engineered DNA helixes carried within synthetic cellular structures. It has the same consistency and taste as porridge. As advertised, it contains all the nutrients necessary for short-term survival. However, Foundation researchers have advised that over a period of more than six weeks users of SCP-1678-D will become dangerously underweight due to low levels of fat and protein within SCP-1678-D and are at strong likelihood of contracting illnesses such as scurvy if survival is attempted by consuming SCP-1678-D alone.
+
+SCP-1678-D appears to be purposely engineered to manipulate the psyche of regular consumers. Through a mixture of unknown molecular compounds regular consumers are more obedient to authority, are less likely to commit acts of violence, are less likely to engage in sexual intercourse, have a reduced capacity for fear or panic, and have consistently high morale. In addition, it also has engineered side effects such as depressive symptoms and headaches if a subject suddenly abandons consuming SCP-1678-D. Due to the difficulty of creating food within SCP-1678, SCP-1678-D would serve as the primary food source in the event of large-scale habitation.
+
+Foundation personnel are forbidden to consume SCP-1678-D, even in small amounts. Not all vending machines produce SCP-1678-D to the same quality with some machines deploying corrupted forms that have induced severe mental or physical abnormalities or death within the consumer.
+
+It is currently unclear what entity, being or intelligence is responsible for the creation and maintenance of SCP-1678. It is unclear as to what event or disaster SCP-1678 is being prepared for.

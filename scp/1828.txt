@@ -1,0 +1,21 @@
+Item #: SCP-1828
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1828 is kept in a dedicated monitoring laboratory at Site 17, with constant video recording of the entire interior. Immediately after each transformation, analysis software is to match all replicas produced to known on-site personnel and notify the researcher and lead security officer on duty of any discrepancies. Additionally, any SCP-1828-A present are to have their location and positioning noted, and the location of any intersections are to be analyzed for abnormalities.
+
+Description: SCP-1828 is an irregularly shaped wooden container with removable top, whose interior contains a 1:12 scale replica of whatever structure SCP-1828 is currently located within1. Every hour, at 17:37 past the hour, SCP-1828 instantaneously transforms so as to accurately reflect the location and composition of all objects and organisms within the structure that SCP-1828 is currently representing. Although SCP-1828 expands, contracts or otherwise changes shape so as to match the interior floorplan, the exterior walls are always composed of continuous boards of unpainted, unvarnished wood, originating from the same sugar maple tree (Acer saccharum) per DNA analysis.
+
+Replicas appearing inside SCP-1828 are made of non-anomalous soft woods, tin, plastics, cotton-fiber cloth, and acrylic paints, and are detailed with perfect accuracy to mimic the exterior of whatever object or organism they represent. Once created or updated, replicas do not change composition and do not have any detectable influence upon their originals. SCP-1828 is uniformly represented by a 3" x 3" x 3" (7.62 cm x 7.62 cm x 7.62 cm) solid cube composed of the same wood that forms the exterior walls of SCP-1828. Replicas of objects that were in mid-air at the time of update do not maintain the momentum of the originals and will fall downwards immediately upon replication. All replicas or material samples removed from SCP-1828 disappear when it updates.
+
+SCP-1828-A are clear, transparent borosilicate glass models that intermittently appear within SCP-1828. These models often intersect interior walls or other replicas and are not separable from them. They take a variety of forms ranging in size from 0.3 cm to 5.2 cm, and primarily consist of hexapodal felinoids, airborne vermians or ophidians, and representatives from multiple species within the Dasypodidae family2 averaging 4.1 cm in height.
+
+Approximately 0.2% of SCP-1828-A instances resemble members of Amphioctopus marginatus (coconut octopus) and usually carry multiple objects also composed of borosilicate glass. When these instances appear, they are usually in positions that strongly suggest that they are using these objects to directly interact with sentient creatures within the Site housing SCP-1828, for unknown purpose.
+
+Addendum: Two years after initial acquisition, the rate of appearance of SCP-1828-A resembling A. marginatus has increased to 12.4% of all such occurrences, and appear within the containment chambers of SCP-███, SCP-████, and the current host of SCP-████ approximately 63.2% of the time. Chief Researcher A. Bjornsen has requested that SCP-1828 be transferred to a remote single-SCP Site in order to minimize potential exposure of Foundation assets to whatever entities SCP-1828-A represents. While this request is under review, the Head of Security has requested additional resources to more extensively monitor the aforementioned SCP Items.
+
+Footnotes
+
+1. In cases where the containing building possesses multiple levels or floors, SCP-1828 only reflects the level where it is currently located.
+
+2. The 20 species of armadillo are the only members of this family.

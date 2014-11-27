@@ -1,0 +1,111 @@
+Item #: SCP-1381
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1381 is to be held in a 3m x 3m x 2m chamber lined with 6cm of lead sheeting. The chamber is to be hermetically sealed, unable to be opened from inside and located at a Site that does not also house felid SCPs. All adult felids discovered on-site are to be captured and euthanized. Testing with SCP-1381 is suspended until further notice.
+
+Description: SCP-1381 is a 1.5m x .8m x .5m dresser cabinet made of pine, of a make and model identified as discontinued by the S█████ Woodworking Company in 20██. It has two doors set beside three drawers, the knobs or pulls once present on both having been removed. The bottom drawer can be opened only partially, and is empty; neither the other drawers nor the doors can be opened manually. The surface of the wood on the left side of the cabinet is shredded and stained with blood. Testing has found the blood to be feline. Imaging has shown the interior to be empty and otherwise consistent with that of a typical cabinet of its make and model.
+
+SCP-1381 has the ability to attract felids with an area of effect approximately 15km in radius. SCP-1381's secondary effect varies depending on the species of felid coming into contact with the object.
+
+When Felis catus is introduced to SCP-1381, it will begin rapidly "digging" at the left side of the cabinet, often vocalizing distress. After one to five minutes of digging behavior, the right door of SCP-1381 will swing open and the animal will enter, the door swinging shut immediately behind it. Attempts to interfere with the felid's behavior will be met with violent resistance. Imaging of SCP-1381 up to ten hours after a subject enters the cabinet is impossible, as images will be completely black.
+
+Pantherines will rub their cheeks against the corners of SCP-1381, often vocalizing contentment, and display territorial behavior if interfered with. After rubbing has continued for at least five minutes, the right door will swing open and the animal will enter. Despite subjects' size often being greater than that of the opening, no subject has been observed to be unable to enter the cabinet, only to have difficulty in doing so. Imaging again proves ineffective for ten to twenty hours after a subject enters the object.
+
+Current testing indicates that it is not possible to prevent the door from either opening or closing with conventional methods.
+
+Addendum: A period of time between 10 and 20 hours after a big cat enters SCP-1381, both doors will open and instances of SCP-1381-01 and SCP-1381-02 will emerge.
+
+SCP-1381-01 are feline-like beings possessing an outer surface that does not reflect light, luminescent eyes and elongated claws. SCP-1381-01 has been observed moving with greater agility than a standard feline, no doubt in part due to double-jointed limbs.
+
+SCP-1381-02 are [REDACTED], luminescent eyes and elongated claws similar to SCP-1381-01, but lacking the dark pigmentation. SCP-1381-02 are significantly larger than [REDACTED], and display increased speed, strength, endurance and [REDACTED]. SCP-1381-02 are capable of directing SCP-1381-01 via [REDACTED].
+
+Testing has yet to determine the precise circumstances, rates, or time frame for this emergence. See test logs and Incident Log 1381-01 for further information.
+
++ Test Log for SCP-1381
+
+- Hide Test Log
+
+Test 1381-02
+
+Date: 3/5/████, 12:45
+
+Test Subject: One Felis catus, male adult, wearing cloth leash and harness, leash held by research assistant. Test to see if animal is retrievable after entering the object.
+
+Results: Subject exhibited digging behavior as expected. Behavior continued despite damage to subject's paws severe enough to cause bleeding. Door opened after three minutes, ten seconds and subject ran inside. Research assistant unable to retain hold on leash, which disappeared into the object, followed by door swinging closed. Test subject lost.
+
+Test 1381-03
+
+Date: 3/5/████, 13:30
+
+Test Subject: One Felis catus, male, 3 months old, tethered by cloth leash and harness, leash secured to metal anchor in floor. Test to see reaction of juvenile felines to SCP-1381.
+
+Results: Test subject showed great interest in climbing research assistant's trouser leg. Showed no concern for object. When placed atop it, subject began vocalizing distress after two minutes, due to difficulty in reaching the floor. Test stopped and subject recovered.
+
+Test 1381-04
+
+Date: 3/6/████, 9:15
+
+Test Subject: One Felis catus, female adult, tethered by harness and 3m of stainless steel grade 100 chain to a metal anchor driven into the testing chamber floor.
+
+Results: Test subject entered cabinet and chain went taut after three seconds. Black "fog" observed obscuring cabinet interior. Door swung closed on chain but rebounded. Research assistant tried to hold door open while a prop was fetched, but was thrown clear of SCP-1381 as door swung shut a second time, severing chain at doorjamb. Test subject lost, research assistant treated for minor injuries.
+
+Test 1381-05
+
+Date: 3/6/████, 15:00
+
+Test Subject: One Felis catus, female adult, tethered by harness and 15m of stainless steel grade 70 chain to a metal anchor driven into the testing chamber floor. Research assistant standing by with 1m long steel spike, 10cm thick, to drop into hole drilled in testing chamber floor within radius of open door.
+
+Results: Test subject entered cabinet; chain went taut after fifteen seconds, giving research assistant enough time to place spike. Attempts to draw chain out of cabinet ineffective. Intense (~90 dB) squealing noise heard as metal spike bends at 90-degree angle. Researchers report severe aural discomfort. Cabinet door swung shut, severing chain at doorjamb. Test subject lost.
+
+Test 1381-06
+
+Date: 3/7/████, 11:20
+
+Test Subject: One Felis catus, male adult, without harness. SCP-1381 is wrapped in 10m of stainless steel grade 70 chain, secured with a high-quality security combination lock, with the left-hand panel free for testing. Test to determine whether SCP-1381 can be held shut.
+
+Results: Feline behavior as expected. SCP-1381 began to shake one and a half minutes after digging behavior started. Shaking increased in violence; right door seen straining against chain. After three minutes, twenty seconds, test subject's paws began bleeding. After three minutes, forty-five seconds, test subject began to dig at chain securing doors. Chain begins to bend. At five minute mark, chain breaks, releasing debris and injuring testing staff. Test subject unharmed and entered cabinet; lost.
+
+Test 1381-07
+
+Date: 3/9/████, 10:00
+
+Test Subject: One Panthera pardus, female adult. Test to see reactions of larger felines to the object.
+
+Results: Test subject began vigorously rubbing cheek against left-front corner of cabinet while grunting. Behavior continued for five minutes, forty seconds before door opened and test subject entered. Test subject lost.
+
+Test 1381-08
+
+Date: 3/9/████, 15:00
+
+Test Subject: One Panthera tigris tigris, male adult. Subject is wider at the shoulders than door opening.
+
+Results: Results similar to test 1381-07. Door opened after eight minutes, thirty seconds of cheek-rubbing and prusten. Entry hampered by subject's size. After repeated attempts by subject to gain access to inside of object and damage to testing room floor, opening was seen to bend around subject. Test subject lost. See Incident Log 1381-01.
+
+- Hide Test Log
+
++ Incident Log 1381-01: Level 3 Clearance Required
+
+Access Granted
+
+Date: 3/10/████, 1:00
+
+Location: Site-██
+
+Description: At 1:06, report of "knocking" from inside SCP-1381's containment chamber by security guard A████ S███████. Security detail assembled to gain entry to containment chamber.
+
+Upon opening of chamber door at 1:11, security was overwhelmed by emergence of 110 instances of SCP-1381-01 and 2 instances of SCP-1381-02 from testing chamber, resulting in death of entire detail. Physical features of SCP-1381-02 are consistent with fur patterning of test subjects 1381-07 and 1381-08, though SCP-1381-02 are approximately 1.5 times larger than test subjects.
+
+At 1:13, containment breach alarms sounded. Security teams dispatched to contain threat. SCP-1381-02 appear to be leading SCP-1381-01 towards entry of Site-██, with the larger instance directing SCP-1381-01 in teams against security forces. Security footage shows standard-issue bullets ineffective against SCP-1381-01, passing into but not out of creatures. SCP-1381-02 seen using SCP-1381-01 as shields against incoming fire.
+
+At 1:20, attempt is made by two security team members at request of command to establish communication with SCP-1381-02. Communication established for forty seconds before SCP-1381 attacks, resulting in two casualties.
+
+At 1:22, standard flamethrowers are issued to defensive squads and prove effective in destroying SCP-1381-01. By 1:28, all instances of SCP-1381-01 and smaller instance of SCP-1381-02 are eradicated. Larger SCP-1381-02 breaches inner security and is neutralized by automatic turrets and security forces with flamethrowers.
+
+Breach incident resulted in total of ██ deaths and ██ casualties. Security noted a mass of ███ Felis catus gathered outside Site-██ during breach incident.
+
+Access Granted
+
+Researcher's Note: We put ten cats in and got over a hundred back out. Either this thing multiplies them or it was saving them up until it got here. If the latter is the case, we must consider that containment risks another major breach event. Requesting upgrade to Euclid. -Dr. ██████
+
+Request granted. Containment procedures updated. -O5-█

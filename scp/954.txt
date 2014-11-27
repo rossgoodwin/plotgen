@@ -1,0 +1,25 @@
+SCP-954 currently in containment
+
+Item #: SCP-954
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: Instances of SCP-954 are to be contained in Bio-Habitat 27 at Site ██. Bio-Habitat 27 is to be covered in a soundproof material, on the interior and exterior to prevent sound leakage from the containment chamber. Testing with SCP-954 requires level 2 clearance, with an experiment procedure delivered to the director of Study for SCP-954, currently Doctor ███████.
+
+Description: SCP-954 is a species of frog similar to Eleutherodactylus cystignathoides campi also known as the Rio Grande Chirping frog. Unlike Eleutherodactylus cystignathoides campi, however, SCP-954's vocalizations are not within human hearing range. The anomalous properties of SCP-954 are observed when it vocalizes in the presence of other organisms.
+
+SCP-954's vocalizations cause slight hallucinations in human subjects, by stimulating the temporoparietal junction region of the brain. It is hypothesized that this is an accidental byproduct of the method of prey capture for SCP-954; it is also believed that vibrations caused by SCP-954's vocalizations are the cause of this effect in humans.
+
+This effect, upon this region, causes the phenomenon known as "shadow people." The "shadow people" effect is commonly described as seeing a shadowy figure in the periphery of vision, which moves quickly when focused upon, out of visual range. This phenomenon is hypothesized to be what causes most ghost sightings that can't be attributed to confirmed sources or other SCP objects.
+
+SCP-954's effect has been observed to be used in order to disorient various insects, usually causing their movements to become erratic. It is unknown precisely how this affects insects, as they lack the complex brain structures of humans. When affected, most flying insects fall to the ground, and land-based insects generally stop movement. In rare cases, they [DATA EXPUNGED]. Several hypotheses have been put forth to explain this, the most plausible of which is that the vocalizations interrupt the motor proteins around the major methods of locomotion in insects. It is unknown how SCP-954 developed this trait, however. SCP-954 has been found over most of North America, and parts of Europe and Asia; as such, there should be a variance of the development of the species, but there [REDACTED].
+
+SCP-954 is not believed to be responsible for any deaths, however, at this time. Most subjects report a feeling of disorientation after being exposed to the effect which usually lasts for less than two hours.
+
+Addendum 1: On ██/██/████ SCP-954's vocalizations were observed to be audible in the human perception range. This effect was observed by Doctor ███████, during routine feeding of SCP-954. During this occurrence, Doctor ████████ reported feeling extremely uncomfortable, and later reported a headache. During this period of vocalization, several specimens of SCP-954 expired, due to rupture of the vocal apparatus.
+
+When Doctor ███████ reported to the medical department for standard workups after the test, it was found that his temporoparietal junction had swollen large enough to potentially cause damage to the surrounding tissues. Testing with SCP-954 is to be suspended immediately, and all instances of SCP-954 reported in the wild are to be collected immediately by MTF-Omega-87 ("Frog Watch"). Refer to document SCP-954-C/R-01 for specific instructions on team loadout and procedures.
+
+Note from Doctor ███████:
+
+I don't believe SCP-954 is a danger at this point. Like all predatory creatures, it is attempting to adapt to the environment. Unlike most predatory animals, however, SCP-954 seems to adapt much faster, either inter-generational, or within first generation. This is remarkably interesting, and warrants further study. However, until containment and testing procedures can be updated, all testing is to be ceased until we can assess the danger first. Feeding shall continue, using class D for now.

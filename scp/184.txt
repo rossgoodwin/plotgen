@@ -1,0 +1,31 @@
+SCP-184
+
+Item #: SCP-184
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-184 is not to be contained in any structure. SCP-184 is to be attached to a high-power electromagnet at all times. Should the electromagnet fail, agents are to report to SCP-184's containment area and prevent access to all unauthorized personnel until the electromagnet is restored to power. The containment area for SCP-184 is currently configured to resemble a park with SCP-184 and its containment magnet disguised as statuary. Any and all visitors are to be monitored.
+
+Any structures affected by SCP-184 are to be demolished after review by [DATA EXPUNGED]. Final demolition approval or inclusion into SCP will also be determined by this body. No investigation is to be done into affected structures without approval and a rescue team on standby.
+
+Description: SCP-184 is a small, smooth metallic object, 10 cm (4 in) tall and 10 cm (4 in) wide, in the shape of a dodecahedron. Each face of the figure has a circular hole in the center, and a small sphere is attached to each vertex. SCP-184 is made of an unknown, but highly magnetic, alloy about as hard as brass.
+
+When inside an enclosed structure, SCP-184 expands the structure's inner dimensions without altering its outer dimensions. SCP-184 will increase the inner dimensions of any enclosed structure by several hundred meters each day, beginning one hour after entry into the structure. Initially, SCP-184 only extends the walls out, causing rooms to become much larger without adjusting the height of the room. This expansion continues until the original dimensions of the room have been tripled.
+
+At this point, SCP-184 starts creating wholly new rooms. SCP-184 is apparently able to copy items from inside the structure, creating furnished rooms consistent with the rest of the structure. After a period of time, however, the expansion process appears to break down. For example, items will be made from inappropriate materials (glass books, a wooden microwave), rooms will be oddly-shaped, doors will open into blank walls, and hallways will be tiny or twist back around in long mazes. The new inside structures continue to be more and more odd, while the outside remains unchanged.
+
+This behavior is most dramatically illustrated in homes; however, it has been observed in other instances, including a cardboard box. The changes do not go away with the removal of SCP-184, but no additional structures are created.
+
+Addendum 184 - 1: Notes from Dr. █████
+
+I don’t think I need to stress the fact that this thing can NEVER be allowed into Site 19. We may need to look into different containment at some point, but for the time being, we will keep it in the open, immovable, and hidden.
+
+Addendum 184 – 38RB: Notes on recovery
+
+SCP-184 was recovered in the Kowloon Walled City in June of ████. Reports of the city's bizarre and explosive growth attracted Operatives, who soon learned of SCP-184, held in the possession of [DATA EXPUNGED]. After several police crackdowns, Mobile Task Force Zeta-9 was dispatched and recovered SCP-184 with minimal losses. The final effect of exposure to SCP-184 on both the City and inhabitants may never fully be understood due to the reckless actions of local law enforcement, which destroyed several affected sections of the city before Operatives could take action to prevent it.
+
+Interviews with residents yielded minimal information, with a communal “wall of silence” being the major response. A few documents indicated that SCP-184 could be brought into a home and allowed to affect the dwelling for 50 pounds sterling per half hour. These documents were unconfirmed by residents.
+
+Addendum 184 – 38RB-s: Additional Documentation.
+
+Personal Log of Gordon Richards — Member of Mobile Task Force Zeta-9, the Mole Rats

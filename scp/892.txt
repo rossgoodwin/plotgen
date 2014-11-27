@@ -1,0 +1,89 @@
+SCP-892
+
+Item #: SCP-892
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-892 is to be contained within maximum security vault ████-██-████ located ████ meters beneath Site ██. All O5 personnel are to be issued a magnetic Access Key coupled with an individual Passcode. A minimum of three (3) O5 Overseer personnel Access Keys and corresponding Passcodes are required to begin a 48 hour unlock sequence to grant access to SCP-892. Should all thirteen O5 Overseer personnel Access Keys and corresponding Passcodes be entered simultaneously, vault will unlock immediately.
+
+Access to SCP-892 is permitted strictly under O5 supervision and for the sole purpose of attempting to identify the location of SCP-892-2. In the event that the SCP-892-2 is located, all O5 personnel are to be alerted and Mobile Task Force Mu-4 (aka "Debuggers") is to be dispatched.
+
+In the event of containment breach, SCP-892 is to defended at all costs. The risk of SCP-892 falling into the wrong hands could have catastrophic results for the Foundation as a whole, as well as the rest of the world. In the unlikely event that Site ██ is to be overrun, SCP-892 is to be decommissioned immediately.
+
+Unauthorized access is grounds for immediate termination.
+
+Description: SCP-892 is an Amstrad 286 Personal Computer with accompanying mouse and keyboard, running a version of Microsoft Excel 92. Attempts to export and import save files result in corruption of said files. Attempts to install and uninstall software are likewise met with failure.
+
+Upon its discovery, SCP-892 was found containing a single .xls save file titled "ESO%HF-V6.31.01", hereby designated SCP-892-1. This save file is impossible to delete, copy, rename, export, modify, or overwrite in any shape or form. Although creating additional .xls files is possible, none have thus far shown similar anomalous properties. Contained within each cell of SCP-892-1 is a string of information written in plain-text English. Each cell, as well as the contained string, is believed to correspond to a currently living individual. This string can contain information as mundane as what that individual ate for breakfast, their occupation, or their shoe size, to information as personal as their first sexual encounter, a thought they had that morning, or their greatest phobia. These cells refresh daily, displaying a different string of information each time. Should a recorded individual die, the corresponding cell will, upon the next refresh, display their name, and time and cause of death.
+
+At the time of discovery, SCP-892-1 was found to contain approximately 84,500 by 84,500 cells, slightly over 7 billion. Despite the belief that each cell corresponds to a single person, this amount was greater than Earth's estimated population at the time. Additional rows and columns have appeared regularly since then, the rate of growth slightly greater than that of Earth's population.
+
+Cell A/1 suggests that SCP-892 itself is not the source of SCP-892-1's information, but rather is connected to a server, designated SCP-892-2. How SCP-892 connects to SCP-892-2 is currently unknown. Cell A/2 suggests that upon entering a password, the higher functions of SCP-892-1 may be accessed. Cells refresh daily at 12:00 a.m. Pacific time.
+
+Cells of Interest:
+
+The following is by no means an exhaustive list.
+
+For a complete list of cells examined so far, please consult attached document L892-A.
+
+A/1: Consistently displays: "Status/Secure|ServerData/32%|Ping/12ppmUpdated|DONOTSAVETOSERVER|O.S"
+
+A/2: Consistently displays: "passwordrequiredforfullaccess"
+
+G/231: [REDACTED BY O5 ORDER]
+
+Z/26: Updates suggest individual plans to assassinate Dr. ████. Researcher has been placed in protective custody.
+
+AH/423: Solid black.
+
+BW/10,841: Suspected to be █████ ████, a known member of the Chaos Insurgency.
+
+EF/15: [REDACTED]
+
+EF/16: [REDACTED]
+
+AER/50,502: Updates display subsequent lines from Chuck McKenzie's Predatory Instincts.
+
+CDE/55: Consistently blank.
+
+DYZ/1: Suspected to be Mark Begich, Alaskan U.S. Senator.
+
+EPS/50,028: Consistently displays data pertaining to abortion.
+
+EZA/75,081: Individual believed to be schizophrenic.
+
+FLD/3,205: [DATA EXPUNGED]
+
+FZT/60,670: Suspected to be an uncontained SCP.
+
+GAR/9,462: Consistently displays "fullaccessrequired".
+
+HAR/9,461: Consistently displays "fullaccessrequired".
+
+HKR/682: Symbols displayed do not correlate to any known on earth; suspected [REDACTED].
+
+IOI/4,959: Updates display the names of different Greek Mythological heroes.
+
+MOS/1,325: Consistently displays "404: Individual not found".
+
+MOS/1,326: Consistently displays "909: Individual out of range".
+
+PYK/8,888: Suspected to be serial killer [DATA EXPUNGED], whose death sentence was carried out in 19██.
+
+OXO/24: Suspected to ███ ██████, however, updates suggest individual is a pedophile.
+
+QUU/78,002: Suspected to be SCP-███
+
+RKL/72,727: Suspected to be the Canadian Prime Minister.
+
+RZJ/202: Updates display thinly veiled threats toward the Foundation and Foundation personnel.
+
+TTC/50: Suspected corrupt cell; updates demonstrate self-awareness, yet are often nonsensical or contradictory.
+
+ZIE/66,667: [REDACTED]
+
+AABT/38,545: Confirmed as Dr. ████████. Researcher has been detained and used for testing with SCP-892.
+
+ABWS/80,323: Updates display subsequent digits of pi to the 105th place before resetting.
+
+ABXA/20,468: Consistently displays "death" string. Name, time, and cause different each time.

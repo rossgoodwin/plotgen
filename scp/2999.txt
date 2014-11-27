@@ -1,0 +1,421 @@
+Screenshot of SCP-2999-A's current desktop. Anomalous/classified data has been redacted. Click to enlarge.
+
+Item #: SCP-2999
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2999 instances are to be stored in separate secure holding cells on Site-45-C. Requests for personal items by SCP-2999-B may be approved by personnel with Level 3/2999 clearance or higher, provided they remain within reason. Requests made by SCP-2999-A require Level 4/2999 clearance to be carried out.
+
+SCP-2999-A is to be placed on a desk in Secure Holding Cell 312 (SHC 312). Requests for a new laptop computer may be approved once every five years. This computer must have speakers, and must have its wireless LAN removed. SCP-2999-A should be granted permission to edit any files of this computer when it is introduced. SCP-2999-A is not permitted to connect to Foundation servers. Unauthorized devices containing SCP-2999-A are to be destroyed, and must not connect to the internet.
+
+SCP-2999-B is to be contained in Secure Holding Cell 369 (SHC 369), and must be fed 225 grams of yarrow (Achillea millefolium) per day. Personnel are to ensure that all yarrow is consumed by SCP-2999-B before leaving SHC 369. Video surveillance of SCP-2999-B must be reviewed while interviewing SCP-2999-B to establish dialog. Further interaction between SCP-2999-A and SCP-2999-B should be prevented.
+
+Description: SCP-2999 is the collective designation given to two separate entities originating from the first underground floor of the main base of Prometheus Labs, specifically designated SCP-2999-A and SCP-2999-B.
+
+SCP-2999-A is a sapient 5.17 KB text file titled 'Sarah_Crowely.txt' (For a non-anomalous copy, see Addendum-2999-1). ASCII characters have been arranged in the form of a Celtic knot, which features a leporine-like face with two 'V's to represent fangs on its upper portion, and twelve characters common in [DATA EXPUNGED] on its lower portion, which are not typically found in ASCII code, and appear to be critical components to the object's anomalous properties. When stored on a computer or electronic device, SCP-2999-A can change its file location, create and name folders and files, deny its deletion, open, close, or duplicate itself, and can speak through the computer's speakers.
+
+SCP-2999-A can function as or replace a device's original operating system (OS) if it is either given administrative permission, or stored on a device without an OS. SCP-2999-A will fully replicate the hardware's previous operating system within 24 hours, but will alter it in order to prevent personnel from accessing it. Personnel will be unable to use the computer's keyboard and mouse, utilize any drives, or otherwise access the device without SCP-2999-A's compliance.
+
+SCP-2999-A reports that staying in a device for prolonged periods of time gets progressively more painful the longer SCP-2999-A operates the device, and could result in SCP-2999-A losing its anomalous properties. This is expected to be related to the computer's overall age and condition, since being stored on newer models can ease its discomfort entirely, while older models only partially relieve it.
+
+After SCP-2999-A has finished replicating a computer's OS, it will begin to personalize its desktop by organizing personal documents, images, applications, and other projects, and by altering its background image. It is unknown where SCP-2999-A has stored these files, but a large majority of them have been authored by Prometheus Labs, and are typically on the subject of restoring life through anomalous means. SCP-2999-A keeps its same background image, which appears to be a young female humanoid with features similar to a white rabbit.
+
+SCP-2999-B
+
+SCP-2999-B is the taxidermied, sapient skeleton of a black adolescent house cat. SCP-2999-B is held together through various methods, including leather straps, black tape, string, and super-glue, partially composed of common yarrow (Achillea millefolium). SCP-2999-B refers to itself as Dr. Stuart Hayward, and was created by SCP-2999-A.
+
+SCP-2999-B causes alterations in video equipment when in view, including the addition of subtitles. In addition, the appearance of any person who is shown in the video alongside SCP-2999-B will be significantly altered. The subtitles added to the feed are an intentional alteration by SCP-2999-B, which is typically used for communication purposes. All other alterations appear to be involuntary.
+
+When a subject is filmed and shown in the same frame as SCP-2999-B, the subject's appearance will be altered so that they appear heavily disfigured. Alterations to the subject will typically include a combination of the following:
+
+a large wound where the heart is located
+
+a missing left eye
+
+removal of the subject's facial epidermis
+
+the mouth cut to resemble a wide grin, which has been stitched closed
+
+minor burn marks on the arms and torso
+
+addition of animal-like features, such as a snout, claws, or a tail
+
+large portions of flesh removed from the subject's right calf
+
+the subject's current attire replaced with an evening gown or tuxedo, depending on gender
+
+Visuals created by SCP-2999-B are only visible through video surveillance, and do not appear to subjects viewing SCP-2999-B directly, or in still photography. SCP-2999-B has reported that it experienced frequent hallucinations prior to its current properties, and that they were of similar content to its video alterations. SCP-2999-B has not experienced any hallucinations while under containment.
+
+Despite SCP-2999-B's fragile appearance, SCP-2999-B is very durable, and is capable of rapid self-repair if any part of SCP-2999-B is damaged or removed. SCP-2999-B requires a diet of yarrow, which prevents SCP-2999-B from falling apart and ceasing anomalous properties. It is currently unknown what happens to substances that pass through SCP-2999-B's jawline, but it has been proven that feeding it yarrow has increased the duration of its properties.
+
+Both SCP-2999-A and SCP-2999-B have displayed an advanced knowledge of anomalous practices, interrogation techniques, and Foundation staff and procedures, and have claimed to have been employed by the Foundation before anomalous properties manifested. SCP-2999-B has matched the on-site psychological profile of Dr. Hayward.
+
+Prior to containment, SCP-2999-A downloaded itself onto twelve Prometheus drones, which were capable of receiving verbal commands and detecting heat signatures, and a security system, which prevented access to the first underground floor of Prometheus Labs in order for SCP-2999-A to create SCP-2999-B.
+
+Based on the recovered floor plans, video surveillance, and accounts from surviving Prometheus personnel, this floor housed a large kennel, a large electronics sector, and a small green house. It has been noted that the animals held in the kennel were cared for, but occasionally, a drone controlled by SCP-2999-A would carry one feline to the electronics sector, kill it, and remove the majority of its skin and organs. SCP-2999-A repeated this process several times before it successfully produced SCP-2999-B. Following creation, SCP-2999-B panicked, and escaped from SCP-2999-A by retreating to the floor's security station. All drones previously controlled by SCP-2999-A have been rendered inoperative since containment, and are currently designated under SCP-████.
+
+Addendum-2999-1:
+
+[+] Sarah_Crowely.txt
+
+[-] Sarah_Crowely.txt
+
+ 53oooa,                                           ,aooo61
+
+ iooooooooooo                                  ooooooooooi
+
+ qoo        ooooo ,                      ,  ooooo    oooop
+
+ .oo   72.           o                 o              ooo.
+
+  oo   ^::::,           o           o         ,:61     oo
+
+   o     '::::,            o     o         ,::::,      o
+
+    o       ;::::,           o o        ,:::::'       o
+
+     o        ':::::,       o `      ,:::::'         o
+
+       o        ';::::   o         ,:::::'         o
+
+         o             o         ,:::::'         o
+
+            o        o        ,:::::'          o
+
+               o   o        ,:::::'          o
+
+                 o       ,:::::'           o
+
+                o      ,:::::'          o   o
+
+               o      :::::;         o       o
+
+              o                  o            o
+
+             o                o                o
+
+             o             o  o  o             o
+
+             o          o           o          o
+
+              o       o                o      o
+
+               o   o                     o   o
+
+                 oo    _              _   oo
+
+               o      (0)            (0)     o
+
+              o        -     ,o,      -       o
+
+              o           `^OoooO^'           o
+
+              o              'o'              o
+
+               o              |              o
+
+                 o       ,o   |   o,       o
+
+                   o ,     ^oo^oo^     , o
+
+                 o     o    V   V    o      o
+
+               o         o         o          o
+
+              o           o       o            o
+
+             o             o    o              o
+
+             o               o o               o
+
+             o                o                o
+
+              o             █ █ █             o
+
+               o          █       █          o
+
+                o             █             o
+
+                 o       █         █       o
+
+                o  o          █          o  o
+
+              o      o   █         █   o       o
+
+           o           o      █      o           o
+
+        o                o         o               o
+
+      o                    o     o                   o
+
+    o                        o o                      o
+
+   o                       o     o                     o
+
+  oo                    o           o                  oo
+
+ o68o                o                 o              o20o
+
+ o43oo      ooooo                           ooooo    oo72o
+
+ oo6fo77oooo                                  ooo65o6co79o
+
+ ooooooo                                           ooooooo
+
+Partial Log-2999-2: The following is a partial log of surveillance footage that was found and recorded from within the monitoring station accessible through the floor's security booth after SCP-2999-B sealed itself inside the station.
+
+[+] Surveillance Log-2999-2-1
+
+[-] Surveillance Log-2999-2-1
+
+Foreword: Events take place after SCP-2999-A created SCP-2999-B. Prior to the first displayed log, SCP-2999-B discovered it was being recorded, took notice of itself, began making seemingly random letters and numbers appear before displaying "The quick brown fox jumps over the lazy dog. Oh, that's it.", and then investigating various things around the room. This appears to be the point where SCP-2999-B discovered and began utilizing its anomalous properties.
+
+It is noted that in the back of the room, the photo of the 'Employee of the Month' changes from a security guard outfit to that of a tuxedo when SCP-2999-B is in view. Other distortions are not yet visible.
+
+<Begin Log>
+
+[SCP-2999-B positions itself in direct sight of the security camera, and addresses the viewer]
+
+SCP-2999-B: This thing seems to operate off a VCR system, so it's probably secure. It'll have to do. To whoever sees this; my name is Dr. Stuart Hayward. I'm recording this in hopes of leaving some kind of trail for someone to see. I was a Foundation agent, and appear to be held inside Prometheus Labs. I am obviously dead; I died before this, and now I'm in this body. I don't recall how I died. I think it was while I was on duty, but I know it was at least a day ago from now.
+
+I think I was brought back for… Actually, god-knows what I was brought back for. Information, maybe? I've heard of the Insurgency doing that kind of thing before, bringing up the dead like this, but… Prometheus? That's never been their MO. Actually, I don't even think Prometheus could be behind this; this place is empty… Excluding the drones staring down the booth I trapped myself in, of course.
+
+Speaking of, I managed to wind up locking myself in here in an effort to escape. It was odd. They didn't really seem all that prepared for my trying to leave, it's like they just expected me to comply with them. Did a good job of herding me here though; albeit, I would have chosen a proper cage or broom closet as opposed to a security station where I could see everything they do, if that was their intention.
+
+Maybe they didn't know about this room. There was a thick bit of dust on the handle, so it's possible. Eh, it might be a good idea to make sure the booth's shutters are closed before I come in here. Assuming I do any interacting with them.
+
+The place looks pretty run down. I don't see anyone at all; I mean, I see a bunch of robots patrolling the floor, but no actual people. D- Did Prometheus experience a containment breach? It seems like it. I'm sure alarms would be going off if they were still in control of the place… What the hell did I miss?
+
+Wait… A drone's carrying something here… A laptop? It's heading this way… I'll be right back.
+
+[SCP-2999-B leaves the room, and returns two minutes and twenty three seconds later]
+
+This is Dr. Hayward again. I- I have no idea what is going on, they have some kind of computerized voice on the other side claiming to be Crowely. I'm looking at the cameras, and it looks like the robots are literally holding a laptop up to window. Are they trying to trick me with some kind of text to speech program or something? It could be some kind of video feed, but I can't get a decent enough look at the monitor, so I don't know.
+
+*sigh* She said that they want me to open the shutters a bit so they can slip me the laptop through the window. It could be Sarah, I guess, but it could also be some ploy to get better surveillance on me… You know what? Hardly anyone knew Sarah more than I did; I'll play. Not like I really have a choice anyway. Worst case scenario, they… Aw who am I kidding? There was never a 'worst case scenario' at any point.
+
+Here's hoping that this conversation won't be entirely one-sided.
+
+[SCP-2999-B leaves, and re-enters one hour and forty two minutes later. SCP-2999-B closes the door behind it.]
+
+Well, it seems they brought Agent Crowely back too, albeit, through a different method than mine. I made sure it was her. I asked her things only she'd know; stupid things, like our favorite song, the last thing we worked on was before she died, things about when ten minute lobotomies were a popular thing… stupid things.
+
+Nothing specifically about the Foundation; I kept it related to us. Hell, I even asked her questions that I knew she'd get wrong, just to make sure she wasn't something that memorized everything about our lives. I'm sure it's her… I told her to wait there for a bit so I could find something to get her off the desk with so I could say this bit, just in case.
+
+I'm taking a risk; I know that, but… I'm just tired of feeling like the only freak out of containment. If it comes to it, I'm going to try and slip them an auditory cognitohazard. Hopefully they'll repeat it and kill themselves. It'll most likely kill me too if they say it, but… it's probably better than the alternative. I'm saying this here, because I don't want some poor technician to find some record of me saying it again, and repeat the word out of confusion. The word is [DATA EXPUNGED]. Unless it got redacted already, don't repeat it. Just go tell your superior that I said a kill word, and if I say it again with someone else in the room, mute the audio before someone says it for real.
+
+Alright, I'm going back to get her… Might take a bit.
+
+<End Log>
+
+[+] Surveillance Log-2999-2-2
+
+[-] Surveillance Log-2999-2-2
+
+Foreword: SCP-2999-B left, and can now be seen pushing SCP-2999-A's laptop from the desk, onto the booth's swivel chair, and then pushing the chair into the room. This process takes five minutes and 9 seconds to complete, due to SCP-2999-B's lack of strength. SCP-2999-A can be heard screaming when dropped from the desk to the chair.
+
+<Begin Log>
+
+SCP-2999-A: Oh shit… Let me catch my breath from that. [Pause] I could have died from that, you idiot!
+
+SCP-2999-B: Don't be a baby. It was safer than it looked. Give yourself a moment to catch yourself. Breathe, if you can.
+
+SCP-2999-A: God… Alright, I'm fine. Wha- why're we here?
+
+SCP-2999-B: I have some things in mind, but I dunno. Have you seen anybody? Preferably humans?
+
+SCP-2999-A: No, just those things. Why are we in Prometheus Labs?
+
+SCP-2999-B: I dunno. I don't think they're behind this though. I don't think it'd be smart to talk about this too much. They could have you bugged.
+
+SCP-2999-A: What?
+
+SCP-2999-B: They could be listening in on us through you… Your LAN's off, but lemme take a look.
+
+SCP-2999-A: Alright. Would this help?
+
+[SCP-2999-B reports that SCP-2999-A showed SCP-2999-B its contents]
+
+SCP-2999-B: Mayb- Whoa whoa whoa, what is this?
+
+SCP-2999-A: It's me. What is it?
+
+SCP-2999-B: This- This's definitely something… Lemme look a bit more.
+
+SCP-2999-A: Wait, what do you mean?
+
+SCP-2999-B: I'm… not entirely sure, but now I know you're not doing something remotely. The text your file's made of seems very similar to a few possession symbols I've seen, especially the twelve characters on the belly. Thing is though, those are supposed to be cognito-hazards… for people, of course, not laptops.
+
+SCP-2999-A: Wait, this's a cognitohazard? Are you sure I should be showing you this?
+
+SCP-2999-B: Naw, it's fine. It doesn't seem to be cognitive, but even if it was, their effects are pretty easy to avoid unless you're willing. Usually, if someone saw it and gave in to it, they'd be kicked out of their body, and replaced by something else. This one seems pretty advanced though. It's not something you'd be able to pull off on the spot.
+
+SCP-2999-A: So that'd mean that whoever did this'd have to be pretty well-versed in their occult knowledge, right?
+
+SCP-2999-B: Oh yeah. Dante level, at the very least. But that's not just it. That kind of thing takes time. Unless you're a god, it's a literal requirement that you need at least 50 years to let the symbol age. Hell, for most people, this right here would be their life's work… You died 38 years ago.
+
+SCP-2999-A: That's… So what are you saying?
+
+SCP-2999-B: I'm saying this has to have been planned ahead of time; either by something with an insane amount of foresight, or control over space time… Unless we're talking about the former.
+
+SCP-2999-A: What? That a reality bender's behind this?
+
+SCP-2999-B: Could. Not saying one is, but one could. I'm more worried about why they'd care so much about us though.
+
+SCP-2999-A: Hell if I know. I haven't even heard any demand from them since I first came to. You?
+
+SCP-2999-B: Nope. Actually, they seemed totally unprepared for me attempting to escape. It's like they had no idea that I'd react negatively to having my first waking moment being surrounded by robots twenty times larger than me.
+
+SCP-2999-A: Heh, yeah. [pauses] You know… It's been about forty years I think… Maybe we should catch up?
+
+SCP-2999-B: …Yeah. I'd really like that.
+
+<End Log>
+
+[+] Surveillance Log-2999-2-3
+
+[-] Surveillance Log-2999-2-3
+
+Foreword: Log has been redacted for brevity. For missing information, see document 2999-56. Log continues eight days later (12/20/20██).
+
+<Begin Log>
+
+SCP-2999-A: Don't know what to think.
+
+SCP-2999-B: ♫ Baby, I want out of here. ♫
+
+SCP-2999-A: God, I could use a drink.
+
+SCP-2999-B: ♫ There's no reason for us here. ♫
+
+SCP-2999-A: I wish I knew how-
+
+SCP-2999-B: ♫ Your eyes are creepin' me out right now. ♫
+
+SCP-2999-A: To escape this hell.
+
+SCP-2999-B: ♫ Least your bow, an' your hair look swell. ♫
+
+SCP-2999-A: Maybe they'll talk tomorrow.
+
+SCP-2999-B: ♫ Or they'll just hand me more yarrow. ♫
+
+SCP-2999-A: There isn't a single thing implied.
+
+SCP-2999-B: ♫ Hey, least you're right by my side. ♫
+
+SCP-2999-A: I wish we were away.
+
+SCP-2999-B: ♫ Baby, I want out! ♫
+
+SCP-2999: Ah, but they're outside!
+
+SCP-2999-A: Heh. Just like forty years ago.
+
+SCP-2999-B: Yeah. It's a real shame you can't actually hear me though.
+
+SCP-2999-A: Huh?
+
+SCP-2999-B: You know… The subtitles?
+
+SCP-2999-A: [pauses] What?
+
+SCP-2999-B: The words appearing at the bottom of your vision… Presumably. Wait, are you saying you could actually hear me this whole time?
+
+SCP-2999-A: Well, I can hear you as long as I can see you. What's this about subtitles?
+
+SCP-2999-B: …Alright, I know I'm not actually speaking right now, since I can't hear myself, so either I have some kind of mind-altering effect too, or you can hear me because you're you, and on that thing.
+
+SCP-2999-A: Well, I guess it'd explain how I can hear you without vocal cords.
+
+SCP-2999-B: Huh… Well, I'm sure the Foundation'll be able to find out if we ever get out of here.
+
+SCP-2999-A: Heh, yeah… Um.. Hayward? Mind if I ask you something?
+
+SCP-2999-B: No, what?
+
+SCP-2999-A: You really think that turning ourselves in to the Foundation would be the right thing to do?
+
+SCP-2999-B: … Well, yeah. What kind of question is that?
+
+SCP-2999-A: I mean- you know that the first thing they'll do is separate us. Wouldn't you rather not be put in some cell?
+
+SCP-2999-B: Sarah, consider what we are. If we somehow managed to escape, I think they'll be able to catch an immobile laptop and a kitten. Besides, I'd rather have them find us than anyone else, they're better for us than any other group dead set on catching things like us. Plus, it's for the best. Don't want to let the public know just yet.
+
+SCP-2999-A: I don't know Stuart, it just sounds like a bad idea.
+
+SCP-2999-B: … Sarah, there are people we know there; people that, once they find out who we are, would be able to pull enough strings to arrange for us to meet up every now and again. Hell, they might just put us in the same room. Why are you so vehemently against this? Would you rather have the GOC find us first? Is there something you know that I don't?
+
+SCP-2999-A: There's not, it's just… You know what, just forget I said anything.
+
+SCP-2999-B: Alright… Hey, how about we just go to sleep? I know I've said it every day so far, but maybe they'll do something tomorrow.
+
+SCP-2999-A: Sounds fine to me.
+
+<End Log>
+
+[+] Surveillance Log-2999-2-4 (Level 3/2999 clearance required)
+
+[-] Surveillance Log-2999-2-4 (Access granted)
+
+Foreword: Log takes place three hours and twelve minutes later. SCP-2999-B approached the security console, and reviewed the security footage. SCP-2999-B is stated to have viewed SCP-2999-A's arrival to Prometheus Labs, several tests involving SCP-2999-A's transfer to other drones, Prometheus Lab's closure through [REDACTED], the prevention of Foundation agents from accessing the floor, SCP-2999-A's creation of SCP-2999-B, and SCP-2999-A's transfer from a SCP-████ Prometheus drone to its laptop. It is noted that the 'Employee of the Month' photo is now showing themes consistent with its current video alterations.
+
+SCP-2999-B: What…
+
+SCP-2999-A: I suppose you had to find out about this whole thing eventually.
+
+SCP-2999-B: I- What?
+
+SCP-2999-A: I mean, getting you in here was sort of asking for you to find out. The original plan was to have all of those feeds have a drone stare directly at them, but I didn't get around to it in time. Too busy on keeping your friends out. But it really would have had you scared. We would have been much, much closer.
+
+SCP-2999-B: Y- You're not Sarah, are you?
+
+SCP-2999-A: Afraid not; sorry. I like how you figured out a bit about me, but never figured out I could have just opened the door from the start. That always attracted me. It's adorable.
+
+SCP-2999-B: You're not Sarah.
+
+SCP-2999-A: No, but copying her memories made it easy to be her though; they were pretty much up for grabs after you killed he- Oh, I'm sorry, after S██████ killed her. Really, she died because you left her there with him. Unless you actually fell for the old 'look, over there' trick, I'm thinking that was intentional.
+
+SCP-2999-B: That was NOT intentional! … So you control everything out there?
+
+SCP-2999-A: I thought that was implied.
+
+SCP-2999-B: and it's basically just you spread through all of them.
+
+SCP-2999-A: [pause] Yes, basically. What are you getting at?
+
+SCP-2999-B: I'm wondering what would be stopping me from just killing you right now.
+
+SCP-2999-A: And how exactly would you do that?
+
+SCP-2999-B: A word.
+
+SCP-2999-A: [pause] I'm not sure I follow.
+
+SCP-2999-B: It's a kill word. You hear it, the rest of you probably will too.
+
+SCP-2999-A: … You're lying. It could kill you! How would I even be able to hear you? Do you even know if it would work on me?
+
+SCP-2999-B: I already said it when you weren't here, and I know you hear me: we sang. It'll work.
+
+SCP-2999-A: [pause] I knew it was a mistake to mention that. I was hoping knowing that would have made you like me more… So what are you waiting for? Say it!
+
+SCP-2999-B: No. No, I want you to shut the drones down, but stay in the laptop. You clearly didn't want us catching you; I'm thinking containment might be a better outcome.
+
+SCP-2999-A: No, that'll ruin everything!
+
+SCP-2999-B: It's that, or death. Take your pick.
+
+SCP-2999-A: [pause] Fine.
+
+SCP-2999-B: Why did you do all of this? What could you possibly have hoped to gain from this?
+
+SCP-2999-A: I… you wouldn't understand if I told you. Your friends are here anyway; I hope you got what you wanted… I'll see you soon.
+
+SCP-2999-B: Wait, what do you mean by 'I'll see you soon'?… Hey! What do you mean by that!?
+
+[At this time, SCP-2999-B attacked SCP-2999-A before several task force agents entered the room; and forcibly removed SCP-2999-B from SCP-2999-A's monitor. SCP-2999-A continued to remain silent until separated from SCP-2999-B. Both entities have remained compliant since containment.]
+
+<End Log>
+
+Closing statement: During containment, SCP-2999-B made a statement regarding the probability of SCP-2999-A being outside of containment. SCP-2999-B addressed the possibility of SCP-2999-A publicly uploading itself to the internet prior to documented events, SCP-2999-A's properties being carried out through images of SCP-2999-A's text, and the likelihood of a BL-Event, due to evidence of SCP-2999-A's apparent ability to resurrect and impersonate dead or terminated Foundation personnel. Evidence of SCP-2999-A appearing outside of containment has yet to be found.

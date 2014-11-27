@@ -1,0 +1,113 @@
+Item #: SCP-282
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-282 should be kept in a containment locker outfitted with a standard array of explosive, chemical, biological, and memetic high-level defenses. Personnel entering SCP-282's containment must be verified with a retinal scanner, and no experimentation sessions lasting longer than 3 hours are permitted.
+
+Description: SCP-282 is a children’s toy recovered from the Truk Atoll in Micronesia. SCP-282 is in the shape of a set of devil or juggling sticks, apparently made from locally available materials. Historical/cultural sources show that SCP-282 was originally used by natives of its island of origin as part of an elaborate annual ritual (known as █████ ██████, literally translated as “He Moves”) to bring good luck for the following year. Numerous anomalies on the island alerted the Foundation to SCP-282’s presence, including exceptionally long harvest seasons, several unknown species of fruit growing locally, and reports by missionaries of strange lights and noises, and packs of children who appeared identical. Full research on SCP-282’s properties is pending.
+
+Addendum 282-A
+
+Cleanup operations in the Truk Atoll have recovered large amounts of information, including a nearly-complete set of use instructions for SCP-282. Operations in the atoll will be reduced, and despite apprehension from teams assisting in recovery of SCP-282, full testing as to whether anomalous properties can be recreated will continue.
+
+Addendum 282-B
+
+Personnel of Level 4 or above may view Incident Report 282-CB. As of ██/██/████, any attempts to recreate the effects of SCP-282 are punishable by termination. All remaining information is to be classified.
+
+[DATA EXPUNGED]
+
+Addendum 282-C
+
+Materials seized from a residence on the Truk Atoll resemble an incomplete replica of SCP-282. As the replica (seemingly in the process of creation) demonstrates no anomalous properties, it has been added to SCP-282's containment until such a time as we can ascertain its nature. Foundation-operated coercion revealed little information as to how or why it was created, but did indicate that more civilians in the area of recovery may know how or be interested in creating similar replicas. Whether the recovered replica is identical to SCP-282 is unknown.
+
+Incident Report 282-CB
+
+Personal Log of Dr. J██████ Garrison, ██/██/████
+
+Attempts to recreate the ritual described in Documents 282-14 through 17 are slow going, mostly due to the exhausting requirements of using SCP-282. First of all, it took us half a week to find anyone at the site who can actually use juggling sticks.
+
+[For reference: Researcher M███ Munoz, a medical technology analyst, was ultimately chosen as the subject.]
+
+Second, SCP-282 are apparently very difficult to use, compared to ordinary juggling sticks, so he had to spend a few weeks working on that.
+
+Third, and most persistent and annoyingly, the instructions we have call for the subject to juggle with SCP-282 constantly, for 36 hours, with a low rate of error and no dropping the stick. And that's the reason it's taken us 2 months so far. They can talk about dedication, and project funding and results, but the stamina required is damn near superhuman. It's been suggested that we apply an intravenous drip of caffeine and electrolytes to maintain alertness, and I'm willing to try that.
+
+Hour 0
+
+Subject stands in a 10 m x 10 m blast chamber that has been prepared according to recovered instructions. Among other preparations, subject stands in the center of a 1.5 m diameter circle marked with native flowers, with a goat’s head at the anterior point. Surrounding this circle is a 3 m circle marked with a mixture of goat and chicken entrails mashed by hand with wooden implements. Outside of this is a final 3.5 m circle marked with chicken feathers, chicken and goat footprints in ash, and a poultice of several herbs and human blood. One chicken skeleton and one goat skeleton have been laid around the room, outside the perimeter of the final circle. The subject, medical technician M███ Munoz, with attached intravenous drip, stands in the center, with SCP-282. Subject begins to use SCP-282.
+
+Hour 1
+
+Subject continues with no major errors in play, or reports of anomalies. Vital signs are all normal.
+
+6 hours already. He hasn't dropped it yet. I'm very hopeful that this time will be it. I watch through the plate glass, get nervous every time he fumbles. Every time. It's gotten a little ridiculous. I'm worried it might be an effect of the SCP, so I told the standing guard, but I think it's more stress than a mental pull. Going to call a secondary observer in, and sleep on the cot in here.
+
+Woke up, he's still going.
+
+Note: Instruments in testing chamber showed that subject’s heart rate had increased slightly by this point in time.
+
+Hour 18
+
+Subject notes sounds of laughter from inside the testing chamber; outside observer notes nothing abnormal.
+
+Hour 23
+
+Subject becomes increasingly paranoid, claiming that the experiment won’t work and asking if he can stop. Encouraged to continue juggling, and at no point does the subject drop the stick. Hypothesized to be a stress reaction.
+
+Hour 26
+
+Subject claims to feel a breeze in the chamber. Signs of strong winds are apparent when animal skeletons outside the circles are moved as if being blown; however, none of the flowers in the first circle are disturbed, nor is subject’s play impaired.
+
+Hour 27
+
+All lights in chamber abruptly dim. In addition, the outer circle appears to completely and suddenly disappear from view. Signs of wind, despite the enclosed and subterranean nature of the blast chamber, have increased. Subject is encouraged to continue juggling.
+
+Note: Later records show no electrical issues with chamber lights. Hypothesized to be an effect of the SCP.
+
+Hour 30
+
+Subject reports feeling cold, sensors affirm that the temperature inside the chamber has dropped 20 degrees. Continues juggling.
+
+I nearly can't believe he's kept it moving this long. Obviously, the error frequency was expected to go up as the time goes longer, but he hasn't dropped it once, and the error rate seems to have decreased, like it's getting ingrained. Here comes the final stretch. Looks tired, I don't blame him.
+
+Hour 32
+
+Second circle moves as if being blown inwards, then disappears entirely. Subject makes no note of this.
+
+After ten minutes, animal skeletons around the perimeter of the chamber stand up, despite lack of muscle or connective tissue. Subject becomes unresponsive, muttering quietly.
+
+Hour 33
+
+Final circle disappears, and lights dim again, until area inside chamber is completely dark. Observers note a voice exclaiming, “he moves”, before sounds of juggling cease, and a clattering noise is heard. Class 2 Lockdown is ordered.
+
+Note: Further analysis through infrared camera reveals that at hour 33:14, the subject's knees buckle, and after muttering loudly before footage is interrupted by several bright flashes, apparently only visible to infrared sensors. During this time, subject disappears entirely, and SCP-282 falls to the ground.
+
+Hour 34
+
+Sounds of juggling resume from inside the chamber.
+
+Note: Infrared cameras show that a figure not corresponding to M███ Munoz appeared in the testing chamber, recovered SCP-282 from the floor, and continued juggling while laughing quietly.
+
+Hour 35
+
+Several more infrared flashes occur, some of which now translate into flashes in the visible spectrum. Containment chamber is very dark. At 35:28 hours, side of containment chamber is ruptured by a sudden heat measuring over ████ degrees Celsius.
+
+Camera footage shows the unknown force proceeding to destroy obstacles in its path via obliteration moving up an emergency stairwell (damaging stairwell, but without compromising it structurally). At ground level it proceeds to carve a route through the facility until the perimeter of Site-██ is reached, at which point it is no longer seen. All of the above take place within 4.7 seconds. Nearby personnel report seeing only a bright hot light.
+
+Note: Camera footage shows that upon compromising the perimeter of the facility, the force paused for several milliseconds, then disappeared, as opposed to exiting the facility. Infrared footage from the testing chamber shows that it is completely empty at this time.
+
+Within several seconds, light in testing chamber returns to normal. Subject has returned to testing chamber, collapsed on the floor, with SCP-282 nearby as if dropped. In addition, a fine layer of ash covers the testing room floor. Paramedic teams rush in.
+
+Subject is currently undergoing treatment for post-traumatic stress disorder, and is expected to resume normal operations shortly.
+
+After-Action Report
+
+From Interview with Subject M███ Munoz
+
+I'm… I'm juggling, right? Like I've been doing for the last, hell, whole day. Then, everything picks up like I'm standing in a [REDACTED] hurricane, and I feel this… thing…. Don't even know what it is, but it was there and I could… Christ. Everything went black, and I knew that I had moved, that I was somewhere else, because I knew there wasn't a floor or ceiling or those goddamn sticks where I was. Just… Nothing, really, and the darkness.
+
+And then it was there. Goddammit. I knew it, that there was something else there, even though I couldn't see or hear or feel it because there was nothing to see or hear or feel. It was just waiting there, keeping me there, waiting for me to do something… I curled up in this little ball, tried to make it not notice me, but it was there breathing down my neck the whole time. In the end, I just told it I wanted to leave. That was it.
+
+Additional data:
+
+Over ██████ in property damage was caused by Incident-282-CB, and containment of 3 separate SCPs were compromised. Because of this, current sanctions on experimentation with SCP-282 were put in place.

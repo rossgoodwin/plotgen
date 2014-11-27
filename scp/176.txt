@@ -1,0 +1,51 @@
+SCP-176
+
+Item #: SCP-176
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-176 is contained on-site under the cover of industrial chemical contamination. Any civilians attempting to enter SCP-176 must be detained.
+
+Multiple high-speed cameras are set up within the observation room and linked to continuously running analysis computers. If any deviation is observed in the recorded sequence, all recorded data must be immediately backed up and senior staff notified.
+
+Description: SCP-176 is an abandoned chemical factory situated near [DATA EXPUNGED]. The building consists of a factory floor and an observation room on the second floor, separated from the main room by one-way mirrors. There are three entrances to the building:
+
+A three-bay loading dock, whose doors have been welded shut.
+
+A ground-floor employee entrance.
+
+A second-floor observation room entrance, accessible via a metal staircase on the north end of the building.
+
+When the main building is entered via the loading dock or employee entrance, no anomalies are observed, merely an empty room in severe disuse and disrepair with a small amount of metallic debris consistent with a stripped down, abandoned factory. The inside staircase leading up to the observation room is missing and inaccessible, and so far every attempt to enter the observation room via the inside of the factory through the access door or windows has failed.
+
+When the observation room is entered via the second-floor outside door, a factory observation room consistent in disuse and disrepair to the rest of the building is found. However, when the factory floor is viewed through the observation room windows, the anomalous property of SCP-176 is visible.
+
+The view from the observation room window shows a static, repeating scene that lasts approximately 11.3 seconds before repeating. Visible through the window is a room of the same dimensions and layout as the factory floor, but painted white and sterilized. Set up in the middle of the room is a huge electronic device of indeterminate function covering at least 50 square meters and extending approximately 2 meters in height at its highest point. Five individuals in white clean suits appear to be working on the device.
+
+Approximately 5.9 seconds into the scene, the employee entrance door bursts open and four individuals wearing black tactical armor with no identifying marks or emblems enter the room and open fire on the research personnel. At 11.3 seconds, the device in the center of the room emits an intense flash of light and radiation, and the scene resets. Analysis of thousands of instances of the scene has shown no variation in the sequence.
+
+So far, all attempts at interacting with the scene have failed; any attempts to breach the window or door from within the observation room are met with resistance inconsistent with the suggested strength of the materials comprising their frames. To date, all attempts that have resulted in successful penetration of the door or window have resulted in the damage being instantly reverted along with the sequence during the burst of light. Any tools or limbs extended outside of the observation room are cleanly severed, and have never been found.
+
+Research is ongoing into the nature of the device at the center of SCP-176, as well as the identities of the individuals involved.
+
+Addendum 176-1: Further Analysis of Individuals in SCP-176
+
+Analysis has yielded the following information regarding the individuals visible in the scene:
+
+Unidentified researcher #1: male Caucasian, approximately 40 years of age, with brown hair and green eyes. Stands in the southeast corner of the room, reading from a standing monitor. Hit three times in the chest by automatic fire at approximately 8.1 seconds and appears to be killed instantly.
+
+Unidentified researcher #2: male Asian, approximately 35 years of age, with black hair and brown eyes. Stands to the left of researcher #1, carries a clipboard with indecipherable writing on a note pad. Hit once in right shoulder at 8.0 seconds before dropping to the floor, out of sight behind the device.
+
+Unidentified researcher #3: female Caucasian, approximately 40 years of age, with brown hair and amber eyes. Sits at a desk in the southwest corner of the room, working at a computer station. Is out of the line of sight when the gunfire begins, and takes cover under the desk. Appears to be reaching for a weapon of some sort shortly before the end of the sequence.
+
+Unidentified researcher #4: male Caucasian, approximately 45 years of age, with brown hair and indeterminate eyes. Stands in front of the device to the northeast, with his back to the observation room. Shot twice in the head at 7.2 seconds, killed instantly.
+
+Unidentified researcher #5: male, indeterminate. Stands in the northwest corner, mostly obscured. Presumably shot at approximately 7.8 seconds and drops down, out of sight.
+
+Unidentified assailant #1: male, indeterminate, wielding a suppressed M4A1. Enters first, shoots researcher #4 and researcher #5, then moves towards the device.
+
+Unidentified assailant #2: male, indeterminate, wielding a suppressed MP5N. Enters second, turns left and shoots researcher #1 and researcher #2, then sweeps towards the southeast.
+
+Unidentified assailant #3: male, indeterminate, wielding a suppressed MP5N. Enters third, turns right and moves under the observation room.
+
+Unidentified assailant #4: male, indeterminate, wielding a suppressed TMP. Stays at the door, covering the others.

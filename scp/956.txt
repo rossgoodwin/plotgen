@@ -1,0 +1,29 @@
+SCP-956 before containment, after being separated from the piles of SCP-956-1 and [DATA REDACTED]
+
+Item #: SCP-956
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: SCP-956 is to be kept at the approximate center of a 18 by 18 by 4 meter concrete room at all times. The door is to be locked, with an armed guard posted to prevent unauthorized access. Entrance by research personnel into the room is only permitted once SCP-956 has entered a dormant state. Permission to bring a subject into the room must be cleared by O5 approval to decrease the occurrence of SCP-956-1 as well as [DATA REDACTED]. Unless for testing, individuals fulfilling SCP-956's activation requirement are not to be brought within 200 meters of SCP-956's containment area. Surveillance is to be maintained through security footage at all times.
+
+██ instances of SCP-956-1 are kept in a neighboring room, and are to be maintained at a temperature of -4 degrees Celsius in order to prevent melting or destruction. Any use of SCP-956-1 is to be authorized by at least one member of O5, and to be carried out in a room identical to SCP-956's containment chamber. Any excess SCP-956-1 created by tests with SCP-956 is to be incinerated unless authorized by personnel with Security Clearance 4 or higher, as are any extraneous instances of SCP-956.
+
+Description: SCP-956 appears to be a common pinata, resembling an unknown quadruped. Tests have revealed that, although superficially similar to paper-mache, SCP-956 is constructed of various amounts of glue, █████, sugar, an unidentified fur, and human tissue. SCP-956 has also shown to be highly resistant to any sort of bludgeoning damage, with large amounts of crushing force showing no damage to its structural integrity, though the use of gunfire as well as heat and flame have shown to be effective.
+
+By default, SCP-956 remains in a passive state. It shows no signs of locomotion or intelligence, and displays no hostility. As long as the item's activation requirement is not met, the item will remain in this state indefinitely. See Addendum 956-a.
+
+SCP-956 enters its active state when a human under the age of 12 years enters within ██ meters of it. Approximately █ to ██ seconds after entering the active zone, the child becomes unable to move, holding any stance they had at the time. The victim is incapable of motion or speech, although it remains alive, and its rapidly moving eyes suggest that it retains awareness. SCP-956 moves towards the victim and bludgeons him or her, until the torso ruptures. Upon breach, the victim's body discharges a large pile of unmarked candy, ranging from ██ to ████ pieces. Instances of this candy are designated as SCP-956-1. SCP-956 repeats this for any other immobilized victims before returning to a docile state.
+
+A victim can be removed from SCP-956's activation range if retrieved promptly. Upon moving the victim ██ meters away from it, SCP-956 returns to its passive state. The victim, however, shows no signs of recovering from its immobilized state, and appears to remain in such a state indefinitely. Autopsies of unbroken victims show that their body had severely dehydrated, leaving them brittle. Autopsies also revealed that pieces of SCP-956-1 had begun to grow out of the victim's organs, using the tissue as a component. The amount of SCP-956-1 appears to be directly correlated to time spent in SCP-956's activation radius.
+
+SCP-956-1's effects vary depending upon the age of the human consuming them. Humans at the age of 12 years or older go into a seizure within █ minutes of consumption, with a █% possibility of cardiac arrest. There is an approximate ██% chance of survival for such subjects. Animals suffer similar effects, regardless of age. Children under the age of 12 undergo a different effect. They first enter a similar state to the immobilized victims of SCP-956, although they assume a standing stance, with their arms resting in front of them. Their body then [DATA REDACTED]. The process takes █ minutes to complete. Upon completion, the victim has transformed into another instance of SCP-956. These copies behave identically to SCP-956. There is a 0% chance of survival for the victim.
+
+Addendum 956-a:
+
+SCP-956 has recently begun to show locomotion outside of testing. It began to wander around its containment, tracing the perimeter of the room. It did this for about an hour before staring at a spot on the wall. Review of footage shows that it's faced this wall after deactivating during previous tests. Security has confirmed that SCP-956 is facing directly towards an elementary school. That school is ██ kilometers away. Reclassification to Euclid status requested.
+
+Dr. N███
+
+Reclassification to Euclid granted. If its effects appear to reach beyond its containment, it is to be transferred to Site-██, which should keep it far enough away from potential victims. Retrieve any paralyzed victims or SCP-956-1, and administer Class A amnesiacs to witnesses and family. We don't need any more of these things around.
+
+O5-█

@@ -1,0 +1,37 @@
+SCP-1703 photographed shortly after recovery
+
+Item #: SCP-1703
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1703 may be kept in a 35cm x 35cm x 35cm fiberglass cube with walls at least 8mm thick that is padded with a thick layer of black industrial foam on the outside. The interior of the cube is to be painted black with an opaque paint. The cube may be opened and closed with a metallic hinge mechanism. It may be kept locked with a simple combination lock and stored in secure storage among other Safe SCPs. X-ray analysis may be conducted on the object at any time, as long as it remains within the box, and the box is not opened. Experiments which involve removing SCP-1703 from its container require approval from the Site Director.
+
+Description: SCP-1703 is similar in appearance to a lit 60W incandescent light bulb. It was recovered from the wreckage of ██████ Cold Springs Fitness Centre following Incident 1703-1. An employee of the club that was absent during Incident 1703-1 reported that the object was already noted among the staff for being apparently impossible to turn off, but this was attributed to faulty wiring rather than any anomalous properties. Due to the object being located in a high-traffic area, a decision was made to leave it alone until it burned out.
+
+Despite its appearance, SCP-1703 is not a light bulb at all as it seems to lack any visible filament. Access to electricity has no observable effect on its function. The source of its glow is a walnut-shaped core which has been determined to emit small amounts of radiation across the whole electromagnetic spectrum, the strongest being in the visible light range. SCP-1703 weighs exactly as much as an ordinary light bulb of its size without filament. Little else is known about it at this time as it is difficult to determine the core's features and composition without destructive testing. Site Director's note: Attempts to remove the core from inside its hull are expressly prohibited at this time.
+
+SCP-1703's anomalous effect acts on most solid and opaque objects illuminated directly by its visible light for at least 3 minutes and 17 seconds; materials transparent to visible light seem to be immune. Affected objects undergo a 2-week period within which they will lose up to 20% of their weight, despite not actually losing any mass. Approx. once every six months, SCP-1703's glow rapidly intensifies into a brief, intense flash. All objects caught in the flash that were previously affected by SCP-1703 appear to become inversely affected by gravity — they "fall upwards", accelerating and reaching terminal velocity as a regular object of a similar mass would in free-fall. Due to being repelled by all gravitational fields, such objects eventually leave Earth's atmosphere and the Solar System.
+
+SCP-1703 is completely immune to its own effect.
+
+Incident 1703-1 - Site Inspection
+
+Close report
+
+Compiled by Agent Fisher, ██ minutes after object recovery.
+
+Cold Springs Fitness Centre is located 3km east of ███████, ██████. It is approximately 500m away from the main road, surrounded by trees. The privacy of the location as well as rumours of unnaturally rapid strength growth contributed to a recent surge in its popularity; records show that in the last month, the number of active subscriptions had increased by 45%.
+
+Initial readings show trace amounts of gamma radiation; the soil appears to be the source. Testing indicates that the air is unusually dust-free compared to surrounding areas.
+
+Much of the curbside around the club is disturbed due to the uprooting of a large number of trees. The displaced plants, in various states of destruction, are either lying in the parking lot or floating 20-30 centimetres in the air. (████ semi-buoyant objects blown away from the Incident Site by wind have to date been recovered and catalogued as SCP-1703-0001 through ████. Clean-up efforts ongoing.) Pavement in the parking lot appears to have been torn off in rectangular strips. Areas of destruction outside the club are consistent with the positions of windows, and SCP-1703's projected radiation through those windows from where it was originally installed as a light fixture. The destruction radius extends to approximately ██ meters from the object, although its electromagnetic radiation stays visible and coherent over much longer distances. A circle can be drawn around the incident location, connecting the farthest points of SCP-1703's effect.
+
+Most of the club's ceiling is missing. Intact beams show signs of metal fatigue, suggesting that the ceiling quickly "sagged" upwards, and then was torn out. Walls are partially destroyed; those that previously had some object obscuring them from a direct line of sight with SCP-1703 remain intact. Interestingly, while some windows have shattered from the physical forces following weight reversal of the surrounding architecture, they are all present and have not been affected by SCP-1703.
+
+The majority of the club's training equipment is also missing. A few devices "hang off" exposed beams and support structures that prevent them from "falling" into the sky. These are identified as being the most significant sources of residual gamma-radiation in the area.
+
+The staff cafeteria seems to be the least damaged room in the building, where a salad table had been prepared. The cutlery and dishes, food, and the table are affixed to the ceiling. Glasses and drinks are broken and spilled over the floor. All objects on the ceiling emit trace gamma radiation.
+
+The front door — made of glass — appears to have been deformed during structural shocks such that it became impossible to open. An approx. 30cm x 50cm hole in the door has been made by an object thrown from the inside, as evidenced by broken glass pieces scattered outside. Pieces of clothing, tissue, and blood trailing upwards from the hole indicate that someone attempted to leave the already partially destroyed building through it.
+
+No survivors have been found. ██ persons were detected in Earth's upper stratosphere gradually accelerating away from the planet, accounting for 86% of the attending club members and staff. The only creature, living or otherwise, recovered from the incident site was a dog that had been tied outside the front door, identified as belonging to a regular at the club. It was kept earth-bound, and was eventually strangled, by its leash.

@@ -1,0 +1,177 @@
+SCP-1595, instance 36, prior to erasure
+
+Item #: SCP-1595
+
+Object Class: Euclid
+
+Special Containment Procedures: Foundation agents embedded in archaeological services, media outlets and intelligence agencies are to identify and isolate possible instances of SCP-1595 in order to limit public exposure to them, with an emphasis on professionals who might identify the historical discrepancies inherent to SCP-1595. Portable instances of SCP-1595 are to be transferred into Foundation custody, while stationary instances are to be documented and deleted. Use of Class-C amnestics is authorized when necessary.
+
+Description: SCP-1595 is a series of numbered messages originating from various time periods and locations. SCP-1595's anomalous properties stem from their anachronistic nature; instances of SCP-1595 will often be written using methods which should not be available in the time period or location from which they originate, and are always in modern English. SCP-1595 messages are internally serialized, and each instance discovered will follow the one found before it, despite sometimes being written centuries earlier.
+
+Additionally, analysis of the handwriting used in SCP-1595 messages indicates that they have been composed by the same person, regardless of the aforementioned chronological discrepancies. Of the sixty-seven (67) messages found so far, fifty-three (53) have been addressed to the same person, an unknown woman named "Molly". Of the remaining messages, three (3) address a "Danny", two (2) address a "Ben", four (4) have an unknown addressee, and five (5) are mostly illegible.
+
+Addendum SCP-1595-A: The following is a list of notable instances of SCP-1595:
+
++ Show Log
+
+- Hide
+
+SCP-1595-1
+
+Origin: Chiseled on the inside of the ██████ family mausoleum, London.
+
+Approximate date of writing: 1700's
+
+Recovered: 1920
+
+Message: I know you're out there somewhere, Molly. Come back, it doesn't have to end this way.
+
+SCP-1595-3
+
+Origin: Written in permanent marker on a copy of a Gutenberg Bible, recovered from the Papal Archives.
+
+Approximate date of writing: 1453
+
+Recovered: 1932
+
+Message: You have to let me see them, Molly! They're my kids too, you bitch!
+
+Note: The permanent marker was invented in 1952.
+
+SCP-1595-7
+
+Origin: Inscribed with a ballpoint pen on the margins of █████ █████'s Madonna in White
+
+Approximate date of writing: 1670-1690
+
+Recovered: 1945
+
+Message: Oh, you're a fast one, I'll give you that. I never could catch up to you. But you're traveling heavy, doll.
+
+SCP-1595-9
+
+Origin: Inscribed on the walls of a cave in the ████ mountain range. Originally recovered by the ████████ expedition.
+
+Approximate date of writing: 14,000-12,000 BCE
+
+Recovered: 1948
+
+Message: You're leaving a trail. You can't hide forever, Molly. I know forever like the back of my hand.
+
+Note: This message is unique in that it was not written manually. Instead a type of laser cutter was used.
+
+SCP-1595-14
+
+Origin: On a blank sheet of paper found in the belongings of ████ ██████ after her death.
+
+Approximate date of writing: 1830
+
+Recovered: 1956
+
+Message: I'm leaving this for you, Danny. I know your mother might not like it, but we'll keep it as our little secret. You always loved watching me work in the garage.
+
+Note: ████ ██████'s death was determined to be a homicide, but the murder weapon was not identified. Contemporary forensic techniques reveal it to be an electric steel saw.
+
+SCP-1595-20
+
+ 
+
+Origin: A scroll recovered from the ██████████ madrasa, Baghdad.
+
+ 
+
+Approximate date of writing: 650-670
+
+ 
+
+Recovered: 1967
+
+ 
+
+Message: It's a good thing I keep those things numbered. God damn, but this temporal bullshit can get confusing.
+
+SCP-1595-34
+
+ 
+
+Origin: A footnote on a bill published by the Parliament of Flanders.
+
+ 
+
+Approximate date of writing: 1686
+
+ 
+
+Recovered: 1978
+
+ 
+
+Message: Someone's helping you, Molly, I know it. That's against the rules, doll, you know that. You'll have to be punished.
+
+SCP-1595-48
+
+ 
+
+Origin: On the enlistment papers of █████ ██████ to the British army, recovered from the Imperial War Museum.
+
+ 
+
+Approximate date of writing: 1912
+
+ 
+
+Recovered: 1986
+
+ 
+
+Message: You went to them? Them, of all people? That takes guts, I'll give you that. It won't be enough though, not even where you are. Or rather, when you are. They can't protect you, not ever.
+
+Note: Enlistment papers also contained an African Elephant World Wildlife Fund 1st Stamp, dating to 2011.
+
+SCP-1595-51
+
+Origin: Etched on a copper plate found in an unmarked tomb, Siberia.
+
+Approximate date of writing: 5,000-4,500 BCE
+
+Recovered: 1990
+
+Message: Can you hear the ticking, Molly? I hear it all the time, nowadays. It was irritating, at first, but I got used to it. You'd be surprised, the things you can get used to if you have to. Like the cage they must have put you and the kids in. How could you do that to them?
+
+Note: In addition to the body, the tomb contained three hundred (300) ivory beads, one hundred and fifty (150) fox teeth, and the remains of a .38 Smith & Wesson Special. A bullet belonging to the same firearm was found embedded in the skeleton's femur.
+
+SCP-1595-64
+
+ 
+
+Origin: Embroidered into the back of a Frankish tapestry, recovered from a local collector at Nantes, France.
+
+ 
+
+Approximate date of writing: 780-800
+
+ 
+
+Recovered: 2009
+
+ 
+
+Message: Don't you worry, Ben. Daddy's coming.
+
+SCP-1595-65
+
+ 
+
+Origin: Found on a stone wall in the archaeological site of Gobekli Tepe, Turkey.
+
+ 
+
+Approximate date of writing: 11,000-10,000 BCE
+
+ 
+
+Recovered: 2011
+
+ 
+
+Message: He's coming real soon.

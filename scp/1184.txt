@@ -1,0 +1,79 @@
+Item #: SCP-1184
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1184 is stored in a secure locker in Site ██. Access to SCP-1184 requires Level 4 Level 5 authorization and a complete test script. While SCP-1184 is in use, no fewer than two armed guards wearing purpose-built soundproof headgear with an external audio feed and recording hardware, and thus able to hear the test without being subject to SCP-1184's effects, will monitor the test to ensure that the script is followed. Any deviation from the script will result in detainment or termination.
+
+Description: SCP-1184 appears to be a simple gold ring in the style of a wedding band and engraved with the word "Veritas" (the Latin word for "truth") on the inside of the band. SCP-1184 has an unusually high density of 21.2g/cm3, higher than almost any terrestrial material, and thus the visible gold surface is believed to be plated over another, possibly exotic, material. Only nondestructive testing has been permitted on SCP-1184 to date, and therefore the composition of its interior cannot be verified.
+
+While wearing SCP-1184, everything the wearer (henceforth known as the "speaker") says is accepted as the absolute truth by anyone able to hear and understand them (henceforth known as the "listeners"). Simple, easily accepted statements are taken at face value without apparent surprise, as with instructing D-class personnel that they will in fact receive a full pardon at the end of the month. Statements which are clearly at odds with reality, such as "I know this looks like an ordinary ballpoint pen, but it is in fact the nuclear aircraft carrier U.S.S. Enterprise", may create a significant amount of cognitive dissonance, depending upon the listener and situation. Listeners have been observed reacting to "impossible" statements in several ways:
+
+1) Simply accepting the statement as fact without regard for its impossibility. Listeners told that a pen is an aircraft carrier and exhibiting this reaction would subsequently identify the pen as an aircraft carrier without appearing to find this fact remarkable. This is by far the most common reaction, and most test subjects never seem to notice anything unusual no matter how impossible their beliefs are.
+
+2) Inventing (sometimes quite elaborate) confabulations to explain away the impossibility of their beliefs. Listeners exhibiting this reaction may invent fantastic stories involving shrink rays and disguise generators to explain how the ship came to resemble a pen.
+
+3) Very rarely, listeners may conclude that the failure to "properly" perceive reality is their own fault. Listeners exhibiting this reaction may appear confused and claim that they are hallucinating or believe themselves to be suffering from other mental problems. Depending upon the nature of the implanted belief, this may cause extreme stress and anxiety over their inability to see the "truth" of the situation, and this may lead to actual psychological problems manifesting even in previously-healthy individuals.
+
+There are no recorded cases of any subjects either realizing that their beliefs have in some way been manipulated or concluding that their implanted beliefs are untrue, no matter how seriously they disagree with reality or how plainly SCP-1184's effect is explained to them. Even SCP-1184 itself cannot override beliefs previously implanted by SCP-1184; the subject is unable to conclude that either belief is false, even if they directly conflict. A conflict between two SCP-1184 beliefs appears to have a higher risk of causing a psychotic break than a conflict between an SCP-1184 belief and reality, but the effect has not been quantified.
+
+Despite being absolutely convinced of the truth of statements heard under the influence of SCP-1184, listeners remain able to accept future changes of state. For instance, telling a listener that "this door is closed" convinces them that the door is currently closed, not that the door can never at any point in the future be open. If the door were in fact open, a listener might walk over to the open door (which they had been told was closed), pantomime opening the door, and then walk through it without incident, interacting normally with the door in the future.
+
+SCP-1184's effect only manifests when both the speaker and listeners understand the language being spoken, and listeners are hearing the sound directly from the speaker's lips. In particular, the following situations have never been observed to cause any anomalous effects to manifest:
+
+A speaker reading an unfamiliar foreign-language phrase to native speakers of the language.
+
+A "speaker" silently communicating with deaf listeners via mutually-understood sign language.
+
+A deaf listener lip-reading the speaker's words
+
+Listening to the speaker indirectly via any sort of electronic sound reproduction, whether in real time or recorded.
+
+Attempts to utilize SCP-1184 for its beneficial effects have been hampered by the fact that it also affects the speaker, who will become equally convinced of the truth of his statements. This has proven true even in the case of speakers who cannot hear themselves, as even completely deaf speakers (unlike deaf listeners) have proven to be subject to SCP-1184's effects.
+
+As no means of directly using SCP-1184 without being subject to its effects has yet been discovered, the following indirect test procedure forms the foundation of all SCP-1184 use:
+
+Test Procedure 1184-Sigma
+
+1) Secure test subject(s) within SCP-1184 test chamber.
+
+2) Researcher enters test chamber carrying, but not wearing, SCP-1184.
+
+3) Researcher dons SCP-1184 and repeats the following passage verbatim:
+
+"It is vitally important that you do not voluntarily do or say anything unless I specifically tell you otherwise. In particular, you must not touch the ring I am now wearing unless I tell you otherwise."
+
+4) Researcher removes SCP-1184 and places it on the table in the room, and then exits the test chamber.
+
+5) Researcher triggers a prerecorded message in his voice instructing one of the subjects to don the ring.
+
+6) Prerecorded message instructs the ring-wearer to repeat his words verbatim, and then continues very slowly and clearly with the message to be delivered to subjects.
+
+7) Prerecorded message instructs ring-wearer to remove the ring, place it upon the table, and step away from it.
+
+8) Researcher enters the room and retrieves SCP-1184.
+
+9) Researcher leaves the room and uses the intercom system to inform subjects that they may speak and act normally again.
+
+When properly followed, this procedure results in all test subjects being implanted with the desired beliefs, without adversely affecting any SCP personnel. Strict adherence to the procedure is essential, as mistakes can and have led to loss of life or breaches of security. In particular:
+
+The word "voluntarily" was added to the test protocol after a subject apparently decided that "do not do or say anything" meant that she could not breathe.
+
+The requirement for a prerecorded speech was instituted after several incidents of flubbed lines by researchers. The consequences of these mistakes were generally relatively minor, but in the most extreme case [DATA EXPUNGED].
+
+The initial speech to the test subjects must still be given "live" by the researcher for SCP-1184 to function, and thus has been kept short to minimize the chance of mistakes.
+
+The test subject wearing SCP-1184 remains a weak point in the process, as any misunderstanding or mistake in repeating the prerecorded speech's words can result in the wrong message being delivered. The SCP-1184 test chamber is equipped with an airtight door, separate ventilation system, and hydrogen cyanide gas canisters for this eventuality.
+
+During Incident-1184-7, Dr. ██████, then the head researcher on SCP-1184, deliberately deviated from his test script, instructing the D-class personnel to [DATA EXPUNGED] and using SCP-1184 to force everyone else he encountered to assist him with his plans. Over the course of his escape attempt, Dr. ██████ made 47 known statements while wearing SCP-1184, and at least ██ more which could not be deciphered from available security footage. Dr. ██████ was of course familiar with SCP-1184 test procedure and worded his statements carefully to avoid deluding himself, but shortly before exiting the facility it seems that a careless mistake caused him to convince himself that [DATA EXPUNGED], and he was easily captured and terminated. His final statement was inaudible in security footage, but the leading theory is that he stated something to the effect of [DATA EXPUNGED] upon realizing that the site had gone on full lockdown, thus rendering himself helpless.
+
+After careful psychological screening and review of security footage, many of the staff affected by Incident-1184-7 were eventually cleared to return to active duty. The affected D-class personnel were [REDACTED]. The current Level 5 approval and armed guard requirements were instituted in the wake of this incident.
+
+History: SCP-1184 was discovered in a mental facility in ████████████, ██ after reports of strange incidents came to the Foundation's attention. A Foundation team discovered SCP-1184 being worn by a patient known only as the King of ██████, being waited upon hand and foot by doctors, nurses, and other patients. The patient's true identity is unknown, as his name badge, room identification, and all medical records consistently referred to him as the King of ██████. All doctors, nurses, and patients in the facility suffered from a wide range of delusional beliefs concerning him, and the Foundation team charged with investigating the incident quickly fell under the "King"'s power. A backup team with soundproof headgear was able to neutralize the "King" and his sycophants, ultimately determining that the gold ring he wore was the source of his unusual power. Interrogating the "King" regarding SCP-1184 proved futile, as repeated careless use of SCP-1184 had left him deluded about his history, location, and identity.
+
++ Incident-1184-7 Followup
+
+- Incident-1184-7 Followup
+
+Given that SCP-1184 was involved in at least one unauthorized use and may have been used on any of us before, during, or after that incident, there is no way for us to truly verify our facts. We believe that Dr. ██████ was undone by a careless misstatement, captured, and ultimately terminated. We believe that we are still in possession of the genuine SCP-1184, and not a worthless replica or merely an empty locker. We believe that we have brought in unaffected individuals from other Foundation sites in order to verify these facts. We believe that they have done so. We believe that we are researchers working for the Foundation. We believe that we show up to work every day and study various objects, including SCP-1184. We believe that we have homes, spouses, and children. But we have no means of determining, even in theory, if any of these facts are actually true or are merely delusions instilled by a user of SCP-1184.
+
+- Dr. ████

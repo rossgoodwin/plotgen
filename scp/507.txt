@@ -1,0 +1,45 @@
+Item#: SCP-507
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-507 is allowed free roam of the facility, obviously barring anything that would breach security or safety protocols. Any time SCP-507 leaves its private quarters it must be accompanied by an agent, mostly at this point to make sure that it does not “shift” without the facility’s knowledge. SCP-507 should not be physically touched if there have been more than two weeks since its last “shift”; the risks inherent in disobeying this protocol make the action its own punishment, should the issue of disciplinary measures ever come up.
+
+When SCP-507 undergoes a shift, faculty will be informed to keep an eye out for its eventual reappearance. It also has a tracking device implanted into it, and a daily signal check should verify whether or not SCP-507 has returned from its trip. If it reappears in or nearby the facility, SCP-507 will return to its quarters on its own; otherwise, a retrieval team of three plainclothes agents may be sent to provide transportation back. Upon successful return, SCP-507 can be the subject of various physical tests up until two weeks after each shift.
+
+It is worth noting that SCP-507 is allowed a computer with an Internet connection (via a proxy which strictly limits what information can be uploaded, and to where) in its room, and may petition to use/meet with/act as a test subject for Safe or Euclid SCPs that do not affect mental functions negatively or carry an infectious trait. This is a result of SCP-507's persistently clean record, and the implication that if SCP-507 was ever going to be a security leak it would have used its faux-teleportation powers to do so already. It is also worth considering that SCP-507 is actually below-average in most physical traits, and that in even worst case scenarios any SCP agent should be more than capable of carrying out a termination order.
+
+Description: SCP-507 is apparently a Caucasian male with blond hair and green eyes, sporting no other outstanding characteristics besides being somewhat overweight and speaking with a vague accent of disputable origin. Although SCP-507 has an already-established name due to its unremarkable upbringing, it seems to find entertainment in forcing those it meets to give it a nickname in lieu of divulging this information. Thus SCP-507 will now respond to the names Tommy, Steve, Bruto, Guy, Houdini, and Grabnok the Destroyer.
+
+SCP-507 was originally recovered from the ████ ██ asylum, when standard surveillance following repeated successful escape attempts brought its abilities to light. All records of this incident were confiscated, and SCP-507 was taken into custody under the pretense of moving it to a more secure facility.
+
+The original theory was that SCP-507 possessed some form of teleportation ability, as it would suddenly disappear and eventually reappear in a different location. Subsequent interviews with the subject did verify that its ability could be used in such a manner, but that it was merely a side effect for its main affliction. SCP-507 holds that during its periods of “disappearance” it is actually displaced into a random alternate reality; the landscape generally stays the same, but the inhabitants and climate of the parallel world often do not. SCP-507 also insists that it has no control over the time and duration of these shifts; this has more-or-less been confirmed by the subject being known to “displace” at inconvenient times such as mid-sentence, while sleeping, or even while using on-site public facilities. If SCP-507 moves about in the alternate world, the eventual shift back will then place it at the corresponding area in our reality. A sample list of SCP-507s descriptions of alternate realities can be found in Document 507-00.
+
+Mentally, SCP-507 shows no large deviations from the psychological profile for a normal person. It has confessed to have always had a great interest in the paranormal and mythological, which has directly led to its eventual permission to interact with relatively harmless SCPs. SCP-507 especially enjoys meeting with other Sentient SCPs, once going so far as to request a small “vacation” to visit SCP-082. The request was eventually granted after persistent pleading from SCP-507, and the meeting was thankfully uneventful.
+
+Document #507-00: A sample list of SCP-507s supposed extradimensional travels, along with any demands made by it after returning.
+
+Subject arrived in complete darkness, leading it to assume that the current location was indoors or subterranean. After fumbling about for a possible way out, subject heard a sound akin to muted breathing nearby. Subject then decided to curl up in the nearest corner and “wait it out” instead of risking a blind confrontation with an unknown creature.
+
+Request: A standard flashlight, which it now always carries on its person.
+
+Subject appeared in a replica of the facility, although apparently fallen into disuse. Further exploration led to the discovery of various corpses strewn about the area, all heavily decayed and covered in an odd type of mold. Upon noting that the “corpses” seemed to rhythmically expand and contract as if still breathing, subject attempted to leave the facility. This idea was quickly discarded when it opened an exit and found that the outside world was apparently coated with the same odd growth.
+
+Request: Heavy doses of voriconazole, and a fungal expert to help ascertain the nature of the mold. No exact match of the described mold was found, but it was noted to share many attributes with certain types of Cordyceps Fungi. [See Addendum 507-02]
+
+Upon reappearing, subject was reported to mutter “So many spiders.” Subject refused to elaborate.
+
+Request: A handheld firearm of any type. Request was granted under the stipulation that said firearm is specifically built to only use rubber bullets.
+
+Subject once again appeared in a pitch black location with breathing nearby. Upon turning on its flashlight, subject was surprised by a man wearing a black business suit and sunglasses, with an impossibly wide smile. Said “Smiling Man” was apparently leaning in toward SCP-507 when it turned on the light, the end result being that their faces were almost touching. Smiling Man then remarked “Back so soon?” before subject switched the light off again, discharged all the rounds in its firearm at the general vicinity of the man, and once more curled up into the nearest corner until shifted back into our reality.
+
+Request: None.
+
+Those with Level 2 Security Clearance may read a full list by accessing document #507-3B
+
+Those with Level 2/507 Security Clearance should also see Interview 507-G for evidence of a particularly noteworthy shift.
+
+Addendum 507-00: Agent ████ went missing on [EXPUNGED] at the same time as SCP-507. A full scale search was launched to find either of them, only for SCP-507 to appear a week later. When questioned, it said that ████ was holding onto its shoulder when it shifted, leading to both of them to appear in an alternate dimension where [EXPUNGED]. During the ensuing chaos, SCP-507 lost contact with ████ and could not relocate him before it shifted back into “standard” reality. A new protocol has been placed in light of this - no one is to come in physical contact with SCP-507 after two weeks following a displacement. Reevaluation of previous incidents has shown that there have always been at least two weeks between each, so this timeframe will be the only “safe” time to touch SCP-507 until further notice.
+
+Addendum 507-01: I don’t care how much he grumbles about it; SCP-507 is not to be cleared for challenging SCP-076-2 to fifty rounds of Tic-Tac-Toe. Just…no. -Dr.███
+
+Addendum 507-02: Fungus encountered by SCP-507 seems similar to that resulting in experimentation with SCP-407.

@@ -1,0 +1,75 @@
+Item : SCP-1547
+
+Object Class: Keter
+
+Special Containment Procedures: MTF Sigma-08 (aka "No Sleep 'til Containment") is to locate the area in which SCP-1547-A is currently manifesting and inform the SCP-1547-1 instance about the anomaly. This includes full disclosure, the equivalent of Level 1/1547 clearance for the documentation of SCP-1547, and orders to not comply with SCP-1547-A's requests. Members of this team are also to constantly monitor the subject's location and actions at all times to ensure that no important information is divulged. If the subject fails to comply with Foundation agents, personnel are allowed to forcibly subdue and restrain the person for as long as possible.
+
+Site 1547 has been constructed around SCP-1547-B, and is composed of three main sections; the main site, the intermediate chamber, and the inner chamber. SCP-1547-B is housed within the circular inner chamber, which measures 50m in diameter. An intermediate chamber, which is 10m from all external sides of the inner chamber's walls, separates the main site from the entity's location. The number of personnel working within the inner and intermediate chambers is to be kept to a minimum at all times except during times when the location of SCP-1547-A is uncertain or when SCP-1547-A is currently manifesting. At these times, no personnel are allowed in either chamber.
+
+Description: SCP-1547-A is a vaguely humanoid entity of variable appearance. Generally, it is dressed in rough black hooded costume that covers all of its body. However, during appearances in which SCP-1547-A's clothing does not cover its face, personnel have described it as being featureless. It can be damaged, but does not bleed or react to pain. Additionally, it does not appear to recover from injuries without the aid of SCP-1547-B.
+
+SCP-1547-A will manifest in a random person's bedroom every night at 0000h, local time. From here on, this person being targeted by SCP-1547-A is referred to as SCP-1547-1. The entity will attempt to persuade this subject to complete a ritual. If he or she does not agree to this, the entity will demanifest at 0400h, local time. Until SCP-1547-1 complies with SCP-1547-A's request, the entity is injured to the point of almost being unable to function, or the subject dies, SCP-1547-A will reappear in the person's bedroom every night.
+
+If SCP-1547-1 agrees to participate in the ritual, SCP-1547-A will produce a set of written instructions detailing a certain procedure. After this point, SCP-1547-A does not speak and will not demanifest until the event has been complete successfully. These rituals typically involve using innocuous non-anomalous materials in a manner that creates anomalous events which will either cause the death or transfiguration of SCP-1547-11. See Ritual Log-1547 for a list of rituals discovered by the Foundation.
+
+Ritual Log-1547:
+
+Ritual #
+
+Description
+
+Ritual-1547-01
+
+SCP-1547-1 was instructed to dig a 1m deep hole in the shape of a triangle, fill it with 20L of salt water, stand in it, then inhale deeply. After this point, the subject became completely immobile and unresponsive and the hole they had dug became impenetrable to human entry. SCP-1547-A approached the area, methodically removed SCP-1547-1's skin, then demanifested. The area ceased displaying anomalous properties and the subject resumed motion. Despite the loss of its skin, no bleeding was observed. Additionally, SCP-1547-1 displayed hostile actions towards humans and began attacking Foundation personnel while exhibiting unusual strength, managing to kill five (5) agents before being subdued. The subject has since been contained and is designated as SCP-████.
+
+Ritual-1547-16
+
+SCP-1547-1 was instructed to gather seventeen (17) assorted reference books and place them in its fireplace. After this, the materials were doused in oil and set on fire. SCP-1547-A then proceeded to push the subject into the fire. As this happened, an anomalous area of effect that ranged from 15m in all directions away from the fireplace, later designated SCP-████, manifested. Upon entering this area, all sapient entities became permanently unable to utilize abstract thought and higher thinking. See the documentation of SCP-████ for more details.
+
+Ritual-1547-63
+
+SCP-1547-1 was instructed to gather four (4) computers of any type, place them in a square in the middle of the town, and [REDACTED] causing the loss of internet connectivity for the town of █████████, Florida.
+
+When SCP-1547-A becomes damaged extensively or successfully completes a ritual, it will manifest within Site 1547's intermediate chamber and approach SCP-1547-B. If SCP-1547-A observes any humans within Site 1547 at this time, it will become hostile in a manner not seen in any other situation. The entity will actively search for and kill all humans within the Site and will only cease behavior and resume its approach towards SCP-1547-B when all humans within the Site are dead. If the entity does not observe any humans at this time, this will not occur, even if personnel are present within other parts of Site 1547.
+
+Upon reaching SCP-1547-B, SCP-1547-A will walk into the entity's form from the northeastern side, levitate for approximately three (3) seconds, then demanifest. After this point, any injuries previously observed on SCP-1547-A will have been healed.
+
+SCP-1547-B refers to a mostly incorporeal, transparent, and immobile entity located in a former [REDACTED] temple at 9█.████° S, 0.████° W in Antarctica. This area has since been converted into Site 1547. At the time of writing, SCP-1547-B measures approximately 30m in all directions, appears to possess seventy-eight (78) limbs of canine, feline, ranine, cetacean, piscine, and insectoid origin. These limbs are roughly proportional to the size of SCP-1547-B2. The entity will randomly emit loud vocalizations in a currently unknown language which often sound muffled or distorted. Over the past fifty-two (52) years that SCP-1547-B has been in Foundation containment, the entity's vocalizations and appearance have become noticeably more defined.
+
+Any humans that touch SCP-1547-B directly will immediately cease to exist. Whenever a living organism comes within 5m of SCP-1547-B, they will experience a message apparently via telepathy from the entity. Subjects will perceive this message to be spoken in their native language by a calming female voice. See Information Log-1547-Tau for a transcription of this message.
+
+Information Log-1547-Tau:
+
+At the beginning of this planet, it was pure. It was peaceful, calm, perfect. Certainly, there was death, but it was natural. There was no violence or malice involved in it. The cycle of life was inherently understood by all living creatures and questioned by none. If beasts killed, they did so for food or balance, never for sport or pleasure.
+
+During these times, Earth was ruled by the Blessed Queen, Chioll. She was a benevolent mother who viewed all beings of the land, sea, and sky as her precious children. Chioll was sworn to protect their lives and their peace. One day, a malicious trickster named Theareen approached the kingdom with the intent of conquest. He brought the downfall of land with him to aid in his battle; intelligence, morality, pleasure, knowledge, and information soon permeated throughout the land, bringing beings known as humans to fruition as well as instilling sapience within them. Bravely, Chioll fought against these advancements, but was defeated quickly. New beasts, filthy in mind, soul, and body, swarmed over her fallen corpse and defiled her memory and her land until it was unrecognizable. Theareen, triumphant in his dastardly scheme, gathered the spoils of the land and left soon after to collect the spoils of a different world.
+
+The Conquerer's minions, however, did not leave with him. They stayed, abandoned by their creator, on the Earth. Over time, they spread and multiplied to fill the land. There was not a mile remaining on the planet that was not spoiled by their touch. Though they were bound to the land, they artificially, wrongly, extended their toxic touch to the seas and skies. Their "wisdom" bred conflict and violence, which in turn lead to the ruination of the noble animals when the humans started hunting them for sport and pitting them against each other for entertainment. Their conquest for unlimited, god-like power never ceased and lead to the literal infection of water and air by pollution and disease. Humans have defiled Chioll's world.
+
+Chioll was powerful enough that she could not be permanently destroyed, just incapacitated for lengths of time. She gained enough strength to once again see and rule over the area directly around her.
+
+What she saw disgusted her perfect soul.
+
+Her land, her animals, her world and everything on it was filthied because of Theareen's beasts. She could do nothing but cry out in anguish for many years, for the sight was so hideous, so incorrect. When at last she was calm enough to think coherently, she discovered something even more distressing. Her power had been sapped because of this uncleanness, and she was unable to aid any of her subjects.
+
+A rage grew in the Blessed Queen. It bred more and more power, drawing her closer to death until there was just enough to do one thing.
+
+Chioll called upon her son, Zaphon. Instantly he came, hailing his mother. He saw what had happened and knew what he had to do. And so, he set out to restore his mother and slowly take apart the human threat against her domain.
+
+Now, we are here.
+
+Slowly, but surely, Chioll is returning. Each step taken by her son brings the world one step closer to the Reunion.
+
+Peace will once again reign.
+
+Sixty-seven.34
+
+Footnotes
+
+1. The anomalous nature of these events appears to be dependent on the presence of SCP-1547-A, as Foundation attempts to replicate these procedures has invariably failed to yield results.
+
+2. e.g. the feline limbs normally found on a common house cat would be greatly enlarged, cetacean limbs normally found on a whale would be diminished
+
+3. This number increases by one every time SCP-1547-A successfully completes a ritual.
+
+4. When this number hit fifty (50) on 06/04/2003, an anomalous area of effect with a range of 20km from SCP-1547-B manifested for approximately three (3) hours. All humans and artificial machinery within this range were completely destroyed. Research is currently ongoing to discover the cause of this event.

@@ -1,0 +1,107 @@
+SCP-1139, enlarged to show detail.
+
+Item #: SCP-1139
+
+Object Class: Euclid
+
+Special Containment Procedures: By authorization of O5-█, object is housed at Research Area ██. Following Incident 1139-1, object moved to Research Area ██. When not being used for testing, object is to be enclosed in a seventy-five (75) by twenty (20) by twenty (20) centimeter block of rubber, molded into two pieces, enclosing the object, with a Faraday cage surrounding the block, and placed on a static-free workbench. The containment room for the object shall be made of unreinforced concrete (minimum thickness of three (3) meters) and shall be illuminated at all times by gas lamps. The humidity level shall remain between 65% and 70% at all times.
+
+The door to SCP-1139's containment room shall be made of non-conductive, high impact ceramic materials. Following Incident 1139-1, access is via three (3) containment doors, the outermost door consisting primarily of metal, with the metallic threshold grounded in case of electrical discharge. The two innermost doors are to be constructed of non-conductive, high impact ceramic materials.
+
+No personnel are allowed within SCP-1139's containment room outside of testing. No electrical devices of any sort, including pacemakers, watches, or recording devices are to be brought into the containment room except those being used in the current test. In no event may an electrical device capable of producing more than one thousand watts (1000 W) be used in testing without authorization of O5 personnel. In no event may an electrical device capable of creating an alternating current be introduced to the containment room without authorization of O5 personnel. Following Incident 1139-1, the object shall be monitored by two (2) cameras, two (2) motion sensors and one (1) weight sensor in the floor, none of which shall be individually capable of producing more than fifty watts (50 W), and each of which shall be equipped with an automatic shut off in the case of electrical discharge.
+
+Research Area ██ shall remain equipped with two lightning rods at all times, neither of which shall be grounded within 200 meters of SCP-1139.
+
+All linguists assigned to SCP-1139 are to be given weekly psychological evaluations.
+
+Description: SCP-1139 appears to be a metallic rectangular block, roughly twenty (20) centimeters high and five (5) centimeters square on the base. The metal visually appears to be iron, though the density of the object is roughly double that of natural iron, and the object appears denser near the top. The sides of the object are patterned with square protrusions in an unknown pattern. Viewers of the object observe the protrusions as block letters in a language they are familiar with, but this is merely a visual illusion. On the bottom of the object, there are four (4) small crevices, each coated in a brass-like metallic substance. These openings suggest the object may be connected to an appropriate "male" interface. No new effect has been observed through the manipulation of or application of electricity directly to the metallic crevices. The object has thus far proved impervious to both deterioration and damage, making a determination of the object's age impossible.
+
+SCP-1139 was recovered during Incident 98564/k. Mobile Task Force Delta-5 ("Front Runners") raided a Church of the Broken God outpost in Normal, IL. A basement was discovered containing an apparently demented and violent elderly man who was quickly terminated, found holding SCP-1139. In this room were over ███████ handmade documents in chronological order, including stone tablets dated over 2000 years old to modern paper showing minimal wear. Note that the earliest documents predate the Church of the Broken God by over ████ years. The documents do not appear to be written in any known languages, and ███ different languages have been identified. Linguistic analysis indicates that all documents are written in fully formed languages, but all attempts to translate the documents have failed.
+
+Upon application of electricity a direct current, the object affects all individuals within a given radius, regardless of shielding and interference. The radius of the effect is exponentially proportional to the wattage applied to it, with a "static shock" creating a radius of eight-tenths (0.8) meters and a direct lightning strike estimated to create a radius reaching beyond [DATA EXPUNGED], potentially resulting in a [REDACTED] scenario. Testing for a method of containing or controlling the effect is ongoing and should be considered a Level Chi priority, despite the complete lack of results thus far. Possible use as a "worst case scenario" planetary defense is under consideration.
+
+Any person who is within the radius of effect begins speaking and writing a new language, though they apparently believe they are speaking their native tongue. Subjects lose the ability to speak or comprehend any prior known language(s). Linguistic analysis indicates that the new languages are fully formed languages, but all attempts at translation have been met with complete failure. Attempts at translation continue. Subjects have proven incapable of learning or re-learning any real world language after exposure to SCP-1139. Class AA amnesiacs have been the only successful method of removing this block, though subjects are thereafter of little use to the Foundation, and Class AA amnesiacs are not advised in future testing. See Experiment Log 1139-1.
+
++ Document SCP-1139a (regarding incident 1139-01):
+
+- Close
+
+At 4:30 pm ██/██/██, over ██ scattered civilian vehicles approached Research Area ██ from both access roads. Research Area ██ was put on Blue Alert, and Procedure Theta Tau was implemented. The four (4) ground level Foundation personnel were initially able to maintain their cover identities when speaking with the trespassers, and discovered that the latitude and longitude of Research Area ██ was distributed as the location of a youth "Jamboree.” Pursuant to Procedure Theta Tau, the trespassers were told that Research Area ██ was a hunting lodge and that they had been sent to the wrong location. The departure of the trespassers was stalled due to a constant stream of new arrivals. Approximately ███ adults and ████ youths arrived in total.
+
+At precisely 4:52, approximately ██ of the adults and █ of the children pulled weapons from camping gear and attempted to breach Research Area ██ in a coordinated attack. Battle cries consistent with rhetoric of the Church of the Broken God were heard, as well as references to "The Tongue" and "The Voice." A perimeter breach occurred and lockdown was implemented. Mobile Task Force Rho Five ("Bee Sting") converged on Research Area ██, putting down the assault and containing the fleeing civilians with acceptable civilian casualties. The surviving civilians indicated that revised coordinates were distributed a week before the camping event, redirecting them here. The survivors were given Class C amnesiacs and re-questioned, using known Church of the Broken God "secret" codes. Three additional members of the Church were detected and terminated. Area Command utilized Cover Story Beta Zeta, and the remaining civilians were provided grief counseling. Research Area ██ decommissioned.
+
+This is unacceptable. I don't care that the damn Church broke silence first; we cannot allow this much attention to come down on one of our locations. You had better hope that this media hype about gun wielding scouts dies down and that reporters don't find Research Area ██ or I'll knock you back to level 1 researcher. O5-█
+
+Request upgrade to Keter status. Area Supervisor C████
+
+Request denied. O5-█
+
++ Experiment Log 1139-1
+
+- Close
+
+Addendum [SCP-1139c]:
+
+Subject: D-02638
+
+Linguist: Dr. A████
+
+Wattage: 200 W of alternating current
+
+Subjects exposed to radiation from SCP-1139. Subject grabbed his head and screamed, making a noise that [REDACTED]. One Level-1 Researcher was killed in the event and Dr. A████ suffered from a broken wrist and persistent headaches. Both staff placed in quarantine for fear of memetic properties. No such properties evidenced themselves, and staff were released from quarantine and returned to duty without incident. Containment and testing procedures revised.
+
+Addendum [SCP-1139e]:
+
+Subject: D-18394
+
+Linguist: Dr. A████
+
+Wattage: 200 W of direct current
+
+Subject is semi-literate due to low intelligence and education. Subject is told to recite the alphabet song during activation of SCP-1139 to confirm expose. Exposure to SCP-1139 is followed by no verbal communication, merely images and photographs. Subject shows no signs of distress, though displeased by the researcher's silence. Dr. A████, after seeing the mild success in rudimentary non-verbal communication, grabbed the closest thing to a picture book from his office, giving the subject a copy of the Voynich Manuscript. Subject ignored the pictures and began attempting to read the book, sounding out words as he went. Notably, he read the book backwards and from the middle of each page outward. All observations indicate that subject understood the book and found it to have a sad ending.
+
+Well, this one we have the alphabet for and a text. It should be simple enough to learn how to speak it. Dr. A████.
+
+Two months after testing, Dr. A████ placed on voluntary administrative leave due to stress. Subject D-18394 terminated and all documentation locked in long term storage.
+
+Addendum [SCP-1139f]:
+
+Subject: D-18328
+
+Linguist: Dr. A████
+
+Wattage: 200 W of direct current
+
+Subject asked to enter the containment room, sit at the table, and write a long, memorized phrase down on paper, followed by the alphabet and numbers from zero to fifty, reading each word or number aloud. While walking to the table, subject exposed to SCP-1139. Subject writes out a text of unknown language, speaking as he does so and showing no distress at his change in language. Subject is incapable of speaking English, and no effort at reintroduction to the English language is made. It is noted that the language from SCP-1139f is different from that produced in SCP-1139e.
+
+Okay, so we have a Rosetta Stone for this one. This should be simple to decode or prove as nonsense. Dr. A████.
+
+Four months after testing, Dr. A████ placed on mandatory administrative leave due to stress. Subject D-18328 terminated and all documentation locked in long term storage.
+
+Addendum [SCP-1139k]:
+
+Subject: Dr. A████
+
+Linguist: Dr. A████ and Dr. L████
+
+Wattage: 200 W of direct current
+
+Without approval or oversight, Dr. A████ exposed himself to SCP-1139. It is notable that Dr. A████ spoke eight languages fluently prior to the experiment. Dr. L████ took over as linguist for experiment SCP-1139k.
+
+Dr. A████ exhibits the same symptoms of prior subjects, though he seems puzzled by his own voice, and shocked by the verbal and written communications of Foundation staff. It appears that Dr. A████ now knows eight new languages, and by pointing at different places on an unlabeled map of the world, each new language has been associated with the language he is trying to speak. Dr. A████ has been unable to communicate beyond non-verbal pantomime, and has since lapsed into inactivity and depression. Dr. A████ moved to a long term care medical facility and kept under suicide watch.
+
+Addendum [SCP-1139m]:
+
+Subject: D-29374, D-93847, D-20375, D-20384, and D-29384
+
+Linguist: Dr. L████
+
+Wattage: 400 W of direct current
+
+Subjects chosen due to non-violent tendencies. D-29374, D-93847, D-20375, and D-20384 were put in a single room with food, water, and non-linguistic entertainment (games and puzzles). SCP-1139 activated carefully to affect four of the five subjects. Subjects quickly realize that none of them can understand the others. Food is provided and trash removed without human contact or verbal communication, and long term surveillance is maintained.
+
+The unaffected subject acts virtually identical to the others. With no external verbal stimuli, D-29374, D-93847 become detached and depressed, similar to individuals kept in long term solitary confinement. D-20375, upon realizing that Foundation staff would not enter or reprimand, became controlling and violent. D-20384 was killed by D-20375 in a fight for food. Thereafter, D-20375 [REDACTED] the remaining subjects over the course of a month.
+
+Request upgrade to Keter status. Dr. L████
+
+Request denied, and pull the plug on this sideshow. If you want a long term test subject, use Dr. A████ O5-█

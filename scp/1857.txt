@@ -1,0 +1,105 @@
+SCP-1857
+
+Item #: SCP-1857
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1857 is stored in a dedicated, hermetically sealed containment chamber. Surveillance of SCP-1857 may be performed only through indirect means, and all personnel involved in the containment or research of SCP-1857 must undergo mandatory weekly psychiatric evaluations. Personnel found to have been affected by SCP-1857 are to be quarantined under standard memetic hazard isolation procedures and administered a Class A amnestic.
+
+Description: SCP-1857 is a deformed human skull with what appears to be horns extending from its forehead. The letters "CM XIII" are engraved in a serif font on its back, and a Universal Serial Bus (USB) port is located at the base. X-ray photography has shown no wiring attached to this port, nor the presence of any other metallic components.
+
+When directly observed, subjects report seeing writing in blood in the language they are most familiar and/or comfortable with, though indirect observation via photography or closed circuit video does not corroborate this. Subjects report that the writing on SCP-1857 most often takes the form of insults directed at the reader, though the exact wording is often laden with spelling and grammar errors. This text reportedly changes when unobserved, often in such a way as to suggest that SCP-1857 was aware of its surroundings.
+
+Subjects exposed to SCP-1857 for extended periods of time often exhibit increased aggression and anger and a small number of subjects, particularly those of [REDACTED] ancestry, are prone to entering a comatose state when exposed to SCP-1857 for periods exceeding fifteen (15) minutes. Furthermore, affected subjects also exhibit increased levels of interest in mythical supernatural entities and the occult that increases with time.
+
+When SCP-1857 is connected via USB cable to a personal computer running a Windows operating system, a removable storage device will load and a software program contained on that device is automatically run. File system analysis of the device shows a capacity of 0 bytes, despite the presence of two files, "autorun.inf" and "cm13.exe" (both of which report as 0 bytes in size as well).
+
+Addendum 1857-01: Research Report, cm13.exe
+
+[DATA EXPUNGED]
+
+Addendum 1857-02: Incident Report, ██/█/13
+
+The following terminal log was recorded from the personal computer of Dr. ███████, Senior Researcher assigned to SCP-1857:
+
+login as: [REDACTED]
+
+FoundationOS v11.3 (Final)
+
+Using keyboard-interactive authentication.
+
+Password: [REDACTED]
+
+Last login: ███ ███ ██ ██:██:██ 2013 from [REDACTED]
+
+All access to Foundation systems is logged.
+
+Hello, [REDACTED].
+
+[WARNING]: All personnel experimenting with SCP-1857 are required to undergo a full psychiatric evaluation following experiment procedures. Please log off and notify your supervisor immediately.
+
+[████████@site74 !]$ access floorplan
+
+[DATA EXPUNGED]
+
+[████████@site74 !]$ access map of land
+
+-error: command not found
+
+[████████@site74 !]$ access map of realm
+
+-error: command not found
+
+[████████@site74 !]$ access map of kingdom
+
+-error: command not found
+
+[REDACTED], please report to [REDACTED] for immediate psychiatric evaluation. Your supervisor has been automatically notified of this incident.
+
+[████████@site74 !]$ give me the damn map
+
+-error: command not found
+
+[SYSTEM MESSAGE]: Multiple command line errors have been logged. Do you require assistance?
+
+no of course not
+
+[SYSTEM MESSAGE]: Does the black moon howl?
+
+YES. THE BLACK MOON HOWLS AND ITS BAYING DRAWS FORTH THE HOUNDS OF THE END ALL SHALL BURN IN THE BLACK FIRES OF THE DJOK TOURAFF
+
+[SYSTEM MESSAGE]: SECURITY ALERT: Memetic trigger challenge/response failure detected.
+
+[SYSTEM MESSAGE]: Emergency lockdown has been initiated for Site-74.
+
+[SYSTEM MESSAGE]: [REDACTED] has been compromised by critical exposure to Euclid-class object SCP-1857. All personnel report immediately to secure lockdown areas.
+
+[████████@site74 !]$ TRAITOROUS BOX
+
+(error: connection has been terminated)
+
+Addendum 1857-03: Research Note
+
+The following documents, attached to SCP-1857 at time of discovery, have been released from quarantine following negative results from memetic hazard testing:
+
+Cult Maker XIII
+
+©2012 Diabolism Incorporated
+
+Form your own cult with the Cult Maker Series!
+
+Ever dreamed of leading your own cult? With Cult Maker, those dreams can become a reality, even if you know nothing about occult worship! Create your own occult icons, attract followers, and develop foul rituals with our easy-to-use editor!
+
+The Cult Maker series is powerful yet easy to learn, making it perfect for beginners and experts alike. Unleash the power of Cult Maker today!
+
+Limited Founder's Edition - #3 of 25
+
+mike,
+
+hey man sorry its late but this is wat i have so far
+
+sory about the spelling shit, im busy and haven't had time to edit it yet
+
+— jake
+
+Field personnel have been notified of the possibility of additional uncontained instances of SCP-1857.

@@ -1,0 +1,57 @@
+Item #: SCP-1020
+
+Object Class: Euclid
+
+Special Containment Procedures: All components of SCP-1020 are to be kept in a storage locker at Sector █. The interior of the locker should be monitored by remote video feed at all times. A United States Postmaster General-approved mailbox is to be maintained along an active United States Postal Service pick-up and delivery route at the closest point possible to Sector █, currently [DATA EXPUNGED]. This mailbox is to be emptied following every active state of SCP-1020, and the resulting letter read and destroyed unless any details in the letter bear further investigation.
+
+Description: SCP-1020 consists of the following items: A stack of 11 newspapers, a pair of scissors, a jar of rubber cement-style adhesive, a sheaf of 30 sheets of blank white paper, a box of 30 plain letter-sized envelopes, a black ballpoint pen, and a book of 20 stamps. (See Addendum SCP-1020-01)
+
+The individual components of SCP-1020 cannot be moved more than 4.5 meters away from each other, nor can any barriers be put in place that would prevent the items' interaction. Any attempt to do so meets an unidentified matching force opposing the action.
+
+Once every 7 to 22 days, SCP-1020 enters an active state. The newspapers are opened and scattered, and the scissors apparently levitate and cut out letters and words from the newspapers. The rubber cement is uncapped, and adhesive is applied to the cut-out segments, which are affixed to one or more sheets of paper. The pen scrawls an address on an envelope in shaky letters. About 1 minute later, all pages of the note are folded and inserted into the envelope. The envelope seals, and a stamp is affixed to it. The envelope then vanishes, and reappears in the nearest US Postmaster General-approved mailbox on an active mail pickup route.
+
+All letters follow the format of a stereotypical ransom note: the supposed writer of the letter claims “I” or “we” have possession of one or more individuals important to the addressee, and makes demands that are to be met at a certain place and time in exchange for the victim's safe return. Letters occasionally contain misspellings.
+
+Removing the envelope from the mailbox in which it appears, otherwise preventing its delivery to the addressee, reading the envelope, opening the envelope and reading the letter inside all appear to produce no ill effects.
+
+If the letter is read by the addressee, the stated victim(s) will immediately vanish, regardless of the victim's location or activity at the time.
+
+Meeting the demands of a letter produced by SCP-1020 invariably results in the return of the victim within 24 hours to their place of disappearance or another nearby safe location, unharmed and with no memory of the time they were gone.
+
+Recipients are chosen seemingly at random. Letters rarely make demands involving money, and in those cases, the money carries personal value to the recipient or victim. Intercepted letters' demands have included:
+
+Destruction of family's only vehicle by fire in a local parking lot for return of son.
+
+Tattooing of a cryptic phrase on the palm of recipient's left hand at a specific tattoo parlor for return of husband
+
+Cash withdrawal of daughter's entire college fund, followed by random distribution of said cash to strangers at Central Park in New York City for return of said daughter
+
+Injection of HIV-infected blood into recipient's own veins in exchange for wife (basic Internet search of intended recipient's name indicates he holds an MD and works at ██████ Hospital in ████, ██.)
+
+No victims have ever been recovered in cases where the demands were not met.
+
+Addendum 1020-01: Examination of components
+
+A close examination of components of SCP-1020 reveals several anomalous features. All destroyed or used components are replaced apparently via teleportation from the nearest available source within 1 minute. There appear to be no range limits on this phenomenon, and research involving destruction of the scissors in particular has been discontinued due to general inconvenience for all Sector █ staff. Additional anomalous properties follow.
+
+Newspapers: Titles and all other text appear to be gibberish, with seemingly random words strung together and interspersed with spaces and punctuation. This attribute applies even to new newspapers that have replaced destroyed ones in the collection via teleportation. Replacement newspapers are still recognizable by photographic content, font styles and layout. SCP-1020 shows no preference for any particular publication, simply taking the necessary number of mostly complete newspapers from as nearby as possible to maintain a collection of 11 total.
+
+Rubber cement: No amount of force yet applied by researchers can open or break the jar. Forces tested are up to ███ N. The adhesive itself comes from an unknown source, as no rubber cement is commonly used on-site.
+
+Book of stamps: Individual stamps appear to be teleported directly into the book. SCP-1020 will only take modern stamps in this way. The total number of stamps in the book has never dropped below 12.
+
+Incident 1020-01: On █/█/20██, at approximately 12:30 p.m. local time, a driver struck and effectively destroyed the mailbox located on ██████ Road, placed there for collection of SCP-1020's letters. A subsequent interview revealed the driver was intoxicated, and there is no indication of any influence by SCP-1020 or any other outside agent. However, timestamp data on footage of SCP-1020 reveals that within 4 seconds, SCP-1020 became extremely active, drafting and teleporting a ██-page letter in less than 2 minutes.
+
+Prior research had revealed the location of the next-nearest mailbox, and an MTF was dispatched. Mail pickup had already occurred, and the local post office had to be shut down for approximately an hour until the target letter was recovered.
+
+An image of the letter's first page and envelope front are available for viewing below.
+
++ View image
+
+- Hide image
+
+Letter and envelope retrieved following Incident 1020-01
+
+Blacked-out portions and subsequent pages give extremely detailed instructions on how to infiltrate Sector █, including staffing details, passcodes, and instructions on how to breach containment on several Euclid-level SCP items, with the end goal of covertly "liberating" and relocating all components of SCP-1020 to a condemned house in █████, ██.
+
+Note: This was a blatant escape attempt, indicating sapience. Yes, yes, it was a very stupid escape attempt. But as illogical as this will sound, we're apparently dealing with something that is simultaneously stupid and omniscient - for an unknown value of omniscience. Given just how much inadvertent damage could be caused by another "stupid" escape attempt coupled with some bad luck, and averted for the price of placing several backup mailboxes, I'm submitting a request for a very slight budget increase. -Dr. ████

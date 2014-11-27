@@ -1,0 +1,89 @@
+Closeup Image of SCP-2033 during Test 2033-████.
+
+Item #: SCP-2033
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2033 is contained at Site-101. SCP-2033 has no special nutritional requirements, and may be cared for in an identical fashion to a normal sugar maple specimen.
+
+No pieces of chewing gum are to be applied to SCP-2033 outside of approved testing. SCP-2033's containment chamber is to be subject to audio recording at all times.
+
+Description: SCP-2033 is a sugar maple tree (Acer saccharum) measuring approximately 5m tall, with its trunk measuring approximately 0.2m in diameter. SCP-2033 displays the normal annual patterns of a non-anomalous tree, although it has not been observed to grow in size since its discovery in 1984. Analysis of SCP-2033's DNA shows no abnormalities.
+
+On SCP-2033's trunk are several pieces of used chewing gum in various stages of decomposition. Analysis reveals these to be chemically identical to normal chewing gum. At an average rate of three times per day, one piece will separate from SCP-2033 and inflate into an instance of SCP-2033-1.
+
+SCP-2033-1 appear as bubbles of chicle rubber which display neutral buoyancy in air. Upon creation, instances measure between 10cm and 15cm in size, and increase in diameter at a rate of approximately 10cm per minute.
+
+Upon reaching approximately 50cm, instances of SCP-2033-1 will burst, producing a characteristic sound through unknown means. The sounds are invariably five to ten second clips of a woman (identified as E████ M█████) singing various arrangements from musical plays produced in the United States. No cognitohazardous effects of these sounds have been reported.
+
+A new piece of gum will appear on SCP-2033 approximately one hour after each SCP-2033-1 manifestation.
+
+Any piece of used chewing gum which is attached to SCP-2033 is subject to its anomalous properties. Although it is possible to remove samples from individual pieces, complete removal has proven impossible.
+
+SCP-2033 was discovered following an impact event on 2/15/1984, in which an object resembling [DATA EXPUNGED] crashed into Site-101's Anomalous Object Laboratory. Further information regarding the event is available to personnel with Level 4 Clearance
+
+As of ██/██/1985, SCP-2033 is contained at Site-101 and is classified as Safe.
+
+Addendum: Incident 2033-Alpha
+
+Open File
+
+Access Granted
+
+Timeline of Incident 2033-Alpha
+
+1/12/1984: Foundation operatives at the ██████ █████ Observatory in ███████, New Mexico detect an object resembling [DATA EXPUNGED] in low earth orbit.
+
+1/14: Discovery is confirmed by ██████ █████ Observatory in Chile.
+
+1/19: Analysis of the object's trajectory is undertaken.
+
+1/21: Trajectory is found to indicate orbital decay. Area-55's Astronomical Division transfers case to Site-19 Extranormal Event Mitigation.
+
+1/22: Preliminary report into event is drafted.
+
+2/1: Request is submitted to neutralize object with an Alpha-17 Missile. Request Denied.
+
+2/2: Reentry date calculated to be 2/15.
+
+2/10: Reentry location calculated to be above Arizona. Order is given to observe reentry from Site-101.
+
+2/15:
+
+0155: Object passes mesopause.
+
+0203: Fireball is observed at a later time than expected. Altitude is approximately 55km.
+
+0205: Object remains intact, despite reentry forces. Altitude is approximately 40km.
+
+0208: Object's trajectory is altered via unknown means. Object now on course to collide with Site-101. Altitude is approximately 30km.
+
+0210: Shelter in place order is given to Site-101.
+
+0213: Object impacts Site-101's Anomalous Object Laboratory.
+
+0330: Shelter in place order is lifted.
+
+1115: Body of Agent Peter Lennard is discovered in debris.
+
+1204: SCP-2033 is discovered.
+
+Incident 2033-Alpha demonstrates that the dangers associated with cross testing SCP artifacts may also extend to items classified as merely anomalous. The properties of AO-4805, one of the anomalous objects that was destroyed in the incident, appear to be related to SCP-2033's properties. It therefore is reasonable to theorize that an interaction between AO-4805 and the object which impacted Site-101 produced SCP-2033. As such, I suggest that Anomalous Items be included in regulation requiring Level 4 approval of all cross testing.
+
+Dr. ███
+
+Denied. It is still unclear if SCP-2033 was created by Incident 2033-Alpha, or if the object which impacted Site-101 was, in fact, SCP-2033. Until you can present direct evidence of your theory, Level 3 approval will remain sufficient.
+
+O5-█
+
+Addendum: Memo Regarding E████ M█████
+
+E████ M█████'s death, though apparently non-anomalous in nature, coincided with Incident 2033-Alpha. As the nature of the sounds produced by SCP-2033 already inexorably link her to the object, Ms. M█████ can now be classified as a Person of Interest (deceased) under directive POI-58q.
+
+In addition to this, up until this point, all evidence connecting Ms. M█████ to GOI-984 has been purely based on the now discounted testimony of R█████ L█████ Sr.. SCP-2033's connection to her, however, is likely more than a coincidence.
+
+This evidence draws into question both of the two theories currently proposed for SCP-2033's origin. First, the theory that the object which impacted Site-101 was SCP-2033 is extremely improbable due to the connections to both AO-4805 and E████ M█████. The alternate theory, that an interaction between the impact object, AO-4805, and Ms. M█████ produced SCP-2033, is also unlikely. Such an interaction between three objects at the same time has never been noted to occur.
+
+Based on this information, I hereby propose that we conduct additional research into SCP-2033 to determine a more likely scenario for its creation.
+
+- Dr. Charles █. ██████

@@ -1,0 +1,103 @@
+Item #: SCP-1610
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-1610-1 are to be kept in cryogenic containment at Site 23. All samples of SCP-1610-2 should be kept in a receptacle measuring approximately 2m in diameter and 3m in height. Testing with SCP-1610-1 should be kept to a minimum, if possible. All instances of SCP-1610-1 created by the Foundation are to be incinerated at the end of testing.
+
+Description: SCP-1610-1 is a series of humanoid individuals. All subjects are anatomically identical to humans, but exhibit no signs of sentience or sapience. Each instance is marked with one of four possible symbols somewhere on its body1; as such, instances have been divided up into subgroups by symbol, designated as SCP-1610-A through SCP-1610-D, respectively. All subjects within a certain subgroup are identical. See Table-1610-Beta for greater detail about each subgroup.
+
+SCP-1610-2 is a currently unidentified anomalous liquid. SCP-1610-2's anomalous properties activate only when either a human being or an instance of SCP-1610-1 is completely immersed in a sample of the liquid. If a human is immersed, then the liquid will render the subject comatose and disable higher brain functions through an unknown means for approximately 30 minutes. It will then create six instances of SCP-1610-1 that are identical to the human immersed. During this process, the subject's vital functions are kept in suspension by an unknown process, and will exit SCP-1610-2 unchanged after the process is complete. If an instance of SCP-1610-1 is immersed, SCP-1610-2 will dissolve the subject and manifest an undamaged instance of SCP-1610-1 identical to the one previously dissolved.
+
+SCP-1610-1's anomalous properties manifest when an instance of SCP-1610-1 experiences physical damage. If the damage done would be non-lethal to a human of similar size, then it is repaired at a rapid rate. If the damage would be lethal to a human of similar size, then the SCP-1610 individual vocalizes loudly and repeatedly until fully immersed in SCP-1610-2. Vocalizations seem to vary between subgroups, with each subgroup having different sets of phrases. See Table-1610-Beta, column "Examples of Phrases Vocalized" for greater detail.
+
+Table-1610-Beta
+
+Close Table
+
+Subgroup
+
+Symbol and Location of Symbol
+
+Description
+
+Examples of Phrases Vocalized
+
+SCP-1610-A
+
+α, forehead.
+
+Instances of SCP-1610-A are males of indeterminate ethnicity measuring approximately 1.8m in height and 70kg in weight. Individuals are inanimate and unresponsive unless exposed to damage that would normally be lethal. When exposed to damage that is non-lethal, it will be healed almost instantaneously; as such, trauma applied to instances of SCP-1610-A tend to result in anatomical structures remaining in inappropriate angles and positions.
+
+"Test failed;" "Results unacceptable;" "Repair test subject"
+
+SCP-1610-B
+
+β, lower back
+
+Instances of SCP-1610-B are males of primarily Hispanic descent, measuring approximately 1.4m in height and 66kg in weight. Individuals are capable of completing simple tasks when prompted, but show no actual cognitive abilities. Healing of non-lethal wounds is delayed, allowing for time to correctly position all parts of the body for efficient healing.
+
+"Abort testing;" "Stimulus is lethal;" "Product is not ready"
+
+SCP-1610-C
+
+δ, left shoulder
+
+Instances of SCP-1610-C are males of primarily Caucasian descent, measuring approximately 1.7m in height and 74kg in weight. Individuals are capable of completing simple tasks and interacting with other SCP-1610-C specimens when prompted. SCP-1610-C appears to be able to correctly tend to its own wounds.
+
+"We're almost there;" "Keep testing;" "You're doing great"
+
+SCP-1610-D
+
+ε, back of the right hand
+
+Instances of SCP-1610-D are females of primarily Caucasian descent, measuring approximately 1.5m in height and 60kg in weight. Individuals are capable of completing simple tasks and interacting with personnel and other SCP-1610-1 specimens to a limited degree. SCP-1610-D appears to be able to correctly tend to its own wounds.
+
+"It's okay;" "I'm not hurting;" "It's for the best;" "We're helping so many people"
+
+SCP-1610 was discovered in ██████, ██ in the United States at a suspected cover building for GoI-14 ("Prometheus Labs, Inc."). A Foundation raid on the building recovered the objects, along with 17 other anomalous artifacts. When discovered, SCP-1610-1 was kept in cryogenic suspension in the eastern wing of the building. The only other anomalous artifacts found in that section were samples of SCP-1610-2.
+
+Addendum-1610-Alpha: The following series of assorted handwritten documents were found at the discovery site of SCP-1610.
+
+How can we possibly make humans better when we can't test on them fully?
+
+Results are in. Finally, the prototype test subject has been made. Z-Subjects are gonna be the way of the future, let it be marked here.
+
+Johnson gave me an idea today. We made the replication gel just last week; why not combine it with the Achilles Project? The Z-Subjects are only as strong as humans, and hell, we could always use some more. It's not like we can just throw any old person into it.
+
+Or, I mean, it's not like we would. Not unless they volunteer.
+
+The alpha subjects are in. As of right now, they're really more of piles of meat and bones than anything, really. We can barely make the things stand up on their own. It's really ridiculous to watch some of the tests. We'll fix that with the betas.
+
+They walk and everything alright, but still, it's not enough. When a guy gets stabbed, he doesn't just keep on walking. All treatments at this time are, unfortunately, ineffective.
+
+Hey, can we at least get these things to stop fucking yelling when we kill them? I know it's supposed to help us know exactly what is and isn't working, but fuck, it's eerie.
+
+Well, that's one batch of clones wasted and one "Bring Your Daughter to Work" day that shan't be forgotten. All gamma Z-Subjects have been incinerated.
+
+Good news, delta Z-Subjects are working more efficiently than ever, and we're making some real progress. Bad news, some of the workers are unnerved with working on [REDACTED], and it's dropping the morale a lot.
+
+Fuck this place. Fuck this place straight to Hell. All of you are sick people, and I wish I could take you all with me. This is for the good of humanity? You say that, but every day for the last three goddamn weeks, we've been watching people die on purpose. Fuck what they're telling us, yeah, they're fucking human. Don't give me any of this Z-Subject bullshit. Even we can't build a perfectly correctly functioning human by ourselves. I mean, it's obvious now, isn't it? Now that we got our fucking [REDACTED] dying in front of us every day. I came to this company because I thought we could help. I thought we could make a fucking difference to the human race. I didn't come to work here so that I could commit murder over and over again. We're making no fucking progress and the higher ups fucking know it. The project should've stopped after the first week.
+
+Goodbye. I'm burning my body so you bastards can't fucking kill me more than I want to be killed.
+
+Suicides have increased dramatically among staff. Defections, too. We're losing personnel right and left. Maybe a new model is needed, a more encouraging voice.
+
+Is… is this a fucking joke to them? How the hell am I supposed to carry the body of the nicest lady in the whole damn building to the vat when she's constantly telling me how wonderful I am and how "okay" it fucking is?
+
+It isn't fucking okay.
+
+I only wanted to help.
+
+All we've done is make humans that want to be killed.
+
+It crossed the line when they programmed in the phrase, "I wanted to die."
+
+LEVEL 4 SECURITY CLEARANCE REQUIRED
+
+ACCESS GRANTED
+
+As of 05/16/2004, individuals matching the description of SCP-1610-A and SCP-1610-B have not been discovered. However, SCP-1610-C and SCP-1610-D have been identified as being identical to Thomas Masterson and Beatrice Logan respectively. Mr. Masterson was previously confirmed to be one of the head researchers of the Achilles Project headed by Prometheus Laboratories, and Ms. Logan was confirmed to be his secretary.
+
+Footnotes
+
+1. α, β, δ, and ε

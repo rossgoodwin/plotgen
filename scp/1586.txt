@@ -1,0 +1,43 @@
+Item #: SCP-1586
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1586 is housed in a standard humanoid cell at Humanoid Containment Site 06-3. SCP-1586 is to be fed a high-calorie diet and monitored at all times via biometric sensors. Any illness, distress, or inconsistencies in biometric readings are to be reported to off-site command at Site 19 immediately, and any medical procedures carrying a risk of inducing miscarriage must be approved by both the Site Director and Assistant Site Director.
+
+Until final contingency procedures are developed, all non-essential personnel must evacuate the site in the event that SCP-1586 experiences a miscarriage or goes into labor.
+
+Description: SCP-1586-1 is a human female of mixed European ancestry, approximately 17 years of age at initial containment. SCP-1586-1 is physiologically normal in all regards with the exception of being slightly emaciated as a result of long-term malnutrition due to the effects of SCP-1586-2, which have only been partially mitigated via the administration of a high-calorie diet. At time of last update, SCP-1586-1 has been in Foundation custody for the past five (5) years, during which she has been highly cooperative with Foundation personnel and thus poses a minimal security risk.
+
+SCP-1586-2 is an anomalous object or entity suspended in the center of SCP-1586-1's uterus that appears to be a near-perfect black body in the shape of a twelve-week-old human fetus. The object exhibits extreme lensing of electromagnetic radiation consistent with a gravitational singularity and continuously draws nutrients and fluids from the uterine lining of SCP-1586-1. Measurements of the object's properties has yielded a calculated mass of approximately 1.69 x 1025 kg; it is currently unknown how or why these effects are limited to the inside of SCP-1586-1's uterus or why SCP-1586-1 is only minimally affected.
+
+SCP-1586 came to the Foundation's attention on █/██/08 following a hospital visit from SCP-1586-1; the anomaly was noted during a routine x-ray computed tomography (CT) scan of the subject to diagnose abdominal pain following an impact injury suffered during a sporting event, and embedded agents at the hospital notified the nearest Foundation Observation Post. A containment team was dispatched and amnestics were administered to all civilian witnesses; a cover story given to SCP-1586's parents.
+
+SCP-1586-1 claims to have never had sexual intercourse. Medical examination has been unable to corroborate this claim.
+
+Addendum 1586-01: Incident Report
+
+On ██/█/08 SCP-1586-1 became extremely ill as a result of accidental exposure to a pre-symptomatic Foundation caretaker infected with an influenza virus. During the following week, multiple malfunctions in gravimetric and radiometric sensors as well as intermittent power fluctuations were reported at Humanoid Containment Site 06-3 at times consistent with the most serious periods of illness in SCP-1586-1.
+
+It is theorized that SCP-1586-1 is somehow containing the effects of SCP-1586-2, which was disrupted during her period of illness; subsequent examination showed a 1.3% increase in the suggested mass of SCP-1586-2 which seems to support this theory. The research staff believes that if SCP-1586-2 were separated from SCP-1586-1, either through birth, miscarriage, or surgical removal, it would exert the full effect of a gravitational singularity.
+
+Until such time that we can find a permanent solution to this problem, I am requesting that we keep SCP-1586-1 as healthy and comfortable as possible.
+
+Dr. █████████
+
+Senior Observer
+
+Addendum 1586-02: Administrative Note, █/██/09
+
+Request approved. Do what you have to.
+
+O5-██
+
+Addendum 1586-03: Observer Note, █/█/09
+
+Administering a high-calorie diet and additional medical care appears to have improved SCP-1586-1's condition, but has also slightly increased the rate at which SCP-1586-2 is gaining mass. While it's not growing as fast as a real human fetus would, the last snapshot we took seems to indicate that the shape and size of SCP-1586-2 are now consistent with that of a fetus at 16 weeks. We have also detected subtle shifts in its silhouette and local readings which may indicate that it's starting to move.
+
+We have no clue where it's getting the extra mass from, but at this rate we may have less than five years before it becomes "full term" and that's not ruling out the possibility of premature labor. To make things even worse, SCP-1586-1 is beginning to show signs of psychological instability: Her mental state will swing between periods of extreme depression and moments where she believes that she is pregnant to some kind of deity figure, and the last thing we need is an unstable host.
+
+There is simply too much we don't know about this anomaly and the possible consequences of a major incident are completely unknown. I am requesting further research and medical assets for the SCP-1586 team.
+
+Dr. █████████

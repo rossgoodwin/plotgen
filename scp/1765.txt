@@ -1,0 +1,109 @@
+Item #: SCP-1765
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1765's activity is currently limited to the confines of Area-37, which is considered its effective containment zone. Due to SCP-1765's complete infestation of Area-37, it is to be considered a Type-4 Corporeally Unstable Territory, and all Foundation personnel inside are to be considered effectively lost. A defensive perimeter has been established around Area-37 according to standard Telemachus Protocol. Attempts to breach Area-37's complex have all ended with the loss of all involved Mobile Task Force Personnel, and so have been discontinued until further notice. In the event that SCP-1765's activity spreads, the on-site nuclear devices stored in Area-37 may be activated with the authorization of O5-Command. Due to the large volume of data produced by the activity of SCP-1765, a designated server farm has been constructed to contain it. Said server farm is to be kept isolated from all other Foundation networks.
+
+Description: SCP-1765 is the collective designation for a group of three semi-corporeal entities, typically manifesting as vaguely humanoid, off-white silhouettes. Instances of SCP-1765 display a capacity to willfully weaken the structure of reality in their immediate presence, allowing them a limited but potent control over temporal and physical distortions within a substantial range. Instances of SCP-1765 are capable of speech (speaking in three differently toned voices, described by listeners as feminine), and seem to possess individual and consistent personalities.
+
+SCP-1765 was first introduced to Area-37 following a successful raid by Foundation forces on a Serpent's Hand cell located in the nearby city of ████████. Several suspected anomalous artifacts as well as fifteen captured Serpent's Hand operatives were retrieved and brought back to Area-37, an isolated facility specializing in the initial storage of such items. During preliminary examination of three of the retrieved artifacts (a small wooden loom, an enamel needle, and a glass eye), all three instances of SCP-1765 (henceforth SCP-1765-1, SCP-1765-2 and SCP-1765-3) appeared and addressed the attendant personnel, Researcher ████. This conversation was recorded by the testing chamber's monitoring system:
+
+<Begin Log>
+
+SCP-1765-1: Greetings, esteemed members of the Foundation. We come to you with auspicious news.
+
+SCP-1765-2: Aye, you'll be right pleased you will.
+
+SCP-1765-3: Hello.
+
+Researcher ████: What the hell-
+
+SCP-1765-1: Pardon, sir, I'll be with you in a moment. [to SCP-1765-2] Sisters, I thought we have agreed to let me do the introductions. You are embarrassing us.
+
+SCP-1765-2: Oh, woops! Heehee, go on, we'll be quiet.
+
+SCP-1765-3: Apologies.
+
+SCP-1765-1: Ahm. Yes, as I was saying, Greetings. We are pleased to finally be able to make your acquaintance, for we have observed your organization for quite some time. Indeed, we have observed a great many, and out of them all you stood out like a shining beacon of progress in a dark sea. Well done.
+
+SCP-1765-2: Oh, we are so very proud!
+
+SCP-1765-3: Congratulations.
+
+Researcher ████: Would someone get security- [Researcher ████ grasps his tongue, which becomes visibly blackened and withered]
+
+SCP-1765-1: I told you, sir, I will be with you in a moment. Where was I? Oh, right. All this considered, we have decided that you, and no other, are worthy of receiving our assistance. It is an honor most rare, we assure you.
+
+SCP-1765-2: Like a bloody steak it is, that's how rare.
+
+SCP-1765-3: Tartare.
+
+[Researcher ████ attempts to speak again, then falls to the floor. His tongue crumbles to dust. He loses consciousness]
+
+SCP-1765-1: Hmph. Why must people always be silly? We shall have to fix that later. I keep losing my train of thought, it is most infuriating.
+
+SCP-1765-2: Our help, Severity.
+
+SCP-1765-3: Assistance.
+
+SCP-1765-1: Ah, thank you. Yes, our help. Seeing how meticulously you keep to the scientific method, we venture that we could be of most use to you if we do the same ourselves. Our abilities in that field are substantial, after all. Yes, to assist you, we will conduct several useful experiments on your behalf, and deliver you the data. We believe this is the beginning of a wonderful partnership.
+
+SCP-1765-2: Er, I think he's out cold, love.
+
+SCP-1765-3: Unwell.
+
+SCP-1765-1: Oh, never mind him, they record everything. It's why we chose them, isn't it?
+
+SCP-1765-2: Aye, that's so.
+
+SCP-1765-3: Yes.
+
+SCP-1765-1: So, to those who are listening, we will begin our experiments immediately, since there is hardly a point in dilly dallying. Now, we realize that they might seem a bit harsh, but trust us, we know what is best for you.
+
+SCP-1765-2: Sisters know best, hehe!
+
+SCP-1765-3: Always.
+
+Following this conversation, all three instances of SCP-1765 began to move rapidly throughout Area-37. As SCP-1765 continued circling Area-37, several events were noticed which have been associated with reality bending phenomena. SCP-1765 eventually ceased this pattern, presumably because Area-37 had become unstable enough to suit the parameters of their planned experimentation. At the conclusion of this process, security footage revealed that Area-37 was divided into four distinct sections, and Area-37's personnel divided between them according to SCP-1765's location at the time of the event, as detailed below:
+
+Section-A (previously Area-37's mess hall, storekeeping and dormitories): the smallest of the sections, Section-A was the least changed by SCP-1765. Notable additions are two large brass vats located at the east corner of the mess hall, a monitoring station connected to other sections of Area-37 replacing storekeeping, and a large marble sign above the entrance to the dormitories reading 'CONTROL GROUP'. Personnel belonging to the control group are not subjected to the experimentation taking place in other sections of Area-37. Once every five to seven hours, the control group is visited by one instance of SCP-1765. During said visitation food and water are dispensed from the brass vats, and the visiting instance typically addresses the control group, often encouraging them to use the monitoring station to observe any ongoing experiments.
+
+Section-B (previously Area-37's outer grounds and sport facilities): Section-B is the fulcrum of a localized spatial-temporal abnormality. Because of this, its size, climate, atmospheric composition and pressure and temporal flow are all variable, and are seemingly controlled by the will of SCP-1765-1, the entity typically overseeing experimentation in Section-B. According to SCP-1765-1, experimentation in Section-B is meant to delve into the effects of repetitive action performed under unusual conditions on the human psyche.
+
+Section-C (previously Area-37's main office complex): Section-C exhibits similar anomalous properties to Section-B, though it is associated with SCP-1765-2 rather than SCP-1765-1. Observation (as well as limited input from SCP-1765-2) indicates that experiments taking place in Section-C tend to focus on group dynamics and interpersonal relations during extreme conditions. On average, the physical alterations to Section-C during experimentation are more radical than those observed in Section-B, while temporal alternations are significantly less so.
+
+Section-D (previously Area-37's high-risk containment area): Section-D is currently the least understood segment of the altered Area-37 complex. Physically, it remains virtually unchanged from its state prior to its initial infestation by SCP-1765. Temporally, however, it appears to be entirely disconnected from the baseline stream of events, existing as an isolated 'bubble' from events occurring outside of it. The temporal reality of Section-D as well as any experimentation taking place within it are associated with SCP-1765-3. Due to SCP-1765-3's terse speech patterns and the general obscurity of the experiments it conducts, little is currently understood about the nature or of experimentation taking place within Section-D.
+
+Regardless of the section an experiment takes place in, SCP-1765 will seek to provide the Foundation with high quality video and audio feeds documenting it. This data is transferred to the nearest compatible Foundation server through currently unknown means. Footage will also often contain recorded notes by the supervising instance of SCP-1765.
+
+Addendum 1765-A: The following is a description of notable experiments performed by instances of SCP-1765:
+
+Section-B:
+
+State of section: For this experiment, Section-B mostly retained its original form, other than the occasional structural shifts caused by reconstitution events as a result of the experiment.
+
+Personnel involved: Researcher ██, Agent ██████, Sanitation Engineer ██████████
+
+Experiment: Test subjects are brought into Area-37's sports center from an unknown location and are each given a wrench, a ruler, a brown paper pad and a ballpoint pen. Subjects are then instructed by SCP-1765-1 to closely examine the sports center's plumbing system and to measure the exact length of each pipe and the angle in which it is connected to other pipes. This process takes between ten and twelve hours due to the size of the sports center. Before it can be completed, however, Section-B begins a reconstitution event, causing the plumbing system to be completely rearranged and rendering all work previously done moot. Test subjects are then instructed to begin again. The process repeats itself 459 times before the experiments concludes.
+
+SCP-1765-1's notes: "Following yesterday's somewhat disappointing expedition to Olympus Mons (My, but were the hosts rude!), I have decided to attempt something less taxing on my test subjects, which are thus far proving to be both physically unimpressive and morally lacking. This simple examination of repeating sensory input and the manner in which it can be connected to other primal reactions to the point of overload should prove both useful to you and within my test subject's rather limited capability. Finally, a proof that even if we try to learn from experience, that attempt is ultimately pointless, since once life passes you by, you'll just have to learn everything all over again. That's useful knowledge, children, I do hope you are paying attention."
+
+Section-C:
+
+State of section: For this experiment, Section-C took the appearance of a football stadium, with test subjects appearing around the fifty yard line. Notably, the goal posts have been removed and replaced with concrete bunkers.
+
+Personnel involved: The former members of Mobile Task Force Iota-6 ("Canvas Cats"), ten of the fifteen captive Serpent's Hand operatives
+
+Experiment: The experiment took place in two phases; on the first phase, test subjects were divided into two teams, both consisting of a mix of MTF personnel and Serpent's Hand operatives. Both groups were then instructed by SCP-1765-2 to head to the bunkers located at the ends of the field. While running to these positions, several hooded figures appeared on the stadium's bleachers and began bombarding the test subjects with fast-moving fiery projectiles. Additionally, three-meters tall curved platforms began rising from the ground, requiring test subjects to exercise teamwork in order to bypass them. Due to the mixed composition of the teams test subjects were unable to overcome the platforms in time, and both teams were incinerated by the projectiles before reaching the bunkers. Thirty seconds following this, the second phase of the experiment began with the same group of test subjects again appearing near the fifty yard line unharmed. Subjects were again divided into two groups, one comprising of only MTF personnel and the other of Serpent's Hand operatives. Test subjects were again instructed to reach the bunkers. Test proceeded as previously recorded, with both teams now able to surpass the raised platforms and reach the bunkers. At this moment, however, the doors to the bunkers closed shut and two previously unseen pairs of sizable metal hammers descended from an unknown origin spot, crushing both teams to death.
+
+SCP-1765-2's notes: "I saw the kiddies were having a bad time with that double-date thing we did, so I thought to myself, 'Smile, kiddies today don't go for romance no more, s'too slow for them. They want excitement and sweat and explosions and sports!' so I called a few old friends of mine and they were happy to help, weren't they just! What was the name of that tall one with the robes? Madem? Mavven? Or was it John? Bah, can't remember, but I know he just loves the football! Heehee, we sure had a grand ol' time, even with the burning and the crushing and all. Oh, I think I'm forgetting something… oh, the test, this was… this was a test, yeah. Um, see, it goes to show you that no matter who you're with, you'll eventually get crushed by huge metal hammers smashing down from the sky! Hmm, no that can't be right… ah, I got it! Doesn't matter how much you prepare and whose with ya, sooner or later fate's gonna catch up with ya! Heehee, yes, this I like, this sounds just peachy! A lesson to be learned, my lads, a lesson to be learned!
+
+Section-D:
+
+State of section: Physically, Section-D remained unchanged from its original state.
+
+Personnel involved: Site Director ██████
+
+Experiment: Site Director ██████ enters Area-37's main containment vault. At the center of the vault a table (likely taken from the mess hall) is placed. On the table are two 1 liter vats of █████████ brand ice cream, one pistachio flavored, the other passion-fruit flavored. Site Director ██████ is instructed by SCP-1765-3 to 'choose'. Site Director ██████ then chooses the pistachio flavored ice cream and leaves the room. At this point footage momentarily blurs, and Site Director ██████ returns to the room, in which the unchosen vat of ice cream was replaced by a different one, this one chocolate flavored. He is again instructed to choose, this time picking the chocolate flavored ice cream. The process repeats itself, with unpicked vat replaced by one of a different flavor. At the time of the writing of this document, the Foundation has received over 10,000 hours of footage from this experiment, with analysis identifying over 200,000 different flavors of ice cream, including "Meerkat Marshmallow Madness", "Tranquility", "That Shoe You Always Liked", "God's Wrath", and [REDACTED]. All evidence suggests that this experiment is still ongoing.
+
+SCP-1765-3's notes (note is found at the beginning of the 1,356th hour of footage): "Delicious."

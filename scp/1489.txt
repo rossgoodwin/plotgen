@@ -1,0 +1,23 @@
+A section of SCP-1489's containment loop.
+
+Item #: SCP-1489
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1489 is constrained within a 9 km loop of refurbished, standard-gauge railway track in Containment Area-22. All rails and ties in this track have been taken from historic lines no longer in service, and must be replaced only with materials appropriated from railway segments last maintained prior to 1860. Stakes and other structural components of the track are not and need not be composed of historic materials. All historic components of SCP-1489's containment loop have been coated with a film of polymer resin to resist weathering effects. Additional supply of similarly preserved historic materials is maintained on site for repair purposes.
+
+Note that any historic component of the containment loop that suffers damage must be replaced rather than repaired. Repairing historic components renders them unsuitable for SCP-1489's containment.
+
+SCP-1489's containment loop must be walked at least once daily to monitor for erosive damage so that preventative maintenance can be performed. SCP-1489 itself must be kept within sight of at least two human observers at all times to prevent containment breaches from going unobserved.
+
+In the event of a containment breach, the exit trajectory of SCP-1489 must be recorded and forwarded to Mobile Task Force Tau-2 ("Train Spotters") so that redirection to the containment site can be performed.
+
+Description: SCP-1489 is an intangible railway train.
+
+SCP-1489 consists of 18 railway cars trailing a steam locomotive, all of which travel constantly at a speed of approximately 40 km/h along the ground. While SCP-1489 is both visible and audible to humans observing it directly, it is entirely invisible in all forms of indirect or recorded observation, including simple mirrors. SCP-1489 has no apparent physical substance, and will readily pass through any materials in its path with no effect. The only materials exempt to this property are railway components constructed and originally placed prior to an unknown date between 1860 and 1870. SCP-1489 will interact with these as would a normal physical train, and can thus be constrained with tracks composed of historic materials. This interaction is apparently one-way, as SCP-1489 exerts no force upon such materials as it passes.
+
+When not traveling along such a track, SCP-1489 moves smoothly along the ground as if following a straight railway and will travel in geodesic paths around the earth, deviating only when it encounters historic stretches of track of sufficient age which are approximately parallel to its path. It will resume this behavior upon reaching a break in such a track.
+
+SCP-1489 generally follows land contours, and slows somewhat when traveling uphill, but crosses substantial bodies of water at some elevation, as if traversing an invisible causeway. It has similarly been observed to travel directly through certain sharp inclines in terrain, as if traveling through a tunnel. Because SCP-1489 appears entirely solid and real to direct human observation, it typically causes significant disturbances when traveling through inhabited areas. Due to the difficulty involved in locating all witnesses of SCP-1489, the Foundation has previously practiced a disinformation campaign consisting of stories of "ghost trains" to discourage such witnesses from being considered credible.
+
+SCP-1489's locomotive resembles a Minerva-class tank locomotive as used by the London and South Western Railway in the mid-19th century, but lacks any distinguishing marks that would allow for further identification. Both the locomotive and the subsequent cars in SCP-1489 appear appropriate for this time-period, although they display only minor wear. SCP-1489 houses an appropriate complement of both passengers and cargo for its scale, and these share its properties of intangibility, and invisibility to indirect observation. Attempts have been made to communicate with SCP-1489's passengers using vehicles synchronized to its movement; however, while passengers have been observed to break off conversation when observed in this fashion, they have so far proven unwilling to communicate with researchers.

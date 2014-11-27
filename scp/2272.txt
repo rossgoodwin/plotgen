@@ -1,0 +1,41 @@
+SCP-2272's effects evident in a statistical file for Ellis Canastota, who does not exist, on the Pensacola Blue Wahoos' website.
+
+Item #: SCP-2272
+
+Object Class: Euclid
+
+Special Containment Procedures: Foundation contacts within Major League Baseball will work to replace the Pensacola Blue Wahoos’ general manager with Agent Rob Potsdam of Local Mobile Task Force 352-Dalet (“Dixieland Nightmare Magic”). Upon appointment as general manager, Agent Potsdam will trade Ellis Canastota to a Foundation-controlled summer league team in St. Petersburg, Fla., at which point containment procedures will be further revised. Following Incident 2272-Domino (see Addendum II below), SCP-2272 is to be monitored for anomalous activity outside its known effects, and officials in the Cincinnati Reds franchise will be advised to retain Ellis Canastota at the Double-A level or below.1 At least one member of Local Mobile Task forces in the region of Pensacola Blue Wahoos away games at which Ellis Canastota is scheduled to start shall attend. Regional Command will revise containment procedures if new information or activity is demonstrated.
+
+Description: SCP-2272 is a phenomenon currently effecting the Double-A minor league baseball team known as the Pensacola Blue Wahoos. The phenomenon manifests as a player who does not exist, Blue Wahoos starting pitcher Ellis Canastota, appearing in game records, statistical compilations and in memories of Blue Wahoos games since mid-201█. All attendees of Blue Wahoos games in which Canastota is purported to play experience an apparent collective visual hallucination of Ellis Canastota pitching, batting and fielding, and a baseball game proceeding as normal. This effect also applies to visual recordings, photographs or audio recordings of Blue Wahoos games.2 (See Addendum I below for attempts at computer analysis of purported photographs of Canastota.)
+
+Double-blind analysis of aerial sonar readings from Vince J. Whibbs Sr. Community Maritime Park during a game in which Canastota was purported to pitch confirm that no being or object existed in the space in-person observers or observers of photographs and video suggest. In addition, despite audiovisual recordings indicating baseballs being hit, thrown and otherwise manipulated, sonar tracking was unable to verify the objective presence of a baseball on plays in which Canastota was a factor. When Canastota is not "on the field," no anomalous effects are indicated.
+
+Ellis Canastota, according to scouts with the Cincinnati Reds organization and his listing on the Blue Wahoos website, attended “Oneiroi3 High School” in “Utica, WO.”4 No memories, recordings or statistics of any baseball performances by the player exist prior to his signing with the Blue Wahoos in 201█.
+
+Addendum I - Analysis of images: Multiple images affected by SCP-2272 were passed to a Foundation-developed program which subjects an image to a number of Fourier transforms and convolutions to obscure the resulting output from human recognition while simultaneously analyzing its structure and providing a summary of its contents by statistical analysis.5 An example report (SCP-2272-IMG310):
+
+SCP-2272-IMG310.
+
+Date: 1st July 201█
+
+Location: SPORTING EVENT at BASEBALL STADIUM (99% certainty)
+
+Type: FULL COLOR PHOTOGRAPH
+
+Subject:
+
+The image contains one (1) ADULT PERSON standing in foreground and seventy to eighty (70 to 80) ADULT PERSONS seated in the background. With 100% certainty the PERSONS in the image have CLOSED EYES.
+
+Addendum II - Incident 2272-Domino: Initial containment procedures for SCP-2272 orchestrated the appointment of Field Agent Robert Potsdam as general manager of the Pensacola Blue Wahoos, with the intent to trade Ellis Canastota to a Foundation-controlled summer league baseball team to contain SCP-2272’s effects. The evening after his appointment as general manager, Agent Potsdam was found comatose in his bed, after suffering apparent blunt-force trauma to the head. All Foundation staffers within an approximately 40 km radius of Agent Potsdam’s location reported experiencing the same dream that evening. Foundation staffers reported sitting in the stands of a baseball stadium and viewing Ellis Canastota throwing a fastball at the head of a bound Robert Potsdam.
+
+Footnotes
+
+1. At Canastota’s current level of statistical performance (7-10, 4.74 ERA as of last season) this is considered a feasible request with which the franchise is cooperating without objection.
+
+2. For further details on the nature of collective hallucination events: McTiriss, Kate, “Can I Get A Witness? Mass Hallucinations And Infohazards In Foundation Containment” Fieldwork: An SCP Foundation Journal (2013): 619.
+
+3. A potential connection to the Oneiroi Initiative believed to be involved in the creation of SCPs -1498, -2028, and -2805 is currently under research.
+
+4. ”WO” is not a valid ISO 3166 country or region code. It is used for both the World Intellectual Property Organization and the Wolof language, spoken in the Gambia and Mauritania. All individuals questioned about Ellis Canastota’s background did not recall specifics, with many indicating that he “keeps to himself.”
+
+5. This program was originally developed for use with SCP-592. For details on its operation and accuracy: Ashley, Giulianna, “Methods For Image Analysis On Infohazardous Imagery” Terminal: An SCP Foundation Journal (2007): 230.

@@ -1,0 +1,37 @@
+Example effects of SCP-1854
+
+Item #: SCP-1854
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1854-1 is stored in Standard Small Items Containment Chamber B5129 in Sector-23, and must be kept covered by an opaque cloth in all non-testing scenarios.
+
+SCP-1854-2 has been transcribed in Document 1854-α, stored in Hazardous File Server 23. Any instances of SCP-1854-2 discovered outside of containment are to be destroyed immediately.
+
+No personnel should be exposed to both SCP-1854-1 and SCP-1854-2 except in testing scenarios.
+
+Description: SCP-1854-1 is an acrylic on canvas painting, measuring 1.6 metres by 1 metre, depicting a number of consumer companies and their relationships to each other. Each company is represented by a graphic, typically a logo or wordmark, and a system of arrows is used to indicate one company owning a controlling interest in another. 87% of these portrayed relationships were accurate at the estimated time of creation, and of these a further 4% have since become incorrect; despite this, the anomalous effects of the item remain unchanged since first discovery.
+
+SCP-1854-2 is a short passage of English-language text intended by the artist to be displayed alongside SCP-1854-1. See Addendum 1854-B for a partial transcription.
+
+The anomalous effect of SCP-1854 occurs when SCP-1854-1 is viewed and the entirety of SCP-1854-2 is comprehended. Any length of time may pass between these two events without affecting the immediate trigger time of SCP-1854.
+
+Once an individual (hereafter 'subject') has been successfully affected by SCP-1854, any transaction completed by the subject which results in a registered company receiving money from the subject will cause a representation of the logo or wordmark of said company to appear in some location on the epidermis of the subject as if burned in by hot metal. These burns are small, typically only 150-250mm2 at first iteration, and will behave in a manner identical to a first-degree burn from a hot metal object.
+
+In addition, a burn will also appear for every parent or holding company of the company to which the subject initially gave money, with a delay apparently corresponding to the time taken for the earnings from the subject to propagate to the parent or holding company. Small company logos tend to appear in relatively inconspicuous areas, such as the inside of arms, and larger companies, especially when parent to a number of other companies, in more prominent areas.
+
+The effects of SCP-1854 do not diminish with time. Every new transaction will cause a new burn to appear on the subject; if the subject already has a burn or scar on their person representing the company, it will disappear and a new burn of a slightly (3-5%) larger size and greater severity will occur in its place. After approximately 5 iterations, these burns will approach second-degree severity.
+
+Addendum 1854-A: On ██/█/████, MTF Omega-12 raided the house of George Whitby, believed to have been the artist behind SCP-1854, based on information gathered from the admissions manager of the ████ ██████ art gallery. Inside were numerous finished and unfinished works of art of a similar theme to SCP-1854, but none were found to display any anomalous effects.
+
+A corpse, determined by matching dental records to be that of George Whitby, was also discovered within the apartment. Healed, partially healed, and inflamed third degree burns covered 92% of the body, and cause of death was determined to be sepsis from a large infected burn wound on the forehead resembling the logo of the ██████ power company.
+
+Addendum 1854-B: Partial Transcription of SCP-1854-2
+
+Capitalism is all around you: you know that. We all know now that the greedy 1% of the world population owns 99% of its wealth and how the bankers have destroyed this country with their 'spend spend spend' mindset. We know how the governments are all in cahoots with the rich and the infamous. Or should that be unfamous? Do you know ████ ██████████? No? Well he owns £7.2 billion - and he's best friends with the Prime Minister.
+
+[…]
+
+But do you know how many of the things you buy, things you eat, things you wear, things you use are owned all by the same handful of companies? That's right! You think you're eating organic, buying Fairtrade, being oh-so-ethical! I bet you haven't even heard of these companies. You don't even know their logos.
+
+You will now.

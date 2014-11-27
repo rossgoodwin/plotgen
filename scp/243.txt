@@ -1,0 +1,27 @@
+██ umbrellas under the effects of SCP-243, displaying simple flocking behavior, during Containment Breach ████████
+
+Item #: SCP-243
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-243 is to be secured in the geometric center of a standard containment cell no less than 16 m x 16 m x 16 m. The cell is to be connected to an adjacent room of similar size and composition by one standard lockable door; all exits to the cells are to be kept locked and guarded against unauthorized access.
+
+No Eligible Group (more than 4 identical inanimate objects; see below) is permitted into the containment cell, nor any item capable of producing such a group, except as necessary for testing. Personnel entering the cell are subject to search & seizure of unauthorized multiples.
+
+Objects animated by SCP-243 are to be removed to the adjacent room for study. Undesirable animated items are to be disposed of promptly, by incineration if appropriate. In the event that SCP-243 is applied to other SCP objects, or to other items of similar value, the "flock" is to be separated and held in standard Safe- or Euclid-class inanimate item lockers until the effects wear off.
+
+Following Incident 243-02, bringing Eligible Groups of weapons, easily weaponized objects, or wet-cell batteries into SCP-243's containment is grounds for termination or demotion to Class D.
+
+Description: SCP-243 is a mass of small wet-cell batteries, all fused at their negative terminals into an ellipsoid approximately 30 cm long by 10 cm diameter. The arrangement is semi-fluid: the batteries may be rearranged by applying gentle pressure, though it is far more difficult to remove them from the central cylinder.
+
+SCP-243's unusual properties manifest when an Eligible Group of objects is brought into its active zone, an area of indeterminate shape extending no more than 7.3 m or less than 2.5 m from the center of the item. The active zone's precise extent and shape change from minute to minute. An Eligible Group consists of 5 or more identical or nearly-identical inanimate objects: "nearly-identical" items are those that a casual observer cannot easily distinguish based on attributes other than overall color.
+
+SCP-243, removed for testing
+
+A former complex flock of umbrellas, now a fused aggregate
+
+Eligible Group members animate when brought into the active zone, displaying unusual flexibility and powers of levitation and locomotion. They acquire a few basic instincts, including self-preservation and variously complex flocking behavior. Object flocks range from simple separation-alignment-cohesion groups, like flocks of birds or shoals of fish, to aggregates involving role specialization and formation of discrete subunits. Animated objects also, secondarily to flocking, tend to behave in ways thematically appropriate to an object of their type: umbrellas form large shades, chairs make themselves available as seating, knives seek out objects to cut, etc.
+
+An item separated from the "flock" wanders aimlessly or searches for other flock members. Approximately 4 hours after separation, the item goes dormant and loses all apparent unusual properties; at this point, reuniting it with its group renders it animate again. 25 minutes after going dormant, it becomes permanently inanimate, losing all unusual properties and reverting to a normal object of its type. Whether intact or missing members, a flock de-animates permanently 24 +/- 2 hours after initial exposure to SCP-243. Flocks displaying complex shoaling behavior frequently fuse upon deanimation into aggregates representative of that behavior.
+
+Addendum: SCP-243 came to the Foundation's attention following a series of suspicious incidents involving █████ Animation Studios. The unusually fluid, "natural" motion depicted in the cartoons produced would not ordinarily have attracted attention, but [DATA EXPUNGED] every desk lamp in the facility [DATA EXPUNGED]. The effects wore off in the usual 24 hours. Class-A amnesiacs were administered to the animators involved and their families, all of whom remain under surveillance. Future █████ productions are to be monitored carefully for evidence of further interference.

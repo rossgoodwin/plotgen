@@ -1,0 +1,139 @@
+Item #: SCP-2005
+
+Object Class: Zeno (Medium Containment Difficulty/Low Threat)
+
+Special Containment Procedures: Contained SCP-2005 instances are to be contained in individual Faraday-insulated electronics/vehicle lockers (depending on appropriate size) in Site-65 and restrained with straps attached to the top, bottom, and rear wall of the locker to prevent motion. Earth's orbit is to be monitored for possible additional instances of SCP-2005; following recovery, data regarding the probe is to be concealed via AESIR protocol, and researchers are to disable and/or remove any transmission equipment present in the instance during initial experimentation if possible.
+
+Description: SCP-2005 is a series of probes of extraterrestrial origin, designated SCP-2005-A to SCP-2005-E. These devices differ radically in external design, but their internal systems, transmission parameters, and other features indicate a common origin.
+
+SCP-2005 instances record audiovisual and other data and transmit it via radio to what is believed to the their point of departure, which researchers hypothesize to be on or orbiting a planet or other body in the Teegarden's Star system, located approximately 12.5 light-years from the Earth's sun. (See Document 2005-B, Astronomical Data.) The Foundation has disabled or removed the transmission devices from contained SCP-2005 instances when possible. In 1992, a request was made for funding to attempt to replicate SCP-2005-A's coating for Foundation use; this request was denied by the site director, as the substance cannot under any circumstances [REDACTED].
+
+SCP-2005-A is a teardrop-shaped probe measuring 1.4 meters in diameter and coated in an layer of pale-green polymer. A sample removed during analysis was demonstrated to be highly resistant to temperature changes, kinetic impact, chemical corrosion, and other forms of damage.
+
+The outer coating is capable of being retracted in numerous places along the body, allowing for the use of a large central camera. The narrow section opens to allow material to be absorbed into the aperture, where it is analyzed and apparently disintegrated.
+
+SCP-2005-A was recovered from an art gallery by Her Majesty's Fellowship for the Study of Curiosities and Phantasmagoria in Marseilles in 1897, where it had been modified and installed as part of an upcoming salon des refusés exhibition, following reports of involvement from the "Nous Avons Conclu Une Entente" art collective.
+
+In 1986, advancements in computer science since initial containment allowed Foundation researchers to begin the process of reverse-engineering SCP-2005-A's storage drives. Although information not recorded in human languages has still not been deciphered, the majority of information recorded on Earth is printed materials, with a roughly equal ratio of fiction and nonfiction sources, notably a large collection of works of H.G. Wells and Jules Verne.
+
+The following is a transcription of the initial containment document created by the ASCI for SCP-2005-B. Original audio recorded 1939.
+
+Description. SCP-2005-B is disguised as a zeppelin. It measures about six feet at its longest point. Its outer facade is made of copper, a fabric that looks like canvas but seems to be some sort of exotic nylon, and asbestos. Now looking inside, however, we find large torn scraps of the invulnerable plastic similar to the coating of SCP-2005, which is now called SCP-2005-A to match this new arrival. It seems to have shed its skin at some point. The balloon section of the craft is filled with machinery; the guts of the thing are similar to 2005-A's, and equally beyond human advancement. On the outside, a system of gears and levers protrudes from the bottom which appear to control a series of mechanical arms, but on closer examination, the arms seem to be powered through electricity, or a completely exotic power system. The purpose of the gears is unknown.
+
+The mechanical appendages extending downward from the machine include mechanical hands wearing gloves made of white plastic, a secondary microphone, and what looks like other recording equipment, scissors, a comb, and a mop. When deploying the mop, it holds the mop's handle with an extended grasping tool in a manner that somewhat emulates human use. When it is indoors and a human enters visual proximity, 2005-B deploys its mop and carries out cleaning behavior until the human exits the room or faces away from the machine. 2005-B can also provide haircuts on request, but it is totally incompetent at the task and collects the scraps of hair.
+
+2005-B was discovered in Boston in May of 1939, two years after initial tracking of a "fast-moving cigar-shaped aerial object" began in the vicinity of Nantes in France. Eyewitness reports indicate that it flew at varying altitudes at speeds of up to thirty miles per hour, sometimes darting around like a bird, and entered buildings to literally consume books and other printed media by pulling them up into itself. Foundation containment agents managed to trap it in a reinforced reading room.
+
+Dictated by Doctor Stephen Bester.
+
+In 1945, SCP-2005-B was lost due to the defection of Area 12 to a group which was known to the Foundation as "Cách-Mạng Hàng-Cháo", or "The Chaos Insurgency".1 SCP-2005-B and SCP-2005-D (see below) were returned as part of the Sydney Accord of 2022, a non-aggression treaty signed by the SCP Foundation and the "Insurgency", which had been renamed the Pacific Storage Trust. It is unknown whether the Trust was able to reverse-engineer or otherwise replicate any component of either object.
+
+SCP-2005-C is a humanoid automaton. The object is encased in a self-pressurizing space suit, made of a thick, highly reflective foil believed to be a derivative of the material coating SCP-2005-A, except colored bright red with a vertical white stripe on each side of the suit's limbs. The chest opens outward to reveal that most of the torso and backpack are a single large compartment as present in previous versions of SCP-2005. The transparent face-covering visor has not been analyzed due to concerns of shattering it.
+
+SCP-2005-C's head is made with the same chrome substance, and superficially resembles a human's, with a highly-detailed, angular mouth and jaw and eye-shaped ovals. The object will reply to prompts in English, French, and Russian with relevant prerecorded messages in a computerized voice using the language in which the prompt was made.
+
+The machine's palm contains a retractable radio antenna. When extended, it is capable of moving objects at a distance without physical contact, powering electrical devices, and transmitting pre-recorded messages directly to radios, television sets, and certain metal objects. These "radio beams" have no apparent maximum range and cause significant communications interference in the area.
+
+Excerpt, Interview 2005-C Transcript:
+
+[Note: The full interview is available in the attached Document 2005-C-2: Full Interview Transcripts.]
+
+<Begin Log, 11/5/1968, 14:28>
+
+Interviewer: Where did you come from?
+
+SCP-2005-C: There is a traveler from beyond the stars: gleaming, hopeful. He understands your experiences with such spacemen have caused much suffering; he pleads welcome, disarmed, and approaches the local library.
+
+Interviewer: What is your purpose here?
+
+SCP-2005-C: Mouth dry with the fullness of creation, he, a simulation of a billion hearts before him, tastes truth, justice, and the American way as he longs with tight anticipation for the bookstore or magazine stand closest to your house.
+
+Interviewer: Why do you care about books?
+
+SCP-2005-C: He stood on the cusp of an immense evolution, wheeling before the thoughts of a generation like sandpaper on fire, but he needed to know the future, and the prognosis which leapt, tigerishly, like the lions of Daniel before him was: forward.
+
+Interviewer: Who created you?
+
+SCP-2005-C: Hurtling, Earthward, through the cold, from a distant, though not dissimilar, world, seeking the light of truth, with peace, the peace of wisdom, in their hearts, as they were, one of great minds, to read the predictions, prescient and euphonious, made, by his own hand, of man, yet beautiful, void of space came the traveler.
+
+Interviewer: Tell me about these predictions.
+
+SCP-2005-C: He saw that they had legends written of that which had not yet come to pass; and while those who had come before him and used them as a stopgap measure, a compensation, like a smooth gin martini, to account for the delays of transit, to let him blend in with the cities of mankind, years away, but there was priceless there, the brilliance of your soothsayers, this talent and so quickly in the fall of time.
+
+Interviewer: Who are the soothsayers?
+
+SCP-2005-C: [repeats the previous statement]
+
+Interviewer: Alright. What do you mean, "delays of transit"?
+
+SCP-2005-C: [repeats the previous statement]
+
+Researchers believe that 2005-C is describing the process by which it was designed. According to the automaton's testimony, reproduced here, probe instances are made to blend in with populated areas in order to better observe humanity and explore human civilization; however, the extraterrestrial manufacturers' distance from Earth means that any data will take several decades to reach their planet, as the species has not developed faster-than-light transport or communication.
+
+Thus, SCP-2005 instances have been designed not only to take in data about humanity, but to specifically target information which predicts how human civilization will develop in the future; in the process, the manufacturing species has misinterpreted science fiction writing as literal, factual description of our future. This speculation was corroborated in 2023, when SCP-2005-B's hard drive was recovered and stored English texts were decrypted; the apparatus had recorded film archives of Flash Gordon and Fritz Lang's Metropolis, among other works.
+
+SCP-2005-C was recovered from a military base in California in 1968, with the cooperation of the US Army2 According to reports, it was being kept as a mascot of sorts by a group of religious youths who were camped in front of a NASA base. The loiterers were arrested by military police for causing a disturbance and interfering with military communications, presumably as a result of SCP-2005-C's activity.
+
+The group was questioned individually, and detained on suspicion of being Communist spies.3 After researching, the group was believed to have ties to a Russian socialist organization called the "Brotherhood Pyateristiva", a radical group whose stated goal is the creation of a "Fifth International" workers' union, and were arrested on several charges. SCP-2005-C was then retrieved for containment. Any direct connection between SCP-2005-C and what was then termed the "Northern Fifth Church" is unknown.
+
+SCP-2005-D is an autonomous extraterrestrial aircraft of similar composition and structure to the three probes previously designated SCP-2005. The craft is an oblate spheroid with a structure that consists of eight sealed cylindrical chambers. These pods are arranged at a downward slant in a circular pattern around a central core.
+
+Each chamber has a door along the top which opens when effort is exerted in any direction upon its luminescent yellow handle. The central core contains the operational systems of the machine. Recording equipment extends from the bottom of the core, as well as grasping tools, scanners that indicate temperature and other environmental variables, a Geiger counter, an array of radiation-cleaning devices, and a tube which dispenses nutrient cubes.
+
+In this article, "nutrient cubes" is the term used for the homogeneous, sterile cubes which are continuously internally generated by SCP-2005-D. These 25-gram green-tinted blocks contain a mixture of synthetic proteins, fats, and carbohydrates that is suitable for long-term human consumption. A test subject reported that nutrient cubes "taste like mint and salad dressing".
+
+When SCP-2005-D encounters a human, it lowers itself to the human's eye level, begins to emit a low hum, and tilts so that one chamber is vertically upright and facing the human. The handle of the facing chamber then begins to glow with an intermittent pulsing pattern. If the human does not grasp the door handle, SCP-2005-D will follow the human in this position for an average of 15 minutes before abandoning the procedure. The machine will also dispense nutrient cubes and offer them to the human at various stages in this process.
+
+If the human enters the interior of the chamber, the door is sealed and locked while the external Geiger counter activates. SCP-2005-D will then travel to the nearest populated location, deploy its radiation-absorbing modules to decontaminate the area, and then eject the human.
+
+It contains a padded surface with protrusions at the top and bottom that act as headrest and foothold, respectively. The chamber's interior is shielded against radiation and electromagnetism (beyond the protection offered by the polymer coating) and is sealed airtight when the door is closed. It contains numerous life-support systems, as well as additional features that appear to have been installed for comfort, including a set of sliding switches whose only purpose seems to be the pitch, volume, and interval controls for a constant humming noise, and a device containing a canister of synthetic oil that infuses the purified air with the scent of roasted pork.
+
+While a human is inside a chamber, a projector will periodically present messages on the interior of the door at head level. These include statements such as "this is safe", "water is provided", and "you are almost a decontaminate". Questions will also be provided; these are followed by the protrusion of an on-board microphone toward the inhabitant. For a full report of statements and questions provided during testing (and answers given by subjects), consult Document 2005-D-4: Message Transcript. Examples include "who finally started it", "are you dying", "do you have any books", and "would you like to read".
+
+When the second question was asked in testing, a "yes" answer resulted in SCP-2005-D immediately ejecting the subject from the bottom of his chamber. (Note: authorization requests for testing with dying subjects were denied.) In the instance when the third question was asked, a slot opened in the inhabited chamber which revealed a compartment; the words "insert, please, here" were projected. In the last example, the test subject was instructed to answer "yes", and the projector switched to an image of text which was determined on later analysis to be The Sirens of Titan, a novel by Kurt Vonnegut; however, the text was not legible to the test subject due to the extremely small typeface used in projecting the novel in its entirety.
+
+SCP-2005-D was initially recovered by the Prometheus Labs corporation circa 1997 for reverse-engineering (via the traditional method, as opposed to the type carried out by PL using axiom-suspension drives), and apparently fed it information as requested to pacify it. Following the destruction of the facility which contained it, it transported itself to a Pacific Storage Trust facility within the same region while carrying PL staff.
+
+The probe was provided to the Foundation during Sydney Accord proceedings. Upon inspection, it was found to have minimal damage from exposure to axiom-suspension drives, unlike most equipment and personnel who were present during the Scranton Event. This has been attributed both to the relatively short time spent in PL containment and to the probe's polymer coating.
+
+According to declassified Pacific Storage Trust documentation, plans had been drawn for the use of SCP-2005-D's nutrient-cube technology by a wing of the Trust known as the Manna Charitable Foundation, but these were scrapped before implementation due to unspecified catastrophe.
+
+SCP-2005-E is an extraterrestrial research device. SCP-2005-E technology, broadcast parameters, and composition are similar to that of SCP-2005-D, and fully described in the attached Document 2005-E-1 (Materials Analysis).
+
+SCP-2005-E is comprised of a series of interlocked segments of varying widths and lengths with an ovoid central processing core. Each is coated on the underside with dermic interaction points designed to interface with the human neurological system without puncturing the skin. When SCP-2005-E encounters a human, it broadcasts a computerized voice which offers to act as a non-invasive cybernetic implant in exchange for harmless cerebral monitoring. It then requests that the subject turn to face away from the probe, so that it may rest on the subject's back to interface with him or her. (On several occasions in testing, once contact was made, subjects turning to run were considered by SCP-2005-E to have accepted.)
+
+SCP-2005-E's primary neurological interaction involves the recording of thoughts and sense data. It also provides a thought-activated heads-up display which includes physiological data, chemical analysis based on smell and taste, readable texts from an internal database of human fiction and nonfiction books (with one exception; see below), and a camera function which stores visual data for later viewing. At an average rate of ten times per day, the display will present one or more pictures or videos taken from previous sense data in order to record the subject's mental and physical reactions.
+
+This display is not compatible with existing intracranial devices, and provides much less functionality due to limited Internet access; although SCP-2005-E appears to be capable of network connection, its bandwidth and compatibility are severely restricted by the modem cable required to do so, and use has reported to be extremely unpleasant due to the noise level of the dial-up tone.
+
+Several display aspects are apparently nonfunctional, including a "bullets remaining" counter which has never displayed an output other than "00" and an indicator which claims to detect whether the user is inside a dream or simulation which has never displayed any output other than a blue circle.
+
+SCP-2005-E was recovered from the Moon in 2042, where it had made contact with a church belonging to the Reconstructionist sect of Christianity (see archived files pertaining to "The Church of the Broken God"). Recovery was designated a Blue Clearance semi-public event due to the presence of U.S. President W. W. Solenoid, who was attending a worship service at the time.
+
+A text file is present in SCP-2005-E's data storage which, unlike others that have been loaded, is not of human origin. In the display's browsing menu, it is titled "Message, To Those Who Disable Transmitters, Sent". The text reads as follows:
+
+Please clarify.
+
+Your projections have continuously been of low utility to journalist assimilation program.
+
+Your projections have been extremely inconsistent with recorded data of events.
+
+Recorded data of events indicates majority developments not fully planned or accounted for.
+
+Discrepancy priority one: Retention of planetary civilization.
+
+If transmitters have been disabled: re-install.
+
+If capable: record response.
+
+Do you not understand yourselves?
+
+Please clarify.
+
+Footnotes
+
+1. This was later found to be a mistranslation; a more accurate English version would be "The Porridge-Mongers' Rebellion".
+
+2. At the time, the Foundation was in cooperation with the United States government.
+
+3. According to ██████████, the officer who presided over the interrogation: "We had no idea what they were doing. Protesting? Partying? They were too hopped up on something to make sense. All we could puzzle out was that they were obsessed with the idea of the U.S. government 'traveling to the stars' and they were with the 'Fifth'. 'Fifth' what? We assumed 'Fifth Column' and phoned it in."

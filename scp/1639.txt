@@ -1,0 +1,81 @@
+SCP-1639
+
+Item #: SCP-1639
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1639 is to be kept in a secure room, of any reasonable size. All audio from SCP-1639 is to be recorded and submitted for analysis weekly. Should any researcher request SCP-1639 for testing, the request must be approved by Site Director ███████.
+
+Description: SCP-1639 is a ███████ brand portable radio, measuring 230 x 120 x 70 mm. The item's casing is red plastic, and shows no signs of wear. SCP-1639 still bears its product ID, and as such has been traced by Foundation operatives to the ███████ factory in Surrey, UK. This model was produced between the years 1979-1982. A piece of red tape marks the longwave frequency 2██.█ kHz on the frequency tuner.
+
+SCP-1639 exhibits no unusual properties when set to receive FM radio stations. However, when long wave radio is selected, SCP-1639 will receive a signal at 2██.█ kHz, despite this frequency being reserved for aeronautical navigation aids. No radio station is known to have ever broadcast at this frequency, and other radio systems receive no transmission even when placed directly beside SCP-1639. The signal received is henceforth designated SCP-1639-1.
+
+The content of SCP-1639-1 is mainly in the form of jazz music (93% of studied audio). The majority of the songs heard are pieces known to exist, though a fraction (approximately 4% of studied pieces) have been so far heard exclusively though SCP-1639. These pieces are markedly different, utilising fewer instruments and with lower sound quality. The remainder of the signal content is an individual (henceforth designated SCP-1639-2) speaking. SCP-1639-2 will usually appraise the pieces that have recently played on SCP-1639-1, though occasionally SCP-1639-2 will begin to discuss various topics, including:
+
+Jazz
+
+Poems written by SCP-1639-2
+
+Stories written by SCP-1639-2
+
+Firearms
+
+First aid
+
+SCP-1639-2's current state of health.
+
+SCP-1639-1 is constantly transmitted, and SCP-1639-2's narration occurs at regular intervals regardless of time of day and SCP-1639-2's reported condition.
+
+Addendum:
+
+Transcript #1639-23 (Extracts)
+
+<Begin Log>
+
+So that was Miles Davis and Blue in Green, ladies and gentlemen. A wonderful track…
+
+[four second pause]
+
+…just feel how smooth it is. It really brings memories back… I can just feel myself relaxing and calming down, reaching a kind of calmness deep inside me. Other genres of music are heard by the ears, but jazz is heard by the heart.
+
+[six second pause]
+
+I told you I'd give you an update on my condition. Well, it is getting worse, I'm afraid. It's like a drill in my chest, you know? Feels like it's drilling deep inside me. I don't know if I can take much more.
+
+[twelve second pause]
+
+Anything else I wanted to say… oh, yeah. I'm out of beans. I ran out of cans of beans this lunch, so now I'm down to the corn. Not quite getting my balanced diet, am I?
+
+[SCP-1639-2 laughs hoarsely]
+
+The potatoes are growing, so that's good. They should be ready soon. I'm wondering whether to kill one of the pigs. They're looking awfully thin. I tried one of those green tubers I mentioned yesterday, and it was bitter, but didn't taste too bad. I'll collect more at some point, after some more Jazz. It took me twelve rounds to get to them, though, so I'll be out of magazines very soon.
+
+[four second pause]
+
+But now for some more jazz. Let those worries fade away.
+
+<End Log>
+
+Transcript #1639-29 (Extracts)
+
+<Begin Log>
+
+Oscar Brown Jr singing Brother Where Are You. I've always loved this one. It's a powerful song, you know?
+
+[Four second pause]
+
+I can see the clouders moving around outside. I was going to go out and fetch some of the water, but I don't think I'll be able to now.
+
+[Three second pause]
+
+I'll go and get some later. I should bring the pigs inside.
+
+[sound of SCP-1639-2 getting up from chair and moving to the door. Sixteen seconds of silence, then five gunshots are heard. Forty-three seconds later, the door reopens and SCP-1639-2 is heard to sit down]
+
+They got all of the pigs.
+
+[Four second pause]
+
+Okay. This next track is Angel, by Wes Montgomery.
+
+<End Log>

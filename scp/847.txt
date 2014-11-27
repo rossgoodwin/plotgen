@@ -1,0 +1,15 @@
+SCP-847
+
+Item #: SCP-847
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-847 is kept inside a locked room reinforced with vanadium steel and concrete. In addition, SCP-847 must be kept chained up to at least four of the twelve electrically live hardpoints in the room at all times. These hardpoints are connected to a relay of backup generators that will activate in case of a power failure. Should these generators fail or the chains become disconnected from the live hardpoints, Protocol SCP-847/E2 is to be enacted immediately and to remain active until SCP-847 can be properly resecured. This is to be escalated to Level E6 if the containment room is breached.
+
+All personnel posted to SCP-847 must be armed with Containment Device 2-9, a shock baton with internal charge of 30,000 volts. No female personnel are permitted within a one hundred meter radius of SCP-847. Any female personnel found within this radius are to be incapacitated and removed from the area immediately.
+
+Description: SCP-847 resembles a human female mannequin; researchers have been unable to determine if the missing pieces are due to injury, degradation or attack. SCP-847 is normally dormant unless it is in close proximity to a human female; experimentation has determined the radius of this effect to operate at around 50 to 100 meters. SCP-847 will animate under these circumstances and will make every attempt to reach the human female, exhibiting unnatural strength, immense destructive activity and total single-mindedness (see Archive file SCP-847/32198 for previously documented escape attempt). Upon reaching the female it is pursuing, SCP-847 will proceed to [DATA EXPUNGED]. SCP-847's only known vulnerability is high-capacity electricity; judicious application of electricity will render SCP-847 temporarily dormant.
+
+Discovery: SCP-847 was discovered, apparently inert, in a remote location in the hills of the Mojave desert on ██/██/████. A female hiker who had gone missing was discovered near the mannequin, apparently killed by massive blunt trauma. Enough evidence existed for the police to connect the killing to the mannequin; luckily, SCP operatives caught wind of the event during the preliminary investigation, before SCP-847 had been taken from the crime scene and potentially allowed to become active. The discovery stands as a perfect example of how and why close adherence to public surveillance procedures is necessary for the continued success of the entire organization.
+
+Additional data: SCP-847 was originally found in a further state of disrepair; it appears to have regenerated somewhat between initial discovery and present time. It is hypothesized that the regeneration method is linked to its obsessive desire for human females. The method SCP-847 uses to detect females in such a range, even despite the containment procedures, is also as yet unknown.

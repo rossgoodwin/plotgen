@@ -1,0 +1,45 @@
+SCP-472
+
+Item #: SCP-472
+
+Object Class: Safe Anomalous Euclid
+
+Special Containment Procedures: SCP-472 is to be kept in the center of an empty, locked cell measuring 37m x 37m (122 x 122 feet). All personnel wishing to enter for research purposes must undergo a psychological evaluation and submit a research request before being permitted entry. Personnel should not remain within 18 m (60 ft) of the stone for more than five (5) minutes without being directly monitored by security personnel.
+
+Update 472-001: No personnel exposed to SCP-472 through stage 6 of its effects may be allowed more than four (4) consecutive minutes of further exposure without direct approval of Site Command.
+
+Update 472-002: Once every sixty (60) days, one D-Class personnel must be exposed to SCP-472 for a period of between ten (10) and twenty-seven (27) minutes.
+
+Update 472-003: Due to biomass loss, no personnel may be exposed to SCP-472 more than once in a 48-hour period without explicit approval by Dr. A. Jones.
+
+Description: SCP-472 is a red garnet, of the pyrope-spessartite variety, of unusual size (1.8 carat). The phrase "For man looketh on the outward appearance, but the LORD looketh on the heart" has been engraved in 2 mm (0.08 in) high lettering on the stone's surface. Relevance of the phrase is unknown.
+
+When any organism possessing a heartbeat passes within an 18 m (60 ft) radius of SCP-472, that subject will begin to hear the distant beating of a heart within their head. The heartbeat heard directly corresponds with the subject's own heartbeat, with the frequency of the palpitations increasing or decreasing with the pulse of the subject. Prolonged exposure causes a variety of additional psychological effects.
+
+Stage 1: Onset 5-7 minutes: Low-level feelings of unease and anxiety. Effects cease immediately on vacating area.
+
+Stage 2: Onset 6-21 minutes: Gradually increasing feelings of anxiety and paranoia. Effects decrease on vacating area and cease within 5 minutes.
+
+Stage 3: Onset 18-27 minutes: High-level feelings of anxiety and paranoia. Subject begins to hallucinate, reporting seeing the world around them tinged with red and hearing vague whispering noises. 27% of subjects also report strong feelings of guilt. Effects decrease within 20 minutes of vacating area and cease within 60 minutes.
+
+Stage 4: Onset 34-59 minutes: Previous symptoms increase. Hallucinations become more vivid and visual; frequent hallucinations include rivulets of blood trailing down the walls, images of dead bodies, thumping, screaming, and ambulatory corpse-like figures. 65% of subjects rendered mentally incapable of leaving the influence of SCP-472. Effects decrease within 60 minutes of vacating area and cease within 3 hours.
+
+Stage 5: Onset 55-69 minutes: Previous symptoms increase. 100% of subjects rendered mentally incapable of leaving the influence of SCP-472. 38% of subjects exposed enter a state of catatonia; this state has a 76% fatality rate if subjects are not removed from SCP-472's area of influence. Effects decrease within 6 hours of vacating area and cease within 24 hours.
+
+Stage 6: Onset 361-723+ minutes: Surviving subjects now capable of leaving the influence of SCP-472, though many do not realize this unless prompted. Previous symptoms vary in degree of intensity and become sporadic, alternating with periods of lucidity indefinitely until subject leaves or is removed from the area. Effects cease within 24 hours of vacating area.
+
+SCP-472 was recovered from the mansion residence of [REDACTED], a wealthy man living in [REDACTED]. Foundation investigators were alerted by local reports of hauntings by domestic staff after [REDACTED] was hospitalized by a fall. Mobile Task Force Delta-5 ("Front Runners") was assigned to investigate due to possible connection to ongoing projects. [DATA EXPUNGED] narrowed down the origin of the anomalous effects to SCP-472, which had been prominently displayed in [REDACTED]'s jewel collection. Origin of SCP-472 is under investigation.
+
+SCP-472 does not appear to have any other anomalous effects, harmful or otherwise. Object tentatively classified as Safe, pending testing. Potential downgrade to Anomalous. See Addenda.
+
+Addendum 472-045: Effects of Subsequent Exposure: Subjects previously exposed to SCP-472's effects experience a cumulative 10-20% increase in the speed of onset of certain of SCP-472's effects with each additional exposure. Eventually, subjects will immediately begin experiencing symptoms at Stage 2 levels, with Stage 3 occurring within 5-10 minutes. Stages 4-5 then occur as normal. Time of onset of Stage 6 is not affected and continues to occur no earlier than 361 minutes after initial exposure.
+
+Hallucinations begin to differ in nature when a subject is exposed to SCP-472 more than one (1) to five (5) times. Subjects report visions of a massive, growing collection of skinless organic material resembling animal/human organs, muscular structures, bones (though no recognizable bones), etc, joined together in a fashion that does not occur in nature. All subjects report multiple hearts beating within the biomass, sometimes dotting its surface. After the fifth exposure, all subjects report seeing this (whether or not previous hallucinations remain present or superimposed).
+
+Additionally, interviews with multiple-exposure subjects [DATA EXPUNGED] anomalous information element. See documents [REDACTED] and Interview 472-0165-b. SCP-472's Object Class has been upgraded to Euclid. Containment procedures updated.
+
+Addendum 472-078: Area of Influence Conditional Increase: When no subjects have been exposed to SCP-472 for more than five (5) minutes within a period of two (2) months, its area of influence begins increasing by a rate of 0.5 m (1.6 ft) per hour. Expansion is temporary, reverting back to the original 18 m (60 ft) area of effect once a subject undergoes exposure.
+
+Addendum 472-130: Possible Physical Biomass Presence: Further testing with subjects exposed multiple times to SCP-472 [DATA EXPUNGED] indicating that the garnet stone classified as SCP-472 may in fact be the only visible portion of a much larger - and continually increasing - biomass existing in so-called "trans-dimensional" [DATA EXPUNGED] metaphor of "the tip of the iceberg". Object Class pending review. Additional containment measures pending review.
+
+Addendum 472-135: Subject Biomass Alteration: [DATA EXPUNGED] Subsequent testing of subjects exposed to SCP-472 indicates that all subjects experienced a 0.01 - 1.35 percent decrease in biomass with each exposure to SCP-472. Subjects remain unaware of this event. Containment procedures updated.

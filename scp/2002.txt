@@ -1,0 +1,89 @@
+WARNING: RESTRICTED ACCESS
+
+Saudi-Arabian personnel recovering debris from SCP-2002's crash site
+
+Item #: SCP-2002
+
+Object Class: Neutralized (Keter classification revoked on ██/██/20██)
+
+Special Containment Procedures: Containment of SCP-2002 is to concentrate on the coordinated dissemination of misinformation to all organizations and individuals concerned with the discovery, tracking, study and/or discussion of (mobile) astronomical objects. Special focus is to be put on the manipulation of relevant fringe organizations in order to obfuscate the nature of SCP-2002.
+
+Images of SCP-2002 leaked to the public in any manner are to be dismissed as digitally altered, and to be labeled the work of conspiracy theorists. To this purpose, Foundation-employed experts are to be put forward for appearances in related media and as consultants for any external research projects.
+
+For more information concerning specific current, past and future disinformation campaigns, please refer to document SecInf/2002-D/DepDI:rev2.41. Use of deadly force has been authorized in order to keep information concerning SCP-2002 from being publicized in any way.
+
+All collected wreckage of SCP-2002 and the remains of its crew are to be housed at Site-102 for further research into SCP-2002's origins. Please contact current project lead Dr. Aeslinger for more information on this project.
+
+Rem/AESL1/20060217: Please note that despite the neutralization of SCP-2002, these containment procedures are to stay in effect indefinitely.
+
+Description: SCP-2002 was a spacefaring vessel on a direct collision course with earth. Following detection, Foundation deep space assets managed to relay several images indicating numerous similarities between SCP-2002's design and designs under development [DATA EXPUNGED] established at that time. In light of this, and taking into account data collected from its wreckage, SCP-2002 was classified as a temporal continuity anomaly, but was considered native to this reality iteration. Its neutralization has prevented project staff from verifying this, though examination of SCP-2002 wreckage has yielded evidence supporting this theory.
+
+SCP-2002 had a spherical hull with an estimated diameter of 450 m. Attached to this main hull were ~3000 smaller spheres with an approximate diameter of 1.7 m. SCP-2002 did not show any visible propulsion devices or external systems for power generation, nor were individual compartments or systems such as a cockpit, living quarters, storage hold, etcetera discernible.
+
+All attempts at communication using Foundation SETI installations were answered by an automated broadcast from SCP-2002, on a radio frequency specifically reserved for Foundation traffic. Signals sent by non-Foundation installations did not elicit a response from SCP-2002, suggesting an awareness of the hailing signal's origin. Please see Addendum 2002-A-04 for a transcript of this automated broadcast.
+
+On review, the message broadcast by SCP-2002 appeared to imply that SCP-2002 possessed systems to facilitate a return to Earth unaided. Regardless, SCP-2002 was classified as Keter due to the potential effects of its landing should this assumption prove false. SCP-2002 maintained a steady velocity of 12.5 km/s and was expected to reenter earth's atmosphere on ██/██/20██. Protocols for dealing with any possible K-Class scenario as a result of SCP-2002's return were drafted.
+
+SCP-2002 was first detected at a position roughly 15.8 au from earth on ██/██/19██, by remote sensing systems aboard Foundation satellites. Extrapolating from SCP-2002's course, and assuming no alterations to that course, SCP-2002 should have been discovered at least ██ years earlier. This suggests an accidental temporal shift, rather than a conscious attempt on the part of SCP-2002 or its crew. The content of SCP-2002's automated broadcast lends further credence to this theory.
+
+Addendum 2002-A-01: Excerpt from neutralization report 2002/D/NeutRpt-01:rev1.01
+
+On ██/██/19██, as SCP-2002 passed earth's moon, a previously unidentified Global Occult Coalition satellite containing a high-powered carbon-dioxide laser, opened fire on SCP-2002, breaking up the main hull and dispersing the smaller spheres over a wide area. Several of these were subsequently destroyed by further laser fire, though most were set adrift in space when the main hull was ruptured. A number of the smaller spheres continued on to earth. On ██/██/20██, these, and a large section of hull, entered earth's atmosphere.
+
+Investigations into the Global Occult Coalition's unwarranted destruction of SCP-2002 uncovered a series of encrypted e-mail messages transmitted from a workstation in Site-102's communications terminal. Decryption of these messages uncovered an information leak to the GOC, covering SCP-2002, though only in basic detail. In several cases, internal misinformation was leaked in addition to factually correct data on SCP-2002.
+
+A comprehensive investigation by Mobile Task Force Beta-1 ("Cauterizers") identified the sender of the messages as █████ ████████, a Level 4 member of research personnel employed at Site-102, but not attached to the SCP-2002 project. The personnel in question was detained trying to leave Site-102's compound, interrogated and consequently [DATA EXPUNGED] active use in counter-intelligence operations. Efforts to ascertain the identity of the specific recipient have been unsuccessful, but it is assumed to be a handler for the Global Occult Coalition. Foundation assets within that organization have since confirmed that the organization possessed knowledge of SCP-2002 as early as 19██, though only covering very basic details (see below.) It is assumed that the lack of detailed and factually correct information, in addition to the Foundation's policy of internal and external disinformation with respect to SCP-2002, led to their decision to attempt the neutralization of SCP-2002.
+
+As a result of this incident, protocols for internal and external communication concerning anomalies have been reviewed and where necessary updated, and Operation Carbon was launched, remaining in effect indefinitely until such time as a standardized loyalty test can be developed for current and future personnel.
+
+The satellite employed by the Global Occult Coalition was eventually sabotaged, and crashed into the Brazilian rainforest on ██/██/20██. It was recovered by Foundation forces and remains in Foundation custody despite numerous Global Occult Coalition requests for its return. Please refer to supplemental documentation 2002/C/DipInc-8:rev.1.12 for more details regarding inter-organizational communication on this subject.
+
+Addendum 2002-A-02: Captured GOC documentation on SCP-2002
+
+KTE-0481
+
+Threat ID: KTE-0481-Typhon "Large unknown object on a collision course with earth"
+
+Authorized Response Level: 4 (Severe Threat)
+
+Description: An unidentified unnatural astronomical object on a collision course with earth. Intelligence provided by Covert Operative ██████ suggests The Foundation is tracking the KTE (under designation SCP-2002) for unknown reasons, yet has not initiated any concrete action nor implemented measures to halt its progress. Please refer to appendix 001-016 for field reports from Covert Operative ██████ on available intelligence concerning this KTE.
+
+The object is a sphere with an estimated diameter of 450 m (~1,476 ft), with a multitude of smaller spherical nodes attached to it for unknown purposes. It cannot be ruled out that these nodes are weapon systems. No propulsion systems are directly visible on the object. Systems for power generation seem likewise absent.
+
+Object does not respond to attempts at communication, despite hailing messages sent at regular intervals by ground-based GOC installations and the USS ███████████.
+
+Current calculations put time of impact at ██:██ GMT, ██/██/20██. Conservative fallout projections predict an Eternal Winter Class scenario should KTE-0481 be allowed to continue on its path unhindered.
+
+Rules of Engagement: Should the object come within 0.00269 au of earth, termination is warranted to prevent the extinction of all life on earth. GOC orbital asset Thor-AXII has been put on a permanent state of alert to this end. Protocols have been put in place to assure a 100% success rate. Covert Operative ██████ is to be extracted immediately after successful termination of KTE-0481.
+
+Please verify your clearance level for access to confidential photographic material
+
+Clearance level verified
+
+Addendum 2002-A-03: Management summary of recovery report 2002/D/RecRpt-14:rev1.15
+
+On ██/██/20██, 37 minutes after a large portion of SCP-2002's main hull and a selection of smaller spheres touched down, members of MTF Zeta-40 ("Dead-end Cleaners") and several local guides approached the wreckage at approximately 240 km from the Saudi-Arabian capital of Riyadh. Over the course of several days, all debris and a large selection of partially destroyed human remains (estimated to be comprised of 5 adult males, 142 newborn infant males, 21 adult females, and 377 newborn infant females) were loaded onto Foundation transports and taken back to Site-102. DNA testing has revealed partial matches to current Foundation personnel, including several members of the O-5 council.
+
+Addendum 2002-A-04: Partial transcript of an automated broadcast by SCP-2002
+
+Speech synthesis, English:
+
+This is the Foundation vessel SCPS Mendel. We have received your transmission. Due to stasis protocols in effect, no members of personnel are currently available to respond to your signal. Please stand by for a prerecorded automated broadcast.
+
+Female voice, English:
+
+This is Dr. Agnes Younts, L4 Project Lead for SCP-█████. If you're receiving this message, I'm glad to say this mission was unnecessary. When the fallout from SCP-█████'s final containment breach hit in 21██, we spent a long time trying to find ways to circumvent its effects. At first, we tried to see if relocation was the solution. We constructed an orbital and, when that didn't work, a lunar facility, but the plague always followed somehow. Faced with a 100% sterility rate, we found that there was a way of fertilizing embryos so they wouldn't be subject to the plague's effects. At least, not while they remained in stasis. Our calculations indicated a dissipation of effects approximately ███ years from day zero, so in the end we were left with no option but to send a selection of these embryos out into space, along with a crew of personnel tasked with their care. This vessel's crew and cargo will be revived and prepared for a return to earth. They've come a long way.
+
+Speech synthesis, English:
+
+Our ETA is currently set at WARNING: temporal dislocation error detected. We urge you to clear Sector-521A for our arrival1.
+
+Speech synthesis, Mandarin:
+
+This message will now be repeated in Mandarin.
+
+After repetition in Mandarin, the message was also repeated in Spanish, Hindi and Arabic before the transmission ended.
+
+Footnotes
+
+1. No such sector currently exists as a Foundation asset. However, calculations have put its intended location at [REDACTED]

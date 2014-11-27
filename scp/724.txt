@@ -1,0 +1,27 @@
+SCP-724-A, B, F, and █
+
+Item #: SCP-724
+
+Object Class: Safe
+
+Special Containment Procedures: Due to its immobility, SCP-724 is located in the central vault of Site-54. This vault is surrounded by a set of hinged shielding plates that can be closed to block radio signals from reaching SCP-724 and suppress the anomaly.
+
+SCP-724-1 specimens can be kept in standard-size cages, although any that are currently being monitored should be separated from each other by at least moderate soundproofing. Individuals not being monitored are kept in kennel sections with Faraday shielding. Transport of SCP-724-1 specimens must not use unshielded cages except by written permission of Researcher M███████.
+
+Site-54 maintains the outward appearance of a corporate office/research facility, in the name of a Foundation front company (S██████ C██ P███████, Inc.). The lobby is to be staffed by Foundation security personnel posing as civilian receptionists and security guards.
+
+Description: SCP-724 is an anomaly covering approximately 8 m in diameter, located near the intersection of Interstate ██ and Route █ in ██████, ██. It occurs only when all of the surrounding radio towers (designated SCP-724-A through SCP-724-█) are broadcasting actively, and when the signals from these towers are able to reach the anomaly's location without significant interference.
+
+While SCP-724 is active, any individual of the species Procyon lotor (North American raccoon) that passes through the anomaly is permanently altered by unknown means. Altered subjects (collectively designated SCP-724-1) begin to frequently produce abnormal vocalizations including human voices, music, static, modulation/demodulation signals, [DATA EXPUNGED]. Subjects do not appear to understand or control the content of these vocalizations, simply acting as passive receivers. The volume and clarity of vocalizations increases with proximity to the active SCP-724 anomaly. No anatomical or chemical alterations have been identified in SCP-724-1 compared to unaltered specimens.
+
+These vocalizations have been found to correspond to radio transmissions from sources other than the towers surrounding SCP-724. Transmissions captured by SCP-724 have been confirmed to originate from numerous locations throughout the Northern Hemisphere, and occur throughout the RF spectrum (a log of identified transmission sources can be found in Document 724-█). Each subject seems to have a distinct "remote receiver" at a fixed location, frequency, and protocol. The location and tuning of each individual's receiver appears to depend upon the incident signals triggering the anomaly at the time the subject is altered, based on factors such as amplitude and frequency.
+
+Addendum 724-1: SCP-724 is believed to have first occurred in 19██, when SCP-724-█ (the most recently-constructed tower) began broadcasting. Reports of "talking raccoons" in the area prompted Foundation investigation, and the anomaly was located using several affected subjects. Efforts to capture all wild SCP-724-1 are ongoing.
+
+The relationship between the surrounding radio towers was discovered when SCP-724-C was taken offline for maintenance and the anomaly consequently ceased activity during the maintenance period. After extensive discussion, it was decided to allow the towers producing SCP-724 to continue transmitting.
+
+Addendum 724-2: Research is ongoing to identify the relevant factors in the generation of the SCP-724 anomaly, so that no further anomalies are accidentally created. A better understanding of the effects of the various contributing factors could also have significant practical utility in surveillance and communications applications.
+
+Addendum 724-3: As an experiment, several SCP-724-1 were allowed to mate with affected and unaffected specimens, to determine SCP-724's effects (if any) on subsequent generations. Of the resultant offspring, 100% have thus far been SCP-724-1 themselves. Second-generation offspring of mixed-heritage parents have been affected approximately 7█% of the time.
+
+Offspring of parents whose "receiver" locations and/or tunings are known generally appear to have their own "receiver" located and tuned somewhere between those of their parents. Dr. M███████ has requested permission to begin a selective breeding program [Request currently under review].

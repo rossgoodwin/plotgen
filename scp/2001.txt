@@ -1,0 +1,113 @@
+Still frame from Incident 2001-19██-1
+
+Item #: SCP-2001
+
+Object Class: Keter
+
+Special Containment Procedures: No means of containment or prevention of SCP-2001 is currently available to the Foundation. In lieu of this, several alternative procedures have been established. Gamma-Type individuals and Beta-Type individuals not affiliated with NASA or any other space-related organization should be monitored and detained if necessary. Individuals employed or affiliated with space-related organizations who show signs of Gamma or Beta-Type infection should be removed from service and administered amnesiacs. Effective 10/21/20██, All individuals afflicted with Alpha-Type symptoms should be detained in Wing ██ of Sector ██. Under no circumstances should Alpha-Type individuals be allowed access to any astronomical or spacefaring equipment. Mandatory SCP-2001 screening is in effect for all Foundation staff.
+
+Addendum 4/22/19██: In light of Incident 2001-19██-A, all Foundation employees showing symptoms of SCP-2001 are to be removed from service immediately. See Incident Report 2001-19██-A (Level 4 Clearance or higher).
+
+Description: SCP-2001 is an anomalous series of neural oscillations that occur during three of the four stages of human sleep. During one of these three stages, the amygdala spontaneously enters a state of heightened activity for a period of 10-15 minutes.1. At the conclusion of SCP-2001's active state, the subject is conditioned to one of three responses (designated Alpha, Beta, and Gamma) depending on the sleep stage in which SCP-2001 occured.
+
+SCP-2001 appears to show no increased presence in individuals of any race, creed, or gender. No genetic abnormalities have been associated with SCP-2001. Spectrographic analysis of SCP-2001 suggests that its presence may not be intraneural; rather, that it may originate from an outside source. Of particular note is the fact that SCP-2001, particularly the Alpha strain, has recently begun affecting a proportionally large population of astronomers, astronauts, and individuals who otherwise deal with space.2
+
+There appear to be three types of responses to SCP-2001 infection:3
+
+Gamma: Subjects who experience SCP-2001 during the second stage of NREM (Non-Rapid Eye Movement) sleep are designated Gamma-type individuals. Gamma-type individuals are almost indistinguishable from the ordinary population save for a disparaging attitude towards the topic of space travel. Gamma-type individuals show an active aversion to discussing space or space exploration in conversations, and will avoid any and all organizations pertaining to the study and development of human space exploration. It is estimated that █% of the population is currently affected by Gamma-type symptoms of SCP-2001.
+
+Beta: Subjects who experience SCP-2001 during the third stage of NREM sleep are designated Beta-type individuals. Beta-type individuals are characterized by a distinct opposition to space exploration. Beta-type individuals will denounce the importance and safety of space travel in conversations, citing it as "extremely dangerous" or "fruitless". Also common among Beta-type individuals is the tendency to construct elaborate conspiracy theories regarding humans in space. An estimated ██% of popular space-related conspiracies are directly linked to one or more Beta-type carriers, including [REDACTED]. Of note is the fact that the aforementioned individual had never had contact with the SCP Foundation or any of its affiliates.
+
+Alpha: The presence of SCP-2001 during any stage of REM sleep produces an Alpha-type individual. Alpha-type individuals actively attempt to stop or sabotage all forms of space travel. Individuals displaying symptoms of Alpha-type infection will attempt to harm or otherwise interfere with individuals, centers, and activities that pertain to space research or travel. An Alpha-positive Foundation researcher was directly responsible for Incident 2001-19██-A (Level 4 Clearance or higher).
+
+Document SCP-2001-01
+
+Incident Report 2001-19██-A: LEVEL 4 CLEARANCE REQUIRED
+
+SECURITY MEMETIC: WE DID NOT FAIL THEM
+
+Date: 04/22/19██
+
+Location: Foundation Outpost-12 within NASA Command, coordinates ██/██/██
+
+Note: Junior Researcher M███████ was in perfect mental health at the time of the incident. No, he was not insane. No, he was not under any form of psychic control. He was an Alpha-Type carrier of SCP-2001, and that is all. —Dr. █████
+
+The following takes place during the launch of the SCPS ███████, a manned Foundation shuttle tasked with investigation of SCP-████. A crew of Foundation supervisors were on hand to ensure safe takeoff and report any anomalous activity. Junior Researcher M███████ was tasked with observation of status readings.
+
+12:37:22 Head Researcher S███ reports successful preparation for liftoff of SCPS ███████
+
+12:37:30 Junior Researcher M███████ reported to become "extremely agitated".
+
+12:38:00 SCPS ███████ achieves liftoff.
+
+12:38:31 Junior Researcher M███████ begins yelling unintelligibly to nearby staff.
+
+12:38:44 Junior Researcher M███████ produces unknown artifact resembling control pad, now classified as SCP-████.
+
+12:38:48 Junior Researcher M███████ begins to operate unknown artifact. SCPS ███████ reports several system failures.
+
+12:39:00 Unknown artifact is confiscated by Dr. ███████. SCPS ███████ reports total loss of power.
+
+12:39:13 Communications with SCPS ███████ cease. Exterior hull of SCPS ███████ begins to break down.
+
+The resulting explosion was explained to onlookers and the press as a GPS satellite that had suffered a fuel leak during launch. Non-Foundation witnesses were administered amnestics.
+
+Following the above events and posthumous diagnosis of Junior Researcher M███████ with SCP-2001, containment procedures were altered to provide stricter containment of SCP-2001-Alpha carriers. Full documentation including termination report can be found at [REDACTED]
+
+Document SCP-2001-09
+
+Excerpt from Journal of Junior Researcher M███████: LEVEL 4 CLEARANCE REQUIRED
+
+SECURITY MEMETIC: YOU CAN LOOK UP INTO THE VOID
+
+4/21/19██:
+
+I, H█████ M███████, wish to state first that my mind and body are perfectly sound. I am prepared to submit myself to any and all tests to prove that I'm clean.
+
+I have the answer to SCP-2001.
+
+Just yesterday, during an interview with an Alpha-infected D-Class, I was asked a question that stopped my mind for a minute. The woman I was interviewing asked me if I knew the Foundation was right. I said no, I wasn't sure. Then she asked me, what if we were right. I could only assume that by "we", she meant 2001 carriers. I said nothing for a while, and then she spoke. She told me of a dream she'd had a while ago. She said that something talked to her, told her about how dangerous outer space was. It showed her the beasts that roam the void between stars, about the fractal beings that absorb the very fabric of reality, about the [DATA EXPUNGED] that we're keeping in that godforsaken door. And she was scared.
+
+She told me that at the end of the dream, as she woke up, it told her what it was.
+
+It's all of space.
+
+Space fears for us. We're living, breathing lifeforms, and space loves us and cherishes us. She asked me if I had any idea what the chances of intelligent life forming on another planet are, then she told me a number that took a minute and a half to recite. By this point, I couldn't speak. I started thinking: about the demographics of infection, about the symptoms, about [DATA EXPUNGED], and suddenly, it all made sense. Some of the things she said stuck in my brain, and they all added up to the same thing: that we are in grave danger if we go out there. We can't go out there. We can't go out there. We can't
+
+There's a reason behind SCP-2001, and it's nowhere near as terrifying as all of my colleagues think. Space wants to protect us. There are things out there that would wipe humanity clean off of this plane of existence, and we are too precious to our mother, to our host, to the universe we live in, for her to allow that to happen.
+
+What I am going to do tomorrow is not a result of infection. It is not a result of madness. It is not a result of anything other than purest knowledge. You see, I've found out the truth. And it's more beautiful than I ever could have dreamed.
+
+Addendum 4/30/19██: Research into potential memetic qualities of SCP-2001 is currently ongoing.
+
+Transcript of Email from ██████ ████, Head of SCP-2001 Research Team, to Site Director █████, 10/21/20██: LEVEL 4 CLEARANCE REQUIRED
+
+SECURITY MEMETIC: HEED NOT THE FEARFUL WORDS
+
+█████,
+
+The research team and I have just made a rather unsettling discovery regarding SCP-2001.
+
+Our suspicions were piqued when we found M███████'s journal. First, the writing leading up to the day of the incident was entirely different in tone than the rest of his journal. He rants and raves about space for pages and pages. It's as if he just spewed his brain onto the page. Second, it wasn't something he would ever do, end the lives of five Foundation astronauts the way he did. That's something we neglected to mention about 2001's Alpha strain: that individuals seeking to interfere with manned space travel will not undertake actions outside their moral reasoning. This meant that the Alpha strain of SCP-2001 was safer than it seemed— or so we thought.
+
+See, we proved beyond a shadow of a doubt that M███████ did have SCP-2001. All the symptoms he displayed were completely on target for the Alpha strain, with the exception of his final actions. So we researched it. More specifically, we researched the D-Class that he talked with on the day before the crash. We sent subjects into her cell and asked her to talk to them. She said just about the same thing to most people, with a couple of exceptions. When she talked to certain subjects, she would pepper her rants with a couple of distinct phrases. And what we discovered was that individuals who responded to these phrases began to behave in a similar manner to M███████ on the day of the crash.
+
+By now, I'm sure you can deduce what we learned from these findings.
+
+It appears there is some sort of fourth strain, one that functions differently from any of the three we have encountered before. We call it Alpha-Prime. It is a memetic variant propagated by certain individuals afflicted with the Alpha strain through the use of several "trigger phrases". If a listener responds to those phrases, the symptoms of Alpha-Prime begin to develop. Though not much more potent than the regular Alpha strain in terms of the carriers' attitude towards space exploration, it does have the additional effect of overriding the moral "code" of its hosts. We don't know exactly to what lengths an Alpha-Prime-carrying subject would go to prevent us from engaging in manned space travel. Perhaps therein lies the most worrying element of this newfound strain: we know next to nothing about it.
+
+It is in the opinion of myself and many members of the research team that this information should be kept separate from the official SCP-2001 documentation, including the findings about the moral restrictions of the standard Alpha strain. We don't know how many individuals have succumbed to the words of their Alpha-afflicted colleagues, and we don't want a mass outbreak of paranoia and fear among Foundation personnel. If word spreads about a sociopathy-inducing memetic variant of 2001, we have no idea what could happen within our ranks. Quite frankly, we don't want to find out.
+
+Standard SCP-2001 checks are still in order for all sites. Tell the MTFs to keep rounding up the Alpha strains and sending them to me. After all, we've got counter-memes to develop.
+
+We secure, we contain, and we protect.
+
+—██████ ████, Level 4 Research Head.
+
+Footnotes
+
+1. Awakening the subject during this period appears to immediately switch the response of the individual to Alpha-type regardless of the sleep stage in which SCP-2001 activity occurs.
+
+2. Individuals who already possess a critical attitude towards space exploration generally exhibit no anomalous effects from SCP-2001 activity.
+
+3. SCP-2001 has not been documented to occur in the first stage of NREM sleep.

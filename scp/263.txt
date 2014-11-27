@@ -1,0 +1,39 @@
+SCP-263 during testing.
+
+Item #: SCP-263
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-263 is to be stored in a low value items storage vault at Site-19. It may be removed for testing provided permission from a level 3 researcher and a fire-resistant area to conduct testing in. All testing with SCP-263 is to be recorded. Subjects testing SCP-263 are allowed a mobile telephone, a PDA, or a netbook computer with full, unrestricted access to a complete, synchronized copy of the Foundation's data banks, stored in a dedicated database server to guarantee full retrieval of any records entry in no more than 200 milliseconds if and only if they are terminated immediately after testing has concluded.
+
+All recordings of testing on SCP-236 are to be reviewed by a researcher with level 4 or higher clearance, and censored where necessary to prevent access to restricted material. All researchers observing SCP-236 during testing are to be administered a local amnestic and have their notes confiscated. Research notes from testing require permission from a researcher with level four clearance to access.
+
+Description: SCP-263 is a black and white television, bearing the logo of the "THOMSON" company. It matches no known model of television, but has a similar style and construction to televisions built in the year 1961. SCP-263 is fully intact, but has sustained minor cosmetic damage to the screen and frame. SCP-263 has been observed to function even when not connected to a power outlet.
+
+When switched on, the TV always displays the interior of a studio, whose design bears similarities to studios of television game shows from the 1960's. A large logo, saying "CASH OR ASH?" in large, stylized letters can be seen the back wall of the studio, and an unidentified music piece is playing in the studio at all times.
+
+The only man visible in the studio is SCP-263-1.
+
+SCP-263-1 appears to be a male human of Caucasian descent of approximately thirty-five years of age, dressed in a suit that matches a style commonly worn between the years 1959 and 1964. SCP-263-1 has a demeanor that has been described as "Blithe," "Enthusiastic," and "Over the top." SCP-263-1 is smiling almost constantly. As soon as a human turns SCP-263 on, SCP-263-1 will look directly at the subject and say that the subject is "a new competitor who just tuned in to the Cash or Ash show." He will then state that he wishes the subject "lots of luck" in answering "three fiendish questions" and "getting the cash - and not ash!" (SCP-263-1's exact phrasing varies slightly between each usage of SCP-263.)
+
+SCP-263-1 will proceed to ask the questions. The questions asked by SCP-263-1 are always related to the environment surrounding SCP-263. If inside of a fully enclosed structure, SCP-263-1 will ask questions about the owners, history, and design of the structure. If outside of a enclosed structure, SCP-263-1 will ask questions pertaining to the history, geology, ecosystem, and weather patterns of the surrounding area.
+
+While inside of a Foundation facility, all of the questions are related to various SCPs in possession or in the records of the Foundation or about the history and architecture of the site in which it is stored. Many of them are inquiries upon rather basic information easily found in documents accessible by low level personnel, but some of them concern specific minutiae, found only in certain esoteric documents which require high clearance and/or are rather complicated to find or reach. In each case, though, the information needed to correctly answer the question can be gathered from Foundation records. For a full list of questions asked by SCP-263-1 while in foundation possession, see document 263-Q1.
+
+If within the next forty-five seconds, the subject supplies a correct answer, his success will be acknowledged and briefly congratulated upon by SCP-263-1.
+
+If, however, the subject answers incorrectly, or does not answer within forty-five seconds, SCP-263-1 will say: "Time's up! So sorry," and the subject will immediately combust. The flames are always of both high temperature and intensity, and will fully enclose the subject within four seconds. All attempts to extinguish the fire up to this point have been unsuccessful. After forty-two seconds, the fire will disappear, along with the remains of the subject. After forty-two seconds have passed, SCP-263-1 will look out towards the place where the subject combusted and state that the failure is "a pity" and that "hopefully the next competitor will avoid the ash… and get away with the cash!" SCP-263 will then turn off on its own.
+
+If during the forty-five seconds, someone whispers to the subject, audibly speaks to the subject, the subject leaves the area directly in front of SCP-263, or the subject interacts with a computer greater than twenty-seven centimeters, SCP-263-1 will accuse the subject of cheating and the subject will combust in the same manner as described above. SCP-263 will then remark on the "dwindling ethics of today's people", and SCP-263 will switch itself off. Portable consumer electronic devices, such as mobile telephones, PDAs, and laptop computers smaller than twenty-seven centimeters do not cause the subject to combust, thus allowing the subject to find the information required to correctly answer the question within the provided time.
+
+If the subject correctly answers all three questions, SCP-263-1 will say, "Congratulations! You have won the cash! Here is your prize!." SCP-263 will then turn itself off and a prize will appear in front of the subject.
+
+The prizes given away by SCP-263 appear to have no discernible theme or pattern. So far, the following prizes have been given:
+
+A marble figurine of a dragon, 5.3 cm long ; microscopic observation confirmed that micrometre-size details are present (value $48,237)
+
+Jade statues, which appear similar to ordinary U.S. dollars, however, the faces of the presidents are all replaced with the smiling face of SCP-263-1. Same detail in carving as the dragon figurine listed above (value $226,703)
+
+A clockwork figurine, 4 cm tall, made of brass and walking around randomly when wound. The figurine depicts an unknown, vaguely squid-like creature. (value $21,424)
+
+All attempts to inquire SCP-263-1 about himself or SCP-263 have proven ineffective. SCP-263-1 does not react to any questions or statements, save for the question answers or any "cheating" attempts.

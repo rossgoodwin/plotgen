@@ -1,0 +1,71 @@
+A model similar to SCP-270.
+
+Item #: SCP-270
+
+Object Class: Euclid
+
+Special Containment Procedures: Due to SCP-270’s immovable nature, a structure has been built around it that outwardly appears to be a large farmhouse, henceforth called Outpost Delta. Outpost Delta is to be staffed with a minimum of ███ trained personnel.
+
+Extensive records of SCP-270’s ciphers are kept at Site-11. Extensive records of decoded ciphers are available in █-███, ██████.
+
+If the security of Outpost Delta is compromised, SCP-270 is to be destroyed, along with all on-base records of verified or unverified information accumulated, and manuscripts outlining various encryptions SCP-270 has used.
+
+Description: SCP-270 is a nondescript black phone of mid-20th century make.
+
+There were no human populations exceeding ██ people per ████ square meters within a █████ radius of the location of discovery, and SCP-270 itself was well hidden by surrounding native vegetation. The unusual properties of SCP-270 were apparent upon discovering that the power cord extended an indefinite length into the soil directly below SCP-270, despite which a steady voice was speaking through the earphone. Investigations regarding how long the cord is have since been officially discontinued (see Addendum 270-A).
+
+What makes SCP-270 of continued interest is the audio stream from the earphone, which has since been discovered to contain encrypted messages that are of value to the Foundation. Said ciphers are referred to as SCP-270-1.
+
+For the most part, SCP-270-1 consists of a mildly distorted human female voice (see Addendum 270-B) speaking in a steady monotone, which has been recorded listing names, cryptic phrases, patterns of numbers, quotes, mangled quotes, strings of letters, [DATA EXPUNGED] incomprehensible words, sounds that cannot be produced by any known animal that continue for extended amounts of time (███ unconfirmed languages have been distinguished to date, ██ of which are reoccurring), monologues, nursery rhymes, [REDACTED] leading to speculation as to whether or not the narrator is in fact human, etc.
+
+The following have also been recorded: melodies, periods of silence (see Addendum 270-C), metallic scraping noises, metallic scraping noises that have been looped and re-calibrated so they play roughly in the same tune as several classical music tunes and a handful of [DATA EXPUNGED], Morse code, [REDACTED] human screaming, various computer programming languages, every known language on earth (including, in one incident, Pig Latin), [DATA EXPUNGED] possibly of biological origin, condescending laughter, music, music played backwards, music [REDACTED], conversations that have evidently been recorded ranging from [REDACTED] politically significant and extensively protected area to what was most likely an average household, discussing what grocery supplies to buy from the supermarket, static, ambient soundtracks, etc.
+
+A demonstrative sample of SCP-270-1 can be found here.
+
+SCP-270 is otherwise a perfectly normal phone and is susceptible to damage as similar phones would be. Disassembly has not uncovered the source of SCP-270’s unusual properties.
+
+Speaking into SCP-270 has no effect on SCP-270-1. Currently disputed, refer to Incident-270-█ in which [DATA EXPUNGED].
+
+Attempts to decipher SCP-270-1 have yielded partial successes. In one notable case, a complicated cipher proved to be an intensive description of a SCP-███’s imminent attempt to breach containment. Evidence of such was found in the [REDACTED] of SCP-███’s containment. Containment breach was accordingly prevented. Decoded portions have alternately been startlingly useful to the Foundation, and immensely frustrating to both personnel working on SCP-270-1 and Foundation officials. For example, one ██-hour study of what seemed to be a significant cipher proved to translate into a long and painstakingly thorough list of extremely unofficial synonyms for a human █████.
+
+Likewise, information gained from SCP-270-1 have both [DATA EXPUNGED] preventing a possible XK-class end-of-the-world scenario, and listed ‘secret ingredients’ of Dr. R█████’s widely praised cherry pie. As it is impossible to determine how useful portions of SCP-270-1 will be, personnel are advised to choose whatever segments of SCP-270-1 they deem to be most promising. However, some portions of cipher are either too intricately encrypted for our most perspicacious personnel to decode, or indeed may hold no meaning at all.
+
+Attempts to decode SCP-270-1 are continually ongoing (see Addenda 270-D and 270-E).
+
+Addendum 270-A: A probe was extended a total of █████ meters along the wire before the maximum extension length was reached. The matter has since been declared not of sufficient interest to merit a more thorough examination.
+
+Addendum 270-B: As of █/██/██, ████ military time, the unidentified female voice of SCP-270-1 stuttered for █ seconds before breaking down into what researchers described as ‘disconsolate sobs,’ pleading to be [REDACTED]. This continued for ██ seconds before audio cut off abruptly to a ██-minute excerpt of SCP-270-1 from ██/█/██. Immediately afterwards, SCP-270-1 proceeded as usual, the only noticeable difference being that the voice narrating SCP-270-1 was male.
+
+Addendum 270-C: Further examinations revealed that this was in fact not silence, but audio stimuli both too high or too low pitched for human perception. ███ additional unidentified languages have been discovered upon supplying Outpost Delta with appropriate audio equipment.
+
+Addendum 270-D: As of late, SCP-270-1 has been becoming noticeably more difficult to decode. This includes utilizing more convoluted methods of encryption, loud background noises being added while the narrator is speaking, multiple voices speaking at once, and, in one case, loud [REDACTED] extremely personal details [REDACTED] Dr. A████ , who was visibly shaken by the event. Morale has since plummeted while stress levels have skyrocketed.
+
+A computer program has been coded in order to automatically decode portions of SCP-270-1. A recreation wing has been added to Outpost Delta.
+
+Addendum 270-E: Data Processor 270-1 has been discontinued. All attempts to electronically resolve portions of SCP-270-1 have thus far failed.
+
+.
+
+.
+
+.
+
+LEVEL 5 SECURITY CLEARANCE REQUIRED
+
+As of late, concerns have risen regarding the psychological states of personnel working on SCP-270.
+
+What I’m talking about, of course, are the natural issues that arise when you have a situation like this. Namely, putting a bunch of highly intelligent, motivated, tenacious people together and ordering them to solve a puzzle that may or may not have a solution. And telling them that lives may depend upon their success or failure.
+
+Recently, Dr. █████, by some superhuman effort, cracked ██ minutes’ worth of cipher that had been discarded by communal agreement as a ‘dud’ and [DATA EXPUNGED] resulting in the aversion of a ██ end-of-the-world scenario. This has not been beneficial for the mental states of many personnel, as every ‘dud’ they discard may contain information regarding an equally disastrous event. Since then, there have been rapidly emerging paranoia and/or obsession-related disorders. Some personnel are beginning to insist that the most trivial details of the cipher contain important messages, others have not slept or eaten in days in their pursuits, and still others have suffered from psychotic breakdowns.
+
+Outpost Delta has since been supplied with more personnel in an attempt to spread the workload more thinly. However, the effects of having a few days of diligent work crumble into a ‘dud,’ repeatedly, have proven to be an absolute disaster for morale and, at times, mental stability. Currently, we only have enough staff to decode roughly ██% of the cipher.
+
+So far, reassigning personnel after a ██-month stay at Outpost Delta, applying Class A amnesiacs, and returning them to work on 270-1 at the end of a ██-month period of low-pressure jobs has worked fairly well as a short-term solution. This, however, requires a rather large number of personnel to be continually circulating in and out of Outpost Delta to maintain the minimum amount of staff required to decode the greater portion of what comes out of SCP-270.
+
+In addition, long-term circulation through Outpost Delta has been shown to ingrain certain paranoid and obsessive mental behaviors that Class A Amnesiacs don’t wipe clean.
+
+[DATA EXPUNGED] nature of SCP-270, this is exactly what it wants, if certain people are to be trusted [DATA EXPUNGED] disconcerting to said O5 member. [REDACTED] not in fact a method of safe communication between unknown entities, as originally hypothesized, but rather [DATA EXPUNGED].
+
+I request for this matter to be discussed more in-depth sometime in the near future.
+
+-Dr. ██████

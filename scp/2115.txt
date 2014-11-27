@@ -1,0 +1,225 @@
+Item #: SCP-2115
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2115's domain is to be blocked from all major internet service providers. Type-III Foundation Web Analysis Bot OMICRON-20-PSI is to track and delete all advertisements of SCP-2115 found in dating websites. Testing requires the approval of at least one Level 4 personnel. All conversations between instances of SCP-2115-1 and Class-D personnel are to be monitored and documented in Document-2115-38-GH.
+
+Update: As of 201█/██/██, physical contact between Class-D personel and instances of SCP-2115-1 is prohibited. SCP-2115-1-97-A is to be contained in a Class-A Incubator at Site-98's Biological Wing.
+
+Description: SCP-2115 is a website accessible at the domain "www.██████.██" at IP address [REDACTED]. SCP-2115 functions similarly to non-anomalous dating sites, allowing the users to create a profile in which they can include informations such as species, gender, biography and method of reproduction. The profile will be automatically created once the users have completed the application form. Users are able to join only if the whole application is filled. All text within SCP-2115 (including conversations) will be automatically translated in the language the users preferred in the application.
+
+SCP-2115-1 is the designation given to the non-human users of SCP-2115. Instances of SCP-2115-1 are sapient entities of unknown, presumably extradimensional origin, and vary greatly in appearance. Instances of SCP-2115-1 claim to use SCP-2115 for various intentions, mostly in the attempt to pursue a romantic and/or sexual relationship with one or more individuals. Should a user successfully enter in a relationship with an instance of SCP-2115-1, they will be able to send them a "meet" request.1 Should said instance accept, it will manifest within 25 seconds to 1 week, approximately 2m in front of the user. The same scenario is possible should an instance of SCP-2115-1 send a "meet" request to a user. Following a time period of 6 hours, the entities will demanifest. However, some instances have shown the ability to demanifest before said time period.
+
+SCP-2115 was discovered on 201█/██/██, when an instance of SCP-2115-1 materialized in a bar in Manila, Philippines. The entity dematerialized before being contained by the Foundation. However, one of the witnesses claimed that it materialized after he sent it a "meet" request on what he believed was a roleplaying site. Class-B amnestics were administered to all the witnesses. Interviews with witnesses can be accessed via Interview Log-2115-A-01.
+
+Addendum 2115-1: The following are excerpts of the application form needed to join SCP-2115. For the full application form, please see Document 2115-01-AD.
+
+1) PREFERRED LANGUAGE:2
+
+2) ARE YOU ABOVE YOUR CULTURE'S AGE OF CONSENT?3
+
+[ ] Yes
+
+[ ] No
+
+[ ] My culture has no age of consent
+
+3) REAL NAME:
+
+3.b) USERNAME:
+
+4) SPECIES:
+
+4.b) PLACE OF ORIGIN:
+
+5) ORGANIC:
+
+[ ] Yes
+
+[ ] No
+
+6) NUMBER OF PERSONALITIES (this also includes the number of souls within your host body):
+
+7) PLEASE SELECT THE ELEMENT ON WHICH YOUR METABOLISM IS BASED:
+
+[ ] Carbon
+
+[ ] Nitrogen
+
+[ ] Selenium
+
+[ ] Thoughts
+
+[ ] Other
+
+8) NUMBER OF POISONOUS BODY PARTS (list all potentially toxic bodily fluids and gasses in this area):
+
+9) TYPE OF EXTREMITIES:
+
+[ ] Claws
+
+[ ] Tentacles
+
+[ ] Hands
+
+[ ] Pincers
+
+[ ] Antennae
+
+[ ] Other
+
+[ ] None
+
+10) PHYSICAL HAZARDS (tick all that apply):
+
+[ ] Radioactive
+
+[ ] Acidic
+
+[ ] Oxidising
+
+[ ] Other (Please specify: )
+
+11) DO YOU PREFER SPENDING TIME INDOORS OR OUTDOORS?
+
+[ ] Indoors
+
+[ ] Outdoors
+
+[ ] No Preference
+
+12) ARE YOU SEEKING A RELATIONSHIP?
+
+[ ] Yes
+
+[ ] No
+
+‡(please note the number of individuals you would like to enter a relationship with)
+
+23) DOES YOUR SPECIES ENJOY SEXUAL INTERCOURSE?
+
+[ ] Yes
+
+[ ] No
+
+[ ] Neutral
+
+24) DOES SEXUAL INTERCOURSE WITHIN YOUR SPECIES LEADS TO ANY OF THE FOLLOWING:
+
+[ ] Death of one participant
+
+[ ] Death of all participants
+
+[ ] Extreme pain to any participant
+
+[ ] Spawn
+
+[ ] Murderous intent
+
+[ ] Sudden promotion to queen/king/both of a large colony
+
+[ ] The complete destruction of one or more ecosystems
+
+[ ] Other (Please specify: )
+
+‡If sexual intercourse leads to personality change make a note of what this entails below:
+
+⁂§X§⁂
+
+25) EXISTENCE OF ADAPTIVE REPRODUCTIVE ORGANS:
+
+‡In this case, if sexual intercourse leads to a high chance of death from giving birth (painful or otherwise), note details below:
+
+¶__
+
+56) HOBBIES AND INTERESTS:
+
+¶__
+
+57) DO YOU HAVE ANY PETS?
+
+‡(click »here« for a description of the difference between a pet and a slave)
+
+¶__
+
+58) DESCRIPTION (please keep your description no longer than one page):
+
+Addendum 2115-2: The following are various excerpts from Testing Log 2115-19. For a full list, please see Document 2115-20-IO.
+
+Testing Log 2115-19-A - 201█/██/██
+
+Subject(s): D-7897 (Female, 23), SCP-2115-1-38
+
+Entity Description: SCP-2115-1-38 is a 1.50m tall humanoid automaton composed of a black plastic-like material, vaguely resembling an adult female human.
+
+Procedure: As per protocol, D-7897 and SCP-2115-1-38 conversated via SCP-2115 for two weeks, and was then asked to send the "meet" request. Testing took place at Site-98's Observation Room-5.
+
+Results: SCP-2115-1-38 remained silent for a period of approximately 3 minutes, following which it promptly apologized, claiming it is unused to speaking with non-robotic beings, and that it has only recently "assumed emotions". D-7897 and SCP-2115-1-38 talked about various topics, often interrupted by the entity's inquiries, mostly asking if the terms it was using were politically-correct. Before demanifesting, SCP-2115-1-38 asked if its emotions were "real enough".
+
+Analysis: Following testing, SCP-2115-1-38 contacted D-7897 via her SCP-2115 account a total of 5 times, asking if they could meet again. The proposals of further testing with SCP-2115-1-38 in the future and the exemption of D-7897 from monthly recycling are currently being considered.
+
+Testing Log 2115-19-B - 201█/██/██
+
+Subject(s): D-7903 (Female, 26), SCP-2115-1-39
+
+Entity Description: SCP-2115-1-39 is a 2m long vermiform creature, violet in color, possessing 12 tentacle-like appendages. SCP-2115-1-39 communicated using a device attached near to its anterior end.
+
+Procedure: The procedure was the same as the previous experiments.
+
+Results: SCP-2115-1-39 often attempted to make physical contact with D-7903, despite her reluctance to do so. It also made offensive remarks regarding D-7903's body, and became indignant when she did the same, claiming that D-7903 was unable to "accept compliments". SCP-2115-1-39 dematerialized 27 minutes after, claiming that it was the "worst date it have ever had".
+
+Analysis: D-7903 reported to be extremely surprised by SCP-2115-1-39's behavior, as it behaved completely different during their conversation period on SCP-2115.
+
+Testing Log 2115-19-G - 201█/██/██
+
+Subject(s): D-8021 (Male, 31), SCP-2115-1-62
+
+Entity Description: SCP-2115-1-62 is a 1.65m tall female human of Egyptian and Chinese descent, approximately 20 years old. SCP-2115-1-62's profile on SCP-2115 claims it was born on 2073/██/██. Spoke in heavily accented English.
+
+Procedure: The procedure was the same as the previous experiments.
+
+Results: SCP-2115-1-62 claimed that finding human beings on SCP-2115 has been extremely difficult, and inquired D-8021 how he was able to find it. D-8021 was ordered to reply that he had found SCP-2115 while looking for dating sites. Subsequently, D-8021 was ordered to ask SCP-2115-1-62 who would have been the 45th president of the United States of America, in order to confirm the veracity of its claims. SCP-2115-1-62, however, appeared notably confused by D-8021's question, claiming that it had no idea what "president" or "America" meant.
+
+Analysis: It is hypothesized that SCP-2115-1-62 may originate from a different timeline, as the 78% of history-related questions it answered were partially and/or completely incorrect.
+
+Testing Log 2115-19-R - 201█/██/██
+
+Subject(s): D-8991 (Male, 35), SCP-2115-1-97
+
+Entity Description: SCP-2115-1-97 is a 1.77m tall humanoid entity, pink in color and completely devoid of hair. SCP-2115-1-97 possessed three spherical objects located 4cm from its head, each 10cm in diameter. SCP-2115-1-97 was able to communicate via a rectangular device attached to its forehead.
+
+Procedure: The procedure was the same as the previous experiments.
+
+Results: SCP-2115-1-97 inserted a small object similar to a contact lens in its left eye, and provided D-8991 a similar object, asking him to insert it in his right eye. D-8991 was ordered to comply. Subsequently, SCP-2115-1-97 asked D-8991 to hold its left hand and to remain silent. D-8991 was again ordered to comply. This lasted for exactly 5 hours, 39 minutes and 16 seconds. SCP-2115-1-97 claimed that it was extremely happy, and dematerialized shortly after.
+
+Analysis: D-8991 reported that he was able to see what he described as a "romantic comedy", but was unable to recall its plotline. Following testing, SCP-2115-1-97 deleted its account on SCP-2115.
+
+Addendum 2115-3: Incident 2115-Alpha.
+
+On 201█/██/██, a 50cm tall metallic ovoid object materialized in Site-98's D-Block Upsilon, Dorm #12, where D-8991 used to reside,4 four weeks after Testing Log 2115-19-R. The object contained a small entity, similar to an human infant of indeterminate sex, possessing a spherical orb 2cm in diameter located 2cm above its head, along with 156 10mL cylindrical flasks, all containing a white substance. A picture of SCP-2115-1-97 was also found within the object, with the following note wrote on its back.
+
+sorry i had to put you in this. i was young. her name is [UNINTELLIGIBLE]. pleas care of her [sic]
+
+The entity has now been classified as SCP-2115-1-97-A. Special Containment Procedures have been updated accordingly.
+
+Addendum 2115-4: Document 2115-25-IK.
+
+Upon further exploration of the website, the following disclaimer has been found at the bottom of the home page.
+
+Extra-Species Extra-Special!™ - ESES!™
+
+ESES!™ is not liable for any physical, mental, emotional, social, spiritual, mechanical, technological, or other previously undiscovered type of harm to any users of the site, nor are they liable for any unsatisfactory relationships that may come about from using our website.
+
+A subsidiary of FEED INTERACTIONS®
+
+Good luck and happy interacting!
+
+Footnotes
+
+1. This is triggered by entering any number of keyphrases e.g.: "I love you." "I love you, too."; "Would you like to start a relationship?" "[positive response]"; "Would you like to have sex?" "[positive response]".
+
+2. This option is written in approximately ████████ languages. The other options only appear after this one has been filled.
+
+3. Should the user select "no", the website will crash, and will no longer be accessible from the device to connect with SCP-2115. Should the user select "my culture has no age of consent", a pop-up will appear, reading "Due to legal causes, this option is currently unavailable in your sector (15-B-Ƣ/ɚ). Sorry :/".
+
+4. D-8991 deceased during testing with SCP-███ 3 weeks before this incident.

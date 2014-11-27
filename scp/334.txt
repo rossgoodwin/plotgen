@@ -1,0 +1,101 @@
+Item #: SCP-334
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-334 is to be kept in a standard heat-treated containment cell, surrounded by magnetic field generators positioned so that all six sides have an overlapping field projecting at least fifteen (15) centimeters from the inner cell walls. Each generator is to have multiple redundant backups and power sources, including emergency batteries capable of maintaining full magnetic field output for no less than thirty (30) minutes. Maintenance of the anti-heat coating is to be carried on a weekly schedule, with subject to be transferred to a secondary cell to allow for more extensive repairs, if needed. Three (3) live mice are to be introduced to its cell at a random time every day to reduce chances of subject learning the pattern and attempting escape. Due to SCP-334's hunting and burrowing instincts, the floor of containment is to be reinforced with an anti-heat coating, or made of a substance with a melting point greater than ████ degrees Celsius, with the magnetic containment field underneath reinforced to approximately 1.5 times that of the other surfaces. Subject hunts in a fashion typical of foxes, with a strong downward pounce, which has proven capable of penetrating a small distance into the containment fields, and has been the cause of █ containment breaches to date.
+
+Description: SCP-334 is a small cloud of superheated plasma in the shape of a specimen most closely resembling Vulpes vulpes, or the common red fox. Its body appears similar to waves of steam or fire, revealing gaps between the filaments of gas through which the opposite side is visible. Its filaments fluoresce in the spectrum of red and orange, with 'eyes' in the blue spectrum. Subject has a negligible measurable mass, and has no central body to speak of. SCP-334 apparently believes it is actually a red fox, and displays several normal vulpine behaviors, such as hunting of prey, and in test 334F-03 [REDACTED]. Whether it is an entity that imprinted on a vulpine or is a vulpine which was transformed to its current state is unknown and under investigation.
+
+Since it is composed of superheated ionized gas, containment of SCP-334 is effectively impossible without the use of magnetic containment fields, and is difficult even then, as the heat and energetic effects extend an average of seven (7) centimeters around its entire body, rapidly sublimating physical obstructions. Although its surface temperature is in excess of ████ degrees Celsius, the heat disperses rapidly, cooling to ██ degrees Celsius within 10 centimeters, far faster than the laws of thermodynamics would indicate. There is evidence that SCP-334 is capable of controlling its heat output. Subject is capable of bursts of speed measured at approximately one hundred and sixty (160) kilometers per hour for around ten seconds. These bursts of speed disperse the subject's mass, 'tiring it out', making it need to 'rest' while it re-forms.
+
+Subject derives 'nourishment' from converting matter into plasma and absorbing it, taking in a small amount of energy normally through conversion of air into ionized gas, but that alone is insufficient to feed it, making supplementary feeding necessary.
+
+Despite the fact it does not touch the ground when it walks and is immune to the pull of the Earth's gravity, it seems content to follow the floor's surface for walkable areas, and has yet to be seen actually 'flying'. Whether it chooses not to, or simply does not know that it can, is unknown at this time.
+
+Due to its physical makeup, SCP-334 constantly emits a level of EM radiation consistent with a class █ solar flare, causing interference in unshielded electronics within ██ meters and making film or electronic surveillance problematic. Radiation is within tolerable limits for SCP personnel.
+
+Initial containment: SCP-334 was recovered ██ kilometers from [REDACTED], █ kilometers from a projected meteor impact site. Whether this was the subject's origin is still under investigation. The Foundation was alerted to the subject's existence when a routine sweep of emergency services reports found a pattern of strange burns, trails, and [REDACTED] discovered in the woods, matching no publicly known source but consistent with [DATA EXPUNGED]. A full Foundation combat team was sent in to contain the suspected [REDACTED] but found SCP-334 instead, a far lesser threat. Utilizing a magnetic containment bottle and two live mice, subject was contained with an acceptable level of casualties.
+
+Addendum: SCP-334 has a talent for escape, having escaped containment no fewer than ██ times since initial retrieval, causing approximately [REDACTED] dollars in structural damage to Site-██ and the deaths of ██ personnel, mostly caused by the aforementioned structural damage. SCP-334 is wary of people, avoiding human contact if possible, yet prefers hiding in offices, barracks, and on-site quarters, where there is relatively little traffic and an abundance of small spaces. Despite its many escape events, SCP-334 has shown neither an obvious inclination towards leaving Site-██, nor towards unprovoked attack and is not considered a direct threat. However, the structural damage caused had the potential to release SCP-███, SCP-███ and SCP-███ on █ separate occasions, and recapture should be considered a priority.
+
+Partial Testing log: Results matching expectations removed, available upon request
+
+Experiment Log 334T-01 through 334T-48
+
+Date: ██/██/2010
+
+Test Subject: A Selection of small prey animals ranging from mice to medium-sized rabbits
+
+Results: Subject stalked each one for varying lengths of time, apparently biding its time before pouncing. Each test subject sublimated into plasma, which was absorbed by SCP-334 through the 'mouth' as it went through the motions of eating.
+
+Experiment Log 334F-01
+
+Date ██/██/2010
+
+Test Subject: A normal red fox (Male)
+
+Results: Test subject displayed high levels of apprehension, with loud barking and growling. SCP-334 appeared disinterested. Test halted after ██ minutes of no appreciable change in either's reaction.
+
+Experiment Log 334F-02
+
+Date ██/██/2010
+
+Test Subject: A normal red fox (female)
+
+Results: Identical to 334F-01.
+
+Experiment Log 334F-03
+
+Date ██/██/2010
+
+Test Subject: A red fox (Female, in heat)
+
+Results: SCP-334 appeared to sniff the air for a moment, while test subject displayed reactions similar to previous two tests, then [DATA EXPUNGED].
+
+Researcher Note: That was something I hope to never see again.
+
+Experiment Log 334-01
+
+Date ██/██/2010
+
+Test Subject: SCP-334
+
+Note: For this test, SCP-334's cell was flooded with ionized gas identical to its own.
+
+Results: SCP-334 appeared curious at first, then agitated as the pressure of ionized gas in the chamber started to rise. After 5 minutes, subject began glowing brightly and [DATA EXPUNGED]tainment was re-established, with SCP-334 apparently exhausted.
+
+Experiment Log 334-02
+
+Date ██/██/2010
+
+Test Subject: SCP-334
+
+Note: For this test, SCP-334 was subjected to a focused magnetic 'blade' to attempt to sever a section of its mass.
+
+Results: [DATA EXPUNGED].
+
+NOTE: Further experimentation with 'force feeding' or 'cutting' SCP-334 is forbidden unless performed in a heavily shielded remote site.
+
+Experiment Log 334D-01
+
+Date ██/██/2010
+
+Test Subject: D-13487/334, 3 live mice in standard cage.
+
+Note: D-class was instructed to enter containment and feed SCP-334 after one day of withholding food from the subject.
+
+Results: SCP-334 immediately leapt at the cage, incinerating it and the contents, as well as much of D-13847/334's arm and torso. D-13847/334 died instantly, while SCP-334 ignored the body, focusing on the converted mice and cage.
+
+Researcher Note: Well, it certainly thinks it's a fox, and doesn't seem to notice, or care, that it can kill people just by getting too close.
+
+Experiment Log 334E-01 through 334E-██
+
+Date ██/██/2010
+
+Test Subject: SCP-334
+
+Note: This test was performed to determine SCP-334's environmental needs, if any.
+
+Results: Containment made airtight, and internal atmosphere removed. Subject showed no change from normal behavior patterns. Containment was then heated to an excess of 500 degrees Celsius. Subject showed no change from normal behavior patterns. Containment was then cooled to approximately negative 100 degrees Celsius. Once again, subject showed no change from normal behavior patterns. Containment was slowly pumped full of atmospheric gases in various combinations, to a maximum pressure of three (3) atmospheres. Subject became more energetic, consistent with behavior after being fed, and did not require supplemental feeding until the next day.
+
+Researcher Note: It can survive in a vacuum or on the surface of Venus, and doesn't need any supplemental food in high pressure. This and other data suggests [DATA EXPUNGED]

@@ -1,0 +1,83 @@
+Item #: SCP-1267
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1267 is currently maintained in the large animal wing of Site-12, in a 10m by 15m enclosure recessed 3m below an encircling observation walkway. Separating the observation area from the enclosure is a 2m fence of reinforced steel and synthetic netting, which also encloses the roof.
+
+At least two Level-2 veterinary doctors familiar with mammalian biology and animal husbandry are assigned to SCP-1267, one of whom must be on site at all times. SCP-1267 is to undergo bi-weekly examination by sonogram and x-ray. When necessary, the supervising doctor is to be the primary designator of any new containment procedures required. Access to SCP-1267 requires clearance from the supervising doctor.
+
+Personnel assigned to SCP-1267 are reminded that each instance of SCP-1267 is effectively a new, untamed organism.
+
+Description: SCP-1267 is a mammalian organism, which as of 6/9/20██ resembles an adult female pronghorn antelope. Thus far, attempts at interbreeding or crossbreeding SCP-1267 with common stock have failed to produce viable offspring. All observed instances of SCP-1267 to date have been female. SCP-1267 is effectively indistinguishable from its "template" species.
+
+SCP-1267 will periodically undergo an event which resembles the incomplete metamorphosis that occurs in some orders of arthropod. This process appears to occur only after the organism has reached an age at which its template species would achieve sexual maturity. Metamorphosis has also been induced in two cases (See Experiment 1267B summary).
+
+During metamorphosis, SCP-1267 displays behavior consistent with a gravid female of its template species. However, ultrasound reveals that up to 90% of the tissue in its thoracic and abdominal cavities undergoes a radical alteration into what is effectively a second, fetal organism - designated SCP-1267-1 - resembling a different template mammalian species. On ██ occasions this alteration has included the effective destruction of vital respiratory, circulatory, and/or digestive systems without any apparent negative effect on SCP-1267.
+
+The form taken by SCP-1267-1 thus far appears to be constrained to template species whose size at birth is no greater than the dimensions of SCP-1267 itself.
+
+SCP-1267 enters the final phase of metamorphosis when SCP-1267-1 either reaches full adult growth (Type 1) or completely fills the thoracic and abdominal cavities of SCP-1267 (Type 2). At this point SCP-1267 will become visibly distressed and show signs of disorientation. Within three hours of onset, SCP-1267-1 (hereby designated SCP-1267) will violently emerge from the previous organism's body, which it will then consume, regardless of template species’ normal dietary habits. An instance of SCP-1267 produced by Type 1 metamorphosis is completely autonomous upon emergence. An instance produced by Type 2 metamorphosis may be in a juvenile or even infantile developmental stage, and may require additional care accordingly.
+
+See Table 1267A for full documentation of observed metamorphic events by SCP-1267.
+
+Addendum 1267A: Updated containment procedures
+
+Given the nature of metamorphic event 14, SCP-1267 is to be contained at a coastal Foundation facility that meets Protocol 173 standards for oceanic creature containment.
+
+Experiment 1267A - ██/██/19██, Site 25
+
+Objective: Determine reproductive capability of SCP-1267.
+
+Procedure: A male California ground squirrel is introduced to the enclosure containing SCP-1267 (currently resembling a female California ground squirrel), and the two are allowed to copulate multiple times over a one-month period.
+
+Result: SCP-1267 fails to become pregnant. It is hypothesized that SCP-1267 cannot reproduce by conventional means.
+
+Experiment 1267B - ██/██/19██, Site 25
+
+Objective: In light of the events immediately following SCP-1267's retrieval, investigate alternate triggering stimuli for metamorphosis.
+
+Procedure A: A digit is surgically removed from each of SCP-1267's (currently resembling a grey-headed flying fox) hind limbs.
+
+Result: SCP-1267 does not enter its metamorphic state.
+
+Procedure B: A digit is surgically removed from each of SCP-1267's forelimbs, rendering it flightless.
+
+Result: Onset of metamorphosis is observed via ultrasound approximately 36 hours after SCP-1267 awakens following Procedure B. It is hypothesized that SCP-1267 will enter the metamorphic state in response to crippling trauma.
+
+Experiment 1267C - ██/██/19██, Site 12
+
+Objective: Investigate the potential for reproduction of SCP-1267 via nontraditional methods.
+
+Procedure: Nuclei from mammary cells harvested from SCP-1267 (currently resembling a grey wolf) are transferred to enucleated egg cells from a donor grey wolf, and the resulting eggs are implanted into three gestational surrogates: three in one, five in the second, and four in the third.
+
+Result: All three gestational surrogates miscarried. None of the eggs implanted in surrogates 2 and 3 progressed past the blastocyst stage. The fetuses carried by surrogate 1 showed felid, hippopotamid, and █████ characteristics, respectively. Additional research into cloning is recommended.
+
+Psychiatric Evaluation, Personnel 1267-53
+
++ Confidential, Level 4 clearance required.
+
+- Access granted
+
+Interviewed: Dr. A██████, 2/1267-53
+
+Interviewer: Dr. L████████
+
+Forward: Dr. A██████ was referred for psychiatric evaluation following Event 1267-23.
+
+<Begin Log>
+
+Dr. L████████: Good afternoon, Doctor. Please have a seat. I understand you’ve been having difficulty sleeping; would you like to talk about what’s bothering you?
+
+Dr. A██████: I think I just need to get it off my chest – ever since the last metamorphic event with SCP-1267.
+
+Dr. L████████: What about it?
+
+Dr. A██████: None of us— well, I think we all knew it could happen, eventually. Probably just didn’t want to consider having to actually deal with it.
+
+Dr. L████████: You’re speaking of… Ah, I see - the latest instance of SCP-1267.
+
+Dr. A██████: Have you seen the drawings she's making? She remembers, man! Every single metamorphosis, probably hundreds of them. She’s like twelve years old! And the latest ultrasounds… oh god. It’ll rip her in half.
+
+Dr. L████████: Doctor A██████, this is neither the first nor the last time the Foundation will be required to keep a humanoid SCP in containment. If you are unwilling or unable to continue your duties with SCP-1267, I can recommend that you be reassigned. If you wish, I can also put in a request to the Site Administrator for a Class-C amnestic.
+
+<End Log>

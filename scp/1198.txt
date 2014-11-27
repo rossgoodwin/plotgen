@@ -1,0 +1,29 @@
+Item #: SCP-1198
+
+Object Class: Safe
+
+Special Containment Procedures: A single copy of SCP-1198 is stored in the High Security Data server of Site 19. It is stored in a password-protected subsystem that is only accessible by Level 3 or higher researchers assigned to SCP-1198. When used for experimental procedures, all personnel involved other than the intended subject are to wear hearing protection sufficient to block sound up to 70 dB in volume. SCP-1198 is only ever to be played in a sound-proofed room designed to minimize echoes.
+
+Subjects affected by SCP-1198 are to be instructed to communicate only via written or typed text, preferably through a touchscreen, so as to minimize sound produced. Subjects are not allowed access to any piercing instruments or other objects which could be repurposed to perforate the eardrums of the subject. Requests for authorization to commence testing on individuals who are fluent in sign language but retain full hearing are pending.
+
+Description: SCP-1198 is a sound file lasting 37.2 seconds that is encoded in the Waveform Audio File Format (.wav). To unaided human hearing, it appears to be a blank or silent file. Audio analysis reveals a high-frequency soundwave which is at the upper limit of normal human hearing. When transposed to a lower frequency, the sound file plays a complicated non-repeating sequence of atonal screeches, arrhythmic pauses and pure tones. Although every subject who hears the transposed sound file describes it as mildly to moderately unsettling, it only displays its anomalous properties when played at its original frequency. Copies of the original file retain the anomalous property, but converting the file to .mp3 or any other audio file format eliminates the anomalous property.
+
+After being exposed to the entirety of SCP-1198 at any volume between 35 dB and 65 dB, all subjects develop a unique form of auditory hallucinations. Beginning approximately 10 hours after initial exposure, subjects will begin to hear any sounds directly caused by them start to echo. This includes, but is not limited to, sounds such as speech, their own footsteps, the engine noise of a vehicle they are operating, and internal bodily sounds such as breathing or stomach gurgles. This effect does not include externally caused sounds such as the speech of others, music, or naturally occurring echoes, all of which they hear normally.
+
+These anomalous echoes initially fade within a few moments, but over the course of approximately 48 hours, the duration of the echoes increases to the point that they no longer disappear. Affected subjects have described this in a variety of ways, but the echoes apparently neither increase nor decrease from the volume of the original sound, and sounds layer over each other such that the subject is constantly hearing all the echoes simultaneously.
+
+Although SCP-1198 does not affect any individual who is incapable of hearing, whether via sound dampeners or independent deafness, affected subjects who are later deafened continue to hear any preexisting echoes.
+
+All affected subjects will eventually begin to display psychological abnormalities consistent with sensory overload, as well as generalized phonophobia and a heightened aversion to any activity on their part that would produce sound.
+
+Addendum: Once a subject has acquired an indeterminate amount of layered echoes, they begin to experience secondary auditory hallucinations. Subjects who have progressed to this stage and are still willing and able to communicate textually report that the echoes start to intermittently amplify and distort each other such that the resulting interference pattern resembles speech. This new source of speech is internally consistent and identical across all subjects, whose reports indicate that the speech is simultaneously transmitted to all affected subjects. Samples are transcribed below.
+
+"The only thing you have to fear is [garbled] alone and afraid, naked before the [garbled] that made you."
+
+"Elephants squash ants, don't they?"
+
+"Pity not the reaper man. Pity yourself."
+
+"fish lizard rat monkey man [garbled] end forever"
+
+"Join cacophony. Things die. Voices rise."

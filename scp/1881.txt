@@ -1,0 +1,45 @@
+SCP-1881's screen during play.
+
+Item #: SCP-1881
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1881 is to be kept unplugged in a regular store room. Direct testing of the item is restricted to D-Classes, which are to be interviewed weekly regarding potential aftereffects.
+
+Description: SCP-1881 is an arcade machine of early 80s design. The design is consistent with the [REDACTED] brand, but most identifying marks in the casing have been removed or painted over. A joystick and a single button are set on the console: a similar setup for a second player appears to have been removed. The machine's internals are [DATA EXPUNGED] resolution of 256x224, with 16 colors.
+
+The machine is functional, even though the hardware appears to be partially damaged: the screen frequently displays rendering glitches, a good section of the game's images and text are corrupted, and the sound often cracks and distorts.
+
+The "title" screen does not display a title or any credits, only the phrase "INS#RT COIN". The machine works with standard United States quarters, and only one quarter may be used at a time. Once a quarter is inserted, SCP-1881 launches its game, termed SCP-1881-B.
+
+SCP-1881-B is divided in "stages", each of which has different rules of gameplay, and which succeed each other apparently at random. Commonly seen stages are:
+
+"Spaceship": The player controls a spaceship under siege by an alien horde.
+
+"Maze": A humanoid player-controlled figure moves around a maze, chased by bats or dragons. The goal is to acquire as many "golds" as possible before leaving the maze.
+
+"Insect": The player avatar is a diminutive insect-like creature that must work its way up a large structure, while avoiding "spiders" and "frogs".
+
+"Drive": The player controls a car driving a curvy road, while avoiding obstacles.
+
+"Lines": An abstract puzzle game where the goal is to push lines around a field so as to surround bouncing "balls".
+
+"Jungle": The player avatar is a human moving through a forest-like environment, populated with thematic enemies and obstacles such as crocodiles, snakes and quicksand.
+
+Other stages appear more rarely, offering various skill and/or strategic challenges. Notably no luck-based games appear to be represented, nor "sports" games where the opponent is of equal strength to the player.
+
+The stages themselves do not play in the same way when seen again: enemies increase or decrease in number, the player's movement and abilities change, and obstacles vanish and reappear. Notable cases include:
+
+The "Spaceship" stage appearing with no enemies whatsoever: the only entity visible on screen was the player's ship, floating in empty space. The stage continued for about 3 minutes before the game declared "STAGE CL%AR".
+
+The "Insect" stage not docking lives from the player upon death, instead keeping the character's corpse on the screen. Reaching the top of the construction required assembling a mountain of the character's own corpses.
+
+The "Jungle" stage's scenery being upside down, except for the player character, who fell off into the "sky".
+
+The "Jungle" stage featuring [DATA EXPUNGED] as enemies.
+
+The "Maze" stage having no exit, no powerups and progressively larger numbers of enemies until the player was overwhelmed.
+
+About 30% of SCP-1881-B players report lasting psychological effects afterwards, in the form of nightmares related to its contents and occasional visual/auditory hallucinations (a common complaint is hearing sounds from the game when unaccompanied and in quiet areas). One interviewed case, who had access to SCP-1881 before it was contained, reported his home videogame console would occasionally launch SCP-1881-B instead of whatever game was inserted.
+
+Note: SCP-1881 was recovered in ██/██/1982 from an arcade in ███████, Iowa, after a string of unexplained deaths of 7 teenagers, mostly males, called the Foundation's attention. All the victims died in their sleep, of respiratory arrest and/or cardiac attack. None of the victims suffered from life-threatening conditions beforehand: only 2 of the victims had a family history for heart conditions, and one for epilepsy. Of note is that names of five of the victims match initials in the SCP-1881-B's high score screen.

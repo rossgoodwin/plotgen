@@ -1,0 +1,43 @@
+SCP-760-02 inspecting a recording device following its relocation to Sector ██
+
+Item #: SCP-760
+
+Object Class: Safe
+
+Special Containment Procedures: Each specimen of SCP-760 is to be kept in an individual containment area. The locks on the doors to these containment areas are to be changed every month. Feedings composed of ██ g of a nutrient-rich paste are to be issued once a day. Specimens are only to be introduced to each other in experiments meant to observe social interactions and subsequent psychological events between specimens. At least two armed guards are to be posted outside of each containment area at any time.
+
+Each containment area is to be lit with no more than one (1) 40 watt light bulb, and equipped with low-light surveillance cameras. In the event of an equipment malfunction, equipment should be manually replaced as soon as possible, as instances of SCP-760 have a tendency to disassemble maintenance equipment.
+
+Personnel are allowed to give specimens of SCP-760 items that they no longer want or need, given that the objects do not violate current Foundation regulations and that they are approved by the overseeing researcher. Items requested for donation to SCP-760 include, but are not limited to:
+
+Car keys (denied)
+
+A broken clock (approved)
+
+A 'Rubik's Cube' toy (approved)
+
+Everyday trash (denied)
+
+A broken Foundation computer (approved, provided that the hard drive is removed)
+
+Description: SCP-760 is a vaguely humanoid species of animal, only three of which have ever been obtained by the Foundation. The skeletal and muscular system of SCP-760 differ greatly in areas from those of humans, the most notable effects of these differences being legs that extrude perpendicular to the torso and an ape-like curvature of the spine that results in a preference to walk on all fours. Other notable differences include the addition of an extra joint on each finger of SCP-760, and an average of 150% of the joint degrees of freedom that are allowed for humans. This makes SCP-760 much more flexible than the average human, which aids specimens of SCP-760 during feeding.
+
+Where a face would be on a human, there is a mass of hair on SCP-760; this hair is shown to have some sort of sensory function that allows for sight in the dark. Underneath the hair, there are no eyes, nose, or mouth; however, the skin of the "face" is pulled taut as a part of a speaker-like vocal system. SCP-760 has muscle structures in the front of their head that they can use to vibrate the skin as if it were a drum head, producing a variable-pitched whine. Further observation led to the discovery that this vocal structure is also capable of opening and serving as a mouth. Within this mouth is a tongue, approximately 40 cm in length with a soft but coarse texture.
+
+The epidermis of SCP-760 is shown to react to light in a way that makes them invisible; this is done via a complex system of reflective [DATA EXPUNGED] roughly 78% of SCP-760's skin. The hair on SCP-760's head disappears as well; biological analysis shows the hair to be similar in composition to a polar bear's. As light dims, however, this effect fades, and in very dim light it is possible to see SCP-760 completely. Removal of the skin also hinders this effect; and it appears to do so on more areas of SCP-760 than where the skin was removed, suggesting that the function of SCP-760's invisibility on any part of the body requires that same function on all surrounding parts. It is also worth noting that SCP-760 appears agitated when subjected to light for longer than what would be normal sunlight hours near latitude ██ N or ██ S.
+
+Instances of SCP-760 are very docile under normal circumstances. They exhibit behavior and tendencies similar to canines or primates, thus making understanding what they are thinking relatively easy. They are generally curious creatures; any object that is placed in the containment area is almost sure to be examined thoroughly by them. They seem to enjoy toying with new things, particularly taking objects apart and examining their pieces. They also seem to enjoy attempting to figure out how things work, and as long as they are attempting to learn about something they are completely content to stay in the containment area. Contributions of objects by personnel have served as more than enough to keep this want for new objects appeased.
+
+It is, generally speaking, entirely safe to enter the containment area, and specimens of SCP-760 seem to either enjoy or be indifferent to the presence of people. They have shown behaviors towards humans that are almost child-like in nature, and almost always benevolent. Instances of SCP-760 appear to be particularly interested in sleeping humans. In experiments performed investigating this, it was discovered that specimens of SCP-760 feed on human secretions and dead matter. When presented with a sleeping human, SCP-760 will proceed to carefully position itself over the subject, on to their chest if the subject is sleeping on their back, and begin vocalizing at approximately 20dB for a period of █ to ██ minutes. This vocalization appears to promote slow-wave sleep in ██ % of subjects, greatly reducing the chance of the subject awakening. The exact mechanism responsible for this effect is unknown, but is thought to involve [DATA EXPUNGED]. In the remaining █ %, the subject is largely unaffected by the vocalization and may regain some level of consciousness. Several subjects who have report this experience have likened it to sleep paralysis, stating that they awoke to find themselves aware of an “inhuman” presence in the room but unable to move.
+
+After this period, SCP-760 will use its tongue to consume any easily accessible secretions present on the subject including ocular discharge, hair oils, dead skin cells, pimples, and [REDACTED]. This process has been observed to be largely harmless to the subject. However, experimental observation indicates that if the subject shifts during sleep or some external event occurs SCP-760 may become startled and exert additional force on the subject, in several cases causing sore areas and slight bruising.
+
+Addendum 760-01: Research into weaponising SCP-760's invisibility is pending approval.
+
+Addendum 760-02: On ██/██/20██, 86 days after the initial discovery of SCP-760, another specimen of SCP-760 was obtained; revealing it to be a member of a species rather than an independent creature. Specimen previously in possession re-classified as SCP-760-01, and newly obtained specimen was classified as SCP-760-02. Research into the social interactions between the two began immediately following SCP-760-02's arrival at Sector 05.
+
+Addendum 760-03: SCP-760-01 and 02 were observed taking part in what appears to be some sort of mating ritual, which involved █ consecutive hours of consistently "screaming" at each other and [DATA EXPUNGED] resulted in the immediate medical treatment of SCP-760-01, and the knowledge that specimens of SCP-760 are hermaphroditic.
+
+Addendum 760-03: SCP-760-02 gave birth. Subject titled SCP-760-03.
+
+Incident Report 760-01-I: On ██/██/20██, at approximately 21:48, one of the guards posted to contain SCP-760-01 fell asleep on his shift. SCP-760-01 was somehow able to "see" this, suggesting that the hairs on its face allow it to sense through walls. It then proceeded to its containment door and partially disassembled it from the inside, a process taking roughly █ hours, and proceeded to feed on the guard as he slept. The other guard was unaware of this due to SCP-760-01's active camouflage in the hallway lights, but proceeded to coax it back into its containment area the moment he realized what was happening.

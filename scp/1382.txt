@@ -1,0 +1,135 @@
+SCP-1382-1
+
+Item #: SCP-1382
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1382 is contained off-site at coordinates [REDACTED], Lake Michigan. SCPS Seastar is to remain on permanent assignment 1 kilometer from SCP-1382, posing as Michigan Shipwreck Research Associates vessel SS Lobster Trap. Foundation operatives embedded in local Coast Guard services are to redirect air and sea traffic away from containment site. Any civilian traffic that approaches SCP-1382 is to be detained, interrogated, and administered class-B amnesiacs pending results of said interrogation.
+
+Description: SCP-1382-1 is a red sea mark water buoy, identical to models produced by ████████ ██████. Registration matches existing model produced in 19██, but no abnormal behavior was reported until July 7, 2012. SCP-1382-1 has suffered structural damage indicative of a high speed impact, likely from a light civilian motor craft, but is otherwise functional and intact. The Foundation was alerted to SCP-1382 after a pattern of recent missing persons reports led them to its coordinates. In dark weather or night conditions, SCP-1382-1 flashes the international Morse code distress signal "S.O.S." at ten-second intervals.
+
+SCP-1382-1 is anchored to SCP-1382-2, which is embedded on the sea floor at a depth of ██ meters. SCP-1382-2 is the remains of █████████ Airlines Flight 441, a commercial passenger liner that vanished over Lake Michigan on July 2, 1973. It has suffered extensive structural damage and degradation pertinent to an uncontrolled water landing and prolonged submersion.
+
+Contained within SCP-1382-2 are fifty-six instances of SCP-1382-3: skeletal human remains that are believed to be the former passengers and crew of SCP-1382-2. The remains of three reported missing persons attributed to SCP-1382-1, as well as D-49581 (see Incident 1382-C-2), are also contained within SCP-1382-2. The whereabouts of two passengers and two crew members from Flight 441 are currently unknown.
+
+When SCP-1382-1 becomes active, all instances of SCP-1382-3 animate, registering a temperature of 37.0 °C (98.6 °F) on thermal imaging scanners. Early observation suggested that SCP-1382-3 was "reliving" the crash of Flight 441: the majority of 1382-3 appear distressed and assuming crash positions in their seats. Continued observation has revealed a number of discrepancies, and it is the conclusion of Dr. Saluia that the passengers were distressed by events occurring parallel to the crash, and not the crash itself.
+
+Subject #1 (SCP-1382-3-1) rises from the pilot's seat and appears to be fending off an unknown attacker before slumping over 1382-2's control panel and ceasing to move.
+
+Subject #9 drops to its knees and holds up its arms, in a posture suggesting supplication and/or prayer.
+
+Subject #12 attempts to push his right thumb into the left eye socket of Subject #13, seated adjacent. #13 offers no resistance but appears to be screaming.
+
+Subject #18 leans over the back of its chair, grabs hold of and attempts to consume the left hand of Subject #19, managing to dislodge and swallow the distal and intermediate phalanges of the index and middle fingers (finger bones can be seen inside #18's ribcage). #19 appears to be screaming while Subject #20, seated next to it, assaults #18 with its bare fists.
+
+Subjects #22, #23, and #24 are gesturing at the left-side passenger windows, their motions suggest something is on or near the wing of the plane.
+
+Subjects #44 and #45 overpower Subjects #46 and #47 (both juveniles, estimated to be 8 and 6 years of age, respectively) and begin to consume them.
+
+Subjects #53, #54, and #55 are identified as █████ █████████, ████████ ██████, and ███ ███████, reported missing during a three month period previous to the discovery of SCP-1382. Each is in a state of decay applicable to their environment and length of time submerged. When animated, all three express confusion and distress at their surroundings and at the decayed condition of their own bodies.
+
+Subject #56 is the remains of D-49581, absorbed into SCP-1382-2 during Incident 1382-C-2. It is in a very early stage of decay. #56 expresses confusion and distress at its surroundings, as well as greater self-awareness and none of the "repeating" actions demonstrated by other SCP-1382-3's. #56 has made several efforts to escape SCP-1382-2. So far it has attempted to extricate itself through an open window, communicate with nearby SCP-1382-3's, and to run or swim to the emergency exits. Each attempt has been unsuccessful in the time allotted. Requests to contact and/or remove #56 are pending approval.
+
+After 13 seconds of activity, all instances of SCP-1382-3 turn to face SCP-1382-1. They remain in this position until SCP-1382-1 ceases its S.O.S., at which point they collapse and become inert.
+
++ Incident 1382-C-1
+
+- Hide Report
+
+Foreword: The following transcript details Dr. Saluia's attempts to establish communication with SCP-1382-1 using the Seastar's signal light at a distance of 800 meters.
+
+<Begin Log, 0039 Hours>
+
+Dr. Saluia: HELLO
+
+SCP-1382-1: S.O.S.
+
+Dr. Saluia: RESPOND
+
+[There is an uncharacteristic 2-minute pause before SCP-1382-1 flashes a response.]
+
+SCP-1382-1: HELP
+
+Dr. Saluia: WHO ARE YOU
+
+SCP-1382-1: MARY S.O.S.
+
+<End Log, 0103 Hours>
+
+Closing Statement: SCP-1382-1 ceases activity at this point. "Mary" is believed to be Mary ████████, a passenger aboard Flight 441.
+
++ Incident 1382-C-2
+
+- Hide Report
+
+Interviewed: D-49581, chosen for his knowledge of boating and International Morse code.
+
+Interviewer: Dr. Saluia, aboard the SCPS Seastar.
+
+Foreword: D-49581 was instructed to board a rubber dinghy and approach SCP-1382-1. Weather conditions nominal. Log begins at 2217 hours, when D-49581 was within 100 meters of SCP-1382-1.
+
+<Begin Log, 2217 Hours>
+
+D-49581: Hey doc, can you read me?
+
+Dr. Saluia: Loud and clear, D-49581. Report your status.
+
+D-49581: I can see the buoy. No people though. Are you sure there's someone out here?
+
+Dr. Saluia: Proceed as directed, D-49581.
+
+D-49581: Fine, fine. Hello! Anyone home?!
+
+[D-49581 raises his signal flashlight and flashes "HELLO" from his light. SCP-1382-1 does not respond.]
+
+Dr. Saluia: Continue transmitting, D-49581.
+
+[D-49581 continues flashing the prepared signal: "HERE TO HELP K."]
+
+Dr. Saluia: Any response, D-49581?
+
+[SCP-1382-1 begins a new signal, translated later as "HUNGER."]
+
+D-49581: What the hell?
+
+<End Log, 2222 Hours>
+
+Closing Statement: A sudden seiche wave - estimated to be 3 meters tall - surges up between SCP-1382-1 and the dinghy. Contact with D-49581 lost on impact. SCP-1382-1 ceases activity. A search of the area reveals D-49581's signal flashlight and fragments of his chest-mounted camera, but no other debris.
+
++ Incident 1382-C-3
+
+- Hide Report
+
+Foreword: 32 hours after Incident 1382-C-2, Dr. Saluia attempts to reengage Morse code communication with SCP-1382.
+
+<Begin Log, 2320 Hours>
+
+SCP-1382: S.O.S.
+
+Dr. Saluia: HELLO
+
+SCP-1382: [Without pause] HELP
+
+Dr. Saluia: HOW
+
+SCP-1382: S.O.S.
+
+Dr. Saluia: ARE YOU MARY ████████
+
+SCP-1382: S.O.S.
+
+Dr. Saluia: WHAT ARE YOU
+
+SCP-1382: S.O.S.
+
+Dr. Saluia: IS █████ WITH YOU
+
+["█████" is the real name of D-49581. Almost 5 minutes pass before SCP-1382 replies.]
+
+SCP-1382: HUNGER
+
+Dr. Saluia: WHERE IS █████
+
+SCP-1382: HUNGER S.O.S.
+
+<End Log, 2351 Hours>

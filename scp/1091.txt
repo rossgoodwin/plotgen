@@ -1,0 +1,41 @@
+Image of SCP-1091-1 taken shortly after recovery
+
+Item #: SCP-1091
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1091-1 is not to be removed from its containment room. The containment room is to be surrounded by a multi-stage Faraday cage. Three armed security personnel are to be stationed outside the containment room at all times. No radio devices are permitted within 200 meters of SCP-1091-1.
+
+A live microphone feed must be active in the containment room, outside the Faraday cage to record any transmissions or sounds from SCP-1091-1 for later analysis. SCP-1091-1 is not to have radio contact with any radio transmitting/receiving device unless approved by Level-4 Personnel for controlled testing purposes. Personnel are not permitted contact with SCP-1091-1 without specific authorization. All personnel must be searched to find and remove any radio devices before contact with SCP-1091-1 is permitted.
+
+If SCP-1091-1 transfers to another radio transmitting device, all personnel are instructed to seek out and destroy all radio devices within a 5 km radius. Should Foundation personnel be unable to locate and recover SCP-1091 within two hours, refer to Recall Protocol 1091-Beta.
+
+Description: SCP-1091 is a sentient entity that resides in radio receiving and transmitting devices. If its host device possesses microphone (or shortwave reception equipment) and speakers in, SCP-1091 is capable of communicating.
+
+SCP-1091 is capable of transferring itself between hosts by radio signal, at a range dependent on the broadcast power of its host device. Given the opportunity, it will use its ability to transfer between devices rapidly in an attempt to [DATA EXPUNGED]. SCP-1091 must not be allowed to reach its destination. Should such a scenario become a possibility, MTF Lambda-W is to refer to Recall Protocol 1091-Alpha.
+
+Thus far, SCP-1091 has not demonstrated an ability to infect multiple devices simultaneously. However, this possibility cannot be entirely discounted.
+
+If the host of SCP-1091 is destroyed or otherwise rendered unable to transmit before it is able to transfer, SCP-1091 will immediately become located in SCP-1091-1, regardless of distance. For this reason, it has been suggested that SCP-1091-1 is the original source of SCP-1091.
+
+SCP-1091-1 resembles a model S-38 shortwave receiver, manufactured by the Hallicrafters company in the mid-1940s. However, the composite material comprising the outer shell of SCP-1091-1 appears to be a mixture of carbon fiber and an unidentified material. Additionally, all attempts at opening SCP-1091-1 for examination have failed.
+
+All attempts to tune SCP-1091-1 have been ineffective. SCP-1091-1 plays only static until SCP-1091 initiates communication. Any other radio device within 500 meters of SCP-1091-1 will experience the same tuning failure. SCP-1091 is able to communicate with Foundation Personnel through various types of "Digital Mode" broadcasts. The choice of digital mode appears to be related to the person it is communicating with and the subject matter of the conversation.
+
+Interview Log 1091-a
+
+Interviewed: SCP-1091
+
+Interviewer: Researcher █████████
+
+Researcher █████████: SCP-1091. Clearly, you have some form of sentience. Tell me, what is it that you were planning when we had recovered you?
+
+(SCP-1091 is silent for several seconds, before broadcasting a data burst transmission approximately 45 seconds in length.)
+
+Researcher █████████: Run that through the software, I want to know what this thing is thinking.
+
+It was later determined that the transmission was an SSTV broadcast, in mode "Robot36". Decoded image is listed below available audio clip of interview.
+
+Interview Log 1091-A Audio
+
+Recovered Image of SSTV broadcast during Interview 1091-A

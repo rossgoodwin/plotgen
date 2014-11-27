@@ -1,0 +1,31 @@
+Item #: SCP-669
+
+Object Class: Safe
+
+SCP-669, inactive
+
+Special Containment Procedures: SCP-669 is to be kept in a lead-lined safety deposit on Site-19. Any personnel to be granted access to SCP-669 must have completed a training session led by an individual with 2/669 clearance.
+
+Following Incident 669-1, SCP-669 is to be encased in a Faraday cage vessel consisting of a grounded copper shell, and slotted alumina inserts holding the item in place. SCP-669 is to be removed from containing vessel only in designated testing area, so as not to interfere with Site-19 electronics.
+
+Description: SCP-669 is a sphere of radius 2.6cm, resembling a large bearing. When inactive, SCP-669 weighs approximately 560g. The surface of SCP-669 contains numerous sites of corrosion and pitting, as well as remains of a cadmium blue paint. The surface temperature of SCP-669 appears to vary between 32.1 and 33.8 degrees Celsius - this appears independent of the temperature and thermal conductivity of its surroundings.
+
+The composition of SCP-669 is currently unknown; the surface of SCP-669 indicates its composition to be mild carbon steel, however, its density, as well as inertia testing data suggests a non-uniform internal structure.
+
+SCP-669 activates when placed within 54 cm of any object larger than itself, and set into motion. While active, SCP-669 appears to lack gravitational mass - instead it describes an orbit around the object at one of a set of distances up to 54 cm from the object's surface.1 Collisions with an object larger than itself cause SCP-669 to relocate into orbit around the colliding object.
+
+If SCP-669 is exposed to a suitable light source of sufficient brightness (see Experiment Log-669), it proceeds to move into next further orbit. If no such exists, SCP-669 will either deactivate, or proceed to fly at a tangent to its original orbit until colliding with another suitable object.
+
+Pushing SCP-669 into an orbit closer to an object it orbits requires a force of approximately 50N, and is accompanied by a brief photoemission of seemingly random frequency from SCP-669's surface.
+
+Recovery Log: SCP-669 was recovered from the depositary of Istanbul Modern Art Museum on April 4, 195█ having been previously exposed in the annual "Current Eastern European Sculpture" retrospective, as a part of an exhibit titled "Rutherfordian Atom - A Didactic Perspective".2 SCP-669 was not listed in that exhibition's catalog and neither its purported artist, one G█████ P█████████████, nor "Lomonosov-Makarenko Institute for Scientific and Political Education" appear to figure in any official records.
+
+Incident 669-1:
+
+On ██/██/196█ during the course of an experiment led by Researcher Arnold Scheiner, SCP-669 deactivated after a minor collision. Within 15 seconds of reactivation, SCP-669 suddenly developed a electric field sufficient to strip electrons from objects within a radius of approximately half a metre, resulting in the death of Researcher Scheiner, and extensive damage to electronic devices in the laboratory and adjacent areas. Containment procedures updated.
+
+Footnotes
+
+1. SCP-669 always orbits at one of a set of four to nine discrete distances located in the range 0cm-54cm, however, the precise values vary with every activation.
+
+2. Visual records recovered indicate that the exhibit contained █ further instances of SCP-669 as well as an agglomeration of at least ██ similar objects, none of which were recovered.

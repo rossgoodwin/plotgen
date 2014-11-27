@@ -1,0 +1,93 @@
+SCP-1823 in the Pacific Ocean. The vessel visible on the left was evacuated by Foundation air support.
+
+Item #: SCP-1823
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1823's position is to be monitored at all times via satellite imaging and naval reconnaissance. All non-Foundation seafaring vessels are to be redirected from routes likely to intersect SCP-1823's path. Civilian vessels are to be deterred using falsified weather reports. Military vessels are to be given rerouting orders from assets in said government's navy. If these measures are insufficient, vessels are to be detained and forcibly rerouted, and those on-board are to be given Class-B amnestics. Should any vessel become victim to SCP-1823, aerial support and recovery is to be implemented (survivors are likewise to be administered Class-B amnestics), and the incident is to be attributed to weather conditions.
+
+Description: SCP-1823 is an autonomous and self-sustaining migratory whirlpool. The dimensions of the whirlpool vary between approximately 1km and 4km in diameter, with current speeds of 100-170kmph. SCP-1823 is capable of "traveling" at a maximum observed speed of 30 knots, and often moves contrary to present oceanic currents or conditions. There is no observed pattern to SCP-1823's path, though it appears to avoid areas with depths of 500m or less. If, however, any naval vehicle occupied by one or more human approaches within 70-300km of the anomaly, it will actively target that vessel. SCP-1823 does not track airborne vehicles.
+
+SCP-1823 was discovered on ██/██/19██ in the northern Atlantic Ocean, approximately ███km from the coast of Norway. The discovery had resulted in the destruction of a civilian fishing vessel; no crew-members survived. The Foundation was alerted following reports of the whirlpool's size (presently 3km) and alleged "movement". The witnesses were administered Class-B amnestics and the incident was publicly declared the result of an iceberg collision.
+
+Despite Foundation efforts, SCP-1823 has incurred the destruction of ██ known vessels and ███ fatalities since its discovery, largely due to unpredictability of the phenomenon. Attempts at disrupting the currents of SCP-1823 are futile, as this will cause the whirlpool to dissipate and reform elsewhere (see Experiment-SCP-1823-Perseus for details). Instructions from O5 Command prioritize further study of the anomaly, with the aim of establishing neutralization protocols or more reliable containment procedures.
+
+Addendum [1823-001]: Incident Log
+
+On ██/██/19██ at 4:58AM, approximately 550km west of the coast of Portugal, SCP-1823 was recorded engaging in previously-unobserved activity. The waters of the anomaly became uncharacteristically violent, frequently ejecting columns of seawater into the air. Said activity increased in intensity over the course of 30 minutes. 25 minutes after the onset of the event, SCP-1823 began to generate shrill, intense sounds of unknown origin1. Digitally-enhanced imaging of the event discerned an unknown mass moving violently within the water of SCP-1823. Analysis confirms the presence of six elongated [DATA EXPUNGED]. A Foundation helicopter tracking the anomaly detected several low intensity sounds emitted from SCP-1823 one minute prior to cessation of the event (see Addendum [1823-004] for details).
+
+Addendum [1823-002]: Observation Log
+
+SCP-1823 has been observed to release or generate matter at random intervals; how this occurs is unknown. This matter is largely composed of flotsam and jetsam, appearing to be of Ancient █████ origin, consistent with 700-800 BCE (though it shows no indications of decay or deterioration). Human remains have also been recovered; these specimens are also consistent with Ancient █████ origin, but demonstrate no signs of advanced decomposition, despite indications that they would be over 2700 years old. For full information on materials recovered from SCP-1823, see DOCUMENT-SCP-1823-RM (CLEARANCE 4/1823 REQUIRED).
+
+Addendum [1823-003]: Incident Log
+
+On ██/██/20██ at 8:34PM, SCP-1823 ejected a living, unconscious human being while approximately 780km southeast of Hawaii. Said subject was recovered by Foundation naval reconnaissance and subsequently debriefed.
+
+Interviewed: Nathan Richardson
+
+Interviewer: Dr. Adler
+
+Foreword: Due to the subject's present lack of observable anomalous traits, it is the tentative decision of the research team that he be addressed by name.
+
+<Begin Log>
+
+Dr. Adler: Do you need anything, Mr. Richardson?
+
+Richardson: …No. What year did you say it was, again?
+
+Dr. Adler: 20██.
+
+Richardson: …
+
+Dr. Adler: What year do you believe it is?
+
+Richardson: 199█. I was on a…cruise with my family.
+
+Dr. Adler: What cruise was this?
+
+Richardson: Bahamas2.
+
+Dr. Adler: What happened on the cruise?
+
+Richardson: We were eating dinner in the dining hall. My son was eating mashed potatoes; Jason always refused to try mashed potatoes, he said they looked "icky". Turns out he really liked them. My wife started taking pictures of him eating, and that's when everything started to shake. The tremors became violent very fast, people screamed and ran for the doors. I grabbed Jason, but Susan…my wife turned around and the food cart came down the aisle so quickly…I couldn't reach her, and she wasn't moving, she was bleeding…
+
+Dr. Adler: You may take as much time as you need.
+
+Richardson: I got Jason out of there. The ship was rocking violently, no one still seemed to know what was going on. I figured it was a hurricane, but when I got out into the hallway, I saw that there was no wind, rain, nothing outside. I ran, trying to find someone who could help with Susan, but it was sheer chaos. I yelled, searching for anything, then I saw it. The waters, churning like I'd never seen before as far as I could see. The ship gave a massive lurch, and I tumbled down into it with Jason.
+
+Dr. Adler: Did you try to get back to the ship?
+
+Richardson: I couldn't. All I remember after the fall is blackness. No cold, screaming people or roaring ocean, no Jason, just blackness. I don't know how long it lasted: it might have been seconds or years.
+
+Dr. Adler: Do you remember what happened then?
+
+Richardson: When I awoke, I was standing in…a canyon? I don't know what else to call it. It was completely circular and massive, almost half a mile across. There were these…things erupting from the sides of the canyon everywhere, giant sharp rocks, I guess. There were also pieces of wood, like parts of boats. It was raining, there was mist or something everywhere. I couldn't see the bottom of the canyon at all, and I didn't see Jason anywhere. Then I looked up…
+
+Richardson pauses for roughly half a minute, Dr. Adler remains silent, waiting for him to continue.
+
+Richardson: The rocks, or whatever they were, they were holding…something up. They dug into the sides of it, holding it in place. I think it was asleep…it was just stuck there with most of its…heads curled up on top of itself. Then I saw Jason. He was hanging from one of the mouths. I saw his arm, his hand, his face…then the thing shuddered, and Jason fell out, down into the canyon…
+
+Dr. Adler: Are you alright?
+
+Richardson: I jumped. Into the pit. I didn't care what was down there at that point, maybe Jason was down there, maybe he wasn't, maybe he was alive…I just wanted the blackness again. I had it, for a while. But then I woke up here.
+
+At this point, Richardson became unresponsive and the interview was terminated.
+
+The subject remains in custody; no further living individuals have been observed to be released by SCP-1823.
+
+Addendum [1823-004]: Post-Incident Analysis
+
+The low intensity noise captured by Foundation aircraft during Incident-SCP-1823-B4 is determined to be a series of vocalizations in [REDACTED]. What follows is the known translated transcript of these vocalizations:
+
+-cannot control [UNINTELLIGIBLE] forgive [UNINTELLIGIBLE] .
+
+-sea father commands, must protect, must [UNINTELLIGIBLE].
+
+-not escape.
+
+Footnotes
+
+1. Post-incident analysis indicates that these noises likely belong to a living creature.
+
+2. Foundation records confirm the destruction of a cruise liner on course to the Bahamas by SCP-1823 during the indicated year.

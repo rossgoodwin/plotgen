@@ -1,0 +1,189 @@
+Item #: SCP-1803
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1803 is to be kept at Sector-23, suspended by steel cables from the ceiling of a secure 10m (w) x 25m (d) x 15m (h) item containment room. SCP-1803 is to be kept at least 1m from contact with the floors, walls or ceiling of its containment area. Cables suspending SCP-1803 should be no greater than 15mm in diameter and should be spaced no closer than 0.5m together at their anchor points. SCP-1803-1 is to be monitored continually for changes in content by security personnel with level 4 clearance. Changes in content shall be documented and forwarded to the Foundation Intelligence Analysis Department for assessment. Any experiments must be cleared with the Intelligence Analysis Department.
+
+Absolutely no SCP decommissioning is to take place within a 10km radius of SCP-1803.
+
+Description: SCP-1803 is a section of a residential building originally located at [REDACTED] in ██████, Germany. The major portion of SCP-1803 includes an 18m length of exterior masonry wall 12m in height, the lower 3m of which is excavated foundation that had been originally below ground. Attached to the interior side of the wall section are portions of flooring from three levels of the original structure, as well as interior walls, doors, windows, and one complete half-bath. Approximately centered in the wall section is a 10m x 5m studio missing only one interior wall. Within the room is a stationary humanoid figure1 posed facing out the room’s single window.
+
+SCP-1803, including the humanoid figure, is completely covered by SCP-1803-1. SCP-1803-1 is a multimedia collage consisting of newspaper and magazine clippings, photographs, various textual elements, painted canvas, graffiti, toys, posters, sculptural elements, [REDACTED], and numerous other “found” objects. (see: Document CI-1803-A, Content Survey SCP-1803-1.) The majority of SCP-1803-1's surface area undergoes continual revision, replacing older elements of its content with new items. New items will appear to “grow” from beneath adjoining items, overlapping older elements until the older elements are completely covered. Despite this method of renewal, probes of SCP-1803-1 show that no one area of SCP-1803-1 is greater than █ layers thick despite observations that 80% of its surface area has been completely replaced ███ times since coming within Foundation custody. Approximately 20% of SCP-1803-1’s surface area does not undergo this renewal, consisting of three areas in the central room of SCP-1803 that have remained consistent since SCP-1803 was contained. (see: Document CI-1803-B, Consistent Elements of SCP-1803-1.)
+
+Detail of SCP-1803-1 from area that has remained consistent since containment. Objects have been dated circa. 193█
+
+Content identified in SCP-1803-1, aside from items directly incorporated due to contact with SCP-1803-1, are comprised of elements that have been discarded or otherwise destroyed at some time prior to their incorporation. While approximately ██% of traceable new items have been confirmed to have been destroyed or discarded within a 10km radius of SCP-1803-1 within 12 months prior to incorporation, the remainder have no known limitations as to origin either temporally or geographically. SCP-1803-1 shows a marked bias toward works of art, photographs, and censored literature, which account for between 45% and 65% of its surface area at any one time. Much of the remainder will be random discarded objects distributed in a way that suggests commentary on SCP-1803-1’s content.2 About █% of SCP-1803-1 will consist of classified or otherwise secret documentation from a variety of sources, including the Foundation itself. To date, SCP-1803-1 has incorporated reports and memos from █ different national intelligence agencies, ██ different corporations, ██ different NGO’s, and █ Groups of Interest.
+
+When any item contacts SCP-1803-1 at points with a combined cross-section greater than 400mm2 within a .25m2 area for a duration longer than 15 seconds, there will be one of two possible reactions from SCP-1803-1:
+
+For large items of a structural nature (walls, floors, ceilings, support beams, masonry, pipes larger than 20mm in diameter, furniture, appliances, heavy machinery, and so on.) SCP-1803-1 will attach itself to the item and begin to grow over it, eventually incorporating it into the combined mass of SCP-1803.3
+
+Other items will be drawn into SCP-1803-1 at the point of contact. No attempt to retrieve an item during this occurrence has met with success. At best, attempts have resulted in mechanical failure of the object at the point of contact with SCP-1803-1 and retention of the unincorporated portion. Within 24 hours, the object will re-emerge elsewhere as part of the composition of SCP-1803-1, usually in several pieces presented in some geometric arrangement.4
+
+Addendum 1:
+
++ Document I-1803-23A
+
+- Document I-1803-23A
+
+Document I-1803-23A: Incident Report/Containment Breach
+
+SCPs involved: SCP-1803-1, SCP-████
+
+Date: ██/██/████
+
+Location: Sector -23
+
+Description: 90 days after the decommissioning of SCP-████ at Site-██ (█km from Sector-23) the security team monitoring SCP-1803 noticed the incorporation of [REDACTED] into SCP-1803-1. The area was locked down and researchers from Site-██ confirmed that the visible [REDACTED] was a section of SCP-████. SCP-████ had been a Keter class [REDACTED] and if fully exposed outside its specified containment protocol could result in an XK scenario. After 12 hours of a Foundation-wide full alert, the [REDACTED] fully emerged and it was determined that [REDACTED] was only a section of SCP-████ cut into the shape of a five-pointed star. Without [REDACTED], SCP-████ was incomplete, preventing full manifestation of SCP-████’s anomalous effects. The inert section of SCP-████ was peeled off of SCP-1803-1 by a remote-operated drone and destroyed without any further incident.
+
+Note: No more decomms anywhere near this thing— Dr. ██████, Director Site-██
+
+Addendum 2:
+
++ Document R-1803-101AB
+
+- Document R-1803-101AB
+
+Document R-1803-101AB: Transcript of Interpol surveillance prior to identification of SCP-1803
+
+Foreword: On ██/██/████, agents of Interpol were conducting audio surveillance on a multi-family apartment building [REDACTED] in ██████, Germany. They were monitoring Dr. Otto █████, male 95 years old, for involvement with [REDACTED] suspected of possible terrorist activities. At 18:45 local time, Dr. Otto █████ received two unidentified male visitors.5
+
+<Begin Transcript, 18:48 ██/██/████>
+
+Dr. █████: I don’t receive many visitors these days. Who did you say you were?
+
+Unidentified Male #1: David sent us.
+
+Dr. █████: David…?
+
+Unidentified Male #1: You know, David.
+
+Unidentified Male #2: He told us to ask you if we were cool yet.
+
+Dr. █████: [Chuckles] Oh. That David. Come in, friends. Have a seat.
+
+[45 second pause in conversation as the three men take seats in the main room of the studio]
+
+Unidentified Male #1: You’re a hard man to find, sir.
+
+Dr. █████: Quite intentional. Too many of the wrong people looking. Now forgive me, but I am wondering why our mutual acquaintance would send you to me. I have retired from teaching esoterica, and I am quite busy with my own project.
+
+Unidentified Male #1: Well, to be honest, he didn’t really send us…
+
+Unidentified Male #2: We want to talk about your project.
+
+Dr. █████: My projects are my concern.
+
+Unidentified Male #1: Just listen to our proposal.
+
+Unidentified Male #2: You can help us strike a blow against the fascist oligarchy ruling Europe.
+
+Dr. █████: Oh. I see. [15 Second Pause] I’m going to have to ask you to leave.
+
+Unidentified Male #1: Wait. Please listen. This is a fantastic idea. We set it up in Brussels. At [REDACTED]. Imagine it, their brand new, billion-euro building covered with every secret memo, every document they’ve ever tried to hide. A monument to every petty—
+
+Dr. █████: Get out!
+
+Unidentified Male #2: Dr. █████, I think you should hear us out.
+
+Dr. █████: I’ve heard enough. You’re a pair of ignorant fools. You don’t even know what Fascism means. You— [Statement stops abruptly]
+
+[10 Second pause in conversation.]
+
+Unidentified Male #1: Kurt, what are you doing?
+
+Unidentified Male #2: Getting the good doctor’s attention.
+
+Dr. █████: [Pause] Young man, please put the gun away.
+
+Unidentified Male #2: No. You’re going to help us make a statement that will inspire the masses to—
+
+Dr. █████: You have no idea what you’re doing.
+
+Unidentified Male #1: Sir, if you help us, we’ll go down in history.
+
+Dr. █████: Bah! All that will happen is they close their building. If you think anyone will get to see their precious secrets before they destroy the place you are a greater fool than I imagine you are.
+
+Unidentified Male #2: We will see. All we need is your notes. We can do the ritual ourselves.
+
+Dr. █████: [Pause] I actually think you would. Your eyes… I’ve seen that kind of look before. [Pause] A determined, righteous man, aren’t you?
+
+Unidentified Male #1: We are, sir.
+
+Unidentified Male #2: Shut up.
+
+Dr. █████: Do you know what the ritual entails?
+
+Unidentified Male #1: Uh. Yes, sir.
+
+Dr. █████: [Sighs] I’ve waited decades to create my memorial, but the techniques of Thule are not cheap. I’ve balked at the price. Spent my life searching for a means to avoid it. But I take it you’re willing to pay.
+
+Unidentified Male #2: There are plenty of people in that building I would sacrifice to see your art live.
+
+Dr. █████: I suppose if you are willing, then I should be as well.
+
+[Unidentified sounds]
+
+Dr. █████: [Unintelligible]
+
+Unidentified Male #1: Sir?
+
+Unidentified Male #2: Dr. █████? What are you doing?
+
+Dr. █████: [Unintelligible]
+
+Unidentified Male #1: [Screams]
+
+[Gunshots, recording ends.]
+
+<End Transcript>
+
+Closing Statement: By the time the Interpol agents on duty arrived at Dr. Otto █████’s apartment, SCP-1803-1 had already covered 90% of the studio. Foundation agents were called in, the building was condemned, and SCP-1803 separated from the existing structure and airlifted to Sector-23. Genetic testing has revealed the humanoid form in SCP-1803 as the remains of Dr. █████. Tests on the remains of the other two males have identified them as Simon ██████ and Kurt █████, college students who had been linked to the ██████, Germany cell of the Are We Cool Yet? collective (currently inactive).
+
+Addendum 3:
+
++ Document CI-1803-A-a
+
+- Document CI-1803-A-a
+
+Document CI-1803-A-a: Content Survey SCP-1803-1 (Summary)
+
+Data Redacted by request of Intelligence Analysis Department — O5-█
+
+Addendum 4:
+
++ Document CI-1803-B-a
+
+- Document CI-1803-B-a
+
+Document CI-1803-B-a: Consistent Elements of SCP-1803-1 (Summary)
+
+Summary: Consistent elements in SCP-1803-1 are confined to three areas in the central room around the humanoid figure. Area one is the largest, surrounding the single window. Items comprising it have been dated as early as 1919, and as late as 193█. The majority of textual elements are from German-language publications from the period. Artistic elements include paintings, sculptures, lithographs and photographic reproductions of modernist works from this era. Almost all art in this section has been documented as having been destroyed by the German Nazi regime as examples of entartete Kunst.6 The 35 artists represented include Otto Dix, Kurt Schwitters, Paul Klee, and Piet Mondriaan.7
+
+The other two areas are on opposing walls to either side of the humanoid figure. Both consist of flayed human skin pasted over newsprint. Rectangular holes have been cut in the surface of the skin to reveal lettering beneath.
+
+The skin on the right-hand wall8 has 72 holes of varying sizes. Each hole reveals either a single letter, word, or punctuation mark from the following series9: "A" "are" "C" "cool" "W" "we" "Y" "yet" "?"
+
+The skin on the left hand wall10 has 132 holes, all revealing the number "9."
+
+Footnotes
+
+1. Samples from the humanoid figure shows tissues consistent with that of a human male, though it has shown no sign of movement, biological function, or decay since containment.
+
+2. Attempts to communicate with SCP-1803-1 by introducing new content have been inconclusive, but suggestive of conscious direction of SCP-1803-1's composition.
+
+3. Such items can be removed. Removed items do not retain the anomalous properties of SCP-1803 or SCP-1803-1. This process is not recommended because of potential damage to SCP-1803 or SCP-1803-1.
+
+4. This process has proved fatal for any living organism.
+
+5. Transcript is translated from the original German.
+
+6. "degenerate art."
+
+7. Many of the works incorporated had been displayed in the Nazi Entartete Kunst exhibit premiering in Munich in 1937.
+
+8. Genetically identified as the remains of Kurt █████.
+
+9. Note: Words are in English.
+
+10. Genetically identified as the remains of Simon ██████.

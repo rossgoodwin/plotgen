@@ -1,0 +1,73 @@
+SCP-842 prior to recovery
+
+Item #: SCP-842
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-842 is housed at Site-19 in a standard 10 m x 10 m x 5 m containment cell. All telephone lines, radio transceivers, internet connections, and other communication equipment to aid in the use of SCP-842 must be routed through a central server administered by Site-19 security. Maintenance of equipment is to be done on a monthly basis, or upon request of administrator.
+
+No security measures beyond a standard locked Foundation security door are required. Access to SCP-842 is to be restricted to researchers with Level 4 clearance or MTF Commanders with authorization from O5 personnel. Written proposals for use of SCP-842 are to be made at least one week before requested use, and must detail the purpose of the operation and the estimated time of use.
+
+All class-D personnel required for use of SCP-842 are to be escorted by no fewer than two Level 3 Security personnel. Backup class-D personnel are to be kept in the adjoining containment cell, and are to be prepped for use in SCP-842 by onsite medical personnel at least one day before use. No more than one class-D is to be allowed inside SCP-842’s containment area at any time (aside from the class-D in use by SCP-842), and must be restrained by a four point harness.
+
+Description: SCP-842 is a 2 m x 0.8 m dilapidated antique operating table capable of remote viewing and surveillance. SCP-842 will use SCP-842-1 to display terrain, buildings, objects, and entities within the chosen viewing area. SCP-842-1 will be altered to mimic the chosen viewing area in real time, and any alterations of the viewing area or updated information will be displayed immediately on SCP-842-1.
+
+SCP-842 will not display any anomalous properties until a living human lays face up on the table. Once the subject lays face up on the table, the subject becomes completely immobilized from the neck down, and is henceforth designated SCP-842-1. As long as SCP-842-1 remains alive, it cannot be removed from the table.
+
+Remote viewing begins when a human touches SCP-842 while “thinking” about the area he wishes to see. GPS coordinates, longitude & latitude, first hand knowledge of the location, and/or observation of a detailed map of the area is sufficient to allow activation of SCP-842. The person who first initiates SCP-842 controls the viewing area until the expiration of SCP-842-1. If the controller wishes to view different areas, other floors, or increase or decrease magnification, he merely needs to “think” about it.
+
+Objects are three dimensionally rendered on SCP-842-1 by the near instantaneous alteration of SCP-842-1’s body. How this is accomplished is unknown at this time. Musculature and bone are the most commonly used materials to render objects but [DATA EXPUNGED] have sometimes been noted. The controller may “tag” objects or individuals with text. The text is displayed by use of veins and arteries. Sound from the remote viewing area is channeled directly through SCP-842-1's own vocalizations. However, due to the fact that SCP-842-1 is fully aware of the trauma being inflicted, SCP-842-1’s screams make deciphering sound from the viewing area difficult.
+
+SCP-842-1 must remain conscious through the entire process to maintain real time updates. Anesthesia or lobotomies drastically affect image fidelity and are not recommended. Medical personnel preparing class-D subjects for use are to remove the subject’s larynx unless specific requests to the contrary are made. SCP-842-1 tends to survive generally between fifteen to twenty minutes, depending on the subject’s physical health, the complexity of the rendition, the frequency of real time updates that are required by the viewing, and the number of times changes of viewpoint which would require large scale construction of a different view are required. Upon expiration of the subject, real time updates of the viewing area cease and the subject at this point can be removed from the table.
+
+Autopsies conducted on the corpses recovered after use demonstrate massive internal and external injuries. Organs are compacted, moved, or [DATA EXPUNGED] completely. Musculature and bone are warped to a degree to make them unrecognizable as any bodily structure. It is unknown how SCP-842-1 survives the continuous changes inflicted on its body or fails to go into immediate shock.
+
+Users should note that SCP-842 does have limitations. It is impossible to view areas underneath fifteen feet of solid mass. Additionally, the wider the area viewed, the more SCP-842 relies on the controller’s own knowledge or expectation of information regarding the area rather than SCP-842’s seemingly omnipresent abilities. At “short range viewing,” generally within the 10 m x 10 m area, the rendition will be nearly 100% accurate. At intermediate range, around the 200 m x 200 m distance, tokens only represent the general area (within 10 m) which the object could be located. Long ranges of greater than 200 m are strictly limited to terrain and the controller’s personal knowledge and/or expectation. Finally areas of high psychic activity or other EM interference can render information gained by SCP-842 highly unreliable.
+
+SCP-842 is not to be used for “fishing expeditions.” Unless the controller knows specifically which location is desired or what information is sought, class-D personnel are consumed at an unacceptable rate.
+
+Recovery Log: SCP-842 was recovered in a raid on an ad hoc Chaos Insurgency facility located in the Ural Mountains on █/█/██. Foundation agents had received a tip that the Insurgency was transporting several SCP objects and had temporarily established a base camp in the abandoned town of ███. Foundation casualties numbered over █ agents and █ class-D personnel. The unusually high casualties that were sustained were attributed to the Chaos Insurgency commanders using SCP-842 to organize their defense. Only due to Agent [DATA EXPUNGED]’s quick thinking and uncommon valor was [DATA EXPUNGED] and the object brought into containment.
+
+Test Log SCP-842:
+
+Subject: Corpse of previously terminated class-D.
+
+Area to be viewed: An adjoining containment cell containing D-457 sitting in a chair.
+
+Result: No result.
+
+Subject: Sedated Papio anubis (Olive Baboon).
+
+Area to be viewed: An adjoining containment cell containing D-457 sitting in a chair.
+
+Result: No result.
+
+Subject: D-458 – Heavily Sedated.
+
+Area to be viewed: An adjoining containment cell containing D-457 sitting in a chair.
+
+Result: Upon touching the table, Dr. ███ immediately noted bones and sinew erupting from D-458’s chest area while D-458’s arms and legs fused into the central mass to form a roughly even block covering SCP-842. Despite the massive trauma done to D-458, he did not expire or lapse into shock. No blood or bodily fluid spray occurred. The three dimensional representation of the adjoining containment room was highly distorted, and no recognizable details could be made out. D-458 expired after twenty two minutes of viewing. Cause of death, massive internal trauma.
+
+Subject: D-459.
+
+Area to be viewed: An adjoining containment cell containing one D-457 sitting in a chair.
+
+Result: The three dimensional representation of the adjoining containment room immediately erupted from D-459’s chest. D-459 begins screaming. Before security could return with a gag, D-459 overheard muttering “wish I had a cigarette” in between screams. Details on the representation were extremely fine including an accurate scale representation of the chair and D-457 seemingly made out of [DATA EXPUNGED]. During the experiment, the representation of D-457 got up from the chair and began moving about the viewing area. D-459’s screams at this point intensified. D-459 expired after twenty two minutes of viewing. Review of surveillance information in D-457’s room confirms the representation on D-459 completely and accurately mirrored D-457’s actions, including his request for a cigarette.
+
+Subject: D-460.
+
+Area to be viewed: A supermarket that Dr. ███ had never personally visited. Prior to this experiment Dr. ███ was shown the location of the target area on a map.
+
+Result: The three dimensional representation of the supermarket and surrounding parking lot rendered. Small “tokens” made of [DATA EXPUNGED] rendering cars and people moving about the store. Dr. ███ was able to view the inside of the store by thinking about removing the roof from the representation. Upon the thought, the flesh and arteries that made up the “roof” of the supermarket rapidly would grow or retract. Dr. ███ thought about viewing the produce section in detail. The representation rapidly reconstructed into the produce section, showing objects and people moving through the area in much greater detail. Subject expired after seven minutes.
+
+Subject: D-461.
+
+Area to be viewed: All Foundation assets in North America. Dr. ███ was not provided any information regarding O5 Command Level information regarding distribution of Foundation resources.
+
+Result: An accurate rendition of North America was created. The only map tokens generated however were for Site 19 and one for Dr. ███, which the controller was aware that Dr. ███ was taking a vacation in the city located near the token. The controller was then told Agent ███ was on assignment in [REDACTED]. A new token representing Agent ███ was instantly generated.
+
+Subject: D-462.
+
+Area to be viewed: The nucleus of carbon atom held in a vacuum in Site-19, Lab █.
+
+Result: Upon touching the table [DATA EXPUNGED] resulting in two weeks clean up and █ casualties. Testing on the quantum or stellar scale has been indefinitely suspended.

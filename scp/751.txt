@@ -1,0 +1,23 @@
+SCP-751
+
+Item #: SCP-751
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-751 is to be kept in a hermetically sealed container with a volume of one (1) cubic meter. The container must be maintained at high humidity and nutrients detailed in Document 751-A are to be injected into the container on a daily basis.
+
+If a containment breach occurs, all on-site personnel are to be awakened and the sprinkler system filled with a high concentration saline solution and activated. Once SCP-751's body is located, it is to be disposed of according to standard Euclid disposal procedure.
+
+Description: SCP-751 is an amorphous parasite that feeds off of the organs of humans and other mammals. It weighs approximately two (2) kilograms before infesting a host, and can weigh as little as twenty-five percent (25%) of this after reproduction. The majority of SCP-751's mass consists of an unknown substance with a gelatin-like consistency, with red veins running through it. Analysis has revealed that the veins contain a mix of blood from its progenitor's hosts along with varying anesthetics and immunosuppressive drugs. A full list of these chemicals is available in Document 751-C.
+
+SCP-751 lives in damp environments such as freshwater bodies of water, swamps, rainforests, and sewers. It will leave these environments when in search of a host, traveling for a maximum of twelve (12) hours before succumbing to dehydration. SCP-751 has been observed to move through sewer pipes, water lines, and across most terrains, with the notable exceptions of sand and bodies of saltwater. It is theorized that SCP-751 hunts potential hosts by detecting carbon dioxide (CO2) and octenol, although this is unconfirmed as of ██/██/████.
+
+SCP-751 begins its feeding process by settling on top of a sleeping host's stomach region and begins to enter through the skin by osmosis. Anesthetics in SCP-751's veins mix with the host's blood at this time, minimizing the chance of the host awakening during the process. Once within the host's body, SCP-751 comes to rest inside the stomach, quickly shaping itself to line the gastric walls. Over the course of the next two (2) or three (3) hours, SCP-751 adapts its own composition to closely match that of the host's stomach, maintaining digestive processes. When the host awakens, there is little or no evidence of any incident and the host will continue under its normal routine.
+
+Over the next three (3) to four (4) days, SCP-751 will digest the host's stomach, using it to build up its own mass for further expansion. It will then slowly expand to engulf and digest other organs in the host's body, generally starting with the intestines and moving to the liver, kidneys, and lungs. SCP-751 will adapt itself to mimic each of these organs in turn, maintaining all of the host's bodily functions and releasing immunosuppressant chemicals to prevent rejection by the host. The entire process takes approximately one (1) month in a human host, and longer in larger hosts.
+
+After its feeding period, SCP-751 reverts back to its original composition in a matter of minutes. This process lowers SCP-751's density considerably, causing it to swell to a size that the host's body cannot contain. The host's skin will stretch and then burst, releasing SCP-751. At this point SCP-751 will reproduce, dividing into ten (10) to twenty (20) smaller entities, which then move to the nearest damp area to grow in preparation of hunting for their own hosts.
+
+Addendum:
+
+Request to "experiment with modifying SCP-751 for use in organ transplants" approved by Dr. ████████.

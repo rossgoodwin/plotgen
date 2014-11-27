@@ -1,0 +1,209 @@
+SCP-1562 just before acquisition
+
+Item #: SCP-1562
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1562 is currently quarantined in Testing Lab 46-V in Site 24. The door to the lab is to remain locked at all times. As testing is currently suspended, all access is denied unless special clearance is granted by Dr. Carver.
+
+Description: SCP-1562 is a metal playground slide measuring 2.2 meters high and 3.4 meters long. SCP-1562 was acquired from an abandoned playground on the outskirts of ██████████, ███████ after several children in the area went missing. The object's anomalous effects only manifest when a person slides down head-first on their stomach with their arms tucked down at their sides; any other orientation of the body or limbs while sliding results in no effect, and only human beings are affected.
+
+When a person slides down SCP-1562 in the aforementioned manner, they will disappear instantly and completely at approximately 15 cm before the end of the slide. So far no one who has disappeared while using SCP-1562 this way has been recovered. Attempts to tie safety lines to test subjects in an effort to pull them back have ended in failure, as the tether is severed at the moment the test subject disappears. Communication with test subjects that have disappeared is possible and ongoing, and detailed in the logs below.
+
++ Audio Log 1562-A1
+
+– hide block
+
+Foreword: D-2445 was given a 2-way radio earpiece to communicate with researchers observing the test. Communication began immediately after D-2445 disappeared from SCP-1562.
+
+<Begin Log>
+
+Dr. Darritz: D-2445, can you hear me?
+
+D-2445: Yes, doctor, I can hear you.
+
+Dr. Darritz: Where are you now?
+
+D-2445: I don't know. Some sort of very small tunnel. It's really cramped. Can you get me out now?
+
+Dr. Darritz: Can you describe it to me?
+
+D-2445: No, it's too dark. I can't see anything, and I'm stuck.
+
+Dr. Darritz: Stuck how?
+
+D-2445: I'm still head-first on my stomach, and my body's at an angle, but I'm in some sort of small tunnel and I'm stuck. I'm completely surrounded by rock or dirt on all sides. I don't have enough room to raise my head or move my arms, and I can't move forward. I really want to get out of here now.
+
+Dr. Darritz: We're going to try. Can you see anything? Anything at all?
+
+D-2445: No, I told you I can't see anything. I'm getting kinda freaked out now. I'm not really claustrophobic but this is pretty fucking uncomfortable. Pull me outta here.
+
+Dr. Darritz: Unfortunately your safety line was severed when you disappeared, so we can't pull you out. We'll try to figure out another way to retrieve you. For now, just stay calm and keep talking to me.
+
+D-2445 No, no, no, no you need to get me out now. I can't handle much more of this.
+
+Dr. Darritz: Please stay calm. We will have you out of there as soon as we can.
+
+D-2445 Okay, I was able to worm my way forward a little bit, but my head hit something.
+
+Dr. Darritz: What did you hit?
+
+D-2445: It's a shoe I think. It's small… Jesus.
+
+Dr. Darritz: What's wrong?
+
+D-2445: Get me out of here, doctor. Get me out of here now.
+
+Dr. Darritz: Calm down. We'll get you out of there as soon as we can.
+
+D-2445: No, you need to get me out of here right now. The shoe…it's so tiny.
+
+<End Log>
+
+Communication was suspended with D-2445 while researchers discussed possible methods of retrieval. A consensus was reached to send down another D-Class attached to a tether, with additional video and audio recording equipment, a GPS tracker, and a headlamp. Communication was re-established with D-2445 to inform him of the plan.
+
++ Audio Log 1562-A2
+
+– hide block
+
+<Begin log>
+
+Dr. Darritz: Are you still there, D-2445?
+
+D-2445: Please. Please, I don't want to be in here anymore.
+
+Dr. Darritz: We're going to send someone in to pull you out.
+
+D-2445: It started talking.
+
+Dr. Darritz: What started talking?
+
+D-2445: The little boy did. But it didn't make any sense.
+
+Dr. Darritz: Tell me what he said.
+
+D-2445: He…he just kept asking where he was, and I told him I didn't know. But I don't think he was really talking to me, because he didn't respond to my voice, and he told me to stop crying when I was actually sorta calm.
+
+Dr. Darritz: What else? Was he moving at all during this?
+
+D-2445: I don't think so. He started screaming and I told him to shut up but he just kept screaming and crying and asking for his mommy. Then he finally stopped, and shortly after that you contacted me again. Please get me out now.
+
+Dr. Darritz: Okay. We're sending someone in. Don't panic if you hear or feel something behind you.
+
+D-2445: Please hurry, my chest is-
+
+<End Log>
+
+Shortly after this, D-8600 was sent down SCP-1562 with the equipment noted above. D-8600 was selected for his small stature and thin body shape, in hopes he would be able to move more easily than D-2445. The rope used to tether D-8600 was severed at the same moment D-8600 vanished from SCP-1562, and the GPS tracker's signal could not be traced. The following audio was recorded after contact was established with D-8600.
+
++ Audio Log 1562-B
+
+– hide block
+
+<Begin Log>
+
+Dr. Darritz: D-8600, can you hear me?
+
+D-8600: Yeah, I can hear you, doctor.
+
+Dr. Darritz: What is your situation? We're not getting anything on the video feed.
+
+D-8600: I'm in some sort of cave or tunnel. It's really small and dark. My head lamp stopped working as soon as I got in here.
+
+Dr. Darritz: Are you able to move at all?
+
+D-8600: I'm not sure I can get my arms up in front of me, but I can sort of wiggle my way forward. Wait, what is this? Hey! Are you alright?
+
+Dr. Darritz: D-8600?
+
+D-8600: I just bumped into someone's foot. They're not moving at all. Hey, are you okay down there?
+
+Dr. Darritz: That could be D-2445. Davies, try D-2445's radio.
+
+D-8600: I can hear his radio, I think. I can hear Davies' voice.
+
+Dr. Darritz: Hmmm, D-2445 isn't responding, and we're not picking up Davies' voice on your radio through our end.
+
+D-2445: Yes, doctor, I can hear you. (D-2445's voice was slightly muffled, but still audible through D-8600's radio)
+
+Dr. Darritz: Davies, turn that off, I can hear him through D-8600's!
+
+D-8600 Hey man, I'm gla-
+
+D-2445: I don't know. Some sort of very small tunnel. It's really cramped. Can you get me out now?
+
+Dr. Darritz: D-2445, listen to me. D-8600 is behind you and is there to help get you out.
+
+D-2445: No, it's too dark. I can't see anything, and I'm stuck.
+
+D-8600: Hey man, it's okay. We know you're stuck and we're both going to get out of here.
+
+D-2445: I'm still head first on my stomach, and my body's at an angle, but I'm in some sort of small tunnel and I'm stuck. I'm completely surrounded by rock or dirt on all sides. I don't have enough room to raise my head or move my arms, and I can't move forward. I really want to get out of here now.
+
+D-8600: Okay man, it's okay. I'm going to try and get my arms up and I'll grab a hold of your ankles. They should be able to pull us out of here then.
+
+D-2445: No, I told you I can't see anything. I'm getting kinda freaked out now. I'm not really claustrophobic but this is pretty fucking uncomfortable. Pull me out outta here.
+
+D-8600: I'm working on it! Have some-
+
+Dr. Darritz: D-8600, stop talking. Something isn't right here, D-2445 is just repeating everything he said to me when we initially made radio contact with him.
+
+D-2445: No, no, no, no you need to get me out now. I can't handle much more of this.
+
+D-8600: It's okay, just calm down. Doctor I think he's just freaking out. I've almost got my arms in front of me.
+
+D-2445: Okay, I was able to worm my way forward a little bit, but my head hit something.
+
+Dr. Darritz: No, he's literally repeating his side of the conversation, word for word. Did he actually move at all, like he just said he did?
+
+D-8600: …I don't think so. Okay, this is getting kinda creepy, but I've got his ankles. See if you can pull us out now.
+
+D-2445: It's a shoe I think. It's small… Jesus.
+
+D-8600: Doctor, what is he talking about? Can you just pull us out of here?
+
+D-2445: Get me out of here, doctor. Get me out of here now.
+
+Dr. Darritz: We can't pull you out, I'm sorry.
+
+D-2445: No, you need to get me out of here right now. The shoe…it's so tiny.
+
+D-8600: What the fuck are you talking about? Why can't you pull us out? What does he mean the shoe is so tiny? What the fuck is going on, doctor?!
+
+D-2445: Please. Please, I don't want to be in here anymore.
+
+Dr. Darritz: D-8600, unfortunately the rope we tied to you was severed as soon as you vanished. We didn't realize that would happen.
+
+D-2445: It started talking.
+
+D-8600: Fuck. Okay then, I'll try inching my way backwards. I won't be able to bring him with me though.
+
+D-2445: The little boy did. But it didn't make any sense.
+
+Dr. Darritz: Good luck, D-8600. We'll stay in contact with you for the time being.
+
+D-2445: He…he just kept asking where he was, and I told him I didn't know. But I don't think he was really talking to me, because he didn't respond to my voice, and he told me to stop crying when I was actually sorta calm.
+
+D-8600: This would be a lot easier if he would just shut the fuck up.
+
+D-2445: I don't think so. He started screaming and I told him to shut up but he just kept screaming and crying and asking for his mommy. Then he finally stopped, and shortly after that you contacted me again. Please get me out now.
+
+D-8600: Just shut the fuck up already! Creepy asshole.
+
+D-2445: Please hurry, my chest is really starting to hurt.
+
+Dr. Darritz: Are you making progress, D-8600?
+
+D-8600: A little. It's not easy, but I'm getting there. The air's getting kind of stale in here. I hope there's enough air for me to make it back. Hey, did he finally shut up?
+
+Dr. Darritz: I'm not hearing him on my end anymore either.
+
+D-8600: Well thank God for that, I was starting to think tha-
+
+Dr. Darritz: What is it? You were starting to think that…?
+
+Dr. Darritz: D-8600? Are you still there? What happened?
+
+<End Log>
+
+No further response from D-8600 was recorded. Subsequent attempts to re-establish radio contact with D-8600 and D-2445 were unsuccessful. Testing has been suspended indefinitely.

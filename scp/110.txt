@@ -1,0 +1,93 @@
+Item #: SCP-110
+
+Object Class: Euclid
+
+Special Containment Procedures: The entrance to SCP-110 is to remain closed off at all times unless otherwise permitted by O5-█. The land covering SCP-110 (roughly 6 square kilometers) is to be developed into a suburban area that will not attract the attention of the general public. Any movement that SCP-110 might make is to be explained as "minute seismic activity". Further complaints are to be ignored.
+
+Description: SCP-110 is an entire city that was found buried 0.5 kilometers underneath a large farm in [DATA EXPUNGED], New York. Survey Teams 2 and 3 concluded that the amount of surface area that the city is buried under covers approximately six (6) square kilometers. Numerous items of high interest have been discovered within SCP-110, and will henceforth be labeled as SCP-110-xx.
+
+Known History of SCP-110
+
+11/08/19██: A large earthquake occurs in rural New York, far from any city centers. The only casualties were a man and his dog, so no significant media attention was given to the event.
+
+15/05/19██: Minor earthquakes continue to occur in SCP-110's general area. The US Federal Government dispatches a team of geologists to the site to determine the cause. Results come back inconclusive.
+
+16/05/19██: SCP-Excavation Team 03 is ordered to investigate the site. Upon arrival, the team is greeted by SCP-110-01, who is then detained and moved to [DATA EXPUNGED] for further questioning.
+
+24/05/19██: Information gained from SCP-110-01 and SCP-███ reveal that there has been a large temporal disturbance in the area of SCP-110 that has been causing earthquakes due to displacement of soil and rock. Another SCP-Excavation Team is sent to the site.
+
+09/02/20██: After many months of work, SCP-Excavation Teams 04 and 05 are only able to reveal the strong, impenetrable, concrete-like shell of SCP-110. Investigation is halted until further information becomes available.
+
+25/07/20██: Due to the recent decoding and decryption of the files contained on SCP-███, schematics of SCP-110 have become available. Excavation teams 04 and 05 are sent back on-site to locate the primary entrance of SCP-110.
+
+04/08/20██: The entrance to SCP-110 has been discovered, and the excavation teams are immediately met with what can only be described as a "foul odor". SCP-110 had been an active Class-4 city, but due to a temporal accident, its core services were heavily damaged and the entire city was displaced. Work begins to cover up the existence of SCP-110, its excavation, and the thousands of dead civilians inside.
+
+Layout of SCP-110:
+
+The general layout of SCP-110 is essentially a series of concentric rings connected by tram, train, and other transportation lines. Surveyors have determined that SCP-110 has numerous sections and levels to it, all with specific functions, which shall be described in greater detail here:
+
+Core Services: The numerous maps found posted in what were high traffic areas of SCP-110 labeled a central 'column' of assorted utilities as 'Core Services'. Upon exploration, which was limited due to heavy security restrictions, SCP-Exploration Team 01 discovered a myriad of technologies that kept the underground city self-sufficient. Among these technologies were a series of matter reconstitution chambers, a combination reactor that provided energy from both nuclear fusion and geothermal sources, an elaborate water recycling system, and a large waste reconstitution area. The core is surrounded by numerous elevators and emergency stairwells. Numerous areas of the Core have been assigned to certain personnel for research.
+
+Atrium Colossi: This large, open, domed area surrounds the Core, and apparently once held vegetation. The dome itself was a massive display (its composition undetermined), which was used solely to depict a sky as an indication of time of day. Numerous tram-lines span at least 3 stories of the atrium, all leading to and from the Core. Personnel have described them as looking like "spokes in a wheel". Upon discovery, the death toll per area was highest in this area, suggesting that it was a high-traffic part of the city.
+
+Commercial Ring: A ring of what used to be small, independently owned shops and chains surrounds the Atrium Colossi. It is unknown whether or not commercial products were manufactured within the city, however due to the immense size of the Core itself, and the city's apparent self-reliance, it is highly likely that the Core possesses a manufacturing area.
+
+Habitation Ring A: The styles of living spaces found in this area suggest that its inhabitants were the wealthiest of the city. Numerous documents found throughout the city seem to confirm this assumption as well.
+
+Habitation Ring B: This entire ring was inhabited by the middle-class citizens of SCP-110. The area is still being searched for items of interest. To date, █ SCPs have been recovered from here.
+
+Habitation Ring C: This ring was inhabited by the lower-class citizens of SCP-110. It was found in extremely poor condition and is currently being restored by SCP-Maintenance Teams 01-12. It is speculated that due to its location furthest from the core, it suffered the most damage from the temporal disturbance. Damage to SCP-110 increases proportionally to distance from the Core.
+
+Atria Veges: As so named by numerous maps, these atria were only slightly smaller in area than Atrium Colossi, and provided an estimated 80% of all foodstuffs to the population of SCP-110. These atria were once open-air spaces, and thus suffered a great deal of damage upon arrival at site, as it is estimated that SCP-110 was displaced at least 300 meters below its original position. Recovery of these atria is revealing advanced plant-growing technology that has useful applications.
+
+Atrium Animus: Atrium Animus was responsible for the remaining 20% of foodstuffs. This atrium has at least 20 stories that were once modeled after the natural environments of the animals that were raised there. Each level had a tightly controlled climate and was subdivided so that different species of animals had no contact with one another. Some of the genetic labs attached to Atrium Animus were found intact and are currently being explored by personnel.
+
+Atria Recreus: These atria were used for the sole purpose of recreation. They are found between the different habitation rings and typically consist of parks, artificial bodies of water, shopping malls, and other types of civilian recreation. These atria have been suggested for use with SCPs that require an outdoor-like environment, or a temperature and humidity controlled environment. Conversion plans have been drawn up.
+
+SCP-Research Ring: This city apparently had its outermost ring devoted to research of Safe and Euclid class SCPs, although no documentation within the city is able to confirm this ring's existence. This suggests that SCP-110 was not originally designed by the private sector, and rather was used as cover for SCPs currently unknown. This ring is highly dangerous, as it has suffered the most damage out of all sectors of SCP-110, thus potentially freeing some of the more dangerous SCPs. Only two members of SCP-Exploration Team 03 have survived exploring the ring. Their accounts are contained within Document #110-F.
+
+Architectural Styles of SCP-110
+
+SCP-110 has been confirmed to be of human origin, and all materials used in its construction are terrestrial. The architectural styles of SCP-110 seem to vary depending on location. The main styles are listed below:
+
+Core Services: Utilitarian
+
+Atrium Colossi: Greco-Roman revival (applies to all atria)
+
+Commercial Ring: Postmodern
+
+Habitation Ring A: Art-Deco
+
+Habitation Ring B: Expressionist
+
+Habitation Ring C: Utilitarian
+
+SCP-Research Ring: Too damaged to determine
+
+The different architectural styles of SCP-110 create a problem when attempting to ascertain the general era in which it was built. The earliest documents found claim that the city was built in [DATA EXPUNGED] by the [DATA EXPUNGED] group.
+
+Document #001-A: The Last Note
+
+To those who find this document:
+
+My name is Stephen Kolsnik. Rather, my name was Stephen Kolsnik. I will be dead by the time you read this.
+
+I was the Chief Engineer of this city, as well as the director of the [DATA EXPUNGED] program, contained within the outer containment and habitation rings. Due to an accident with an entity known as [DATA EXPUNGED], the entire city of [REDACTED] has been dislocated from its original area of [DATA EXPUNGED].
+
+Nobody here knows where we are.
+
+From what I have been able to observe, the outer rings have sustained heavy damage, and their contents are threatening the inhabitants of the inner rings. Though we are surely doomed anyway, as the Core has sustained heavy damage.
+
+Three of the main life-sustaining services contained within the Core are damaged beyond reasonable repair. Any attempts to repair them would take more time than we have left to live.
+
+Life support systems will go down soon; I would estimate that they have between 4 to 10 hours of function left.
+
+To whoever finds this:
+
+Contain [DATA EXPUNGED] as best you can. Do not follow the same mistakes as our containment procedures had. If you do, you shall regret it.
+
+(End document)
+
+List of Notable SCPs found within SCP-110
+
+[DATA EXPUNGED]

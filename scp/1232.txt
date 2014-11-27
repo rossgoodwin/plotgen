@@ -1,0 +1,65 @@
+Male instance of SCP-1232-1, second stage, formerly private V. I. Novosadov
+
+Item #: SCP-1232
+
+Object Class: Safe
+
+Special Containment Procedures: Samples of SCP-1232 are to be kept in cryogenic storage on Bio-Research Site-21. While experimentation upon SCP-1232 is permitted, experimental proposals need to be validated by a researcher of valid 2/1232 clearance beforehand due to limited supply
+
+As of 12.03.1963, a process was devised to replicate SCP-1232 with reasonable efficiency (See Document 1232-Rho); as such, experimental proposals only require validation if it would be ordinarily required by the SCP Foundation Requisition Guidelines, sections C 1-7 and H 1-5. - Dr. Mihnea, Section Head
+
+As the time required for a majority of SCP-1232 testing greatly exceeds one month, D-class personnel involved in testing of SCP-1232 is exempt from monthly termination by default.
+
+Due to resistance of SCP-1232 to high temperatures, any items suspected of SCP-1232 contamination must be decontaminated by immersion in 1 molar NaOH solution, and subsequent heating in a gravity-displacement autoclave to 121 degrees Celsius for 30 minutes, followed by sterilization as usual. (See Document 1232-Sigma for a complete list of approved procedures where the stated is not appropriate)
+
+Personnel manipulating SCP-1232 samples are to use Level-A hazardous materials protective clothing manufactured to standards outlined in Document 1232-Sigma.
+
+As instances of SCP-1232-1 in the first stage are difficult to separate from the general population, the recommended means of identification of such is working through those related to known SCP-1232-1 instances, assuming the most common symptom progression. In this stage, the removal of reproductive organs seems to halt the progress of the condition, and the residual symptoms are susceptible to treatment by most tricyclic antidepressants.
+
+Instances of SCP-1232-1 in the second stage are essentially untreatable due to the extent of disruption to physiologic processes taking place, furthermore, even if treated, their reintroduction to society would be problematic. As such, they are to be euthanised, or left to expire on their own, and cremated.
+
+Description: SCP-1232 is the designation given to a mixture of unknown proteins capable of causing a condition designated Novosadov Syndrome. The mechanism upon which it relies is poorly understood at the moment.
+
+SCP-1232 is the designation given to a mixture of misfolded variants of [REDACTED] proteins (prions), capable of causing a condition designated Novosadov Syndrome. The precise mechanism of action is unknown - administration of isolated constituent prions, or partial mixtures to human subjects had no discernible effects, or caused conditions only weakly related to the syndrome's symptoms.
+
+SCP-1232 does not denature easily by heat treatment alone, and can withstand temperatures of up to 230 degrees Celsius for roughly fifteen seconds - heating with basic agents, preferably NaOH, KOH or Ca(OH)2 of normality at least 1 has been shown effective.
+
+Novosadov syndrome is a progressively developing condition caused by the introduction of a sufficient quantity of SCP-1232 into human body - a dose of approximately 50 micrograms administered intravenously appears sufficient to cause the condition in 50% of tested D-class subjects.
+
+The onset of the condition can be split into two phases.
+
+During the first phase, which sets on approximately 1-3 weeks after the introduction of SCP-1232 into the subject's body, the subject (designated SCP-1232-1) will become increasingly perfunctory and depressed. Subjective assessment along with supporting evidence (e.g., penile plethysmography data) show a significant decrease in ability to feel sexual arousal. Of interest is that the appetite tends to stay unchanged in a disproportionate amount of cases compared to a control group where depression was induced chemically, and SCP-1232-1 during this phase have a tendency to gain weight, usually 10-15 kg over the duration. At this stage, no obvious physiologic changes are present1 in males. In females, [REDACTED] instead of fluid. This phase tends to last between 6-8 months.
+
+The second phase onset is marked by a sudden loss of appetite, elevated body temperature, insomnia, and increased secretion of androgens. During the onset, SCP-1232-1 report a subjective improvement to their demeanor. Significant quantities of SCP-1232 are present in urine, and possibly other body fluids of SCP-1232-1 at this point. In addition, the menstrual cycle of female subjects is disrupted, with a large number of eggs beginning to mature, and the uterine lining thickening. In approximately 3% of the subjects, this results in acute endometriosis.
+
+Usually within the next five days, the libido of SCP-1232-1 will return and proceed to increase, becoming the defining trait of their behaviour, in the case of male instances of SCP-1232-1, overwhelming even their survival instinct towards the end of the period.2 Instances of both genders will aggressively attempt to mate with any suitable human, often settling for animals or inanimate objects if none are available. Male subjects tend to expire after a further 2-4 days due to a combination of exhaustion from lack of sleep and nutrition, and the collapse of the immune system caused by excessive testosterone levels.
+
+Female SCP-1232-1 can be separated into three groups. Those in which fertilization occurs late or not at all tend to expire due to the same reasons as male subjects.
+
+If fertilization occurs early, the androgen levels tend to drop, and SCP-1232-1's behavior will slowly normalize over the following days. The subsequent progress depends on the number of fertilized ovocytes surviving. The ovocytes nest and appear to undergo development accelerated roughly three times compared to regular embryos. In ~95% subjects, the amount of surviving ovocytes exceeds 20, and the subject likely expires during the first month of such pregnancy due to resulting complications. In the remaining 5% of subjects, the pregnancy progresses at the accelerated rate until the end of second month where the placentae [DATA EXPUNGED] sacs. Continuing to raise such feti in vitro is possible and once outside the mother's body, their growth rate will slowly decrease to match that of feti in the same development stage. Infants raised this way show no significant difference to control group.
+
+Recovery Log: SCP-1232 was first isolated from the bodily fluids of private V.I. Novosadov on ██/██/1954, several months after he, along with a group of Soviet soldiers participated in the decommissioning of a then-discovered underground facility located in the territory German Democratic Republic3. Private Novosadov was executed following his desertion, capture, and subsequent admission to 37 cases of rape and sodomy, perpetrated in the village of ███████, Polish People's Republic, in the vicinity of a Soviet military base, over the course of two weeks. Agent Golovanov4, by the time infiltrated within the Soviet army as a telegraphist, has managed to capture a coded depeche ordering the prompt incineration of Private Novosadov's remains, and was able to obtain tissue samples and a copy of the autopsy report. The events following this are unclear due to Agent Golovanov's death (See Personnel File 1934-135-13-IPG), however, it is known that all of Novosadov's surviving victims disappeared approximately two months after his execution.
+
+Addendum 1232-1: COPY OF MESSAGE INTERCEPTED BY SOVIET AGENTS ON ██/██/1944
+
+DATE:██/██/1944
+
+TO: Dr. ter Meer
+
+FROM: Dr. Meiziger
+
+Fritz, I need you to talk about our project to ████████ at the ministry again. I got shouted at by Berger again yesterday - apparently they are expecting them to leap out of their mother's twat and grab a shovel or a rifle, while we haven't even fixed the slowdown, the rest of the troubles be damned. Hell, even if we get it to work, a fourfold increase is the most I can get - I said it's a long-term solution, not miracle work we're doing here. Besides, despite the [REDACTED], yesterday's bombing raid means half our supplies are in the devil's arse, and what's worse, Klaus was overseeing [REDACTED], and you know a good half of the synthesis process was his work alone. Anyways, write how will it go and send my greetings to Ilsa, she still works at [REDACTED] , not so?. As soon as we push the red swine out back again, and I'll be able to take a few days off, I'll jump on a train and come.
+
+Gott mit uns.
+
+Martin
+
+Footnotes
+
+1. Towards the end of this stage, approximately 22% of SCP-1232-1 will release SCP-1232 through sweating.
+
+2. SCP-1232-1 can transmit SCP-1232 via sexual intercourse - this tends to occur successfully in approximately 25% cases under laboratory conditions
+
+3. At the time, Foundation agents were unable to determine the precise location or contents of the facility. Data obtained since indicates it was emptied and demolished by agents of GRU Division "P" on ██/██/1955, and that the facility has formerly belonged to the Bayer pharmaceutic concern, at the time a part of IG Farben conglomerate. (See Addendum 1232-1)
+
+4. Posthumously awarded Foundation Gold Star for his services

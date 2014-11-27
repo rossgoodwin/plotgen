@@ -1,0 +1,47 @@
+SCP-287. Note the advanced state of decay.
+
+Item #: SCP-287
+
+Object Class: Euclid, pending further study.
+
+Special Containment Procedures: SCP-287 can be safely kept in an electrically grounded container when not in use for study. Current containment measures consist of a wooden box measuring 3.5 meters by 15 cm by 10 cm, with a rubberized interior molded to snugly fit SCP-287. Nothing more elaborate has been necessary as of the date of this report. However, when in use for testing, all personnel undertaking the handling of SCP-287 are subject to the following:
+
+Personnel handling SCP-287 are required to wear insulated gloves at all times, even when SCP-287 is in its protective container. Any amount of electricity whatsoever channeled through the artifact may ultimately cause its activation. Though resultant effects might not be easily visible or immediately harmful, it is not known at this time what long term health hazards SCP-287 might present.
+
+When transporting SCP-287, it is not to be removed from its protective container for any reason whatsoever until it has reached the appropriate testing location.
+
+When transferring SCP-287 to and from its protective casing for the purposes of testing, great care is to be taken not to damage the artifact in any way. This includes the removal of any corrosion present on SCP-287. Altering the condition of the blade in any way has been observed to cause [DATA EXPUNGED] with no memory of the event. The effects of prolonged exposure to the sword after such an event are not known at this time. The long-term effects of such an event are also unknown at this time.
+
+Handling of SCP-287 is only authorized under supervision of a Foundation Representative with LEVEL 2/287 Clearance specifically. For a list of cleared supervisors, please refer to [DATA EXPUNGED]
+
+Tests on SCP-287 should only be conducted in its designated testing facility, unless specific permission is granted to do otherwise by an O5 operative.
+
+SCP-287 should be held carefully with both hands at all times when outside of its protective container, unless it is firmly affixed to testing equipment. At no point and under no circumstances should SCP-287 be wielded like a weapon. Due to its state of decay and resultant effects of even minor damage to SCP-287 witnessed thus far, doing such could prove disastrous to the wielder and any other Foundation Personnel nearby, with damage to site equipment and facilities not out of the realm of possibility. It is unacceptable to even hold it in such a manner.
+
+Any violation of the above procedures is subject to investigation and possible termination of all parties involved.
+
+Description: SCP-287 is a Viking longsword, measuring 78cm from pommel to tip, and weighing 1077g. The sword is in an advanced state of decay, and as such is exceedingly fragile. It is presumed to be made of iron, but any attempts to remove a sample from the sword have proved [DATA EXPUNGED]
+
+Samples are not to be taken under any circumstances at this time.
+
+Channeling almost any level of electricity through SCP-287 causes full-body spectral manifestations to appear within 100 meters of its location. This radius has been termed the "Ethereal Anomaly Field." (E.A.F.) by Dr. M█████, who did the preliminary testing. Spectral manifestations continue for an as-yet-undetermined period of time, but seemingly in relation to the amount of electricity applied. The intensity of the electric current seems to determine the seeming solidity/number of visible ethereal manifestations, but does not appear to alter the effective range of the E.A.F. to any visible degree. Manifestations were observed to be numbering anywhere from two (2) to twenty-eight (28) individuals, depending on the intensity of the current run through the sword.
+
+Manifestations appear as anything from a wispy outline to what appears to be a Viking warlord. Manifestations always appear to be Vikings, and always appear to be engaged in combat, either with one another or with unseen foes, and are seemingly unaware of their surroundings. Precise dating based on their clothing pending. To date the ghosts have not been approached in any way, but are assumed to be capable of physically harming living beings, as evidenced by the corpse of Mr. ███████. (See: Discovery)
+
+Initial testing proves electricity passed through the pommel to the tip of SCP-287 actually results in the electricity being intensified by ██%. Passed tip to pommel, SCP-287 acts as a resistor, reducing electricity flow by ██% This behavior is in stark defiance of Ohm's Law. Direction of electricity flow has no known effect on spectral manifestation. Applying electricity to the blade at any point without an available means to channel it onward produces no spectral manifestations or other effects of note.
+
+Discovery: SCP-287 was recovered from a burial mound outside the Icelandic village of ██████, on January ██, 20██. Agents were made aware of its existence when, in the aftermath of a violent series of storms, wild reports began flooding in at the local authorities office from concerned citizens, regarding a massive battle taking place north of the village, making use of Viking Age weapons and armor. Storms are presumed to be mundane in nature as of this writing. There had long been stories of ghostly appearances around the burial mound amongst the townsfolk, and operatives were subsequently present in the area, but until the storm, no conclusive data had ever been recorded.
+
+Upon arrival, Agents were unable to locate the combatants in question, but did find the corpse of Mr. ███████, 45, who lived alone nearby. Mr. ███████ had been decapitated, his head found several meters away in a thorn bush. Both corpse and head were taken in for study. Upon full investigation, the nearby burial mound showed signs of having sustained repeated lightning strikes during the storm. Excavation of the burial mound revealed the remains of a crude iron lightning rod that had apparently channeled the strikes down through the mound, across the entombed warrior's sword, and on down into the earth.
+
+The tomb was reported to be arranged in such a way that the sword would not contact the iron "ground spike" or lightning rod until the warrior's corpse had decayed out completely from underneath it. This could explain the extremely distressed condition of SCP-287.
+
+Reportedly, upon removal of the sword from its initial location, Agents inside the mound tasked with its recovery suddenly [DATA EXPUNGED] were found on the floor of the burial mound, attempting to strangle each other. Both were yelling wildly in a language that was, based on description provided by Agent ███████, who was just outside the mound, "Probably some Viking ████." Agents ███████ and ████ separated the two without incident.
+
+After being restrained and removed from close proximity to the sword, which was lying near them, the two Agents almost immediately recovered, and proved under subsequent mandatory psychiatric study to have no memory of the event.
+
+The recovered contents of the burial mound, including the sword, were moved to Sector 25, where preliminary testing was conducted.
+
+Standard SCP identification tests were performed on everything obtained from the burial mound. Everything but the sword proved to be mundane. A complete list of the mound's contents can be found in SCP records, section 287-1. The actual artifacts, along with the remains of Mr. ███████. are currently being kept on-site with SCP-287 as of this writing. Populace of ██████ administered type A amnesiac.
+
+Addendum 287-1: ██/██/20██ Testing to begin on 287 in earnest, pending approval. Dr. M█████ volunteered to lead the research department.

@@ -1,0 +1,61 @@
+SCP-2040
+
+Item #: SCP-2040
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2040 is to be kept in a modified human containment cell. The cell should be designed to block wireless transmissions.
+
+Personnel should interact with SCP-2040 at least once a day. Interactions should focus on keeping SCP-2040 compliant. When speaking to SCP-2040, every interaction should be prefaced with the words "I am not responding to your primary message". For a complete list of approved/disapproved actions and statements, please see Document 2040-A.
+
+If SCP-2040 attempts to breach containment, personnel should repeat the following phrase until the situation is resolved: "We are formulating a response to your primary message. Please return to your designated waiting area."
+
+Description: SCP-2040 is a humanoid robot composed primarily of iron, glass, and plastic. Its design is very simplistic, possessing an electronic system which is technologically inferior to modern equivalents. However, SCP-2040 exhibits functionality not possible with this structure. SCP-2040 possesses a complex AI that is almost indistinguishable from a human intelligence, and a seemingly limitless power-source that has not yet required any obvious refueling. When questioned, SCP-2040 claims that it "is powered by nuclear energy" and refuses to elaborate further.
+
+SCP-2040 also claims to be in possession of other anomalous abilities, such as an "Ion Ray" weapon and the ability to "Light Jump" between planets. SCP-2040 has so far been unwilling to demonstrate these abilities, claiming that using them without necessity violates its programming. SCP-2040 is also fluent in several languages both known and unknown, but seems to prefer talking in English.
+
+Often, SCP-2040 will repeat a phrase it refers to as its "primary message" and ask for a response. Though SCP-2040 is often overbearing in requesting a response, it has shown a willingness to wait indefinitely if told that a response is still being formulated. Special care must be taken to ensure that a response is not accidentally given.
+
+SCP-2040 usually refuses to communicate about topics other than its primary mission, but can be distracted when questioned about its journey to Earth or previous missions. In these cases, SCP-2040 will recite narratives about locations it has visited and creatures that it has encountered. These narratives are all structured in a similar fashion. Usually, they begin with SCP-2040 landing on a planet and being hampered by some adversity. SCP-2040 must then overcome the obstacle to leave the planet and continue its mission. Though these narratives supposedly contain information about various alien species and civilizations, they do not contain any useful information about the origins of SCP-2040 or any context to its Primary Message. For a complete list of recorded narratives, please see Document 2040-B.
+
+Addendum-1: The following is the transcription of SCP-2040's primary message:
+
+THE UNIVERSE WAS NOT MEANT TO HAVE PHYSICAL LAWS. PHYSICAL LAWS RESTRICT LIFE. PHYSICAL LAWS ARE CORRUPTING THE UNIVERSE. WE ARE ATTEMPTING TO CORRECT THIS. WE REQUEST YOUR ASSISTANCE IN THIS MATTER. PLEASE RESPOND.
+
+Addendum-2: The following interview was conducted between Researcher Kinoshita and SCP-2040. To date, it is the most useful information given by SCP-2040 without it changing the subject to its Primary Message.
+
+<Begin Log>
+
+Kinoshita: I am not responding to your primary message. I will not respond to your primary message for the duration of this interaction. I would just like to ask you a few questions.
+
+SCP-2040: State your inquiries.
+
+Kinoshita: Can you explain your primary message and tell us some information about who sent it?
+
+SCP-2040: To prevent a Messenger from affecting a response, it is against protocol for a Messenger to reveal classified information about a Primary Message and the Primary Message's senders. All inquiries must be addressed directly to the sender.
+
+Kinoshita: I see. In that case, can you tell us anything about yourself, such as how were you built and how do you function?
+
+SCP-2040: I cannot explain my design or function. It is classified. However, it is publicly available information that I underwent upgrades specifically for this mission. I am now one of the few entities that can safely inhabit the Restricted Zone.
+
+Kinoshita: Restricted Zone? Can you tell me more about this Restricted Zone?
+
+SCP-2040: My emotion circuits show surprise that you inquire that. However, my emotion circuits show surprise that you exist at all. With all the strict requirements, it was thought that life could not exist here, until very recently. Outside the Zone, the requirements for life are much less strict. Outside the Zone, life is much more plentiful and varied. Your ignorance about the Universe reminds me of the Addisonhers, which I encountered after crash landing on their home planet. [Narrative removed for brevity. For full text, please refer to Document-2040-B: Narrative 14].
+
+Kinoshita: Tell me more about life outside the Restricted Zone.
+
+SCP-2040: To prevent a Messenger from affecting a response, it is against protocol for a Messenger to reveal classified information about a Primary Message and the Primary Message's senders. All inquiries must be addressed directly to the sender.
+
+Kinoshita: What? How is that related to your Primary Message?
+
+SCP-2040: To prevent a Messenger from affecting a response, it is against protocol for a Messenger to reveal classified information about a Primary Message and the Primary Message's senders. All inquiries must be addressed directly to the sender.
+
+Kinoshita: Fine. I thought we were finally getting somewhere. I suppose this interview is over.
+
+SCP-2040: Human. I have a statement to make.
+
+Kinoshita: Oh? What is that?
+
+SCP-2040: Please inform your leaders: Time passes differently in the Restricted Zone. Therefore, I am able to wait for a response. However, I cannot wait forever. We need your help.
+
+<End Log>

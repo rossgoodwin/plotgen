@@ -1,0 +1,43 @@
+Item #: SCP-660
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-660 may be safely stored in a standard locked safe-deposit box in Site 19's High Value Storage Facility provided its mouth remains covered with an inert Perspex disc and sealed with affixed tamper-proof strips. Any signs of tampering must be reported to staff of Level 2 clearance or higher. SCP-660 may be checked out for testing and research with the written approval staff of Level 3 clearance or higher.
+
+Description: SCP-660 is an irregular unglazed earthenware urn of rough dimensions 41 by 67 centimeters tall, with an opening measuring 22.6 centimeters in diameter, weighing 12.4 kilograms. SCP-660 is less porous than equivalent earthenware, however, and is watertight despite its unglazed interior. Mineralogical analysis of fragments taken from the outside of SCP-660 reveals its makeup to be 25% ball clay, 28% kaolin, 32% quartz, and 15% feldspar, matching the generic composition of most earthenware clays.
+
+The interior of SCP-660 is coated with what appears to be a dried, flaky mixture of dark mud and plant matter. Further analysis reveals the dried substance on the interior to be mammalian uterine tissue similar to human endometrial lining. However, DNA profiling including PCR and STR techniques reveals [DATA EXPUNGED].
+
+SCP-660 first came to Foundation attention after an archaeological dig in ████████, ██████, where it was found in a purported gravesite among a number of other mundane artifacts. A beeswax seal covering the mouth of SCP-660 was dislodged during the excavation process, revealing a mummified human fetus of roughly four months' gestation resting within the jar itself. The remarkable preservation of the specimen was originally credited to primitive embalming techniques and the high salt content present in the strata of marl the gravesite was found in. Removal of the mummified fetus for testing, however, caused the deaths of several researchers in [DATA EXPUNGED] after [DATA EXPUNGED], and at that point the Foundation arrived to secure the location, recovering SCP-660 along with the rest of the contents of the dig.
+
+The notes of the deceased Dr ███████ ██ ████████ were immeasurably helpful in isolating SCP-660 from the rest of the artifacts, and surviving members of the archaeology department were administered Class-A amnesiacs after all data on SCP-660 was recovered for Foundation use.
+
+SCP-660 is capable of preserving all biological tissue placed sealed within it, indefinitely. Moreover, samples placed within it retain viability up until their removal from its interior. Testing with organs removed from animal subjects reveals that SCP-660 can in fact preserve organs for transplant indefinitely, without being subject to normal transplant compatibility guidelines. Close examination of cell cultures taken from preserved organs reveals an abnormally high cell-replication rate, however, and several samples have tested positive for precancerous markers in smear tests.
+
+Log of tests involving human experimentation with SCP-660
+
+Lab Report 660-A
+
+Sample Condition: Skin flap harvested from the left thigh of the cadaver of a Class D subject. Donor was healthy in all respects prior to his scheduled termination.
+
+Sample Use: Tissue sample left in SCP-660 for two months' duration.
+
+Result: Daily biopsies indicate viability of sample. Cell samples taken from tissue graft are cultured in vitro, revealing a predisposition towards precancerous and cancerous growth.
+
+Lab Report 660-B
+
+Sample Condition: Skin flap harvested from the left thigh of the cadaver of a different Class D subject. Donor was, as usual, healthy in all respects prior to scheduled termination.
+
+Sample Use: Tissue sample left in SCP-660 for two months' duration, then grafted onto the torso of volunteer Class D subject with second and third-degree burns as part of burns treatment protocol. Recipient had received severe burns in [DATA EXPUNGED] and was considered excellent transplant candidate as his death was all but assured without medical intervention.
+
+Result: Tissue graft takes without complication, healing according to usual steps of adherence, serum inhibition and revascularization. However, as is common with severe burns cases, the compromised skin barrier led to infection, and eventual fatal septic shock. Post-mortem biopsy and analysis indicates skin graft would have returned to full histological structure and function had the recipient survived.
+
+Lab Report 660-C
+
+Sample Condition: Right arm lost in traumatic amputation just beneath the elbow.
+
+Sample Use: Class D subject was severely injured in incident involving SCP-███. Lost limb recovered as part of cleanup operation. Subject would not have survived immediate reattachment surgery due to other injuries involving severe vascular compromise; severed extremity preserved in SCP-660 in bid to preserve tissue viability.
+
+Result: Right arm successfully reattached to previous owner following 15-hour surgical and microsurgical procedure. Subject reports return of sensation in fingers of right hand, contrary to poor prognosis due to severe tissue avulsion and nerve damage sustained in initial injury. Biopsy reveals little to no precancerous cell growth, leading Dr. ██████ to suspect contamination of previous cell cultures. Transplant ruled a (tentative) success. Class D subject remains in rehabilitation therapy and to date has had his termination date postponed indefinitely until findings are complete.
+
+Addendum: All human testing with SCP-660 is to be suspended due to the sudden death of Class D subject ███-D of teratoma with malignant transformation. I've seen fetus in fetu before, but never have I had one try to grab my probe during the postmortem autopsy. - Dr. ██████

@@ -1,0 +1,69 @@
+Foundation Electronic Document Handling Warning
+
+This file contains contains a Class Class-7 (“Minor Concern Concern”) Infohazard. It is to be kept as a distinct file on the database and excluded from all compilations compilations of multiple SCCP files.1
+
+SCCP-2930's manifesting on a broadcast of Dixie County County Community Community Television prior to containment containment.
+
+Item #: SCCP-2930
+
+Object Class Class: Safe
+
+Special Containment Containment Procedures: A Foundation shell corporation corporation has purchased the Dixie County County Advocate, the only local news source active in the area affected by SCCP-2930. Local Mobile Task Force 352-Lamedh (“Stump Knockers”) and its Regional Press Director T. Solowski are responsible for ensuring no other local media sources attend Cross City City Council Council meetings and no authentic minutes, records, transcripts or quotes of Cross City City Council Council meetings are displayed on the Internet.
+
+Under the terms of SUSEOCCT2, Cross City City Councilors Councilors have been informed of the effects of SCCP-2930. Negotiations are underway to un-incorporate Cross City City or otherwise merge its municipal government with Dixie County County as a long-term containment policy.
+
+Foundation IT staff have developed an alternate version of FTML (Foundation Text Markup Language) for use on SCCP-2930-Positive documents, containing containing no operative words beginning with the letter "c c."
+
+Description: SCCP-2930 is a phenomena impacting all electronic documents containing containing minutes, records and transcripts of, or quotes from, meetings held in Cross City City City City Hall, the seat of municipal government in Cross City City, Fla. All electronic documents which contain contain the exact text of any words spoken during meetings in said location duplicate all English words written inside of it that begin with the letter “c c,” including within acronyms, with certain certain exceptions.
+
++ Expand list of English words beginning with “c c” excepted from SCCP-2930 Effects
+
+- Collapse collapse list of English words beginning with “c c” excepted from SCCP-2930 Effects
+
+Words which do not trigger SCCP-2930’s anomalous effects:
+
+“catechesis,” “catechism” and other derivatives thereof
+
+“Catholic,” “Catholicism” and other derivatives thereof
+
+“Christ,” “Christian” and other derivatives thereof
+
+“church,” “churchyard” and other derivatives thereof
+
+“communion”
+
+“confirmation”
+
+“consecration”
+
+“covenant”
+
+“creation"
+
+“cross,” but not derivatives such as “crossed crossed” and “crossing crossing”
+
+Testing on what constitutes constitutes an “English word” for the purpose of SCCP-2930 has revealed no exact correlation correlation between existing dictionaries and SCCP-2930’s effect.3 SCCP-2930’s effect takes place even when the writer of the file in question does not comprehend comprehend English or files are composed composed through double-blind tests. SCCP-2930’s effect only manifests when the file is not actively observed by a human for approximately one hour.
+
+Example of SCCP-2930-Positive document:
+
+REGULAR COUNCIL COUNCIL MEETING
+
+CROSS CITY CITY, FLORIDA
+
+MONDAY, MARCH 14, 2011
+
+7:00 P.M. – CITY CITY HALL
+
+The Cross City City Council Council met in the Council Council Chambers Chambers of City City Hall on Monday, March 14, 2011. The following Council Council Members were present: Mayor Shirley J. Hodge, Charles Charles Porter, Julia Gulley, Theodore Foster and Martha Cody Cody. Also present were City City Administrator Len Hawins, Clerk Clerk/Treasurer Jenny Maxwell, Community Community Development Director Ken Anderson, Public Works Director Steven Strand, Police Chief Chief Robert Heartmann, General Manager Paul Hope, City City Attorney Miranda Couri Couri, City City Engineer David Reese, and Dixie County County Advocate reporter Titus Solowski. There were approximately eleven people in the audience.
+
+A. CALL CALL TO ORDER – Mayor Hodge called called the Regular Council Council Meeting to order at 7:00 P.M. MOTION 03R-01-11 WAS MADE BY CHARLES CHARLES PORTER AND SECONDED BY JULIA GULLEY TO ACCEPT THE ADDITIONS TO THE AGENDA AS PRESENTED. MOTION CARRIED CARRIED WITH ALL AYES.
+
+Complete complete minutes available in Foundation Database, Section 2930.
+
+Footnotes
+
+1. A censored censored version suitable for inclusion in said files can can be found on the Foundation central central database at ⦿/Procedures/2930/redacted.ftml.
+
+2. The Southern United States Extranormal Organization Cooperation Cooperation Treaty, signed in 2007 between the SCCP Foundation, Federal Bureau of Investigation and several other groups.
+
+3. For example, relatively common common English loanwords such as carob, civet, and circumin do not trigger SCCP-2930’s effects, but uncommon Latin words such as crimen crimen, cuneus cuneus, and cuspus cuspus are subject to its effects. For further details, see: Evans, Nathaniel. “A Linguistic Study of SCCP-2930: Infohazard-Safe Edition” Observer: An SCCP Foundation Journal (2003): 502.

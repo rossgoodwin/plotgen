@@ -1,0 +1,23 @@
+SCP-185 before containment
+
+Item #: SCP-185
+
+Object Class: Safe (Euclid class considered after incident 185-1. See document 185-1 for details.)
+
+Special Containment Procedures: SCP-185 is to be kept in a soundproof room with noise-filtering microphones for monitoring purposes. Standard guard procedures are to be used for this object. Ear protection must be worn by all occupants in the chamber, excluding test subjects.
+
+Description: SCP-185 appears to be a Russian R-105M radio used during the Cold War, except that it has a crudely-added keypad and LCD screen. The object can receive most radio transmissions, including encrypted signals. Attempts to determine how it can break even the strongest of encryptions have so far been fruitless. SCP-185 has a very long range, surpassing even modern radio equipment. It functions as a normal radio until input is added via the keypad. It seems that if a year is entered into the keypad, the radio will receive transmissions from the specified era (depending on if messages were being broadcast on the set frequency). This function was discovered when, upon entering the random number of 1939, Neville Chamberlain was heard declaring war on Germany. The possibility of experimenting with dates and times has been noted and is being researched. The possibility of entering future dates is being discussed; it has yet to be decided whether the benefits outweigh the risk of causing a time paradox. On the inside, the radio appears to be unaltered, and the keypad is contained in a box affixed to the side of the radio. Researchers cannot access the keypad due to the box being made from a metal that is yet to be identified. It cannot be cut and there are no determinable ways to disassemble it.
+
+Addendum:
+
+Document #185-1: Incident 1
+
+During a test, the year was set to -13.73 billion, during the time the universe was suspected to have been created. Sound volumes emitted by the object could not be measured with standard equipment. Survivors further from the incident reported rumbling sounds similar to recorded radio emissions from the sun. All those within 200 meters of the epicenter died of asphyxiation. Sound waves had ruptured capillaries in the lungs; autopsy reports indicate that the victims essentially drowned in their own blood. The device failed to operate for some time after that incident, and it was found that the device's internal battery pack had failed. Replacing it restored functionality. It was noted that the LCD screen was still lit, suggesting that the device has no special power aside from the anomalous box. The sound waves have also rendered SCP-███ inoperable, leading to the reclassification of said SCP as neutralized. The radio seems to have received no damage. Structural damages have been reported on-site and a section had to be shut down for repairs. Testing has been postponed until further notice.
+
+Dr.████████
+
+Any personnel caught using the object to listen to music on duty will be disciplined.
+
+Object Request:
+
+Mobile Task Force Delta-5 is requesting to use SCP-185 to aid their mission of tracking down objects before our rivals. Task Force believes Iranians have important information and wish to intercept their transmissions. Request accepted.

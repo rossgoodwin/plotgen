@@ -1,0 +1,95 @@
+Still frame from a playback produced by SCP-1756
+
+Item #: SCP-1756
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1756 is to be kept in a locked safe in the Audiovisual Wing of Site 73. A television, compatible remote control, and compatible cables and power adapter are to be provided in Room 346 for testing by researchers Level 2 and higher. All playbacks produced by SCP-1756 are to be filmed and archived for future analysis. A complete video archive of Siskel and Ebert At the Movies, and its predecessor programs, is to be maintained on site for comparison of SCP-1756 recordings to existing episodes. Testing involving SCP objects in optical disc format or any other Foundation-produced recordings shall require approval from the site director.
+
+Description: SCP-1756 is a Panasonic RV31K Region 1 DVD player manufactured in 1999, serial number [REDACTED]. SCP-1756 is externally identical to all other DVD players of its model and production date. Internal examination indicates that SCP-1756 has undergone aftermarket modification to allow it to play non-Region 1 DVDs; attempts to replicate SCP-1756's anomalous properties by similarly modifying standard DVD players of the same type have been unsuccessful. SCP-1756 is capable of accepting and producing its primary effect with all 12 cm optical discs regardless of format or region coding, including DVD, HD-DVD, Blu-Ray, CD-ROM and DVD-ROM, music CDs, and proprietary optical disc formats used in video game consoles.
+
+SCP-1756's anomalous properties manifest when it is powered on and connected to a television, and an optical disc is inserted into the disc tray and played. Instead of playing the video or audio content encoded on the disc, the television will display a recording, from 6-11 minutes in length, appearing to be a segment from the American television program Siskel and Ebert At the Movies1. In all documented cases the recording resembles the format of the original television show, in which Chicago-based film critics Gene Siskel and Roger Ebert discuss and debate movies currently in theatrical release and offer their individual opinions about whether the film is worth seeing with a "thumbs-up" or "thumbs-down" gesture. Examination of the recordings indicates that the set seen therein is identical to the set used by the television series during the 1992-1996 seasons, and that Siskel and Ebert appear to be approximately the same age as they were during the same time period.
+
+When the disc inserted is a motion picture that was reviewed on the original series, the content of the review will be identical to the original review featured on the program. When the content of the disc is a movie not featured or released after Siskel and Ebert's deaths in 1999 and 2013, respectively, is a visual recording other than a theatrically-released motion picture (e.g. television shows, news broadcasts, amateur films or home movies, video games, etc.) , or is not a visual recording at all, an original recording will be produced in which Siskel and Ebert review the material as if it were a theatrically-released motion picture. In these reviews, the critics will speak in a manner similar to the tone affected by the critics on the original series, with Siskel often critiquing individual aspects of the content (such as animation, acting, sound quality, etc.) and Ebert analyzing the content from a more emotional, collective perspective.
+
++ Show SCP-1756 Experiment Log
+
+- SCP-1756 Experiment Log
+
+Experiment 1756-1
+
+Date: ██/██/20██
+
+Content of Disc: The Crying Game (1992)
+
+Summary of Recording: Identical in content to original series review.
+
+Experiment 1756-3
+
+Date: ██/██/20██
+
+Content of Disc: Blade Runner (1982) (Director's Cut version, 1992)
+
+Summary of Recording: Similar in content to the original series review, except that neither Siskel nor Ebert make any mention of the narration by Harrison Ford, which was featured in the original theatrical release and omitted from the Director's Cut.
+
+Experiment 1756-7
+
+Date: ██/██/20██
+
+Content of Disc: Brokeback Mountain (2005)
+
+Summary of Recording: The film receives praise from both critics, with Ebert's comments largely resembling his published 2005 review of the film and Siskel making note of director Ang Lee's cinematography and declaring that star Heath Ledger has "a long and promising career ahead of him". Both critics give the film a thumbs-up.
+
+Experiment 1756-17
+
+Date: ██/██/20██
+
+Content of Disc: A 1999 episode of At the Movies in which Ebert paid tribute to Gene Siskel following his death that year, including footage from Siskel's memorial service.
+
+Summary of Recording: While expressing confusion at why the program received a theatrical release, both critics respond favorably, with Siskel describing it as "a somber and bittersweet reminder of one's own mortality" and Ebert humbly praising his own work as executive producer. Both critics agree that the body of Siskel, as seen lying in repose during the memorial service, "plays the part better than Lorry Goldman2". Both critics give the film a thumbs-up.
+
+Experiment 1756-21
+
+Date: ██/██/20██
+
+Content of Disc: Mass Effect (video game, 2007)
+
+Summary of Recording: The game receives a mixed review, as the critics spend much of the segment arguing about various points and questioning whether they watched the same movie. Siskel states that the protagonist, Commander Shepard (who he identifies as being played by Mark Meer), gives a wooden delivery of his lines and behaves more like a Boy Scout or comic book superhero than a starship captain, while Ebert describes Shepard, played by Jennifer Hale, as "a take-no-prisoners feminist action hero in the tradition of Sigourney Weaver", and cites her taboo romance with a feminine alien from a monogendered species as a bold move for a mainstream sci-fi flick. The critics agree that supporting actor Raphael Sbarge (who Ebert identifies as having co-starred with Hale in "one of the dozens of Star Wars prequels to hit the big screen in recent years") plays fundamentally the same character as in his previous role, but describe his sacrifice near the end of Act 2 as one of the film's better moments. Siskel notes that the film is planned to be the first installment of a trilogy and expresses hope that Meer will grow into the role. Siskel gives a thumbs-down, Ebert gives a thumbs-up.
+
+Experiment 1756-28
+
+Date: ██/██/20██
+
+Content of Disc: Twelve hours of live ABC News coverage of the September 11th, 2001 attacks on the World Trade Center and Pentagon, beginning with the initial interruption of scheduled programming and ending with President George W. Bush's "War on Terror" nationwide address
+
+Summary of Recording: Both critics praise the verisimilitude of the film's special effects, describing it as one of the best faux-documentaries since Orson Welles' War of the Worlds (1938) and marveling at the number of on-air news personnel playing themselves, with Siskel finding the choice to cast Texas governor George W. Bush as the president both interesting and unusual. Ebert praises Osama bin Laden, who he describes as the director of the film, for his "bold critique of America's national defenses and satirical outlook at foreign opinions of our country", though he questions his decision to insert himself into the film as a prime suspect in organizing the attacks. Both critics give a thumbs-up.
+
+Experiment 1756-36
+
+Date: ██/██/20██
+
+Content of Disc: Frampton Comes Alive!, Disc One (Music album, 1976 (CD Deluxe edition, 2001))
+
+Summary of Recording: Ebert describes the album as one of his favorites of all time and states that he greatly enjoyed the opportunity to listen to it in digital THX audio, though he is disappointed by the fact that the presentation ends halfway through the album and hopes a theatrical release of the second half is pending. Siskel, in contrast, is disappointed by the lack of any concert footage or other visual accompaniment to the music, and states that he could listen to music in the dark at home if he desired to rather than spending money to do so at the theater. Siskel gives a thumbs-down, Ebert gives a thumbs-up.
+
+Experiment 1756-38
+
+Date: ██/██/20██
+
+Content of Disc: Classics of Literature, a 1997 Windows CD-ROM containing the text of 130 public domain novels
+
+Summary of Recording: Both critics praise the ability to hear some of the greatest novels of all time narrated by their original authors, with Siskel describing author John Milton's narration of Paradise Lost as particularly moving and Ebert finding Victor Hugo's recitation of Les Miserables excellent but questioning his choice to read it in English rather than his native French. Both critics question the running time of the film at approximately 1600 hours; while Ebert calls it a great value for the admission price, he claims that he spent several thousand dollars on concessions during the screening and apologizes to the audience for the 12-week hiatus that At the Movies took while he and Siskel were attending the screening. Both critics give a thumbs-down, agreeing that, if broken into smaller installments, the film would be more enjoyable.
+
+Experiment 1756-41
+
+Date: ██/██/20██
+
+Content of Disc: A recording of Murder on the Orient Express (1974) as affected by SCP-1989
+
+Summary of Recording: Ebert introduces the segment as part of a recurring series on the works of [REDACTED], which he describes as "an artistic collective that's been taking the film world by storm". Ebert praises the cinematic device of showing the altered film on a TV screen being filmed by another camera, and the digital manipulation of the original film footage to present the onscreen actors responding to the inversion of their world. Siskel praises the technical execution of the movie but finds it unoriginal and derivative of the group's earlier work, and compares it unfavorably to previous films by the group such as Man Being Eaten By the Idea of a Shark, Sad Man (which he describes as being a 7-hour-long continuous shot of an atomic bomb sitting on a pedestal), and Cheese. Siskel gives a thumbs-down, Ebert gives a thumbs-up.
+
+Footnotes
+
+1. A syndicated weekly television program aired in the US from 1986 to 1999, as a continuation of previous programs featuring Siskel and Ebert beginning in 1975
+
+2. Actor who appeared in Godzilla (1998) playing "Gene", a character intended by director Roland Emmerich as a parody of Siskel in retribution for his negative review of Independence Day (1996)

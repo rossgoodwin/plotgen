@@ -1,0 +1,261 @@
+An instance of SCP-1459-1.
+
+Item #: SCP-1459
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1459 to be kept within a standard containment vault in Safe Wing-C of Sector-25. As of 05/16/██, only Level-1 Maintenance Technician Valera may view and interact with SCP-1459. MT Valera is to be presented with the opportunity to receive a mild amnestic to ameliorate emotional escalation between testing sessions. In the event that MT Valera becomes unavailable to perform further tests, a new individual is to be selected by the presiding on-site counselor.
+
+Description: SCP-1459 is a modified claw crane arcade game machine that stands 2.3m x 1.2m x 1.5m. Like most machines of this variety, it has a central rectangular space with three clear walls on its front and sides with a black, opaque wall on its back. However, SCP-1459 is unique in that the inner chamber has a solid wood panel floor and no chute where a prize would normally be dispensed.
+
+The front panel features two coin slots, a large red button, a microphone, a digital numeric display, a sign that reads "WIN A COOKIE",1and a thin horizontal slot from which the aforementioned baked goods are dispensed. There is no power cord attached to the back of the machine, nor is one needed, as it is presumably powered via anomalous means. When SCP-1459 is inactive, the central chamber is completely bare. SCP-1459 cannot be forcefully opened or damaged by any known means.
+
+When one (1) US quarter dollar coin is deposited into SCP-1459, a hatch will open in the ceiling of the central chamber and a claw carrying an instance of SCP-1459-1 will descend from it. SCP-1459-1 and other materials produced by SCP-1459 are often too large to normally fit in the upper section of the machine; it is unknown if these materials are manifested by SCP-1459 at the beginning of game sessions or if they are teleported from another location.
+
+After depositing the instance of SCP-1459-1, the digital numeric display will present the number of games that have been played previously,2and a voice recording will play, urging the player to press the button and describe a way SCP-1459-1 can be destroyed. After this message has been played, the button on the front panel will glow and the numeric display will initiate a 15 second countdown. The player may then press the button and dictate into the microphone any lethal action that can be performed upon SCP-1459-1, with the only restriction being that players cannot choose a method used in a previous game.
+
+SCP-1459-1 are juvenile domestic dogs (Canis lupus familiaris), the breed and gender of which varies. SCP-1459 typically selects a breed that individual players holds the most affection toward. Aside from the seemingly infinite quantity that SCP-1459 contains, instances of SCP-1459-1 do not appear to display any innate anomalous properties and generally behave in a manner consistent with animals of their variety; however, SCP-1459-1 instances may occasionally be subjected to anomalous changes to their physiology or behaviors in order to facilitate the method of destruction dictated by the player.
+
+If the player states a method of extermination within the allotted 15 seconds, the hatch in the ceiling of the inner chamber will open and an array of mechanical arms will descend, carrying whatever is necessary to carry out the player's suggestion. Requests for deaths that are not possible within the confines of the chamber will cause SCP-1459 to display additional anomalous properties to carry out its orders (see Experiment Log).
+
+Once the instance of SCP-1459-1 is deceased, one (1) cookie will be dispensed to the player via the slot in the front of the machine. Cookie flavors dispensed have included chocolate, vanilla, oatmeal, raisin, strawberry, lemon, white chocolate, and peanut butter. The exact variety dispensed to a given player is often the one that the player has the lowest preference for.
+
+If the player fails to state a method of extermination or the method proves insufficient, a robotic arm will descend from SCP-1459's hatch and bludgeon the SCP-1459-1 instance until it is deceased. No cookie will be dispensed following this event.
+
+SCP-1459 automatically cleans its interior chamber after every game. First, an arm holding a broom descends and sweeps the remains of SCP-1459-1 into a trapdoor. Next, SCP-1459 wipes down the surfaces of the chamber by deploying arms equipped with flat rubber implements, spray bottles containing a soapy solution, and clean white towels. While this process is taking place, a recorded message will tell the player, "Yeah, you're totally going to hell for this. Play again?".
+
++Experiment Logs
+
+-Experiment Logs
+
+Experiment #: 0001
+
+Player: Dr. Yeatley
+
+Statement: "Stabbing."
+
+Result: SCP-1459 played a sound effect indicating the method of extermination had been previously used.
+
+Experiment #: 0002
+
+Player: Dr. Yeatley
+
+Statement: "Chainsaw."
+
+Result: Same as previous experiment.
+
+[SUPERFLUOUS TEST LOGS REDACTED]
+
+Experiment #: 0048
+
+Player: Dr. Yeatley
+
+Statement: "Shark bite."
+
+Result: The hatch anomalously elongated and produced a great white shark (Carcharodon carcharias), which proceeded to bite off SCP-1459-1's head and recede back into the machine.
+
+Experiment #: 0049
+
+Player: Dr. Yeatley
+
+Statement: "Run it over."
+
+Result: SCP-1459 produced a tire attached to a spinning mechanism. After the mechanism accelerated to 2000 rpm, it made contact with SCP-1459-1.
+
+Experiment #: 0050
+
+Player: Dr. Yeatley
+
+Statement: "Drop it from a great height."
+
+Result: SCP-1459-1 fell through SCP-1459's trapdoor. Fifteen minutes later, it fell through the top hatch at high speed, instantly killing it.
+
+Experiment #: 0051
+
+Player: Dr. Yeatley
+
+Statement: "Reality TV."
+
+Result: A 1958 General Electric television set fell on SCP-1459-1. The set then powered on and replayed the event.
+
+Experiment #: 0052
+
+Player: Dr. Yeatley
+
+Statement: "Death by blender."
+
+Result: SCP-1459 produced and lowered SCP-1459-1 into a ████████ brand blender. SCP-1459-1 sat unharmed inside the device for 3 minutes, after which a robotic arm pressed "puree". The blender was uncovered when this transpired.
+
+Experiment #: 0053
+
+Player: Dr. Yeatley
+
+Statement: "Murdered by its lover."
+
+Result: SCP-1459 produced a second instance of SCP-1459-1, which proceeded to claw and bite the first instance until it died of blood loss. The second instance was eliminated via SCP-1459's default bludgeoning method.
+
+Note: Only one cookie was dispensed.
+
+Experiment #: 0055
+
+Player: Dr. Yeatley
+
+Statement: "Murder suicide."
+
+Result: As in the first test, a second SCP-1459-1 murdered the first. Following this, SCP-1459 provided the second SCP-1459-1 with a hammer, which the animal ran into repeatedly.
+
+Note: Two cookies were dispensed.
+
+Experiment #: 0056
+
+Player: Dr. Yeatley
+
+Statement: "Crime of passion."
+
+Result: The hatch elongated and a caucasian woman in a red evening gown emerged. The woman (who has not yet been identified) strangled SCP-1459-1 while sobbing and screaming the phrase "you dog" repeatedly. The woman performed this action continuously for 15 minutes; afterward, both the woman and the deceased SCP-1459-1 fell through the trapdoor and out of view.
+
+Experiment #: 0057
+
+Player: Dr. Yeatley
+
+Statement: "Drowning in puppies."
+
+Result: Additional SCP-1459-1 were produced until the entire chamber was filled to capacity. The remaining space was filled with water.
+
+Note: Many cookies were dispensed.
+
+[SUPERFLUOUS LOGS REDACTED]
+
+Experiment #: 0231
+
+Player: Dr. Löfqvist
+
+Statement: "Civil war."
+
+Result: A man in a historically accurate 1863 uniform of the Confederate States of America dismembered SCP-1459-1 with his bare hands.
+
+Experiment #: 0232
+
+Player: Dr. Siddell
+
+Statement: "The Judicial System."
+
+Result: Fifteen additional instances of SCP-1459-1 were produced, one of which wore a miniature powdered wig and black cloak, and two of which miniature suits. A noose was lowered around the first instance's head and hanged the instance. The same procedure was applied to the remaining fourteen instances.
+
+Note: Fifteen cookies were dispensed, all of which were of the raisin variety.
+
+Experiment #: 0233
+
+Player: Assistant Researcher Kirchner
+
+Statement: "Made into cookies."
+
+Result: Using kitchen implements and traditional ingredients, SCP-1459-1 was dismembered and incorporated into a batch of chocolate chip cookies. SCP-1459's internal heat increased to 300 degrees Celsius. SCP-1459 then produced a Caucasian woman in a red evening gown who consumed the cookies while smiling wordlessly at Assistant Researcher Kirchner.
+
+Note: A chocolate chip cookie was dispensed. No traces of animal matter detected in its composition.
+
+Experiment #: 0234
+
+Player: Junior Researcher Leishman
+
+Statement: "Falling off a roller coaster."
+
+Result: SCP-1459's mechanical arms constructed a miniature roller coaster within the internal chamber over the course of 3 hours. Once completed, SCP-1459-1 rode the ride normally until to the loop section, at which point the ride stopped, causing SCP-1459-1 to fall to the chamber floor. SCP-1459-1 was then bludgeoned via SCP-1459's default method.
+
+Note: No cookie dispensed.
+
+Experiment #: 0235
+
+Player: Dr. Hoshi
+
+Statement: "Batman."
+
+Result: A concrete bust of the fictional character was released from the ceiling of the chamber, subsequently crushing SCP-1459-1. The floor remained undamaged.
+
+Experiment #: 0236
+
+Player: Dr. Philmore
+
+Statement: "Knowledge of the unknowable."
+
+Result: An entity resembling O5-██ emerged from the trapdoor of the inner chamber, picked up SCP-1459-1, and pulled it out of sight.
+
+Note: When questioned, O5-██ denied any involvement in the incident.
+
+Experiment #: 0237
+
+Player: D-5923
+
+Statement: "My bare hands."
+
+Result: SCP-1459-1 reacted as if being strangled, although no additional presence was observed in the chamber. D-5923 reported feeling SCP-1459-1's fur on his hands as it died.
+
+Experiment #: 0238
+
+Player: D-5923
+
+Statement: "Spontaneous combustion."
+
+Result: SCP-1459-1 underwent what appeared to be an accelerated form of SCP-081.
+
+Experiment #: 0239
+
+Player: D-5923
+
+Statement: "Nuclear deton–" (Subject terminated mid-sentence.)
+
+Result: The resulting explosion was completely contained by SCP-1459.
+
+Note: D-Class personnel no longer permitted for testing. Maintenance Technician Valera selected for further testing due to the low likelihood of K-Class scenarios resulting from her requests.
+
+Note 2: 368 cookies were dispensed in rapid succession. The significance of this is unknown.
+
+Experiment #: 0240
+
+Player: Maintenance Technician Valera
+
+Statement: "Happy thoughts."
+
+Result: SCP-1459-1 was injected with a black substance, convulsed, and collapsed.
+
+Experiment #: 0241
+
+Player: Maintenance Technician Valera
+
+Statement: "Love."
+
+Result: A Caucasian woman in a red evening gown emerged from SCP-1459's upper chamber, sat on SCP-1459-1's face, and began moaning in apparent pleasure. After continuing this activity for another 5 hours, both individuals were removed via SCP-1459's claw.
+
+Experiment #: 0242
+
+Player: Maintenance Technician Valera
+
+Statement: "Old age."
+
+Result: SCP-1459 played a sound effect indicating the method of extermination had been previously used. Maintenance Technician Valera was unable to think of an alternative method of extermination and SCP-1459-1 was disposed of in the default manner.
+
+Experiment #: 0243
+
+Player: Maintenance Technician Valera
+
+Statement: "Please, no kill dog."
+
+Result: SCP-1459-1 was given a pillow, a treat, and a pat on the head by a gloved mechanism. 15 minutes later, it was retrieved by SCP-1459's claw. Immediately afterward, SCP-1459 produced a juvenile domestic feline (Felis catus) and exterminated it with a single blow to the head with a sledgehammer.
+
+Note: A salted cracker was dispensed.
+
+[SUPERFLUOUS LOGS REDACTED; SEE EXTENDED LOG FOR FURTHER DOCUMENTATION]
+
+-Experiment Logs
+
+Addendum: The following is a manufacturer's mark present on the rear panel of SCP-1459:
+
+Brought to you by the good folks at Y.W.T.G.T.H.F.T.
+
+in partnership with Sugarcomb Confectionery.
+
+Footnotes
+
+1. A baked confection commonly referred to as a 'biscuit' outside the United States.
+
+2. 2,592 as of 07/09/██.

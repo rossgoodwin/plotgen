@@ -1,0 +1,33 @@
+Item #: SCP-1400
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1400 is to be kept in an individual soundproofed cell adjacent to a standard humanoid containment suite, which is to contain the current SCP-1400-A. This cell and suite are to be located in the geometric center of a 55 x 55 x 10 m containment cell. No microphones or audio recorders of any kind are to be installed in any of these cells. Cameras are installed in each corner of SCP-1400's containment cell in order to track the direction in which its head is facing. In the event that SCP-1400 faces any direction other than towards the current SCP-1400-A, monitoring personnel are to note the new direction immediately and dispatch a mobile task force in that direction to identify and capture the new SCP-1400-A. The previous SCP-1400-A may be disposed of as per normal Foundation protocols.
+
+As SCP-1400 does not require sustenance, no personnel are to enter its cell except during Site-wide emergencies. To this end, the door to its cell is to be secured by a keycard lock accessible only by the Level 4 supervisor overseeing SCP-1400. In the unlikely event that entry to SCP-1400's cell is required, all personnel involved must wear earplugs and noise-cancelling headphones. Should any personnel display an unusual degree of interest in touching SCP-1400, they are to be immediately removed from SCP-1400's presence and administered Class-G short-term amnesiacs in order to mitigate SCP-1400's effect.
+
+Description: SCP-1400 is a humanoid Caucasian male of indeterminate age and average build, nude except for a black FM50 gas mask with opaque smoked lenses. It is wholly intangible to all human beings except its current instance of SCP-1400-A. The entity speaks constantly, although its vocalizations are always muffled by its mask to the point of indecipherability. Although apparently capable of normal locomotion, it tends instead to move by a poorly-characterized form of instantaneous translocation. The range of this movement is restricted to a radius of approximately 50 m surrounding SCP-1400-A.
+
+SCP-1400's voluntary activities consist entirely, so far as can be inferred, of observation. It selects a target, designated SCP-1400-A, which is invariably a human Caucasian male of similar build and appearance to SCP-1400. Selection may be inferred by SCP-1400's movement: upon selecting SCP-1400-A, it takes up a position within 20 m of this target and begins to watch it. Though the position of its eyes cannot be observed through its mask, the motions of its head track SCP-1400-A's movements quite closely. It follows its target’s movements regardless of line of sight: barriers up to and including 5-cm lead plating do not impede accurate tracking.
+
+Although SCP-1400 attempts to hide from its target, it does so ineffectively: SCP-1400-A typically discovers it within one week of selection. Subject reactions vary, although most tend towards fear and distrust, as is typical for persons confronted with the reality of constant surveillance. In the medium to long term, most instances of SCP-1400-A develop paranoid tendencies. Again, this is psychologically typical. The only anomalous component of SCP-1400-A's behavior is an extreme and universal revulsion at the idea of seeing SCP-1400’s face.
+
+SCP-1400’s vocalizations are an active cognitohazard. Approximately 75% of persons exposed to these sounds report a strong desire to remove SCP-1400’s mask and are designated SCP-1400-B. Stated reasons vary with the listeners' personality and motives: some claim to want to hear its words clearly, some to want to prevent it from suffocating inside the mask, some to want revenge on it for frightening them, etc.1 SCP-1400-A is immune to this cognitohazard by virtue of being completely selectively deaf to the vocalizations.
+
+Interestingly, SCP-1400-A is also the only human being capable of making physical contact with SCP-1400. When an instance of SCP-1400-B discovers this fact, it invariably attempts to make SCP-1400-A remove SCP-1400's mask. These attempts scale quickly from polite persuasion to threats of violence, eventually culminating in physical altercations. SCP-1400-A will resist removing the mask by all means available; instances have repeatedly been killed by groups of SCP-1400-B without removing the mask. The current SCP-1400-A has withstood all means of non-anomalous enhanced interrogation available to the Foundation and still refuses to interact with SCP-1400, even for testing.
+
+Incident 1400-Cumberland: On ██/██/████, in order to study the social dynamics of groups of SCP-1400-B in the absence of SCP-1400-A, 25 Class-D personnel were introduced into SCP-1400's containment cell. At 1 hour 17 minutes into the experiment, SCP-1400 suddenly redirected its attention to one of the subjects. The other instances of SCP-1400-B immediately surrounded and subdued the new instance of SCP-1400-A and forced his hands to lift the mask. Several instances of SCP-1400-B had unintentionally interposed themselves between the monitoring cameras and the front of SCP-1400's head, so there is no visual record of its unmasked face. However, all members of SCP-1400-B who saw its face immediately recoiled. Once SCP-1400's mask was completely removed, the entity rapidly melted into a dark liquid consisting of water adulterated with large amounts of heavy metals, phosphates, and human waste. Simultaneously, SCP-1400-A put on the mask and translocated out of his clothes in the same manner as SCP-1400, appearing on the other side of the outer containment chamber. He is now designated SCP-1400-1.
+
+Addendum 1: Recent unconfirmed reports suggest the existence of other entities resembling SCP-1400. All are described as humanoid figures, nude except for a mask that is opaque over the face and eyes. The instances thus far described have been provisionally designated as follows:
+
+SCP-1400-2: an obese African female with heavy keloid scarring on the forearms, wearing a Guy Fawkes mask
+
+SCP-1400-3: an elderly Asian male, wearing a medieval Crusader's helmet
+
+SCP-1400-4: a male Pacific Islander with extensive tā moko tattoos, wearing the head of a Chinese parade lion
+
+SCP-1400-5: a male Latino with large breast implants, wearing the helmet of an Apollo Block I A1C space suit
+
+Footnotes
+
+1. No instance of SCP-1400-B has ever cited a desire to see SCP-1400's face.

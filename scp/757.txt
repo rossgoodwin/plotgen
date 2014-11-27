@@ -1,0 +1,19 @@
+SCP-757 at Site-103, producing peaches.
+
+Item #: SCP-757
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-757 has been transplanted to a garden plot at Bio Site-103, which is to be under constant surveillance. Access SCP-757 requires authorization from a researcher with level 3 clearance. The plot is to be cleaned of all rotten instances of SCP-757-1 twice a month, and they are to be incinerated on-site.
+
+Description: SCP-757 is a fruit producing tree similar to Prunus persica (common peach tree), that is 3.63m tall. The texture and properties of its wood are identical to that of a Malus domesticus (apple tree); it is easily broken, damaged, or burnt. Its leaves are identical to those of ordinary Prunus persica.
+
+Every dawn, SCP-757 produces new fruits, which are collectively designated SCP-757-1. Growth takes five minutes on average, although the size of the fruit is directly proportional to the growth time. Instances of SCP-757-1 remain in place for the duration of the day, and at dusk fall to the ground and rot rapidly. The amount of time an instance of SCP-757-1 takes to rot is directly proportional to its size. Human beings viewing SCP-757-1 while it remains attached to SCP-757 display a minor compulsion to consume it. Instances of SCP-747-1 are universally reported to be "extremely sweet" and "delicious".
+
+If a subject consumes any part of an instance of SCP-757-1, a new organ will form in the anterior of the subject's abdomen. This process is reported to be very painful. Over the course of a week, a new fruit of the type consumed by the subject forms inside this organ, causing further pain and visible swelling (and in the case of very large fruit, tissue damage). When the fruit is ripe, it is forced up a tube leading to the esophagus and ejected from the mouth, distorting the subject's tissue in order to pass. It almost always causes permanent damage in this passage, despite the fruit itself being distorted to some degree in the course of ejection. The object regurgitated is always an ordinary, perfectly formed specimen of the fruit type initially consumed. It does not possess SCP-757-1's anomalous properties.
+
+SCP-757 has been observed to produce the following types of fruit, in decreasing order of frequency: peaches, plums, apples, pears, watermelons, bananas, pineapples, strawberries, blueberries, raspberries, blackberries, kumquats, kiwifruit, lemons, and (in one case) pumpkins.
+
+There is presently no cure for SCP-757's effects. If the new organ is surgically removed before fruit regurgitation, it regrows at a rate identical to that of the first growth. Testing to determine a physical, chemical, genetic, or foreign cause of the effects is pending. Testing to determine whether SCP-757-1's juice retains its anomalous effects is pending approval.
+
+SCP-757 was discovered in ██████, ████████, after several reports of people regurgitating fruit appeared in a local newspaper. It was eventually discovered in the backyard of an abandoned house. A large amount of rotten fruit was found at its base, along with several malnourished corpses.

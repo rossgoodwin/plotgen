@@ -1,0 +1,65 @@
+Building-2450. Construction of a new service station surrounding the Building is ongoing.
+
+Item #: SCP-2450
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2450 patients are to be kept physically restrained in Secure Ward LAN-12 to prevent the spread and progression of infection. The initial infection source is contained at site of discovery in a building disguised as an electrical substation, designated Building-2450.
+
+Building-2450 is kept securely locked and surrounded by a standard substation fence replete with 'Danger of death' warning signs. Constant surveillance is kept over the Building, and any persons attempting to intrude are to be detained and questioned. Ingress is only by means of a double door system which includes an isolation chamber to prevent the entrance of any small mammals to Building-2450. On no account must any mammals except approved test subjects be permitted to exit Building-2450.
+
+One member of Foundation personnel with dentistry training is to monitor all dentistry journals and news sources for cases that may indicate an SCP-2450 outbreak.
+
+Description: SCP-2450 is an infectious disease that causes severe hyperdontia in unusual areas of the body. The initial infection source is the area contained by Building-2450, a former male bathroom in a ████ company service station located on the M█ motorway in ██████████, United Kingdom. The vector via which this area infects is unknown: Level-V Haz-Suits have proven ineffective in preventing infection. The disease may affect a large number of mammalian species (for a full list of all susceptible mammals discovered so far, see Document-2450-Species) including rodents, dogs, and humans; approximately 23% of subjects exposed to the area contract SCP-2450. Infection may also be passed to new hosts through bites which draw blood, with an infection probability of 12%.
+
+Initial stage infection results in the patient presenting hyperdontia (the eruption of extra teeth) in various body orifices. The first orifice to be affected is usually the mouth, with teeth erupting from gums, palate, and frenulum, but once the disease has progressed, all bodily openings will be affected. The size of teeth grown varies but tends to be proportional to the size of the opening. SCP-2450 teeth will grow at a rate roughly twelve times that of natural teeth, taking typically between 3 weeks and 9 months for a tooth to grow from germ to full root completion, depending on size. Teeth will grow in rows further and further back into the orifice as the disease progresses.
+
+D-20584 presenting early-stage SCP-2450 infection.
+
+Latter stage SCP-2450 infection will begin to occur once all natural bodily orifices have grown at least one full row of teeth. In this occasion, areas of the body which are not orifices but form a semi-closed shape, such the eyes or the interspaces between toes, will also begin to erupt teeth. In addition, any apertures formed in the body by external trauma, such as cuts to the skin, will develop SCP-2450 teeth.
+
+Calcium and other minerals required to grow the teeth are taken from the body's natural stores, and, consequently, SCP-2450 infection can result in osteoporosis and hypocalcaemia. Patients may be kept alive despite this by administering calcium and mineral supplements, and will keep producing teeth indefinitely.
+
+The tooth-growing process has been described by patients as extremely painful, and similar to the teething pains experienced by children and young adults during the development of normal teeth. Patients have described a strong desire to mitigate this sensation by biting or grinding affected teeth, and in the case of teeth formed in areas without the appropriate muscular or skeletal structure for biting, patients will rub or pound the teeth against solid objects. This action is to be discouraged in patients whose disease progression requires curtailment, as it will frequently lead to further skin lacerations and the creation of new teeth. It was due to this behaviour that the ability to transfer infection through tooth-to-blood contact was discovered during an interview with an SCP-2450 patient.
+
+Addendum 2450-A — Circumstances of discovery: SCP-2450 was first identified from routine searching of medical literature, and classified as an SCP phenomenon distinct from hyperdontia on 19/02/2009. Information suppression policy was applied successfully, and the pattern of outbreaks was used to trace the source to the ████████ service station. Thereafter, quarantining and careful experimentation revealed the male bathroom in Wing B, in use with no known anomalous effect since the service station's opening in 1983, as the initial source of infection. SCP-2450-1 (see Addendum 2450-C) was discovered lodged behind a cistern during the dismantling of facility equipment.
+
+Addendum 2450-B — events of 15/07/2008:
+
+Interviews with cleaning and security staff, and review of security footage has tentatively identified early morning 15/07/2008 as the moment at which the bathroom became the source of SCP-2450 infection.
+
+Security footage log:
+
+03.17 Three men enter the service station. All three wear black hooded tops with hoods up. One, designated POI-2450-α, carries a large empty-looking backpack, and another, designated POI-2450-β, holds a green implement (likely SCP-2450-1) which he passes from hand to hand frequently. The third man is designated POI-2450-γ.
+
+03.19 The men halt outside the bathroom in Wing B and engage in discussion.
+
+03.22 The men enter the bathroom, the last looking around before he closes the door.
+
+<period of unremarkable activity omitted>
+
+05.59 2450-α and 2450-β exit the bathroom. 2450-α still carries the backpack, which appears fuller and heavier.
+
+06.00 The men walk quickly to the main entrance, where 2450-β stops.
+
+06.00 2450-β puts his hands into his hooded top pocket, and then pats the pockets of his trousers. 2450-β turns back towards the interior of the service station.
+
+06.01 2450-β starts to walk back inside, but 2450-α puts a hand on his arm and stops him. The two engage in an animated discussion.
+
+06.03 2450-α and 2450-β walk to a car, later determined to be stolen, and drive away southbound.
+
+POI-2450-γ does not exit the bathroom.
+
+The cleaner on duty on 15/07/2008 reports that he recalls one of the bathroom stalls being locked for an unusually long time, and upon returning later to clean the stall, discovered a large quantity of white gravel of varying grain size (believed to be dental matter) on the floor and toilet lid.
+
+Addendum 2450-C — SCP-2450-1:
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2450-1 is stored in Reliquary 87B-6, locker 12004.
+
+Description: SCP-2450-1 is a green plastic toothbrush of unknown make and manufacture.
+
+Brushing teeth with SCP-2450-1 causes the teeth to be worn down at a very rapid rate – approximately five minutes of brushing is sufficient to remove an entire molar. No other tissue is damaged by this brushing action, even though the brush may be used to remove entire tooth roots.
+
+Embossed text on the back of the handle reads 'For non-oral use only'.

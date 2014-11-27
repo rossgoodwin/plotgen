@@ -1,0 +1,31 @@
+SCP-1951. Photo was taken within the perimeter by an unmanned drone.
+
+Item #: SCP-1951
+
+Object Class: Euclid
+
+Special Containment Procedures: The Bezuhov Nuclear Power Facility and the five mile perimeter surrounding it is fenced and monitored by security cameras. Radiation sensors wired to alarms provide an early warning system in case of an unlikely containment breach. Guard posts located on the perimeter are manned by personnel armed with Gv20 EMP Emitters to subdue SCP-1951 should the need arise.
+
+Description: The phenomenon documented around SCP-1951 was discovered after the previously condemned and vacated Bezuhov Power Plant’s nuclear reactor once again became active. Radiation levels on facility grounds are lethal, and all study must be done with exploratory drones. Photos transmitted from the main chamber of the facility reveal filaments growing around the reactor cores. Figures visually similar in composition to SCP-1951-a are visible within the cores. In a series of photographs, SCP-1951-a is observed to be wandering to and from each core.
+
+Entities commonly spotted on the site grounds are best described as translucent humanoid figures. The first documented figure, SCP-1951-a, is frequently observed walking the grounds leisurely, sitting on the walkway benches, and in one occurrence appeared to be smoking something in the shape of a cigar. The figure, SCP-1951-a, does not appear hostile, sometimes waving at and approaching guards. As a result several guards have since been treated for severe radiation poisoning. SCP-1951-a obliged guards' orders to keep its distance after seeing that it had ‘inadvertently’ killed two of the men. Communication with SCP-1951-a is not successful; it appears that the composition of the entity itself is not permitting of the manufacture of sound.
+
+No physical testing can be done due to the harmful and incorporeal nature of the entity. Gunshots fired on SCP-1951-a pass through the body, and explosives appear to destroy the being temporarily, with SCP-1951-a reconstituting shortly afterwards.
+
+The Omask site remains functional eight months after the unexplained re-activation, and SCP-1951 persists. The following documentations outline observations over this time.
+
+█3/██ Perimeter Log: A new entity has been sighted on the grounds, similar in appearance (and suspected, composition) to SCP-1951-a. The entity often accompanies SCP-1951-a, the two appearing to converse and make demonstrative physical contact with each other. This entity will henceforth be referred to as SCP-1951-b.
+
+█4/██ Perimeter Log: Two smaller figures similar in appearance emerge from the cargo bay of the facility and appear to chase each other and make harmless physical offensives on one another. SCP-1951-a and SCP-1951-b emerge from the ground behind the two figures appearing to surprise them. After hearing a low-frequency moan similar to human speech the group fades from sight.
+
+█5/██ Perimeter Log: Radiation from the facility triggered false alarms on five separate occasions, suggesting an increased output from SCP-1951. After the appearance of three more similar entities including another humanoid figure, command began monthly scheduled purges of the facility.
+
+█6/██ Perimeter Log: The facility was subjected to rounds of Gv20 EMP grenades. As of the recording of this log, all entities save for SCP-1951-a have been eliminated or disabled not including the entities located within the reactor chamber.
+
+Audio recovered from Exploratory Drone - Fall ████:
+
+Foreword: The tapes the drone recovered were found in the supervisor’s office. No speech can be made out and it appears to be composed of nothing save for white noise. When the drone returned, its housing was laced with strings of glowing filament that were previously observed in the reactor core. These strings were arranged in such a way to form a series of English letters. The sentence reads as follows:
+
+You’ve left Aleksey all alone.
+
+Since the incident on ██/█5/██, no further communication from SCP-1951 has been documented.

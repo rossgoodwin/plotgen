@@ -1,0 +1,169 @@
+Cell Block 15, SCP-2701 is located on the right
+
+Item #: SCP-2701
+
+Object Class: Safe
+
+Special Containment Procedures: A listening post has been established outside the former ███████ State Penitentiary to monitor SCP-2701. Video surveillance is established throughout Cell Block 15, with pre-existing locking mechanisms enabled to limit the mobility of any released subjects. One security guard equipped with full-body restraints is to be present on-site at all times.
+
+Description: SCP-2701 is Cell 667 in the former ███████ State Penitentiary located in Pennsylvania. The cell is currently in a state of extreme disrepair. Contents are limited to a toilet and bed of expected make for construction prior to 1840. Disassembly of the door and fixtures has revealed no unusual features or components. Mass spectrometry of the cell materials are all consistent with expected composition except for trace amounts of cadmium selenide located along the door frame. A clipboard containing forms marked as "INTAKE" is located 0.8 meters to the left of the entrance to SCP-2701. There are currently ███ names written on the forms with release dates between June 17, 20██ and December 25, 33██.
+
+Anomalous effects manifest when a single human subject is fully locked within SCP-2701, his or her name is written on the intake list under the heading "NAME" and a day, month and year are written under "RELEASE DATE." 13 seconds after these conditions have been met, the subject will disappear. Attempts to visually surveil an activation event have consistently met with failure, as recording equipment placed inside or outside of the cell produce only static or blank images during the 13 second period leading up to disappearance. Researchers observing an event have noted the sound of confined wind and additional unidentified noises (see Experimental Trial 2701-13 Audio Log) emanating from within the cell immediately before activation. No abnormal variations in air pressure have been detected during these periods. At 12:00 AM on the written date, the cell door automatically closes and locks via an unknown mechanism. Once cell closure is complete, the subject will reappear within SCP-2701.
+
+Experimental Trial 2701-13 Audio Log
+
+Initial experiments proved inconclusive due to concurrent behavioral disorders exhibited by subjects post-reappearance. Typical psychoses included dementia, nyctophobia, photophobia, sedatephobia, acousticophobia, claustrophobia, agoraphobia, haphephobia, catatonia and anorexia. Dissected subjects showed no evidence of physical change, including aging, during an activation event.
+
+Subsequent short-duration trials revealed that subjects who undergo an activation event experience a state of complete sensory deprivation while fully conscious. For the duration of the disappearance period, a subject will perceive time at a significantly dilated rate, estimated to be between 300× and 400× in magnitude. Mental trauma in subjects accrues rapidly while under the affect of 2701. Staff psychologists theorize that in the absence of any outside stimulation, a subject's mind breaks down rational thought structures in an effort to mitigate stress, resulting in either cognitive shutdown or increasingly frenzied mania. Subjects experiencing an event of greater than 2 hours (subjective time estimate: 25-33 days) typically exhibit complete psychological breakdown.
+
+Interview I-2701-1-R-7
+
+Interviewed: D-77391 - Hispanic Male, 34 years of age, imprisoned for murder, selected for trials due to experience with solitary confinement
+
+Interviewer: Dr. Simon
+
+Foreword: D-77391 underwent a 15 minute activation event. Interview was conducted 6 hours after D-77391 was retrieved from SCP-2701. Compared to previous subjects, D-77391 showed significantly less cognitive degeneration and psychosis post-trial.
+
+<Begin Log, █/██/████ ████>
+
+Dr. Simon: Please describe your experience while affected by SCP-2701.
+
+D-77391: Please, please, don't make me go back there.
+
+Dr. Simon: D-77391, your cooperation in post-trial interviews is not voluntary. Describe your experience while affected by SCP-2701.
+
+D-77391: It was hell…I was in hell.
+
+Dr. Simon: ████████, escort D-77391 back to SCP-2701 for a second tri-
+
+D-77391: No! Wait! I'm trying to tell you! There’s nothing in there! It's a void. It's darkness and silence and…and…emptiness.
+
+Dr. Simon: Please clarify.
+
+D-77391 pauses to compose himself.
+
+D-77391: I could think, that much didn't change. It’s just that thinking was all I could do. I couldn't see anything, hear anything…even feel anything. I couldn't sleep. I didn't breathe. I don’t think I even had a body, just my thoughts and memories and…nothingness.
+
+Dr. Simon: You were fully aware, then?
+
+D-77391: I was aware of time…I didn't know how long…when it would stop. I tried to grasp…something. Tried to scream… If not for what that doc told me when he was putting me inside, I’m sure I would have lost my mind.
+
+Dr. Simon: Which doctor was that?
+
+D-77391: Blond. Tall, with glasses.
+
+Dr. Simon: Ah, yes. What did Dr. ████ tell you?
+
+D-77391 appears unsettled and begins to slowly rock in his chair.
+
+D-77391: He said that no matter what I felt, I was going to come back. He told me I wasn't going to be in there forever.
+
+Dr. Simon: I think we’re about done here. Is there anything else you would like to add?
+
+D-77391: How long was I inside?
+
+Dr. Simon: 15 minutes.
+
+D-77391: Wait…what?
+
+Dr. Simon: You experienced a 15 minute event.
+
+D-77391 becomes visibly distressed.
+
+D-77391: No, no, no. That’s not possible. I was gone for weeks…
+
+Dr. Simon: 77391, you are dismissed.
+
+D-77391: No, it can't be true…the d-dark had me…[Inaudible mumbling]
+
+Dr. Simon: ████████, please return 77391 to his cell. This interview is over.
+
+D-77391: No…no…not alone again….please…
+
+At this time, D-77391 began sobbing and refused to respond further. Medical personnel arrived to sedate and transport the subject back to the D-class holding area. D-77391 was terminated 28 hours later after a suicide attempt resulted in critical anoxic brain injury.
+
+Dr. ████ was reassigned to Site 38 following a six-month suspension for violation of experimental protocols.
+
+<End Log>
+
+SCP-2701 Interior View
+
+Addendum: SCP-2701 first came to the attention of the Foundation in 1970 following the discovery of exculpatory evidence in the case of ████████ █████, a repeat felon serving a life sentence at ███████ State Penitentiary. The public defender assigned to the case sought to arrange a meeting with his client to discuss terms of release but was repeatedly rebuffed by the prison warden, Samuel Decard. When Mr. Decard offered the attorney a substantial monetary sum to cease attempting to contact his client, the lawyer sought assistance from local authorities, who were also refused access by Mr. Decard. A local SWAT unit was deployed and gained entry to the facility by force.
+
+Despite an expected inmate population of 137 long-term prisoners, investigators found no indication of human life and the facility in serious disrepair. The only inhabitant located was Mr. Decard, who surrendered to police without incident. Evidence found on-site revealed that he had taken up long-term residence within the prison administrative offices. When questioned about the status and location of the missing inmates, Mr. Decard willingly explained that he had placed all of them within Cell 667 and explained the activation procedure in detail. Records on site indicated that Mr. Decard had been using prison funds to pay bribes to inspectors, defense attorneys and former staff to prevent inquiry. An agent embedded with Philadelphia's 9th Police District alerted Foundation Command and initiated isolation procedures.
+
+Interview I-2701-P-1
+
+Interviewed: Samuel Decard - Caucasian Male, 57 years of age, chief administrative official of ███████ State Penitentiary
+
+Interviewer: Agent █████
+
+Foreword: Interview was conducted as part of standard intake procedures upon Mr. Decard being brought into Foundation custody.
+
+<Begin Log, █/██/1970 ████>
+
+Agent █████: I've reviewed the release records from ████ up until the present. It seems that ███████ was the last month a prisoner was released from ███████ State.
+
+Samuel Decard: Since you're the type that does your homework, I'm sure you've figured out why.
+
+Agent █████: Your daughter.
+
+Samuel Decard: Emily.
+
+Agent █████: Was it your intention to use SCP-2701 on ████ ████████████?
+
+Samuel Decard: I got to look him in the eyes once. Right after the trial. Ever seen the face of a true monster, son?
+
+Agent █████: I don't believe so, no.
+
+Samuel Decard: It's what he was. I looked him in the eyes and I saw a man who chose to be a beast. I wanted to see him rot in the deepest, darkest hole I could find. You know how you break an animal?
+
+Agent █████: No, Mr. Decard.
+
+Samuel Decard: You take away its hope. Put it in a corner and block every exit. Let the dread seep in. Everything fears death. Break a creature and it fears life even more.
+
+Agent █████: And when ████████████ died in custody?
+
+Mr. Decard stares intently at Agent █████ for several seconds before speaking.
+
+Samuel Decard: I had meant it for him, but when he got away…I couldn't look at the animals that surrounded me anymore. I started to get nauseated even by the thought of them. That's when I sent the guards home and started moving the convicts.
+
+Agent █████: You placed all the prisoners into Cell 667 by yourself?
+
+Samuel Decard: Yes.
+
+Agent █████: How long did it take you?
+
+Samuel Decard: It went quickly at first. They thought it was a lockdown. It was too early for any of them to notice that the others weren't coming back. Murderers, brutes and predators every one of them, but only a handful balked when I took them to 667. They were the first few I put away bloody.
+
+Agent █████: What do you mean?
+
+Samuel Decard: The shock prod wasn't enough and I had to use the pipe. The rest caught on quickly. They realized that the prison was getting emptier, quieter. They saw that I took men away and never brought anyone back. I was only feeding them every few days, so they were angry but starvation hadn't yet taken a toll on their strength. There were a couple weeks of rough work. Every one I took was a fight. I even got tagged a few times.
+
+Mr Decard unbuttons his shirt. He indicates four 2-3 cm long scars located on his right side and lower abdomen
+
+Agent █████: Did you seek medical attention?
+
+Samuel Decard: No, I made it to the infirmary to stitch them closed, but after that I slowed down. I became more selective about who I pulled out. I watched fear creep its way through each block. When I distributed food I would look for the ones that pleaded and begged or just huddled in the corner of their cell. They went away crying and pissing themselves, but weren't much of a struggle.
+
+Agent █████: Were there any more incidents?
+
+Samuel Decard: Only a few. So long as I was patient, the hunger and filth and terror would cut them down before I came for them. A few took the coward's way out, but I left the bodies as a warning.
+
+Agent █████: What do you mean by warning?
+
+Samuel Decard: They had to know that the only way out was by my hand. It was already putrid inside and the walk to Block Fifteen had long since been stained by all the men I dragged there. The few that still tried to fight crumpled after the first blow to the head. There wasn't much life left in them at that point.
+
+Agent █████: And the time frame?
+
+Samuel Decard: Three months and six days until I finished. ████ ███████ was the last. He didn't say a word, didn't even look at me.
+
+Agent █████: One last question, Mr. Decard. How did you create SCP-2701?
+
+Samuel Decard: Oh, I didn't create it, son. I had help.
+
+Agent █████: Please explain.
+
+Samuel Decard: Let's just say that hate and grief are a currency to some. When I was willing to pay the price, help found me.
+
+<End Log>

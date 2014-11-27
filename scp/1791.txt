@@ -1,0 +1,181 @@
+A section of Chamber 4 from SCP-1791-E-1, representing SCP-1971-E's life from ██/██/1929 to ██/██/1932.
+
+Item #: SCP-1791
+
+Object Class: Euclid
+
+Special Containment Procedures: Mobile Task Force Epsilon-7 ("Godmothers") are to take instances of SCP-1791-X into custody for containment in Unit 16 at Bio-Research Area-12. Instances of SCP-1791-X should be sedated upon contact and removed from their residence immediately. After containment, normal structure and content of the residence of each instance must be confirmed before the area may be opened to occupation by civilians.
+
+All instances of SCP-1791-X are to be housed in separate Standard Humanoid Containment Cells. All areas of the cells must be under camera surveillance at all times, and cells may not contain doors except the entrance door and the door to an instance of SCP-1791-X-1. Instances may request reading materials on a monthly basis (subject to approval by Research Head ██████), but are not permitted to have casual contact with staff members. No instance of SCP-1791-X is to be informed of the existence of other instances. Nine (9) complete instances of SCP-1791 have been located and contained as of ██/██/████.
+
+The potential entity designated SCP-1791-Omega has yet to be located or contained.
+
+Description: SCP-1791-A through -J (collectively designated SCP-1791-X) are human biological siblings, each of whom are associated with an instance of a spatial anomaly designated SCP-1791-X-1.1 When surveyed briefly, the residence of an instance of SCP-1791-X appears to be an unremarkable personal living space. However, each residence contains an unrecorded door in the least-used portion of the home—generally the back of a storage closet or guest bedroom. The door invariably leads to an instance of SCP-1791-X-1, an anomalous space resembling the living quarters of a moderately afflicted compulsive hoarder. The portion of this space nearest the entryway will contain a large quantity of an instance of SCP-1791-X's personal artifacts; this collection includes both distinct objects and duplicates of objects currently in use by the instance.2
+
+The anomalous space is arranged in a roughly 12° logarithmic spiral, containing an average of seven (7) individual successive chambers.3 The contents of each chamber are indistinguishable from the personal effects used in successively earlier years of an instance of SCP-1791-X’s life, from the present nearest the door regressing towards infancy at greater depths. Any object which is retained over a long period of the instance's life will be present, often more than once, in more than one chamber. The exact content of SCP-1791-X-1 varies by instance and increases with time. The length of the spiral is correlated with the age, number of former residences, and quantity of belongings amassed by each instance of SCP-1791-X: the youngest instance has a corresponding space of only four (4) chambers in a spiral 87 m in length, while the oldest has a corresponding space of 19 chambers and 354 m.
+
+The final chamber, situated at the central terminus of the spiral, is an unfurnished space measuring roughly .7m x .7m x 1.6 m, composed entirely of uterine tissue. Ambient temperature averages 37.9 °C. Analysis indicates that the chamber’s flesh is a probable genetic match to that of SCP-1791-X’s biological mother.
+
+Current testing data suggests that each instance of SCP-1791-X "carries" its own instance of SCP-1791-X-1 with it to wherever it resides. The parameters by which residence is determined is unclear, but all instances of SCP-1791-X-1 have thus far vanished from their former location and appeared within the containment cell of its corresponding instance of SCP-1791-X within one month of containment; subjects experience varying levels of agitation and and anxiety during extended separation from their instance of SCP-1791-X-1.
+
+Foundation attempts to locate SCP-1791-X’s biological mother, designated SCP-1791-Omega, have thus far proved unsuccessful. Search efforts are ongoing.
+
+Addendum 3.1.05.a, ██/██/████: Records indicate that all instances of SCP-1791-X were adopted by persons employed by the United States Armed Forces in early infancy from various local public care services, and lived with their adoptive parents until the deaths of said caretakers, generally in SCP-1791-X’s late teens. Four instances of SCP-1791-X report sleeping within the womb chamber at least once a week. Two instances report not entering SCP-1791 on a regular basis, but finding its presence "comforting". Before his containment, SCP-1791-H was apparently ignorant of SCP-1791-H-1’s presence in his apartment, and responded to this information with extreme distress, with symptoms including intermittent panic coupled with prolonged nausea, dizziness, vomiting, and weeping. SCP-1791-H was previously unaware that he was adopted.
+
+Addendum 7.3.02.f, ██/██/████: The outermost chamber of SCP-1791-A-1 has taken on the characteristics of SCP-1791-A's former containment cell at Site-19, including eleven functioning surveillance cameras. The receiving location of the information being recorded has yet to be determined. Upon questioning, SCP-1791-A professes ignorance, but becomes agitated at the suggestion of further "intrusion" by researchers, and has repeatedly described SCP-1791-A-1 as "the only place that has ever really felt like home".
+
+Addendum 14.3.07.a, ██/██/████:
+
+Interviewed: SCP-1791-B, Mme. ██████████ █████.
+
+Interviewer: Agent J. Munevar, supervised by Dr. N███████.
+
+Foreword: As SCP-1791-B has been in Foundation custody for ██ years and has been observed to be generally docile and cooperative, Dr. N███████ authorized Agent Munevar to complete the practical portion of his interview procedure training with the subject. Subject is an elderly French female. The following is an excerpt from Agent Munevar's interview with SCP-1791-B.
+
+<Begin Log>
+
+SCP-1791-B: I found Michel in there once, you know. Sitting in a little patch of garbage that was pretending to be our parlor from Rouen. Reading the paper.
+
+Agent Munevar: How did you respond?
+
+SCP-1791-B: (Pause, 4 seconds) I beat him with the—the fake of—the china casserole dish that he had given me for my birthday until the thing shattered in my hands. His face. My God. I have never been home since.
+
+Agent Munevar: To Rouen?
+
+SCP-1791-B: No.
+
+(Pause, 9 seconds. SCP-1791-B picks cigar wrapper from her tongue.)
+
+Idiot.
+
+Agent Munevar: Then "home" is—
+
+SCP-1791-B : Home is the dog that I cannot be rid of. Home is what will follow me if I ever leave this place.
+
+<End Log>
+
+Closing Statement: Since her containment, SCP-1791-B is the only instance of SCP-1791-X that has not entered its corresponding instance of SCP-1791-X-1.
+
+Footnotes
+
+1.
+
++ Log of contained instances of SCP-1971-X
+
+- close log
+
+Designation
+
+DOB
+
+Sex
+
+Adoption
+
+Recovery
+
+Notes
+
+SCP-1791-A
+
+██/██/1981
+
+F
+
+Alice Springs, NT, Australia
+
+Volcano, HI, USA
+
+SCP-1791-B
+
+██/██/1943
+
+F
+
+Chaumont, Haute-Marne, France
+
+Brest, Belarus
+
+Recovered temporarily in Rouen, France; lost en route to local containment.
+
+SCP-1791-C
+
+██/██/1970
+
+M
+
+Kadena, Okinawa, Japan
+
+Johannesburg, South Africa
+
+Dizygotic twin of SCP-1791-D
+
+SCP-1791-D
+
+██/██/1970
+
+M
+
+Kadena, Okinawa, Japan
+
+Ward, SC, USA
+
+Dizygotic twin of SCP-1791-C
+
+SCP-1791-E
+
+██/██/1910
+
+F
+
+Olongapo, Zambales, Phillipines
+
+Adelaide, Australia
+
+SCP-1791-F
+
+██/██/1996
+
+M
+
+Ramstein-Miesenbach, Germany
+
+Bagram, Afghanistan
+
+SCP-1791-G
+
+██/██/1962
+
+F
+
+Yigo, Guam
+
+Vancouver, British Columbia, Canada
+
+SCP-1791-H
+
+██/██/1984
+
+M
+
+Washington, District of Columbia, USA
+
+Albany, NY, USA
+
+Full sibling of SCP-1791-J
+
+SCP-1791-J
+
+██/██/1982
+
+F
+
+Washington, District of Columbia, USA
+
+Gunsan, Jeollabuk-do, South Korea
+
+Full sibling of SCP-1791-H
+
+2. The collection may include grooming artifacts, clothing, appliances, furniture, distinctive architectural features of a particular residence (such as wallpaper or molding), pets, and potentially humanoid entities (see Addendum 14.3.07.a).
+
+3. Chambers are numbered from terminus (0) to the most recent.

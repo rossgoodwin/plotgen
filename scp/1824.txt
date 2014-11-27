@@ -1,0 +1,103 @@
+SCP-1824 in [REDACTED].
+
+Item #: SCP-1824
+
+Object Class: Keter
+
+Special Containment Procedures: Early identification (prior to the Expansion State) of SCP-1824 remains a top priority in containment of the phenomenon. Personnel are to monitor the United States economy and investigate any localized significant recession.
+
+A series of Foundation vehicles are to patrol the areas vulnerable to SCP-1824 and obtain comprehensive photographic data on every ground level exterior vertical surface therein. In addition, similar imaging programs utilized by online mapping agencies, as well as the FBI and NSA are to be tapped and added to the data pool. This information is to be processed by a graphic analysis program capable of isolating and identifying the designs congruent with SCP-1824.
+
+Should SCP-1824 be discovered, the Foundation is to designate SCP-1824-1 as biologically or chemically-contaminated, then evacuate all individuals that inhabit the area. Evacuated individuals are to be housed at Foundation-controlled temporary housing until the manifestation has ended. Should SCP-1824 enter the Expansion State and total evacuation has not yet been achieved, a gas vein explosion is to be emulated to expedite this process. Due to the highly public nature of SCP-1824, standard media blackout procedures are to be applied.
+
+Description: SCP-1824 is a phenomenon manifesting as a graffiti design comprised of red, black, and white spray-paint. SCP-1824 has thus far only made its initial appearance in urban environments with a population density of 14,000/km2 or higher in the contiguous United States. The graffiti always manifests on ground level surfaces that are vertical or very nearly vertical. Designs produced by SCP-1824 are consistent in that they always feature a winged female humanoid, and possess a size of 1m x 1m or greater. Removing or obscuring the graffiti does not prevent or alter SCP-1824's effects.
+
+All individuals that reside within the effective range of SCP-1824 (this area is hereafter referred to as SCP-1824-1 and possesses an initial radius of roughly 50 meters) will demonstrate a pessimistic attitude towards the economy and their own financial situation. This effect will result inevitably in financial retention, and steadily worsen the economy of SCP-1824-1. Due to this, crime rates and the standard of living in said area will increase and decrease respectively.
+
+After a period of approximately 45-47 days after SCP-1824's initial appearance, the phenomenon will begin to increase the effective range of SCP-1824-1 by 2-3 meters every 24 hours (this has since been designated the "Expansion State"). This is marked by the appearance of additional graffiti of the same design in the extended area. This growth will continue until all available area with a population density of approximately 7,000/km2 or greater is affected. It does not appear that SCP-1824 can expand through areas with a population density lower than 7,000/km2, though once manifested, it will persist in SCP-1824-1 until the area is fully depopulated.
+
+Each individual manifestation of SCP-1824 appears to abate only when SCP-1824-1 is completely devoid of human habitation. SCP-1824 has not been observed to generate multiple manifestations simultaneously, and occurrences are approximately 14-23 months apart.
+
+Addendum [1824-001]: Additional Documentation
+
++ DOCUMENT-SCP-1824-P (CLEARANCE 4/1824 REQUIRED)
+
+- DOCUMENT-SCP-1824-P (IDENTIFY VERIFIED)
+
+THE FOLLOWING FILE HAS BEEN EXPUNGED FROM FOUNDATION GENERAL RECORDS BY O5 MANDATE.
+
+Item #: SCP-███
+
+Object Class: Safe Neutralized
+
+Special Containment Procedures: SCP-███ is currently housed in a standard humanoid containment cell at Site-19. Standard humanoid feeding regimens are to be maintained. SCP-███-1 is kept in a standard containment locker. Interaction with SCP-███ or SCP-███-1 requires the approval of a Level 3 or higher researcher.
+
+SCP-███ is currently neutralized and does not require active containment protocols.
+
+Description: Moved to Site-19 after being recovered from ███ ████ ████, ███ in 198█. SCP-███ is a Caucasian humanoid measuring 1.8 meters tall with a mass of 78kg. It appears to be roughly 56-59 years old, and possesses shoulder-length white hair. The entity is garbed in an assortment of damaged clothing and rags, mainly comprised of cotton and leather. Its appearance demonstrates significant signs of labored living conditions, though this is typically in contrast with SCP-███'s disposition, which is pleasant and compassionate. SCP-███ will generally engage with Foundation staff without aggravation or annoyance, and is largely cooperative with staff directions. The entity often requests for its release, though it does not proceed on this subject in an aggressive manner. SCP-███ does not display any anomalous properties when separated from SCP-███-1.
+
+SCP-███-1 is an unmarked gray spray-paint can of unknown make and model. All attempts to open or breach the exterior of the object have failed; it is currently unclear whether or not it is indestructible. SCP-███-1 will not function properly if used by any individual other than SCP-███. If used by SCP-███, it will demonstrate an apparently unlimited capacity of spray-paint, which is produced in 3 known colors: red, black, and white. SCP-███ will use SCP-███-1 to create designs featuring winged female humanoids, and will typically produce these designs on public vertical surfaces.
+
+Should SCP-███ use SCP-███-1 to create such a design, an indeterminate area surrounding it (currently believed to have a radius of approximately 50 meters) will be subject to the entity's primary anomalous effect. All individuals who reside in this area will experience unnaturally fortunate probabilities regarding finances. The exact mechanism of this anomaly remains poorly documented, though the subjects will consistently return positive results on all financial ventures or career opportunities. Obscuring or destroying the designs is confirmed to terminate the phenomenon.
+
+Addendum [███-001]: Interview Log
+
+Interviewer: Dr. Brian Anborough
+
+Interviewed: SCP-███
+
+Foreword: Third interview with entity.
+
+<Begin Log, 4:43 PM, ██/██/198█>
+
+SCP-███: Would you release me, please?
+
+Dr. Anborough: I'm afraid I can't do that.
+
+SCP-███: Unfortunate.
+
+Dr. Anborough: SCP-███, you have thus far declined all inquiries about your origin, is there anything you would care to elaborate on?
+
+SCP-███: Nothing that interesting.
+
+Dr. Anborough: Not even a name?
+
+SCP-███: Do you have one?
+
+Dr. Anborough: Brian.
+
+SCP-███: A nice name. A name is as much a person as the letters are that make it.
+
+Dr. Anborough: What about a family?
+
+SCP-███: …Yes, my mother.
+
+Dr. Anborough: No siblings? Children?
+
+SCP-███: No. You?
+
+Dr. Anborough: A son.
+
+SCP-███: That's wonderful. How is he?
+
+Dr. Anborough: He's a [EXPLETIVE REDACTED] pain in the ass. Where is your mother?
+
+SCP-███: …Above.
+
+Dr. Anborough: Do you have anything else to add?
+
+SCP-███: She is hurt. A lot. The world hurt her; she never owned more than just enough food to feed us. She was angry at the world for a very long time. But I asked her to forgive and she said she would do it…for me. She would do anything for me. She gave me it before she died so I could forgive in her place.
+
+Dr. Anborough: It? SCP-███-1?
+
+SCP-███: Yes.
+
+Dr. Anborough: Forgive who?
+
+SCP-███: Whom. Everyone.
+
+<End Log, 4:47 PM, ██/██/198█>
+
+Addendum [███-002]: Neutralization Log
+
+On ██/██/198█ at 7:28 AM, SCP-███ was accidentally killed by Foundation personnel during a containment breach by SCP-███. Dr. Brian Anborough was killed during the same incident. Within 5 hours of its death, SCP-███'s body had disintegrated, leaving behind a patch of spray-paint similar to one of SCP-███-1's designs. The image detailed a male winged humanoid with shoulder-length black hair. SCP-███-1 ceased to demonstrate anomalous properties after the incident and was destroyed. Reclassified to Neutralized.

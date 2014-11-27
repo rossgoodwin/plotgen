@@ -1,0 +1,231 @@
+Immediate aftermath of active state on ██-██-2003
+
+Item #: SCP-2039
+
+Object Class: Euclid
+
+Special Containment Procedures: Presently, Foundation efforts at Research Facility-2039 are focused on two fronts: prevention/minimization of collateral damage to the area outside the valley, and analysis of the phenomenon's history and behavior.
+
+Containment assets stationed at Research Facility-2039 have been given the primary directive of containing - or neutralizing the possibility of - any collateral damage caused by SCP-2039 during an active state. This team has been given the secondary objective of monitoring the perimeter of the valley, to ensure that no civilians enter the area. During an active state, if personnel determine that the potential for collateral damage extends beyond the valley, the containment team will be mobilized. Direct elimination of subjects has proven impossible thus far; currently, subjects are only capable of physical harm through direct confrontation with other subjects. Operatives will therefore focus their efforts on disarming subjects, to neutralize the threat of further collateral damage.
+
+The long-term goal of the staff at Research Facilty-2039 is to discover a method with which to neutralize the phenomenon. To this end, Foundation sociologist/physician Dr. Wilkes has been selected to act as an undercover liaison between SCP-2039 and the Foundation. Dr. Wilkes has been able to gather information on both groups' histories, as well as the nature of the phenomenon itself, by performing periodic house calls for both groups under the guise of a local physician. Due to the subjects' sedentary history and apparent inability to exit the valley alive, researchers currently believe that subjects will not attempt to leave the area. However, the potential for collateral damage - should SCP-2039 become capable of leaving the valley - has been deemed too high to dismiss as a possibility. Therefore, Mobile Task Forces across the region have been briefed on the nature of SCP-2039, to assist local assets with capture and restraint of subjects should it become necessary.
+
+Description: SCP-2039 collectively refers to two distinct families of humans residing in a mountainous area near ████, North Carolina. The groups currently reside on opposite sides of a tributary that runs between two small, forested mountains. The predominant cultures and behaviors exhibited among SCP-2039 are typical of families who resided in the southeastern United States during the early 20th century; each family produces its own sustenance through hunting and basic agriculture, using weapons and tools indicative of the era. Subjects from opposing families are generally unfriendly towards the other, but rarely ever initiate direct conflict unless provoked. During interviews, subjects from both groups claim that their families have been in this state of incivility for as long as they can remember; however, most accounts of the feud's origins are either wildly inconsistent or extremely vague (with the exception of the explanation given by SCP-2039-P01; see Interview Log 2039-P01-19 for details).
+
+Since the Foundation's discovery of SCP-2039 in 1904, none of the subjects have shown any signs of physical aging, nor have they ever attempted to leave the valley in which they reside. Attempts to remove subjects from the area by force have been met with extreme distress and violence, followed by cardiac arrest and death. Subjects remain deceased until returned to the area, where they will awaken at the end of the next active state. Researchers theorize that, until a solution is found, the phenomena associated with SCP-2039 will continue indefinitely.
+
+SCP-2039-P01, at its residence, circa 1943
+
+SCP-2039-P refers to the "Pike" family, located on the southern mountain. This group consists of thirty-six individuals of varying age who reside in a number of small shacks and cabins scattered along the hillside. The group has no apparent chain of command, but all SCP-2039-P subjects generally defer to the instructions and advice of a certain elder member of the group (designated SCP-2039-P01). SCP-2039-P01 is a white female who appears to be between the ages of 50-75 years old. Subject claims its name is Dixie Mabel Pike, and prefers to be addressed by its given middle name, "Mabel".
+
+SCP-2039-W01, circa 1913
+
+SCP-2039-W refers to the "Wagner" family located on the northern mountain. Unlike SCP-2039-P, the twenty-nine subjects that comprise SCP-2039-W reside together in one large plantation-style home built into the hillside. SCP-2039-W also seem to have a designated leader (SCP-2039-W01), a white male who appears to be between the ages of 60-80 years old. SCP-2039-W01 claims its name is Blaine Randolph Wagner, and prefers the name "Blaine".
+
+Occasionally, subjects from either group will enter an active state, characterized by violent tendencies and a compulsion to harm/murder all opposing subjects. A subject will only enter an active state if it believes that one of its family members has been harmed or threatened by a subject from the opposing group. Once this occurs, the subject becomes extremely agitated and hostile, and will immediately seek out other subjects from its group, causing them to enter active states as well. Once the majority of the group has become active, they will begin gathering weapons and tools from their homes, with the intent to engage in direct conflict with the opposing group. From this point on, these weapons and tools are collectively designated SCP-2039-A.
+
+SCP-2039-A instances vary from one active state to the next; however, the level of technology demonstrated by these objects is usually anachronistic to the time period to which SCP-2039 adheres, and they frequently exhibit anomalous properties. Regardless of the nature of the weapons, subjects will always have full working knowledge of their operation. It is unknown from where in their homes subjects obtain instances of SCP-2039-A, or how they gain the knowledge required to operate the objects. Attempts at direct observation inside of these residences during an active state are inevitably met with extreme hostility and violence. (See SCP-2039-A Partial Log for selected examples)
+
++ SCP-2039-A Partial Log
+
+- hide
+
+SCP-2039-A Partial Log
+
+Date of observed active state
+
+SCP-2039-A objects acquired
+
+Notes
+
+██-██-1910
+
+Winchester Model 1912 pump-action shotguns and M1917 Enfield rifles, modified with M1917 bayonets; British "Mills bombs" (a type of grenade)
+
+Notable for being weapons of choice for Allied trench soldiers during World War One, seven years later.
+
+██-██-1932
+
+Slings, consisting of either flax or hemp
+
+Subjects used various small objects as projectiles, including stones, small pieces of wood, chicken eggs, pieces of cow manure, twist-off crown cork bottle caps (circa 1963), lead sling bullets (with the inscription "ζωόφιλος" engraved on one side)
+
+██-██-1971
+
+Aerosol cans which spray a substance visually identical to Wham-O brand Silly String; cans are labelled "Solid String"
+
+When substance comes into contact with a physical object, it rapidly expands to approximately twenty-five times its normal volume, and becomes as hard and dense as concrete. Most deaths during this active state were caused by suffocation and massive esophageal rupture.
+
+██-██-1977
+
+Objects resembling handheld satellite dishes; when activated, [REDACTED]
+
+Object capable of completely dehydrating a human body in approximately forty-five seconds, from a range of up to 150m.
+
+██-██-1987
+
+3L capacity Super-Soaker brand water guns
+
+Subjects use SCP-A instances as simple - but effective - bludgeon weapons, after realizing that they are merely filled with water.
+
+██-██-2003
+
+3L capacity Super-Soaker brand water guns
+
+Objects are physically identical to SCP-2039-A instances from ██-██-1987, however they are now filled with military-standard napalm B.
+
+██-██-2010
+
+MGM-140 ATacMS surface-to-surface missiles
+
+SCP-2039-W becomes active; all instances retreat into main residence instead of advancing southward. Entire front face of house is demolished from the inside, revealing an M270A1 Multiple Launch Rocket System. Local containment assets are immediately mobilized, using localized EMP weapons to disable electronic targeting and launch systems. Subjects advance southward, and proceed to engage SCP-2039-P in hand-to-hand combat. Missiles are later discovered to contain nuclear payloads.
+
+██-██-2013
+
+Thick woolen gloves which [DATA EXPUNGED]
+
+Once active state ends, remaining subjects discard gloves into river, where they dissolve into an opaque black liquid. Subsequent testing of water reveals [DATA EXPUNGED].
+
+Once the active subjects have retrieved SCP-2039-A, they will advance towards the opposing group's residence, using the objects to attack all opposing subjects. This initial assault will cause the opposing subjects to also enter active states, at which point they will procure their own instances of SCP-2039-A, and begin retaliating. If a subject is disarmed at any point, it will continue the assault unarmed, attempting to eliminate other subjects through hand-to-hand combat. The conflict will continue until either SCP-2039-P or SCP-2039-W is completely eliminated (including SCP-2039-P01 and SCP-2039-W01). Once this is accomplished, remaining subjects will retreat into their respective homes and fall asleep, regardless of the time of day.
+
+After a dormancy period of 12-36 hours, all instances of SCP-2039-A will vanish, all collateral damage caused by SCP-2039 within the valley will instantly be repaired, and all subjects (living and deceased) will awaken, completely devoid of injury. The subjects will then resume their daily routines and activities, behaving as if no conflict has taken place. Interviews conducted immediately after an active state reveal that subjects retain no memory of the conflict, with the exception of SCP-2039-P01 and SCP-2039-W01, who apparently retain the memory of every active state since the phenomenon's inception.
+
++ Interview Log 2039-P01-19
+
+-hide
+
+Interview Log 2039-P01-19
+
+Interviewer: Dr. B████ Wilkes
+
+Interviewed: SCP-2039-P01 "Mabel Pike"
+
+Note: This informal interview takes place in the residence of SCP-2039-P01, during one of Dr. Wilkes's undercover house calls. Three operatives are stationed in the forest nearby, in case extraction is needed. Through multiple visits and conversations, SCP-2039-P01 has grown comfortable enough with Dr. Wilkes to reveal the nature of SCP-2039 (see Interview Log 2039-P01-15). The purpose of Wilkes's line of questioning during this visit is to determine the origins of the SCP-2039 phenomenon.
+
+[IRRELEVANT DIALOGUE EXPUNGED]
+
+Wilkes: So Mabel, what started this conflict with the Wagners?
+
+P01: [subject sighs] You're gonna have to be a little more specific, dear.
+
+Wilkes: What do you mean?
+
+P01: Well, you know damn well what I mean. Which conflict are we talkin' about? The one where them Wagner twins burned down Sal's hay shed? Or that time where Blaine Wagner hisself killed three of our dairy cows just for spite? Or maybe you mean the time Judy found Arvil Wagner with a chicken-
+
+Wilkes: -I'm sorry, I mean in general. The way you describe it all, seems to me that this feud has been going on for a very long time. What started it all those years ago?
+
+P01: Aww doc, you don't wanna hear about all that mess. It's such a long story, and you must be a busy man.
+
+Wilkes: You're my last house call of the day, dear. I've got nothing but time if you want to talk about it. And people say I'm a pretty sharp guy; I might be able to help with this "cycle" you told me about.
+
+P01: Well, I doubt that, sweetheart; but if you really wanna know, I'll tell you what I can recall. [subject closes its eyes for about ninety seconds, sighs deeply, then begins] Blaine Wagner and me used to be real close, back when we was kids. Thick as thieves, they called us. And for good reason. Our families used to call us "the Wild Bunch", after Butch Cassidy's old gang; we had a knack for snaggin' all sorts of sweets and whatnots from our neighbors around the valley.
+
+Wilkes: Sounds like you two were as close as family.
+
+P01: Well, what's family, really? The people you share blood with? Or the people you grow up with, eat dinner with, steal candy with, wade through shit with? So, yes. Blaine was my brother. Closest thing to a brother I ever had, anyway.
+
+Wilkes: So what happened that drove you both to hate each other so much?
+
+P01: When we was in our twenties, I met a girl, a blonde little spitfire named Lucy. Gracious, we loved each other likes soil loves water. Now back then, they'd all but lynch girls who fancied other girls, so we had to keep it to ourselves. I was so scared, I didn't even tell Blaine about her. In the end, I didn't have to anyways, I guess. Some of them Bolick boys caught sight of me and Lucy holding hands walkin' home one day; I thought they must've ran their ignorant mouths to Blaine. Couple days later, Lucy had invited me over for a picnic lunch while her pappy was at work. Found Blaine standing over her body, holdin' a Smith & Wesson. [subject remains silent for twenty seconds] I remember thinking how pretty she was with red hair. [silence for another thirty seconds]
+
+Wilkes: What happened between you two after that?
+
+P01: Well I was pretty damn upset, to put it lightly. I swore I'd never have anything to do with that murderin' sumbitch ever again. Never even let him try to explain what happened. Years went by, I ended up settlin' down with one of them Pike boys, Walter. We had a bunch of kids and grandkids, had a farm and whatnot, but it wasn't love, not really. I never went a whole night without dreaming of Lucy's pretty face covered in her own blood. And livin' right across the river from the bastard that shot her just about drove me crazy. I never did really tell anyone what happened between me 'n Blaine. All they knew was that ol' Mister Wagner did something really awful, and so we hated each other.
+
+Wilkes: Did it get violent?
+
+P01: For a good while, no. There was an occasional scuffle over some crops, or a couple of harsh words thrown across the river, but nothin' violent.
+
+Wilkes: So when did it become more than shouting matches?
+
+P01: Well, after Walt passed, I went to a real dark place. Started dreamin' of ways to make Blaine pay for the miserable life I'd lived since he murdered my Lucy. It's all I thought about for a couple years there. It was about that time I got a visit from the gray-eyed man.
+
+Wilkes: Gray-eyed man?
+
+P01: Yessir. Eyes as gray as a thundercloud. Said he was some kind of collector, or storyteller or somethin'. Said he loved a good tale and asked if I knew what actually happened to Lucy way back when.
+
+Wilkes: Do you remember anything else about him?
+
+P01: Nothin' particular comes to mind. He was pretty ordinary, except for them eyes. I do remember how he got this hungry look in his eyes as I was tellin' him about Lucy.
+
+Wilkes: What did you talk about?
+
+P01: Well, I ended up pouring out my whole life on him, just like I did you, and he just sat there, drinkin' it all in like honey. I told him how Blaine Wagner was the cause of all my heartache and misery. He took it all in, and then he said something very strange, I'll never forget it. He said, "Mabel, I want to help you finish this story." I asked what the hell he was talkin' about, and he says, "I want to give you the tools to punish Blaine Wagner forever."
+
+Wilkes: Strange. What did he mean by that?
+
+P01: At the time, I really had no idea; I thought he was gonna try to sell me somethin', you know? Like them snake-oil people from up North?
+
+Wilkes: So how did you respond to this offer?
+
+P01: Like I said, I was in a real dark place. I would've sold my soul to get back at Blaine. So, I asked the gray-eyed man what he wanted from me. He said, "I don't want anything from you, Mabel. I just want to give you an end to the story. A 'forever after', if you will." I told him that sounded exactly like what I needed, and we shook hands. Never saw him again after that. [subject begins to look distressed and distant]
+
+Wilkes: I'm sorry if this too upsetting right now, we can talk later if you want.
+
+P01: No, B████. I'll be alright. Remembering that man's eyes just gives me the willies, is all. Sorry.
+
+Wilkes: It's perfectly alright. So what happened next?
+
+P01: Right. So, a couple days later, one of my youngest, Gerry, comes home screamin' and hollerin' about something them Wagners did. Wasn't long until the whole family was up in arms, passin' out torches and rifles. I tried to shut 'em up and figure out what happened, but they wouldn't hear none of it. [subject's speech becomes slower and more deliberate] I could see it in their eyes, this hungry look; the same look I got from that storyteller man. They was out for blood. I watched from my front porch while they stampeded across the valley like bulls in a thunderstorm, straight towards the Wagner place. I could hear the guns and screamin' from all the way over here. I watched that house go up in flames, could hear some of the Wagner grandkids squealing like pigs while they burned, even from that far away. You read the Bible, B████?
+
+Wilkes: On occasion.
+
+P01: In the book of Matthew, Jesus said somethin' about people being thrown out of the kingdom, and into darkness, where there was all sorts of weepin' and wailin' and gnashin' of teeth.1 That's what I heard that night, B████. Hell. Plain and simple. [subject remains silent for about two minutes]
+
+Wilkes: That's awful, Mabel. I can't imagine how you must have felt.
+
+P01: Aw, doc. Look at me, gettin' all dramatic with this hellfire and brimstone nonsense. Anyway, I don't remember faintin', but I do remember waking up in my bed the next day. It was like nothin' ever happened. There were no guns, nobody was hurt, nobody was mad or screamin'. Hell, even the Wagner place was still there, like it forgot that it was s'posed to be on fire. I was startin' to think it really was just a bad dream, until Blaine Wagner himself ran up to my house, screamin', "Mabel, what in God's name did you do? What the hell happened last night?" He had this terrified look in his eyes; he looked like a man possessed. My boys thought he'd gone nutty, so they chased him back across the river. I heard him scream, "You will answer for this, Mabel Pike; this story is far from over!" before they ran him off. I honestly didn't know what I had to answer for. I didn't think any of that hogwash the gray-eyed man had said actually held any weight, but I guess I was wrong.
+
+Wilkes: So, when did Mr. Wagner first retaliate?
+
+P01: Well, I wouldn't really call it "retaliation." I don't think Blaine actually had anything to do with what happened next. All I know is, about a week later, me 'n Ezekial were canning some beans, when all of a sudden Zeke just drops out of his chair, a long black arrow stickin' out of both sides of his neck. That's when I saw a horde of Wagners runnin' out of the woods, carrying some real funny-lookin' bows with these little pulleys on the ends, screaming and shooting thin black arrows with shiny metal tips every which way.
+
+Wilkes: The Wagners were attacking your family?
+
+P01: The way they were screamin' reminded my of how my family sounded when they burned down the Wagners' house. I didn't hear a whole lot of it, though. One of 'em managed to sink an arrow right here in my leg, and it - pardon the expression - dropped me like a horse turd. The last thing I remember seeing was Arvil Wagner standing over me, starin' straight into my soul. And then he spoke to me.
+
+Wilkes: What did he say?
+
+P01: "The end." Then he drew back on that bow, and everything went black. I woke up in my bed, just like before. Zeke was just fine, sitting outside cannin' beans. No arrows. No Wagners. Just like before.
+
+Wilkes: My god, Mabel. Does-
+
+P01: [ignoring Dr. Wilkes] -Just like every time since. Just like every time forever. [visibly distressed] Oh God. Forever. The storyteller man said forever.
+
+Wilkes: We can stop now, Mabel. It's okay.
+
+P01: [more and more distressed] No, B████. Forever! He said forever! I'm gonna keep dying forever! Oh God, Lucy I'm so sorry!
+
+[At this point, subject's distress becomes audible outside the room, attracting the attention of SCP-2039-P27, subject's grandson/caretaker]
+
+SCP-2039-P27: Granny Mabel, what's going on? Is he bothering you?
+
+Wilkes: No, Zeke. Everything's fine, Mabel just got a little excited, see? We were just talking. Nothing is-
+
+P01: [subject is in hysterics] Their eyes were gray! Oh God, Arvil's eyes were gray! They were hungry and gray! All their eyes were gray! Oh God Lucy why're they all gray?
+
+P27: What the hell did you do, huh? Did Blaine Wagner send you here?
+
+Wilkes: Zeke, please calm down, it's me, Dr. Wilkes! We're just talking-
+
+P27: -Them bastard Wagner pieces of shit sent you here, huh? You think you're just gonna come in here and hurt my family, doc? We'll see about that! [subject exits room, presumably entering an active state.]
+
+Wilkes: [quickly exits room] Come in, exit team. Pike-Two-Seven has gone active. I need extraction, now.
+
+P01: Therefore by their fruits ye shall know them!2
+
+P27: Where is that sumbitch?
+
+P01: We will be punished with everlasting destruction and shut out from the presence of the Lord and from the glory of his might!3
+
+At this point, Dr. Wilkes quickly exits the cabin, followed closely by SCP-2039-P27, who is wielding SCP-2039-A, which appears to be a 12-gauge shotgun. Shots are fired, revealing that the shells in the weapon are loaded with dozens of metallic flechettes, which quickly liquefy upon impact (flechettes are presumably comprised of solid mercury). By the time operatives extract Dr. Wilkes (with only minor injuries), all SCP-2039-P subjects in the vicinity have entered an active state and have acquired their own instances of SCP-2039-A; subjects begin advancing northward, toward the main residence of SCP-2039-W. Active state proceeds as normal.
+
+Note: All attempts by Dr. Wilkes to gather similar information from SCP-2039-W01 have been unsuccessful; when questioned about the feud's origins, the subject becomes defensive and hostile. However, audio surveillance of the house occupied by SCP-2039-W reveals that SCP-2039-W01 suffers from frequent night terrors. The most frequently-spoken words during these episodes include "Lucy" and "ever after". Foundation historians are currently investigating local records to determine the identity of the "storyteller" described by SCP-2039-P01, but have made no progress.
+
+Footnotes
+
+1. Christian Bible, Matthew 8:12
+
+2. Christian Bible, Matthew 7:20
+
+3. Christian Bible, 2 Thessalonians 1:9

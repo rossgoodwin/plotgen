@@ -1,0 +1,45 @@
+SCP-1275 while inert, taken 05/02/2004
+
+Item #: SCP-1275
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1275 is held at Containment Area 43, located in the Gobi Desert. It is to be contained inside a hollow 750 cm tungsten cube filled with an electrified tungsten wire lattice dividing the space into cubic millimeter sections. The remaining space is to be continually filled from the bottom of the box with lead maintained at 1200°C. The primary containment chamber is to be blast rated for pressures up to 200 kPa, with a secondary external chamber rated for up to 1500 kPa. Three blast shielded monitoring stations positioned equidistant around the perimeter from the station at 10km are to be kept staffed and on alert at all times.
+
+SCP-1275 is to be constantly monitored via sonar, video feed, and the experimental Salzmann device. Any notable changes in object size or behavior to be immediately reported to the Head Researcher and Security Department to prepare to resist any potential hostile forces, entities, or objects that may emerge from within SCP-1275. In the case of a full containment breach a perimeter is to be established, and a 30km radius is to be monitored via motion sensor and sonar to speed recontainment.
+
+Task forces assigned to recontainment of SCP-1275 are to approach with the greatest caution, and to take defensive measures at any sign of an emergence. Under no circumstances may personnel approach within 30m of SCP-1275 if it is loose. Recontainment will be accomplished via specialized capture netting, delivered by air. Personnel in the process of being enveloped by SCP-1275 should be terminated if possible unless otherwise authorized by Level 4 personnel.
+
+Description: SCP-1275 is a fluid amorphous entity of variable volume, shape, color, and opacity. Observed volumes of material composing the entity have ranged from ~1 cm³ minimum to a maximum of ~30 m³. It is affected by gravity and cannot pass through solid materials, yet registers no weight on instruments regardless of its current size. Parts separated from the main body appear to flow extradimensionally back to it, making sample tests unfeasible. It is not chemically reactive, shows no changes with variations in temperature, is not electrically conductive, and returns no tactile sensation. Due to these properties, SCP-1275 is theorized not to exist fully within the material world.
+
+The entity is capable of forming itself into any shape, including flattening to ~.01mm thickness(minimum observed), spooling into a threaded form, or taking on the shape, color, and opacity of objects around it. If free, it attempts to envelop objects such as classified documents, SCP artifacts or Foundation personnel. Upon enveloping an object it will turn opaque and rapidly decrease in size, while the object enveloped will disappear from the inside. On occasion it will attempt to disgorge explosives, weaponry, anomalous objects, and hostile agents in order to breach its containment.
+
+Observed behavior patterns indicate it to be intelligent and/or controlled by an outside intelligence. It has proven capable of breaching all but the most stringent of security measures, pressing its way through minor flaws in seals thought to be air and/or water tight, moving through air ducts and electrical systems, under carpet or tile, or flowing slowly through loose material such as dirt or sand. It attempts to avoid observation by blending in with its surroundings and remaining motionless. If noticed, it will move quickly and attempt to envelop personnel before they can raise an alarm.
+
+Objects and personnel enveloped were originally believed to be consumed, digested, and converted into energy. However, its capacity for flowing back to itself when separated and the emergence of objects suggests that it may have a second section elsewhere in the world that it moves portions of itself between. This would account for its fluctuations in volume and the disappearance of objects from within it. If this is the case, then the entity appears unable to pull the portion of itself held by the Foundation through to the other side. It is theorized that either this is the primary half, or that it naturally has a divided existence.
+
+Attempts to intentionally send equipment back through SCP-1275 have failed; objects the entity does not wish to transport remain even if forcibly inserted. Evidence strongly suggests that the entity sides with or is controlled by a hostile organization, and that they are attempting to retrieve it. Due to the potential for theft of SCP artifacts and personnel, this is to be prevented by any means necessary.
+
+Recovery Log SCP-1275:
+
+08/15/2003: Still-frame analysis systems at Site-76 monitoring camera feeds outside SCP-███'s containment chamber found irregularities between frames and proceeded to initiate a lockdown of the area. Upon close examination, a small fluid object appeared to be attempting to enter SCP-███'s containment cell. A security team was dispatched to investigate, resulting in the loss of all three members. Containment attempts resulted in the loss of a further seven security personnel and two agents before it could be brought under control.
+
+Upon further investigation and analysis of incidents at other Foundation sites it was found that SCP-1275 attempts to infiltrate facilities, locate objects or personnel of value to the Foundation, envelop them, and cause them to disappear. It was proven to be responsible for the previously unexplained loss of SCP-███, SCP-███, SCP-████, SCP-████, SCP-████, and SCP-████. It is suspected in the disappearance/theft of seventeen other objects and entities from ten different facilities over a span of eighteen years, and the known loss of forty-nine personnel to date.
+
+To date too little data has been recovered to establish a definite link to any specific group. Research attempts are to be targeted at establishing a direct connection to an organization, for the attempted retrieval of lost artifacts and personnel.
+
+Incident Log SCP-1275:
+
+08/15/2003: The entity repeatedly attempted to breach containment for a period of eight months using its abilities with varying levels of success, causing loss of personnel and equipment. Initial containment procedures were developed at this time. After this it went inactive and remained inert.
+
+08/27/2004: The entity began rapidly disgorging high energy explosives in all directions, causing serious damage to the facility, though apparently none to itself. It renewed its attempts at containment breach, all of which were prevented. After containment was re-established, SCP-1275 was moved to a new facility and put into a reinforced containment cell.
+
+10/10/2004: Explosives were disgorged in rapid succession, followed by visual surveillance equipment, transmitters, and anomalous objects (now classified as SCP-████ and SCP-████) which were harmful to the containment cell walls and personnel on-site. Internal breach efforts by SCP-1275 resulted in the loss of 21 personnel before containment could be fully re-established.
+
+10/12/2004: An unknown hostile retrieval team was intercepted attempting to reach SCP-1275's location, but escaped without casualties. Containment site was moved again and further countermeasures were put into play.
+
+03/02/2005: Hostile agents armed with anomalous weaponry emerged from within SCP-1275, and rapidly attempted to set up a base of operations within the containment cell. An attack was initiated against Foundation personnel. Containment on SCP-1275 was breached shortly thereafter. Mobile Task Forces were sent in to engage and recover the object. After a prolonged engagement, the enemy agents retreated into SCP-1275.
+
+05/29/2005: Containment was established at its present location with the current procedures. The mesh grid has prevented SCP-1275 from producing objects large enough to be capable of breaching its containment. The lead and electric current have prevented transmitters from signaling its location, and destroyed the majority of objects that have been sent through before they could fulfill their intended purpose.
+
+The possible emergence of anomalous objects capable of breaching containment cannot be ignored. Plans to deal with various scenarios are being devised by staff on site.

@@ -1,0 +1,17 @@
+SCP-880
+
+Item #: SCP-880
+
+Object Class: Euclid
+
+Special Containment Procedures: A perimeter has been established 5 kilometres from the edge of SCP-880, and non-authorized personnel entering this area are to be detained, questioned, and issued Class-A amnesiacs. Several observation outposts have been constructed in the surrounding area to provide overwatch and to alert perimeter patrols should civilians be approaching. Due to the domicile nature of the effect surrounding SCP-880, the airspace within an 8 kilometre radius has been declared unsafe for flying, with corresponding cover plan ██████-███.
+
+Description: SCP-880 is a town established in Quebec, Canada. Various signs and documents found within SCP-880 list the town's name as ██████ █████, founded in 18██. Retrieved pieces of [REDACTED] and [REDACTED] within SCP-880 support 19██ as the date which it was abandoned. A census (document 880-18) found within the city hall lists the population as █████. SCP-880 has an observed effect extending to ██ kilometres, covering [REDACTED]. All roads and entrances into SCP-880 have been removed or altered so that they join with existing roadway outside of SCP-880.
+
+SCP-880 exhibits several abnormal characteristics, most notably what appears to be a nearly constant blizzard, breaking for an average of 1-2 hours daily. Analysis of this event has determined SCP-880 experiences no snowfall, and intense winds have produced various squalls which cause the illusion of a blizzard. Despite the potential of snow drifts within SCP-880, no level of snow deeper than sixteen (16) centimetres has been found within SCP-880 or in the surrounding area. Anything entering SCP-880 during a storm or within when a storm begins has so far proven to be irrevocably lost, despite extensive search and rescue efforts. GPS location fails shortly after a storm begins, transmission and rescue lines are cut, and radio communication becomes impossible due to overwhelming interference. Current tallies set the number of personnel lost to SCP-880 at 32.
+
+Despite lack of occupation, SCP-880's structures have not shown any sign of decay in the years which they have been monitored by the Foundation. Items discovered within SCP-880 occasionally have large temperature variances compared to their surroundings; similarly, they show no evidence of colonization by microorganisms. Fireplaces will have glowing charcoal remains present within them, and food left in the open will not rot. This effect appears only limited to SCP-880, and after removal objects are subject to being damaged and to experiencing decay.
+
+Addendum-880-1: On date 11/09/19██, the second team (see file C-E8802) to attempt exploration of SCP-880 was lost when an unexpected storm began surrounding SCP-880. Although recovery failed, a line being used to track the team had been sliced on the edge of the storm, and analysis of the frayed end showed evidence of glass shavings within the wire.
+
+Addendum-880-2: Since initial recovery by the Foundation, the census of SCP-880 has increased by 32.

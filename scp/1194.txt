@@ -1,0 +1,49 @@
+SCP-1194-1.
+
+A contained specimen of SCP-1194-2.
+
+Item #: SCP-1194
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1194-1 is to be kept in a secured storage locker in Research Sector-12 when not in use. Deactivation of SCP-1194 is to be initiated through the termination of the active SCP-1194-2-T subject or, if more convenient, the SCP-1194-2 instance.
+
+Testing Chamber 13-A (a standard humanoid containment unit) and 13-B (modified to serve as a stable) are to be maintained for the purposes of experimentation involving SCP-1194. Please see Document 1194-C for extensive information on standard testing procedure.
+
+Description: SCP-1194 consists of two parts: SCP-1194-1 and SCP-1194-2.
+
+SCP-1194-1 is a small device (roughly 3 cm × 1 cm × 4 cm), consisting of a speaker attached to a pull-string (roughly 6cm of which is exposed while not being activated, with an actual length of roughly 11cm) and a plastic case; analysis of the speaker, however, shows it to have at some point been rendered inactive despite the remainder of the mechanism being functional. Upon being protracted, the string will slowly retract to its original length at a rate proportional to the length removed. When a female subject pulls the string until an additional 3cm is exposed, SCP-1194 is activated, causing the manifestation of an SCP-1194-2 instance.1 Partial retraction, or retraction by a male subject, does not have this effect.
+
+SCP-1194-2 is an organism, largely similar in physiology and morphology to an adult member of Equus ferus caballus, with an average height of 139cm. Upon the activation of SCP-1194, SCP-1194-2 will appear on the nearest suitable flat surface,2 provided such a space is present within 30 metres of the device; otherwise, activation will fail to occur. Instances have displayed various sizes, breeds and both sexes, and are notable for various biological irregularities – including the presence of betacyanins, pararosaniline and other pigments not usually found in mammals on their coats, typically causing a mild purple or pink colouration. Specimens do not synthesise or otherwise produce these chemicals, causing this colouration to fade over time.
+
+The death of an SCP-1194-2 specimen, that of the relevant SCP-1194-2-T subject, or the string of SCP-1194-1 being pulled during an active state, will cause the current instance of SCP-1194-2 to disappear. Should the lattermost situation occur, a new specimen will appear provided the conditions for this occurring are met. Upon disappearing, the volume previously occupied by the specimen will be replaced by a gas consistent in composition and density with standard tropospheric air.
+
+The following is a copy of the text found on a torn document recovered with SCP-1194-1 (see below). A section of the document has been rendered illegible. Further investigation has revealed no information regarding the object’s relation to Group of Interest "Dr. Wondertainment".
+
+Cowgirl, looks like you got your very own Wonder-Pony!TM Dr. Wondertainment’s Wonder-Pony!TM is a fun, educational toy, which will help teach any horse-loving girls things like how to take care of a sick horse, the importance of care and attention, and how to feed a horse. All without having to take care of the muck! Not only that, but your pony will provide constant companionship and friendship. You very own Real Wonder-Pony!TM can even t[SECTION DAMAGED]
+
+[…]ony!TM is the intellectual property of Dr. Wondertainment. Dr. Wondertainment assumes no responsibility for physical, mental or emotional harm caused by the misuse of Dr. Wondertainment’s Wonder Pony! TM if disassembled or otherwise damaged. Dr. Wondertainment takes no responsibility for the destruction of life created by Dr. Wondertainment, or damage caused to said life after creation. For more information, please contact the public relations department currently associated with Dr. Wondertainment.
+
+Specimens of SCP-1194-2 behave in a manner normal for a horse of their estimated age (typically four to five years, except in three – at time of writing – known cases: please refer to documentation regarding SCP-1194-2-5, -9 and -13, all of which were significantly below the average age of other specimens); several notable anatomical and physiological distinctions are, however, present:
+
+Firstly, specimens are effectively incapable of vocalisation; examination has revealed no direct cause of this, as no features of relevant tissue or mouthparts seem to function in a preventative manner. Experimentation involving the placement of specimens in situations which would cause distress has failed to provoke any vocal reaction, despite successfully doing so in the cases of normal horses.
+
+Specimens do not excrete faeces or urine, despite intaking and digesting food normally. Specimens do, however, maintain a relatively constant mass if well-fed, and will lose mass if not provided with food: how this is regulated is not currently known.
+
+Extended lack of contact with their relevant SCP-1194-2-T subject has invariably resulted in several severe symptoms occurring in SCP-1194-2 specimens, usually becoming noticeable after four days without physical contact, and substantially affecting behaviour after seven to eight. This has, in all known cases, followed the same progression: heart rate first decreasing at a constant rate, followed by the symptoms of prolonged nutrient deprivation, and the specimen behaving in a way consistent with that of horses experiencing illness and starvation. Death will occur at fourteen days – the exact cause of this is not known due to the disappearance experienced by SCP-1194-2 upon dying.
+
+The unusual pigments present within the coat of specimens will regularly (i.e., once every 3-12 months) be replaced with green cadmium dye, eventually causing acute poisoning from absorption, over several days. This process is gradual, marked by a decrease in the intensity of the previous colouration as the former pigment reduces in concentration while the cadmium increases, and typically takes two to three days to complete. While this is rarely fatal, the symptoms typically associated with exposure to the toxin manifest by the time the dye’s concentration stops increasing. Continued exposure to SCP-1194-2-T appears to lessen the severity of these symptoms, and the substance will disappear from the body of specimens over the course of several minutes under a week after initially appearing. When this occurs, the pigment previously removed will return, often to the concentration possessed during the initial manifestation of the specimen. In all instances of this occurrence, specimens have made a full recovery with provision of appropriate treatment.
+
+The casing associated with SCP-1194, at time of recovery.
+
+SCP-1194-1 was originally recovered from a house in ███████, England, after an automated search of local police files regarding the suicide of one ████████ ██████. The remains of a ceramic and plastic casing resembling a generic horse of no discernible breed, apparently broken by extreme fall damage, were also found within a metre of the object. Said casing’s interior displayed similarity to that of toys designed to accommodate pullstring speakers. Approximately 20% of the casing could not be located, and standard post-acquisition protocol was later completed.
+
+Addendum (Refer to Endoscopy Reports 1194-█ through █): Extensive analysis has demonstrated a consistent structural abnormality in the vocal folds of SCP-1194-2 specimens. Research is ongoing.
+
+Update 20██-██-██: The vivisection of SCP-1194-2-█6, -█7 and -█8 has revealed their vocal apparatus to bear a notable similarity to that of an adolescent human female, despite the fact that both SCP-1194-2-█6 and █8 were male. It is unknown if this represents the entirety of the organisms produced by SCP-1194: exhaustive testing is currently being planned.
+
+Footnotes
+
+1. The relevant female is at this point considered SCP-1194-2-T, and is assigned a specific number (e.g., SCP-1194-T-03)
+
+2. Note: “suitable flat surface” refers to any solid surface with a great enough area to accommodate a standing, full-grown horse, without any inhibiting factors such as the presence of liquid or solid matter, extreme ambient temperature, etc. which would cause severe injury to or restrict the movement of the specimen.

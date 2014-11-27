@@ -1,0 +1,53 @@
+SCP-1571 during testing.
+
+Item #: SCP-1571
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1571 is to be held in a standard containment locker, located within Site-77. All items produced by SCP-1571 are to be cataloged and stored in a designated storage locker in Site-77. Personnel with Level 2 clearance assigned to the research of SCP-1571 are allowed access to these items at any time.
+
+Description: SCP-1571 is a wallet composed of leather, black cloth, and string. The words "We never forget what's really valuable" are written on the inside flap of the wallet in black felt-tip pen. No other identifying marks exist on SCP-1571.
+
+When SCP-1571 is kept on the person of one subject continuously, it may begin to produce documents, small items, and photographs related to individuals close to the subject. This effect appears to be based on the subject's memory and current location. Items produced by SCP-1571 will be objects the subject deems valuable in terms of memorability, or possessing great sentimental value. All objects produced by SCP-1571 are copies of existing items with changes to their content based on the subject's memory. These changes will usually reflect the significance the subject places upon the items, with changes often being based on their biases and perception of the object.
+
+Evidence suggests significant emotional strain in the individual who most recently carried SCP-1571 triggers the manifestation of new items. Further investigation has indicated that all individuals either present or referred to in items manifested by SCP-1571, with the exception of the subject who last handled the object, are deceased.
+
+SCP-1571 was initially recovered during a Foundation raid on a Marshall, Carter, and Dark Ltd facility, located in ██████, WV. During this raid, partial documentation regarding testing of SCP-1571's effects was discovered. These documents indicate that Marshall, Carter, and Dark Ltd had retrieved SCP-1571 as a donation, and were preparing to destroy it after it affected several of the organization's clients. As of 11/19/1986, SCP-1571 has been contained and classified as Safe.
+
+Addendum 1571-1: Documentation recovered with SCP-1571:
+
+Dear Sirs,
+
+I regret to inform you that the work we've done on the wallet shows it simply isn't viable for auction. It doesn't fit our clientele. The ones looking for something dangerous and exciting will find none of that, and the ones looking for a curio will find it much less than remarkable. As we've had testers in the field for almost two years now, I am of the opinion that any clients who purchase the item would barely notice the effects.
+
+I've included the trials that have been performed; the decision is yours whether the project shall be discontinued.
+
+- Wehrner
+
+[…]
+
+#3: One documented tester was noted to have carried the thing for ██ months without any effects occurring. When the subject returned to their home town, it manifested several photographs of the subject and their deceased parents, along with fragments of postcards addressed to the subject from a local senior living home. These were shown to be physically identical to objects found within the subject's home, however details of the items produced, such as the expression of the subjects depicted and the contents of the postcard, were altered.
+
+[…]
+
+#9: During a trial with one of our less distinguished households, a photo from the ████ family household was discovered to portray a newly-wedded couple, identical in appearance to two individuals appearing in a photograph produced by the wallet. In the original photograph, discovered in a broken silver-plated picture frame, the couple stands side by side and only the husband is smiling. The version produced by the wallet features both newlyweds clasping hands and laughing; the wedding backgrounds are identical in both pictures.
+
+[…]
+
+#17: After the Illinois survey resulted in unremarkable results, we decided to run another in Memphis. This time the wallet produced items relatively quickly, generating photographs of the tester's sister. The photos resembled those he had kept in a photo album, taken during the sister's sixteenth birthday. During this party, the sister had been given a car by the tester. The new photos contained identical thank you notes, with an appended "No matter what happens, I don't blame you". We have noted that said sister is currently comatose, due to having been involved in an automobile accident.
+
+[…]
+
+#26: The wallet was placed in the tester's pocket, and the tester sent to visit a local graveyard. Upon his return, the wallet contained a small roll of bills and a card reading, "Here's to your future! Happy Birthday." It was noted that the tester's mother, father, and maternal grandparents were interred in the visited graveyard.
+
+Addendum 1571-2: At the time of recovery, SCP-1571 was observed to contain the following items:
+
+A receipt from a MC&D transaction, appearing to date from 183█. One item is listed, an engagement ring. No price is printed on the receipt.
+
+A ticket for the opera Aida, purchased under the name of "The esteemed ████ family". Cross-referencing with the corresponding opera house sales records indicates that the ████ family occupied less-expensive seats towards the back of the house, while the box seats indicated by the ticket were reserved for a family of a different name.
+
+A photograph of an unidentified young man, posing with two other male individuals outside a bank. The younger man appears to be the most well-dressed of the trio.
+
+A letter written in red ink on a piece of paper torn from a memo pad. Only the words "I forgave you, once" are legible.
+
+A small, non-functional pocket watch, with the MC&D logo embossed on one side.

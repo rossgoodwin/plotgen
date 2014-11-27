@@ -1,0 +1,99 @@
+A screenshot of SCP-1130's software
+
+Item #: SCP-1130
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1130 is to be contained within a standard Safe-class protective storage locker at Site-12. Please be advised that D-Class personnel used in testing may exhibit erratic and/or aggressive behavior when exiting SCP-1130-2. A team comprised of one Medical officer with Level 3 clearance and a minimum of two Level 2 security personnel is to be maintained at any test site to detain and if necessary sedate test subjects upon reemergence. Security personnel thus stationed are to carry Daninject Projector Rifles loaded with 3-Quinuclidinyl benzilate darts. To avoid public exposure, testing is to be scheduled between the hours of 02:00 and 05:00 local time and directions are to only be requested for suitably secluded destinations. Civilians witnessing any aspect of testing procedures are to be detained and administered class-A amnestics prior to relocation. Considering currently archived debriefing reports and exploration logs, SCP-1130-2 has been designated a Protean-class dimensional anomaly. Any research or security personnel assigned to SCP-1130 are expected to be familiar with relevant guidelines.
+
+Description: SCP-1130 is an interactive kiosk providing free directions from a fixed position in ██████, ██ to any street address within city limits. Its outer structure measures 50 cm x 50 cm x 175 cm and is composed of unadorned sheet metal. A █████ brand LCD touchscreen is set into the front of the kiosk at an angle, beneath which is a 25 cm x 2 cm slot from which directions are dispensed. A maintenance hatch set in the back panel provides access to the interior. No processing unit, power source or printing peripheral have been found inside and SCP-1130 appears to be fully functional without these components. A small tag in the upper right of the back panel identifies it as a model █████ Urban Wayfinding Unit, built by the ██████ corporation in 20██. Covert enquiries with the company have shown that, while it does indeed manufacture this model, no record exists of SCP-1130 having been manufactured, assembled or distributed.
+
+An instance of SCP-1130-1
+
+SCP-1130's primary anomalous property manifests when directions have been requested and printed. Directions obtained from SCP-1130 will invariably instruct subjects to leave established routes and make use of a door described as 'Maintenance Portal 26-Sigma' (referred to as SCP-1130-1). It takes the form of a severely weathered arched metal door and has never been observed to be in the same location twice, even when the same route is requested multiple times. SCP-1130-1 does not exist in its prescribed location prior to the production of directions by SCP-1130. Multiple subjects following the same set of directions will be able to find and make use of the same door until it closes. At that point, SCP-1130-1 will vanish from sight and subjects left behind will be unable to follow the directions any further. If directions are photocopied, SCP-1130-1 will only appear when following the original specimen. SCP-1130-1 can be recorded by all present when encountered and visual reproductions will show SCP-1130-1 as encountered by subjects following directions.
+
+Those subjects who successfully follow directions to their destination and remain suitable for debriefing report SCP-1130-1 vanishing behind them once inside. Additionally, subjects describe having to traverse a space composed of up to ██ kilometers of interconnected halls, rooms and tunnels (designated SCP-1130-2) before finding themselves before SCP-1130-1 again. Spaces encountered are always in a severe state of disrepair and do not seem to be linked in a logical fashion. One test subject reported stepping from what seemed to be an abandoned subway tunnel into the kitchen of a derelict ████████ fast food diner.
+
+Still image recovered from test subject D-█████
+
+All subjects have described a consistent auditory phenomenon while in SCP-1130-2, but at this point in time its source is unclear. Debriefings and post-event psychological evaluations reveal test subjects seem to develop a persistent sense of being pursued, growing stronger as the time spent in SCP-1130-2 and this phenomenon increases. Extended exposure may lead to development of psychological trauma, depending on the mental and emotional stability of test subjects.
+
+After exiting SCP-1130-2, subjects find themselves at their destination. Test results indicate that on average 11-23 seconds lapse between subjects entering and exiting SCP-1130-2. However, this does not take into account the time subjects spend in transit, which may range from several hours to several weeks.
+
+Communication of any kind with subjects in transit has proven to be impossible. GPS locator signals give test subjects' location upon entering SCP-1130-2 as [REDACTED]. This does not change until test subjects emerge from SCP-1130-2. Audio and video recording devices function normally, but will not transmit data while in SCP-1130-2. This necessitates personal recording devices to be worn by test subjects.
+
+Addendum 1130-A-01: Recovery and preliminary containment notes
+
+SCP-1130 was retrieved from its location in ██████, ██ after a number of documented disappearances amongst tourists. Officials were only able to locate one missing individual, who was found wandering through a gated community seven kilometers from SCP-1130's location. On his person were the directions requested from SCP-1130 and what was later identified as a "Queen Elizabeth" M-17 steel helmet. The Foundation was alerted when details of the case triggered a dedicated monitoring station and a recovery team led by Agent ███████ moved to secure SCP-1130. The tourist was located and was administered class-A amnestics. SCP-1130 was removed from its position outside the ██████████ subway station by the recovery team posing as a municipal work crew.
+
+Addendum 1130-A-02: Partial transcript of log file 1130-T-14/73299
+
+Personnel involved in test: Dr. ███████-█████, D-73299
+
+Summary: The following is a partial video and audio transcript for log file 1130-T-14/73299. Before testing commenced, subject was given directions to ██ ███████ Street as provided by SCP-1130. Subject received MRE rations (including the necessary FRH packets) and enough water for seven days. Head-mounted video and personal audio recording devices were checked and found functioning with expected parameters.
+
+Transcript:
+
+<Begin video/audio log transcript>
+
+Dr. ███████-█████: "Jim, are we recording?"
+
+A muffled reply can be heard from behind the camera.
+
+Dr. ███████-█████: "Okay then. turns to D-73299 Now, could you please state your name and designation for us?"
+
+D-73299: "Who, me? Errr… my name is ███ ████████ and my denum is 73299."
+
+Dr. ███████-█████: "Thank you. Now, we've provided you with directions and supplies. We'd like you to provide us with a running commentary while you're in there. Can you do that?"
+
+D-73299: "I guess. And I won't be able to talk to you guys, right?"
+
+Dr. ███████-█████: "That's correct. But we'll be recording everything you see and hear."
+
+Dr. ███████-█████ opens SCP-1130-1.
+
+Dr. ███████-█████: "Please enter. We'll shut the door after you, so don't worry about that."
+
+D-73299: "I hope you guys know what you're doi… hey, watch it!"
+
+D-73299 is helped into SCP-1130-2 by security personnel present. The sound of a door slamming shut can be heard, followed by the subject muttering obscenities. Subject turns around and appears to be searching for SCP-1130-1, which is no longer visible. Subject switches on head-mounted LED light and looks around. This reveals what appears to be the interior of a WWII-era submarine.
+
+D-73299: "Jesus! Where the hell am I?"
+
+Subject surveys his surroundings. Small pools of water can be seen all along the deck. The left side of the small elongated space seems to be filled with a set of bunks. Blankets lie on rusted metal cots. To the right is a long rusty metal wall sectioned off by bulkheads. In front of subject is a small door with a lock wheel. Water seems to be continuously dripping from the ceiling and walls.
+
+D-73299: "Okay… okay… gotta breathe… gotta just… inhales deeply … keep breathing. So, you wanted me to talk… looks like a boat or something. Thing's rusted and filthy, but I guess you can see that. There's some kind of sign here. Lemme get in a bit closer."
+
+Subject steps around the water on the floor. A rusted metal sign comes into view.
+
+D-73299: "No idea what the hell kind of language that is. Might be French? I can't even pronounce it. Anyway, cam must be recording it, so you figure it out.'
+
+[POST-EVENT OBSERVATION: Sign read 'Achtung! Rauchen Verboten!']
+
+Subject suddenly turns around, obviously agitated.
+
+D-73299: "Goddamn, what was that? I think I heard something."
+
+[POST-EVENT OBSERVATION: Analysis of recovered audio does not indicate an audible sound.]
+
+D-73299: "Seemed to be coming from right behind… there it is again! What the hell is that!?"
+
+Subject runs towards the door and attempts to turn the wheel. Subject can be heard grunting and swearing.
+
+[POST-EVENT OBSERVATION: At this point in the recording, a faint background audio signal is picked up. Analysis pending.]
+
+D-73299: "It sounds like… like teeth…"
+
+Subject manages to open the door and slips through before hurriedly pulling it close behind him. Subject stands with his back to the door, shaking. A room is dimly visible beyond the beam of the subject's LED light. Several hospital beds seem to be scattered around the room. The windows are boarded up tightly.
+
+D-73299: "Huh? Where'd the boat go? Goddamn, where am I?!"
+
+Subject takes a few steps before abruptly standing still.
+
+D-73299: "I'm hearing it again, but… I closed that fucking door! No! No, I closed it! I closed it!"
+
+Subject breaks into a run towards the other end of the room, tripping over a fallen IV-stand. Sobbing can be heard.
+
+<End video/audio log transcript>
+
+D-73299 emerged from the side of a building close to his target destination at 07:03:21. Subject was in a state of confusion and panic, showing signs of severe malnutrition. Subject did not respond to instructions and attempted to leave the test site. He was subsequently neutralized by security personnel and detained for debriefing. Post-event physical and psychological evaluation determined the amount of time spent in SCP-1130-2 to be between 2 and 4 weeks. In addition, subject appeared to have pulled all of his own teeth with a pair of pliers recovered from SCP-1130-2.

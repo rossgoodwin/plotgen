@@ -1,0 +1,61 @@
+Item #: SCP-2250
+
+Object Class: Euclid
+
+Special Containment Procedures: As no viable method for permanent containment of SCP-2250 has been found, efforts are to be made to keep susceptible species of waterfowl out of a 5 km radius centered on Bloch Park in Selma, AL.
+
+To this end, the Central Alabama Field Unit has been tasked with the elimination of these species from the designated no-fly zone, and a disinformation campaign has been effected, focusing on the threat of a lethal avian-born pathogen that is able to infect humans. This has so far been effective in allowing the Central Alabama Field Unit to operate without hindrance from government agencies or environmental groups.
+
+Civilians witnessing SCP-2250 in any form are to be detained and supplied with Class-B amnestics. Should these civilians have lost their dog to SCP-2250, they are to be supplied with a suitable replacement and led to believe it is the original.
+
+Any research with the goal of partially or fully deciphering the language or communication used by susceptible species of waterfowl is to be covertly disrupted in any way possible.
+
+Description: SCP-2250 is a memetic contagion currently exclusively affecting various species of waterfowl1 in and around Bloch Park in Selma, AL.
+
+Tests to determine the vector of infection for this memetic contagion have yielded evidence that SCP-2250 is spread between waterfowl through inter-species communication and vocalization; those waterfowl prevented from vocalizing were unable to create new instances of SCP-2250, and those deafened showed no signs of infection. Once exposed to SCP-2250's memetic triggers, susceptible waterfowl will be subject to SCP-2250 activation events at intermittent times.
+
+The animals involved are not innately anomalous, but are subject to SCP-2250 activation events during which they should be treated as such. When an SCP-2250 activation event occurs, the affected animal becomes an SCP-2250-1 instance. It will cease movement, open its beak, and produce a series of sounds in the 25 - 32 kHz range. Canines within a range of up to 2 km show a general tendency to move towards the point of origin for these sounds, though not all canines act on this impulse. Those animals approaching affected waterfowl and entering a radius of approximately 2 m are prone to being trapped by SCP-2250-2.
+
+SCP-2250-2 are darkly colored tentacles with an average diameter of approximately 3 mm, and composed of a tissue with a genetic makeup bearing close resemblance to that of the Pacific lugworm (Abarenicola pacifica). These emerge from an SCP-2250-1 specimen's beak once a canine approaches to within circa 2 m. SCP-2250-2 can typically reach beyond this range if necessary, with an as-of-yet undetermined upper limit. Having emerged, SCP-2250-2 instances will wrap around their prey and exert up to 800 N of force in order to pull it towards SCP-2250-1.
+
+Once close enough, canines trapped by SCP-2250-2 are swallowed whole by SCP-2250-1. This usually occurs despite the clear discrepancy between the range of motion for SCP-2250-1's beak and the dimensions of the canine involved. Observations have not yielded a concrete explanation for this phenomenon, with video logs simply showing the canines disappearing into the beak whole, without apparently suffering damage to their physical form. All SCP-2250-2 then retract into SCP-2250-1, which will remain motionless and unreactive to any form of stimuli throughout the entire process. Despite this invasive process and the potential for extensive physical trauma, SCP-2250-1 instances are not harmed during this process.
+
+Once swallowed, prey does not travel down the esophagus, instead disappearing from SCP-2250-1 altogether. Attempts to track test subjects have almost exclusively yielded a location approximately 6.2 km beneath the island of Moloka'i. Attempts to reach this location have as of yet proven fruitless.
+
+In one incident, the location returned was in the Pelican Nebula. However, there is no conceivable way a GPS signal could be picked up from that location, nor should it have been able to travel back to earth within the timeframe given.
+
+If not fully destroyed, an SCP-2250-1 instance will remain motionless for a period of up to 2 hours, after which it will regurgitate the partially digested remains of the previously ingested canine. SCP-2250-1 will then revert to its non-anomalous state, showing signs of extreme distress and often trying to flee the immediate area. Remains of prey are covered in a high-viscosity fluid containing brine, digestive enzymes, mucus, glycoproteins and electrolytes.
+
+Tests using adult human subjects placed within range of an SCP-2250-1 during an activation event have not produced results. It is possible that these tests could provoke SCP-2250-2 emergence if performed using subjects of a smaller stature, but no such tests are currently planned.
+
+Addendum 2250/A/01: Transcript of initial 911 call - d.d. 20130314
+
+Call initiated at 9:13 PM, 03-14-2013
+
+Dispatcher: "Selma 911. What's the location of your emergency?"
+
+Woman: <in distress> "Bloch Park. I…I don't…it's eating my Boris."
+
+Dispatcher: "Your child was attacked, ma'am?"
+
+Woman: "Not my child, my dog! That duck is eating my rottweiler!"
+
+Dispatcher: "Ma'am, please stay calm. If you are suffering from-"
+
+Woman: <distressed animal noises can be heard in the background> "Oh…oh god, he's gone, Boris is gone. And those weird tentacle things…ducks don't have tentacles!"
+
+Dispatcher: "Ma'am, I am going to send some police officers to check on you, please remain where you are."
+
+Woman: "What're they gonna do, arrest the duck? GET ME MY FUCKING DOG B-" <connection lost>
+
+Dispatcher: "Hello? Hello, ma'am?"
+
+Call terminated at 9:14 PM, 03-14-2013
+
+Police officers responding to the emergency call found a Ms. ████████ in a state of severe distress. Foundation field agents dispatched administered amnestics to both Ms. ████████ and the police officers involved. They also recovered partially digested remains of one adult Rottweiler. No teeth marks were visible.
+
+The duck involved was identified and subjected to a full physical examination. This yielded no significant result.
+
+Footnotes
+
+1. Species observed to be susceptible to SCP-2250 infection are the common merganser (Mergus merganser), ruddy duck (Oxyura jamaicensis), bufflehead (Bucephala albeola), mallard (Anas platyrhynchos) and the American wigeon (Anas americana).

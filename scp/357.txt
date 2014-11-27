@@ -1,0 +1,97 @@
+Item #: SCP-357
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: A 10 kg seed sample of SCP-357 is to be contained within a hermetically sealed container within a 3 m x 3 m x 3 m room at Site-19. Samples removed from the container are not to exceed 1 kg. A detailed log must be kept of all SCP-357 that is produced, complete with accurate records of what had been used to feed it and how much of the sample was subsequently destroyed via compression.
+
+The mass of the container is to be monitored electronically. Changes in mass that are not accounted for by removal or return of samples will result in an automatic lockdown of that section of Site-19, as this indicates that a breach of the container may have occurred.
+
+Unless provided Level 4 approval, researchers are not to expose SCP-357 to temperatures exceeding 100°C. The amount exposed to these temperatures is never to be greater than 1 mm3, under any circumstances.
+
+Description: SCP-357 is a malleable substance with a density of 250 kg/m3. The material has been found to reflect all radiation with 100% efficiency. To date, chemical analysis of SCP-357 has yielded no conclusive results. Electron microscopy of SCP-357 has shown no inherent granularity at any level. These two latter results suggest that SCP-357 may not be atomic in nature; however, there have been no satisfactory hypotheses as to how baryonic matter is able to interact with it.
+
+When permitted to physically interact with SCP-357, researchers describe it as having a consistency similar to that of Play-Doh brand modeling compound. However, unlike Play-Doh, SCP-357 will not retain its shape for any length of time if left at rest. It will settle at a rate of approximately 0.5 cm per minute until it reproduces the shape of the inside of its container. SCP-357 will form a meniscus inside the container 7.5 cm high. The thickness of the substance at the top of the meniscus is 1 mm, at which point it merges with the surface of the container following a Gaussian curve. If allowed to settle on a flat surface, SCP-357 will spread until its average thickness is no more than 1 mm. The edge of the mass follows the same Gaussian function that is seen in the meniscus.
+
+If solid matter is placed in a container of SCP-357, it will sink into the substance at a constant rate of 0.5 cm per minute. SCP-357 will displace the appropriate volume as any other fluid would. If the solid object is fully absorbed by SCP-357, it will become impossible to distinguish between it and the substance of SCP-357. Theories range from the object taking on the properties of SCP-357 to the object being replaced by a corresponding volume of SCP-357.
+
+If a homogeneous pressure of at least 100 N/cm2 is applied to a sample of SCP-357, the material will decrease in size at a rate of 1.3 cm3 per minute or more, depending on the magnitude of the pressure. When compressed in this manner, the density of SCP-357 does not change. Rather, the mass decreases at the same rate as the volume. Where the excess mass goes is presently unknown. If compressed to approximately 1 mm3 at room temperature, no amount of force is able to decrease the size any further.
+
+Application of vacuum pressure does not increase the size of a sample of SCP-357. The only method found for increasing its mass is via the encapsulation of a volume.
+
+Addendum 357-1: SCP-357 was initially produced by a cyclotron in 19██ at [DATA EXPUNGED]. The responsible researchers at the university were given a Class B amnesiac with the exception of Dr. R███████ B█████ who has been granted Level 2 clearance and allowed to do further research on SCP-357. To date, the results of the initial experiment that produced SCP-357 can not be reproduced. As a precaution, particle physics laboratories and particle colliders are periodically monitored for similar discoveries.
+
+Addendum 357-2: SCP-357 is pending review for use in disposal of hazardous objects being held by the Foundation.
+
+Until the properties of SCP-357 are more concretely understood, particularly in high energy environments, approval is being withheld. It is already clear that SCP-357 should not be exposed to some objects, due to risk of unlimited expansion of the material. -O5-█
+
+Addendum 357-3: Some personnel have been caught smoking indoors and exhaling into SCP-357 in an attempt to hide the evidence. This is heavily discouraged due to security considerations, health issues, and risk of accidental ingestion. File photos of Experiments 357-3 and 357-4 are freely available to those who continue to practice this abuse of Foundation property.
+
+Experiment Log 357-1:
+
+Date: ██/██/████
+
+Subject: One (1) ping pong ball.
+
+Procedure: SCP-357 is allowed to fully absorb the ball while in a container sitting upon an electronic scale.
+
+Details: The ball is seen to sink into the sample of SCP-357. When the last of the ball disappears from view, the scale reports an increase in mass of 5.6 g, equivalent to the difference between the ping pong ball's mass and that of the equivalent volume of SCP-357.
+
+Experiment Log 357-2:
+
+Date: ██/██/████
+
+Subject: A mass of SCP-357
+
+Procedure: A sample of SCP-357 is moulded into a box and placed upon an electronic scale. Before being allowed to set, the lid of the box, also moulded from SCP-357, is placed on it.
+
+Details: A mass increase is detected, exceeding the mass of the lid. Bisection of the box shows that it is now a solid mass of SCP-357.
+
+Experiment Log 357-3:
+
+Date: ██/██/████
+
+Subject: One healthy Rattus norvegicus.
+
+Procedure: A 5 mm3 sample of SCP-357 is placed inside the rat's food. The rat is to be monitored for 24 hours after ingestion or until death, at which point it is to be dissected.
+
+Details: One hour after ingestion, SCP-357 is observed to be eliminated from the rat's digestive system. Soon after, the subject exhibits a pain response. The pain is observed to increase over time. Though the mass of the animal does not change, an increasing amount of SCP-357 is eliminated from its body, concluding with a continuous stream after three hours. Death occurs within minutes of this event. Dissection reveals that the entire digestive tract has been converted into SCP-357, along with a number of surrounding organs. Death is believed to have been caused by blood loss.
+
+Experiment Log 357-4:
+
+Date: ██/██/████
+
+Subject: One healthy Rattus norvegicus.
+
+Procedure: Procedure is identical to Experiment 357-3. The subject is provided an intravenous supply of blood to prevent premature death.
+
+Details: Observations up to the three hour mark match those of Experiment 357-3. The stream of SCP-357 extruded from the rat continues at a steady rate. After 30 more minutes, the subject becomes increasingly lethargic. 15 minutes later, death occurs. Dissection shows that much of the rat's viscera had been replaced with SCP-357, along with a significant portion of its muscle mass. Cause of death is determined to be due to conversion of part of the cardiac muscle into SCP-357.
+
+Experiment Log 357-5:
+
+Date: ██/██/████
+
+Subject: SCP-357 in cryogenic conditions
+
+Procedure: SCP-357 is placed into a liquid helium environment and mechanically compressed.
+
+Details: A pressure of 100 N/cm2 is applied to SCP-357. The sample is able to be compressed to only 0.01 mm3. While still compressed, the sample is allowed to return to room temperature. When pressure is removed, the sample immediately returns to a volume of 1 mm3.
+
+Experiment Log 357-6:
+
+Date: ██/██/████
+
+Subject: SCP-357 in high temperature conditions
+
+Procedure: SCP-357 is compressed to 1 mm3 while at room temperature. The mechanism is then placed in a 1000°C environment and then releases the sample.
+
+Details: At a temperature of 750°C inside the compression mechanism, SCP-357 expands with sufficient force to damage it. 40 m3 of SCP-357 is produced within ten seconds, fully engulfing the furnace, $50,000 worth of equipment, and two researchers. After one hour, the volume of the sample decreases to the equivalent of the absorbed matter. Object class is changed from Safe to Euclid. No further high energy experiments are permitted unless it can be definitively shown that a repeat of the incident will not occur.
+
+Experiment Log 357-7:
+
+Date: ██/██/████
+
+Subject: SCP-357.
+
+Procedure: A 1 mm3 sample of SCP-357 is placed in a 40 m3 container. The ambient temperature is steadily increased in order to determine the material's rate of expansion from application of thermal energy.
+
+Details: The experiment is still pending Level 4 approval. Models of expansion and further information regarding safety procedures are needed from Dr. B█████ before a decision can be made.

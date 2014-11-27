@@ -1,0 +1,35 @@
+SCP-325
+
+Item #: SCP-325
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-325 is to be held in a standard 30 cm x 10 cm x 10 cm steel box. This box should be waterproofed and lined with hydrophobic rubber, and stored away from any washing facilities. If SCP-325 breaches containment, standard Foundation issue NBC protection suits are to be used to spread desiccant on the affected area. All used desiccant should be incinerated according to standard incineration procedure. SCP-325 can be safely stored at any Site, and with any SCP.
+
+Any personnel showing a greatly increased adherence to cleaning and hygiene than required are to be detained and given new Foundation issue overalls to be worn for the next 24 hours. After this suspected personnel are to undergo a psychiatric evaluation.
+
+Description: SCP-325 is a small bottle of ██████ brand washing detergent, a product commonly sold in the United Kingdom. However, the "█████ █████ █████!" name present on the label does not match any of the ████████ company's current products. SCP-325 contains a semi-viscous green liquid, identical in chemical composition to the "Naturals" range of washing detergent sold by ████████. SCP-325 is a "Value pack" container of concentrated detergent, and currently contains 1,775 millilitres of fluid. One (1) wash of SCP-325 requires 25 ml of liquid, as indicated on the instructions located on the rear of the bottle. This information also contains a warning detailing [REDACTED].
+
+SCP-325 functions in an identical way to a normal detergent, and when used will produce excellent results. Tests with Class-D personnel have indicated that victims will find the quality of the wash much higher than usual, therefore preferring to wear a garment washed in SCP-325 over other articles of clothing washed in normal detergent. However, lab tests have shown there to be no physical or chemical difference between garments washed in SCP-325 or other brands. Further research into low-level memetic threats are ongoing, but as the effects of SCP-325 are contained by non-use, SCP-325 is currently classified as Safe.
+
+When a garment washed in SCP-325 is worn, the subject wearing it will eventually succumb to extreme pervasive paranoid delusions related to mysophobia and cleanliness. This will often induce ritualistic behaviors in the subject, and has lead to subjects harming themselves through excessive cleaning methods such as placing their hands in boiling water or ingesting bleach. There are currently five levels of behaviour caused by SCP-325 exposure documented, with all tests past 480 total hours of exposure resulting in the [DATA EXPUNGED] indicated on the label, unless subject expires at Level 4, as documented below.
+
+All time measurements indicated in the following descriptions of behaviour after exposure are indicated at the average number of hours exposed, rounded up and +/-10%. "Exposure" refers to the time spent physically wearing garments cleaned in SCP-325.
+
+Level 1 Behaviour Subjects exposed to SCP-325 for between 1 and 24 hours will exhibit majorly increased awareness of hygiene and cleanliness. This is usually characterised by excessive hand washing and ordering others to be more clean themselves. This stage will usually pass without comment; however, any staff noticing increased awareness of cleanliness around the storage area of SCP-325 should inform Level-4 clearance personnel immediately.
+
+Level 2 Behaviour Subjects exposed to SCP-325 for between 24 and 96 hours will begin to display extreme mysophobia and manic washing regimens. Exposed subjects will also shun others, only exiting their domicile to stockpile supplies of tinned food and cleaning agents such as bleach. Interviews have shown that subjects view the outside world to be 'unclean'.
+
+Level 3 Behaviour Subjects exposed to SCP-325 for 96 to 240 hours exhibit complete disregard for anything that is considered by them to be unclean, including the outside world. If an object inside their abode can be cleaned by the subject, they will clean it until deemed suitably uncontaminated. All clothing that has not been washed in SCP-325 will also be rejected, and most likely destroyed along with other non-suitable items. Subjects will usually dispose of things by incineration, although no single method is preferred. From this point, only clothing washed in SCP-325 will be worn.
+
+Level 4 Behaviour Currently the stage of most use and interest to the Foundation. After 240 hours of exposure, subjects will cut themselves in order to use their blood as a cleaning agent. Other agents such as bleach will sometimes be added, but this is not a constant behaviour and around 80% of exposed subjects will not add anything. The blood from the victim has been proved to be 100% efficient at removing any contaminant from a surface. The mechanism for this is currently unknown, but tests with the products of SCP-███ and SCP-███ have shown promising results for cleanup after containment breaches.
+
+The composition of the blood has eluded a full analysis so far, with test results showing [DATA EXPUNGED] present in the bloodstream. Further testing is authorised after submitting form 325-T1 to the appropriate Level 4 researcher.
+
+Most test subjects (around 70%) will die of exsanguination or exhaustion before progressing to Level 5.
+
+Level 5 Behaviour Once a subject has been exposed for 480 hours they will proceed to [DATA EXPUNGED - SEE REPORT 325-E1] which resulted in the deaths of ██ civilians and █ Foundation staff. This event is detailed on the warning on SCP-325's label; a copy is available to researchers above Level 3 clearance.
+
+As the ████████ company shows no record of producing SCP-325, yet has the facility to do so if the [REDACTED] is added into their manufacture process, one undercover Agent has been inserted as an employee. Agent █████████ is to stay silent unless production of SCP-325 is found to exist. All instances of SCP-325 found outside of Foundation control are to be destroyed by incineration after testing at the nearest Foundation Site.
+
+Field Agents and MTFs are cleared to terminate any civilians exhibiting confirmed exposure of Level 3 or above. Confirmed Level 2 instances are to be contained and returned to the nearest Foundation Site.

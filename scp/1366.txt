@@ -1,0 +1,147 @@
+Item #: SCP-1366
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1366 is contained behind a 3m tall chain link fence, to be checked for breaks at least once weekly. 4 guards are to patrol the perimeter at all times. Motion-detecting cameras have been set up around the perimeter to detect breaches; Foundation agents should be prepared to respond to 1366-Outburst events taking place within 120 seconds. Individuals breaching or attempting to breach the perimeter are to be questioned and administered Class-A Amnetics before being returned to civilian populace.
+
+The only road leading into Site-403 is guarded by a checkpoint in order to assure no individuals affected by SCP-1366 Outburst events attempt to escape. A 3-km perimeter has been set up in the woods surrounding Site-403 with olfactory, auditory, and visual deterrents throughout, with a quarantine perimeter at 1km; citizens have been informed that this is due to the town's status as a State Park. Inhabitants of Site-403 are unaware of their circumstances, but co-operative to Foundation agents, believing them to be members of the ██████ State Park Rangers.
+
+Site-403: Site-403 is the town of Town of Siskin, ██████, USA, located in the northwestern region of █████ County. The 2010 census conducted by the Foundation shows that Site-403 has a civilian population of roughly 6000, with 400 extended families. The majority of the populace are farm or lumber workers, or work at local businesses. The total area of the town encompasses approximately 9.5km2, and is secluded in a heavily wooded area.
+
+The mayor of the town, the city council, and local law enforcement are to be briefed about the circumstances surrounding the containment of SCP-1366 and recruited as operatives with the clearance level E1/1366; however, they are not to have any knowledge of the Foundation beyond SCP-1366. Site-403 is to be maintained with a cover story regarding the town's status as a historic State Park.
+
+Description: SCP-1366 is an abandoned sawmill located on the [REDACTED] river near Site-403. Originally built by the Siskin Logging Company in the 1820s, it was abandoned after a series of accidents, eventually resulting in the death of the owner, Wilhelm Siskin. Though abandoned for well over one-hundred and fifty years, SCP-1366 is remarkably stable, despite the exterior appearing to be on the verge of collapse.
+
+When unobserved, the head saw of SCP-1366 will activate sporadically. Following activation, a single canted log of unknown origin is dispensed onto the log chute and deposited outside of the mill. The log, designated SCP-1366-A, is invariably carved on its interior with a piece of writing, typically 2-8 words in length. The writing will present itself in the form of a sensationalist headline of dubious credibility, which will may later be published as a news story in the local paper, the Siskin Gazette. Publication of stories occur regardless of whether or not SCP-1366-A has been observed by a member of the civilian populace, or even if SCP-1366-A is intact.
+
+A 1366-Outburst event occurs approximately 68% of the time following the publication of the story. 1366-Outburst events cause major psychological changes in the populace, including xenophobic behavior, psychotic episodes, paranoia, increased promiscuity, bouts of amnesia, and failure to notice or acknowledge the disappearance of inhabitants of Site-403.
+
+All Outburst events all follow a distinct timeline:
+
+Phase 1: The writing presented on SCP-1366-A is published as a headline in the Gazette, with an accompanying news story. Sources of the article are never cited, and fictional cities in several states and countries are often named. Stories typically are about incidents such as mass media influencing violent or deviant events, use of fictional drugs among teenagers, satanic cults, and serial killers. All stories will be treated as completely factual by the populace.
+
+Phase 2: Residents of Site-403 discuss the story in public and among their families. At this point, the majority of the populace believes that the the story is of little concern; about 5% of the population show mild interest or concern.
+
+Phase 3: Once approximately 85% of the population is aware of the story typically around 1-12 individuals knowledgeable of the story start deviating from their normal behavior; individuals will become more reclusive and psychotic in behavior, small groups will develop interest in activities or items such as listening to certain genres of music or playing table top games, and larger groups will start to experiment with recreational drug use.
+
+Build-up: It is at this point that random acts of violence begin to occur. Slightly more mundane behavior includes greater frequency in parties and drug use among teenagers and young adults. Individuals will attempt to breach the perimeter surrounding SCP-1366 and use it as a secret meeting place or hideout. Subduing the instigators of this behavior at this point will result in the termination of the current event, leading straight to the dissipation phase. In the event that the Outburst event terminates prior to Phase 4, the corresponding instance of SCP-1366-A spontaneously combusts and is reduced to ashes within five minutes of ignition.
+
+Phase 5: To date, there have only been ██ recorded Outburst events that have reached the climax stage. Events reaching this stage usually result in a mass murder, rioting, and outbreaks of disease, usually connected to or taking place within SCP-1366. Instances of SCP-1366-A corresponding to events that have reached the climax phase have been noted to have several centimeters removed from them, the amount cut off roughly corresponding to the number of fatalities that occurred during this phase.
+
+Phase 4: Approximately 36 hours after the onset of Phase 4, all anomalous activity abruptly ceases. Surviving residents involved in the event return to their homes and soon forget about their experiences, saying that "the past few days were all a blur". Individuals who were terminated in the event will be routinely be given a funeral within a week of their death. The town is effectively reset until the next Outburst event.
+
+Addendum: Partial 1366-Outburst Event Log:
+
+Show Event Log
+
+Close Log
+
+Event Designation 1366-Outburst-01
+
+SCP-1366-A Message ELECTRICIAN STILL ON THE LOOSE IN RENARD
+
+Summary of Story Story describes a serial killer known as the Electrician, notable for killing all of his or her victims by electrocuting them, typically by connecting the genitals of the victim to car batteries or electrical wires.
+
+Outburst Description Robert Kramer, a utility worker, suffered a psychotic breakdown while at work and assaulted a co-worker with a live wire before fleeing. Mr. Kramer was not found for over a month, during which several murders took place in the town mirroring murders described by the story. Local authorities eventually tracked Mr. Kramer to SCP-1366, where he had made a hideout supplied with various electrical equipment.
+
+Aftermath Mr. Kramer was subdued and taken in for questioning, during which he reported that he had no knowledge of committing his crimes, despite the overwhelming evidence.
+
+Notes First known 1366-Outburst incident; town records show that several similar incidents have occurred in earlier years, but have largely been more mundane before this time. The Foundation began investigating after finding reports of the story and the incident being similar. Containment established within three months of this incident.
+
+Event Designation 1366-Outburst-03
+
+SCP-1366-A Message VIDEO GAMES LEAD TO ORGY OF BLOOD AND VIOLENCE
+
+Summary of Story Story indicates that several teenagers went on a shooting spree in connection to the video game "Murdersport 5". No such video game exists.
+
+Outburst Description Several teenagers were found to be playing copies of "Murdersport 5", which was a total modification of the video game "Grand Theft Auto 4." All teenagers playing the game had access to firearms.
+
+Aftermath All games recalled due to "manufacturing flaws which cause the disk to shatter in the console when spun at too high speeds". No casualties resulted, and all copies returned without protest.
+
+Notes First known example of a failure of a 1366-Outburst event, and spontaneous combustion of an instance of SCP-1366-A.
+
+Event Designation 1366-Outburst-05
+
+SCP-1366-A Message BOUDICCA: THE NEW KILLER DRUG
+
+Summary of Story Article describes a drug known as Boudicca, apparently made from fermenting dandelions, ragweed, crabgrass, and various other weeds and and drinking the resultant substance. Apparently, the mixture is a hallucinogenic, an aphrodisiac, and often fatal.
+
+Outburst Description A group of 5 teenagers attempted to replicate the drug from a home-made recipe, meeting at 1366 to partake in the drug and have sexual encounters while under its influence.
+
+Aftermath All individuals were arrested for trespassing; the drug, when tested on D-Class subjects, was found to be a minor stomach irritant with no other effects.
+
+Notes This incident took place prior to the construction of the fence around SCP-1366A; therefore, the group was easily able to enter the structure.
+
+Event Designation 1366-Outburst-14
+
+SCP-1366-A Message 666 BRIDES CULT COMMITS MASS SUICIDE
+
+Summary of Story Story describes an all-woman cult known as the Six-Hundred and Sixty Six Brides of Mephistopheles. The cult was dedicated to "ridding the world of men through use of Demonic powers". A large sect of the cult had walked into an abandoned warehouse, stripped naked, had mass sexual intercourse, and then drank wine laced with arsenic.
+
+Outburst Description No less than ███ women inhabiting Site-403, including the wife of the local pastor and the then-mayor of the town, formed a cult with similar intent, conducting weekly rituals near or within SCP-1366 for 13 weeks until mass suicide was attempted.
+
+Aftermath Embedded Foundation agent ensured no casualties, due to the poison in the wine being replaced with a sleeping agent. Class-A amnestics administered to the "cult members", who were subsequently released back into the populace.
+
+Notes Guards were placed around SCP-1366 following this incident.
+
+Event Designation 1366-Outburst-17
+
+SCP-1366-A Message IS GAMING KILLING KIDS?
+
+Summary of Story Story claims that the role playing game [REDACTED] has been responsible for several group murders and suicides.
+
+Outburst Description A group of 8 teenagers started a Role Playing Club at the local high school, and due to inability to access SCP-1366, played their game in the basement of the high school instead, casting "spells" at each other and on their parents and peers.
+
+Aftermath Unfortunately, Foundation operatives were not aware that the meetings of the club took place due to the isolation from SCP-1366, and simply assumed that a 1366-Outburst event was not occurring. As a result, 5 of the 8 teenagers successfully committed suicide through various means, with the survivors being critically injured.
+
+Notes Guards were removed from the perimeter of SCP-1366, with motion-sensing cameras installed in their place. Corresponding instance of SCP-1366-A noted to have 12 centimeters removed from its length.
+
+Event Designation 1366-Outburst-2
+
+SCP-1366-A Message SNUFF FILMMAKER ARRESTED
+
+Summary of Story A prominent Hollywood filmmaker named Alan Smithee had been arrested for attempting to murder his lead actor on camera, "for the art".
+
+Outburst Description A pair of amateur filmmakers, Jacob Rebus and Mary-Beth Jones started filming acts of zoosadism and animal murder, eventually escalating to the pair infiltrating SCP-1366, placing Ms. Jones on the conveyer of the sawmill and attempting to activate the head saw to kill her.
+
+Aftermath Foundation operatives moved in and subdued the pair. Following detention, the pair claimed ignorance for their actions and were released following questioning.
+
+Notes N/A
+
+Event Designation 1366-Outburst-36
+
+SCP-1366-A Message MAD GASSER STRIKES AGAIN!
+
+Summary of Story Describes a "Mad Gasser" in an undisclosed city, attacking government offices by pumping anesthetic gas through the ventilation system.
+
+Outburst Description The mayor and sheriff's offices, as well as the Foundation field office in the area, were flooded with Nitrous Oxide following the doors and windows being sealed by an unknown person or persons, resulting in 6 deaths due to suffocation.
+
+Aftermath No perpetrator has been identified as of this time, and citizens have been advised to report odd smells and hissing noises.
+
+Notes First direct attack on a Foundation facility. Corresponding instance of SCP-1366-A had 17cm removed from its length
+
+Event Designation 1366-Outburst-40
+
+SCP-1366-A Message MAD COW INFECTS HAMBURGER PATTIES
+
+Summary of Story Describes how a national beef distributor had been selling meat infected with Bovine Spongiform Encephalopathy (BSE), which had resulted in the deaths of several people.
+
+Outburst Description Within a week of publication of this story, there was a mass outbreak of Creutzfeldt–Jakob disease (CJD). The outbreak apparently started from contaminated meat at a local fast food restaurant. Despite the fact that it typically takes several years for symptoms of CJD to develop, the symptoms were greatly accelrated, to the point where fatalities were reported in as little as twelve hours after consumption of tainted meat.
+
+Aftermath Over 30 deaths resulted due to complications from CJD.
+
+Notes Corresponding instance of SCP-1366-A had 6.7m removed from it. Due to concerns of the safety of the civilians, a mandatory evacuation order was issued. Site-403 is to be evacuated by 6/04/12.
+
+Addendum: Evacuation 1366-01:
+
+Level 4/1366 Access Required
+
+Access Confirmed
+
+Evacuation of Site-403 began at 9:30 on 6/02/12. Evacuation order had been issued to the town a week previously, with a major storm being cited as the reason for evacuation. By 14:00, all but 12 residents had evacuated voluntarily, with the remainder forcibly removed. All residents were then loaded into their cars and instructed to drive to nearby Foundation facilities in the cities of █████, ███ ████, and ██████ for debriefing and administration of amnestics. The three fleets of cars were put under Foundation escort to ensure no complications.
+
+Exactly 7 hours after the end of evacuation, all former residents of Siskin simultaneously collapsed and fell comatose. Over the course of an additional 4 hours, the body mass of all persons evacuated was slowly converted into sawdust. The same was true of all personal possessions and vehicles belonging to inhabitants of Siskin. Recovered samples of sawdust shows no anomalous properties.
+
+Following this incident, approximately 6,000 new residents were found to be living in Site-403, with no memory of any attempted evacuation, previous inhabitants, or Outburst events prior to Foundation intervention. Observation of new individuals living within Site-403 (tentatively designated SCP-1366-B) found several other anomalies, such as large amounts of sawdust in the drinking water and food supply (including food from local supermarkets and restaurants), a lack of any familial connections outside of Site-403, and the lack of any direct contact with the outside world (social media sites, outside mail service, etc). Later review found that the same was true of the original inhabitants of Site-403.
+
+Containment procedures and SCP description will be revised at a later date.

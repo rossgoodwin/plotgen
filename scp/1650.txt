@@ -1,0 +1,77 @@
+SCP-1650
+
+Item #: SCP-1650
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1650 is to be held in a standard artifact containment unit in Site-19's High Value wing. Due to special interest in obtaining SCP-1650 expressed by hostile Groups of Interest, security details for it are to follow Defense and Concealment Protocol Epsilon-168. Any use of instances of SCP-1650-1 must be authorized by project supervisor Dr. Dunson.
+
+Description: SCP-1650 is a clay oil pot, dating to Hasmonean period Judea (circa 170 BCE). On the bottom of SCP-1650 is an inscription in Hebrew, which has experienced significant wear due to the age of the artifact:
+
+ויאמר ה' ל— סח השמן על בשרך ולך בינות ה— כששם אלוהים על שפתיך, וזעם ה' וחרון אפו ו— דם המכבים יטהר בית מקדשו אחריך, לנצח נצחים1
+
+When in an upright position, SCP-1655 appears to be empty, but when tilted and held at a specific angle for thirty (30) seconds, various types of oil (henceforth SCP-1650-1) will be poured from it:
+
+45° (SCP-1650-1-A): Olive oil, virginal. Oil produced is consistent of manufacturing techniques and olive breeds used in Judea in the second century BCE.
+
+50° (SCP-1650-1-B): identical to 45° while SCP-1650-1-B appears identical to SCP-1650-1-A (smell, texture, taste, molecular structure), ingesting it caused nausea, abdominal pain, and vomiting, followed by cardiac dysrhythmia, tremors, seizures and finally death in 87% of test subjects, permanent brain damage in 12% and no effect in the remaining 1%. Autopsies revealed the cause of death to be severe oleandrin poisoning, though no traces of oleandrin or Nerium oleander were found in the oil prior to ingestion.
+
+65° (SCP-1650-1-C): unknown oil, clear. SCP-1650-1-C shows no anomalous properties unless used to fuel a light source. When thus used, SCP-1650-1-C will burn for a period of twenty-four (24) to sixty-three (63) hours. The burn process does not produce heat and does not require oxygen.
+
+90° (SCP-1650-1-D): unknown oil, red. When applied to inorganic matter, SCP-1650-1-D acts as a preservative (e.g. preventing rust when applied on metal). When applied to living organic matter, SCP-1650-1-D possess mild corrosive qualities. SCP-1650-1-D has no effect on dead organic matter, which can be used to safely apply it to other materials. Of note is SCP-1650-1-D's effect on blood: SCP-1650-1-D seemingly erases any trace of blood it comes into contact with (with a ratio of 10cc of oil to 500cc of blood). Because of this, ingestion or injection of any significant amount of SCP-1650-1-D will quickly become fatal due to rapid exsanguination. If not applied to inorganic material, SCP-1650-1-D will lose its anomalous properties within thirty (30) seconds of being poured from SCP-1650. Tests on SCP-1650-1-D revealed traces of Helichrysum sanguineum bloom.
+
+SCP-1650 is capable of producing approximately two (2) liters of each type of oil before running out, and will replenish its reservoirs after being returned to an upright position for a period of twenty-eight (28) hours.
+
+SCP-1650 first came to the Foundation's attention when Agent ████, embedded in the offices of Marshall, Carter and Dark Ltd. in ███ ████, reported an upcoming transaction between MC&D and a group identifying itself as the "Horizon Initiative." While the Foundation possesses limited information about this group, it was discovered that it is covertly sponsored by several major religions. Agent ████ was able to discover the location of the transaction and Mobile Task Force Alpha-12 ("Flatheads") was dispatched to intercept it and detain the persons involved. Upon arrival, MTF Alpha-12 apprehended all parties without incident. SCP-1650, the item the HI was attempting to purchase, was recovered.
+
+Addendum SCP-1650-A: The following is the interrogation log of a captured member of the Horizon Initiative, who identified himself as Father █████ ████████:
+
++ Interrogation Log 
+
+- Hide
+
+Interviewed: █████ ████████
+
+Interviewer: Agent ██████
+
+Foreword: █████ ████████ was brought to Site-██ following the recovery of SCP-1650. Following his arrival, he asked to discuss a "mutually beneficial arrangement" between the Foundation and the HI. Agent ██████ was instructed to act with prudence in regards to █████ ████████'s terms in order to gain information.
+
+<Begin Log>
+
+Agent ██████: You said you had something to discuss with us?
+
+█████ ████████: Indeed. I wish to discuss the terms offered by the Horizon Initiative.
+
+Agent ██████: Terms?
+
+█████ ████████: My superiors have prepared me for the contingency of the deal being intercepted by Foundation operatives, and provided me with a list of terms that, if followed, will ensure full cooperation on behalf of the Initiative in all future endeavors.
+
+Agent ██████: And those terms are?
+
+█████ ████████: First and foremost, the Initiative will require that the holy relic you confiscated from us be returned. While we respect your attempts of containing dangerous phenomena, this relic cannot stay in your hands. It is a sacred object, the cleanser and the provider for the Temple itself. Next, we require that the Foundation relinquish the following holy relics already in its possession to Initiative hands: [REDACTED], as well as the immediate destruction of the following heretical and demonic objects: [REDACTED]. In exchange, the Initiative is willing to share all of its resources and information concerning any future findings and assist in battling the various heresies corrupting God's good earth to the Foundation's satisfaction.
+
+Agent ██████: I'm not exactly sure how much you know about us, Father, but I can tell you right now those terms are extremely problematic.
+
+█████ ████████: I'm sorry, but the terms are non-negotiable. Surely you could see the benefits of such an arrangement? The Initiative and the Foundation needn't be enemies; we share the same goals, after all. We both wish mankind to be safe from the evils of the beyond. Your attempt of preserving man's flesh is admirable, but you neglect his soul! Let us help you, please.
+
+Agent ██████: I'll have to discuss this with my superiors, you understand. This might take a while.
+
+█████ ████████: I was told only to accept an immediate response. My superiors do not trust you.
+
+Agent ██████: You have to understand, those things take time. You're asking for a lot, you know.
+
+█████ ████████: [angrily] They told me! They told me you would do this! Try to string me along, make me complacent! I admit, I did not expect this, I thought you were better than that! Perhaps I should have. Perhaps you are not what I thought you were. [to himself] Pactum serva, █████.
+
+Agent ██████: Come now, you are being unreasonable.
+
+█████ ████████: I am sorry it must come to this, but my conviction is clear, as are my orders. If you refused our terms, it means you have fallen too far. It appears that is the case, and so there is only one thing left to say: Judges 16:30.2
+
+<End Log>
+
+Closing Statement: At this moment, █████ ████████ appeared to have triggered an explosive device, killing himself and Agent ██████ and severely damaging the interrogation room. Traces of an unknown explosive and a voice activation system which failed to be detected by the screening process were found in █████ ████████ remains. Security details on the objects █████ ████████ mentioned were updated following this incident.
+
+Footnotes
+
+1. [ILLEGIBLE] And thus spoke the Lord to [ILLEGIBLE] Pour the oil upon your flesh and go amidst the [ILLEGIBLE] with the Lord's name upon your lips, and His wrath and fury shall [ILLEGIBLE] The Blood of the Maccabees shall purify His House behind you, for all eternity.
+
+2. And Samson said, “Let me die with the Philistines.” Then he bowed with all his strength, and the house fell upon the lords and upon all the people who were in it. So the dead whom he killed at his death were more than those whom he had killed during his life..

@@ -1,0 +1,49 @@
+An instance of SCP-1729
+
+Item #: SCP-1729
+
+Object Class: Euclid
+
+Special Containment Procedures: Captured instances of SCP-1729 are to be kept in a warehouse located within Sector-25. Outside of testing, every instance of SCP-1729 is to be restrained using standard wheel clamps, and switch 1A set to 'off'. Any newly captured SCP-1729 instance is to be fitted with manual operation switches on leads 1-7, and an additional battery-operated relay circuit on lead 1. (See Document-1729-B for complete diagram with critical locations, and appropriate schematics with part numbers specified)
+
+If testing on SCP-1729 requires the removal of restraints, such a test must be carried out on designated enclosed test track marked 5-TTR on the Sector-25 layout plan. During such testing, only D-class personnel are to be allowed to approach or initiate contact with SCP-1729 - for this purpose, a group of 6 D-Class, designated DR-1729, to be used for such testing, as per Document P28-DR-1982 relating to disposable personnel indefinitely assigned to a single research task. At least 3 members of DR-1729 are required to have a background in automotive repair. At least 1 member of DR-1729 is required to have a background in mechanical engineering.
+
+Locations found to serve as deposition sites for SCP-1729 are to be transferred into posession of an appropriate Foundation cover organisation, and monitored for activity. Any inbound SCP-1729 instances are to be captured, and their payload seized; civillians found within the perimeter of a deposition site are to be interrogated, and unless required otherwise, treated with Class-A amnesiacs and released.
+
+Description: SCP-1729 refers to a presently indeterminate number of apparently autonomous motor vehicles of differing model and manufacturer, their count currently estimated at ██. Each instance of SCP-1729 is painted black, and marked with a "TAXI" panel, and the logo and telephone number of a taxi service1. License plates found on SCP-1729 instances tend to duplicate those of existing vehicles.
+
+The interior of SCP-1729 instances differs significantly from that of an equivalent vehicle. The engine does not connect to the gas tank. Instead, the flywheel [REDACTED] while the battery seems to provide energy for SCP-1729's functioning - cutting the wire lead marked 1 on SCP-1729 scheme effectively disables the instance in question. A number of further wire leads extend to various sections inside - disabling any of these seems to disable specific mechanisms inside SCP-1729. The gas tank itself contains between 20-60 litres of saline and connects to a nozzle located within the trunk area, also housing a number of servo and hydraulic controlled manipulation mechanisms,and mobile high-voltage electrodes. Furthermore, the trunk wall and lower chassis houses a ███W laser cutter and several devices whose purpose and construction is currently subject to research.
+
+While in its inactive state, SCP-1729 is stationary, and does not significantly differ in appearance from a regular vehicle. SCP-1729 tend to activate at random times between 10pm and 8am. Rarely, operation outside these times has been observed.
+
+Upon activation, instances of SCP-1729 proceed move along surface streets in a random pattern; however, they are significantly more likely to pick directions leading to areas with higher population density2. SCP-1729 will comply to traffic law, asides from occasional erratic behaviour during right turns, usually occurring towards the end of a cycle. During the active period, humans looking at SCP-1729 perceive a humanoid figure, designated SCP-1729-1, sitting in the driver's seat - optic and thermal instrumentation shows the seat to be empty, furthermore a strong [DATA EXPUNGED] further pointing to being illusory.
+
+Characteristic malfunction of SCP-1729 instance
+
+If an active instance of SCP-1729 is approached, or gestured to, SCP-1729 will stop, and its doors unlock. SCP-1729-1 will attempt to mimic a taxi driver; those witnessing such an event report frequent defects such as vocalisations not synchronised with facial mimics, slurred speech, or erratic movements. If boarded, SCP-1729-1 will proceed towards the intended destination until attaining a velocity of approximately 40km/h. Subsequently, the back seat of SCP-1729 will shift, a set of manipulators will restrain the passenger, paralyse them by means of an electric discharge and a series of rollers will proceed to relocate them into the trunk, where [REDACTED]3 and subsequently section the body, storing the segments in saline-filled PE bags. The sectioning is consistent, but highly idiosyncratic - bags often contain multiple parts, such as heart and lungs, while the intestinal tract is usually split into cca 1.5m segments, each packed separately, and on two occasions, some packages contained approximately 500g of cca 35mm vein and artery sections.
+
+Upon completion. SCP-1729 will proceed towards a fixed location4 and deposit all collected material, usually packed within 2-5 black PE sacks. SCP-1729 will proceed to evacuate the premises, and deactivate upon encountering an available parking space. The mean period of re-activation appears to be 16+/-3 days.
+
+Addendum 1729-1:
+
+Incident 1729-1:
+
+On ██/██/20██, █████ Metropolitan Police have been asked to investigate an unusual smell spreading from one of the vehicles in a parking lot located near ███████ apartment complex. When approached by the summoned patrol, the vehicle activated and attempted to ride away, injuring one of the officers in the process - the second responded with gunfire, causing it to crash due to tire damage. Subsequent examination has shown the trunk to be full of human remains in advanced state of decay. The patrolmen were administered amnesiacs by a Foundation member posing as a MI5 liaison, and the remains of the vehicle were taken for testing - it was found that the PE foil stockpile within the SCP-1729 instance has been depleted, and due to the inability of ejector to process unpacked tissues, this resulted in their accumulation within the device.
+
+Addendum 1729-3:
+
+CONTAINMENT PROCEDURE UPDATE
+
+Since initial containment, the proportion of encountered SCP-1729 instances in degraded state has been on a steady rise, with ██ cases similar to Incident 1729-1, and further █ cases of breakdown, making up 79% of all SCP-1729 encounters. Furthermore, there has been a steady decrease in amount of reported incidents consistent with SCP-1729 mode of operation, and the monitoring of former delivery sites has resulted in no additional captures. Requesting removal of paragraph 3 from containment procedures to reflect this, especially given current increased staff requirements with respect to [REDACTED]. - Researcher Pauling
+
+Request approved. - Dr. Zubov, section head
+
+Footnotes
+
+1. While most SCP-1729 instances tend to mimic the information pertaining to genuine taxi services, approximately 20% refer to fictitious companies, most usually "Opa Taxi" "Fedot Transport" or "Carlo Cabs"
+
+2. Transition probabilities follow a roughly 0.7/0.3 split.
+
+3. Despite [REDACTED] has been shown to increase the vitality of collected tissue samples and their resistance to enviromental factors resembling that of SCP-████. Investigation into potential uses in transplant surgery strongly recommended.
+
+4. SCP-1729 shows a strong preference for sites with low to medium human activity. To date, fifteen deposition sites have been secured, notably warehouse A of former █████ Inc., garage 28-J in ██████, London and floor 3 parking lot of Tesco, ████████. For a complete list, see Document-1729-B

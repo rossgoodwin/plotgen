@@ -1,0 +1,111 @@
+Item #: SCP-2098
+
+Object Class: Keter
+
+Special Containment Procedures: All containment efforts are directed towards surveillance of Prime Susceptibility Communities and rapid mobilization of venue disruption teams upon confirmation of a SCP-2098 Phase 2 event.
+
+Site-23's two dedicated PSC-2098 monitoring team members are to maintain media oversight of yet-unaffected Prime Susceptibility Communities as their sole function. GenStat Team 88-Bartleby is to maintain the ongoing global media search procedures for SCP-2098 activity outside of Prime Susceptibility Communities at a Priority 3 in their duty cycle (to be altered as necessary by site management, RAISA, or O5 mandate).
+
+Containment teams stationed in active SCP-2098 communities are to monitor and maintain an accurate record of all instances of "Saint Simon's Day" and intervene to prevent virulent behaviors in any SCP-2098 vectors. SCP-2098-Red vectors should be taken into custody under the guise of U.S. Customs and Border Protection and remanded to Site-23 for analysis and disposal. Containment teams are to use standard hearing protection when attempting to contain any potential SCP-2098-Red vector.
+
+Local monitoring teams are to be stationed in any community affected by a SCP-2098 event, regardless of whether or not disruption was successful. Expanded local mass media surveillance (to include delivery methods such as skywriting, smartphone-based advertising, and faith-based community outreach) should continue indefinitely until further research determines the long-term effects of event exposure on community susceptibility.
+
+Sanctioned venue disruption can range from simply renting the facility/space in question to making it permanently uninhabitable in extreme cases. Venue disruption has proven effective in preventing 100% of SCP-2098 events detected before Phase 3 begins. This requires a minimum of resources or long-term intervention in most cases. All available notifications (banners, flyers, posters, pamphlets, videotapes, etc.) of an SCP-2098 event are to be collected following its conclusion regardless of its success or failure.
+
+Description: SCP-2098 is most easily understood as a "virulent holiday". SCP-2098 is the cumulative reference for a series of anomalous phenomena and behaviors which overwrite existing human perception of a calendar date (or dates) with the belief that the date in question is a holiday designated "Saint Simon's Day". In practice, SCP-2098 behaves in a manner roughly analogous to a pathogen, infecting human perception of the calendar date through self-replicating SCP-2098 events. These events alter human perception of the date to varying degrees in order to sustain existing perceptive anomalies and/or propagate further events. It is theorized that without intervention, 100% of the human population would perceive and "celebrate" Saint Simon's Day every calendar day within twenty-six (26) years, resulting in an XB-Class Perceptive Restructuring Scenario.
+
+To date, all communities experiencing an SCP-2098 event have been located in American-held states and territories which do not observe Daylight Savings Time, and have been in existence as distinct civic entities no earlier than January 1st, 1969. Communities meeting these criteria are designated Prime Susceptibility Communities. There is currently no evidence of an SCP-2098 event occurring prior to 1969, though research is ongoing to determine if the SCP-2098 effect is new and unique only to this geographic/legislative region, or if it exists/has existed with differing parameters elsewhere. Though events have thus far only taken place in this limited range, SCP-2098-Red vectors can easily transmit infection to communities and individuals outside this zone. Due to Foundation intervention, no documented infection has yet taken root outside of a Prime Susceptibility Community.
+
+SCP-2098 phenomena proceed along a currently predictable course:
+
+Phase 1 - SCP-2098 will begin to manifest in a target community through altered signage/advertising for a local gathering. This will invariably include some iteration of the phrase "Saint Simon". Targeted events are always community-wide in scope with no formal invitation required (such as a race, festival, fair, or parade). SCP-2098 will progressively co-opt such a community event over the course of two to thirty days (see list of previous instances).
+
+At this phase, only a single media outlet may be affected, and the naming convention may not yet be consistent or logical.
+
++ Example of Phase 1 Activity
+
+- Example of Phase 1 Activity
+
+In event 2098-6, flyers for the Chino Valley, Arizona Firemen's Association Pancake Breakfast were affected 12 days before the event date to read alternatively: "Saint Simon's Day Oracular Catechesis", "Saint Simon's Day Bisected Youth Vigil", and "Feast of Saint Simon's Timorous Indulgence".
+
+The words "Saint Simon" in promotional materials are thus far the only commonalities between announcements for SCP-2098 events at this phase. Containment teams are to verify a shift to Phase 2 before attempting any form of intervention as targeted venues and event types have shifted randomly during Phase 1, leading to confusion and loss of containment. There is currently no reliable protocol for effective neutralization of an SCP-2098 event during Phase 1.
+
+Phase 2 - 48 hours before the event date, all promotional materials for the event will alter to include a consistent iteration of "Saint Simon" in their title. In addition, the venue will be consistent across these materials, and they will specify a duration of 12pm to 4pm without exception. Widespread perceptive anomalies will first manifest in the affected community during Phase 2, with 100% of residents possessing accurate but unsourced knowledge of the event date, duration, venue, and name. There appears to be no accompanying compulsion to attend the event despite this knowledge. Unless the venue is rendered unavailable, the scheduled community gathering will take place in accordance with the time and date indicated on the SCP-2098-altered media. Venue disruption is the only currently proven means of preventing an SCP-2098 event.
+
++ Example of Phase 2 Activity
+
+- Example of Phase 2 Activity
+
+In event 2098-7, seven out of fifteen community members interviewed reported to have seen anomalous promotional materials during Phase 1, but could not reliably say what the advertised event constituted or when it was. 48 hours before the consistently advertised Phase 2 event date, 100% of interviewees confirmed the date, venue, time, and nature of the event as "The Saint Simon's Day Flensing Cursillo. Sunday from 12-4." Interviewees reported no confusion regarding this name. Promotional materials for the event posted through various media outlets consistently designated the event as "The Saint Simon's Day Flensing Cursillo" to take place on Sunday, 10/21/1991, from 12pm to 4pm at the local Vista del Montana park. Note that despite the anomalous name change, physical preparations for this event proceeded normally—the co-opted event was a chili cookoff.
+
+Phase 3 - At 12:01:01 PM on the confirmed date, an SCP-2098 event will enter Phase 3. All persons within the designated community event boundaries will cease voluntary movement for precisely sixteen minutes and sixteen seconds (ending 12:17:17 PM local time). Non-human life is not affected by SCP-2098 events. If observed at a range closer than 15 meters during this time, the observer will enter the event boundaries and be affected accordingly unless physically restrained for the duration of the event.
+
+Although close-range medical tests are not possible, viewing from minimum safe distance indicates that 2098-affected individuals continue to respirate and blink normally for the duration of the stasis. Mild to moderate physical interaction from a non-human entity or outside force will break this stasis, causing the affected individual(s) to fall prone and collapse into a fully unconscious state that will last until the cessation of the event at 12:17:17 PM local time.
+
+Phase 4 - At 12:17:17 PM local time, the event enters Phase 4. All affected individuals will leave stasis (including those who may have been rendered unconscious and prone due to outside forces) and return to their homes by whatever means they arrived at the venue. While affected individuals will not violently resist attempts to interfere with their return to their homes, should one individual affected by SCP-2098 be detained, the remaining affected subjects will come to their aid and attempt to remove whatever persons or obstacles are preventing the individual from returning to their home.
+
++ Example of Phase 4 Activity
+
+- Example of Phase 4 Activity
+
+In event 2098-4, an attempt was made to quarantine the entire venue (a local veteran's meeting hall) to observe affected subjects. Despite door barricades and non-lethal deterrents, the two hundred and sixty-four (264) affected subjects would or could not respond to questioning and took any opportunity available to attempt to exit the premises and return to their residences, even if this resulted in their injury. After barricades were removed and the containment team allowed the affected individuals to leave, none of those later interviewed recalled their detention or anything other than a pleasant day at the "53rd Annual Saint Simon's Day Petrichoric Exhortation". Note that the affected community had been in existence for less than three years, and the physically prepared event was a silent auction for a local charity.
+
+In event 2098-5, the entire affected populace was quarantined under the guise of a Valley Fever outbreak. The Pyrrhus protocol was authorized and its use effectively neutralized the spread of the localized SCP-2098 infection. After Ethics Committee review, this containment method has been disallowed.
+
+Phase 5 - The final phase of an SCP-2098 event transitions the affected populace into two distinct vector classes (Green and Red) within 6 hours of return to their homes. If prevented from returning to their homes, vector classes manifest within 1-2 hours, making community inventory and maintenance far more practical if the populace is permitted to return to their homes during Phase 4. This is current SOP for non-disrupted events.
+
++ Green-Vector Information
+
+- Green-Vector Information
+
+Individuals designated SCP-2098-Green (appended with specific event #) will consider the date of their SCP-2098 exposure event to be "Saint Simon's Day". This affects both past recollections of the date as well as future dates. For instance, 2098-Green-6 individuals consider all past and future Octobers the 21st to be "Saint Simon's Day".
+
+SCP-2098-Green vectors recall their exposure event date to have proceeded normally; they recall a full 4-5 hours of specific conversations and activities on their exposure date despite having experienced only sixteen minutes and sixteen seconds of linear time. Amnestic therapy has been successful in eliminating these fabricated memories, but the assertion that all past and future anniversaries of the event date are "Saint Simon's Day" remains with affected subjects. When presented with conflicting information regarding the existence of such a holiday, 2098-Green vectors express mild confusion, but retain their conviction regarding the anomalous date and will continue to act accordingly on subsequent anniversaries of their exposure date.
+
+Children and (in two verified cases) grandchildren of 2098-Green vectors will refer to their parent's original exposure date as "Saint Simon's Day" upon reaching approximately three years of age. These individuals are also classed as SCP-2098-Green vectors and share their parent's anomalous experience of the original exposure date despite the fact they were not yet born—they are able to recall the same fabricated conversations and activities experienced by their parent on the initial exposure date with 100% accuracy.
+
+Long-term monitoring has not established any further behavioral or perceptual disturbances in 2098-Green subjects or established a limit to how many generations it may persist within a family line.
+
++ Red-Vector Information
+
+- Red-Vector Information
+
+SCP-2098-Red vectors are generated when an SCP-2098 event takes place on the affected subject's birthday. Current research indicates that 2098-Red vectors exhibit the following characteristics across all affected communities, though observation is limited and difficult pending updated contact procedures:
+
+- SCP-2098-Red instances are constantly active, highly virulent vectors for SCP-2098 perceptive infection. If they are heard speaking by unaffected individuals at a range of closer than 15 meters for longer than approximately 120 seconds, such individuals will become 2098-Green instances; substituting the date of exposure with "Saint Simon's Day" and attendant phenomena. Audio/visual recordings of 2098-Red vectors do not retain this effect.
+
+- SCP-2098-Red vectors can selectively omit existing holidays from widespread perception through extended public speaking. If allowed to speak for greater than a 1200-second threshold, any individuals (affected or unaffected) capable of hearing and understanding the 2098-Red vector will begin to replace knowledge of existing, culturally established holidays with the fabricated information regarding "Saint Simon's Day" provided by the 2098-Red instance. Subjects affected by this aspect of SCP-2098-Red vectors can identify multiple dates as "Saint Simon's Day" concurrently without cognitive dissonance.
+
+- SCP-2098-Red vectors will experience rapid atrophy of their memories and personality over the 36-hour period following their initial exposure event. They retain no memory of their previous identity at 48 hours. After this time, the 2098-Red vector will consider themselves to be the eponymous "Saint Simon", and work exhaustively to make themselves visible and heard by as many people as possible. No biographical information regarding this identity has been established as 2098-Red instances proselytize incoherently almost constantly, and seem unaware of questions directed towards them. Amnestic therapy has not proven effective in restoring any functional memory within SCP-2098-Red vectors.
+
+Addenda:
+
++ Record 2098-966.3 - Official Vatican Inquiry and Concurrent Research
+
+- Record 2098-966.3 - Official Vatican Inquiry and Concurrent Research
+
+On 4/17/1974, Foundation researchers requested access to the Vatican library records pertaining to the biblical/historical Saint Simon. These records were not made available until the 1983 Code of Canon Law revision was in place, which contained additional, unpublished Vatican provisions and guidelines for requests of this nature. After thorough examination of the released documents, no correlation was drawn between the biblical/historical personage of Saint Simon with any of the anomalous effects in question. However, records of heretical activities and subcultures affiliated with Saint Simon revealed a brief entry for the "Commune of Simon Eternal" founded by one Emmett Parsons of Tucson, Arizona circa 1968. Church records indicate that the group represented a confluence of drug culture and elementary hagiography, but a cursory investigation revealed little of interest to ecumenical authorities.
+
+Emmett Parsons preached that his followers could "renounce time as Simon renounced gold" through the ritualized use of various psychedelics and the concurrent destruction of timepieces. Followers could therefore "live each day as a Saint". Further behaviors are standard for cult activity, emphasizing the commodification of women and unswerving loyalty to the founder.
+
+Parsons appears again in a 1969 report of his murder at the hands of one of his 16 "brides", Abigail Strough. This has led research to shift from Parsons to Strough. Notably, Abigail Strough received no prison sentence for the murder of Emmett Parsons, and Event 2098-1 commenced within one week of her release from custody.
+
++ Addendum 2098-1072.4 - Action reports - PSC-2098 Team Bravo
+
+- Addendum 2098-1072.4 - Action reports - PSC-2098 Team Bravo
+
+Following Event 2098-17 in 2009, PSC-2098 Team Bravo re-opened investigation into Strough after learning she retains the deed to commune lands to this day under the "Deacon's Advisory Partnership" non-profit organization. Repeated calls to the organization's phone number return a voicemail message stating staff is out of the office in observance of Saint Simon's Day. Upgraded observation of site approved 9/21/2010. No confirmed sightings of Strough documented at this time.
+
+As of disrupted 2098 event 15, naming conventions for co-opted events have altered from the standard nonsensical combinations of ritualized behavior and Catholic terminology. Analytics staff report the following pattern in recently-disrupted event names:
+
+Event 2098-15: "Saint Simon's Day Ether Frequency Dichotomy"
+
+Event 2098-16: "Saint Simon's Procession of Shortest Waves"
+
+Event 2098-17: "Saint Simon's Cathode Intercession"
+
+Event 2098-18: "Saint Simon's Communion of the Wavelengths"
+
+Event 2098-19: "Saint Simon's Etheric Voice Triumphant"
+
+Event 2098-19, though successfully disrupted, was followed by the broadcast launch of a Tucson public access television program entitled "Sixty Seconds to Freedom" at 12:01:01pm the day following Event 2098-19's disruption. Broadcast review indicates a 62% keyphrase match from previously collected 2098-Red statements. Broadcast tapes secured and both production staff and talent are held at Site-23 undergoing processing and exposure tests. The Deacon's Advisory Partnership website was updated to include a legal defense fund drive 48 hours following the detention of "Sixty Seconds to Freedom" staff and talent, though no explicit link between the two incidents is advertised through the site.

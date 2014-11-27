@@ -1,0 +1,31 @@
+Item #: SCP-125
+
+Object Class: Euclid
+
+Special Containment Procedures: Supports for instances of SCP-125 are kept in padded boxes and covered with a fine nylon mesh that allows vision through, but obscure the surface of the mirror by at least 25%. These supports consist of a polished metallic surface (currently silver-plated brass) with no sharp or irregular edges, which must imperatively remain dulled to prevent rips in the protective mesh. To further prevent incidents, any person penetrating the room where SCP-125 is located must also wear such a protective mesh over their face. Metal-plated glass mirrors should be avoided for the purpose of SCP-containment as SCP-125 is capable of moving from the glass itself to the metal surface.
+
+Any metallic surface in the room must be dulled to prevent reflections. As an additional security measure, the room is kept in darkness and monitored via infrared and ultraviolet lighting when no experiment is taking place.
+
+No mirror or comparably reflective surface (including, but not limited to, metal-case pens, sunglasses, laptop computer, and glass objects) may be allowed in the room outside controlled experiment. For this reason, the SCP may not be photographed or filmed in its unrestrained state.
+
+If any personnel on site, and particularly personnel having recently been involved with SCP-125 reports seeing black dots, MTF Eta-10 and Chi-7 will be immediately put on standby and a level-2 alert for potential containment breach will be declared. Individuals contaminated will undergo containment protocol 125-b and may not return to active duty until the instance of SCP-125 affecting their cornea has been rendered completely inert.
+
+Description: SCP-125 is an apparently sentient "being" that can only exist within reflections.
+
+At rest and viewed up front, it takes the form of a black circle 17.2mm in diameter resting on the reflective surface. Its first anomalous characteristic is that it appears as a perfect circle to any observer regardless of the surface's angles, bends, and the location of the viewer or viewers. In that regard it acts more as if it were a sphere in contact with the surface, but lacking any shadow or highlight, and this even where an obstacle, such as containment mesh, makes it clear SCP-125 does not extend beyond the surface it has "imprinted" to.
+
+SCP-125 does not reflect visible light or infrared. When observed in ultraviolet, however, [DATA EXPUNGED] up to and including [DATA EXPUNGED]. For unclear reasons, it also emits a minute, but measurable and constant amount of X-rays.
+
+SCP-125 is capable of movement across the surface it currently exists on. This movement may only occur across a surface uninterrupted by either an angle (the surface must follow a reasonably continuous curve) or a non-reflective area. SCP-125 has demonstrated incapability to cross scratches, frosted or etched areas of a surface. In many instances however, SCP-125 will circumvent these limits by jumping to a reflection to round a corner, or between the separate outer glass and silver surfaces of a metal-glass mirror (this is the reason why opaque metallic surfaces should be preferred for containment purposes). Although capable of moving anywhere along the surface, SCP-125 generally remains immobile in a location near its edges if any, and if on a surface that has a specific, immobile orientation, will usually remain in the lower right corner or its equivalent, even if the item is later moved.
+
+Any reflective surface capable of displaying a reasonably accurate reflection of SCP-125 can host it. So far this has included a wide ranges of mirror-quality surfaces, glasses, polished or varnished surfaces (such as stone and wood), glossy plastic and even undisturbed pools of liquid or polished nails. When reflected by another surface, SCP-125 is capable of instantly "transferring" to it. However, SCP-125 cannot "survive" on, transfer to or away from a surface smaller than its own area ( approx. 2.32 cm2). Should it be constrained to one, it will rapidly become translucent and disappear completely.
+
+The entity has demonstrated a certain level of sentience and even sapience. Despite lacking physical existence, it appears "unwilling" to be "touched" directly or otherwise hidden from sight. It will also resist to the best of its abilities any attempt at reducing its freedom of movement either by "jumping" to another surface or moving across its current one very fast. It will also "flee" from perceived threats, even complex ones expressed by speech, demonstrating an understanding of human communication. How it is capable of this and whether it can or wishes to communicate back is currently unknown.
+
+In its normal state, SCP-125 is completely harmless and incapable of multiplying. It is, however, perfectly capable of moving to a living reflective surface, specifically that of a living animal's cornea. It will, in fact, do everything in its power to do so, indicative of a natural "desire". Once it has achieved this, SCP-125 diminishes in size by a factor of 10 to 1.72 mm in diameter. While existing on the surface of a living tissue, SCP-125 becomes capable of multiplying and infecting a potentially unlimited number of surfaces, as opposed to merely moving between them. This multiplication occurs within the cornea, rapidly causing the victim to complain of "seeing dots."
+
+Past this stage, the SCP-125 infestation will rapidly (within five to nine days of initial infection) crowd out the entire tissue, causing the eye to go blind, after which stage the cells of the eye and optic nerve appear to undergo mass apoptosis, causing a non-infectious abscess. Why this occurs has yet to be elucidated. Only after the apoptotic stage has run its course does SCP-125 cease being contagious. No treatment for SCP-125 infestation is known to be efficient beyond keeping the affected eye(s) tightly covered to prevent further spread and administration of heavy antibiotic to reduce risk of infection.
+
+Outbreaks continue to occur on an irregular basis, suggesting that SCP-125 is either a naturally occurring phenomena or that it was spread over much of the planet at some point prior to the beginning of written history.
+
+For a list of known past outbreaks of SCP-125, see Document SCP-125-Delta

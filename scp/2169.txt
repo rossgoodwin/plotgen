@@ -1,0 +1,137 @@
+Item #: SCP-2169
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2169-1 has been marked as off-limits to civilians and is to be secured by Foundation security personnel masquerading as hospital staff.
+
+SCP-2169 is to be activated at least once per month utilizing a Class D test subject with an injury or condition requiring surgical procedures to correct. Experimentation with or activation of SCP-2169 outside of scheduled activation events may only be performed with prior permission from at least two (2) Level 3 Senior Researchers.
+
+Description: SCP-2169 is an anomalous phenomenon that affect a single operating room with an adjoining observation suite, designated SCP-2169-1. While affected, any surgical procedures scheduled for this operating room will cause SCP-2169 to activate.
+
+When the patient scheduled for surgery within the affected operating room is sedated and moved into the room, the affected operating room will become unreachable; any attempt to open the doors or enter the operating room will inevitably fail, though the observation suite can still be entered and exited. Subsequently, individuals designated SCP-2169-2 will manifest within the room and begin to perform the scheduled surgical procedure on the subject:
+
+One surgeon.
+
+One anesthesiologist.
+
+One scrub nurse or tech.
+
+One specialist specific to the surgical procedure (such as a perfusionist for heart procedures) or an additional nurse.
+
+During the procedure, instances of SCP-2169-2 will converse among themselves on a number of esoteric and often anomalous topics. When the procedure is complete, all instances of SCP-2169-2 will demanifest and SCP-2169-1 will become reachable, after which the affected patient can be removed.
+
+If SCP-2169 is not activated for periods exceeding thirty (30) days, SCP-2169 will move to a new location. Prior to the implementation of current containment procedures, SCP-2169 had affected three different hospital operating wards, all of which were within the eastern seaboard of the continental United States. Staff at the affected hospitals were unable to recall any details of the procedures scheduled for SCP-2169-1 or the supposedly involved surgeons.
+
+Addendum 2169-1: Log of Notable SCP-2169-2 Instances
+
+Several instances of SCP-2169-2 have repeatedly and consistently manifested during SCP-2169 activations and are listed below:
+
+SCP-2169-2-1 — Appears to be a middle-aged male of indeterminate ancestry, and has filled the role of the surgeon in 83% of recorded activations. Has repeatedly been called "Dave" by other instances of SCP-2169-2.
+
+SCP-2169-2-2 — Appears to be a middle-aged female of possibly Hispanic ancestry, and has filled the role of scrub nurse in 68% of recorded activations. Appears to be named "Norma".
+
+SCP-2169-2-4 — Appears to be a male Asian approximately 40 years of age. Consistently filled the role of anesthesiologist following initial containment, but eventually was replaced by other individuals. Appeared to have been named "Sam".
+
+SCP-2169-2-6 — Appears to be a male African-American approximately 30 years of age. Has filled the role of perfusionist in 98% of all recorded activations involving heart surgery. Called "Joe" by other instances of SCP-2169-2.
+
+SCP-2169-2-11 — Appears to be a female European-American approximately 25 years of age. Filled the role of anesthesiologist following the disappearance of SCP-2169-2-4. Name unknown.
+
+Addendum 2169-2: Log of Notable Activations
+
+Date: ████-██-██
+
+Subject: D-3358 (liver transplant)
+
+Instances Involved: SCP-2169-2-1 (surgeon), SCP-2169-2-2 (scrub nurse), SCP-2169-2-4 (anesthesiologist), SCP-2169-2-7 (scrub nurse)
+
+SCP-2169-2-1: …so I said to him, "that's completely ridiculous, you'll never get that much plasma through the tertiary pipeline".
+
+SCP-2169-2-2: (laughs) No kidding, he's a complete goofball.
+
+SCP-2169-2-1: I know, right? I don't know why the super even keeps him around. Between you and me, he's a complete liability and I'm not just saying that because he might take my job.
+
+SCP-2169-2-7: Watch it.
+
+SCP-2169-2-1: Whoops, I got it. And… done.
+
+SCP-2169-2-4: Nicely done. Let's log.
+
+(Instances demanifested. Subject later made a full recovery.)
+
+Date: ████-██-██
+
+Subject: D-4425 (heart transplant)
+
+Instances Involved: SCP-2169-2-1 (surgeon), SCP-2169-2-2 (scrub nurse), SCP-2169-2-6 (perfusionist), SCP-2169-2-11 (anesthesiologist)
+
+SCP-2169-2-2: So what's it like to be unemployed?
+
+SCP-2169-2-1: Not so bad, actually. I have enough saved up to actually take my time looking for something that isn't going to feel like a grind, and hey, it lets me be on more often, so silver lining, right?
+
+SCP-2169-2-2: I hear that. Hey, wait, something's…
+
+(Alarms sound.)
+
+SCP-2169-2-11: Oh crap, I screwed up. Crap, crap crap.
+
+SCP-2169-2-2: Hold it, try to resuscitate.
+
+(Irrelevant dialogue abridged.)
+
+SCP-2169-2-1: Ahhh shit, I think we lost him.
+
+SCP-2169-2-11: I'm so sorry, it was my first—
+
+SCP-2169-2-2: Hey, don't worry about it, hon. It happens.
+
+SCP-2169-2-1: Yep, everyone's gotta learn sometime. We'll give it another shot later.
+
+(Instances demanifest. Subject confirmed dead.)
+
+Date: ████-██-██
+
+Subject: D-4429 (displaced multiple fractures in right femur)
+
+Instances Involved: SCP-2169-2-1 (surgeon), SCP-2169-2-2 (scrub nurse), SCP-2169-2-19 (scrub nurse), SCP-2169-2-11 (anesthesiologist)
+
+SCP-2169-2-1: And now, we just have finish up the last couple of stitches… and done.
+
+SCP-2169-2-11: We're done?
+
+SCP-2169-2-1: Yep! See, that wasn't so bad.
+
+SCP-2169-2-2: Yay!
+
+SCP-2169-2-11: Aww, thanks guys. I really appreciate it.
+
+SCP-2169-2-2: You should totally take a screenie.
+
+SCP-2169-2-11: Oh, hey, good idea.
+
+(At this point, all four instances of SCP-2169-2 faced the observation suite and posed over the subject for several seconds.)
+
+SCP-2169-2-2: Got it?
+
+SCP-2169-2-11: Yep! Thanks, guys!
+
+(Instances demanifested, subject confirmed alive and well.)
+
+Date: ████-██-██
+
+Subject: D-4811 (heart bypass)
+
+Instances Involved: SCP-2169-2-1 (surgeon), SCP-2169-2-2 (scrub nurse), SCP-2169-2-25 (unknown), SCP-2169-2-11 (anesthesiologist)
+
+(Upon manifesting, SCP-2169-2-25 began vocalizing loudly, grabbed a scalpel, and began stabbing the subject repeatedly in the chest.)
+
+SCP-2169-2-25: TRO-LO-LO-LO-LO-LO-LO-LO-LO-LO-LO
+
+SCP-2169-2-1: Damnit!
+
+SCP-2169-2-2: Goddamn pugs.
+
+(SCP-2169-2-25 demanifests. Medical monitoring equipment confirms subject is dead at this point.)
+
+SCP-2169-2-1: Fuck, just wipe it.
+
+(Instances demanifest.)

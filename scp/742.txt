@@ -1,0 +1,21 @@
+SCP-742 (shown in red) infecting a cell
+
+Item #: SCP-742
+
+Object Class: Keter
+
+Special Containment Procedures: Instances of SCP-742-1 are kept in separate solitary confinement cells in the maximum security wing of Site-██, and are fed █ kilograms of freshly harvested human bone marrow obtained [REDACTED] in addition to standard humanoid-grade rations.
+
+Samples of the SCP-742 virus itself are kept in a secure vault at Site-19. Personnel are to note that while infected individuals are extremely dangerous, SCP-742 itself has exceedingly low infectivity except when injected directly into the bloodstream and is not considered a biohazard.
+
+Mobile Task Force ██████-█ has been created to respond to uncontained outbreaks of SCP-742, and are currently in the field in █████████, ████████████████.
+
+Description: SCP-742 is a retrovirus, approximately ██ times more complex than any known naturally occurring virus. SCP-742 infects all cell types but initially only enters the lytic cycle in helper-T cells, leading to a state of immuno-compromise that allows SCP-742 to infect every one of the infected subject’s cells. Infected cells secrete hormones that increase appetite as well as a signal-compound, once full infection is achieved concentration of this signal compound reaches a target level and the infection enters stage two.
+
+During stage two SCP-742 affects the nervous system, causing the infected subject to ravenously consume large quantities of protein-rich food and then seek a dark, secluded area (often a cave, abandoned building, or crypt.) At this point the subject enters a state of hibernation, slowing the metabolism to the point of apparent death. During this period the SCP-742 retrovirus completely reverse-transcribes itself into the infected subject’s DNA and de-activates its viral properties — following this event the subject is designated SCP-742-1.
+
+Newly created instances of SCP-742-1 use the food-energy ingested during the viral phase to alter their physiology, resulting in an organism superficial similar to a human being but with a second alimentary tract linked [DATA EXPUNGED] roof of the mouth, several new organs of indeterminate function, and a subtly altered nervous system. Once fully transformed, instances of SCP-742-1 continue to function as if they were normal human beings, and are virtually indistinguishable without medical examination. However, SCP-742 infection destabilizes the genome during reverse-transcription, leading to symptoms consistent with telomerase dysfunction within approximately a month.
+
+SCP-742-1 can prevent this by ingesting human stem cells. In the wild, SCP-742-1 are nocturnal hunters, preying on isolated humans. The victim is first paralyzed by a venomous bite, then drained of bone marrow via [REDACTED]. Occasionally some of the victim’s flesh will also be cannibalized for sustenance. Instances of SCP-742-1 do not age normally and, if kept supplied with stem cells, are biologically immortal. Instances of SCP-742-1 specifically target younger victims because of the higher volumes of stem cells that can be obtained. Children who still have baby teeth will be found with their teeth missing in addition [DATA EXPUNGED]. Instances of SCP-742-1 will also target pregnant mothers in order to enter an infectious state.
+
+Normally SCP-742-1 uses pluripotent stem cells from bone marrow to regenerate itself and is incapable of spreading the SCP-742 infection. However, after ingesting at least ███ grams of totipotent stem cells (typically from a human fetus, although the source is irrelevant) SCP-742-1 secretes a small amount of fluid filled with the SCP-742 retrovirus from the ███████████ glands. This fluid, injected [DATA EXPUNGED] major artery of a human victim is the primary transmission vector for the SCP-742 infection. Instances of SCP-742-1 behave subserviently toward the instance that infected them.

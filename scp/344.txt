@@ -1,0 +1,67 @@
+SCP-344, after repairs
+
+Item #: SCP-344
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-344 is to be stored in Site-██, in a high-security storage locker, combination changed weekly. Personnel wishing to use SCP-344 for research purposes should contact Dr. ██████. Due to the hazards presented when a can is opened, it is recommended that a remote-control device be used to manipulate the object.
+
+Description: SCP-344 is a ████-brand manual can opener manufactured some time before 19██. When an attempt is made to use SCP-344 to open a tin of canned food, there is a probability that, as soon as the top of the can is fully opened, the food inside will be replaced with live versions of whatever the can originally contained. The amount of live material released is equal to how many separate individuals of that given species were required to produce the contents of the can, provided the weight of an individual's remains is above 0.██ mg. For example, if a can of tuna has the remains of fifty tuna in it, then fifty live tuna will come out of the can. Compressing items like this into a small space causes significant pressure, resulting in the objects being propelled out with some force, potentially causing injury to anyone within the area of effect. Live organisms in a can that is opened by SCP-344 undergo no observable changes.
+
+Despite the theoretical probability of the effect's manifestation being approximately 50 percent, recorded Foundation tests show a probability closer to 3█.██% for sentient organisms, 1█.██% for non-sentient plant materials, and ██.██% involving [REDACTED]. It is also unknown where the live material comes from, as spontaneous regeneration would result in a violation of the law of conservation of mass and energy. It seems most likely that the material is either teleported to the can from existing stocks on Earth, or [REDACTED]. Given experiments in Log-██, [REDACTED] seems more likely.
+
+After approximately 34 hours, all sentient organisms released from the can will undergo [DATA EXPUNGED]. All sentient organisms should be terminated before this occurs. This does not apply to non-sentient plant materials.
+
+The item was brought to the attention of Foundation personnel on February 1st, 19██, via a news report of a bizarre event in a small ███████ town. Sgt. Michael █████ had arrived home after participating in [REDACTED]. His mother reported that he expressed a desire to eat some canned beef, which he acquired, and then produced a can opener from his pocket, saying he had acquired it as 'spoils of war', and proceeded to use it to open up the can. Upon fully opening it, a ███-kg heifer crushed him to death. Agent ████, who had been investigating a separate incident at the time, immediately responded. Upon arriving at the scene and conducting interviews, he soon came to the conclusion the can opener was responsible and confiscated it, replacing it with a facsimile. The original has been at Site-██ ever since, with the exception of a single [DATA EXPUNGED].
+
+The heifer that was released eventually underwent [DATA EXPUNGED]. The event and its subsequent cleanup was covered-up as a █████ missile strike.
+
+Addendum:
+
+On July █5, 19██, Dr. ████ attempted to open a can of pork in Site-██'s break room, unwittingly using SCP-344. The can's abilities manifested, and Dr. ████ was killed instantly by crushing. While an investigation was launched, it was never determined who placed SCP-344 in the break room. To prevent further 'practical joking', SCP-344 was moved from low-security lockers to mid-security ones, and its password changed weekly instead of monthly.
+
+TEST LOG: SCP-344 [PARTIAL]
+
+TEST: SCP-344-T5
+
+ITEM: Can of ██-███ tuna meat
+
+RESULT: Sixty-seven (67) tuna and one (1) dolphin (despite can being labeled 'dolphin-free') flew out of the can at a recorded speed of ███ km/h, severely injuring subject D-2856, who opened the can. All of the animals that came out of the can were incinerated, save for one tuna that was placed in secure cold storage. This did not prevent [DATA EXPUNGED].
+
+TEST: SCP-344-T6
+
+ITEM: Can containing ~200-nanogram sample of pig skin cells.
+
+RESULT: After ████ attempts, test was abandoned.
+
+TEST: SCP-344-T8
+
+ITEM: Can of ████'s beans
+
+RESULT: It took almost ██ tries before a positive result was achieved, suggesting that the can opener's abilities do not manifest as readily with plants. Surprisingly, instead of shooting out ca. 900 pre-cooked beans as the researchers expected, the can instead shot out 324 separate bean plants, causing minor damage to the containment area and burying the D-class directed to open the can. All but one bean plant were burned. The remaining plant did not [DATA EXPUNGED] as expected.
+
+CONJECTURE: The fact that there were not 914 separate bean plants suggests that SCP-344 attempts to put beans that were on the same plant back together.
+
+TEST: SCP-344-T9
+
+ITEM: Can of ██████ cherries
+
+RESULT: As with SCP-344-T8, it took several more tries than statistically predicted before SCP-344's abilities manifested. Once they did, however, almost ██ cherry trees exploded out of the can, killing subject D-8234 instantly and making recovery of his remains difficult. Due to lessons learned from SCP-344-T8, the test was performed outdoors, preventing damage to Site-██, although recovery of the 'escaped' plants took some effort. SCP-344 was slightly damaged by the event, having one of its handles bent out of shape, which was later repaired. The cherry trees did not undergo [DATA EXPUNGED].
+
+Note: Given its destructive potential when summoning plant matter, SCP-344 is to be moved to high-security lockers. -Dr. ████
+
+TEST: SCP-344-T12
+
+ITEM: Can of Human Remains
+
+RESULT: [DATA EXPUNGED]
+
+TEST: SCP-344-T15
+
+ITEM: Can of harvested meat from a still-living Berkshire boar
+
+DESCRIPTION: The boar was placed under surveillance in a room three (3) kilometers from the test chamber. The meat harvested from the boar was ground up and placed in a can, which was then placed in the test chamber. Robotic manipulators were used for this test.
+
+RESULT: After several attempts, the SCP-344's abilities manifested. The boar disappeared from its room in a burst of emissions from across the electromagnetic spectrum, but not in amounts lethal to humans. At the same time in the test chamber, the boar was seen to launch out of the can, slamming into a far wall. The damage done by the harvesting process was observed to have been completely repaired. Class-D personnel were sent into the room to contain the boar, which was mostly unharmed despite its collision with the wall. As soon as they entered the room, the boar became extremely aggressive, culminating in it manifesting [DATA REDACTED].
+
+Note: Further testing with still-living creatures is discouraged, unless under heavy containment and neutralization procedures.

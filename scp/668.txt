@@ -1,0 +1,31 @@
+SCP-668
+
+Item #: SCP-668
+
+Object Class: Euclid
+
+Special Containment Procedures: [REVISED] As of [DATA EXPUNGED], no special containment procedures aside from standard security are required. SCP-668 is to be transferred to a locked safe-deposit box at Site 19's High Value Item Storage Facility. Standard defenses against intrusion (explosive, chemical, biological, and memetic) are to be in place at all times, according to standard operating procedure.
+
+SCP-668 may only be removed from its safe-deposit box by personnel with Security Clearance 2 or higher. Individuals wishing to make use of SCP-668 outside Site 19 must first submit a Form-668 Requested Course of Action form to O5-11 and be fitted with an explosive killswitch collar on a 24-hour timer before taking SCP-668 into the field. An Auditing Officer with Security Clearance 4 or higher must confirm that SCP-668 has been returned to its safe-deposit box before the collar is deactivated.
+
+Description: SCP-668 is a 33cm (13in) chef's knife with a rosewood handle and full-tang construction, crafted at some point from the late 1930s to the early 1940s. When first acquired by field operatives, SCP-668 was in badly rusted condition, with heavy pitting from blood stains and other bodily fluids trapped in micro-crevices within the blade. Following thorough analysis, these irregularities were removed for aesthetic purposes. This has had negligible, if any, effect on SCP-668's special properties.
+
+The first recorded appearance of SCP-668 was in the 1960s, during the infamous [DATA EXPUNGED] case. [DATA EXPUNGED], a New York woman living alone, was allegedly raped and murdered by subject [DATA EXPUNGED]. Despite the fact that 38 witnesses reported hearing the attack, none of them attempted to aid the young woman for over six hours, until her eventual death. Whether the item received its properties due to this event, or whether it had them beforehand, is a matter of debate (see Dr. [REDACTED]'s paper re: the Bystander Effect, vs. Dr. [REDACTED]'s theory regarding psychic imprintation.)
+
+What is clear, however, is its current properties. When carried by a human or humanoid entity with violent intent towards another human or humanoid entity, SCP-668 broadcasts a psychic signal that renders all sentient beings with a Psionic Resistance Index of 97 or lower incapable of assisting the victim. Affected entities report a sudden sense of apathy while under SCP-668's influence: sensory input is not affected, and affected entities report feeling revulsion and horror, but are simply incapable of acting, even indirectly, to assist the victim. Meanwhile, it renders the victim incapable of defending themselves against their attacker.
+
+Tests using Class-D personnel have shown no upper limit in the number of entities affected by the psychic resonance. In one test, twelve Class D Personnel due for first-of-the-month termination were placed in a room alongside a researcher who was told to randomly select one test subject for death. The researcher killed all test subjects one by one, despite their professed horror. Prior incidents have indicated the possibility of hundreds, if not thousands of deaths due to SCP-668's unique properties (see Incident Report 668 A re: [REDACTED] Mall massacre and subsequent information blackout operations).
+
+Recovery of SCP-668 in such scenarios is problematic due to the item's psychic properties. Agents attempting to apprehend the subject during Containment Failure Incidents are often themselves affected by SCP-668's so-called "Apathy Field," resulting in casualties among Foundation personnel. Following Incident 668-A, standard retrieval protocol includes the use of a long-range sniper rifle, double-blind conditions, and three different agents working in tandem through carefully coordinated actions to prevent any of them realizing that they are actively opposing the subject.
+
+Because of the obvious apocalyptic possibilities, it is the recommendation of this panel that SCP-668 be designated a Keter-level threat and placed in high-level confinement.
+
+Addendum 668-a: Following further testing, it has been determined that test subjects wielding SCP-668 can be terminated through passive response, so long as the terminating agent is introduced before the subject takes possession of SCP-668. The Running Man protocol (see Appendix 668-B: Approved Terminating Agents) is hereby approved for use with SCP-668, and the item in question is hereby reclassified as a Euclid-type object.
+
+Addendum 668-b: Use of Omega-7 personnel for retrieval of SCP-668 during future Containment Failure Incidents is to be hereby forbidden due to the danger of SCP-076-2 coming into contact with the item. Addendum 668-b is revoked as of [DATA EXPUNGED] due to SCP-076-2's expressed distaste at using an item that, in its own words "takes all the fun out." Possibility of using SCP-076-2 as a solo agent for any future Containment Failure Incidents under review. With the ending of the Omega-7 project, no further attempts to weaponize SCP-076-2 or SCP-668 are to be attempted.
+
+Addendum 668-c: Do not, under any circumstances, allow SCP-668 to come in contact with SCP-682. Note that although average human beings have a Psionic Resistance Index of 24, SCP-682 has been tested with a PsiRI of [REDACTED] placing it above SCP-668's threshold of effect. The possibilities of a creature inimical to all life gaining possession of something like this should be obvious. With the ending of the Omega-7 project, no further attempts to weaponize SCP-682 or SCP-668 are to be attempted.
+
+Addendum 668-d: Request to reclassify SCP-668 under its original designation as a Keter-class object under review.
+
+Addendum 668-e: Request to reclassify SCP-668 under its original designation as a Keter-class object denied. SCP-668 will remain at Euclid classification.

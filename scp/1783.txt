@@ -1,0 +1,71 @@
+[[>]]
+
+[[/>]]
+
+SCP-1783, during testing.
+
+Item #: SCP-1783
+
+Object Class: Safe
+
+Special Containment Procedures: Under no circumstances are any individuals with type-B blood antigens (B+/-, AB+/-) to be permitted within 100m of SCP-1783. Standard blood screenings should allow the location and removal of any such individuals from duty at Site 38. In the event personnel with B-type blood antigens enter the effect radius, SCP-1783 will become enraged until such individuals are brought into its presence for it to attack, or until it has been isolated for 30 (thirty) hours. Affected individuals are to be immediately tranquilized and placed in containment with SCP-1783 until conversion process is complete; fully converted individuals may be left in containment with SCP-1783, placed in storage, or destroyed at the discretion of Site 38 command.
+
+SCP-1783 is to be contained in the courtyard at Site 38. Dry dog food of any type is to be supplied in a bowl twice daily. D-class personnel are to be sent in with gloves to retrieve all instances of SCP-1783-A at least once daily. All instances All unusual instances of SCP-1783-A are to be analyzed at Site 38; a veterinarian is to be kept on staff to study instances for signs of physiological distress, followed by analysis of the instances themselves for any potential insight into SCP-1783's origin or nature.
+
+UPDATE: In light of recent discoveries (see Addendum 1783-3), containment procedures are to be modified as follows: SCP-1783 is to be contained in a 2m x 2m x 2m stainless-steel containment safe designed specifically for SCP-1783. This safe is to be equipped for feeding and waste removal via portholes. In the event that repair or backup waste removal becomes necessary, the safe may be opened by D-class personnel and maintenance performed. In the event SCP-1783 enters its "rabid" state, maintenance is to be postponed until standard behavior resumes. All protocols regarding personnel requirements and monitoring of SCP-1783-A remain in place.
+
+Description: SCP-1783 is an entity resembling a specimen of Canis familiaris, specifically a fawn pug, standing approximately seventy (70) centimeters in height, composed entirely of cut-out segments of cardboard. SCP-1783 is fully animate, capable of locomotion via an unknown mode of transit similar to very short-length teleportation; researchers have compared the appearance of SCP-1783's movements to that of stop-motion animation. These motions are limited to A) instantaneously shifting from a lying- or sitting-down posture to a standing position and vice versa; B) instantaneously shifting 1-3cm at a time in the direction of its orientation, with frequency of shifts increasing during "running" states; and C) small shifts of SCP-1783's "head" back and forth depending on its mood.
+
+SCP-1783 behaves almost identically to non-anomalous members of Canis familiaris in terms of seeking food, expelling waste, barking, and panting to reduce internal heat.1 SCP-1783 requires approximately 720 calories/day, an intake indicative of an eleven (11)-kilogram dog, despite an actual measured mass not in excess of 450 grams. When nutritional minimums are not met, signs of poor health will become apparent in instances of SCP-1783-A. SCP-1783-A is an object apparently identical in make to an instant-film or Polaroid photograph. Three to five times daily, SCP-1783 will emit a sharp whine and crouch its rear torso; within seconds, a new instance of SCP-1783-A will appear. When SCP-1783-A is in good health, instances produced will depict dog feces of normal size and consistency for a 10-15kg pug. Alterations to SCP-1783's diet will make themselves apparent in these photographs.
+
+SCP-1783 will play normally with humans in its presence, retrieving thrown toys and bones and returning them to the thrower.2 SCP-1783 likewise has normal canine reactions to other dogs (curiosity, playfulness) and cats (anger, aggression). However, all non-primate mammals demonstrate intense fear of SCP-1783, whining and attempting to escape its presence. This is believed to be connected to SCP-1783's appearance and movement being similar to a conventional dog, but without producing any scent.
+
+Addendum 1783-1: SCP-1783 was brought to Foundation attention during an apparent attack against Foundation Site 38 on 11/02/1999. Four individuals, identified as having some association with Group of Interest Sigma-5 ("Serpent's Hand"), penetrated the perimeter of Site 38, entered the building in force carrying a small container, surrendered the container to Foundation security forces, and promptly committed suicide via cyanide ingestion. The container held SCP-1783 and a note, purportedly written by [DATA REDACTED—LEVEL 4 CLEARANCE REQUIRED].
+
+Addendum 1783-2: On 4/10/2000, SCP-1783 began behaving in an unusually agitated manner, growling and barking at the D-class individual sent to retrieve SCP-1783-A samples from containment. SCP-1783's "head" changed into a segment of similar appearance but with white foam drawn around the lower jaw area and with increased redness in the sclera. SCP-1783 charged towards the D-class and attacked; the mechanism by which this occurred is unknown, but D-23893 had sustained multiple aggravated bite wounds when SCP-1783 was separated from him. SCP-1783 remained aggravated and was contained in a metal kennel. D-23893's wounds became infected with an unknown bacterium; the flesh and deep tissue around the bites began to flatten and change into an unknown substance indistinguishable from cardboard. No antibiotic treatments proved effective in halting or slowing the infection, and its spread was too rapid to allow for amputation. D-23893 was ultimately converted completely into an inanimate two-dimensional cardboard cutout of himself, complete with a cardboard crosspiece for supporting him upright.This process took approximately sixty-five (65) hours.
+
+When introduced into containment, SCP-1783 barked and attempted to play with the cardboard cutout of D-23893, then emitted a whining sound and walked away. Over the next several hours, SCP-1783 looked at D-23893 periodically as though listening, whined, and walked away again. Partial decryption of the Serpent's Hand note shortly afterward suggested this behavior was expected; current containment procedures put in place 4/20/00. Subsequent "rabid" states were observed to subside naturally after several days without exposure to B-type antigens.
+
+Addendum 1783-3 (LEVEL 4 CLEARANCE ONLY)
+
+ACCESS GRANTED
+
+STANDING ORDER 1783-Σ-5
+
+FROM: O5-9
+
+TO: CURRENT HEAD ADMINISTRATOR, SITE 38
+
+BY ORDER OF THE O5 COUNCIL:
+
+Communication was made by individuals claiming to represent Group of Interest Sigma-5, "Serpent's Hand," to the Foundation on the date of SCP-1783's acquisition in the form of an encrypted message accompanying the anomalous object. The partial decryption we have of this communication is included below.
+
+Regardless of the conventional understanding of the relationship between the Serpent's Hand and the Foundation, you are ordered to follow all instructions and restrictions set forth in this document. Our researchers have independently verified the veracity of its contents. The potential for mass chaos in the event of containment failure in this instance is significant to a degree you are not cleared to know at this time.
+
+O5-9
+
+MESSAGE BEGINS:
+
+"By the time you decode this, you'll be stuck with it. It turned two of us before we tried to destroy it; we lost six before we figured out that we couldn't. It's yours now. We don't know where it came from or why it chose us, but we can't make it leave us any other way. It'll follow us back if we don't [garbled]
+
+[garbled]
+
+not mistake its behavior for predation or reproduction. It doesn't want to make more of itself, it wants to make a master, but something is wrong. Who can stay sane after this? Can you imagine what it feels [garbled] didn't know about the blood thing for so long. We could have saved so many if Henrik [garbled]
+
+[garbled]
+
+The B-type antigens are like a dominance pheromone to it. It smells them, and it has to bite. It wants the B-types, but it will bite whoever gets too close until it gets what it wants. That was how Sergei died. His lover was B-type, and Sergei hoped he could satisfy it. Nothing satisfies it but the B-types; everyone else is just in the way. It turns the B-types and kills the rest.
+
+[garbled]
+
+Keep everyone safe. Please."
+
+MESSAGE ENDS
+
+All infiltrators were found to be infected with the unidentified bacterium. Autopsy information can be found in Document 1783-38.
+
+Footnotes
+
+1. The mechanisms and motive for these latter two actions are unknown; no movement occurs during barking, and SCP-1783 creates no heat of any sort, which would seem to remove the need for panting.
+
+2. SCP-1783 is capable of approaching objects, moving its head to make contact with the object, and lifting it via unknown means before returning it to the thrower; this mechanism is not fully understood.

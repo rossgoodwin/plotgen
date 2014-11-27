@@ -1,0 +1,25 @@
+SCP-966-2 (as seen through infrared filters)
+
+Item #: SCP-966
+
+Object Class: Euclid
+
+Special Containment Procedures: MTF Iota-1 "Dream Hunters" and MTF Iota-2 "Air Chasers" are to regularly be on the lookout for news about sudden, violent human deaths related to sleep deprivation, in order to find and neutralize remaining wild instances of SCP-966.
+
+The four specimens of SCP-966 (three males, designated SCP-966-1, SCP-966-3, and SCP-966-4, and one female, designated SCP-966-2) acquired by the Foundation must be contained in a 10 x 10 m room made of steel, lined with lead, located on Site-██. Two security cameras with infrared filters and infrared-sensitive film are to be installed inside the room. Each specimen of SCP-966 is to be fed with 20 kg of meat every month.
+
+In the event of SCP-966-2 giving birth, the newborn specimen is to be studied and disposed of before it reaches maturity.
+
+Description: SCP-966 are predatory creatures that resemble hairless, digitigrade humans, possessing an elongated face with a mouth lined with needle-like teeth. On each hand, they have five claws that can be up to 20 cm long. Although sharp, these are easily broken, making them unfit for combat. SCP-966's height ranges from 1.40 to 1.60 meters, and they can reach up to 30 kg in weight. Physically, SCP-966 are weak, possessing hollow bones and low muscular density. They do not seem to rest through sleep; instead, they will suddenly cease all movement at seemingly random intervals of time, resuming normal activity three to five minutes later.
+
+SCP-966 are visible only at wavelengths ranging from 700 nm to about 900 nm. This applies to all of SCP-966's tissues, regardless of their current state.
+
+SCP-966 feed on medium-to-large sized animals, including humans. They hunt either alone or in pairs. Their hunting methods consist on emitting a single burst of a previously unknown type of wave (dubbed as ██████ waves, in honor of the late Doctor ██████), which permanently inhibits the ability of the affected creature to enter in any of the NREM and REM sleep stages. The ability to micro sleep is also lost. The effective range of the ██████ waves is up to 20 meters; however, tests show that they can be blocked by post-transition metals, particularly lead.
+
+All attempts to make victims of SCP-966 sleep have failed. It is still possible to induce other forms of unconsciousness, although these will usually prove detrimental to the affected subject as they do not provide true rest.
+
+After depriving their victims of sleep, SCP-966 will stalk their prey until the lack of rest incapacitates it. At this point, SCP-966 will proceed to consume it. SCP-966 have proved to be very agile and silent while stalking their victims. On occasion, they will deliberately make threatening noises around the prey in order to further stress it, and may even physically assault it if the victim proves to be particularly durable.
+
+Other than the common symptoms caused by sleep deprivation, some victims of SCP-966 have shown signs of suffering from extremely vivid hallucinations, as well as sudden bouts of rage with no apparent external stimuli. It is currently thought that these are the effects of prolonged exposure to ██████ waves. Why SCP-966 continually exposes these waves to only some of their victims is unknown. One hypothesis is that SCP-966 will only do this when starving, since it further degenerates the physical and mental state of their prey, incapacitating it at a faster rate.
+
+Wild instances of SCP-966 are found all over the world. Since their discovery in 19██, the Foundation has succeeded in greatly thinning their numbers, though they are still found in large quantities in █████ and █████ ███████.

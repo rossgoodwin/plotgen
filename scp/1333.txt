@@ -1,0 +1,33 @@
+A MicroSD card, containing a single instance of the anomalous program SCP-1333.
+
+Item #: SCP-1333
+
+Object Class: Safe
+
+Special Containment Procedures: Instances of SCP-1333 are to be contained on non volatile media. If possible the recommended format is a 16GB Micro SD card contained inside a plastic case and kept in a dry, climate-controlled room. Multiple instances of SCP-1333 may be stored in close proximity; while in dormant media it is completely harmless.
+
+Any instances of SCP-1333 are to be stored inside a Sensitive Compartmented Information Facility. No digital media players of any kind are to be allowed into this SCIF for any reason, and any personnel both entering and leaving the storage area should be thoroughly searched for disks, SIM cards, media players, smart phones, or other electronic devices and storage media.
+
+SCP-1333 should never be placed inside a working cell phone without prior authorization from site director: only unlocked, prepaid phones are allowed to be used for these experiments, and any phone to be used for this experiment should never have service activated. Experiments should be performed underground, out of range of any cell phone broadcast towers, in a shielded facility to prevent satellite linkup. After experimentation, any phones used for testing SCP-1333 should be destroyed.
+
+To prevent SCP-1333 from affecting civilians, Foundation agents are to be placed on the staff in charge of managing programs and other data distribution networks for any companies providing services to cell phones. Any instances of SCP-1333 on network drives should be contained as soon as possible.
+
+Description: SCP-1333 is the collective term for multiple instances of an anomalous entity manifesting as a mobile application that is believed to have begun circulation in 2008. The program appears under many names, often purporting to be a harmless program targeted to males and females age 18-22.
+
+When the program is first downloaded, SCP-1333 remains dormant until first used on the phone. Due to the obvious variances in personal use, this dormant period may be a few seconds to the theoretical functioning lifespan of the phone; due to this, it is believed that instances of SCP-1333 exist on phones that have not yet activated the program and thus remain dormant. This poses a great threat of distribution to recycled-phone organizations and third-party stores which sell refurbished MicroSD cards and cell phones.
+
+SCP-1333 has, at this time, been found disguised as a multitude of mobile applications, including navigation, social networking, entertainment, music, productivity, and others.
+
+The entity appears to affect any person who uses the program regardless of the ownership of the phone containing it.
+
+A photo that appeared on a phone infected with SCP-1333. Subject of the photograph is the phone's owner, who asserts he has never been to the location depicted in this photograph.
+
+Initially, the downloaded program works as expected. After sufficient use of the program manifestation of SCP-1333, the phone will begin to exhibit symptoms indicative of a glitch, and may receive text messages from unknown numbers. These messages are typically in the form of single words, in upper-case, and often have a negative or hostile connotation, such as "NEVER", "WRATH" and "BLEED".
+
+As use of SCP-1333 continues, the secondary anomalous effect occurs. If the phone is equipped with a camera, the phone's photo album will be altered to include photos that have not been taken by the user, but feature him or her. These range from trivial images of the subject taking his or her own picture in a mirror to images of the subject located in places the subject has never been. With continued use, SCP-1333 will generate progressively more disturbing images, sometimes featuring the subject with severe injuries or in traumatic scenes featuring death, dismemberment, and torture. At least one instance of SCP-1333 manifested an image containing a deceased relative of the user.
+
+Addendum: SCP-1333 was first discovered in an █████ brand smartphone on ██/██/████ in ████████, NY. A female subject, age 18, called the police and filed a report of "cyberstalking", claiming an unknown person was sending digitally-altered and disturbing images to her phone. This phone was examined by an embedded SCP agent who discovered the entity inside a photo-sharing application. Subject was given Class A Amnesiacs and the police report was suppressed.
+
+Addendum 1333-A: As of ██/██/████, SCP-1333 is discovered to have infected the mobile application networks of all major mobile networks including ████, ██████, and ███████.
+
+Addendum 1333-B: Experiments have shown that in the event that containment is attempted on a cell phone infected with SCP-1333, it will attempt to link with satellites and cell phone towers to attempt to replicate itself. It is hypothesized that this is a form of self-preservation, and for this reason, any phones infected with SCP-1333 should be contained in a shielded environment before extraction is attempted.

@@ -1,0 +1,37 @@
+Item #: SCP-1786
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1786 is to be contained in a hermetically sealed chamber. The chamber is to be kept at 0% humidity at all times by use of Foundation type-9 dehumidifiers. SCP-1786 is to contain no water. In the event that the air of the chamber becomes at all humidified, or that SCP-1786 contains water, the chamber is to be evacuated of air, and all coffee produced by SCP-1786 is to be drained and discarded. Research is to focus on determining a method of preventing SCP-1786 from being powered. Attending personnel must be trained to fully believe that SCP-1786 is a coffee percolator. While the coffee produced by SCP-1786 is safe to drink under certain circumstances, doing so is discouraged.
+
+Description: SCP-1786 is, in substance, a standard ████████-brand electric coffee percolator, designed in 1999 and manufactured in 2000. Its design specifications detail a six-piece composition of stainless steel, copper and rubber which act to brew coffee by cycling water through coffee grounds. It is not possible to disassemble SCP-1786 or turn it off.
+
+Although materially it is a coffee percolator, in appearance SCP-1786 has all of the observable distinctions of a rowboat and its oars. It appears to measure 2.8 m long by 1.2 m wide, with oars 2.4 m long, and to be built from wooden timbers that have suffered slight degradation both before and after its construction. Visible water damage as well as an apparent lack of maintenance have led to discoloration and rotting along the underside of the hull. This seems to suggest that if SCP-1786 actually were a rowboat, it would not be seaworthy. Block lettering painted upon SCP-1786's bow gives its name as Rumford's Own; no such percolator has been found in any national ship registry. SCP-1786's form has not degraded further during its containment.
+
+Despite its altered appearance, SCP-1786's physical nature exists as an electric coffee percolator, and it performs the designated functions of such a device. Through an unknown process, SCP-1786 continuously condenses atmospheric moisture into its bottom chamber. When it has become filled with liquid water above a minimum level of 2 cm, SCP-1786 will brew it into a standard medium roast coffee, free of grounds. The coffee is chemically non-anomalous, smelling and tasting normal for percolated coffee. SCP-1786 is capable of completely cycling its brew once every two seconds while running, resulting in inordinately strong brews to the point of human caffeine toxicity within 40 minutes if no additional water is added. As the filtering basket is inaccessible, it is unknown what kind of coffee beans are used, or whether any are used at all. It is also unknown how it remains powered; however, traces on the Foundation power supply grid have reported that the nearest electrical outlet to SCP-1786 consistently draws 800 W more than can be explained by connected devices. As of ████-██-██, it has not been possible to keep SCP-1786 from obtaining electricity.
+
+As there is no limit to the amount of atmospheric moisture SCP-1786 can condense and brew, if exposed to the outside world it would eventually lead to an NK-class scenario involving the conversion of all available water into coffee.
+
+Addendum: SCP-1786 was recovered from ████████ Lake in ████ █████████, where significant environmental damage had been noted and was conjectured to be the result of a chemical spill. SCP-1786 was found on the southern shore overflowing with coffee, which had spilled into and polluted the lake, killing most of the aquatic fauna aside from a strain of algae which had adapted to metabolize caffeine. From documentation in the boathouse nearby, it was determined that SCP-1786 had been in its current location for 9 years. The boathouse, formerly owned by the ██████████ family but since abandoned, also contained SCP-1786's original packaging, which is appropriately sized for the rowboat which SCP-1786 resembles. The product description from said packaging is as follows:
+
+Rumford's Own
+
+by ████████ Goods
+
+Certain to add some perk to your life,
+
+Rumford's Own will wake you up and keep you afloat.
+
+At home or the office, its patented Redensafectory™ action
+
+makes sure that you'll never dry up during your busy day!
+
+Rumford's Own brings a smile to any face once filled with
+
+your favorite beans, and after going through the Mysterious
+
+Change, it'll bring you to any destination on the seven seas.
+
+Contents: one Rumford's Own coffee percolator
+
+When transportation was attempted, it was found that SCP-1786 can only be physically interacted with, i.e. moved, filled or emptied, if it is fully believed to be a coffee percolator despite all evidence to the contrary.

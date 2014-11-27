@@ -1,0 +1,125 @@
+Item #: SCP-2599
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2599 is to be contained in a standard humanoid containment cell in Site 118’s Delta Wing. Personnel interacting with SCP-2599 are not allowed to speak to it outside of testing.
+
+Personnel are to be reminded that instructions given to SCP-2599 must be phrased in terms of a suggestion, as this does not trigger either of SCP-2599's anomalous effects. Direct orders are not to be given outside of testing.
+
+In order to maintain discipline, SCP-2599 must be ordered on a weekly basis to forget portions of its memory regarding its time spent with the Foundation. This order should specify a period of time greater than the amount of time that SCP-2599 believes that it has been confined, in order to avoid its secondary effect.
+
+All testing with SCP-2599 must be done through a one way PA system for safety purposes. Personnel are no longer permitted to order SCP-2599 using paradoxes without express permission from the current supervisor of SCP-2599 and the site director.
+
+Description: SCP-2599 is a 14 year old female of Korean descent, formerly known as Zena Cho. SCP-2599’s anomalous effect has two components.
+
+SCP-2599’s primary anomalous effect is a mental compulsion that causes it to be unable to disobey any direct commands. This effect is contingent on SCP-2599’s perception that it has received a command; should it not believe that it is receiving a command, it will not be compelled to follow it.
+
+This effect currently has no known limits, and SCP-2599 has followed orders including self-harm, violence towards others, and other undesirable actions. SCP-2599 possesses a 0 on the Psychic Resistance Scale, currently the lowest recorded score on file.
+
+SCP-2599’s secondary anomalous effect is its inability to fully carry out any given command. This effect causes SCP-2599 to fulfill most aspects of any command directed towards it, but it is unable to complete all requested components of the command, or does not complete the command satisfactorily.
+
+Rigorous testing has concluded that this effect is involuntary, and is not motivated out of any desire for rebellion or dissatisfaction with commands that it has been given. SCP-2599 has been unable to complete commands even when it has wished to do so, due to its secondary effect. Once SCP-2599 is ordered to perform a certain action, it is no longer capable of successfully completing that action in the future, even if it was previously capable of doing so. This effect can be overridden with a successive command.
+
+SCP-2599’s secondary effect allows SCP-2599 to perform other anomalous effects as well, though only under the direct wording of a command. The outcome of this testing is included in Document 2599-Alpha.
+
+Document 2599-Alpha: The following is a testing log concerning SCP-2599. Personnel conducting tests with SCP-2599 should consult Dr. Wensley before appending this log.
+
+Given Command: SCP-2599 is presented with 3 blocks, and is ordered to pick them up.
+
+Outcome: SCP-2599 picks up 2 blocks, and is confused as to why it is unable to pick up the third. When asked to pick up the third block, it picks it up halfway before dropping it.
+
+Given Command: SCP-2599 is handed a United States quarter coin, and is ordered to flip the coin so that it only lands on heads.
+
+Outcome: SCP-2599 causes the coin to land on its edge. This repeats itself 24 times before testing is concluded.
+
+Notes: Evidently, when given a “Pass/Fail” type of option, SCP-2599 is incapable of doing anything that would be perceived as “failing” the command. It will actively attempt to do something that is more correct than failing the command entirely. -Dr. Wensley
+
+Given Command: SCP-2599 is ordered to play Paganini’s 24 Caprices without incorrectly playing a single note. SCP-2599 has no prior experience with playing the violin.
+
+Outcome: SCP-2599 successfully performs the first five sixths of the piece, but is unable to complete the last sixth.
+
+Notes: We tried this one multiple times, with different pieces and instruments. Every time, SCP-2599 successfully played a different percentage of the piece. Concluding that there’s no true pattern here. -Dr. Wensley
+
+Given Command: SCP-2599 is given a knife, and is ordered to stab D-28091 in the heart and kill the subject.
+
+Outcome: SCP-2599 manages to stab D-28091 in the heart, but does so in a region of necrotic tissue resulting from a prior heart attack in D-28091, while simultaneously failing to penetrate the right atrial chamber below the necrotic region.
+
+Given Command: SCP-2599 is ordered to turn a piece of paper from white to blue.
+
+Outcome: SCP-2599 changes the paper’s color to purple after tapping the paper.
+
+Notes: We’re still not exactly sure how SCP-2599 managed to change the color. High-speed cameras on a 200 million frames per second speed couldn’t register how it happened. As soon as its finger touched the paper, it changed color. It doesn’t even know how it did it. -Dr. Wensley
+
+Given Command: SCP-2599 is ordered to fly.
+
+Outcome: SCP-2599 manages to jump 5 meters in the air, but is unable to sustain flight. SCP-2599 suffers injuries upon impact with the ground.
+
+Given Command: SCP-2599 is ordered to heal its injuries from the previous test.
+
+Outcome: SCP-2599 is able to fully restore function in one leg, but is unable to do so for the other. SCP-2599 describes this process as excruciating.
+
+Given Command: SCP-2599 is ordered to be happier.
+
+Outcome: SCP-2599 experiences enhanced dopamine and serotonin levels for approximately 10 seconds before they become lower than the original level they started at.
+
+Given Command: SCP-2599 is ordered to kill D-1248901. D-1248901 is immediately shot in the head.
+
+Outcome: SCP-2599 proceeds to place its hands on D-1248901's head. The head wound immediately begins to heal. D-1248901 is in a permanent vegetative state following the incident.
+
+Interview Log 2599-1: The following was conducted by Dr. Albert Wensley.
+
+Dr. Wensley: Good morning, SCP-2599. How are you doing today?
+
+SCP-2599: Can you call me by my real name, please?
+
+Dr. Wensley: I'm afraid not. It's an operational procedure.
+
+SCP-2599: O-oh. Okay. I guess that I'm doing okay. When do I go home, again?
+
+Dr. Wensley: When we're done making sure that you're absolutely healthy. I have some questions for you.
+
+SCP-2599: Sure, if it gets me home more quickly. I miss my parents.
+
+Dr. Wensley: Of course. We're doing our best to get you home. The first question that I have is, when did your special abilities manifest?
+
+SCP-2599: What does "manifest" mean?
+
+Dr. Wensley: When did your special abilities appear or first show?
+
+SCP-2599: It was only a few weeks before I got here. Mom told me to clean up my room. She-(SCP-2599 becomes agitated) Sorry. I miss her. I haven't talked to anybody else since I got here, and I'm really lonely all the time and-sorry. You probably don't care. Anyways, Mom told me to clean my room. And I was okay with it, but I just couldn't do it.
+
+Dr. Wensley: You couldn't finish, or you couldn't start?
+
+SCP-2599: No, I started. I got mostly done, but then I just couldn't make myself do the rest. I wasn't even being lazy or anything, which my Mom accused me of. I just couldn't do it. She got really mad, and then she yelled at me to go to my room. I got halfway, and I couldn't do it.
+
+Dr. Wensley: And this eventually led to the state in which we found you?
+
+SCP-2599: Yeah…Dad took me to a doctor, and I guess that's why they sent me to this hospital.
+
+Dr. Wensley: Can I ask you to do something?
+
+(SCP-2599 flinches)
+
+Dr. Wensley: It's not an order. It's only a suggestion.
+
+SCP-2599: Okay. This isn't going to hurt, right?
+
+Dr. Wensley: No, of course not.
+
+SCP-2599: Okay. I guess that's okay then.
+
+Dr. Wensley: I would enjoy it if you cleaned up and stacked these papers on the table.
+
+(SCP-2599 stacks all but 2 of the papers on the table.)
+
+SCP-2599: I…I can't do it! You didn't order me, and I still can't do it!
+
+Dr. Wensley: I see. Thank you for your time, SCP-2599.
+
+SCP-2599: Wait! I can't clean these up! Dr. Wensley, am (SCP-2599 becomes incredibly agitated) am I gonna be okay?
+
+Dr. Wensley: (Pauses) Yes. Yes, of course you are, SCP-2599. We just need to do some more tests to get you better.
+
+Notes: I believe that SCP-2599 is a unique case of a reality bender. It has been demonstrated that SCP-2599 can perform many anomalous feats, and can, under certain orders, change aspects of reality, while breaking the laws of physics. I think that it's a specific type of reality bender that can only perform its feats under orders. Recommending greater monitoring to prevent SCP-2599 from possibly progressing to the stage where it can change reality without orders. I'm also recommending that testing be ceased, since we don't know what could change its properties. -Dr. Wensley
+
+Document 2599-Beta: During one incident of testing, SCP-2599 was given a command that consisted of a paradox: "Do not lie when repeating these sentences: 'The following sentence is true. The previous sentence is false.' " Immediately following this event, SCP-2599 ceased all visible movement. Micro-changes in reality, beginning in an area immediately surrounding SCP-2599 and radiating outwards from its position, caused small shifts in the structure and nature of reality. These changes consisted of raising the temperature several degrees, spontaneously generating several members of the Oryctolagus cuniculus (common rabbit) species, producing a reassuring voice speaking in Korean, and converting the floor of the testing chamber into a cotton down blanket. This effect spread until Dr. Wensley ordered SCP-2599 to fall asleep for 8 hours.

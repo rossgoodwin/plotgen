@@ -1,0 +1,169 @@
+Armed Site-47, concealed within the ██████ Refinery in ████████, ██████
+
+Item #: SCP-2003
+
+Object Class: Thaumiel
+
+Special Containment Procedures: SCP-2003 is contained at Armed Site-47, a Type 4 Restricted Zone. In accordance with Type 4 protocols, personnel assigned to SCP-2003 research, security and maintenance must undergo expanded background check procedures, as well as successfully pass a Hoiberg-Kazawa Causality Questionnaire. Access to SCP-2003 itself is limited to XN-SHEPHERD project participants with prior approval from the Director of Site-47.
+
+All information regarding Determinative Sets, Elevated Probability Events, Designated Magnifier Individuals and the XN-SHEPHERD program is classified and accessible only by the Director of Site-47, O5-7, and those personnel read into SCP-2003 security protocols.
+
+Observations of designated indicator data deviating significantly from Determinative Set XN parameters are to be reported immediately to the Director of Site-47 and treated as a Level 5 "Existential Threat" Emergency Response Event.
+
+Description: SCP-2003 is an apparatus allowing a limited degree of travel to and from periods of time in advance of those encountered in the normal course of space-time as understood by mainstream science. SCP-2003 was designed and built by the Foundation over a 25-year period using technology derived from research into SCP-████, SCP-███, and SCP-████. While the technical capabilities and design specifications of SCP-2003 are well-documented and reproduceable if necessary, the scientific and anomalous principles behind its functionality are not understood at this time.
+
+Upon activation, SCP-2003 is capable of transporting a living entity contained within its central chamber to a point coterminous with its present location in physical space but located in a future time period. The amount of time into the future traveled by the subject is related to the amount of energy input into SCP-2003. An approximate estimate of 3500 kWh in order to send a subject seven months into the future has been documented; however, this relationship becomes unpredictable at higher energy levels.
+
+Subjects using SCP-2003 will exist in the time period to which they have traveled for a duration ranging between 15 and 38 weeks before spontaneously returning to the time period of origination at a point coterminous with their present location. For safety purposes, a secure location has been established for operatives to use while waiting for return to their time of origin. Operatives must report subsequent to experiencing 98 days after SCP-2003 activation.
+
+While SCP-2003 enables chronological travel for living subjects, the activation process has proven severely damaging to most types of animal and plant tissue. The only exception documented to date has been tissue related to the animal nervous system. As a result, personnel designated for SCP-2003 travel must be prepared accordingly (see additional documentation for details).
+
+Testing has shown that under current conditions, SCP-2003 remains functional and under Foundation control through December of 2348.
+
+Addendum 2003-A: General Results of SCP-2003 Research
+
+Initial deployment of SCP-2003 began in 1995, using modified personnel to observe future conditions and events. The purpose of these deployments was to confirm the nature of travel using SCP-2003, and if possible collect data allowing the Foundation to better mitigate future anomalous phenomena. The results of these initial exploratory missions demonstrated several crucial principles for understanding observation of future events:
+
+Data collected using SCP-2003 is imprecise. Early exploratory missions yielded copious amounts of data regarding what appeared to be future events. However, subsequent observation has established that these observations are not entirely predictive. For instance, while collected data allowed Foundation assets to prevent a major security breach of SCP-███ at Site-19 in 1997, a catastrophic earthquake originating off the coast of the Western United States (observed directly by several field agents using SCP-2003) failed to occur as predicted in 1999. As more data has been collected, meta-analysis has properly contextualized observations and has assigned a probability of occurrence for major events in the future.
+
+Certain individuals appear to affect causality disproportionately. As Foundation cataloging of possible future events increased following the completion of more exploratory missions, certain events were deemed to be undesirable for the Foundation's mission. Early attempts to influence these events met with mixed success; while manipulation and/or elimination of some individuals achieved mission goals, other Foundation attempts to influence events failed to alter outcomes at all, even when several actors deemed to be essential were liquidated. Meta-analysis has determined that in some cases, the actions (or indeed very existence) of individuals with no discernible relation to major events, sometimes in regions thousands of kilometers away, have profound and immediate impacts on these events. Since this discovery, research staff has maintained a database of these individuals.
+
+Few cohesive "futures" are tolerable to the continued beneficial existence of humanity. While observed conditions exhibit a tendency towards variation upon each exploratory mission, a number of loosely consistent "timelines" have been observed, cataloged in Foundation databases as Determinative Sets. Most Determinative Sets consist of a collective future that either renders Earth unsuitable for human civilization (and in some cases life in total), or results in conditions directly inimical to the well-being of most of humanity. The reasons for the relative paucity of long-term survival scenarios, if any exist, are unknown at this time, as is any connection to the steadily-increasing observation of anomalous phenomena documented across the Foundation.
+
++ TS/2003/EYES ONLY
+
+- ACCESS GRANTED
+
+Addendum 2003-B: Preparation of Personnel for Use
+
+Due to the nature of SCP-2003's effects on human anatomy, special preparations must be made in order to properly outfit personnel for chronological travel in a condition suitable for both survival and ability to carry out mission objectives. Because of the sensitive nature of tasks necessary during SCP-2003 missions, D-Class have been deemed unsuitable subjects.
+
+Prototype XX890-V LFO system, developed clandestinely by Foundation-owned asset Boston Dynamics as "BigDog"
+
+Preference for SCP-2003 subject recruitment is to be given to personnel nearing or past official retirement age. In cases where personnel have been diagnosed with terminal illness that does not impair neurological or cerebrospinal function, preference may also be granted. Personnel volunteering for SCP-2003 travel are to be moved to the Tier VI pay scale for the duration of their assignment; any survivors are entitled to an Elevated Benefits Package distributed through normal clandestine channels.
+
+Prior to outfitting, selected personnel are to undergo extended sensory deprivation training, concurrent with training in simulated environments analogous to those experienced by occupants of the XX890-V Life Function and Observation (LFO) system. During this period, personnel must undergo a prophylactic course of antidepressants and antipsychotics as overseen by medical staff.
+
+Upon completion of training regimens, personnel are to have all brain tissue, nerves, and associated nervous system structures surgically removed and transplanted into the XX890-V LFO system. All usable organs are to be harvested afterward per medical protocols.
+
+Current guidelines authorize the XX890-V LFO system and occupant for four uses of SCP-2003. When not engaged on missions, personnel are to be kept in an induced coma state, concurrent with research establishing 18 months as the median time period before communications and feedback from XX890-V LFO occupants become agitated and incomprehensible.
+
+The nature of the XX890-V LFO system is to remain classified and accessible only to senior personnel.
+
++ TS/2003/EYES ONLY
+
+- ACCESS GRANTED
+
+Addendum 2003-C: Overview of XN-SHEPHERD Program
+
+MEMORANDUM
+
+TO: Armed Site-47 Director ██-███ ████████
+
+FROM: O5-7
+
+RE: DETERMINATIVE SET XN
+
+██-███,
+
+Up to this point, all attempts at future intervention using SCP-2003 have been limited in scope and scattershot in nature. I have seen the wisdom in this approach; it is informed by painstaking contingency planning and risk/benefit evaluation.
+
+The last 18 months of reports, however, have promise if we are bold enough to seize the initiative. We may have found a way out, here.
+
+The price, though. There's always a price. As you well know.
+
+Consider this note an official change in policy. As of today, all efforts at intervention are now aimed at bringing about and preserving XN. Designated Magnifier Individuals associated with XN are to be protected from undue interference at the expense of all other priorities. In particular, Nuru Diagne must be allowed to die in the manner most observations have predicted for her. If anything at all changes in that regard, make it happen.
+
+I trust that you're familiar enough with the rest of the Determinative Sets to understand why we're going this way.
+
+One more thing: All communications, and I mean all, with anyone outside of Site-47 are to be cleared and routed through my office.
+
+- █████
+
++ TS/2003/EYES ONLY
+
+- ACCESS GRANTED
+
+Addendum 2003-D: Listing of Known Determinative Sets
+
+Preferred Option:
+
+Designation
+
+Description
+
+Notes
+
+XN
+
+Currently documented reality. Society continues along established Foundation projections regarding economic trends, environmental factors, and social upheaval. Anomalous activity continues to manifest mostly consistent with present rates. Consensus reality maintained successfully until 83345 Moore, a previously untracked asteroid 22 km in diameter, collides with Earth in January of 2349, killing most of humanity immediately and rendering the planet unsuitable for sustained human existence.
+
+See Addendum 2003-C
+
+Other Documented Determinative Sets:
+
+Designation
+
+Description
+
+Notes
+
+XB
+
+Development of society continues in manner similar to XN until April 23, 2017, when a gamma-ray burst originating from the vicinity of HD 188753 directly strikes Earth. The burst lasts 2 minutes and 38 seconds and kills all known forms of life.
+
+Researcher ███, directly observing this scenario at the time of the gamma-ray burst, was the only known living being to survive the event, and was able to continue collecting data until his return 52 days later. Study of use of XX890-V LFO system for high-radiation environments pending.
+
+XE
+
+The election of Sir William Entwistle as Prime Minister of New Zealand in 2049, combined with the birth of an unnamed infant boy in Ahal Province, Turkmenistan on the same day, lead to an escalating chain of events culminating in a society-destroying nuclear exchange between the nations of Israel and Greater Indonesia in 2058. All Foundation attempts to interfere with either individual merely result in the date of the nuclear exchange occurring sooner.
+
+In all permutations of this set, widespread public knowledge of the Foundation occurs precisely 86 days before the detonation of nuclear weapons.
+
+XH
+
+Between the years 2023 and 2034, world governments approach global affairs at a radically increased level of cooperation due to the onset of a highly virulent influenza epidemic that kills approximately 1.4 billion worldwide. Throughout the 2040s and 2050s, many longstanding ethnic conflicts are resolved through the intervention of multilateral organizations, endemic poverty and hunger in areas such as sub-Saharan Africa and the Indian subcontinent is substantially decreased, and large-scale projects mitigating sea level rise are completed throughout coastal regions. On July 29, 2059, the entire population of Earth spontaneously vanishes along with all known animal life, with no observed return within observational range.
+
+N/A
+
+XJ
+
+An entity later confirmed to be an exact duplicate of Dr. Masako Koizumi, one of the original researchers responsible for SCP-███ prior to its containment, appears within an inner security perimeter at Armed Site-47 on April 1, 2011. The entity requests that Dr. Koizumi's scheduled euthanization elsewhere within the facility be cancelled immediately. As SCP-███ was not functional at the time of established containment, the means by which the entity is able to make this request are unknown, and presumed to occur in the future. However, due to the establishment of K-Failsafe Protocol Twelve, the request is impossible for Foundation personnel to comply with, resulting in an Alpha-8 type temporal paradox. This series of events repeats for an uncountable number of instances, resulting in the eventual collapse of spacetime as understood by humanity.
+
+This scenario was ultimately averted by staff sedating the duplicate of Dr. Koizumi, placing it into an XX890V-LFO platform, and transporting it in SCP-2003 using all available energy. Temporal complications from this action are unknown, but presumably do not materialize prior to 2349.
+
+XO
+
+Anomalous phenomena begins increasing in frequency by orders of magnitude beginning in 2037. The Foundation comprehensively loses capabilities to protect consensus reality by 2039 and world civilization undergoes a period of chaos and upheaval. Millions die in spontaneous riots and mass suicides become commonplace throughout the world. Numerous messianic religious movements quickly form and contribute greatly to civil conflict and internecine warfare. By the mid-2040s, several sects and remnants of national governments successfully weaponize various anomalous phenomenon, and humanity is wiped out by 2048, with the exception of a small group of survivors sheltering in the remnants of Site-104. All contact with this group is lost upon their discovery of Wing K of Site-104.
+
+Due to the open nature of anomalous phenomena in this scenario, data collected is the most comprehensive of any Determinative Set, as Agent ██████ is able to work openly and unimpeded.
+
+XR
+
+The population of Homo ignotus, long estimated by Foundation operatives to be approximately 500 individuals, increases overnight to approximately 8 million individuals in 2015. A short, violent struggle ensues between the combined forces of the Foundation and H. ignotus, with all means of resistance to the newly ascendent H. ignotus population systematically destroyed within three days. Humanity is then ████████████████████████████████████████. Researchers currently have divergent theories as to whether this Determinative Set is predictive of the intentions of the known H. ignotus population, with current theories of "██████████████" and "████████████████████████████" being supported the most.
+
+[DATA EXPUNGED]
+
+XS
+
+Determinative Set XS proceeds in a manner similar to XN until an indeterminate date in 2019 when Armed Site-47 and all knowledge of SCP-2003 is apparently lost to the Foundation. Researcher ███████ is detained by the XS version of the Foundation during an observational mission in 2022 and held as an SCP classified phenomenon until her return. Researcher ███████ is detained by XS Foundation personnel at point of entry upon commencement of her next observational mission, and returns with no retrievable data and portions of her brain tissue removed. No further information on Determinative Set XS is available.
+
+[LEVEL 4 SECURITY ACCESS ONLY]
+
+XU
+
+On February 17, 2026, contrary to all astronomical models and understanding of both classical and quantum mechanics, the Sun suddenly collapses into a black hole despite not meeting commonly understood mass thresholds for triggering such an event. Despite the almost immediate cooling of Earth and all other planets in the Solar System to approximately -270 degrees Celsius and the elimination of all other forms of life, humans are unable to die, maintaining consciousness despite the lack of continuing biological functions and almost total cessation of molecular movement.
+
+This Determinative Set is a subset of previously designated Set XT. XT was a future in which a single totalitarian regime had assumed control over the planet and targeted various "subversive" organizations for elimination, focusing on Foundation personnel in particular. Foundation researchers attempted to avert this scenario by sending three identified individuals from South Korea into orbit on the International Space Station. XU resulted.
+
+XW
+
+Beings strongly resembling human-sized, animate versions of SCP-███ manifest in most major population centers on August 13, 2019. Rather than causing alarm, these beings quickly become accepted by humanity after offering major advances in medical science, energy production, crop cultivation, and the arts. By the close of 2022, thousands of people willingly join an experimental program to combine the consciousness of multitudes of humans into a singular entity. In 2024, a fully mature human believed to possess a mind composed of the transferred consciousness of approximately 134,000 people is created by these beings. This human is then confined to a cell, left with only automatically-dispensed supplies of food and water, and sealed off from all outside contact. All other humans are systematically exterminated by the end of 2024.
+
+The last two personnel sent to observe Determinative Set XW (Agent █████████ and Researcher ██) failed to return to time of origin, and are listed MIA at this time.
+
+XX
+
+An undiscovered protist unidentified in the observed timeline (designated Nephroisospora araneae by Foundation researchers) undergoes a geometric increase in population due to what is presumed to be a recently-developed adaptation allowing it to survive in almost all aqueous environments. N. araneae proves adept at moving into and surviving in human nervous tissue, initiating a disorder similar to toxoplasmosis that causes humans to develop monomaniacal fondness for Phoneutria nigriventer (Brazilian wandering spider). By 2028, almost 85% of the human population has been infected, and most of society's resources are reordered towards the preservation and breeding of P. nigriventer. Uninfected individuals are detained and in most cases interred in P. nigriventer breeding facilities in an attempt to provide additional food sources for the specimens. Due to the singular worldwide focus on production and maintenance of spider populations, crop failures and infrastructure degradation become systemic, and global famine results in the death of approximately 6 billion persons in the 2030s.
+
+Research is ongoing into possible anomalous causes behind the increased prevalence of N. araneae and/or the nature of its function as a pathogen.

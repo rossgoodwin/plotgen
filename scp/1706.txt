@@ -1,0 +1,59 @@
+Item: SCP-1706
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1706 is to be kept at Site-441 in a storage chamber unless being tested. Site-441 has been specifically constructed to house SCP-1706. On-site staff are to number no fewer than 6 at any time. As on-site personnel have not requested transference and/or leave, there is currently no need to maintain personnel on standby. Class-D personnel are not to be present on-site due to safety concerns.
+
+Personnel remaining on-site are subject to weekly examinations to ensure consistency in respective fields of study. Any personnel suffering significant discrepancies are to be administered amnestics as necessary and re-assigned for a period of 6 - 22 months. Additionally, the Site-441 cafeteria is to be stocked with nutritional vitamins and supplements and pre-cooked meals to maintain health and regular eating habits for all personnel.
+
+Description: SCP-1706 is a DVD of an unaired pilot episode of a science-fiction show entitled "Eater of Dreams", filmed at an unknown date between 1987 and 1991 and transferred onto DVD from another medium1.
+
+The episode follows a group of seven people living in a single apartment complex in New York City in the midst of an unspecified city-wide crisis. The individuals interact with a variety of civilian and government officials and military personnel asking questions regarding a group of individuals called "Eaters", who are described as being "vampiric" and "cannibalistic", leaving others around them apparently confused, "listless and lethargic". It is not specified how this is achieved.
+
+A major plot point appears to be how the "Eaters" are able to gain access to restricted areas and individuals. Over the course of the episode, several people unrelated to the seven protagonists appear on screen, sometimes in various stages of undress, interacting with others in the background, while never being acknowledged by the individuals they interact with.
+
+The episode concludes with one of the original seven individuals addressing the camera, delivering a rambling, incoherent monologue directly addressing the viewers. Contents of monologue are logged below.
+
+SCP-1706 itself causes a series of mental effects2 on all sapient beings within a minimum 2██ m radius, often manifesting in the form of physical alterations to individuals' brain chemistry. In an absence of individuals within its vicinity, SCP-1706's area of effect expands. While the effects have varied from person to person, distinct patterns have emerged in much of the affected individuals. The effects begin to subside following a period of 4 days of non-exposure to SCP-1706.
+
+A 62% of those exposed experience alterations in memory and knowledge of their surroundings, including misunderstanding of previously well-understood slang, incorrect recollection of recent historical events, and selective loss of memory, experiences, and learned skills. In rare cases, these can be partly or completely replaced by previously unknown skills and experiences, along with corresponding memory of the individual having learned, studied, or acquired said skills and/or experiences.
+
+B 11% of those exposed experience sudden mood disorders, often characterized by inappropriate emotions3.
+
+C 9% of those exposed exhibit symptoms of catatonic schizophrenia, marked largely by a sharp decline in physical activity during off-hours.
+
+D 8% of those exposed report no unusual effects. Despite this, D affected individuals have been reported by others as having been substantially changed or altered by SCP-1706. Similar reports of unease and "wrongness" with D individuals have been reported by off-site personnel. This effect subsides following non-exposure.
+
+Transcript of monologue delivered by character "Rick"
+
+(Note: As the character "Rick" speaks, the camera briefly pans over to a group of between 30 and 40 people standing motionless along a sidewalk. The "Eaters" are seen avoiding the camera as it pans across them.)
+
+"I think… funny, how you 'think'… I think it's pretty obvious who the real dreamers are here. It's pleasure, indeed. Yeah? When you can do it, when you want to do something. You do it. You could do things… but will you do them? What's the motivation?
+
+"Do you want it? Do you need it? Animals need. If animals had free food, no goals, not a care in the world, they'd probably stand around all day twitching. You don't get a party for doing 'just enough'. Needs nothing… wants nothing…
+
+"I don't like that. 'Achievements are like drugs', what kind of example is that? What you want and what you desire can't always be the same thing. That doesn't stop them, though. Dreams are like drugs. Dreams are tasty, too. I'd have my fill if I could, too. They're delicate, dreams, of course. I'm not hungry either, fella. Not yet. It's gotta go somewhere until then.
+
+"Didn't you ever wanna be a rock star? A fire-naut? A police officer? Hope they live next door to you. Maybe they'll let you be one for a day.
+
+"It smells, it looks and tastes and feels and isn't. Why does it hurt if it's supposed to be good for you? There is no God but God and God is a God of rigidity, structure, routine, religion, pharmaceuticals, poultry, mist, and might. Necessity… there's a God you can eat.
+
+"I think it's pretty obvious who the real dreamers are here. How do you eat God? Does it taste good? Does it smell? Does it feel squishy? Is it or isn't it? Dreams… it's not the same without them, but we can get through this together, me and all of you. Tune in for next week."
+
+Incident-30-A: On 11/14/2014, Site-441 failed to respond to routine security check with Site-██. At 03:26, Site-██ security remotely accessed Site-441's surveillance system. Video showed on-site personnel largely immobile or otherwise unresponsive to their surroundings, in some cases engaging in repetitive actions (such as arranging papers, stocking and re-stocking offices, and gesticulating in the cafeteria and restrooms). Additionally, unknown figures were observed entering Site-441, breaching containment. The individuals numbered between 4 and 7, both male and female, and appear to follow set paths through the building, culminating in SCP-1706's containment area before exiting.
+
+Follow-up interviews indicate personnel were unaware of such occurrences. Security reported no unusual activity during the incident, although they could not account for the failure to respond to the routine check, nor the presence of non-essential personnel awake during off-hours.
+
+Review of prior security footage indicate this event has repeated itself on a nightly basis, despite routine security checks. On-site security have addressed the issue, and following review and updated security check-ins from Site-██, no further containment breaches have occurred as of ██/██/20██. Information regarding the actions taken is restricted to personnel assigned to SCP-1706. Personnel have not requested medical attention and/or time off due to sleep deprivation.
+
+Addendum: Remote-access of Site-441 surveillance systems confirm the absence of unauthorized individuals, but have seen no change in the behavior of on-site personnel. Personnel have been interviewed on the continuing recurrence and can fully account for the events, indicating no loss of consciousness or awareness during these events. Medical evaluations have shown no signs of insomnia, sleep apnea, and negligible levels of fatigue, stress, and anxiety.
+
+Contacting Site-441 personnel during these occurrences is successful in ending them, but has not been successful in preventing future occurrences.
+
+Footnotes
+
+1. Certain actors appearing in the production have been contacted by Foundation personnel and confirm the veracity of the footage shown to them. However, due to the low budget of the production and disorganized filming schedule, few could account for details regarding the show's plot, nor the identity of much of the crewmembers present during filming.
+
+2. These effects appear to have been triggered upon initial playback of SCP-1706, between 04/15 and 06/30/20██, prior to containment
+
+3. For example, an individual may experience revulsion at the idea of caring for a physically ill loved one, or find humor in descriptions of graphic sexual violence

@@ -1,0 +1,45 @@
+SCP-1022
+
+Item #: SCP-1022
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1022 may be contained on a clothes rack within a standard secure item locker. Warning labels are to be affixed to prevent confusion with similar attire in use by Foundation personnel. Completion of a comprehensive psychiatric evaluation and the mandatory SCP-1022 orientation course is required for staff who wish to utilise SCP-1022. After the events of Incident 1022-1, use of SCP-1022 is restricted to D-class barring approval by Level 4 personnel.
+
+Description: SCP-1022 is a white cotton-polyester laboratory coat in Size M. It has no identifying markings save for a printed label on the inside collar reading 'Dr. E████', its original owner. All surfaces of SCP-1022 are resistant to microbial colonisation; introduced microorganisms fail to reproduce and subsequently die. It thus remains sterile save in the immediate period after contact with a colonised surface. The physical properties of SCP-1022 are otherwise unremarkable.
+
+When a subject wears SCP-1022, they are able to perceive prokaryotic organisms (primarily bacteria, but archaea may also be visualised by SCP-1022) in the environment at greatly increased magnification, which persists indefinitely even after SCP-1022's removal. This visual effect is comparable to that of a light microscope on high-power settings (1000x), with the result that most organisms visible appear 1-5mm in length or diameter. The effect is not cumulative with magnification apparatus; use of light microscopy will not enlarge organisms, although the subject is able to use more powerful magnification techniques, such as electron microscopy, as normal. Organisms on the surface of the eye are not visible, but organisms on spectacles or contact lenses are, leading to obscured vision in users of these and the inconvenience of constant sterilisation for normal vision.
+
+Organisms observed by the subject are accurate magnifications, mobile and may be observed to grow, reproduce and bioluminesce where possible. Physical properties of the organisms themselves are unaffected. With appropriate microbiology training, subjects have proved to be capable of distinguishing and classifying organisms accurately. Only prokaryotic cells are visible; eukaryotic cells and nonliving objects are not magnified. Experimentation with viruses is underway pending preparation of a suitable subject and testing environment (it is presumed that only the largest viruses >400 nm would be visible, and the subject would require above-normal visual acuity).
+
+All non-sterile surfaces, including living beings, will appear to the subject as though coated in organisms with density proportional to the level of contamination of the surface. On sufficiently colonised surfaces (>10,000 organisms/cm2) a 3-dimensional layer of organisms up to 10 cm in height has been observed. This is strictly a visual effect and may be passed through without result, apart from the normal possibility of microbiological contamination when in contact with the surface.
+
+SCP-1022 is a risk for psychopathology in exposed subjects. After experiencing the effects of SCP-1022, subjects may develop anxiety or obsessive-compulsive traits (unsurprisingly, abnormal cleaning habits are dominant), anorexia, and socially isolating behaviours - other manifestations are less common. The pattern of these symptoms is variable between subjects and dependent on factors such as personality traits, underlying psychopathology, occupation and educational level. High threshold for disgust and biomedical education have been noted to be protective. SCP-1022-related psychopathology may be treated by standard methods involving cognitive behavioural therapy to reinforce the harmless and 'normal' nature of the visions, in conjunction with anxiolytic medication.
+
+Addendum 1022-1:
+
+While data on long-term SCP-1022 exposure is scarce, some subjects have reported developing further abnormal sensations after 3 months at a minimum of experiencing SCP-1022's effect. These include abnormal tactile inputs ('crawling' sensations), the feeling of organisms 'jumping' from surfaces to the subject, and [DATA EXPUNGED]. One subject (D-10225A9) reported mild feelings of discomfort in the throat, chest and abdomen for which no medical cause could be found. Further observation is required. Presently, the development of these is considered harmless and only indicates medication as necessary.
+
+Addendum 1022-2:
+
+Ability of subjects to cope with SCP-1022 exposure in the long term was confirmed by Experiment 1022-5A. D-10225A1 [male, 34, Eastern European, relevant background as emergency medical technician] successfully adapted to SCP-1022's effect and retains normal function and mental stability after ██ months, requiring only fortnightly psychological support and no medication. Dr H█████ submitted a request to have D-10225A3 assigned to the Site-██ microbial laboratory as an assistant; this was approved and Dr H█████ reports D-10225A3 has been a useful resource for the research team.
+
+Subsequently, a number of proposals have been made for expanded use of SCP-1022 for both D-class personnel and Foundation staff involved in sterile-environment medical work or containment of biologically hazardous SCP objects such as [REDACTED]. Expanded use of SCP-1022 on D-class and staff volunteers is approved post-completion of:
+
+a proposal demonstrating value of SCP-1022's effects in subject's duties with the Foundation
+
+a comprehensive psychiatric evaluation
+
+the SCP-1022 orientation course at Site-██, involving 2 weeks of education sessions and isolation in rooms designed to simulate SCP-1022's effects (using a combination of video technology and paper cutouts)
+
+These prerequisites are not mandatory for D-class personnel but are recommended for research and data collection purposes.
+
+NOTE [15/01/20██]: Use of SCP-1022 on Foundation personnel has been suspended following Incident 1022-1. Use of D-class personnel may continue but caution is advised.
+
+Incident 1022-1:
+
+Dr A███, a Level 3 member of the Site-██ medical staff, was an early volunteer for use of SCP-1022 and was approved after completing the requirements. He responded well to the effects of SCP-1022 and was functional and mentally stable after █ weeks with psychological treatment and anxiolytics. On 14/01/20██, Agent R███████ was sent to the Site-██ medical facility after experiencing bouts of abdominal pain diagnosed as acute appendicitis. As Dr A███ entered the operating theater, he became highly agitated, administered a lethal dose of anaesthetic to Agent R███████ and called a Level-1 biohazard emergency warning. Appropriate protocols were initiated and the Site and personnel were decontaminated, which revealed no remarkable pathogens. Agent R███████'s remains were autopsied and found to be normal save a confirmation of the appendicitis diagnosis (the pathogens involved were normal intestinal flora). Agent R███████ was previously healthy and had no record of exposure to major biohazards. Dr A███ was placed into custody but remained agitated and uncooperative, demanding the incineration of Agent R███████'s remains and further decontamination of the Site. Interrogation demonstrated his belief in an undefined SCP-level biohazardous contaminant of Agent R███████ necessitating the neutralisation of Site-██ and non-essential personnel.
+
+Site-██ remains operational with no ill effects to date and Dr A███ has been detained indefinitely. Following this incident, use of SCP-1022 on Foundation personnel has been suspended and all subjects exposed to SCP-1022 placed under closer surveillance.
+
+Addendum 1022-3: D-10225A1 has reported auditory hallucinations of 'squirming' sounds. Reassurance was given and he has been started on a low dose of anxiolytics.

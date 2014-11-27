@@ -1,0 +1,109 @@
+SCP-536
+
+Item #: SCP-536
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-536 is to be maintained according to standard Foundation procedures. SCP-536 is not to be plugged into its power source except during authorized testing. Any personnel who wish to engage in research involving SCP-536 must submit an official request form to Dr. ████, under whose supervision all tests are to be conducted.
+
+Gravimetric, electromagnetic, and radiological sensors are to be placed on SCP-536's surface at one meter intervals. In the case of abnormal readings on any of these sensors, SCP-536 is to be deactivated immediately and removed from its power source.
+
+Personnel are encouraged to repeatedly check calculations before activating SCP-536.
+
+Description: SCP-536 is a ██ by █ by ██ meter chamber, with a 50 centimeter square viewing window, 6 tunable dials with corresponding meters, and an electromagnetically sealed entryway. The entryway cannot be sealed or opened from the inside, and the dials will not respond unless the entryway is closed and sealed. The viewing window is opaque to electrons, nuclear particles, [REDACTED], and photons of energies above 1 keV.
+
+Each of SCP-536's dials alters the value of one of the fundamental physical constants within the chamber. The dials control, respectively, the speed of light 'c', the gravitational constant 'G', Planck's constant 'h', the fundamental charge 'e', and two other constants represented by the Greek letters lambda and theta (Memo: After testing, Foundation researchers have concluded that these two constants represent the coupling constants for the weak and strong interactions, respectively. See testing logs SCP-536-██ and ██). All constants are measured on their respective dials in modern SI units, with the exception of the dimensionless lambda and theta.
+
+Except for the viewing window, SCP-536 is totally opaque to electromagnetic radiation and subatomic particles. No abnormal physical behavior has yet been observed outside the chamber during testing.
+
+Recovery Log: SCP-536 was recovered from the University of ██████ Physics department, where it was installed in the research laboratories of Prof. ████. After its identification as an SCP object, several agents were dispatched with a squad of Level-3 security personnel.
+
+Prior to recovery, Prof. ████ was either warned of Foundation actions or was able to recognize Foundation agents. Using a device Agent ███ described as a [REDACTED], the Professor [DATA EXPUNGED]. He died in the resulting explosion. All references or records referring to SCP-536 had been destroyed before the arrival of any Foundation personnel.
+
+Detailed analysis of Prof. ████'s personal effects has revealed probable association with several anti-Foundation groups, including [DATA EXPUNGED]. As yet, it is unknown whether SCP-536 was manufactured by any of these groups, or if it has extraterrestrial, supernatural, or extratemporal origins.
+
+Testing Logs:
+
+Testing Log SCP-536-█:
+
+0:30:34 Doctors ████ and ███ enter the SCP-536 testing room.
+
+0:30:50 Dr. ███ enters into SCP-536.
+
+0:30:56 SCP-536 entryway closed and sealed.
+
+0:31:10 Dr. ███ instructs Dr. ████ to lower the gravitational constant by a factor of one half. Dr. ████ complies.
+
+0:31:15 - 0:31:58 Dr. ███ jumps around the interior of SCP-536 under reduced gravity.
+
+0:32:10 Dr. ████ is instructed to return the gravitational constant to original levels.
+
+0:32:50 Dr. ███ instructs Dr. ████ to reduce the speed of light to approximately 100 meters per second. Dr. ████ complies.
+
+0:32:55 As the speed of light begins to decrease, Dr. ███ shrinks by approximately ten inches. Dr. ████ abruptly returns the speed of light to its original value. Dr. ███ returns to his original size.
+
+Memo: The Bohr radius is a quantity that determines the size of an electron's orbit around an atomic nucleus. It is inversely variable with both the speed of light, and the charge of the electron.
+
+0:33:10 Dr. ███ reminds Dr. ████ to account for the decrease in the Bohr radius by decreasing the fundamental charge unit by a corresponding factor. Dr. ████ makes the necessary calculations, and complies.
+
+0:34:02 Dr. ███ begins speaking in an abnormally slow voice, stating that he 'feels odd'.
+
+Memo: This reduction of the speed of light would result in a slowing down of the electrochemical processes in the brain. This would likely result in abnormal brain activity, and quite probably impaired judgment.
+
+0:34:43 Dr. ███ instructs Dr. ████ to reduce the speed of light 'to as low as the dial goes'. After brief hesitation, Dr. ████ complies.
+
+0:34:45 The speed of light within the chamber drops below ████ meters per second. Dr. ███ suddenly screams violently. The scream slowly drops in register until it becomes inaudible. The video camera positioned at the viewing window records Dr. ███'s body becoming contorted, and slowly collapsing into a black hole.
+
+0:37:04 Under supervision of Dr. █████, the speed of light is slowly raised back up to its normal value. Radiation levels given off by the black hole are consistent with presently-theorized levels of Hawking radiation. All ionizing photons are absorbed by the chamber walls. Dr. ████ is removed from active duty and directed to Foundation psychological studies for grief counseling.
+
+Testing Log SCP-536-█:
+
+3:22:59 Subject D-1123 is placed inside SCP-536 with a baseball, a meterstick, and a clock. Dr. ███ instructs the on-site technician to steadily lower the speed of light by one order of magnitude every two minutes.
+
+3:23:00 - 3:34:00 No abnormal physical behavior observed.
+
+3:34:34 Subject D-1123's speech becomes noticeably slowed. Subject begins giggling.
+
+3:35:50 Subject is instructed to throw the baseball at the opposite wall. Subject reports intense pain in hand after the throw. Subject refuses to throw meterstick or clock. Subsequent analysis of video indicates both Lorentz contraction and redshift of light on the baseball, and on the subject's hand.
+
+3:37:10 Subject reports feelings of lightheadedness, and falls over.
+
+3:37:31 Speed of light returned to normal. SCP-536 opened. Subject D-1123 found dead of stroke.
+
+Memo: It is likely that the Subject's stroke was a result of a combination of mass increase and Lorentz contraction of the blood reaching her brain. Arterial blood was being pushed through the body at close to light speed, and the physical effects of that are probably very unhealthy, even in cases that don't cause immediate death.
+
+Testing Log SCP-536-██:
+
+1:22:21 Subject D-22413 placed in SCP-536.
+
+1:22:45 Lambda dial decreased by an order of magnitude. No observable effects.
+
+1:23:00 - 1:45:00 Lambda dial continuously decreased at a rate of one order of magnitude every two minutes. No observable effects.
+
+1:45:23 Lambda returned to normal levels.
+
+1:46:00 - 1:58:00 Lambda increased by one order of magnitude every minute.
+
+1:53:32 Subject D-22413 reports feeling nauseous.
+
+1:55:22 Subject vomits.
+
+1:57:56 Maximum setting for lambda reached. Subject is alive and conscious. Lambda lowered to original levels.
+
+1:59:21 D-22413 removed from SCP-536. Subject displays signs of acute radiation poisoning, although no unusually high levels of radioactivity are recorded outside the chamber. Later analysis of D-22413's body reveals approximately zero Carbon-14. The amount of radiation damage to the Subject's cells is consistent with the expected damage if all Carbon-14 in a human body simultaneously decayed.
+
+Memo: The connection of lambda to radioactive decay, and the dimensionless nature of the constant, leads me to believe that it is the coupling constant for the Weak interaction. I think it likely that the remaining unknown is the corresponding constant for the Strong interaction - Dr. ███
+
+Testing Log SCP-536-██:
+
+1:11:45 Subject D-6263 placed in SCP-536.
+
+1:12:00 - 1:34:00 Theta dial increased continuously by an order of magnitude every two minutes. No observable effects.
+
+1:34:32 Theta dial returned to normal value.
+
+1:34:43 Theta dial decreased by an order of magnitude. Subject D-6263 violently disintegrates.
+
+1:35:11 Theta dial returned to normal value. Teams in Hazardous Environment suits open the chamber door. Hydrogen gas and high levels of neutron radiation are detected.
+
+Memo: In spite of the freedom afforded by being able to freely manipulate the laws of physics, it is important to recognize the many ways in which manipulations of these laws are deadly to human life, or nuclear matter in general. If you like having a body made out of atoms, I recommend the strongest caution in dealing with SCP-536. -Dr. ████

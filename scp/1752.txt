@@ -1,0 +1,55 @@
+Item #: SCP-1752
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1752-1 is currently contained in a sound-proofed cabinet equipped with a microphone and speaker, in the function room of the ████████ Hotel, Manchester, United Kingdom; this latter is designated Site 381. As SCP-1752-1 remains immobile except in the case of Delta Events, current containment efforts are focused on preventing these events. Site 381 should be staffed by a minimum of four agents to monitor SCP-1752-1 activity and prevent unauthorised access. These agents should receive a rudimentary training in traditional medicine as practised in 17th Century England (see Document 1752-Training for full details), and provided with copies of Avicenna's The Canon of Medicine, John Gerald's Herball, or General Historie of Plantes, and Heinrich Kramer's Malleus Maleficarum for use in Protocol 1752-Oracle.
+
+SCP-1752-1 is to be continually monitored via the microphone located in its cabinet for activation events. Upon activation, identity of the SCP-1752-3 entity should be established if possible. If the entity is already known and catalogued, no further communication is necessary on the part of the responding agent, though the behaviour of the entity should be monitored and any unusual activity reported to the project director. If the SCP-1752-3 entity appears to be unknown, efforts should be made to determine its identity, and it should be catalogued and assigned a numerical sub-designation if possible. All new SCP-1752-3 entities should be reported to the project director in the weekly report. If the entity is identified as SCP-1752-3-Prime, Protocol 1752-Oracle must be enacted immediately to prevent a Delta Event. If a Delta Event should occur, agents are to immediately contact the project director for the enaction of Protocol 1752-Covenant to lure SCP-1752-1 back into containment.
+
+The recordings made of SCP-1752-3 behaviour are subject to ongoing analysis in the hope of determining the nature and present location of SCP-1752-2 for its future containment.
+
+Details of Protocols 1752-Oracle and 1752-Covenant for study by new recruits to SCP-1752 may be found in Document 1752-Protocols.
+
+Description: SCP-1752-1 is a static point in space from which vocal manifestations periodically (roughly every 1-5 hours) emerge. These manifestations are identical to sounds produced by non-anomalous means at the point of origin and are therefore audible by anyone standing nearby and detectable by all types of audio equipment. Persons hearing the sounds produced by SCP-1752-1 will describe them as perfectly clear and understandable, and as being spoken in the language with which they are most comfortable. The voice quality of these manifestations is consistent across repeated hearings by the same person; though descriptions differ between listeners, it is universally described as neither obviously male nor female, and possessing no particular accent.
+
+SCP-1752-2 is the tentative designation given to the object, collection of objects, or object and associated actions which enable a person to project sound through to SCP-1752-1. Efforts are ongoing to determine its nature and location so that it may be contained.
+
+SCP-1752-3 collectively refers to the entities that speak through SCP-1752-1; currently there are 14 distinctly identified SCP-1752-3 entities, and a further recorded ████ manifestations which have not been firmly matched to any SCP-1752-3 entity. As entities all speak with the same voice, identification may only be achieved through recognition of behaviour patterns. Communication with these entities is possible by projecting audio near SCP-1752-1. Both naturally produced sound (such as human speech) and sound played through speakers have proved effective.
+
+Notable SCP-1752-3 entities include:
+
+SCP-1752-3-D, self-identification George Locksted, who seems to treat SCP-1752-2 as some kind of recording device and spends ten to fifteen minutes describing the events of his day. Apparently lives in London in the late 19th Century. Manifestations usually occur between 1900 and 2100 hours.
+
+SCP-1752-3-G, who regularly sings songs popular in the 1960s, '70s, and '80s. Manifestations may be up to twenty minutes in length, and usually occur between 0630 and 1000 hours.
+
+SCP-1752-3-K, who speaks to SCP-1752-2 in a manner which indicates he believes it to reply to him, despite no communication by Foundation personnel.
+
+SCP-1752-3-Prime, self-identification Demdike. Believed by the Foundation to be the initial owner of SCP-1752-2, it [DATA EXPUNGED] capable of causing Delta Events. In order to prevent these from occurring, Protocol 1752-Oracle should be enacted as soon as SCP-1752-3-Prime is identified.
+
++ Addendum 1752-A: LEVEL 4 CLEARANCE REQUIRED
+
+- Incident 1752/1 (██/██/200█): Manifestation transcription.
+
+Note: prior to this point, SCP-1752-1 was believed completely immobile, and a site had been constructed surrounding its location in ██████, Lancashire. Containment procedures involved the recording of all vocal manifestations, but restrictions were in place forbidding reply of any kind.
+
+SCP-1752-3-Prime: Demons of the dark and deep, servants of the devil, it is I, Demdike!
+
+<There is a pause of about ten seconds.>
+
+SCP-1752-3-Prime: Sulking again, are you? Well, I have a surprise for you! I have been back to see Mr. Deer, to complain about what he sold me.
+
+<Another pause of about ten seconds.>
+
+SCP-1752-3-Prime: He asked that I mention him to you by name. He said you would know him. I see that is not enough to get you to respond to me, so I shall follow the instructions he gave me to adjust this so I may talk to someone else. If you will not provide me with the answers I seek, then perhaps another will.
+
+<SCP-1752-3-Prime stops speaking, and various quiet noises are audible, as of items being moved around. SCP-1752-3-Prime can be heard muttering, although no particular words are audible. This continues for approximately one minute and twenty seconds.>
+
+SCP-1752-3-Prime: This is your last chance. Will you tell me the medicines I need today?
+
+<A pause of six seconds.>
+
+SCP-1752-3-Prime: Fine. You will not hear from me again. I will seek knowledge where there is a greater quantity of it.
+
+Shortly following this manifestation, the first recorded Delta Event occurred, and SCP-1752-1 stopped producing any manifestations. It was considered neutralised until reports reached the Foundation 16 days later of a similar phenomenon which had spontaneously appeared in the [REDACTED] Meeting House in the nearby city of █████████ during a monthly meeting of the ████ ██████ Homeopathy Society. Containment was moved to this location and proceeded as before, until another Delta Event occurred on ██/██/201█ and SCP-1752-1 shifted to the larger city of ███████, interrupting a meeting of the National Botanist Convention.
+
+It was at this point that an exception to Foundation Policy 713 (Anomalous Object Appeasement) was received from O5-█ and Protocol 1752-Oracle was developed. As a contingency, a protocol to lure SCP-1752 back into containment if it should breach again was developed, codenamed Protocol 1752-Covenant. Since this time, it has been necessary to enact Protocol 1752-Covenant only once, with the appearance of an annual meeting of local Traditional Chinese Medicine practitioners, which caused the shift to current containment location as expected.

@@ -1,0 +1,111 @@
+SCP-1296
+
+Item #: SCP-1296
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1296’s contact information is currently on file within Secure Archive 11. No other security is necessary, as SCP-1296 cannot manifest without use of this contact information.
+
+All testing of SCP-1296 is currently carried out in Remote Testing Area 3. All specimens acquired through use of SCP-1296 are to be stored in the biological storage unit within the testing area, and disposed of after recovery and study according to standard biological specimen clearance protocols, as outlined in Document CDP-BIO-EN-1.
+
+Accounts of contact with SCP-1296 outside of Foundation jurisdiction are to be investigated and addressed as they occur.
+
+Description: SCP-1296 is a Volga M24 model automobile belonging to a service identifying itself as Dial-a-Llama. The vehicle itself displays minor physical alteration: baggage bars have been installed on the roof, the rear seats have been removed, and the vehicle is incorrectly labeled as manufactured by the Toyota company. The Dial-a-Llama company’s contact information and slogans are painted on the sides of the vehicle.
+
+Upon calling the provided telephone number, callers will be put in contact with a sales representative from Dial-a-Llama, henceforth referred to as SCP-1296a. Attempts to find the location of SCP-1296a or to acquire information not regarding orders have failed.
+
+SCP-1296 will manifest within two hours of placing the order at the caller’s location, regardless of any changes in location made during the time between the call and the delivery. No maximum range to SCP-1296’s manifestations has been found, but it will require adequate space for the vehicle to manifest. Attempts to track SCP-1296 have failed: GPS devices attached to the vehicle have ceased function after SCP-1296 has left view, and it has consistently evaded pursuit. SCP-1296 will always manifest with one driver of varying appearance, and two to eight llamas. The cost of the order will vary without apparent pattern.
+
+Interview Log-01
+
+The following log was made during testing on 09/07/2012.
+
+SCP-1296a: Welcome to Dial-a-Llama, how may I help you?
+
+Dr. █████████: Uh, yes, could you please explain what exactly your company does?
+
+SCP-1296a: You need a llama? Dial-a-Llama gets you a llama. Anytime, anyplace. Like, it’s the name of the place.
+
+Dr. █████████: Yes, I know.
+
+SCP-1296a: Like, you call us, you order a llama, we get you a llama. Not that hard.
+
+Dr. █████████: Where do you get these llamas?
+
+SCP-1296a: Look, man, do you want a llama or not? This isn’t the twenty questions hotline. This is the two question hotline: Question one: Do you want a llama? Question two: What kind of llama do you want? If the answer to the first is no, then why are you calling?
+
+Dr. █████████: Let me speak to your manager.
+
+SCP-1296a: Nope. Sunk that ship. Clearly, you don’t want a llama, and just want to harass us here. Good day to you sir.
+
+Dr. █████████: [sighs] Okay, okay, I’ll buy a llama. Just one llama, nothing special.
+
+SCP-1296a: Alrighty then, that’ll be forty-five. Cash or credit?
+
+Dr. █████████: Cash.
+
+SCP-1296a: The Llamamobile will be there in two hours or less. Have a wonderful day, jackass.
+
+Interview Log-02
+
+The following log was made upon delivery on 09/07/2012. The driver of SCP-1296 has been designated SCP-1296b.
+
+SCP-1296b: Hey, you the guy who ordered a llama?
+
+Dr. █████████: Yes, that's me.
+
+SCP-1296b: Forty-five, please.
+
+Dr. █████████: [pays SCP-1296b] If it's at all possible, could I ask you a few questions about your…
+
+SCP-1296b: Not this again. You just won't give it up, will you? You order llamas. We get you llamas. From the top of Mount Everest to the bottom of the Marianas Trench, if you need a llama, we will get you that llama. Now stop being nosy. Yours is the grey one in the back.
+
+Test Logs:
+
+Ordered: Three llamas
+
+Time for Delivery: Three minutes
+
+Cost: $33
+
+Result: Two female and one male llama. No anomalies were detected in the specimens.
+
+Ordered: One pregnant female llama, with a brown spot on the left side.
+
+Time for Delivery: Seventeen minutes
+
+Cost: $50
+
+Result: One llama matching the description ordered. No anomalies were detected in the specimen.
+
+Ordered: One alpaca
+
+Time for Delivery: One hour and forty-three minutes
+
+Cost: $17
+
+Result: One male llama. Specimen had the hide of an alpaca glued to it. Closer inspection revealed that the hide had been freshly skinned.
+
+Ordered: One lama
+
+Time for Delivery: One hour and twenty-seven minutes
+
+Cost: $200.02
+
+Result: ███ ██████, a Buddhist monk. Subject had no recollection of events preceding delivery. Subject was administered amnestics and released without incident.
+
+Ordered: One robotic llama
+
+Time for Delivery: One hour and thirteen minutes
+
+Cost: $3561.87
+
+Result: One automaton in the shape of a llama. Behavior was identical to that of a biological llama.
+
+Ordered: SCP-1545
+
+Time for Delivery: Fifteen seconds
+
+Cost: None
+
+Notes: SCP-1545 was observed to vanish from its containment locker upon ordering. SCP-1545 was delivered fifteen seconds later, containing two deceased individuals, both unidentified: autopsy revealed that they had been deceased for at least twenty-four hours. Delivery consisted of SCP-1296 driving past the delivery area at approximately 150 km/h;SCP-1545 was thrown from the roof by a second SCP-1296-b subject. SCP-1296-b-2 was heard to scream "Just fucking take it!" before departure.

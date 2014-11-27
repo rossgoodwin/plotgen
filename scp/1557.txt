@@ -1,0 +1,63 @@
+Item #: SCP-1557
+
+Object Class: Safe
+
+Special Containment Procedures: Foundation personnel who have low levels of religious inclination are stationed at SCP-1557-1 to ensure that no civilians enter into the anomalous area. Personnel are not to touch any part of SCP-1557-1. While within SCP-1557, communication with SCP-1557-B is allowed, but the primary goal of agents in the area should be to map out the location, if possible.
+
+Description: SCP-1557 refers to an anomalous location that can only be reached through the use of a door located in ██████████, Greenland, hereby designated SCP-1557-1. This structure is constructed of a currently unidentified black material, is approximately 2.5m in height and 3m in width, and has a surface temperature of above 2700oC1. Furthermore, any personnel exhibiting high levels of religious inclination are unable to come within 50m of the object, due to an unseen physical obstruction that affects only the aforementioned subjects. The words "The wicked stay in this place" are inscribed into the door in Syriac. SCP-1557-1 will open when approached by any organism that both a) is not particularly religious and b) is not a giraffe (Giraffa camelopardalis).
+
+SCP-1557 itself has been noted to resemble an Arctic tundra, with an average temperature of approximately -30oC and very little vegetation. With the exception of SCP-1557-1, this location does not appear to possess any entrances or exits, nor does it have any landmarks or coastlines2 This area is populated by two types of entities, hereby designated SCP-1557-A and SCP-1557-B.
+
+SCP-1557-A refers to the population of giraffes that reside within SCP-1557. These animals are apparently unable to die, as individual specimens have been observed to last more than three (3) weeks without food or water, as well as sustaining damage inflicted by SCP-1557-B which would normally be lethal. Said damage is rapidly healed through anomalous means. Additionally, all instances of SCP-1557-A appear to be unable to move their neck out of an erect position. The combination of these conditions seems to inflict great amounts of physical pain upon SCP-1557-A instances.
+
+SCP-1557-B refers to a currently unknown number of spheres of white light, usually measuring between 1m and 2m in diameter. All instances are physically capable of impacting giraffes, but have not been found to be able to make contact with any other animal or object at the current time.3 Members of SCP-1557-B are capable of communication with any living organism and will address multiple subjects at a time. All subjects within range will report hearing SCP-1557-B speaking in their native language. These entities typically will spend long periods of time taunting, yelling at, injuring, or otherwise hurting the SCP-1557-A population.
+
+Dialogue Log-1557-Alpha: Upon initial Foundation investigation of SCP-1557, personnel were approached by an instance of SCP-1557-B. The following log transcribes the conversation.
+
+<Begin Log>
+
+SCP-1557-B-001: This is not for you.
+
+Fredricks: What is this place?
+
+SCP-1557-B-001: Justice.
+
+Fredricks: I see. And so these animals [gestures to several instances of SCP-1557-A], they are here because…?
+
+SCP-1557-B-001: They were incorrect in their lives.
+
+Fredricks: How so?
+
+SCP-1557-B-001: They followed the wrong teaching. They were led down the path to here, and here they will remain until redeemed.
+
+Fredricks: Will they stay here forever?
+
+SCP-1557-B-001: Most likely not. [incomprehensible], or rather He, must come eventually.
+
+Fredricks: What exactly are you?
+
+SCP-1557-B-001: We are the guards and the teachers of the species, their protectors and their punishers. We exist so that they may learn from their mistakes. Until the lesson is learned and they are forgiven, it is our duty to ensure that no wicked deed goes unpunished.
+
+Fredricks: All you do is attack and harass these animals?
+
+SCP-1557-B-001: We do more than th— [an instance of SCP-1557-B approaches and yells "You deserve everything about this" at a nearby SCP-1557-A entity before ramming it repeatedly in the sides while laughing] You must go now, we have important work to do.
+
+[After this point, SCP-1557-B-001 resumed torturing SCP-1557-A instances and refused to answer further questions.]
+
+<End Log>
+
+Closing Statement: Following the events of this log, all instances of SCP-1557-B refused to communicate with Foundation personnel.
+
+Incident Log-1557-Epsilon: On 19/02/2009, a large number of entities resembling red translucent giraffes manifested within SCP-1557. These animals were capable of levitation and proceeded to wrap their necks around the necks of individual instances of SCP-1557-A, at which point both organisms vanished. This continued until no SCP-1557-A instances remained within sight. After this, all of the translucent red giraffes reappeared and proceeded to attack all SCP-1557-B instances for forty (40) days before demanifesting.
+
+No giraffes have appeared within SCP-1557 since the incident, and all instances of SCP-1557-B currently appear to be incapable of movement and communication. Instead, all spheres have been noted to constantly emit a high-pitched noise. Foundation personnel have been assigned to regularly check the conditions of SCP-1557 and note any changes within the location.
+
+Additionally, the inscription on the front of SCP-1557-1 has been altered as well, and now reads, "The second. The first seal was broken, and now the steed has been liberated. The warriors await the arrival to aid in the completion of the [UNKNOWN]. It comes."
+
+Footnotes
+
+1. However, this temperature is not ambient and cannot be experienced in any manner other than directly touching the surface of SCP-1557-1.
+
+2. Foundation personnel have reportedly been able to travel more than 1000km in any direction without discovering any sort of marking or edge.
+
+3. See Testing Log-1557-B-Delta for a full list of objects that have been previously tested on SCP-1557-B.

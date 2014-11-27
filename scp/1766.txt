@@ -1,0 +1,21 @@
+Agent ████ monitioring SCP-1766 activity
+
+Item #: SCP-1766
+
+Object Class: Euclid
+
+Special Containment Procedures: Currently, containment of SCP-1766 is not possible. Individuals affected by the actions of SCP-1766 are to be dosed with a Class-C amnesiac and released after being questioned about the incident. Any leak in information to the media is to be suppressed through the normal channels.
+
+After an activation incident, USAF 122nd-S Fighter Squadron (Ghost Hunters) will be launched to intercept SCP-1766 to deactivate it via jamming equipment outfitted to the aircraft.
+
+Description: SCP-1766 is a radar anomaly resembling a Cessna model 172 personal propeller aircraft that will appear in air traffic control radar monitoring systems in high traffic or congested areas across the southeastern United States.
+
+The data displayed on ATC systems shows the tail number to be N1029457, registered to a James T Melancon of ██████████, Louisiana. This is improbable, as this aircraft and Mr. Melancon have been reported missing since December 12, 19██ after entering a storm system over the Gulf of Mexico.
+
+Once SCP-1766 activates, it will begin transmitting an emergency transponder code, and begin to move in irregular flight patterns, 90% of the time causing what would be a mid-air collision. The danger in this arises when pilots initiate emergency evasive maneuvers upon being notified by ATC, which puts the aircraft at high risk of mid-air collision with another aircraft. To date, over ██ mid-air collisions and ███ deaths have been attributed to SCP-1766's activation and interference.
+
+The only known method for causing SCP-1766 to disperse is by directing 125.500 MHz frequency waves (Aircraft Distress Channel) at its current location.
+
+Addendum: On March 13, 20██, radio contact to ATC was made by the anomaly, which consisted of the sounds of rustling papers, panicked breathing, and incoherent mumbling, along with the drone of the aircraft's engine in the background.
+
+Incident 1766-73: On July 7, 20██, SCP-1766 activated in two separate locations at once. Research into this incident is ongoing.

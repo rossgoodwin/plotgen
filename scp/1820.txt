@@ -1,0 +1,127 @@
+Exterior of SCP-1820 from Test 1820-9.8
+
+Item #: SCP-1820
+
+Object Class: Safe Euclid, see Incident Log 1820-7.3
+
+Special Containment Procedures: Due to the nature of SCP-1820, it is contained within Site 182, which has been designated a Special Wildlife Refuge by the US Fish and Wildlife Service to assist in isolating the object. If any civilians are detected either from the perimeter observation towers or through satellite surveillance, MTF Tau-7 (Smokey’s Rangers) is to intercept and redirect, using available cover stories (detailed in Document-1820-4.12), or non-lethal force and administration of class-B amnestics where applicable. No personnel above class-D are to enter Site 182 unless prior permission is granted by a level 2 supervisor and a standard-issue GPS locater and a head-mounted camera are used. The locator must be constantly monitored by the personnel entering Site 182 and the current level 2/1820 superviser.
+
+Description: SCP-1820 is a single-story log cabin with 4 windows and one door, theoretically located between ███°██’██”█, ███°██’██”█ and ███°██’██”█, ███°██’██”█. The cabin’s exact location cannot be determined, due to its inability to be located if one knows their exact location. Site 182 was created from the square designated by the above coordinates. If any person enters the site and becomes “lost” (defined as any entity not knowing the exact or relative location of the subject) for a period varying between █ hours and ██ days, they will encounter SCP-1820.
+
+SCP-1820 cannot be located if:
+
+• The subject knows the area well, or is given detailed directions by someone who does.
+
+• The subject uses video tracking (either through a live feed or a recording)
+
+• The subject’s position is triangulated from their radio signal
+
+• The subject is tracked via GPS locators that are regularly monitored by either the subject or any other entity
+
+• The subject is documenting their progress
+
+• The subject is accompanied by remote exploration vehicles
+
+• Remote vehicles are deployed alone
+
+SCP-1820 can be located if:
+
+• The subject wanders freely into Site 182
+
+• The subject is tracked via GPS, but it is not regularly monitored (see Incident Log 1820-7.3)
+
+• The subject remains in radio contact but does not detail their progress
+
+Upon discovering SCP-1820, subjects describe it as “cozy” and “inviting”; at night lights are visible through the windows and smoke is always rising from the chimney. 15% of subjects also report a single figure standing at one of the windows, though the details of the figure are obscured. Subjects also experience a compelling urge to enter SCP-1820; only 3% of subjects were able to leave the area once sighting the cabin. After entering SCP-1820, all radio contact with subjects is lost for a period never exceeding 24 hours. Upon exiting the building, subjects report feeling amazingly refreshed and rested, but vital signs exhibit [DATA EXPUNGED] along with increased paranoia, nyctophobia, spheksophobia1, and a total unwillingness to re-enter SCP-1820. Subjects are almost completely amnesic relating to their experience inside the cabin. All attempts to record or otherwise document the interior of the cabin or the figure have failed.
+
+Abridged Test Log:
+
+Test 1820-1.4:
+
+Subject: D-12938, male, Caucasian, age 32
+
+Equipment: One standard radio communicator with headset and spare batteries, one Wilderness Survival Kit with food and water for 14 days.
+
+Subject is told to hike into Site 182. While he initially complains of his chances of survival, promises of freedom elicit compliance. Intermittent (as instructed) radio contact is established for █ days ██ hours before the subject encounters SCP-1820 at approximately 1920. Subject is asked to describe cabin and star patterns in the hopes of later locating the object. Cabin description matches previous tests, and visible constellations match those for the region, however the locations of the constellations relative to each other are abnormal (i.e. some are rotated or translated to different portions of the sky). Subject also describes a figure in the window adjacent to the door. This is the first subject to describe a figure. Subject is then told that his task is completed, and immediate return is his only option to earn freedom. Subject disregards offer and proceeds to enter the cabin. All radio contact is immediately lost. Contact resumes 14 hours 57 minutes later when subject breaks silence by expressing feelings of well-being and restfulness upon exiting SCP-1820. Subject expires on return trip. Body is located 85 hours later at ███°██’██”█, ███°██’██”█. Autopsy reveals cause of death to be dehydration, malnutrition, exhaustion, and [REDACTED].
+
+Test 1820-3.2:
+
+Subject: D-98255, female, African-American, age 27
+
+Equipment: One standard radio communicator with headset and spare batteries, one Wilderness Survival Kit with food and water for 14 days, one digital camera.
+
+Subject is told to hike into Site 182 with standard compliance promises. SCP-1820 is encountered before the first scheduled radio update after █ hours ██ minutes at approximately 1045. No figure is described in any windows. Subject is asked to document the exterior and surroundings of the object with video and still-images. After documentation is finished, subject is asked to enter SCP-1820 and document the interior. All radio contact is lost upon entry. Contact is resumed 15 minutes later, subject again expressing exceptional levels of well-being and restfulness. When subject is asked to re-enter the cabin, she immediately becomes verbally hostile and abusive. Upon recovery 8 hours 2 minutes later, the subject had lost 18kg and was suffering from severe dehydration, malnutrition and sleep deprivation, and vital signs exhibited [REDACTED]. Subsequent psychological examinations revealed acute paranoia, nyctophobia, and spheksophobia. Subject self-terminated 13 days later.
+
+The majority of the data on the camera's memory card was irretrievable, and all retrievable pictures were too badly corrupted to be recognizable.
+
+Why spheksophobia? We need to document the interior. - Dr. ██████████
+
+Test 1820-9.8:
+
+Subject: D-76502, male, Caucasian, age 29
+
+Equipment: One standard radio communicator with headset and spare batteries, one Wilderness Survival Kit with food and water for 14 days, two digital cameras, two film cameras.
+
+Subject is told to hike into Site 182 with standard compliance promises. Subject encounters SCP-1820 after █ days ██ hours at approximately 0630. Subject is told to document the exterior of the cabin with a film and digital camera, and then to leave the cameras on the ground and enter the building, documenting the interior with the others. Upon entry, all radio contact is lost, but a hissing sound persists for 1.2 seconds. Contact is resumed 9 hours 19 minutes later, subject again expressing exceptional levels of well-being and restfulness. Subject is able to locate the first two cameras and makes the return journey in █ days ██ hours. Upon recovery, subject had lost 25kg and was suffering from severe dehydration and malnutrition and slight sleep deprivation, and vital signs exhibited [REDACTED] and acute [REDACTED]. Subsequent psychological examinations revealed paranoia and acute spheksophobia. Subject becomes physically hostile to staff within 2 days, and is terminated while assaulting Dr. ███████ 4 days later.
+
+Analysis of the digital camera used to document the interior of SCP-1820 shows the same signs of data corruption as that of Test 1820-3.2, while the film appeared to have been burned while inside the second camera. The exterior cameras showed no signs of corruption.
+
+Incident Log 1820-7.3:
+
+While rerouting civilians from SCP-1820, Agents Gutierrez, Fowler and Holland became separated from the rest of the squad. While they were wearing their standard issue GPS tracking bracelets, they encountered SCP-1820 █ hours later at approximately 2130 while returning to base. Supervisor 2/1820 ██████ immediately ordered their return, and commanded they do not enter the cabin. Agent Holland does not hesitate as he enters the cabin, but Agents Gutierrez and Fowler hesitate momentarily. Agent Gutierrez is heard to debate with himself for approximately 3 minutes before entering, but Agent Fowler proceeds to slowly back away and then break into a run for 47 minutes before collapsing, and is recovered 1 hour 22 minutes later. Agent Gutierrez exits the cabin 4 hours 12 minutes after entry, and Agent Holland exits 19 hours 50 minutes after entry. Upon their recovery, both Agents were suffering from severe dehydration, malnutrition, and exhaustion. Agent Holland had developed symptoms of severe [REDACTED]. Both agents were given the option to self-terminate from the history of D-class personnel after exposure to SCP-1820. Agent Holland becomes immediately hostile, killing Dr. █████ and injuring 2 guards before being terminated. Agent Gutierrez accepted the offer pending his debriefing. See Interview Log 1820-7.3. Agent Fowler showed no signs of mental or physical illness, aside from standard PTSD, and monitoring ceased after 70 days.
+
+Later analysis of the Agents' GPS trackers revealed they simultaneously ceased functioning immediately after the last time the Agents' locations were checked. This shows possible sentience on the part of SCP-1820.
+
+I'm curious as to the time of the GPS malfunction. If we had checked their GPS location again within █ hours (the experimental minimum time to contact), would it have malfunctioned at all? Seems a bit paradoxical, but I'm requesting upgrade to Euclid. - Dr. ██████████
+
+Interview Log 1820-7.3
+
+Debriefing of Agent 1820/82 M. Gutierrez following Incident 1820-7.3
+
+Interviewer - Dr. ██████████
+
+Forward - Psychoanalysis of Agent Gutierrez following Incident 1820-7.3 reveals severe paranoia, nyctophobia, and spheksophobia. None of these conditions were present during mandatory psychiatric evaluation on ██/██/████
+
+Dr. ██████████ - For the record, please state your name and ID number.
+
+Agent Gutierrez - Agent Miguel Gutierrez, ID 1820/82 - 620013Z
+
+Dr. ██████████ - Thank you. Now, can you describe for me the events that led up to your encounter with SCP-1820?
+
+Agent Gutierrez - It was…well, it was supposed to be just a routine civvie redirection. At about 0630 we got word of some hikers approaching the site, and of course we had to get 'em out. I didn't think about it then, but somethin' was definitely wrong. Nobody comes to this area this time of year! I'm sure they were here for a reason. It had to be the…[sound of snorting in disgust]…anyway, Fowler, Holland and me were gonna circle around back an' make sure they didn't give the rest of the squad the slip. We were still in radio contact, so it was no big deal. The rest of the squad got to 'em before we did, and they supposedly had everything under control, so we were ordered to head back to base. We knew the area pretty well by then, so it shoulda just been a short trip…and then…
+
+Dr. ██████████ - Go on, please.
+
+Agent Gutierrez - We just sorta came out into this clearing, and there was this cabin sittin' there. It had already gone dark, which is strange considerin' how far it was supposed to be back to base, and the place just looked…nice, I guess. It looked warm, like..[shudders]…like it would be nice to rest there awhile before we head back. I dunno, Doc, it seemed like a good idea.
+
+Dr. ██████████ - You were briefed on transfering here about the object's dangers. Supervisor ██████ specifically ordered you to return without approaching SCP-1820. Why did you disobey a direct order?
+
+Agent Gutierrez - I just…I knew he was wrong, I guess. Nothin' could be wrong with a place like that. I remember talking myself into goin' in. I mean, ██████ hadn't been there, how could he know it was dangerous?
+
+Dr. ██████████ - Can you tell me what happened when you entered? Did you see Agent Holland? Any description at all will be helpful.
+
+Agent Gutierrez - You know, I didn't think about it before, but I didn't see Holland. I bet he was hiding…you know, he didn't even pause before he went in! He musta come up with this whole thing! I'm gonna-
+
+Dr. ██████████ - Please, Agent Gutierrez, what happened inside?
+
+Agent Gutierrez - I'm sorry, I…It was dark. Smelled kinda…rusty, I guess? Like something…old and sharp. Not really musty…[sound of snorting in disgust]…my mind's all fuzzy, you sure this is important? I'm sure the cabin was safe and all, it was so warm.
+
+Dr. ██████████ - It was dark inside? Agent Fowler described the exterior windows as brightly lit.
+
+Agent Gutierrez - No, I'm sure it was dark. And I think…I think I heard this groaning sound. Or maybe it was buzzing. Then there was a figure? A shape? I think…Oh god it was [DATA EXPUNGED]. Oh god, what happened to me in there Doc!? [subject appears visibly agitated and alarmed. It takes several minutes to calm him]
+
+Dr. ██████████ - Agent Gutierrez, that is what we are trying to determine. So far you are the only person to enter SCP-1820 and remember this much. Please, you have been exceedingly helpful so far, can you tell me anything else?
+
+[Agent is silent for approximately 5 minutes. When he continues, his voice is uncharacteristically monotone.]
+
+Agent Gutierrez - …They were kind, and warm…he was so nice, caring for me like that. I was just a lost traveler, and he took me an and helped me to relax. I'm glad he took my [REDACTED]. I didn't need it anyway. I can rest, now.
+
+Dr. ██████████ - What do you mean, who are 'they'? Was this 'he' the figure observed in the window?
+
+Agent Gutierrez - You should visit him sometime, you know. He can help you. He's nice to lost travelers. Give him your [REDACTED], Doc, you don't need it. He took mine and now I can rest, and then he'll have my bones, too.
+
+[Agent Gutierrez continues to ramble in this manner for another 3 hours before dying of self-inflicted cranial trauma using the interview table]
+
+Footnotes
+
+1. Fear of darkness and wasps, respectively

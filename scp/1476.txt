@@ -1,0 +1,19 @@
+SCP-1476 specimens in a frozen state
+
+Item #: SCP-1476
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1476 specimens are contained at a dedicated aviary attached to Site ██. Experimentation or interaction with SCP-1476 outside of normal feeding and aviary maintenance may only be performed with prior permission from at least two (2) Level 3 senior research staff, and any excess specimens must be disposed of via incineration.
+
+Any wild populations of SCP-1476 are to be destroyed after specimens are collected, preferably while they are in an immobile state.
+
+Description: SCP-1476 is a flock of genetically identical birds visually indistinguishable from Branta canadensis, or Canada geese. SCP-1476 exhibits natural behavior consistent with normal B. canadensis, with the exception that SCP-1476 appears to be ectothermic and lacks normal migratory and reproductive instincts. Instead, when the ambient temperature drops below freezing, SCP-1476 instances will seek open areas and allow themselves to freeze.
+
+In this frozen state, SCP-1476 specimens become highly brittle and will easily crack and break when subjected to outside force. After ambient temperatures return to above freezing, any remaining fragments of tissue approximately 130 cm³ or larger in volume will reform into juvenile specimens of SCP-1476 over the course of six (6) hours, which then grow normally. Injuries inflicted and tissue excised from specimens in a non-frozen state do not exhibit this regeneration property, nor do specimens frozen post-mortem. Autopsy of dead specimens have shown no biological irregularities other than a complete lack of reproductive organs.
+
+SCP-1476 came to the Foundation's attention on ██/██/██ due to reports from the Canadian Wildlife Service following the discovery of "vast fields of frozen geese" by hunters in [REDACTED], Manitoba. Foundation containment teams retrieved several specimens of SCP-1476 and destroyed the remaining population via incineration, then administered Class A amnestics to all witnesses. The case file was then officially disproved as a hoax. Mobile Task Force Lambda-4 ("Birdwatchers") has been assigned to monitor the region for additional wild populations of SCP-1476, and confirmed cases are to be tracked and destroyed.
+
+Addendum 1476-01: Incident Report
+
+On █/██/██, a Foundation containment team responded to a confirmed report of a wild population of SCP-1476. Specimens taken from this population were genetically identical to each other but distinct from existing specimens in containment. These have been designated SCP-1476-2 and are now contained in a separate aviary at Site ██. Remaining population was destroyed as per containment procedures.

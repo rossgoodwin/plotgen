@@ -1,0 +1,39 @@
+Item #: SCP-1565
+
+Object Class: Safe
+
+Special Containment Procedures: Due to their isolated location and the self-containing nature of SCP-1565-B, direct containment of SCP-1565 instances is not recommended at this time. Current containment procedures are focused on the suppression of all information regarding their existence and continued monitoring for any changes in their behavior.
+
+Foundation forces embedded in national and international space organizations shall redirect rovers and similar search vehicles on Mars in order to prevent the discovery of SCP-1565. During standard Foundation screening of unmanned missions to Mars proposed by space organizations, all vehicles' routes across the planet will be altered so that they do not come within three (3) kilometres of SCP-1565's primary habitation area. Potential future manned missions to Mars must be monitored by the Foundation to ensure SCP-1565 is not encountered.
+
+In the event of the discovery of SCP-1565 by an unmanned vehicle, said vehicle's audio and visual output will be altered with the use of SCP-████. In the event of the discovery of SCP-1565 by a human crew, Class C amnesiacs will be administered as per Protocol GITST.
+
+Description: SCP-1565 is the collective designation for thirty seven (37) common snapping turtles (Chelydra serpentina) currently inhabiting a three hundred (300) square meter area on the planet Mars. SCP-1565-X instances (where "X" represents a number) are identical to their non-anomalous Earth counterparts, with the exception of the following characteristics:
+
+Instances do not require food or oxygen to survive, and do not excrete waste. Analysis of the SCP-1565 habitation area has revealed no discernible shift in atmospheric composition compared to the rest of Mars.
+
+Instances do not reproduce or appear to age; since their initial discovery in 197█, no instances have expired with the exception of SCP-1565-38 (see Addendum 1565-38).
+
+Unlike Chelydra serpentina snapping turtles living on Earth, SCP-1565 instances are relatively docile and even-tempered, despite not being near any body of water. Past interaction with SCP-1565 instances has indicated that moving or otherwise disturbing them does not make them hostile, even in extreme cases (such as throwing them across their habitation zone).
+
+Instances appear to be impervious to conventional damage, and can only expire via forced interaction with SCP-1565-B.
+
+SCP-1565-B is a permeable barrier surrounding the habitation zone of SCP-1565. Any and all substances can pass through this barrier, with the apparent sole exception of SCP-1565 instances. All attempts to bypass it have been met with failure (see Addendum 1565-38).
+
+In addition to the aforementioned properties, each instance of SCP-1565 has the following words branded onto their shells, in English:
+
+ITEM #: [Number varies by instance of SCP-1565, from 1 to 37]
+
+CYCLE #: 324149
+
+CHAMBER #: 66
+
+VARIATION: Reveal 21:6 Alpha
+
+The origin of these labels, and their intended meaning, are unknown at this time.
+
+Addendum 1565-38: During an exploratory mission inside the SCP-1565 habitation area in 199█, an attempt was made to remove SCP-1565-38 from the habitation zone. After several attempts to remove it with forces in excess of ███ N, its shell and body were sliced in half, resulting in its expiration. An analysis conducted by a Foundation probe revealed that [REDACTED], hereby SCP-1565-C, may be the cause of the anomalous properties of SCP-1565, as it apparently has the ability to sustain the lives of SCP-1565 instances in the hostile environment of the Martian surface. Further analysis indicates that SCP-1565-C is an artificial construct, likely indicating sentience on the part of the creators.
+
+Given the results of the SCP-1565-38 analysis, I am requesting SCP-1565 be reclassified as Euclid. -Dr. Smickson
+
+Request under review. O5-█

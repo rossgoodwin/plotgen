@@ -1,0 +1,41 @@
+Item #: SCP-941
+
+Object Class: Euclid
+
+Special Containment Procedures: Samples of each substrain of SCP-941 are kept in secure frozen storage at Bio-Research Area-██. Embedded agents are to provide regular reports of apparent infections, with special attention paid to atypical cases that may indicate novel strains. Any strain thought to be potentially capable of jumping to living organisms or to diesel vehicles is to be treated as a Class █ Biohazard threat, and contained or sterilized immediately. All standard measures, including incendiary and [REDACTED] are permitted if necessary.
+
+Because SCP-941 was already widespread at the time of its initial discovery, it currently continues to exist outside containment in the general vehicle population. As such, current containment efforts are focused on suppression of information regarding SCP-941 and research into methods of treating, curing, and/or preventing infection by SCP-941. Details may be found in Document 941-█.
+
+Foundation-owned vehicles are to be, whenever possible, diesel-fueled or electrically powered.
+
+Description: SCP-941 is a virus of the family Orthomyxoviridae (tentatively classified [REDACTED]) which exclusively affects vehicles powered at least in part by an internal combustion engine. Infected vehicles suffer a variety of seemingly random malfunctions, typically manifesting over a period of three to five days, then fading over a further two to five days. Once a case of SCP-941 has run its course, the vehicle will display no further symptoms unless it is later reinfected. The mechanism by which SCP-941 causes these malfunctions is still undetermined.
+
+While different subjects often manifest different symptoms, most (██%) experience at least two from the following list:
+
+Elevated engine temperature (often accompanied by malfunction of temperature sensors to indicate a lower temperature than is actually present)
+
+Intermittent malfunctions in ventilation systems
+
+Partial or total blockages in filters and/or fuel line
+
+Fluid leaks
+
+Fluctuations in engine responsiveness
+
+[DATA EXPUNGED]
+
+Stiffening or softening of the suspension system of one or more wheels
+
+Loosening and/or slipping of belts
+
+Increased fuel consumption
+
+Electrical and computer malfunctions
+
+Excessive or inadequate fluid pressures
+
+More severe malfunctions have been noted on occasion, including brake failure, wheel detachment, steering failure, spontaneous airbag deployment, [DATA EXPUNGED] explosion. These occur very rarely, in less than █% of cases. If a vehicle has existing damage, defect, or other trouble in a particular part or system, that part or system will be especially prone to involvement in SCP-941 symptoms.
+
+Vehicles affected by SCP-941 are contagious for the entire duration of the infection. SCP-941 spreads to new subjects when air containing exhaust from an infected vehicle enters one or more cylinders of the new subject's engine, with probability of infection depending upon the concentration of affected exhaust (see Document 941-█ for details). Once the exhaust has been diluted by at least [REDACTED], it is no longer capable of spreading SCP-941. Other than the presence of SCP-941, no anomalous or distinctive traits have been identified in exhaust produced by infected vehicles. In addition, vehicles that have recently been affected by SCP-941 seem to gain a temporary resistance to reinfection, though this resistance gradually decreases by [DATA EXPUNGED].
+
+SCP-941 currently appears unable to infect vehicles without a four-stroke gasoline-fueled internal combustion engine. It should be noted that gasoline-electric hybrids, due to their more extensive electrical and computer systems, are subject to significantly more severe and dangerous symptoms than non-hybrid vehicles.

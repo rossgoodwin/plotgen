@@ -1,0 +1,27 @@
+SCP-676 shortly after its discovery by the Foundation
+
+SCP-676 during Experiment 676-01
+
+Item #: SCP-676
+
+Object Class: Euclid
+
+Special Containment Procedures: The property containing SCP-676 is owned by the Foundation under the guise of █████████ Inc., a shell corporation. It is closed to the public, and posted signs indicate that the area is a hazardous materials storage facility.
+
+Under no circumstances is the flow of water into SCP-676 to be interrupted. Backup tanks of water are to be used to supplement the stream's flow in the case of an obstruction. Vegetation is kept clear in a 10 m channel along the course of the stream to prevent unanticipated interruptions.
+
+Description: SCP-676 is a hot spring and an associated 7 km long stream, located in the hills outside of ██████████████ When it was discovered by the Foundation, the basin of the spring was approximately 2 m wide, but it has since expanded to over 90 m in diameter.
+
+The stream stretches from the ██████████ River to the hot spring. Although the spring is 750 m above the river, water in the stream flows uphill from the river to the basin. Its temperature begins at an ambient 22°C at the river and gradually rises as the stream ascends, reaching 82°C as it enters the spring. Water removed from the stream exhibits no atypical properties, and flows downhill normally if placed on an incline. Water added directly to the stream moves against gravity, as does any detritus carried in the flow.
+
+Despite being continuously fed by the stream the water level in the basin remains constant, suggesting that it drains into the bedrock below. The water in the basin is between 81°C and 84°C, as measured by IR sensor. More direct means of assessing the temperature cannot be used, as any object placed in the water disintegrates.
+
+Small items and organisms caught up in the stream are continuously deposited and dissolved in the hot spring. The reason for this is not known. In most cases it does not affect the walls of the basin (see test log 676-01). All tested materials introduced to the spring begin to fall apart immediately, dissolving completely within a few seconds. Dyes and radioactively labeled markers disappear as well, suggesting that the process occurs below the chemical level. As a result it has proven impossible to take and retain samples from SCP-676's basin, and it is unknown if the fluid is water or another colorless liquid compound.
+
+Optical and sonic means of probing SCP-676 have mapped it deep underground, but have not located a destination point. Analysis of the data indicates that the surrounding bedrock is abnormally soft. This may be related to the high incidence of localized earthquakes detected in the area, and the periodic shifting of SCP-676's subterranean channels.
+
+Experiment Log 676-01: Testing the effect of withholding the flow of water to SCP-676.
+
+The water feeding SCP-676 was blocked at the junction of the stream and the river. The last of the water drained into the basin at 13:24:02 (local). For three hours there was no response, and water level remained constant. At 16:41:57 the walls of the basin began to disintegrate, widening the aperture steadily. This proceeded for 12 minutes, at which time the supervising researchers decided to unblock the stream. By the time flow was restored at 18:03:19, the basin had grown in diameter by 4000%, swallowing 4 structures and the majority of on-site investigative equipment. No lives were lost.
+
+Since the incident, localized seismic activity has intensified and the stream's flow has increased by a factor of 200. Containment procedures were updated, and SCP-676's object class elevated to Euclid.

@@ -1,0 +1,21 @@
+SCP-988
+
+Item #: SCP-988
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-988 is to be housed in a locked, unilluminated cell with no observation windows. It is to be kept in a latched state and secured with a padlock whose key is to be stored at a separate facility.
+
+No experiments of any kind are to be performed on SCP-988.
+
+Description: SCP-988 is an unopenable wooden chest.
+
+SCP-988 is composed of oak with iron fittings and measures approximately 1.5 m x 0.5 m x 0.75 m. While SCP-988 possesses a latch, it did not possess a lock when discovered. The latch moves freely when not secured, and gentle manipulation of the lid has revealed it to move freely on its hinges.
+
+When SCP-988 is lifted and tilted an object can be felt to shift within. This object is seemingly irregular in shape and is estimated to have a mass of approximately 3 kilograms.
+
+Despite the lack of any apparent obstacle, SCP-988 cannot be opened. All attempts fail due to the intervention of external circumstances. In the 53 documented attempts at opening SCP-988 directly by hand, persons have been observed to become lost on their way to its current location, suffer injury preventing them from reaching it, and in 9 cases have died spontaneously of apparently natural causes just before completing the action.
+
+The 7 documented attempts at opening SCP-988 via machine or other indirect mechanism have been stopped respectively by electrical shorts, mechanical jams, and in one case the mislabeling of a bottle of epoxy as lubricant. The "unopenable" property appears to extend to indirect methods of scanning SCP-988's contents. All attempts at sonographic, electromagnetic, and passive imaging of emissions outside of the visual spectrum have failed due to similar circumstances.
+
+Comparison of the results of attempts to open SCP-988 with actuarial tables have demonstrated that outcomes correspond to normal probability, with the single exception that the possibility of the object being opened has been entirely removed. The mechanism by which SCP-988 prevents itself from being opened is currently unknown.

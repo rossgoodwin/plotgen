@@ -1,0 +1,63 @@
+SCP-558-1 in the eye of Dr. ████████
+
+Item #: SCP-558
+
+Object Class: Safe
+
+Special Containment Procedures: All items comprising SCP-558 are to be kept in their cases in Equipment Cabinet ██-█ at Research Site-██. Any personnel wishing to experiment with SCP-558-1-4 may do so after completing standard documentation. Researchers wishing to test SCP-558-5 must either themselves have Level 3 Clearance or have the written approval of at least two Level 3 personnel. At this time it is advised that only Class D personnel be allowed to interact with SCP-558-5.
+
+Description: SCP-558 includes a number of different types of colored contact lenses, divided by researchers into five categories by apparent properties. Currently there are ten (10) of each contact lens in categories One through Four (1-4), and six (6) contact lenses of group Five (5). Whereas normal contact lenses are fitted to a particular wearer's eye shape by diameter and curvature, each individual lens in SCP-558 seems to be able to conform to any eye shape. Testing is currently underway to determine the composition of the material without damaging the lenses. In their resting state they have been observed to have a 10mm diameter and 8.7mm base curve radius. Subjects using the lenses with prescriptions requiring different dimensions reported initial discomfort, then a tingling feeling as the lenses adjusted to the shape of their eyes. Rather than standard clear, each lens has a colored central portion slightly wider than the average human iris. The colors are Red, Violet, Green, Gray, and Black. These colors seem to correspond to distinct properties, though all lenses appear to correct vision to 20/20, regardless of subjects' actual vision quality. How this occurs is currently unknown, though testing is ongoing. SCP-558 was found in a toiletries case in the bathroom of room ███ of the ████████████ █████████ hotel, during a raid called in to investigate reports of [DATA EXPUNGED]. The saline solution found accompanying SCP-558 was determined to be normal, so any standard solution may be used. No other extraordinary items were found in the bathroom.
+
+SCP-558-1 includes ten (10) red contact lenses. Testing with these lenses met with initial difficulty as subjects immediately complained of blinding light even when they closed their eyes. Repeated testing in different locations finally revealed that these lenses allow a wearer to visually perceive electromagnetic emissions of a longer wavelength than visual light. Since the Earth is usually blanketed with radio-wave communication (which passes through flesh eyelids), these most often display blinding amounts of light. In shielded underground facilities, however, it is easier to manage, provided inter-facility radio communication is restricted. Subjects reported seeing infrared radiation in a way similar to night vision goggles, though the color seen was not exactly red. Test subjects have had great difficulty in expressing the colors seen, but they are adamant that the lenses do not simply convert light or red, but actually show a distinctly new color, they simply lack the language to describe it properly.
+
+SCP-558-2 includes ten (10) violet contact lenses. Testing with group Two (2) was more successful than 1, as initial tests took place inside. However, when test subjects were allowed to view outside, daylight was significantly brighter than normal and several personnel had their vision permanently damaged due to sudden exposure. Tests indicate that these lenses, inverse to the red lenses, allow wearers to perceive wavelengths shorter than visual light. The addition of the ultraviolet radiation from the sun to already intense visible light means that direct sunlight is simply too intense to view comfortably. Test subjects were also able to see X-rays coming from a nearby medical examination room. Testing with gamma rays is being planned, though researchers are unsure if they might harm SCP-558-2.
+
+SCP-558-3 includes ten (10) green contact lenses. Testing with the lenses of group Three (3) revealed that rather than allowing a wearer to perceive wavelengths previously invisible, the green lenses enhance the colors of the visible spectrum to a high degree. Test subjects reported an unparalleled vividness of color and clarity in normally dull objects. A Class D personnel with a history of drug use reported a similar experience to the use of some hallucinogens, though much more consistent and vivid. So far the only adverse effects observed have been headaches and eyestrain after looking at particularly colorful images and objects.
+
+SCP-558-4 includes ten (10) gray contact lenses. Subjects wearing lenses from group Four (4) report being able to see only in grayscale. However, it was quickly noticed that somehow, subjects' field of vision had been expanded. While normal humans have 140° field of binocular vision with 40° peripheral vision (20° each on the right and left), testing indicated subjects' binocular vision covered 210°, while their peripheral vision covered an additional 60° (30° each on the right and left). Test subjects experienced severe vertigo when moving for approximately the first thirty (30) minutes of wearing SCP-558-4. After adjusting, subjects were able to move around without difficulty and were pleased by the greater visibility, though most complained of headaches. Subjects also reported that their distance vision seemed sharper, even those subjects who had possessed 20/20 vision naturally. When Professor █████ █████████ theorized their increased field of vision is due in some way to a "bending" of perspective, researchers asked test subjects to attempt to focus on an open doorway. Approximately one (1) in three (3) subjects was able to "bend" their vision around a corner and see a brief glimpse into the hallway. All subjects attempting this, even those who failed, experienced mild to severe migraines immediately afterward. Further testing to understand and to take advantage of SCP-558-4 is ongoing.
+
+SCP-558-5 includes six (6) black contact lenses. Currently, only Class D personnel should be allowed to test SCP-558-5. When testing these lenses, approximately three (3) in five (5) subjects immediately lost consciousness. Those remaining conscious immediately shut their eyes and began to shake violently, demanding the contacts be removed. Several subjects harmed themselves and the lenses trying to remove them, resulting in the loss of four (4) lenses and a number of Class D personnel. When subjects were restrained and forced to open their eyes, all immediately degenerated into sobbing and incoherent babbling. Most subjects black out shortly after this point. To date two subjects have remained conscious and open-eyed with SCP-558-5 in their eyes. The first, Class D personnel D-75532-2, stared blankly straight ahead and seemed unresponsive to stimuli, even pain. She was observed to mutter continually, but no words were discerned. After the lenses were removed, D-75532-2 went into a catatonic state, in which she remains in the medical wing of Research Site-██. An interview with the second, class D personnel D-34421-9, is appended as Document SCP-558-5a. It is theorized by Professor Skali █████████ and Dr. ██████, based on the interview, that the SCP-558-5 lenses somehow allow subjects to perceive time, often called the fourth dimension, in a visual way. It seems that the average psyche is not capable of handling the increased perspective and in most cases the mind turns inward, causing unconsciousness and memory loss consistent with dissociative amnesia. Experimentation is ongoing in an effort to further understand SCP-558-5, specifically if they enable the wearer to see points in time other than the present. Researchers are hopeful, given that testing has revealed a wearer's ability to control the effects of SCP-558-4. Priority is given to testing involving possibilities of precognition.
+
+Addendum: During routine evaluations, approximately three (3) in four (4) persons who had worn SCP-558-5 had exhibited signs of severe depression and anxiety. Moreover, one (1) in three (3) had incidents of self-mutilation, usually of the eyes, often accompanied by suicidal tendencies.
+
+Document SCP-558-5a:
+
+<Begin transcript, skip to 04m-12s>
+
+Dr. ██████: I'm going to ask again, what did you see?
+
+D-34421-9: (Incoherent)
+
+Dr. ██████: What was that?
+
+D-34421-9: (mumbling) Web.
+
+Dr. ██████: Web? Elaborate, please.
+
+D-34421-9: It's a web.
+
+Dr. ██████: What is a web?
+
+D-34421-9: It's damn sure not a line. And it's not a circle, either. It's a fucking infinite web.
+
+Dr. ██████: Are you referring to what you saw? You were able to see a web?
+
+D-34421-9: Look why don't you put the damn things in? Then you'll understand. Then you'll know. (Incoherent)
+
+Dr. ██████: Where was this web?
+
+D-34421-9: (Subject begins to shake) Everywhere.
+
+Dr. ██████: What do you think it was?
+
+D-34421-9: (Shaking becomes more violent, security called in to assist restraint)
+
+Dr. ██████: I ask again, what do you think it was?
+
+D-34421-9: (shouting) It was you. It was me. It was everyone in the world. All connected, branching out. Who they were, who they will be. And the death of everything was there. (calming) The end. Dark. They let me see the edges. All the way. So dark. (subject begins to weep)
+
+Dr. ██████: I don't understand.
+
+D-34421-9: (sobbing) Pray to God that you never do. (subject begins to hyperventilate, sedated)
+
+<End transcript>

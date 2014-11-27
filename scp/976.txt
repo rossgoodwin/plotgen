@@ -1,0 +1,37 @@
+SCP-976
+
+Item #: SCP-976
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-976 is attached to an isolated research computer at Site-█. All data from SCP-976 must be archived for analysis from automated backups made every 24 hours. Research on data extracted from SCP-976 requires level 2 clearance.
+
+SCP-976 must not be installed in any terminal with a live connection to the Site-█ intranet or to any outside internet connection. Direct access to SCP-976 for purposes other than maintenance requires prior approval from at least two level 3 personnel.
+
+Description: SCP-976 appears to be a Western Digital ████████ model hard drive with an indicated capacity of 32 GB. The outside casing is identical to a hard drive of the indicated model and has a standard parallel ATA-100 interface. SCP-976 is unusually heavy, and all attempts to disassemble the outside casing have failed thus far.
+
+SCP-976 was found in Foundation research terminal computer ████-██ at Site-█ during a mandatory security pass for ensuring the destruction of sensitive data prior to the disposal of electronic equipment. Its anomalous properties were discovered when technicians noted that its installation was in violation of standard equipment configuration guidelines, and was immediately taken into containment when the device was accessed and the data within analyzed. How SCP-976 ended up inside the terminal is unknown at this time.
+
+When connected to a standard PC and activated, SCP-976 operates normally, but with an abnormally high-pitched hum that does not match any known hard drive model. When read using a specially-designed interface, SCP-976 appears to contain a 32 GB 'slice' of a larger data repository, currently estimated at exceeding ███ TB in size. This 'slice' changes position every 24 hours at exactly 00:11:53 AM, thus necessitating all data on SCP-976 to be downloaded daily for analysis.
+
+From ongoing analysis of over █,███ 'slices' of data extracted from SCP-976, the following file fragments have been reconstructed:
+
+Several fragments of news reports, including images and partial videos. These news items are all dated in the past, but do not match any news reports in Foundation archives.
+
+Archives documenting the use of [DATA EXPUNGED] and [DATA EXPUNGED], technologies that have not been invented, or were never pursued in modern science.
+
+Containment procedures and experiment logs for SCP-███, an object that was destroyed during acquisition and never contained.
+
+Detailed experiment logs for SCP-███, which were never authorized due to the danger involved in said experiment proposals.
+
+Detailed descriptions for SCP-███ and SCP-███, objects that do not exist.
+
+A record of assets and SCP objects stored at Site-██, which does not exist.
+
+All data recovered from SCP-976 matches standard Foundation data formats, but otherwise do not seem to correspond to data found in Foundation archives. It is currently theorized that SCP-976 may be a 'window' into a Foundation archive from an alternate timeline or existence.
+
+Analysis into data recovered from SCP-976 is ongoing.
+
+Addendum 976-1:
+
+On ██/██/200█, Dr. ███████ and Dr. █████ were killed while accessing data on SCP-976 that appears to have contained a memetic kill agent similar to [DATA EXPUNGED]. Increased security has been requested for SCP-976 data, and automated data analysis must be used before opening unknown files.

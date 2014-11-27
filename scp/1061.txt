@@ -1,0 +1,53 @@
+Item #: SCP-1061
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1061 should be kept in a secured, climate-controlled garage. Its tires have been removed and should not be replaced for any reason. Its doors should be locked at all times and its windshield boarded up, unless testing is in progress. All experiments are to be performed within the garage.
+
+Access to SCP-1061 is restricted to Level 4 personnel and to D-class personnel engaged in authorized testing. Aside from authorized testing, it is forbidden for anyone not seated in any of the passenger seats to make any contact with any part of the driver's seat; personnel who make contact with the driver's seat while not seated in any of the passenger seats become instances of SCP-1061-1, and are to be apprehended until such time as they can be used in approved testing. Removal of post-test biological waste from SCP-1061's interior is to be performed by robots; no other maintenance is to be performed on SCP-1061.
+
+Description: SCP-1061 is a dark red 1992 Pontiac Grand Am with severe collision damage, including a large hole in its driver's-side front windshield. It manifests three distinct anomalous properties; these properties are considered to be linked, in that they seem to be caused by the same anomalous entity.
+
+The first anomalous property is that SCP-1061 is associated with several illusions. The collision damage is only visible from the outside; when viewed from inside or through an open door, SCP-1061’s interior appears completely intact. This is purely a visual illusion, and is detectable by electronic recording devices. When viewed from the inside, the side windows (when closed) and rear windshield show the city of [REDACTED] and its environs, on ██/██/1996 (as determined by meteorological, astronomical and botanical observations and by sightings of newspapers and other periodicals) — the day that SCP-1061 was in its collision. The front windshield will likewise show the city and its environs; however, the hole in the front windshield made by the impact of the original driver's head shows neither urban/suburban [REDACTED] nor the containment chamber. Instead, it shows [REDACTED].
+
+If the driver's seat remains unoccupied, individuals occupying the other seats or looking through the opened doors, see that SCP-1061 is parked along the curb in front of a suburban residence. As with the illusory absence of vehicular damage, this illusion is visible to cameras and other electronic recording devices; however, this illusion does not activate unless a living human is seated within SCP-1061 and deactivates if all observers leave SCP-1061. The suburban environment always reflects the time of day at which the observers entered SCP-1061; if multiple observers enter SCP-1061 at different times, the environment will continue to reflect the time of day as determined by the entry of the first observer. The environment persists until 6:04 PM — the time at which SCP-1061 was in its collision; after 6:04 PM, the environment visible outside SCP-1061 "resets' to approximately 10:27 AM (as determined by shadow length, sun position and the times at which local residents are seen to return home from work or school). Observers at this point report seeing a blonde woman walking away from SCP-1061's driver's door.
+
+The second anomalous property manifests when a live human sits in touches SCP-1061's driver's seat. All such humans, with the exception of passenger-seat observers, become instances of SCP-1061-1. SCP-1061-1 is a human whose mind has been "overwritten" with what is believed to be the mind of [REDACTED], who was the registered owner of SCP-1061 prior to being killed in its collision; she is also believed to have been the woman seen walking away from SCP-1061 when its illusory environment resets. Instances of SCP-1061-1 believe that they are still in 1996. Even when removed from SCP-1061, instances of SCP-1061-1 believe that they are either at home or at one of various locations in or around the city of [REDACTED] and cannot be convinced otherwise.
+
+When allowed to remain within SCP-1061, SCP-1061-1 will "drive" SCP-1061 on various errands (instances of SCP-1061-1 will either insert a random key into SCP-1061's ignition or mime having inserted a key). SCP-1061-1 will treat any passenger-seat observers as friends of [REDACTED], refer to them by those friends' names and engage them in (one-sided) conversation about the personal details of those friends. SCP-1061-1 has demonstrated that it is willing to let observers exit SCP-1061 upon request and can easily be persuaded to allow new observers into SCP-1061, provided that their total number does not exceed 3. Observers report that, when SCP-1061-1 is "driving", the environment visible outside SCP-1061 is consistent with that of a car being driven through the streets of urban/suburban [REDACTED] in 1996 and SCP-1061-1 will comment on incidents, people and objects which are visible along its route. SCP-1061-1 will perform between 5 and 11 errands, during which time it will never voluntarily exit SCP-1061; instead, at each 'stop', it will enter a catatonic state for no less than 30 seconds and no more than 11 minutes (in which case, it will apologize to passenger-seat observers for having taken so long and cite 'long line-ups'). The precise route followed by SCP-1061-1 varies between instances, as does the order of the errands; however, the overall nature of the errands remains the same.
+
+After no less than 36 minutes and no more than 70 minutes, SCP-1061 "drives" past [REDACTED] Laboratories and is involved in a head-on collision with a delivery van. Passenger-seat observers will be unaffected by the illusory impact, but SCP-1061-1 (who is not wearing its seatbelt) will be thrown forward with the typical force exerted on an unbelted driver engaged in a head-on collision.
+
+At this point, SCP-1061's third anomalous property will manifest. High-speed photography reveals that within 2 milliseconds of SCP-1061-1's head touching the portion of windshield damaged by the impact with [REDACTED]'s head in 1996, [DATA EXPUNGED] and SCP-1061-1's head vanishes. Once decapitated, instances of SCP-1061-1 are no longer considered anomalous and can be disposed of appropriately.
+
+Passenger-seat observers present during the "collision" and subsequent [REDACTED] report becoming aware of the existence of an anomalous entity, henceforth SCP-1061-2. [NOTE: All data pertaining to SCP-1061-2's nature and motivations is the result of anecdotal evidence provided by D-class personnel who have served as passenger-seat observers in tests of SCP-1061. As such, the reliability of the data is uncertain, as is the question of whether SCP-1061-2 even exists; however, the anecdotal data responses have largely been in accordance with each other.]
+
+Interview log
+
+Dr. ███████: So why is it doing this?
+
+D-1061-14: It's like this, see - it didn't know we were here, it didn't even know our whole dimension even existed, until right after the car crash, understand?
+
+Dr. ███████: Okay…
+
+D-1061-14: And now it wants more car crashes, 'cause, well, it likes human heads.
+
+Dr. ███████: It likes them? To eat?
+
+D-1061-14: Uh, I dunno if that's the right word, honestly. Anyway, so it wants more car crashes so it can get more heads, see, but it doesn't know how to make them happen. So it's… like… okay, you guys are scientists, right? So you all did grade 8 science class?
+
+Dr. ███████: I suppose we did, yes. So…?
+
+D-1061-14: So you remember about, like, setting up an experiment, doing something different ways to find out which part matters?
+
+Dr. ███████: …oh! You mean experimental conditions?
+
+D-1061-14: Yeah, that [EXPLETIVE]. So the thing is, this [EXPLETIVE]er, it doesn't know what made the car crash happen. So it's got all the experimental conditions — what the car looked like on the inside, what you could see from out the windows, what was in the driver's brain, all that [EXPLETIVE] — and it's makin' 'em happen over and over. Every time someone gets in the driver's seat, bam, their brain turns into whatserface from 1996 and she drives around for an hour until she gets in a car crash and then it has her head.
+
+Dr. ███████: Thank you, this is most helpful. Tell me, how is it you know all this?
+
+D-1061-14: I was front-seat passenger, doc. Anyone who's front-seat passenger during the crash knows this.
+
+Dr. ███████: Ah. Thank you very much. One other question - why is it using such a complicated method? If it has the power to do all these things, aren't there much simpler ways?
+
+D-1061-14: Just between you and me, doc… I don't think it's very smart. It's afraid to change too much, 'cause maybe it'll stop working.

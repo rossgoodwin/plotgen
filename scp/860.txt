@@ -1,0 +1,31 @@
+SCP-860
+
+Item #: SCP-860
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-860 is to be contained in a small wooden box in a vault at Sector-██. By itself, the object is inert, and no further containment procedures are needed.
+
+Description: SCP-860 is a dark blue key of unremarkable shape. At seemingly random intervals of time, a series of numbers, later found to be UTM coordinates, will appear on the key's blade. In the time SCP-860 has spent under containment, the numbers have changed three times, giving the coordinates for ██████ (Germany), ██████ (England), and Site-██.
+
+SCP-860 can fit in any door lock that requires a key located in the area of the given coordinates, and will function identically to the correct key for that lock. SCP-860 only works on door locks, and only if they are attached to a door; it will not work on any other type of locking device.
+
+When SCP-860 is used to unlock and open a door, the door does not lead to its usual destination. Instead, it opens into a small forest clearing centered on an 80 cm wide footpath, designated SCP-860-1. Every observation of this grove has noted the presence of blue-colored mist.
+
+SCP-860-1
+
+As soon as any person enters SCP-860-1, the door automatically closes. From inside SCP-860-1, the door appears attached to an infinite concrete wall, and is locked. No attempts to break the door from outside, with personnel inside SCP-860-1, have been successful. Attempts to break the door from inside SCP-860-1 have resulted in [REDACTED]. See Document 860-III for more details.
+
+The trail inside SCP-860-1 usually leads to another door attached to another infinite concrete wall. This second door leads to the normal destination room of the door on which SCP-860 was used.
+
+A number of other anomalous events have been reported by personnel conducting explorations of SCP-860-1. These are explained in more detail in Documents 860-I through 860-IV.
+
+Following the events of Exploration IV (described in Document 860-IV), only level 4 personnel may perform tests on SCP-860.
+
+Incident 860-██-12: On ██/██/████, ██ days after Exploration IV, SCP-860 was found on Dr. ███'s office table, ████ m from its containment unit. The item's containment locker had not been opened. Video surveillance from ██:██ AM shows the key suddenly materializing on top of the table. It is currently unknown how or why SCP-860 was moved. The incident had a profound effect on Dr. ███. Psychiatric evaluation is recommended.
+
+Addendum: Below are the transcripts of Explorations I - IV. Level 2 personnel and above may access Documents 860-I and II. Only level 4 personnel and above may access Document 860-III and IV.
+
+Document 860-I and II
+
+Document 860-III and IV

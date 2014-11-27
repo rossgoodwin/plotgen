@@ -1,0 +1,25 @@
+SCP-794-01, photographed from the air at minimum safe distance
+
+Item #: SCP-794
+
+Object Class: Euclid
+
+Special Containment Procedures: The area in a 10 km radius surrounding SCP-794 has been designated as a no-fly zone and all unauthorized personnel attempting to enter the area are to be detained for questioning. Unauthorized aircraft attempting to enter the airspace around SCP-794 are to be signalled off immediately, and any that fail to follow instructions are to be intercepted and detained at Containment Site 794-Alpha.
+
+Personnel may only approach within the 1400 m "Red Zone" of SCP-794 with prior permission from at least two (2) Level 4 Personnel, and may stay within the area for no longer than 30 minutes at a time. Personnel experiencing any nausea or exhibiting any strange or psychotic behavior must be removed immediately and quarantined pending psychological and physical evaluation.
+
+Description: SCP-794-01 is the derelict remains of an oceangoing vessel located at approximately +██° ██' ██.██", +██° ██' ██.██" near [REDACTED] in the Sahara Desert. According to markings in Cyrillic, the vessel is the [REDACTED], built in ████ in the city of [REDACTED] in 19██. This is inconsistent with available records, as no vessel by this name was ever constructed. The vessel is in an advanced state of disrepair consistent to exposure to the elements for a period of at least ██ years, and to date it is not known how SCP-794-01 came to rest in its current location, nearly ███ km from any body of water.
+
+SCP-794-02 is an enormous mass of living nervous tissue integrated into the cargo hold of SCP-794-01, currently estimated at approximately 167 kg. While experimentation has shown significant neural activity, it is currently unknown how SCP-794-02 functions, or how it obtains sustenance.
+
+Living human subjects that approach within 1400 m of SCP-794 report feeling an increasing compulsion to approach and enter the vessel, peaking at approximately 60 minutes of cumulative exposure. At this point, affected subjects will attempt to enter the vessel by any means possible, and must be terminated in order to prevent them from approaching SCP-794. Once within the vessel, affected subjects will enter the ship's cargo hold, whereupon they will immediately collapse and cease all life signs.
+
+SCP-794 was discovered on ██/█/██ during a routine satellite surveillance pass. The vessel was located shortly thereafter by Foundation agents, and current containment protocols were established following the loss of █ members of the initial survey team.
+
+Addendum 794-01: Analysis of Recovered Bodies
+
+Following limited experimentation performed via the use of remotely piloted robotic vehicles, the bodies of ██████-█████ (██) individuals have been recovered from SCP-794-01. Of these, █ were members of the Foundation initial survey team, ██ were ███████ Army personnel reported missing in 19██, █ appear to be unidentified civilian explorers, and the rest are too far decomposed to identify. Autopsy of the intact bodies has shown a complete lack of neural tissue, including the brain, spinal cord, and all muscular and sensory nerves. During this time, SCP-794-02 has also grown by an estimated 3.4%.
+
+Further investigation is ongoing, but difficult due to the inherent danger of SCP-794 and our inability to approach it directly. D-class assets have been secured in order to derive a method by which SCP-794's compulsion effect may be mitigated or suppressed.
+
+Dr. █████ █████████

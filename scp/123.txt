@@ -1,0 +1,23 @@
+Image of SCP-123 shortly before properly securing sphere to table.
+
+Item #: SCP-123
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-123 is to be held in a secured facility and is to be securely fastened to the top of a sturdy table by use of straps, chains, a net, or similar device. Absolutely no hooks shall be fastened to the device. The object and table should be centrally located in a room no smaller than 5 m x 5 m x 5 m. No sensitive measuring devices should be used within 100 meters of SCP-123, as their measurements will be noticeably affected. More significantly, absolutely no objects should be inserted into SCP-123 except under experimental conditions.
+
+Transfer of SCP-123 shall be made with care, and effort made to prevent the object from being shaken or jerked with notable force. SCP-123 shall not, under any circumstances, be transported over large bodies of water by any method.
+
+No personnel below Level 2 must be allowed in the containment chamber with SCP-123. Any person interacting with the object should wear tight-fitting clothing that has absolutely no straps, laces, or other dangling components. Persons with long hair shall be required to tie their hair back or wear a hairnet.
+
+Description: Object is a gray geodesic sphere 65 cm in diameter consisting of sixty triangles. The areas between these triangles are empty, allowing the center of the sphere to be seen. The material the sphere is composed of is unknown, and upon the recommendation of Dr. █████, research into the material composition shall be limited to visual observation until further notice. SCP-123 appears to weigh about 3.62 kg, though its actual mass is believed to be much higher.
+
+The geodesic sphere is hollow, save for the very center. At the center of SCP-123 is what appears to be a black sphere, approximately 1 mm in diameter. No light can be seen being reflecting off or emitted from the black sphere. The core also appears to exhibit significant gravitational force, which massively increases within the confines of the outer geodesic sphere. This gravitational force can be measured using sensitive instruments several dozen meters away. Within approximately three meters, the gravitational pull is apparent to any observer, with dangling objects beginning to be pulled towards the sphere. At the surface of the outer sphere, the gravitational pull doubles the weight of any object placed onto the structure.
+
+The inner sphere’s qualities are apparent when any small object is inserted within the outer sphere. Any such object quickly accelerates into the object and disappears. Any liquid poured into the object also is sucked into the central sphere. Analysis has shown that light that nears the black sphere is curved towards the center. The amount of gravity exhibited by the inner sphere at its surface suggests that its mass is approximately 1029 kg, though the obvious gravity reducing effect within the outer sphere means that its actual mass may actually far exceed even that. Note that such a mass would ordinarily imply a Schwartzschild radius in the order of 200 meters, way in excess of the approximate 0.5 mm actually observed, which can be considered further testament to the outer sphere's gravity dampening qualities.
+
+Gases are affected by the gravity of SCP-123, and the atmosphere pressure at its surface has been measured at 205 kPa. However, gases are unable to penetrate the area between the triangles of the outer geodesic sphere. The reason for this is currently unknown, and is currently being studied.
+
+It should be noted that the outer sphere and inner sphere appear to act as one – whenever the outer sphere is moved, the inner sphere follows. Further research is suggested into the nature of this relationship.
+
+Addendum [SCP-123a]: SCP-123 has been suggested as a disposal unit. The researcher currently in charge of SCP-123, Dr █████, is concerned about the structural integrity of the geodesic sphere. All requests for disposal must go through Dr █████, or request a formal hearing with Level 4 personnel. Until further notice, all interaction with SCP-123 is to be restricted to experimentation. Command personnel agree that further research is needed to understand the durability of the outer sphere.

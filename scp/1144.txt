@@ -1,0 +1,167 @@
+SCP-1144 prior to removal of SCP-1144-1.
+
+Item #: SCP-1144
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1144 currently resides in the fifth storage basement of the Low-Priority Electronic Equipment and Instruments Vault, Row 32C, within a steel foot-locker labelled 'SCP-1144'. Both SCP-1144 and SCP-1144-1 require cleaning once a week, using disinfectant towels. Do not use water to clean either SCP-1144 or SCP-1144-1. Do not press any of the buttons in the process of cleaning SCP-1144. The foot-locker itself does not require maintenance.
+
+Description: SCP-1144 resembles an Orion HR-120 Analytical Balance, a common brand of precise weighing scales. Like the HR-120, SCP-1144 is a box-like structure, measuring 21.3cm x 32.0cm x 30.2cm, consisting of a base, which presumably houses the electronic components of the device, and a transparent cage. The base itself comprises an LCD display, as well as several buttons for adjusting the scales. [Note: These buttons appear to have no effect on the functioning of SCP-1144, or the results it provides.]
+
+SCP-1144 is permanently active; the display will show no signs of being on until an object is placed upon the scales, at which point, the display will activate, providing a reading for the observer.
+
+It should be noted that the reading SCP-1144 provides is not a measurement of the object’s mass; repeated testing seems to suggest that both mass and weight are entirely irrelevant. Ongoing testing has yielded no indication of what exact objective quantity SCP-1144 is able to measure, although tenuous patterns have been established. For example, two similar objects will tend to produce similar readings. Under ‘normal’ conditions, SCP-1144 provides its data to 3 decimal places.
+
+During initial testing, each object was ‘weighed’ three times, and each time similar readings were produced. This was taken to be evidence that SCP-1144 is in fact weighing a particular quantity, which varies in magnitude amongst a given set of objects. The source of the fluctuations are still unknown.
+
+Testing I
+
+Testing I
+
+Experimental data log, involving Dr ██████ and Junior Researchers █████ ██████ and ██████ ████. This log documents the findings of the preliminary research team, two days following the retrieval of SCP-1144 from its home on the third floor of an unowned flat in Brixton, London.
+
+Object: pencil (brand new, red, blunt)
+
+Reading: 3.000
+
+Object: pencil (brand new, red, sharp)
+
+Reading: 5.013
+
+Object: ball-point pen (brand new, black ink)
+
+Reading: 17.000
+
+Object: ball-point pen (brand new, blue ink)
+
+Reading: 17.000
+
+Object: two ball-point pens (brand new, one blue ink, one black ink)
+
+Reading: 17.000
+
+Object: fountain pen (used, belonging to Dr ██████)
+
+Reading: 1128.323
+
+Object: ball-point pen and Dr ██████'s fountain pen.
+
+Reading: (The reading fluctuated between 17.000 and 1128.323)
+
+Dissimilar objects placed on the scales at the same time appear to confuse SCP-1144. –Dr ██████
+
+Object: BlackBerry smartphone (belonging to Dr ██████)
+
+Reading: 408.031
+
+Object: BlackBerry smartphone (belonging to Dr ██████, battery removed)
+
+Reading: 430.032
+
+Object: BlackBerry smartphone (belonging to Dr ██████, battery removed, SIM card removed)
+
+Reading: 15.732
+
+Object: £5 note
+
+Reading: 43.23(3/2) (fluctuated between .232 and .233 three times over the space of twenty minutes)
+
+Object: £10 note
+
+Reading: 54.31(1/2) (fluctuated between .311 and .312 three times over the space of twenty minutes)
+
+Testing II
+
+Testing II
+
+Experimental data log, involving Dr ██████ and Senior Researcher ████ █████.
+
+It was postulated by Senior Researcher █████ that the transparent cage could be removed. With approval from Dr ██████, the cage was disassembled with relative ease, and the components were placed in a large brown envelope, to be labeled SCP-1144-1. SCP-1144-1 does not appear to have any extraordinary properties. However, it remains to undergo further investigation.
+
+With SCP-1144-1 removed, SCP-1144 continued to function as before, albeit without the constraint of the shielding, allowing much larger objects to be measured. This log documents the findings of the main research team, two months after the initial series of observations.
+
+Object: 30kg steel weight
+
+Reading: 0.003
+
+Object: 60kg steel weight
+
+Reading: -0.006
+
+Object: A Brief History of Time, Stephen Hawking (book)
+
+Reading: 30.663
+
+Object: Developing Java Software, Winders & Roberts (large book)
+
+Reading: 10.002
+
+Object: Senior Researcher ████ █████
+
+Reading: -0.502
+
+Object: Dr ██████
+
+Reading: 13.603
+
+Object: Laptop (belonging to Dr ██████, off)
+
+Reading: 150.002
+
+Object: Laptop (belonging to Dr ██████, on)
+
+Reading: 158.031
+
+Testing III
+
+Testing III
+
+Experimental data log, involving Dr ██████ and Senior Researcher ████ █████. This log documents the findings of the main research team, one day after the second series of observations.
+
+Object: Dr ██████'s wedding ring (12 carat gold)
+
+Reading: 30578.453
+
+Object: Senior Researcher ████ █████'s wedding ring (18 carat gold and electrum)
+
+Reading: 2331.453
+
+Object: £5 note
+
+Reading: 41.30(3/2) (fluctuated between .303 and .302 five times over the space of twenty minutes)
+
+Object: A picture of a £5 note printed out on paper
+
+Reading: 0.302
+
+Object: £10 note
+
+Reading: 51.41(4/5) (fluctuated between .414 and .415 five times over the space of twenty minutes)
+
+Object: A picture of a £10 note printed out on paper
+
+Reading: 0.301
+
+Object: £20 note
+
+Reading: 60.37(4/5) (fluctuated between .374 and .375 five times over the space of twenty minutes)
+
+Object: A picture of a £20 note printed out on paper
+
+Reading: 0.302
+
+Object: £50 note
+
+Reading: 112.2(29/30) (fluctuated between .229 and .230 five times over the space of twenty minutes)
+
+Object: A picture of a £50 note printed out on paper
+
+Reading: 0.300
+
+Testing IV
+
+Testing IV
+
+Experimental data log, involving Dr ██████ and Senior Researcher ████ █████, as well as two D-Class personnel. This log documents the findings of the main research team and their test subjects, two days after the third series of observations.
+
+Senior Researcher █████ and I brought the two D-Class individuals into the room with the scales. I positioned two non-descript white sugar pills on the measuring pad. The reading was -0.320. I introduced myself to the individuals — a man and a woman — and told them that the pills on SCP-1144 were able to grant 100 extra years of longevity on ingestion. Senior Researcher █████ noted that the reading changed from -0.002 to -0.031. I proceeded to take one of the pills and dry-swallow it. The reading changed from -0.031 to 3.503. The D-Class personnel were dismissed afterwards.

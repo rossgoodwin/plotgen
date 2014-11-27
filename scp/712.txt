@@ -1,0 +1,93 @@
+Item #: SCP-712
+
+Object Class: Safe
+
+Special Containment Procedures: The light-generating apparatus designated SCP-712-1 is stored fully assembled in a secure storage room at Research Site-14. The room's air is to be HEPA filtered and anyone entering must wear a clean room suit to minimize introduction of dust that could interfere with the optics of SCP-712-1. Anyone making adjustments to the components of SCP-712-1 must wear non-powdered nitrile gloves; latex gloves are not permitted as Dr. ███████ is severely allergic. The vibration-absorbing base of SCP-712-1 is attached securely to a 1.5 meter high table that is securely bolted to the floor of the room. The layout of this secure storage room is an "L" shape with the apparatus aimed at the far wall perpendicular to the door. No video recording devices are permitted in the room and all cameras viewing the entrance are to be fitted with one Wratten #90 filter and one linear polarizing filter with the axis of polarization oriented horizontally.
+
+The emitting lens of SCP-712-1 is aimed at the rear wall and optical targets should be kept behind the apparatus except during testing. A SWNT forest panel is in place in front of the emitting lens of SCP-712-1 as a component of the fail-secure system. The rear wall of the room is tiled with SWNT Forest light absorbing panels. 10 (ten) standard 300 watt metal halide floodlights are aimed at the target wall and are to be turned on no less than one hour before SCP-712-1 is connected to a power supply to ensure that the color temperature has stabilized at 5000 K. These floodlights are shuttered as a component of the fail-secure system.
+
+A fail secure system is installed in the room. During operation, the floodlights will be shuttered and the panel in front of the emitting lens will retract. The researcher conducting an experiment must maintain constant pressure on a thumbswitch, and a bite plate will detect jaw clenching that may indicate a seizure. If pressure on the thumb switch is released, pressure on the bite plate exceeds normal limits, or power to the system is lost, the shutters covering the floodlights will drop away and the light absorbing panel will drop into place in front of SCP-712-1's emitting lens.
+
+All personnel and test subjects who are present when SCP-712-1 is powered are to be administered vision tests to measure distance vision, near vision, and color perception before entering the room and immediately after leaving. Unless authorized by Dr. ███████ in writing and approved by a Level 4 staff member, no individual who exhibits any degree of colorblindness is permitted to enter the room. Individuals who exhibit diminished visual ability after an experiment will be held for observation for 24 hours and tested before being released. Any individual who continues to exhibit diminished visual ability after the 24 hour observation period will be prohibited from working with SCP-712 and reassigned to a non-research position for an additional 30 days. Individuals exhibiting diminished visual ability after 30 days will be permanently reassigned. No individual who exhibits any diminished visual ability after 24 hours may be assigned to experiment further on SCP-712.
+
+Research on SCP-712 is coordinated by Dr. ███████.
+
+Description: SCP-712 is a pair of colors designated SCP-712-a and SCP-712-b, produced by the light-generating apparatus SCP-712-1. SCP-712-a is described by test subjects as "reddish green" and SCP-712-b is described by test subjects as "yellowish blue." While prior published research into impossible colors had achieved limited success by projecting one of two component colors into each eye of participants, SCP-712-a and SCP-712-b are each discrete colors. While the colors of SCP-712 can be perceived by human subjects, their wavelengths are expressed as imaginary numbers rather than wavelengths found in the visible spectrum. Specific information can be found in Dr. ███████'s research notes.
+
+Subjects who view these colors report feelings of unease or awe, with neither corresponding to particular post-exposure effects. Approximately 26% of subjects experience no effects after viewing SCP-712. Approximately 74% of subjects experience diminished visual ability after viewing SCP-712; approximately 95% of subjects who initially display diminished visual ability recover within 24 hours. Approximately 1% of subjects who experienced diminished visual ability after 24 hours did not recover.
+
+SCP-712-1 is a light-emitting apparatus that was removed from the laboratory of Dr. ██████ ███████████ at █████████ University.
+
+The apparatus is mounted on a vibration damping base. Components are labeled with stamped metal plates, and a plate at the front of the apparatus is stamped "f=9907mm." A cord with four wires protrudes from the power supply, which is labeled in permanent marker "220v."
+
+The major components of SCP-712-1 are the following:
+
+— A power supply that connects to a standard US 220 V three-phase outlet
+
+— A diode-pumped laser emitter that produces light at ███ nm
+
+— An oscillator-controlled ring electromagnet that surrounds the laser module connected to power by a two-position switch with positions labeled "a" and "b"
+
+— A series of beam splitters that divide the beam into 8 optical fibers of varying lengths and arranged in various geometric patterns
+
+— A set of 8 fluorite lenses that focus the output of the optical fibers onto the emitting lens; each lens is mounted on a unique keyed base and fits into one of two slots labeled "a" or "b"
+
+— A 10 cm lens made from a dense material with a refractive index of [REDACTED]; this element can be rotated around its optical axis by a metal peg attached to its edge that locks into two positions labeled "a" and "b." This is the emitting lens of SCP-712-1
+
+Do not make any adjustments to SCP-712-1 unless you have verified that power is disconnected. If you feel that basic safety rules do not apply to you, I will be more than happy to reassign you to a position in which your risk of injury will be limited to papercuts and writer's cramp. - Dr. ███████
+
+The main switch, keyed lens bases, and emitting lens are connected to a safety interlock that disconnects power to the laser emitter unless all components are set to either "a" or "b."
+
+Common Effects of SCP-712:
+
+The following effects have been observed in subjects exposed to SCP-712:
+
+— Perceived desaturation when viewing colors in the visible spectrum after viewing SCP-712. After viewing SCP-712-1a, subjects perceive desaturation of yellow and blue colors; after viewing SCP-712-1b, subjects perceive desaturation of red and green colors. This is the most commonly reported effect.
+
+— Viewing SCP-712 has triggered severe migraine headaches with visual aura in subjects predisposed to migraines on several occasions.
+
+— Diminished ability of the subject's eyes to focus visible wavelengths of light while retaining the ability to focus SCP-712 wavelengths.
+
+— Temporary complete blindness to the visible spectrum has been observed in two subjects. Both subjects recovered within the 30 day observation period.
+
+— Grand Mal seizures. Before the recovery of SCP-712-1, Dr. ██████ ███████████ appeared to have suffered a Grand Mal seizure. During initial experimentation, two subjects diagnosed with epilepsy suffered seizures.
+
++ Recovery Log
+
+- Recovery Log
+
+Recovery of SCP-712-1:
+
+The Foundation was alerted to a possible anomalous object when Dr. ██████ ███████████, a respected professor of Physics at █████████ University was institutionalized following a reported nervous breakdown resulting in a fugue state lasting several days. Dr. ███████████ is a highly respected expert in sensitometry and had been expanding on Crane and Piantanida's research into human perception of "impossible colors" for three years prior to the recovery of SCP-712-1.
+
+Research assistants studying under Dr. ███████████ found him unconscious in his optics laboratory on July 02, 2009, after apparently having ripped the power cord of SCP-712-1 from a bench power supply during a grand mal seizure. Foundation investigators posing as doctors with the state's Department of Mental Health interviewed Dr. ███████████'s assistants and found that Dr. ███████████ "had always been obsessive about his work," often working long hours, a tendency that was also reported by former colleagues. Research assistants reported that Dr. ███████████ had recently begun to exhibit signs of severe stress, working around the clock and sleeping for short periods of time in his lab so as to devote more time to his work. Several interviewees noted that Dr. ███████████ had recently begun to make remarks about "doing the impossible" and discovering "the next level of human perception," but that he was secretive about his work and refused to allow colleagues and research staff into his laboratory beginning three weeks prior to his seizure and breakdown.
+
+Foundation staff searched Dr. ███████████'s laboratory and found SCP-712-1 mounted to a table with the emitting lens aimed at an 18% grey optical target placed 9907 mm from the emitting lens. On a desk behind SCP-712-1 were a single page of handwritten calculations describing the two output wavelengths of SCP-712, and a journal of notes. SCP-712 is referred to simply as "The Machine." The contents of the second page detailed observations of SCP-712-1's effects and Dr. ███████████'s personal notes. The content of the pages are transcribed as follows
+
+Page 1: [DATA EXPUNGED]
+
+Journal: [DATA EXPUNGED]
+
+Dr. ███████████'s handwriting becomes progressively less legible toward the end of the journal as he describes growing effects of observing SCP-712. He makes several mentions of protecting others and keeping them away from SCP-712
+
+After reviewing Dr. ███████████'s writings, Foundation personnel recovered SCP-712. A cover story was presented to Dr. ███████████'s colleagues and researchers explaining that his research into LASER technology had been classified as a matter of national security. All individuals agreed to sign nondisclosure agreements and were subsequently administered Class A amnesiacs and implanted with false memories; research assistants were paid stipends as compensation. SCP-712-1 was removed and transported to Site-19.
+
++ Personal Notes of Dr. ███████
+
+- Personal Notes of Dr. ███████
+
+Research notes of Dr. ███████:
+
+09-August-2008
+
+I've run the calculations a dozen times, but I still can't figure out where ███████████ got these variables. Bypass the safety on the magnets and the beams cancel each other at the emitting lens. Rotate the lens to the wrong position and you get a blur. If the lenses don't The magnet is epoxied in place and I can't remove it without damaging it irreparably. As close as I can approximate, the field it generates is [REDACTED] oscillating cleanly from positive to negative at [REDACTED]. Everything should be well within the visible spectrum, but I can't figure out how the magnet does what he says it does or exactly how that lens focuses light at [REDACTED]. I'm submitting a request for human testing.
+
+13-August-2008
+
+I've made no progress on the math and neither have any of the Foundation's other physicists. The emitting lens seems to have a refractive index that varies significantly across the visible spectrum and the plot definitely isn't linear, it's almost asymptotic at certain points. I have a hunch, but I don't have the equipment at this site to test it and I'm going to have to wait at least a few days. Hopefully I'll be able to test it soon. It sounds crazy, but I'm inclined to trust Dr. ███████████'s research; [REDACTED]
+
+14-August-2008
+
+We carried out the first test today. [DATA EXPUNGED]
+
+[The remainder of this log is awaiting declassification]

@@ -1,0 +1,221 @@
+Item: SCP-1778
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1778 has been marked as orbital debris from a failed uncrewed Soviet mission. All embedded agents of the Foundation within the most relevant space agencies are to observe SCP-1778 and prevent all research or interaction initiative related to it.
+
+Different recovery and disposal measures are being studied at the time, and remain pending approval from level 4 authorities until possible future connections with SCP-1778 are established. A MTF Beta-3 ("Blue Danube") team remains in standby for these operations.
+
+Description: SCP-1778 is, to date, the only known spaceship of the Soyuz 7K-L2 series, designed by [REDACTED] and placed in orbit in 1966 as part of a special program developed and financed by the Psychotronics division of the Russian Main Intelligence Directorate (GRU) with unknown aims. SCP-1778 currently remains in low Earth orbit. It has been contacted from different points of the surface of the Earth since its discovery through brief radio exchanges with unknown interlocutors. Only those exchanges initiated through the methods deployed by these interlocutors will receive an answer from SCP-1778 (See documents TL-01, TL-02 and TL-03).
+
+While flying over the territories of the former Soviet Union, SCP-1778 seems to behave as any satellite or orbiter. However, in the moment of passing over the Prime Meridian, SCP-1778 decelerates through unknown means and adopts an orbit that takes it in the opposite direction, then accelerating rapidly until it reaches Meridian 170º, when it resumes its previous orbit and speed. During this period, SCP-1778 accelerates until it reaches an estimated speed of 0.09c with transmissions of anomalous nature during these 0.3 seconds being emitted from it. While it has been hypothesized that these transmissions do contain information, all attempts at deciphering thus far have failed.
+
+++TL 1778-01
+
+--TL 1778-01
+
+Transmission Log 1778-01: SCP-1778 was detected for the first time in 1966 thanks to the interception of a message emitted from [DATA EXPUNGED], within the German Democratic Republic, and came to the attention of Foundation agents through multiple contacts within the Kasernierte Volkspolizei (People's Police). Follows a transcript of the decripted transmission.
+
+<Transmission begins>
+
+UNKNOWN: [UNINTELLIGIBLE] (13 seconds)
+
+SCP-1778: All right. Your code, please.
+
+UNKNOWN: [UNINTELLIGIBLE] (32 seconds)
+
+SCP-1778: Copy. Wait a minute.
+
+[According to [REDACTED] land-based observatory, SCP-1778 decelerates and adopts a reversed orbit for 0.06 seconds]
+
+UNKNOWN: [UNINTELLIGIBLE] (3 seconds)
+
+SCP-1778: Please, stop doing that. You know it hurts.
+
+UNKNOWN: [UNINTELLIGIBLE] (17 seconds)
+
+SCP-1778: Yes, yes, I understand. That's why I am here, right?
+
+UNKNOWN: [UNINTELLIGIBLE] (20 seconds)
+
+SCP-1778: Well, I do appreciate a bit of company. It gets lonely up here. By the way, as far as I can read, you were right to call. This is an emergency. You will have troubles with this one, comrade. I suggest you get your hands on some sulfur… it looks like they don't like it.
+
+UNKNOWN: [UNINTELLIGIBLE] (3 seconds)
+
+SCP-1778: I don't know, it doesn't say anything about that. Just in case, get as much as you can find.
+
+UNKNOWN: [UNINTELLIGIBLE] (5 seconds)
+
+SCP-1778: Wait, please! Hold for a moment! You have to tell my wife ab-
+
+<Transmission ends>
+
+Closing Statement: This transmission made use of anomalous techniques the Foundation had no access to at the time of interception, and therefore its origin could not be tracked. All messages emitted by the unknown interlocutor have been impossible to decipher to date, and seem to be the result of an experimental encoding procedure developed by a closed sub-division within GRU-P, from which the Foundation had no previous knowledge. However, the acquisition of ███ kilograms of sulfur dioxide and ████ liters of hydrogen sulfide gas [DATA EXPUNGED] factory in the outskirts of Berlin-Mitte. Unfortunately, the reasons which prompted SCP-1778 to recommend the use of substances containing sulfur remain unclear.
+
+++TL 1778-02
+
+--TL 1778-02
+
+Transmission Log 1778-02: This SCP-1778 transmission was detected in 19██ by several Foundation agents dedicated to the supervision of GRU-P activities in the Baltic Sea, which led them to locate its broadcast location at the mouth of river Daugava, Riga, Latvia.
+
+<Transmission begins>
+
+UNKNOWN: [UNINTELLIGIBLE] (42 seconds)
+
+SCP-1778: No.
+
+UNKNOWN: [UNINTELLIGIBLE] (2 seconds)
+
+SCP-1778: I said no. Do you know for how long have I been up here? Probably not, since they would never tell the field agents. Ask your senior officer, comrade. Ask him.
+
+UNKNOWN: [UNINTELLIGIBLE] (23 seconds)
+
+SCP-1778: Because it was going to be a three months mission.
+
+UNKNOWN: [UNINTELLIGIBLE] (18 seconds)
+
+SCP-1778: Lose count? Are you laughing at me? I may not have clocks, or windows, but commissar ██████ told me G██████ was dead, and he let out that it had been █ years since his space walk. Yesterday means ███ cycles ago, by the way.
+
+UNKNOWN: [UNINTELLIGIBLE] (11 seconds)
+
+SCP-1778: (sighs) Wait.
+
+[According to several observing parties associated with the Foundation, SCP-1778 decelerates and adopts a reversed orbit for 0.24 seconds]
+
+SCP-1778: (screaming, anxious) Will you damned sons of bitches stop doing that! Do you know how long would have taken me to read and report what was in this ridiculous pamphlet?! Five minutes! Five fucking minutes! The longer you make me slip, all the more it hurts! Where's the fucking fire!?
+
+UNKNOWN: [UNINTELLIGIBLE] (16 seconds)
+
+SCP-1778: So what if it eats people.
+
+UNKNOWN: [UNINTELLIGIBLE] (4 seconds)
+
+SCP-1778: Why would I fucking care. I won't ever walk those streets, will I? Fuck, forget it. Open the window upstairs and throw all the things out to the street. And I hope you fall and break your neck.
+
+UNKNOWN: [UNINTELLIGIBLE] (5 seconds)
+
+<Transmission ends>
+
+Closing Statement: [DATA EXPUNGED] Given the far-reaching diplomatic consequences any interference in this GRU-P operation while in Latvian territory would have provoked, Foundation operatives did not intervene until they received specific instructions to do so from O5-2, O5-10 and O5-12, who evaluated the situation in an emergency meeting. GRU-P agents completed their operation, which resulted in ██ civilian casualties and [REDACTED] was later reclassified as SCP-████.
+
+An assault on the vessel these agents were using as a forward operating base in their activities was conducted afterwards. ██ anomalous sub-Safe artifacts were recovered, possibly related to [DATA EXPUNGED] which might have been used to establish a safe and codified communication with SCP-1778, as well as several documents detailing codes, operational security protocols and operation handbooks related to the artifacts. Possible applications of these artifacts are being researched, and given the amount of data they provided on SCP-1778 communications system, they have been assigned to the research personnel of SCP-1778 under the composite designation ███-██-████ to ████.
+
+++TL 1778-03
+
+--TL 1778-03
+
+Transmission Log 1778-03: What follows is a transcript of the first successful attempt at establishing communications with SCP-1778 under the direction of Dr. ██████████, thanks to her efforts in the understanding and operation of ███-██-████ to ████ through methods within tolerable ethical behavior as defined by the Ethics Committee. At the time of this exchange, SCP-1778 had been orbiting the Earth for ██ years.
+
+<Transmission begins>
+
+Dr. ██████████: [DATA EXPUNGED - AUTOCENSOR LEVEL HC 3 - RESEARCHER ONLY] Hello, 7K-L2, do you copy? Over.
+
+[SCP-1778 remains silent for nine seconds.]
+
+SCP-1778: (muffled voice) Not now, Tolya, dad is trying to sleep.
+
+Dr. ██████████: 7K-L2, we are attempting to establish a radio exchange with you from Earth. Please, respond, over.
+
+SCP-1778: (muffled voice) I don't want to play cosmonauts now, Tolya. Go to your mother, will you? I will give you one of the chocolate bars later, yes?
+
+[SCP-1778 remains silent for three seconds.]
+
+SCP-1778: (muffled voice) Good man.
+
+[SCP-1778 seems incapable of properly evaluating the origin of the Foundation's transmission for three minutes. Mission abort is suggested due to technical reasons, but Dr. ██████████ requests the continuation of this attempt, recurring to anomalous transmissions with memetic or cognito-hazardous content if necessary, to obtain an answer. However, at the end of a three minutes interval, SCP-1778 reestablishes contact on his own without new interventions from the contact team.]
+
+SCP-1778: Wait — Tolya is… Anatoli isn´t here. That's not Anatoli speaking to me. Who is this?
+
+Dr. ██████████: 7K-L2, confirm, can you hear us?
+
+[SCP-1778 remains silent for six seconds.]
+
+SCP-1778: Hello?
+
+Dr. ██████████: 7K-L2, confirm. Can you hear—
+
+SCP-1778: Who are you?
+
+Dr. ██████████: I am sorry, we prefer to remain anonymous at the time. Who am I speaking to?
+
+SCP-1778: I repeat, who are you?
+
+Dr. ██████████: We would rather not disclose this for the moment. What is your name, 7K-L2?
+
+SCP-1778: … Volya.
+
+Dr. ██████████: It's a pleasure to finally meet you, Volya.
+
+SCP-1778: You are not from the Division, are you?
+
+Dr. ██████████: I'm afraid not.
+
+SCP-1778: Right. It's been so long since they… (subject remains silent for thirteen seconds) (possible sobbing, muzzled) Oh, good god, I've been here so long I didn't even remember what was like to talk, to talk to someone who is…
+
+Dr. ██████████: It took us a while to figure out the method used to communicate with you, but we don't know how they managed to keep you alive, in orbit, for so long. Volya, are you alright?
+
+SCP-1778: Ah… I'm alive. Didn´t have the courage to do it, you know?
+
+Dr. ██████████: Do what, Volya?
+
+SCP-1778: Opening the hatch. Not the one to the archive, I have seen plenty of that one… the other hatch. The one that opens to space. I did not dare. Food and water and air may return, my own body may return, but I remember. They told me I would not remember, do you understand? It would be the same ██ minutes, every day, for three months, and then-
+
+Dr. ██████████: Wait, please. What file?
+
+SCP-1778: You do not know yet? Well, I guess it is the same. It's a network of modules, connected through the station the division placed in orbit… I am nothing more than the archivist. They thought they could place everything they knew in a safe, orbiting the Earth.
+
+Dr. ██████████: There are more modules than yours then. Are they connected to it?
+
+SCP-1778: I was never told the details about them and there is no information on them up here. I have looked. But yes, the station is a gateway. It was launched with the other modules that remain physically detached, quite a long time ago… before I was launched. I've often wondered who had the idea. It's been so long… ██ years, at least. Correct?
+
+Dr. ██████████: I'm afraid I can't-
+
+SCP-1778: It has. I have been reading. I have been learning. There are novels and tales and encyclopedias up here. There are rapports of many Division activities, too. Some oriental breathing techniques are wonderful in zero gravity, you know? I've not wasted my time… there are manuals and books on pretty much every [DATA EXPUNGED] you could imagine, too. From one of them, I learned how to make a clock of sorts quite a long time ago that would survive the transition. Using foodstuffs, no less. Not that it matters, I had enough chocolate bars before they started replicating. At least, █ decades. Am I correct?
+
+Dr. ██████████: Something like that. We'd rather not go into detail.
+
+SCP-1778: Then I guess I am an exile, now. I can never return home. No home to return to.
+
+Dr. ██████████: When you say transition, are you referring to the process that altered your module's orbit?
+
+SCP-1778: That's how the slips look like, then? I was curious about that. Yes. The displacement is painful, unexpectedly so if what my superiors told me all those years is to be believed. They hoped it would become a closed circuit where I would not remember, where I would remain untouched. Vigilant, young, idealistic and loyal to the Union and the Division, living the same ██ minutes once and over again. That sort of thing. But by activating forced displacements, or slips, as we came to call them, time dilated within the capsule, somehow. Very practical to them, when they were in a hurry or they wanted to "educate" me.
+
+Dr. ██████████: Do you have any information that we may use to extract you and salvage your ship?
+
+SCP-1778: I… might, actually. Is the Division still active?
+
+Dr. ██████████: Please, tell me what you need.
+
+SCP-1778: Do you have any information on [DATA EXPUNGED]
+
+Dr. ██████████: Stand by, please.
+
+[Dr. ██████████ and [REDACTED] who oversaw the operation through teleprompter, agree to reveal information about [DATA EXPUNGED] in order to negotiate its recovery and access to the alleged GRU Division-P archive. Dr. ██████████ receives authorization to negotiate in the name of the Foundation.]
+
+Dr. ██████████: We may have access to it.
+
+SCP-1778: Good. Listen. I don't want to spend a single day further up here. I want to go back to Earth. I may have no place down there anymore, but I just want to see the sky. I want to see the stars, God almighty, the stars! So, for all that I care, you can have this thing. The archive. All of it. Just get [DATA EXPUNGED] and use it to get me out of here, and you will have all what the division knew up to 19██. Deal?
+
+Dr. ██████████: Deal. What do you propose?
+
+SCP-1778: Thank you. First-
+
+UNKNOWN: [UNINTELLIGIBLE] (5 seconds)
+
+[SCP-1778 decelerates and plots a reverse orbit for 0.13 seconds; in this occasion, SCP-1778 does not resume its original orbit. Instead, it remains in an apparently geosynchronous orbit over the Kamchatka peninsula for thirteen hours, fifteen minutes and twenty seconds, after which it resumes its original orbit and contact is reestablished.]
+
+SCP-1778: (screams) [UNINTELLIGIBLE] (screams)
+
+Dr. ██████████: Volya! Do you read me?
+
+SCP-1778: (screams)
+
+[REDACTED FOR BREVITY]
+
+Closing Statement: SCP-1778 kept broadcasting a transmission entirely composed of screams, weeping and imprecations for thirty two minutes with no sign to receive or be aware of the Foundation's transmissions, moment at which it passed over the Prime Meridian and returned to its original position as usual.
+
+To date, no further contact with SCP-1778 has been achieved. Dr. ██████████ and her team are attempting to devise a new contact method and a technique to extract SCP-1778 from its orbit or proceed to a scouting and recovery operation through the use of [DATA EXPUNGED] as it was pointed out by SCP-1778 that there might be a way to access it through [REDACTED AS PER PREVIOUS EXPUNGEMENT] Recent observations by MTF Beta-3 confirm the hatch on the surface of SCP-1778 remains closed.
+
+Addendum: All other intercepted transmission logs from SCP-1778 remain classified as Level 3 - Secret. For further data on SCP-1778 or ███-██-████ to ████, request an appointment with the current Head Researcher for SCP-1778.
+
+Addendum: Due to the technical complications that occurred during the events of TL-03, ███-██-████ to ████ have been reclassified as SCP-████ (Euclid).

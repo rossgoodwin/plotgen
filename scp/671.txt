@@ -1,0 +1,21 @@
+SCP-671 individuals busy pulling wood paste off a plastic base.
+
+Item #: SCP-671
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-671 must be kept at Sector-██ in a clear plastic terrarium no less than 10m x 1m x 1m. The terrarium is to be assembled by heat merging only. It should contain at least 400 kg of sandy soil with humidity at least ██.█%. Appropriate food is provided via a hatch every week. The room is to be monitored by four cameras at all times. Entry and exit is via an airlock, which must be flooded with an insecticide harmless to humans each time it cycles. No piece of the door beyond the innermost panel itself may be accessible from inside the containment room, and all fixtures inside the room must be either sealed or built into the walls.
+
+As long as any SCP-671 individuals are outside the terrarium, personnel entering the room must either wear only clothes that will not trigger SCP-671, use strong insect repellent, or wear a sealed single-piece suit over all other clothing. All but the simplest items must be kept within a sealed transparent plastic bag or similarly protected by insecticide or repellent. Should SCP-671 individuals escape the terrarium outside of experimental procedure, the room is to be flooded with insecticide.
+
+No SCP which can potentially be disassembled is to be kept at Sector-██, and SCP-671 may never enter a facility where such SCPs are kept.
+
+Description: SCP-671 is a large colony of Spanish carpenter ants (Camponotus cruentatus), comprising approximately 30,000 individuals. When SCP-671 is faced with a complex artificial device, its constituent individuals will attempt to reduce it to its simplest components. (Organisms, living or dead, do not trigger this behavior.) The ants appear attracted to artificial devices as to food sources. Screws will be unscrewed, staples and nails extracted, etc. In the process, even a single SCP-671 individual is able to exert forces several hundred times greater than a normal C. cruentatus. When large numbers of ants collaborate, they are capable of surprising feats.
+
+The only type of artificial joint that appears not to trigger SCP-671's disassembly behavior is that in which two items of the same or similar material are merged using adhesive of another similar material. Examples include the rocks and cement in concrete, paper glued together (unless the glue is so thick as to represent a separate "part", such as in book bindings), soldered metal, and material completely encased in other material. The ants take great care to avoid damaging an object's parts during disassembly; however, material serving as a joint (e.g. glue, mortar, rivets) is likely to be destroyed in the process.
+
+SCP-671 reduces objects to their smallest natural constituents: fabric is frayed into constituent threads, as are textile-like objects such as rope. 15,000 SCP-671 individuals, working in concert, can disassemble a sedan in 48 hours or a 10-story steel-frame building in one month. They show little intelligence beyond that strictly necessary for disassembly, and will mindlessly attempt to take apart running machinery or containers of poison at great risk to themselves and the colony. In ████ of ████ at Alcanar, Spain, a group of SCP-671 individuals proceeded to disassemble the motor of a running tanker truck, resulting in [DATA EXPUNGED]. As such, if necessary, it may be possible to reestablish containment by leaving large multi-part containers of insecticides or corrosive substances near the colony.
+
+Addendum: Following Incident 671-A, personnel are reminded that any appropriate "sealed single-piece suit over all other clothing" must also cover the feet. Suits which include separate foot covers, such as used on some other SCPs, are not appropriate for interaction with SCP-671. — Dr. Ziegler
+
+Incident 671-A: Agent Thornton, having just left an experiment with SCP-███, assumed that his airtight suit would be sufficient for subsequent work with SCP-671. Almost as soon as he entered the colony's containment, however, the ants began to disassemble his military-type boots. As he prepared to leave, he tripped over the shoelaces that had been undone and partly frayed and fell to the ground, suffering a sprained knee and dislocated shoulder.

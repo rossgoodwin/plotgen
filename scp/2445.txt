@@ -1,0 +1,97 @@
+SCP-2445 during initial recovery near ██████, Wisconsin.
+
+Item #: SCP-2445
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2445 is to be kept within the AVB (Anomalous Vehicle Bay) at Site-81. Any personnel seeking to perform testing on SCP-2445 must have permission from a Level 3 staff member or above.
+
+Description: SCP-2445 is a white, mostly unmarked tractor trailer hosting a number of anomalous characteristics. Of note is the inclusion of a label on the bottom right of the rightmost back door, which reads:
+
+Wondertainment Logistics Co.
+
+A Division of Dr. Wondertainment Inc.
+
+The exterior of SCP-2445 displays no anomalous properties whatsoever, either on the truck or the trailer. Beneath the engine hood of SCP-2445's truck section, however, is what appears to be a modified engine component, designated SCP-2445-1, capable of producing significantly more power than that of a standard semi-truck. SCP-2445-1 is routed to a machine within the cab, designated SCP-2445-2, which is currently believed to be the source of SCP-2445's anomalous characteristics.
+
+SCP-2445-2 is a black, metallic cube, measuring at 0.6m x 0.6m x 0.6m, that sits between the driver's and passenger's seat in the cab of SCP-2445. Attempts to open or inspect the interior of SCP-2445-2 have been unsuccessful. Two large cables connect SCP-2445-1 to SCP-2445-2 through the dashboard of the cab. Eight smaller cables run from the SCP-2445-2 into the dashboard, on which sits a large touchscreen. Across the top of this screen are the words "WonderVision". This screen appears to be the control module for SCP-2445-2, and is activated whenever SCP-2445 is turned on.
+
+When activated, the control screen for SCP-2445-2 displays an intro message, and then changes to a login screen. Login requirements appear to be a username, password, skin sample, and retinal scan.
+
+After logging in, several options are listed. The options, and their function, are as follows.
+
+WonderFinder: Displays a heat map of the region surrounding SCP-2445. The function of this option appears to be as a means of locating delivery sites. Areas containing a high concentration of young children, such as a school or park, appear dark red.
+
+WonderHider: Activates a mechanism that, by currently unknown means, renders the entirety of SCP-2445 invisible to the naked eye.
+
+WonderZoom: Creates a temporal anomaly surrounding SCP-2445, appearing to significantly slow the flow of time outside of SCP-2445 in relation to the interior, allowing SCP-2445 to move through space as if time was standing still. While active, an additional indicator light titled "WonderSpatialDistortionFixer" also illuminates.
+
+WonderTransfer: Opens a large categorized menu of children's toys, all apparently manufactured by Dr. Wondertainment. Selecting an object from the menu causes the object in question to appear after a period of time, packaged, on a shelf in the trailer of SCP-2445. An option for quantity appears alongside each object, with no apparent upper limit. Certain categories are locked, and attempting to access them will cause notifications such as "Seasonal Product Only!" and "Not Applicable to this Ethnic Group!" to appear.
+
+WonderHome: Returns SCP-2445 to a main Dr. Wondertainment distribution hub. Option currently locked out, and attempting to access this option returns a "Not so fast!" notification.
+
+Additionally, a number of apparatuses are present within the main cab that appear to be designed in order to protect the driver from the temporal and spatial anomalies incurred while operating SCP-2445. These include a series of intravenous syringes containing unknown liquid compounds, a heads-up display designed to sit directly in front of the driver, and a helmet covered in 20 different leads that connect directly to SCP-2445-2.
+
+Discovery Information: SCP-2445 was discovered on 11/15/2009 near ██████, Wisconsin, when SCP-2445 appeared to malfunction and come into contact with a sedan during a major winter storm. Local authorities were alerted when the open trailer began to spontaneously release instances of a previously unknown Wondertainment product, all of which took flight and began detonating around SCP-2445. When the number of released instances became higher than what could feasibly fit within the confines of the trailer, Mobile Task Force Alpha-13 "Meat Packers" was activated and dispatched to contain SCP-2445. Forty-five individuals were administered Class C amnestics, and a cover story of a wrecked semi carrying a shipment of fireworks was released to the local newspaper. SCP-2445 was moved to Site-81, along with the driver, who was officially brought into Foundation custody after a brief hospital stay.
+
+Interview 2445-A: The following interview took place on 11/20/2009, shortly after the discovery and containment of SCP-2445, and after the driver, a Caucasian human male named Clarence Prince, was released from Foundation medical custody.
+
+[BEGIN LOG]
+
+Agent Roberts: Alright, let's get started. Your name, sir?
+
+Clarence Prince: Who's askin?
+
+Roberts: This will go much easier for both of us if you can cooperate, sir.
+
+Prince: I reckon I might be in a lick of trouble if I speak to the wrong people, sir. Who's askin?
+
+Roberts: I'm a member of an organization of inter-dimensional traffic safety officers. I need information about the nature of your vehicle, and the freight you ship.
+
+Prince: Well, I'll be damned. You ain't got a badge or nothin, do you?
+
+Agent Roberts produces standard Foundation ID tag.
+
+Prince: Shit, I didn't mean nothin by that earlier. Name's Clarence Prince, humble transport extraordinaire.
+
+Roberts: Mr. Prince, could you tell me about the vehicle you operate?
+
+Prince: Well, ole Hillary is a tough girl. I've been drivin' a long time, and I ain't seen nothin that can put it to it like she can. In fact, come to think of it, I ain't seen nothin like her at all, period. She's a whole different set of tires.
+
+Roberts: I assume you're referencing-
+
+Prince: The engine, sure. Thing looks like it came outta a goddamn space movie. Lots of blinkin lights and techno gizmos, sure. But it don't need no fixin, and it don't need no fuel. Hard to argue with that.
+
+Roberts: And the box inside?
+
+Prince: Oh, that's what the garage boys call the "Wondervision." Like a computer, you know, only it does things a little different. Takes some gettin used to, sure, but she runs like a dream once you get the nuts and bolts covered.
+
+Roberts: Can you tell me anything about your employer, Mr. Prince?
+
+Prince: You mean the doc? Can't say I've ever met him. I mostly just deal with the garage boys and the distro boys, and I don't got much to say to either. Whenever somethin goes wonky, I take 'er to the garage boys. Whenever I need to park, I take 'er to the distro boys. I get my routes, and then off I go.
+
+Roberts: How did you come to work for Dr. Wondertainment?
+
+Prince: Well, I was hauling out of Atlanta for a while. I guess I was real good or somethin, cause one day I show up and my truck is gone, and Jerry, that was my supervisor, tells me I'm gettin a promotion. Next think I know, some goons dressed like them fancy English guards push me into a van and drive me to somewhere. I do some paperwork, get my face all pictured pretty on this here identification badge, and then I'm set. They pay the bills, I move the freight. Pays real good, too.
+
+Roberts: What was happening that caused your vehicle to malfunction?
+
+Prince: You know, Hill's a beast of a girl, real good on the open road and real good in the weather too, but you gotta be real careful with that Wonderzoom. Garage boys tell me there shouldn't be nothin wrong with the handlin on ice when you're movin at light speed, but I'm gonna need to have a talk with them cause my back end jackknifed like I ain't never seen, and next thing you know I'm off in the ditch and my ass is shootin sparks.
+
+Roberts: Alright, thank you. That will be all, Mr. Prince.
+
+Prince: No problem, boss. Say, I ain't gettin ticketed for this, am I?
+
+[END LOG]
+
+Incident Log 2445-D: On 03/15/2012, during routine testing of SCP-2445, Clarence Prince was unable to log in to SCP-2445-2, even after repeated tries. After several attempts, a notification appeared on the main display of SCP-2445-2, which read as follows:
+
+Not so fast, Foundation goons!
+
+Dr. Wondertainment hopes you have enjoyed your demo of our newest product, WonderShipping!
+
+Unfortunately, your trial period has ended. No worries, though! We'll send somebody out as soon as we can to collect the product.
+
+Thanks again for your cooperation!
+
+P.S. Tell Clarence his last check is in the mail. Traction on ice at light speed works just fine, but trying to drift around vehicles in the carpool lane does not.

@@ -1,0 +1,51 @@
+SCP-848-2 prior to initial containment. Visible strings caught in web are of unknown origin.
+
+Item #: SCP-848
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-848 is contained in a 10 m x 10 m x 5 m isolation chamber, which is to contain several non-organic structures that may be used by SCP-848-1 specimens to construct SCP-848-2. SCP-848-1 specimens usually do not need to be fed, but if they are unable to feed for periods lasting greater than 2 weeks or begin to exhibit signs of malnutrition, harmless insects may be introduced to SCP-848's containment as food.
+
+SCP-848's chamber must be cleaned at least once per week and continuously monitored for the appearance of anomalous objects. In the case of hostile organisms, armed response teams may be deployed and full Nuclear-Biological-Chemical (NBC) precautions should be observed by all personnel when retrieving objects from SCP-848-2.
+
+Description: SCP-848-1 is a colony of Nephila clavipes (golden silk orb-weavers, a.k.a. banana spiders). Specimens of SCP-848-1 are approximately 15% larger and significantly stronger and faster than normal specimens of Nephila, but generally no more dangerous than a typical spider of the genus to humans and do not exhibit any particular hostility to humans in its containment.
+
+SCP-848-2 is the web created by SCP-848-1. As with normal N. clavipes, SCP-848-2 can be enormous and often times reaches diameters of 5 m or more. The silk used in the production of SCP-848-2 is somewhat stronger than is normal N. clavipes but otherwise appears normal in composition.
+
+Periodically, anomalous objects will be discovered ensnared in SCP-848-2. The frequency of these occurrences varies greatly, but typically occurs from once per week to up to a dozen in one day. Recorded objects found in SCP-848-2 have included:
+
+Various flying insects typical to that of SCP-848-1's natural habit. To date, over 300 recorded species of flies, moths, and other insects have been logged.
+
+Various flying insects that only exist in regions of the world where SCP-848-1 is not known to populate, including exotic deep rainforest insects.
+
+Various kinds of scraps of inanimate objects, including paper and plant detritus.
+
+Several species of flying insects not known to modern science.
+
+Several unidentified organisms that quickly asphyxiated when exposed to oxygen, and may not be terrestrial in origin.
+
+[DATA EXPUNGED]
+
+[DATA EXPUNGED]
+
+Anomalous objects will appear on SCP-848-2 despite having no plausible explanation for their origin, leading to the belief that SCP-848-2 is able to 'catch' objects from extraterrestrial or extradimensional locations. SCP-848-1 is able to feed on most insects found on SCP-848-2, and thus does not need to be regularly fed.
+
+Addendum 848-01: Log of Notable Recovered Objects
+
+Date: █/██/████
+
+Details: An unidentified insect appeared on SCP-848-2. The insect appeared to have twelve (12) legs, as well as an organ that could only be described as a "█████ █████". Specimen destroyed as a precaution.
+
+Date: ██/██/████
+
+Details: A flying insect resembling a terrestrial dragonfly with a wingspan of nearly 1 m, believed to have become extinct approximately 150 million years ago. Caused significant damage to SCP-848-2 before being neutralized by SCP-848-1's venom. SCP-848-1 later repaired the damage to SCP-848-2 without incident.
+
+Date: ██/█/████
+
+Details: An unknown non-terrestrial organism which began screeching loudly before quickly expiring from asphyxiation and explosive exsanguination from its eyes. An autopsy performed by Dr. ██████ determined that the creature was not capable of breathing oxygen and in fact could not survive in an atmosphere with Earth-normal atmospheric pressure.
+
+Incident 848-1:
+
+On █/██/████, a [DATA EXPUNGED] materialized on SCP-848-2 and immediately breached containment using a █████ ███████████. The [DATA EXPUNGED] and [DATA EXPUNGED] before response teams were dispatched and terminated the Subject after sustaining multiple casualties. Several specimens of SCP-848-1 were killed during the incident but a stable breeding population still remains.
+
+SCP-848 has been redesignated Euclid-class and revised containment procedures are pending review.

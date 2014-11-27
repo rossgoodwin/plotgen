@@ -1,0 +1,209 @@
+Item #: SCP-2066
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2066 is currently contained in a standard humanoid containment chamber constructed at its original discovery location in Greenland, ██.██° N, ██.██° W. This cell is equipped with video surveillance equipment to confirm SCP-2066's continued presence1; however, as SCP-2066 has not displayed unusual strength or intelligence, escape is considered unlikely. Containment efforts are to focus on preventing civilian access to SCP-2066's area of effect, defined as a circle of radius four kilometers centered on the containment chamber.
+
+In the event that any persons enter the area of effect, they must be taken into custody and monitored for symptoms of SCP-2066-1 conversion for a minimum of one week. Any instances of SCP-2066-1 must be terminated at the earliest opportunity. Subjects not displaying symptoms may be released pending administration of class-C amnestics.
+
+Description: SCP-2066 is a humanoid entity 1.6 meters in height, with proportions approximating those of an adult male, though notably lacking a head. The entity does not appear to possess internal organs or clearly-defined skeletal structure; rather, it is composed entirely of an unidentified tar-like substance with a mottled surface. SCP-2066 remains visible regardless of any obstructions between itself and the observer, including fog, solid walls, terrain formations, or the viewer's eyelids.
+
+After viewing SCP-2066 from close range2, subjects' visual perception of SCP-2066 will diverge from its actual location. When turning their head to face away from SCP-2066, these subjects report that the entity reappears at a new location, causing it to remain visible at all times. Any subjects experiencing this secondary effect are designated SCP-2066-1.
+
+Discovery: SCP-2066 was discovered by climatologists T████ N█████ and E███ F████ while conducting research on the Greenland ice sheet. Both witnesses fled the area before being affected by the object's secondary properties. N█████ proceeded to submit video of the anomaly to several news organizations, where it came to the attention of Foundation operatives. Class-C amnestics were administered to all non-Foundation personnel aware of the incident.
+
+A containment team stationed at outpost GRL-12 was successful in containing the anomaly; however, all members of the containment team came under the influence of the entity's secondary effects. Each instance of SCP-2066-1 was monitored in individual holding cells and interviewed daily.
+
+Subjects -2, -5, and -7 attempted to hide symptoms, -4 refused to speak with interviewers, and -1 and -3 provided only minimal details. The most informative interviews were with SCP-2066-1-6 (formerly containment specialist M██████ T███), and are reproduced below.
+
+Interview log 2066-L-1 (Day 1)
+
+– hide block
+
+Interviewed: SCP-2066-1-6
+
+Interviewer: Dr. V██████
+
+Foreword: Interview was conducted on the same day as the containment mission.
+
+<Begin Log>
+
+Dr. V██████: Good evening M██████3. I'd like to ask you some questions about the events of the containment mission.
+
+SCP-2066-1-6: I know the protocol. Ask away.
+
+Dr. V██████: You were in command of the containment mission, correct?
+
+SCP-2066-1-6: That's right.
+
+Dr. V██████: At what point did you first notice the object's secondary effects?
+
+SCP-2066-1-6: I think we were maybe 200 meters away. Once we realized everyone was seeing it in different directions, we thought it might be a defense mechanism, like it was trying to keep us from finding it. The cameras still showed it in the original location, so we figured they weren't affected. It's real awkward work, trying to build around something you can only see through a camera, but the thing doesn't walk very fast.
+
+Of course, our theory was wrong. If it was a defense mechanism, the effect should've stopped after we left. It never went away, though. I can still see it, just over your shoulder.
+
+Dr. V██████: Could you describe its behavior?
+
+SCP-2066-1-6: There's not much to describe. Mostly it just stands there. Except when I look directly at it, that really seems to get its attention. Then it starts coming towards me.
+
+I try not to look at it.
+
+Dr. V██████: Thank you, that will be all for now.
+
+<End Log>
+
+Researcher's note: Several instances of SCP-2066-1 later reported difficulty sleeping due to the constant visibility of SCP-2066. Sleep was induced with medication; higher than the recommended dosage was required.
+
+Interview log 2066-L-2 (Day 2)
+
+– hide block
+
+Interviewed: SCP-2066-1-6
+
+Interviewer: Dr. V██████
+
+Foreword: SCP-2066-1-6 voluntarily requested an interview to report additional symptoms.
+
+<Begin Log>
+
+Dr. V██████: Hello again, M██████. You said you had a new development to report?
+
+SCP-2066-1-6: Yes. Breakfast was terrible.
+
+Dr. V██████: Pardon?
+
+SCP-2066-1-6: That's just the thing, normally I love pancakes. But today, I couldn't taste a damn thing. Couldn't smell it either. It was just kind of a wet - sorry, is there someone behind me?
+
+[SCP-2066-1-6 turns to look directly at researcher J████, who was observing the interview through one-way glass. J████ was not visible from the interview room.]
+
+SCP-2066-1-6: Nevermind. Anyway, it could just be a cold, but my nose isn't stuffy.
+
+Dr. V██████: I'll make a note of it. Has there been any change in SCP-2066?
+
+SCP-2066-1-6: It's only 100 meters or so out now, but otherwise, no change.
+
+Dr. V██████: All right, thank you for your time.
+
+<End Log>
+
+Interview log 2066-L-3 (Day 3)
+
+– hide block
+
+Interviewed: SCP-2066-1-6
+
+Interviewer: Dr. V██████
+
+Foreword: SCP-2066-1-6 reported additional symptoms, which were confirmed by the outpost medical team. An interview was conducted to obtain additional information about the progression of the condition.
+
+<Begin Log>
+
+Dr. V██████: Hello M██████. Could you describe your symptoms again, for the record?
+
+SCP-2066-1-6: What?
+
+Dr. V██████: Please repeat what you told me earlier.
+
+SCP-2066-1-6: Oh, right. I can't really see much any more, everything is getting kind of dim and… smeary, I guess? It's like there's some kind of dark smoke in the air. It's geetting thicker all the time. Of course, I can still see that thing through the smoke. It's the only thing I can see clearly.
+
+And my hearing is getting muffled too. I don't think I'll be able to hear you much longer.
+
+That's not the weirdest part, though. I can feel this sort of sharpness around me. Not sharp like a knife, sharp like a really focused image. I think it's when people look at me.
+
+Dr. V██████: Would you prefer not to be observed?
+
+SCP-2066-1-6: No, no-no-no. It's actually quite pleasant. Kind of warm, and… warm and bright. Once my vision goes completely, it's about all I'll have to focus on. Well, other than that headless thing.
+
+It's getting harder not to look at it. It's about 50 meters out now. I could use any distraction I can get.
+
+Dr. V██████: I'll see what we can do. Thank you for your cooperation.
+
+SCP-2066-1-6: Doctor?
+
+Dr. V██████: Yes?
+
+SCP-2066-1-6: How are the others holding up?
+
+Dr. V██████: I'm afraid I can't divulge that information.
+
+SCP-2066-1-6: Right. Yeah. Protocol.
+
+<End Log>
+
+Interview log 2066-L-4 (Day 4)
+
+– hide block
+
+Interviewed: SCP-2066-1-6
+
+Interviewer: Dr. V██████
+
+Foreword: All instances of SCP-2066-1 were given an accelerated course in braille so that communication could continue. Dr. V██████ posed questions using a braille typewriter.
+
+<Begin Log>
+
+Dr. V██████: 2066-1-6, has there been any change in your condition?
+
+SCP-2066-1-6: Figured they'd get around to it eventually. What, I don't get number one for being the team lead?
+
+Dr. V██████: 2066-1-6, the designations were assigned alphabetically.
+
+SCP-2066-1-6: I know. Just trying to add some levity to the situation.
+
+Dr. V██████: Please try to remain on topic.
+
+SCP-2066-1-6: [continues without reading the previous line] I mean, goddamnit, why am I trying to be so calm and professional all the time? Like this is no big deal? Who am I trying to impress? It's not like it would mean anything if you fired me now. In a few hours you could probably use literal fire and I'm not sure I'd even feel it.
+
+We both know exactly what's going on here. We're all anomalies now, and you're just milking us for as much information as you can before it's bullet-to-the-head time.
+
+Dr. V██████: We are doing everything we can to find a cure for your condition.
+
+SCP-2066-1-6: Everything you can. Yeah, I've worked here long enough to know what that means.
+
+[Subject stands up and walks to the side of the room, then proceeds to punch the wall, causing fractures of the second and third proximal phalanges. Subject does not appear to notice the injury.]
+
+SCP-2066-1-6: [Still facing the wall] If you want info, here's all I can tell you: I can't see, I can't hear, I can't taste or smell, I barely felt the wall just now. All I can sense is that thing standing in front of me, and that weird twang when people look in my direction. I think I can feel them from all over the outpost now.
+
+Dr. V██████: [Spoken] I don't think we'll get anything else from this one. This interview is concluded.
+
+<End Log>
+
+Incident log 2066-I-1
+
+– hide block
+
+Foreword: Between 13:47 and 15:19 2/18/20██, all instances of SCP-2066-1 were observed to move to the southwest corners of their cells. Analysis indicates that all were facing directly towards Nuuk, the largest settlement in Greenland.
+
+<Begin Log>
+
+[14:48] SCP-2066-1-6: I don't know what that is, but it's bright. Bright and crisp and warm and sharp and bright and moving and alive.
+
+[Subject remains silent for two hours]
+
+[16:51] SCP-2066-1-6: I can't keep from looking at that ugly thing now. It's right in front of me. It's right in front of me.
+
+<End Log>
+
+Beginning at 16:52, instances of SCP-2066-1 began displaying physical abnormalities.
+
+[16:52] Skin begins to darken and toughen. Subjects appear to have reduced flexibility.
+
+[17:26] Sensory organs begin to shrivel and recede into the head. Hair begins falling out.
+
+[18:40] Skin is now indistinguishable from SCP-2066. Head and neck begin receding into torso.
+
+Given the danger to personnel at Outpost GRL-12 if SCP-2066-1 instances begin displaying the properties of SCP-2066, and the added risk of containing multiple instances off-site, I recommend that all instances be terminated.
+
+- Dr. V██████
+
+Termination is authorized. Proceed immediately.
+
+- Outpost-Director W███████
+
+Footnotes
+
+1. Images of SCP-2066 do not retain its anomalous effects.
+
+2. Exact distance varies, but appears to be roughly 200 meters.
+
+3. SCP-2066-1 classification had not yet been created.

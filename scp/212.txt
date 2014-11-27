@@ -1,0 +1,19 @@
+SCP-212 at work on Agent ████████
+
+Item #: SCP-212
+
+Object Class: Safe
+
+Special Containment Procedures: Use of SCP-212 must be cleared by the current containment site’s chief medical officer. Any subjects undergoing operation by SCP-212 must submit to full physical and psychological testing both before and after exposure. Resistance to testing will result in termination of subject.
+
+All personnel are to keep at least 1.5 m (5 ft) from SCP-212 when not in operation. Armed personnel are authorized to use whatever force deemed necessary to prevent unauthorized exposure. Should any personnel accidentally become exposed to SCP-212, full quarantine, testing, and judicial review will be initiated as soon as the subject is released by SCP-212.
+
+Description: SCP-212 is a large medical device, with three large robotic arms. The arms have an extremely diverse array of attachments, but no storage area or power source has yet been found. Attachments slide into and out of the arms as needed, with over five hundred different attachments documented. SCP-212 is made of plastic, steel, and other common materials. In-depth analysis is pending, as any attempt by mechanical means causes violent action from SCP-212, and attempts by any biological means normally results with subject's “improvement”.
+
+When exposed to living tissue, the “arms” of SCP-212 will rapidly move to grab and restrain it. SCP-212 will then begin to “improve” said tissue. This process is extremely fast, but SCP-212 does not inject any anesthetic, or replace any blood lost. The process has been described as “excruciatingly painful”, and can result in the death of the subject at a rate of 47%. Wounds made by SCP-212 are closed with standard surgical sutures and a chemical “sealant” that is not yet fully understood.
+
+Improvements that have been observed include: lining of joints with graphite, replacement of biological organs with artificial ones, addition of metal plates to bones, addition of new or duplicate organs, and replacement of teeth with small serrated steel bands, among many others. SCP-212 has been shown to be able to totally “re-configure” an organism. The “improvements” appear to be random, and can sometimes be detrimental or fatal, as illustrated by one subject’s complete loss of bone marrow and its replacement by a gel that is still under study.
+
+Subjects wishing to undergo exposure from SCP-212 are to be advised that the process is extremely invasive, and that no predictions on “improvements” can be made.
+
+See Also: SCP-212 Upgrade Log

@@ -1,0 +1,13 @@
+Item #: SCP-512
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-512 warrants no containment procedures as such. It is in the care of Supervisor 3-17, Dr. Marshall, at Sector 19. All personnel wishing to conduct research must submit a proposal in writing to Dr. Marshall for approval. Please see addendum.
+
+Description: SCP-512 is a large black umbrella of modern construction with a nylon canopy and polished ebony crook handle. All other components, including shaft, ribs, stretchers, joints, springs, and tip, are stainless steel. Maximum radius of canopy when open is 0.75 m. Make and manufacture are unknown. Origin is placed sometime around 1940, most likely in the UK. Tip is sharply pointed.
+
+When open and pointed upward in standard fashion for an umbrella, object effectively nullifies gravitational pull in a vertical cylindrical column directly above itself, with a cross-sectional area of roughly 1.77m2. Predictably, this ensures that precipitation does not fall on the user. SCP-512 has no effect when closed or when pointed further than 25 degrees from vertical.
+
+Tests with heavier objects have been inconclusive, as it seems that falling objects within SCP-512’s area of effect are not only not affected by gravity, but also lose momentum more rapidly than is attributable to air resistance, at a rate proportionate to their total momentum. A 5.4 kg bowling ball, for instance, came to a halt 0.46 seconds after SCP-512 was opened below it, simply hovering in midair until user moved out from beneath it, at which point it resumed a predictable free fall from rest. Further tests are scheduled to test SCP-512's effect on objects with a larger cross-section than the area of effect. Notably, this includes a grand piano, as suggested by O5-3; personnel wishing to witness this test should contact 2/512-a, Dr. Capax, for details.
+
+Addendum: Despite SCP-512's efficacy against normal precipitation, it is inadvisable to use the object during severe weather, as air in the column of effect apparently ionizes more easily than the air around it, increasing the probability of a lightning strike considerably. This is evidently what caused the death of the previous owner, as noted in Document 512-e.

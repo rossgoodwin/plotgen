@@ -1,0 +1,17 @@
+SCP-626, shortly before it was retrieved by Foundation agents on ██/██/20██.
+
+Item #: SCP-626
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-626 is to be kept in a standard lockbox at Site-19's High Value Item Storage Facility. Standard positive-action defenses (explosive, chemical, biological, and memetic) are to be in place at all times, according to standard operating procedure. Research is currently suspended, pending review; see below.
+
+Description: SCP-626 is a metallic structure, approx. 72 cm in height. While SCP-626 appears to be made of some sturdy material, it has very low mass for its volume, possibly indicating that it is hollow. It consists of a base, which rises to a central stem supporting a sphere. The sphere's surface is broken by numerous protrusions, each of which ends in a sphere, in a similar arrangement to the base.
+
+When SCP-626 is in the presence of a human being, the subject's sight begins to deteriorate. Close examination reveals that the rods and cones within the eye begin to dissipate, rendering the eye unable to differentiate shapes and colors. After approximately seven hours, the subject is unable to detect any light through the eyes. The loss of vision occurs whether or not the subject is able to see SCP-626, but appears to be dependent on the subject's knowledge that SCP-626 is present. Any material that can block visible light will also block the effects of SCP-626.
+
+After at least fifteen hours of exposure to SCP-626, the subject's sight begins to return. Post-mortem examinations of subjects' eyes from this stage have shown no rods or cones are present any longer, yet the subject regains the ability to see color, shape, and degrees of light and darkness. Testing has shown that the restored vision is often sharper than the subject's previous visual acuity. Once vision is fully restored, which usually occurs in under thirty minutes, subject begins experiencing visual hallucinations, often of 'ghosts' or other humanoid beings that seemingly ignore our physical reality. At this stage, subjects will progress to the final stage even if removed from SCP-626's presence.
+
+Once hallucinations begin, the subject will begin a gradual mental deterioration, beginning with a loss of logical and speech capabilities. Over the course of several days, the subject's brain functions will gradually cease. During this time, the subject may attempt to follow their hallucinations through walls and other solid objects; care should be taken to ensure the subjects do not harm themselves. Once all major brain function is lost, the subject becomes catatonic, and dies within several hours. Upon the subject's death, their eyes shrivel and dry out, all liquid evaporating from them in a matter of seconds. No matter the distance between the subject and SCP-626 at time of death, the evaporated fluid condenses on the surface of SCP-626, and is then apparently absorbed into its structure.
+
+Addendum: Dr. ███████ has expressed concern over the details of some of the most recent subject's hallucinations. The subject was able to describe a 'ghost' standing behind Dr. ███████, which resembled the researcher's wife, who had died several months ago of congenital heart failure. The subject, with no prior knowledge of Dr. ███████ or his family, was able to answer several questions about Mrs. ███████'s medical condition at the time of her death. Further research suspended, pending O5-level review.

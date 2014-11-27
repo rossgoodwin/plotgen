@@ -1,0 +1,117 @@
+Item #: SCP-1304
+
+Object Class: Euclid
+
+Hello
+
+Special Containment Procedures: As there is no way of containing SCP-1304 itself, procedures must focus on finding, tracking, and observing all instances of SCP-1304-1. Agents embedded in the editorial departments of major publishers have been briefed on the specifics of SCP-1304 and will suppress or alter any manuscripts containing it, or which may lead to a sequel containing it. Keywords describing portions of SCP-1304 have been added to routine search protocols. In the event of publication of a work containing SCP-1304, efforts must shift immediately to finding the associated SCP-1304-1 instance.
+
+Six (6) instances of SCP-1304-1 are in custody at Site-17. The Foundation is currently tracking seventeen (17) instances of SCP-1304-1. No action may be taken against any instance of SCP-1304-1 without prior approval from Head Researcher Applebaum.
+
+Can you hear me
+
+Description: SCP-1304 is a method of ritual murder which allows for the translation of a fictional character into reality. The ritual, which has no direct basis in any known culture, has a lengthy list of requirements which must be performed in a particular order, under specific circumstances.1 If the ritual is performed within a fictional narrative which is then printed by a major publishing house2, no later than one week after the narrative's official release date, a child will be born whose life will mirror, as closely as possible, that of the character killed in the ritual. This child is an instance of SCP-1304-1. The SCP-1304-1 instances are seemingly unaware of the circumstances of their creation; those who have found or been told about their associated narrative have regarded it as a curious coincidence. For further information on how the details of the narrative character's life are translated into reality, see Addendum SCP-1304-MF below.
+
+I can see you but I can’t touch you
+
+Any and all attempts to alter the life of an SCP-1304-1 instance in a way explicitly contradicting the events of the narrative have failed completely. This was extensively proven in the Foundation's experiments on SCP-1304-1-27, who is the real-world equivalent of the character Lawrence Hopkirk from the novel In Our Lives by June Marshall.3 For example, in the narrative, Hopkirk's pet dog was struck and killed by a car on his seventh birthday. On the corresponding date, Foundation agents arranged a cordon on all streets within a 3-km radius of SCP-1304-1-27's home and temporarily rendered inoperable all vehicles within a 0.5-km radius. However, despite these precautions and the presence of more than one hundred agents, a drunk driver was able to slip through the Foundation cordon, evade pursuit, and strike SCP-1304-1-27's dog in the manner described. Even something as minor as SCP-1304-1-27's daily route to work (which was carefully described in the novel) was immutable, despite extensive efforts; combinations of mechanical failure, human error, and simple coincidence prevented any changes.
+
+The one deviation in the life of a SCP-1304-1 instance from their narrative equivalent is the absence of SCP-1304 itself. All known instances of SCP-1304-1 have survived past the point at which they would be killed in the SCP-1304 ritual. After this point, direct intervention in the life of an SCP-1304-1 instance is possible. Action may or may not be taken against an instance based on the recommendation of Head Researcher Applebaum and/or the O5 Council. In all cases, observation of instances is continued after the death of their narrative equivalents.
+
+Please let me back in, I want to come back in
+
+There are seventy-six (76) known published narratives containing SCP-1304, with an equal number of associated SCP-1304-1 instances. Of these, fifty-one (51) are deceased, six (6) are in custody at Site-17, seventeen (17) are presently being tracked by the Foundation, and the whereabouts of the remaining two (2) are unknown.
+
+I’m not supposed to be here
+
+The Foundation has attempted to deliberately create instances of SCP-1304-1, by creating and publishing narratives containing SCP-1304 through established publishers and Foundation fronts. No attempts to date have succeeded. No further experiments along this line are planned. It is currently theorized that the author must have created the ritual for the book independently, or have been inspired by reading another book containing the ritual whose author was also independently inspired. Please contact Head Researcher Applebaum for further information regarding these attempts or to review the manuscripts published.
+
++ Notes on SCP-1304-1 Instances
+
+- Notes on SCP-1304-1 Instances
+
+Notes on SCP-1304-1 Instances: Events and circumstances in the lives of instances of SCP-1304-1 will resemble those of their fictional counterparts as closely as possible, with allowances made for circumstances which are impossible under current real-world conditions. If the character was born in a real-world location, so will SCP-1304-1 be; if the location was fictional, SCP-1304-1 will be born in a location as similar as possible. For example, in the book Bloodlove by Savannah K. Faye, the character was born in the fictional city of Largesse, Illinois; SCP-1304-1-09 was born in the town of █████████, Illinois, which had a similar population, history, and contained businesses and institutions analogous to those described in the book. In cases where the narrative takes place in a fantasy or science-fiction world, or any world largely distinct from Earth, SCP-1304-1 will be born in a culture similar to that of the character's culture and whose geography is similar to that of the character's birthplace. Other circumstances, such as the economic or social conditions of the character's family, will also be replicated closely.
+
+They don’t want me here, they want to hurt me
+
+This pattern will continue throughout the life of SCP-1304-1: if the character's parents died when s/he was four years old, the parents of SCP-1304-1 will die at the same time. Fantasy or science-fiction events, objects, and individuals will appear in an analogous real-world form: for example, the victim in Dragonveil by Donald Armande, Jr., had a pet dragon with whom she could communicate telepathically; the associated SCP-1304-1 instance had a pet horse with which she shared a strong emotional bond.
+
++ Experiment 1304-96
+
+- Experiment 1304-96
+
+Experiment 1304-96: In ██/201█, Agent Sibbitt, embedded with the publisher ███████ Press, discovered a narrative containing SCP-1304. As per protocol, she reported it to Head Researcher Applebaum. It was decided that, as the character killed would have minimal impact if "reborn" in the real world, and as circumstances of his birth would make him relatively easy to find,4 the Foundation would use the publication of this work to determine whether the number of readers has any effect on the outcome of the ritual.
+
+The book, ███████ ██████ by ██████ █. █████, was published with a small print run. Prior to the official release date, the Foundation seized and destroyed via incineration all copies of the book.5 Three (3) days after the official release date, the SCP-1304-1 instance, later designated SCP-1304-1-63, was born with the described circumstances. It was concluded that the book's publication, not the number of readers, is the decisive factor in the creation of an SCP-1304-1 instance. Current standard procedure is to alter the narrative prior to its publication or suppress it entirely.
+
++ Partial Character List
+
+- Partial Character List
+
+Partial Character List: Below are listed several known instances of SCP-1304-1, along with the characters they are "based on," and a brief summary of relevant portions of their lives. Document 1304-P contains a complete list of known narratives; level 3 clearance is required.
+
+Instance: SCP-1304-1-01, Ephraim Montrose
+
+Character: Doctor Ephraim Montrose, from The Comedic Tragedie of Doctor Montrose (no author listed) in 16██. This is the earliest known narrative containing SCP-1304. It was a narrative ballad published as a broadside, and was apparently intended to be a parody of Christopher Marlowe's The Tragicall History of the Life and Death of Doctor Faustus. The titular character summons a troupe of demons to assist him in his alchemical research; these demons quickly become the focus of a cult and Montrose is unwillingly sacrificed as a "reward" for his bringing them to the mortal world.
+
+Notes: The "real" Dr. Montrose became a medical doctor in London of some repute who was suspected of witchcraft. He was forced to flee his home and committed suicide in 16██.
+
+Researcher ██████, embedded in the Vatican, discovered a copy of the original broadside in the archives, along with a note detailing the curious "coincidence" of the real Dr. Montrose. ██████ suspected a potential link; her followup investigation revealed similar historical cases (see Instances SCP-1304-1-02, 03, and 04) and led to its classification as an SCP object. Further investigation pinpointed the sacrificial ritual as the source of the anomalous effects.
+
+Instance: SCP-1304-1-12, Warren James
+
+Character: Warren James, from Grave Offenses by N.J. Dickinson in 1971. James is a serial killer in the town of Dearborn, Michigan, USA. Over the course of the novel, he murders three young women in the space of two months. To prevent further killings and "condemn his soul to Hell," his family members murder him via SCP-1304. However, the ritual results in James's spirit becoming a vengeful ghost and attacking his family for revenge.
+
+Notes: When the Foundation became aware of SCP-1304-1-12, efforts were immediately made to prevent his murders. As noted above, all efforts to alter events explicitly described in the narrative were futile; the three women were murdered precisely as described in the novel. However, the Foundation was able to prevent the deaths of seven further individuals whom SCP-1304-1-12 attempted to kill in a similar manner. At the point in SCP-1304-1-12's life when his family committed the ritual in the narrative, they instead attempted to kill him via other means. The Foundation intervened and captured SCP-1304-1-12. He is currently imprisoned in Site-17.
+
+Instance: SCP-1304-1-47, Andrzej Szczecinski
+
+Character: Andrzej Styriski, from Quantum Terror by Edward Łukasiński in 1984. Styriski is a physicist born on the planet Styris III in the year 2123. He develops a "quantum propulsion drive" which moves a ship through the "quantum underverse" to transport it across interstellar distances in the space of hours. Over the course of the novel, he is pursued and ultimately killed by a "neo-Satanic cult" for "defiling" their "promised land."
+
+Notes: Szczecinski was born in Wrocław, Poland.6 He earned a degree in aerospace engineering and received several patents for processes that are expected to be utilized in the next generation of high-speed jet engines. After the point of his character's death, he accepted a managerial position at BAE Systems and has not produced any original research since.
+
+Instance: SCP-1304-1-68, X█████ D███████
+
+Character: X█████ D███████, from ██ ███████ ██ ████ by ███████ █████ in 20██. D███████ is described as "the 21st-century Antichrist." From an early age, he shows signs of psychopathy, having a total lack of empathy and a talent for emotional manipulation. Over the course of the book he gains considerable political power and cultural influence. As a teenager, he becomes a charismatic preacher and hones his oratorial skills; on reaching adulthood he is elected to the ███████████ Senate. He eventually leaves government, having acquired a considerable following; this audience rapidly develops into a full-blown cult which worships him as a messianic figure. Political and cultural tensions approach a breaking point; on the eve of a major speech to his followers D███████ is killed via SCP-1304 by a team of ██████████ Special Forces operatives. The novel ends on a cliffhanger, hinting that D███████'s death may lead either to the end of hostilities or a major religious uprising.
+
+Notes: D███████ was found three (3) months after his birth. He is currently under close surveillance by Foundation operatives. Research into preventing the events of the narrative from occurring is of the highest priority.
+
+Please let me back in
+
++ Notes from Head Researcher Applebaum
+
+- Notes from Head Researcher Applebaum
+
+Addendum from Head Researcher Applebaum:
+
+I've been working with the SCP-1304 data for over a decade, and I'm convinced we're still missing something. For starters, it's statistically unlikely for even two books with the same ritual to appear when the authors have had no contact nor read each others' books; it's statistically impossible for seventy-six such books to be published, even across the space of 500 years. They can't all be "discovering" the ritual independently, and yet only a handful of authors admit to having been inspired by another work. How do they know it? How is it being told to them?
+
+I'm not even sure that the authors themselves are important. I've interviewed every living author, and there's no pattern. Some say it came to them in a dream, some say they were inspired by a film or another story (not necessarily a story containing SCP-1304, either), but most just shrug and say it came to them like all their other ideas. We've checked early drafts of the books: sometimes the details were there from the very beginning, sometimes they were added at the last minute. One author wrote a sequel which revealed that the character hadn't been killed after all, yet the instance kept on going. We've introduced authors to their "creations" a half-dozen times, and their meetings have been entirely unremarkable.
+
+The characters we've seen so far have been a cross-section of humanity: male, female, scholars, idiots, heroes, villains. There's no common feature among them. They know nothing about their "past lives," and don't seem to care when told. No, strike that—some care, some don't, some think we're lying, some think they're going mad. They show various reactions, just as if you'd told a real person that their life was something out of a story. But again, there's nothing in common.
+
+The one trait they all share: after their fictional counterparts have died, they all seem to become incurious. They lose some spark, some necessary component. Their lives become greyer, their minds become duller, they lose the desire to grow. I wonder: are they reflections of their fictional counterparts, and lose their "shine" when they have nothing to reflect? Or are they simply empty, because they've completed their purpose? Have they finished what they came here to do, and as such, become puppets without their puppeteers?
+
+Please
+
++ Experiment 1304-M-01
+
+- Experiment 1304-M-01
+
+Experiment 1304-M-01: On █/██/201█, the Foundation attempted to recreate the SCP-1304 ritual in the real world. A routine review of D-class records had revealed that D-10188's maternal uncle was also a member of the D-class program, designated D-65990. As this is one of the requirements for a successful SCP-1304 ritual, and as the other requirements could be obtained with minimal expense, Head Researcher Applebaum was given permission by O5 command to attempt the ritual. All elements were provided and performed according to the most complete known form of the ritual, and D-10188 expired at the expected time. No anomalous effects have been noted to date.
+
+Please
+
+Footnotes
+
+1. The ritual requires, among other things, a knife made of carved obsidian, the mutilation and flaying of specific body parts in a specific order, and the incantation of a particular set of syllables. The complete list can be found in Document SCP-1304-RX; level 4 clearance is required.
+
+2. All narratives to date have been published by established publishing companies, with initial print runs of at least █,███ copies. It is unknown which attributes, if any, of the publishing company affect the outcome of the ritual. To date, no self-published narratives, narratives published online, serialized narratives, or other such alternative forms of publication have been found containing SCP-1304.
+
+3. SCP-1304-1-27 was chosen because his life, as described in the book, was largely unremarkable and followed a strict routine, making him an ideal experimental subject.
+
+4. The character was born in a real-world city, and the exact time of his birth was given in the narrative.
+
+5. Official cover story rho-12, "Severe storm damage to warehouse," was used.
+
+6. As the original author was Polish, the novel was originally published in Poland, and there is no real-world equivalent to the character's birthplace, it is assumed Szczecinski was born here due to its cultural similarities. Additionally, the character's unusual surname was replaced with a more "normal" name.

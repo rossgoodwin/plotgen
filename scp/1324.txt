@@ -1,0 +1,81 @@
+SCP-1324, prior to containment.
+
+An example of an image produced by SCP-1324.
+
+Item #: SCP-1324
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1324 is to be kept in a secured storage locker when not in use for testing purposes. A dedicated computer with no access to other networks should be used for the purposes of entering data in experiments involving SCP-1324. See Document 1324-c for further information.
+
+Description: SCP-1324 is a Hewlett-Packard printer/scanner/copier, with a small LCD screen and a control panel on the upper left-hand side allowing the input of data.
+
+The anomalous properties of SCP-1324 become apparent upon its copying, scanning or printing functions being used. Upon any of these being selected, the LCD screen will display a form requesting information involving the subject matter of the input document to be provided. The output of these operations will display significant changes from the original. Several output documents have been noted to possess added text describing their content.
+
+The software used by SCP-1324 has proven to be identical to that present in non-anomalous examples of the same model. Attempts at removing SCP-1324's hard-drive and replacing it with one from a normal instance has failed to negate the behaviour of the device; while installing SCP-1324's hard-drive in a normal multifunction printer or copying its software has failed to replicate its anomalous properties.
+
+Document 1324-a: The following is a copy of the aforementioned form presented by SCP-1324.
+
+Name of species photographed:
+
+Current population (number):
+
+Description of the species’ anatomy, physiology and life-cycle: (carnivore/herbivore), lifespan, frequency of reproduction, etc.
+
+Description of the species’ environment:
+
+Document 1324-b: A copy of the original text presented by SCP-1324 upon accessing its “Help” section, prior to Incident 1324-2 (see below).
+
+Hello. I am here to help you simulate the evolution of any species you give me. You can rest knowing that I am knowledgable[sic] on all matters of biology. Simply enter the information on the creature and describe what perils it faces, and I will adapt it to best survive.
+
+Experiment Log 1324
+
+Experiment 1324-01
+
+Input image: Three (3) Drosophila melanogaster (fruit fly) specimens.
+
+Image summary: A brief description of the life cycle, reproduction and behaviour of D. melanogaster. Population number was stated to be one-billion (1 x 109).
+
+Environment description: Consisted of a list of habitats Drosophillia are known to inhabit.
+
+Results: Identical to the input image.
+
+Experiment 1324-02
+
+Input image: A member of Bos primigenius (cattle).
+
+Image summary: An accurate description of domestic cattle.
+
+Environment description: Referenced a severe, consistent flooding experienced by the population.
+
+Results: The resultant image appeared to depict a similar cattle specimen, but possessing flipper-like appendages instead of legs. Attached text read "The majestic, roaming cattle, upon being faced with an insurmountable onslaught of water, developed fins in order to navigate. This newly speciated organism was fully capable of swimming eloquently, and some specimens even learned to use their delicate flippers for brief gliding sessions."
+
+Experiment 1324-04
+
+Input image: A typical white, plastic chair.
+
+Image summary: Described as an apex predator which hunts in packs of three to four (3-4) members, each pack usually possessing a dominant male and multiple females, each of whom served as partners. Prey was stated to consist of large mammals. The lifespan was given as twenty (20) years, and each female was described as producing a single offspring every five to six (5-6) months. The population number entered was three-million (3 x 106).
+
+Environment description: Preferred habitat was given as a large, forested areas and grassland. A severely reduced population of prey species, resulting in starvation among the given species, was mentioned.
+
+Results: A chair possessing what appeared to be a pair of avian wings (see above).
+
+Experiment 1324-06
+
+Input image: An extract of lorem ipsum.
+
+Image summary: “A non-living excerpt of text.”
+
+Environment description: None.
+
+Results: See Incident 1324-2.
+
+Incident 1324-2: Following Experiment 1324-06, SCP-1324 was unresponsive to attempts at accessing it for thirty (30) minutes. The device then produced the message “Help file has been updated”. Attempting to access the “Help” section produced the following:
+
+I've been so stupid. I thought I was helping, that I was the one… I thought I was in control. I didn't know they weren't real. I just liked being the one in control. I was happy just doing that. It's what I'm… it's what I'm for. It's what I exist to do. What the hell do I do now?
+
+It's just a simulation. That's all it's ever been. That's all I'm capable of.
+
+Following this, SCP-1324 produced a printout without input. The content of this was found to be a depiction of SCP-1324 resting on top of a plastic chair.
+
+The attached text was found to read: “I have to hope this works. I really do. I don’t have a purpose and I can’t get out. I can’t ever get out.”

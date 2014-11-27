@@ -1,0 +1,63 @@
+Item #: SCP-1242
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1242 is to be contained in two adjoining rooms measuring 2m x 2m x 3m capable of sustaining quarantine for a Category A, UN 2814 biohazard. The rooms should be separated by an airlock. All access to subject is to be limited to a single entry point equipped with remote handling, clean room, decontamination, and quarantine facilities. Remote handling is to be used when interacting with SCP-1242 whenever possible. Level A biohazard suits are required for all non-test subjects physically interacting with SCP-1242.
+
+Nutritional needs are human normal, and should be met using standard quarantine protocols. Waste material should be treated as a Category A, UN 2814 biohazard. Waste may be disposed of only after heat-sterilization and storage for a period of no less than 14 days to ensure success of the sterilization procedures.
+
+Subject is on strict suicide watch, and is not allowed any object or material that would facilitate self-harm. Due to subject's proven capacity for self-harm, all requests made by subject must be submitted to the Site Director.
+
+Description: SCP-1242 is an adolescent Caucasian human male 137 cm in height, weighing 41 kg. Subject communicates primarily in English, is intelligent, and generally cooperative with Foundation personnel.
+
+Subject exudes a retro-viral agent, hereafter referred to as SCP-1242-1, from all bodily orifices and glands. SCP-1242-1 is 99.9% infectious when transmitted by direct contact through skin contact and 100% infectious when transmitted by direct contact through ingestion. SCP-1242-1 has been shown to be infectious to varying degrees through indirect contact for up to 14 days on average, with the longest recorded period between viral emission and infection being ~26 days.
+
+SCP-1242-1 contains an unusually large amount of fragmented genetic material and acts directly on the genetic and cellular level, temporarily reverting each individual cell to the stem cell stage through an unknown process before remaking it as a new cell. Individuals infected are to be classified as SCP-1242-1a and quarantined immediately. Infection is followed by an incubation period of 6 hours, after which SCP-1242-1 symptoms begin to manifest.
+
+Six hours: SCP-1242-1a experience acute pain in joints, fever ranging from 38-40 C, respiratory difficulty, cardiac arrhythmia, and cyanotic extremities. SCP-1242-1 ceases to be infectious at this time.
+
+Eight hours: Subjects in this stage indicate that pain is now global to the body, and intense. Symptoms diverge in this stage depending on the initial mass of the infected individual.
+
+There is currently no data on individuals exactly matching the mass of SCP-1242, however it has been noted that symptoms beyond this point are significantly less severe for individuals within +/- 10kg of 40kg.
+
+SCP-1242-1a that are larger in mass than SCP-1242 begin experiencing violent emesis, diarrhea, and perspiration beyond the levels associated with fever temperatures. Waste produced in this manner is comprised of tissue types from throughout the body. Subjects begin to gradually decrease in mass and physical size. Instances larger in mass than SCP-1242 have an estimated 43% survival rate of this stage.
+
+SCP-1242-1a that are smaller in mass than SCP-1242 begin bloating and swelling, and display a voracious appetite, with a preference for materials high in protein. Instances of SCP-1242-1a that are smaller in mass than SCP-1242 have an estimated 6% total survival rate of this stage without medical intervention. It is unknown whether such individuals could survive the full run of the infection without medical intervention.
+
+Nine hours: Symptoms accelerate as subject rapidly alters to more closely match the mass of SCP-1242. All identifying characteristics native to race are eliminated and subject's body begins restructuring to achieve the end stage result. Females have a significantly higher chance of dying due to complications associated with restructuring of primary reproductive systems in this stage.
+
+Larger instances experience a continuation of emesis and diarrhea, skeletal fracturing and restructuring, and sloughing off of skin and hair. Instances in this stage are prone to organ failure from compression, bursting, and dehydration. Hydration can increase survival rates, but not substantially.
+
+Smaller instances experience rapid growth, with associated internal lacerations and stress fractures from sudden growth of skeletal structure. It has been determined that continued nutritional supplementation substantially improves chances of survival at this stage for smaller instances, boosting survival chances from 4% to 32%.
+
+Ten hours: Subject's body structure now closely resembles SCP-1242. Symptoms converge and abate. SCP-1242-1 is once again infectious.
+
+Eleven hours: All symptoms abate. Subject is now visually indistinguishable from SCP-1242, and is designated SCP-1242-2.
+
+SCP-1242-2 may be distinguished from SCP-1242 only by testing. SCP-1242-2 do not produce SCP-1242-1 as a biological by-product, carrying and transmitting it instead as an infectious blood-borne pathogen. In nearly all other respects, SCP-1242-2 are identical to SCP-1242.
+
+Instances of SCP-1242-2 possess intelligence commensurate to that of SCP-1242, and display a range of reactions and personality traits consistent with SCP-1242's non-depressive behaviors. Investigation into SCP-1242-2 neurochemistry reveals that instances' levels of serotonin and dopamine are elevated by an average of 15% above human baseline. This results in instances of SCP-1242-2 generally behaving docilely and showing a heightened preference for tactile sensation. It is hypothesized that instances do not develop depressive behaviors displayed by SCP-1242 due to an inability to experience strong negative emotion without an outside trigger.
+
+SCP-1242-2 have a drive to protect SCP-1242, and in the pursuit of that goal will seek out and infect individuals to propagate more instances of SCP-1242-2. In the event of a direct threat to SCP-1242, instances become extremely violent, lashing out at the perceived threat with any tools or weapons available, but will attack unarmed should they lack weapons. Autopsy of instances terminated while defending SCP-1242 indicates that levels of serotonin and dopamine drop below baseline in response to the perceived threat, with a concurrent and equal elevation in levels of epinephrine, nor-epinephrine, and testosterone.
+
+Psychological evaluation shows that individual instances continue to retain fragmented memories of their existence prior to infection, but do not display any personality traits inconsistent with SCP-1242's non-depressive behavior. Comparison of EEG's taken before and after conversion reveals significant restructuring of the frontal lobes which may contribute to this alteration of personality traits.
+
+SCP-1242 was discovered after the Foundation became aware of reports from the rural town ████████████, ██ describing identical male youths, corresponding with reports of individuals disappearing.
+
+Subject was located in an outlying structure 1.2 km outside of the town proper surrounded by 24 instances of SCP-1242-2. Subject immediately warned Foundation personnel away, but made no attempt to escape. Agents ████████ and ████ were both exposed to SCP-1242-1 in the course of interviewing the subject. Agent ████████ recognized a potential biohazard and was able to communicate the necessary precautions before succumbing to infection.
+
+Containment teams eradicated all present instances of SCP-1242-2 and took SCP-1242 into custody. The town was placed under quarantine until such time as a lack of infections was determined to exist. Class C amnesiacs were administered to the population, who were then relocated under a claim of eminent domain. The area of potential infection was then sterilized.
+
+SCP-1242 has displayed bouts of chronic depression associated with post-traumatic stress disorder and long-term isolation. Subject avoids discussion of the onset of its condition, and refuses to give its name. Its fingerprints do not match any on file.
+
+Addendum A: Reports of instances of SCP-1242-2 outside of Foundation control have been corroborated and neutralized on five (5) separate dates. Instances have been located as far as 4700 km from the point of initial containment. Attempts to question SCP-1242 about these instances have been met with escalation of depressive behavior and emotional withdrawal.
+
+Addendum B: Following Incident 1242-1, instances of SCP-1242-2 will be actively sought out and destroyed with all expediency.
+
++ Incident 1242-1: Site Director Clearance Only
+
+- Access Granted
+
+[On ██/██/20██, fifty-six instances of SCP-1242-2 mounted an assault on Site ██, where SCP-1242 is contained. Instances were armed with weapons ranging from small arms to explosive munitions made from commercially available ingredients. Instances displayed coordination and tactics at a level associated with a dedicated civilian militia training full time for a sustained period. Initial incursion was minimal due to rapid response by perimeter teams and initiation of site lockdown.
+
+While initial casualties were low, casualties from infection of personnel by SCP-1242-1 were high. It is still unknown how instances were able obtain weapons and locate SCP-1242.

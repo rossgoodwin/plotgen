@@ -1,0 +1,61 @@
+SCP-1750, altitude 13.4 m, on the outskirts of Wilson Park, Dresden, TN.
+
+Item #: SCP-1750
+
+Object Class: Safe
+
+Secure Containment Procedures: SCP-1750 is to be contained in a 60 cm3 cubic containment locker at Site 38. No individuals other than selected D-class personnel should come into physical contact with SCP-1750. Selected individuals are to be provided with a bank account routing number with contents between $500-600. A cellular phone programmed with SCP-1750-A's number is to be kept in the possession of testing individuals at all times. Instances of SCP-1750 should not be permitted to grow beyond a volume of five (5) cubic meters.
+
+Discovery of any uncontained instance of SCP-1750 is to be countered through the completion of Procedure 419-Abuja using Foundation funds, followed by the use of Class-B amnestics on any affected or involved civilians.
+
+Description: SCP-1750 is a spiked purple ball, closely resembling products of the █████████ line of toys. Eight instances, designated SCP-1750-1 through -8, have been recovered to date. SCP-1750 is of indeterminate make; while balls of similar appearance are composed principally of rubber, it is not possible to determine the object's tactile properties due to its anomalous effects. During testing, SCP-1750 registers a Mohs hardness rating of 10, at least equivalent to diamond. Likewise, the object has proven impenetrable to traditional methods of subsurface scanning, including X-rays and magnetic resonance imaging techniques. In an undisturbed state, SCP-1750 has a diameter of 5.2 cm.
+
+When not being touched, SCP-1750 remains in a fixed position in whatever location it last inhabited while being touched. SCP-1750 is immovable except during human contact.1 When a human is in contact with SCP-1750, the object will become mobile; however, it will also begin perpetually growing in size.2 Additionally, SCP-1750 will adhere to any exposed human skin; no means of separating skin from SCP-1750 has yet been determined. During growth, SCP-1750 is capable of breaking through any matter used to contain it, including reinforced concrete and steel of any thickness. The ball will not distort from its spherical shape in any way. Due to this growth, SCP-1750 will have a volume of 8.46x105 cubic centimeters after fifteen minutes, approximately twice the volume of a beach ball. At thirty minutes, the ball will have a volume of twenty-seven (27) cubic meters.
+
+Between five and fifteen minutes of SCP-1750 coming into contact with a human, the nearest cellular telephone to SCP-1750 will ring; the individual on the other end of the call will request to be put on the line with the individual holding SCP-1750. The voice is designated SCP-1750-A; it is described as female with a particularly nasal New England accent.The voice will refuse to speak to anyone not in contact with SCP-1750. Once in contact with the affected individual, the voice will describe itself as a representative of an unspecified organization or group and offer to remotely separate SCP-1750 from the individual in exchange for money, goods, or services. Currencies accepted to date by SCP-1750-A include all major world currencies, publicly traded goods or materials, or technetium, in an amount varying between $475 and $510; the value is believed to be constant in some unknown currency and varies due to a conversion rate. Once affected individuals agree to the terms of payment, SCP-1750 separates and decreases in size. Unmarked trucks or vehicles will appear at the location of the agreed-upon good and take delivery of it within ten minutes; no attempts to prevent the taking of possession of the given materials have been successful to date, though the Foundation has not had the opportunity to experiment with this phenomenon.
+
+SCP-1750-A has demonstrated an unknown ability to know when an affected individual is attempting to claim to be in possession of a material falsely. Should an affected individual fail to have any acceptable form of payment, they are offered to complete an unspecified form of labor for the benefit of SCP-1750-A. Once the individual agrees, SCP-1750 separates and decreases in size. The form of labor in all recorded instances has taken the form of asking the individual to travel to a nearby location, where they find a cardboard box full of nuts and bolts composed entirely of technetium (according to SCP-1750); the individuals will then receive a phone call instructing them to thread all of the nuts onto the bolts. Once all nuts are threaded, the individuals are instructed to leave the area. It should be noted that any individual testing SCP-1750 in Foundation custody has not been provided with any option other than paying in United States dollars (USD), as SCP-1750-A demonstrates a knowledge of the Foundation's ability to pay the requested fee.
+
+Once payment is complete, individuals separate from SCP-1750 and the iteration rapidly reduces in size to normal. SCP-1750-A has proved cooperative in containment and removal of SCP-1750 instances, so long as payment is forthcoming. SCP-1750-A has shown an extensive and unknown knowledge of Foundation locations, protocols, and other sensitive information.
+
+Addendum 1750-1: Transcripts of recorded calls
+
+Log 1750-12:
+
+First recorded transcript of SCP-1750-A contact. Affected individual identified as David Carter, 17 years old, convenience store clerk living in Clarksburg, TN.
+
+Carter: H-hello? Who is this?
+
+SCP-1750-A: Hello, Mr. Carter, this is [static] calling from the [static] Corporation, I'm told that you've come into contact with one of our products, is that correct?
+
+Carter: T-the ball?
+
+SCP-1750-A: Yes, product type TH-223, iteration 41. We apologize sincerely for any inconvenience this malfunction may have caused and we hope it does not impact your future dealings with [static] Corporation. Now, would you like to discuss removal packages?
+
+Carter: You mean getting this thing off me? Yes, of course!
+
+SCP-1750-A: Okay, sir, I have our removal packages pulled up here. We can do a temporary growth delay by remote-I'm sure you've noticed the TH-223 model's tendency towards slight enlargement in contact with human flesh by now- but our most popular package is the total separation. Would you be interested in a total separation from the unit?
+
+Carter: C'mon, you gotta get this thing off me!
+
+SCP-1750-A: Okay, sir, I understand, please have some patience while I select this option for you. Now, we can do an in-house removal at no charge, but I'm seeing on my screen that your location [extended static] supersonic flight, so we're gonna have to do the remote option. Cost in American dollars at your location comes to $494.25. Will you be paying cash, check, credit, or other?
+
+Lengthy exchange redacted due to irrelevance and use of expletives. Mr. Carter refused payment and terminated the call. Fifteen minutes later, Mr. Carter used directory assistance to call SCP-1750-A and agreed to payment through a combination of funds accessed through a checking account and manual labor threading technetium bolts onto nuts. Why this satisfied SCP-1750-A was unknown.
+
+Log 1750-87:
+
+An example of a log created during testing of SCP-1750 in Foundation custody. Test subject is D-15544 and has access to a Foundation-issue cellular phone and a bank account routing number. D-15544 has been given instructions as to how to complete testing.
+
+SCP-1750-A: Hello, sir, this is [static] with [static] Corporation. I see from this screen that you're calling from Foundation Containment Site 38. Please give my regards to Director ███████ on his birthday. Would you like to access the usual account to pay for the total removal package?
+
+D-15544: Yes, ma'am.
+
+SCP-1750-A: Total will be $498.22. Please let me know when to execute the removal.
+
+end log
+
+Footnotes
+
+1. This immovability is, of course, fixed to the Earth's location and velocity at any given time.
+
+2. SCP-1750 growth is represented by the equation y=v+x5.04, where v=starting volume, x=number of minutes since contact, y=volume after x minutes. Volume measured in cm3 at all points. The significance of the exponent in this equation, if any, is unknown.

@@ -1,0 +1,87 @@
+SCP-1947 photographed shortly after discovery
+
+Item #: SCP-1947
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1947 is to be contained in a room shielded with a minimum of two (2) cm of lead. SCP-1947 is currently held in room 214-B at Site-16. SCP-1947 is not to be removed from room 214-B without the consent of an O5-level director.
+
+SCP-1947 is to remain within a one (1) m3 copper mesh enclosure at all times. Radio and microwave receivers are to be placed within the enclosure and checked for consistency on a monthly basis. Any change in SCP-1947's emissions should be recorded and reported to Dr. Alberts. Any further experimentation on SCP-1947 is strictly forbidden.
+
+Description: SCP-1947 is a sphere with a diameter of approximately 46 cm. Two lobes protrude from the sphere on opposite sides. The exposed surface of SCP-1947 is mainly composed of an iron-nickel alloy with trace amounts of indium.
+
+SCP-1947 was found near █████, Zambia on approximately ██-██-████. It was initially discovered in a small crater by █████ ██████████, a local farmer. SCP-1947 was brought to the attention of the Foundation by Agent Mhone, a low-level operative stationed in Zambia.
+
+Standard testing procedures for potentially anomalous objects revealed that SCP-1947 was periodically emitting microwaves with a frequency of either 1415 or 1425 MHz. The emissions were found to alternate between the two frequencies in a manner which encoded a series of images. For further details see Technical Report 1947-A.
+
+As of ██-██-████ SCP-1947 has halted the emission of microwaves and is now emitting high-power radio waves with varying frequencies of approximately 6 GHz. Current emissions are being directed to an area in space [DATA REDACTED], roughly towards the galactic centre. All transmissions by SCP-1947 should be blocked to prevent unauthorized reception of the signals. The current status of SCP-1947 is addressed in Document 1947-B (available to personnel with appropriate clearance).
+
++ Technical Report 1947-A
+
+- Access Granted
+
+Technical Report 1947-A
+
+SCP-1947 was originally classified as safe and given a low research priority. Junior researcher Schertz was assigned to SCP-1947 for a period of 3 years; his final report is appended. It was his findings which prompted the upgrade of SCP-1947 from Safe to Euclid as well as the updated containment procedures. Personnel with level-4 clearance or higher are able to access the supplementary data provided in Document 1947-B.
+
+-Dr. Alberts
+
+SCP-1947 Technical Report
+
+Upon discovering that SCP-1947 was emitting microwaves I was tasked with recording and analysing its output. The emissions of SCP-1947 encoded a series of images; these are presented below. The relevant technical details are included.
+
+SCP-1947 was found to emit microwaves with a frequency of either 1415 MHz or 1425 MHz. Analysis revealed that microwaves of a given frequency were emitted by SCP-1947 for a minimum of 1.73 seconds before switching to the alternate frequency. The longest continuous emission of a given frequency was 176.43 seconds. Emission occurred in blocks of 17,643.73 seconds, and after each block SCP-1947 would stop transmitting for 79.58 seconds before continuing with the next block. After 5 blocks were transmitted a double length pause of 159.16 seconds was observed before the sequence would repeat again.
+
+Eventually the significance of the minimum emission time of 1.73 seconds became apparent. The frequencies were emitted for variable times, but they were all multiples of 1.73 seconds. It seemed clear that an emission of a given frequency for 1.73 seconds was the discrete unit of SCP-1947's code. At this point I was sure that the code was binary in nature – one frequency was analogous to 1, the other to 0.
+
+The breakthrough came after I realised that each block of emissions equated to 10,201 times 1.73. The square root of 10,201 is 101, a prime number. I arranged each 1 and 0 on a 101 by 101 grid and a pattern became apparent. In the set of images shown below each image is a 101 by 101 square: each black pixel represents 1.73 seconds of emission at 1415 MHz and each white pixel represents 1.73 seconds of emission at 1425 MHz. These images represent the totality of data transmitted by SCP-1947's binary code.
+
+Image 1:
+
+This seems to be a reference image; each bar has a length corresponding to a prime number between 2 and 97.
+
+Image 2:
+
+The top of the image appears to be a stylised graphic of a star system with 6 planets. If that is correct the brackets around the 4th planet from the star could represent a ringed planet or a planet of particular importance.
+
+The lower half of the image appears to be some sort of map relating the position of the star system to astronomical landmarks.
+
+Image 3:
+
+This image appears to be a stylised representation of a bipedal creature. The circular object to the right of the image has a strong resemblance to SCP-1947. If the image is to scale the bipedal creature would be approximately 3 metres tall.
+
+Image 4:
+
+Unknown. Speculations include a stellar field map, genetic information of the creature shown in image 3, or yet another code.
+
+Image 5:
+
+This image was discovered to be a representation of energy levels in a hydrogen atom. An electron transitioning from the second lowest to the lowest energy level (n=2 to n=1) in a hydrogen atom releases a photon with a wavelength of 122 nm – this is shown in the top left of the image. The bottom of the image was determined to display photons with a wavelength of 244 nm directed against SCP-1947.
+
+After the meaning of the 5th image was discovered we tried exposing SCP-1947 to a UV laser with a wavelength of 244 nm. We had hoped that this would reveal more information about the nature of SCP-1947. However, SCP-1947 stopped transmitting microwaves after we exposed it to the UV laser. We then found that it had switched to emitting radio waves at a frequency of around 6 GHz.
+
+The radio waves being emitted now by SCP-1947 are frequency modulated in a complex way - the current signal is beyond our capabilities to decipher. Additionally, the signal is highly directional and highly powerful. SCP-1947 is sending a signal into space and [DATA REDACTED BY REQUEST OF O5-COMMAND].
+
+-Junior Researcher Schertz
+
+The following information is classified. Access is available to all level-4 personnel and above on a need-to-know basis.
+
++ Document 1947-B
+
+- Access Granted
+
+SCP-1947: Status as of 27-07-2010
+
+This document assumes at least cursory familiarity with the technical report prepared by Junior Researcher Schertz.
+
+On 23-02-2008 I authorized the use of a UV laser on SCP-1947. We initially thought that SCP-1947 had been deactivated by exposure to the laser. However, three weeks later we discovered the new radio emissions. They encode a highly complex signal which we studied for almost a year without making any progress on the decoding. All we managed to discover was that SCP-1947 continuously broadcast a signal with repeating and non-repeating elements. Eventually we realised that the radio waves being transmitted by SCP-1947 were directed towards the constellation Scorpius. This directionality was maintained regardless of the orientation of SCP-1947.
+
+It is now apparent that SCP-1947 was broadcasting information towards Scorpius for a period of approximately one year. The signals sent from SCP-1947 during that time period will undoubtedly reach their intended destination at some point in the future. As of 18-01-2009, SCP-1947 is contained within an electromagnetically shielded room, this should prevent any additional transmission of information.
+
+Curiously, the central location in the "star map" provided in the second image from SCP-1947 (See technical report) does not appear to correspond to any star in the vicinity of Scorpius. The lines shown are not correlated with the known positions of stars, pulsars, nebulae or other potential astronomical landmarks. Additionally, no star near Scorpius is known to possess six planets in the configuration shown by the first image from SCP-1947.
+
+Since SCP-1947 was found there have been four additional known discoveries of very similar objects; one in the US, two in Russia and one in Thailand. These additional SCP-1947 like objects (designated SCP-1947-L) were recently determined to transmit similar sets of images by the same method as SCP-1947, although each object appears to present a different version of images two and four. The four different iterations of image two decoded so far are roughly similar except for the presentation of a different configuration of the star system at the top of the image as well as a superficially similar "star map" with the lines in alternate positions. None of these additional "star maps" appear to correspond to locations near Scorpius. Also, each object analysed encodes a version of image four with a different pattern in the central square. The meaning of image four is still unclear. At least one SCP-1947-L encodes a sixth image of a seemingly random pattern of dots similar to those in image four. Three SCP-1947-L's are currently stored in an electromagnetically shielded deep storage locker at Site-21; these have not been "activated" by exposure to a UV laser.
+
+At least one SCP-1947-L is not currently held by the Foundation, and acquisition of the missing SCP-1947-L is a high-priority goal. The fact that at least five objects similar to SCP-1947 (including SCP-1947 itself) are known to exist is a worrying prospect. Considering the likely extraterrestrial origin of SCP-1947 this raises the possibility that a large number of SCP-1947-L's may be scattered around the galaxy to serve an unknown end.
+
+- Dr. Alberts

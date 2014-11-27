@@ -1,0 +1,25 @@
+Two instances of SCP-1403, deprived of electricity.
+
+Item #: SCP-1403
+
+Object Class: Safe
+
+Special Containment Procedures: All instances of SCP-1403 are to be contained in a room constructed with 2.5 cm of lead shielding. All personnel entering SCP-1403's room, with the exception of D-class under test conditions, are to wear protective radiation gear and standard dosimeter badges at all times.
+
+Each instance of SCP-1403 is to be connected to a standard 9-volt battery, which should be replaced every two weeks. The protein/amino acid solution of each instance of SCP-1403 is to be replaced weekly.
+
+Description: Instances of SCP-1403 include 311 27 creatures resembling common goldfish, each contained within a light bulb of non-standard design . The base of each is of the double-contact bayonet design, however, each lacks a filament. These bases can be unscrewed from the bulbs, allowing access to the interior of the bulbs. Inside the bulb of each object is approximately 120mL of a solution of proteins, amino acids, and water necessary for the nutrition and respiration of the creatures. These bulbs are not anomalous in any way beside their non-standard design. All instances of SCP-1403 were initially discovered contained within these bulbs, and have been determined to be an ideal container for them. Instances of SCP-1403 do not appear to consume food or produce waste, instead receiving sustenance when electric current is passed through the water they reside in.
+
+All contained instances of SCP-1403 are female, and attempts at breeding with normal goldfish have been unsuccessful.
+
+The creatures can be removed from the objects by dismantling the bulb, and will starve after approximately five days unless provided with an alternative source of electrical current and proteins. Dissections have revealed that the creatures are not common goldfish. They possess no digestive tract, and in its place is an organ that is responsible for converting electricity into sustenance for the creature. This is accomplished by passing the electrical current through a mixture of carbon dioxide and water, producing glucose. The creatures directly filter proteins from their environment into their blood through their gills. This process produces very little waste.
+
+Instances of SCP-1403 exhibit additional visible anomalous properties when connected to an electric current. The creature will emit electromagnetic radiation in the segment of the visual spectrum corresponding to orange. When the electric current exceeds 1 amp, this radiation will begin to enter the ultraviolet spectrum.
+
+As the amplitude of the electrical current increases, the radiation gradually becomes more intense and higher-frequency, eventually passing through the upper reaches of the electromagnetic spectrum. At 4 amps, the radiation enters x-ray wavelengths, and gamma wavelengths at 6 amps. At 5 amps, the radiation emitted is potent enough to be harmful to humans, exceeding 1-2Gys. Extreme caution should be exercised when exposing an instance of SCP-1403 to electrical current greater than 3 amps. Emitting radiation in this fashion does not harm SCP-1403 in any way, though experiments have shown that they are vulnerable to radiation generated from outside sources.
+
+Addendum: Recovery Log 1403: SCP-1403 was initially discovered during a Foundation raid on █████ Pet Store in ██████, TX, on ████████ ██, 19██. None of the store's records made reference to any products fitting the description of SCP-1403. The shop had ten instances of SCP-1403 on display connected to a standard electrical outlet. A sudden power surge caused all ten of the creatures to emit a powerful burst of radiation. Six serious injuries and three fatalities resulted from the raid.
+
+Footnotes
+
+1. Four instances have been terminated during testing.

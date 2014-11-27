@@ -1,0 +1,25 @@
+Telephone pole infested by SCP-229
+
+Item #: SCP-229
+
+Object Class: Euclid
+
+Special Containment Procedures: No electrical devices of any kind are allowed inside or within thirty meters of the containment area. Any and all personnel entering the containment area are to be clad in lead-lined clothing and helmets. Anything found to be infested by SCP-229 is to be immediately incinerated and the resulting ash and debris contained and disposed of under protocol XJR-99.
+
+Containment area is to be composed of a hollow cube of 18 cm thick granite, 8 meters on a side, with a single door and airlock. These are to operate with no electrical components, and those components are to be made of wood or stone whenever possible.
+
+Any organism infested with SCP-229 is to be immediately incinerated. Any items or staff exiting the containment area must be scanned and cleared by site security.
+
+Large SCP-229 infestation in an Iraq neighborhood. Picture taken shortly before sterilization.
+
+Description: SCP-229 appears to be a mass of wires and cables. Superficially, they appear to be raw copper wire, insulated Ethernet cable, phone cable, power lines, and many other forms of electrical cable. The current mass weighs 94 kg at last measurement.
+
+SCP-229 is tentatively identified as a form of silicon-based life. SCP-229 is a highly invasive parasite, attacking anything carrying even a low electrical current. SCP-229 will grow several centimeters every hour, and form connectors to attach to electrical power sources (wall socket plugs, USB connectors, etc.). SCP-229 will also splice itself into power lines and existing wires if no connection is available. SCP-229 appears to "feed" off electricity.
+
+SCP-229 appears to go dormant when not in the presence of an electrical source. Any electrical current entering within thirty meters, no matter how small, will immediately cause SCP-229 to “grow” in the direction of the electricity. Questions regarding the possible intelligence and sense organs of SCP-229 are still under investigation.
+
+SCP-229 appears to “grow” best on metal or plastic, but is very capable of infesting living tissue. In vertebrate animals, SCP-229 will quickly penetrate the epidermis and other tissues, attaching to and enveloping the spine. SCP-229 will then grow along nerve pathways and up into the brain, attaching and infesting it within a few days. This process appears to be extremely painful, and can cause very erratic behavior. When the infested subject nears death, usually from massive internal bleeding and brain damage, SCP-229 will exit the body by puncturing through the skin and attaching to any nearby structures, thus beginning the cycle again.
+
+It is theorized that SCP-229 has always been present in our ecosystem, but that the technological level, and thereby the availability of electricity, was insufficient to allow its spread. With the current prevalence of wires and other electrical devices, detection can be extremely difficult. Incineration is currently the best means for SCP-229 removal.
+
+Addendum: At this time, cross-experimentation between SCP-229 and SCP-217 is allowed only with O5 approval.

@@ -1,0 +1,79 @@
+Item #: SCP-2762
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2762 is currently irretrievable without phenomenal resource expenditure. Until an affordable method for locating and retrieving it without compromising secrecy is proposed, physical containment of SCP-2762 is to be considered unnecessary.
+
+Containment of 2762 Activation Events and the resulting instance of SCP-2762-1 is to be effected by the United States Secret Service. Pursuant to the relevant treaties between the United States government and the Foundation, Foundation personnel are prohibited from interfering with these containment efforts, though approved agents and researchers may be present up to twice a year in an observational role. The United States government will inform the Foundation of any changes to SCP-2762's anomalous properties.
+
+Should SCP-2762 be retrieved and its targeting changed, the US government has agreed to cede control of it to the Foundation. In this event, SCP-2762 is to be contained in a cubic container no less than five meters on a side. It is to be suspended in the middle of the chamber, and the remaining space filled with water or some other nonhazardous liquid. After each 2762 Activation Event, the container is to be refilled.
+
+Description: Most information in this description has been shared with the Foundation in compliance with the Foundation-USA information sharing treaty. Independent corroboration has been found for most claims within.
+
+SCP-2762 is a stone carved into the shape of a snake weaving over itself into a tight ball, approximately 14 cm in diameter. The snake's head is visible near the top, and is highly stylized. It shows moderate wear, consistent with an estimated age of five hundred years. SCP-2762 is visually similar to other non-anomalous sculptures associated with ancient Mesoamerican cultures. The purpose of these sculptures is unknown, but they are believed to be associated with lunar festivals, celebrating the rebirth of the moon from darkness.
+
+SCP-2762 is covered in carved runes, some resembling simplified pre-Columbian Nahuatl and others similar to those found on Minoan artifacts. It is believed that these were added after the object’s original creation, and that they control its function.
+
+Testing by groups outside the Foundation's influence has found SCP-2762 to be unaffected by intense heat, pressure, corrosive substances or proximity to explosions of any magnitude.
+
+Every full moon at solar midnight for the target of SCP-2762, a 2762 Activation Event occurs. At this time, SCP-2762 begins to vibrate, and a green luminescence appears on the surface. SCP-2762 then begins to draw in all nearby matter through an unknown means. The vacuum force intensifies until it has consumed approximately ten cubic meters of non-gaseous matter. At this point, all matter absorbed by SCP-2762 in the activation event is disgorged in the form of an instance of SCP-2762-1 via a portal which appears in an open space near the current President of the United States.
+
+Instances of SCP-2762-1 resemble snakes approximately 17 meters in length. They demonstrate the material properties of a homogeneous amalgam of all substances absorbed during the activation event. SCP-2762-1 are fully animate, and attempt to kill and consume the President of the United States. They may be rendered inanimate by inflicting sufficient damage, and also lose all anomalous properties at the dawn after the activation event. Due to the location of SCP-2762, all instances of SCP-2762-1 are made of cement-like compacted regolith.
+
+SCP-2762 is currently located on the Moon as a result of a failed attempt to negate its anomalous properties by the United States Secret Service. It was believed that since 2762 Activation Events occur based on the phase of the Moon, removing it from Earth would remove phases of the Moon as a valid parameter for activation. However, SCP-2762 proved to use the target's location rather than its own, so the 2762 Activation Events continued unabated. SCP-2762's precise location on the Moon is unknown, due to the impossibility of affixing tracking devices to it for an extended duration, and its consumption of large amounts of lunar soil every month. Recovery is therefore unlikely.
+
+Interview 2762-16: In early 2009, the Foundation was able to contact Boris Vetrov, a former member of the psychotronics division of the GRU. Though Mr. Vetrov was living in the United States at the time, it is believed the United States government was unaware of his involvement in the creation of SCP-2762. As Mr. Vetrov has shown no signs of involvement in the anomalous world for the twenty years since his immigration to the United States, he has been judged of little interest save as a historical consulting source for GRU activities during the Cold War. Foundation outreach personnel were able to schedule an interview between Mr. Vetrov and Dr. Edward Wilson, project head for Mesoamerican History.
+
+Dr. Wilson: Good afternoon, Mr. Vetrov.
+
+Boris Vetrov: A good afternoon to you as well, Doctor. You may address me as Boris, if you like.
+
+Dr. Wilson: Thank you. Er, you’re more familiar with the menu than I — what’s best?
+
+Boris Vetrov: I would suggest the biscotti. This is not Starbucks.
+
+Dr. Wilson: One minute then.
+
+Dr. Wilson: All right, Mr. Vetrov, I’d like to discuss the artifact with you. You say you were involved in its creation?
+
+Boris Vetrov: Correct. Well, not all of what it is today. To begin, we didn't put it on the Moon. But when the Directorate held it, it was Alexei, Marat, Iskra, and myself who altered it.
+
+Dr. Wilson: Let’s see… In what ways did you and the GRU alter the artifact? Actually, just me asking here, why are you comfortable giving your coworkers’ names?
+
+Boris Vetrov: They’re all dead now. If they are to be held to account for their part in this, it is by a judge far grander than any in Washington or ███████. Time was not as kind to them as it was to me. Neither was the collapse. I can tell you how we altered the snakestone. But you should know that we were not the first to modify it.
+
+Dr. Wilson: Oh?
+
+Boris Vetrov: One of our agents — not of the psychotronics division, we were researchers. An agent of the GRU in Mexico, on some errand I don’t think I was cleared to know what it was. He found a cell of revolutionaries who had the object. They had been intending to topple Mexico and install a true communist regime. Which was all very nice, but the agent believed that the snakestone, and some unlucky revolutionary, would be better off serving the USSR more directly.
+
+Dr. Wilson: They were targeting Mexican political figures then? So you’re saying you just changed the target. If we can recover the thing, you mean we could shift it away from the President?
+
+Boris Vetrov: You’re getting ahead of yourself, Doctor. Back then, all it did was pull in matter and emit a snake. No distance, no target. For that matter, a much smaller snake. I never did understand precisely what those little Bolsheviks planned to do. Perhaps they intended to modify it further, or perhaps they had other artifacts and our agent leapt too soon. Modify it further… When first the revolutionaries found the snakestone, it was merely an artifact of some old Aztec cult. For celebrating the rebirth of the moon, or such. If anointed with oil or blood under the new moon, it would draw it in, and form a snake from the mouth of the statue. Smaller still — barely larger than your finger.
+
+Dr. Wilson: How do you know this?
+
+Boris Vetrov: From the poor revolutionary. Though we approved of the cause, the GRU got the information from him the same way as from any other. We were not kind, I’m certain. I much prefer your way.
+
+Dr. Wilson: I’d be inclined to agree. So, that’s what the thing did to start with? All right, if I had to guess, I’d say the thing started out as part of some ritual for Coatlicue. Probably something to do with her birthing of the Moon. Would make sense. She lost her head, and from the blood grew snakes. Same deal.
+
+Boris Vetrov: As you say. I do not know much of Aztec culture, nor did my partners. We learned enough of their pictographs to reach into and alter the web of the snakestone. Most of the groundwork was already laid by the revolutionaries. What we did was to add exclamation marks to their alterations, as it were. More matter, a more aggressive snake. From scratch, all we did was move the portal from the sculpted mouth to a location near the elected president of the American empire.
+
+Dr. Wilson: Hold on. From what I gather, the government tried to destroy it, but couldn’t. You all had a way past that to add your carvings?
+
+Boris Vetrov: Ah, sorry. I was unclear. We did that as well, a general-practice runic reinforcement. Unrelated to the functioning. Simply there as a precaution if the US should succeed in snatching it from us, as indeed they did. You Yankees were always superb at burglary.
+
+Dr. Wilson: Actually, I’m Canadian.
+
+Boris Vetrov: You are? Good for you.
+
+Dr. Wilson: Er, thank you. So, is that it, then? From little ceremonial anomaly to moon-dwelling national security threat.
+
+Boris Vetrov: Our little snakestone, all grown up.
+
+Dr. Wilson: I believe that’s everything, then. Thank you very much for your cooperation, and, uh, here’s something for your coffee.
+
+Boris Vetrov: My pleasure, Doctor. I need no reimbursement; it is reward enough to be able to tell someone about this after all these years. Although, should you or the Americans ever manage to recover the snakestone, please, let me see it. I think I may be able to bypass our runic barrier.
+
+Dr. Wilson: Why would you do that?
+
+Boris Vetrov: When we crafted the snakestone, we were young and idealistic. We thought we could win the Cold War ourselves, decapitate the American empire. We thought we could be heroes. Simply put, today I realize that if the President were eaten by a giant snake from the moon, it would just be more trouble than it’s worth. Good day to you, Doctor.

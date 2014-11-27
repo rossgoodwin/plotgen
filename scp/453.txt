@@ -1,0 +1,107 @@
+The bar and lounge area in SCP-453, under standard lighting conditions. Taken at 1200 hrs, during "off" time.
+
+Item #: SCP-453
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-453 is to be staffed by no fewer than: four (4) bartenders, six (6) bouncers, four (4) cleaners, one (1) doctor, four (4) EMTs, and two (2) observation personnel, all trained Foundation staff, at all times. Additionally, ten (10) or more Foundation security staff are to be kept on standby in the adjacent outbuilding 453-01, connected to SCP-453 by basement access. All staff are required to familiarise themselves with Document 453-1, Complete List of Known Scripts and memorise all Scripts that have been flagged by the current on-site supervisor (Dr. Moriglioni). Failure to memorise flagged Scripts is grounds for immediate discharge from SCP-453 duty, and will result in a formal demerit on the offending personnel's record.
+
+SCP-453 is to be locked and guarded between the hours of 0400 and 2000, local time; from 2000-0400 it is to be unlocked and open. Anyone entering the club during operating hours will have a radio tracking tag clipped to his or her clothing, and will remain monitored closely by closed-circuit cameras at all times.
+
+During the day, SCP-453 is to be inspected and measured in all dimensions by staff. Any movement of fixed objects in the building are to be recorded and reported to head researcher Dr. Moriglioni. Fire prevention and violence suppression protocols are to be kept in accordance with Standing Order 405-991 section T; should movement of fixed internal structures violate this protocol, renovation crews are to be recruited to the site immediately for restructuring.
+
+Description: SCP-453 is a nightclub located in ██████████████, Italy, currently owned and operated entirely by Foundation personnel. Every night, an apparently random assortment of civilians from ██████████████ and adjoining municipalities arrive at the club; although the night invariably begins identically to any other club, over the course of the night the civilians present fall into "roles" in one of ███ currently documented sequences of events (termed "Scripts" by Foundation operatives working on SCP-453). Over the course of the evening, generally according to Script, civilians will depart the club and return home, maintaining only partial memories of the night. All surviving civilians depart before 0400 every night.
+
+SCP-453 has existed in its current location for as long as Foundation records exist. Archaeological evidence suggests a wealthy Roman senator, known for extravagant nightly parties, had a villa in the location as early as ██ B.C.E.; the Foundation has had possession of the site since 1███. On several occasions the building has been torn down or destroyed; outdoor parties continued to persist nightly at the site. When the site itself is rendered inaccessible, civilian partygoers will gather as near as possible to the site and begin an impromptu street party; this party rapidly devolves into a riot (see Document 453-1, Complete List of Known Scripts, attached).
+
+The club in its current configuration was designed and built entirely according to Foundation specifications. All core construction materials are SCP containment grade, to limit damage due to the more violent Scripts. Dr. Moriglioni has observed that the building has shown some self-mutational ability. Of particular note has been the gradual shift of the location of the secure locker containing suppression weaponry for staff use: it has moved closer and closer to the men's washroom. At this time it remains in the secure staff section. Other sections of the building have slowly moved and changed in similar ways.
+
+A complete log of known Scripts is attached as Document 453-1. The 'selection' of a Script appears to be semi-random, although various stimuli will encourage particular Scripts to occur (for example, Script 117 "The Silver Harlequins" has only been observed when more than 15 club attendees are over the age of 60). Please note that while Script logs detail "pertinent events", all events in the club aside from staff actions become Scripted at around 2100 hrs (varies depending on Script). Participants begin speaking in Latin while engaged in Script, although music, dance styles, alcohol, et cetera remain "modern". Complete logs of all recorded actions, lines, and requests for each Script are available on request from Dr. Moriglioni. In its current configuration, SCP-453 has shown preference for three (3) Scripts in particular; these three account for roughly 80% of the Scripts seen, and represent a good cross-section of the general types of Scripts SCP-453 is capable of. These Scripts follow, listed in order of frequency:
+
+Men's washroom door in SCP-453. Captured during Script 43 as part of closed-circuit monitoring.
+
+Script 43: "The Cheating Wife"
+
+Low priority, low fatality; staff medical intervention required at 2307 hrs for 43-male-C, and recommended for 43-males-A and -B. Medical treatment of 43-wife at 2319 hrs is also recommended, but is conditional on consent from 43-wife as she will have left the script at this point.
+
+Pertinent Events:
+
+At 2149 hrs, a female (43-wife) between the ages of 20 and 25 will withdraw to the men's washroom, followed within 2 minutes by three (3) males between the ages of 20 and 40 (43-male-A, -B, and -C).
+
+Between 2152 and 2250 hrs, [DATA EXPUNGED].
+
+At 2255 hrs, a male civilian (43-husband) will enter SCP-453, order a bottle of red wine, and proceed immediately to the washroom. 43-husband will beat 43-male-A and -B to unconsciousness using the bottle; 43-male-C will receive minor brain trauma. Prompt medical attention will allow 43-male-C to recover within one (1) week. 43-husband drags 43-wife out of the washroom and proceeds to [DATA EXPUNGED], screaming epithets about infidelity and marriage in Latin. Other participants of the club pay no attention. 43-husband drags 43-wife out of SCP-453 at 2319 hrs, at which point they leave the Script and 43-wife can be retrieved for medical intervention.
+
+Aftermath: Despite the trauma of the events, 43-wife shows no memory of them the following day. When injuries are pointed out, she reacts with shock. 43-husband remembers the events vaguely, but will not believe they were anything but a nightmare. Reacts violently to interrogating Agent if pressed in this manner. The three 43-males remember getting in a bar fight, but not the cause.
+
+Notes: None of the participants in this Script have any relationship or prior knowledge of each other. If introduced after the events of the Script, participants 43-wife and the 43-males will have an irrational hatred of 43-husband; this applies to anyone who has previously participated in the Script as one of these roles, even on different dates. 43-husband finds himself extremely attracted to 43-wife. Further post-Script introduction of 43-husband and 43-wife has been denied after [DATA EXPUNGED]. It is of some interest to note that despite capably handling the 43-males in combat, the Script appears to preferentially select a 43-husband who is diminutive in stature and in poor physical condition, while the 43-males are typically large and physically fit.
+
+Experiment Log 453-s43:
+
+Deviation: The male washroom is closed and locked after 43-wife enters.
+
+Result: Four new individuals (43-locksmiths) arrive at the washroom almost immediately after it is closed, forcibly opening the doors in order to use the facilities. Events proceed as usual, with a 12 minute delay. These individuals appear to be able to circumvent any lock we have thus far applied to the door, including SCP-███.
+
+Deviation: 43-husband is denied access to a full bottle of alcohol, given a glass instead.
+
+Result: 43-husband takes a bar stool into the washroom. Participants 43-wife and 43-male-A and -C are killed instead of injured. Participant 43-male-B suffers irrecoverable spinal injuries1.
+
+Deviation: Four (4) Foundation personnel enter the men's washroom and attempt to subdue 43-husband using suppressive weaponry.
+
+Result: See video log 453-43-039. Foundation personnel subdued by 43-husband, who reacts immediately to the arrival of the Foundation personnel before any attack is made, disarming them and destroying their weaponry after suppressing them with it. Foundation personnel ignored from this point onward; Script proceeds as usual with a 3 minute delay.
+
+Note: Direct intervention in Scripted events should be handled much more carefully in light of [DATA EXPUNGED]. We were very lucky this time. —Dr. Moriglioni.
+
+Script 21: "The Senator's Visit"
+
+High priority, medium fatality; staff are to immediately prepare the triage in room 453-12 on commencement of this Script at 2213 hrs. Medical intervention will commence at 2259 hrs. Most medical intervention will be aided by autopsy information from previous Script occurrences, attached in Document 453-s21-med.
+
+Pertinent Events:
+
+At 2213 hrs, a civilian (21-senator) will arrive in SCP-453, accompanied by a retinue of thirteen (13) servants (21-servant-A through -M). The servants will arrive carrying improvised weaponry. On arrival of 21-senator, conversation in the club ceases for four (4) minutes. Three (3) civilians already present (21-assassin-A and -B, 21-activist) withdraw to other corners of the club and confer with uninvolved civilians over the importance of 21-senator's arrival.
+
+At 2217 hrs, 21-senator's retinue clears him a table near the centre of the room, and he begins demanding extravagant food and drinks. The types of food and drink vary depending on currently available menu items. If insufficiently expensive menu items are available, 21-senator will demand complicated dishes made from ingredients presently available in SCP-453. He has shown the ability to predict accurately exactly what ingredients and cooking methods are possible with the facilities on hand in SCP-453. Despite Foundation efforts to the contrary, 21-senator's orders are always completed at 2227, 2239, and 2250 hrs; this is one of only a few occasions where the Script will directly alter the actions of Foundation staff on site.
+
+At 2240 hrs, 21-activist will approach 21-senator and begin heckling him regarding the treatment of slaves in █████████, a Roman city. Three (3) minutes into her speech, 21-servant-A, -B, and -C will forcibly remove 21-activist and assault her with their improvised weaponry. She will be left for dead at the side of the main club room at 2259 hrs, and should be taken to triage immediately.
+
+At 2321 hrs, 21-assassin-A will approach 21-senator, produce a bladed weapon, and attack him. 21-servants-C, -D, -E, and -F will respond immediately, disabling and killing 21-assassin-A. No intervention has, as yet, been able to prevent this.
+
+At 2345 hrs, 21-assassin-B will incite a bar fight in a gaggle of civilians along the Easternmost wall of the club. Four (4) minutes after starting the commotion, 21-assassin-B will stab 21-servants-A, -B, -D, -F, -J, -K, and -M, running rapidly through the brawl towards 21-senator. 21-servants-B, -F, and -K can be immediately removed as they will be on the edge of the escalating brawl, and should be taken to triage immediately. 21-servant-A can be removed at 2356 hrs, as the crowd moves away, but should be treated for trampling as well. 21-servants-D, -J, and -M will not be retrievable until 0010 hrs, and must receive immediate top-priority attention or die (see Document 453-s21-med).
+
+At 2350 hrs, 21-assassin-B reaches 21-senator and engages in combat with 21-servant-C. Both receive critical injuries as 21-senator attempts to escape. 21-assassin-B finally disables 21-servant-C and charges at 21-senator at 2353 hrs, stabbing him in the neck. Any attempts to recover 21-senator or 21-servant-C have met with further violence and casualties from 21-assassin-B, and should not be attempted.
+
+From 2355 to 0115 hrs, the bar brawl continues to escalate. A full list of injuries and possible civilian recovery times is attached in Document 453-s21-med, although no further fatal injuries will be experienced.
+
+At 0119 hrs, nineteen (19) civilians (21-vigiles-A through -Q) will enter SCP-453, all armed with improvised weapons and shields, and subdue the crowd using tactics believed to be consistent with Roman Vigiles. The 21-vigiles will then clear out the club. Injured civilians can be recovered as they exit the club, and will not exhibit any further Scripted behaviour. SCP-453 may be locked at 0200 hrs following an instance of Script 21; all staff should immediately report to triage to aid medical staff.
+
+Aftermath: No participants in Script 21 show any memory of the actual events. All remember being involved in a violent bar fight, and remember that some people were badly hurt. Other memories are fuzzy, consistent with serious intoxication.
+
+Notes: This is one of the historically most common events, having occurred for as long as the Foundation has known about this site. It has diminished somewhat in frequency. As the most violent of the common Scripted events, it is required that all SCP-453 staff be completely familiar with the exact sequence of all events in this Script, both for their own safety and to diminish civilian casualties as much as possible.
+
+Experiment Log 453-s21: Special: To date, any attempted intervention in Script 21 has resulted in either neutral results (such as being unable to change the time required to prepare 21-senator's meals) or SCP-453 staff becoming part of the Scripted events, in which case the staff invariably suffers serious injuries. Further testing has been denied pending Level 4 authorisation. Previous logs are available on request.
+
+Script 82: "The Plurality Cult"
+
+Top priority, high fatality; if no known Script has manifested by 0000 hrs, staff are advised to prepare for the possibility of a Script 82 event; a weapons check is advised, followed by donning of riot gear and gas masks treated to resist type-14 neurotoxin. Civilians are to be told the riot gear is part of a theme night, and issued nonfunctional decorative goggles if they wish to participate.
+
+Pertinent Events: Script 82 will not manifest until 0200 hrs; until this time, SCP-453 will be fully inactive, and events entirely mundane.
+
+At 0201 hrs, one attendee (82-prime) will move to the centre of the room and proclaim, in Latin, "The time of plurality has come". Between 50 to 90% of the other civilians in the club (hereafter referred to as 82-cultists) will respond, "We embrace the many." Note: Any Foundation staff observed to reply in kind are to be terminated immediately and without hesitation by the nearest staff member. At this stage, Intervention 453-82 "Pariah" is to commence. The following sequence of events is a summary of Pariah. SCP-453 staff must read and memorise the attached full protocol.
+
+At the selection of 82-prime, staff observers will identify civilians who did not respond to 82-prime's announcement using software provided for this purpose. These civilians will be flagged on the HUD’s of all Foundation personnel riot helmets. Priority 1 is to secure these civilians and remove them to Holding Area 453-11. Holding Area 453-11 is to be secured by no fewer than two (2) armed personnel. Any 82-cultists approaching within 5 meters of Holding Area 453-11 should be met with lethal force.
+
+Should the number of uninvolved civilians be too great to contain in Holding Area 453-11 before 0215 hrs, either due to space or staff restrictions, all Foundation personnel are ordered to cease attempting to contain civilians, and instead begin subduing any and all 82-cultists. Nonlethal force is preferred (cultists must be rendered unconscious or completely restrained), but lethal force is authorised, and encouraged if Pariah is proceeding slower than anticipated. 82-prime must not be harmed or interrupted in any way.
+
+Between 0201 and 0225 hrs, 82-prime will lead the 82-cultists in a Latin chant. They will not respond to attacks by Foundation staff, and unaffected civilians will act as though nothing is going on. At 0225 hrs, if either: (1) all civilians have been contained, and/or (2) all 82-cultists have been subdued, the Script will end with 82-prime laughing hysterically, toasting the club, and returning to normal. The rest of the evening will proceed as though SCP-453 were a mundane club, and all participants will dissipate before 0400 hrs.
+
+If, by 0225 hrs (cessation of chanting), there remain any civilians and 82-cultists (complete elimination of one or the other faction is sufficient prevention) in SCP-453, Pariah is to be immediately aborted and all staff are to engage all non-Foundation personnel inside SCP-453 (civilians and 82-cultists) - with the exception of 82-prime - with maximum prejudice. Observation personnel are to trigger release of type-14 neurotoxic gas into SCP-453. 82-prime is, as previously, not to be attacked (note that 82-prime has proven resistant to type-14 neurotoxic gas. No other gas types are authorised). If 82-prime is harmed in any way, or if any civilians or 82-cultists remain active by 0230 hrs, observation personnel are required to activate site self-destruct mechanisms immediately.
+
+If, by 0300 hrs, contact with SCP-453 has been lost without registration of a successful self-destruct, observational staff are required to notify all Foundation listening posts by transmission frequency [REDACTED]. Advise potential █K-class scenario.
+
+Aftermath: No surviving participants will remember Script 82, remembering only a pleasant night at the club, even if operation Pariah failed, with the exception of 82-prime. Those who participated as 82-prime will have recurring nightmares featuring [DATA EXPUNGED], typically leading to loss of sleep, decreased productivity, and eventual insanity. For this reason, staff should capture former 82-prime participants as they leave the club and remit them to Site-██ for therapy and monitoring.
+
+Notes: Despite the severity of this Script, Pariah is typically extremely effective. An abort has not been necessary since ██/██/19██, and a full failure has not been observed since 16/12/1857. However, reports indicate that Script 82 has become increasingly common since [DATA EXPUNGED].
+
+Footnotes
+
+1. Use of SCP-427 authorised to enable recovery of this civilian, ██/██/2010. —Dr. Ersen

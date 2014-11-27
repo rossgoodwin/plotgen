@@ -1,0 +1,33 @@
+SCP-225-1 (left) and SCP-225-2 (right)
+
+Item #: SCP-225
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-225-1 is contained at Site-65 for study and experimentation. No guards are necessary for the object itself, as theft is impossible and the object is harmless for the moment. Ongoing tests are to be made to find a way to eliminate SCP-225-1, or at least to find a way to move it from its position in a controllable fashion.
+
+SCP-225-2 is as yet uncontainable and should be monitored as best as possible as it travels, with constant updates as to its current position, speed, and trajectory, along with projections as to its estimated position for the next 50 years.
+
+As of this writing SCP-225 poses no immediate threat. However, in the event that a collision course with SCP-225-1 is detected, SCP-225 is to be immediately upgraded to Keter, and every effort must be made to find a way to alter SCP-225-1 or SCP-225-2 from their courses.
+
+All Foundation resources are to be made available for this objective should a collision ever become probable. Planetary evacuation plans are to be drawn up as a precaution, as are revised containment procedures for Keter level items whose containment being compromised by [DATA EXPUNGED] would not also result in the item's imminent destruction.
+
+Description: SCP-225-1 and SCP-225-2 are shiny gray metallic spheres of unknown origin and composition, each with a diameter of 0.681 meters.
+
+SCP-225-1 appears stable and motionless, but is in fact moving in a geosynchronous path above Earth, at the exact speed of Earth's rotation, maintaining its relative position at all times.
+
+Gravity, magnetism, and all other forces tested have had no effect upon it; it maintains position approximately 7.3 meters above the surface. No amount of force brought to bear on it in any direction has any effect upon its position; all tools and weaponry tested have no effect upon it physically.
+
+SCP-225-2 follows a path around the sun that is nearly synchronous with Earth's. It does not orbit Earth; Earth rotates under it, giving it the illusory appearance of traveling around the Earth at velocities usually ranging from 1,600 - 2,000 km/h, depending on its current relative altitude. It does not technically orbit the sun either; it appears to be moving under its own power via unknown means. Its course has not been entirely predictable.
+
+Differences between SCP-225-2's path and Earth's orbit move the planet closer to or further away from SCP-225-2, within a surprisingly small level of variance to date. Since it was first observed in ████ it has never reached a relative altitude of less than 10 km, generally staying between ██ km - ████ km above the surface, though it has moved as far away as [DATA EXPUNGED] resulting in a temporary loss of contact in ████ (contact re-established in ████ after the ██████ Lunar Impact incident).
+
+Similarly to SCP-225-1, no force or weaponry brought to bear upon it has had any effect, though testing on it is significantly more difficult, time-consuming, and resource-intensive due to the variation in its relative position.
+
+Addendum: To summarize: no effort to move or damage SCP-225-1 has any effect, and no effort to stop or damage SCP-225-2 has any effect. SCP-225-2 destructively travels through any object in its path without pause and/or pushes it out of its way, regardless of that object's composition. SCP-225-1 is unaffected by any amount of force brought to bear on it in any direction.
+
+While individually each object is not as yet of any major concern, there are cataclysmic implications should the two objects collide. Projections based upon the estimated amount of material contained between the two objects (0.33 cubic meters, appr. 2,600 kg) show that should the objects annihilate each other, they would release at minimum the power of a ██ gigaton nuclear explosion, potentially much higher depending upon what they are constructed of.
+
+Since all tests thus far have shown that neither SCP-225-1 nor SCP-225-2 can be damaged or moved by any means known, the possibility also exists that neither object would be annihilated, halted, or altered from their course even by contact with the other. If this is true, then a collision between SCP-225-1 and SCP-225-2 has the potential to [DATA EXPUNGED].
+
+In this circumstance planetary evacuation may not be sufficient and [DATA EXPUNGED] should time permit before [DATA EXPUNGED].

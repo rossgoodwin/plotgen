@@ -1,0 +1,67 @@
+SCP-1555 exterior, with barrel visible. At time of photograph, barrel was significantly longer than ordinarily. Click to enlarge.
+
+Item #: SCP-1555
+
+Object Class: Euclid
+
+Special Containment Procedures: A 50-mile radius around SCP-1555 is to be designated a wildlife sanctuary in accordance with the United States Endangered Species Act, due to its status as the location of one of the few remaining populations of Robertson's field mice. Due to the extremely difficult terrain surrounding SCP-1555, a guard patrol is not needed; a closed gate and guard house (disguised as a research station for scientists studying local wildlife) are to be maintained at the entrance road. Noises emitted by SCP-1555 are to be blamed on thunder, sonic booms, or mistpouffers (fog guns) by Foundation disinformation teams. Task Force Gamma-29 ("Old Men of the Mountain") is to be assigned to SCP-1555, for any exploration of the outer surface, and for tracking and retrieval of specimens. Exploration of the interior of the SCP is only to be conducted by remote probe and class-D personnel.
+
+Description: SCP-1555 is a facility of unknown origin and purpose installed in tunnels beneath an unnamed mountain peak in ████████ National Park. It appears to occupy nearly the entire inside space of the mountain, and extends an unknown distance below sea level. Seismic surveys and ground-penetrating radar have proven to be somewhat useful at mapping the outer extents of the facility, though the internal layout has been known to shift (though only in very localized areas). An entrance is available, but all attempts to survey the SCP have failed, resulting in the loss of one Foundation agent (Agent Harris), one Mobile Task Force (MTF Epsilon-12, "Facility Managers" - see Audio/Telemetry Log Epsilon-12-1555), and ██ Class D personnel.
+
+The only known aboveground entrance to SCP-1555. Click to enlarge.
+
+The structure of SCP-1555's tunnels (designated SCP-1555-1) culminates near the peak of the mountain; at the very top of the structure (approximately 20 meters below the summit), facing northeast, a steel tube exits the mountain and continues for (on average) three meters at a 27-degree angle from horizontal. The tube is rifled with 25 lands and a twist rate of 1:20, and appears similar in construction to the barrel of a modern 155-mm howitzer. The tube has been observed to change shape; microscopic observation of the tube during transformation indicates that iron crystals appear on the surface of the tube with no discernable source. Transformations are usually in the shape of a muzzle device, such as a muzzle booster or recoil brake, though others have been seen. The additions have never been observed to remain for more than one shot, and disappear afterwards in the same manner as their introduction.
+
+SCP-1555 will, at unpredictable time periods (not observed to be more than ten days from the last event), launch a projectile (designated SCP-1555-2) from this tube. The shell usually travels at the standard muzzle velocity for a 155mm howitzer, but variations have been reported. In almost all cases, the shell lands intact in a valley 6 km northeast of the SCP and releases 5-16 Robertson's field mice, tentatively labeled SCP-1555-3. In most cases, the mice appear completely indistinguishable from natural Robertson's field mice (Apodemus robertsonii), with a 50/50 gender division. The mice show normal genetic deviation in most cases, though approximately 15% of shells contain genetically identical mice. After the mice are released, the shell (in most cases) corrodes into dust within two hours.
+
++ MTF Gamma-29 Selected Observations, 2004-Present
+
+-MTF Gamma-29 Selected Observations, 2004-Present (Chronological order)
+
+Shell approximately five meters long; released two thousand mice.
+
+Shell made of mahogany; released five mice and remained intact.
+
+Shell did not follow a parabolic trajectory. Shell tracked via radar past the orbit of Mars and lost.
+
+No shell. Ten mice fired from SCP; landed scattered across the valley.
+
+Shell contained ten mouse skeletons.
+
+Rocket-assisted shell landed four kilometers further out than average.
+
+Muzzle device manifested in the form of an enormous sound suppressor. Report noticeably quieter than usual.
+
+Shell pushed out of the end of the muzzle by compressed air; landed in front of tube and released one mouse.
+
+Shell contained tangled mass of PNP bipolar transistors instead of mice.
+
+Muzzle device manifested in the form of a squeeze-bore adapter. Shell contained remains of an estimated eight mice, compressed into unrecognizability.
+
+48 shells fired in extremely rapid succession. Each contained three mice.
+
+Solid rubber shell; did not dissolve.
+
+Shell landed; released chlorine gas instead of mice.
+
+Shell released five smaller, fin-stabilized shells mid-flight, each containing one mouse.
+
+Steel girder fired instead of shell.
+
+Shell continued traveling upon meeting the ground, leaving an angled hole. Laser and radar rangefinder depth measurement failed.
+
+SCP fired five times without releasing shell.
+
+SCP barrel retracted into mountain for two days; fired shell one day later and re-emerged. Shell contained nine mice.
+
+Red light shone from gun barrel for 3 days.
+
+Ordinary shell landed; continued disgorging mice for three hours. Total number uncounted due to mouse overlap.
+
+Shell exploded in midair, releasing metal fragments. Functioned identically to ordinary HE artillery round.
+
+Shell contained two brown rats (Rattus norvegicus).
+
+Barrel accreted material for several weeks and, once several times longer than normal, fired a shell two hundred kilometers. Shell landed near the city of █████████ and released four mice.
+
+See Also: Audio/Telemetry Log Epsilon-12-1555

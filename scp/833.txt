@@ -1,0 +1,47 @@
+An individual SCP-833
+
+Item #: SCP-833
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-833 is to be contained in Site 21 following standard Class 2 bio-hazard procedures. As a precautionary measure, Site 21 does not have a cafeteria, and all personnel located at Site 21 are to eat only the meals delivered from Site 19. Employees of Level 1 or higher may request additional or alternative rations via the facilities director.
+
+All on-site personnel are instructed to report severe nausea, diarrhea, or muscle pain to site medical staff immediately. In the event of confirmed infestation, the victim will be treated with an aggressive course of anthelmintic drugs. Civilian outbreaks of SCP-833 are to be treated similarly, but the civilians are to be quarantined for the duration of treatment. Should the drug regimen prove ineffective, termination of infected personnel and civilians is authorized.
+
+Description: SCP-833 is a parasitic nematode of the genus Trichinella only capable of infesting humans. Infestation by SCP-833 has symptoms similar to a mild case of trichinosis, often including initial intestinal distress followed by muscle pain and fever about a week after infection. Symptoms fade after about three weeks. In many cases, infestation is asymptomatic. As with all varieties of trichinosis, the disease is spread by the consumption of tainted meat. SCP-833 is highly heat resistant, but responds favorably to standard vermicides, especially albendazole.
+
+What sets SCP-833 apart from more mundane members of Trichinella is that in all infections, a small proportion of the worms colonize the central nervous system. Surprisingly, in almost all cases this does not damage the nervous system. The remaining larvae encyst themselves throughout the hypodermis.
+
+The larvae encysted in the central nervous system secrete a compound that in most cases has two effects. First, it leads to a marked increase in altruism. Victims of SCP-833 are generally described as becoming kinder and notably more generous. Secondly, victims gain the conviction that their tissues are extremely delicious, nutritious, or pure. Due to the increase in altruism, the host will try to "help" others by feeding them pieces of his or her own flesh.
+
+Because hosts do not lose their self-preservation instinct, they will generally not severely injure themselves to fulfill this compulsion. Similarly, they retain awareness of social taboos against cannibalism and so usually act in secret. Victims will typically resist the urges induced by SCP-833 for some time before finally giving in.
+
+SCP-833 came to the attention of the Foundation during a raid on a cult in ███████, ██ that was suspected of being connected to SCP-███. An unknown member of Trichinella, later designated SCP-833, was found in the system of the surviving cult members, who were then terminated.
+
+Addendum 833-3: On ██/██/████, an experiment was conducted in which D-40023, who was noted to be violently psychotic, was exposed to SCP-833, to see how he was affected by the psychological element of SCP-833 infestation. When the subject recovered from the acute symptoms of infection, the subject was placed in a room with D-9182. Neither subject was informed of the psychological effects of SCP-833. After a short while, D-40023 fashioned an improvised knife from some furniture, and began to slice off his own fingers and attempt to force-feed them to D-9182. Security personnel entered to restrain D-40023, who responded violently. D-40023 was terminated, and D-9182 was inadvertantly killed in the struggle. Security was reprimanded, and object class upgraded to Euclid.
+
+Addendum 833-16: Excerpt from interview with Mrs. ████-█████, who was found to have been a host for SCP-833 for an estimated twelve years, during which she infected most of her home town of ██████ ███, ██. She and the rest of the town were later successfully treated by the standard drug regimen and given Class-B amnestics.
+
+Start of excerpt
+
+Dr. Winston: What you were doing didn't feel in any way wrong to you?
+
+Mrs. ████-█████: Not really. It was a relief, honestly.
+
+Dr. Winston: How so?
+
+Mrs. ████-█████: Helping people is something I wanted to do for its own sake. Through giving of myself in secret, I knew that I was not acting out of selfish motives. I knew that I really was a good person. The pain was nothing to that knowledge.
+
+Dr. Winston: That's also why you donated your kidney?
+
+Mrs. ████-█████: Yes. But that was somehow less satisfying. I think it lacked the personal touch. There's nothing like seeing the kids' eyes light up when they see a fresh-baked pan of brownies, you know.
+
+Dr. Winston: Ma'am, did you read the document we gave you when we took you into custody?
+
+Mrs. ████-█████: I did. It was quite interesting indeed.
+
+Dr. Winston: Do you feel any differently about your actions after reading it?
+
+Mrs. ████-█████: Why should I? I'm a better person now, and I thank God for creating such a creature to show me how to walk in his ways! I don't understand how you don't see the beauty of this.
+
+End of excerpt

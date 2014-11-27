@@ -1,0 +1,201 @@
+A sample page from SCP-2053-2
+
+Item #: SCP-2053
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2053-1 is kept in a standard containment locker at Site-██. SCP-2053-2 is to be stored on a 2 GB flash drive in the same containment locker as SCP-2053-1. Once a month, one Level-2 researcher is to remove SCP-2053-1 from this locker and attempt to rotate the object's faces. If unsuccessful, the object is to be returned to the locker. If rotation is successful, testing will resume under the direction of Dr. Boone.
+
+Description: SCP-2053-1 is a puzzle cube measuring approximately 5.7cm along each exterior edge. It is physically identical to a standard Rubik's brand puzzle cube. SCP-2053-1 can be solved in the same way that a non-anomalous Rubik's Cube can be solved, by rotating its various faces until all the stickers on each distinct face of the cube are identical in color. The object shows signs of wear and tear, presumably an indication of heavy use; however, tests show that the stickers themselves have never been removed.
+
+Occasionally, SCP-2053-1 will enter an active state, during which the object's faces will begin to rotate of their own accord at approximately three rotations per second. After the object has completed several of these rotations, it will enter a passive state for approximately twenty seconds, during which the faces will remain in this permutation. The object will then become active again, and return to its base "solved" state, at which point it will become dormant once more.
+
+SCP-2053-2 is a computer file labeled "i_love_you_jake_please_read_this.pdf". The metadata associated with the file show that it is 1.21 MB in size, and it can be stored on any digital media with that amount of available storage; however, the number of pages contained within the document far surpasses the number that should be possible of a file this size. When opened by a PDF-capable program, the resulting document contains exactly 43252003274489856000 pages; Foundation analysts estimate that a non-anomalous PDF document of this length would occupy approximately 2.1 yottabytes (2.1 trillion terabytes) of storage space.
+
+Each page of the document depicts a two-dimensional polyhedral net equivalent to a three-dimensional Rubik's Cube. The diagram on each page is colored in such a way that it corresponds to a possible permutation of SCP-2053-1. Displayed below each diagram is an English phrase or sentence in a nondescript black typeface. Using computing assets obtained from ██████ Inc., personnel assigned to SCP-2053 have created a digital database containing all of these diagrams and their corresponding phrases. Of note is the fact that the number of pages in SCP-2053-2 exactly matches the number of possible arrangements of SCP-2053-1. This implies that, for every possible permutation, there is a corresponding phrase. By physically rotating the faces of the cube to match a permutation contained within SCP-2053-2, communication with SCP-2053-1 is possible, using the phrases given in the document.
+
++ Interview Log 2053-01
+
+- hide log
+
+Interview Log 2053-01
+
+Notes: For the purposes of this experiment (and subsequent interviews), Dr. Boone has set up a device which quickly analyzes each passive state permutation of SCP-2053-1, and cross-references this against the contents of SCP-2053-2 to produce the corresponding phrase. At the same time, another program is used to search SCP-2053-2 for specific desired phrases, such as "WHAT IS YOUR NAME", and translates these phrases back into their corresponding permutations. These two programs are used in tandem, essentially to decode incoming communications from SCP-2053-1, and to encode phrases directed at SCP-2053-1. This allows Dr. Boone to open a dialogue with SCP-2053-1, to determine the nature of the entity associated with it. All of the phrases used during this initial interview appear in SCP-2053-2; capitalization and spelling have not been altered.
+
+Dr. Boone: HELLO
+
+SCP-2053-1: JAKE
+
+Dr. Boone: HOW ARE YOU DOING THIS
+
+SCP-2053-1: IS THAT YOU JAKE
+
+Dr. Boone: YES
+
+SCP-2053-1: ITS ME YOUR DAD
+
+Dr. Boone: HOW ARE YOU DOING THIS
+
+SCP-2053-1: I LOVE YOU JAKE
+
+Dr. Boone: I LOVE YOU DAD
+
+SCP-2053-1: I AM SO HAPPY JAKE
+
+Dr. Boone: WHAT IS GOING ON
+
+SCP-2053-1: YOU HAVE NEVER TALKED TO ME BEFORE
+
+Dr. Boone: I AM SORRY
+
+SCP-2053-1: I AM SO HAPPY THIS WORKED
+
+Dr. Boone: WHAT WORKED
+
+SCP-2053-1: I FINALLY FOUND A WAY TO TALK TO YOU
+
+Dr. Boone: WHAT DO YOU MEAN
+
+SCP-2053-1: THE DOCTORS SAID YOU WOULD PROBABLY NEVER TALK AGAIN
+
+SCP-2053-1: AFTER THE ACCIDENT WITH YOUR MOM
+
+Dr. Boone: THE ACCIDENT
+
+SCP-2053-1: I AM SO SORRY JAKE
+
+SCP-2053-1: ALL I EVER WANTED WAS TO TELL YOU
+
+Dr. Boone: TELL ME WHAT
+
+SCP-2053-1: I LOVE YOU AND I AM SO SORRY
+
+Dr. Boone: ITS OK
+
+SCP-2053-1: THIS IS THE MOST YOU HAVE EVER TALKED TO ANYONE THERE ARE SO MANY THINGS I WANT TO ASK YOU
+
+At this point, Dr. Boone ceases communication.
+
+I recommend we try to dig up what we can on this "Jake" and his father before we continue. We won't be able to keep up this facade forever. - Dr. Boone
+
+Addendum 2053-01: As of ██/██/████, no progress has been made on the search for the individual believed to be associated with SCP-2053.
+
+Well, Jacob is a pretty common name, isn't it? We're going to need to modify our search parameters. Come at this from a different angle. Based on what the "father" has said, I think we have reason to believe that this "Jake" may have some type of social or developmental disorder. Let's start looking at orphanages, mental institutions, hospitals, etc. - Dr. Boone
+
+Addendum 2053-02: The Foundation has located an individual in an extended care facility in ████████, SC who falls under the correct parameters; Jacob ████, age 31, suffering from [REDACTED]. When interviewed, his attending physician commented on Jacob's acute attachment to complex puzzles - specifically Rubik's Cubes - and his skill at solving them.
+
+Well, looks like we found Jake. Due to his current condition, direct communication is impossible. Based on the information we gathered from SCP-2053-1 and Jacob's physician, it sounds like he's never actually spoken to anyone. I recommend we keep the son out of the equation, and continue interacting with SCP-2053-1 under this facade. We'll check in on him every month or so to see if his condition changes, but the way these things go, we're probably never going to hear his side of… whatever this is. - Dr. Boone
+
+Addendum 2053-03: In all interviews thus far (see Interview Logs 2053-02 through 2053-08), SCP-2053-1 has been unwilling to reveal any information regarding the origin of its current condition to "Jake". In light of this, Dr. Boone has decided to communicate with SCP-2053-1 under the guise of a generic physician (see Interview Log 2053-09 below).
+
++ Interview Log 2053-09
+
+- hide log
+
+Interview Log 2053-09
+
+Dr. Boone: HELLO
+
+SCP-2053-1: HELLO
+
+Dr. Boone: WE NEED TO TALK
+
+SCP-2053-1: ABOUT WHAT JAKE
+
+Dr. Boone: THIS IS NOT JAKE
+
+SCP-2053-1: JAKE THIS BETTER BE A JOKE
+
+Dr. Boone: THIS IS NOT A JOKE
+
+SCP-2053-1: WHO IS THIS
+
+Dr. Boone: I AM A DOCTOR
+
+SCP-2053-1: WHERE IS MY SON
+
+Dr. Boone: YOUR SON IS SAFE
+
+SCP-2053-1: WHAT HAVE YOU DONE WITH JAKE
+
+Dr. Boone: YOUR SON IS SAFE
+
+SCP-2053-1: GIVE ME TO MY SON
+
+Dr. Boone: I NEED TO ASK YOU SOME QUESTIONS
+
+SCP-2053-1: WHAT HAVE YOU DONE WITH JAKE
+
+Dr. Boone: JAKE IS BEING TAKEN CARE OF
+
+SCP-2053-1: GIVE ME TO MY SON I NEED TO MAKE SURE HE IS OKAY
+
+Dr. Boone: I CANT DO THAT
+
+SCP-2053-1: WHY NOT WHAT HAPPENED
+
+Dr. Boone: I CAN ASSURE YOU JAKE IS PERFECTLY SAFE
+
+SCP-2053-1: PLEASE DONT HURT MY SON OH GOD HE JUST CAME BACK TO ME
+
+Dr. Boone: IF YOU ANSWER MY QUESTIONS I CAN GIVE YOU MORE INFORMATION ABOUT YOUR SON
+
+SCP-2053-1: WHAT DO YOU WANT
+
+Dr. Boone: ARE YOU AWARE OF YOUR CURRENT CONDITION
+
+SCP-2053-1: YES
+
+Dr. Boone: COULD YOU EXPLAIN HOW YOU ENDED UP IN YOUR CURRENT CONDITION
+
+SCP-2053-1: I JUST WANTED TO TALK TO MY SON
+
+SCP-2053-1: HE IS A SPECIAL BOY
+
+SCP-2053-1: HE LOVES HIS PUZZLES
+
+SCP-2053-1: BUT EVER SINCE THE ACCIDENT WITH HIS MOM HE WONT TALK TO ANYONE
+
+SCP-2053-1: HE SPENDS ALL DAY PLAYING WITH HIS CUBES
+
+SCP-2053-1: THE DOCTOR CALLED IT PROGRESSIVE MUTISM
+
+SCP-2053-1: NINE YEARS
+
+SCP-2053-1: I JUST WANTED TO TALK TO MY SON
+
+Dr. Boone: COULD YOU EXPLAIN HOW YOU ENDED UP IN YOUR CURRENT CONDITION
+
+SCP-2053-1: I MET A GUY WHO SAID HE COULD GET JAKE TO TALK
+
+SCP-2053-1: HE KNEW A DOCTOR IN VIRGINIA OR SOMETHING WHO COULD FIX JAKE
+
+SCP-2053-1: I JUST WANTED TO TALK TO MY SON
+
+Dr. Boone: THIS MAN TURNED YOU INTO A RUBIKS CUBE
+
+SCP-2053-1: IT WORKED DIDNT IT I GOT TO TALK TO MY SON AFTER NINE YEARS OF NOTHING
+
+Dr. Boone: I SUPPOSE IT DID
+
+SCP-2053-1: PLEASE CAN I TALK TO MY SON AGAIN GIVE ME TO HIM
+
+Dr. Boone: IM SORRY THAT IS IMPOSSIBLE AT THE MOMENT
+
+SCP-2053-1: WHY WHAT HAPPENED
+
+Dr. Boone: JAKE IS UNABLE TO COMMUNICATE AT THE MOMENT
+
+SCP-2053-1: OH GOD WHAT DID YOU DO TO JAKE
+
+SCP-2053-1: YOU BASTARDS BETTER NOT HURT MY SON I SWEAR TO GOD
+
+SCP-2053-1: WHERE IS MY SON
+
+Dr. Boone: I WOULD LIKE TO ASK YOU A FEW QUESTIONS FIRST
+
+SCP-2053-1: WHERE IS MY SON
+
+At this point, SCP-2053-1 enters a dormant state, apparently "stuck" in this permutation. Since the conclusion of this interview, all attempts by Dr. Boone and assisting personnel to rotate any of the object's faces have been unsuccessful.
+
+The following image depicts the page from SCP-2053-2 which corresponds to the current permutation of SCP-2053-1.

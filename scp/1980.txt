@@ -1,0 +1,105 @@
+Item #: SCP-1980
+
+Object Class: Euclid
+
+Special Containment Procedures: As SCP-1980 is immovable, Research and Containment Site-79 has been built surrounding it, under cover of building a neutrino observation telescope. Standard Foundation access restrictions apply.
+
+All active examples of SCP-1980-1 (whether found within SCP-1980 or elsewhere) are to be transported to Site-41 for containment and experimentation. It is critical that no direct human contact is made with an instance of SCP-1980-1, outside of approved experiments.
+
+Any person believed to have been exposed to SCP-1980-1 is henceforth designated an example of SCP-1980-2, and is to be contained and transported to Site-41 for interrogation and forcible removal of SCP-1980-1. After removal of SCP-1980-1, non-D-Class subjects may be given Class-A amnestics and released. MTF operatives should be aware that it is possible to internally implant SCP-1980-1 within a subject, producing an example of SCP-1980-2 with no obvious anomalies. SCP-1980-2 specimens may be housed in a standard humanoid containment cell and have no unusual care requirements.
+
+SCP-1980-3, the mechanism for creation of additional examples of SCP-1980-1, is currently within SCP-1980. Relocation to Site-41 will be undertaken when possible. By O5 order, SCP-1980-3 is not to be used until such relocation takes place.
+
+Biological artifacts (SCP-1980-4 and SCP-1980-5) in suspended animation within SCP-1980 are not to be disturbed. If any such items become animate, they should be contained if possible, otherwise terminated.
+
+Description: SCP-1980 is a structure located approximately 2.4 km under the Antarctic ice, approximately 400 km from the South Pole at coordinates [REDACTED]. Based on the depth at which it was found, SCP-1980 was constructed approximately 14.5 million years ago in one of the last temperate zones on the Antarctic continent.
+
+Usage as a scientific research base is presumed based on finding:
+
+(1) A telescope, apparently fixed for long-term observation of an area of intergalactic space at coordinates [REDACTED]. No significant astronomic bodies or activity noted in this area.
+
+(2) Approximately 5000 examples of SCP-1980-1; metallic discs approximately 10cm in diameter, composed of a tungsten-rhenium alloy and partially overlaid with a crystalline structure of unknown composition. Interrogation of SCP-1980-2 subjects indicates that each SCP-1980-1 contains the consciousness of an individual of an unknown sapient race, presumed to be the builders of SCP-1980. Based on the number of SCP-1980-1 found, SCP-1980 is part of a much larger complex or colony.
+
+(3) A biological containment area, containing several primitive hominids (SCP-1980-4) in suspended animation, as well as an entity (SCP-1980-5) closely resembling the description of a [REDACTED] within SCP-████.
+
+(4) SCP-1980-3, a machine used to create additional examples of SCP-1980-1, based on information gained through interrogating SCP-1980-2 subjects.
+
+(5) Records documenting the activities of the inhabitants of SCP-1980. See Addendum 3 for translation of relevant excerpts.
+
+A human subject in contact with SCP-1980-1 will have his/her higher mental functions dominated by those of the entity contained within SCP-1980-1. These subjects are designated SCP-1980-2. The process takes approximately six hours, during which the subject is unconscious. Upon awakening, SCP-1980-1 will have control of the subject, and significant access to the subject’s knowledge and memories. Removal of SCP-1980-1 negates this effect, leaving the subject physically unharmed, but disoriented in a manner resembling the application of amnestics. The degree of disorientation is commensurate with the amount of time exposed to SCP-1980-1.
+
+Existing SCP-1980-1 instances contain the consciousness of the builders of SCP-1980. However, it is apparently possible to create additional examples of SCP-1980-1 from any sapient being, using SCP-1980-3 and a blank template of SCP-1980-1. 68 such templates were found. The research team working on replicating SCP-963-1 has successfully made use of SCP-1980 materials to create SCP-963-2 determined it is not possible to recreate SCP-1980-3 or SCP-1980-1 templates using current human technology.
+
+Addendum 1: SCP-1980 was discovered in 2010, when an automated distress signal activated and was intercepted by Foundation personnel. The signal was traced and the surrounding area contained as Site-79. Extensive hot-water drilling has allowed limited access to SCP-1980.
+
+The initial research team investigating SCP-1980 was compromised by SCP-1980-1 exposure, before the effects of SCP-1980-1 were fully known. Team leader Dr. ████████ abandoned his post and removed approximately 500 examples of SCP-1980-1 from the site. Dr. ████████ has not been recovered by the Foundation, and it is assumed that there are now a significant number of uncontained instances of SCP-1980-2, with unknown motivations. MTF Zeta-29 is responsible for their ongoing capture and containment. 27 examples of SCP-1980-2 are contained as of ██/██/2012, including 6 intentionally-exposed D-Class subjects.
+
+Addendum 2:
+
+Interviewed: Dr. Martin, a member of the original exploration/containment team, and now an instance of SCP-1980-2
+
+Interviewer: Dr. Baker
+
+Foreword: When it was discovered that the exploration team was compromised, all members other than Dr. ████████ were successfully contained and interrogated.
+
+<Begin Log>
+
+Dr. Baker: First, let’s dispense with the idea that you're unaffected by SCP-1980. We know what SCP-1980-1 does, and we know your team was exposed.
+
+Dr. Martin: Fine. Dr. ████████ will complete his mission no matter what I tell you. You can’t stop us.
+
+Dr. Baker: Who exactly are "us?"
+
+Dr. Martin: Our people. We built the place you found.
+
+Dr. Baker: Where are you from?
+
+Dr. Martin: [REDACTED]. We have no where else to go. [REDACTED] was destroyed. This is our home now.
+
+Dr. Baker: …and what do you intend to do here?
+
+Dr. Martin: Live. As long as we can. We wear your people because we have to.
+
+Dr. Baker: Were you always like this? "Wearing" others?
+
+Dr. Martin: No, we were once like you, until we had to defend ourselves from…how to say it in your language…those who came from outside.
+
+Dr. Baker: So you were invaded?
+
+Dr. Martin: Yes. By the [REDACTED]. And their masters, the … Screamers from Beyond. They are why we converted. The Screamers could not see us afterwards.
+
+Dr. Baker: I see. And you were watching, in case the invaders came back?
+
+Dr. Martin: Yes. They will! You should convert too! It's the only way to protect yourselves. The process should work. We would help you.
+
+Dr. Baker: We should become like you?
+
+Dr. Martin: Yes! You could wear your own bodies…you would hardly know the difference.
+
+Dr. Baker: I can see the advantages…still…
+
+Dr. Martin: You must do it! They will come back! It will be too late then…
+
+<End Log>
+
+Closing Statement: Subject grew agitated, and has regularly tried to convince Foundation personnel to use SCP-1980-3 to "convert" themselves into instances of SCP-1980-2.
+
+Addendum 3: Excerpts from records found in SCP-1980, translated by subject D-19213 while exposed to an instance of SCP-1980-1.
+
+"Contact lost with [REDACTED]. Can only assume the worst. Hope they were able to convert themselves in time."
+
+…
+
+"We watch the access point continually. So far, we are safe here."
+
+…
+
+"We were wrong! [REDACTED] are pouring out of the access point. So many! They must plan to hit every Class-J planet in this part of the galaxy. There was no escape after all. Convert and prepare; what else can we do?"
+
+…
+
+"70% of us lost…need to find new hosts for the modules. The local life here is incompatible for transfer. ████████████ tried to merge with a captured [REDACTED]; knew that wouldn't work…they are too different.
+
+…
+
+"One of the last … our bodies may feed the Screamers, but perhaps someone will find our minds."

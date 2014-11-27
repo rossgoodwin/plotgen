@@ -1,0 +1,17 @@
+Item #: SCP-1629
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1629-1 is housed in a modified containment vault at Site-59. The vault is to be equipped with video surveillance and SCP-1629-1 is to be monitored at all times. A steel shaft 30cm in diameter is to connect this vault to the exterior of Site-59. SCP-1629-1 is to be left open at all times; should it autonomously close, the shaft connected to the vault must be opened to facilitate SCP-1629-2's entry. SCP-1629-2 itself is not to be interfered with.
+
+Description: SCP-1629-1 is a one-door cabinet constructed of oak with dimensions of 41cm x 38cm x 38cm. Testing has revealed no anomalous properties in the artifact's composition or structure, with the exception of oxidation irregularities which have prevented research teams from determining the artifact's age. When opened, SCP-1629-1 is consistently empty. The cabinet has no identifying marks of any kind, and the nature of its creation is indeterminate. SCP-1629-1 was recovered from an abandoned diesel station located in West Virginia, USA.
+
+Once every 8-17 weeks, SCP-1629-1 will forcibly eject any objects inside it (how this occurs is unknown), close, and become impossible to open. 20-30 minutes later, a paper airplane (henceforth referred to as SCP-1629-2) will arrive at SCP-1629-1's location, at which time the latter will open slightly. SCP-1629-2 will then unfold and assume a flat shape, allowing it to enter SCP-1629-1. After an additional 20-30 minutes (during which time the artifact remains impossible to open), SCP-1629-1 will open again, ejecting the instance of SCP-1629-2, which will then immediately vacate the area.
+
+While SCP-1629-2 appear to be constructed of ordinary white printer paper, they demonstrate numerous abnormal properties. SCP-1629-2 was first discovered in 1996, when a commercial aircraft was damaged and subsequently crashed due to collision with an instance. This incident was later declared the result of a positive charge lightning strike. SCP-1629-2 instances are first detectable entering Earth's atmosphere; they will then slowly decelerate as they approach the planetary surface. If the path to SCP-1629-1 is obstructed in some way, SCP-1629-2 may retain some of its reentry velocity to punch through said obstruction. As SCP-1629-2 has never been captured successfully, it is unclear why the instances have not been destroyed by reentry heat or high-speed collisions. Upon leaving SCP-1629-1, SCP-1629-2 will quickly accelerate away from Earth's surface, achieving escape velocity and eventually reaching an estimated speed of 0.01c before observation of the instance becomes impossible. SCP-1629-2's entry and exit trajectory varies greatly, and no consistent interstellar source has been determined.
+
+Addendum [1629-001]:
+
+On 21/7/2008, an experiment using a high-speed camera imaged the surfaces of a SCP-1629-2 instance as it unfolded to enter SCP-1629-1. The text on one of the surfaces read as follows:
+
+Alright, I give up, you win this round. Where are you? Mom and Dad are coming home soon.

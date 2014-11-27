@@ -1,0 +1,85 @@
+Item #: SCP-1220
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1220 is to be contained in three (3) compact cassette cases, clearly marked with their designation. The cases will be sealed with tamper evident tape, and stored in a locking drawer along with all research notes pertaining to them.
+
+Due to the sensitive nature of SCP-1220, any recording of spoken SCP-1220 may not be digitized without permission from three (3) personnel ranking level four (4) or higher. If it is to be digitized, the data is to be stored on a computer with no or disabled network capacity, to prevent unauthorized access to SCP-1220.
+
+Pending further review, no personnel are permitted to expose themselves or others to SCP-1220.
+
+Description: SCP-1220 is an unknown, possibly dead language. It does not appear to belong to any known language family. It is a tonal language, similar to Mandarin, and shares a similar compounding structure for forming complex words. However, the number of phonemes used in SCP-1220 are far in excess of those used in any other language; some phonemes recorded appear to be unique, such as Phoneme ████ ("Chirp A"). Several of the phonemes are utterances which the human vocal apparatus was not meant to accommodate, yet the only known native speaker seems to have no difficulty reproducing them multiple times in rapid succession.
+
+The only known recording of SCP-1220 is a set of three cassette cases, containing two (2) hours and thirty four (34) minutes of recording. The recording is of a linguistic survey with an elderly woman. Interviewer begins by identifying the woman as one Ms. ████, and states that she is one of the last native speakers of a language identified only as ████████. The interviewer goes on to explain that Ms. ████ had offered to tell a story in her native language, and once more in English. His explanation complete, the interviewer sets the recorder down on the table, and Ms. ████ begins to tell the story. Once she has completed the story in SCP-1220, she repeats it once again in English, and the tape ends.
+
+The story is a variant on the 'global flood' story present in many Mediterranean cultures. The story outlines a great flood that covered the world, and one man who survived. The man, finding himself in a barren world, scooped up several handfuls of clay, and instructed them of their new purpose, whereupon the clay erupted into a handful of wheat, an ox, another human being, and [DATA EXPUNGED].
+
+Recorded instances of SCP-1220, such as those on the tapes, appear to be inert and safe for study. However, when a living subject vocalizes in SCP-1220, a zone of anomalous space is produced. The mechanism behind the production of this zone is as yet undetermined, though the result is consistent with all test subjects. The zone has been measured extending as far away as 10m from the speaker, though the zone is generally smaller, averaging a sphere with a radius of 2m. The exact nature of the zone is dependent on the nature of the utterance. This property was discovered by Dr. █████ (1/1220), who on 9/5/████ pronounced morpheme ███ (Fire), whereupon the sleeve of his coat began to smolder. Dr. █████ was treated for second degree burns, and the coat has been placed in containment, where it continues to smolder. Following this incident stricter precautions were instated regarding access to SCP-1220, and testing proper began. For more information, refer to attached test logs.
+
+Addendum:
+
+Test log for Dr. ███████, 9/14/████
+
+Test Subject: Jr. Assistant ██████, 1/1220
+
+Native Language: English, American derivation
+
+Word Spoken: Morpheme ██ 'Rain'
+
+Result: Area around subject extending out to 3.11m experienced rainfall. Rain did not appear to originate from ambient atmospheric moisture, and fell at an angle suggesting wind, which was not felt outside of the zone. Subject initially reported that the rain was pleasantly warm, and initial sampling found that the precipitation was composed of water, with some particulate matter. Zone was found to follow subject, and that moisture left behind by the zones passage remained persistent, even after the anomaly ended. Subject reported skin irritation beginning one (1) minute after the end of the anomaly, which increased over time. Subject was washed in an on-site emergency shower, and was later treated for mild chemical burns. Examination of the precipitation sample afterwards revealed that the water became an aqueous solution of HCl. The recorded concentration of the sample was far higher than what was suggested by the Subject's reaction. Continued testing revealed that the HCl solution was increasing in concentration over time, until an hour after the end of the anomalous event, whereupon the contents of the sample contained only gaseous HCl.
+
+Note: Following the events of the test, protocols were revised to forbid testing by non-D Class personnel.
+
+Test log for Dr. ███████, 9/25/████
+
+Test Subject: D-423/1220
+
+Native Language: English, American derivation
+
+Word Spoken: Morpheme ██ 'Clay'
+
+Result: The ground surrounding D-423 out to 2.01 meters was transmuted into red clay. Effect began at the subjects feet, and radiated outwards. Wave continued until it reached anomaly boundary, whereupon it abruptly ended. Subject was asked to move around on the clay, which was found to be stable. The boundary of the anomaly shifted with the subject, with clay left outside of the anomaly rapidly transmuting back to its former state, while surfaces that entered the anomaly zone were transmuted into clay. Subject acquired a sample of the clay using a stainless steel trowel, which showed no signs of reaction. The sample was found to be soft enough to deform by hand. Once pressure was removed, the sample returned to its original shape, demonstrating a 'memory foam'-like quality. Subject reported that the clay felt abrasive, similar to large grit sand paper, even through the work gloves that D-423 had been issued. Sample was bagged and removed from anomaly zone. It remained clay upon removal, and is currently available for study.
+
+Five (5) minutes after the initial anomalous event, Subject reported piercing pain in left foot. On the spot inspection revealed an organism burrowing into the ball of D-423's foot, having pierced through 4cm of rubber to do so. The organism, designated SCP-1220-a, was removed via on site medical personnel, and placed in a sample bag, along with an additional sample of the clay. SCP-1220-a appears to be some form of terrestrial roundworm, measuring 6cm, possessing a hardened exoskeleton and an enlarged mouth, containing tooth-like growths similar in shape and function to a lamprey's teeth. SCP-1220-a is alive at time of writing, and currently available for study.
+
+Subject requested a chair, following encounter with SCP-1220-a. Request was authorized, and Subject remained seated for the remainder of the test.
+
+Ten (10) minutes after the initial anomalous event, Subject reported instability in chair. Shortly afterwards, the clay began to liquify, becoming quicksand like in behavior. Subject was ordered to remain in place as the chair sunk into the clay. More examples of SCP-1220-a were spotted around the chair, as the area of transmuted clay began to recede. Subject at this point violated experimental procedure by leaping away from the chair, attempting to avoid immersion in the clay. The anomalous zone followed D-423 in flight, and upon landing subject was completely immersed in clay. Rescue attempts were considered, but before any plan could be put into action, the anomalous zone had disappeared. The fate of D-423 is currently unknown.
+
+The folding chair used in the experiment was severed by the movement of the anomalous zone, and the remaining pieces appear to have been separated from the rest of the chair by a very sharp blade.
+
+Test log for Dr. ███████, 10/4/████
+
+Test Subject: D-424/1220
+
+Native Language: Spanish, Mexican derivation
+
+Word Spoken: Morpheme █ "-ness/having the qualities of"
+
+Note: After the previous two tests, Dr. ███████ requested testing on non-nouns.
+
+Result: Anomalous zone not observed in this test. Subject reported a sensation of 'being watched', along with occasional scents similar to burning tires, and a greasy feel that traveled along the Subject's arm. Outside observers were unable to confirm any scent or oiliness before the anomalous event ended.
+
+Test log for Dr. ███████, 10/5/████
+
+Test Subject: D-424/1220
+
+Native Language: Spanish, Mexican derivation
+
+Word Spoken: Morpheme ██ compounded by Morpheme █ "Clayness/Having the qualities of clay."
+
+Result: Anomalous zone once again not observed during this test. Subject initially reported feelings of physical wellness, of 'sturdiness' and immovability. Two (2) minutes and twenty six (26) seconds after initial vocalization, Subject reported stiffness in limbs. Two (2) minutes later, subject's skin became clay like, originating around the mouth and spreading outwards. Subject was unable to communicate with staff during the transmutation, which eventually encompassed the whole of D-424's body. Samples collected after the fact show that the transmutation was complete, and that all of D-424's mass was transformed into clay.
+
+Test log for Dr. ███████, 11/28/████
+
+Test Subject: D-425/1220
+
+Native Language: Mandarin
+
+Word Spoken: Morpheme ███ "Covenant/Communion/[Data expunged]"
+
+Result: Immediately following vocalization, and continuing for thirty three(33) seconds after vocalization, Research Sector-██ experienced seismic activity, recorded at 3.2Mw. Seismic event faded gradually, ceasing completely after two (2) minutes. Subject began to report sensations of contact, describing hands running over her skin. Staff within 10m of D-425 reported similar sensations. Sensations became overwhelming at four (4) minutes and fifteen (15) seconds, whereupon D-425 collapsed. Subject begins reporting visual, auditory, and tactile hallucinations. Hallucinations included: a flock of bats, covered in bleached bone plates, swarming around the subject; a city made out of melted green glass; a tall figure, with a head resembling a compound eye, surrounded by sourceless 'plates' of light. Upon reporting the last hallucination, the described figure became visible to all staff within the testing chamber. The figure seized the subject, and both vanished. Later review of security footage did not record the presence of the figure, designated SCP-1220-b
+
+Note: Further experimentation with SCP-1220 is suspended indefinitely, pending further review.
+
+Agents encountering instances of SCP-1220 in the wild are ordered to not engage with the speaker, and instead to notify the home office. Further actions will be handled on a case-by-case basis.

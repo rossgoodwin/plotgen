@@ -1,0 +1,73 @@
+Base transceiver station hosting SCP-1558 upon initial discovery.
+
+Item #: SCP-1558
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1558 is currently contained in a High Value Item Storage locker in Site 76. In the event that an extant instance of SCP-1558 is found, Mobile Task Force Rho-14 (“Signal Crawlers”) will be activated to return SCP-1558 to a Foundation-controlled BTS.
+
+SCP-1558-2 is to be kept at all times in a standard server room in Site 76. Access to SCP-1558-2 is limited to Level 2 personnel or above. In the event of I/O activity on SCP-1558-2’s attached hard drive, the current Site 76 Director will be automatically notified.
+
+Description: SCP-1558 is an anomalous cellular network antenna, designed for compatibility with the ████ network standard.
+
+SCP-1558 has the capability of ‘intercepting’ telephone calls placed through its transceiver stations and covertly replacing the audio of said calls. All calls known to be intercepted to date have fit the following criteria:
+
+The call must be placed by an individual in a vehicle traveling 65 km/h or greater.
+
+The intended recipient of the call must have a close personal relationship with the caller. The method by which this relationship is detected is currently unknown.
+
+SCP-1558’s substituted audio exhibits similar characteristics in every recorded instance: A two-person interaction involving a deep male voice (SCP-1558-1) and a perfect replica of the voice of the intended recipient of the call. The substituted audio demonstrates an awareness of the caller’s circumstances and relationship with the intended recipient. In each instance, SCP-1558-1 will claim to have the intended recipient of the call held at gunpoint, and will threaten to kill them unless the caller causes the vehicle they inhabit to crash. The call is not connected to the intended recipient in any way.
+
+At least ██ vehicular crashes, █ small aircraft crashes and the crash of US Airways Flight ████ (whose mid-flight intervention by the Foundation led to the discovery of SCP-1558) are known to have been caused by SCP-1558, totaling ██ casualties.
+
++ SCP-1558-2
+
+- SCP-1558-2
+
+SCP-1558-2 (rack server second from top) upon recovery from home of F████ D██████.
+
+SCP-1558-2 is a standard, ██████-brand 1U rack server. Upon the completion of a SCP-1558 intercepted call, a recorded audio file of said call is downloaded to SCP-1558-2’s hard drive at the next time SCP-1558-2 has internet access and power. The attached hard drive contains ██ audio files as of ██/██/████, currently encompassing all known SCP-1558 events.
+
+SCP-1558-2 was recovered from the home of F████ D██████, 42, a cell systems engineer from Utica, New York, United States. D███████ had recently served a 10-year prison sentence for possession and distribution of ‘snuff films’ depicting vehicular homicides, and was found dead of a self-inflicted gunshot wound upon discovery by Foundation operatives.
+
++ Transcript 1558-████-32
+
+- Transcript 1558-████-32
+
+Partial transcript of SCP-1558 event. Call placed on ██/██/████ by M██████ ███████ (driving on Interstate 90) to his wife, S████ ██████ in Canojoharie, NY.
+
+<Begin Transcript>
+
+M██████ ███████: Hello?
+
+SCP-1558-1: I have S████ at gunpoint. You need to make a decision.
+
+“S████ ██████”: [sobbing] No, don’t listen! Just hang up!
+
+M██████: What the hell is happening? S████ , what’s happening?
+
+SCP-1558-1: Listen to me. I know you’re driving, I have a camera on you. Get up to 80, and drive over the median into the oncoming traffic. If you do that, I’ll let S████ go. Refuse, and she dies.
+
+“S████”: Don’t, M██████ — I love you, please don’t do it.
+
+M██████: Are you hurt? Are G████ and L████ there?
+
+“S████”: No, no, they’re at practice. Listen, you don’t need to do this, hurt other people for me —
+
+The sound of an impact is heard, and “S████” cries out in pain.
+
+SCP-1558-1: [yelling] Shut the [EXPLETIVE REDACTED] up! It’s his choice.
+
+M██████: Why are you doing this?
+
+SCP-1558-1: You’re driving fast enough. Cross the median or I pull the trigger.
+
+Thirteen seconds of silence.
+
+M██████: I — I can’t. I love you, S████.
+
+Approximately four seconds of silence, followed by the sound of a car horn and loud metal impact.
+
+<End Transcript>
+
+At the time of the recording, M██████ ███████’s ████ sedan impacted oncoming traffic near mile marker 29 on Interstate 90, causing a five-car pileup, 7 deaths and 4 injuries. Audio of calls continues after impact, with the sound of fire and unidentified screams. A copy of this portion of the audio, along with many other clips from other incidents, was copied to a hidden directory on F████ D██████’s personal computer.

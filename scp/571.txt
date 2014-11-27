@@ -1,0 +1,39 @@
+Item #: SCP-571
+
+Object Class: Anomalous Euclid Keter
+
+Special Containment Procedures: A single piece of paper containing an instance of SCP-571 should be kept inside an opaque, sealed container of any kind, at the center of any high security containment room (currently the primary containment chamber at Compound-1043/Site-143). This containment room must be equipped with incineration devices, which shall be maintained and tested regularly. Any site housing SCP-571 must not be located within 200km of any minor population center, or within 500km of any major population center. No devices that have any capability of transmitting pictures are to be allowed within the perimeter of the compound housing SCP-571.
+
+Only one instance of SCP-571 should exist at any time, except during specially approved testing. Should the paper containing SCP-571 be destroyed, another copy may be printed from the encrypted backup file. No other recordings of SCP-571 are to exist.
+
+SCP-571's containment chamber is to be monitored using infrared devices. Eight level 2 guards must be stationed outside of SCP-571's containment chamber at all times. Four of these guards are to wear infrared goggles during shifts. Any persons attempting to enter the containment chamber without authorization are to be terminated immediately. Upon any successful unauthorized entry, the incineration devices in SCP-571's containment chamber are to be activated immediately.
+
+All personnel leaving Site-143 are to be examined for potential SCP-571 contamination without visual contact as outlined by Protocol 571-Alpha. Personnel attempting to bypass Site-143 security are to be terminated within Compound-1043's 10-mile perimeter.
+
+In the case of an SCP-571 containment breach, affected personnel are to be summarily killed and incinerated. If Compound-1043 becomes significantly compromised, the network of auxiliary incineration devices should be activated as outlined by Protocol 571-Alpha.
+
+Mobile Task Force Eta-10 ("See No Evil") are assigned to handling potential instances of SCP-571 and SCP-571-related memes appearing independently outside containment.
+
+Description: SCP-571 is a complex pattern of lines and scribbles with an anomalous memetic effect. Appearance was determined by cutting an image of 571 into sections and rearranging the sections, disabling the pattern's anomalous effect and allowing it to be safely viewed.
+
+SCP-571's anomalous effect has changed since its initial containment by the Foundation. The mechanism (if any) that has caused the changes in this effect, or its initial creation, is unclear. (See documentation attached.)
+
+Current SCP-571 anomalous effect follows.
+
+When any human looks at SCP-571 for any amount of time, they will immediately search for a piece of paper or other suitable stationery. The exposed human will then begin to copy SCP-571 onto the new paper, with any available drawing implement. Despite the particularly high complexity of the pattern, copying of SCP-571 by an exposed human will be successful approximately 96% of the time.
+
+Once SCP-571 has been copied (whether successfully or not), the affected person will seek out other humans, and attempt to coax or force them to view the copied pattern. Successfully infected victims will immediately attempt to copy the pattern, thus continuing the process. Attempts to reason with infected persons are met with failure.
+
+Carriers of SCP-571 will typically only talk or interact with others for the eventual purpose of causing them to look at SCP-571. Initially, SCP-571 carriers retain their original personality and behavior, with the added compulsion aspect, similar to a heightened obsessive compulsive disorder. In this stage, carriers can often be communicated with as normal, but are unable to prevent themselves from acting out the SCP-571 compulsion.
+
+If an individual SCP-571 carrier does not successfully infect a new, previously uninfected carrier within [REDACTED], exponential psychological deterioration will occur in the carrier. The type and rate of deterioration varies from carrier to carrier, but ends with near-total lack of activity in the cerebrum. Onset of deterioration can be delayed further (or temporarily halted once begun) by infecting multiple new carriers within a short period of time. Individual SCP-571 carriers are aware of this circumstance and may use this fact as a way to coax others to view the SCP-571 pattern.
+
+Carriers of SCP-571 who are unable to locate other uninfected humans for [REDACTED] days will begin to regularly coax other carriers to view and copy the pattern again. In the final stage of psychological deterioration, 30% of carriers will, if not prompted otherwise, continue this cycle until undergoing death by thirst. The remainder of exposed individuals will eat and drink as necessary, but will often neglect other non-vital bodily needs (such as using restrooms or voluntarily sleeping).
+
+Exposure to Class-C amnestics may cause SCP-571 carriers to lose their ability to perfectly duplicate the SCP-571 pattern. However, carriers will continue to attempt to recreate the pattern and attempt to coax other individuals to view it. These depictions are never accurate depictions of SCP-571 (even in individuals with 'photographic' memory, as the pattern is too complex to be copied by non-anomalous means) and cannot be transmitted. There is no known means of completely curing individuals affected by SCP-571.
+
+As carriers of SCP-571 are permanently unable to engage in any conscious activity unrelated to enticing another person to view SCP-571, containment breach may result in an AK-class end-of-the-world scenario if SCP-571 carriers are able to reach major urban population centers.
+
+Addendum: Incident X571-A: [DATA EXPUNGED] Because of the heightened likelihood that further instances may come into existence outside of containment, SCP-571 has been reclassified as Keter. Description and containment procedures updated accordingly.
+
+Additionally, it appears that in the event of a SCP-571 "critical mass" carrier population, defined as a population above [REDACTED] within close proximity to one another, the psychological deterioration effect can be staved off indefinitely. However, the compulsion aspect remains permanent.

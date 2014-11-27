@@ -1,0 +1,49 @@
+Item #: SCP-561
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-561 has an unidentified center, but its known area of effect covers several square kilometres of Canadian wilderness, near the abandoned town of ██████████, Saskatchewan. It is currently listed as a nature preserve, and the entire area is fenced in with guards posted and patrolling outside the chain-link borders. The fence is to be a minimum of 3 m (10 ft) in height, with both barbed wire loops and an electrified wire along the top. Intruders are to be taken into custody, stripped of all recording and photographic devices, and interrogated to determine what anomalies have been observed. Authorization is granted to use any class of amnesiac when deemed necessary. If intruders are injured by any of the products of SCP-561, they may be airlifted to the nearest hospital, and provided with a bear attack cover story.
+
+The products of SCP-561 may only be moved by authorized personnel to whatever site is necessary for testing. Any products of SCP-561 found outside the fenced perimeter may be terminated on sight unless they are accompanied by appropriate personnel, or are part of Group N (see Addendum 561-1).
+
+Description: Although SCP-561 itself is unseen, evidence of animal remains in the area suggest that it has been in place since at least 20██. SCP-561 has so far proven to be directly undetectable, producing no electromagnetic or gravitational anomalies. Due to this, SCP-561's exact area of effect in unknown. A rough guess of its boundaries has been extrapolated from the appearance of its products. SCP-561 changes the reproductive results of nearly all living things within its radius, causing them to produce offspring from species extant in the Pliocene epoch, the time period just before the most recent ice age. This effect extends to plants and animals alike, including humans. It should be said that the area around SCP-561 is not yet noticeably different from most other North American forested areas. The flora show slight alterations only, due to the long generation time of larger plants. The area's fauna show a steady increase in alteration as time goes on. At this time any animal life conceived in the radius of SCP-561 has a fair chance of producing Pliocene-era offspring.
+
+Testing to see which Pliocene species are produced as offspring from modern species has yielded impressive, if sometimes unusual, results. It appears that evolutionary relationships are not preserved by the anomaly, as offspring may be on separate branches of a phylogenetic tree. The strongest predictor of the species of the offspring is morphological similarity to the parent. DNA testing has shown no genetic inheritance from parents in the altered offspring, as though the female were only a host-mother. The direct comparison of DNA from SCP-561-affected offspring to their Pliocene counterparts has not yet occured, due to difficulties in obtaining genetic samples directly from Pliocene-era life using Foundation assets such as SCP-███. Testing with samples of DNA taken from fossils dating to the Pliocene era has proceeded in the interim; current results suggest that affected offspring may be assigned to Pliocene-era species, not novel species, with 99% confidence.
+
+It appears that prokaryotic life is unaltered by the anomaly. After nearly 50,000 generations cultured of E. coli, no mutations or changes to DNA have occurred which can not be attributed to normal genetic drift.
+
+Surprisingly, the ecology of the area has adapted well to the appearance of precursor species. This may be a result of the morphological selection displayed by the anomaly, or may be otherwise unrelated. It is not uncommon to see deer the size of moose with large antler racks, or saber-toothed cats hunting. Photographs from the area of SCP-561 reveal cougars nursing their own cubs alongside Smilodon cubs from the same litter, and similar occurrences. Avian species do not seem to experience obvious alteration.
+
+Animal husbandry of precursor species has been approved; see Addendum 561-2.
+
+Addendum 561-1:
+
+██████████, Saskatchewan, is a town which lies well inside the area of effect of SCP-561. The residents were evacuated by the Foundation after ██% of births since 20██ were identified as Neanderthal infants. The obvious morphological differences in the infants were explained as a rash of small mutations due to a tainted water supply. The residents continue to be observed in their new locations, in case SCP-561 induced permanent changes. The children have been deemed safe, as no more than odd physical traits sets them apart from their human peers. This cohort is classified as Group N in Foundation records.
+
+Addendum 561-2 - Offspring produced via testing:
+
+Cougars, lions, tigers, and other large cats have produced various species of sabre-toothed cats, including those more closely related to marsupials and mustelids. Sabre-toothed cats may be trained to the same extent other large cats can, but should be treated always like dangerous animals, as with any tiger or lion.
+
+Deer, elk, horses, and moose have produced several extinct species of deer and elk, some quite impressive in size and antler width and configuration.
+
+Black, grizzly, and polar bears have produced several species of bear. These have included a very large cave bear (Ursus spelaeus) and a strange running bear with a more wolf-like configuration of limbs.
+
+Wolves have produced larger, more aggressive dire wolves (Canis dirus). Several of these have escaped, and have been spotted as much as ███ km away from the perimeter. An environmental impact study judged that they are similar enough to normal wolves that no special containment effort is required, although they remain targets of opportunity. Dire wolves may be domesticated to the same extent as wild wolves, but largely remain aggressive and feral.
+
+Coyotes, foxes, and domesticated dogs tend to produce more wild versions of the parent species, as well as smaller canid creatures. Most smaller canids have been trained to some degree, but do not have the same pack instincts as their parents.
+
+Domesticated cats produce members of Felis silvestris, Felis chaus, and Felis margarita almost uniformly.
+
+Small pony breeds and donkeys have produced primitive equines, some relatively small in size and labeled "cripplingly adorable" by staff members. They have been observed to be very high-strung and react quickly to danger. Staff are reminded that many species of proto-horse do bite when threatened.
+
+Elephants have produced mammoths and mastodons, much to the thrill of certain senior staff members. Both seem quite intelligent, and may be trained in a fashion similar to modern-day elephants. However, they seem to do poorly when removed from the area and have difficulty adapting to eating modern vegetation.
+
+Rhinoceros brought into the area have produced [DATA EXPUNGED].
+
+Note: "What do you mean we can't weaponize them? That would be AWESOME!" - Dr. Rights
+
+Dolphins and other modern-day cetaceans have produced their counterparts. The most common example of this are various species of Squalodon. Hopes are high that a large cetacean might produce a specimen of Basilosaurus or something similar; plans are underway to acquire a breeding pair of [DATA REDACTED].
+
+An ostrich brought into the area laid an egg that did not hatch. Upon dissection, the egg was discovered to contain the fetus of an unidentified species of terror bird (Phorusrhacidae).
+
+Additional tests are planned once parent specimens can be acquired.

@@ -1,0 +1,35 @@
+SCP-2061, pictured during experimentation in 1981.
+
+Item #: SCP-2061
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2061 is kept in a standard containment locker at Site-76 in a secure container. Experimentation on and access to SCP-2061 is currently suspended indefinitely. Future experimentation with SCP-2061 is to be led by Foundation personnel employed as contractors by the Sharp Corporation.
+
+The three living 2061-Positive individuals are currently housed in Foundation-affiliated offsite inpatient psychiatric facilities, listed in Document 2061-C. Professional care at these facilities has been directed at avoiding visual contact between 2061-Positive individuals and objects capable of performing user-facing electronic mathematical calculations.1
+
+Description: SCP-2061 is a late-1970s Sharp ElsiMate EL-1185 electronic printing pocket calculator. SCP-2061 produces a compulsive effect in 99+% of humans viewing it2 in person, within a range of approximately 20 meters. This effect is nullified if there is any solid physical object between SCP-2061 and the viewer, even if the object is transparent. Windows, plastic bags and other clear objects have proven sufficient to prevent the manifestation of SCP-2061’s effect.
+
+The compulsive urge manifests as an irresistible desire to insert any object capable of performing user-facing electronic mathematical calculations into one’s own oral cavity, as deeply as possible. This urge manifests regardless of the harm caused by its being acted upon, and a number of fatalities and severe tracheal injuries were caused by SCP-2061 prior to the object’s transfer to SCP Foundation containment.
+
+SCP-2061’s cognitohazardous effect does not appear to manifest on any individuals who meet the following criteria:
+
+Criterion A: Individuals who have received payment from the Sharp Corporation or any of its subsidiaries at any point in their lives
+
+Criterion B: Individuals who have had unprotected sexual intercourse3 with those meeting Criterion A.
+
+Individuals having sexual intercourse with those meeting Criterion B but not Criterion A do not have immunity from SCP-2061’s effects, in four known instances.
+
+Interviews with Sharp Corporation executives and investigation into corporate records has thus far unearthed no purposeful connection between Sharp and SCP-2061.
+
+Recovery: SCP-2061 was initially contained by the Trenton Police Department, after a family of five died of asphyxiation from inserting SCP-2061 into their oral cavities in turn. Initial responding officer R. Allen was able to insert SCP-2061 into a sealed evidence bag, as she met Criteria B for SCP-2061 immunity. This prevented discovery of SCP-2061’s anomalous effect until two investigators from the department died and one was hospitalized from its effects after removing SCP-2061 from its evidence bag, at which point the Foundation was notified.
+
+Initial press reports from the Trenton area were censored by Local Task Force 609-Semkath (“Super Bowl Three”). An excerpt of a Trenton Times article from 1976 regarding the first known 2061 event is reproduced below:
+
+Footnotes
+
+1. Since SCP-2061’s initial containment in 1979, this category of objects has dramatically expanded, including phones, PDAs and other objects listed in External Containment Guidelines.
+
+2. Those able to be impacted by this compulsive urge are known as 2061-Susceptible individuals.
+
+3. The requirements of “unprotected sexual intercourse” for the spread of SCP-2061 immunity are currently not fully understood, beyond direct bodily fluid contact. Further study on these requirements is currently proposed by Foundation demographic researchers.

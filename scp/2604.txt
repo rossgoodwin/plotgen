@@ -1,0 +1,49 @@
+SCP-2604 prior to containment.
+
+Item #: SCP-2604
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2604 is stored in containment cell 92 at Site 39.
+
++ Access Outdated Procedure
+
+- Encrypt
+
+Safe exposure to SCP-2604 has been determined as less than 60 minutes total lifetime exposure. All observation outside of approved testing is to be conducted remotely. The cell is furnished with appropriate sanitary and culinary equipment for prolonged exposure without direct intervention from Foundation personnel.
+
+Following Incident 2604 Alpha all observation is to be conducted remotely. Under no circumstances are any Foundation personnel to come into direct visual contact with SCP-2604. Two armed guards are stationed to prevent exposure twenty four hours a day. SCP-2604 is not to be moved from containment cell 92 under any circumstances. Any instances of SCP-2604-1 captured displaying late stage symptoms are to be isolated immediately, and guarded by personnel with no prior exposure to SCP-2604.
+
+Authorisation for testing rescinded as of Incident 2604-Alpha - O5-█
+
+Description: SCP-2604 is a fence constructed from pine wood and iron nails. Interviews with witnesses and personnel that have come into contact with SCP-2604 have revealed that none of them are able to identify SCP-2604 as being a fence.
+
+Direct visual contact with SCP-2604 causes a progressive cognitive dysfunction whereby affected subjects (hereafter referred to as SCP-2604-1) are incapable of recognising or responding to artificial barriers, markers, or pathways. The effect only progresses when subjects are in visual contact of SCP-2604, breaking this contact will arrest the progression. Amnestics have been shown to have little use, with test subjects reporting that they are unable to recall their observation of SCP-2604 but remain affected by the accompanying anomalous properties.
+
+After three hours of exposure, SCP-2604-1 are incapable of recalling the purpose or usage of signs or barriers that do not physically prevent movement. After twelve hours, SCP-2604-1 are incapable of recognising that a barrier to movement exists as such, failing to identify any barrier, marking, or direction that would prevent movement, even to the detriment of safety.
+
+In ██% of cases SCP-2604-1 will undergo a type delta psychological restructuring (DPR) event following not less than 72 hours post exposure to SCP-2604. All cognitive dysfunction ceases, and SCP-2604-1 exhibit individuated responses to their exposure to SCP-2604. Common forms observed are:
+
+The ineffectiveness of containment as a principle (observed exclusively among Foundation personnel)
+
+Loss of personal inhibition
+
+Exhibition of markedly increased symptoms of pre-existing psychological disorders
+
+Significantly increased risk-taking or inability to manage risk
+
+Individuals observed to have experienced a DPR event also exhibit the ability to hasten onset in SCP-2604-1, notably including instances with little or no prior exposure.
+
+ACCESS RESTRICTED TO LEVEL 4 CLEARANCE
+
++ Input Credentials
+
+- Encrypt
+
+Incident 2604 Alpha
+
+Following eight weeks of testing and containment, sixty three Foundation personnel had experienced some degree of exposure to SCP-2604. Late stage infection was present in fifteen individuals, all D-class exposed as a result of routine testing. At 17:48 on ██/██/20██, D-178541 experienced the first recorded DPR event, and rapidly incited several nearby SCP-2604-1 to undergo the same. Security personnel ████████ and ████ were forced to undergo DPR events, before assisting D-178541 with breaching security at the F-wing barracks.
+
+Over the course of the next three hours, approximately thirty nine Foundation personnel experienced DPR events, a further seven had been terminated in attempts to resist. Containment was deliberately breached on █ SCP objects, and attempts were made to abscond with these objects. Remote observation of SCP-2604-1 indicated that they were collectively convinced of the ineffectiveness of containment on these objects, and were attempting to remove them from the site for unknown reasons.
+
+Over the next 48 hours, Foundation security successfully reclaimed all but █ SCP objects, and all instances of SCP-2604-1 still on site were terminated. To date █ SCP objects and ██ former Foundation personnel are unaccounted for. Containment procedures were appropriately revised following this incident.

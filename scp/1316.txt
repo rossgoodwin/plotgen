@@ -1,0 +1,67 @@
+SCP-1316 in containment.
+
+Item #: SCP-1316
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1316 is to be the only SCP object contained at Bio Containment Site 39. It is to be housed in a 2.5 x 2 x 1.5 m enclosure constructed from radio frequency (RF) shielding material. A single radio receiver is to be placed in the containment area of SCP-1316 in order to record all transmissions. Access to recordings of the transmissions of SCP-1316 is contingent upon approval of at least two Level 4 personnel. Feedings are to take place twice daily, while litter is to be changed every three days by a single D-Class personnel. Only D-Class personnel may come within 10 meters of SCP-1316.
+
+Description: SCP-1316 is a female Felis catus, or common house cat. It exhibits no unusual behavior besides a marked friendliness to strangers. Despite having been in Foundation custody since 1948, it is physiologically identical to a three-month-old kitten, and shows no signs of aging. Upon acquisition by the Foundation, SCP-1316 was originally classified as an anomalous object.
+
+Every day at 09:20:37 GMT, SCP-1316 emits a radio broadcast between 4225 and 16048 kHz for exactly five minutes. This transmission can be picked up on any standard shortwave radio. The broadcasts opens with three bars taken from the British folk ballad "Tam Lin," followed by an artificially generated female voice reading a series of eighty numbers. (See Addendum 1316-33m)
+
+Following Incident 1316-23a, only D-class are to come into contact with SCP-1316, to reduce the likelihood of intelligence breach.
+
+Original Anomalous Object Entry
+
+Item Description: A female Felis catus, or common house cat, which does not age. Despite advanced age (allegedly purchased by Miss ██████ ███ in 1926), retains physical characteristics of a 3-month-old kitten.
+
+Date of Recovery: ██/██/1948
+
+Location of Recovery: ████████, ████
+
+Current Status: Contained at Site 112. Allowed free range of site outside of SCP object containment areas. Responds to "Lucy."
+
+Incident 1316-23a
+
+On 08/16/1952, Site 112 was attacked in a pre-dawn raid by several Chaos Insurgency strike teams. A massive security breach ensued, during which SCPs-████, -███, and -████ were stolen, -████ and -███ were destroyed, and -████, -████, and -████ disappeared. ██ Foundation personnel were killed in the course of the breach. Following standard counterintelligence practice, all Foundation personnel were debriefed and a scan of the site for bugs ensued. In addition to █ standard electronic listening devices, SCP-1316 was found to be a source of regular broadcasts. The content of these broadcasts was determined to be some manner of cipher. Movement of the subject has been restricted pending deciphering of broadcast.
+
+Log of Deciphered Broadcasts
+
+08/17
+
+OPERATION SUCCESSFUL. MISSION COMPLETE. REQUEST FURTHER ORDERS OR EXTRACTION.
+
+08/18
+
+F SUSPICIOUS. MOVEMENT RESTRICTED. REQUESTING EXTRACTION.
+
+08/19
+
+ORDERS NOT FORTHCOMING. REQUESTING NOTIFICATION.
+
+08/20
+
+CONFINED TO SINGLE ROOM. WAS PROMISED EXTRACTION UPON COMPLETION OF MISSION.
+
+08/21
+
+MOVED TO NEW SITE. UNCLEAR ON STATUS OF MISSION. REQUESTING FURTHER ORDERS.
+
+08/22
+
+WAS REFERRED TO W SCP DESIG. F KNOWS. REQUEST IMMEDIATE EXTRACTION.
+
+08/23
+
+UNCLEAR IF LAST MESSAGE RECEIVED. EXTRACTION REQUESTED. PLEASE.
+
+08/24
+
+THERE IS NO EXTRACTION IS THERE?
+
+Addendum 1316-33m
+
+Following the 08/24 broadcast, SCP-1316 has ceased regular broadcast. Other anomalous properties remain.
+
+- Researcher ███

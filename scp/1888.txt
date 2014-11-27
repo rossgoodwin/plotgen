@@ -1,0 +1,119 @@
+Aerial photo of SCP-1888 before it was secured
+
+Item#: SCP-1888
+
+Object Class: Keter Safe
+
+Special Containment Procedures: Due to the size and nature of SCP-1888, it is to be contained on-site in Facility 1888, which was specially constructed for this purpose. Facility 1888 is surrounded by a 3m tall barbed wire electric fence, with automated sentry gun turrets spaced every 12m. Access to the Facility must be approved by the site director or personnel with O5 clearance. All personnel serving at Facility 1888 must be replaced in 48 hour shifts, and only allowed to return after spending at least 48 hours outside of the affected zone.
+
+Instances of SCP-1888-1 may not be removed from SCP-1888 unless authorized by the site director. If any suspected instances of SCP-1888-1 are discovered outside of the structure, they are to be immediately returned to the interior of SCP-1888, and may only be removed again after 6 hours have passed.
+
+All flora and fauna in the affected area is to be immediately incinerated. A supply of napalm and ground salts is to be maintained at a nearby airfield to curb attempts by SCP-1888 to increase its area of effect.
+
+Description: SCP-1888 is an ancient limestone pyramid, built in the style of the [REDACTED] culture of South America. It is located at coordinates ██°██'██"S ██°██'██"W, within the nation of Peru. The height of the structure is 141m, and its total volume exceeds 2,000,000m3. Radiometric dating indicates its age as being in excess of █████ years (significantly predating the arrival of humans in the Americas).
+
+The structure outwardly displays no anomalous properties. When encountered, it was overgrown with native flora (since incinerated). An entrance is located at ground level on the north side. This leads to an interior corridor lined on both sides by eight small rooms. After 7 meters, the corridor slopes downwards, opening into a large chamber which has been termed the "Treasure Room". When a sapient being observes the inside of this room (either personally or remotely, see experiment log 1888-3j), one or more instances of SCP-1888-1 will manifest. These entities will take the form of anything the observer considers to be valuable, leading to the natural inclination to obtain them (no memetic or compulsory effects have been observed). SCP-1888-1 is always something that the subject is familiar with or has previously conceived of, and displays all of the properties of said entity. Instances of SCP-1888-1 will continue to be generated every time a new observer perceives the Treasure Room, until there is less than 3m3 of free space. If SCP-1888-1 is inside of the pyramid at precisely six hours after it first appeared, it will disappear. This process is unobservable by all known recording equipment.
+
+If SCP-1888-1 is retained outside of the pyramid once six hours have passed, it will rapidly decay into a viscous, black liquid designated SCP-1888-2. Due to the ephemeral nature of this substance, analysis has proven impossible. SCP-1888-2 will disappear if prevented from reaching any topsoil, rocks, or outdoor plants. If the liquid reaches the ground, it will be absorbed, leaving a faint black stain. Chemical analysis of soil samples affected by SCP-1888-2 reveals higher concentrations of ██████ acid, as well as [DATA EXPUNGED].
+
+Prolonged exposure to land affected by SCP-1888-2 leads to alteration in mental state and physical mutations. Symptoms of exposure initially include heightened aggressive tendencies, degradation of reasoning abilities among higher mammals, and indifference to pain and physical injury. The higher the quantity of SCP-1888-2 the land has been exposed to, the faster and more extreme the transformation. Physical mutations observed include mundane flora developing ambulatory tendrils coated with poisonous thorns, herbivorous fauna manifesting claws and teeth characteristic of carnivores, and already carnivorous fauna displaying instances of [REDACTED]. Mutated organisms will generally not attack each other, and have shown evidence of cooperation and a type of group intelligence in order to efficiently eliminate intruders.
+
+When first discovered, the infected area was approximately 3.4km in radius, but has since dropped to 3.35km after containment procedures were implemented to prevent the spread of SCP-1888-2. Projections indicate that if the land is not subjected to any more SCP-1888-2, the affected area will completely disappear by the year 20██. Infected area is now approximately 3.6km in radius and slowly shrinking. See Incident Report 1888-A.
+
+Discovery
+
++ Show Data
+
+- Hide Data
+
+The existence of SCP-1888 was first brought to the attention of the Foundation on ██/██/9█, after investigating multiple reports of people and animals disappearing in the area. Agents investigating the location established contact with the native [REDACTED] tribe living outside of the infected zone who, when questioned, constantly used an unknown word to describe the phenomenon, which has been Romanized as Icthyeiagha (ICK-THYEE-YAYG-HUH). This word lacks any phonemic precedent in the language of the [REDACTED] tribe. Accounts given by individuals vary in details on what Icthyeiagha exactly is (it has been used to refer to the infected area, the temple itself, a creature living inside of the temple, and the name of an underworld connected to Earth via the temple). Consistent throughout all accounts, is the malicious nature of Icthyeiagha and its connection to eschatological beliefs. (Request to have SCP-1888 classified as a potential XK-level hazard denied. We need more to go on than tribal mythology, Dr. ██████).
+
+Despite the warnings of the tribe, on ██/██/9█, a 24 - man expedition was sent into the area to attempt to reach SCP-1888. 6 hours after they departed, the following transmission was picked up from the team leader's mobile radio.
+
+Transmission log
+
+Expedition 1888-E1: This is agent ███████ requesting immediate extraction! You've got to get us out of here, now!
+
+1888-E2: Calm down, ███████. Please report the status of your team.
+
+Expedition 1888-E1: Calm down? Calm down!? They're all fucking dead! You bastards sent us in here with no weapons beyond machetes, we never stood a chance! They're coming for me, I know they're coming for me… you've got to get me out of here right now!
+
+1888-E2: We cannot extract you unless we know your current position. Please try to remain calm and deliver a succinct report of your situation.
+
+Expedition 1888-E1: Remain calm? Easy for you to fucking say! We just got - *sound of stressed breathing*. Okay, okay, let me just… I'm in a shallow cave, I was lucky to find it, it's provided a bit of shelter from them.
+
+1888-E2: Them?
+
+Expedition 1888-E1: The creatures - no, more like the entire ecosystem just attacked us without warning, even the fucking plants! It was like they were waiting for us to get far enough inside so we couldn't escape, they weren't normal, the ████ got ████████ and his body turned into - I, I don't know how to describe it, it was horrific, sort of like [REDACTED]. And the natives here - they aren't human! They look human, at least from a distance, but they've got [REDACTED] and they when they touch you you [DATA EXPUNGED] into the ground! Everything here is working together to kill us! I know that *faint rustling sound* Oh God they've found me! You've got to get me out of here now! Send Taskforce █████, armed with ████████! They've *sound of an animal scurrying across stone* Oh shit it's too *prolonged sounds of screaming, decaying into sound of tearing flesh and animal vocalizations, resembling [REDACTED]. Transmission lost*
+
+After this incident, a small flight of Foundation helicopters were deployed to perform aerial napalm strikes on the affected area. One of the helicopters was destroyed by a swarm of birds and insects displaying ████████████ traits, but the operation was successful, incinerating 87% of the native flora and fauna. Ground teams equipped with hazmat suits worn over ████-class body armor as well as M16 assault rifles and flamethrowers were then dispatched to destroy all remaining instances of infected flora and fauna.
+
+Partial test log:
+
++ Show Log
+
+- Hide Log
+
+Cataloging various manifestations of SCP-1888-1
+
+Subject: D-67982 (male, age 28, convicted jewel thief)
+
+SCP-1888-1: A chest 0.5 meters in length and 0.2 meters deep, containing several hundred finely-cut precious stones, estimate value $9,570,000.00
+
+Subject: D-66712 (female, age 77, former art collector)
+
+SCP-1888-1: A painting of an elderly man, signed by Leonardo Da Vinci. Examination of the artifact before it decayed resulted in a date contemporary with Da Vinci's work, and visual records of the artifact submitted to multiple art experts revealed no signs of forgery. No such Da Vinci painting is known to exist.
+
+Subject: D-67778 (male, age 55, former investment banker)
+
+SCP-1888-1: A large suitcase containing $10 Million USD in $100 denominations.. The serial numbers of all of the bills were successfully cross-referenced with actual bills produced by the United States Mint, although some appeared to be duplicates of bills already in circulation.
+
+Subject: Dr. ██████████ (male, age 48, Ph.D in nuclear physics)
+
+SCP-1888-1: A miniature cold fusion reactor. Attempts to disassemble the artifact for analysis off-site resulted in it immediately decaying into SCP-1888-2.
+
+Subject: D-66992 (female, age 19, known to have been obsessed with collecting miniatures)
+
+SCP-1888-1: A 12cm tall solid platinum model of the character ████, from the television show [REDACTED].
+
+Subject: Dr. ████ (male, age 29, formerly assigned to the research team experimenting on SCP-███)
+
+SCP-1888-1: [DATA EXPUNGED]
+
+Cataloging the effects of exposure to SCP-1888-2 infected ground
+
+Subject: One Tulipa gesneriana
+
+Procedure: Subject was transplanted into a small pot containing soil infected with SCP-1888-2
+
+Result: Subject displayed no change within the first 72 hours. Samples taken after the 72 hour mark revealed a significantly more rigid and durable stem, leaf, and root structure. At 100 hours, thorns were observed to grow on the stem, leaves, and flowers. Human tissue pierced by these thorns resulted in inflammation and pain similar to the bite of Paraponera clavata, although no permanent damage was incurred. After 120 hours, exposure to the poison in the thorns proved fatal for 90% of mammalian test subjects, including D-class personnel. At 154 hours, subject displayed rapid plant movement, its leaves being able to extend into tendril-like forms and attempt to attack any non-infected fauna. At this point subject was terminated.
+
+Subject: Male rattus norvegicus
+
+Procedure: Contained in a terrarium coated with soil infected with SCP-1888-2. Regularly provided with food and water.
+
+Result: Subject displayed no change within the first 48 hours. After the 48 hour mark, subjected displayed heightened aggressive tendencies. At 60 hours, subject would attack any non-infected fauna without regard for its own safety. Subject began displaying physical mutations around the 100 hour mark, including sharper teeth, a razor-like edge on its tail, larger and sharper claws, and increased strength and agility. At this point, the terrarium was reinforced with titanium alloy to maintain containment. At 148 hours, the subject breached containment via the use of a type of acid expelled from the nostrils (analysis of the substance indicated presence of [REDACTED]). Subject was terminated before it could cause any casualties.
+
+Subject: D-66010 (male, age 49).
+
+Procedure: Contained in a cell built on-site, with the floor coated in soil infected with SCP-1888-2. Regularly provided with food and water.
+
+Result: Effects were similar to the previous test. At the 58-hour mark, subject lost the ability to communicate verbally, along with seemingly all higher reasoning abilities. Mutations observed at the 100-hour mark include a hardened carapace protecting vulnerable areas of the body, finger and toenails developing into sharp talons, and a ██████. Despite enhanced security measure, subject breached containment at 161 hours, causing 7 casualties before being terminated by assault rifle. Subject managed to survive 956 rounds before dying. Subject caused one additional casualty after its death.
+
+NOTE: Contact with bodily fluids of mutated individuals, even after death, is not recommended.
+
+Infected plant. Original species unknown
+
+Incident Report 1888-A
+
++ Show Report
+
+- Hide Report
+
+On ██/██/0█, tests using ground-penetrating radar revealed several subterranean chambers near the main structure of SCP-1888. Permission to excavate one of the chambers was given by Dr. ████, the former head researcher at the site. Upon penetration of the chamber at 1:12 AM on ██/██/0█, a local ██████ ██████-class event was registered, leading to the immediate deaths of all on-site personnel. Effects of the event continued to spread, and [REDACTED] was observed as far as 10.3km away from the pyramid. O5-█ authorized the use of emergency procedure Angi-delta (deployment of ██ megaton ██████-salted thermonuclear device) but before the procedure could be carried out, the event abruptly ceased. The infected zone around SCP-1888 had expanded as a result, though, and further extermination procedures were employed in order to contain the new extent of the area. All humans that had been caught in the affected area became hysterical, constantly shouting the word Icthyeiagha, until returning to normal approximately 48 hours afterwards. The only memories subjects retained of this period were the word Icthyeiagha and an intense fear of SCP-1888. These effects lessened upon application of class A amnesiacs.
+
+All further requests for excavation on or around Facility 1888 are hereby denied - Dr. ██████
+
+- Considering the affected area is slowly shrinking, this thing shouldn't cause too much of a problem as long as we don't take any more of the treasure outside the pyramid or try digging again. Requesting permission to change classification to Safe - Dr. ██████
+
+- Approved - 05-█

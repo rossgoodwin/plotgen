@@ -1,0 +1,111 @@
+Item #: SCP-2699
+
+Object Class: Safe
+
+Special Containment Procedures: Due to the nature of SCP-2699, each instance requires different containment protocols.
+
+SCP-2699-1 must be contained in a small mammal enclosure. It is to be fed a similar diet to what a striped skunk (Mephitis mephitis) would require. SCP-2699-1's front paws are to be checked every 24 hours for any wounds or infections, and if any are found they must be treated immediately to prevent further damage. SCP-2699-1-a is to remain in archaeological storage unless required for analysis. Care is to be taken when removing this object from storage as it is very fragile.
+
+SCP-2699-2 must be contained in a padded cell. SCP-2699-2 is to be placed in a harness, allowing it to stand upright but not allowing it to move around its cell. To prevent muscle atrophy, at least 2 personnel are to take it out of its harness and move it around its cell twice a day for at least 5 minutes. SCP-2699-2 can be fed a standard human diet; however it will require assistance with eating. SCP-2699-2 must be checked each day for any damage or infections sustained, especially on its rear side. SCP-2699-2-a are to remain in secure clothes storage unless required for analysis or testing.
+
+SCP-2699-3 must be contained in a large amphibian enclosure; however, it is allowed outside on Foundation controlled grounds once a day. SCP-2699-3 is to be fed the same diet that an African elephant (Loxodonta africana) would require.
+
+SCP-2699-4 must be contained in a large reptile enclosure and is to be fed cow, pig or horse meat. SCP-2699-4 must be tranquilised before entering its enclosure.
+
+SCP-2699-A is to remain in secure warehouse storage.
+
+Description: SCP-2699 is a collection of 4 sapient creatures of varying species. The creatures have similar appearances to known species; however they appear to be heavily mutated.
+
+SCP-2699-1 is a specimen similar in appearance to a striped skunk. The most notable physical difference between the two species is that the white stripe of fur on the back of SCP-2699-1 veers off to its right side rather than staying central. Another noticeable difference is that SCP-2699-1 has no tail (at first it was believed that the tail had been removed but further analysis confirms that a tail was never present). The anal scent glands of this specimen seem to give off a smell that is recognisable as lavender rather than the usual unpleasant smell that skunks are known for. SCP-2699-1's front paws have all digits fused to the paw at both ends creating a small hole between the digits and the paw, which seems to cause SCP-2699-1 some minor discomfort.
+
+When SCP-2699-1 was discovered, a stone tool (SCP-2699-1-a) was in its right paw which, after analysis, has been confirmed to look be similar in appearance to other Stone Age tools (specifically stone age axes). The tool appeared to have been pushed into the paw with some force, as the paw had open wounds when discovered. The tool itself is very fragile and suffered minor damage when removed from SCP-2699-1's paw.
+
+SCP-2699-2 is a humanoid creature similar in appearance to a South American male human. SCP-2699-2 has skin only on its front side, with exposed muscle and other tissue on its rear; however, this does not seem to cause any pain to SCP-2699-2. It does, however, considerably increase the chance of SCP-2699-2 catching infections. SCP-2699-2 has no knee or elbow joints and, after X-ray analysis, it was revealed that its legs and arms contained one large bone rather than the standard upper and lower bones of human limbs. Due to this lack of joints, SCP-2699-2 has difficulty standing upright and will often fall over, requiring help to stand upright again. SCP-2699-2's intelligence is considerably lower than that of an average human; it seems to have a basic understanding of its surroundings but is not capable of communication or solving simple logic puzzles such as opening doors.
+
+SCP-2699-2 was originally found in a Mexican style poncho, large sombrero hat and a fake moustache that had been stuck to its face and maracas which had been glued via unknown means to its hands (all of which are contained as SCP-2699-2-a). SCP-2699-2-a were removed from SCP-2699-2 successfully without causing damage to either SCP-2699-2 or SCP-2699-2-a.
+
+SCP-2699-3 is a creature similar in appearance to a juvenile African elephant; however, a few differences have been noticed. The entirety of SCP-2699-3's skin appears to be much thinner than an elephant’s skin and is in fact much thinner than any mammal, bird or reptile's skin, being more akin to that of amphibians.
+
+The only other noticeable difference between the two species is that SCP-2699-3 has compound eyes rather than refractive cornea eyes present in African elephants.
+
+SCP-2699-3's behaviour patterns are typical of a juvenile African elephant and can become increasingly stressed when in containment. It was decided that SCP-2699-3 would be allowed some minor freedom on Foundation-controlled grounds outside of containment to relieve its stress.
+
+SCP-2699-4 is an unidentified species of reptile resembling Velociraptor mongoliensis as depicted in the popular movie "Jurassic Park". X-ray analysis shows that the bone structure is also very similar to the fossils of a Velociraptor, but it is much larger, standing at around 3 metres rather than 1 metre. Additionally, it does not have any feathers, despite evidence from recent fossil finds. SCP-2699-4 appears to be completely healthy and shows no abnormalities other than its appearance. Its behaviour is similar to that of a domestic house cat; It is very friendly to anyone who enters its containment cell, however it seems to be unaware of its own strength, often causing minor injuries to staff.
+
+Due to injuries caused to staff through scratching and biting, containment procedures were changed so that SCP-2699-4 had to be tranquillised before entering the enclosure. The amount of tranquiliser required was estimated based on the amount required to be effective on an ostrich (Struthio camelus).
+
+25/09/2014 - It has been discovered after a minor power cut in Building B5 of Site-131 that SCP-2699-4 becomes luminescent under low light conditions. It is unknown how SCP-2699-4 is able to do this or why it does at this time. Further testing is required to understand this effect.
+
+SCP-2699-A is the intermodal container that SCP-2699 was discovered in. It is approximately 17.1m in length and 2.5m in height and width. Apart from the outside paint work, it is identical to a standard intermodal container. It is unknown if the container itself is anomalous, as it is not known how it arrived at its discovery location (see addendum), and until further analysis can confirm its anomalous status it is to remain in secure storage.
+
+The outside paintwork is a mostly cream colour with the words "Eden Creations" on the centre of the longest sides and stock pictures of humans and animals are located on all sides of the container.
+
+Addendum:
+
+SCP-2699 were discovered after ██████ ██████, living in Norfolk, England, had reported to local authorities of a shipping container (SCP-2699-A) having been delivered outside his house. The container contained what he described as "monsters," and appeared to cause him and the local authorities who responded to the call a large amount of distress. The Foundation investigated and then contained SCP-2699, administering Class B amnestics to Mr ██████ and all local authorities involved.
+
+Upon investigation of Mr ██████, it was found that he had a channel on the website YouTube with a large number of viewers. Videos on this channel were largely of Mr ██████ reviewing counterfeit objects ranging from toys to electronic devices. Shortly after it was discovered that their address was available on [REDACTED].
+
+Investigations into SCP-2699-A's origins has so far been unsuccessful.
+
+Documentation that had been sent alongside SCP-2699-A was recovered along with SCP-2699:
+
+Dear Mr ██████
+
+I'm sending you this letter along with 4 items on request of my employer. My employer (hallowed be His name) has requested that I get these goods reviewed by a counterfeit goods watchdog as they seem to be counterfeit goods based on our company's creations. I have reviewed your website and feel that you would be the appropriate person to send these goods to.
+
+Attached to this letter is a list of defects that my employer has noticed to help you in your evaluation of these products. We'd appreciate it if you could look at these products and investigate who created these products and please let us know so we can take legal action.
+
+My employer wishes for this matter to be dealt with urgently so I ask if you could make this a priority. I also ask if you could send any updates on the investigation to the email address supplied below.
+
+Best Regards
+
+Larry Filmore
+
+Production Intern
+
+Eden Creations
+
+u.snoitaercnede|eromlif.yrral#u.snoitaercnede|eromlif.yrral
+
+Attempts to contact the email address have so far gained no response. Attempts to trace the email address have also failed.
+
+Below is the list of defects which were attached to the letter.
+
+List of defects we have noticed:
+
+"Stone age Skunk" based on the Small Mammal - Skunk Model #475921
+
+The skunk's stripe has been poorly painted.
+
+Part 65_A is missing from the skunk.
+
+Accessory #5738_B for the Stone Age Human line seems to have been copied.
+
+Paws on the skunk seem to have been moulded to allow the axe to be held.
+
+Axe does not actually fit into the paws and required some force to place in the paws.
+
+"Pedro the Human" seemingly based on Homosapien - Latino Model #92927202
+
+Clothes are incredibly stereotypical with accessories from the Mexican Party line having been copied.
+
+The human has had no skin work applied to its rear side (it's possible it was cheaper just to do the front).
+
+There is no articulation in the legs or arms.
+
+Software is very basic in comparison to the actual model.
+
+"Frogaphant" based on Large Mammals - African Elephant Model #416863
+
+Skin is entirely made of a cheaper amphibian skin.
+
+Eyes used are cheaper compound eyes.
+
+"Clever Raptor" seems to be based more on the raptors from the film "Jurassic Park" which in turn are based on the discontinued Cretaceous Dinosaurs line - Velociraptor Model #348598. Possibly suggests that the creator of this model had never seen the Cretaceous Period.
+
+For reason mentioned above, it is much larger than the actual model.
+
+Lacks feathers (possibly both due to expense as well as wrong source material).
+
+Software is based on Housecat 5.63 rather than the actual Raptor software.

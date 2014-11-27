@@ -1,0 +1,91 @@
+Item #: SCP-1543
+
+Object Class: Safe Neutralized Euclid
+
+Special Containment Procedures: Given the non-local nature of SCP-1543, it is impossible to fully prevent non-Foundation access to it, and non-Foundation access has been reported by SCP-1543-1 to have occurred no less than ██ times prior to the Foundation becoming aware of SCP-1543 and enacting current containment protocols.1 As such, containment measures are largely focused on educating populations likely to accidentally access SCP-1543 on how to avoid doing so, under the guise of public service announcements. Although it appears that SCP-1543 is only able to make one connection at a time, there is a single recorded instance wherein a loud beep sounded, without originating from either terminus of the active connection.
+
+All communication via SCP-1543 is to be performed in a quiet room, with all sound originating from the anomalous end of SCP-1543 recorded for later analysis. Although SCP-1543 may be accessed at any time for monitoring purposes, any communications with SCP-1543-1 must be performed in a whisper, and should be restricted to between the hours of 1730 GMT and 0900 GMT. Conversations are to occur no more than once per day, barring ambient sounds indicative of an emergency situation, and may be concluded at the request of SCP-1543-1.
+
+Description: SCP-1543 is a phone number that can only be reached by international dialing. The country code is ███, which is not in use, but very similar to one of those assigned to [REDACTED]. It is currently presumed that all accidental accesses of SCP-1543 are a result of misdialing the country code. When any phone connection is used to dial SCP-15432, the connection picks up after one ring. The other end of the connection apparently manifests as an intangible point in space fixed approximately 5 cm from the right ear of SCP-1543-1. This point functions as both a speaker and microphone and is able to receive ambient environmental sounds in addition to the voice of SCP-1543-1. Per SCP-1543-1, any communication that originates from the non-anomalous end of SCP-1543 is approximately as loud as if the source was standing next to SCP-1543-1 and speaking at the same volume.
+
+SCP-1543-1 is self-reportedly a human male by the name of Efrain ████████, a former resident of San Juan, Puerto Rico. Document searches verify the existence of such an individual, but attempts to interview family members or past employers uniformly result in denials of any knowledge of SCP-1543-1.
+
+SCP-1543-1 reports that he fell asleep in his residence on 06/21/2011 and woke up in his current location, which consists of the overgrown ruins of an unknown city located in a tropical environment. SCP-1543-1 is largely uncooperative with attempts to converse with him, due to fear of attracting the attention of local predators. He is also displaying an increasing degree of annoyance and anger towards the Foundation due to the frequency of contacts made to him.
+
+Excerpted Interview Logs (translated from Spanish):
+
+Call 1
+
+Dr. B████: (clears throat) Hello?
+
+SCP-1543-1: (loud) Shitshitshit! (continues in a forced whisper for the remainder of the interview) Shut up, you idiot! Who the fuck is it this time?!
+
+Dr. B████: (lowers his voice for the remainder of the interview) My name is Dr. B████. The group I work for learned abou-
+
+SCP-1543-1: Fuck, more than one of you are working together now? What in the name of the Holy Mother do you want with me?
+
+(the rustling of leaves can be heard in the background, increasing as if in a strengthening wind))
+
+SCP-1543-1: Wait, what was that? Shit, there's some about a block away! Just shut up and leave me alone!
+
+Dr. B████: Please wait. We mean you no harm. We just want to find out wh-
+
+SCP-1543-1: Shut up! Not now! Not when they're so close!
+
+All further attempts to communicate with SCP-1543-1 during this interview failed to elicit a response and the interview was concluded after approximately 5 minutes of hearing panting breaths and rustling vegetation.
+
+Note that all interview attempts from this point were conducted at a whisper level.
+
+Call 14
+
+Dr. B████: We're still trying to find out where you are, Señor ████████. Is there anything else you can tell us about where you are? Any signs or anything?
+
+SCP-1543-1: I already told you everything! It's just some city with weird squiggles on all the signs instead of real letters!
+
+Dr. B████: What about the plants or animals? Can you describe any of them that seem unusual?
+
+SCP-1543-1: I don't know anything about plants, man. I live in the city. And I haven't seen any animals other than those asshole monsters! I told you this already!
+
+Dr. B████: We're having trouble matching your description of the animals to anything on file. Are you sure there's nothing else you can tell us about them?
+
+SCP-1543-1: What else can I tell you?! They're about the size of horses, they're shiny and black, and they attack each other crazy and vicious! I'm not going to get any closer to any of them to find out anything else!
+
+Dr. B████: We'll keep trying, then. Just let us know if anything new hap-
+
+A rapid rustling is heard, immediately followed by a loud thump and a loud, gravelly roar. SCP-1543-1 screams briefly, and then can be heard running through vegetation. The roar seems to recede.
+
+Call 36
+
+SCP-1543-1: I'm feeling really sick, doctor. I think some of those mushrooms I ate were bad. You said they should be okay, right?
+
+Dr. B████: Based on your description, they shouldn't have been poisonous. How is your water supply?
+
+SCP-1543-1: The same rain water as before. (short barking laugh, followed by a series of deep, hacking coughs) I guess I should be thankful it rains so much. Ay, Heavenly Father… Doctor?
+
+Dr. B████: Yes?
+
+SCP-1543-1: I'm going to die here, aren't I?
+
+Dr. B████: We're still trying to find a way to get you home, Efrain. Now try to rest and get your strength back.
+
+SCP-1543-1: If you say so, doctor.
+
+Call 37
+
+Note: On ██/██/2012 at 1737 GMT, the telephone reserved for use with SCP-1543 rang independently. After 12 minutes, Dr. B████ entered the interview room, activated the recording equipment and answered the call.
+
+Dr. B████: Hello. Who is this?
+
+Unknown: (gravelly voice of uncertain age or gender, translated from Nahuatl) The hunt was good. The sacrifice was holy. We expect more.
+
+The call terminated at this point, and all further attempts to utilize SCP-1543 resulted in busy signals.
+
+Addendum: On ██/██/2013, during periodic review of Neutralized SCP Items, it was discovered that SCP-1543 was once again active. The individual answering the call identifies herself as Ольга3 ███████████, a resident of Sevastopol, Ukraine. Her descriptions of her surroundings match those provided by SCP-1543-1. She has been designated SCP-1543-1a.
+
+Footnotes
+
+1. All such contacts appear to have been from civilian sources and SCP-1543-1 reports that the Foundation is the only organization or individual who has contacted it more than twice.
+
+2. Testing has confirmed that landlines, cellular phones and VOIP can all be used to access SCP-1543.
+
+3. Transliteration: Olha or Olga

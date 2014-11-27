@@ -1,0 +1,61 @@
+Building containing SCP-1080, prior to disappearance.
+
+Item #: SCP-1080
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1080 and its accompanying documentation are to be kept at Site 38 in a locked containment room. Under no circumstances are any children below the age of 13 to be allowed near the vicinity of SCP-1080 except for experimentation purposes. Any reports of behavior similar to that of SCP-1080-1 specimens are to be met with immediate investigation and containment of potential subjects.
+
+Description: SCP-1080 is a large black rectangular chamber, 2 meters wide, 3 meters long, and 1.5 meters in depth, resembling a sensory deprivation chamber in shape and size. Despite the resemblance, the tank contains no water and has no windows. The tank has no controls; its magnetic locking mechanism activates only when a child is placed in the chamber, and no means available to the Foundation have been able to determine what happens when the chamber is locked.
+
+Experimentation carried out after Incident 1080-Alpha reveals that children who enter the chamber emerge three to five days later, aged to approximately twenty years old. Time elapsed depends on the age of the child upon entering the chamber; regardless, the age of the resulting adult is consistent. SCP-1080 has no effect on humans over the age of 13, and children between nine and twelve typically emerge with massive physical disabilities and psychoses.
+
+Humans exposed to SCP-1080 are designated SCP-1080-1. They will have no discernible personality, will not speak under any circumstances, and will respond only to an identification number tattooed onto the back of the left hand below a barcode. Even then, the human will respond only to the commands "Come here," "Leave," and "Fix this." The last command will work only when SCP-1080-1 is presented with a motor vehicle. SCP-1080-1 specimens encountering any small motorized vehicle (automobiles, motorcycles, etc.) with any system functioning at less than optimal quality will repair the system in minutes, using whatever materials are available. Speed, efficiency, and quality of the repairs will be far beyond the abilities of any other mechanic.
+
+Addendum 1080-A: Recovery Report The tank was discovered in an unidentified brick building found in a heavily wooded area outside ████, Tennessee on ██ October 20██. The building's presence was considered anomalous due to the testimony of people who frequently hiked through the area, all of whom insisted it had not been there previously. By the time Foundation researchers reached the building, the only object remaining inside was SCP-1080. X-ray analysis of the object detected a number of unusual mechanical components embedded in the walls of the chamber (later experimentation proved such analysis is impossible when the chamber is locked); however, it proved impossible to determine the tank's function - no formal documentation was found with the object, and the object had no markings indicating its purpose or capabilities. Object classified SCP-1080. Two days after the tank was removed from the building, the building disappeared and could no longer be located anywhere in the forest.
+
+Other objects similar to SCP-1080 are suspected to exist, possibly capable of producing humans with greater degrees of sapience. Addendum 1080-B is provided for explanation.
+
+Addendum 1080-B: A single scrap of paper was recovered from the building containing SCP-1080. The paper, which appeared to be a piece of an invoice of some kind, read as follows:
+
+SOLON CRECHE ENTERPRISES
+
+MMXV THIRD CIRCLE
+
+NOVO ACTIUM OF FORESTS
+
+REMIT ORDER TO:
+
+ALEXYLVA UNIVERSITY
+
+PHYSICAL PLANT OPERATIONS
+
+MOTORIZED TRANSPORTATION DEPARTMENT
+
+CXI SECOND CIRCLE
+
+ALEXANDRIA OF FORESTS
+
+ITEM NO.
+
+QUANTITY
+
+CLASSIFICATION
+
+SPECIALIZATION
+
+PRICE
+
+XXI
+
+X
+
+CLASS III MANUAL EMPLOYEE
+
+AUTOMOTIVE
+
+LXXV AUR.
+
+COMMENTS: YOUR COMPANY REFERRED TO US BY OUTSIDE SOURCE. WE MAY CONSIDER PURCHASING FACULTY IF CLASS III WORKERS ARE SATISFACTORY. ~~ VICE CHANCELLOR ALLGRASS
+
+The rest of the invoice was missing.

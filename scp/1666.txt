@@ -1,0 +1,29 @@
+SCP-1666
+
+Item #: SCP-1666
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1666 is to be kept in a secure storage facility, stored in its original sleeve and protected by a padded polymer envelope.  SCP-1666 itself must be kept from excessive heat or moisture and is only to be tested with level 4 authorization.  All such tests must be non-invasive in nature.  Audio equipment used with SCP-1666 must be inspected and approved by the site director prior to testing.  Digital and analog audio recordings of SCP-1666 may be used for testing by any research personnel with level 3 approval.
+
+Description: SCP-1666 is a LP album by ████ ████████ titled ████████ ██ ███ and released by ███ Records in the United States in 198█. Labeling of both SCP-1666 and its original packaging indicates no differences from any other albums produced in the same batch that includes SCP-1666, though no other copies of ████████ ██ ███ seem to share SCP-1666’s anomalous properties.
+
+Unlike any other copies of ████████ ██ ███ so far examined, SCP-1666 shows an abnormal topology in the layout of the musical tracks recorded on its surface. In particular, track number five of ████████ ██ ███, titled “███████ ████████”, shows grooves that have apparently twisted in on themselves through a higher-order spatial dimension resulting in a configuration analogous to a Möbius strip. The result of this is that when played on a standard record player from the beginning of the album, the needle will skip directly from track four to track six. However, when the needle is placed anywhere in track five, the player will begin an endless loop, first playing track five as originally released, then reversing and playing a recording of unknown origin as the needle moves backward to the beginning of track five, at which point it begins playing the standard track five again.
+
+While the anomalous recording on SCP-1666 bears a superficial resemblance to track five played in reverse, it is a completely new recording and, when reversed itself, contains different lyrics and instrumentation than the standard recording of “███████ ████████.” These new vocals are in an as-yet unidentified language. Voice-print analysis confirms that the new track shares no vocalists in common with the rest of the album. In addition to differing lyrics and instrumentation, the anomalous recording also contains several harmonics in frequencies that are generally only audible to people in late adolescence or earlier. (Typically those younger than 18 years of age.)
+
+All subjects who listen to this anomalous recording universally report feelings of dread and unease. Subjects who can perceive the underlying harmonics experience this to a substantially greater degree, and may experience depression, suicidal ideation, paranoia, and, in a minority of cases, aggressive acting out.
+
+All these symptoms appear to derive from a disconnect between the subject and reality. In many cases this disconnect remains subliminal and subject never progresses beyond a vague feeling of the world being unreal. In cases where the initial symptoms are severe due to perception of the recording's underlying harmonics, the subject may become conscious of this disconnect. This will manifest as livid fantasies and what subjects term "uneasy dreams" about unreal environments. These imagined environments share several common characteristics:
+
+Landscapes and architecture show impossible geometries that are difficult to verbalize, possibly as a result of mapping higher-order spatial dimensions onto three-dimensional sensory perceptions.
+
+Environments contain malevolent entities described in various ritualistic and contradictory ways; "seen and unseen," "living and unliving," "nowhere and everywhere," and similar. 
+
+The act of perception in these environments is associated with physical pain, often resembling a severe migraine.
+
+These environments seem hyper-real to the subjects experiencing them.
+
+Once subjects become aware of this imagined environment, their perception of it becomes obsessive and progressively more intense over time. Once a subject reaches this stage, they will continue to experience these fantasies and dreams regardless of any therapeutic, chemical or surgical intervention yet attempted. The perceptions of this environment will erode the subject's ability to interact with the world around them, eventually intruding on the waking conscious mind until the subject can only react to elements within the fantasy.
+
+These symptoms may occur when listening to the recording backward or forward, though they present more intensely when the recording is heard as it is naturally played on SCP-1666, backwards. Analog recordings of SCP-1666 will also show these effects to a lesser extent.  Digital copies do not seem to present the same dangers.

@@ -1,0 +1,47 @@
+SCP-1567-3.
+
+Item #: SCP-1567
+
+Object Class: Euclid
+
+Special Containment Procedures: Protocol G-3-16 (containment of geographically immobile anomaly) is to be followed, with a containment perimeter established no closer than 5km to the path of SCP-1567-3. Personnel stationed at the perimeter are to adhere to Protocol G-3-18 (operation within a hazardous environment, ionising radiation, level 6). Civilians attempting to cross the perimeter are to be deterred and/or detained as necessary. Use of deadly force is prohibited for any instance of SCP-1567-2 originating from within the perimeter.
+
+A no-fly zone is in effect over SCP-1567, out to a range of 26km, monitored by the Foundation radar and communication station at Sector-25 (supported by equipment at outposts OP-1567-01 to 17), with additional enforcement provided by co-operation with the British Royal Air Force (Foundation-UK treaty article 1948).
+
+Section 492 of the Foundation disinformation worm "PaTH-L33" is tasked with the expungement of the measurement of radiation levels at the SCP-1567 site by any non-Foundation asset. Standard operating eavesdrop protocols include provisions for detection of information breaches.
+
+Any change of conditions that suggests a contradiction of the statements made by SCP-1567-2 in Document SCP-1567-GS ("Cordiality of the People of Gallington") has occurred, or is likely to occur, is to be considered a warning of potential containment breach, and must be reported to the current designated Sector-25 facility head.
+
+Description: SCP-1567 is the collective term for the town of Gallington (SCP-1567-1), its population (SCP-1567-2), and the SCP-1567-3 phenomenon.
+
+SCP-1567-1 is a small mining town located within Cairngorms National Park, Scotland. Its outskirts are circled by a 22.4km length narrow gauge railway, appearing to relate to a closed coal mine and derelict coal yard situated to the north-east and south-west of the town. No motor vehicles have been observed within SCP-1567-1, despite the presence of modern metalled roads, line markings and signage supporting their use. SCP-1567-1 has no observable supply of food, fuel, electricity or water, although regular use of all of these has been observed within SCP-1567-1.
+
+SCP-1567-2 are the human inhabitants of SCP-1567-1, so far believed to be non-anomalous, aside from the unknown means of their present survival, with an estimated population of 1,120 (2009). Limited communication with SCP-1567-2 has been established via electric light semaphore, and continues on an intermittent basis, with SCP-1567-2 refusing all requests for alternative communication methods.
+
+SCP-1567-3 is a British Rail Class 365 electric train, bearing the number ██████ (matching a train currently in service with █████ ███████ ███████), that continuously travels the railway line surrounding SCP-1567-1 in a clockwise direction, usually maintaining a speed of 131.5km/h. Significant deviations from this speed have been observed, with current maximum and minimum observed speeds of 288.4km/h and 6.9km/h, coinciding with potential intrusions through the perimeter in either direction, invariably resulting in the close proximity of SCP-1567-3 and the intruder. No known explanation accounts for SCP-1567-3's means of propulsion, given the lack of overhead electrical supply and the disparity between the gauge of the train and the track. SCP-1567-3's interior lights emit visible white light at a combined estimated output of 15,457,000 lumens, and gamma radiation with a frequency of 10.3 exahertz. The dose level at 10m range has been measured at 81.78Sv/h. Exposure to SCP-1567-3 typically results in non-anomalous symptoms of acute radiation syndrome.
+
+The earliest record suggesting an anomalous nature to the area dates from 1494, in the sealed ledgers of ████████ abbey (which also contained the earliest known reference to SCP-████), which describes the "Beaste of Dunne" terrorising the village of Gallen.
+
+Following the identification of SCP-1567-3 as a locomotive in 1826, ███ ██████ established the "Locomotive Assessment Attaché", tasked with determining whether SCP-1567-3's properties extended to other instances of the emerging technology. The Foundation successor to this task force was closed in 1998, following the identification of SCP-1567-3's non-anomalous counterpart.
+
+Incident SCP-1567-01/01/1962.
+
+At 00:31, a male human of approximately 12 years of age, later confirmed as an instance of SCP-1567-2 and designated SCP-1567-2-1, was observed approaching outpost 15 from the direction of SCP-1567-1. SCP-1567-2-1 was intercepted and challenged by the guard on duty, but gave no response and was detained. SCP-1567-2-1 lapsed into unconsciousness and expired shortly afterwards, without having responded to questioning. Autopsy confirmed the cause of death to be acute radiation syndrome, and found SCP-1567-2-1 and its clothing to be non-anomalous. A typewritten document was found within SCP-1567-2-1's clothing, later becoming the basis for Document SCP-1567-GS (Initial statement 1962).
+
++ Document SCP-1567-GS (revision 2011)
+
+- Document SCP-1567-GS (revision 2011)
+
+Cordiality of the People of Gallington
+
+(Initial statement 1962) The People of Gallington pledge to visit no further harm upon trespassers, providing the People not of Gallington pledge to attempt no further uninvited visits into Gallington. The People of Gallington wish no further contact with the People not of Gallington.
+
+(Revision 1962) The People of Gallington understand that the People not of Gallington are no longer the same as those with whom they have communicated in the past. The People of Gallington understand that the People not of Gallington wish no harm upon the People of Gallington. The People of Gallington and the People not of Gallington pledge to attempt no contact with one another except where there is risk of harm to the People of Gallington or the People not of Gallington.
+
+(Revision 1969) The People of Gallington express their regrets that the Dunne has harmed the People not of Gallington. The People of Gallington wish to make clear that the Dunne is not under their active control.
+
+(Revision 1977) The People of Gallington wish to make clear that they fear the Dunne.
+
+(Revision 1980, unofficial: received void of agreed message formatting and signature) It doesnt keep us in it keeps you out that is a good thing please do not stop it charlie
+
+(Revision 2011, note: the "message complete" signal was sent at the conclusion of this message, and SCP-1567-2 has yet to respond to requests for clarification) The People of Gallington wish to make clear that the Dunne is always.

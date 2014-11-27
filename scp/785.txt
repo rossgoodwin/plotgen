@@ -1,0 +1,25 @@
+The sign of the first recorded instance of SCP-785-2.
+
+Item #: SCP-785
+
+Object Class: Keter
+
+Special Containment Procedures: If periodic global searches of governmental records report the registration of any restaurant with the phrase “Uncle █████'s ████ █████’” in its title, a containment breach is to be reported to both the supervising researcher of SCP-785 and the leader of Mobile Task Force Beta-3 (“Take-out Diners”). MTF Beta-3 is to secure the restaurant (SCP-785-2) and prevent any civilians from entering or exiting. Following the lockdown of the immediate area, a five kilometer radius quarantine is to be constructed around SCP-785-2. All civilians inside the quarantine are to be interviewed and administered Class A or B amnestics, on a case-by-case basis. The restaurant owner and all individuals knowledgeable about SCP-785-2 or its origins will be personally interviewed by the overseeing Level 4 researcher. Following the interview process, the Foundation is to ensure that all media reports will have the restaurant name (SCP-785-1) altered. Due to the extensive amount of time required in resolving a SCP-785 containment breach, it is advised that Standard Cover Story 12 (“Gas Leak”) be deployed.
+
+Only the current leader of MTF Beta-3 and the overseeing researcher of SCP-785 are to know the full title of SCP-785-1. During containment operations all operatives must have equipment possessing real-time sensory modification software that prevents them from either reading or hearing the full title. If either individual is suspected of leaking SCP-785-1 an immediate interrogation is to be conducted.
+
+For purposes of experimentation, one instance of SCP-785-2 is to be contained inside Site-23. Only D-Class personnel are permitted to interact with it.
+
+Description: SCP-785 comprises any restaurant with a name containing the phrase “Uncle █████'s ████ █████’”. The restaurant name is designated SCP-785-1; the actual restaurant is designated SCP-785-2.
+
+Propagation of SCP-785’s effects will begin if SCP-785-1 is mentioned during conversation in a large public area, such as a movie theater or sports arena. Within one to six months after this occurs, an individual who had been present at the location where initial seeding was performed will establish an instance of SCP-785-2. It will be located within half a kilometer of the location where SCP-785-1 was first mentioned. The personal preference and ethnicity of the founder influences the resulting instance of SCP-785-2, allowing for a wide range of possible restaurants (for a complete listing, see Document-785-███). Following initial seeding, a separate founder will not create a new instance of SCP-785-2 unless all previously existing and publicly known instances have been shut down.
+
+Left unchecked, the popularity of SCP-785-2 will grow unusually quickly. Within nine months, at least fourteen other additional instances of SCP-785-2 will be created. The spread of SCP-785-2 is not limited to its home city: when first discovered, ██ instances of SCP-785-2 were found in three separate cities.
+
+The effects of SCP-785 will manifest annually on the first Friday of May, when SCP-785-2 will advertise a "Spring Special." All customers and employees of any existing instances of SCP-785-2 will be affected. Starting between 1600 and 1830 hours, any customers who had previously consumed any of SCP-785-2's beef or bread during that particular day, designated Group A, will report to SCP-785-2. Customers physically unable to report are exempt from SCP-785-2's effects. Staff will proceed to stab the members of Group A twelve times, always using a bronze-tipped spear coated with [DATA EXPUNGED] (all materials save the [DATA EXPUNGED] can be found in a typical chain restaurant). After all members of Group A have expired, employees will place their bodies on the floor. They will then turn off all appliances and produce six polyvinyl chloride (PVC) basins of water. All customers still living, designated Group B, will be issued a large knife, which is invariably composed of a bronze and ████████ compound.
+
+Using only their knives and their hands, all members of Group B will begin to consume the bodies of Group A. Every thirty minutes, they will wash their hands using the PVC basins. The meal will last for three hours, until all the basins have been used. Group B will return to their homes after the meal is finished. Employees will burn the remains of Group A using the same [DATA EXPUNGED] mixture used previously. After the completion of all activity, members of Group B will behave normally. Most members have a somewhat inaccurate recollection of the evening's events.
+
+Customer reviews of SCP-785-2 have typically skyrocketed after this event.
+
+Addendum-785A: Despite the Foundation’s best efforts to remove SCP-785-1 from public knowledge, instances of SCP-785-2 continue to arise. It appears to be impossible to apprehend all civilians who unwittingly spread SCP-785-1; furthermore, the possibility of a deliberate third-party propagation of SCP-785-1 cannot be eliminated.

@@ -1,0 +1,87 @@
+Item #: SCP-2109
+
+Object Class: Euclid
+
+Special Containment Procedures: Information regarding SCP-2109 is largely self-containing and requires no information suppression on behalf of the Foundation.
+
+Automated systems designed to detect SCP-2109 related discrepancies in legal, medical, press and bureaucratic documents are to be used to detect potential SCP-2109 cases. Personnel involved in investigation of SCP-2109 are to defer to the results produced by such systems rather than their own judgement when determining the probable existence of an SCP-2109 case.
+
+All recordings or footage involved in SCP-2109 cases are to be analysed via SILVER CRESCENT1 protocols. If an SCP-2109 case is confirmed, investigative personnel are to attempt to retrieve any documents or data storage devices belonging to the deceased which relate to mathematics or which were acquired or composed shortly before their death.
+
+Documents relating to SCP-2109 are not to be stored centrally, either in physical or digital form. Any location where SCP-2109 documents are stored must be surveilled using SILVER CRESCENT protocols.
+
+Description: It should be noted that most knowledge of SCP-2109 is not drawn from direct observation, and its existence can to a large extent only be inferred.
+
+SCP-2109 is a phenomenon affecting the deaths of certain people, their corpses, and all legal proceedings relating to those deaths. SCP-2109 is suspected to be infohazardous in nature. All cases affected by SCP-2109 have been deaths by natural causes, and have a tendency to involve students and academics, particularly involved in certain fields of mathematics, though this is not always the case.
+
+In all cases, the deaths are fully acknowledged to have occurred in circumstances, and be the result of injuries, that would usually suggest that the cause of death was not natural, but rather of a violent nature. Despite this, all deaths affected by SCP-2109 are known to be cases of death by natural causes. All tested human beings, when confronted with evidence of the death, will dismiss it as a natural or accidental death, apparently in defiance of evidence. The reason for this discrepancy is unknown – the general consensus amongst SCP-2109 research staff is that these deaths are subject to an infohazardous or memetic effect which the Foundation is presently unable to counter. However, the possibility that the individuals involved in SCP-2109 instances have undergone a metamorphic anomaly at the moment of death, or that SCP-2109 causes a recurring glitch in Foundation meme-analysis software have also been considered.
+
+The deaths affected by SCP-2109 frequently coincide with the disappearance or destruction of documents authored by the deceased, as well as computers, phones and other data-storage devices used by them.
+
+SCP-2109 was discovered following detection by IAKOB, a semi-intelligent text analysis system designed by the Foundation to scan legal documentation, police transcripts and court records to identify potential anomalies involved in criminal incidents. Part of IAKOB’s role includes identifying mind-affecting and memetic anomalies.
+
+On ██/██/████, IAKOB detected an irresolvable discrepancy between the findings of a coroner’s inquest into the death of Dr. Simon Rice, a mathematician from Sheffield, United Kingdom, and the physical evidence provided during the trial. IAKOB determined that Mr. Rice’s body had received injuries that should have led the inquest to return a verdict of unlawful killing. These findings, although unverified by any human source with full knowledge of the case, have been verified by other meme-analysis programs and blind tests of unbriefed medical and legal experts2 have all indicated that, under normal circumstances, the death would have been considered a potential murder or suicide.
+
+Since this initial instance of SCP-2109 was indentified, between 80 and 150 SCP-2109-affected deaths are believed to have occurred.
+
+Addendum 2109-1: Partial list of SCP-2109-affected deaths:
+
+Deceased:
+
+Date and Location:
+
+Detail of injuries:
+
+Miss G█████ D███████, a postgraduate Mathematics student and associate of Simon Rice.
+
+██/██/████, Sheffield, England
+
+Miss D████████ died as a result of a broken neck. She was found hanging by the neck from the second-story window of her home, by a length of rope which was fastened to a bedpost. Miss D███████ was covered in an unidentified dark fluid when her body was found.
+
+Dr. Simon Rice, a mathematician employed at Sheffield University, England
+
+██/██/████, Sheffield, England
+
+Dr. Rice died from exsanguination, resulting from a number of deep lacerations to the arms, neck, abdomen, and face. Mr. Rice's eyes and tongue were not found at the scene of his death - the coroner's inquest suggested they may have been removed by scavenging animals, although Dr. Rice was found in his apartment and had been dead for only two hours when the body was found.
+
+Mr. C███████ A███, a publisher working at the academic journal '███████ Journal of Mechanics'.
+
+██/██/████, New York, New York
+
+Mr. A███ died of asphyxiation. Melted remnants of a plastic bag were found on his head and neck. A pictogram of unknown significance had been cut into his upper back immediately prior to his death. Mr. A███'s corpse appears to have spontaneously caught fire.
+
+Mr. U███ B█████, a professor of Mathematics at ████████ University.
+
+21/07/2008 ██████, California
+
+Mr. B█████'s heart is believed to have forcibly expelled itself from his chest, possibly as a result of an undiagnosed medical condition. The flesh around the resultant wound was charred.
+
+Mrs. D████ G███████, Mr. F████ L█████████, Ms. R███ K███, Mr. J███ A████, amateur mathematics enthusiasts.
+
+04/11/2008, international.
+
+The deceased were members of an internet-based group of mathematics enthusiasts. All died in their homes as a result of what was believed to be accidental sharp-force trauma to the skull. Symbols, apparently some form of language or code, had been painted onto the exposed skin of the deceased and onto furniture and walls around the bodies. In each case, computers and other data storage devices used by the victim were missing.
+
+Dr. S████ C█████, a mathematician employed by the Foundation to analyse the output of SCP-███.
+
+03/03/2010, [REDACTED].
+
+Dr. C█████'s head was the only part of her body to be recovered, and was found in Dr. C█████'s office. A large amount of Dr. C█████'s notes were missing, all references to the specific cipher she was studying at the time of her death could not be located; investigation into this event is ongoing.
+
+Addendum 2109-2: Following Dr. C█████'s death and her identification as a SCP-2109 instance, a review of security camera footage from Site-26 using SILVER CRESCENT protocols revealed the presence of an anomalous humanoid entity in recorded footage, 1.9 metres in height, dressed in a robe made of black cloth and possibly feathers, with a cylindrical headpiece which completely obscured its face. The entity does not appear to be human, as its hands appear avian and have four digits.
+
+This entity was first observed on 28/02/2010, entering a general work area at Site-26 and observing Foundation mathematicians engaged in discussion of SCP-███'s output. Over the next two days the entity is seen to observe these mathematicians at work, often standing motionless in their offices for long stretches of time, before beginning to watch and follow Dr. C█████ exclusively.
+
+No personnel appear to notice or react to the entity's presence during this time, and the entity was not detected during prior review of the security footage, which did not utilise SILVER CRESCENT methodology. At 10:51 EST on 02/03/2010, Level-1 employee Mr. E███ B█████ was observed to have stepped around the entity upon passing it in a corridor, but extensive interrogation of Mr. B█████ indicates that he has no recollection of this event and was likely unaware of the entity's presence at the time.
+
+At 17:56, 02/02/2010, Dr. C█████ leaves [REDACTED], and is followed by the entity, which is observed by security camera in the staff parking facility getting in to the passenger seat of Dr. C█████'s car when she unlocks the vehicle. At 02:45 on 03/03/2010, the entity is recorded entering [REDACTED], removing Dr. C█████'s severed head from within its clothing, and placing it in a cabinet in her office before leaving the site. What role the entity had in her death remains unknown. It is also unclear how the entity bypassed a number of automated security checkpoints while traversing the site.
+
+As a result of this new information, SCP-2109 cases are to be examined to determine if similar entities were present at the scenes of other SCP-2109-affected deaths. The significance of the cipher that Dr. C█████ was working on at the time of her death is likewise unknown.
+
+Security measures at [REDACTED] have been modified in light of these events, but no recurrence has been noted since.
+
+Footnotes
+
+1. SILVER CRESCENT is a counter-infohazard measure developed to allow for the analysis of still images to highlight information which human operatives cannot perceive in said images. Further details are not available to personnel without requisite clearance.
+
+2. For example, tests involving presenting relevant personnel with hypothetical ‘evidence’ matching the details of Dr. Rice’s death, without revealing the existence of a real death matching this description or naming the deceased or the location.

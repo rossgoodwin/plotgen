@@ -1,0 +1,31 @@
+Growth stage of SCP-836, structure seen from above
+
+Item #: SCP-836
+
+Object Class: Keter
+
+Special Containment Procedures: Live samples of SCP-836 should be stored on glass in a two-layer CFRP casing filled with air with specific humidity not exceeding 5%. The inner casing should be periodically checked for signs of excessive thinning and/or damage, replacing panels if necessary. Damaged panels are to be sterilized by heating them to a temperature exceeding 950 degrees Celsius over a course of five minutes; subsequently they can be treated as regular waste or used as substrate.
+
+In the event of inner casing breach, outer casing as well as the entire storage room are to be urgently subjected to similar heat treatment. The storage unit for SCP-836 samples may not be connected to any other SCP unit structurally or via engineering networks.
+
+In the case of an uncontained SCP-836 outbreak, the local utilities networks are to be shut down and the area radiating at least 200 metres from any infected building is to be evacuated and subjected to procedure 28-Surtur (suggested cover: military satellite planned crash). The area of within 2 km radius of SCP-836 outbreak is to be monitored for presence of further outbreaks for a period of 14 months.
+
+In areas marked as at-risk for SCP-836 outbreaks, building codes should be edited so as to ensure the systematic replacement of structures over 70 years of age.
+
+Description: SCP-836 is the designation given to a condition occurring within clay, bricks or concrete, though secondary propagation can affect most known structural materials. The initiating factors are currently subject to research, though the likelihood of SCP-836 appearance increases rapidly for structures over ███ years old.
+
+Initial stage of SCP-836 manifests as a deformation within the material that grows at an average rate of ███ grams per day. The mass increase seems to correspond to a density drop in surrounding material. The deformation is hygroscopic. Furthermore, [DATA EXPUNGED] which seems to initially fuel the growth. Dissection of SCP-836 instances shows the inside alternating between solid layers and a foam-like interstitial structure. At this stage, SCP-836 poses little danger except for cases where it compromises integrity of delicate structures.
+
+If SCP-836 comes into contact with live wiring, it enters growth stage which initially manifests in what appears to be a metallic mesh growing on the surface of the deformation and connecting to the wiring. (However, examination has shown this to be in fact separate loops growing through its upper layers.) This allows SCP-836's rate of growth to increase up to ███-fold. At this point, the deformations often superficially mimic surrounding environment, resulting in outside resemblance to structural features. Along with uniform density drop in surrounding material, SCP-836 at this stage can grow by re-purposing entire sections of its surroundings. If lacking access to water sources at this stage, SCP-836 exhibits somewhat slower growth, and causes large reductions in environmental humidity.
+
+Once SCP-836 specimens weighing at least ██ kg come into contact with a source of flowing water, such as piping, they tend to enter proliferation stage though the precise conditions required are unknown. At this stage, outer layers of the deformation crumble and enter the water stream. On first contact with most solids, growth similar to initial phase occurs. In this manner, SCP-836 is able to propagate rapidly, in one observed instance covering roughly █ square kilometres in ██ days.
+
+It has been shown that heating instances of SCP-836 to over 950 degrees Celsius for up to 4 minutes neutralizes most non-metallic samples. For metallic samples applying warm nitric acid has been shown successful.
+
+Recovery Log: SCP-836 was first encountered by the Foundation on ██/██/199█ in ██████, Slovak Republic, following an investigation by the local police of an apartment house whose water and electricity usage had quadrupled during a period of two months - causing suspicion of cannabis indica farming.
+
+The report given by the returning officer prompted investigation by a strike team lead by agent Dolezal.
+
+Upon arrival at site, part of the structure's roof was found to have caved in, apparently due to a metallic growth cca. 1 metre across found in the rubble. The walls contained an unlikely amount of windows and doors, most of which only had rudimentary mechanisms.
+
+The body of one of the officers (apparent suicide via service weapon) was recovered from the bathroom of apartment of J████ N████, where he was sealed by a rogue wall growth blocking the door. Due to extensive growths, basement of structure unexplored. Procedure 28-Surtur successfully tested on structure as well as its surroundings on ██/██/199█. Area monitored until ██/██/20██.

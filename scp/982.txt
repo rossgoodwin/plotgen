@@ -1,0 +1,27 @@
+Item #: SCP-982
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-982 is to be kept in a negative-pressure climate-controlled facility, and must remain closed and bolted except during approved exploration.
+
+A perpetual chronometer is to be mounted on the wall alongside SCP-982, counting down an interval of 26 (twenty-six) hours and 15 (fifteen) minutes. SCP-982 must be closed no later than at 0 hours 1 minute 30 seconds, regardless of whether all exploration team members have emerged.
+
+All exploration team members must receive dialect coaching and full-spectrum vaccinations before entering SCP-982, and undergo decontamination upon emerging.
+
+Items extracted from SCP-982 are to be considered potential biohazards and contained as such.
+
+Description: SCP-982 is an antique casement window, recovered from a Marshall, Carter, and Dark auction, and originally taken from the abandoned business offices of ███ ██████, a 19th-century patent attorney in Chicago, IL. No matter where it is mounted, SCP-982 opens onto the street outside ███ ██████'s third-story office, as it was between 8:30 AM on Friday, March 26, 1875 and 10:45 AM on Saturday, March 27, 1875. Personnel exiting this window find themselves in what is apparently 1875 Chicago; however, at the end of the 26-hour interval, the city 'resets'. Any external objects or personnel within the city at that time are lost.
+
+The size of the area accessible via SCP-982 is not known; exploration teams have been able to send telegrams to ████████ in England, and receive responses.
+
+Exiting 1875 must be done by climbing back through SCP-982 from the outside; attempts to access SCP-982 from within the offices of ███ ██████ reveal only an ordinary window. Exploration teams are advised that the Chicago Police in 1875 react with hostility towards the use of grappling guns and rope ladders to re-enter SCP-982; since all changes are eliminated at the reset, the use of lethal force is fully sanctioned with no risk to the timeline.
+
+Addendum: As a result of incident 982-215/74, an altercation with Chicago Police Officers █████████ and ████, SCP-982 has been found to be bulletproof on the 1875 side.
+
+Note: The use of SCP-982 as a source of D-class personnel is deprecated due to the possibility of cross-SCP contamination.
+
+Addendum: Thus far, all attempts to locate ███ ██████, either alive or dead, have failed. Other occupants of the building report last seeing ███ ██████ in the afternoon of Thursday, March 25, 1875. Beggars and street vendors report not having noticed him leave the premises. His neighbors did not see him return to his home on the evening of the 25th, nor did they see him leave his home on the morning of the 26th.
+
+His secretary reports that the last client of the day on Thursday was "a peculiar unwashed man with some odd accent that sounded Polack", but is unable to provide a more detailed description; the client had arrived without an appointment or a visiting card.
+
+Exploration missions which begin after SCP-982's internal chronology has reached Friday evening report that ███ ██████ does not show up for work on Friday, nor does he return to his home.

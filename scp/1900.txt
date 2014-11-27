@@ -1,0 +1,37 @@
+Item #: SCP-1900
+
+Object Class: Euclid
+
+Special Containment Procedures: A culture of SCP-1900 and an infected hard drive are to be preserved for research purposes at G2 Site 15 according to Class 4 Biohazard procedures. No electronic devices capable of connecting to the internet are to be allowed into G2 Site 15. Personnel at any site exposed to SCP-1900 or reporting lesions, blisters, headaches, or seizures are to be examined and, if found to be infected, quarantined indefinitely, and all internet-capable devices they own destroyed.
+
+As SCP-1900 is already widespread among the civilian population, lacks distinguishing symptoms, and is difficult to eradicate from the system of victims, containment is focused around preventing further cases. The Foundation has contacted major computer security companies, and had them alter their antivirus software to block SCP-1900. Social engineering programs are underway to discourage people from opening their computers to infection. Additionally, vaccines for the current strain of SCP-1900 are being developed, and such vaccines are to be made universally available under the cover as being for a virulent strain of flu.
+
+Attempts to track down the party or parties responsible for SCP-1900 are ongoing and so far unsuccessful. The Foundation has requested governments involved in the hunt remand any persons captured to Foundation custody.
+
+Description: SCP-1900 is a pathogen capable of infecting both humans and computers. As such, there are two forms of SCP-1900, one a virus and one a malicious program. It is capable of cross-transmission between humans and computers through unknown means.
+
+In its software form, SCP-1900 functions as a Trojan horse designed to give a third party control over the infected computer. Once on a computer, it disables most standard virus-recovery methods, making it extremely difficult to remove without reformatting the device. SCP-1900 uses any email accounts active on the computer to distribute messages containing SCP-1900 as an attachment.
+
+Computers infected by SCP-1900 constitute a decentralized botnet. Though SCP-1900 would theoretically allow for a remote source to gain complete control over such computers, this has yet to be observed. Instead a small partition of the computers’ capacity is used to update SCP-1900 and to spread SCP-1900 farther. This causes minor slowing of the infected computers.
+
+In its biological form, SCP-1900 is a DNA virus similar to the herpes simplex virus. It is more complex in structure than HSV, and has a significantly more ordered genome, strongly suggesting synthetic origin. Contained in the genome is the cyrillic ASCII encoding of the current text of the message SCP-1900 uses to propagate itself in digital form.
+
+The SCP-1900 virus has primary symptoms similar to herpes and mild viral encephalitis. It causes painful skin blisters, headaches, and in rare cases seizures. SCP-1900 is rarely fatal outside of immunocompromised patients. Symptoms typically last anywhere between two and eight weeks. As with HSV, SCP-1900 then enters a latent stage in which it persists in neural ganglia indefinitely. Research has shown that latent infection by SCP-1900 causes infected individuals to be more outgoing, more trusting, and to produce increased quantities of dopamine when exposed to wavelengths of light produced by modern computer monitors. Additionally, imaging reveals abnormal brainwave patterns consistent and synchronized across all patients.
+
+Both forms of SCP-1900 have measures to prevent alteration during replication. Every month, a new version of the SCP-1900 is released through the botnet and propagates rapidly among both forms of SCP-1900. In the viral form, this has a low chance of reactivating the latent virus. Attempts to track the source of these updates have proven unsuccessful so far. It is estimated that SCP-1900 has infected around 4.2 million computers and 5.1 million persons worldwide.
+
+Addendum 1900-3: The following is a sample email typical of the sort sent out by SCP-1900. Spelling and grammar have been left unchanged.
+
+Dear Friend,
+
+Do feel like you’re moving through life without an direction, without any clear sense for where you’re going or what your PURPOSE on this world is?
+
+Well so did I until I read Dr. Bryshevskiy’s book. It told me how evryone out there was a just a friend I hadn’t met yet and how you just had to say hello.
+
+It may not sound like much but thjt really gave me a sense of PURPOSE and worth to build a better world where evryone lives in harmony and peace. If we just put our heads together who knows what we’ll come up with!!
+
+So please, as a friend and maybe more, look at Dr. Bryshevskiy’s book. I’ve attached a digital copy for you until you can get a real one. I hope when we fineally meet you have the same PURPOSE I do.
+
+Love,
+
+Androphilus

@@ -1,0 +1,57 @@
+Photograph of SCP-498
+
+Item #: SCP-498
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-498 is to be contained within a sound-proof bunker beneath Site ██, with a minimum of two attending Foundation Security Officers, properly equipped with noise-canceling headphones in addition to standard-issue equipment. The bunker is to be sound-proofed to noise-cancel a minimum of 95% of outgoing sound waves.
+
+A fully automated mechanical arm is to be used to reset SCP-498. Secondary Containment Procedure: In the event of failure, two D-Class personnel are to be locked inside with an appropriate amount of rations. They are to be informed fully of its effects and to alternate shifts sleeping and resetting SCP-498 until the failure is repaired. Security footage sans audio of the chamber is to be monitored at all times. Following Incident I498-B, in the event of failure an on-site Foundation Security Officer is to be sent in to manually reset until such a time automated safety procedures can be reinstated.
+
+Description: SCP-498 appears to be a Koway Brand RT-800 electronic alarm clock with yellow LED display, set to the U.S. Central Time Zone. When heard by a subject, the alarm has been seen to induce a state of increased alertness until reset. This effect prevents restful sleep in SCP-498's vicinity, although micro-naps are possible. Other than the "snooze" button and the display, none of the other functions on the device appear operational. Notably, the device continues to display time and require resetting even while not connected to a power source. Attempts to dismantle SCP-498 have not been successful in preventing it from activating, nor have they determined how it operates without an obvious power source.
+
+Every 11 minutes, the clock's alarm goes off, gradually increasing in volume. Testing reveals that the starting alarm plays at 30 dB, increasing 4 dB every 10 seconds the snooze button is not depressed. There has been no evidence that this process will ever stop; the loudest recorded level exceeded ███ dB before reset was achieved. The sound waves produced have been seen to damage nearby structures, cause internal bleeding, and are theorized to potentially cause seismic activity.
+
+Addendum 498-A: Containment Protocol updated. See Incident Report I498-B.
+
+Incident Report I498-B:
+
+██/██/██, Site ██, Containment Bunker ███
+
+Due to a malfunction in the automated mechanical arm, Secondary Containment Procedures were activated. Two D-Class personnel were utilized until a replacement arm could be manufactured and deployed. D-4112 and D-4113 were in day 3 of their containment procedure, and post-incident psycho analysis indicate severe sleep deprivation and stress due to prolonged exposure to SCP-498. The two D-Class were observed conversing during this time, although lip-reading proved to be ineffective in determining the nature of the conversation.
+
+At 10:45:06 pm, D-4113 was observed depressing the snooze button on the device.
+
+10:56:39 pm, D-4112 begins to become noticeably and increasingly agitated, gesturing toward SCP-498 and D-4113.
+
+10:57:04 pm, D-4113 is seen becoming more and more aggressive. D-4112 appears to be attempting to reason with him.
+
+10:57:50 pm, D-4112 attempts to reach for the device. D-4113 pushes D-4112 away. At this time, the attending Security Officers noticed the situation via closed-circuit camera.
+
+10:58:23 pm, SCP-498 has still not been reset. Attending Security Officers decide to intervene.
+
+10:58:45 pm, D-4112 and D-4113 are seen shouting at one another, with the latter standing over SCP-498. Security Officer ███████ Wilson enters the bunker without noise-canceling headphones, a violation of Containment Protocol.
+
+10:58:53 pm, Officer Wilson appears to be arguing with the two D-Class, presumably ordering them to reset the device.
+
+10:59:08 pm, D-4112 again attempts to reach SCP-498, at which point he is struck by D-4113 and incapacitated.
+
+10:59:12 pm, Officer Wilson draws his baton and engages D-4113.
+
+Note: D-4113 was convicted of murdering his CO and several fellow soldiers during a tour of duty in Iraq.
+
+10:59:24 pm, D-4113 wrestles the baton from Officer Wilson, subsequently subduing him. Second Security Officer ██████ Thomas enters at this point, equipped with headphones and his side arm.
+
+10:59:29 pm, Officer Thomas draws his side arm and fires twice, missing both times before D-4113 closes the distance between them. A scuffle ensues.
+
+10:59:46 pm, Officer Thomas' headphones are knocked away. Both personnel are exhibiting severe pain at this point, presumably due to SCP-498. Camera footage vibrating due to acoustic stress.
+
+11:00:02 pm, Officer Thomas manages to put distance between himself and D-4113 and fire his sidearm. D-4113 is terminated. Officer Thomas stumbles from the bunker, sealing SCP-498 and the occupants inside. Despite ruptured eardrums, he managed to activate the Containment Breach Emergency Switch before passing out.
+
+11:01:56 pm, camera fails due to acoustic stress.
+
+11:25:58 pm, due to an unrelated simultaneous breach at Site ██, containment teams arrived nearly 25 minutes after the alarm was activated. Upon arriving at the scene, it was discovered that D-4112 had at some point crawled himself to SCP-498 and activated the snooze reset. He was found repeatedly depressing the button, despite suffering from burst eardrums and internal bleeding.
+
+After Action Report
+
+New containment protocol initiated. Both Security Officers ███████ Wilson and ██████ Thomas were diagnosed with eardrum rupture, resulting in deafness. Officer Wilson treated for severe internal bleeding. Both re-assigned. D-4112 was treated for severe internal bleeding, commended for preventing a potentially catastrophic containment breach, and successfully terminated at the end of the month.

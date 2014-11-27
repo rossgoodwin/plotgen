@@ -1,0 +1,37 @@
+Item #: SCP-700
+
+Example of SCP-700-2
+
+Object Class: Euclid Safe
+
+Special Containment Procedures: As SCP-700 is immobile, one security team is to be permanently placed at the site, to prevent the entrance of civilians and unauthorized personnel. They are to be equipped with breath masks at all times while inside of SCP-700.
+
+SCP-700-1 is to remain closed all the time. Its hatch may only be opened if all personnel present inside SCP-700 are wearing full-body, non-organic biohazard suits and breath masks, and only for the purpose of running necessary tests. Following Incident 700-1, this part of the containment procedure is no longer necessary. See Incident Log 700-1 for more details.
+
+Description: SCP-700 is a large, abandoned building, similar to a factory in design, located in a rural area of ██████████, USA. It contains █ floors (one being underground), each containing ██ rooms. Many of these rooms are built in a way that does not appear to serve any specific purpose, containing, for example, redundant machinery, sewage pipes that are not connected to any kind of disposal unit, and numerous power cords extended across the room in a manner similar to sash cords.
+
+███ graffiti pictures (designated SCP-700-2) can be observed inside SCP-700's rooms. They usually depict humanoid creatures, although animal figures were also observed.
+
+Example of SCP-700-2
+
+All instances of SCP-700-2 have shown the capacity to move around the walls of their rooms. Their frequency of movement varies depending on what room SCP-700-2 is located. For example, rooms blocked with iron bars will turn SCP-700-2 mostly immobile, with only slight movements being made at seemingly random periods of time. It is currently unknown if the graffiti are sentient, but as their movement patterns are erratic, and considering that all attempts at communicating with them have failed, it is assumed that they are not.
+
+Inside the central room of the underground floor is a circular hole (designated SCP-700-1). It is 10 meters deep and with a radius of 1.5 m. An iron hatch is connected to the hole. There are ██ 0.3 ml plastic syringes attached to the walls, all positioned one meter above the bottom of SCP-700-1. At the center of the hole's floor is a 1 x 1 m grate that leads into an unlit chamber. Removing the syringes from the wall is possible; however, new syringes will "grow" to replace the lost ones a few moments after their removal.
+
+The syringes at the bottom of SCP-700-1 are constantly producing a yellow liquid, composed primarily of human [DATA EXPUNGED]cluding menses. This mixture produces a fragrance deemed to be "very attractive" to all humans that come in contact with it. If SCP-700-1 is left open, the smell will spread through all the rooms of the building.
+
+Upon smelling this fragrance for a small period of time (usually █ minutes), subjects will begin to unconsciously move towards SCP-700-1. If not stopped, they will throw themselves down SCP-700-1. The fall will usually result in fractured bones, but all observed subjects seemed to be unaware of the fact, concentrating solely on consuming the liquid dropped by the syringes.
+
+After a human falls inside SCP-700-1, the hatch will automatically close, and loud mechanical sounds will be heard coming from an undetermined place within SCP-700. At this point, opening SCP-700-1's hatch will reveal a solid concrete floor instead of the hole, and will also bring the sounds to a halt. Approximately █ minutes after closing, SCP-700-1 will reopen by itself, revealing the hole again, but the human inside will have disappeared. During the tests, all recording devices (like cameras) placed inside SCP-700-1 were destroyed by unknown means as soon as the hatch closed.
+
+█ hours after the disappearance of the subject, a new instance of SCP-700-2 will be found in one of SCP-700's rooms.
+
+SCP-700 came to the attention of the Foundation after various reports of a man called "Mr. ██████" selling "living art" painted on concrete blocks. When confronted by Foundation personnel, Mr. ██████ attempted to flee, and injured one agent before killing himself when it became clear that he could not escape. The coordinates for the location of the building were found at his house on ███████. The Foundation was able to find and destroy ██ of the blocks that Mr. ██████ sold. The owners of the blocks were given Class B Amnesiacs.
+
+SCP-700-3, at the center of the picture
+
+Addendum 700-1: Staff working inside SCP-700 have reported sightings of a featureless humanoid figure silently walking inside SCP-700's rooms immediately after a human vanishes inside SCP-700-1. This entity (designated SCP-700-3) disappears when researchers try to make physical contact with it, and it does not respond when communication is attempted. Thus far, SCP-700-3 has proved to be harmless. Any changes in SCP-700-3's behavior are to be reported immediately.
+
+Addendum 700-2: Recently, █ researchers and ██ D-Class personnel that observed pictures of SCP-700-2 claimed to have momentarily seen the graffiti in some of them moving. Further tests have confirmed that SCP-700-2 depicted in photographs will appear to move only to subjects with a previous history of [DATA EXPUNGED]. What causes this phenomenon is currently unknown.
+
+Incident Log 700-1: On █/██/████, Dr. █████ brought four D-Class personnel to SCP-700 with the intention of discovering the nature of the chamber below SCP-700-1. To achieve this, D-9462 was provided with a crowbar, and was instructed to use it to remove the grate located at the bottom of SCP-700-1. When D-9462 struck SCP-700-1's grate with the crowbar, a loud shriek could be heard coming from all rooms of the building. SCP-700-1's hatch closed immediately after the shriek ceased. Since the incident, opening the hatch will only reveal a solid concrete floor. As of ██/██/████, SCP-700-1 did not reappear. Manifestations of SCP-700-3 have also stopped occurring. As a result, SCP-700 was reclassified as "Safe".

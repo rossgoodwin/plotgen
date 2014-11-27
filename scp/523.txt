@@ -1,0 +1,39 @@
+Item #: SCP-523
+
+Object Class: Euclid
+
+Special Containment Procedure: SCP-523 is kept in a sealed room separate from the rest of the Site-19 complex. The room is set to self-destruct in the event of an XK-class end-of-the-world scenario to prevent SCP-523 from worsening the situation. The walls of the room have been laced with two (2)-millimeters of lead, in the hopes that SCP-523 will be unable to escape once again (see below).
+
+SCP-523 is to be removed from containment for experimental purposes only and doing so requires permission from Level 3 personnel or higher. Personnel experimenting on SCP-523 should be accompanied by at least one person able to receive low-frequency telepathic signals. Personnel in the presence of SCP-523 are instructed to alert one another before blinking. Performing dangerous experiments on SCP-523 is strongly discouraged. Removing SCP-523 for practical use is strictly prohibited.
+
+Description: SCP-523 does not have a consistent physical form, nor does it have any distinguishing marks by which it can be identified. It does however emit a low-frequency telepathic signal which persons capable of detecting describe as "a dull ringing sound." This signal can be used to locate SCP-523 if it "escapes." This frequency is also assumed to be the source of SCP-523's ability to short out electronic recording devices such as video cameras and blank out camera film.
+
+SCP-523 is able to "jump" across short distances while unobserved and disguise itself as any inanimate object, mechanical or otherwise. SCP-523 will disguise itself as an object that a nearby human is likely to make use of shortly. Once the human has picked up, drawn their attention to, prepared, activated, or otherwise demonstrated that they are going to make use of the object, SCP-523 will tranform into a different object unusable or utterly inappropriate for the task at hand. These transformations can only occur if SCP-523 is unobserved, but can occur in the blink of an eye.
+
+SCP-523's transformations are immediate and usually extend beyond uselessness and into irony. Transformations range from extremely impractical to outright dangerous, including instances of [DATA EXPUNGED]. Lead appears to prevent it from jumping out of a room, but does not prevent it from transforming. It has jumped from containment multiple times and disguised itself as mundane but useful objects. Several accounts of such follow:
+
+Document #: 523-01
+
+Victim: Dr. ████████
+
+Disguise: Scalpel
+
+Event: Dr. ████████ was preparing to perform a delicate autopsy on recently-deceased D█-████, who had been killed by SCP-███. He asked his assistant to hand him a scalpel. When he looked back at the body, he felt a sudden increase in weight from the hand holding the scalpel. When he looked at his hand, he found he was holding a chainsaw.
+
+Document #: 523-02
+
+Victim: Dr. Willis
+
+Disguise: A pitcher of water
+
+Event: Dr. Willis was on break in one of the on-site rec rooms when a fire broke out due to someone forgetting to take the foil off their baked potato before microwaving it. Dr. Willis grabbed the pitcher and, not noticing the liquid inside had changed colors after he picked it up, doused the flames in the liquid which turned out to be gasoline. Dr. Willis was taken in for treatment of 2nd- and 3rd-degree burns.
+
+Document #: 523-03
+
+Victim: Agent █████ (deceased)
+
+Disguise: Regulation Foundation Pistol
+
+Event: Agent █████, along with a team of D-Class personnel had been assigned to oversee an experiment on SCP-682 in which [DATA EXPUNGED]. SCP-682 became enraged and began attacking the personnel. When Agent █████ reached for his pistol, he was surprised to produce a ring of keys. It was later discovered that the blades of the keys were all dull, and unfit to open any door.
+
+Note: Since it seems that SCP-523's transformations are more or less proportional to the gravity of the situation it is being used for, it is imperative that it be destroyed immediately in the event of an XK-class end-of-the-world scenario, as it may turn into something that would further exacerbate the situation. Like the Sun. -Dr. Willis

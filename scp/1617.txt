@@ -1,0 +1,69 @@
+Item #: SCP-1617
+
+Object Class: Safe
+
+Special Containment Procedures: All contained SCP-1617 instances are to be held within Safe class storage lockers within Site-39. SCP-1617 instances require incidental cleaning once per six months to prevent further deterioration. Excessive deterioration on an instance requires restoration work to be performed as necessary; this restoration may be performed by any qualified personnel.
+
+New instances of SCP-1617 are to be contained by Mobile Task Force Upsilon-18 ("Digital Millennium Copyright Agents") and transported to Site-39.
+
+Description: SCP-1617 is the collective designation of various counterfeit art pieces. Approximately 96% SCP-1617 instances have been identified as duplicates of pre-20th-century paintings or sculptures; the remaining 4% are works which exhibit similar anomalous effects, but the original works and artists are not known to have existed in any form.
+
+When a viewer observes an SCP-1617 instance and identifies it as an artwork, they will begin to experience auditory and visual hallucinations. The visual hallucinations typically involve a geometrically simple pattern being repeatedly scrolled or manipulated, while the auditory hallucinations are typically composed of synthesized musical scores, often identified as covers of songs popular during the 1980s and 1990s. All viewers will report some manner of English-language text appearing during these hallucinations. This text typically identifies the original piece's name and artist, as well as a message which purports to be from the creator of the counterfeit piece. The hallucination will cease within 20 seconds to 2 minutes, depending on the object viewed.
+
+After these hallucinations cease, the viewer is able to observe the SCP-1617 instance with no further anomalous effects. Should the viewer cease observing an SCP-1617 instance for a period of ten minutes, returning to that instance and viewing it again will result in an identical hallucination. Different viewers observing the same object will report similar or identical hallucinations.
+
+Addendum 1: Sample logs of hallucination effects.
+
+SCP-1617-14:
+
+Original Piece: The Thinker
+
+Original Artist: Auguste Rodin
+
+Auditory Hallucination: Cover of "Barbie Girl" by Aqua; pitched one octave higher, sounds similar to square waves
+
+Visual Hallucination: High-speed forwards movement through a purple nebula
+
+English Text:
+
+"THE THINKER" BY RODIN CRACKED BY AWCY CRACKING CREW
+
+ENJOY THE STARFIELD
+
+SCP-1617-39:
+
+Original Piece: The Mona Lisa
+
+Original Artist: Leonardo da Vinci
+
+Auditory Hallucination: Cover of "Baby One More Time" by Britney Spears; sounds similar to triangle waves
+
+Visual Hallucination: Dancing cartoon frog in front of black and white checkerboard pattern
+
+English Text:
+
+"THE MONA LISA" BY DA VINCI CRACKED BY THE DOOD
+
+AN OLD CLASSIC FOR ALL TO ENJOY
+
+SCP-1617-117:
+
+Original Piece: Unknown
+
+Original Artist: Unknown
+
+Description: A landscape painting of a planet that has superficial similarity to Mars
+
+Auditory Hallucination: Unknown; believed to be original composition based in 7:4 time, sounds similar to triangle waves
+
+Visual Hallucination: Complex mechanisms with similarity to the internals of a cuckoo clock
+
+English Text:
+
+"ZAN PURANGA" BY ORICELLUS CRACKED BY AWCY CRACKING CREW
+
+SPECIAL THANKS TO BRIAN_29 FOR THE ORIGINAL SOURCE
+
+Addendum 2: On 20/06/2008, Site-39 received a mailed message written in a composite language derivative of Latin, Greek, and Old English. This message was translated as follows:
+
+To the [artists? thieves?] of the derivative works [illegible], we write on behalf of the artist Oricellus. This is a formal [message? threat?] and takedown request for your hosted works. These pieces violate the intellectual property rights of Oricellus. As you may know, this violates [ownership? gift?] law and must cease promptly. [request? order?] prompt removal or further actions will be taken.

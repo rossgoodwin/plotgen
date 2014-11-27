@@ -1,0 +1,15 @@
+Item #: SCP-431
+
+Object Class: Euclid
+
+Special Containment Procedures: Backup copies of all Foundation documents are to be kept at Site-██. Any documents and/or photographs SCP-431 is found in are to be stored in the Site-██ local database and replaced with their backup copy. Any personnel who report recalling SCP-431 are to be immediately questioned. Office ██-25 is to be inspected daily for any new objects. Foundation archives are to be monitored for any changes or new documents regarding SCP-431.
+
+Description: SCP-431 is the designation given to Dr. Gideon, a man who appears to have been a Foundation researcher. Due to the condition of records at present, it is not known if Gideon is his real name. The existence of SCP-431 was first discovered during what appeared to be an attempt to hack the Foundation database: a number of documents were altered to state that a scientist referred to as "Dr. Gideon" was involved in researching several SCP objects. However, it was determined that the documents in question were not being accessed at the time that they were modified.
+
+Since the initial event, references to a Dr. Gideon have appeared in ██ additional documents. Every time a document has been altered, it has been shown that it was not in use at the time of modification. Several new documents also appeared, a number of which are SCP documentation of items that the Foundation does not currently possess, including a [DATA EXPUNGED], and one item, a [DATA EXPUNGED], which is known to currently be in the possession of Marshall, Carter, and Dark Ltd.
+
+A number of objects have also been discovered in Office ██-25, which is currently vacant. It is not known when items began to appear inside it, as the office was only investigated when a "Dr. Gideon" name placard appeared on the door. ██ documents have been recovered from the office, including a photograph, Document 431-██ (seen above) which is believed to depict Dr. Gideon alongside three (3) known Foundation personnel. Security camera tapes dated ██/██/██ show a man who is believed to be Dr. Gideon conversing with a number of researchers. None of the researchers report ever working with anyone named Gideon and none show signs consistent with the administration of amnesiacs.
+
+No information concerning Dr. Gideon's hiring by the Foundation exists, nor does any documentation indicating that Dr. Gideon was either fired, terminated, or quit. One document recovered from Office ██-25 appears to have his fingerprints on it, as the fingerprints have no match within the Foundation's or any government's fingerprint database. No government documentation regarding anyone named Gideon matching the description of the individual in Document-431-██ exists, including birth, death, census, or tax information.
+
+By date, the last documents available presently state that Dr. Gideon was scheduled to oversee the neutralization of an SCP object; however, the document refers to the object being neutralized as SCP-███, a designation not currently in use. No documentation has appeared describing SCP-███.

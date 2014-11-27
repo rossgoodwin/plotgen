@@ -1,0 +1,129 @@
+Entrance to Sogsagim cave system prior to Expedition 1538-1
+
+Item #: SCP-1538
+
+Object Class: Euclid
+
+Special Containment Procedures: Instances of SCP-1538 are cataloged and filed in the Site-23 Archives, and may be accessed with clearance from the Research Director. A compendium of transcribed SCP-1538 text is available through the Site-23 ADONIS secure sub-network.
+
+All reports concerning suicides filed by law enforcement agencies in the Daejeon metropolitan area are to be clandestinely monitored by regional Foundation assets for evidence of SCP-1538 instances. In the event of a resumption of SCP-1538 manifestations, subsequent investigations are to be turned over to Foundation operatives using the established cover of National Police Agency Task Force Wae, a special unit within the South Korean law enforcement structure.
+
+As of ██/██/2010 and the conclusion of Exploration 1538-1, access to the Sogsagim cave system in Hallasan National Park is closed to all personnel and civilians. A security perimeter is to be maintained under the auspices of a long-term ecological restoration project. Any unusual activity near the Exploration 1538-1 initial entry point is to be immediately considered a medium-risk containment breach event, subject to established response protocols.
+
+Description: SCP-1538 is a collection of fifteen documents that appeared between 07/29/2008 and 02/11/2010, transcribed as suicide notes by fifteen separate individuals. Despite confirmation by Foundation investigators of no existing relationships between any of the fifteen individuals, each suicide note left behind by these individuals contains a portion of a unified narrative. In all cases, SCP-1538 instances consist of specialized technical instructions interspersed with personal sentiments consistent with a suicide note.
+
+All individuals responsible for instances of SCP-1538 resided within 80 km of the city of Daejeon, South Korea, most having maintained residence in the district of Jung-gu. Two individuals resided in the Yuseong-gu district, while one was a long-term patient in the city's Taejon Shinsaeng mental health facility. No anomalous factors appear to have contributed to suicides: Review of law enforcement and personal records indicate that in each case, financial distress, troubled interpersonal relationships, untreated mental illness, or other commonly cited motivations for self-harm were responsible for each individual's decision to take their own life. The fifteen authors of SCP-1538 demonstrate no clear demographic similarities, and vary in gender, age, profession, socioeconomic status, family background, and all other observable traits.
+
+When combined, the entirety of SCP-1538 instances (with the exception of Note 4) form a technical manual for the operation of a twin-screw extruder machine of unknown manufacture (hereafter SCP-1538-1). Note 4 contains GPS coordinates indicating a previously undiscovered access point to the Sogsagim cave system, within which SCP-1538-1 was discovered during Exploration 1538-1.
+
+Addendum 1538-1: Sample SCP-1538 instances
+
+Note 3 was left by ████ ██ ████, a 43-year-old female teacher at a technical high school. Ms. ████'s body was found in her car in the school parking lot by students arriving for morning classes. Cause of death was later ruled to be self-induced asphyxiation.
+
+The "actual" column displays the actual data from your process. The "set" column displays the set points of your temperature controllers and analog signals. By default the alarm values (Hi, HiHi, Lo, LoLo) for each zone temperature are set to +15 HiHi , +10Hi, - 10Lo , -15 LoLo. All alarm values
+
+I am so sorry. I am not strong enough for this. Please do not call any more attention to me than
+
+All parameters are color coded based on alarm status. You will notice that when you place the mouse pointer in any parameter cell the parameter will appear on a small text balloon. There are 3 major ways to view a process parameter's data. These are:
+
+Do not tell Kim they found me like this. The shame is great enough already. Goodbye.
+
+This allows you to see the alarm values along with the actual parameter value, and in the case of a temperature control zone, the temperature setpoint. Once the data strip is in view you can left click on any parameter and it will be displayed in the data strip.
+
+Note 14 was found folded in the shirt pocket of ██████ ████ ██, a 22-year-old male university student. Mr. ██████'s remains were recovered at the bottom of a cliff after being discovered by hikers in a coastal region in western Chungnam province, and were found to be partially scavenged by local wildlife.
+
+My actions have led me here. No one else's. I have caused immeasurable grief to those around me, and brought disgrace to those who trusted me most. I am
+
+As discussed earlier in this manual, log event comments by using the "Add Event" button on the icon bar. You can also log event comments by double clicking the left mouse button on the graphic window this will open the "User Event Log" window. You can then add your event comments and then click OK to add them to the Events page. Note: events are logged at the current run time, not the point of
+
+I hereby leave all my belongings to my mother, father, and sister. In addition to what's in my room, I have a small safe deposit box at the Woori Bank on Munwha-ro. The combination
+
+While melting and “pumping” as much polymer to the die as possible is important, mixing material in compounding applications is equally important; there are many ways of achieving good mixing. Pins may be placed in strategic placed in the metering section of a screw. Fluted sections at the end of the screw help to both mix and melt left over solid polymer
+
+Note 8 was recovered on a bedside table in the hotel room where █████, a 19-year-old musician, was found dead from a self-inflicted gunshot wound to the head. An autopsy later indicated that Ms. █████ had ingested lethal quantities of demerol and eighteen capsules of Zotepine, an anti-psychotic drug that had recently been prescribed to her.
+
+1. High amps, material too fused at vent - generally results in a “hot” extrusion with glossy and wavy I.D. caused by high melt viscosity, or early fusion in barrel (in twin screw). (a) Formulation may need a higher external/internal lubricant ratio. Decrease calcium stearate 0.2phr and/or increase wax 0.1-0.2phr. (b) Screw temperature may be too high.Screw temperature should be about the same as the metering zone of
+
+Why do they keep peeling my skin, it hurts make it stop. It hasn't stopped for hours. Help isn't coming, no matter what he says help isn't coming.
+
+Good ideas are bad ideas I have a very good idea, they can't collect on what isn't here. Empty threats when nothing can be worse than this I dare them.
+
+So nice of you to come I can sing they like to sing we'll all never stop singing not even when we can't blink anymore and the lights flash and flash and flash. I know a song and I like parties all kinds all places. I know two songs the ones they write for me and the ones the other things write for me. I don't like songs.
+
+7. Powdered, or semi-fused material extruding out of vent, with flood feeding. (a) Generally a barrel temperature profile out of balance. Rear zone (1&2) temperatures usually need an increase for twin screws, but a decrease for single screws.
+
++ Addendum 1538-2 LEVEL 3 CLEARANCE REQUIRED
+
+- ACCESS GRANTED
+
+Addendum 1538-2 - Summary of Expedition 1538-1: Following a six-month period after the recovery of Note 15, researchers determined that no further notes were likely to be forthcoming. Initial investigation of the GPS coordinates contained in Note 4 revealed the presence of a small, unmapped entrance to the Sogsagim cave system. On ██/██/2010, Foundation personnel organized an exploratory party to investigate any accessible portions of the cave system and document any findings.
+
+An eight-person group consisting of three researchers, three security personnel and two D-Class test subjects were dispatched to Hallasan National Park. D-Class subjects were equipped with ropes, helmets, flashlights, and associated spelunking gear, as well as a helmet-mounted video camera, a cable relay for audio communication and two days' worth of emergency provisions. Researchers established a small observation outpost at the cave entrance while security personnel established a perimeter and failsafe devices at the entry point. At 0615 hours on ██/██/2010, D-Class subjects commenced exploration.
+
+Initial observations were consistent with a primary cave or lava tube structure, similar to previously documented portions of the Sogsagim complex. The initial 200 m of the passage consisted of a tubular, approximately 3 m diameter passageway proceeding in a westerly direction until narrowing considerably and sloping sharply downward. The passageway was lined with an unidentifiable dark red slurry, and featured a considerable amount of arthropod activity as unidentified species of beetles, centipedes, and spiders were observed in substantial quantities at its entrance. D-88127 (equipped with a video camera) crawled first into the passage, followed by D-49213.
+
+Subjects crawled through this portion of the cave for three hours, at times having to assume a completely prone position due to extremely narrow stretches. After descending an estimated 85 m during this time, the passageway opened into a spacious chamber featuring numerous speleothems (mostly pillars and dripstone), typical of nearby cave formations. Subjects observed, however, that the floor of the chamber consisted of polished black marble tile, in the manner of a constructed dwelling. No other signs of human habitation or artifice were present. Subjects continued traveling for approximately 30 m in a southeasterly direction until encountering a .75 m diameter hole in the chamber floor. After searching for alternate routes outside of the chamber and finding none, subjects established an anchor point at a nearby pillar, attached a rope and descended into the hole.
+
+Subjects rappelled into a shaft with an estimated depth of 25 m, terminating in a small chamber. Upon reaching the floor of the chamber, subjects documented their surroundings, noting that the walls and floor were coated with the same slurry as the initial passageway. In the center of the chamber, subjects discovered what appeared to be a twin-screw extruder machine with an integrated computer terminal, such as that seemingly described in the SCP-1538 narrative (described in later reports as SCP-1538-1). SCP-1538-1 was wired to a series of automotive batteries, which served as an apparent improvised power source. No other artificial structures appeared to be present in the chamber.
+
+Upon instructions from researchers, D-49213 approached the computer terminal and activated SCP-1538-1. D-88127 recorded video data of the encounter. The following is a transcript of the subsequent sequence of events:
+
+D-49213 powers on SCP-1538-1. A startup sequence displays on the integrated monitor, consistent with activity described in the SCP-1538 narrative. A prompt reading "input command" appears on the screen.
+
+D-49213: Initiation confirmed. What do you want me to do next?
+
+Researcher Eng: (via D-49213's telecom link) Please input "initiate operation 15 mode 3" into the terminal.
+
+D-49213: Copy.
+
+D-49213 enters the command as instructed. After twenty seconds, a response appears on the screen, reading "unrecognized operator present", followed by a second message reading "requested data not found".
+
+D-49213: What now?
+
+Researcher Eng: (unintelligible dialogue from multiple staff in background) Um, stand by…(additional background dialogue from multiple staff) wait and see if it returns to the "input command" prompt.
+
+D-49213: It's making some sort of grinding noise now.
+
+SCP-1538-1 commences mechanical operation. A message on the monitor appears reading "initiating Sequence 4".
+
+D-49213: It's doing something now, things are moving. There's something coming out of it.
+
+Researcher Eng: D-88127, I want video of the output port.
+
+D-88127 moves the camera towards the end of SCP-1538-1. As the camera focuses closely, SCP-1538-1 is shown producing a steady stream of a substance resembling the dark red slurry documented previously in the cavern at a rapid rate. The substance appears to be intermixed with teeth, bone fragments, and scraps of epidermal tissue.
+
+D-88127: What is that?
+
+Researcher Eng: Please continue the video feed.
+
+SCP-1538-1 continues to produce a steady supply of slurry despite lack of visible input. As the mound of slurry approaches a height of 2 m, movement becomes apparent within it.
+
+D-49213: There's something moving around in there, command.
+
+Researcher Eng: Maintain video contact.
+
+Movement continues within the SCP-1538-1 slurry pile. After 45 seconds of additional observation, a pseudopod-like structure emerges from the center of the slurry pile. At the end of the structure is what appears to be a skinned human face1.
+
+D-88127: Shit! Shit!
+
+Researcher Eng: Keep the camera on it, 88127.
+
+The pseudopod extends directly upwards to a height of approximately 4 m before beginning to move towards D-88127.
+
+D-49213: Get the fuck out of here!
+
+Video contact is lost as the camera is dropped to the ground and subjects flee. The sounds of a rope ascender being attached are audible, as well as unintelligible screaming from D-88127 and the sounds of fabric ripping and an unidentified liquid spilling onto the floor.
+
+Neither subject responded to repeated orders and attempts at communication over the telecom link after loss of the video feed, although what is presumed to be D-49213's labored breathing and the sound of a rope ascender were heard constantly for the next ten minutes.
+
+At 1327 hours, D-49213 confirmed that he reached the marble tile chamber above SCP-1538-1. Faint, unintelligible screaming was heard in the background of D-49213's communications. Researchers repeatedly asked D-49213 for an explanation of events after loss of the video feed; no answers were forthcoming.
+
+D-49213, against direct orders from researchers, proceeded back through the passageway towards the cave entrance. At 1441 hours, D-49213 reported unidentified noises in the passageway behind him. Due to the tight confines of the passageway, D-49213 was unable to achieve visual confirmation of the source of the noises, but repeatedly informed researchers that he was being pursued.
+
+Researcher Eng conferred with staff and contacted Research Director Trilling at 1450 hours. Upon Research Director Trilling's orders to activate failsafe measures, security staff remotely detonated explosives at the cave entrance, collapsing the entryway and closing the passageway off to all access.
+
+All audio contact with D-49213 was lost at 1455 hours.
+
+Footnotes
+
+1. Video analysis indicates the face is an almost certain match for the features of ████ ████ ████, author of SCP-1538 Note 7.

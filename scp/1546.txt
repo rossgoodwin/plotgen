@@ -1,0 +1,53 @@
+SCP-1546, first iteration, worn by D-5165.
+
+Item #: SCP-1546
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1546 is to be contained in a triple-locked safe at Site 38, with access to the safe principally restricted to the head researcher, Dr. ███████. Under no circumstances are any D-class personnel involved in the testing of SCP-1546 to have their termination dates altered; any researcher doing so is to be considered affected by SCP-1546. Foundation personnel engaged in conversation with subjects using SCP-1546 are to have their clearances revoked until thirty (30) days have passed since the conversation. Foundation researchers are to monitor military and political communications channels, official and unofficial, to determine if any iterations of SCP-1546 remain uncontained.
+
+Description: SCP-1546 is a slightly damaged green baseball cap, size large, with a large letter W in yellow on the front. A tag inside the cap reads:
+
+"POPULAR TOPICS" BRAND CAP
+
+DRY CLEAN ONLY
+
+FOR NOVELTY USE ONLY
+
+SCP-1546 demonstrates no abnormal qualities when worn by subjects when they are alone. However, subjects wearing SCP-1546 during conversation with others will exhibit greater confidence and persuasive ability than without the object. Subjects wearing SCP-1546 have reported a greater sense of intuition and empathy towards others during verbal interactions; however, this empathy extends only to helping subjects achieve their goals through manipulation of conversational partners. Many subjects describe a feeling of knowing what their conversational partner is thinking, combined with a mild euphoria when this information is used to the subject's advantage. As a result, previously reserved and shy individuals become more gregarious, even cocky, at the realization of their power over others. Subjects wearing SCP-1546 will find the hat's presence tolerated even in places that typically forbid similarly informal headwear. SCP-1546's effect remains even when the hat is covered or otherwise not visible, including when worn under other headgear, such as US Army PAGST headgear or football helmets.
+
+Subjects wearing SCP-1546 in the past have been able to:
+
+increase their social standing in high school, college, military, or business environments;
+
+persuade others to make personal or business arrangements harmful to themselves;
+
+alter the personal or political opinions of others, convincing them to act in support of either mainstream or extremist groups regardless of previous affiliation, or
+
+convince people to perform unsafe or unethical acts against themselves or others.
+
+A standard X-ray of the object revealed that the button atop the cap contained an anomalous object; cross-analysis with the Foundation database revealed this to be a device similar in make to SCP-877. Disassembly of the cap allowed for further examination of the chip; electron microscopic analysis revealed a label on the chip reading:
+
+BRAINBOX MK X
+
+COPYRIGHT MCMLXI
+
+Analysis of the chip's circuitry indicated indeterminable distinctions from the primary circuit board of SCP-877; electron microscopy revealed minor additions similar in appearance to an internal antenna for a cellular telephone along the chip's main body. The chip showed no signs of alteration and appears to have been manufactured deliberately. The chip did not behave like similar 877 iterations, refusing to replicate when exposed to living tissue. However, analysis of the hat suggests that the chip is capable of interacting with nearby brains through reception of radio messages in the delta-band range (1-4 Hz) and broadcast of messages in the theta and alpha-band ranges (4-13 Hz).
+
+Addendum 1546-1: Recovery Log On 12/02/0█ and ██/██/1█, respectively, two instances of SCP-1546 have been located; one was discovered among the personal effects of a 18-year-old girl who committed suicide on 11/08/██ (note recovered read simply "I can't take the lies anymore") and a U.S. Navy submarine captain, nominated for promotion to rear admiral in spite of having one of the worst field records in the fleet. Class B amnesiacs were provided to the latter. Containment protocols modified to locate additional iterations of SCP-1546.
+
+From the personal effects of the two former possessors of SCP-1546, letters were located. Both had identical letterheads reading "ALEXYLVA UNIVERSITY—DEPARTMENT OF NATURAL PHILOSOPHY" and handwritten notes on them. The girls' note contained several mathematical formulas similar to the work produced by Albert Einstein and Nathan Rosen on the subject of space-time bridges, though the formulae rely on slightly different mathematical constants and operators than those typically used in such work. Below the formulae was written only:
+
+HERE KITTY KITTY KITTY COME TO PAPA
+
+The captain's note contained a series of directions derived from local geological phenomena near ██████████, Tennessee. Below the directions was written:
+
+WE GIVE THESE TO OUR KIDS AS TOYS.
+
+I KNOW YOU'RE THERE.
+
+I KNOW YOU'RE INTERESTED.
+
+—DEAN HAILCLOUD
+
+Since the acquisition of the last message, the area around the given coordinates has been monitored by Task Force Rho-1 ("The Professors"), assigned to search for signs of University activity.

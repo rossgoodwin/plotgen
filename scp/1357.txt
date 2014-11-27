@@ -1,0 +1,215 @@
+Test-1357-Alpha
+
+Item #: SCP-1357
+
+Object Class: Safe
+
+Special Containment Procedures: The perimeter of SCP-1357 is to be monitored by Foundation personnel at all times, with a minimum of two security personnel posted at every entrance and exit of the park. Any persons approaching SCP-1357 are to be detained by Foundation personnel and administered Class-B amnestics. If the persons are carrying instances of SCP-1357-B, the instances are to be confiscated and filed in the Records Room of Site 45 (Cabinet-74) for possible future testing. On the 13th of every month, Foundation agents are to identify the persons receiving the new instances of SCP-1357-B, recover the instances, and administer Class-B amnestics to the persons involved.
+
+Due to the specific personnel required to activate the anomalous properties of SCP-1357, D-Class testing of this anomaly is effectively impossible. Testing of this object may be accomplished by groups of Foundation personnel able to provide the required subjects necessary to manifest SCP-1357-A. Any persons involved in testing that are not directly involved in Foundation matters must be administered Class-A amnestics after testing and monitored for two months for signs of residual memories. Any subjects showing residual memories are to be readministered Class-A amnestics and monitored for another two months. Due to these constraints, all testing must be kept to a minimum and approved by no less than three Level-4 and five Level-3 personnel.
+
+Description: SCP-1357 is a theme park located in ██████, Poland with an area of approximately 4km2. There are four ticket booths that allow entrance into the park, located at the northern, eastern, southern, and western sides of the area. SCP-1357 houses various attractions normally found at theme parks, such as amusement rides, bumper cars, and assorted booths and stores. No items, commodities, or snacks require currency of any kind to operate or purchase. The types of rides and attractions seem to be influenced by the preferences of the youngest subject in the group activating SCP-1357's anomalous effects; rides found in non-anomalous theme parks have been observed as well as attractions such as sapient foodstuffs and animals, temporal displacements, and extradimensional portals.
+
+SCP-1357's anomalous properties are activated when a specified group of people enter the park. The requirements of the group are as follows:
+
+At least two subjects that are involved in a romantic relationship with each other
+
+At least one subject under the age of 18 that identifies the aforementioned subjects as guardians
+
+Each subject must carry an instance of SCP-1357-B
+
+When these requirements are met, a group of human individuals designated as SCP-1357-A manifest throughout the anomalous area. SCP-1357-A manifestations vary in age, ethnicity, sex, and gender. All instances are always uniformly costumed; the costumes are typically based on characters from various media1. The appearance of SCP-1357-A appears to be strongly influenced by the personal experiences of the youngest subject in the group. The instances of SCP-1357-A appear within the park as both customers and employees and are noted to be exceptionally amiable.
+
+SCP-1357-B are tickets that read "Playland: Admits one person per ticket. Have a magical family experience!" in the native language of the recipients they are delivered to. Instances of SCP-1357-B have been found to be mailed to assorted families around the area, along with directions to the park and a short pamphlet describing SCP-13572. Instances of SCP-1357-B are consistently delivered on the 13th day of every month. The Foundation has not yet discovered the source of the tickets, nor has it found a pattern regarding the recipients of SCP-1357-B. Families have reportedly received anywhere from three to six instances of SCP-1357-B at once. If a ticket is not redeemed for entrance into the park before the 13th day of the following month, the tickets will disappear. SCP-1357-B will allow entrance into the park by any individual, regardless of whether they were the intended recipient or not. Any personnel that are not carrying SCP-1357-B that attempt to enter the park will be denied access by several instances of SCP-1357-A.
+
+SCP-1357 was discovered when the Foundation was alerted to reports of a "constantly changing alien amusement park" from the town of █████, Poland. The claims were investigated and traced back to SCP-1357, which was active at the time of discovery. All citizens of the town were questioned and administered Class-B amnestics.
+
+Addendum-1357-Gamma:
+
+Congratulations! Your family has been selected to participate in some good ol' family fun at Playland! Parents bring your kids and kids bring your parents! Take some time off of working and take some time for playing! We have everything you can want, from roller coasters, to parades, to fireworks and anything else you can imagine, as long as you remember to ask nicely! If you want to talk to a representative, call us at (███)███-████3 or visit us online at ██████████.com.
+
+Interview Log-1357-Lambda-1: On 04/08/2005, Agent Fredricks and his immediate family were equipped with audio recording devices that constantly transmitted to Foundation consoles. They entered SCP-1357 using three confiscated instances of SCP-1357-B. Fredricks attempted to interview an instance of SCP-1357-A.
+
+Interviewed: SCP-1357-A-4878, which was dressed similar to "Steve" from the children's program "Blue's Clues"
+
+Interviewer: Agent Fredricks
+
+Foreword: Agent Fredricks had isolated a single SCP-1357-A subject out of the population wandering around the park for the purpose of this interview.
+
+<Begin Log>
+
+Agent Fredricks: Can you tell me about this place?
+
+SCP-1357-A: Sure! Playland is a place for all your family fun needs! We cater specifically to your family's needs each time, and do our best to make sure you're satisfied!
+
+Agent Fredricks: Who made you?
+
+SCP-1357-A: Mr. Fredricks, that's certainly not important! [No members of Fredricks's family had previously revealed their last name to any instance of SCP-1357-A.]
+
+Agent Fredricks: It is important. Please just answer my questions. [aside to his daughter] Not right now sweetie, I'm trying to work.
+
+SCP-1357-A: Work? Why, Mr. Fredricks! There's no need to worry about anything so silly as work! Just have fun! Look, your daughter wants you to play!
+
+Agent Fredricks: [aside to his daugher] Hailey, I'll be there in a minute, I promise. No, I'm not being mean to Steve. Go over with mom, okay? [speaking to SCP-1357-A] I'm afraid that I must work right now. You are exactly why I have my job.
+
+SCP-1357-A: [sighing] I'm sorry, but if you can't relax, I'm afraid you're going to ruin the fun for everyone else if you don't stop.
+
+Agent Fredricks: Please just answer the questions. Now, how long has this park been open?
+
+SCP-1357-A: I'm terribly sorry to do this, but you seem to be upsetting your daughter.
+
+<End Log>
+
+Closing Statement: Agent Fredricks was forcibly removed from SCP-1357 by three instances of SCP-1357-A. Agent Fredricks's wife attempted to exit the park, despite great protest from their daughter. As Adelaide Fredricks attempted to leave the park, several instances of SCP-1357-A separated the subjects, preventing Mrs. Fredricks from reentering the park and leading their daughter by hand back into the park. One of the individuals was noted as saying, "Don't worry sweetie, you don't have to leave if you don't have to! They'll be back for you later, when you're ready."
+
+After the events of Interview Log-1357-Lambda-1, MTF-Delta-2 (aka "Rescue Rangers") was dispatched in an attempt to recover Hailey Fredricks from SCP-1357. Despite superior firepower and training, MTF-Delta-2 was outnumbered and overwhelmed by SCP-1357-A instances and was unable to recover the subject. Further recovery attempts are currently pending.
+
+Interview Log-1357-Lambda-2: Hailey Fredricks's audio recording device continued to trasmit signals after the events of Interview Log-1357-Lambda-1. The following are excerpts of audio received. All voices not positively identified as belonging to Hailey Fredricks are presumed to belong to various instances of SCP-1357-A.
+
+Hailey: Say, why are you a girl Steve?
+
+SCP-1357-A: Why, all the boy Steves are busy getting the park ready for you!
+
+Note: This was received during the failed MTF recovery attempt.
+
+Hailey: This is so, so, so much fun! I never ever ever wanna' leave! I love you, Mr. Steve!
+
+SCP-1357-A: Haha, I love you too, Hailey! I'm so glad you came to join us!
+
+SCP-1357-A: Guess what's here, Hailey!
+
+Hailey: What is it, what is it?!
+
+SCP-1357-A: Heeere comes the mail, it's just a snail, it makes me wanna wag my tail, when it comes I wanna wail, MAAAIIIL!
+
+Hailey: No, the song goes, um, the song says "it never fails," not "it's just a snail!"
+
+SCP-1357-A: Haha, silly me, I forgot! Anyways, here are your letters. You got one from your mom and your dad. Yaaay!4
+
+Hailey: Thank you! Um, Steve? I can't read, can you tell me what this says?
+
+SCP-1357-A: Of course honey! "Dear Hailey, we hope you are having a lot of fun! We would love to come visit, but we have so much work and we are tired. Just send us a letter when you want to come home and we'll be there right away! P.S. Daddy says to brush your teeth!"
+
+SCP-1357-A: …and here's the biiiggest bedroom we have. You get to sleep here, Hailey! I hope you like it, we made that big thinking chair just for you! We made sure it was big enough and snuggly enough to sleep on every night.
+
+Hailey: [squeals] Oh, I love it! Thank you, Mr. Stevie!
+
+Hailey: Why aren't my mommy and daddy coming yet? I thought I wrote that letter so good…
+
+SCP-1357-A: Oh, Hailey, maybe they're just busy. I'm sure that they'll be right here as soon as they read that letter.
+
+Hailey: Mr. Steve, when is mommy and daddy coming back?
+
+SCP-1357-A: What's the matter honey? Are you not having fun anymore?
+
+Hailey: Oh, I am! I just wanna' know when I hafta go home.
+
+SCP-1357-A: [laughs] Oh, Hailey, you're always welcome here!
+
+Hailey: Yay! I'm so happy you're here, Mr. Steve.
+
+Hailey: My legs huuurt and we've been waiting foreeever. Are you sure the letter said they were coming today?
+
+SCP-1357-A: Hm, let me check again…"We got your wonderful letter…found a day off…coming on Saturday…front entrance." Yep, that's what the letter says.
+
+Hailey: Hmph. Can we go back inside? I wanna' slushie.
+
+SCP-1357-A: Of course, Hailey. And while we're there, we can write another letter to them asking why they didn't come when you asked them to.
+
+SCP-1357-A: "Did we say yesterday? Sorry sweetie, we forgot. We were real busy doing our grownup things and didn't remember to pick you up. We're real sorry. I think we have another day off next month, so we can pick you up then! Love, daddy and mommy."
+
+Hailey: [sniffs]
+
+Hailey: Steve, do mommies and daddies sometimes stop loving their babies?
+
+SCP-1357-A: Hm, sometimes, I think. Why do you ask?
+
+Hailey: I think my mommy and daddy stopped loving me. [sobbing]
+
+SCP-1357-A: Oh, oh, oh, dear friend, don't be upset! We're here to love you even if your mean old parents won't.
+
+Hailey: [sniffs] Forever?
+
+SCP-1357-A: Forever!
+
+Hailey: Promise?
+
+SCP-1357-A: Promise. We'll always be here for you even if they aren't.
+
+Hailey: Ms. Steve, I want my mommy and daddy.
+
+SCP-1357-A: Hailey, stop thinking such silly thoughts about those mean people! Here, have some more funnel cake, then we can ride on the carousel again!
+
+Hailey: No! No, no no! I want my mommy and daddy!
+
+SCP-1357-A: [laughs] Oh, dearie, they're no fun. I'm here for you now! We're your family! C'mon, let's play!
+
+Hailey: [sounds of falling objects] I don't wanna' play no more, Ms. Steve.
+
+SCP-1357-A: Sure you do, silly! Come on, there's a brand new playground that's all for you!
+
+Hailey: Can you take me to them?
+
+SCP-1357-A: Why? Aren't you having fun anymore?
+
+Hailey: I miss my mommy and daddy a whole, whole lot.
+
+SCP-1357-A: But we're your family!
+
+Hailey: Nuh uh! You're my friends. I want my family.
+
+SCP-1357-A: So you don't love us anymore?
+
+Hailey: Of course I do, but I love my family even more!
+
+[There is a prolonged silence.]
+
+SCP-1357-A: [sighing] Well, it always happens eventually. C'mon, let's get you to your family.
+
+[approximately 5 minutes of footsteps]
+
+Hailey: Steve? Steve, I think we're lost…
+
+SCP-1357-A: I know, dearie. I know.
+
+Hailey: What's that thing? It looks scary…
+
+SCP-1357-A: You said you wanted your family, didn't you Hailey? Well, come on! This will take you right to them!
+
+Hailey: Prooomise?
+
+SCP-1357-A: Of course, Hailey! I would never lie to you!
+
+Hailey: Well…okay.
+
+[There is a sound of hissing, as well as assorted beeps and whirring.]
+
+SCP-1357-A: See you soon, sister.
+
+Hailey: [screaming]
+
+Note: At this point, the audio transmission device ceased functioning.
+
+Incident Report-1357-Zeta: Agent Fredricks returned to SCP-1357 unauthorized the day following the previously described events, and proceeded to kill approximately 30 instances of SCP-1357-A while shouting obscenities. Fredricks ceased firing upon viewing a subject that appeared to be Hailey Fredricks, who approached the front entrance of SCP-1357. The subject hugged Agent Fredricks and said "I told you, I don't wanna' leave yet." Subsequently, two instances of SCP-1357-A approached the agent and rendered him unconscious via blows to the head. Agent Fredricks has been issued a warning for unprofessional behavior and damaging the anomaly.
+
+Incident Report-1357-Eta: Agent Fredricks was allowed to oversee testing of SCP-1357 on 16/10/2005. During experimentation, Agent Fredricks used a spare instance of SCP-1357-B and entered the area independent of the test subjects. Fredricks sought out the subject resembling Hailey Fredricks and reportedly attempted to converse with it. The subject did not respond and Fredricks ceased attempts at communication after approximately 15 minutes, then left the park.
+
+Site Director's Note: As of 16/10/2005, Agent Fredricks is required to attend a minimum of eight counseling sessions with the on-site psychologist, Dr. Yeats. Futhermore, Fredricks has been hereby reassigned to SCP-████ and is forbidden from working with SCP-1357. - Site Director Langley
+
+Audio Log-1357-Psi: The following log was transcribed from an intercepted telephone call to SCP-1357 using the number from the pamphlet provided with every delivery of SCP-1357-B. One of the voices has been positively identified as that belonging to Hailey Fredricks.
+
+Hailey: Hello, you've reached Playland, the perfect place for family fun! How may I help you?
+
+Unidentified Male Voice: I want my daughter back.
+
+Hailey: I'm sorry sir, but I'm afraid your daughter wanted to stay with us. You can always visit, though. Just let us know and we'll send you two complementary tickets! I think she wants to stay, though.
+
+Footnotes
+
+1. Notable characters that instances of SCP-1357-A have shown costumed as include Winnie the Pooh, Barney the Dinosaur, and Batman.
+
+2. See Addendum-1357-Gamma for an abridged transcription of the pamphlet.
+
+3. Foundation calls to this number have revealed no new information other than typical hours of service of the park.
+
+4. Agent Fredricks reported that neither he nor his wife had written letters to their daughter during this time.

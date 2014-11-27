@@ -1,0 +1,91 @@
+SCP-1394-1
+
+Item: SCP-1394
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1394-1 is to be kept in a standard security locker at Site 19. Level 4 Clearance is required for conducting experiments.
+
+When initiated, SCP-1394-2's activity is to be left uninterrupted until completion. Although SCP-1394-2 has not shown direct hostility to Foundation personnel, personnel are to avoid physical contact with SCP-1394-2 and allow it to demanifest normally. If SCP-1394-2 is spotted leaving Site 19, a task force should be assigned to follow SCP-1394-2 to its destination.
+
+Personnel treated by SCP-1394-2 are to be kept at Site 19 for long-term observation.
+
+Description: SCP-1394-1 is an old-fashioned brass syringe, 100 cc. It actively resists attempts at disassembly by exerting forces to counteract any pulling action, although no evidence suggests that the item is indestructible. SCP-1394-1 bears a number of scratch marks, some of which were inflicted through Foundation testing.
+
+SCP-1394-1 is always filled with a saline solution, refilling itself after being used. No other anomalous effects occur until the next injection given with SCP-1394-1 to a patient afflicted with a disease or condition (See Addendum 1394-A), in which secondary effects begin to occur after the patient sleeps.
+
+On the next occasion that the patient enters REM sleep, an entity known as SCP-1394-2 will appear in or enter the subject's current room. This entity looks like a balding, middle-aged man dressed as an early 20th Century rural German doctor with a gray smock. SCP-1394-2 also carries a black leather satchel containing various pieces of equipment. SCP-1394-2 will operate on the subject, attempting to treat the disease or condition (the procedure is lethal in approximately 42.3% of cases). The operation itself varies depending on the condition to be treated, other than the first step, which is the administration of an unknown drug which immediately induces a form of sleep paralysis in the victim, preventing the victim from voluntarily moving until roughly one (1) hour after the operation.
+
+Once the operation is completed, SCP-1394-2 exits the room and begins to walk away, hurrying around corners if pursued. Once SCP-1394-2 is no longer visible either remotely or directly, it will vanish completely until the next time SCP-1394-1 is activated.
+
+Examples of "treatments" provided by SCP-1394-2 include removal of the liver, amputation of limbs, and [DATA EXPUNGED]. About 90% of survivors show development of post-traumatic-stress-disorder in psychological exams following the event.
+
+SCP-1394 Experiment Log 1394-A
+
+- close
+
+1394-A
+
+Name: Dr. T█████
+
+Subject: 1 D-Class Personnel D-1394-1 diagnosed with Hepatitis B.
+
+Procedure: Dr. T█████ will administer SCP-1394-1 to the subject. Subject will be placed in a medical ward and observed via remote camera.
+
+Result: SCP-1394-2 appeared from behind a piece of furniture in the room. SCP-1394-2 proceeded to cut the subject open with a large knife, remove the subject's liver, and place the removed liver in a satchel. SCP-1394-2 stitched the subject's wounds, gathered its equipment, and left through the door. Subject died next day.
+
+1394-B
+
+Name: Dr. T█████
+
+Subject: 1 D-Class Personnel D-1394-2 diagnosed with lung cancer.
+
+Procedure: Dr. T█████ will administer SCP-1394-1 to the subject. Subject will be placed on the floor of a medical ward with all furniture removed and observed via remote camera.
+
+Result: SCP-1394-2 entered through the door, proceeding to open the subject's chest cavity, remove the relevant lung (placing the removed lung in a satchel afterward), then exit the room via the door. Subject complained about breathing problems and shortness of breath until termination at the end of the month.
+
+1394-C
+
+Name: Dr. T█████
+
+Subject: 1 D-Class Personnel D-1394-3 diagnosed with the common cold.
+
+Procedure: Dr. T█████ will administer SCP-1394-1 to the subject. Subject will be placed on the floor of a medical ward with the door locked and all furniture removed. Subject is to be observed via four (4) remote cameras, one placed at each corner of the room.
+
+Result: SCP-1394-2 entered normally through the door and proceeded to operate, opening the subject's chest cavity, attaching an old-fashioned hand pump and a second unidentified apparatus to the subject's arteries. Subject died of exsanguination during the procedure, resulting in SCP-1394-2's early departure. Corpse was successfully incinerated. The door remained locked after SCP-1394-2's departure, although SCP-1394-2 was not observed locking the door while leaving.
+
+1394-D
+
+Name: Dr. D█████
+
+Subject: 1 D-Class Personnel D-1394-4 diagnosed with tuberculosis.
+
+Procedure: Dr. D█████ will administer SCP-1394-1 to the subject. Subject is then to be placed in a medical ward with furniture removed and observed via four (4) remote cameras, one in each corner. Agents █████ and ████ stationed on both sides of the door.
+
+Result: SCP-1394-2 appeared inside the room behind Agent █████ and proceeded to operate. Agent █████ shouted verbal threats but was pushed aside by SCP-1394-2. SCP-1394-2 then administered the contents of a white canister in an unknown medical procedure. Agent █████ attempted to stop SCP-1394-2 but he was subdued and left unconscious on the floor until the procedure was completed. Agent ████ was heard yelling through the door but failed to enter the room. When finished treating D-1394-4, SCP-1394-2 exited the room through the door and vanished around a corner while being pursued by Agents ████ and █████.
+
+Subject recovered without additional complications and was successfully terminated at the end of the month.
+
+1394-E
+
+Name: Dr. D█████
+
+Subjects: 2 D-Class Personnel: D-1394-5 is diagnosed with tuberculosis, D-1394-6 is diagnosed with chronic blindness.
+
+Procedure: Dr. D█████ will administer SCP-1394-1 to D-1394-5 and then to D-1394-6. Both subjects are then to be placed in medical ward and observed via remote camera.
+
+Result: SCP-1394-2 appeared in the medical ward at the time that D-1394-5 entered REM sleep and applied the sleep paralysis drug to D-1394-5. SCP-1394-2 then treated D-1394-5 in an identical fashion to D-1394-4 and waited until D-1394-6 entered REM sleep before administering the sleep paralysis drug and operating. D-1394-6's eyes were gouged out and replaced with [REDACTED]. D-1394-6 was terminated immediately after the experiment. D-1394-5 was successfully terminated at the end of the month.
+
+1394-F
+
+Name: Dr. P██████
+
+Subject: 1 D-Class Personnel D-1394-7 with ingrown toenails.
+
+Procedure: Dr. D██████ will administer SCP-1394-1 to the subject. Standard procedure.
+
+Result: SCP-1394-2 appeared in the room and proceeded to operate, using a partially rusted knife to remove much of D-1394-7's offending toenails, storing the toenail clippings in a satchel. Subject died of toenail infection three days after experiment.
+
+Note from Dr. P██████: SCP-1394-2 appears to treat conditions other than diseases. We should do more experiments.
+
+Addendum 1394-A: In light of additional experiments (detailed in Experiment Log 1394-B), SCP-1394-2 has been found to treat minor conditions, mental illnesses, and genetic imperfections if no pathogenic disease is found. SCP-1394-2 will only treat one condition at a time and prioritizes historical diseases such as smallpox, dysentery, malaria, and bubonic plague.

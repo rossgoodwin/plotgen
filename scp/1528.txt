@@ -1,0 +1,73 @@
+Sample of SCP-1528 in container, during initial recovery on ██/██/19██
+
+Item #: SCP-1528
+
+Object Class: Safe
+
+Special Containment Procedures: All samples of SCP-1528 are to be kept in air-tight containers under restricted access at Site-77 in Storage Locker 662. Approval of the project command authority is required for testing. When in containment, SCP-1528 is not to be stored in containers with any complex or easily broken opening mechanisms. When being tested, a small amount should be stored in an aerosol dispersal system.
+
+The Foundation is currently in possession of 648 mL of SCP-1528.
+
+Description: SCP-1528 is a blue liquid similar in appearance to commercial bleach-based cleaning products. When in liquid form, SCP-1528 has no anomalous properties. However, it retains properties expected of bleach-based cleaning solutions, and as such should be given caution when in transit.
+
+The first sample of SCP-1528 was originally obtained on ██ July 1983 at an urban flea market from a vendor who advertised it as a "fix all". Since then, samples of SCP-1528 have been discovered in various places, quantities, and containers with little to no pattern. Areas where SCP-1528 is usually found include flea markets, local-based grocery stores, and one spontaneous appearance in a Foundation maintenance personnel's storage area.
+
+When dispersed in aerosol form and inhaled by a subject, SCP-1528 has an immediate, powerful psychological effect. If any object is perceived as flawed or broken by the subject, and perceived to have SCP-1528 applied to it, the subject will undergo a sensory or cognitive shift that is applied to their entire consciousness in order to correct the object's flaw. This effect does not subside until the subject is unconscious. For additional details, please refer to the Addendum.
+
+Addendum: SCP-1528 summary testing log.
+
+Procedure: Subject requested to apply 5 mL of SCP-1528 to the object.
+
+Subject: D-67365
+
+Object: Illustration, hung on wall.
+
+Object flaw: Illustration was hung crooked, at approximately 20° off-center.
+
+Result: Subject tilted to the side and immediately lost his balance. The subject appeared to believe that the building was slanted to the side at a 20° angle. While affected by SCP-1528, subject was not able to recall a time when the world was not tilted at a 20° angle.
+
+Subject: D-67365
+
+Object: Illustration of a landscape.
+
+Object flaw: Colors of landscape features inverted. (Yellow grass, Red-orange sky, etc.)
+
+Result: Subject temporarily experienced extreme confusion and visual disorientation, followed by a return to normal behavior. Subject did not report any abnormal effects, but it is believed that their ability to see color was inverted by SCP-1528.
+
+Subject: D-67365
+
+Object: Music and speaker system, playing "Ana Ng" by They Might Be Giants.
+
+Object flaw: Song played at double speed.
+
+Result: Subject began moving at an increased speed proportional to the tempo of the song's playback. Upon interview, expressed annoyance at "slow movements" of researchers.
+
+Subject: D-67365
+
+Object: Thermometer
+
+Object flaw: Incorrectly calibrated 30°C cooler
+
+Result: Subjects body temperature immediately began rising. Subject complained of extreme pain due to cold, and fell unconscious after 31.2 seconds; the body appeared to undergo symptoms similar to heat stroke. Analysis showed that at this time, D-67365's body temperature was much higher than normal. After 15 minutes, D-67365 expired due to the extreme change in body heat.
+
+Subject: D-76290
+
+Object: Human subject(D-67431)
+
+Object flaw: D-67431's face has been severely disfigured.
+
+Result: D-76290 was repulsed at any subject attempting to interact with her, describing their faces and bodies as being "wrong." When exposed to a reflection, D-76290 refused to believe that their face was being reflected, and became aggressive. Further testing on human recognition has been scheduled by Dr. Gillespie.
+
+For additional tests, see Experiment Log 1528.
+
+Addendum-2: Additional testing.
+
+Subject: Dr. Boyd
+
+Object: 62-Page Document detailing the specifications of the theory of Special Relativity.
+
+Object flaw: None inherent; before working for the SCP Foundation, Dr. Boyd, who is not a physicist, had expressed cynicism concerning special relativity.
+
+Note: Test resulted from accidental exposure.
+
+Result: Dr. Boyd attempted to steady himself on a nearby desk, before collapsing into unconsciousness. This quickly alerted personnel to his presence. Security Officer Fish restrained Dr. Boyd, and he was moved to the medical ward. Dr. Boyd reported he experienced the "rapid upwards acceleration of the whole building."

@@ -1,0 +1,25 @@
+Item #: SCP-192
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-192 is to be maintained in lock down at its current location at ███████ Hospital, United Kingdom (Site-██A), pending further analysis.
+
+The room containing SCP-192 is to remain locked, with the key in the possession of Dr. █████ █████████. Anyone wishing to conduct experiments with SCP-192 must have permission from the relevant Level 3 personnel assigned to this object. The hospital wing that houses SCP-192 is to remain closed, pending engineering work to stabilize the hospital buildings. The housing for SCP-192 must not be breached under any circumstances, and must be checked on a weekly basis. Maintenance will be carried out weekly.
+
+Description: SCP-192 is a vacuum x-ray tube that forms the primary component of a diagnostic x-ray machine manufactured by ███████ on ██-██-20██, with diagnostic use commencing on █-██-20██. When an image is produced by a machine with SCP-192 inside, the area examined on the subject will be modified via unknown means to match the image eventually produced. This has the effect of introducing or removing injuries or disease from the subject, in accordance with the image. The machine SCP-192 is currently inside will be referred to as SCP-192-1.
+
+SCP-192 emits a high quantity of alpha and beta radiation, exceeding recommended annual dose limits for SCP personnel within two minutes of constant exposure. These emissions are present even when SCP-192-1 is not operational, and when disconnected from its power supply. The casing around SCP-192 appears to absorb this radiation emission, although all testing performed so far on SCP-192-1 has shown it to be constructed out of regular materials for this kind of machine. Actual radiation doses during regular operation of SCP-192-1 are within standard safety margins.
+
+The presence of SCP-192 was discovered by Dr. █████ █████████, a covert Foundation operative tracking SCP-███ in [DATA EXPUNGED]. Dr █████████ was requested to be present during the initial examinations performed by SCP-192-1, and was the first staff member at ████████ Hospital to witness its effects. Dr. █████████ notified the Foundation, and the other three non-Foundation staff present were successfully given Class-A amnesiacs. A research team was subsequently sent in and the room containing SCP-192-1 was quarantined.
+
+From testing of SCP-192, the following outcomes have been noted to occur with no consistent pattern. Any change in a subject appears to occur approximately three seconds after the x-ray image is taken.
+
+- Image clear of any disease or injury. If the examined area had either, subject was fully treated with no further issues or complications.
+
+- Image shows presence of a trauma-induced fracture injury of considerable displacement. These injuries always appear to have occurred within the last 24 hours, even in subjects who had been isolated before the examination. So far, SCP-192 has not produced any images where bones have perforated internal organs or penetrated the subject’s skin.
+
+- Image shows presence of cancerous cells within the area examined. These tumours have never exceeded T1N0M0, but in all cases, have been malignant. Biopsy on several subjects shows no differences between cancer caused by SCP-192 and cancer occurring naturally in humans. Success of subsequent treatment has been dependent on the original location of the cancer.
+
+- Image shows presence of foreign body located inside the subject. The object appears to be random, but is usually a surgical tool for performing operations on the examined area. No departments within Site-██-A have reported any odd disappearances of surgical or other medical equipment.
+
+During one test to determine if SCP-192 could be used as a means of treatment by repeating an examination on an already examined subject, SCP-192 outputted a blurry image, which had the resulting effect of [DATA EXPUNGED], almost instantly killing subject D-192-03█ (See incident report 192-03█-02). The personnel operating SCP-192 during this test were referred for immediate psychiatric evaluation.

@@ -1,0 +1,19 @@
+Extremely complex lesions on the hands.
+
+Item #: SCP-584
+
+Object Class: Euclid
+
+Special Containment Procedures: Vial samples of SCP-584 are to be kept in cold storage, in accordance with established biohazard protocols, and access is restricted to personnel of at least Level 2 clearance. Research requires Level 3 approval.
+
+Subjects accidentally contaminated with SCP-584 must be quarantined immediately as contact biohazards and must submit to involuntary antiviral treatment. If subject shows no signs of lesion activity for 12 weeks and tests negative in two consecutive biopsies, performed at six and 12 weeks following exposure, quarantine procedures can be downgraded. Follow-up biopsies at 12 and 24 months must also return negative results before the subject is to be considered "clean."
+
+Any subject with a positive test for SCP-584, or displaying characteristic lesions, should be terminated.
+
+Description: SCP-584 is a highly infectious viral pathogen that, if left untreated, causes a disfiguring overgrowth of supernumerary limbs (see file photos). Structurally similar to the herpes simplex family of viruses, SCP-584 spreads via direct person-to-person contact and through contact with infected bodily fluids, and can also cross the placental barrier from an infected mother to her fetus, resulting in characteristic birth defects. SCP-584 typically lies dormant deep in the dermal tissue of those infected, largely suppressed by the immune system except for sporadic outbreaks. It is estimated that upwards of 80% of those exposed to the virus are asymptomatic carriers, making actual infection rates unknowable. (Current estimates place the highest rates of infection in Asia, particularly India and China, where the virus likely originated.) The virus appears limited to humans.
+
+An outbreak of SCP-584 typically begins with the appearance of a small (> 2cm), painless lesion, most commonly on the extremities. Often these lesions appear similar to warts or skin tags. If not removed, the lesion will quickly grow to resemble a fully functional, though often undersized, appendage. Often the appendage will be "appropriate" to the limb on which the lesion appeared, i.e., extra toes on a foot, extra hands on an arm, etc, but severe outbreaks can trigger severely disfiguring, chaotic lesion formation elsewhere on the body, such as the head and torso. Lesions can appear singly or in groups.
+
+Notably, SCP-584 has been shown to be able to regenerate missing limbs or digits in subjects who lost them due to accident or congenital (non-genetic) defects. These "replacement" appendages are full-sized and fully functional. It is believed that SCP-584 functions by activating regenerative biological processes that normally cease shortly after embryonic formation. However, SCP-584's effect seems restricted to external organs and appendages only.
+
+Antiviral treatment is quite effective at limiting and stopping outbreaks of SCP-584, but currently there is no cure for the virus and it is highly communicable. Drug therapy has even been found to stop the growth of lesions in advanced developmental stages, however it is not effective once the appendage is fully formed. Surgical removal of lesions is only effective in the long-term if coupled with drug therapy, as scar sites are prone to developing recurrent lesions. SCP-584 infection in unborn babies, especially if contracted during the first trimester, has resulted in high rates of polymelia (extra limbs), polydactyly (extra fingers), and parasitic twinning.

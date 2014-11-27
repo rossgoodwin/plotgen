@@ -1,0 +1,19 @@
+Item #: SCP-159
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-159 is currently kept in a Secure Storage Locker at Site-██. Knowledge of SCP-159 is restricted to those of Level-3 or higher, and access is restricted to Level-4 or higher. SCP-159 may not be used by any personnel except for extenuating circumstances. O5 command may order SCP-159 to be moved at any time that it becomes necessary to use SCP-159 to prevent a destructive scenario.
+
+In the event that SCP-159 is utilized in this way, it is to be powered by a dedicated high-efficiency generator and a spare supply of fuel is to be kept on hand. There is to be at least two personnel on standby during SCP-159's operation at all times.
+
+Description: SCP-159 has the appearance of a standard neon sign reading 'OPEN', of the style commonly found in small businesses. When SCP-159 is displayed through a window of a building, and deactivated by removing it from a standard power outlet1, the building will become impossible to enter by any means. The locking effect ceases immediately when SCP-159 is reattached to a power outlet. If SCP-159 is switched OFF and then removed from its power outlet, its effect will not activate.
+
+When SCP-159's locking effect is active, the structure which it is displayed within will become effectively indestructible from the outside. Building materials will withstand forces that would normally destroy them, up to and possibly surpassing moderate artillery bombardment. The affected structure will remain completely undamaged; testing has shown that protected structures will be unharmed by heat, hurricane-speed-winds, kinetic force, undermining, tunneling, explosive charges placed on the outside of the structure, electrical current, microwave, ultraviolet, X-Ray, neutron, and gamma radiation, and vehicular impact. Persons within a structure affected by SCP-159 may leave at any time, but may not re-enter until 159 is deactivated.The effect persists if windows, doors, and other portals are opened, with outside forces continuing to yield as if they were closed.
+
+Buildings affected by SCP-159 will continue to receive utilities such as running water and electricity; however, supplies will be strained of foreign materials and chemicals upon entering SCP-159's boundaries. Additionally, a buffering effect appears to prevent forces such as shockwaves and extremely high heat from penetrating the surface of the affected building. D-Class within the structure during artillery tests reported that the concussive forces rendered by test weaponry was greatly muted to the point that an open container of water did not react.
+
+If a piece of SCP-159's tubing expires, it may be replaced by a matching part. SCP-159's effect will manifest whether or not there is neon tubing installed. Personnel are to replace SCP-159's neon parts if they fail. SCP-159 will fail to activate if it is unplugged during a power outage.
+
+Footnotes
+
+1. As opposed to utilizing the ON/OFF switch,

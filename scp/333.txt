@@ -1,0 +1,61 @@
+Item #: SCP-333
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-333-A 1-1618 are to be stored in a standard Secure Containment Locker within Site-██, accessible only by personnel possessing Level 3 Clearance or greater with authorization of at least two (2) Clearance Level 4 personnel. As testing with SCP-333-B and SCP-333-C has concluded, any performance of SCP-333-A is strictly prohibited.
+
+Description: SCP-333-A are 1,618 identical copies of a musical score of unknown title and origin. When the score denoted by SCP-333-A is performed by an orchestra of sufficient size, (see Addendum 333-1) SCP-333-B manifests. The chamber SCP-333-A is performed in may be entered normally; however, roughly three minutes into a performance, anything leaving the chamber arrives in SCP-333-B. Reentry of the performance hall from SCP-333-B is possible, given it is temporarily integrated into SCP-333-B.
+
+SCP-333-B appears to be a metropolitan area, devoid of any signs of habitation, past or present. Due to its nature, it is unknown when SCP-333-B was constructed, using what materials, by whom, or even if it was constructed in the conventional sense at all (see Addendum 333-4). For as long as performance of SCP-333-A continues, SCP-333-B may be traversed freely. Preliminary testing concerning utilizing SCP-333-B as a multipurpose Foundation facility appears promising (see Addendum 333-5). (see Addenda 333-6 and 333-9) Following cessation of a performance, SCP-333-B dematerializes, along with anything within at the time (see Addendum 333-2). Instrumentation left within suggests that unless a performance of SCP-333-A is occurring, SCP-333-B experiences no passage of time and may not exist at all.
+
+SCP-333-C is a highly aggressive entity of variable appearance and composition residing within SCP-333-B. All manifestations of SCP-333-C have proven much more durable than its composition would suggest, requiring considerable firepower to terminate outside of SCP-333-B and possessing apparent invincibility while within (see Addendum 333-8). Should SCP-333-C manage to escape SCP-333-B, it will remain until the next time SCP-333-B manifests unless terminated; following termination, SCP-333-C will dematerialize as well.
+
+Addendum 333-1: SCP-333-B will not fully manifest unless SCP-333-A is performed by a minimum of forty-nine (49) musicians within a single concert hall. Larger numbers of musicians appear to correlate to a larger and more complex metropolitan area. Additionally, simultaneous performances in differing locales result in integration of all concert halls within which SCP-333-A is being performed. SCP-333-B could hypothetically serve as a means of rapid transit between Foundation facilities.
+
+Addendum 333-2: The content of all 1,618 original instances of SCP-333-A have been observed to change following each performance. All remain identical to each other. Copies of SCP-333-A do not display this polymorphic nature.
+
+Addendum 333-3: Changes undergone by SCP-333-A appear to constitute the inclusion of motifs representing any foreign materials left behind by exploration teams. Given that copies of original SCP-333-A do not update to reflect material within SCP-333-B, it may be possible to selectively manifest materials and possibly even personnel within SCP-333-B. A more in-depth cost-benefit analysis will follow.
+
+Addendum 333-4: Visual, chemical, and mass spectrometric examination of structures within SCP-333-B indicates their composition is directly dependent upon the composition of instrumentation utilized for the corresponding performance of SCP-333-A. Additionally, it appears that the better a particular instrument is played, the less its composition is reflected within SCP-333-B. Given that structures within SCP-333-B are always of similar composition to the instruments utilized, it has been suggested that these structures may not have a finite composition. However, considering errors cause the composition of a particular instrument to feature more prominently, it is also possible that corruption of SCP-333-B is unavoidable due to general inability to perform SCP-333-A precisely enough.
+
+Experiment Logs SCP-333-A-B 1-9 are pending declassification.
+
+Addendum 333-5: Cost-benefit analysis RE: SCP-333 as a Foundation asset.
+
+Rapid long-distance transit.
+
+If used for transit between facilities, SCP-333-B could allow for rapid dissemination of SCP objects in the event of a containment breach. This risk should not be taken lightly.
+
+Cloning of personnel, items, SCP objects, etc, effectively granting the Foundation access to infinite resources.
+
+A contingency plan in case of ██, ██, or ██ Class events.
+
+Personnel critical to the operation of the Foundation, a cache of useful SCP objects, and a store of various provisions and resources could be left within SCP-333-B. This would ensure their survival, provided performance of a suitable copy of SCP-333-A may take place.
+
+A garrison and armory.
+
+The song itself could be utilized as several different Foundation facilities simultaneously.
+
+Particularly dangerous Euclid and Keter objects could each be deposited in their own instance of SCP-333-B.
+
+If SCP-333-A is performed as it was prior to an SCP object being deposited, SCP-333-B will manifest without the SCP.
+
+If SCP-333-A is performed as it is following an SCP object being deposited, SCP-333-B will manifest with the SCP present.
+
+Performances of identical copies of SCP-333-A could take place in several locations, allowing access to the prospective facility from several places.
+
+A kill switch to sever SCP-333-B from any adjoining facilities is strongly advised.
+
+The risk of accidental discovery of the SCP-333-A should be carefully considered before any utilization of the SCP-333-B for these purposes takes place.
+
+Consult Addendum 333-9.
+
+Addendum 333-6: SCP-333-C is capable of leaving SCP-333-B. Any sighting of SCP-333-C within SCP-333-B is grounds for immediate evacuation and cessation of SCP-333-A performance.
+
+Addendum 333-7: Composition of SCP-333-C appears linked to musical instruments utilized in similar fashion to 333-B. Closer scrutiny of footage recorded during Experiments SCP-333-A-B 1, 2, 3, 5, and 8 has found SCP-333-C present, appearing to be of similar composition to each corresponding instance of SCP-333-B, making it difficult to distinguish from its surroundings. This likely explains why its presence initially went unnoticed.
+
+Addendum 333-8: Operation ██████████ unsuccessful. Operational losses exceed 90%. A five (5) megaton tactical nuclear device was detonated within SCP-333-B in a last-ditch attempt to prevent SCP-333-C escaping. SCP-333-C was undeterred.
+
+Addendum 333-9: Corruption of materials left within 333-B has been noted. This corruption generally takes the form of miniscule changes in chemical composition of objects left within, though in extreme cases physical deformation has been observed. Notable examples include malfunction of RoV-13b due to critical circuitry being displaced by [REDACTED] and the discovery of D-17711's skeletal system being comprised of 0.1% brass by weight. I hereby rescind my prior recommendations for utilization of SCP-333. - Dr. N██████
+
+Addendum 333-10: Computer-aided analysis of SCP-333-A and all copies thereof, considered alongside the events of Experiments SCP-333-A-B 1-9 and Operation ██████████ indicates beyond a shadow of a doubt that SCP-333-A dictates any and all occurrences within SCP-333-B, including activity of Foundation personnel and SCP-333-C. All further testing of SCP-333 is hereby suspended indefinitely.

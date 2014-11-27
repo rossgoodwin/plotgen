@@ -1,0 +1,61 @@
+Item #: SCP-2499
+
+Object Class: Safe
+
+Special Containment Procedures: Given SCP-2499’s location, physical containment of the anomaly is considered impossible.
+
+All global observatories capable of monitoring SCP-2499 are to be infiltrated. Any observations of SCP-2499 from these observatories should be explained under the de Bort protocol. Should any outside personnel persist in their belief of SCP-2499’s anomalous properties, limited use of Class-M amnestics is approved in order to maintain operational security.
+
+Primary containment of SCP-2499 consists of monitoring the anomaly for any changes in the established pattern of movement. In addition, the 400 GHz radio frequency should be under constant monitoring for renewed transmissions.
+
+Description: SCP-2499 is the designation for an extrasolar anomaly located approximately 13 parsecs (42.4 lightyears) from the Earth. Visually, the anomaly resembles a group of 14 Cepheid variable stars, or stars that do not possess a uniform luminosity, and possess regular periods of higher and lower luminosity.
+
+The anomaly itself (sub-designated SCP-2499-1 through SCP-2499-14) does not exhibit normal properties of stars. Notably, the 14 instances are spatially divided into 7 groups, with each group featuring 2 stars that move in a manner similar to that of binary stars.1 Two of the instances, SCP-2499-1 and SCP-2499-2, are noted to be larger than the rest of the instances.
+
+The pulsation periods of SCP-2499 instances resemble that of RV Tauri Class II Cepheids.2 Higher luminosity periods last for roughly 36 months, followed by 96 months of lower luminosity periods. Given that most pulsation periods are far more frequent, the extremely long and infrequent pulsation periods of SCP-2499 were what brought the anomaly to Foundation attention.
+
+Upon further investigation, it was found that pulsation periods corresponded with a series of seemingly erratic changes in position of the anomaly itself. This anomalous movement led to SCP-2499’s designation, and also prevented Foundation astronomers from properly calculating SCP-2499’s distance from the Earth, due to the irregular stellar parallax of the anomaly itself.
+
+Monitoring of SCP-2499 has established the following pattern of movement for SCP-2499 instances during the pulsation periods of the anomaly. In all, there are 7 main stages of SCP-2499’s pulsation period.
+
+Stage Number
+
+Characteristics
+
+Stage 1
+
+SCP-2499 instances demonstrate the second highest luminosity in this stage, at 2.89 on the apparent magnitude luminosity scale. The movement of all instances can be traced in a repeating pattern of assorted geometric shapes, such as figure eights, squares, and circles. SCP-2499-1 and SCP-2499-2 are always the first pair to begin movement in this manner. The average velocity of the anomaly in this stage is 400 km/s.
+
+Stage 2
+
+SCP-2499 instances demonstrate an extreme drop in luminosity, at 4.72. Movement of the anomaly slows considerably. Instances move back and forth along the same plane for the duration of this stage. Average velocity is 140 km/s.
+
+Stage 3
+
+SCP-2499 instances demonstrate an increase in luminosity, to 3.1. The pairs demonstrate highly erratic movement that follows no recognizable pattern. SCP-2499-1 and SCP-2499-2 travel the fastest, and the most erratically in this stage. Movement of SCP-2499 instances is the fastest during this stage, at 600 km/s.
+
+Stage 4
+
+SCP-2499 instances demonstrate the highest luminosity in this stage, at 2.10. The anomalies travel in the most stable pattern during this stage, moving in a circular stage for the duration of this period. The average velocity of the instances decreases to 360 km/s.
+
+Stage 5
+
+SCP-2499 instances demonstrate the second lowest luminosity in this stage, at 5.1. Movement of SCP-2499-3 through SCP-2499-14 maintain the circle of the prior stage, while SCP-2499-1 and SCP-2499-2 are noted to move to the center of the circle formed by the other instances, and move in regular circles within the established pattern. All instances aside from SCP-2499-1 and SCP-2499-2 remain static in this stage. SCP-2499-1 and SCP-2499-2 move at 160 km/s.
+
+Stage 6
+
+SCP-2499 instances are erratic in this stage, and rapidly alternate from a more active state of 3.4 in luminosity and movement at 550 km/s, to a less active state of 4.8 in luminosity and movement at 200 km/s. No discernable pattern is available in this stage, aside from less ordered movement in active states, and more disorganized movement in the less active states.
+
+Stage 7
+
+SCP-2499 instances demonstrate the lowest luminosity at 5.89 during this stage. All instances appear to rotate around each other with a velocity of 120 km/s. During this stage, pairs will begin to cease anomalous movement, and finish their pulsating periods. Beginning with SCP-2499-13 and SCP-2499-14, pairs will cease anomalous movement, and their luminosity will decrease one by one. At the end of the stage, SCP-2499-1 and SCP-2499-2 are the last pair that exhibits anomalous movement and luminosity. The anomalous phase is considered concluded when SCP-2499-1 and SCP-2499-2 cease movement.
+
+Addendum: On 12/14/2010, a high frequency (400 GHz) radio signal was detected originating from the region of space that SCP-2499 is located in. The signal itself broadcasted the entirety of a recording of Gustav Holst’s 7 movement orchestral suite, The Planets. Notably, the recording played was the 1926 recording of the piece, and the first one that was available for radio broadcast. Following this transmission, a second transmission, consisting entirely of a series of binary numbers was played. When the numbers were translated into English, a discernible message was revealed. It has been transcribed below.
+
+Please send our warmest congratulations to Mr. Holst for such a stunning and deeply charming piece. We have been utterly enchanted with the music ever since we first heard your transmission. It was not meant for dance, but when you hear music this personal, what else are you to do?
+
+Footnotes
+
+1. Stars that move in pairs, due to the mutual gravitational pull.
+
+2. A type of Cepheid variable star characterized by extremely long pulsation periods.

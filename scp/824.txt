@@ -1,0 +1,39 @@
+Item #: SCP-824
+
+Object Class: Euclid-alterier
+
+Special Containment Procedures: Eighteen specimens of SCP-824 and two specimens of SCP-824-1 are to be kept at a dedicated greenhouse at Site 41. No other plants are to be planted in this greenhouse. Fifty kilograms of dead plant matter are to be provided to each specimen weekly.
+
+Research Site 824 has been established on ████████████ Island, Japan, with the intent of studying the interaction between residents and SCP-824-1, along with the culture and history of the island in general. The Foundation has absorbed the local government's disinformation and counterintelligence activities in lieu of full-scale removal of SCP-824-1 from the island. This is intended to minimize the Foundation's impact on the civilian population of the island.
+
+Description: SCP-824 is a species of tree that is characterized by significant mobility and herbivory. While SCP-824 specimens superficially resemble members of the Ginkgoaceae family, SCP-824 is radically different from any known species of plant.
+
+Each SCP-824 specimen is capable of bending its trunk, roots, and branches at any point along their length at a rate of no more than 360° per hour, averaging 30° per hour. Sections of SCP-824 remain rigid while moving, and specimens are as difficult to bend as typical trees.
+
+SCP-824's branches will move at random (primarily at ground level) until they come into contact with living or recently dead plant matter. Should this occur, nearby branches and roots of SCP-824 will wrap tightly around the plant matter in question, then retract in an attempt to strip it from the main body or pull the plant in its entirety to SCP-824 at a rate of roughly 0.5 meters per hour. In this process, SCP-824 will strip portions of a plant from the main body if necessary.
+
+SCP-824's roots will maintain a hollow opening under SCP-824 up to three meters deep containing a large number of roots less than 3 cm in diameter. These roots will, if possible, gather and take hold of stones or similar objects of various sizes. In the absence of suitable stones, SCP-824 will be unable to derive sufficient nutrition from plant matter, and will cease its attempts to consume plants until stones are provided.
+
+Upon plants being procured by the branches, they will be passed down into this area. The roots will use the stones to grind plants into a powder, from which the roots are then able to derive nutrients, water, and minerals. While SCP-824 gains sustenance from this act, the ultimate caloric gain is typically only marginally greater than that SCP-824 gains from photosynthesis. It is surmised that these behaviors evolved primarily as a means of removing vegetation from the area surrounding SCP-824.
+
+Addendum: Notable biological characteristics. See Document 824-C for further information.
+
+SCP-824 has superficial traits that initially led to Foundation scientists classifying it as a member of the Ginkgoaceae family that simply happened to exhibit anomalous properties; however, genetic analysis of SCP-824 has shown that it is only distantly related to other trees. Their similar appearances are believed to be a result of convergent evolution, given their similar locations, but this is unconfirmed.
+
+SCP-824 contains a novel type of xylem tissue that allows for rapid transportation of water in order to expand and contract different portions of it at a rapid pace; this is responsible for SCP-824's characteristic rapid movement. It is believed that several previously unknown auxins that have been extracted from SCP-824 may assist in this effect; however, their exact functionality is not fully known at this time.
+
+In order to allow for greater freedom of movement, SCP-824 has thin, flexible bark that is easily damaged by sharp objects. Due to this and its lack of natural defenses from pathogens, SCP-824 is highly susceptible to infection and infestation.
+
+Recovery: SCP-824 was found in SCP-████, an extradimensional, self-contained region accessible from a point in southern China, in 1972. Upon discovery, it was host to eight anomalous species of plants and animals including SCP-824. Due to the properties of SCP-████, SCP-824 had not spread outside of this area, although specimens removed from SCP-████ have remained viable. It is believed that SCP-824 evolved naturally in SCP-████.
+
+While a large portion of SCP-████'s terrain is covered in kudzu (Pueraria lobata), SCP-824 specimens remained clear of the vine, apparently due to their ability to actively remove plants from their trunks and consume them. SCP-824 appears to have a comparative advantage over several non-anomalous species of Ginkgo found in SCP-████, the majority of which were struggling under the conditions there. All instances recovered from SCP-████ were free of pathogens and insects.
+
+Addendum: In 2011, several specimens of SCP-824 were found outside of containment on ████████████ Island, Japan. The behavior of these specimens has led to them being classified as a separate subspecies of SCP-824 (hereby SCP-824-1).1
+
+All SCP-824-1 specimens were located in four apple orchards on ████████████ Island. There, instead of consuming all plant matter within reach, SCP-824-1 will feed exclusively on weeds and dead plants, leaving living apple trees entirely untouched. Upon encountering a ripe apple, SCP-824-1 will gently grasp it and remove it from the branch, lowering the branch(es) now holding the apple to roughly 1.5 meters off the ground until it is removed. SCP-824-1 will consume any apples that are infested, rotten, or unfit for human consumption. The means by which SCP-824-1 is able to accurately determine whether apples are edible is unknown.
+
+Residents of ████████████ Island have not been cooperative with Foundation personnel, and generally react with suspicion to inquiries about or studies of SCP-824-1. Further research into the relation between SCP-824-1 and the residents of the island is warranted.
+
+Footnotes
+
+1. Records recovered from ████████████ Island have uncovered references to "farmer trees" dating since 1937.

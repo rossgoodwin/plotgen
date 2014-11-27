@@ -1,0 +1,91 @@
+Item #: SCP-2210
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-2210's website, IP address and phone number have been blocked through Foundation protocols. The apartment complex that houses SCP-2210 has been purchased through Foundation front companies, and is to be inhabited specifically by local researchers that are unaware of SCP-2210 (for records of inhabitants, see Document 2210-2).
+
+To facilitate intelligence gathering on major Groups of Interest, a contract with SCP-2210 has been made using D-18272. In exchange for a current premium of $1483 under "Policy #40535", SCP-2210 has made records of deals with other Groups of Interest available to Foundation researchers in the Archive Wing of Site-75.
+
+For the sake of preserving Policy #40535, D-18272 has been granted a reprieve from testing SCPs and monthly termination, as well as temporary housing near SCP-2210. Researchers assigned to the location of SCP-2210 are to be informed that D-18272 is a Foundation agent with a classified objective. Every thirty (30) days as of 8/24/65, D-18272 is to deliver the monthly premium to SCP-2210. Following this, he is to be stored using a Temporal Arresting Pod, and when the contract needs to be paid, revived and briefed using Document 2210-A.
+
+Description: SCP-2210 is an insurance company that specializes exclusively in anomalous objects and incidents. The company's phone numbers begin with the extension "7-3i"; the company website, www.████████████.com, lists the company's address as "4i Quarternion Ave., Los Angeles, CA, 90001", and directions available on the website lead to a non-anomalous apartment complex in the same area. If a person with knowledge of SCP-2210 and its purpose enters the complex, they will enter an extra-dimensional space inhabited by SCP-2210 that resembles a modern office complex. The inhabitants of SCP-2210 (termed SCP-2210-1), resemble non-anomalous humans in modern business attire with the company name stitched onto their shirts, but their only communication with entrants is to convince them into signing a contract.
+
+When a person enters SCP-2210, an instance of SCP-2210-1 resembling a Caucasian human of the opposite sex will approach them with specific information pertaining to said person. Invariably, each instance will greet the entrant with their name and a quick blurb about SCP-2210. Rather than allow the entrant to choose a contract, the instance will then suggest a specific insurance contract that invariably pertains to circumstances surrounding the entrant. Suggested contracts have ranged from "Replacement of Anomalous Object" to "Spatial Limb Reassignment" to "Removal of Eldritch Entity from Plane of Existence".
+
+Although SCP-2210 classifies all contracts as insurance policies, SCP-2210 will not only insure anomalous objects or incidents for mundane purposes, but also provide funding to purchase and/or study anomalous objects, supply various pieces of highly esoteric equipment, and generally perform various differing tasks and fulfill requests as long as they pertain to anomalous items or incidents in some way. According to documents acquired through "Anomalous Intelligence Policy 40535", SCP-2210 regularly services various GoI's such as Wondertainment Industries, The Serpent's Hand, Marshall, Carter, and Dark, and Are We Cool Yet?, although all entrants report seeing only SCP-2210-1 instances while within SCP-2210.
+
+When a contract is agreed to, the instance of SCP-2210-1 will produce a handwritten document from their person and a quill pen, which will be used by both the instance of SCP-2210-1 and the entrant to sign the document. Following this, the instance will produce a duplicate contract, with signatures included, which it will give to the policyholder. Although the individual details of contracts vary, all contracts require that the premium be paid in cash by the signee (hereby termed SCP-2210-2) to the instance that provided the contract, every 30 days from its signing. The monthly premium is also dependent on the contract, but is always a prime number. Each time the premium is paid, the instance of SCP-2210-1 tied to the contract will inform SCP-2210-2 that they may terminate the contract.
+
+In the event that a payment is not delivered on the 30th day, SCP-2210 will immediately cease to uphold the contract, causing the provided service to immediately disappear (equipment, personnel, replaced items, etc). Policyholders report seeing instances of SCP-2210-1 observing them from far away, appearing to say the words "Please terminate your contract at the earliest convenience to avoid any more late fees." As time passes, the signee will also begin to perceive all phone calls or physical letters addressed to them as containing the same message.
+
+Following failure of payment, an amount of money equivalent to the premium will disappear from the signee's possession within thirty days. This amount doubles each time, and appears under utility bills as "████████████ Insurance late fee". In addition, a form will appear in the presence of the policyholder, entitled "Late Fee Appeal", with instructions to fill out the form and bring it to SCP-2210 for an appeal. In the event that the policyholder lacks enough money to pay the late fee, object(s) of equivalent value will begin to disappear from their home or person, the "Late Fee Appeal" form appearing in said object's place. High-speed camera surveillance shows unknown individuals entering the residence, leaving the appeal form, and carrying off objects and possession that equal the value of the late fee. If the policyholder runs out of possessions and money, they will be accosted by an unknown individual in a business suit and mask, who will proceed to abduct them and carry them through the nearest doorway, whereupon the two will disappear. Victims of the full process have been observed working in SCP-2210, but ignore all attempts at interaction.
+
+If the signee tries to end the contract or brings in the late fee appeal form, they will be given a "Termination Regulation Information" form, and asked to fill it out completely and take it to another instance of SCP-2210-1 at a different office within the complex. The form uses complex jargon and terminology from various profession to request esoteric and seemingly useless personal information from the signee, such the blood type of the signee's paternal great-grandmother, the breed of the sire of their dog, and the country in which the transistors of their phone was manufactured. Although the questions have some pertinence to the signee, more often then not they appear to have been chosen at random. If any the questions on the form are not completely answered, the form will not be accepted by the next instance of SCP-2210-1, which will request that the form be fully completed.
+
+If the form is successfully handed in, the instance it is handed to will claim that eight weeks are needed to process the form, and ask the signee to leave and return after eight weeks. At the end of the eight weeks, the instance will claim that a bureaucratic incident has nullified the form, give the signee a similar form with different questions, and ask them to repeat the process. Successfully filling out this form has the same results, and so on and so forth. Attempts to terminate the contract are also hindered by the nature of the space inhabited by SCP-2210. Although it resembles an ordinary office complex, it is a large, labyrinthine complex that adheres to neither Euclidean geometry nor conventional time. Among other spatial paradoxes, it is possible to simultaneously enter and exit a room, walk on the ceilings and floor, and climb Penrose stairs.
+
+Addendum: " Policy #40535: Anomalous Intelligence"
+
+After researching various facets of SCP-2210, Dr. T█████, the lead researcher assigned to SCP-2210, proposed using SCP-2210 as an intelligence-facilitating measure. The proposal was accepted following an 8-5 vote from the O5 council, and steps were taken to obtain a possible contract with minimal risk to Foundation assets. Using [DATA EXPUNGED], D-18272 was convinced of his identity as Foundation Agent ██████ ██, and ordered to accept an offer from SCP-2210 pertaining to anomalous intelligence. D-18272 was offered "Policy #40535: Anomalous Intelligence ", and accepted. Immediately following his acceptance, multiple documents were added by an unknown party to the server in Site-75's Archive Wing. Said documents are abstracts of insurance policies that appear to have been made with SCP-2210 by other Groups of Interest. Each week, the abstracts disappear through an unknown process and are replaced by new abstracts.
+
+The following list contains the policy abstracts provided during the current week. Copies of previous abstracts are located at the Site-75 Archive Wing.
+
+ Policy #2779915 (Are We Cool Yet?)
+
+LOGIN CONFIRMED
+
+Policy: Replacement of Kim Song-ju's Parietal Lobe
+
+Monthly premium: 2111 yuan
+
+Description: Kim Song-ju, the current Prime Minister of North Korea, is to have his parietal lobe removed and replaced with a modified Arduino microcontroller that replicates its functions. The wireless portable computer that connects to the microcontroller will also be provided to William Shao, the policyholder. ████████████ Insurance will also uphold the warranty on Kim Song-ju, the microcontroller, and the computer, to fix or replace them if necessary.
+
+Status: Contract terminated following death of William Shao via cardiac arrest.
+
+ Policy #167032 (Marshall, Carter, and Dark)
+
+LOGIN CONFIRMED
+
+Policy: Specialized Android Security Force
+
+Monthly premium: $5023
+
+Description: Jonathan Franks, the current CTO of ████████ █████████, is to be guarded at all times by Android Security Force #15. Security Force #15 has been supplied with flesh suits in order to remain inconspicuous. ████████████ Insurance will program the security force according to Franks' demands, and will perform periodic inspection and maintenance of each android.
+
+Status: Contract is active.
+
+ Policy #95,684 (The Serpent's Hand)
+
+LOGIN CONFIRMED
+
+Policy: Supply of Hearts
+
+Monthly premium: 6841 Swedish kroner
+
+Description: Each week, 300 formaldehyde-preserved human, ostrich, tiger, penguin, rattlesnake, baboon, anteater, and wild boar hearts each are to be delivered to The Cult of Amaan Masapi for use in the banishment ritual of Amaan Masapi, That Which Devours the World.
+
+Status: Contract terminated following failure of payment by The Cult of Amaan Masapi, who is currently appealing the late fee in Customer Service.
+
+ Policy #8741 (Herman Fuller's Circus of the Disquieting)
+
+LOGIN CONFIRMED
+
+Policy: Escapee Retrieval
+
+Monthly premium: $263
+
+Description: Each performer in Herman Fuller's Circus of the Disquieting has had tracking devices implanted within their sternum or approximate body area. If a performer flees the Circus, ████████████ Insurance Retrieval Team will track down, capture, and return the performer to the Circus with minimal casualties.
+
+Status: Contract is active.
+
+ Policy #734 (Wondertainment Industries) 
+
+LOGIN CONFIRMED
+
+Policy: Test Subjects
+
+Monthly premium: $2767
+
+Description: Each week, ten Standard Issue Broad-Spectrum Adolescent Human Test Subjects, with fear and pain responses removed, are to be manufactured and shipped to Wondertainment Industries for Quality Control Testing. Dr. Wondertainment is to be kept unaware of this policy.
+
+Status: Contract is active.

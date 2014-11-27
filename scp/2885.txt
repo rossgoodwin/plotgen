@@ -1,0 +1,71 @@
+Item #: SCP-2885
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2885 is to be kept in a standard locker at Site-19. When not being experimented on, SCP-2885 is to be kept within a sealed transport box to reduce the probability of accidental exposure through eye contact. Personnel wishing to conduct tests involving SCP-2885 must obtain Level 3 or higher authorization.
+
+Description: SCP-2885 is a rectangular pane of clear glass measuring 21 cm by 14 cm, and 1 cm thick. Residual writing covers the surface; though the majority of the words (believed initially written in dry-erase marker) have been apparently rubbed off, a few complete phrases can be distinguished with appropriate lighting:
+
+There’s a better life out there. You’ve already earned it.
+
+You are always you.
+
+The you who has the most can afford to give the most.
+
+There’s no harm in kicking out one who already has it made. It’s your turn now. You won’t mind.
+
+SCP-2885’s anomalous properties manifest when a human looks through it for a period of at least 15 seconds. Exposed subjects will initially report seeing a faint view of an unknown landscape. Regardless of whether subjects continue to look through SCP-2885 after the initial exposure, they will then proceed to undergo the following stages of perceptual hallucinations:
+
+0-1 hours after exposure: Hallucination gradually expands across entire field of vision. Image is faint, not interfering with normal sense of sight. Movement through the indistinct landscape appears consistent with a walking pace.
+
+1-3 hours after exposure: Visual quality sharpens, becoming increasingly clear against any background. Auditory hallucinations begin. Subjects describe hearing faint environmental sounds, including everyday background noise such as passing automobiles or human speech.
+
+3-6 hours after exposure: Auditory hallucinations become louder and clearer, and begin to include sounds such as footsteps and rustling noises. The landscapes become easily recognizable: subjects report a similarity between the observed environments and existing locations familiar to them, such as homes, restaurants, and parks. Subjects begin to respond to stimuli perceived within the hallucination, occasionally reporting hearing their own voice speaking involuntarily. Towards the end of this period, subjects cease to exhibit substantial voluntary movement.
+
+6-10 hours after exposure: Subjects are functionally blind. Subjects more actively attempt to interact with the hallucination, reporting success in these attempts, with the perspective of the hallucination changing according to subjects' perceived movements within the hallucinated environment. One-sided conversations held by subjects become increasingly fragmented and eventually cease altogether. Sudden involuntary motions such as twitching of digits, muscle spasms in limbs, and facial contortions have been noted in subjects.
+
+10+ hours after exposure: Hallucination has become all-encompassing. Subjects must be kept on an intravenous drip as they cease to feed themselves. Subjects who are still communicative report complete control over their motions, and occasionally voice random inquiries1. Speech has not been reported later than 12 hours after exposure.
+
+Addendum 2885-1: Though research is still ongoing to obtain concrete results, preliminary findings indicate that the hallucinations may not be generated solely by the mind of an individual exposed to SCP-2885. Furthermore, in some isolated cases, subjects exposed to SCP-2885 have developed alternate personalities, often with accompanying knowledge they should not possess (see Experiment Log).
+
+Experiment Log 2885-R:
+
+Date: ██-██-██
+
+Subject: D-81254
+
+Procedure: Subject was selected for willingness to follow instructions. After looking into SCP-2885, he was instructed repeat all sounds he believed himself to be hearing, other than environmental noises. Irrelevant comments have been omitted; the following is a partial audio log of significant comments.
+
+[begin partial log]
+
+[5:27:15]: "People are talking to me, but I can’t tell exactly what they’re saying. I can understand more words than before though."
+
+[5:27:30]: "Someone… looks like my mother, but… happier. She’s asking me if I’m ready for the family dinner. The dog is barking… I thought she was given away when I lost my job…"
+
+[5:27:45]: "The neighbor is watering their grass with a hose. The nice neighbor who would’ve left by now, I thought." [pause] "Someone is asking me to leave, but I don’t see them. Their voice kind of sounds like mine. "
+
+[extraneous log content]
+
+D-81254 ceases to be able to see. Hallucinations proceed at a typical rate.
+
+[6:11:00]: "Someone is yelling at me to get out, but everyone at the table is smiling. My brothers haven’t left yet, and my best friend’s boss is congratulating me for my recent promotion. Is someone outside screaming? I don’t see them."
+
+While D-81254 claims to have difficulty hearing new orders, as well as his own voice, he continues to cooperate with his original instructions. D-81254’s right hand begins to twitch spasmodically.
+
+[extraneous log content]
+
+[7:15:45]: "People are asking why I keep dropping my fork. I don’t know- no, no, uh, I’m fine. Maybe a little jittery after that movie. Excuse me, I need to use the restroom."
+
+D-81524 rotates his head from right to left and comments "I’m at a mirror. I… I look much better. Like I thought I could, if things worked out."
+
+[7:16:15]: "I feel like I keep hearing myself think. Some echo. It’s not me, though. Not me. It keeps saying that it is me, that this isn’t right, but that’s probably a lie, right? My life is great! My life. Mine." [pause] "I just hit my head on the sink. I heard the thump. But I didn’t feel anything."
+
+Subject states that the speech-like noises have ceased abruptly, and that he is now able to hear himself speak clearly again. D-81524 later stated spontaneously (at time 11:31:52) "You released me after the SCP-███ incident. I was free to go. Why am I back here?" before ceasing all vocalizations. A few minutes later D-81524 proceeded to forcibly exit the experimental room and quickly navigate the hallways to the nearest Site-19 stairway, despite having no foreknowledge of the building layout. When detained, he refused to speak and later regressed into a comatose state.
+
+[end partial log]
+
+Addendum 2885-2: SCP-2885 was recovered on ██-██-██ in the ███████ Facility, in █████, ████████. A team of Foundation officers raided the facility following a series of unusual hospital admissions in the area. Agents found a deserted set of workspaces, including basic medical facilities. SCP-2885 was found within a stack of five similar glass panes; these sheets were clouded with what appeared to be an iron precipitate and were cracked in multiple areas. Five bodies in various stages of decay and strapped to stretchers were discovered in the same room. One empty stretcher was overturned on the ground, the phrase “you are not you” was carved into the padding.
+
+Footnotes
+
+1. Most commonly recorded questions include variations of “Who is moving me?”, “Why do I hear my voice but not my thoughts?”, and “Will you please get out?”, usually spoken in tones of panic or distress.

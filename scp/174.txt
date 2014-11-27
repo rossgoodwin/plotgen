@@ -1,0 +1,33 @@
+SCP-174
+
+Item #: SCP-174
+
+Object Class: Safe Euclid, see Incident 174-A
+
+Special Containment Procedures: SCP-174 is to be contained within Storage Unit-07 at Site-19. Removal of SCP-174 from containment requires the approval of two (2) Level-4 personnel familiar with the entity. It is preferable to use personnel with high Psychic Resistance Scale scores when interacting with SCP-174. All personnel in contact with SCP-174 are to undergo psychological evaluation; those who display obsessive or protective tendencies toward the item are to be treated with Class-B amnesiacs and monitored for 72 hours.
+
+Addendum to containment procedures, ██/██/20██: Following Incident 174-A, SCP-174 and the main chamber of Storage Unit-07 are to be monitored at all times via video surveillance. Abnormal activity must be reported to Dr. A█████████ immediately. Furthermore, a GPS tracking device is to be installed on SCP-174 in order to expedite recovery should the item translocate outside of Foundation custody.
+
+Description: SCP-174 is a wooden ventriloquial figure measuring 21 cm from head to toe, with somewhat ragged clothing and slight damage to several sections. Judging by the item's style and state of repair, it dates from the early 20th Century. The eyes and mouth of SCP-174 can be manipulated by means of a mechanism inside the figure.
+
+When viewed in peripheral vision, subjects report on occasion that SCP-174 is looking directly at them with an expression of longing or sadness. When subjects look directly at SCP-174, this anomalous expression is not visible. Viewing SCP-174 indirectly, such as in a mirror or a live video feed, appears to increase the likelihood of this effect manifesting itself. Personnel in the vicinity of SCP-174 report a general feeling of sadness or sympathy directed toward the figure, but cannot explain any reason for these feelings. Prolonged exposure can lead to personnel personifying the figure to greater extents; those with particularly low Psychic Resistance Scale scores will in some cases begin to act as if SCP-174 were a living being (e.g. cradling it as if it were a baby). When informed of their abnormal behaviour, all personnel revert to standard behaviour patterns for at least several minutes.
+
+Subjects who place SCP-174 on their hand report an urge to 'converse' with it. When questioned, they frequently report that the figure is 'lonely' and needs companionship. The subject will also begin speaking for SCP-174 and manipulating its expression. When speaking for the figure, the subject's voice will take on a higher-pitched, childlike tone. Recordings taken with high-sensitivity microphones have determined that at no point does the figure itself actually speak, or make any discernible noise. Regardless of the subject's experience, the act will be almost perfect. The 'conversation' will quickly move toward a discussion of the figure's emotional state, particularly in relation to its past, in most cases leading to the retelling by the figure of a story of how it was abandoned or mistreated. No one story has ever been repeated, and therefore which, if any, is true is unknown. Researchers have theorised that SCP-174 may have low-level telepathic abilities, as each story seems to be based around a theme that will have particular resonance with the current subject.
+
+Past this point, subjects will show great affection for SCP-174, and will attempt to 'protect' it from people who come too close or try to interact with it, in some cases with deadly force. Subjects often refer to SCP-174 as their 'baby', or use similarly strong terms of endearment when referring to it. This effect persists for several hours after SCP-174 and the subject have been separated, and in at least one case the effect had not dissipated 2 weeks after final interaction. Whether the effect would ever have lessened is unknown, as the subject in question was terminated owing to lack of compelling reason for further study. Subjects who are completely isolated from SCP-174 will become paranoid as to the figure's safety, and often undergo a mental collapse similar to that observed in mothers separated from young children. Class-B or stronger amnesiacs have been shown to be effective in curing both the obsessive effect and the majority of any resultant mental trauma; however, almost all who undergo such treatment complain of feelings of loss and can become depressive.
+
+Addendum 174-1: Experiment Log (transcription of video footage)
+
+Subject: D-14285; Female, 21, no history of violent crime.
+
+Supervising researcher: Dr. A█████████
+
+Location: Containment cell-A4 (researcher and staff observing from behind two-way mirror), Site-19
+
+D-14285 is ordered to place SCP-174 on their hand. Subject does so after initial hesitation. After several seconds, subject begins a mundane conversation with SCP-174. After ~2 minutes, the subject asks SCP-174 'What happened to you?', at which point the figure begins to recount a story of how it was left behind and damaged in a house fire and subsequently discarded by its original owner. <Note: Subject's records indicate that her house was the victim of an arson attack in 19██.> Subject begins to console the figure, and reassure it with standard positive statements. Figure remarks that it is lonely and wants to find friends. Subject begins to punch and pound the door with their free hand. When guards enter the cell sidearms raised, the subject recoils to the corner of the cell, cradling the figure and whispering to it (exact words not picked up by microphone). Guards succeed in removing SCP-174 from the subject, and leave the cell. At this point the subject screams 'they have him, my wonderful baby', and begins punching and kicking the door in a futile escape attempt.
+
+Note: At this point Dr. A█████████ ordered the experiment concluded. D-14285 was terminated after attempts to calm her failed (this experiment was one of the first conducted with SCP-174, before the efficacy of amnesiacs had become apparent).
+
+Addendum 174-2: Incident 174-A
+
+On ██/██/20██, Dr. A█████████ entered Storage Unit-07 to find SCP-174 sitting on the floor next to its containment unit, looking directly at the main entrance door. The door to SCP-174's unit had been sealed shut, with no access having been logged in the previous week. After being replaced in containment, video surveillance was installed within Storage Unit-07 as a precaution against future translocations, and a GPS tracking unit was attached to SCP-174.

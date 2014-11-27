@@ -1,0 +1,17 @@
+SCP-534-2 (left center), SCP-534-1 (surrounding) (20x)
+
+Item #: SCP-534
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-534-1, -2, and -3 are to be kept in a plastic covered, airtight containment chamber. Entrance to the containment chamber is to be conducted through a double airlock, the chamber of which is to be equipped with a high-grade disinfectant. With the exception of testing, all personnel entering SCP-534's containment chamber are to wear class three bio-hazard suits.
+
+Description: Although the biological mechanisms behind their support are currently not fully understood, SCP-534 appears to be a collection of several different human blood cells and cell fragments that have increased in size several hundred times. The components of SCP-534 have been placed into three different classifications: SCP-534-1: erythrocytes, SCP-534-2: neutrophils, and SCP-534-3: thrombocytes. All samples of SCP-534 appear to have the ability to survive while "floating" in the air, and are affected by air currents. All concentrations of cells appear to match normal blood, with SCP-534-1 comprising approximately 97% of SCP-534. No instances of SCP-534 require nutrients.
+
+SCP-534-1 acts in a manner typical of normal erythrocytes and averages 1.7 mm in width. It will absorb oxygen from the surrounding air. Upon coming into contact with living cells of another organism, SCP-534-1 will actively diffuse oxygen into the organism. Due to SCP-534-1's large size, over-saturation is common. Allowing SCP-534-1 to enter or touch areas of living tissue may cause oxygen poisoning, resulting in death of the affected area. SCP-534-1 appears to have an indefinite lifespan.
+
+SCP-534-2 is typically 2.2 mm across and will perform phagocytosis upon any foreign organic material it comes into contact with. Air samples from SCP-534-2's containment area have shown them to be 99.9% pathogen free. Subjects entering areas containing large amounts of SCP-534-2 will report an itchiness in their skin due to SCP-534-2 destroying their epidermis. Continual exposure to SCP-534-2 will result in subjects being "eaten alive". SCP-534-2 dies normally. The remaining mass is eaten by other instances of SCP-534-2.
+
+SCP-534-3 is generally 0.5 mm across. It will release normal proteins upon becoming disturbed, causing several instances of SCP-534-1 to clot. Recorded sizes of clots have been up to 3 centimeters in length. Subjects who stay in an area with a large amount of SCP-534-3 and SCP-534-1 will become covered in clots within 1 hour. Inhaling SCP-534-1 and SCP-534-3 simultaneously is lethal. Like SCP-534-1, SCP-534-3 appears to have an indefinite lifespan.
+
+SCP-534 was originally discovered by Foundation personnel in Prometheus Labs' biology sector, with notes indicating its creation as "a replacement for all blood transfusions." Although SCP-534-2 was multiplying rapidly, SCP-534-1 and SCP-534-3 are unable to reproduce and were in limited quantity. Currently there is no way of reproducing SCP-534-1 or -3, and personnel are advised to be careful in their handling.

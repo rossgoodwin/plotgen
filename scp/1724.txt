@@ -1,0 +1,43 @@
+SCP-1724, prior to containment.
+
+Item #: SCP-1724
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1724's components are to be contained inside three separate Safe level containment chambers, positioned at least 20 meters away from one another. No personnel are permitted to interact with these components outside of testing. Persons who have measured over 900 when tested with SCP-1724 are to be terminated immediately.
+
+Description: SCP-1724 is a large mechanical device, manufactured out of components developed in the early twentieth century. SCP-1724's components weigh, in total, 423 kilograms, and take up an area of 34 square meters. SCP-1724 does not require electricity to run, as it appears to run on an internal power source. SCP-1724 is composed of three primary components, designated SCP-1724-1 through -3. SCP-1724-1 is a large glass orb supported by a brass stand, with a valve and several rods that emit an electrical current into the orb. SCP-1724-2 is composed of several large steel rods connected by wire that emit large amounts of gamma radiation when SCP-1724 is active. SCP-1724-3 is a large chair with two television monitors built into the side. This chair has several instruments designed to attach to the human body.
+
+SCP-1724's anomalous effect will activate if a person sits in SCP-1724-3 while SCP-1724's components are within 20 meters of each other. If this occurs, the different components of SCP-1724 will activate. SCP-1724-1 will begin to exude green colored smoke, and the valve will begin to turn at an accelerated pace. Note that, at this point, the radiation emitted by SCP-1724-2 will not have any effect on the the person seated in SCP-1724-3. After approximately 30 minutes have passed, the television monitors located on SCP-1724-3 will begin to display images. These images usually relate in some way to the person seated in SCP-1724-3, however their context is usually impossible to determine. This will continue for an additional thirty minutes. It is not known at this time what this number corresponds to.
+
+After this process finishes, a number between 0-999 will appear on SCP-1724-3's monitors. This will be accompanied by a voice giving commentary on the number. It is unknown what portion of SCP-1724 produces this voice, as SCP-1724 contains no instruments capable of producing sound. These comments will usually be critical in nature, with more criticism given with a lower score. For a partial list of statements produced by SCP-1724, please refer to Addendum 1724-A.
+
+Persons affected by SCP-1724 will experience a 10-15% decrease in their reaction time, mental acuity, and will experience difficulty forming rational thought. The affected person will begin to exhibit symptoms of sociopathy. These will become more pronounced with repeated exposures to SCP-1724. In addition, they will become more outgoing, attempting to have as much attention as possible focused on them at all times.
+
+SCP-1724 was recovered during a raid on a facility belonging to a religious group known as the Fifthist Church, after persistent reports of supernatural activity reached Foundation agents embedded in a local military installation. The facility appeared to have been constructed to house SCP-1724. SCP-1724 has been classified as Safe as of ██/██/1989.
+
+Addendum 1724-A: Partial list of statements made by SCP-1724.
+
+In regard to a score of 567, to D-0987.
+
+Sister, you got the feeling inside you. But you ain't ready yet. You have to go, girl. You have to go out there, and get some flavor for that soul. Ride into a sunset, or be someone you never thought you could be.
+
+D-0987 made several requests to be transferred before monthly termination. Requests were denied.
+
+In regard to a score of 109, to D-9541.
+
+I don't know brother. You don't have it in you. The feeling. The rhythm. It ain't something a man can learn. You gotta be born with it.
+
+D-9541 expressed signs of severe depression and anxiety. Self-terminated before monthly termination could be carried out.
+
+In regard to a score of 789, to D-8234
+
+Whoa there friend, slow down! You got somethin' the other cats don't. You get it. You know that some of the things out there just ain't the way they ought to be. A real go-getter. You're ready, son. I can feel it in my bones.
+
+D-8234 expressed signs of contentment and raised endorphin levels. D-8234 terminated at the end of the month. Body shown to continue smiling after death.
+
+In regard to a score of 997, to D-1249
+
+(Fifteen second pause.) Brother, I have seen some things. Things that would make your eyes pop and dribble like eggs on a Sunday morn. And this soul is something else. The aroma, the spice, the feel… It's something else, brother. Talk to Big Top sometime. I think he'll wanna have an audience with you.
+
+Seven days after the experiment took place, D-1249 disappeared from Foundation custody. Location currently unknown. Testing discontinued.

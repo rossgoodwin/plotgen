@@ -1,0 +1,177 @@
+Item #: SCP-1739
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-1739 is contained in Containment Sector ██, located in Site-██. Experimentation plans regarding SCP-1739 must first be forwarded to the O5 Council for approval. Containment Sector ██ is to be constantly monitored. In the event that any individuals spontaneously appear within Containment Sector ██, the O5 Council is to be immediately notified.
+
+Containment of SCP-1739’s primary anomalous effects is executed under Operation Smokescreen. The overseeing Level 4 researcher has primary authority over Operation Smokescreen and reports directly to the O5 Council. The details of Operation Smokescreen are classified to the overseeing researcher and the O5 Council.
+
+Description: SCP-1739 is a Dell Latitude D800 laptop. SCP-1739 has proven impervious to all attempts at destruction. An executable file named "gofetch.exe" is located on SCP-1739’s hard drive. Executing "gofetch.exe" opens three windowed applications. The first window contains an input field requesting date and time in UNIX time stamp format. Only dates between January 1st, 2004, 00:01:18 GMT and current time at the time of input are accepted, with all others resulting in an error message. Subjects who enter a number within the correct range will disappear.
+
+The second window appears to be a client application for an unknown chat protocol. Users are automatically given the handle "BranchPrime." After subjects disappear, the chat client can be used to communicate with individuals given handles that are variations of the name "Isaac". These individuals claim to be Foundation personnel existing in a divergent timeline created by the disappeared subject's temporal relocation to the destination determined by the input UNIX time stamp. The divergent timeline is reported to have been identical to this timeline in all respects until the spontaneous appearance of experimental subjects. If such claims are true, SCP-1739 is capable of transporting subjects backwards in time as far back as January 1st, 2004.
+
+The third window is a computer-generated animation of a dog chained to a doghouse. If a number is successfully entered, the animation changes to display a woman unleashing the dog and throwing a ball into the distance. The dog then runs off-screen after the ball.
+
+After a time period ranging from three days to seven months, the "Isaac" handle disconnects from the chat. At this point in time, the animation changes once more to display the dog running back, with the deflated remains of the ball between its teeth. The dog discards the remains, which fly off-screen, while the woman chains the dog back to the doghouse.
+
+On January 1st, 2004, SCP-1739 spontaneously appeared in containment in Containment Sector ██, which was previously vacant.
+
++ Level 3/1739 clearance required
+
+– hide block
+
+Chat Log 1739-12
+
+Foreword: Three weeks previously, on January 20th, 2014, 10:30:00 PM GMT, D-22314 had inputted a number corresponding to the present time minus five seconds into SCP-1739. Supervising Level 4 Researcher Dr. █████ represents "BranchPrime".
+
+Isaac67: Does the black moon howl?
+
+BranchPrime: [DATA EXPUNGED]
+
+Isaac67: Password exchange protocol is working, then.
+
+Isaac67: I'm sending you the analysis of SCP-1739 taken after D-22314 appeared in this timeline.
+
+Isaac67 has uploaded ███████.███
+
+Isaac67: Our research team compared it to the analysis of SCP-1739 that was taken before D-22314 appeared. The two are identical. There's nothing that suggests that a change in this timeline's instance of SCP-1739 is what's causing us to spontaneously log out.
+
+BranchPrime: Mm.
+
+Isaac67: And at the same time, the chance that I'm just some construct of the executable file itself is becoming increasingly unlikely, isn't it?
+
+BranchPrime: Well, who knows.
+
+Chat Log 1739-19
+
+Isaac67: Does the black moon howl?
+
+BranchPrime: [DATA EXPUNGED].
+
+Isaac67: This is a breach of protocol, but it doesn't matter. In all likelihood the O5's going to censor this on your end but they're too busy to stop me on this one.
+
+BranchPrime: What's happening?
+
+Isaac67: I have answers. I know why I'm going to disconnect very shortly. But first, a question.
+
+Isaac67: Is your world ending?
+
+BranchPrime: I don't know what you're talking about, and no, I have no reason to believe that the world's ending.
+
+Isaac67: I hope you're not acting.
+
+Isaac67: Well, I know you're not acting.
+
+Isaac67: Because I'm not. And no amount of pressure or coercion can change that. Which means the same for you.
+
+Isaac67: That's all I needed. I want you to go to the O5 Council. When they ask you why you've come, give them this document.
+
+Isaac67 has uploaded █████████████.███
+
+Isaac67: The cause of the disconnect is the destruction of this universe. But while this universe is ending, yours isn't. There's only one point of divergence. We don't know whether this thing is meant to put people on a lifeboat or exile them to a sinking ship. The latter seems far more likely. Regardless…
+
+Isaac67: I want you to read that document before you give it to the O5. Look for the warning signs. There are certain patterns that hold the universe together and I know but you don't that heat death is only the beginning.
+
+Afterword: Three hours later, Isaac67 disconnected.
+
++ Level 4/1739 clearance required
+
+– hide block
+
+Chat Log 1739-25
+
+Foreword: Experimental procedure had been reproduced using D-22358 as test subject.
+
+Isaac132: Does the black moon howl?
+
+BranchPrime: [DATA EXPUNGED].
+
+Isaac132: I've realized that they really could not have chosen a worse person to research this object. I would strongly recommend that you resign immediately.
+
+BranchPrime: Please explain.
+
+BranchPrime: I'm surprised that you'd think that.
+
+Isaac132: It's written in glasses of water and daily Class-F paramedication, but don't worry about that. I'm trying to be as private as I can. You already know what I know.
+
+BranchPrime: What's your point?
+
+Isaac132: I'm sorry.
+
+Isaac132: And thank you.
+
+BranchPrime: For what?
+
+Isaac132: At last, I've found the meaning to life and existence. This entire universe was made for one specific, terrible purpose. I'm about to fulfill that purpose.
+
+Isaac132: SCP-1739 has nothing to do with exile or salvation. The lifeboat/sinking ship analogy that…the other one proposed is incorrect. SCP-1739's usage is responsible for the destruction of these universes in the first place.
+
+Isaac132: Ultimately, the animation in the third window is the key. It's nothing but a cheeky metaphor for the apocalypse.
+
+BranchPrime: What?
+
+Isaac132: Let me explain.
+
+Isaac132: I followed the plan. I knew the warning signs. I used them to see the end coming. It's no natural phenomenon. All signs seem to indicate that what's about to destroy us is actively malevolent. It comes out of time and space and tracks its prey. We can even see where it's last been: the universe that was destroyed in the previous experiment.
+
+Isaac132: The end is the dog. Something incomprehensibly terrible, in both senses of that word, something that can destroy an entire universe just by passing its shadow over it.
+
+Isaac132: But I could also see that somebody had chained the dog to the doghouse.
+
+BranchPrime: Wait. Why is there a problem if the dog is chained?
+
+Isaac132: I'm not quite sure about that question yet—not that I have the time to answer it, anyway. I'd guess that either the chains are too weak, the dog is too strong, or there are some things that even chains cannot hold.
+
+Isaac132: But the Foundation has encountered the same problem before, so we can infer what's happening here. We've contained items that can't be held entirely by chains. If we can't completely stop the object from doing something, if the object can find a way around whatever restrictions we place…
+
+Isaac132: Then sometimes the best bet is to take off the chains in a controlled setting, and let the object's anomalous properties manifest where they won't damage anything important.
+
+Isaac132: In this case, the dog is the object in containment. And SCP-1739 is a very elaborate and specifically designed special containment procedure operating on that same principle.
+
+BranchPrime: I think I understand.
+
+BranchPrime: Upon reflection, that's quite sickening. This device would send people back into the past, creating entire branch timelines…
+
+BranchPrime: As sacrificial distractions? To what end?
+
+Isaac132: Thrown balls in a game of fetch to keep the dog's energies in check.
+
+BranchPrime: Ah.
+
+BranchPrime: Well, as an employee of the Foundation, I can't complain, can I?
+
+Isaac132: You wouldn't complain either way.
+
+BranchPrime: …yes, you're right. I am very selfish, after all.
+
+Isaac132: Oh, well. That's not the point.
+
+Isaac132: Somewhere there is a person living in a timeline where SCP-1739 never deposits a traveler from the future. This person very much does not want the mad dog to grow too restless. Your Foundation and your O5 Council should hope that they are existing in this timeline.
+
+Isaac132: Stop sending people back into the past.
+
+BranchPrime: All right. I'll forward this information to the O5 Council. Even if they don't object, it's a certainty that the Ethics Committee will.
+
+BranchPrime: How much time do you have left?
+
+Isaac132: A couple seconds.
+
+Isaac132: But I have spent my entire life patiently waiting
+
+Isaac132: And I have no intention of hurrying now.
+
+Isaac132: It's rather surreal for you, isn't it?
+
+BranchPrime: It is.
+
+BranchPrime: …I'm envious.
+
+Isaac132: Haha.
+
+Isaac132: Well, it's been a pleasure
+
+Isaac132 has disconnected.
+
+Afterword: Following evaluation of the previous test logs, the O5 Council has transferred Dr. █████ to a different project. Ethics Committee investigations are ongoing.
+
+Addendum-1739A: Operation Smokescreen is underway to prevent SCP-1739 from depositing travelers from the future. Research regarding SCP-1739's primary focus is to contribute to these efforts. Furthermore, the O5 Council has indefinitely banned any experimentation with SCP-1739 that involves sending travelers to the past.

@@ -1,0 +1,153 @@
+SCP-1404
+
+Item #: SCP-1404
+
+Object Class: Safe
+
+Special Containment Procedure: SCP-1404 is to be placed on a table in a standard containment cell. At least once a day SCP-1404 is to be observed by an available staff member for no less than five (5) minutes.
+
+Description: SCP-1404 consists of two items: a 715 mL seemingly ceramic black bowl, measuring 15cm in diameter and 7cm high, and a seemingly stainless steel spoon, 16cm in length. Neither bear any marks indicating location or date of manufacture.
+
+If at any time either object is placed in an orientation that is not standard eating placement, it will slowly right itself into that position by means not yet understood. Once upright, both items will slide in the direction of the nearest table-like surface by the most efficient path at a speed of 20 meters per hour. If there is no direct path to a table, both objects will attempt to go through obstacles by rubbing against them, causing damage consistent with constant friction but with no effect to the objects themselves. SCP-1404 has also been observed sliding up and down walls, accessing ventilation systems, moving along ropes 1 cm in diameter, and dropping from heights of 30m without damage to either object. When reaching a table, they will slide up the legs or sides of the table until the bowl comes to rest 10 cm from the closest edge, centered along the table’s width. The spoon will halt once it is 6 cm to the right of the bowl, perpendicular to the closest edge. (For more information on SCP-1404’s behavior, see Test Log 1404-A and Test Log 1404-B)
+
+Over the course of five (5) minutes, the bowl will slowly fill with milk through an unknown means. When placed in a hermetically sealed transparent case, air pressure was observed to rise, showing that the milk is entering the bowl from an unknown external source. Once the milk reaches 472 mL, cereal alphabet letters will rise from the milk and spell out a phrase. Each phrase is vague in its meaning, but they are consistently negative and usually threatening, sometimes referring to “we.” If the bowl is emptied, the process will begin as before, though with a different phrase of similar content. If a single letter is removed, it is replaced within 10 seconds. Unhindered, phrases will remain exactly 24 hours, at which point the letters simultaneously sink out of sight. Within thirty (30) seconds, a new phrase will emerge. It is unknown if SCP-1404 has a limited number of phrases, as it does repeat itself often. Some phrases, however, have been observed only once. Logging of messages has revealed no discernible pattern. (See Log 1404-01)
+
+Testing on milk showed it to be cow’s milk, 1% fat content, with no anomalous properties. Cereal proved to be identical to █████████ Cereal recipe and also proved unremarkable. Class D personnel compelled to ingest cereal and milk showed no adverse effects. No samples could be taken from SCP-1404 itself, as objects appear to be unbreakable even at a molecular level. The actual age of the objects is unknown, though based on the their style and apparent method of manufacture, they are no more than fifty (50) years old. Objects maintain a temperature of 18°C and contents a temperature of 3°C, regardless of any heat applied. Both are seemingly unaffected by the laws of thermodynamics. The contents of SCP-1404 show no sign of putrefaction, even over the course of several weeks. If separated from SCP-1404, both cereal and milk lose any anomalous characteristics.
+
+SCP-1404 does not appear to be sentient. Attempts to communicate with SCP-1404, including verbal address to both bowl and spoon, radio wave transmission, written messages submerged in milk, and addition of cereal letters have met with no results.
+
+SCP-1404 was discovered in the apartment of B██ C█████ in ███████, ██ after his suicide by gunshot wound to the head on █/██/200█. Officers arriving on the scene found C█████’s body in proximity to SCP-1404 and believed it to be an unusual suicide note. When the stories of a “cereal suicide note” began circulating in the local press, Agent ████████ , undercover as a ███████ P.D. homicide detective was dispatched to verify the presence of an anomalous object.
+
+C█████’s apartment was completely devoid of furniture of any kind. The toilet and kitchen counters were destroyed in a means consistent with a sledgehammer found on the scene. The only sign of habitation was a sleeping bag and a bucket containing urine and feces. The object was on a window sill in its standard orientation. Agent ████████ remarked in his report that upon picking up the bowl, he felt it “slightly tugging” in his hand towards the window sill. SCP-1404 was confiscated and brought to Site-23. It is unknown how long SCP-1404 was in C█████’s possession, by what means he acquired it, and why he did not discard the object.
+
+If left unobserved by human eyes for more than twenty four (24) hours, SCP-1404 will migrate to the nearest table in a populated area, as seen with its arrival in Staff Cafeteria B on █/█/200█ after the object bored through its steel container and the wall of Storage Area 8. For this reason, containment in a Storage Area is unadvised due to possible damage to the facility and the potential for compromise of the containment of other SCPs.
+
+Test Log 1404-A
+
+Movement of SCP-1404
+
+Test 1404-A-01: SCP-1404 placed in center of a maze.
+
+Researcher: Dr. █████
+
+Test Record: SCP-1404 navigated maze successfully with zero errors.
+
+Test 1404-A-02: Spoon submerged in Polymer ████████
+
+Researcher: Dr. ███████
+
+Test Record: Spoon remained motionless for approx three (3) hours until it was observed “wiggling.” Over the next four (4) hours it had freed itself and proceeded towards table containing bowl.
+
+Test 1404-A-03: Sealed in Level 4 Containment Unit
+
+Researcher: Dr. ███████
+
+Test Record: SCP-1404 moved to the wall of its enclosure and began rubbing at the wall. Wall began to show signs of wear after six (6) hours with no damage to SCP-1404. Test concluded to avoid damage to facility.
+
+Test 1404-A-04: Table suspended via high tension cables 14 m in the air in the middle of a 20x20x20m area
+
+Researcher: Dr. ███████
+
+Test Record: SCP-1404 moved to the wall of containment area. Both objects tilted ninety (90) degrees and began to ascend wall. When reaching ceiling, both objects reoriented to that plane and began to slide across ceiling. Once over the table, SCP-1404 dropped 6m to table surface and came to rest at standard orientation.
+
+Test 1404-A-05: Tungsten table placed in furnace set to 3200°C.
+
+Researcher: Dr. ███████
+
+Test Record: SCP-1404 entered furnace without damage. Once reaching standard position, SCP-1404 began to fill with milk. Table extracted. SCP-1404 temperature: 18°C. Milk temperature: 3°C.
+
+Test Log 1404-B
+
+Attempts to Fill SCP-1404
+
+Substance
+
+Result
+
+Water
+
+Bowl tips and spills contents, rights itself, and proceeds toward table.
+
+1% Milk
+
+Bowl tips and spills contents, rights itself, and proceeds toward table.
+
+Wet Cement (to capacity)
+
+Bowl tips and spills contents with zero adhesion to surface, rights itself, and proceeds toward table.
+
+30kg Weight
+
+Bowl tips and spills contents, rights itself, and proceeds toward table.
+
+Polymer ████████
+
+Bowl tips and spills contents with zero adhesion to surface, rights itself, and proceeds toward table.
+
+200 kg Weight (placed atop bowl)
+
+Bowl tips, lifting weight with rising end until weight slides off. Bowl rights itself and proceeds toward table.
+
+Log 1404-01
+
+Phrase Log 1404-01
+
+Repeating Phrases (By Observed Instances)
+
+Phrase
+
+Instances
+
+DEATH IS NEAR
+
+101
+
+YOU WILL SUFFER
+
+124
+
+GIVE UP
+
+170
+
+BLOOD AND PAIN
+
+201
+
+ALL IS LOST
+
+230
+
+THERE IS NO HOPE
+
+304
+
+NOWHERE TO RUN
+
+380
+
+YOU WILL DIE
+
+409
+
+Single Phrases (To Date, by Chronological Order)
+
+Phrase
+
+Date
+
+YOU CANNOT HIDE
+
+05/03/200█
+
+WE WILL CRUSH YOU
+
+09/24/201█
+
+THE SKY WILL BURN
+
+08/10/201█
+
+WE ARE COMING
+
+06/02/201█

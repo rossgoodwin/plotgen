@@ -1,0 +1,47 @@
+SCP-130
+
+Item #: SCP-130
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-130 is to be staffed by twelve D-Class, six security agents (level 2/130) and one researcher (level 3/130) twice per day, starting at one half hour before local sunrise and sunset. All staff are to be appropriately uniformed and Caucasian only. When not staffed, two security agents will remain in the lobby, and two additional agents will patrol within the building. Agents are advised not to prevent people from entering the lobby, but to notify MTF Alpha-4 (“Pony Express”) to intercept anyone who receives mail or a package.
+
+Twice per day, bundles (SCP-130-2) will appear in the mail room. The parcels within the bundles are to be sorted by uniformed staff into appropriate bags and placed in a designated vehicle for transport to Site-██. Should mail arrive with the following addresses, [REDACTED], follow procedure Franklin-Sixteen, detailed in Addendum 130-2. Otherwise, mail will be checked under standard practices for any items of interest.
+
+Objects are not to be placed for outgoing mail unless certified orders are given by O5-█. Procedure Franklin-Seventeen outlines the protocol used in these cases. Should anyone else enter SCP-130 to use the outgoing mail slot, they are to be permitted to do so, then intercepted by MTF Alpha-4 as soon as possible for questioning. The incident is to be reviewed through security tapes and the outgoing mail watched for in subsequent bundles and checked through the list of previous parcels delivered.
+
+Description: SCP-130 is a post office in ████████, South Africa, constructed in 18██. SCP-130 had been closed in 19██ and left abandoned for ██ years. The building is in excellent condition for its age, and maintains itself without human intervention, including moderate structural repairs. SCP-130 has been designated a Historic Site through an agreement with the South African government.
+
+Five times per week at local sunrise and sunset, several bags and boxes will appear in the mail room. The bundles, designated SCP 130-2, will show only on weekdays, with the exception of current postal holidays for █████ ████. Bundles are to be handled as per Special Containment Procedures as above.
+
+Inside of the lobby, along with the post office boxes, is a slot labeled for Outgoing Mail. The slot is able to accept packages up to 40 cm wide and 6 cm high, with no apparent limit for length. Once inserted into the slot, packages disappear, and will eventually turn up in the outgoing mail bundles, if they have not done so previously.
+
+Addendum 130-1: SCP-130 came to the attention of the Foundation in 19██, when packages and letters began to be circulated bearing the postmark for the site. The parcels appeared in post offices throughout the world with correct postage for delivery either locally or internationally, depending on the parcel.
+
+The parcels were often undeliverable, either to non-existent addresses or to recipients who were not at the address, and so ended up in dead letter offices. Various Foundation assets noted the odd postmark, and Mobile Task Force Alpha-4 mobilized to investigate. MTF Alpha-4 arrived in ████████ where they discovered the town had mostly been abandoned decades ago. The post office appeared to be in excellent condition, not only well-maintained, but clean.
+
+While MTF Alpha-4 searched, bundles of mail appeared in the mail room. Agents searched the bundles and discovered a variety of letters, parcels, and packages, all with that day's date and the postmark for that post office. Agent ██████ attempted to open one of the parcels, which resulted in the agent vanishing from sight. Six days later, a package appeared in Site-██'s mail room. Inside of it was Agent ██████ and an envelope with a receipt for postage due. Agent ██████ had "Return to Sender" and "Postage Due" tattooed on ███ back, and was in a comatose state. Agent ██████ remained in that state until the envelope was delivered to SCP-130's Outgoing Mail slot, where upon the agent returned to consciousness with no recollection from the time of disappearance. Similar results also occurred when agents tried to take away or damage either the parcels or the post office itself.
+
+Further investigation led to the current containment procedures, where Caucasian D-class personnel in █████ ████ uniforms circa 19██ sort through the mail when it appeared. Once processed and put in a marked █████ ████ vehicle, the mail can then leave the area unmolested. If the bundles are untouched, however, the bundles will vanish and later appear in the postal systems of the world in order to be delivered.
+
+Addendum 130-2: Through examination of the mail parcels over the past ██ years, research has shown certain trends. Over ██ percent of the mail is of a mundane nature, except for the matter of the postmark. Exceptions to this are letters that were apparently unsent, for whatever reason, and temporally displaced letters. The former, while odd, will be destroyed in order to protect the nature of SCP-130. The latter will be examined and results submitted to [REDACTED]
+
+Letters addressed to Foundation Sites or Personnel are to be sent to Site-██ where they will be reviewed by Department ██████. Reports shall be classified under Project ██████████, pending Overseer review.
+
+Procedure Franklin-Sixteen: When mail is specifically addressed to [REDACTED], the mail is to be sealed in a case with active countermeasures and brought to the office of the present Level 5/130 supervisor. Mail will then be screened for possible explosive, chemical, biological, memetic or [REDACTED] threats. After screening, the mail will be opened and assessed. While no new artifacts requiring secure containment have arrived, the possibility cannot be ignored.
+
+Mail either addressed to or intercepted by the Office is often temporally sensitive, and as such impact must be minimized to limit changes. The possibility of the information being used to alter present day events detrimentally must also be weighed. Using the information given by SCP-130 to alter events requires a two-thirds super-majority vote by the Overseers.
+
+Examples of intercepted messages are stored within Document 130-1 and require level 4/130 to access.
+
+Mail with the following code-phrase [REDACTED] are to be immediately delivered after screening, without being read by 5/130. After so doing, that code-phrase is to be invalidated, and the next one brought in line.
+
+Procedure Franklin-Seventeen: All outgoing mail is to be sent with appropriate current postage for █████ ████ at the time of sending, and must be marked with the code-phrase [REDACTED]. The mail sent by this method is to be logged, then cross-checked with past parcels to insure temporal integrity.
+
+Upon attempt at mailing should a receipt appear for postage due, the amount shall be placed in an envelope and put in the outgoing mail slot. The slot will accept the following currencies: Rands, Euros, and ██████████████. The use of counterfeit currencies will result in a lethal reaction by SCP-130 and an additional fine will be levied until mail can be sent again.
+
+Addendum 130-3: After the end of apartheid, SCP-130 no longer restricts postal staff to be White Only.
+
+Incident 130-6: On ██/█/19██, a package for one ████ ███ ██████ arrived with the address for a post office box at the site. Dr. █████, the researcher assigned to SCP-130, placed the parcel into the P.O.B. and waited. ████████████ minutes later, an unknown person identified as ████ ███ ██████ walked into the lobby. The subject appeared to be briefly puzzled, and walked over to the box. The locked box opened at his touch, and he expressed surprise at seeing the parcel with his name on it.
+
+MTF Alpha-4, being on-site, was dispatched to investigate once the subject was out of sight of SCP-130, and subsequently interviewed. The subject had no plans to visit ████████ that day, but had felt an unexplained desire to go there while driving nearby to visit family in the area. Upon opening the package, [REDACTED]. A Class-A amnesiac was administered to the subject and was released after memory insertion.

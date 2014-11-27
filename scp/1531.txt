@@ -1,0 +1,299 @@
+Item #: SCP-1531
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1531 is stored in Containment Vault 14 at Site-92. Disclosing the exact nature or effect of SCP-1531 to those lacking compartmentalized clearance 2/1531 (further referred to as CC2/1531) is strictly forbidden. At the moment, accepted testing subjects include any volunteers having CC2/1531, as well as D-class currently involved in testing, who are, for the duration, exempt from monthly termination. Requests involving introducing additional test subjects are to be made according to Protocol-1531-A.
+
+Description: SCP-1531 is a standard issue polygraph of indeterminate make. Its metal casing possesses an etching in French that translates to "Themis is blind; who leads her to the light?", but visually the device is otherwise unremarkable. When a subject (a human being, age 12 or older) has its sensors affixed to their skin and is asked a question they are able to understand, the following happens:
+
+Subject answers the question, usually orally, but when that method is restricted, writing, gesticulating, or blinking in Morse code have been used. Subjects do not recall sensing compulsion or any outside influence to do so.
+
+SCP-1531 prints output consistent visually with standard polygraphs, but indicating the falsity of the answer.
+
+SCP-1531 does not seem to rely on the subject's blood pressure, respiration, or skin conductivity, and instead determines whether the answer is factually true or false, by as of yet unknown means. To date, no way to deceive the object has been found, including sedatives, standard issue amnestics (with and without false memory implants), or memetic scramble.
+
+Note from Head Researcher Steiner:
+
+People don't seem to understand the sheer importance of what we are dealing with. No other interrogation method is even remotely as efficient. Far too often, the Foundation resorts to methods and substances that are more than questionable and less than reliable, and we are all aware that our enemies can do far worse. Imagine the potential security breach if it falls in the hands of someone who has an agent under Omega-level amnesiac and knows how to ask all the right questions. Even the knowledge of the possibility for existence of such an object is to be kept secret from anyone we do not completely trust. For that purpose, I insist on updating security measures.
+
+Request granted. Protocol-1531-A updated. Additional screening for CC2/1531 is to be enacted directly under control of Site Director ██████████ or any personnel of equal or higher clearance. - O5-█
+
++ Addendum 1531-1: Test logs
+
+- Hide
+
+Test 1531-11
+
+Interviewed: D-16891
+
+Interviewer: Researcher Steiner
+
+Foreword: D-16891 told to lie without warning the researcher. Researcher is completely unfamiliar with D-16891's personnel file.
+
+<Begin Log>
+
+Dr. Steiner: 16891, what is your name?
+
+D-16891: █████ ████████.
+
+SCP-1531: TRUE
+
+Dr. Steiner: Your age?
+
+D-16891: Turned 33 recently.
+
+SCP-1531: TRUE
+
+Dr. Steiner: What is your birthplace?
+
+D-16891: ████████, sir.
+
+SCP-1531: FALSE
+
+<End Log>
+
+Note: The ████████ village is legally considered a part of the ██████ city since 2003, both parties were unaware of that. This is marked as the first indication that SCP-1531 does not rely on the knowledge of the test subject alone.
+
+Interviewed: D-51232
+
+Interviewer: Researcher Steiner
+
+Foreword: D-51232 instructed to tell only the truth
+
+<Begin Log>
+
+Dr. Steiner: What is the reason for your initial incarceration, D-51232?
+
+D-51232: 105 part two.
+
+SCP-1531: TRUE
+
+Note: According to Criminal Code of Russia, 105 pt.2 is aggravated murder, which the subject was found guilty of.
+
+Dr. Steiner: Details about the murder, please. Which murder weapon was used?
+
+D-51232: I don't fucking know!
+
+SCP-1531: FALSE
+
+Dr. Steiner: What do you mean by that?
+
+D-51232: I didn't kill nobody, that pig framed me!
+
+Note: This is consistent with the subject's statements in court. Even after being found guilty beyond reasonable doubt, the subject pled not guilty.
+
+SCP-1531: FALSE
+
+Dr. Steiner: 51232, I recall we told you not to lie.
+
+D-51232: [silence]
+
+Dr. Steiner: 51232, continue.
+
+D-51232: [silence]
+
+Note: the subject continued to keep silence until a direct question was asked. First indication that it's impossible to state anything that is not an answer to a question while under the influence of SCP-1531.
+
+Dr. Steiner: Why are you silent?
+
+D-51232: I can't say.
+
+SCP-1531: TRUE
+
+<End Log>
+
+Test 1531-23
+
+Interviewed: D-24513
+
+Interviewer: Researcher Quincy
+
+Foreword: D-24513 possesses poor knowledge of mathematics and below average arithmetic skills
+
+<Begin Log>
+
+Dr. Quincy: How much is two plus two?
+
+D-24513: Four.
+
+SCP-1531: TRUE
+
+Dr. Quincy: Seven plus seven?
+
+D-24513: Eleven.
+
+SCP-1531: FALSE
+
+Dr. Quincy: Sure about that?
+
+D-24513: It was a joke, doc.
+
+SCP-1531: TRUE
+
+Dr. Quincy: Now, what's the remainder of 23512 divided by 7?
+
+D-24513: I don't know what the fuck that means.
+
+SCP-1531: TRUE
+
+Dr. Quincy: Guess a digit?
+
+D-24513: Six?
+
+SCP-1531: TRUE
+
+Dr. Quincy: Correct. Let us try multiplication. Six by seven?
+
+D-24513: Fifty two.
+
+SCP-1531: TRUE
+
+Note: 6 x 7 is indeed 52 in base 8.
+
+<End Log>
+
+Test 1531-117
+
+Interviewed: D-16891
+
+Interviewer: Researcher Earhart
+
+Foreword: 13th test on effects of speech impairments. Full-body restraint, mouth gag, muscle relaxant injected into eyelids to prevent blinking.
+
+<Begin Log>
+
+Dr. Earhart: D-16891, what is the capital of Great Britain?
+
+D-16891 struggles against restraint to no avail for 10 minutes. Sensors removed, no change in effect. Mouth gag removed
+
+D-16891: LONDON! Doc, that's torture.
+
+Sensors reattached.
+
+Dr. Earhart: What do you mean by torture?
+
+D-16891: My brain screams at me to answer somehow, it's loud as shit when it goes past the ears.
+
+SCP-1531: FALSE
+
+Dr. Earhart: I think we already determined you don't feel any compulsion. Who are you trying to deceive?
+
+D-16891: I keep telling you every fucking time that thing forces me to answer.
+
+SCP-1531: FALSE
+
+<End Log>
+
+Test 1531-335 > Interviewed: Agent F██████
+
+Interviewer: Head Researcher Steiner
+
+Foreword: Screening test.
+
+<Begin Log>
+
+Dr. Steiner: Yeah, you know the drill by now, don't you.
+
+F██████: [silence]
+
+Dr. Steiner: Sorry, I forgot to play Jeopardy with this thing. What's your real name?
+
+F██████: James F██████.
+
+SCP-1531: FALSE
+
+Dr. Steiner: Yeah, no.
+
+F██████: James Maurice F██████, you dumb box.
+
+SCP-1531: TRUE.
+
+Dr. Steiner: More like it. Are you a sleeper agent for an organization hostile to the Foundation?
+
+F██████: Nah.
+
+SCP-1531: FALSE
+
+Dr. Steiner: Which one, specifically?
+
+F██████: Dude, I'm not working for anyone but the Foundation.
+
+SCP-1531: FALSE
+
+Dr. Steiner: Serpent's hand?
+
+F██████: Haha, no.
+
+SCP-1531: TRUE.
+
+Dr. Steiner: GOC, then?
+
+F██████: Yeah, of course, I just destroy skips left and right.
+
+SCP-1531: TRUE.
+
+[DATA EXPUNGED]
+
+<End Log>
+
+Test 1531-370
+
+Interviewed: Agent F██████
+
+Interviewer: Head Researcher Earhart
+
+Foreword: Questioning
+
+<Begin Log>
+
+Dr. Earhart: Which of the containment breaches that resulted in loss of one or more object is your responsibility, directly or indirectly?
+
+F██████: None because I am NOT a god damn sleeper agent, that fucking box is lying!
+
+SCP-1531: FALSE.
+
+Dr. Earhart: That's the same thing it says about you. What do you have to say for yourself?
+
+F██████: Nothing fuck it's hard to talk against this quick quick ask me what color the sky is.
+
+SCP-1531: FALSE.
+
+Dr. Earhart: What color is the sky?
+
+F██████: Blue!
+
+SCP-1531: FALSE.
+
+<End Log>
+
+Note: F██████ owns a surrealist painting where the sky is, in fact, depicted as red.
+
+Addendum 1531: Protocol 1531-A
+
+Additional researchers are only to be introduced to CC2/1531 by direct order of the O5. In the event that at least three personnel with CC2/1531 have reached consensus on necessity of introducing more test subjects or use of SCP-1531 for questioning, the following document needs to be first introduced to personnel possessing security clearance of 3 or higher, but not CC2/1531, without making any comments on the nature of the object or type of request or viewing the content of the letter.
+
+1531-Themis
+
+- Hide
+
+Greetings!
+
+This is Head Researcher Steiner, currently in charge of the Themis rehabilitation project and the associated ongoing 1531 research project.
+
+You are to assume that the person that handed you this letter is infected with a memetic hazard, class Styx-2. Under no circumstances make any inquiries regarding 1531, and minimize all contact with the infected person in order to prevent accidental exposure. Wait no less than two hours before informing your contact that their request has been denied. Report to the Site director for further instructions.
+
+The unaltered description of the object is as follows:
+
+SCP-1531 is a standard issue polygraph of indeterminate make. Its metal casing possesses an etching in French that translates to "Themis is blind; who leads her to the light?", but visually the device is otherwise unremarkable. When a subject (a human being, age 12 or older) has its sensors affixed to their skin and is asked a question they are able to understand, the following happens:
+
+Subject is strongly compelled to answer the question, usually orally, but when that method is restricted, writing, gesticulating, or blinking in Morse code have been used. The compulsion is impossible to ignore by any given means, and if the subject is able to understand they have been asked a question, they will answer it no matter the method. The subject will also be unable to communicate in any way if not asked a direct question.
+
+SCP-1531 prints output that states whether the answer is true or false. The output is completely random, but internally consistent. Any exposure to the output will make the person viewing it believe that the answers given to the question are true or false in accordance to the output. This is also true for any recordings or interpretation on the output, or statements made by any other affected individuals. The subject being questioned is immune to the effects of their own output.
+
+Note that "SCP-1531 is a polygraph that is impossible to deceive" and all other properties SCP-1531 is believed to possess are found true by affected individuals, and as such, any statement regarding the object is a vector of infection.
+
+The infectious information about SCP-1531 has spread before its true nature was determined and current security protocols have been put in place. All individuals verified to be infected are to be transferred to research of SCP-1531, and are led to believe they have a special security clearance CC2/1531.
+
+Treating exposure to SCP-1531 is possible, based on the fact that the victim does not perceive objective reality differently, but rather assumes that the person being questioned is dishonest or relies on specific phrasing of the question. Specialized therapy involving focus on observed cognitive dissonance between the result of the output and objective reality and administering of B-class amnestics has been found to reliably diminish the effect, and in 60% of observed cases results in complete immunity to further exposure to the output. Personnel that have been rendered immune are able to analyze the output and other personnel's perceptions of it objectively.
+
+Research on what questions will reliably cause cognitive dissonance in all affected individuals is ongoing.

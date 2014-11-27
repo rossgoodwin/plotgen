@@ -1,0 +1,89 @@
+SCP-1770
+
+Item #: SCP-1770
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1770 is to be held in a standard reinforced humanoid containment chamber in Site-19’s maximum security wing. While the subject has been docile during its containment, due to its violent history two (2) armed guards are to be posted at the entrance to the subject’s chamber at all times, and the inside of the chamber is to be under constant surveillance. Due to SCP-1770's resistance to standard ballistic ammunition and its vulnerability to corrosive materials, the guards are to be armed with corrosive agents. All personnel handling SCP-1770 are to wear full body hazmat suits, not allowing any skin contact with SCP-1770.
+
+Description: SCP-1770 is an animate mass of an indeterminate number of steel chains, shaped like an average sized humanoid. The subject appears to be in possession of human-level intelligence, though it does not seem to be in full control of its mental faculties. SCP-1770 is capable of ambulation and speech, though it will rarely initiate conversation, and if left to its own devices, will not move. The only thing capable of temporarily alleviating SCP-1770's apathy are works of art depicting nature scenes, abstractions or inanimate objects. Pieces depicting humans will cause it to regress further into apathy, and will often result in it curling into the corner of its cell for several days and becoming completely unresponsive.
+
+Prior to its containment, SCP-1770 showed the ability to remove chains from its body and attach them to human beings, a process which does not appear to reduce SCP-1770’s mass or the total number of chains composing SCP-1770's body. The conversion process leads to the death of the victim in one of its early stages, even if the chains are removed, and gives SCP-1770 complete control the bodies of its victims (eventually turning them into instances of SCP-1770-1). The victims stay connected to SCP-1770 by one end of the chain, which can extend up to fifty (50) meters from SCP-1770 . The stages of the transformation are as follows:
+
+• Stage one: SCP-1770 attacks a victim, pulling him/her using chains removed from its body, wrapping them around the victim’s limbs and throat. The victim usually expires due to asphyxiation during this stage. The victim's body's physical strength increases to about three times that of an average human of the victim's sex, age and weight.
+
+• Stage two: SCP-1770 then inserts its chains into the victim’s body, usually penetrating the skin at various points, including the eyes, the nose, and the mouth. If the victim survived the previous stage of the process, they will expire due to the massive trauma inflicted here. The victim’s senses increase in efficiency, despite the destruction of various sensory organs by SCP-1770’s chains. SCP-1770 has been known to use victims in this stage of the transformation as means to restrain new victims or delay Foundation personnel attempting to contain it.
+
+An incomplete instance of SCP-1770-1
+
+• Stage three: SCP-1770 begins replacing the victim’s flesh with chains, taken from its own body. SCP-1770 will begin to shape the amalgamation of flesh and chains into a new shape: this shape is usually humanoid, but on rare occasions the chains will instead form into a complicated series of knots. SCP-1770 shows a powerful protective urge towards the knot formations, and will devote all resources available to defend them from harm, including risking its own body.
+
+• Stage four: SCP-1770 completely replaces all of the victim’s flesh, thereby completing the transformation process and making the victim into an instance of SCP-1770-1. Humanoid instances stay connected to SCP-1770 and continue to serve it, but knot-like instances disconnect and vanish upon completion.
+
+Notably, contact with SCP-1770's chains does not cause any of the above symptoms unless the subject initiates the conversion process by removing chains from its body.
+
+SCP-1770’s current disposition is docile, but prior to its containment it exhibited extreme aggression towards humans and attempted to convert them into instances of SCP-1770-1 whenever possible. This behavior led it to actively seek human population centers, though it chose only such places which allowed it to act covertly. From information gathered in conversations with SCP-1770 and the observations of field agents involved with its capture, it has been deduced that the process of converting humans served as a sort of artistic outlet for SCP-1770, and that it was compelled to perform it, possibly by an external force (see Interview Log). Since its containment, the subject showed no signs of this compulsion and all attempts at conversion on its part ceased, even when granted a helpless subject for the process.
+
+Addendum 1770: The following are interviews made with SCP-1770 during various stages of its containment.
+
++ Show Interview Log 1770-1
+
+- Hide
+
+Interview Log 1770-1
+
+Interviewer: Dr. ████
+
+Interviewed: SCP-1770
+
+Forward: This interview was made immediately following SCP-1770's capture. At this stage, no artistic stimulus was required.
+
+<Begin Log>
+
+SCP-1770: Where is the air? No air, no flow, no reason. Blind, deaf, senseless. Where is the art?
+
+Dr. ████: Excuse me, 1770, but I'm not following you.
+
+SCP-1770: Where is the storm? Shattered and left? Why? One Was always loyal, always obeyed, always followed. One gave it what it wanted, the knots. So perfect, they were, so whole. Greedy, wanted them all. Until it wanted them no longer. Wanted One no longer. One was angry, refused to cease its making. One was a fool. Such a fool. Such anger. One Should have known better. Should have never defied the storm.
+
+SCP-1770: [whispers] it took away the hunger, it took away perfection, it took away the art. It took away everything.
+
+<End Log>
+
++ Show Interview Log 1770-5
+
+- Hide
+
+Interview Log 1770-5
+
+Interviewer: Dr. ████
+
+Interviewed: SCP-1770
+
+Forward: This interview with SCP-1770 was made in one of its more lucid moments, when it was fairly responsive and coherent. Subject was shown a copy of Claude Monet's Waterlilies as a stimulus.
+
+<Begin Log>
+
+Dr. ████: Afternoon, SCP-1770.
+
+SCP-1770: Not One's name. One is the Maker of Chains.
+
+Dr. ████: Noted. Could you explain to me why you did what you did?
+
+SCP-1770: One was the Maker of Chains. One fed, One weaved, One flourished. Guided, trusted, loved. No longer. Forsaken.
+
+Dr. ████: Forsaken by who?
+
+SCP-1770: Whirls, twirls. It kissed the links, whispered kindly words, protected One and its brethren from harm. It showed One the knots. Such beauty, such complexity, such perfection. No more. The sweet zephyr became a blizzard. Took One's brethren away, took away perfection. Left One alone. One was of no more use to it. Never again.
+
+Dr. ████: Is this what changed? What led to your capture?
+
+SCP-1770: One was among its brethren, and making more, weaving its art, making beauty and order of foul, chaotic flesh. The Whirlwind came, flowed between one's links, but carried no warning of the danger that drew ever closer, like it did before. Instead, it told One that it achieved its purpose, That perfection was no longer needed, the chains were no longer needed. It tore its brethren asunder, left the Maker of Chains to fall.
+
+Dr. ████: Would you like to go back to the way you were?
+
+SCP-1770: [Subject turns its head, appears to be talking to the air] Sweetest wind… One… One no longer wishes to come back. No more perfection. The brethren are gone, the chain is broken, inert, alone. No point. No hope. Best to sleep once more.
+
+<End Log>
+
+Closing statement: It appears SCP-1770 believes it has lost its ability to bind with humans, and indeed its motivation to do so. Nevertheless, considering the potential risks it still holds, current security measures are to be maintained. Recommending further investigation of the force SCP-1770 mentioned.

@@ -1,0 +1,17 @@
+SCP-548
+
+Item #: SCP-548
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-548 is to be kept at 24°C in a 50 cm x 50 cm terrarium. The enclosure is to be composed of modified borosilicate glass with high thermal shock resistance, or of other materials not rendered brittle by sudden temperature changes of greater than 50°C. In the event that SCP-548 makes an active attempt to grind through the terrarium walls, the enclosure is to be flooded immediately with 500 mL liquid nitrogen and the subject removed temporarily to a reinforced steel terrarium. Subject is to be fed mice, one every four days.
+
+SCP-548 should not be handled except as needed for testing. Handlers must be at least cursorily familiar with tarantula behavior and wear heavily insulated gloves. Should subject display any aggressive behavior, cease handling promptly. If bitten, personnel should be treated immediately for hypothermia and frostbite. Active intrathoracic warming with heated fluids is indicated for severe bites.
+
+Description: SCP-548 is a female cobalt tarantula (Haplopelma lividum) with a body about 7 cm in length and legs roughly 11 cm. Its venom undergoes a highly endothermic reaction on contact with living tissue; a single bite, injecting less than 0.5 mL venom, causes an average temperature drop of 38°C in the affected area. One bite is sufficient to cause localized frostbite in a human, and may even be lethal should the venom reach the central circulatory system. Victims smaller than SCP-548 are frequently frozen solid.
+
+SCP-548's feeding structures are normal for a spider of its species except for the maxillae, which are extremely hard and serrated. It feeds by delivering a venomous bite, then dragging the prey to a safe place while it cools. While secluded, it proceeds to grind the prey's still-frozen tissue into edible fragments. This feeding style requires unusual mouthpart strength.
+
+Addendum: SCP-548, like most Haplopelma species, usually avoids contact with humans. If cornered, however, it quickly turns aggressive, attempting to bite its perceived attacker before fleeing.
+
+The object may be frozen solid with no apparent ill effects. It has survived repeated freezings, each time resuming normal behavior upon thawing. Further research is required to ascertain the mechanism of this resistance and to determine its suitability for long-term storage.

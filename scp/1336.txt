@@ -1,0 +1,45 @@
+SCP-1336 in a semi-random pattern
+
+SCP-1336 in a non-random pattern
+
+Item #: SCP-1336
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1336 will be stored in a secured vault in Section 19. It is to be maintained in a document frame that will prevent accidental damage to the object. The front of SCP-1336 will be under constant observation by level 3 personnel and video images will be recorded at all times. Relevant screenshots will be sent to the director of operations for Level 3 personnel.
+
+Description: SCP-1336 is a single sheet of 8.5" x 11" 110 lb. cardstock. It has sustained very slight burn damage to one corner. It was recovered from the wreckage of a laboratory owned by the ██████████ Chemical Corporation in ███████, █████. Nothing is known of the origins of the object beyond this. It came to the attention of the Foundation by way of an informant from the company itself. No opportunity to recover the paper came until several months after the Foundation learned of the existence of SCP-1336, when an explosion severely damaged the lab, killing 15 employees, including the informant. Foundation operatives were able to enter the lab and recover the object at that time.
+
+Appearing on the paper are roughly 5,000 dots, each one a circle about 0.3mm in diameter. The dots appear to be printed in various colors. Under non-magnified observation the dots resemble those printed by a standard color laser printer; however, microscopic examination reveals that the paper fibers themselves appear to be colored. There are no pigment particles apparent.
+
+The attention of the Foundation was originally drawn by the fact that the dots slowly move around the page. While each individual dot moves seemingly at random, they will all form recognizable patterns from time to time. Exactly how the dots move is still unknown. Under magnification, it appears that the color oozes along the paper fibers, but no observation so far had revealed how the color flows. The dots have been observed to overlap each other and will temporarily blend colors. The dots have never been observed to stop moving. Their speed is a constant 1mm/sec, though they seem to randomly change directions, and rarely stay moving in any one direction for more than a few seconds.
+
+Almost without exception, the patterns created appear as structural formulas for various organic compounds. To date, the Foundation had recorded 11,467 structural formulas. Of these, 453 did not appear in any current chemical registry. The Foundation has managed to synthesize 41 of the unknown molecules. 10 of these compounds have proven commercially viable, and have been released through various Foundation front companies; the remaining 31 chemicals are still undergoing analysis and testing. Of the 412 compounds that have yet to be synthesized, 53 appear to be physically impossible according to currently-accepted theories of chemical bonding. Another 48 contain symbols that are not known to represent chemical elements or functional groups.
+
+Addendum A: SCP-1336 is known to have produced images unrelated to structural formulas on six separate occasions.
+
+A. An image of [REDACTED], later identified as SCP-[REDACTED].
+
+B. A map of the Continental United States with the location of each capital city indicated, as well as 4 additional locations. Investigation in the areas indicated by the dots revealed [REDACTED].
+
+C. The phrase “Shared pain is lessened…”
+
+D. The date [REDACTED] and the phrase [REDACTED].
+
+E. A portrait of a middle-aged Asian Male, later identified as Field Agent [REDACTED], the agent who recovered SCP-1336 following the lab explosion.
+
+F. An image of a video camera (See Addendum B-5).
+
+Addendum B: Multiple attempts have been made to communicate with SCP-1336. To date, none have been successful. However, one test did seem to show that SCP-1336 was aware of its environment.
+
+B-1: Attempt to verbally communicate. "Can you hear me?" repeated at intervals for 1 hour. No response.
+
+B-2: Attempt to verbally communicate. "Draw a circle." repeated in multiple languages at intervals for 2 hours. No response.
+
+B-3: Attempt to visually communicate. The command "Draw a circle" printed on a paper in multiple languages and placed in a frame facing SCP-1336 for 24 hours. No response.
+
+B-4: Attempt to visually communicate. A copy of Da Vinci's "La Gioconda" (The Mona Lisa) placed in front of SCP-1336 for 24 hours. No response.
+
+B-5: attempt to communicate both visually and verbally: After the production of Agent [REDACTED]'s portrait, a photo of Agent [REDACTED] was presented to SCP-1336 and the question "Who else was on the recovery team?" was repeated for 1 hour. The dots formed an image of the video camera that faces SCP-1336.
+
+B-6: A high-resolution LCD display was placed on the wall facing SCP-1336, which showed a greatly magnified version of the object. The dots on SCP-1336 were seen to speed up by 50%. This effect lasted for approximately 2 hours before the dots slowly returned to normal speed. There was no further obvious response since then, and the display was removed after one month.

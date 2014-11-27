@@ -1,0 +1,23 @@
+Item #: SCP-1822
+
+Object Class: Safe
+
+Special Containment Procedures: Current direct containment of SCP-1822 only extends to SCP-1822-MA and VE. Foundation agents are to liaise with all international aerospace control bodies to ensure that no manned spacecraft approach any SCP-1822 instances any closer than the prescribed safe exclusion radius of 90 km. Due to the limited scope of current manned spaceflight, security breaches relating to any points other than SCP-1822-MA and VE are unlikely. In order to minimize the risk of accidental observation, the location of the transit points is to be registered as a dense cluster of satellite debris in all navigational databases. Two unmanned Foundation X-23 space tugs are currently stationed at MA and VE to assist in the event of transit emergencies or other contingencies. A network of small-scale observational satellites has been established in the safe radius in order to avoid accidents as a result of space debris interfering with transit operations.
+
+Description: SCP-1822 collectively refers to a system of anomalous informational plaques present in orbit around all major planetary bodies in the Solar System, including Eris. Each planet is accompanied by two identical instances of SCP-1822, with the exception of Eris and Mercury. As a whole, SCP-1822 serves as a system by which human beings could safely and rapidly explore and colonize most of the solar system.
+
+SCP-1822 plaques are square, 5m x 5m x 0.01m in dimensions, built out of a metal alloy similar in composition to gold-anodized 6061 T6 aluminum. Several of the plaques have suffered damage from small-scale micrometeorite impact. All instances of SCP-1822 are inscribed with a message (the exact contents of the message vary depending on the planet the plaque is orbiting), in modern English, Portuguese, and Simplified Chinese. Paired SCP-1822 instances always maintain a constant separation of exactly 20km, and no orbital variation. When any spacecraft piloted by a human approaches within 10 meters of SCP-1822, its anomalous properties activate. On activation, the craft will vanish and instantly reappear at another SCP-1822 anomaly elsewhere in the solar system. Personnel who have undergone SCP-1822 transit report no feelings of movement, although mild nausea is common. SCP-1822 instances appear to only be able to transport a spacecraft once every hour.
+
+Each planet's SCP-1822 instances lead to either the next planet closest to the sun or the next furthest. For instance, Earth's two SCP-1822 instances, VE and MA, lead to the SCP-1822 anomalies on Venus and Mars, respectively; SCP-1822-ER and SCP-1822-UR, in orbit around Neptune, lead to the anomalies at Eris and Uranus. Only two SCP-1822 instances do not lead to a point in geostationary orbit around a planet. SCP-1822-SL, in orbit around Mercury, appears to exit into the upper atmosphere of the Sun. SCP-1822-EXT, orbiting Eris, which [REDACTED] extreme distances make communication at non-superluminal velocities impractical.
+
+While the content of the messages varies from planet to planet, the overall organization of each message is roughly the same, and uniformly assumes a casual, conversational tone, often addressing the reader directly as "Humanity" or "my Human friend". All plaques include a simple, verifiably accurate overview of the geological, atmospheric and orbital characteristics of the planets they orbit, as well as simple guidelines for efficient colonization and terraforming.
+
+There are two SCP-1822 instances whose messages fall outside the norm. SCP-1822-SL reads "STELLAR TRANSFER POINT: EXTREME DANGER." Testing with D-class personnel has failed to reveal if there is an instance of SCP-1822 present in or on the photosphere of the Sun. SCP-1822-EXT orbits Eris; its contents are as follows.
+
+Document SCP-1822-EXT EngTransc1:
+
+This document has been cleared for general release. Full transcriptions are available to those of Level 2 security clearance, and members of Project Heimdall.
+
+Hello, Humanity. First off, congratulations on making it this far out. You've reached the end of the intra-solar network. You've probably wondered why we left the transit plaques scattered about your system. We know full-well your culture's always been somewhat suspicious of outside contact, and you have every right to be. This transit point leads to [DATA EXPUNGED], you'll find the arena. Don't worry; there's plenty of time to prepare. It's part of the fun, seeing how well you get your act together. If you're willing to put up a fight, it'll be better for all of us. We'll be giving it everything we've got. Hope you do the same.
+
+If it's any consolation, you're doing better than the last ones. Good luck.

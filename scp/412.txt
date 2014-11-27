@@ -1,0 +1,29 @@
+SCP-412 in standard position inside Storage Unit-11
+
+Item #: SCP-412
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-412 is currently contained within Storage Unit-11 at Site-19; removal of the item requires authorization by no fewer than three (3) personnel with Level-3 clearance, and may be vetoed by Site Security. Gloves should be worn when handling SCP-412 and the item should be transported in an opaque container.
+
+Staff interaction must be carried out with full observance of Hazmat Protocol 7-R. Any and all staff making physical contact with or direct observation of SCP-412 will submit to a full physical examination. Anyone found to exhibit physical alteration will be remanded immediately to quarantine.
+
+Description: SCP-412 is an antique silver hand mirror measuring 18 cm by 7 cm. The mirror has a 4 cm crack in the top left hand corner, and has an etched motif of roses and vines. Around ██% of subjects within direct line of sight of SCP-412 report a compulsion to pick up the item and view their reflection in it. There does not appear to be a discernible pattern to the 'selections' - testing for possible genetic, mental, or other selection markers is ongoing.
+
+Simultaneous observation and contact with SCP-412 causes the item to 'connect' with the subject, regardless of whether they have been coerced into doing so by SCP-412. Tests using restrained subjects have shown that both actions (touching and viewing the reflection) are necessary for a connection to be made. No means of 'severing' this connection have been found, short of complete isolation for a period of no less than two years.
+
+Connected subjects are compelled to repeatedly view their reflection in SCP-412, initially only once or twice a day. Viewing frequency increases over a period of several weeks. By around day 55, the amount of time subjects spend viewing their reflection typically begins to exceed all other activities, including sleep.
+
+Each viewing causes biological alterations to the subject, beginning with minor physiological changes such as enlarged lymph nodes, facial rash, or skin discoloration. Although the exact pattern differs between subjects, by day 90 almost all subjects show downward extension of the ribcage, fixed open jaw by way of large cysts toward the rear of the mouth and severely compromised reproductive and immune systems. Subjects also show a continual loss of memory recall ability and emotional response; fMRI scans have shown a marked decrease in activity in subjects' amygdalae and parietal lobes. Interviews have shown that subjects appear to have an obsession with an 'other', for whom they are being made 'ready'.
+
+Subjects who survive to the advanced stages of alteration (in excess of ███ days) begin to exhibit marked changes in behavior, and more drastic physical alterations. These include the reorganisation of internal organs, leading to the creation of a small empty area inside the chest, increased mucus production and changes in hormone production and [DATA EXPUNGED]. Autopsies on advanced-stage subjects have shown that the 'cavity' could theoretically support a separate life form. This led researchers to speculate that the alterations caused by SCP-412 intend to turn the human body into an 'environment suit' for a life-form unaccustomed to Earth's atmosphere. Authorised personnel should refer to Addendum 412-2 for further details.
+
+Addendum 412-1: Circumstances of retrieval.
+
+SCP-412 came to the attention of the Foundation following five unexplained deaths in ████████████, ██, matching the pattern described above. Three of the deceased owned a hand mirror of a similar age (the design varied considerably); only one mirror had reasonably intact glass. Once it had been established that the mirror was responsible for the mutations, it was taken into Foundation custody. The remains of the other two mirrors showed no unusual properties and were disposed of.
+
+Testing and observation has led researchers to theorize that SCP-412 is not the mirror itself, but is in fact an outside force that 'anchors' to mirrors. This theory is unproven, but any mirrors suspected of exhibiting similar behaviour must be acquired and contained.
+
+Addendum 412-2: Event 412-A
+
+On ██/██/20██, Subject D-56653, 201 days after initial connection to SCP-412, ceased viewing his reflection and sat calmly in the corner of the quarantine room. Three hours later the subject began convulsing and clutching his chest - this continued for three minutes, after which time the subject lay immobile, apparently deceased. Once death had been confirmed, subject's corpse was taken for analysis. Pathologists found a small (8 cm) vaguely humanoid [REDACTED] within the artificial chest cavity. Organism had connected to the subject's blood supply and nervous system, and had begun to extend tendrils upward, puncturing the subject's trachea. Cells in the top ~5 cm of tendrils showed similarity to those in the optic organs of copepods, although with a much more complex structure. The origin of the organism and its cause of death are currently unknown.

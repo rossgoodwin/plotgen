@@ -1,0 +1,281 @@
+An early formation of SCP-1994-2. Image taken from the medical logs of Dr. Yelkov.
+
+Item #: SCP-1994
+
+Object Class: Keter
+
+Special Containment Procedures:
+
+All recovered units of SCP-1994-1 are to be contained in a Maximum Security Containment Locker at Site-93. SCP-1994-1 is currently considered uncontained1.
+
+Any recovered instances of SCP-1994-2 are to be contained in a Maximum Security Containment Locker at Site-93. This locker is to be outfitted with a high volume air-scrubbing system, which must be changed out twice weekly. Individuals entering the locker for any reason must wear hazmat gear in order to prevent possible contamination.
+
+The remains of all recovered instances of SCP-1994-3 are to be maintained in a High Security Humanoid Containment Vault at Site-93. Any discovered instances of SCP-1994-3 are to be moved to Site-93 for containment and observation. Should it be deemed necessary, life support systems are to be prepared to prevent the expiration of any instance of SCP-1994-3. The vault is to be outfitted with a high volume air-scrubbing system, which must be changed out twice weekly. Individuals entering the vault for any reason must wear hazmat gear in order to prevent possible contamination.
+
+Additionally, Foundation monitoring systems situated in and around Moscow are to search for signs of SCP-1994 outbreaks. Mobile Task Force Tau-13 ("Oral Report") has been commissioned and trained to contain these outbreaks, as well as assist in recovering additional information relating to Dr. Rasmin Yelkov.
+
+Description: SCP-1994 is the general designation for a set of phenomena discovered in the dental laboratory of Dr. Rasmin Yelkov.
+
+Note: The following correspondence was discovered in the laboratory of Dr. Yelkov. All text has been translated from the original Russian.
+
++ Access Log
+
+- Close Log
+
+Dr. Yelkov,
+
+Greetings to you, comrade. Hopefully you will have already received my previous letters about the work at hand. If you have not, and if you have not yet spoken with Dmitri, allow me to be clear about my intentions.
+
+My practice caters primarily to only the wealthiest of clients. For the past 15 years, the work I have done has been the prime example of the aesthetic dental standard in Moscow. My clients have been more than satisfied with the quality of work I am able to give them, and are pleased with the metals I use in my crowns, the stability of my bridgework, and the cleanliness of my porcelains. Of this, you must have already been aware.
+
+However, in recent months a group of clients have become dissatisfied with the appearance of the materials. They say to me, "Dr. Grigori, there is no doubt to the quality of your work. We feel only as if you are being held back by the quality of materials at your disposal. The composites and porcelains are beautiful, yes, but they are not perfect. We demand perfection."
+
+As you may understand, I have grown dismayed by this. I pride myself not only on the work itself, but also the high value of the materials I use. Alas, I cannot but agree with my clients. Even if the porcelain is polished until it shines like the sun, it cannot match the natural beauty of God's creation. I decided, then, that I must have what no doctor before me has ever attempted. I must have human teeth.
+
+The problem I immediately ran into is the availability of such. There are many impoverished in the streets of Moscow who would gladly give their teeth for the soles of my shoes or a bowl of gruel, but their teeth will not do. Often they are extensively decayed, misshapen, or broken in some way. They are human teeth, yes, but they are not what my clients desire.
+
+So I turn now to you. Dmitri has told me about your endeavors, about the miracles you have been able to create within your laboratory. There is no sum that is not available to me for this, but time is of the essence. I worry that my clients may soon seek out other professionals who claim to do the same as I. Obviously that is impossible, but to the layman, who is to say?
+
+I await your return letter. I need teeth, Yelkov. I pray you will be able to deliver them to me.
+
+All the best,
+
+Grigori
+
+SCP-1994-1 is a serum developed by Dr. Yelkov in 1958. Chemical analysis of SCP-1994-1 has returned conflicting results, with certain samples exhibiting higher levels of sodium monofluorophosphate, and others with higher levels of hexafluorosilicic acid, along with other non-specific chemical structures. Regardless of its chemical makeup, SCP-1994-1 appears to have been designed to stimulate the growth of maxillary and mandibular tooth structures outside of the oral environment (See File 1994-1).
+
+SCP-1994-2 are calcified structures resembling human teeth that have grown on the body outside of the oral environment as a result of the application of SCP-1994-1. While SCP-1994-2 visually appear identical to human teeth, they lack many of the base structures of teeth. SCP-1994-2 do not contain a dentin layer, nor do they contain pulp tissue. Instead, SCP-1994-2 instances appear to be a solid piece of enamel. Notably, SCP-1994-2 are highly susceptible to decay (See File 1994-4). As they decay, SCP-1994-2 will release a fine white powder2 capable of infecting those who inhale it.
+
+SCP-1994-2 manifesting through keratin tissue. Image taken from the medical logs of Dr. Yelkov.
+
+SCP-1994-3 are individuals who have been injected with SCP-1994-1, or exposed to the powder by-product of SCP-1994-2. The purpose of these injections were detailed in the private logs of Dr. Yelkov (See File 1994-2). Subjects exposed to SCP-1994-1 will go through five distinct stages of infection:
+
+1.) Initial Exposure: Subject is exposed to SCP-1994-1 through injection, or to the particulate by-product matter of SCP-1994-2. The subject will show no outward signs of infection for a period of roughly 2 weeks, during which the subject (SCP-1994-3) will undergo internal cellular physiological changes. Calcium deposits will begin to appear at various locations throughout the body, and cell structures devoted to immune response and bodily maintenance will slowly begin to "reorganize" into systems capable of assembling the necessary components of enamel.
+
+2.) Breakouts: After an average of 2 weeks of development below the skin layer, SCP-1994-2 first appears encapsulated in cysts that rupture the skin as they grow. These "breakouts" begin initially on the limbs, before appearing in other regions, such as the head, neck, back, and groin. SCP-1994-3 will find these instances painful to the touch, and will resist any attempts to remove SCP-1994-2 from their bodies3. The growth and spread of breakouts of SCP-1994-2 directly correlate to decreased metabolic functions in SCP-1994-3.
+
+3.) Maturation and Encapsulation: Approximately 5 weeks from initial exposure, the cysts containing SCP-1994-2 burst open, revealing a mature adult human tooth. Once these teeth are exposed, they will become permanently affixed to the skin tissue of SCP-1994-3, and are removable only through surgery4 Additionally, this phase is identified by a rapid expansion of breakout sites. As more SCP-1994-2 instances mature, breakouts will quickly cover all of the extremities, and begin to appear in the softer tissues of the palate of the mouth, inner ear, anal and vaginal openings, and the ocular tissues.
+
+4.) Decay: After an average of 8 weeks of encapsulation, the whole of the body of SCP-1994-3 will be covered in a layer of SCP-1994-2. However, shortly after finally maturing5, SCP-1994-2 will begin to develop rapid carious lesions across all surfaces. The means by which the decay progresses is currently unknown, as SCP-1994-2 are not subject to exposure of the acid-producing oral bacteria which commonly create such lesions. The full decay of all instances of SCP-1994-26 is swift, often taking no longer than 7 days to exhibit signs of gross decay. During this time, SCP-1994-2 will begin to release a fine white powder that lingers in the air, the effects of which have been detailed above. Conventional air-scrubbing techniques have proven effective in eliminating this powder from the air.
+
+5.) Expiration: Once the processes involved in the creation and maturation of SCP-1994-2 have run their course, and the body of SCP-1994-3 is completely covered in a full rot, the subject will shortly thereafter expire. Because of the high volume of decayed tissue covering the body, the weakened state of the immune system, and the incapacity to ingest any form of nutrition (either through the skin or through the mouth), subjects invariably die after roughly 2 weeks of full decay. The corpse of SCP-1994-3 must be incinerated to remove any lingering particulate matter from SCP-1994-2.
+
+Discovery: The whole of SCP-1994 was discovered during a joint effort by Foundation agents and GRU Division "P" operatives in ████████, USSR, in 1959. At the time of recovery, 9 instances of SCP-1994-3 were discovered, with 7 having previously expired due to the effects of their condition, and 2 actively undergoing decay. Dr. Yelkov was not found, although a large portion of his notes and journals were recovered.
+
+As a result of this raid, 5 Foundation agents and 3 GRU-P operatives were exposed to SCP-1994-2's airborne powder. Once the effects of SCP-1994 became apparent, these personnel were designated SCP-1994-3 and underwent testing at Site-93.
+
+It became apparent during classification of recovered research materials that many instances of SCP-1994-2 and SCP-1994-1 had been moved to other unknown locations.
+
+Research Notes and Documentation: The following files were recovered by Foundation agents during the raid on Dr. Yelkov's laboratory.
+
+File 1994-1: The Private Journal of Dr. Rasmin Yelkov
+
++ Open File
+
+- Close File
+
+The following are excerpts from the journal of Dr. Rasmin Yelkov. They have been edited primarily for brevity, and also to remove classified information.
+
+03/15/56
+
+In all of my years as a doctor of dental surgery, I have never come across a task as monumental as the one placed before me today. A comrade, Dr. Grigori, has asked for a method by which to produce perfect specimens of human teeth. Not those from cadavers, or the shined porcelain that is often utilized in such applications, but actual human enamel. I have been able in my time to fashion a number of masterpieces, but none such as this. This journal will serve as a testimony to either my great triumph, or my miserable failure. Either way, I cannot ignore the task ahead.
+
+05/10/56
+
+I spoke today with a fellow practitioner from Novosibirsk, who consulted with me and mentioned that I might try and find a certain individual without a name who claims to have fraternized with "tooth fayries". My source did not speak to the level of involvement by this unnamed fellow, but a lead is a lead. I will travel east and hope to find this man and consult with him about the matters at hand.
+
+06/02/56
+
+What an astounding day. Today I discovered that there is magic in the world around us, and that fayries are a reality.
+
+I met today with the unnamed man whom my fellow doctor led me to, and we sat and talked at length about oral medicines. As it happens to be, the man claimed to have worked a clinic during the war, and when trying to treat those wounded comrades who came into disfigurement, turned to the black arts. He claimed that he met the fayries while traveling along a road, and managed to capture one. This fayrie, who he said called itself "Isabella", assisted the doctor in learning the fayrie language and became his personal assistant. It was through this Isabella that the doctor learned of the nature of the fayrie, how the fayries draw enamel from the bones of men, and how they utilize this as a source of nutrition.
+
+Understandably, I was incredulous about these claims, and was unaccustomed to a man in my profession making such wild suggestions. I asked him if he had proof of the existence of the fayries, and that is when he took me to his workshop.
+
+Upon entering I beheld no fewer than fifty of the fayries, cohabiting with the unnamed man. He said that he used their assistance in order to better understand the oral environment, and to further his research into the afflictions of such. 'What a wonder', I thought to myself, 'that this man has delivered to me the means of my ascension into the legends of medicine.' Certainly by utilizing these fayries would I be able to meet Dr. Grigori's request.
+
+The man has granted me a room for the night, and tomorrow we will learn further of the secrets of these magical creatures.
+
+06/03/56
+
+I have killed the man. He turned down my offer to purchase some of the fayries for my own research, and resisted my attempt to take them by force. He spoke of the need to preserve the sacredness of mythical creatures. Unfortunately, I have neither the time nor patience for fayrie tales. I drew my weapon and put a bullet through his heart, and collected at least 30 of the specimens. I will include in this journal a study of the fayrie upon my arrival at my own laboratory.
+
+10/19/56
+
+Image recovered from Dr. Yelkov's files. Shows extensive signs of fire damage.
+
+Designation: 104 -"Tooth Fayrie"
+
+Length: 6.35 cm
+
+Weight: 0.08 g
+
+Coloring: Black/White
+
+Appearance: Visually appears to be a common butterfly. Appearance seems to be inconsistent, however, and will only fully stabilize upon neutralization. Much easier to manage in this state. Further inspection reveals humanoid characteristics throughout (arms with hands, legs with feet, a simple face).
+
+Magical Properties: Able to infest the human digestive tract and create human teeth, including all basic structures. Usually fatal to the host, however [Note: this must be addressed before testing]. Unusually durable for such a small creature. High pain tolerance. Expires unceremoniously. Autopsy inconclusive. Means by which it fashions teeth currently unknown. Presence of sodium fluoride may hold key to this mechanism.
+
+Conclusion: Specimen contains several previously unknown chemicals which react unexpectedly with the oral environment. These have been isolated for further study. Unlike previous 16 specimens, did not immediately expire upon initial incision.
+
+11/20/56
+
+I believe I have done it. By understanding the way by which 104's anomalous physiology interacts with both sodium monofluorophosphate and hexafluorosilicic acid, I have been able to reproduce the effects of the fayrie on a common fungus. This is extraordinary in its own right, but will not do for a final product. The fungus is not capable of producing the calcium needed to form real, human teeth, but is necessary for the overall growth that I require. I believe I will have a serum prepared for human trials before the year's end.
+
+File 1994-2: Human Trial 001
+
++ Open File
+
+- Close File
+
+Designation: 001
+
+Age: 8 years
+
+Height: 131 cm
+
+Weight: 30 kg
+
+Gender: Female
+
+Pre-Trial Notes: Recovered from a destitute camp in Moscow. In moderate health. Signs of common cold should not detract from test results. Patient deemed too fragile for anesthesia.
+
+TRIAL LOG: Began 01/13/57
+
+Serum #: 001
+
+Day 1: Patient secured to testing apparatus and administered 20ml of #001. No noticeable changes.
+
+Day 2: No noticeable changes.
+
+Day 4: No noticeable changes.
+
+Day 7: Patient complains of abdominal pain. No noticeable changes.
+
+Day 11: Patient short of breath and complaining of abdominal pain. Loses consciousness sporadically. X-ray imaging shows large mass beneath left lung.
+
+Day 13: Patient expires.
+
+Autopsy Notes: Extracted a large, calcified mass from lower left abdominal region. Caused massive internal hemorrhaging resulting in death.
+
+Trial Conclusion Notes: Significant data has been acquired from this trial. It is apparent now that the human cellular structures can be manipulated into the production of enamel-like structures; the task now is to shape those structures.
+
+File 1994-3: Human Trial 004
+
++ Open File
+
+- Close File
+
+Image recovered within File 1994-3.
+
+Designation: 004
+
+Age: 28 years
+
+Height: 183 cm
+
+Weight: 108 kg
+
+Gender: Male
+
+Pre-Trial Notes: Recovered from army medical ward. Lost most of right arm during the war. In good health. Had to be heavily sedated during transit.
+
+TRIAL LOG: Began 05/27/57
+
+Serum #: 012
+
+Day 1: Patient secured to testing apparatus. Administered 20ml of #012. Became hostile upon regaining consciousness. No noticeable changes.
+
+Day 3: Patient attempted to escape testing apparatus. Was sedated. Will consider lobotomy upon further attempts.
+
+Day 8: Cysts begin to form under skin. Patient complains about pain and itch. Skin samples taken. X-ray imaging shows calcified growths throughout appendages, as predicted.
+
+Day 15: Cysts rupture skin. Bleeding is contained. Patient no longer willing to respond to questioning. Interview transcript is included.
+
+Interview Transcript: Patient 004
+
+Y: Can you describe the sensation?
+
+P: Fuck you.
+
+Y: Can you point to areas of discomfort?
+
+P: Fuck you.
+
+Y: Do you understand that you are only making this more difficult for yourself?
+
+P: …
+
+Y: Excellent. Now, the cyst currently growing within your eyelid, can you tell me when you first began to experience pain there?
+
+End Transcript
+
+Day 25: Cysts have begun to open, earlier than expected. Becoming difficult to control points of outside infection. Patient immune system severely weakened, testing apparatus moved to a clean room. Patient no longer responds to questioning or examination.
+
+Day 29: Patient expires.
+
+Autopsy Notes: Patient expired due to gross collapse of respiratory system. Certain internal structures show significant signs of decay, likely due to an unrelated condition. Was able to extract several undeveloped tooth samples. As they were not to term, they are not suitable for use in this project. Fortunately, progress has advanced rapidly from earlier trials. More fine tuning of serum is required.
+
+File 1994-4: Human Trial 019
+
++ Open File
+
+- Close File
+
+Designation: 019
+
+Age: 16 years
+
+Height: 164 cm
+
+Weight: 63 kg
+
+Gender: Female
+
+Pre-Trial Notes: Daughter of American businessman Kyle Schrader. Required patient with no family history of disease or genetic anomaly. Purchased for a sum of $2.6M USD. Paid for by Dr. Grigori. Patient is in excellent health, shows no signs of illness. Perfect candidate for this trial.
+
+TRIAL LOG: Began 09/15/58
+
+Serum #: 113
+
+Day 1: Patient secured to testing apparatus. Patient remains unresponsive most of the day as sedative wears off.
+
+Day 9: Patient complains of sensation below skin level. X-ray imaging shows expected calcium deposits forming along both arms, both legs, and along spine.
+
+Day 14: Cysts begin to burst through skin. Patient is unwilling to respond to questioning or examination. Due to concerns about the negative effects of the sedative on the serum, sedation is not administered.
+
+Day 23: Long lines of orderly cysts have appeared across the body, extending now up the neck and across the head of the patient. Have observed cysts forming around the softer anal tissues as well.
+
+Day 24: Patient goes into cardiac arrest, but is resuscitated. Due to patient's fragile mental state, lobotomy is performed to reduce chance of additional incidents.
+
+Day 30: Roughly 87% of skin tissue is covered in cysts. None have yet broken, and X-ray imagining has shows that all tooth structures are developing as planned.
+
+Day 36: The day of my great success! The first of the cysts have ruptured, revealing perfect specimens of human enamel. Removal from patient requires surgical extraction, but postop infection control measures have reduced chances of immune compromise. Will begin to administer serum to additional patients as required by Dr. Grigori and his associates.
+
+Post-Trial Results: Patient is stable and in good condition following 6 weeks of #113 trials. Extracted tooth specimens have been sent to Dr. Grigori and 7 other dental practitioners for examination. The full results of this trial will be published upon approval by the financial donors.
+
+File 1994-5: Undated Note
+
++ Open File
+
+- Close File
+
+Image recovered within File 1994-5.
+
+It appears as if my inclusion of the fungal elements of early samples has reacted poorly with the anomalous substructures of the fayries physiology that I have included in the most recent serum. While the growth of the teeth across the body has progressed exactly as I had intended, the growths now quickly develop extensive caries across all surfaces and turn to rot. Additionally, it seems as though the rot is inclined to spread, as I have observed a fine white mist emanating from the open decay. While I have been thusfar able to secure myself from this newest property, I have not been able to do the same for 020, 021, 023, and 025. All are now showing signs of cyst growth, despite having not been exposed to serum #113.
+
+Obviously this is only a minor setback. I will continue my research, albeit at another facility, for this one is compromised. As an aside, I have not yet heard word back from Dr. Grigori, so I must only assume he is satisfied with the specimens he received. I will count this as the primary success of this project thus far.
+
+Footnotes
+
+1. While Site-93 maintains 15 vials of SCP-1994-1, many more are believed to be uncontained, possibly in the possession of Glavnoye Razvedyvatel'noye Upravleniye, Gruppa Psikhotroniki (GRU-P)
+
+2. This powder maintains the same anomalous chemical makeup as SCP-1994-1.
+
+3. Whether this is a compulsion implemented by SCP-1994-1 to aid in the development of SCP-1994-2, or simply a reaction to the pain caused by any stimulation of SCP-1994-2, is unknown.
+
+4. Note: This cannot permanently remove SCP-1994-2, as all instances removed from the body will soon be replaced by additional growths of SCP-1994-2.
+
+5. Between 3-5 days.
+
+6. Now easily numbering in the thousands.

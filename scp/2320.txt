@@ -1,0 +1,87 @@
+Item #: SCP-2320
+
+Threat Level: Green
+
+Containment Class: Safe
+
+Special Containment Procedures: SCP-2320 is currently contained within Garage 01 at Site-45. Access to SCP-2320 is limited to interviews with SCP-2320-B and exploratory missions to SCP-2320-1. No further physical security is necessary.
+
+Exploration of SCP-2320-1 does not require any deviation from Standard Exploration Protocols.
+
+Description: SCP-2320 is a refurbished PCC streetcar, originally manufactured by the St. Louis Car Company in 1938. SCP-2320 is capable of operating without access to electrical power and is capable of off-rail travel, but otherwise does not bear any outward mechanical or structural anomalies. The vehicle is painted with a red and white color scheme, typical of the Pittsburgh Railways streetcar fleet.
+
+SCP-2320-A is a humanoid entity inhabiting SCP-2320, measuring 1.5 meters in height and wearing a black zentai1. SCP-2320-A wears a puppet on its right hand at all times, designated SCP-2320-B. This puppet is dressed in the uniform of a Pittsburgh Railways conductor of the period when SCP-2320 was constructed, bearing a nametag that reads “Mr. Conductor”. SCP-2320-B is capable of verbal communication, speaking in Pittsburgh / North Midland dialect. SCP-2320-B is friendly and courteous towards all individuals entering SCP-2320, though it will avoid direct answers to questions regarding its nature and origins.
+
+It was initially assumed that SCP-2320-A was the source of SCP-2320-B’s voice through ventriloquism: This was later found to be incorrect, with the voice originating solely from SCP-2320-B.
+
+If any outside individuals are within SCP-2320 at the times of 0930, 1130, and 1530, it will undergo a SVATS2 (Stable/Variable/Aided/Temporal/Safe/Two-Way) universal transition, emerging in SCP-2320-1 fifteen minutes after departure. Departure times from SCP-2320-1 are scheduled at 1100, 1500, and 1800. The transition between Baseline and SCP-2320-1 appears as movement through a tunnel, with details of the walls consistent during each transition.
+
+SCP-2320-1 is an extrauniversal space containing a BWh desert measuring in excess of 1000 square kilometers in area. The average temperature within SCP-2320-1 is 12.7 ° C. No precipitation has been observed, despite the presence of cloud formations. The desert within SCP-2320-1 consists entirely of white plastic grains, with a grain size of 0.25-0.5 mm. Grains will stick to each other when pressure is applied, and will retain their form when shaped, and have been observed to maintain this form with greater accuracy and resistance to collapse when the shaper focuses on a distinct mental image of what is being formed. For example, the formation of a pyramid shape by research staff was aided by specifically focusing on the image of the Giza pyramids. This method also produced coloration within the affected grains. Only simple structures have been constructed by researchers, even with focus images provided. Methods of building more advanced structures and more detailed patterns are currently being developed and prepared for testing.
+
+Addendum-01: The following structures and entities have been cataloged within SCP-2320-1.
+
+Multistory structure consisting of a series of ladders, platforms, and tube slides. Excavation is ongoing, and has revealed attached jungle gym, swing set, apartment complex, helipad, and bungee-jumping station.
+
+Unfinished spacecraft. Design is cylindrical, with anterior steering fins and pointed nose.
+
+Motile, fruit-bearing tree, similar in outward appearance to Adansonia digitata (Baobab tree). Will position itself to provide shade for nearby individuals. Fruit found to contain Neapolitan ice cream within a cake skin.
+
+Four-winged airborne organism measuring approximately 210 meters in length, with a wingspan of 55 meters. Maximum recorded speed and altitude of 30 kph and 140 meters.
+
+Steam locomotive with four passenger cars, traveling at speeds in excess of 550 kph. The train's whistle has been replaced with the sound of a roaring bear, or the phrase "Everyone out of the way! It's the Bear Train!"
+
+Village consisting of 14 structures, inhabited by 32 bipedal, two-dimensional entities. Entities are bright in coloration and communicate solely in combinations of the sounds "beep", "bop", and "boop".
+
+A black, spider-like entity measuring approximately two meters in height. Each leg ends in an ornate, wide-bladed sword of unique design and coloration. Creature's abdomen is on fire, with no apparent detriment.
+
+A group of 9 entities, consisting of four policemen2, two firemen3, an entomologist4, a nurse5, and a sushi chef, pursuing an individual referred to as "Doomspider".
+
+No trace of the originators of these artifacts and entities has been found.
+
+Addendum-02: The following interview was recorded on ██/██/2003.
+
+[Extraneous dialog omitted]
+
+Researcher █████: Do you mind if I ask you a few questions?
+
+SCP-2320-B: Oh no, not at all, always happy to help.
+
+Researcher █████: All right. If you could just describe who you are and what you do.
+
+SCP-2320-B: Well, I’m Mr. Conductor, and I drive this here trolley on the route between Here and There. That’s about it.
+
+Researcher █████: And can you tell me who your employer is?
+
+SCP-2320-B: Oh, I’m just helping out some friends who needed a trolley driver. It’s not really employment, I’m just helping out. Not many people around who can drive one of these anymore.
+
+Researcher █████: Mmm. And what about your destination?
+
+SCP-2320-B: I know it isn’t much to look at now, but it’ll be something really special once things pick up, believe me.
+
+Researcher █████: Can you tell me what will happen then?
+
+SCP-2320-B: Well, think of what happens when you give a kid crayons, and then give a whole bunch of kids a whole lot of crayons and the biggest sheet of blank paper in the world.
+
+[Extraneous dialog omitted]
+
+Addendum-03: The following message was found on a sticky note attached to the front door of SCP-2320. The note was handwritten in fine-tip blue marker.
+
+For Fred & friends -
+
+I’m sorry it’s late, but here you go.
+
+Have a wonderful day, neighbors.
+
+- Isabel & Jeremy
+
+Footnotes
+
+1. A bodysuit covering the entire body, including head, hands, and feet, named for stagehand clothing in Japanese theater.
+
+2. Including one robot, one ninja, and one alien.
+
+3. Including the President of the Firefighting Club and a dalmatian equivalent in size to an adult draft horse.
+
+4. Claiming to specialize in spider-catching.
+
+5. Claiming to specialize in treatment of sword injuries.

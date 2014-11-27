@@ -1,0 +1,53 @@
+Item #: SCP-1231
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1231 is contained in an unlit vault, dimensions 0.6 m x 0.8 m x 0.2 m, located in Site-20. Guards are posted outside of the vault, denying access to all personnel without direct and confirmed Level 5 authorization. A video camera is installed in the vault, taking a live feed of SCP-12311. This video is in turn fed through a specially designed program, displaying only the number of thumbnails and if there is a significant error. Access to the raw feed is strictly prohibited. A mouse is located near the terminal, but remains disconnected under normal circumstances. New personnel assigned to SCP-1231 must be hand-picked specifically for testing purposes. However, testing is currently suspended.
+
+Description: SCP-1231 is a black Amiga A1200 computer manufactured by Commodore International, missing all other identifying marks including its serial number. It runs independently despite the lack of a power source. SCP-1231 does not function as an Amiga A1200 should and generally only displays a screen full of thumbnails, named the "Primary Screen." SCP-1231 cannot be shifted from its current settings, and as yet no other programs have been discovered on the computer. External attachments, such as mice and keyboards work normally.
+
+The Primary Screen contains 2432 thumbnails, organized in rows of twenty (20) ascending numerically2. A scrollbar is located on the right side of the screen3. The thumbnails display extremely low-resolution moving pictures. There is no audio Most videos do not contain audio; however, despite the lack of speakers on SCP-1231, sometimes low-decibel sounds can be heard.
+
+Clicking on a thumbnail causes the video displayed to increase in resolution and fill nearly the entire screen, except for a thin white bar on the top bearing the number of the thumbnail. Clicking a second time returns the screen to the Primary Screen. The videos are Beta-Gimmel infohazards. What is consistent in every video is the featuring of one of three unidentified subjects, known as SCP-1231-1, -2, and -3. SCP-1231-1 appears to be a tall middle-aged Caucasian man4. SCP-1231-2 is a younger, shorter Asian woman5. SCP-1231-3 is a light-colored child, approximately four years of age6. The videos are not in a time loop, although the same action is done repeatedly in the videos with only minor deviation.
+
+The misconception of one of the videos in SCP-1231 by any human causes a new thumbnail and video to be created, with the erring conception displayed7. No more than one new thumbnail can be created per minute. However, there are 2432 videos currently due to the bleeding of knowledge pertaining to an infohazard. Direct observation of SCP-1231 is not necessary for this effect to take place and simple knowledge of the videos can lead to speculations that create new thumbnails and videos.
+
+Excerpts from Document 1231-A: Thumbnail Descriptions
+
+Thumbnail 1: The only video present at recovery. SCP-1231-1, -2, and -3 appear [DATA EXPUNGED]
+
+Thumbnail 2: The setting is the same room as Thumbnail 1. Discovered on the second test of SCP-1231. Believed to have been created after exposure to Thumbnail 1. SCP-1231-2 is scooping an unknown powder with her left hand while SCP-1231-3 is asleep in her right arm. SCP-1231-1 is not on the screen.
+
+Thumbnail 3: The setting is the same room as Thumbnail 1. Discovered on the second test of SCP-1231. Believed to have been created after exposure to Thumbnail 1. SCP-1231-2 is asleep, while SCP-1231-3 is crawling over her. SCP-1231-1's leg is present in the upper right of the screen, although the rest of his body seems to be just outside of view.
+
+Thumbnail 4: The setting is the same room as Thumbnail 1. Discovered on the second test of SCP-1231. Believed to have been created after exposure to Thumbnail 1. SCP-1231-3 is mauling the pectoralis minor of SCP-1231-2. SCP-1231-1's mutilated right leg and pelvic region is located in the upper right portion of the screen.
+
+Thumbnail 39: The setting is the same room as Thumbnail 18. Discovered on the second test of SCP-1231. Believed to have been created after exposure to Thumbnail 24. SCP-1231-1 is dislocating and relocating SCP-1231-2's shoulder with his right hand, though both are standing erect. SCP-1231-3 is asleep in the upper left of the screen.
+
+Thumbnail 902: The setting is the same room as Thumbnail 600. Discovered on the second test of SCP-1231. Believed to have been created after exposure to Thumbnail 419. SCP-1231-1 is lying on top of SCP-1231-2, smashing SCP-1231-3 on the floor. SCP-1231-2 is completely motionless.
+
+Thumbnail 1170: The setting is the same room as Thumbnail 1053. Discovered on the second test of SCP-1231. Believed to have been created after exposure to Thumbnail 1004. SCP-1231-1 and SCP-1231-2 are kneeling facing the camera, drenched in blood, crying and mouthing non-discernible words. What appears to be the mutilated corpse of SCP-1231-3 is lying in front of SCP-1231-2. A low-pitched laughter is audible throughout.
+
+Addendum-01: Due to the high level of similarity between SCP-1231 and other encountered "soultraps," it has been deemed likely that the entities SCP-1231-1, -2, and -3 are real in some capacity. In light of this, I am formally requesting that testing on this object be halted. -Researcher ████, Ethics Committee
+
+Addendum-02: Testing on SCP-1231 has been suspended indefinitely. The majority of personnel assigned to SCP-1231 will be administered a Class B amnesiac and transferred to a new project. -O5-██
+
+What is the suffering of a few in the face of Science? Pain is all relative, as is eternity. We've done far worse. I'm sure we have.
+
+Addendum-03: Processed video feeds of SCP-1231 have shown that the number of thumbnails is increasing despite the suppression of knowledge relating to SCP-1231. Something's wrong. -Dr. ██████
+
+Footnotes
+
+1. Note that no external light source is necessary due to SCP-1231 providing ~20 lux.
+
+2. Dr. ██████ theorizes that this also corresponds to their age, as newer thumbnails are given later numbers.
+
+3. More detailed analysis of the layout of the Primary Screen of SCP-1231 is located in Document 1231-B.
+
+4. No more consistent detail is discernible.
+
+5. Note that in later videos, the descriptions of SCP-1231-1, -2, and -3 vary significantly.
+
+6. SCP-1231-3 is theorized to be the child of SCP-1231-1 and -2 due to the similar characteristics it displays.
+
+7. For example, if a subject were to believe that a video was of something that it is not, a new video would be created displaying the aforementioned scenario.

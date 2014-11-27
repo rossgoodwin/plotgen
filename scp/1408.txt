@@ -1,0 +1,25 @@
+Item #: SCP-1408
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1408 is stored in a climate-controlled, dedicated containment chamber under clean-room conditions at Site ██ to prevent further deterioration of its organic components. Personnel may only directly access SCP-1408 with prior permission from at least two (2) Level 3 Senior Researchers.
+
+Description: SCP-1408 is a complex electromechanical device consisting of a 1 m x 1 m x 2 m main unit constructed from wood, clockwork and pulleys connected to a metallic head cap with multiple cables. A symbol consisting of the letter 'W' with an inscribed 'A' (later determined to be the monogram of one Professor A██████ W█████, 1823-?, of [REDACTED], England) is engraved onto both the head cap and main unit. SCP-1408 was contained on █/██/1851 by the Royal Society for the Security, Containment, and Protection of Anomalous Artifacts, at which time it was designated Anomalous Artifact #1851-Delta-Four. The device came to the attention of the RSSCPAA just prior to the Great Exhibition of 1851, during which the device was to be demonstrated to Queen Victoria. Agents of the RSSCPAA were able to raid and secure the laboratory of Professor A. W█████ and secure SCP-1408 before it was shown to the public. According to reports by the aforementioned agents, Professor A. W█████ was unfortunately able to elude capture.
+
+When the head cap was placed on the head of a human subject and the device was activated, SCP-1408 transcribed the encoded memories of the subject onto a wax roll in the main unit by a process that was not fully understood. SCP-1408 was also capable of operating in "write mode", by which a specially prepared wax roll could be used to embed memories into the subject. According to the experiment logs of the RSSCPAA, this process was unreliable as the encoding method was imprecise and unintuitive. Mistakes in the format resulted in rejection of memories, confusion and in several cases severe psychosis. SCP-1408 was intended as an interrogation tool, both in extracting information from foreign agents and implanting suggestions and rewriting allegiances.
+
+SCP-1408 is currently inoperable, partly due to severe deterioration of its wood and leather components. In addition, according to an RSSCPAA incident log dated shortly before transfer of SCP-1408 into SCP Foundation possession, a breach of containment occurred in which several key components of SCP-1408 were taken by an unknown individual before agents were able to respond.
+
+Addendum 1408-01: Document Discovered Following RSSCPAA Breach Incident 1851-Delta-Four-Alpha, dated █/██/19██
+
+To whom it may concern:
+
+My sincere apologies for the disturbance, but I need to salvage a few things.
+
+Cheers,
+
+Addendum 1408-02: Researcher Note
+
+To date, all efforts to track down the missing components of SCP-1408 have failed. The incident occurred before the invention of video or audio surveillance, and all we have is a hundred-year-old handwritten note supposedly written by someone who should have been dead of old age. Unless we can turn back the clock or somehow manage a miracle, I am proposing that we archive SCP-1408 until further notice.
+
+- Dr. █████████

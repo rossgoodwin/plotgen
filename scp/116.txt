@@ -1,0 +1,67 @@
+Item #: SCP-116
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-116 is kept in a 16 by 16 meter cell, constructed of Kevlar, with 1 meter porous rubber padding on all surfaces. No personnel are to enter cell without proper briefing and threat-reduction measures (see Appendix III). Cell is to be monitored at all times by 6 agents, 4 stationed at corner points of cell and 2 stationed with SCP-116. No pointed objects or intrusive testing equipment of any kind are to be placed in the possession of the agents within the cell. Outside monitoring is achieved using VBS05 class concealed button cameras stationed at high corners in the cell. Outside monitoring is to be carried out by a further 2 agents. If suspicious activity begins, initialize Achilles procedure ∆. All monitoring agents, internal or external, are to undergo bi-monthly IQ tests as well as standard weekly psychiatric analysis. Significant drops in the IQ of agents (≥ 5 pts.) is to be regarded as prolonged exposure and to be treated as outlined in standard Quarantine instructions.
+
+Description: SCP-116 has the outward appearance of a Caucasian male of around 9 years of age. Skin is cauterized and scarred over 98% of body, limbs, and head. SCP-116’s bone structure is drastically different from standard Homo sapiens bone layout, and all bones are dangerously brittle. The most distinguishing difference between the human body and that of SCP-116 is the non-existence of joints in the latter. SCP-116 is entirely capable of independent movement, but to do so would cause multiple shattering breaks to all bones affected by said movement. To combat this, SCP-116 shows remarkable self-healing, and over a period of minutes can completely regenerate its rigid bone placement. SCP-116 has shown some language skill since acquisition; however, the only language it speaks is a disrupted and broken version of English in which every word has been replaced with an almost entirely unconnected one. Prolonged attempts to make sense of SCP-116’s speech have resulted in some long-term mental degradation in researchers. There seems to be no pattern to the word replacement, and attempts continue to translate it. Research suggests that SCP-116 may be capable of low level telepathy, which deteriorates the victim’s brain functions over a long period of time.
+
+Appendix I:
+
+Sgt. █████ ████ [19-0529]
+
+Memorandum: May 29th, ████
+
+Subj: Development of suicidal tendencies by SCP-116
+
+NB: SCP-116 has begun to show extreme suicidal tendencies. Request modification of monitoring and containment protocol to avoid undue damage to subject.
+
+Appendix II:
+
+Dr. ███████ ███████ [19-1429]
+
+SCP-116 language notes: June 19, ████
+
+116’s unique linguistic set up is one of increasing interest to me. Continuing research by my team and me has yielded these somewhat basic results:
+
+attached file – 116linguistics_aA0.001.doc
+
+No clear reasoning has been found as to why 116 communicates in this way. Although the words spoken by it are English, the parameters under which they operate are drastically different. No attempt has yet been made to produce written language from SCP-116, due to bone structure anomalies. Even speaking can be an extreme challenge for 116, despite its experience-dulled pain receptors. I have taken a special interest in this subject, as the way in which it reacts to normal English is remarkable. It is obvious that what we say to it sounds just as garbled to it as what it says back to us does to us (if that makes any sense at all). In all my years at Site-19, I have never seen anything quite like it linguistically. I will continue to study and record what I find.
+
+Appendix III:
+
+Lt. ██████ ██████ [19-0349]
+
+Memorandum: June 30, ████
+
+Subj: Procedure of, and relating to, worrying new suicidal tendencies shown by SCP-116.
+
+i) No solid equipment weighing more than 8 lb may be taken into cell.
+
+ii) All interior guards are to have canine teeth filed until blunted completely.
+
+iii) Security level is to be raised to rT5; full body cavity search and x-ray before entrance to cell is granted.
+
+iv) If any asphyxiation or hypoxia appears to be affecting SCP-116, emergency CPR is to be administered by internal guards.
+
+Suggestion noted that SCP-116 should be connected to a life support machine even when not in danger of death, to prevent unintentional termination.
+
+Appendix IV:
+
+Sgt. █████ ████ [19-0529]
+
+Memorandum: July 11th, ████
+
+Subj: 'Cessation of research re: SCP-116'
+
+Any and all research regarding SCP-116 is to be immediately halted until further notice. Dr. ██████, the primary researcher into SCP-116’s language and delayed telepathy, is to be removed from this site and kept in solitary confinement until all symptoms of his dementia and schizophrenia have dissipated. All personnel involved with SCP-116 are to be quarantined until further notice. Full bone marrow transplants are to be performed on all agents who have been in tactile contact with SCP-116. Suggested termination of interior guard protocol noted.
+
+Appendix V:
+
+Col. █████ ████ [20-0212]
+
+Subj: 'Cessation of SCP-116 project'
+
+Memorandum: March 20, ████
+
+Given the suicidal tendencies of SCP-116, its deleterious effects on involved personnel and lack of significant useful progress in research, I propose we allow SCP-116 to self-terminate in a controlled environment. This thing has, so far, proven to be a fruitless waste of resources. Perhaps postmortem examination will provide us with answers we haven't been able to obtain so far.

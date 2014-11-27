@@ -1,0 +1,49 @@
+SCP-568
+
+Item #: SCP-568
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-568 requires no unique considerations and is stored in storage locker 28-002 in Sector 28. Testing with SCP-568 must be authorized by Level 3 personnel.
+
+Description: SCP-568 has the appearance of a flexible white strap, 70x8x0.2 cm. An unbroken seam on one side runs down its length, precisely along the center. The other side of SCP-568 is smooth and identical in texture to the seamed side. The material SCP-568 is made of is unknown, with some similarities to leather.
+
+When the smooth side comes into contact with the seamed side, the two surfaces will adhere firmly to each other, as if glued. The surfaces can be peeled apart with moderate effort and no damage to SCP-568.
+
+When SCP-568 is wrapped around an object with both ends overlapping at a minimum of 1 cm, the object may be split along the seam. To bisect the object, one half must be twisted counterclockwise one half-turn, as if loosening a screw. The surface of the cut does not display a cross-section of the object, only an impermeable white surface. To reassemble the object, the cut ends must be in contact and twisted clockwise one half-turn. SCP-568 cannot be removed when split in this fashion.
+
+Experiment Log #568-1: Tests conducted by Dr. Weiss and J. Candle, dated ██/██/20██.
+
+Item: 1 steel rod
+
+Result: Item bisected and reassembled, with no observable damage.
+
+Item: 1 steel rod
+
+Result: Item bisected and reassembled, one half at 180°. The bisected area joined seamlessly. Interestingly, SCP-568 could be removed even when both halves ended up misaligned in this experiment.
+
+Item: 2 steel rods
+
+Result: SCP-568 wrapped around both items, care taken not to leave air pockets in the edges. Bisection failed. SCP-568 removed.
+
+Item: 2 steel rectangular prisms
+
+Result: SCP-568 wrapped around both items. Bisection failed. SCP-568 removed.
+
+Item: 1 glass container, filled with water
+
+Result: Item bisected and the lid removed. The white surface on the bisected region was not visible when one looked through the cylinder; instead, one saw whatever the other half of the cylinder was pointing towards. Tilting either half showed water draining out of the container. Similarly, refilling the container showed a stream of water entering the bottom half. Item reassembled.
+
+Application of SCP-568 as a "portal window" under consideration.
+
+Item: 1 hollow plastic cylinder
+
+Result: Item bisected. When placed through the cylinder, objects (including water, a steel rod, a HB pencil, Dr. Weiss' arm, and a glass marble) were observed to smoothly pass through. Item reassembled.
+
+Item: Subject D-1617
+
+Result: SCP-568 wrapped around D-1617's lower left arm and bisected. Subject reported no pain and was fully capable of manipulating his hand, even from a distance of 20m. Subject's arm reassembled.
+
+Item: Subject D-1618
+
+Result: SCP-568 wrapped around D-1618's lower left arm and bisected. Subject's arm reassembled at 180°. When SCP-568 was removed, the subject lost all sensation in his hand,and complained of a sharp stinging in the bisected area. While the subject's arm had reattached seamlessly, deep bruising quickly developed under the skin. Pain rapidly increased until the subject had to be sedated. Close examination of the subject's arm showed the blood vessels and nerve endings no longer met, and it was effectively cut off from the rest of the body. D-1618 terminated.

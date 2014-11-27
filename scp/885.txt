@@ -1,0 +1,21 @@
+Sonar image of SCP-885 section
+
+Item #: SCP-885
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-885 is contained within a welded steel container in Storage Area ██-██. The storage area must be kept at negative pressure at all times to reduce possibility of escape. Air movement within the storage area is to be monitored at all times.
+
+Description: SCP-885 is a living creature of unknown composition that displaces all fluids (liquids and gasses) within its perimeter. Analysis of the interior of the creature has shown no phenomena consistent with known matter: it is, for all intents and purposes, a complete vacuum.
+
+Extensive sonar imaging has shown SCP-885's perimeter to be a cloud of about two hundred ovoid elements, which intersect and divide arbitrarily. Whether it is a single creature or a swarm is unknown; experiments to isolate one of the ovoids from the main mass are underway.
+
+SCP-885's perimeter contains the pressure differential, and it can manipulate this difference in pressure to move itself. It can move through all known fluids and permeate through porous solids such as concrete, but metal or tempered glass can contain it. Items fully immersed within SCP-885 behave as they would within a vacuum.
+
+SCP-885 is attracted to living, breathing creatures. When it identifies a prey - possibly by perceiving atmospheric vibrations - it seeks to surround the creature. Once it has surrounded its prey, it extracts all fluids and gasses still clinging to folds or pores by negative pressure, and kills it by hypoxia and ebullism. It will actively hunt down escaping prey - SCP-885 can move up to 12 m/s in a standard atmosphere, less in denser air. Once a prey is killed, SCP-885 loses interest in it; it is not known how or whether it draws any kind of sustenance from these acts.
+
+Addendum:
+
+SCP-885 is nearly undetectable in a normal atmosphere - even within liquids it is only visible as a cluster of bubbles. Unexplained air shifts near SCP-885's enclosure should be immediately reported. SCP-885 has poor fine control of its pressure shifts, but can hold doors closed by sheer differential (101 kPa in a standard atmosphere). Remember sound does not travel in a vacuum, and victims may not be able to cry for help before it's too late.
+
+Victims of SCP-885 must be immediately triaged for barotrauma; common effects of short-term exposure to SCP-885 are eardrum damage, lung damage or collapse, bruises and embolism. Less common effects of short-term exposure to SCP-885 due to more sudden pressure shifts, are prolapse of the digestive and respiratory tract, large scale blood loss by evaporation, and brain trauma. Effects of long-term exposure to SCP-885 are, nearly universally, death.

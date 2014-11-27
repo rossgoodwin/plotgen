@@ -1,0 +1,19 @@
+Initial sighting of SCP-1559 in the town of █████ ██, FL.
+
+Item #: SCP-1559
+
+Object Class: Euclid
+
+Special Containment Procedures: All manifestations of SCP-1559 are to be removed from public areas and taken to Site-77. All currently known manifestations of SCP-1559 are stored within a high-security containment vault. No avian organisms are permitted within the vault. Personnel are to not touch, listen to, or view any avian creature for 48 hours before entering SCP-1559's containment area.
+
+Description: SCP-1559 is a set of 11 17 posters depicting the phrase "A FEW STILL LISTEN TO BIRDS". SCP-1559 manifestations occur primarily in public places, such as office buildings, strip malls, billboards, mailboxes, public phone booths, and parking garages. All SCP-1559 manifestations have occurred in areas considered to be heavily urbanized.
+
+When a human subject views an instance of SCP-1559, they will begin to experience anomalous alterations to their hearing. Subjects will begin perceiving all sounds produced within an urban area as birdsong1. This area appears to be limited to whatever the subject considers to be an "urban area"; testing showed that when subjects were blindfolded and moved to an area they didn't consider to be urban, they claimed to hear "what they said", but were unable to describe it further. Subjects' ability to hear sound appears to cap at 90dB; however, such loud noises will still physically damage the subjects' ears.
+
+In addition, any sounds or calls made by or as a result of avian organisms will be amplified to a significant degree. Initially, subjects may be upset or confused about the alterations to their hearing. However, as time goes on, they will no longer see the occurrence as abnormal, and will willingly ignore any sounds produced by objects or items not related to birds, whether or not the sound is blocked by SCP-1559's anomalous effect. As time progresses, subjects will be unable to feel any tactile sensation not related to birds. Behaviors such as coating homes or apartments with feathers, seeking out wild birds to listen to, and meditating intently have been reported.
+
+Personnel have been able to communicate with affected subjects via the use of a parrot, which imitated sounds produced by researchers. Following this, research personnel were able to communicate with SCP-1559 affected subjects directly by imitating the tone of the parrots. Further testing has shown that D-Class personnel are able to recognize any sound capable of being reproduced by a parrot, as long as they have heard a parrot reproduce the sound. Further testing has shown that parrots, mockingbirds, and doctored recordings of birdsong previously heard by the subject can be used to circumvent SCP-1559's effect. Further testing is currently being done in Site-77.
+
+Footnotes
+
+1. This effect does not apply to subjects suffering from tinnitus, or to sound perceived via bone conduction.

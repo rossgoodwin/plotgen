@@ -1,0 +1,97 @@
+Item #: SCP-1426
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1426-1 to -9 are assigned a keypad-combination storage locker at Reliquary Research and Containment Site-76. Any personnel wishing to use SCP-1426 for testing purposes must have prior written permission from two (2) level three (3) personnel, plus testing approval from the Site Director.
+
+SCP-1426 bits are to be sterilised thoroughly before use, to prevent contamination of extracted samples. SCP-1426 bits are only to be tested on sterilised concrete breeze blocks, to reduce wear on the bits.
+
+Samples extracted are to be sealed in sterile, airtight boxes and stored in the glovebox in Research Lab-16 for study.
+
+Description: SCP-1426-1 to -9 are ██████ Electrical brand 52x150mm diamond-tipped core drill bits. When SCP-1426 bits are used to core a substance, the cylinder of material extracted is not the original material drilled. Instead the sample will be an equal volume from a solid body in the Solar System. The body that the sample is extracted from is entirely dependent on the colour of the bit used. Occasionally, samples retrieved by SCP-1426 bits will show properties not present on some of the bodies that said samples are cored from (see Addendum-1426-1). The name of the body that the sample is taken from is etched into the side of all the bits. There is a very small chance (0.35%) that no sample will be retrieved. Instead, a rolled up piece of paper will be present inside the bit after drilling is complete. The contents of these pieces of paper vary with the drill bit used, but will always be a handwritten copy of part of their respective movements in Gustav Holst's symphony The Planets. If the body is a moon, the movement will be of the planet they orbit. If the body has no movement, then the paper will show a non-existent movement, written to fit with the last existing movement of The Planets (Neptune).
+
+Samples retrieved via SCP-1426 will maintain the temperature of the body they were cored from. In one test, SCP-1426-2 was used to drill a breeze block, and the sample retrieved was consistent with available data concerning the average surface temperature of Venus. SCP-1426 bits and the drill that they are being used with do not appear to be damaged by the temperature of the sample they core, but will wear down like ordinary core drill bits. Occasionally, samples retrieved by SCP-1426 bits will show properties not present on some of the bodies that said samples are cored from (see Addendum-1426-1).
+
+SCP-1426 was discovered in the town of A██████, England, when builder █████ A█████ suffered 3rd degree burns to his left hand after attempting to remove a portion of a brick wall he had just drilled with SCP-1426-2. A routine Foundation sweep picked up the report and SCP-1426 was retrieved and transported to Reliquary Research and Containment Site-76. All other core drill bits examined at the local ██████ Electrical store showed no anomalous properties. Mr. A█████ and all witnesses were given Class-B amnesiacs and released.
+
+Addendum-1426-1: Current instances of SCP-1426.
+
+Colour of bit
+
+Body sample extracted from
+
+Notes
+
+Designation
+
+Grey
+
+Mercury
+
+Temperature of sample depends on the temperature at Caloris Basin. There is a 12% chance that feathers will be present in the sample.
+
+SCP-1426-1
+
+Orange
+
+Venus
+
+Sample temperature is always between 462-470°C. Occasionally, the sample extracted will be molten lava, suggesting volcanic activity.
+
+SCP-1426-2
+
+Light Blue
+
+Moon
+
+Composition of sample is identical to that of Mare Crisium. There is a 15% chance that the sample extracted will be a light shade of blue and will smell like cheddar.
+
+SCP-1426-3
+
+Red
+
+Mars
+
+There is a 5% chance that samples extracted contain very high concentrations of water ice.
+
+SCP-1426-4
+
+Beige
+
+Io
+
+Samples extracted are radioactive. There is a 85% chance that molten sulphur will be retrieved.
+
+SCP-1426-5
+
+Brown
+
+Titan
+
+There is a 75% chance that liquid ethane will be extracted. Additionally, there is a 0.65% chance that salt water will be retrieved.
+
+SCP-1426-6
+
+Green
+
+Miranda
+
+None.
+
+SCP-1426-7
+
+Dark Blue
+
+Triton
+
+There is a 25% chance that liquid nitrogen will be extracted.
+
+SCP-1426-8
+
+Pink
+
+Cycles every 6 months between Pluto, Eris, Makemake and Quaoar.
+
+No matter what dwarf planet samples are cored from, there is a 15% chance that the sample will contain very high concentrations of rhodium.
+
+SCP-1426-9

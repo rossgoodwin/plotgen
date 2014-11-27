@@ -1,0 +1,67 @@
+Incident SCP-1717-Kappa, Recovery Operation
+
+Item #: SCP-1717
+
+Object Class: Keter
+
+Special Containment Procedures: Plants infected with SCP-1717 shall be confiscated or eradicated by MTF Theta-4. Samples of novel species with SCP-1717 shall be collected and remanded to Dr. Syril in Bio Site-1 for study. Wild occurrences in areas smaller than 1 hectare may be secured or destroyed within 48 hours of discovery at the discretion of MTF Theta-4's commanding officer. If an affected region in the wild is larger than 1 hectare, or is obviously a cultivated field of any size, the region and an additional buffer zone of 1 km beyond the perimeter of the anomaly shall be incinerated within 24 hours of discovery.
+
+In developed countries, immolation operations shall be conducted under the guise of wildfires. Subsequent to fire suppression, Foundation herbicide GH-5Y shall be applied to the affected area. The real estate that corresponds to this area shall be acquired according to the Eminent Steward protocol. Arable land so obtained shall be left fallow for a minimum of 10 years; once it tests safe for cultivation, the assets may be liquidated normally.
+
+In frontier countries where land stewardship is impractical, fire shall be suppressed using Foundation herbicide XK-35Y.
+
++ Additional procedural notes
+
+- Hide
+
+The Foundation has currently altered all known genome libraries of species within Poaceae to conceal the exact sequence of SCP-1717-1; however, in the face of worldwide and mainstream interest in the genetic engineering of grains, this tactic shall be reviewed at least annually, for it exacerbates the risk of accidents associated with conventional experimentation, eliminates the possibility of useful contributions from research in the public domain, and will be increasingly impractical to maintain indefinitely at any rate.
+
+A retroviral solution to adequately mitigate the vulnerability associated with SCP-1717-1 is estimated to be at least 20 years away, and global use likely poses intractable logistical difficulties in any event. Genetic engineering of "replacement" cereals that lack functional SCP-1717-1 coding is ongoing; but few viable species have been produced thus far, all of which are too distinct from existing crops to introduce in sufficient scale without arousing undue attention.
+
+Many vulnerable species, when affected, are visually detectable by anomalously high stress fluorescence. Algorithms for detecting incidents via satellite are under development, but false positives still occur frequently.
+
+Any samples of the primary SCP-1717 toxin (see CCR, below) manufactured or obtained shall be stored, handled, and disposed of in accordance with Foundation trade-secret protocols for herbicides.
+
+No chemical test yet developed reliably detects food contaminated with CCR; current Foundation techniques require the use of a gas chromatograph/mass spectrometer combination to identify the molecule.
+
+Description: SCP-17171 is a disease of plants that occurs only when two factors conflate.
+
+SCP-1717-1 is an endogenous pararetrovirus found in the genome of all members of the family Poaceae.2 When triggered, it induces the production3 of the novel enzyme CCR,4 which degrades chlorophyll into an analog molecule which is incapable of participating in photosynthesis, yet retains chlorophyll's color long after senescence of leaves and stems. Grasses killed by CCR can, unnoticed, turn into green hay or straw where they stand.
+
+Before plant death, significant quantities of CCR are expressed in the endosperm within the seeds of affected plants, as much as 0.8 percent by weight in rice species. Such seeds typically can germinate, but shoots remain viable no longer than twenty-one days after germination. The flavor of affected grains is unchanged; therefore CCR can go undetected in the food supply.
+
+CCR can leach from decaying plant matter into the soil, and is robust enough to kill or injure several generations of plants before deteriorating5 to non-toxic byproducts. CCR has low or mild acute toxicity in animals6 and humans;7 however, it accumulates readily in the liver, and is toxic long-term.8 Idiopathic parkinsonism commonly develops within 6 months at accumulations over 2500 mg/kg, accompanied by either ascites, pleural effusion, or both. At this stage, without a liver transplant, hepatic encephalopathy and death follow within weeks.
+
+SCP-1717-2 is an unknown substance that induces the expression of the SCP-1717-1 gene.
+
++ Additional notes
+
+- Hide
+
+To date, infections of SCP-1717 have been identified in twelve different species, in three representative clades. Eleven of the twelve are staple grains, including maize, rice, and wheat; the twelfth is a common forage grass in the US. There is no evidence to refute the vulnerability of all Poaceae to SCP-1717.
+
+The chemical tank recovered from the burned wreck of the Thruxton Jackaroo involved in Incident SCP-1717-Kappa in ██████████, ██ would have contained no more than eighty liters if full. Within eight days after the incident, SCP-1717 was detected in 6,220 hectares of wheat centered twelve kilometers from where the crop duster was first intercepted. A 20mg sample recovered from the same tank contained no identifiable SCP-1717-2, but is strongly suspected to comprise the byproducts9 from the breakdown of SCP-1717-2 under intense heat. Notable is the presence of trace magnesium and arsenic.10
+
+The Foundation coroner's analysis of the remains of the pilot was inconclusive. Alternative forensics are underway.
+
+Footnotes
+
+1. Anomalous Chlorophyll Reductase Enzyme Syndrome
+
+2. the true grasses
+
+3. within the Harrison organelles
+
+4. Cryptopathologic chlorophyll reductase
+
+5. predominantly via UV radiation
+
+6. 24 hour LD50 rat, oral: 2100mg/kg
+
+7. 24 hour LD50 D-class, ████: 4800mg/kg
+
+8. The biological half-life is estimated to be 7.3 years.
+
+9. See document SCP-1717-Gamma for a catalog of identified molecules.
+
+10. However, contamination associated with the recovery effort cannot be ruled out.

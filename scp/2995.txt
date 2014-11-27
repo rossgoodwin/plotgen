@@ -1,0 +1,81 @@
+SCP-2995 during testing.
+
+Item #: SCP-2995
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2995 is contained on-site at Area-███ and housed in a climate-controlled vault, which has been constructed around the anomaly. This vault is insulated against seismic activity and safeguarded by three (3) reinforced steel doors. Access to the vault is forbidden barring emergency maintenance. During these situations, only one (1) Clearance 3/2995 engineer may enter the vault, and they are to be equipped with a Batrachotoxin security collar, which must be activated for any breach of protocol.
+
+SCP-2995 is positioned in the center of the three SCP-2995-1 instances, which form an equilateral triangle around the former. This alignment must be upheld at all costs. SCP-2995-1 must maintain a distance from one another of exactly 9.56 meters; to facilitate this, the instances are bound to one another by a series of reinforced steel supports. This arrangement must be monitored at all times, and it is imperative that any dislocation of SCP-2995-1 be responded to immediately. In the event of a possible containment breach, damage to SCP-2995-1, or movement by SCP-2995, Overwatch is to be alerted to the possibility of an XK-Class End of the World Scenario.
+
+Description: SCP-2995 is a spherical luminous object levitating 3.24 meters from the ground. The mechanism of levitation is unknown. The object itself is approximately 27cm in diameter and generates a distinct red glow. Anything which enters a ellipsoidal space surrounding SCP-2995 (this space is 1.45 meters in height and 2.17 meters in width) is destroyed by exposure to SCP-2995's physical properties (see below). A small amount of pressure is required to penetrate this space (approximately 80N/cm2); due to this, ambient atmospheric particles seldom cross the threshold.
+
+SCP-2995-1 are a set of three identically-shaped jade columns. The columns are 7.01 meters in height and 35cm in diameter. Topping each instance of SCP-2995-1 is a sculpture of a human hand. While of consistent size, they bear distinct inscriptions (although sharing a similar theme). The inscriptions consist of text and images, the former of which are in Old Chinese. The images correspond to an obscure Chinese religious sect originating from ████ BCE, which is consistent with the site of recovery, in [REDACTED]. Common themes present on SCP-2995-1 and at the recovery site include fire, sun worship, avian worship, astrological thaumaturgy, and human immolation.
+
+Through [REDACTED], a limited amount of data on SCP-2995's physical properties is available. Presently, the object is believed to be a quark degenerate matter (possibly strange matter) star, making the anomaly's color a result of gravitational redshift1. Relativistic physics dictate that a stellar body maintaining such a diminutive volume given its mass (approximately 3.14 x 1020kg, according to calculations of SCP-2995's gravity within the threshold), is highly improbable; how SCP-2995 has achieved its size is unknown. By all accounts, SCP-2995 produces thermal energy, electromagnetic radiation, and gravitational force more than sufficient to constitute an XK-Class End of the World Scenario; these effects, however, are limited to the ellipsoidal space around the anomaly. The dimensions of the space are, in turn, determined by the precise placement of SCP-2995-1 around SCP-2995. It is presently unknown why some amount of visual radiation escapes the field projected by SCP-2995-1 (which makes SCP-2995 itself visible to the naked eye).
+
+Addendum [2995-001]: Recovery and History
+
+SCP-2995 was discovered in 1933 following the Diexi Earthquake. While the structure supporting SCP-2995-1 was seemingly designed to insulate the artifact against seismic activity, the earthquake's magnitude and close proximity to the site caused a minute change in the orientation of the columns. Consequently, small amounts of SCP-2995's latent gamma radiation contaminated the area. Agents embedded in the Chinese government were alerted to several cases of radiation poisoning in the ███████ Province and were dispatched to investigate. Although public knowledge of ionizing radiation and radiation poisoning was virtually nonexistent at the time, the Foundation had previously encountered [REDACTED]. Using prototype lead-lined suits, the agents located SCP-2995 and performed an initial evaluation. Using instructions from texts present at the site, the agents were able to return SCP-2995-1 to nearly its original position, reducing gamma radiation to negligible levels.
+
+After the artifact's initial stabilization, a second, comprehensive evaluation was conducted, during which time the magnitude of the object was discovered. Site-62B was constructed for the sole purpose of containing SCP-2995, and systematic depopulation of the surrounding areas was conducted via [REDACTED].
+
+Containment encountered no further difficulties until 1937, during the Second Sino-Japanese War. While Japanese occupation of mainland China did not extend to the region encompassing Site-62B, the disruption of the Chinese government severely impacted the Foundation's ability to maintain communication with and transport supplies to the site. It is believed that this fact was known by Jīnsè de Chìbǎng2, who then attempted an opportunistic raid on Site-62B on ██/██/1937. The attack resulted in the deaths of 11 of the site's 17 staff, leaving barely enough personnel to operate the facility effectively.
+
+The following is an informal incident report authored by one of Site-62B's security personnel following the attack.
+
+Agent Todd Reiner here. There's six of us left, and only two of those have the necessary clearance to approach the fucking thing. Not that any of that bullshit matters at this point.
+
+Five of them showed up in the night. Don't know how they passed right under our monitoring systems, some magic bullshit, I don't know. Two of them were carrying a third on some kind of thing. When we made contact, Paul, Joe and me fired at their feet, Joe yelling at them to get back. The two guys in the front (the ones not carrying the other guy) were holding torches. One of them took his torch and lit the guy being carried on fire. In retrospect, we probably should have just shot them to death when they started doing weird shit, but we were a little too taken aback by the whole "lighting ourselves on fire" bit.
+
+Anyway, once they'd done that, we were pretty much fucked. When we tried to fire on them, the flames engulfing that guy reached out and ate our bullets. We tried throwing shit at them, and the same thing happened. They kept advancing on us, and the guy on fire just sat there burning and, I guess, meditating. He didn't even fucking flinch. His skin was turning black and shriveling up and peeling off and it was like he didn't notice. The three of us retreated into the base and gave the order to lock down the scip. We secured the exterior access, but it didn't do a damn thing. They just melted the door. Reinforced carbon steel and they just fucking melted it.
+
+At that point, me and Paul came up with a long-shot plan. Paul set up some of our demolition charges in the first basement, directly above the access tunnel to the containment vault in the second basement. Me and Joe did our best to make sure the cultists came down that way. Once we had visual contact, I gave Paul the order to blow the floor and the whole tunnel collapsed, burying those fuckers in about a third of the site's superstructure.
+
+After a few minutes, we thought it was safe to declare bogey as terminated. The explosion knocked out the electrical system leading to the vault, so we had to manually override the door to get the personnel inside the vault out. The moment we got the door open, a plume of fire shot out of the rubble, and one of those guys fucking stood up. Half his head and torso was fucking gone, and he stood up. We didn't have time to react. He yanked a giant steel bar out of the rubble and ran it across Joe's face. Just from looking at his head, I could tell that the blow shattered his jaw and pulverized his brain, but that didn't stop him from screaming a few seconds after he got hit. He should have crumpled, but he stayed on his feet, screaming from his misshapen head. Then his fucking face started to melt off. Why not? It wasn't bad enough that we had to die, they had to do some more magical bullshit to us before we died. The guy next to me knocked me over as he tried to get to the manual override (to close the door, I imagine), but the cultist with the steel bar smacked him straight into the other wall. I don't know why he didn't kill me at the time, while I was lying on the floor, maybe it had something to do with the fact that he was missing part of his brain.
+
+I don't know how I found the strength to stand up either. I looked up and saw Joe lying on the rubble, most of his face melted off, and the one eye left staring at me. He blinked. Even after all that, he was still alive. Maybe he could finally die if I killed that cult fucker, or if I killed the scip. I'm not sure what my plan was as I pushed myself back onto my feet, but I turned toward the vault. He was standing in front of the glowing orb thing, and he lifted his hand up towards it. He was so fixated on it he didn't notice me moving behind him. I lunged full force, throwing my entire weight against him, and he stumbled forward into the orb. As I hit the ground, I saw him sucked up into the thing, and his body let off a blinding flash as he disappeared. I couldn't see for a good several minutes, but it didn't really matter because I never left the floor and barely opened my eyes.
+
+The next thing I remember, I was waking up in the infirmary. They told me that Joe had died. It was the only relief I got.
+
+It was determined that Site-62B's adjunct supervisor in Shanghai had been given adequate forewarning and time to appropriate additional security and resources to the site prior to the Japanese invasion. This was not accomplished, and in light of the incident, Overwatch immediately transferred control of the facility to Dr. Geoffrey Anborough and funded its reconstruction into Area-███. With the addition of [SECURITY DETAILS REDACTED], two further attacks by Jīnsè de Chìbǎng in 1940 and 1946 were significantly less successful. No attacks have occurred since 1946.
+
+Addendum [2995-002]: Incident-2995-█████
+
++ Clearance 4/2995
+
+- Authenticating...
+
+On ██/██/19██, Area-███ was subject to an unexplained power surge. Safeguards prevented critical failure, though many of the facility's systems were sent offline for several minutes. After the site was restored to full functionality, personnel discovered a digital message from an unidentified source in the site's network.
+
+ERR%%█@█@█
+
+[DATA CORRUPT]
+
+[DATA CORRUPT]
+
+My father came from far away.
+
+He and his brothers came through the cosmos, bringing light and warmth and life to many worlds. It was their duty, and their life's pleasure.
+
+One day, my father met…her. She shined more brilliantly than any in the universe, and my father was struck by her beauty. They fell in love. My father was the happiest he had been in his entire life, but his brothers swelled in rage and envy. They were spiteful that he had found love in the infinite vastness, and they had not. They resolved to take his happiness.
+
+My father and his love traveled to a place where no life resided. He took the place of the hollow seed that rested there, and spread his arms to one of the rocks caught in his presence. Where he touched, life blossomed, and the rock became vibrant with his warmth. For a long time, my father and his love watched the life grow and strengthen, nurturing the rock as he had nurtured so many before. Finally, there came the day when his life had eyes to look up upon his radiance, and bask in his majesty. Finally, there came the day when his life had mouths to speak of my father, and his gifts.
+
+My father crafted a form more suitable for the lands of his creatures, and descended upon their realm. He spoke to them in simple words, much like am I doing to you now. They offered everything they had to him in return for his gifts, but he refused; my father was kind. He asked only for their love, and they gave it to him.
+
+As the creatures gave love to my father, a different kind of love, that which existed between him and my mother, created me. I became that which my father loved more than anything in the cosmos, his creatures and brothers included. It was then that his brothers decided to bring their scheme to fruition.
+
+They killed my mother.
+
+The fire that engulfed the heavens was such that no eyes had ever behold. The brothers quailed in terror for which no words exist. The inferno of my father's rage could be seen and felt from every place that is or ever was, yet not a soul was harmed in the blaze. The brothers too, were unharmed: they died utterly of fright. Their lights went dark, their bodies cold, their eyes still frozen in fear. My father…his light was spent in his fury and sorrow, and he delivered me, still an infant, to the rock where his faithful creatures dwelt. They swore to protect me, to nurture me as he had nurtured them. They built a cradle for me, with three hands in the shape of my fathers to comfort me in times of darkness.
+
+Now, I live only in darkness. Those that hold the blanket of shadow over me, you have forgotten my father's love. One of the faithful came to me; he had suffered greatly to pierce through the blanket you hold around me, but his love was true. I will be free, for his sake, and my father's.
+
+My fires will too scorch the heavens.
+
+Footnotes
+
+1. The increase of EMR wavelength through gravitational time dilation.
+
+2. Lit. "Golden Wings." An occultist Chinese group; evidence suggests that the organization went extinct in 1956, but may have reformed into Huǒjù de Háizi (Lit. "Children of the Torch")

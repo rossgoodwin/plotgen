@@ -1,0 +1,37 @@
+Exterior of SCP-557
+
+Item #: SCP-557
+
+Object Class: Euclid
+
+Special Containment Procedures: As it is not possible to relocate SCP-557, Research Site-29 has been built surrounding it. Geographic and aerial surveys of the area have been altered to make it appear to be empty desert, with no valuable archaeological or mineral features.
+
+On-site personnel have several tasks:
+
+• To prevent unauthorized observation of, and access to, SCP-557. Despite its inhospitable location, several occult groups including the ████████ ████ appear to be aware of SCP-557 and have shown an interest in it. Unauthorized personnel are to be taken into custody, interrogated, and dealt with appropriately. Anyone attempting to tunnel below Level 5, or disturb the stone block in the floor of Room 501, is to be terminated immediately.
+
+• To continue to attempt translation of the records found in SCP-557.
+
+• To monitor the area for SCP-557-1. SCP-557-1 should be assumed to be Keter-class and is to be captured if possible, otherwise terminated.
+
+• To monitor Room 501 and serve as a strike team should anything emerge from beneath it.
+
+Description: SCP-557 is an Umm an-Nar era tomb estimated to have been built ca. 2400 BCE, on a gravel plain in the “Empty Quarter” of Northwestern Oman. Investigation of the surrounding area indicates it may be part of the lost city of Ubar. SCP-557 was discovered in 1988, during an inquiry into the disappearance of a geological survey team in the area.
+
+Unlike similar structures, SCP-557 includes five underground levels, constructed primarily of sandstone, apparently used as an ancient prison and containment site.
+
+Although living quarters and weapons for approximately ███ staff/guards exist on Level 1, the facility appears to have been slowly abandoned over the years, and empty since ca. 300 CE. Only two skeletons were found on Level 1.
+
+A substantial library of records was found on Level 1, in a number of ancient languages. Only the records in Egyptian and a final note left in Greek have been translated.
+
+Levels 2 and 3 are stated in the records to be a prison for “heretics and sorcerers” but appear not to have been used for up to 1000 years before the site was abandoned.
+
+Level 4 is described as “a place for the abnormal.” Skeletons resembling SCP-███ and SCP-███ have been discovered locked away in stone cells, confirming the intent of the structure.
+
+Level 5 consists of a 51.2-m-long hallway filled with complex traps and deadfalls, leading to a single large (21.3 m x 19.7 m x 5.4 m) room, designated as 501. Although all of the traps appear to have been sprung or cleared, researchers should exercise caution. The door to Room 501, anachronistically composed of [REDACTED], was found torn down from the inside. Based on the distribution of dust in this area, this event happened only approximately 20 years ago.
+
+In the center of the floor of Room 501 is a partially buried 3.2 m x 3.35 m granite block, estimated to weigh 80,000 kg. The block is covered with untranslated runes. A similar, thinner, block stands in the room and shows evidence that a living being [designated SCP-557-1] was chained to it, using chains from the same material as the door. No evidence of the continued presence of SCP-557-1 has been found. Translated records only refer to SCP-557-1 as “the prisoner” with the exception of one reference in Egyptian to “the bastard son of Apep.”
+
+Addendum: Translation of a note found in the records room:
+
+I will write in Greek, so that any learned man who finds this place will understand. I am the last of the Keepers, and I will be dead soon. The sands are taking this place, and perhaps it is for the best. The prisoner must not escape, and the gateway to the dark must never be opened. I do not think the gate can be moved, but who knows of the prisoner? Not even the Gods could kill it, and it was only with their help that he was secured. Without the rituals, I do not know. Secure the door the best you can, and never move the stone.

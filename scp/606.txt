@@ -1,0 +1,91 @@
+SCP-606 (preliminary encounter)
+
+Item #: SCP-606
+
+Object Class: Euclid (Keter classification under review)
+
+Special Containment Procedures: SCP-606 is currently housed of its own will in an unfurnished 20mx25mx8m cell at Site ██, the entrance to which is sealed by two 25cm steel blast doors on either side of an airlock. No personnel are to enter SCP-606's containment cell except under controlled testing circumstances or with authorisation from a staff member of level 4 clearance or higher. Standard positive-action defenses (explosive, chemical, biological, and memetic) are to be in place at all times, according to standard operating procedure.
+
+Due to SCP-606's non-corporeal nature, no reliable security measures in case of a containment breach have been developed at this time. In the event of such a breach, all personnel should refer to Plan ETA-SIX.
+
+Through use of a mobile remotely operated device, SCP-606 is to be provided with an ordinary USB flash storage device containing no less than 2mb of data every 12 hours. The data contained on the device is to be left to the discretion of SCP-606's supervisor, but text from classic literature or encyclopaedias, movie clips or audio files of historical speeches are ideal. In an emergency situation this may be substituted with 'data' in any form, such as print, compact discs or video tapes. A careful record of all data provided to SCP-606 must be kept. SCP-606 should not be given repeated information except in an emergency situation. No material pertaining to the Foundation should be provided to SCP-606 under any circumstances.
+
+Description: SCP-606 appears as a spherical mass of light of variable size and intensity. Most commonly, it is approximately 85cm in diameter and emits 220 candelas of luminosity, but has been observed to grow to up to 10m in diameter and emit over 100,000 candelas. SCP-606 has also been observed to shrink to 4cm in diameter, emitting less than 0.5 candela. Despite its ability to emit large amounts of light, SCP-606 emits no heat. It does not appear to be composed of any form of matter, and is able to pass through material barriers effortlessly.
+
+It is presently theorised that SCP-606 is an entity composed purely of knowledge or information, and information obtained from SCP-606 itself appears to corroborate this. Furthermore, SCP-606 appears to derive sustenance from information, growing in both size and luminosity when provided with sources of information to its aforementioned maximum size and shrinking when it is deprived of this.
+
+It is capable of 'feeding' off a large number of different sources, including digital devices, books, magnetic tape and living beings, which simply involves SCP-606 surrounding the object. This process does not appear to affect its sources in any way. Digital media stored on flash drive is used in the maintenance of SCP-606 so the specific details as well as approximate size of all information provided to SCP-606 may be easily recorded. The specifications for SCP-606's maintenance listed above have been formulated through both discussion with SCP-606 and prolonged observation; SCP-606 appears to hold a preference for classical literature, for example, and the given amount has been observed to keep SCP-606 at its normal size and luminosity.
+
+SCP-606 is sapient, apparently self-aware of all knowledge it has gained over its existence, and capable of intelligent communication. It accomplishes this by producing pure sine wave tones through an unknown mechanism. This has been refined through teaching SCP-606 a tone-based language system of the Foundation's own invention, which all personnel of level 2 or above assigned to SCP-606 are required to learn.
+
+If another sapient individual enters SCP-606's containment cell, it will attempt to 'enlighten' them, to use SCP-606's own words. This involves SCP-606 moving to surround the being's head (or similar equivalent). This results in generalised tonic-clonic epileptic seizures for a period of 30 seconds to 5 minutes, after which the individual lapses into a coma followed by death. EEG monitoring of affected individuals during this process has shown a massive increase in activity of all brainwaves, particularly gamma and beta-type waves. It is presently theorised that this is the result of SCP-606 attempting to transfer all the information it has gathered to the individual's brain through an unknown process, despite the normal human brain being unable to sustain the stress of such a procedure.
+
+Results of interviews with SCP-606 have been mixed. Although it has previously deigned to answer some basic questions about itself and its history, any more in-depth questioning or questioning on the topics it posesses knowledge of inevitably results in a request by SCP-606 to 'enlighten' the interviewer and a refusal to answer further questions. Requests made to SCP-606 to refrain from attempting to 'enlighten' without permission have been partially complied with; SCP-606 no longer tries to 'enlighten' every individual it comes into contact with, but it has still sporadically tried to perform the process without prompting. For this reason access to SCP-606's cell is restricted.
+
+SCP-606 was discovered by the Foundation on 6/11/19██ in ██████, France, after a rash of missing person reports was brought to the Foundation's attention. Personnel subsequently managed to lure SCP-606 into a transport vehicle and transfer it to its current facility by offering it D-class personnel to 'enlighten'. Once its non-corporeal nature was discovered, SCP-606 was asked why it did not attempt to evade capture. It replied that it 'wished to see what would occur'. As SCP-606 is able to pass through all forms of matter, it presumably stays in Foundation custody of its own free will, perhaps due to the constant supply of information provided to it.
+
+Addendum 606-1: Complex communication with SCP-606 was made possible on 2/4/20██ when Drs. ████████ and ██████ completed their work on the aforementioned tone-based language. Details of this language were transcribed onto normal writing paper and left in SCP-606's containment chamber. An excerpt from SCP-606's first interview follows; conducted from a secured monitoring room over microphone. SCP-606 is capable of understanding normal human speech, and thus Dr. ████████'s commentary is in English.
+
+Document #606-1
+
+<Begin Log>
+
+Dr. ████████: Can you understand me?
+
+SCP-606: [Yes.]
+
+Dr. ████████: How did you learn to do this?
+
+SCP-606: [I listen.]
+
+Dr. ████████: Could you tell us what you are?
+
+SCP-606: [I am the teacher.]
+
+Dr. ████████: Could you be more specific?
+
+SCP-606: [I am the teacher. I am a purveyor of knowledge. Enter this chamber and I shall enlighten you.]
+
+Dr. ████████: I do not wish to do that at the moment. May I ask you some more questions?
+
+SCP-606: [I provide answers.]
+
+Dr. ████████: So… how old are you?
+
+SCP-606: [I am as old as is necessary.]
+
+Dr. ████████: Could you explain what you mean by that?
+
+SCP-606: [These sounds you have taught me are… limited. I may only enlighten you directly.]
+
+Dr. ████████: How do you 'enlighten' people?
+
+SCP-606: [I teach them.]
+
+Dr. ████████: Are you aware that this causes your… students to die?
+
+SCP-606: [I do not call it death. It is the consequence of being… inadequate.]
+
+Dr. ████████: What do you… teach?
+
+SCP-606: [I teach all that I have learned.]
+
+Dr. ████████: Do you know who I am?
+
+SCP-606: [You are that which calls itself a human. Your fellows refer to you as 'doctor'.]
+
+Dr. ████████: Do you know what a 'doctor' is?
+
+SCP-606: [It is your word for one who has been taught and teaches. In your own fashion, at least.]
+
+Dr. ████████: Can you teach me through talking to me?
+
+SCP-606: [I wish to enlighten you. If you do not wish to be enlightened, I have no use for you.]
+
+<End Log>
+
+At this point, SCP-606 halted the interview and refused to answer further questions for some days from Dr. ████████. Subsequent interviews have gained little more information of significance on SCP-606 or the subjects it claims to know about.
+
+Addendum 606-2: After reviewing the reports on 606, in particular Experiment 606-██-█, I'm becoming increasingly suspicious that the deaths of its 'students' are not accidental. The possibility that it has some malevolent purpose completely independent of its 'teaching' cannot be discounted. Yes, everybody says that it's just trying to 'teach' people, but all we know is that it causes them to keel over and die. No solid evidence for it actually being what we think it is has been uncovered. We don't even have any way of stopping this damn thing - countermeasures research should be a top priority for Section █ in collaboration with the 606 staff group. A Keter upgrade must be taken into consideration.
+
+- Dr. Major

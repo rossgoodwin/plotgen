@@ -1,0 +1,15 @@
+Item #: SCP-385
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-385 is locked within a standard fireproof container at Storage Site-23. Experimentation with SCP-385 requires written approval from any Level 4 researcher. After the incident outlined in Report 385-c all further testing must take place in a facility located within five degrees of either of the Earth's poles.
+
+Description: SCP-385 is a waist mounted harness crafted from heavily antiqued leather and brass. A curled electrical cord connects a hand-held push button switch to the mechanism mounted on the front of the harness, which itself contains a superfluous set of interlocking gears and colored LED light bulbs. The harness has sustained significant impact damage. A damaged engraving on the front of the mechanism reads "Special Edition! 3 of [ILLEGIBLE]" and "[ILLEGIBLE] by The Factory."
+
+Also retrieved with SCP-385 were a cardboard storage box and instruction manual. Both the box and manual feature a retro art style reminiscent of 1950's science fiction pulp illustrations. The manual describes the harness as a "Personal Anti-Gravity Field Generator" and contains simple illustrations in the "proper" use of the device.
+
+When operated according to instructions, SCP-385 does create an energy field that counteracts the influence of outside gravitational forces upon the device and an individual wearing or holding it, as well as neutralizing their inertia. Measurements of velocity and direction with high-speed video cameras tentatively indicate that inertia is neutralized relative to the Sun as the inertial frame of reference. Research to duplicate this effect is ongoing, but the mechanical components of the device appear to be non-functional. The harness will still produce the anti-gravity effect even when all mechanical components beyond the activation switch are removed.
+
+Addendum: Except under strictly controlled conditions, use of this device is invariably fatal due to the speed of the Earth's rotation and revolution around the Sun. An individual removed from both the Earth's gravitational pull and momentum would either be flung into space or experience a fatal collision with an object blocking their trajectory, which will at least result in the device's deactivation to allow for retrieval.
+
+SCP-385 was recovered from the room of a 13 year old boy in █████, ██, shortly after what appears to be its first activation. It is unknown how many other SCP-385 mechanisms may still be at large, or how large the "production run" was. Interviewing the deceased boy's parents traced SCP-385 to a downtown antique toy store where the device was purchased as a novelty. The store was found to be abandoned, and had not been occupied for some time. Downtown residents do not remember the shop ever being open.

@@ -1,0 +1,339 @@
+SCP-335-086
+
+Item #: SCP-335
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-335 is to be kept in a secure location to prevent tampering.
+
+Description: SCP-335 is a set of one hundred and fifty 3.5" floppy disks discovered in a cardboard box found in the attic of former Agent ███ shortly after her termination. Each disk is individually numbered in hand-written permanent marker. Disks are to be referred to by their number; SCP-335-001, SCP-335-002, etc. Each disk has also been labeled with a human name in the same writing as the numbering. 118 are male names and 30 are female. There is some speculation as to whether SCP-335-011 "Jackie" is meant to be male or female. The names have no identified pattern.
+
+Initial examinations suggested that all 150 disks were blank, as their capacity all read as 0 megabytes. Dr. ██████████ determined that the disks were ordinary and had them archived with the rest of former Agent ███'s possessions. It was not until Agent ████ suggested the unlikelihood of Agent ███ keeping a box of floppy disks in her attic among the other contraband, that Dr. ██████████ agreed to have the disks examined again. It was determined that Dr. ██████████'s original floppy disk drive had been defective, and a different computer was brought in.
+
+All 150 disks appear to have an infinite amount of storage space available. It is unknown whether the disk space is truly unlimited or simply too large to measure; regardless, the space is effectively infinite.
+
+When SCP-335-001 was inserted into Dr. ██████████'s computer, the contents of a large pornographic website were the first data found on the disk. Further investigation by Agent ████ showed that all the contents of SCP-335-001 are of a pornographic nature.
+
+Note from Dr. ██████████: I believe I know where all our bandwidth is going at night. Agent ████'s computer privileges should be limited until he either finds a girlfriend or learns some self control.
+
+Further investigation revealed that SCP-335-001 through 012 contained pornographic material. However, upon discovering the entire contents of Wikipedia on SCP-335-013, the actual nature of SCP-335 was uncovered.
+
+SCP-335 contains the entire contents of the Internet stored within its infinite storage space. It appears to have some sort of organizational system, with similar sites grouped together on the same disk. Experiment 335-007a showed that when content on the Internet is changed, the content on the corresponding disk changes to match. Precisely how this occurs is unknown. It is uncertain what would happen if content on the disk were changed, as all 150 disks seem to be locked in read-only format.
+
+Addendum: Agent ████ has proposed on numerous occasions that an experiment be conducted where a disk is destroyed. Dr. ██████████ as well as ███-███ agree that this could potentially have disastrous effects on a large portion of the internet and could draw unwanted attention to the Foundation. Such an experiment is not to be attempted under any circumstances.
+
+Addendum: The following is a listing of all 150 names written on the disks in their numerical order. No pattern has yet been identified in the names.
+
+001: "Jonny"
+
+002: "Carl"
+
+003: "Robert"
+
+004: "William"
+
+005: "Benjamin"
+
+006: "Patrick"
+
+007: "Blake"
+
+008: "Keith"
+
+009: "Michael"
+
+010: "Darrell"
+
+011: "Jackie"
+
+012: "Daniel"
+
+013: "Jimbo"
+
+014: "Cynthia"
+
+015: "Valerie"
+
+016: "Ozzie"
+
+017: "Wayne"
+
+018: "Paul"
+
+019: "Frank"
+
+020: "Sandra"
+
+021: "James"
+
+022: "Mark"
+
+023: "Jordan"
+
+024: "Isabella"
+
+025: "Eugene"
+
+026: "Matthew"
+
+027: "Sean"
+
+028: "Heath"
+
+029: "Janice"
+
+030: "Donald"
+
+031: "Bradley"
+
+032: "Ryan"
+
+033: "Ryan"
+
+034: "Emily"
+
+035: "Francis"
+
+036: "Theodore"
+
+037: "Craig"
+
+038: "Sharon"
+
+039: "Jessica"
+
+040: "Xavier"
+
+041: "Parson"
+
+042: "Heather"
+
+043: "Jay"
+
+044: "Kelly"
+
+045: "Oscar"
+
+046: "Brian"
+
+047: "Calvin"
+
+048: "Kenneth"
+
+049: "Stanley"
+
+050: "Walt"
+
+051: "Helen"
+
+052: "Martin"
+
+053: "Hubert"
+
+054: "Joe" [The letter E in this name is written backwards. Reasoning unknown.]
+
+055: "Bartholomew"
+
+056: "Jerry"
+
+057: "Leroy"
+
+058: "Steven"
+
+059: "Roger"
+
+060: "Bill"
+
+061: "Susan"
+
+062: "Lewis"
+
+063: "Aaron"
+
+064: "Leopold"
+
+065: "Gordon"
+
+066: "Kimberly"
+
+067: "Dale"
+
+068: "Julie"
+
+069: "Randy"
+
+070: "Vladmir"
+
+071: "Fred"
+
+072: "Leon"
+
+073: "Marcus"
+
+074: "Ernest"
+
+075: "Mario"
+
+076: "Able"
+
+077: "Wesley"
+
+078: "Howard"
+
+079: "Mickey"
+
+080: "Sarah"
+
+081: "Angelicka" [This name appears to be misspelled. Unknown if this was intentional.]
+
+082: "Tony"
+
+083: "Andrew"
+
+084: "Dorothy"
+
+085: "Stephen"
+
+086: "Clarence"
+
+087: "Homer"
+
+088: "Nathan"
+
+089: "Maximilian"
+
+090: "Joshua"
+
+091: "Ralph"
+
+092: "Rodney"
+
+093: "Bruce"
+
+094: "Eve"
+
+095: "Phillip"
+
+096: "Alexander"
+
+097: "Chad"
+
+098: "Ruth"
+
+099: [Label is torn, no name remains except for the letter G]
+
+100: "Gary"
+
+101: "Ronald"
+
+102: "Kyle"
+
+103: "Antonio"
+
+104: "Elizabeth"
+
+105: "Isaac"
+
+106: "Dennis"
+
+107: "Chris"
+
+108: "Anthony"
+
+109: "Frodo"
+
+110: "Lawrence"
+
+111: "Victor"
+
+112: "Brenda"
+
+113: "Albert"
+
+114: "Russel"
+
+115: "Curtis"
+
+116: "Pamela"
+
+117: "Samuel"
+
+118: "brandon" [Note the lower case first letter. Reasons unknown.]
+
+119: "Michelle"
+
+120: "Jesus"
+
+121: "Walter"
+
+122: "Борис" [Russian name, translates to Boris]
+
+123: "Melissa"
+
+124: "Justin"
+
+125: "Jeffrey"
+
+126: "Gerald"
+
+127: "Anna"
+
+128: "Vincent"
+
+129: "Lloyd"
+
+130: "Nicole"
+
+131: "Allen"
+
+132: "Frank"
+
+133: "Jacob"
+
+134: "Patricia"
+
+135: "Joel"
+
+136: "Harold"
+
+137: "Derek"
+
+138: "Amy"
+
+139: "Douglas"
+
+140: "Lenny"
+
+141: "Rebecca"
+
+142: "Scott"
+
+143: "Glenn"
+
+144: "Henry"
+
+145: "Carlos"
+
+146: "Mary"
+
+147: "Normal"
+
+148: "Eric"
+
+149: "Dave"
+
+150: "肇" [Japanese name, translates to Hajime]
+
+Note from Dr. ██████████: Just some "points of interest" here.
+
+Disks one through twelve apparently contain all of the pornography on the internet. With all that there is, I can see why whoever made these got the porn out of the way first.
+
+Disks 85, 86 and 101 contain image-hosting sites such as Imageshack and Photobucket. Myspace is also on Disk 85.
+
+Disk 30 seems to contain the Google home page and nothing else. The rest of Google's website seems to be scattered all over the place. I've only found a few parts.
+
+Disk 119 has emoticons. Millions and millions of emoticons. Forums, instant messengers, and from other places.
+
+After looking long and hard, I have found that [REDACTED] can be found on Disk 76. I find it very disturbing that this disk has the same name as SCP-076.
+
+Notes from Agent ████: SCP-335-085 and 058 are the same name, spelled differently. The name "Ryan" is used on both SCP-335-032 and 033. SCP-335-028 is named Heath, and that one actor that OD'd on pills, he died at age 28. Vladimir Lenin was born in 1870 and SCP-335-070 is named Vladimir. The name on SCP-335-150 is Japanese and roughly means "beginning." I'm assuming that SCP-335-120 is the Spanish name "Hay-suse" and not the biblical guy, but I guess you never know. And I agree with Dr. ██████████ that it's pretty disturbing that SCP-335-076 has the same name as SCP-076.

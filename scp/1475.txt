@@ -1,0 +1,27 @@
+Item #: SCP-1475
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1475 is to be kept in a Medical Quarantine Containment Cell - Grade III, equipped with a standard adjustable-positioning hospital bed and remote biotelemetry monitoring. The cell is also to contain a high-definition television easily visible from the bed. SCP-1475 is allowed to watch any pre-approved videos concerning human biology1 that it requests.
+
+SCP-1475 is to have the following medical monitoring devices attached at all times, with the data shown on a physiological monitoring display visible to it: an electrocardiograph machine (EKG), a pulse oximeter, an insertable blood pressure transducer assembly, and an electroencephalograph machine (EEG)2. Additionally, an arterial catheter and peripheral IV line have been installed for ease in blood chemistry monitoring and nutritional supply.
+
+A medical team briefed on SCP-1475's anomalous properties is to be on-hand at all times in order to perform testing and render medical treatment assistance as needed.
+
+Description: SCP-1475 is a male human of Gujarati ethnicity. On 2013-██-██, SCP-1475 and four other individuals3 were discovered by campus security in one of the chemistry labs of [REDACTED] University in London, England, following reports of a small explosion. All five individuals were experiencing severe generalized tonic-clonic seizures at the time of discovery and three expired while being transported to a local hospital. Although SCP-1475 stabilized after being administered anticonvulsants, the remaining individual expired due to neurological ischemic cascade.
+
+SCP-1475 was brought to the attention of the Foundation by an embedded agent in the NHS (National Health Services), following repeated electroencephalographs showing constant and simultaneous activity in all regions of SCP-1475's brain despite no outward indication of seizure activity. Following the acquisition of SCP-1475 by the Foundation, interviews with SCP-1475 revealed that it and its colleagues had been attempting to synthesize a compound that would allow them to "use 100% of our brainpower." SCP-1475 has only been able to provide limited information regarding the chemical composition or production process of this compound. All attempts to replicate the substance have resulted in non-anomalous neurotoxic materials.
+
+SCP-1475 possesses total conscious control of all its neurological functions. It has demonstrated a limited ability to modify its brain and neurological architecture, and has eliminated its need for sleep, as well as improved its metabolic rate by approximately 17%. However, its autonomic nervous control system is fully non-functional. Due to this, SCP-1475 must constantly concentrate on monitoring and maintaining its cardiovascular, pulmonary, and digestive systems, among others, or they will cease functioning.
+
+SCP-1475 has not yet demonstrated the degree of concentration or coordination necessary to utilize more than one or two voluntary muscle groups at a time while also managing its previously autonomic systems. As such, SCP-1475 is considered a low risk for escape. SCP-1475 does not display any heightened degree of control of any biological processes that do not require neurological control, such as tissue repair, cellular activity, or automatic non-neurological organ functions such as hepatic blood filtering or hematological oxygen/nutrient exchange.
+
+SCP-1475 has displayed evidence of systemic organ damage due to erratic blood pressure variations, extreme blood glucose variations, hypo- and hypervolemia, and consistently low and variable blood oxygenation (average 93% +/- 4%). Current research on SCP-1475 is targeted at finding methods to supplement or replace its autonomic control functions without otherwise interfering with its anomalous neurological activity.
+
+Footnotes
+
+1. See file 1475-V1-V37.dat for a full list of currently approved material.
+
+2. Sustained epileptiform activity is considered normal for SCP-1475. Medical intervention is only necessary if brainwave activity approaches human normal.
+
+3. See file 1475-H1-H4.dat for full biographical, medical and postmortem data.

@@ -1,0 +1,23 @@
+A photograph of SCP-147 in its optimal state. A black-and-white camera had to be used to take this photo, as the presence of a modern camera triggers the hostile state.
+
+Item #: SCP-147
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-147 is to be kept in a simulacrum of a 1950s-era living room. Its current container contains a throw rug, two armchairs, a phonograph, a rotary telephone, and other suitable decorations. SCP-147 will reject any items dating from later than late March, 1965 (See Addendum 0-40). It requires no external power source or connection.
+
+Description: Discovered 1983 in a civilian home in Detroit, Michigan. SCP-147 appears to be a 1957 General Electric brand black-and-white television, model 17TO26. SCP-147 has been observed to exhibit two different behaviors:
+
+Optimal: When SCP-147 is in an acceptable room, it will display broadcasts of 1950s-era comedies, such as The Burns and Allen Show, Father Knows Best, and I Love Lucy. In every case, each broadcast has been completely unique: archives of the programs, none of which are still being produced, have failed to find any record of the episodes that SCP-147 plays. No commercials are shown, and there is no indication as to which station would be broadcasting these shows. All broadcasts are in black and white. Subjects exposed to SCP-147 in its optimal state reported a pleasant feeling of relaxation. In this state, the item's volume and channels can be adjusted, though the off switch appears to have no effect.
+
+Hostile: When modern-day items are present in SCP-147's environment, the item will only display extremely violent and gruesome color footage; beheadings, rapes, executions, and torture have all been observed, but as of yet no footage has been broadcast that indicates when or where the scenes depicted took place. The footage is invariably of high visual and audio quality. Subjects exposed to SCP-147 in its hostile state almost invariably vomit due to the graphic nature of the broadcasts after ten to fifteen seconds; one subject suffered a nervous breakdown after two minutes of exposure. Every subject has displayed an extreme reluctance to recall the contents of the broadcasts, and two out of the fifteen subjects tasked with viewing SCP-147's hostile broadcasts have since committed suicide. None of the item's controls respond during hostile broadcasts.
+
+Attempts to examine the internals of SCP-147 have been unsuccessful, as the item's shell resists any and all attempts to crack it open. Placing the item in a Faraday cage in order to negate any possible transmissions it could be receiving had no effect. The effects of long-term exposure to SCP-147 have not been documented.
+
+Addendum: Any and all recreational activities involving SCP-147 are to be scheduled at least one week beforehand with approval by Level 4 personnel.
+
+Addendum [0-40]: See File TC-147-B for further details. After [DATA EXPUNGED] suggestion, several objects manufactured throughout the 1960s era were brought in. Objects made past March of the year 1965 have resulted in a hostile behavior. Exact dating is difficult due to troubles of obtaining materials precisely made on testable dates and times. Reasons as to why it acts in such a way depending on a specific object's date are unknown, and being tested by [DATA EXPUNGED].
+
+Addendum [0-40a]: As has been verified repeatedly, the presence of persons born after March 1965 does not in and of itself trigger a hostile event. For reasons still unknown, SCP-147 objects mainly to manufactured items. Dr. ████████ ████ recently conducted an experiment in which he clothed himself with vintage (pre-1965) articles of clothing, with the caveat that he had three Bic Flair pens (invented in the 1970s) in his shirt pocket. What he saw while seated in front of SCP-147, he would later describe as "a bizarre episode of I Love Lucy featuring a surprising amount of gunplay."
+
+Addendum [1-80]: Recent tests that involved exposing convicted rapists and psychopaths to the object while it was hostile has indicated that the object is able to tailor the images to the viewer. A rapist was strapped into a metal chair manufactured in 1986, and during that time not a single rape was shown on the screen, while scenes of genital mutilation (primarily male) occurred more often. Similarly, a psychopath who had tortured someone to death saw fewer scenes of torture, and more scenes of botched executions.

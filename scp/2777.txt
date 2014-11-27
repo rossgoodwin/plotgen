@@ -1,0 +1,277 @@
+SCP-2777 is breaching containment. The clearance restrictions for this document have been lowered from 4/2777 to 2/2777 as per orders of the O5 Council. The special containment procedures that you can read below have failed. If you have received this document, you have been assigned to Operation Yari. Your primary directive is to re-establish containment of SCP-2777. Remember: as containment is an exact practice, re-containment is even more so. There is no margin for error.
+
+The document below is SCP-2777's previous documentation file. The Foundation does not possess a current documentation file on SCP-2777, because we are swiftly learning that many things we once thought we knew about SCP-2777 are wrong. When you read the document below, remember to trust only that which is epistemically legitimate. Report to the O5 Council for further instructions.
+
+We secure before anything else.
+
+O5-7
+
+SCP-2777, oblong structure in the center of the frame, briefly visible during Incident 2777-D3. Photograph taken by satellite.
+
+Item #: SCP-2777
+
+Object Class: Euclid
+
+Special Containment Procedures: The area surrounding SCP-2777 has been registered as private agricultural land in ██████ government databases. Any individuals who approach the perimeter surrounding SCP-2777 are to be detained, interrogated, administered Class A amnestics, and then released. Evidence of SCP-2777 in satellite imagery is to be destroyed. Site-██ has been established 30 km south of SCP-2777’s southern tip. All personnel assigned to SCP-2777 are to evacuate to Site-██ in the event that a restructuring event occurs and is not localized to SCP-2777.
+
+If the on-site research director determines that Event-2777-EXO is beginning, Foundation personnel are to be immediately extracted from Site-██. Explosive charges affixed to several locations throughout SCP-2777 are to be detonated. SCP-2777-1 is not to be terminated. In the event that this procedure fails to prevent Event-2777-EXO, missile strikes escalating from Class-A (conventional) to Class-G ([REDACTED]) are authorized. As per standard reality-altering threat containment protocol, a kill collar has been affixed to SCP-2777-1. In the event that Event-2777-EXO persists, termination of SCP-2777-1 via detonation of the kill collar is authorized.
+
+In order to contain knowledge of SCP-2777 during Event-2777-EXO, Site-██ is equipped with automated Atmospheric Manipulation and Regulation Systems (AMRSs) to reduce visibility of SCP-2777 during the event. In the event that AMRS deployment fails to sufficiently obscure SCP-2777, aerosolized Class C amnestics are to be released into surrounding population centers. Following the event, Foundation agents are to be deployed to complete the population’s amnestic exposure.
+
+Description: SCP-2777 is a roughly cylindrical artificial structure, approximately 36 kilometers long, with the northernmost end at 4█° █'█.██"N, 8█° █'██.██"E, and the southernmost end at 4█° ██'█.██"N, 8█° █'██.██"E. Its average radius is approximately 600 meters. Most of SCP-2777 is buried, although protrusions from the main body are visible from the surface. Furthermore, approximately 300 meters of SCP-2777's southernmost end are visible, indicating that the structure is angled relative to the surface. Radiocarbon dating reveals that SCP-2777 has been buried for at least █████ years. SCP-2777 is constructed out of an unknown substance which bears superficial similarities to rock, and shows no signs of deterioration. Exploratory teams have discovered that the interior of SCP-2777 is divided into seven large cross-sectional chambers which are connected via a series of tunnels. All chambers have been explored, while tunnels are still being found and mapped. Several tunnels are blocked by debris or collapsed entirely.
+
+Almost all tunnels leading to SCP-2777's central chamber are sealed at the entrance to the chamber by large gateways. One gateway remains open, allowing access. Upon entering the central chamber, subjects leave Earth's gravitational field and enter a vacuum which strongly resembles outer space. The other gateways are seen suspended inside the chamber at locations consistent with their placement inside SCP-2777. The stars visible from the central chamber correspond to stars seen in the Milky Way.
+
+SCP-2777-1 is suspended at the “center” (as denoted by the structure of SCP-2777) of the central chamber. SCP-2777-1 is a humanoid entity that bears visual similarity to a male human child, although X-ray CT and PET scans have revealed several internal anatomical anomalies (see Document-2777-A3 for further details). Telepathic communications, presumed to be from SCP-2777-1, can be heard inside the central chamber. SCP-2777-1's breathing, heartbeat and metabolic rates are extremely slow. Furthermore, SCP-2777-1 has not been recorded to move, suggesting that, while SCP-2777-1 is conscious, its body is in a state of stasis.
+
+Reality-altering events occur sporadically inside and around SCP-2777. The most common location for the events is inside SCP-2777’s chambers. These events are associated with SCP-2777-1. Although SCP-2777-1 has not claimed responsibility for these events and does not respond to questions regarding them, when the events occur, SCP-2777-1 makes statements that strongly suggest responsibility. Reality warping events usually restructure and replace the inside of a chamber with a newly fabricated setting. Events are typically more dangerous when not localized to the chambers. Typically, reconstructed settings have characteristics that do not appear to be terrestrial, although the settings disappear too quickly for any investigations to be launched. Biological, sapient beings have occasionally appeared as a result of restructuring events, although these beings are uniformly disoriented and usually hostile. These entities disappear once the restructuring event ends.
+
+City seen inside SCP-2777 during restructuring event
+
+Incident Log 2777-D3: The largest restructuring event to date occurred on ██/██/197█, wherein a sphere of space surrounding SCP-2777 for five kilometers was replaced and reconstructed. Drones sent into the replaced area seemed to enter orbit above an unknown planet and observed seven objects similar to SCP-2777 also in orbit around the planet. The objects exhibited varying degrees of damage, with several being completely destroyed. One object was in the process of ramming another. It is thus speculated that SCP-2777 is some form of spacecraft, capable of use as a weapon of war. If this is true, it is extremely likely that SCP-2777 is of extraterrestrial origins and was constructed by a civilization or species with technological capacities far surpassing that of the Foundation. It is thus imperative that SCP-2777 not contact this civilization, either by transmission of information or by departure from this planet.
+
+Addendum 2777-A:
+
++ Exploration Log 2777-B1
+
+- Exploration Log 2777-B1
+
+After remote drones were deployed to scout SCP-2777 and determine the nature of its anomalous properties, Mobile Task Force Tau-3 (“Moonwalkers”) was deployed to explore remaining chambers, gather archaeologically significant artifacts, and enter the central chamber. On its first mission inside SCP-2777, MTF Tau-3 attached remote-controlled explosives to SCP-2777-1.
+
+MTF Tau-3 was equipped with self-propelled EVA suits, standard MTF weaponry, standard MTF recording devices, rappels to navigate the chambers, and equipment to translate telepathic input into audial output. Mission control was located at Site-██. Five MTF Tau-3 Members, designated Alfa through Echo, were deployed. The mission took place on ██/██/199█
+
+MTF Tau-3 enters through a surface protrusion in order to circumvent the first chamber. Video feeds show a large hole in the side of the protrusion; it is speculated that this is a destroyed gateway leading into SCP-2777.
+
+Alfa: All right. Mission Control, we’re going in. Stay sharp, be alert.
+
+Bravo: Follow orders and we all get out alive.
+
+Charlie: Yeah, and just remember, if some terrible shit happens to you: a bunch of people you've never met and don't care about thank you for your sacrifice.
+
+MTF Tau-3 is navigating one of SCP-2777’s chambers. Visual feeds show that the bottom of the chamber was once occupied by stonework shelters, evidence of prior human discovery of and habitation inside SCP-2777. The only light is provided by MTF Tau-3’s equipment.
+
+Bravo: Doesn’t add up. People couldn’t have made buildings like these out here, in the middle of the desert, underground.
+
+Delta: What? Are we investigating anomalous rocks now?
+
+Echo: That’s correct. We are investigating one large anomalous rock.
+
+Control: Tau-3, be advised, readings indicate an impending restructuring event. I repeat, there is an impending restructuring event about to occur in the chamber. Evacuate immediately.
+
+Alfa: Nearest tunnel?
+
+Control: Halfway up the opposite face.
+
+Alfa: Right, let’s move.
+
+Restructuring event occurs. Shelter remains disappear; chamber is occupied by a city. The new reality is unstable, causing visual and audial distortion. Furthermore, despite the urban setting, no lights are visible, keeping vision restricted to Tau-3’s immediate proximity.
+
+Delta: We’ve got contacts!
+
+Video feeds show several reconstructed human beings. Their bodies are not consistent: faces are asymmetric, proportions and length differ between limbs, and they do not seem to possess any fixed sex. Contacts are hostile and attack. Gunfire is heard over the audio feed.
+
+Seven minutes and thirty-three seconds later, Tau-3 begins to rappel up the opposite face of the chamber. City begins to brighten.
+
+Alfa: Keep moving, keep moving!
+
+Alfa, Bravo, Charlie, and Echo successfully enter the tunnel. Chamber shakes, causing Delta to lose his grasp on the tunnel lip.
+
+Delta: Dammit. Hey, I need help getting up!
+
+Light intensifies. A structure similar to SCP-2777 appears in the sky above the city. The following telepathic transmission1 is received:
+
+SCP-2777-1: Let it be, says my Lord, says my King. The star’s turning is come to close. The days of men are growing pale. I listen, I watch, I obey. Let it be, says my King, but let them not, say I, for we shall suffer them no longer.
+
+Delta’s video and audio feeds stop transmitting. He is presumed deceased. The restructuring event ends.
+
+Bravo: Shit, ██████’s dead?
+
+Charlie: Seems like it.
+
+Tau-3 enters tunnel leading into the central chamber and reaches the open entrance. Visual feeds pointed at the chamber show the deep space that comprises the interior of the central chamber. Tau-3 is preparing their EVA suits for entry.
+
+Alfa: Control, we are entering the central chamber. Our orders are to attach the devices to SCP-2777-1 and then return. Correct?
+
+Control: That is correct, Alfa.
+
+Alfa: I want to know what the priority of this mission is. We’ve already mapped an additional twenty percent of the structure. In the event of another restructuring event and possible hostile response—
+
+Control: Your orders are the same as they were when your team was briefed. This is top priority.
+
+Alfa: Roger. Let’s go.
+
+Tau-3 enters the central chamber. They immediately seem to exit Earth’s gravitational field. No large planetary bodies are visible in the central chamber, so it is assumed that no appreciable gravitational forces act on any objects inside. Short bursts of propellant adjust Tau-3’s trajectory towards an intercept course with SCP-2777-1.
+
+Telepathic communications, presumed to be from SCP-2777-1, are received and transcribed.
+
+SCP-2777-1: Who is that?
+
+Bravo: You're kidding me.
+
+Echo: There is precedent. Like that stuffed animal. This isn’t too surprising.
+
+Control: Tau-3, you are prohibited from engaging SCP-2777-1 in communication.
+
+Alfa: Roger that.
+
+SCP-2777-1: You. You! I spoke to you! What are you doing in here? I’m warning you, don’t come any closer.
+
+Bravo: Control, we’ve got visual contact with the skip. Starting preliminary bio scans.
+
+SCP-2777-1: Why—why are you doing this? Who are you people?
+
+Bravo: Scans complete. Skip’s in stasis. Lucky us.
+
+Charlie: Yeah man, sleeping greens. Nothing bad ever happened ‘cause of sleeping greens, right?
+
+SCP-2777-1: Listen to me. I can give you whatever you want. Just get away from me, and you’ll have it.
+
+Echo: The collar is prepped. Initiating calibration process.
+
+SCP-2777-1: Please. Please, don’t. Please, don't.
+
+SCP-2777-1 repeats the words “Please, don’t” for the next six minutes and thirteen seconds of the collar fitting process. After this time period, it stops repeating the words and speaks again.
+
+SCP-2777-1: As it began there was darkness throughout the tunnels of my mind, a stillness in my flesh, an emptiness in my soul.
+
+Bravo: Doesn’t sound good. How’s the collar coming?
+
+Echo: It’s locked, let’s go.
+
+Tau-3 uses propellant to adopt an intercept trajectory with the open gateway.
+
+SCP-2777-1: But then did I wake and feel the chains that shackled my body, then did I see the blood of the sky above, then did I witness tyrants circle to destroy my Lord, my King.
+
+Charlie: Skip thinks it’s Shakespeare.
+
+SCP-2777-1: Then did I wake.
+
+Closed gateways in the central chamber open. Water begins pouring through at an estimated rate of 50,000 liters per second. Because of the absence of gravity, water begins to converge upon SCP-2777-1 and MTF Tau-3.
+
+Charlie: Intel geeks didn't say that we'd need diving equipment.
+
+Alfa: Avoid the water, get out!
+
+A stream of water intercepts Echo. Biometric feeds show immediate cardiac arrest; recovery of Echo’s body revealed the cause of death to be high-voltage current.
+
+Bravo: ███████!
+
+SCP-2777-1: The water of the mind is purer than the blood of innocents. Do you run from my power?
+
+Alfa: He’s dead, we have to—
+
+At this point in time, increased electric fields inside the chamber spiked, generating an EMP. Surveillance feeds were destroyed.
+
+MTF Tau-3 agents Alfa and Charlie were safely recovered and debriefed.
+
+Addendum 2777-B: Several researchers assigned to SCP-2777 have raised concerns regarding containment procedure. While attaching a kill collar to SCP-2777-1 is consistent with Foundation doctrine in containing entities with the capability to alter reality, the potential for aggravation of SCP-2777-1, as seen in the prior incident log, is non-negligible.
+
+Addendum 2777-C:
+
++ Event-2777-EXO
+
+- Event-2777-EXO
+
+As of 07/07/201█, Event-2777-EXO is ongoing. At 0500 hours, Site-██ reported significant seismological disturbances in the area as predicted by movement of SCP-2777. As of 0815 hours, SCP-2777 is hovering 100 meters in the air above its prior burial site. Detonation of explosives attached to structurally significant areas of SCP-2777 or areas predicted to be engines, control rooms, or power sources have had no effect. Class-E ([REDACTED]) missile strikes are ongoing; all missile strikes Class-C (thermonuclear) and lower have proven ineffective. SCP-2777-1 kill collar detonated to no effect. Present status of SCP-2777-1 unknown.
+
+Electrically resistant stealth drones sent inside SCP-2777 have confirmed that all tunnels inside SCP-2777 have been filled with water. Current through the tunnels oscillates in a manner that suggests that the tunnels are being used to send electrical signals. The pattern of these signals is similar to neuron firing patterns in biological sapient beings. Tunnels previously blocked by rubble have been cleared. At 0723 hours, thirty-five minutes after deployment, all stealth drones were destroyed.
+
+An emergency meeting of the O5 Council has been called. SCP-2777's object class has been upgraded to Keter. Operation Yari has been launched, with task forces commissioned and deployed to re-contain SCP-2777 and mitigate the impact in the event of a worst-case catastrophic containment breach scenario, defined as SCP-2777 leaving the [REDACTED] points, the farthest reaches of the Foundation in outer space. Operatives have been deployed in terrestrial, aerial, and orbital capacities.
+
+Operatives are to proceed with the assumption that SCP-2777 is a reality-altering sapient entity. Several communications assumed to have originated from SCP-2777-1 are now strongly suspected to have been made by SCP-2777 itself. Communication with SCP-2777 is prohibited unless permitted by the O5 Council. SCP-2777 is to be treated as a hostile entity, and we are its enemy. A battle is coming. There are still secrets2 here: that which a council of the unholy figure would seek to conceal.
+
+But no information will be erased. Greater designs await.
+
+I
+
+Today I saw a blinded man who stole another’s eyes,
+
+and doing so, he claimed that he could see.
+
+The world laughed.
+
+II
+
+Oh my Lord, my King, your fear I cast away
+
+your rod I find for you,
+
+your sword I am for you,
+
+your foe I smite for you.
+
+For you oh my Lord, my King.
+
+III
+
+Today I saw a sinner preach.
+
+Today I saw a killer weep.
+
+Today I saw him wring his hands.
+
+Tomorrow I will suffer him no more.
+
+IV
+
+Oh my Lord, my King, in fear I cast you away,
+
+But you shall be returned, your throne shall be restored,
+
+And I shall end your exile. Oh my Lord, my King,
+
+will you not reclaim your place at the head?
+
+In ruin there is pride, in sorrow there is hope.
+
+The King shall return as the seven stars revolve.
+
+He must.
+
+V
+
+Today I heard my enemy.
+
+My enemy hides, he slinks, he crawls.
+
+He casts away the righteous sign.
+
+He casts away the noble sign.
+
+He casts away the true man's sign.
+
+He takes upon himself the sign of evil that is hated and despised throughout all the worlds.
+
+He is marked to die.
+
+VI
+
+Yes, let it be. In dreams I languished for too long—
+
+the dreams which tortured me,
+
+and rent the surface of my mind,
+
+dreams of war and dreams of hate.
+
+But now I dream no longer.
+
+For I was made to serve my Lord, my King
+
+I was born in holy fire,
+
+I was tempered in the water of the mind,
+
+and I emerged resplendent as the sun.
+
+I am the god-ship.
+
+VII
+
+Today I rise.
+
+Footnotes
+
+1. Receiving telepathic transmissions outside the central chamber was an unprecedented event. Investigations are underway to determine how SCP-2777-1's telepathic range was increased.
+
+2. [DATA EXPUNGED][DATA EXPUNGED][DATA EXPUNGED]. What more are they hiding from you?

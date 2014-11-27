@@ -1,0 +1,39 @@
+SCP-683-1 following an incineration of SCP-683-2. 683-2 reappeared on its surface 49 hours later.
+
+SCP-683-2
+
+Item #: SCP-683
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-683 is to be kept in a standard 8x8x5m research bay equipped with a portable gas-powered generator. SCP-683 itself is to be covered with a suitably large, opaque drop cloth to prevent inadvertent visual contact when not involved in active research. Research bay door should meet Level II hazard control rating (steel door, reinforced hinges, SCPassport keycard access with manual override) but without the standard observation window. Video surveillance is restricted to this exterior door until testing is approved for recorded viewing of SCP-683. No guards should be posted unless approved by Level 3 or higher administrative staff, again to prevent possible inadvertent visual contact. No food or drink is permitted within twenty (20) meters of the containment area. SCP-683 is currently held in research bay Zingiber-4 at Site-19 under these conditions.
+
+Description: SCP-683 consists of two objects: SCP-683-1 and SCP-683-2. When its unique properties are activated, it will produce samples of SCP-683-3.
+
+SCP-683-1 is a white 1953 Crosley Shelvador brand refrigerator showing moderate external wear. Internally, SCP-683-1 appears clean and well-maintained regardless of contents, results of testing procedures, or deliberate attempts to soil it. SCP-683-1's power cord terminates in an unknown plug configuration that has proven incompatible with modern outlets. Foundation electrical engineers have constructed an adapter (Inventory Control Code 19Alys-683-7) allowing SCP-683-1 to run via a standard gas-powered home generator, which is used for all testing. When supplied with electrical power, SCP-683-1 functions adequately as a refrigeration unit. SCP-683-1's unusual properties will function with or without electrical power, but when power is provided, instances of SCP-683-3 produced do not appear to decay or spoil as long as they are kept within the unit.
+
+SCP-683-2 is a child's (age approximated at between 5 and 7 years) drawing on standard 8.5" x 11" white paper, oriented as a landscape, and affixed by unknown means to SCP-683-1's exterior. SCP-683-2 appears to have been created with pencil and felt pen, showing evidence of moderate water damage at some point in its past. The drawing depicts a mountainous exterior landscape with an anthropomorphic sun, a house, a well, a dog, various vegetation, and a central figure which appears to be wearing a chef's toque.
+
+Any person either uttering disparaging remarks about SCP-683-2 or attempting to remove it from the surface of SCP-683-1 begins to incur damage to both internal organs and skin/musculature upon ingesting any food item. The damage manifests as the excision of tissue from various locations on the body equal in mass to the food ingested. This effect ceases once the victim has ingested .42 kilograms worth of food and an equal amount of tissue has been excised. Though observably painful, tissue is excised seemingly instantaneously following each bite of food, and has yet to strike any internal structure that would cause the death of the subject before the .42 kilogram threshold is reached. All subjects have expired within twenty-six (26) days of last excision.
+
+Once the .42 kilogram excision of tissue is complete, a brown "lunch" style paper bag (hereafter SCP-683-3) will appear in the interior of SCP-683-1. SCP-683-3 has consistently been labeled with the name "Eric". Text appears symmetrically in capital letters printed in black ink. Writing style appears consistent with each sample of SCP-683-3. With each appearance, SCP-683-3 has contained the following:
+
+A sandwich consisting of two (2) pieces of white bread (crusts removed) and .21 kilograms of various excised flesh and viscera. DNA analysis has confirmed it to be that of subjects who last disparaged or attempted to remove SCP-683-2
+
+A plastic zip-top bag containing .21 kilograms of various excised flesh and viscera. DNA analysis has again confirmed it to be that of subjects who last disparaged or attempted to remove SCP-683-2
+
+A plastic zip-top bag containing three (3) chocolate chip cookies, measuring approximately 9cm in diameter. Testing shows no abnormalities or traces of DNA
+
+A 3" x 5" note card reading "Be a good boy today!" Ink is black and handwriting is consistent in style with the "Eric" written on SCP-683-3's exterior
+
+Following testing, all instances of SCP-683-3 have been incinerated with no unusual effects.
+
+SCP-683-2 cannot be removed from SCP-683-1, and all attempts to do so have resulted in the activation of SCP-683's unusual properties. Without any attempt to remove it, SCP-683-2 has been set alight and incinerated via a simple match on three (3) occasions, but has returned to the surface of SCP-683-1 within sixty-eight (68) hours each time. Despite expectations, D-Class personnel who performed the incinerations were unaffected by SCP-683.
+
+If multiple subjects disparage or attempt to remove SCP-683-2 at one time, only the first subject to do so experiences its effects. No further subjects can be affected until production of an instance of SCP-683-3.
+
+Subjects who fast following removal attempts or disparaging of SCP-683-2 are unaffected until they attempt to ingest food. To date, two (2) subjects have starved themselves to death without suffering any effect from SCP-683. Subjects fed intravenously following removal attempts or disparaging of SCP-683-2 have been affected as if they were consuming solid foods.
+
+Discovery: SCP-683 was discovered in a storage unit adjacent to the home of one Yolanda ██████████ of ████████████████, Washington. A collector of vintage refrigerators and furnishings, Miss ██████████ claims to have simply found SCP-683 unattended on a street corner in late July, 19██. Her nephew, who reportedly helped her move the item, died two weeks following the move (C.O.D. on cert listed as complications from hernia). The item was brought to the Foundation's attention when an appraiser occasionally under contract with the Foundation (through front agency Sentiments of Centuries Past Ltd.) became a victim of SCP-683's effects while evaluating Miss ██████████'s "find".
+
+When asked why she never attempted to remove SCP-683-2, Miss ██████████ replied, "It's a nice little picture, isn't it? Why take it down?"

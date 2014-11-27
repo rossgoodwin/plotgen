@@ -1,0 +1,85 @@
+Item #: SCP-728
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-728 is to be kept within a class IV containment vault at Sector-██. To date the item has shown no activity to warrant anything other than standard security procedures to prevent unauthorised access.
+
+Description: SCP-728 appears to be a standard shipping container, 12.19 m by 2.44 m by 2.90 m. The exterior is painted red, and shows some signs of weathering. Markings and numbers on the exterior are consistent with the system used by [DATA REDACTED]; however, no such designation has ever been assigned to one of their containers. Analysis of the material used in constructing the container has found it to be made from terrestrial metals, though not in any combination usually associated with the construction of shipping containers.
+
+The interior space is consistent with that of a standard shipping container, with the exception that it is constantly at a comfortable temperature and light level for human occupation, despite no methods of heat regulation or lighting being present.
+
+When the doors are closed, the interior space experiences the flow of time differently from the outside world. This difference is neither consistent nor predictable, with the flow of time capable of both speeding up and slowing down, and in some cases apparently reversing. Any equipment which could be used to record the flow of time, such as stopwatches, will function normally within the container. However, upon opening the doors such devices will suffer a catastrophic failure and completely cease to function, with all data being erased. This extends to all data recorded while the doors were closed, and so far no medium has been found which can resist this effect, save for pen and paper. For this reason, the only reliable method to record the passage of time within SCP-728 is through the use of a human observer.
+
+SCP-728 is as vulnerable to damage as any object made from [DATA REDACTED]; however, perforating the container causes the primary effect to no longer function. Any damage inflicted upon SCP-728 appears to “undo” itself after a random amount of time, possibly as a side effect of SCP-728’s ability.
+
+Experimentation Log: Experiments consisted of sealing a person/persons within SCP-728, measuring how much time passed in the outside world, and comparing this to the subject’s experience measured with a standard watch.
+
+Date: 06/07/20██
+
+Researcher: Dr. ██████
+
+Subject: D-7466
+
+Time elapsed: 5 minutes
+
+Subject’s Experience: 2 hours
+
+Date: 06/07/20██
+
+Researcher: Dr. ██████
+
+Subject: D-7466
+
+Time elapsed: 1 hour
+
+Subject’s Experience: 1 minute 30 seconds
+
+Date: 06/07/20██
+
+Researcher: Dr. ██████
+
+Subject: D-7466
+
+Time elapsed: 1 hour
+
+Subject’s Experience: N/A
+
+Researcher's Note: Subject’s body was found in a sitting position against the rear wall of SCP-728, apparently mummified. Tests dated the body as approximately ████ years old. Subject’s hands were severely damaged, with multiple fractures and lacerations. Subject’s right leg was broken. An organic compound was found on the doors of SCP-728 which was identified as [DATA REDACTED].
+
+Date: 06/07/20██
+
+Researcher: Dr. ██████
+
+Subject: D-9558
+
+Time elapsed: 1 hour
+
+Subject’s Experience: N/A
+
+Researcher's Note: When SCP-728 was opened, subject was no longer present. Testing suspended for today.
+
+Date: 06/10/20██
+
+Researcher: Dr. ██████
+
+Subject: D-9558
+
+Time elapsed: 66 hours
+
+Subject’s Experience: N/A
+
+Researcher's Note: When questioned as to how much time had passed, subject was adamant we’d never closed the doors.
+
+Date: 06/10/20██
+
+Researcher: Dr. ██████
+
+Subjects: D-9558, D-8627, D-4513
+
+Time elapsed: 1 hour
+
+Subjects' Experience: N/A
+
+Researcher's Note: Subjects were interred within SCP-728 with enough rations to last all three men five years, as well as a supply of notebooks and pens. Subjects were instructed to keep a record of their experiences while inside. When the container was opened, all three were found dead. Subjects D-9558 and D-4513 had both suffered severe beatings, and apparently died from their injuries. Evidence suggests that their bodies had been disemboweled and subjected to acts of [DATA REDACTED]. Subject D-8627 had died from disembowelment, apparently self inflicted.
+
+The logs were apparently kept as specified for █ years, before slowly degrading into unintelligible ranting. Similar writings were found on the walls of SCP-728, written in the blood and faeces of all three subjects, although fingerprinting identified that D-8627 was the only writer. Analysis of the faeces found that, in all three cases, it was most likely taken directly from [DATA REDACTED].

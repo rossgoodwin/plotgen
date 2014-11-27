@@ -1,0 +1,61 @@
+Item #: SCP-1474
+
+Object Class: Keter Safe
+
+Special Containment Procedures: SCP-1474 is to be surrounded by at least 400 individual garlands composed of common daisies (Bellis perennis). Each individual garland must be composed of no less than 1080 flowers.
+
+Two level-1 Foundation personnel fluent in Mandarin Chinese are to monitor SCP-1474-02 for potential changes in necessary containment procedures at all times. In the event of a containment breach, all air from the containment area is to be vented into an adjacent storage facility. D-class personnel wearing self-contained breathing apparatus are to enter and enact new containment procedures. Should the necessary time for the enactment of new containment procedures exceed one hour, the containment area of SCP-1474 is to be vacated until all SCP-1474-03 has been successfully removed from the area.
+
+SCP-1474 is to be kept in Outdoor Storage Area 36. No attempt to enclose SCP-1474 is to be made.
+
+Description: SCP-1474 is an installation composed of three parts, numbered SCP-1474-01, -02, and -03. SCP-1474-01 is a mechanism contained within a standard 12 x 2.4 m shipping container. The container has several hundred holes drilled into the top and sides, presumably to allow the escape of SCP-1474-03. SCP-1474-01 is constructed from wheels, pipes, gears, refrigerators, police tape, cogs, water coolers, and springs. It is capable of operating indefinitely without a power source. During operation, component pieces of SCP-1474-01 become impossible to break or harm. If a part of the object is removed during SCP-1474-01's passive state, the object continues to function, regardless of the loss. If efforts to contain SCP-1474-01 are unsuccessful, or if its containment procedures change, it automatically begins to operate. It is not known how the object is able to detect changes in its environment, nor how its operation is capable of adapting to containment procedures. See Addendum 1474-G-87r for additional details.
+
+SCP-1474-02 is a █████-brand speaker affixed to the casing of SCP-1474-01. Attempts to activate it or locate an internal or external power source have been unsuccessful. SCP-1474-02 activates an average of once every three days. When active, it announces a new series of containment procedures in Mandarin Chinese. The conditions of the announcement must be met to maintain the passive state of SCP-1474-01. Immediately following the announcement of changing containment procedures, previous containment procedures for SCP-1474-01 cease to function, and SCP-1474-01 begins operation.
+
+Following operation for more than one hour, SCP-1474-01 releases an aerosol composed of several compounds, including liquid polythene, melamine formaldehyde, and polyvinyl chloride, designated SCP-1474-03, at a rate of 500 liters per second. Upon contact with a solid, it immediately condenses and forms a barrier around the surface of the object. When coated in a layer of SCP-1474-03, subjects have been immobilized in 100% of recorded instances. In the event of inhalation, SCP-1474-03 will coat the interior of the subject's lungs, leading to death by asphyxiation. Non-pulmonary exposure to SCP-1474-03 does not have any lasting adverse side-effects, and the coating can be removed without significant injury. The means by which the components of SCP-1474-03 have been aerosolized is unknown. SCP-1474-01 and -02 appear immune to the effects of SCP-1474-03, and continue to function without incident in its presence. Review of security footage has revealed that SCP-1474-03 is not emitted by any one portion of SCP-1474-01, but rather comes from the object as a whole.
+
+Selected Former Containment Procedures
+
+██/█/20██: SCP-1474-01 is to be surrounded by a ring of 19 D-Class personnel wearing standard People's Liberation Army (PLA) uniforms and fitted with standard CDS collars. The D-Class personnel are to be instructed to sing the Chinese children's song "Liang Zhi Lao Hu" and skip in time to the song. In the event of fatigue, the CDS collars are to deliver a dose of 3 mg of Stimulant Batch 87 to the jugular vein. Any D-Class personnel attempting to break or leave the ring is to be terminated immediately. Remaining D-Class personnel are to close the ring as quickly as possible and continue containment procedures.
+
+█/█/20██: One D-Class personnel fluent in Mandarin Chinese and clad in a Chinese tunic suit (popularly known as a "Mao suit") is to enter the container for SCP-1474-01. The door to the container is to be closed and locked. The D-Class is to narrate an account of their life, from conception to death, told in the first person. The narrative is to be embellished at every possible point, leaving only the most basic elements intact. All narratives are to last at least three hours and are to end with the phrase "I forwent attachment and in so doing, won against myself."
+
+█/██/20██: 400 Papilio paris (Paris Peacock butterfly) larvae are to be introduced to the container for SCP-1474-01, along with 100 kg of Standard Nutrient Substance 83-n. The doors to the container are to be sealed for 14 days. Upon unsealing of the doors, D-Class personnel equipped with butterfly nets are to attempt to recapture as many butterflies as possible.
+
+For a complete list of containment procedures, consult document 1474-8f.
+
+Recovery Log 1474
+
+SCP-1474 was discovered by police at 5:30 AM at 09/10/20██ in ███ ████ Park in ███████, China. At the time of discovery, no part of the object was active. The container was opened by Officer ██ ███, who mistook SCP-1474-01 for an explosive device. At 5:45 AM, members of the local bomb squadron arrived to attempt to defuse the object. A cordon was placed in a 400 m radius around the object at 5:47 AM, and civilians evacuated from the area. At 5:48 AM, SCP-1474-01 and -02 became active, with SCP-1474-02 detailing that a paper mâché mountain be built to cover it. Attempts to disarm or remotely detonate SCP-1474-01 proved ineffective, and at 6:48 AM, approximately 10,000 liters of SCP-1474-03 was released into the park, leading to seventeen casualties. At this time, several Foundation agents embedded in the ███████ Police Department reported the incident, and the object was eventually taken into Foundation custody.
+
+Upon containment, a small placard was found inside SCP-1474-01. For further details, see document 1474-1d-29
+
+Document 1474-1d-29
+
+In Solidarity with Xiu Lidao1, Great Sage, Equal of Heaven
+
+Zhang San2, 2508
+
+Only what is clung to can be lost. Only what is trapped can escape.
+
+Request 1474-03-f
+
+After █ months and over ██ different containment procedures for SCP-1474, the time has come to reevaluate its nature. It is not simply an anomalous object; it is a work of art, and must be viewed as such. The placard found within suggests that it is political in nature, specifically about a Chinese political prisoner. Its anomalous properties began to manifest the second that the police barrier around it closed, and have only continued despite our best efforts at containment. As a work of art, it is dependent on context. The context for the work is containment and imprisonment; if we no longer contain it, containment will cease to be an issue. Requesting permission to relocate SCP-1474 outdoors in a non-enclosed area.
+
+- Dr. Lomax
+
+Request granted. SCP-1474 is to be moved temporarily to Outdoor Storage Facility 36. -O5-██
+
+Addendum 1474-G-87r
+
+After several rounds of testing, it appears that SCP-1474 ceases activity when not enclosed. For the past five weeks, SCP-1474-01 and -02 have been completely inactive. Propose changing containment procedures to reflect these findings.
+
+- Dr. Lomax
+
+Request granted. -O5-█
+
+Footnotes
+
+1. Chinese artist and political activist. Arrested in 2005. Currently serving a ten-year prison sentence for "disruption of political harmony and agitation against the State."
+
+2. A Chinese placeholder name, used in a context similar to that of "John Doe" in English

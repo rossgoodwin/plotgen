@@ -1,0 +1,21 @@
+Documentation of SCP-649, prior to initial containment.
+
+Item #: SCP-649
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-649 is to be kept closed in a standard containment locker, located within Site-77. It should not be opened unless testing is being performed. SCP-649 is not to be moved from its containment chamber unless testing is being performed. In case of containment failure, heating implements should be placed in the cell to inhibit SCP-649's effect.
+
+Description: SCP-649 is a Diamond brand matchbox, capable of holding the standard thirty two(32) match count.1 It has a mark on the underside of the box, resembling a snowflake. Whenever SCP-649 is left open for more than fifteen(15) minutes, its anomalous properties will manifest. The area SCP-649 is held in will experience a sudden decrease in temperature, followed by strong winds. These winds will still develop if the item is indoors.
+
+When the temperature in the area SCP-649 reaches 0 degrees Celsius, the area around SCP-649 will begin to exude large amounts of snow and sleet. In addition, SCP-649's area of effect will rapidly increase, to a radius of 1km. The sleet and snow will be continuously produced by SCP-649 until the entire radius is covered by snowfall at least three(3) meters deep with a temperature below -30 degrees.
+
+SCP-649's area of effect will expand at a rate of fifteen(15) meters an hour, continuously. In addition, tundra-like conditions will develop near the epicenter of SCP-649's effect, expanding at the same rate. The temperature within SCP-649's radius will stay at a constant -45 degrees Celsius. This effect will continue indefinitely, with the only known means of halting the expansion of the area of effect being to close SCP-649's lid.
+
+SCP-649 was recovered on 06/19/1987, from ███████████, WV. Reports had reached Foundation operatives indicating that the town was experiencing blizzard conditions, which prompted investigation. SCP-649 was found in the center of the town, within a cemetery. Agents were able to contain SCP-649 on 04/16/1987, classifying it as Euclid. Amnesiacs were dispersed to local citizens, and a cover story blaming the incident on global warming disseminated.
+
+Addendum 649-A: SCP-649 was left open for approximately one hour and forty-eight minutes(1:48:00). After one hour and forty five minutes(1:45:00), children's laughing could be heard, and a snowball hit Dr. Pena. Silhouettes of small forms could be seen through the fugue. Three(3) D-Class personnel were sent to investigate. When they did not return after an additional twenty(20) minutes, SCP-649 was closed and containment protocol initiated. The D-Class personnel have not been recovered. When the tape was replayed, one of the D-Class could be seen led by small figures through the walls of the test chamber. Records on the missing personnel indicate all three (one(1) male, two(2) female) had had children who had died before adolescence. All testing with such personnel has been suspended.
+
+Footnotes
+
+1. Note that SCP-649 contains no matches.

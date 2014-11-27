@@ -1,0 +1,31 @@
+Item #: SCP-636
+
+Object Class: Euclid
+
+Special Containment Procedures: The building containing SCP-636 has been officially condemned for supposed mold contamination, and the lot fenced off to prevent unwanted intrusion. A minimum of two (2) armed, undercover guards are to be posted at ground level and any unauthorized individuals attempting to enter the building must be detained and questioned. Any experimentation on SCP-636 must only be performed with prior permission from at least two (2) level 3 personnel.
+
+Description: SCP-636 is a maintenance elevator at the ██████ ██████ Hotel located at [DATA EXPUNGED]. Unlike the other elevators in the building, SCP-636 contains a magnetic card reader, which when used with a specific card key will cause the elevator to move to a third sub-basement beneath the building. According to the building plan, there are only two sub-basements beneath the building, and the owner of the property was not aware of an elevator with magnetic card access.
+
+Whenever any individual attempts to access this floor via SCP-636, the elevator appears to work normally. However, upon reaching the non-existent floor all contents of the elevator (including any personnel or remote monitoring equipment) will disappear. Exploration of the elevator shaft itself has yielded no useful information. While the shaft does extend to a third sub-basement level, there are only blank walls at that depth and video cameras placed within the shaft have shown no unusual activity when the elevator reaches the bottom.
+
+Furthermore, SCP-636 will periodically move to the third sub-basement level on its own. Upon its return to ground floor the elevator car has occasionally contained anomalous objects as documented below.
+
+SCP-636 came to the Foundation's attention on █/██/200█ following the disappearance of two elevator mechanics during routine maintenance of the building's elevator systems. A two-man initial exploration team was sent into SCP-636 and subsequently lost, after which the site was placed on lock down and the owner and all witnesses given Class A amnesiacs. Current containment procedures were put into effect shortly afterward.
+
+Addendum 636-01: Log of Notable Anomalous Events
+
+Date: ██/██/200█
+
+Description: SCP-636 called to bottom floor for approximately 6 minutes before returning to ground floor. Upon its return, the fully disassembled parts of two (2) helmet-mounted video cameras were found on the floor of the elevator car. Analysis of the components confirms that they belonged the members of the initial exploration team. Memory cards and recording media of the cameras were blank.
+
+Date: ██/█/200█
+
+Description: SCP-636 called for approximately 2 minutes before returning to ground floor. According to the testimony of the armed guards stationed at ground floor, the walls of the elevator car were covered with hundreds of human eyeballs that tracked them for several seconds before the doors closed and the elevator was recalled to the bottom floor again. Elevator car was found empty afterward.
+
+Date: █/██/200█
+
+Description: SCP-636 returned after 4 minutes and 17 seconds, and contained approximately 11 kg of shredded Egyptian cotton fabric soaked with blood. Analysis of the blood samples are inconclusive, as recovered DNA does not seem to match that of any known terrestrial animal.
+
+Date: █/██/201█
+
+Description: SCP-636 returned after 8 minutes and 42 seconds. Upon opening, a naked and emaciated male later identified as Agent ███████ of the initial exploration team began pounding on the buttons and screaming that he "had to go back". Agent ███████ managed to disarm and kill one armed guard and injure the other before running back into SCP-636 and disappearing.

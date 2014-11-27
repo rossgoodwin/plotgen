@@ -1,0 +1,169 @@
+SCP-1741-A
+
+Item #: SCP-1741
+
+Object Class: Euclid
+
+Special Containment Procedures: Area-1741 has been constructed as the primary research and containment facility for SCP-1741 and is surrounded by a three meter high fence with a 300 meter radius centered around SCP-1741-A. Civilians are to be deterred under the guise of private property, and any non-Foundation personnel found within the containment zone are to be given Class C amnestics and released.
+
+Remote surveillance via D-17412 is to be monitored at all times the equipment on D-17412's person has power. After a Wake event, personnel are to debrief D-17412 on the current situation. Exploration goals, which can be found in file 1741-ELG, are to be given at this time.
+
+Description: SCP-1741 is the collective designation for a series of anomalies centered around an indestructible two meter tall brick shack (designated SCP-1741-A) located on the bank of the [REDACTED] river in southern Louisiana. The door of SCP-1741-A cannot be opened. The interior of SCP-1741-A is only visible when the window is opened by the humanoid (SCP-1741-C) within. When this occurs, the second anomalous property of SCP-1741-A is revealed; volume of the interior is vastly greater than the exterior appearance of the building should allow. Visible contents of SCP-1741-A resembles an establishment colloquially referred to as a soda fountain, with the window acting as a drive-thru window despite most such establishments lacking one.
+
+SCP-1741-B are several aquatic vehicles surrounding SCP-1741-A. SCP-1741-B instances are stylized as different marine animals, all in various states of disrepair. Should instances of SCP-1741-B be removed from a eighty meter radius from SCP-1741-A, a new instance of SCP-1741-B will rise from the bottom of the river.
+
+An instance of SCP-1741-B in a state of disrepair
+
+SCP-1741-C is a male humanoid of European descent, dressed in zoot suit. SCP-1741-C possesses no visible anomalous anatomy, though it does not appear to require nourishment and does not age. SCP-1741-C will attempt to sell boat rides to anyone who approaches SCP-1741-A. An instance of SCP-1741-B will spontaneously self-repair for each human who purchases a ride, the price of which is three dollars. The newly repaired SCP-1741-B will drift to the riverbank until the customer boards.
+
+Should a customer travel more than eighty meters from SCP-1741-A, the repaired SCP-1741-B will ram itself into another instance of SCP-1741-B and sink from the subsequent structural damage. Only one human is permitted per instance, and if more than one attempts to board, the SCP-1741-B will break apart. SCP-1741-C will not provide a refund for ships damaged in either of these ways.
+
+When a customer successfully boards, SCP-1741-B will autonomously travel down the river, disappearing from visual surveillance after approximately twenty meters of movement. Remote surveillance remains active, revealing the SCP-1741-B transports the customer to an archipelago of variable number1 of islands located outside of conventional space. Each island holds a designation of SCP-1741-#, and each exhibits a unique anomalous characteristic, available in the table below. The instance of SCP-1741-B will crash upon the shore of the newest island, and sink.
+
+Island
+
+Anomalous characteristics
+
+Occupant, Year
+
+SCP-1741-1
+
+Spacetime anomalies are prevalent throughout SCP-1741-1. Source of Wake Events.
+
+No known occupant
+
+SCP-1741-2
+
+SCP-1741-2 is inhabited by a series of featureless humanoids. All humanoids are extremely violent, but do not possess excessive strength.
+
+Jean-Paul Dumas, a French soldier. 1801
+
+SCP-1741-3
+
+Airborne amnestics appear to be present in the atmosphere of SCP-1741-3. All fruit grown on SCP-1741-3 are apples, the consumption of which combats the amnestics.
+
+Arthur Smith, a Catholic priest. 1954.
+
+SCP-1741-4
+
+Majority of SCP-1741-4 is a expanded market filled with featureless humanoids selling and purchasing various goods using an unknown currency. This market is the only source of edible resources on SCP-1741-4.
+
+D-17411. 2003
+
+SCP-1741-5
+
+SCP-1741-5 contains a sapient anomaly that claims to be a god. The anomaly does not appear to have a physical form, only appearing as a large shadow cast independent of the sun's light.
+
+D-17412. 2003
+
+A Wake Event is a large-scale spacetime anomaly centered around the archipelago. The start of a Wake Event requires an instigator to activate a device on SCP-1741-1. A Wake Event will cause the arrangement of the islands within the archipelago to be randomized. All occupants of the archipelago are instantly returned to the instance of SCP-1741-B they arrived on, with all but the instigator of the Wake Event having lost all memory of the previous "session." All SCP-1741-B will then crash onto their respective islands.
+
++ Interview SCP-1741-C 01: 
+
+- Close Interview SCP-1741-C 01: 
+
+Interviewed: SCP-1741-C
+
+Interviewer: Agent Cruz
+
+Foreword: The window of SCP-1741-A opened when Agent Cruz came within twenty meters, SCP-1741-C attempted to gain his attention by yelling and waving.
+
+<Begin Log>
+
+SCP-1741-C: Hello there, friend! My name is Alan Pearce, and I've got a great offer for you! Can I interest you in a boat ride? Real cheap!
+
+Agent Cruz: Maybe. I was wondering if you could answer some questions for me.
+
+SCP-1741-C: Fire away, bud.
+
+Agent Cruz: How long have you been operating here?
+
+SCP-1741-C: Uh… Honestly, I couldn't say. A long time. What year is it?
+
+Agent Cruz: You don't know the year?
+
+SCP-1741-C: The door is locked. I cannot unlock it. And this window is way too small for me to get through.
+
+Agent Cruz: You're trapped.
+
+SCP-1741-C: That I am, friend.
+
+Agent Cruz: It's 2003.
+
+SCP-1741-C: Oh, wow. Uh… Well, I found the shack back in 1946. Dunno how long I've actually been running it.
+
+Agent Cruz: You've been here for almost fifty years?
+
+SCP-1741-C: Well, not exactly. It… I can't really get into too much detail. Confidentiality. My, uh, "employers" don't allow me to talk too much about it. I've been here a long time, alright? Too long, in my humble opinion.
+
+Agent Cruz: Can you explain how you've managed to survive for that long?
+
+SCP-1741-C: Eh… Lemme think, I gotta word this right or I'll catch hell for it. Somebody, a… um… I guess a potential coworker? <SCP-1741-C braces itself, and continues after two seconds> …Apparently I can say that. Said there's some timespace shenanigans going on. I don't age so long as I'm in here. Don't need to eat either, though I have all the grub I could want in here.
+
+Agent Cruz: You said you have coworkers? I don't see anyone else in the restaurant.
+
+SCP-1741-C: "Potential" being the key word. They're, uh… still in the application process.
+
+Agent Cruz: How does one apply?
+
+SCP-1741-C: That I can't say, I know that. Um… Really, mac, if I keep jawing this much I'm gonna say something I shouldn't. Care to buy a boat ride?
+
+Agent Cruz: How much?
+
+SCP-1741-C: Only three dollars!
+
+Agent Cruz: Boat ride to where? This isn't a very deep river. And all your boats are broken.
+
+SCP-1741-C: It's a mystery! Part of the adventure. You'll see some sights, heh, I can promise you that. Hooboy, yeah, you will seem some things. And don't you worry about the boats, I got that covered. So, interested?
+
+Agent Cruz: Perhaps another time.
+
+SCP-1741-C: I get you. The cautious type, don't want to pay for something if you don't know exactly what you're getting. Well, I'll be here if you change your mind. Tell your friends! Always happy to see new customers.
+
+<End Log>
+
+Closing Statement: Background study has revealed that Alan Pearce went missing in 1946. SCP-1741-C physically resembles Alan Pearce, though no conclusion has been made whether SCP-1741-C is truly Alan Pearce or the SCP-1741 anomaly is mimicking him.
+
+- Close Interview SCP-1741-C 01: 
+
++ Exploration Log 01
+
+- Close EL01
+
+Foreword: After the disappearance of D-17411 and her SCP-1741-B, it was decided to attempt a second experiment using remote surveillance equipment attached to the participating D-Class.
+
+Camera activates. D-17412 is sitting in an instance of an octopus-stylized SCP-1741-B as it travels down the river at a slow pace. SCP-1741-B navigates river to avoid other instances and debris within the river. D-17412 looks to Agent Cruz, who is walking along the riverbank abreast of the boat. Agent instructs D-17412 to remain calm and to prepare for the teleportation event, and to attempt communication after said event.
+
+After twenty meters, visuals instantly change. Instance of SCP-1741-B is now in a calm ocean, heading toward an island containing a coniferous forest. A large stone tower is visible above the treetops. Other islands of the archipelago are visible, but obscured by fog. SCP-1741-B shakes as if striking something. D-17412 leans over edge of boat to confirm jagged rock formations. SCP-1741-B strikes another rock, breaching the hull. SCP-1741-B begins taking on water. D-17412 questions whether camera is waterproof. When HQ confirms the camera is waterproof, D-17412 abandons ship. D-17412 swims to the shore, consisting of a sandy beach. D-17412 watches SCP-1741-B sink before entering the forest.
+
+D-17412 continues in the direction of the stone tower. Fragments of ruins are spread across the forest floor, each piece depicting unknown runes. D-17412 enters a clearing, in the center of which is the stone tower covered in runes. Although the sun is on the opposite side of the tower, it does not cast a shadow over D-17412. D-17412 walks a circle around the tower, confirming it does not cast a shadow in any direction. D-17412 exits clearing, periodically turning to use the stone tower to maintain a sense of direction.
+
+Three hours after leaving the clearing, D-17412 falls to the ground. Camera vision is obscured, shouting from both D-17412 and an unknown male is heard. Camera is removed from D-17412's person. A Caucasian male centers the camera's view on his face and speaks in a French accent.
+
+"Well, hello. Yet another newcomer dressed in orange. Only this one brought toys. In order to get off the archipelago, you have to complete a test specific to your island. Unfortunately, your boy here already has made a series of mistakes. I suppose he didn't read his brochure."
+
+Male drops camera and departs. Blood, presumably D-17412's, can be seen pooling at the edge of the camera's vision. No further activity until the equipment runs out of power.
+
+- Close EL01
+
+All exploration logs can be accessed by all personnel with clearance for this article; however, Exploration Logs 02-11 will be redacted from this document for the sake of brevity. These explorations were used to outline the islands' effects in the table above. During these logs, D-17412 found a brochure in his SCP-1741-B instance. This brochure encouraged readers, under the guise of being part of a tour, to visit the stone tower when the sun was directly above it.
+
++ Exploration Log 12 Excerpt
+
+- Close EL12
+
+Camera activates. D-17412 is standing in the clearing, ten meters from the stone tower. A large circular shadow is being cast from the tower, shading D-17412. Although no sound is detected by the surveillance equipment, D-17412 claims to hear a voice. D-17412 repeats the word "Decalogue" several times before deactivating the camera.
+
+Camera activates after twenty-two hours. Camera vision turns to the corpse of D-17412, who is now clothed in dark blue robes. The hand of the person wearing the camera searches the body. The person, who then identifies themselves as D-17411, removes the stone prism from D-17412's pocket. She explains she found D-17412 dead, and she is required to steal his trinket. HQ briefs D-17411 on the apparent temporal anomalies surrounding the archipelago. D-17411 acknowledges this information and then deactivates the recording equipment.
+
+Camera activates after thirteen hours. D-17411 is standing on a plateau overlooking SCP-1741-1. It is unknown how she managed this, as attempts in previous logs were met with failure. She turns to face a pedestal, the top of which resembles a clock with a small stud in the center. She places her hand on the stud and presses.
+
+Footage instantly changes to the perspective of D-17412 in his SCP-1741-B, approaching SCP-1741-5.
+
+- Close EL12
+
+Addendum: On 05/08/2005 the door of SCP-1741-A opened, and SCP-1741-C exited the building. The door shut without any further interaction. Foundation personnel captured SCP-1741-C, who did not resist. The window of SCP-1741-A then opened, revealing D-17411. The interior of SCP-1741-A now resembled a typical fast food restaurant, with various television sets displaying footage of the human occupants of the archipelago. D-17411 has been designated SCP-1741-C-2, the former -C designated SCP-1741-C-1. SCP-1741-C-2 declined explaining how it entered SCP-1741-A. It then offered to sell the questioning agent a boat ride.
+
+Footnotes
+
+1. Testing has revealed that the number of islands is dependent on the on the number of humans on the archipelago, currently four.

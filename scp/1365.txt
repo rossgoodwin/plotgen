@@ -1,0 +1,25 @@
+Item #: SCP-1365
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1365 is to be kept in its containment chamber at Site 73. A mockup bike rack created for containment purposes has proven sufficient at neutralizing SCP-1365's teleportation abilities; in order to ensure it does not breach containment, no bike racks or other structures designed for temporary bike storage are to be constructed within a 100 metre radius of SCP-1365's containment chamber. Testing requires the approval of a Level 3 administrator and is only to be carried out on D Class. During approved testing, medical staff must be on call in the event that the test subject survives its encounter with SCP-1365.
+
+Description: SCP-1365 is a 2007 ██████ brand bicycle, serial number [REDACTED]. SCP-1365 is unremarkable in appearance, aside from being in excellent condition and bearing a small sticker reading "BIKE JUSTICE" attached to its main body.
+
+Whenever a human attempts to mount SCP-1365 and ride it for a distance greater than 20 metres, SCP-1365 enters its active state. Subjects will find themselves unable to control their legs or arms, with both being used to steer and power SCP-1365 without any direction or guidance from the subject. After ten minutes or 500 metres of travel, whichever is sooner, SCP-1365 will forcibly dislodge the subject, either via crashing into an inert object or simply throwing the subject off. In 90% of cases, the force used by SCP-1365 is sufficient to kill or fatally wound the subject upon impact, with the remaining 10% of subjects usually suffering a permanent disability impeding motor functions, such as paralysis.
+
+Three to four hours after the death or incapacitation of the subject, SCP-1365 will vanish from its current location and reappear at the nearest location designed for the temporary storage of bikes in public places. Through unknown means, any damage sustained during the previous activation event will be repaired, and any evidence of previous use (such as blood stains from a previously killed subject) will be removed. Separating sections of the bike and putting them in different locations results in all separated pieces reforming at the storage location within the allotted time.
+
+In all cases, SCP-1365 has never been accompanied by a bike lock or similar anti-theft device. While SCP-1365 displays no compulsive or memetic properties encouraging subjects to use it, it is nonetheless frequently activated if left uncontained, likely due to its pristine condition and the lack of anti-theft measures normally taken to protect a bike.
+
+Addendum: After an activation event on 22 Jul 20██, a note was found attached to the body of D-34242, the deceased test subject. The note was of the same composition as the "BIKE JUSTICE" sticker on SCP-1365, and was considerably difficult to remove:
+
+SHAME THE STEALERS
+
+BIKES ARE EXPENSIVE, AND ALL WHO TAKE THEM FROM OTHERS ARE HUMAN SCUM.
+
+NOW IS THE TIME TO STRIKE!
+
+WE CAN BEAT THEM IF WE TRY!
+
+BIKE JUSTICE

@@ -1,0 +1,63 @@
+Item #: SCP-861
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-861 is contained at Sector-135-861, which is located 370m southwest of the main site. All personnel assigned to Sector-135-861 are to be cleared by Protocol-Narthex-861 prior to transfer. This entails a score of 83 or above on the Foundation Standard Compliance Examination (SCE-V.4), and a classification of LR: Type-H on the Personality Analysis Regimen (PAR-V.5). In addition, personnel are to be screened by 2 personality examinations devised by Dr. ████ Chancey. No personnel, regardless of security clearance, are to be allowed on-site without Narthex approval. At least one personnel with Narthex approval must remain on-site and within 50m of SCP-861 at all times, barring Choir Events. No D-Class personnel are to be allowed on-site barring those for approved SCP-861-A testing.
+
+SCP-861 is contained in an open 1500L steel crate and housed in a 8m x 4m x 8m concrete vault. Personnel are not to make direct contact with SCP-861. Personnel are to respect a 40m no-access perimeter around SCP-861, which may only be violated for the purposes of experimentation or recovery. Level 3 or lower personnel that violate this distance for any reason are to be administered Class-A amnestics.
+
+The containment chamber is to be opened immediately during a Choir Event, and the provoking subject must be subdued to expedite completion of the event. The resulting entity is then to be terminated (see DOCUMENT-NAVE-861 for details). Following the event, personnel are to return SCP-861 to its crate via electronic suction. Only Level 4 or higher personnel are to be employed in termination and recovery.
+
+Description: SCP-861 is a 1170L mass of liquid superficially resembling water with a fixed temperature of 27 degrees Centigrade. Any amount of the material that is forcibly displaced from the central mass will dissipate, and SCP-861 will generate an equal amount of new material to replace this loss. SCP-861 continuously emits a flame of variable color, generally violet or indigo; this flame generates no identified heat, and is non-hazardous to contact. The mass is capable of locomotion through an unidentified process, and is capable of scaling any surface at an observed maximum speed of 47km per hour. SCP-861 gravitates toward the presence of human beings, a distance of approximately 50m or closer being sufficient to determine "presence." If while traveling SCP-861 is obstructed, it will increase in mass until said obstruction is destroyed by the exerted pressure (SCP-861 will return to its normal size shortly thereafter).
+
+Human beings within a radius of roughly 30m surrounding SCP-861 report hearing a continuous vocalization, producing a song in an unknown language. No physical acoustic component to this phenomenon has been detected. The vocalization is described by subjects as a vaguely human voice of indeterminate gender. A complete, phonetic transcript of the song has been documented, with an approximate duration of 7 minutes 45 seconds.
+
+Subjects exposed to SCP-861 will allege that they understand fragments of the lyrics, but will deny any familiarity with the language. The quantity of song material understood, as well as its placement within the overall composition, vary widely from subject to subject. A compilation of ███ tests indicated a possible correlation between subjects with prominent humility and song comprehension. These subjects demonstrated a comprehension percentage as high as 89%, allowing for ██.██% of the song to be translated (see DOCUMENT-TRANSEPT-861 for details).
+
+SCP-861 will demonstrate a reaction to certain subjects that has since been designated a Choir Event. These individuals appear to possess arrogant or vain character traits (ostensibly the antithesis of the traits required for song comprehension). Though data in this area is limited (due to hostility from SCP-861), subjects capable of provoking a Choir Event describe the entity's song as entirely incomprehensible. The "arrogance threshold" for provoking a Choir Event has not been entirely determined, but appears to be sensitive: individuals scoring as high as 74% on the Foundation Standard Compliance Examination have provoked such a reaction.
+
+Choir Events consist of SCP-861 advancing upon the subject and forcing itself inside their body using various orifices as access points. It should be noted that termination of the subject will not prevent SCP-861's reaction's or the completion of the event. Once this is complete [DATA EXPUNGED] various forms designated SCP-861-A. Observed forms include:
+
+A vaguely humanoid entity with elongated arms (2.7m), underdeveloped legs terminating in crude "tendrils", and a quasi-prehensile elongated neck (1.8m).
+
+A cluster of ophidian entities, each roughly 50cm in length. Each entity possessed a head resembling that of a humanoid infant.
+
+A humanoid soldier, possibly of 4th or 5th Century Anatolian origin.
+
+[DATA EXPUNGED] consistent with extra-dimensional origin. Destruction of entity resulted in destruction of 15% of Sector-135-861, and the creation of a spatial anomaly which deteriorated 45 hours after onset.
+
+Regardless of its current shape, SCP-861-A emits a flame similar to that of its resting state, but in a white or golden hue. The entity will attempt to eject this flame at any human target in the vicinity. Upon contact, said target will become engulfed in the flames and be rendered completely unresponsive, but will stand with their eyes closed for as long as they are physically able. Unlike SCP-861's normal flames, however, the subject will burn over a period of 2-3 hours. Flames produced by burning human organic material will reproduce the 'song'1 normally produced by SCP-861 at rest, though at a different pitch (how this occurs is unknown). Flames ejected by SCP-861-A will quickly dissipate if they do not reach a human target, and do not appear to ignite any substance other than living human beings.
+
+After any SCP-861-A entity is terminated, its body will exude SCP-861, which will return to a resting state.
+
+Addendum [861-001]:
+
++ DOCUMENT-TRANSEPT-861 (CLEARANCE 4/861 REQUIRED)
+
+ DOCUMENT-TRANSEPT-861 (CLEARANCE 4/861 REQUIRED)
+
+The following is an excerpt from the translated transcript of SCP-861's song.
+
+Three rings yet one in the same,
+
+We are wheels which serve the rings,
+
+Born of flame, made only to serve,
+
+Yet that right is more than our worth
+
+A hypothetical link between SCP-861's origin and the █████ class of [REDACTED] has been proposed, this is supported by forms observed during Choir Events ██ and ██ and Message-861-█ (see below). However, so long as current protocols remain sufficient, the Abrahamic properties of SCP-861 have been deemed unnecessary information in regards to containment teams. As such, the theological procedures involved in the termination of SCP-861-A instances (Protocol-861-Nave) have been reserved for Level 4 security personnel at Sector-135-861.
+
+On ██/██/19██ and ██/██/20██, 2 additional entities (now designated SCP-861-█ and SCP-861-█) with marked similarities to SCP-861 were discovered in ████, Italy, and █████, Brazil, respectively. These entities have been contained in the same manner as SCP-861 at Site-███ and Site-███. The appearance of these entities correlates with the timeline of XK-███, as depicted in SCP-861's song. Level 3 and lower personnel are to be misdirected to believe that SCP-861 is a unique entity.
+
+On ██/██20██, at 2:34AM, a transmission was received by Outpost-███. The transmission was 1 minute, 36 seconds long and consisted of a female voice2 speaking in Latin. It was determined that Outpost-███ had received the message from Sector-135-861, Site-███ and Site-███ simultaneously, however, no evidence was discovered that any such messages had been sent. This is a translated transcript of Message-861-█:
+
+The proud do not burn and rage because we command it. The proud, blind as they are, refuse to see the light that shines infinitely brighter than theirs. We are vessels of that light, and for those that cannot see, we will make them feel. It is not our wish that the innocent perish in the rage of the proud, but the pain of the guilty does not open eyes. You hold us because we allow it, and we wait because it has been willed. However, do not wait to lift the veil, for we shall only wait until the last of our brethren have descended, and only a few remain.
+
+The known translated transcript of SCP-861's song, as well as the songs produced by SCP-861-█ and SCP-861-█ have been transferred to DOCUMENT-█████████-861 (CLEARANCE 5/861 REQUIRED).
+
+Footnotes
+
+1. Subjects exposed to the song in this state will still demonstrate comprehension based on previously stated factors.
+
+2. Extensive analysis has determined a connection between this voice and Emma █████, a D-Class personnel subjected to a Choir Event 27 hours previously. Said event was the most destructive on record, producing ██ fatalities.

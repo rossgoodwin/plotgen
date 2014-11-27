@@ -1,0 +1,129 @@
+SCP-1842
+
+Item #: SCP-1842
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1842-1 and SCP-1842-2 are to be kept in separate storage lockers in Site-118's Gamma Wing. Personnel wishing to conduct tests involving SCP-1842 should submit the Experiment Request form to the current researcher staffed with testing the object, or the Director of Site-118's Gamma Wing.
+
+Description: SCP-1842 is a collective term that refers to SCP-1842-1 and SCP-1842-2, which when combined, form a toy set.
+
+SCP-1842-1 is a wooden toy microwave colored pink, purple, and yellow. It has no electrical components. The dials and knobs on the object are nonfunctional, and for all intents and purposes, SCP-1842-1 is a non-anomalous wooden microwave until SCP-1842-2 is used in it.
+
+SCP-1842-2 refers to a clay-like substance, currently stored in 20 plastic jars, each containing a different color variant. SCP-1842's anomalous effect occurs when it is molded into the shape of a food, and placed inside SCP-1842-1. After turning the dials, the interior of the microwave component begins to glow, in a manner similar to that of a functioning microwave. Where the dial is turned to has achieved no difference in results.
+
+After approximately 30 seconds, SCP-1842-1 produces a bell-tone. Following this, the door on the object opens, revealing that the SCP-1842-2 instance placed inside has taken on the shape, smell, texture, and taste of the food in which it was originally molded into. SCP-1842-2 post-cooking is referred to as SCP-1842-3.
+
+Toxicology tests indicate that SCP-1842-2 is a toxic substance that causes vomiting, extreme nausea, headaches, and other symptoms consistent with lead poisoning roughly three minutes post-consumption. If the subject vomits the substance, or if it is expelled through the subject's digestive system, all symptoms of poisoning cease.
+
+Once SCP-1842-2 is converted into SCP-1842-3, it is no longer toxic. However, it still retains no nutritional value.
+
+Tests have indicated that the output of SCP-1842-2 depends on what the user of SCP-1842-1 is thinking of. The object will attempt to create the most accurate representation of the food being thought of, using SCP-1842-2 as a base to do so. See Testing Log SCP-1842-A for more information.
+
+SCP-1842-1 is capable of replicating a currently unknown amount of food items. It is not limited to the functions of a normal microwave, and can produce things not normally produced in a microwave, such as cold dessert items, or elaborate foods.
+
++ Addendum SCP-1842-A
+
+- Addendum SCP-1842-A
+
+The following note was found with the capture of SCP-1842:
+
+Hey kids! Ever see mom or dad cook, and want to do the same? Well now you can, with Dr. Wondertainment's Magic Microwave Set!™ Simply make the mouth-watering food you want to cook, using my Super Special Putty-Mix,™ pop it into the Magic Microwave, turn the knob, and voila! A scrumptious surprise that's so realistically mouth-watering, you'll wow all of your friends and family! Bake a luxurious chocolate cake, a piping-hot pepperoni pizza, or even a towering ice cream sundae! If you can imagine it: you can make it!
+
+Note: Do not consume Dr. Wondertainment's Super Special Putty-Mix™ before cooking.
+
++ Testing Log SCP-1842-A
+
+- Testing Log SCP-1842-A
+
+Testing Log SCP-1842-A
+
+Test 1
+
+Subject: D-850392
+
+SCP-1842-2 Shape: A brown cone, topped with a pink sphere.
+
+Results: SCP-1842-1 produced one (1) strawberry ice cream cone. Subject reported that the dessert tasted bland.
+
+Test 2
+
+Subject: D-5315890
+
+SCP-1842-2 Shape: A more detailed version of the ice cream cone in Test 1. Sculpted to more closely resemble a strawberry ice cream cone.
+
+Results: SCP-1842-1 produced one (1) strawberry ice cream cone. Subject reported that the dessert was delicious.
+
+Notes: We can conclude that detail with which SCP-1842-2 is molded affects the taste and quality of the food produced. -Dr. Louef
+
+Test 3
+
+Subject: D-9013241
+
+SCP-1842-2 Shape: A solid brown cube. Subject is told to think of pasta when operating SCP-1842-1.
+
+Results: A brown cube that resembles an extremely compact cube of fettucine pasta. D-9013241 reported that the texture was extremely hard to palate, due to the compact nature of the cube.
+
+Test 4
+
+Subject: D-5382901
+
+SCP-1842-2 Shape: A detailed reconstruction of a Lobster Thermidor.
+
+Results: SCP-1842-1 produced a highly accurate Lobster Thermidor dish. Subject reported that the dish was excellent, and "the best meal that I've ever had."
+
+Notes: There doesn't seem to be a limit to what SCP-1842-1 can produce in terms of food, even with extremely complex dishes. -Dr. Louef
+
+Test 5
+
+Subject: D-1251789
+
+SCP-1842-2 Shape: A green sphere. Subject was told to think of diamonds.
+
+Results: SCP-1842-1 ran normally, but the SCP-1842-2 instance was not changed.
+
+Notes: SCP-1842 only seems to be capable of producing food items. -Dr. Louef.
+
+Test 6
+
+Subject: D-678923
+
+SCP-1842-2 Shape: A detailed anatomical representation of a human arm. Subject was ordered to visualize human flesh.
+
+Results: SCP-1842-2 did not change.
+
+Notes: Evidently, SCP-1842-3 can only be produced if the user believes that what they are imagining is food, even if the mental image is edible.
+
+Test 7
+
+Subject: D-678923
+
+SCP-1842-2 Shape: A black representation of a gun
+
+Results: Originally, D-678923 was ordered to use a representation of black licorice. However, D-678923 quickly remolded it into a gun-shape, and used SCP-1842-1 before guards could stop him. Subject was terminated by guards while waiting for SCP-1842-1 to finish. The aforementioned SCP-1842-3 mold was later tested, and found to be a non-functioning representation of a gun.
+
+Test 8
+
+Subject: D-235789
+
+SCP-1842-2 Shape: A detailed anatomical representation of a human arm. Subject was originally a member of a cannibalistic cult prior to arrest.
+
+Results: SCP-1842-1 produced a detailed, grilled human arm. Upon consumption, the subject remarked that it tasted "superb."
+
+Test 9
+
+Subject: D-785201
+
+SCP-1842-2 Shape: A model of a bowl of "白酒虾," a Chinese dish that involves the consumption of live shrimp bathed in white wine. Subject was born and raised in Xinjiang, China.
+
+Results: SCP-1842-1 produced several shrimp that twitched and moved in a manner similar to live shrimp. However, upon further testing, it was revealed that these shrimp lacked most major organs, and were effectively dead, despite the presence of movement. Subject reported that the shrimp tasted somewhat bland.
+
+Test 10
+
+Subject: D-124892
+
+SCP-1842-2 Shape: A representation of foie gras, a dish of fattened duck liver. Subject is showed a picture of foie gras, but told that it is actually called tarte tatin, an entirely different dish that consists of a caramelized apple tart. Subject is told to subvocalize the name "tarte tatin" while using SCP-1842-1.
+
+Results: SCP-1842-1 produced a dish of foie gras.
+
+Notes: Clearly, SCP-1842 does not necessarily produce the correct version of a dish, and instead produces what a person believes to be a dish, even if they do not correctly identify said dish. -Dr. Louef

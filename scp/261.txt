@@ -1,0 +1,45 @@
+SCP-261 at time of recovery
+
+Item #: SCP-261
+
+Object Class: Safe
+
+Special Containment Procedures: Any access to SCP-261 must be approved by staff with level 2 security clearance or higher. Any and all items dispensed by SCP-261 must be recorded, along with the amount of money entered and the amount of time elapsed between uses. Currently, SCP-261 may be used only ten times in a twenty-four hour period, with no transaction exceeding the equivalent of 500 Japanese yen. Testing approved by Site Command is not under these restrictions.
+
+Items dispensed by SCP-261 should be reviewed by Site Health and Safety officials before consumption. Failure to do so releases the Foundation from any obligation regarding negative effects. Items deemed dangerous or useful to research will be confiscated by site security, with financial compensation provided in proportion to money spent.
+
+Description: SCP-261 appears to be a large black vending machine with no front glass panel, and a small keypad on the right side. SCP-261 was recovered in Yokohama, Japan. SCP-261 was brought to the Foundation’s attention after investigation of an “urban legend” about a “magic vending machine” that was circulating on the internet. SCP-261 was found in a back alley behind a large shopping center, with a hand-written sign saying “out of order” in Japanese taped to it. SCP-261 has no marks or identification of any kind, and no locals remember when or how it came to be in its current location.
+
+Internally, SCP-261 appears to be a basic vending machine equipped to vend food and beverage items. After a key was made and the front door opened, no abnormal materials were found, and it was determined that SCP-261 has never actually contained any food or beverage items. The keypad, while connected and operating correctly, does not activate any of the dispensing mechanisms.
+
+When money is placed into SCP-261 and a three-digit number is entered on the keypad, SCP-261 will vend a random item. SCP-261 has not accepted any currency other than Yen, with rejected currency being deposited in the coin return slot. It is unknown how these items appear; however, SCP-261 will not operate when the door is open, or when recording devices are placed inside. The number entered on the keypad has no effect on the item vended, nor has any pattern been detected. Items are always some form of “snack food”, and typically have bright, attention-grabbing packaging.
+
+SCP-261 is capable of operating with no external power supply, but operation in this state will cause “unstable” vending to occur much more quickly than normal. If SCP-261 is used several times in a short period of time and/or large amounts of money are entered before an item is vended, SCP-261 will start to dispense bizarre items. While still “food”, their suitability for human consumption is often non-existent.
+
+Log of items vended during Testing Phase 8:
+
+800 yen entered for each item, items being dispensed every 2 minutes. SCP-261 is attached to power.
+
+“Coke Zero” – A can of diet Coke, packaging in English.
+
+“Cheetos” – A small bag of Cheetos snack food, packaging in English.
+
+“Black Black” – A single pack of caffeinated chewing gum, packaging in Japanese.
+
+“Yan Yan” – A single Yan Yan cone, with peach dipping frosting, packaging in Japanese. The Meiji Seika Company does not produce this flavor.
+
+“Pepsi: Dragon Twist” – A can of Pepsi cola, with a trace of fruit flavor, packaging in English. Flavor identified as Dragon Fruit. PepsiCo does not produce this product.
+
+“Darkside Cola” – A “can” with clear plastic sides, packaging in Japanese. Liquid inside is clear. When opened, liquid appears to react to the air, and changes to dark black over a period of several seconds. The black coloration “looks like billowing smoke”, and cannot be reversed. Liquid’s taste described as “cola, with something spicy in it.”
+
+“The Little Bakery: 7 Grain” – A small tube the size of a candy bar with a green button, made of aluminum, packaging in English. When the top is twisted off, a mass of “dough” is extruded. “Dough” contains several enzymes and bacteria that have not yet been identified. On contact with air, these cause the dough to rise and “bake”, killing the microbes in the process. Produces a small, round loaf of bread weighing 250 grams. Taste described as good, but chewy.
+
+“Lemon Clams” – Thick plastic baggie with a plastic tube on the side, containing water and twelve clams, packaging in Dutch. Following on-package instructions, the plastic tube was cracked like a “glow stick”. Liquid in the bag flashed to steam, venting from a hole that popped open in the top of the bag, slightly burning one researcher. Steaming finished after thirty-eight seconds, after which clams were found to be fully cooked and infused with a mild lemon flavor. On investigation, clams match no recorded species.
+
+“<Unknown>” – Small mesh bag filled with small, multi-colored pyramids, packaging in an unknown language. Pyramids found to be very hard and unpleasant tasting, compared to chalk in taste and consistency. When placed in hot water, pyramids open and produce “strings” that quickly dissolve, coloring the water the same shade as the pyramid. Water had no additional taste, but testing revealed a sharp increase in mineral, carbohydrate, and protein content, with several minerals unidentified at the present time. This content was found to be consistent with the recommended daily intake of nutrients for adult humans. Researcher ingesting the water reported stomach cramps two hours later, but no other effects.
+
+“<Unknown>” – Aluminum box with a small glass window on the side, and a large round button on the top, packaging in an unknown language. Box is seamless, and appears to be filled with small, round animals covered in fur, each with three small paws and a single large eye. Pressing the button causes the inside of the box to rapidly become super-heated, cooking the small animals alive. Muffled noises and scratching were heard for several seconds during the cooking process. After one minute, thirty seconds, the front panel opens and gives access to the now-cooked animals. Professor Kain volunteered to eat the animals, with no other researchers willing to do so. Taste described as crunchy and very spicy, with a small hint of beef.
+
+“<Unknown>” – Tall, thin aluminum can, packaging in an unknown language. Opening the can caused a chemical reaction with the liquid inside the can. Liquid was apparently not intended for an oxygenated atmosphere, and detonated violently, causing several injuries and killing two researchers. Testing discontinued, and area cleared. Testing area observed to smell like citrus for several days.
+
+Note: subsequent testing recorded in Experiment Log 261 Ad De

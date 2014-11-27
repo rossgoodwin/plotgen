@@ -1,0 +1,45 @@
+Instance of SCP-862-1
+
+Item #: SCP-862
+
+Object Class: Safe
+
+Special Containment Procedures: A 6m x 6m bunker has been constructed around SCP-862 in order to prevent escape or sightings of SCP-862-1. The interior of the bunker is to be monitored by researchers via cameras placed inside the bunker outside of SCP-862's sphere of influence.
+
+The bunker is to be checked daily for breaches or escaped instances of SCP-862-1. In the event of a bunker breach, the rupture is to be immediately sealed with concrete and cement. Any escaped instances of SCP-862-1 are to be tracked and destroyed by Mobile Task Force Beta-23 ("Rat Trappers").
+
+No materials or individuals are to enter SCP-862.
+
+Description: SCP-862 is an area spanning ten square meters located in the city of █████, ██████. This area possesses a sphere of influence that affects all materials. Upon arriving in SCP-862, materials will begin to split into portions of twenty five (25) square centimeters.
+
+Over a period of time that varies depending on the consistency of the material, the affected portion will assume the shape and detail of a Rattus norvegicus, the common rat. The affected portion will be dormant for a much shorter length of time before animating and assuming the behaviour of said rat. Affected portions will hereafter be referred to as SCP-862-1.
+
+Instances of SCP-862-1 do not require food or water, but exhibit the same properties as the material they are composed of, and the rate of decomposition is unaffected in organic materials. Due to their composition, some instances of SCP-862-1 are difficult to destroy, but liquid or gas instances can be destroyed with extremely light impacts.
+
+Solid instances of SCP-862-1 can register pain and survive trauma far exceeding that of regular rats, such as loss of limbs, heavy trauma and dissection. Over █████ instances of SCP-862-1 are currently present in the containment bunker, which include, but are not limited to:
+
+████ instances composed of concrete
+
+███ instances composed of cement
+
+███ instances composed of tarmac
+
+███ instances composed of glass
+
+███ instances composed of wood
+
+███ instances composed of plastic
+
+████ instances composed of metal
+
+████ instances composed of suspended water
+
+███ instances composed of the remains of the original recovery team
+
+██ instances composed of the uniforms of the original recovery team
+
+██ instances composed of the weapons of the original recovery team
+
+█ instances composed of the ammunition of the original recovery team
+
+Instances of SCP-862-1 composed of air are regularly created, but are destroyed near-instantly, as they collapse when exposed to the slightest pressure.

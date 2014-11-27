@@ -1,0 +1,161 @@
+Item #: SCP-1590
+
+Object Class: Euclid
+
+Special Containment Procedures: Seven copies of SCP-1590 are kept on hand for experimentation purposes. These copies are to be kept in Secure Containment Locker F12 at Site-18, keys to which are in possession of the current Project Director Duchard Light, the current Head of Security, and the Site Director. Any Researcher who wishes to make use of SCP-1590 must get permission from Project Director Duchard Light.
+
+Information Technologies Technician Kent has been put in charge of finding uncontained instances of SCP-1590. When such instances are found, an immediate DDoS attack is to be made on the server hosting it, and an MTF is to be sent in to appropriate all hardware. The computer virus known as 'ComAmA' is to be inserted into any systems with copies of SCP-1590 downloaded before the server is taken down.
+
+Description: SCP-1590 is a one kilobyte program, or 'application,' designed for use with touch screen hardware such as tablets, calling itself 'The Book of Tamlin.' Attempts to view SCP-1590's coding reveals only the numbers 1 through 66,666 in numerical order. The application itself posits to be a game wherein the user has to find certain objects in a cluttered image.
+
+The game always begins with a dedication screen, containing the message "To Joey, who taught me how to be cool, and (name of last person to play the game), who almost made it out." The content then shifts to an animated scene. The silhouette of a humanoid stands on the deck of what appears to be an oil tanker. The screen turns bright white, then returns to the previous scene. A yellow wall, larger than the ship, has been added to the scene. The wall's appearance causes a wave to wash over the ship, and the wave carries the humanoid overboard. The screen fills with bubbles, and the words 'The Book of Tamlin' and 'Start Game' appear overlaid on the bubbles.
+
+When a user picks 'Start Game,' the title screen fades away to an image of a cluttered room. The user is presented with a series of tasks, directing them to find objects hidden in the room image. The images and objects are different for every run through of the game. The user is also given a time limit, which ranges anywhere between one and twelve minutes. Once the user completes a task, they are given a set of doors to choose from to move further on in the game. The tasks begin benignly, move on to tasks more personal to the subject, and end with tasks that are very personal and often insulting in nature.
+
+The game continues through a random number of 'rooms', from 7 to 43. At a random point in the game, or if the user fails to complete the tasks in the required amount of time, the player will find themselves in an empty room. The words "You've found out everything there is to find about the House! Now all you have left to find, is the way out!" appear on the screen. At this point, the game ends, and cannot be replayed by the same user.
+
+Within seventy-two hours of finishing the game, a door the user opens will connect to what appears to be a room from the game. Attempts to follow users through said doorways have so far met with failure. Any tracking devices cease to transmit after the user passes through the doorway. After seventy-two hours of finishing the game, any door opened by the user will result in the altered doorway, although no compulsion exists to force them through it.
+
+If another person attempts to open a door for the subject, there is still a chance it will open into an altered room. At no point may anyone who has not finished a game enter such a room. All attempts to do such result in entering the room the doorway normally opens into.
+
+Addendum: Sample List of Rooms from Test Subjects
+
+For the purposes of these logs, mundane rooms have not been recorded. For a full record of all rooms and tasks, consult file:
+
+Log 1: D-1534
+
+Designated Room Number
+
+Description
+
+Task
+
+Room 8
+
+A farmyard filled with animals. Subject says it was the farm owned by his uncle, where his parents used to tell him they had taken his pets.
+
+Find the graves of all seven of your childhood pets your parents told you ran away.
+
+Room 11
+
+A stadium, showing a game of American football. Colors are consistent with subject's high school team. Subject recalls losing his virginity beneath the bleachers.
+
+Collect the four pieces of your first girlfriend's shattered heart, and the panties of the girl you cheated on her with.
+
+Room 17
+
+A boys' locker room, filled with children. Subject identifies as being from his middle school. Records indicate subject was involved in multiple altercations at said school.
+
+Find the thirteen boys who made your childhood a living hell.
+
+Room 22
+
+A darkened room, the lighting source flickers every couple of seconds. Dismembered human bodies are strewn haphazardly about the otherwise empty room. Subject pales. Visible faces correspond with those the subject was convicted of murdering, plus three missing persons.
+
+Find the four organs. You know which ones.
+
+Room 23
+
+Inside a crowded church. Subject refuses to identify. Investigation reveals church likely to be St. Mary's, in Subject's home town of Royale. Records indicate Subject was a church member in good standing of said church for seventeen years, until two locals turned him in for his crimes.
+
+Find two dirty little snitches.
+
+Room 24
+
+The interior of a courtroom. Room is identified as the same one where Subject was sentenced.
+
+Find the twelve people who ended your life.
+
+Room 25
+
+End room: After twelve hours, subject opened door onto a room similar in appearance to Room 17. Subject eagerly charged in. Screaming was heard before door shut of its own accord.
+
+N/A
+
+Log 2: Agent Brad Gibson
+
+Designated Room Number
+
+Description
+
+Task
+
+Room 4
+
+A blackboard, over which multiple insults, threats, and other statements have been written. Subject claims said blackboard is not consistent with any he recalls.
+
+Find all the insults your father wanted to call you, but didn't, because he knew you were too much of a wuss to take it.
+
+Room 6
+
+A jungle filled with soldiers fighting. Uniforms identify American and Korean forces. Subject identifies scenario as similar to, if not identical to, his time on deployment in Korea. Subject notes he earned a Purple Heart for wounds received.
+
+Find the buddies you left behind.
+
+Room 7
+
+A darkened child's bedroom, menacing shadows looming over the huddled figure of a young boy on the bed. Subject becomes angered, claiming it is his son's bedroom, and the boy appears to be his son.
+
+Find all the things that are after your son.
+
+Room 8
+
+Image on screen is several dozen Polaroid photos, with a date scribbled on each. Date is shown to be nine months before Subject's birth. Main focus of picture is subject's mother, copulating with multiple males of a variety of appearances, as well as multiple animals. Subject becomes enraged, but is restrained.
+
+Find all the males who donated sperm to be your father.
+
+Room 9
+
+End room: Despite hourly attempts, subject did not find an altered door until the seventy-two hour mark, when the door opened on Room 6. Subject entered of his own accord, with requested survival materials. All radio contact was immediately terminated upon his passage through the door. All attempts to keep the door open failed.
+
+N/A
+
+Log 3: D-132
+
+Designated Room Number
+
+Description
+
+Task
+
+Room 5
+
+A girl's bed room. Subject identifies as her own, from when she was five.
+
+Find seven stuffed animals, given out of guilt.
+
+Room 12
+
+A junk filled basement. Subject identifies as her own, from when she was five. Subject shows reluctance to look at picture for long.
+
+Find your Uncle Billy, before he finds you.
+
+Room 15
+
+A strip club, the name 'Naughty Kitty' emblazoned on the wall. Subject claims no knowledge of said club. Investigation later revealed it was the name of an adult establishment in the city she lived in at age twelve.
+
+Find where Daddy hides when he's sick of your crying.
+
+Room 20
+
+A hospital room, filled with life support machinery. A frail female form lays in the bed. Subject identifies female form as her mother, and room as one where said mother ended up after a bout with lung cancer.
+
+Find the money needed to keep your mother on life support.
+
+Room 31
+
+Room appears as stereotypical version of Hell, including dozens of people being tortured in graphic ways by 'demonic' beings. Subjects identifies knowledge of all non-demonic individuals.
+
+Find eleven of your relatives being punished for their sins.
+
+Room 32
+
+A crowded mall, decorated for Christmas. At the center of the scene, three children lie on the ground, their bodies splayed as if by multiple fractures. Subject is shown in the picture, kneeling by said bodies. Mall identified as the one where Subject was accused of committing her crimes.
+
+Find the one person who can prove your innocence. (Note: Subject failed to complete task in time allotted.)
+
+Room 33
+
+End room: Twenty-three hours after completion of game, subject opened door into what appeared to be Room 12. Subject became hysterical, and refused to pass through the doorway. Sedatives were applied, and subject was moved into the portal. Door closed, and experimental tracking device 1A12 ceased broadcasting.
+
+N/A

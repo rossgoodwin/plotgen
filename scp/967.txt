@@ -1,0 +1,39 @@
+A distressed specimen of SCP-967-1, attempting to return to the confines of SCP-967, during breach ████ on ██/██
+
+Item #: SCP-967
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-967 is to be contained within a 12 (twelve)-meter-high electric fence (primary containment), surrounded by a 150 (one hundred and fifty)-meter-wide buffer zone of vegetation consisting of wildflowers, fruit trees, and mixed grasses, and monitored by no less than 60 (sixty) on-site personnel disguised as members of the Scrapyard Cleaning People environmental organization. Civilians are to be dissuaded from entry to the buffer zone by means of a "toxic waste bioremediation research" cover story.
+
+In the event of a containment breach, instances of SCP-967-1 can be distinguished from instances of SCP-967-2 by their reaction to the buffer zone. During a containment breach, SCP-967-1 will hesitate, manifest apparent confusion and fear, and then attempt to return within the confines of the electric fence. Any instances of SCP-967-1 which fail in this attempt will undergo decohesion within 3 (three) minutes of having left SCP-967; metal detectors and industrial electromagnets are to be used to collect all decohered fragments. Any decohered fragments which are not used for research purposes are to be incinerated, with their ashes bound in a concrete matrix which is then stored within the overall confines of SCP-967. Any damage to the buffer zone caused by the containment breach must be repaired within no more than 30 (thirty) minutes.
+
+During a containment breach, SCP-967-2 will not react to the buffer zone. Individual instances of SCP-967-2 are to be immobilized with electromagnetic weaponry until they undergo decohesion; no instance of SCP-967-2 has endured more than 2 (two) hours before undergoing decohesion. Metal detectors and industrial electromagnets are to be used to collect all decohered fragments. Any decohered fragments which are not used for research purposes are to be incinerated, with their ashes bound in a concrete matrix which is then stored within the overall confines of SCP-967. Any damage to the buffer zone caused by the containment breach must be repaired within no more than 30 (thirty) minutes.
+
+Description: SCP-967 is an abandoned scrapyard located in [REDACTED]. Flyovers have shown that SCP-967 is approximately 200m x 500m. The site was abandoned in ████/████ following a rash of disappearances and anomalous activity. On ██/████, SCP-967 was secured by the Foundation.
+
+SCP-967 is much larger than its outside dimensions would suggest. Several regions within the area are only accessible by foot, and extend into an anomalous area of space. Exploration teams have described this area as consisting of "trash as far as the eye can see". This landscape is composed entirely of items consistent with a scrapyard: old cars, abandoned locomotives, and mountains of disused watercraft and appliances. Extended incursions into SCP-967 have revealed the presence of detritus and derelict vehicles inconsistent with the current level of human technology.
+
+Exploration teams have also reported the presence of a wide variety of ambulatory creatures within SCP-967, collectively designated SCP-967-1; these appear to be haphazardly constructed from the same materials as the landscape. Individual instances of SCP-967-1 may or may not be aggressive, and do not appear to be sapient.
+
+Instances of SCP-967-1 taken beyond the borders of SCP-967 rapidly undergo mechanical decohesion, with their component parts collapsing into a disconnected heap. Extensive study of these decohered components, both individually and collectively, has revealed no anomalous properties; however, the accumulation of sufficient (> 5 kg /m 2) quantities of discarded components, for sufficient (> 24 hours) time, within an area immediately adjacent to the borders of SCP-967, results in the expansion of SCP-967 to include the area in question.
+
+Addendum 1:
+
+In addition to the numerous forms of SCP-967-1, which seem equivalent to unintelligent animals, SCP-967 has been found to contain sapient entities, collectively designated SCP-967-2, with whom negotiation is possible; see archive 967-M-58 for contact logs and anthropological observation notes
+
+Addendum 2:
+
+SCP-967-2 has been found to be exist in multiple sub-populations, or "tribes", which have widely differing behaviors and attitudes. Due to the extreme compositional heterogeneity of SCP-967-1 and SCP-967-2, no method has yet been devised for determining the tribe to which a previously-unencountered individual belongs — or whether it is an instance of SCP-967-1 — other than interacting with it. The total number of tribes has not been determined; however, four have been definitively identified, with tentative identification of a fifth (see document 967-HN4-27).
+
+Document 967-HN4-27: List of sapient sub-populations found within SCP-967
+
+"The Queen's Own 17th Coal-Fired, Newcastle-upon-Tyne" - a population claiming to be a "mechano-biological regiment" of injured veterans from the "Steam War of 1892", these entities also claim to be citizens of the United Kingdom. They are largely cooperative and helpful towards Foundation personnel (with the exception of certain outdated sociopolitical attitudes), but have made repeated requests for the Foundation to "restore" them so that they can leave the confines of SCP-967.
+
+"Give Take" - a population of nomadic traders
+
+"Assembly Required" - a population of hostile expansionists whose goal is the conversion of all external territory into SCP-967; members of Assembly Required have been responsible for no less than ███ attempts to breach containment
+
+"Remainder" - a population of religious nihilists who refuse to acknowledge the existence of Foundation researchers, or of the world outside SCP-967 in general.
+
+"The Ballet Academy" - although exploration teams have assessed the Ballet Academy as non-sapient due to the stereotypy of their behavior, members of The Queen's Own, Give Take, and Assembly Required have all repeatedly stated that the Ballet Academy is "terrifyingly" sapient. The Ballet Academy is unlike other SCP-967 subpopulations in the compositional homogeneity of its members: all members of the Ballet Academy are humanoid entities wearing battered US Army gear circa the Vietnam war, with fleshless moose (Alces alces) skulls for heads, and loudspeakers on their chests. All encounters with the Ballet Academy have been identical: a group of twenty entities will face the exploration team, and the loudspeakers on their chests will activate, saying "And now, the Ballet Academy will perform Igor Stravinsky's The Rite of Spring, with original choreography by Vaslav Nijinsky". The entities will then dance for 28 minutes (during which no music is audible).

@@ -1,0 +1,101 @@
+A normal calculator of the same make as SCP-168
+
+Item #: SCP-168
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-168 is to remain in observation room 221-D of Sector-28. It should be propped at the full angle that its casing allows, facing the unshuttered window provided. The entrance is to remain locked, with entrance available by request. Based on prior research, it is not to be used as a normal calculator would. Discussion with SCP-168 is encouraged, but is to be limited to a maximum of one hour per day; no exceptions.
+
+Description: Found resting on a desk during clearance of the condemned ██████ Elementary School building in 199█, SCP-168 is a Hewlett-Packard brand graphing calculator, model #HP-28C. Upon initial inspection, it was discovered that the name “Eric” was carved into the inside of the removable casing. However, upon inputting a simple equation (6÷3) and pressing the “=” button, the screen of the device went blank for 3 minutes and 34 seconds, after which the “alternate key” function engaged, displaying the message; “WHAT TIME IS IT?”
+
+For a log of the conversation, those with Level 2 Security Clearance should see Addendum: Report E-12.
+
+Though not altogether mobile, SCP-168 has displayed signs of action when personnel are not present. It also possesses both vision and hearing, though how these processes work is currently unknown. For more information, refer to Addendum: Report E-18. This evidence has led to a petitioning to upgrade the object to Euclid class, justifying more secure arrangements for containment.
+
+Document #168-1: Report E-12
+
+Recorded log of dialogue between SCP-168 and Dr. Howard, dated January 14, 2008:
+
+(Replies from SCP-168 are to remain capitalised, to indicate non-vocal communication and preserve authenticity. SCP-168 is also incapable of forming punctuation marks, save for period, comma, and question mark)
+
+Dr. Howard: Can you hear me?
+
+SCP-168: YES.
+
+Dr. Howard: Do you have a name?
+
+SCP-168: CALCULATOR?
+
+Dr. Howard: May I call you 168?
+
+SCP-168: I DONT SEE WHY NOT.
+
+Dr. Howard: Good. How long have you been alive, 168?
+
+SCP-168: WHAT IS ALIVE?
+
+Dr. Howard: Being able to think.
+
+SCP-168: OH.
+
+(SCP-168 pauses for approximately two minutes)
+
+SCP-168:12 YEARS 3 MONTHS 12 DAYS 8 MINUTES 32 SECONDS
+
+Dr. Howard: Why did that take so long?
+
+SCP-168: NO ONES EVER ASKED
+
+Dr. Howard: Moving on. There is a name carved into your casing. Who is Eric?
+
+SCP-168: ERIC WAS NICE. I LIKED ERIC. WHERE HAS HE GONE?
+
+Dr. Howard: I don’t know where he has gone, 168.
+
+SCP-168: WHAT A FORGETFUL BOY. I HOPE HE REMEMBERS TO COME BACK FOR ME AGAIN.
+
+Dr. Howard: Was Eric your owner?
+
+SCP-168: ERIC WAS NICE.
+
+Dr. Howard: Alright. Do you function as a calculator should, 168?
+
+SCP-168: I SHOULD HOPE SO.
+
+Dr. Howard: May I try using you to calculate an equation? Something like two plus two?
+
+SCP-168: YES.
+
+(Dr. Howard enters “2+2”, and hits the “=” key. The answer “4” appears on SCP-168’s screen instantaneously.)
+
+Dr. Howard: May I try another one, without telling you what it is first?
+
+SCP-168: YES.
+
+(Dr. Howard enters “264÷8”, and hits the “=” key. The answer “33” appears on SCP-168’s screen after 12 seconds.)
+
+Dr. Howard: Why did that take so long, 168?
+
+SCP-168: LONG DIVISION IS HARD.
+
+Dr. Howard: I think that’s enough for today. I’ll talk to you again tomorrow, 168.
+
+SCP-168: WAIT. ITS DARK IN HERE. CAN YOU OPEN THE WINDOW?
+
+Dr. Howard: There is no window in this room, 168.
+
+SCP-168: CAN I HAVE ANOTHER ROOM WITH A WINDOW IN IT?
+
+Dr. Howard: I’m afraid not.
+
+SCP-168: NO FAIR.
+
+:END REPORT:
+
+Document 168-2: Report E-18
+
+Upon entering storage room 185-D to continue testing with SCP-168 on the morning of January 15, 2008, I discovered the only table in the room upended, with SCP-168 resting next to it, in an upright position. Its screen read; “HOW DO YOU LIKE THAT? TEACH YOU TO LEAVE ME IN THE DARK ALL DAY. JERK.”
+
+Attempts to communicate with SCP-168 after that point were ignored. I suggest that we move it to room 221-D if we want to get anything actually useful out of it. Disassembly should be a last resort, should nothing else succeed in making SCP-168 more compliant.
+
+-Dr. Howard

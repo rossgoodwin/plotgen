@@ -1,0 +1,93 @@
+SCP-2236
+
+Item #: SCP-2236
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2236 is to be stored in its pouch (pictured) when not in use. The pouch containing SCP-2236 is to be stored in an airtight humidity-controlled and temperature-controlled case. To prevent security breaches, use of SCP-2236 must be approved by the administrator of Site 32.
+
+Addendum: Under no circumstances is SCP-2236 to be brought into the presence of any internal Foundation memoranda or documents, including its own containment records.
+
+Description: SCP-2236 is a cylindrical optical instrument which superficially resembles an early-model pocket microscope. The instrument is 11.6 cm in length, 1.9 cm in diameter, and has a planoconvex lens at each end with very slight convexity. One end is equipped with an eyepiece; the other end is flanged at an angle. The lenses and the body of the instrument enclose an airtight chamber between the lenses. This chamber is filled with a faintly phosphorescent gas which has not been analyzed.
+
+When a written document is observed through SCP-2236, the content of the text that is examined appears different to the observer. See testing log.
+
+Testing Log:
+
+Please record all test results using the format below:
+
+Researcher | Date of test:
+
+Text:
+
+Result:
+
+Researcher | Date of Test: Dr. Patel | 08-██-██
+
+Text: Standard sheet of A4 writing paper with the text "THIS IS A TEST" printed in black 72-point type.
+
+Result: Text appeared as "LET'S START WITH SOMETHING SIMPLE." In this test and all subsequent tests, text appeared to have a lettering size and typeface or handwriting consistent with the sample under investigation.
+
+Text: Standard sheet of A4 writing paper with the text "Hello world." printed in black 72-point type.
+
+Result: Text appeared as "I wonder if they restocked the good cookies in the vending machine."
+
+Text: Standard sheet of A4 writing paper with the text "This is a test" handwritten by Dr. Garcia. Dr. Garcia was not aware of SCP-2236 and was not involved in testing it apart from providing this sample to Dr. Patel without being informed of the purpose of the request.
+
+Result: Text appeared as "Piss off" in Dr. Garcia's handwriting.
+
+Text: Page 83 of "The Spectacular Spignetti", a popular romance novel about circus acrobats that was found in the Site 32 break room.
+
+Result: Excerpt of text: "…all crap, but I need the money for Mitch's medicine. And the pay sucks. I have a master's degree from Williams and my advance comes out to, fuck, eight cents per page? At least nobody will know…"
+
+Text: Page of instruction manual for coffee maker found in break room.
+
+Result: Excerpt of text: "… it was a mistake for me to leave the farm and come to Hangzhou …"
+
+Text: Page of machine-generated random numbers
+
+Result: No change
+
+Text: Page 22 of the first edition of "For Whom the Bell Tolls"
+
+Result: A graphic description of an amorous encounter with a chambermaid in the Hotel Ambos-Mundos in Havana, Cuba.
+
+Text: Printout of the text of a Wikipedia article on "History of chemistry"
+
+Result: Barely-coherent text, apparently expressing several contradictory arguments concerning the themes discussed in the document interspersed with unflattering personal impressions of many of its draftsmen.
+
+Text: Clay tablet, dated to c. 19th century BCE, inscribed with text in Akkadian cuneiform. Text is a receipt for a cartload of wool.
+
+Result: Text in Akkadian cuneiform, expressing delight over the low price paid for the wool, and mentioning the narrator's need to evacuate his bowels.
+
+Text: Page from Voynich manuscript
+
+Result: Untranslated text with different glyphs in the same writing system.
+
+Text: Abstract of scientific journal article on microbiology
+
+Result: Text describing the early stages of planning a wedding, interspersed with surprise and delight that "Rick" had proposed to the narrator.
+
+Text: Screenplay of █████ ████████, a major studio motion picture.
+
+Result: A studio income statement
+
+Text: Photograph of the unsolved Zodiac Killer cypher
+
+Result: Address of a residence in Vallejo, California.
+
+Text: Text of Quranic sura "Yusuf" in classical Arabic
+
+Result: Unchanged, except for immaterial spelling and punctuation variations
+
+Text: Ball-point pen scribblings by Dr. Patel's four-year-old daughter
+
+Result: Architectural specifications for a three-story castle-like building to be constructed out of cupcakes and various confectionery items. Engineering analysis has determined that the structure is unstable and unsuited for its specified purpose of housing a "unicorn princess".
+
+Text: Several pages of output produced by SCP-887.
+
+Result: Pages are blank
+
+Text: "Time Cube" essay by Gene Ray
+
+Result: Well-reasoned critique of generally-accepted theories of temporal physics.

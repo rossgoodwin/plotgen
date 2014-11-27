@@ -1,0 +1,75 @@
+Item #: SCP-093
+
+Object Class: Euclid
+
+Special Containment Procedures: See testing document SCP-093-T1 for outline of testing conditions. SCP-093 must remain on a mirror at all times and under video surveillance. Admittance into the area of SCP-093's containment must be authorized only with proper video recording and subject retrieval procedures in place. Any attempt to use SCP-093 outside of an approved test will be dealt with severely, up to and including termination.
+
+Description: SCP-093 is a primarily red disc carved from a stone composite resembling cinnabar, with circular engravings and unknown symbols carved at 0.5 cm depth around the entire object. Deeper cuts are present on SCP-093 with a depth of 1 to 1.5 cm. SCP-093 is 7.62 cm in diameter and fits comfortably into most palms without abrasion. SCP-093 will change hue when held by a living individual. The colors taken by SCP-093 are still being researched to establish a link. Current belief holds that the changes depend upon regrets carried by the holder.
+
+If SCP-093 is removed from a mirror and not held by a person, it will seek out the nearest mirror-like surface. SCP-093 has been observed to travel in the largest possible circle while rolling, building up phenomenal speed. The mechanism of this acceleration is currently unknown. If an obstacle is between SCP-093 and the nearest mirror-like surface, it will use this momentum to punch through the obstacle and continue on its course at this speed. It will only stop when a mirror-like surface is contacted. Despite tremendous impact velocities, no damage will be dealt to SCP-093 or the mirror.
+
+Additional Notes: No records exist to clarify the nature of SCP-093's discovery or presence in the Foundation. See SCP-093-OD. Since no records exist explaining SCP-093's method of containment, a test procedure was initiated to establish why mirrors must be used to contain it. The results of SCP-093-T1 lead to the discovery of living beings holding SCP-093 being able to move through mirrors and the series of tests in SCP-093-T2 to ascertain the destination reached through this travel.
+
+SCP-093 Original Documentation
+
+Item #: SCP-093
+
+Object Class: Euclid
+
+Special Containment Procedures: Item SCP-093 is to be kept on a silver lined mirror on a 0.3x0.23m (1ftx9in) pedestal at least 1.22m (4ft) off the ground floor in containment cell block ████. Object is not to be contained in areas exceeding 3.66x3.05m (12x10ft) nor placed on mahogany, pine, cherry or aluminum pedestals above or below level 1 of containment cell block ████. Object can be handled safely, albeit gently, without consequences. Tests and consequences thereof involving containment conditions can be viewed in Section-B:35-1 of the attached report.
+
+Description: Object was found on the shore of the Red Sea, 30 Jan 1968, emitting a low sigh and a dim blue gleam. Its color has since turned into an orange mix of red only emitting a hum of varying volume whilst in the presence of female examiners of ages between 34 and 41. SCP-093 resembled the documented blue for 54:34 at 1:23 on 26 April 1986 coincidentally when the body of 194-9834 was discovered in Research Facility █████.
+
+Ties between 194-9834 and SCP-093 remain inconclusive and effects of prolonged exposure to 093 remain unknown except for infrequent reports of periods of calmness and in the case of 242-0049 as periodic waves of depression, loss of balance and thoughts of suicide. These feelings have reportedly not exceeded eleven days in duration. Object seemed to react to the presence of 242-0056 by turning light violet for no more than 2:09, as documented on 12 March 1993. Effects of this reaction remain unknown.
+
+Additional Notes: Origins of 093 remain unknown and documents of recovery of 093 have since been destroyed in a fire in Research Facility █████, 09 December 1989. Reports on the feelings of researchers who handled 093 have remained inconsequential since 19 April 1995.
+
+SCP-093-T1: Containment Test
+
+Testing of SCP-093 against conditions set forth for existing containment procedures to assess viability of continuing such containment. Beginning with changing the type of mirror used as a position of rest:
+
+Mirrored surface, brass frame, retail-grade mirror: SCP-093 rests without activity when placed on the mirror. This test alone removes the need for costly silver or wooden containment systems.
+
+Standard-grade table: SCP-093 turns upright and begins to roll across the table surface in one direction, making a U-turn and rolling to the other, completing an oval shape and repeating this action until a mirror is brought into vicinity of it, at which time SCP-093 rolls toward the mirror and lays flatways against it, sliding toward the center. It is noted that despite the grainy feel of SCP-093, it does not mark the mirror in any fashion while moving across it.
+
+Two mirrors at either end of a standard-grade table: SCP-093 gravitates toward the closer mirror regardless of orientation and makes no distinction between different types of mirrors, favoring a factor of distance above all else in choosing the mirror to move to.
+
+A mirror held by a person and moved around: SCP-093 follows the mirror as it moves, gaining speed until a maximum velocity of ██████ is reached. At any velocity, the impact of SCP-093 against a mirrored surface results in no damage to either object.
+
+A person holding SCP-093 placing it on a mirror: This test was accidental, the result of one of the staff tripping another after some debate about who would be covering the lunch tab. As a result of the behavior of the researchers, it was discovered that a person holding SCP-093 and placing it against a mirror will in fact move into the mirror.
+
+Addendum: Containment testing discontinued after establishing that SCP-093 requires only a mirror to rest inert. Testing on human interaction with mirrors while holding SCP-093 authorized by Dr. █████.
+
+SCP-093-T2 : Mirror Test
+
+Testing Protocols: Subjects testing SCP-093 must wear a Class 3 buckle harness strapped to the chest and attached to a tension pulley system allowing for 300 m (~1000 ft) of movement. Additional spools may be added to extend movement if necessary. The clasps connecting these spools must be high grade and capable of withstanding applied force of 0.2 tons.
+
+A field kit containing the following should be standard issue for testing of SCP-093:
+
+One (1) wrist mounted light source with three (3) hours lifespan and additional power sources providing up to six (6) additional hours.
+
+Four (4) 0.5 L water bottles with water.
+
+Four (4) MREs of any type, plus two (2) plain granola bars (chocolate chips allowed).
+
+One (1) standard-issue Beretta 9mm firearm with twenty-four (24) rounds of ammunition, loaded. This is not to be issued until subject has passed into a mirror using SCP-093 and should be given under armed supervision ensuring that the subject passes through entirely. This item is to be requisitioned first upon subject's return and subject to be made aware of this before leaving line of sight within SCP-093's mirror.
+
+One (1) standard-issue field knife. The subject is not to be made aware of this item and must find it on his own within the kit.
+
+The subject must also be attached to a video system, with a camera mounted on the subject's head or shoulders. The video device should be cable based and allow for the same length of travel as the return system. Wireless cameras have shown mixed results and should only be used in testing conditions where SCP-093 is a currently known color. New colors must be tested using wired feed.
+
+During testing, the color of SCP-093 must be recorded, as well as history of the subject in terms of their incarceration to identify how SCP-093 determines the color to assume. A link appears to be connected to guilt or a lack thereof in the subject's psyche. The attached test results should be read in order.
+
+SCP-093 'Blue' Test
+
+SCP-093 'Green' Test
+
+SCP-093 'Violet' Test
+
+SCP-093 'Yellow' Test
+
+SCP-093 'Red' Test
+
+The following data has been classified. Personnel requesting this data must read all declassified test data and have the approval of two (2) Class-4 Personnel
+
+SCP-093-Recovered Materials

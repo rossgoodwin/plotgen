@@ -1,0 +1,145 @@
+Item #: SCP-1095
+
+Object Class: Safe
+
+SCP-1095 with security lock attached. Indicators graphically altered for security purposes.
+
+Special Containment Procedures: Is placed in a standard security locker at Site-18. Access to SCP-1095 is prohibited to all personnel without Site Director approval. A security lock is to be placed on SCP-1095 itself to prevent usage should the item be compromised.
+
+SCP-1095 is at no time to be cross-tested with any other SCP object.
+
+Description: SCP-1095 is a circular steel disc 20 cm in diameter with a 4 cm eyelet in its center. SCP-1095 is separated concentrically by six rings, each ring intersects a small "O" symbol and a set of characters that displays a message in the bearer's language.
+
+When a human appendage is pushed through the eyelet of SCP-1095 in such a way as to suggest the user is attempting to wear SCP-1095, the object will expand at its center and stretch to accommodate the new bearer. SCP-1095 is removed just as easily with the bearer simply peeling or pulling the object off. At this point the object will return to its previous shape, although the alphabetical characters on SCP-1095 will remain as they were with previous owner. The object appears to accept any human appendage as an application point, including the neck, head, fingers, tongue, toes, legs, and teeth.
+
+SCP-1095 using display characters on its outer ring prior to activation refers to itself as 'PERSONAL FATALITY INDICATOR: ALL PREDICTIONS ACCURATE - OUR GUARANTEE!'. The character on the center ring always reads "DEATH", save for two exceptions listed in Testing Log 1095-A. The outer rings list specific details about the users fatality.
+
+SCP-1095 does not appear to be applicable to cadavers.
+
+Addendum 1095-A Ring Classifications:
+
+Center Ring: Fatality
+
+Note: The fatality indicator when tested on D-Class, Security, and Research personnel reads "DEATH". It is assumed that this is a default indicator and would read in a similar fashion with any human bearer.
+
+Second Ring: Date
+
+Note: The date indicator reads a specific time of death in an XX/XX format, with the month and day being represented.
+
+Third Ring: Countdown
+
+Note: The countdown indicator displays messages in the form of "X HOURS", and the speed at which the death will occur.
+
+Fourth Ring: Location
+
+Note: The location indicator will read a commonly accepted location name and the planet in the form of "[AREA] [PLANET]"
+
+Fifth Ring: Cause
+
+Note: The Cause of Death / Duration indicator will at most times reveal the outside source of an individual's fatality rather than bodily failures, such as "KNIFE" or "WATER".
+
+Sixth Ring: Profile
+
+Note: The profile indicator shows the bearers age, first name and surname. The indicator will also show a formal title if it is applicable.
+
+Note: SCP-1095 will sometimes place an adjective in its indicators. The purpose of the descriptor is not currently known.
+
+Testing Log 1095-A
+
+Mandatory Testing Subjects
+
+D-498349
+
+Fatality: Death
+
+Date: 12/█/10
+
+Countdown: FOUR CALMING HOURS
+
+Location: NEVADA, EARTH
+
+Cause of Death / Duration: PRESSURIZED TRIFLIC ACID, FIVE SECONDS
+
+Profile: BOB HAYDECKER, AGE 40
+
+Note: The "calming" may refer to procedures prior to termination.
+
+D-498350
+
+Fatality: Death
+
+Date: 12/█/10
+
+Countdown: FOUR AND ONE HALF CALMING HOURS
+
+Location: NEVADA, EARTH
+
+Cause of Death / Duration: PRESSURIZED TRIFLIC ACID, TEN SECONDS - NICE
+
+Profile: PAUL GREEN, AGE 32
+
+D-2000034
+
+Fatality: Death
+
+Date: 04/█/78
+
+Countdown: "SIX MILLION" LONELY HOURS
+
+Location: ALASKA, EARTH
+
+Cause of Death / Duration: NOT YET EVOLVED SPECIES OF MOTH, FIVE DAYS
+
+Profile: D-2000034, AGE 32
+
+D-10054
+
+Fatality: Death
+
+Date: 04/█/88
+
+Countdown: ONE TENSE HOUR
+
+Location: NEVADA, EARTH
+
+Cause of Death / Duration: CONCRETE, HALF OF ONE SECOND
+
+Profile: JAMES SCOTFIELD, AGE 28
+
+Addendum 1095-B: D-498350s Termination was halted for testing purposes and moved to next month. When SCP-1095 was once again applied to D-498350, all indicators displayed the message "ALL PREDICTIONS ACCURATE - OUR GUARANTEE!" in Latin, a language not spoken by D-498350. SCP-1095 then in its "wrist guard" form began to warp, and finally revert to its original size causing severe trauma to D-498350s left forearm. The device was surgically removed, although D-498350 suffered an unusually fast death via exsanguination from the exposed tube of flesh before medical personnel could respond.
+
+Voluntary Testing Subjects
+
+Personnel with a clearance of Level 4 or higher may submit an application to their Site Director for approval.
+
+Voluntary Testing Subjects
+
+Dr. Clef
+
+Fatality: The center ring appears to "wobble" and intersect rings two and three. The indicator cannot be determined.
+
+Date: [DATA EXPUNGED]
+
+Countdown: [DATA EXPUNGED]
+
+Location: SCENIC EGYPT, EARTH
+
+Cause of Death / Duration: INTERESTING LIGHT, ONE SOLAR YEAR AND TWO HOURS
+
+Profile: ██████████████████████████, AGE ██████
+
+Personal Note, Dr. ████: It must be broken.
+
+Dr. Bright
+
+Fatality: Center ring lacks an indicator.
+
+Date: Lack of an indicator.
+
+Countdown: Lack of an indicator.
+
+Location: UNKNOWN
+
+Cause of Death / Duration: PLEASANT EXISTENTIAL FAILURE, DURATION UNKNOWN
+
+Profile: DR. JACK BRIGHT, PLEASE KEEP IN MIND THE PERSONAL FATALITY INDICATOR CAN ONLY INDICATE FATALITIES FOR ONE HUMAN, BIOLOGICAL, NON-IMMORTAL CORPOREALITY AT A TIME DUE TO CURRENT PROCESSOR LIMITATIONS. PLEASE CONTACT US FOR ANY FURTHER QUERIES REGARDING THE PREDICTION PROCESS.

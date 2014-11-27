@@ -1,0 +1,61 @@
+SCP-497
+
+Item #: SCP-497
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-497 is to be kept in a secure soundproofed room under continuous observation by standard security cameras. One guard and two medical personnel equipped with high-grade earplugs are to be posted at the door of the containment chamber at all times. Only cleared personnel are permitted to handle SCP-497.
+
+If SCP-497 materializes a body, medical personnel are to evaluate the subject's health and notify security. If still viable, the subject shall be escorted to a medical ward to be processed. Dead or terminal subjects are to be analyzed and then disposed of according to standard procedure.
+
+Description: SCP-497 appears to be an Eustrombus gigas conch seashell. Recordings have shown that SCP-497 continuously emits a very faint sound of voices screaming from within its shell. This sound dissipates a few inches away from the object.
+
+Periodically, SCP-497 will become active and its sound will increase greatly in magnitude for approximately one minute. Following this, an emaciated human subject materializes, holding SCP-497, and then collapses to the floor unconscious or dead. Instances of activity under normal conditions have been observed to occur at a minimum of two weeks apart, and a maximum of two years apart, with an average of four months. SCP-497 has materialized ███ subjects since containment began, detailed in Document █████. No subjects absorbed during experiments involving SCP-497 have been recovered.
+
+Subjects that hold SCP-497 near their ear and listen to it for more than ██ seconds will appear to fall unconscious, and then disintegrate. This leaves SCP-497 to fall to the floor. During periods of high magnitude sound production, any subject that hears the sound will be absorbed, even if not in close proximity to the object. Experimentation has shown that the subject must actually listen to and hear SCP-497 in order to be absorbed. Subjects listening remotely or listening to recorded sound from SCP-497 are not affected. See Experiment 497-A for further details.
+
+It is possible to damage SCP-497, and samples have been extracted by using diamond drill bits. However, SCP-497's sound will increase in magnitude when damaged, and will materialize subjects at a greatly accelerated rate. The shell will quickly repair itself during this period as well. Attempts to continue damaging SCP-497 will cause its sound to increase exponentially. Determination of the composition of the samples has so far proved inconclusive. Extraction of further samples is advised against. See Experiment 497-B for details of early extraction attempts.
+
+Addendum:
+
+SCP-497 has produced subjects of various ages of both genders. Subjects have been comprised of a majority of people of Indian descent, with a small percentage of other races. Approximately eighty percent of recovered subjects have been dead. Of the remaining twenty percent, only three percent have survived more than two days after being released from SCP-497. Severe malnutrition and resulting complications have been the primary cause of death.
+
+SCP-497 was recovered in ██████████'s house in ██████, India, following an investigation into missing persons reports. The situation was brought to the attention of the Foundation after the discovery of many unsolved missing persons cases originating near the location, dating back hundreds of years. Agents ██████ and ████ were called in to investigate the house and surrounding area. SCP-497 was discovered to hold supernatural qualities after Agent ████ found it among a collection of shells and was absorbed into the object. "I should have kept a better watch over Agent ████ on his first mission. But how inept do you have to be to hold a shell up to your ear when we are searching for SCP class objects?" –Agent ██████ during debriefing.
+
+Experiment 497-A:
+
+Subject: Human equipped with earplugs.
+
+Result: Subject holds shell up to ear, is not absorbed.
+
+Subject: Human equipped with headphones with loud music playing.
+
+Result: Subject holds shell up to ear, is not absorbed.
+
+Subject: Deaf human.
+
+Result: Subject holds shell up to ear, is not absorbed.
+
+Subject: Chimpanzee.
+
+Result: Subject is allowed to interact with the object. After approximately fifteen minutes, the subject holds the shell up to its ear and is absorbed.
+
+Experiment 497-B:
+
+Under direction of Dr. ██████, a Class-D personnel attempts to remove a sample of SCP-497 with a power drill.
+
+ 0800: Class-D researcher equipped with high-grade earplugs enters the containment chamber and starts to drill. 
+
+0805: Standard drill bits prove ineffective and are replaced with diamond bits.
+
+0810: Two (2) millimeters of depth reached with the drill. Observation room reports substantial increase in SCP-497's sound magnitude.
+
+0811: A dead subject materializes in the chamber. Class-D is interrupted from drilling, and reports rapid repair of the shell. A decrease in sound magnitude to normal levels is recorded.
+
+0820: The subject is removed from the test chamber. Dr. ██████ authorizes continued drilling.
+
+0825: Two (2) millimeters depth is reached again. An increase of SCP-497's sound magnitude is again reported.
+
+0826: A new subject materializes and is removed from chamber. Class-D quickly resumes drilling.
+
+0829: Four (4) millimeters of depth is achieved. SCP-497's sound magnitude level increases beyond the rating of the Class-D’s earplugs. Three subjects materialize within thirty (30) seconds of the volume increase. Both the Class-D and the drill are absorbed into SCP-497. The hole repairs quickly and a decrease in sound magnitude is recorded.

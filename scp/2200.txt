@@ -1,0 +1,119 @@
+SCP-2200-4 subject with authorized pet.
+
+Item #: SCP-2200
+
+Object Class: Euclid
+
+Special Containment Procedures: The current instance of SCP-2200-2 is to be kept in a standard humanoid containment chamber at Bio-Site 59. To prevent the relocation of SCP-2200-1, a minimum of five armed security personnel must escort SCP-2200-2 to termination chamber T-28 once a month to assist in routine D-Class cycling. In the event SCP-2200-1 relocates, Mobile Task Force Epsilon-30 ("Blade Fielders") is to be deployed to seek out and contain the new SCP-2200-2 instance.
+
+The area of land encompassing SCP-2200-3 has been designated Site-502, with Foundation faculty members living as residents in the town proper. As SCP-2200-3 is populated by anomalous individuals, faculty may acknowledge the existence of anomalous activity in general but are not to divulge details on any SCP object besides SCP-2200. Each staff member living on-site is to submit a weekly report detailing their experience and interactions. For all intents and purposes, SCP-2200-3 is to remain an autonomous community with minimal political and social interference by the Foundation. Additional intervention may be ordered by the presiding on-site Staff Lead at their discretion. As a number of inert instances are already in storage for testing and archival purposes, additional inert SCP-2200-4 are to be collected and melted down for use in funding Foundation activities.
+
+Description: SCP-2200 is the collective designation of three components in a related anomalous phenomenon. SCP-2200-1 is a sword, 80cm in length, composed of an alloy of silver and copper, estimated to have been constructed between 500 and 1,000 BCE. SCP-2200-1 is luminescent, giving off blue light at a level of brightness directly proportional to the number of SCP-2200-4 subjects residing in SCP-2200-3. Similarly, increased numbers of SCP-2200-4 subjects reverses the negative effects of aging on SCP-2200-1, making it a more effective weapon.
+
+SCP-2200-2 is the human individual presently bonded to SCP-2200-1. SCP-2200-2 subjects cannot willingly separate themselves from SCP-2200-1 and any attempt to forcefully remove it from the subject's grasp will result in the immediate death of the subject. Surgical removal of the hand or arm holding SCP-2200-1 will also result in instant death. When a SCP-2200-2 instance dies, SCP-2200-1 teleports into the hand of another individual and instantly bonds with them. There is no apparent limit to the distance SCP-2200-1 can teleport when finding a new individual to bond with. SCP-2200-1 appears to "choose" subjects that share a similar set of traits (see Document 2200-A), suggesting that it may be independently intelligent to some degree.
+
+SCP-2200-2 subjects experience increased levels of epinephrine and testosterone after bonding with SCP-2200-1, and immediately gain knowledge of SCP-2200-1, SCP-2200-3, and how they function. These factors, combined with the SCP-2200-2 subject's background (see Document 2200-A) will invariably result in SCP-2200-2 seeking out and killing as many people with SCP-2200-1 as they are capable. SCP-2200-2 subjects suffer from an anomalous form of argyrosis,1 causing their skin to take on a distinctive blue pigmentation that becomes more pronounced over time. If SCP-2200-2 does not end a human life using SCP-2200-1 for an extended period of time, SCP-2200-1 will relocate.
+
+SCP-2200-3 is a 50km2 area of land located in ████████████████████ Whenever a person is killed by SCP-2200-1, a likeness of the individual formed out of solid silver (SCP-2200-4) will appear in SCP-2200-3. Despite being made of inorganic material, instances of SCP-2200-4 are fully animate and capable of vocalization. Interviews have shown that SCP-2200-4 instances share the personality and memories of the victim they resemble. SCP-2200-4 do not need to eat, drink, or sleep, but may perform these actions if they choose to do so. Instances of SCP-2200-4 that leave SCP-2200-3 will cease animation upon setting foot outside the designated 50km2 space. SCP-2200-4 seem to be innately aware of the dimensions of the "safe" area. Instances that leave the area remain permanently inert and cannot be restored by being returned to SCP-2200-4.
+
+Document 2200-A: Characteristics shared by SCP-2200-2 subjects:
+
+Between 16 and 34 years of age
+
+Physically active
+
+Athletic
+
+Strong fear of death
+
+Belief in a negative outcome of death
+
+Psychological/emotional instability
+
+Interview 2200-I-0015
+
+Interviewed: SCP-2200-2.037, a 36-year-old male from British Columbia.
+
+Interviewer: Dr. Stems
+
+Foreword: Interview was conducted on ██/██/████, two days after SCP-2200-2.037 was detained.
+
+<Begin log>
+
+Dr. Stems: All right, we're going to run through this one more time for the records. Please describe the series of events that transpired after SCP-2200-1 appeared in your hand.
+
+SCP-2200-2.037: One moment I was just sitting in my bedroom, reading, when all of a sudden I had this … this vision. I saw this place where people could live forever. I mean, on an intellectual level I knew that what I was seeing was impossible, but I just knew it was true. I can't explain how, I just knew. And I knew that I could send people there with the knife.
+
+Dr. Stems: What was your first course of action?
+
+SCP-2200-2.037: I waited until dark. I live alone so nobody noticed me going out in the middle of the night. Whenever I came across some homeless person sleeping alone, I'd slit their throat or stab them in the heart or something like that. It went on like that for a few nights until I got caught by the cops. They turned me over to you guys, and, well, here I am.
+
+Dr. Stems: I see. Anything else you'd like to add?
+
+SCP-2200-2.037: I wanna make it clear that I'm not a psychopath or anything. I sent those people away because death could have come for them at any moment. What if they weren't right with God? The way I see it, when someone is sent to that place, they're basically guaranteed eternal life. I was eliminating the risk of Hell for them, you know? I know it sounds terrible, but I had good intentions. I wasn't really killing them. Just sending them to heaven, kind of. Or at least keeping them safe from the alternative.
+
+Dr. Stems: Thank you for your time.
+
+<End log>
+
+Interview 2200-I-0124
+
+Interviewed: SCP-2200-2.082, a 29-year-old female from Washington, USA.
+
+Interviewer: Researcher Iwataki
+
+Foreword: Interview was conducted on ██/██/████, three weeks after SCP-2200-2.037 was detained.
+
+<Begin log>
+
+Iwataki: Okay, we're going to be recording this time. If you're ready, please describe the series of events that transpired after SCP-2200-1 appeared in your hand.
+
+SCP-2200-2.082: I … I immediately knew that my life was pretty much over. I knew that I can't let go of this knife. Ever. All my plans for my life, my career, my family–all of it was gone. But at the same time, I guess I thought I had an … opportunity.
+
+Iwataki: Were you happy with the situation?
+
+SCP-2200-2.082: No. God, no. I would have given anything to stop what happened.
+
+Iwataki: So why did you do it?
+
+SCP-2200-2.082: Don't you judge me. Not for a second. What would you do if you knew you could keep your loved ones alive forever? How could I know if my kids would even live to be my age? I knew that I was keeping them safe forever, but that didn't make it any easier. But, to be honest, after I saved my family, it was easy to move on to strangers. God. I still can't believe any of this happened. I'm surprised the police didn't just shoot me on the spot.
+
+Iwataki: That's what typically happens. Makes things much more difficult for us.
+
+SCP-2200-2.082: If you see my family, please tell them I'm sorry.
+
+Iwataki: I'll pass that on. Thank you for your cooperation; I know these past few weeks haven't been easy for you.
+
+<End log>
+
+Interview 2200-I-0207
+
+Interviewed: SCP-2200-4.00581, a 68-year-old male religious leader in SCP-2200-3.
+
+Interviewer: Researcher Pittenger
+
+Foreword: Interview was conducted on ██/██/████, two days after SCP-2200-2.037 was detained.
+
+<Begin log>
+
+Pittenger: If you would, please describe the Exodus Movement to me as if I was unfamiliar with it.
+
+SCP-2200-4.00581: Certainly. Here in Soulberg–or Silverville, whatever you want to call it–there are multitude of people who fear what awaits when they cross the threshold and give up their life. Those of us who are of the Christian faith believe that this is more of a purgatory than the paradise that God intended for us. You see, this place is founded on the fear of what happens after death. You can postpone your fate as long as you like, and your life will only end when you willing pass over the boundary line of our city. The Exodus Movement is a Christian initiative that seeks to helps Soulberg's citizens come to term with their mortality and willingly pass on to the next world.
+
+Pittenger: If you believe in an afterlife, why have you yourself not "crossed the threshold" as well?
+
+SCP-2200-4.00581: Some of us believers have to remain to maintain the church and continue to spread the good news. As much as I desire to meet my heavenly father, I willingly choose to stay behind so that I might aid those who are still shackled by fear and doubt.
+
+Pittenger: Opponents of the Exodus Movement have accused you of merely wanting to reduce overpopulation and increase your field of influence. How do you answer these allegations?
+
+SCP-2200-4.00581: I can understand why they would think such things. As long as the church has existed, so have its critics. Even among believers, there are those who believe the exiting the city limits to be a sin, as it equates to suicide. Disagreements are a given in matters of religion.
+
+Pittenger: Any additional comments you would like recorded?
+
+SCP-2200-4.00581: Just that the fear of death is the foundation of this society we live in right now. Whether you believe in heaven or hell, afterlife or finality, is the pursuit of immortality truly virtuous? By choosing to remain safe in our silver shells, we rob ourselves of our dignity. By fearing death, we only give it more power.
+
+<End log>
+
+Footnotes
+
+1. A skin condition caused by high quantities of silver in the body.

@@ -1,0 +1,57 @@
+Item #: SCP-1255
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1255 is currently audible only in the three Project Breve anechoic chambers on Site-█. MTF Xi-7 ("Noisemakers") is assigned the task of monitoring global construction of anechoic and sound-dampening devices to ensure that none achieves the Project Breve baseline required to detect SCP-1255. While SCP-1255 is not harmful to human beings, test personnel should be aware that enclosure in a sealed Project Breve chamber can result in disorientation, and audiovisual hallucinations consistent with sensory deprivation.
+
+As of Incident 1255-2011-32, active noise cancelling devices are not to be activated within chambers wherein SCP-1255 is audible.
+
+Description: SCP-1255 is a piece of music audible only in the high-efficiency sound-dampening chambers developed by Project Breve for research on sonic containment and control of SCP-███. Testing has revealed that SCP-1255 is sourceless, does not emanate from within the chambers themselves, and appears to be audible in any Breve-equivalent sound-dampened space on the planet. The music is highly repetitive and consists of eight distinct harmonic sequences, designated 1255-1 through -8. All personnel capable of hearing who have entered Project Breve chambers have reported an awareness of the presence of the music, although the clarity with which it was audible varied from subject to subject. Recordings and electronic reproductions of samples of SCP-1255 are available for listening in the Site-█ library.
+
+Addendum: Closer observation of the SCP-1255 harmonies reveals that each appears to correspond in some way to specific stellar objects in the solar system. For instance, 1255-8, the highest in pitch, repeats approximately once every Mercurial day (55.9 hours) and undergoes a 50% increase in intensity as Mercury approaches its periapsis. 1255-7 through 1255-5, corresponding to Venus, the Earth and Mars all demonstrate comparable rotational repetition periods and magnitude increases at periapsis. 1255-4 through 1255-1, corresponding to Jupiter, Saturn, Uranus and Neptune all exhibit repetition with the rotational periods of those stellar bodies, although due to the length of their orbital periods a full magnitude variance analysis has not yet been possible.
+
+Document 1255-04: Researcher Chutsai's notes
+
+After three months of constant recording, we've managed to electronically duplicate the SCP-1255 sound in its entirety. We can't be sure if the magnitude variances in the lower harmonies follow the pattern set by the higher harmonies, but I'm confident our predictions will match up. With this achieved, I'm going to move forwards with more direct tests as to the nature of the sound. I've had our engineering team construct a series of highly efficient microphones in order to attempt an antiphase cancellation of the sound. If this is successful, we can finally use the Project Breve chambers as they were intended. If this sound is indeed universal as our tests seem to show, cancelling it in one soundproof chamber shouldn't affect the noise in the other two.
+
+Document 1255-05: Recovered transcript of Incident 1255-2011-32
+
+On █/█/2011, contact with Site-█ was temporarily lost and Foundation seismic monitoring facilities detected an earthquake measuring 2.4 on the moment magnitude scale emanating from the site. Response teams discovered on arrival that a significant portion of the Site had been destroyed, apparently as a result of the simultaneous failure of every single seismic load-bearing element of all on-site buildings. Site-█ is currently off-limits while reconstruction is underway. There were █ casualties, among them Researcher Chutsai, killed when Breve Chamber 2 collapsed. What follows is a transcript of recorded audio data recovered from the Site-█ secured offsite data backups.
+
+Sounds of movement. Project Breve Chamber 2 door sealed. SCP-1255 faintly audible in the background.
+
+Researcher Chutsai: Right. And we're sealed. How's the equipment?
+
+Research Assistant Anderson (on microphone in chamber monitoring booth): Audio levels good, video recording's working… whenever you're ready, sir.
+
+Researcher Chutsai: Begin cancellation [sequence] on my mark. Three… two… one… Mark.
+
+Research Assistant Anderson: Antiphase cancellation system online.
+
+Three seconds of static. SCP-1255 becomes completely inaudible.
+
+Researcher Chutsai: I'm not hearing anything. [inaudible] the readouts?
+
+Research Assistant Anderson: Everything's in the green. Total cancellation. Well done, sir.
+
+Faint sounds of applause from the monitoring booth.
+
+Researcher Chutsai: Congratulations, everyone. We've just [unintelligible] completely silent place on earth. Drinks are on me tonight.
+
+Research Assistant Anderson: Sir, we seem to be experiencing some sort of earthquake out here. Um… the shock absorbers are holding, but-
+
+Researcher Chutsai: Okay. Stop the cancelling. I'm coming out.
+
+3 seconds of static. SCP-1255 returns, 30 decibels louder than any previously recorded level.
+
+Researcher Chutsai: Oh my god.
+
+Research Assistant Anderson: Sir? The cameras just cut out. Ian? Ian, can you hear me? Get out of there! The walls-
+
+SCP-1255 peaks at 130 decibels, accompanied by a low-pitched grinding noise, consistent with total structural collapse of the Breve chamber. Several smaller concussive noises occur over the next 15 seconds.
+
+Researcher Chutsai (barely audible): Musica universalis! I don't- [unintelligible].
+
+At this point the audio fails completely. Attempts to recover the accompanying video data have failed. Research Assistant Anderson suffered a severe concussion and has no memories of the incident.
+
+Concurrent to the seismic event, every resonant-mass antenna and gravitational wave detection interferometer currently operational ceased to detect the Sun as emitting any form of gravitational field. This erroneous data was registered on all detectors for a period of approximately two seconds, whereupon the systems corrected themselves. The cause of this anomalous failure is as of yet unknown.

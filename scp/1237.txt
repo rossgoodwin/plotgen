@@ -1,0 +1,57 @@
+SCP-1237 as represented on an EEG readout.
+
+Item #: SCP-1237
+
+Object Class: Keter
+
+Special Containment Procedures: Due to its pandemic and incorporeal nature, SCP-1237 cannot be contained in a traditional sense. Containment of SCP-1237 at this time shall be focused on information management and on identification and containment of SCP-1237-1-positive individuals.
+
+Any non-Foundation scientific research which could lead to discovery of SCP-1237 is to be supressed by any means necessary. Conscription of researchers involved in such studies, as Foundation personnel or as D-class, is authorized.
+
+The Foundation is to sponsor efforts wherever and whenever possible to promote widespread DNA testing of civilians for the purpose of identifying SCP-1237-1-positives, including but not limited to mandatory testing of sex offenders and other convicted offenders, DNA testing as prerequisites for employment or insurance eligibility, DNA fingerprinting as a means of identification, universal prenatal screenings, and "home DNA testing kits" ostensibly for the purpose of determining a person's ancestry. All Foundation personnel, and any civilian who is allowed to know of the Foundation's existence, must be tested immediately.
+
+Information is to be disseminated in the medical community to the effect that an SCP-1237-1-positive result in a prenatal screening is evidence of a deformative condition with low viability and extreme health risk to the mother, and doctors are advised to recommend that such pregnancies be terminated. If a known SCP-1237-1-positive pregnancy is not voluntarily aborted, induction of involuntary abortion is authorized.
+
+The Foundation is to sponsor any and all organizations or charities providing prenatal screening and abortion services, whether legal or not, in developing countries where these services do not exist. If these efforts are unsuccessful, sponsorship of organizations participating in campaigns of involuntary sterilization, ethnic cleansing, or genocide is authorized against populations with statistically high rates of SCP-1237-1.
+
+Any person presenting at hospital or police, or otherwise identified as having experienced an SCP-1237 event, is to be detained for study and testing. If the individual is SCP-1237-1-negative they are to be debriefed, administered a Class-B amnesiac, and released.
+
+Any person found to be SCP-1237-1-positive, or to have caused an SCP-1237 incident, is to be detained immediately for study and debriefing. After debriefing they are to be administered a Class-Ω amnesiac and detained indefinitely. Positives are to be regularly dosed with Class-C amnesiacs to prevent any development of new memories regarding the existence of the Foundation or any staff handling them, benzodiazepines to minimize slow-wave sleep, and ██████████████ to prevent REM sleep and, during sleep, shall be monitored at all times by EEG. In the event that any positive enters an SCP-1237 state during observation they are to be terminated immediately.
+
+If any SCP-1237-1-L is identified by the Foundation, authorization is granted to employ them once and only once to attempt to neutralize a Keter-class SCP object at the discretion of O5. After said attempt, whether successful or not, subject is to be terminated immediately.
+
+If any high-profile person/s or public place/s is/are affected by an SCP-1237 event, the Foundation is authorized to take whatever steps necessary to prevent public knowledge of this change - up to and including termination or complete destruction of the person or place so affected.
+
+Description: SCP-1237 is a state of electrical activity in the human brain (a "brain wave" in common terminology) observed in certain individuals during periods of extremely deep sleep. This state, informally dubbed "level 5 sleep" or "epsilon wave sleep", is profoundly difficult to awaken the subject from - prior to adoption of current containment protocols, experiments with loud noise, bright lights, chemical injections, electrical stimulation, oxygen deprivation, physical injury and mutilation, and [REDACTED] all failed to arouse the subject. The ability to exhibit SCP-1237 is controlled by a gene designated SCP-1237-1. SCP-1237-1 is present in approximately 0.████% of the total world population; however, this number is as high as 1.████% among ███████, ███████████ ███████, and ██████ ethnic groups. ██% of SCP-1237-1-positives experience at least one SCP-1237 event in their lives; █% experience two or more. The majority of SCP-1237 events occur when the subject is in their late teens to early thirties.
+
+Whereas SCP-1237-1-negative individuals do not exhibit REM activity during the deepest stages of sleep, SCP-1237-1-positives do. Dreams experienced during an SCP-1237 event are not of a significantly different nature than dreams experienced by negatives; they may involve the dreamer participating in routine daily activities, find them in impossible or illogical situations where people they may or may not know behave uncharacteristically, or find them in scenarios most persons would find terrifying. As with ordinary dreams, the subject has no apparent control over the setting or events of the dream or their actions therein. When dreaming during an SCP-1237 state, however, the brain waves responsible for REM activity and SCP-1237 activity interact to produce a reality-altering effect.
+
+After an SCP-1237 event occurs, any physical or mental changes that occur to the subject in the dream will occur to their waking form as well. If the dream involves persons or places that the subject has personally interacted with or visited, those persons and places will be altered as well in accordance with the nature of the dream. Imaginary persons or places, or persons or places not personally known by the subject, are not affected. Transformation is instantaneous in all cases that have been observed. In general, memories of people not involved in the dream are unaffected. People encountering persons affected by an SCP-1237 event will believe that the changes are "correct" and that the person has always been that way; however, they will have memories that this is not the case. Attempts to reconcile this among witnesses to an SCP-1237 event tend to result in chronic uneasiness, paranoia, and [REDACTED].
+
+Documented effects of SCP-1237 events have included;
+
+Loss of limbs and organs, or spontaneous regeneration of limbs and organs previously lost.
+
+Complete and total changes in physical appearance, gender, personality, memories, age, or species.
+
+Acquisition of "superhuman" abilities including the ability to fly, lift extremely heavy objects, survive without oxygen, or see through solid objects.
+
+Significant changes in the architecture and floor plan of buildings, of the layout of city streets, or of the appearance, characteristics, or names of landmarks.
+
+Changes in the outcome of historical events the subject was involved in.
+
+Individuals returning to life several years after dying.
+
+The spontaneous transformation of national governments from one form to another - e.g., from a republic to a constitutional monarchy, or from a democratic confederation to an autocratic dictatorship
+
+[REDACTED]
+
+[REDACTED]
+
+A very small percentage of SCP-1237-1 positives (believed to be in single digits worldwide), designated SCP-1237-1-L, are capable of "lucid dreaming" - the ability to control the nature of their dreams, including those occuring in SCP-1237 events. To date, only one SCP-1237-1-L has been identified by the Foundation (see Experiment Log T-98816-OC108/682 for details pertaining to its disposition.)
+
+Addendum - Note from Sr. Researcher ███████: It is of the utmost importance that all agents assigned to SCP-1237 containment understand exactly how dangerous this phenomenon can potentially become.
+
+We have no idea how much of our world has been changed by these dreamers in the past. A single positive, having a single dream, has the potential to change the world for the worse. What if a mortician watches a scary movie, then falls asleep and dreams their town is part of a zombie apocalypse? What if a globetrotter dreams about the end of the world? What if someone aware of our existence dreams of a world where there's no such thing as the Foundation? We're talking CK, maybe even XK-level events here. As it stands right now, we don't even know how many of these people are out there that we haven't found.
+
+For this reason, I want to stress that any means necessary to implement universal DNA testing, and to remove these people from the gene pool, is authorized, and that there is absolutely no margin of error for "mercy". When you became part of this organization, you understood that we sometimes have to do horrible things in the name of the greater good, things that make it hard to sleep at night. I must ask you to do those horrible things, and to continue doing those horrible things for as long as it takes to neutralize this threat, because it only takes one positive who can sleep at night to create a world where the rest of us will never wake up again.

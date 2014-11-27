@@ -1,0 +1,31 @@
+SCP-877, generation █
+
+Item #: SCP-877
+
+Object Class: Euclid Keter
+
+Special Containment Protocols: All copies of SCP-877 are to be kept in electromagnetically sealed containers in the Site 19 storage vault. Containers are to be fitted with radio receivers set to scan all frequencies for incoming or outgoing transmissions. A log of previously used frequencies is to be kept on file. Any transmission from any copy of SCP-877 is to be reported immediately to Site 19 command. All efforts are to be made to capture as many specimens of SCP-877 as possible, to determine any of the object's other abilities.
+
+Description: SCP-877 is a set of four ten twelve microchips acquired between 199█ and 201█ from the cerebral cortices of different small mammals. Animals found to contain copies of SCP-877 include, but are not limited to, Sciurus carolinensis (the eastern gray squirrel), Felis catus (the domestic cat), and Eumops perotis (the western mastiff bat). The microchips are unmarked except for small stamps, readable only by electron microscope, that read “ALEXYLVA UNIVERSITY BIOLOGY DEPT,” followed by “GENERATION” and a number. However, no records exist of an institution named “Alexylva University.” Moreover, the abilities of these microchips are beyond the technological capability of any known laboratory to create.
+
+Copies of SCP-877 have a potential processing speed of 3.3x10██ million instructions per second at ██ terahertz and storage capability estimated at ███ petabytes. The chips are capable of interfacing with and controlling the motor functions of host creatures, though it will usually allow the animals' instincts to carry out routine affairs (eating, nesting, mating).
+
+SCP-877 has only primarily been noted to take over its host for the purpose of propagating itself (see Addendum 877-2). The mechanism by which this takes place is unknown, but the behavior associated is well-documented. A host animal will approach another animal and immobilize it by the most expedient means available to it. The host will bite the creature somewhere on the head, making blood contact between the animals. The original host will release the animal after ten minutes.
+
+Within twenty-four hours, a new copy of SCP-877 will emerge in the new host; the chip will be slightly smaller and the generation number will have advanced by one. The highest generation number located to date is █ (see Addendum 877-2 for update), and each chip appears to be capable of propagating itself six times, implying that the total population of SCP-877 may be in the millions tens of millions.
+
+Addendum 877-1: Recovery Log: The first copy of SCP-877 located was discovered by zoological researchers at the University of [REDACTED] in Tennessee in 199█ during a typical dissection. Its unusual presence inside the creature drew the attention of Foundation scientists, who determined it to be a first generation chip. Analysis of unusual energy readings from the chip led to scanning for radio transmissions with a frequency of [REDACTED], leading to the capture of two more chips. Instances of SCP-877 began changing frequencies repeatedly; however, having several specimens in captivity made tracking easier.
+
+Addendum 877-2: Update Log
+
+██ February 2011: Tenth specimen acquired. During testing, a major spike in radio activity was recorded on several different frequencies. At this time, all instances of SCP-877 in captivity ceased transmitting on any frequency, and all known frequencies for SCP-877 transmission went dead. O5 Command believes the rest of the chips are communicating on scrambled channels and continuing their propagation cycles. Without any understanding of the chips' origins or ultimate goal, the threat level of SCP-877 is to be considered high and attempts to locate specimens of and materials relating to SCP-877 should be considered top priority.
+
+█-██ August 2011: On two separate occasions within a week, reports were received of attacks against isolated humans by clusters of animals of different species working together. A single specimen of Didelphis virginiana, the North American opossum, was captured. Presence of SCP-877 confirmed during dissection. Reclassification to Keter requested.
+
+██ August 2011: Keter reclassification denied by O5 command.
+
+██ September 2011: Another attack involving SCP-877 recorded. Two Boston terriers, four squirrels, and a garter snake cooperated in attacking an eleven-year-old child who had strayed into a wooded area near her home. Using radio frequency tracking, the two terriers were contained; presence of SCP-877 was confirmed by dissection. Both specimens were marked "GENERATION ██" and were located deeper in the cerebrum, making discovery more difficult. Mobile Task Force Rho-1 ("The Professors") formed and mobilized for rapid response and containment of SCP-877 instances.
+
+██ September 2011: After reports of unusually violent behavior, the victim of the previous SCP-877 attack was brought in by Foundation researchers. MRI scan inconclusive, though a small shadow was seen in the cerebral cortex. Researchers confirmed that the object was most likely SCP-877, given its consistent shape and location during multiple scans, though definite identification would not be possible while the subject was still alive due to the chip's placement.
+
+██ September 2011: Keter reclassification approved by O5 command.

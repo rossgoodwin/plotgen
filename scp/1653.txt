@@ -1,0 +1,47 @@
+Item #: SCP-1653
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1653-A is to be contained in a form-fitting shipping crate lined with impact-resistant packaging foam, followed by a layer of lead. The top of the crate is to be independently capable of being opened to allow light in if needed. SCP-1653-A is not to be exposed to an unprotected wireless network.
+
+SCP-1653-B are to be wrapped in plastic and submerged in concrete blocks in a containment chamber on any floor below the one where SCP-1653-A is kept. If they are a necessity, any inclined walkways connecting said floors are to be inclined greater than 20°, though a total lack of inclined walkways is strongly recommended. SCP-1653-B are not to be given access to SCP-1653-A.
+
+Description: SCP-1653-A is a cylindrical column of solid glass, 310 cm tall by 31.8 cm in diameter. Its surface is etched with 8 shallow, smooth rows of a square Greek spiral design which thread around it at a 30° angle from horizontal. It is inanimate.
+
+SCP-1653-A-1 is a flattened cylindrical column of human brain tissue, 20.3 cm tall by 27.6 cm in diameter. It is situated inside SCP-1653-A, 5 cm below its top surface and completely enclosed in glass. Its structure is radially symmetric. SCP-1653-A-1 has the remnants of a brainstem and spinal cord wrapped underneath it. Additionally, its pineal gland is exposed as a flat circle at the top and apparently acts as its sole sensory organ. SCP-1653-A-1 is alive and displays neural activity consistent with that of a human. How SCP-1653-A-1 receives nutrition is unknown, although increasing its exposure to overhead light increases its neural activity.
+
+SCP-1653-A is capable of acquiring a connection to the Internet to a limited extent when in the presence of an unprotected wireless network. Prior to recovery, SCP-1653-A was located in the courtyard of the ████ ████████ Memorial Hospital in ██████████, Michigan. There, it broadcasted two Tweets each day to the Twitter account @███████; the first would be a declaration of whether it was currently sunny or cloudy, and the second would be a statement of a desire for a personal characteristic or belonging. The account gathered 21 followers before it was terminated by the Foundation; all have been tracked and amnesticized. SCP-1653-A was replaced in the courtyard by a replica. Shortly after SCP-1653-A was discovered, SCP-1653-B were found locked in a disused basement walk-in freezer at the ████ ████████ Memorial Hospital, from which they were attempting to escape.
+
+SCP-1653-B are a set of three elongated tetrahedrons constructed from polished green stainless steel. Each is 50 cm tall and 20 cm to a base edge, with a purple and yellow flower design drawn on each face. Their construction is seamless and prevents internal imaging, but they seem to be partially filled with one or more viscous liquids of unknown nature. SCP-1653-B are animate and hostile, typically gliding on their bases at speeds of up to 49 kph on surfaces inclined up to 20°. While moving they produce quiet bursts of white noise. They have not responded well to containment; active breach attempts occurred almost daily until the current containment procedures were put into place. SCP-1653-B's apparent motive is to reach SCP-1653-A and attach themselves to its surface — details after that point are not known.
+
+Addendum: Sample Tweets1 from the Twitter account associated with SCP-1653-A.
+
+i wish i could be more majestic
+
+it is sunny today :)
+
+i would like those flowers to keep away
+
+it is dark today D:
+
+i want flowers to show me the world
+
+it is overcast today :/
+
+i want to see the world
+
+it is very sunny today :D
+
+i wish a cute boy would bring me flowers
+
+it is cloudy today :(
+
+i wish this itchy jacket would come off
+
+it is sunny today :)
+
+i want to grow up and become a column of glass
+
+Footnotes
+
+1. Presented in reverse chronological order as they were displayed on the timeline.

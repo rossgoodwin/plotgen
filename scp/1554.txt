@@ -1,0 +1,59 @@
+SCP-1554 upon discovery, with SCP-1554-A-1 in foreground. Note the attached tag.
+
+Item #: SCP-1554
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1554 is to be kept in a fireproof Safe class storage locker in Site 629's anomalous media wing. Testing is to be conducted under the supervision of Dr. Walters, and all instances of SCP-1554-A produced are to be stored on a case by-case basis:
+
+Viable biological specimens are to be kept in Site 629's greenhouse. All fauna created from SCP-1554-A is to be euthanized, dissected, and incinerated following testing.
+
+Models produced by SCP-1554-A may be displayed in Site 629's archival wing, provided they are not hostile in nature.
+
+Inanimate objects are to be disposed of on a case-by-case basis following inspection. All metallic objects are to be melted down and converted into scrap.
+
+All testing is to occur in a room with a waterless fire extinguishing system. No flame tests are to be carried out on SCP-1554 under any circumstances.
+
+Description: SCP-1554 is a copy of the book The Fellowship of the Ring by J.R.R. Tolkien, published in 1969 by ██████ Press. SCP-1554 is in very poor condition for its age, with several pages being marked with pen, pencil and crayon, moderate water damage to later chapters, and the entirety of the chapter In The House of Tom Bombadil being missing.
+
+By itself, SCP-1554 will gravitate to the nearest flat, dry surface and will stand on end, opening itself to the first undamaged page. The act of damaging any pages of SCP-1554 in any way produces an instance of SCP-1554-A. SCP-1554-A are items that form themselves out of a page of SCP-1554 that has been damaged in some way. The instance of SCP-1554-A varies depending on the type of damage caused to SCP-1554. Water damage typically produces quasi-biological specimens, tearing out pages of SCP-1554 produces small, often autonomous sculptures depicting scenery and character from The Fellowship of the Ring, and marking on pages produces inanimate, usually damaged, objects such as clothing or weaponry. Finally, burning the pages of SCP-1554 causes a sudden gravitational shift of approximately ██ G in a random direction, invariably resulting in severe injuries and major damage to all individuals and objects within a 5-meter radius of SCP-1554, including SCP-1554 itself. Typically, gravitational anomalies will continue until SCP-1554 is extinguished.
+
+Addendum: Sample log of tests performed on SCP-1554.
+
+Non-viable instance of SCP-1554-A. Deformations are due to simultaneous marking damage and water damage.
+
+Passage Used: None; front cover was damaged
+
+Damage to SCP-1554: An "X" was drawn on the front cover using a felt-tip pen.
+
+Resultant SCP-1554-A Instance: No reaction from SCP-1554.
+
+Passage Used: Prologue, Concerning Pipe-weed, page 8
+
+Damage to SCP-1554: Application of 5 milliliters of water to the passage.
+
+Resultant SCP-1554-A Instance: SCP-1554-A-4 is a species of Nicotiana resembling Nicotiana rustica. Analysis shows that SCP-1554-A-4 has a relatively low concentration of nicotine. Upon incineration, a large quantity of smoke was produced, described as smelling "vaguely sweet and homely".
+
+Passage Used: Book 1, Chapter 1, A Long-Expected Party, page 27
+
+Damage to SCP-1554: Crossing out of passage using No. 2 Pencil
+
+Resultant SCP-1554-A Instance: Damaged page was converted into SCP-1554-A-10, a large rocket-type firework. SCP-1554-A-10 was disposed of in a nearby bomb-disposal range, due to the possibility of damage to the casing causing instability. SCP-1554-A-10 was detonated with no anomalous effects.
+
+Passage Used: Book 2, Chapter 5, The Bridge of Khazad-dûm
+
+Damage to SCP-1554: Tearing out page 265
+
+Resultant SCP-1554-A Instance: SCP-1554-A-21 was an animate model of what is believed to be the Balrog encountered in this chapter. SCP-1554-A-21 was on fire at time of emergence, and was quickly extinguished to prevent damage to SCP-1554. Extinguishing resulted in formation of 15 new SCP-1554-A instances due to moisture damage; waterless fire extinguishing system installed following this test.
+
+Incident 1554-7:
+
+SCP-1554 was ignited due to a cigarette lighter smuggled into the testing chamber by D-1554-7, a known pyromaniac. Following this, D-1554-7 was thrown to against the northern wall of the testing unit, and reported severe difficultly moving and breathing as SCP-1554 continued to burn. D-1554-7 was ordered to smother the flames by rolling over SCP-1554, but was unable to comply due to the strength of the gravitational force. Fire extinguishing system activated; D-1554-7 terminated due to a lack of oxygen in the testing chamber.
+
+Addendum: The following document was found written on the back of SCP-1554's original catalog card in the █████ University library. The card was attached to a length of string intended for use as a bookmark.
+
+Right, Enough of This.
+
+Enough of you lot tearing out bits and pieces of this work. I've had it with you lot tearing up Tolkien's work. You simply don't understand the man. He is a gift to English literature, and if you ruin ONE MORE FUCKING PAGE there will be consequences. The more you destroy, the more you shall create.
+
+Words are art. Respect them.

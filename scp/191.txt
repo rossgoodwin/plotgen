@@ -1,0 +1,61 @@
+SCP-191, in containment.
+
+Item #: SCP-191
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-191 is currently housed in a 6 m x 6 m room at Site-17. To date, SCP-191 has not made any requests for furnishings or entertainment.
+
+Current furnishings include:
+
+One (1) wooden-frame futon with a 15 cm (6 in) pad and standard cotton bedsheets and blankets. All sheets are to be sterilized each morning according to standard procedures. The futon pad itself will be replaced every six months, and the old pad discarded through incineration.
+
+One (1) standard 220 V type G power outlet with an emergency cut-off box (fuse, circuit breaker, and manual non-insulating guillotine) located outside the cell.
+
+One (1) standard hazardous waste disposal unit (liquid and solid waste). All drainage tubes shall lead directly to an incinerator unit.
+
+SCP-191 is to be dressed in loose, sleeveless garments made of 100% long-staple cotton. Fresh clothing will be provided once daily, with used garments sterilized according to standard procedures. Bathing is to be done once every evening, in a washtub filled with a solution of water and baking soda. Feeding (in the form of a sterile saline solution supplemented with vitamins, minerals, antibiotics, and a mild anesthetic) shall be carried out twice a day via injection into a metallic tube located in the base of the neck.
+
+SCP-191 is capable of limited self-care, including draining waste and recharging internal batteries. A log shall be kept of power consumption, and any unusual changes in power usage reported to supervising staff.
+
+Daily inspections for injury should be carried out after bathing. Should SCP-191 require medical care, refer to documents 191-Alpha (Special Medical Needs) and 191-Alpha Supplemental (Repair of Non-Organic Components) before administering care.
+
+At least two armed guards are to be present in the room any time that personnel have contact with SCP-191, although a translucent screen may be utilized for privacy purposes. Standard anti-computer countermeasures are ineffective, as SCP-191's components have been hardened against electromagnetic pulse (EMP).
+
+Description: SCP-191 is a female human child, approximately █ years old. It is believed to have been a test subject of several experimental surgeries performed by the late Dr. █████ █████████ (see below).
+
+1. 80% of the left half of the face and skull have been removed, with the eye and ear replaced by a complex transceiver system that allows it to receive and transmit not only visual and auditory input, but a wider spectrum of electromagnetic radiation ranging from low frequency radio to high-energy gamma rays. The lower jaw, teeth, and larynx have been removed and replaced with [DATA EXPUNGED]. The esophagus has been rerouted to an artificial orifice at the back of the neck (feeding tube), and the trachea rerouted directly to an air filtration device. Due to these alterations, SCP-191 is incapable of speech, although it has been reported occasionally vocalizing distress through rapid respiration.
+
+2. An input-output device has been placed into the right forearm, replacing the radius and ulna bones. The device contains interfaces for a variety of modern and obsolete formats, including USB, Ethernet, Firewire, and DIN-8 pin, as well as seven (7) other interfaces corresponding to no known formats. The device can be accessed by pulling back the skin over the right arm like a shirt sleeve.
+
+3. A 24-core processor array has been implanted in the brain, which "translates" input from all artificial components, essentially allowing SCP-191 to read and write computer data without the use of an external interface. Internal communication is carried out through fiber optic cables implanted through the glial cells and the entire nervous system. Damage to the brain stem and cerebellum due to the implantation procedure has severely damaged SCP-191's motor skills.
+
+4. The right hand and right foreleg have been replaced with artificial components, consisting primarily of steel, carbon-fiber, and an unknown polymer-like substance. The exposed areas of tissue are susceptible to injury and infection: due to damage to the spinothalamic tract, SCP-191 has reduced pain and temperature sensitivity in its limbs. Reconstructive surgery by Dr. ███ was able to provide some relief, but regular doses of antibiotics and analgesics are still required.
+
+5. [DATA EXPUNGED]
+
+6. The lungs, heart, and major blood vessels have been replaced with mechanical analogues. It has been determined that this system would allow SCP-191’s bodily systems to be restarted after death, and may have actually [DATA EXPUNGED].
+
+7. The digestive system has been completely reconfigured to the point where regular food intake is both unnecessary and dangerous. Waste is now disposed of via a drainage system located in the lower back and consists of a thick, dark gray viscous slime consisting primarily of [DATA EXPUNGED].
+
+8. The reproductive organs (uterus, ovaries, etc.) have been removed and replaced with [DATA EXPUNGED]. According to █████████'s notes, this was done to "provide extra space by removing non-vital components." Hormone therapy has been proposed to counteract the long-term effects of the missing glands: this proposal is under review pending analysis of possible complications due to [DATA EXPUNGED].
+
+9. [DATA EXPUNGED]
+
+10. At least fifteen (15) other alterations of unknown purpose. Given this fact, and the haphazard integration of the "useful" components, it is believed that they were performed merely to test the viability of such procedures on other subjects. Investigations are underway as to whether Dr. █████████ was planning to [DATA EXPUNGED]. At present, any theories as to the purpose behind these alterations are speculative at best, as Dr. █████████ died during the raid in which SCP-191 was recovered (see notes below), and the only surviving records of his research are a single, half-burned spiral-bound notebook consisting mostly of cryptic notes regarding a "higher purpose."
+
+History: SCP-191 was recovered by Foundation agents during a brief collaborative effort with the Global Occult Coalition, in which a raid was conducted on the laboratory of Dr. █████████, a suspected member of ████████ ████. SCP-191 was the only test subject recovered from the laboratory: all other test subjects expired during the raid (either disposed of by Dr. █████████, or eliminated as hostiles by the task force).
+
+Preliminary assessment concluded that full reconstruction was impossible, that the components introduced were too technologically advanced to risk becoming widely known, and that it could be a source of valuable data regarding [DATA EXPUNGED] if kept alive. Subject was classified SCP-191 and moved to Site-██ on ██-██-████. Its disappearance, and those of the other test subjects, was later blamed on a local serial killer who was arranged to be killed in prison while awaiting trial.
+
+Addendum 191-01: Testing of SCP-191's abilities has commenced.
+
+Psychological Analysis by Dr. Glass
+
+SCP-191 has responded fairly well to containment. It is completely docile and cooperative, and when not being interacted with, it spends most of its time sitting still or curled up in a fetal position. This may be a sign of distress, but it is more likely for physical comfort, as normal body movements and postures are difficult.
+
+Mental acuity is questionable. Although capable of rapid data analysis and communications when physically linked to a computer system, it seems unable to follow conversations with human beings unless the conversant speaks slowly and uses simple words. Complex tasks are also impossible unless it is guided at every step.
+
+Its mood seems consistent, though somewhat inscrutable. It continually affects melancholy, will not make eye contact unless asked to, and any attempts to induce a cheerful or humorous mood have proven fruitless. However, it shows no signs of ongoing mental distress, and claims (through computer interface) that it is feeling well.
+
+To date SCP-191 has not requested access to (or information about) any acquaintance it had before its abduction.

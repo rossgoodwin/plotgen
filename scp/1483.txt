@@ -1,0 +1,97 @@
+Item #: SCP-1483
+
+Object Class: Euclid
+
+Special Containment Procedures: Only minimal security measures are necessary to contain SCP-1483, due to both the nature of the property and the difficulty in accessing it. All entry and exit to Universe B-10208-Alpha-1483 is to be regulated by Falcon and Dustside Stations, located on both sides of the transition zone. In the event of aggressive invasion of Baseline by SCP-1483, the emergency charges around Dustside Station are to be detonated, cutting off access to SCP-1483.
+
+All personnel assigned to the Foundation embassy or any other Sites within the boundaries of SCP-1483 may only be held accountable to the provisions of their Basic Operations Charter by the Overseer Board. In all other matters, personnel are to be held to the laws of SCP-1483, and all provisions of the agreements made with the Throne of the Empress and the Imperial Institute of Paranatural and Esoteric Study, henceforth referred to as IIPES.
+
+Foundation sites within SCP-1483 are considered a semi-autonomous district of operations under the Exploratory Research Provisions (O5 Special Order 108-A). The position of Commissioner has been instituted with Level-5 clearance to oversee Foundation operations within SCP-1483. The individual holding the position has no authority outside of this jurisdiction.
+
+Description: SCP-1483 is the continent of Antarctica, as confirmed by local maps and day/night cycles, located in Universe B-10208-Alpha-1483 and entered by means of passing through a small crevasse1 located in the Queen Alexandra Mountain range (Coordinates: [REDACTED]). The transition location is classified as a SSUIS2 (Stable/Stationary/Unaided/Instantaneous/Safe/Two Way) universal overlap.
+
+SCP-1483’s environment is most notable in its overall lack of surface ice. The majority of the continent consists of a central BWh desert region, interspersed with seasonal rivers and lakes. Vegetation is sparse, and primarily consists of coastal forests and scrubland. Agriculture is carried out during the summer months through a complex series of irrigation canals and large plantations, taking advantage of glacial melts.
+
+The average summer temperature is approximately 35° C (95° F), with winter temperatures reaching -35° C (-31° F). The cause of this temperature, and the implications on the rest of the planet's climate, are unknown at this time. Many species of native life bear no resemblance to Baseline species, and several have been specially bred or otherwise modified by SCP-1483-1. There is no indication of biological cross contamination between SCP-1483 and Baseline: similarities are the result of convergent evolution.
+
+The sapient inhabitants of SCP-1483 are designated as SCP-1483-1, Homo antarcticus. The exact lineage of the species is unknown at this time, though the last shared ancestor with H. sapiens is considered to be the B-10208-Alpha-1483 instance of H. heidelbergensis. A single sub-species and numerous racial variants exist, as well as several clades formed by the application of specific anomalous properties to certain populations.
+
+See Addendum-02 for a listing of major clades of SCP-1483-1.
+
+SCP-1483 is currently unified under the Third Antarctic Empire,2 a matriarchal imperialist monarchy overseeing seventeen dependent provinces. Provincial governments are answerable to a central regulatory bureaucracy operating out of the capital. The current imperial government was founded in 1526 CE, and is the third such ruling body to unify the continent. Records prior to year 2-151 (553 CE)3 are both rare and generally inaccurate.
+
+The Empire’s technology level is roughly equivalent to that of 20th century Baseline, with certain exceptions. Nuclear, geothermal, and solar power are more prevalent energy sources than fossil fuels, while communication and aerospace technologies lag behind the Baseline significantly. Wired telecommunications and primitive computing systems are extant only within developed areas. The majority of the population of SCP-1483 resides in urban centers connected by a train network, or large plantation settlements. Most settlements contain subterranean districts for inhabitation during the winter months. Mainstream Imperial culture is a highly stratified, female-dominated class system, though regional variants or throwback to older cultural structures exist in outlying areas.
+
+The existence of anomalous objects is common knowledge within the Empire, officially dealt with by the Imperial Institute of Paranatural and Esoteric Study and military force as necessary. The Foundation is treated as a public ward of the IIPES. The Foundation’s presence and purpose in SCP-1483 is tolerated by Imperial authorities: However, the Foundation is limited to operations within authorized areas. Access to sealed records, specific information regarding items under the Institute’s control, and any information deemed sensitive by the Empire or IIPES is likewise limited.
+
+See Addendum-01 for a listing of major anomalous objects under Imperial control.
+
+When questioned about regions outside of the borders of SCP-1483, an Imperial liaison responded: “The dealings of savages and their rotting lands are of no concern to us. Do not waste your time in asking after them.”
+
+Addendum-01: The IIPES has cataloged over three thousand anomalous items and entities since its founding during the Second Empire Era4. Of note is the presence of certain patterns within anomalous items that do not exist within the Baseline, with some correlation with SCP-1483c. The Institute’s philosophy towards anomalous items is focused primarily on destruction of threats, study, and public preparation. Approximately five hundred items are actively contained or monitored by the Institute at this time. The most notable of these include:
+
+• SCP-1483a: “Sanak Thiuh” – The remains of a massive unknown organism, much of which currently serving as the framework of the Imperial Palace. Estimates of SCP-1483a’s initial size have indicated that the creature weighed in excess of 10,000 tonnes. The entity features heavily in local folklore, albeit in generally unproven and often contradictory accounts. What can be said with certainty is that SCP-1483’s death led to the formation of the First Empire.
+
+• SCP-1483b: “The Maws of Eser” – A series of UMUID1 (Unstable/Mobile/Unaided/Instantaneous/Dangerous/One Way) universal overlaps which will randomly manifest across SCP-1483. These overlaps are visible, though intangible, appearing as dark clouds at ground level. Their appearance is accompanied by the manifestation of 3-20 SCP-1483-1f, which will consume all life in their path, and will persist for 1-6 hours. Periods of manifestations vary between 15 seconds and up to 45 days, with an average of 10 to 12 hours.
+
+• SCP-1483c: “The Blessings of Aqum” – An overall term applied to eighteen known schools of occult practice. Folklore claims that these schools originated with a series of objects used to kill SCP-1483a, though this has not been confirmed. Information regarding SCP-1483c is highly regulated by the Institute, though it is known that forms of SCP-1483c have been used in modification of the populace, and that the eighteen schools are practiced throughout the Empire.
+
+Addendum-02: Notable clades of SCP-1483-1 include:
+
+• SCP-1483-1a: “The Summer Court” – The majority population of SCP-1483-1. Generally similar to Baseline humanity, though more resistant to extreme temperatures and possessing an overall more broad build.
+
+• SCP-1483-1b: “The Black Court” – A subspecies of SCP-1483-1, specialized to survive outside in winter conditions by means of a thick layer of body fat and fur. Incapable of reproducing with other clades. SCP-1483b traditionally takes over most facets of public life, including the senate, military, and administrative positions, during the winter months. Summer months are spent in nomadic communes.
+
+• SCP-1483-1c: “Menders” – Members of the religious hierarchy of the Empire, possessing a second pair of arms, with segments of a decorative metallic exoskeleton encircling the limbs and torso. Capable of dispelling SCP-1483b.
+
+• SCP-1483-1d: "Watchers-Upon-All" – The rarest clade of SCP-1483-1, generally found serving in special positions under direct instruction of the Empress or leading bands of SCP-1483-1c. SCP-1483-1d specimens stand approximately 2.5 meters in height, possess two additional pairs of arms and more extensive exoskeleton. Iris and sclera of the eyes are black. Local lore claims that SCP-1483-1e have received “all blessings” of SCP-1483c.
+
+• SCP-1483-1e: Minor Clades - This classification includes all minor clades native to outlying provinces that have not yet been studied in detail by the Foundation.
+
+• SCP-1483-1f: “Feastlings” – Entities that will manifest alongside SCP-1483b instances. SCP-1483-1f will appear as emaciated SCP-1483-1, and are singularly violent in behavior, attacking and consuming any nearby organisms.
+
+Addendum-03:
+
+A timeline of Foundation involvement in SCP-1483 is as follows:
+
+• ██/██/1912: The first evidence of SCP-1483’s existence can be traced back to the journal of one ████████ ██████, a member of the British Antarctic Expedition 1910 under Robert Falcon Scott. ████████ claimed to have seen dark-skinned humanoid figures emerging from a rift. He was unable to make contact with the entities, but nonetheless provided a detailed description of the figures. ████████ did not alert any other members of the expedition about the event.
+
+• ██/██/1989: ████████’s journal was recovered from a Marshall, Carter and Dark auction house. It is cataloged without study.
+
+• ██/██/1991: The journal is removed from storage by Dr. Edith Yard. Plans for an expedition are made.
+
+• ██/██/1994: A reconnaissance force consisting of Strike Team Iota-15 makes the first foray into SCP-1483. O5-08 pushes for further exploration of SCP-1483 and contact with the natives.
+
+• ██/██/1996: A second reconnaissance mission is made by Iota-15.
+
+• ██/██/1997: The third and final reconnaissance mission is made by Iota-15.
+
+• ██/██/1998: The Yard Expedition makes contact with the Imperial government for the first time.
+
+• ██/██/2000: The Foundation embassy is founded in the imperial capital of Rootrel. Official agreements of the occupation are signed by Empress Utmai Cjen VI, detailing the rights and functions of Foundation personnel within SCP-1483 and procedure for communication with the outside.
+
+• ██/██/2000: Dr. Edith Yard is appointed to the position of Commissioner.
+
+• ██/██/2001: Dustside Station is built at the point of transition.
+
+• ██/██/2002: Falcon Station is built on the Baseline point of transition.
+
+• ██/██/2004: Site-1483-Alpha is built in Saqin Province.
+
+• ██/██/2007: Site-1483-Beta is built in Grey Mountain Province.
+
+• ██/██/2009: Site-1483-Gamma is built in Isul Province.
+
+• ██/██/2010: Dr. Edith Yard dies due to respiratory infection.
+
+• ██/██/2011: Dr. Thomas Bailey is appointed as Commissioner.
+
+Footnotes
+
+1. approximately 1.7 m across.
+
+2. A direct translation of the government’s full title is “Third / Granddaughter Domain of the South, beneath the Sun, upon the Throne of Bones”
+
+3. These dates mark the restructuring of the bureaucratic structure and standardization of the language after the loss of the Hall of Records.
+
+4. 2-230 / 632 CE

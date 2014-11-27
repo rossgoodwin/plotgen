@@ -1,0 +1,31 @@
+Item #: SCP-506
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-506 grows in a 3 m x 3 m patch of soil, kept watered and fertilized via an automatic system. The air of the room where SCP-506 is kept must be filtered to prevent release of SCP-506 seeds into the environment. Personnel entering the enclosure must wear biohazard suits composed of inorganic material, and must be decontaminated upon leaving the area.
+
+Description: SCP-506 is a genetically engineered variant of zucchini (Cucurbita pepo) created by the ████████ Corporation as a hardy and rapid-growing food plant. SCP-506 exhibits several undesirable and dangerous qualities:
+
+(1) SCP-506 will attempt to grow on any organic material, including on living beings. The seeds germinate on contact.
+
+(2) SCP-506 grows extremely rapidly, reaching full size in five minutes or less.
+
+(3) Due to its rapid growth, SCP-506 drains its growing medium of nutrients at an accelerated rate. Nothing will grow in soil that has harbored SCP-506 plants without extensive nutrient replacement.
+
+(4) SCP-506 seeds are much smaller than typical squash seeds, and disperse easily in the wind.
+
+SCP-506 is inedible, as the seeds will [DATA EXPUNGED] if any are consumed. To the best of the knowledge of The Foundation, SCP-506 has not escaped into the wild, and ████████ Corporation has destroyed all samples in their possession.
+
+(Note: Labeled as a time lapse in case of accidental public release.)
+
+Addendum: SCP-506 is evolving rapidly, as indicated by the incidents below.
+
+[Incident Report 506-1 5/16/20██]
+
+SCP-506 plants observed attempting to grow on the walls of the containment facility. Although the plants died of malnutrition, testing indicates the latest generation requires 35% fewer nutrients than when originally contained. Research in progress to find materials that do not support SCP-506 growth.
+
+[Incident Report 506-2 9/1/20██]
+
+Dr. K██████ found dead in the SCP-506 enclosure, covered with plant growth. The means by which his suit was compromised is unknown. SCP-506 roots have been found to secrete a powerful anesthetic, explaining why Dr. K██████ did not sound the alarm or attempt to escape the area.
+
+Researchers must be under video surveillance while working with SCP-506, with another researcher ready to assist in case of accidental infestation. Reclassification as Euclid recommended.

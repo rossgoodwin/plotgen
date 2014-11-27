@@ -1,0 +1,113 @@
+Item #: SCP-2845
+
+Threat Level: Black
+
+Containment Class: Keter
+
+Special Containment Procedures: Use of outsourced containment resources and consultants has been authorized for the containment of SCP-2845. Consultants are to be considered Level 2 personnel, and are at no time permitted to leave Site-100. If at any time an outside consultant must be removed from containment of SCP-2845, Class-A amnestics are to be applied before release.
+
+A minimum of thirty trained individuals and an unhindered supply of untrained subjects is required for proper containment of SCP-2845. Forty-eight trained personnel are currently assigned to active containment of SCP-2845, split into eight teams of six, with a further twenty-four individuals available as replacements. An allowance of five D-class per week has been authorized for the containment of SCP-2845.
+
+Site-100 has been constructed to the following specifications:
+
+Site-100 consists of nine concentric circular bands, designated Ring-A through Ring-I, with a gap located between Ring-C and Ring-D, designated as Gap-1. Six circular chambers are located at 0, 60, 120, 180, 240, and 300 degrees within each Ring and Gap. The chambers located at 0 degrees are aligned with geographic north.
+
+Two additional circular chambers are located outside of Ring-I, located at 120 and 240 degrees.
+
+The floor of each circular chamber contains an unobstructed lead hexagram.
+
+The central chamber, containing SCP-2845 and 216 instances of SCP-2845-1, is to contain an atmosphere of 96.3% hydrogen, 3.25% helium, and .45% ammonia maintained at -110°C and a pressure of 2.3 bar.
+
+The following procedures are all to be carried out in a repeating cycle of 63 hours 54 minutes. Each procedure is to last 39 minutes, with 10 hours between each procedure. Each procedure must be carried out by six individuals. The location of each procedure is denoted in parentheses. At the beginning of each new cycle, containment procedures will be carried out in the next ring closest to the containment chamber.
+
+Ceremonial recitations for all procedures and descriptions of all variant costumes may be found in Document 2845-C-EXP.
+
+Procedure 410-Constantin: (60°) Containment specialists are presented with masks (Joy, Sadness, Anger, Apathy, Fear, and Foolishness) and act out ceremony Constantin-A. Ceremony Constanin-A is a farcical comedy of errors and exchange of insults between the six individuals, culminating in Foolishness outwitting the group in a game of riddles and declaring himself king. The conclusion of ceremony Constantin-A is followed by a game of dice. The winner of the game is irrelevant to the procedure.
+
+Procedure 420-Perinaldo: (120°) Performance of a musical piece for flute, oboe, clarinet, French horn, timpani, and bass drum. The piece is accompanied by specific somatic and vocal components carried out by the players throughout the performance, designated ceremony Perinaldo-A. The performance must be live; recordings of the piece have no effect.
+
+Procedure 430-Epimetheus: (180°) Gifts are exchanged among containment specialists. Content of gifts is irrelevant to the procedure, but each gift must not exceed 4.28 USD in worth. Each gift is accompanied by recitation of ceremony Epimetheus-A in its entirety and the scattering of grain around the containment chamber.
+
+Procedure 440-Cassiel: (240°) Ceremony Cassiel-A is recited as containment specialists bind their feet with wool and consume .5 liters of olive oil. They then will break apart a rock weighing at least 200 kilograms with hammers. Ceremony Cassiel-B is recited throughout.
+
+Procedure 450-Cairo: (300°) A D-class subject is prepared by painting a symbol (ring surrounding a dot, with an arrow pointing upwards at the 90 degree point) on the stomach with a platinum-based solution, and presented with a blue cloak, crown, and scepter. D-class subject is then restrained in a chair, and ceremony Cairo-A is recited. After recitation of the ceremony Cairo-A, the D-class subject is to be castrated by use of a hand sickle by a containment specialist. The testes are then to be disposed of in a bowl of salt water as Ceremony Cairo-B is recited.
+
+Procedure 460-Omphalos: (0°) Ceremony Omphalos-A is to be recited before roasting of a child of no more than three months of age. Ceremony Omphalos-B is to be recited before consumption. After consumption of the child, ceremony Omphalos-C is to be recited over the gastroliths, which are then swallowed. Vomiting is then induced, and ceremony Omphalos-D is recited, signaling the beginning of a new cycle.
+
+In the case of containment breach, Site-100’s nuclear device is to be detonated, followed by lockdown of all Foundation facilities, and activation of Protocol 2845-XK1 “Strike Down the Moon.”
+
++ A message from containment consultant ██████ ████████ to Site Director Dell, 1/31/12
+
+- TOWERING KADATH, MY HOME.
+
+I have been approached several times already in regards to the containment procedures and their complexity. I have been asked if all of the procedures are truly necessary, if they could not be cut down or edited for simplicity, and at least one claim that they were “patently ridiculous”.
+
+This is my response, and I expect that it will be seen by all of the Foundation staff working on this project. I will not repeat myself, and I find it sickening that after all the struggle to contain this creature, pencil-pushing bureaucrats are still seeking to cut corners where they cannot be afforded to be cut.
+
+The answer is no: The ritual will remain as it is, and will not be changed in any way. It cannot be cut down further, nor can it be added to. It has been set in place, and now that it has begun any deviation at all could very easily be catastrophic.
+
+Rituals do not work because of some underlying laws, such as those that science operates on. Rituals work because they are rituals. They work because an arbitrary set of criteria has been met with exacting care. Belief that meeting these arbitrary criteria achieves a certain end assigns power to the ritual. The actions that were once meaningless now have been assigned Meaning through their repetition and application.
+
+This is how one seals away a god, and this is a god. I know that the Foundation does not approve of using the term, but it is still the case. The Stag is a god, and it is not a petty local god. It is not one of the mild gods of Earth, or some weaker spirit that is bound by the strength of man’s belief.
+
+We have, for the time being, fooled it into thinking that we have overpowered it. It does not understand that we do so falsely: it is a god. For gods, words have Power. Ritual and belief hold greater power over a god than all the laws of science.
+
+However, it must be kept in mind that the Stag could escape, right now, if it so chose. With a thought, this entire facility could turn into a puff of hydrogen. If at any point the Stag thought to escape, it would, and we would be powerless to stop it.
+
+However, it will not think to escape, or even to change its strategy. The idea will not even pass through its mind. It cannot comprehend the concept. It does not think in the way we think. Truth be told, I would not say that it thinks at all. This is an old god, it does not dabble in decisions. Decisions are for creatures who may act erratically, variably, or out of line. A god of this strength simply Is. It is an absolute. It acts as a force. In building this ritual, we have shifted its being the slightest bit, and now it is locked it into a pattern of behavior: it struggles against us, we struggle against it, and we are locked together in an eternal dance so long as the ritual remains intact.
+
+If one thing goes awry, the entirety is lost, and the deadlock is broken. Unstoppable force without an immovable object.
+
+The rituals might seem to be nonsense, but they are what I divined to be the best course of action. There are powerful symbols there, and whether or not you or I think they are appropriate to the situation is irrelevant. I have listened to the converted, and I have listened to the echoes of the Stag in their songs. They are not suffering, but they are no longer human. They are changed utterly.
+
+The ritual remains as it is.
+
+Description: SCP-2845 is a quadruped entity, measuring 2.9 meters in height at the shoulder and weighing 815 kilograms. A sinuous neck, generally held in an upright position, extends a further .5 m, terminating in a head with humanoid facial features. SCP-2845 possesses antlers, measuring 4.8 meters across: Antlers are white with black marbling in coloration, and have not been observed to shed. SCP-2845 is covered in hair with an average length of 10 cm, with the exception of the face, which is hairless. SCP-2845’s coloration is primarily a pastel green, with a stripe of cream on the underside of the neck and belly.
+
+A ring of ice particles is suspended 15 cm behind SCP-2845’s skull, measuring 1.7 m in diameter, with a ring thickness of 35 cm. This ring is interrupted at regular intervals by seven spheres consisting of metallic hydrogen and metallic helium, each measuring 15 cm in diameter. The ring and spheres rotate clockwise at a speed of 1.6 rpm. The force maintaining the movement of the ring, the physical state of the spheres, and the means by which SCP-2845 is capable of supporting its head under the weight of its antlers are unknown.
+
+SCP-2845 is capable of instantaneous transmutation and reconstruction of matter. No matter is created or destroyed during this process. This property is manifested at will, with an observed range extending to targets within eyesight: maximum range of this ability is unknown. Transmuted matter will remain stable despite the lack of other factors: for example, metallic hydrogen and helium are common results, which will remain in either solid or liquid form despite the surrounding temperature. Altered atmosphere will not mix with unaltered regions, maintaining chemical consistency. The most common transmutation results are the solid or liquid forms of hydrogen, and helium, the conversion of atmosphere into a hydrogen/helium/ammonia mix, and the transmutation of plant life into metalloid-based organisms. SCP-2845 will typically surround itself with a transmuted area with a radius of approximately five meters at all times. SCP-2845 has proven itself completely resistant to physical damage.
+
+The most common forms of offensive transmutation used by SCP-2845 are a column measuring five to seven meters in diameter and sixty to eighty meters in height, or a horizontal cone measuring between one hundred and one hundred and fifty meters in length and ten to thirty meters in width at the furthest end. However, SCP-2845 has been observed to attack single targets at distances of up to 10 kilometers. Early observation of SCP-2845 during recovery indicated that it will generally ignore non-combatants, focusing on retaliation against attackers. However, SCP-2845 was not seen to make any attempts to spare non-combatants within the area of effect of its transmutations, and later recovery accounts indicate pre-emptive attacks against both military and civilian targets.
+
+SCP-2845-1 designates human beings that have been modified by SCP-2845. Instances of SCP-2845-1 are hexagonal columns measuring 2.4 meters in height, with rubbery yellow-green skin. SCP-2845-1 instances do not have any outward sense organs, and autopsy has shown that internal organs are likewise absent, save the brain, which now takes up the entirety of the column and contains the reconstituted mass of the other organs and some additional outside materials. It is unknown how SCP-2845-1 instances derive nutrients, or if any nutrition is required.
+
+Neuroimaging of SCP-2845-1 specimens has revealed that the brain is in a constant state of high activity. Analysis of multiple specimens indicates patterns of call and response, so some form of remote communication between SCP-2845-1 specimens is presumed.
+
+Motile variants of SCP-2845-1 have been reported, but have evaded capture and study.
+
+Addendum-01: An abridged timeline of SCP-2845 from initial discovery to containment is as follows:
+
+November 27th, 2011: Initial sighting of Comet C/2011 W3.
+
+December 1st, 2011: Comet C/2011 W3 confirmed by Mount John University Observatory.
+
+December 2nd, 2011: Comet C/2011 W3 confirmed and named by the Minor Planet Center.
+
+December 16th, 2011: Comet C/2011 W3 reaches perihelion. Solar Dynamics Observatory records images of a fragment breaking off from the main body of the comet, maintaining a speed of .18c.
+
+December 17th, 2011: Fragment trajectory confirmed to end in collision with Earth, with estimated impact of December 21st. Thoth Station deterrence procedure fails at changing fragment's course. Public announcement made by the United Nations. Evacuations begin.
+
+December 21st, 2011: Fragment impacts in the Pacific Ocean, 124 kilometers off the western American coast.
+
+December 24th, 2011: SCP-2845 believed to reach shore on this day.
+
+December 25th, 2011: First observation of SCP-2845 through civilian video footage. Drone contact made. SCP-2845 confirmed as hostile. Foundation assets within United States military begin direction of recovery and containment procedures, with assistance of Global Occult Coalition representatives. Foundation containment sites in the region enter lockdown.
+
+December 26-29th, 2011: Artillery bombardment of SCP-2845 commences, along with initial battery of tests. Contact with outside containment consultants made at this time upon observation of SCP-2845’s properties.
+
+December 30th, 2011: [DATA EXPUNGED]. SCP-2845 is unimpeded for sixteen hours.
+
+December 31st, 2011: Bombardment recommences.
+
+January 1st – 14th, 2012: SCP-2845 is led across the Sierra Nevada Mountains while remaining under heavy bombardment. ██████ ████████ develops initial containment procedures.
+
+January 15th, 2012: SCP-2845 reaches pre-determined containment area. Initial containment procedures enacted.
+
+January 18th 2012: Initial containment procedures end in success.
+
+January 20th 2012: Construction of Site-100 begins.
+
+February 3, 2012: Refinements of containment procedures implemented.
+
+February 19th 2012: SCP-2845 declared contained.

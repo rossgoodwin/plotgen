@@ -1,0 +1,35 @@
+Item #: SCP-601
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-601 is to be confined to Group Humanoid Containment (GHC) Suite 2 on Site-03 at all times. This suite is to be furnished and maintained and as per standard humanoid containment procedures, with the following addenda:
+
+All furnishings and plumbing fixtures placed in GHC Suite 2 are to be provided in sets of 12.
+
+No flammable materials are to be used in the construction of furniture placed in GHC Suite 2.
+
+No two items of furniture or plumbing fixtures of like type placed in GHC Suite 2 are to be set more than 5 meters apart from one another.
+
+Audio recording equipment is to be installed throughout GHC Suite 2. All audio data is to be translated and analyzed by two personnel with level 2 clearance or higher.
+
+The floor of GHC Suite 2 is to be mopped daily in addition to standard weekly custodial service.
+
+Meals provided to SCP-601 are not to contain meat or meat products.
+
+Following the events of experiment 601-0135, SCP-601 is to remain under 24 hour video surveillance. Should any foreign objects be observed, GHC Suite 2 is to be searched, all foreign objects are to be removed, and any missing items previously issued to SCP-601 are to be replaced. Under no circumstances is entertainment media of any kind to be introduced into GHC Suite 2 except during approved experiments.
+
+In the event of the death(s) of any of the members of SCP-601, one D-class individual is to be introduced into GHC Suite 2 for each member lost.
+
+Description: SCP-601 is a group of 12 adult humans of varying age, gender, and ethnicity. The constituent members of SCP-601 perform all actions and bodily functions in unison inasmuch as is physically and anatomically possible, with no more than 0.15 seconds of delay between any two members of the collective. The source of this synchronization is unclear; no means of relaying nervous system responses between the twelve components of SCP-601 has been observed. Moreover, fMRI and EEG readings of SCP-601-01 through SCP-601-12 suggest zero brain function despite continued (and synchronous) operation of all other organ systems. Proximity appears to be a significant factor in this regard: if any member of SCP-601 is taken farther than 5 meters from the current center of SCP-601, it ceases to be a member of SCP-601 and immediately responds to the effects of total brain death as is typical for a human body. As SCP-601 will typically orient themselves to occupy the smallest space possible for a given activity, such events are rare.
+
+Although the actions taken by members of SCP-601 are generally identical, small variations may occur to facilitate successful navigation or manipulation of an environment. This behavior is most conspicuous while SCP-601 is walking; small variations in stride length and turning radius allow each component of SCP-601 to arrive at a separate sink, bed, seat, etc. as needed.
+
+SCP-601 speaks aloud at all times regardless of activity, pausing only to inhale, sleep, eat, or drink. The content of SCP-601's speech varies, but typically resembles a dramatic narration of any event taking place within 4 kilometers of the current center of SCP-601. The language used in this speech varies, and may change at most once every 76 hours. Virtually all known and several unknown languages have been used by SCP-601, including dialects dated as early as the fifth century BCE.
+
+In the event that any of the 12 members of SCP-601 expire or become permanently incapacitated for any reason, the remaining members of SCP-601 will enter an agitated state and actively seek out the nearest able-bodied human (henceforth 'the subject'). SCP-601 will physically restrain the subject with their right hands while placing their left hands on the subject's head, brain stem, solar plexus, left wrist, and right quadriceps. After approximately 30 seconds in this position, the subject will become a component of SCP-601. The collective will repeat this behavior until all 12 members have been restored.
+
+Addendum 601-01: SCP-601 was acquired by the Foundation from ███ ███████ ███████ upon their collapse in ██/██/18██. Though most of the records kept by ███ ███████ were lost or destroyed, remaining evidence suggests that SCP-601 was in turn inherited from a prior organization. Research into possible origins of SCP-601 are ongoing.
+
+Addendum 601-02: SCP-601 presents several unusual behaviors in the presence of food and drink. When first presented with a set of beverages for each member, SCP-601 will pour several milliliters of each beverage onto the floor prior to consumption. Additionally, when presented with beef, lamb, and possibly other forms of meat as part of a meal, SCP-601 will attempt to create an open flame with any available implements, which it will use to incinerate a portion of the meat. Further investigation of the latter behavior is discouraged to avoid injury to SCP-601 and damage to the containment facility.
+
+Addendum 601-03: On ██/██/197█, SCP-601 was presented with a copy of Through the Looking Glass in the course of a regularly scheduled experiment, with no immediate reaction from or effect on the group. However, on the morning following exposure, SCP-601 was found wearing non-regulation clothing. Each member of SCP-601 was dressed in a red costume reminiscent of a chess piece, including heavily stylized wooden masks. The individuals' Foundation-issued uniforms were not found in the containment suite. Audio logs indicate that upon waking that morning, SCP-601's speech consisted of an original description of the events of the novel. Upon the conclusion of this description, normal behavior resumed. Further experimentation with entertainment media requires written consent from the acting director of Site-03.

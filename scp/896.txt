@@ -1,0 +1,129 @@
+Item #: SCP-896
+
+Object Class: Safe
+
+Special Containment Procedures: Physical containment of SCP-896 is impossible due to widespread public knowledge. However, the anomalous properties of SCP-896 have been largely neutralized through Foundation efforts and the cooperation of ████ █████, the publishing and hosting company of SCP-896.
+
+The server cluster hosting SCP-896’s original code is to be housed at Site-15. Five standard desktop computers are to be directly connected to the server with SCP-896-1 installed on each one. SCP-896 may never be connected to the internet or any of Site-15’s networks, but may be regularly patched as needed by use of physical media.
+
+Any personnel wishing to use SCP-896 must obtain permission from two Level 4 administrators. Foundation personnel may not use SCP-896 until further notice. No personnel level 4 or above may use SCP-896 due to potential loss of valuable Foundation data. Any class-D personnel used in testing of SCP-896 must be routinely monitored for the effects of SCP-896 and containment procedures must be tailored individually to ensure no security breaches occur.
+
+Description: SCP-896 is known to the public as ████ █ ████, a popular online role playing game. The version of SCP-896 that the public uses has no anomalous effects. However, the original code developed by ███ ████ exhibits effects that warrant ████ █ ████’s classification as an SCP.
+
+SCP-896 functions as any normal online role playing game. Please consult normal non-Foundation articles if not familiar with the mechanics and terminology of an online role playing game.
+
+SCP-896’s abnormal behavior only manifests when a user creates an avatar which shares the exact first and last name of the user. Once this occurs, the user is “imprinted” upon the avatar. Once imprinted, any changes to the avatar’s statistics will have a direct effect upon the user. How this occurs is not well understood. The current hypothesis is SCP-896 allows the user to exhibit a powerful “mind over matter” control over their body and surroundings.
+
+There are six stats that directly affect the abilities of the user. Raising the stats in game causes a corresponding increase in the physical or mental characteristics of the user. However, if one stat is 15% greater than any other stat, all other physical attributes of the user suffer. The stats and their link to real physical abilities are described below.
+
+Strength (STR): Self explanatory; as an avatar’s strength increase, so does the user’s.
+
+Agility (AGI): Highly agile users note a high accuracy of movement and control over their body. This grace allows for a great speed of movement with no sacrifice of skill or accuracy of the desired action.
+
+Stamina (STA): Increased stamina results in the ability to go longer without food or sleep, enhanced physical endurance, and even resistance to disease and physical damage.
+
+Charisma (CHR): Charisma grants the user a deep understanding of an individual and exploits this to manipulate them to their own wants.
+
+Intelligence (INT): Higher intelligence leads to an increase in the information retention and problem solving capabilities of the user.
+
+Wisdom (WIS): Allows the user a deeper understanding of situations and people and allows them to see the best possible solution for the problem. It should be noted that the “best possible solution” is based upon the morals and ethical priorities of the subject.
+
+Recovery Log: SCP-896’s effects were first noted during the beta test. MTF Mu-4’s routine monitoring intercepted intra-office e-mails detailing the effects, and quickly moved in to secure SCP-896. SCP-896 was already highly anticipated by the general public, so simply burying the project was not an option. SCP-896 was released to the general public with significant code alterations to ensure SCP-896 would not exhibit anomalous behavior. The old beta code was quickly patched, and SCP-896 was effectively contained.
+
+Test Log SCP-896-A:
+
+A group of five class-D personnel was selected for testing, based upon their knowledge of computer gaming, compliance with Foundation instruction, and below average physical and mental characteristics. Each class-D was assigned a role within the group designed to test one specific statistic. For ease of reading, D-896-a through D-896-e are referred to by an alias describing their role, as follows:
+
+D-896-a: Knight - character focus on stamina.
+
+D-896-b: Berserker – character focus on strength.
+
+D-896-c: Cleric – character focus on wisdom.
+
+D-896-d: Warlock – character focus on intelligence.
+
+D-896-f: Bard – character focus on charisma.
+
+Test Log SCP-896-A3933:
+
+Test Log SCP-896-A:
+
+Testing Notes: All five class-D are imprinted upon their avatars. The subjects proceeded to play for █ hours. No abnormal behavior or abilities were displayed.
+
+Character Statistics [REDACTED]
+
+Results: All subjects underwent control tests to determine their baseline abilities. After today’s session all subjects did not display any gains that were statistically relevant to our data set. However, at low character experience statistic gains are minimal.
+
+Test Log SCP-896-A3933:
+
+Test Log SCP-896-A:
+
+Testing Notes: The subjects have been playing for one week. The subjects work well together and have begun searching more dangerous areas of SCP-896 for magical items.
+
+Character Statistics [REDACTED]
+
+Results: Subjects Knight and Berserker are showing improvement. Knight has been able to maintain a full sprint on the treadmill for two minutes longer, and displays an increased pain tolerance. Berserker has begun to develop a more muscular physique and can lift 9% more than control tests. Bard’s abilities are hard to quantify, as expected. Warlock’s abilities in information recall and application have increased dramatically. Cleric has begun conducting highly organized and logical debates with researchers regarding the ethics and purpose of SCP/human testing. The subjects’ stats are approaching the 15% mark and we are anticipating the consequences of this to appear soon.
+
+Test Log SCP-896-A3939:
+
+Test Log SCP-896-A:
+
+Testing Notes: The subjects have been playing for two weeks. Berserker broke his keyboard and mouse by gripping them. Subject has been provided a custom made keyboard and mouse made of steel. All subjects have begun to defer to Bard’s judgment of any situation and begun providing him all magical items, regardless of Bard’s actual need or use of the item.
+
+Character Statistics [REDACTED]
+
+Results: Berserker has been instructed to begin increasing his agility statistic so he can better control his vastly improved strength. Bard has been forbidden from speaking during testing to prevent self aggrandizement at the cost of the other test subjects’ focus. Warlock is approaching savant level intelligence.
+
+However, the IQ’s of the subjects focusing on physical stats has plummeted. Bard, Cleric, and Warlock have significantly reduced energy levels and have lost 20% of their muscle mass over the last two weeks.
+
+Test Log SCP-896-A3945:
+
+Test Log SCP-896-A:
+
+Testing Notes: Berserker and Knight quibbled over who should receive a magic item, and the argument turned violent. Berserker was able to throw Knight into a containment wall before being subdued by security. Knight was unharmed despite causing significant damage to the concrete wall.
+
+Character Statistics [REDACTED]
+
+Results: Berserker was easily subdued with the use of a taser. Although he is physically very strong, he possesses no additional toughness or endurance. The converse is true with Knight. Although highly resistant to damage and physical pain, he is no stronger than his control test. Berserker has been fitted with a standard Foundation shock collar to ensure compliance.
+
+The mental faculties of all subjects have plummeted. Although Warlock’s memory has near perfect recall, his ability to apply his knowledge is nearly non-existent. Even the slightest leap in logic or creative thinking is beyond his ability. Cleric’s long term memory has been severely limited, and must be briefed on all aspects of a problem before he can formulate a solution. Both Cleric and Warlock require wheelchairs and assistance in feeding themselves.
+
+Knight's epidermis has become extremely hard but has lost any elasticity. In order to provide the necessarily range of moment for testing, lacerations along his joints are to be done five hours beforehand with a diamond bladed jigsaw. The cuts heal within the prerequisite time and Knight apparently feels no pain from the procedure. Recommend increasing Knight’s agility as well to ensure ease of testing.
+
+Berserker requires continual skin grafting, as his muscle growth has outstripped the elasticity of his skin.
+
+Test Log SCP-896-A3947:
+
+Test Log SCP-896-A:
+
+Testing Notes: Bard was terminated today. Foundation researcher █████ has elected to play Bard’s avatar to allow testing to continue.
+
+Character Statistics [REDACTED]
+
+Notes: Bard breached containment when the guard assigned to his containment cell released the lock. The guard had been providing Bard with food over the past week and had been regularly exposed to Bard’s body language and demeanor. When asked why he released Bard, the guard stated “I see the poor guy every day, I felt sorry for him.” Bard walked to the cafeteria and made Foundation personnel make him steak and strawberry ice cream. Upon completing his meal, he returned to his cell to sleep. Command determined the threat presented by Bard’s continually developing abilities outweighed any further potential insights into SCP-896, and ordered his termination. It is theorized that Bard only returned to his cell because the thought of escape from Foundation custody had not even crossed his mind.
+
+Cleric has requested researchers allow him to invest in intelligence statistics to enhance his failing memory. His request is tentatively approved. At this point nearly all subjects require Cleric’s guidance to perform any tasks.
+
+Berserker has seemingly reached a plateau of his physical abilities. He claims he is no longer experiencing any increase of strength or agility despite continued gain in SCP-896. Requesting additional security measures be considered in case he is falsifying his results.
+
+It should be noted that communications with all subjects has become increasingly difficult as all are rapidly losing language skills.
+
+Test Log SCP-896-A3990:
+
+Test Log SCP-896-A:
+
+Testing Notes: Total containment breach all subjects. Three subjects terminated. Testing discontinued.
+
+Character Statistics [REDACTED]
+
+Notes: While subjects were led back to their containment cells by Foundation security, Berserker managed to remove his shock collar and kill █ guards. His strength and speed were much higher than anticipated. Berserker proceeded to free the other subjects. Warlock and Berserker made their way back to SCP-896’s containment cell. Knight remained and resisted Foundation personnel attempting to re-establish containment. Knight held off █ Foundation personnel for ten minutes. Standard issue firearms could not harm Knight. Knight was eventually forced into a containment cell and terminated via asphyxiation, which took approximately twenty minutes. No autopsy was performed on Knight due examiner’s inability to pierce his skin with medical instruments.
+
+Upon reaching SCP-896’s containment cell, Warlock told Berserker to open the cell. Berserker was able to rip the Foundation security door off its hinges before dying. Autopsies indicate the force required to remove the Foundation security door shattered █ bones in his body, and snapped his spine in three places. Although Berserker was able generate enough force to accomplish this feat, his body could not handle the door’s weight or the effect of Newton’s third law.
+
+Warlock entered SCP-896’s containment and proceeded to access the game. It took approximately seven minutes for him to decipher SCP-896’s source code and edit the hexadecimal code containing his character’s statistics. Upon editing his stats to the maximum value allowed, Warlock vanished from containment. To this date, Warlock or his remains have not been found. Upon reviewing Warlock’s account information contained on SCP-896, researchers discovered a customer service notation simply stating “User has been banned for hacking.”
+
+Cleric has escaped containment, and his whereabouts are unknown at this time. Cleric is most likely responsible for the breach as the other subjects lacked the necessary ambition or planning to attempt this sort of escape. Researcher █████ is also missing. It is believed during the distraction caused the containment breach, Cleric gained access to SCP-█ with the help of Researcher █████ and used SCP-█ to escape.
+
+Test Log SCP-896-B:
+
+Dr. ████, a level 3 researcher, was conservatively using SCP-896 to augment his abilities. Dr. ████ was increasing his stats uniformly to avoid any negative effects. Dr. ████ was 53 years old and in good health, and his strength and IQ had increased 7% since beginning use of SCP-896. Dr. ████ decided to have a “game-a-thon” over Thanksgiving weekend in 20██, in which he played SCP-896 for an estimated █ hours straight before he expired. Autopsies revealed evidence of severe arthritis, early onset Alzheimer’s, cataract, and development of several tumors. The medical examiner could only conclude that Dr. ████ had died of old age. Further use of SCP-896 by Foundation personnel has been suspended until the direct correlation between the aging effects brought on by leveling is understood.

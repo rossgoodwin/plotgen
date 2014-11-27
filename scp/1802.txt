@@ -1,0 +1,77 @@
+Item #: SCP-1802
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1802 is to be kept in Humanoid Chamber C-08 at Armed Containment Area 24 pending relocation to a Safe storage facility and monitored according to humanoid containment guidelines. Its cell is to be inspected regularly for concealed objects.
+
+Description: SCP-1802 is an artificial humanoid measuring approximately 30 cm in height. Its body has been crudely assembled from lacquered chicken bones, scraps of iron and leather, wire, heavy twine, and a tin can which serves as the creature's head. The object wears a square of white canvas fashioned into a semblance of a lab coat, and has safety goggles secured on its "head" using screws. SCP-1802 walks with an unsteady gait, but is manually dexterous and capable of using tools.
+
+SCP-1802 is sapient and capable of speech—mostly simple recitations of memory. It has a single-minded devotion to one particular task: the collection of miscellaneous, usually worthless objects. It gathers these items in whatever containers it can carry (sacks, small jars, sandwich bags), then creates caches nearby in which to store them, such as behind a dumpster or at the foot of a tree. SCP-1802 can remember the location and contents of each cache it has created. Examples of objects hidden by SCP-1802 include a bottlecap, three acorns, a field cricket, half an ice cream sandwich wrapper, a coat button, and a gecko1. SCP-1802's largest acquisition was a road sign indicating a deer crossing, removed with the use of stolen tools. Once the sign was removed, SCP-1802 was unable to relocate the item, and so attempted to conceal it in place with the use of fallen leaves. The object was discovered by a police officer and replaced within several hours. SCP-1802 was discovered by the Foundation when it attempted to remove a security camera installed on the gate of Armed Containment Area 24. During the process, it was noticed by a guard, at which point it was captured and taken in for examination.
+
+Researchers assigned to SCP-1802 are permitted to provide the object with pieces of trash so that it remains cooperative during interviews and experiments. SCP-1802 spends its time studying these objects, taking a mental inventory of previously-gathered objects, lying on its bed and twitching, and making unsuccessful attempts to penetrate its head using its graspers.2
+
+Interview Log 1802-2
+
+Date: 10/04/██
+
+Time: 03:10:00
+
+Subject: SCP-1802
+
+Interviewer: Dr. ██████
+
+SCP-1802 spent the duration of this interview sitting politely on the interview table. Its voice is a little muffled, because it seems to be coming from inside the can, but at least it enunciates well. —Dr. ██████
+
+Interviewer: SCP-1802, what is your earliest memory?
+
+SCP-1802: I woke up and I saw people. Some of the people were making signs. Some of the people were pouring and working. Most of the people were looking at me. A man said to me that it is working. He may have said it to the rest of the people.
+
+Interviewer: What happened after that?
+
+SCP-1802: I was wearing my coat and had my arms. Before the man said my purpose, I was not anything that I could remember. But then the man said what I am for.
+
+Interviewer: What is your purpose, SCP-1802?
+
+SCP-1802: I look around. I keep anything I do not understand and study it to learn. By this task I become cool.
+
+Interviewer: It seems like you take anything you find.
+
+SCP-1802: I do not understand much. The man told me that.
+
+Interviewer: What happened to you next?
+
+SCP-1802: The man picked me up and walked until we were outside. He put me down and said to go west and begin my task. He said to keep going west until I saw a gate with cameras on it.
+
+Interviewer: Can you remember what street you were on or what building you came out of?
+
+SCP-1802: I saw signs that said [REDACTED]. I think the numbers on the building said "████".
+
+Interviewer: [to the supervising researcher] That's all we need. [to SCP-1802] Thank you for your cooperation.
+
+SCP-1802: I did not mention a detail. The man said that this detail was very important to remember. The man named me.
+
+Interviewer: What name did he give you?
+
+SCP-1802: He called me "Skip".
+
+Interviewer: Thank you for your cooperation, SCP-1802. The interview is over.
+
+Addendum: On 11/04/██, immediately following Interview 1802-2, a squad of Foundation agents raided the building described by SCP-1802. The location, an abandoned [REDACTED] restaurant franchise, was completely deserted, although paint stains and pieces of granite indicated recent activity. A cardboard box was sitting on the counter, with an attached note hastily scribbled on wax paper in crayon. It read:
+
+FØUND THIS FOR YOU
+
+APPRECIATE THE GESTURES
+
+The reverse bore this message:
+
+SPECIAL PROCEDURES:
+
+FIGURE IT OUT
+
+The cardboard box contained a dirt-stained white bottlecap with no identifying markings. After researchers cleaned and evaluated the object, it was designated SCP-████ due to its anomalous properties and placed in containment.
+
+Footnotes
+
+1. The gecko escaped SCP-1802's possession shortly after it placed the lizard in storage.
+
+2. The container was opened and found to be empty, except for masking tape applied around the bottom of the can.

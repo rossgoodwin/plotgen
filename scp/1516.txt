@@ -1,0 +1,123 @@
+Item #: SCP-1516
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1516 is to be contained in a standard humanoid containment cell at Site 49, furnished with instances of SCP-1516-1. SCP-1516 is to be provided with written words referring to food and nourishment. Under no circumstances is SCP-1516 allowed to interact with written words describing harmful and/or dangerous concepts that may cause damage to the vicinity or the subject itself. As per request, SCP-1516 has been allowed to possess an audiobook copy of The Bible1.
+
+Description: SCP-1516 is a living typographical illustration of a human being measuring 1.9 meters in height and 78 kilograms in weight. SCP-1516 has a semi-variable appearance and is composed of ██████ typeface letters and words. Each part of SCP-1516's anatomy is composed of the Spanish word deformed to fit the shape of that part of the body. SCP-1516's anatomy is always labeled with the simplest possible term for the body part. When viewed from a closer perspective, SCP-1516's form will slowly change its shape to the terms for that part of the subject's body(i.e: its legs would be a deformed "leg" word, and arms, chest, face, etc will follow this pattern). This effect continues down to the subcellular level. When examined by electron microscopy nuclei isolated from SCP-1516 are full linked A's, T's, C's, and G's linked by the word "sugar". While SCP-1516 is aware of this aspect, it appears to be unable to control it in any way.
+
+When SCP-1516 performs any action that would produce a sound,2 it will produce written words and/or onomatopoeias from the source of the sound instead, floating on the air for approximately 5-10 seconds before suddenly vanishing. It is of note that digital audio recorders can register them as sounds3, but cameras and other visual recorders may register a visual image of them.
+
+Whenever SCP-1516 enters in direct contact with a single noun written on any suitable surface, said word will detach itself from the paper and will deform to fit a tridimensional and functional object depicting the previous concept of the word (hereby called SCP-1516-1). Instances of SCP-1516-1 share the same physical characteristics with SCP-1516 itself. SCP-1516 is capable of controlling this ability, but is bounded by SCP-1516's knowledge and understanding of the word, and how complex the concept is. For a full list of SCP-1516's abilities, see test log-1516.
+
+Test log-1516: The following is a list of the experiments conducted to test SCP-1516's effect on different words at varying situations:
+
+Word: "Sofá". (couch)
+
+Result: Upon contact, the word suddenly detached itself, grew in size and deformed to form a tridimensional couch.
+
+Word: "Cama". (bed)
+
+Result: Similar results as per previous test.
+
+Word: "Teléfono" (phone).
+
+Result: Upon contact, the word stayed inert. SCP-1516 has claimed that it doesn't know how a phone works.
+
+Word: "Tomate" (tomato), "lechuga" (lettuce) and "cebolla" (onion).
+
+Result: As expected, all the words were effectively turned into SCP-1516-1 instances. Dr ██████ used a standard kitchen knife to prepare a simple salad. When mixed together, they shifted into "ensalada" (salad). When allowed to consume the salad, SCP-1516 was capable of identifying all involved ingredients.
+
+Word: "Vase"
+
+Result: No change. SCP-1516 has claimed not to know what the word means.
+
+Word: "Vase". This time, SCP-1516 has been taught about the meaning of the word.
+
+Result: Upon contact, the word changed in the usual way.
+
+Word: "Perro" (dog).
+
+Result: Upon contact, the sample shifted as expected. When inspected, it didn't show any life signs.
+
+Word: Papel (paper)
+
+Result: The sample stayed inert. SCP-1516 has claimed the word paper is immune to its effect.
+
+Word: "Una silla rota" (a broken chair)
+
+Result: No change. SCP-1516 has claimed it can't affect anything beyond an isolated4 word at once.
+
+Addendum: SCP-1516 was discovered on ███████, Venezuela. Following several reports of a "man made of letters" living in an abandoned house on the mountain. Foundation agents were dispatched to investigate and confirmed the situation. SCP-1516 offered no resistance to capture. Witnesses were interviewed and treated with A-class amnestics. Forty-seven (47) instances of SCP-1516-1 were found on the vicinity and confiscated.
+
+Iterview log:
+
+Interviewed: SCP-1516.
+
+Interviewer: Agent Vasquez.
+
+Foreword: First interview following SCP-1516's capture. Translated from original Spanish. Subject appears to be calm and willing to cooperate.
+
+<Begin Log>
+
+Vasquez: Please state your name and nature.
+
+SCP-1516: I am Palabra Quintero. Nothing but a man in this universe.
+
+Vasquez: I see. How long do you remember being in your current state?
+
+SCP-1516: I've been like this since I was born. Dad took care of me since I was a child.
+
+Vasquez: Where is your father right now? Was he like you?
+
+SCP-1516: He told me one day his job was done and let me on my own. And no, he was more like you. At least, our creator is always watching us, so I never felt truly alone.
+
+Vasquez: What do you mean?
+
+SCP-1516: I mean we are being observed. They watch over us most of the time. Constantly reading our actions in this universe.
+
+Vasquez: Who is this creator?
+
+SCP-1516: He is God. Or should I say they are God? It doesn't really matter, because God is always reading us.
+
+Vasquez: Do you mean watching us?
+
+SCP-1516: Well, it's all a matter of perspective. In my eyes, and in their eyes, we are just all the same thing.
+
+Vasquez: I see. any additional information regarding your father?
+
+SCP-1516: He was a lovely man, but he had problems focusing in a single subject. Nothing more to say.
+
+Vasquez: Now, what can you tell about the objects we found on your residence?
+
+SCP-1516: Those are words I took from some children books my dad gave to me some years ago.
+
+Vasquez: When you say you take them, do you mean physically remove a word from the paper?
+
+SCP-1516: More or less. It's like grabbing an object from a bag. Although some words are really heavy to lift.
+
+Vasquez: What is the… Most heavy word you ever tried to manifest?
+
+SCP-1516: I tried a tree once. It just didn't move at all.
+
+Vasquez: I think that's enough information for now. We will move you to a new residence soon.
+
+SCP-1516: May God bless your tales, brother.
+
+<End Log>
+
+Closing Statement: SCP-1516 hasn't given any additional information regarding its "father" or its "creator". Further investigations on these matters are pending.
+
+Addendum: At ████/██/██ SCP-1516 was approved to receive an English course 3 times a week. Due to the apparent lack of difference between oral and written communication, the subject showed a remarkable advance during courses. 10 weeks after the course started, SCP-1516's body presented an irregularity when several body samples showed 12% of the total mass to be written in regular English. English course was suspended and several tests were run on SCP-1516's body. SCP-1516 expressed no physical discomfort for this event and requested to continue its English classes. After several discussions, SCP-1516 was allowed to continue its classes. At week 14 body mass changed into English had been increased to 20% and confirmed that English transmutation was directly proportional to SCP-1516's English skills. At week 37, SCP-1516 reached perfect use of English language and English transmutation stopped at 48% of its body mass. No objective secondary effects were visible, but a slight change in SCP-1516's personality has been noted connected to the language it uses to communicate5.
+
+Footnotes
+
+1. King James edition.
+
+2. Included but not limited to: speaking, walking, and interacting with its surroundings.
+
+3. SCP-1516's voice is consistent with a male human in his mid-twenties.
+
+4. A word written in an individual sheet or paper of at least 3x3cms.
+
+5. It appears to be more extroverted when using English language.

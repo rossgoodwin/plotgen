@@ -1,0 +1,99 @@
+Item #: SCP-291
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-291 must remain disconnected from any power source when not in use for testing. A team of two personnel should remain on guard outside SCP-291's containment room, and will be swapped out weekly. While disconnected from a power supply, SCP-291 may be considered safe. SCP-291's main entryway closes and locks upon disconnection from a power supply, but the door may be opened manually from the interior in the event of any personnel being trapped.
+
+All blocks of disassembled organism are to be kept stored in a designated storage locker within the containment room, and are to be properly labeled with a sharpie marker. Personnel responsible for lost or damaged blocks will be moved to other projects.
+
+Description: SCP-291 was located in [DATA EXPUNGED]. SCP-291 resembles a small building in structure, a nearly featureless steel box measuring 10.5 m x 30.2 m at the base, and 15 m tall. On one of the narrow sides, there is a large door (5 m wide) that opens upwards, similar to a garage door, composed of metal slats a few inches high each. There is no handle on the exterior of the door, and while closed, all attempts to open it using non-destructive methods have failed. The interior of the door features a lock that can be opened manually to lift the door for a few seconds, before an unknown mechanism will force it shut again. At the other end of SCP-291 is a similar opening with a lock and handle on the exterior and interior, allowing the door to be opened from either side. Two small, similar hatches only 1 m x 1 m can be found to the left of both doors, and may be opened from the exterior.
+
+The materials that compose SCP-291 do appear to be only as strong as any other example would suggest, and a force that would normally bend or cut through steel will do the same to SCP-291. Such testing is currently not allowed due to the risk of damaging SCP-291.
+
+The interior of SCP-291 is not well-explored due to the extremely tight confines of the machinery and strong pulses of electromagnetic energy through various points while activated.
+
+When connected to a suitable power source, SCP-291 activates with mechanical clanks and buzzing, and the entryway door springs open. The room inside is 4 m x 2 m, with a rather simple console board, a large display screen, and what has been described as a plexiglass 'coffin' to one side, suitable in size for most humans under 2.13 m (7 ft) in height who are not morbidly obese. The 'coffin' rests on a conveyor belt a meter in height, the coffin itself being approximately a meter deep with a blue-green gel 'cushion' of unidentified material lining the bottom. It has been described as pleasantly form-fitting and very cool and soft. Several tubes emerge from the side of the room over the coffin.
+
+Opposite the coffin, a number of 'cubbyholes' of various sizes with small doors that may be opened or closed are present on the wall. Their purpose shall be elaborated upon later.
+
+When a living person or animal is laid in the coffin (Dead organisms, organisms with a mass of less than 1.6 kilogrammes, and groups of multiple organisms triggered no reaction), no matter their position, the control room moves into the 'ready' state. In this state, the display screen shows a scanned, grid-lined image of the organism in the coffin, and the buttons on the console board become operable. Some of the smaller buttons will trigger different effects in the displayed image, such as toggling the 'skin' and 'muscles' of the display on and off, and revealing certain organs and organ systems, whether in real-time or frozen depending upon more settings. There are no words, numbers, or symbols on the display or any of the buttons, and all buttons have two settings: 'On', in which they glow, and 'Off', in which they are unlit. Various combinations produce different effects, and Dr. Rights has been kind enough to spend enough time "playing with it" to work up a crude user's manual. Three large buttons, visibly different from the controls for the display, are available to the side.
+
+Provided that a living organism is laying in the coffin, the first button may be pressed (pressing any buttons under other circumstances yields no effect, and the button remains 'off' no matter how many times pressed) and the tubes extending over the coffin dispense a blue liquid into the coffin. This unidentified liquid acts as a sedative upon skin contact, and the occupant of the coffin quickly falls unconscious. The liquid can apparently be inhaled and swallowed without any harm - D-class personnel have reported the taste to be similar to "Kool-Aid". Samples have yielded little results in identification. Once the coffin is filled to the brim, the liquid quickly congeals into a thick syrup, and then to a solid gel. Over this period, the occupant's detectable bodily functions (such as breathing and heartbeat) cease. This may be observed on the display screen.
+
+Once the liquid fully solidifies, the display screen shuts off and the conveyor belt starts to move. All attempts to stop the conveyor belt and remove either the coffin or the occupant cause the entire process to shut down, after which the blue liquid evaporates within a few minutes and the subject regains consciousness unharmed. The conveyor belt carries the coffin and occupant through a small door that quickly locks closed, and the entire machine becomes a cacophony of mechanical clanking, whirring, and grinding. The display screen will only display a rectangle that slowly fills, like a loading bar, as SCP-291 does its work. Depending upon the size of the organism, SCP-291 finishes its as-of-yet-unknown process in approximately twenty to thirty minutes, at which point the product can be retrieved at the opposite end of SCP-291.
+
+The back door of SCP-291 leads to a similar chamber, also containing a conveyor belt similar to the one that holds the coffin in the entryway. There is also a series of two dozen 'cubbyholes' or 'lockers', identical to those found in the entry room. These cubbyholes may be pulled out to retrieve their contents: parts of the organism, disassembled and preserved in blocks of an unidentified, clear solid. These blocks are quite strong, but they can be melted by extremely high temperatures, or shattered by sharp blows from a pick. However, breaking the blocks ruins the preservation method of SCP-291, and results in the preserved object being unusable. The rest of the block quickly begins to dissolve into dust after a few minutes. (See addendum for block designation.)
+
+Whole blocks, however, may be stored indefinitely until being re-inserted into SCP-291, via the 'cubbyholes' in the entrance room. Each block has a distinct size, and will only fit snugly in its designated hole. Placing blocks in the wrong holes gets no reaction from the machine, and will prevent it from being re-activated until the problem is fixed. Cubbies may be left empty, however, and it will function as normal. It is ill-advised to leave a cubby containing a vital organ empty.
+
+When the blocks are placed correctly and the doors to them shut, the second button on the console may be pressed. This does not work if the display shows a loading bar, as another operation is taking place. The doors to the cubbyholes lock for a few seconds, during which SCP-291 removes them through some means, and the machinery of the device grows louder, accompanied by another 'loading bar' on the display screen. Re-assembly takes slightly longer, approximately forty-fifty minutes to finish, after which a plexiglass container, similar to the initial coffin, emerges from a door on the conveyor belt in the exit room, holding a fully-assembled organism immersed in blue liquid that slowly evaporates as the organism wakes.
+
+Re-assembled organisms have no memory of the process, likening the experience to a very restful, dreamless sleep. They awaken with some slight disorientation, but this passes after a few minutes, and they complain about being very hungry. Tests reveal that they are re-assembled with their stomachs empty. Organisms are also re-assembled nude, and devoid of any hair. A block containing what has been identified as the contents of the organism's digestive system, hair, scraps of clothing, and any other objects on the organism is deposited into one of the small side-doors outside the main doors, and may be considered waste. Surveillance and scanning equipment sent inside the machine is disposed of in the same way, often twisted and wrecked.
+
+Later testing revealed that organisms can be reassembled in different, potentially malicious ways. See addendum for testing results.
+
+The third button is only to be used should something go wrong, when the production stops and the button blinks. It undoes whatever has been done the best it can, and shuts down the whole process while triggering some kind of cleaning and 'reset' method.
+
+Addendum: Blocks are clear, and therefore the organs and body parts contained within may be easily identified and observed. The body is divided up like such:
+
+Brain
+
+Lungs and diaphragm
+
+Heart
+
+Digestive System
+
+Reproductive organs
+
+Left eye
+
+Right eye
+
+Upper left torso and arm musculature up to the elbow and various organs
+
+Upper right torso and arm musculature up to the elbow and various organs
+
+Lower left torso and upper leg musculature and various organs
+
+Lower right torso and upper leg musculature and various organs
+
+Lower left leg and foot
+
+Lower right leg and foot
+
+Lower left arm and hand
+
+Lower right arm and hand
+
+Neck and head musculature and various organs
+
+Skeletal system from mid-spine up
+
+Skeletal system from mid-spine down
+
+Lymphatic and circulatory system from waist up
+
+Lymphatic and circulatory system from waist down
+
+Skin (neatly folded)
+
+Testing Results
+
+Reassembling a body without vital organs results in the production shutting down, requiring the use of the third button. The body will be re-deposited in block form at the exit, still inert.
+
+Reassembling a body without non-vital organs or body parts will result in that organ or body part being absent when the organism awakes, the wound sealed by unknown means that leave little to no scar tissue.
+
+Providing a body part for a missing body part will result in said body part being attached to its new body seemingly without fail. It has proved effective for heart transplants, limb transplants, and exchanging skin from one person to another.
+
+Swapping the brains of two people results in a complete transfer of that person's personality and memories, and may be reversed, although subjects are often very disoriented for several days and complain of psychological and physical discomfort, like "wearing shoes not quite the right size".
+
+Swapping body parts between different species has yielded mixed results. Dr. Rights has suggested that testing continue, and the request is pending. Only three successful cross-species transfers have occurred out of the twenty tests performed so far.
+
+001 - A cat's left eye was swapped out for a human's left eye. The subject could use the eye fully, and mentioned they felt they had adapted to it rather well. Their new left eye displayed all the abilities of a cat's eye, including difficulty seeing colors and heightened perception in the dark. (Although this test was unauthorized, the results were considered to be mildly impressive enough to allow further testing.) The cat, given a human eye, clawed its human eye out in a week.
+
+007 - A human's brain was successfully transferred into the body of an English mastiff, reportedly thanks to the dog's large skull size. He requested to be transferred back to his human body as soon as possible, though. The mastiff, in the human's body, learned to walk upright within a few hours and was disassembled again after an incident involving the humiliation of a female doctor.
+
+016 - A female class-D personnel had her reproductive organs switched with those of a pregnant Labrador retriever.
+
+No tests involving using SCP-291 with other SCPs have yet been authorized.

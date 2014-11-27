@@ -1,0 +1,29 @@
+SCP-1270
+
+Item #: SCP-1270
+
+Object Class: Safe
+
+Special Containment Procedures: The building containing SCP-1270 has been purchased by the Foundation via a front company, and is to be kept unoccupied; except for purposes of monitoring and approved experimentation, all access to the building is forbidden.
+
+Security personnel engaging SCP-1270-1 are not to use flares or incendiary rounds.
+
+Personnel whose clothing has been contaminated by SCP-1270-1's blood or other bodily fluids are not to return to the stairwell outside SCP-1270 until such time as on-site analysis has been either completed or aborted.
+
+Description: SCP-1270 is a phenomenon localized to the top floor of a three-story office building in the [REDACTED] Industrial Park outside the city of [REDACTED], whereby any intrusion onto the top floor1 triggers the manifestation, somewhere on that floor, of an entity (henceforth SCP-1270-1) resembling a male adult human armed with a shotgun.
+
+Upon manifesting,2 SCP-1270-1 will attack intruders, firing at them, and pursuing them through the rooms and corridors of the top floor until all intruders have either been killed, fatally injured, or driven out of SCP-1270-1's "territory".3 If SCP-1270-1 is killed, its cadaver instantly demanifests, and another instance of SCP-1270-1 manifests elsewhere on the top floor.
+
+SCP-1270-1 never leaves the boundaries of SCP-1270 on the top floor. If, subsequent to being captured and disarmed, SCP-1270-1 is carried across the threshold between the main hallway and the stairwell, it instantly demanifests, and another instance of SCP-1270-1 manifests elsewhere on the top floor. Demanifestation of SCP-1270-1 as a whole (and subsequent remanifestation) also results when tissue or fabric samples from SCP-1270-1 are taken across the threshold into the stairwell or passed out of an open window; the minimum sample size necessary to trigger this effect is not known, but the effect has been observed to result from sub-milliliter amounts of blood spatter. Consequently, all forensic analysis of samples must be performed onsite. SCP-1270-1's ammunition likewise demanifests upon exiting the borders of SCP-1270, but does not trigger the demanifestation of SCP-1270-1 as a whole.
+
+Analysis of SCP-1270-1's identifying characteristics has been inconclusive: its facial features have been found to be those of [REDACTED], an inhabitant of [REDACTED], Utah (face on record as a result of several arrests for vagrancy, public intoxication, and shoplifting); its fingerprints have been found to be those of [REDACTED], an inhabitant of [REDACTED], Newfoundland (fingerprints on record as a result of several arrests for public intoxication and indecent exposure); its DNA matches that of [REDACTED], currently serving a life sentence in New South Wales for various sexual offenses; and its teeth display such advanced decay that Foundation forensic dentists have stated that identification via dental records is not feasible. Its shotgun is a Mossberg 590, but with a serial number indicating a Mossberg 590A1.
+
+When interrogated post-capture, SCP-1270-1 responds with a constant stream of invective and profanity in various languages, including English, Cantonese, Arabic, Bengali, Portuguese, Hungarian, and Dutch.
+
+Footnotes
+
+1. See document 1270-4M for operational parameters of what is considered an "intrusion."
+
+2. Fiber-optic microcameras inserted via floor and rooftop boreholes have conclusively shown that SCP-1270-1 does not exist in the absence of intruders.
+
+3. Consisting of a hallway, five office suites, and a washroom; see document 1270-E-6 for detailed floor plan.

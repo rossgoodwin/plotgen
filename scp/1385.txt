@@ -1,0 +1,61 @@
+SCP-1385
+
+Item #: SCP-1385
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1385 is to be contained inside a standard Safe-class containment locker at all times unless under test conditions. All tests are to be approved by at least one Level 3 Senior Researcher. It is recommended that any human test subjects interacting with SCP-1385 be screened for shellfish allergies, excluding tests involving SCP-1385 and subjects with shellfish allergies.
+
+Description: SCP-1385 is a ring composed of concrete, measuring 19mm in diameter and weighing approximately 1.4 grams. The object has many superficial flaws in the form of cracks and air bubbles, though it has been coated with a polyurethane resin resulting in a glossy texture.
+
+SCP-1385's anomalous properties become evident whenever a living human wears it on any part of their body. The most immediately evident effect is the spontaneous and instantaneous appearance of fully grown specimens of Silybum marianum (Milk Thistle) on any surface the subject's feet contact. This includes the soles of any footwear the subject attempts to wear. Because of the presence of spines typical of Silybum marianum, this invariably results in minor injury to the subject's feet and great discomfort when attempting to walk.
+
+Secondary effects of SCP-1385 are not immediately noticeable due to both the length of time required for them to be observed, and the specific conditions required for their emergence. The first of these effects causes a rapid increase in the growth of the subject's hair. In just three days of contact with SCP-1385, hair growth can exceed 1 meter. The hair weaves itself into a net-like pattern, after which the subject gains conscious control of the hair. These "nets" can be used by the subject to scoop up objects they would normally be able to pick up with their hands. The forces holding the weaves intact are not currently understood, nor those which allow the subject to voluntarily control them.
+
+Finally, subjects under SCP-1385's influence have an unexplained effect on crustaceans of the family Nephropidae, and some species from family Homaridae (Clawed Lobsters)1. Affected specimens will invariably attempt physical contact with the subject with no regard to self preservation. Subjects in tests have expired from asphyxiation before breaking contact. This effect is more easily observed if the subject is submerged in water along with several specimens.
+
+Addendum 1385-A: SCP-1385 was discovered on April 22, 20██ in an abandoned warehouse in ███████, ██████████. The warehouse had apparently been taken as a place of residence by an unknown party, later to be identified as ██████ ███ ███████. ███████ had left the premises several days prior on April 19, but had left behind a majority of his equipment and possessions. The equipment is highly eclectic in nature, ranging from scientific instruments to religious paraphernalia. More notable objects include:
+
+1 argon ion laser.
+
+1 iron Thor's hammer amulet.
+
+1 booklet containing three (3) instances of SCP-███.
+
+34 liters of kombucha tea.
+
+3 vertebrae of an unknown species. DNA analysis proved inconclusive.
+
+The crushed remains of 42 concrete rings nearly identical to SCP-1385 in dimensions.
+
+Addendum 1385-B: A 300-page journal belonging to ██████ ███████ was discovered at the site of SCP-1385's recovery. 249 of the pages contain either writing, sketches, or both, with the remaining pages being blank. The following are notable excerpts from the journal.
+
+Page 1:
+
+Day 1
+
+Today I set out to create something I've never attempted before. I'm confident I have the skills to pull it off, but to be sure I've brought plenty of supplies in case I screw it up and need to try again. Soon enough, I'll be sitting pretty with a conjuring ring. I can't wait to see the look on their faces when I show it to them.
+
+Page 134:
+
+Day 24
+
+I think I'm getting close now. The last ring was a failure like the rest, but at least it didn't turn my earwax into maggots. I wonder if it had something to do with the placement of the basalt spheres? Reminder: See if you can't contact Phenylalanine for some advice.
+
+Page 222:
+
+Day 47
+
+This is getting more than a little frustrating. I just can't seem to achieve the desired effect. I don't know what I'm doing wrong, it should be working. Everything's in place from what I've been taught. The laser, the skull, the helium-3, it's all exactly where it's supposed to be. I'm gonna call it a night and review my notes2 tomorrow.
+
+Page 249:
+
+FUCK IT!
+
+Note: This entry was written in large letters across the page.
+
+Footnotes
+
+1. See Addendum 1385-C for a complete list of affected species.
+
+2. Attempts at duplicating SCP-1385 using ███████'s notes are ongoing, but have thus far yielded no anomalous results.

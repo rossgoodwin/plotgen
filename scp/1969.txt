@@ -1,0 +1,55 @@
+SCP-1969 at recovery
+
+Item #: SCP-1969
+
+Object Class: Keter
+
+Special Containment Procedures: Due to the inherently immobile nature of SCP-1969, it is located at the recovery site (now named Site 1969). The primary containment unit is a hollow steel ball (1 cm in thickness), containing multiple low-powered electric pistons. These pistons are controlled by a computer located 1.2 meters away on the floor of the secondary containment unit, allowing them to fluctuate in a controlled manner in order to keep SCP-1969 perpetually in the Lambda state. The steel ball has a diameter of 56 cm and is attached to the roof of the secondary containment unit.
+
+Outside the primary containment unit is a concrete room known as the secondary containment unit. Dimensions are 15m x 15m x 3.5m. 50 small transmitters are attached to the walls, relaying a constant message to either one of four offsite receivers or two of eight onsite receivers. In the event that more than two of these transmitters stop working, MTF Alpha-9 ("Party Poopers") will secure the tertiary containment unit and administer amnesiacs and tranquilizers1 to locals if necessary.
+
+The tertiary containment is largely a mimicry of the transmitter/receiver setup in the secondary containment unit. This unit contains 1500 transmitters and eight receivers scattered over twenty square miles, spanning the entirety of Site-1969. It serves as a secondary method of monitoring the Sayaw Zone when SCP-1969 is in an Alpha state. Along the edge of Site-1969 are 20 outposts for guards (three guards per outpost). One final outpost contains the research and administrative staff of Site 1969, housing thirty-five people at the time of writing (██/██/201█). Ground and aerial transportation is available for each outpost to provide immediate evacuation in the event of SCP-1969 entering a continued Alpha state.
+
+If SCP-1969 remains in an Alpha state for longer than 40 seconds, site personnel are to alert Site Director Nelson or Assistant Director Jackson.
+
+Description: SCP-1969 is a disco ball made by an unknown manufacturer. It is 50.8 cm (20 inches) in diameter, and has a hook attached to the top of the ball in order to hang it from a ceiling. There are ████ separate surfaces on the ball, all small (approximately 5mm x 5mm) in size and mirror-like in appearance. Despite the lack of a power source, electromagnetic waves pulsate from each separate face of SCP-1969. However, the faces on SCP-1969 do not consistently radiate at the same wavelength, and randomly change after anywhere between less than 0.██ seconds and close to two minutes2. These waves have ranged through the entire electromagnetic spectrum3, although wavelengths in or near the human visible spectrum are more likely to linger than extremely long or short wavelengths, which shift quickly. This lends to the classic image of a disco ball, with multicolored lights shining from a mirrored spinning ball.
+
+Photograph of SCP-1969 directly prior to Incident 1969-A
+
+Light emanating from SCP-1969 shines through or penetrates materials normally opaque to it4. Despite this, all electromagnetic waves seem to reflect normally, but paradoxically seem to penetrate materials as well without lowering in intensity. However, the area in which this effect takes place is limited to an ellipsoidal space centered around SCP-1969, known as the Sayaw Zone. This area spreads out horizontally much more quickly than vertically.
+
+SCP-1969 has three states of existence, hereafter referred to as Alpha, Beta, and Lambda. The Alpha state is highly dangerous. During the Alpha state, the Sayaw Zone expands. Alpha states are triggered and continued by gross physical motion within the Sayaw Zone5. However, this movement does not need to be artificially caused, allowing natural causes to propel an Alpha state in SCP-1969. During this time, SCP-1969 rotates clockwise with respect to the ceiling at varying speeds.
+
+The rate of growth of the Sayaw Zone is not constant. Approximately ██ seconds after the cumulative movement inside of the Sayaw Zone reduces to ██%, the Sayaw Zone's sensitivity to kinetic energy readjusts to allow fewer Joules applied to trigger an Alpha state. After a certain point, it becomes possible for such small uncontrollable movements as normal tectonic motion to put SCP-1969 in an Alpha state. Mathematical measurements and speculations relating to Alpha states are located in Document 1969-Alpha-01. Fortunately, the sensitivity of the Sayaw Zone during Alpha states lowers, allowing it to enter a Beta state.
+
+SCP-1969 during Incident-1969-A. Taken by MTF Alpha-9. 1,053 civilians terminated.
+
+Beta states occur following an Alpha state. As its kinetic sensitivity decreases, the Sayaw Zone slows its growth due to the relative lack of new movement. If the amount of movement within the Sayaw Zone goes down enough, the Zone will begin to shrink, inciting a Beta State. During a this state, SCP-1969 spins counter-clockwise with respect to the ceiling at varying speeds.
+
+If enough Joules were to be exerted inside the Sayaw Zone, it could expand to cover all of Earth (a theoretical event referred to as an Ennui scenario). Dr. ██████ speculates that if the Sayaw Zone were to reach the town of [REDACTED], an Ennui scenario would be inevitable, as no means available to the Foundation could halt its growth. An Ennui scenario would affect all light entering the Earth's atmosphere, eventually kill 99% of all organic lifeforms from radiation poisoning, and cause a multitude of other problems.
+
+The Sayaw Zone shrinks considerably while in a Beta state before returning to an Alpha or a Lambda state. The Lambda state constitutes constant fluctuation between Alpha and Beta states, to the effect that the Sayaw Zone's size never changes significantly.
+
+Addendum: The following note was discovered near SCP-1969 during recovery. Most of the upper right portion was burned off during Incident 1969-A, prior to collection by Foundation assets. Document appears to be a receipt. Part of the Marshall, Carter, and Dark logo is drawn lightly on the background of the note.
+
+Bu[DATA LOST]
+
+Amount of B[DATA LOST]
+
+Location of Auction: The C[DATA LOST]
+
+Note: Due to this item not having been tested by MC&D, starting bid [DATA LOST]
+
+Description of Item: Disco ball, measuring 20 inches in diameter. Actively hunts for parties to service. When partying ends, stops. Does not require a power source. Runs indefinitely.
+
+Footnotes
+
+1. If it becomes apparent that the growth of the Sayaw Zone can only be halted by the termination of a large number of civilians, MTF Alpha-9 is authorized to do so, using memetic agents and chemicals such as desflurane.
+
+2. Each face acts separately, and as such, ████ different wavelengths emanate from SCP-1969 at any given time
+
+3. Although being inside the Sayaw Zone will not lead to immediate death, the amount of radiation is extremely harmful and is inevitably lethal after an extended period of time.
+
+4. For example, light from SCP-1969 with a wavelength of 580nm (yellow) would be able to pass through a material fully opaque to visible light. Gamma rays coming from SCP-1969 are similarly unaffected by radioactive shielding.
+
+5. The rate of growth correlates directly to the cumulative Joules of kinetic energy being applied in the Sayaw Zone, compounded continuously at a rate of e.

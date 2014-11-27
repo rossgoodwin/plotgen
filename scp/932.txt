@@ -1,0 +1,73 @@
+Item #: SCP-932
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-932-01 through -06-08 are to be kept in a 15 m x 15 m room with observational windows, furnished with a speaker and a bed with straps. During an observation, experimentation or interaction session, the speaker is to play a tone of 510 Hz at 100 dB (rated as 'loud') to enable visibility of SCP-932. Noise-cancelling headphones are available to participating staff on request to facilitate communication.
+
+Once every 3 days, a D-Class personnel is to sleep in the bed in SCP-932's chamber for feeding purposes. The speakers need not be turned on for this purpose. The feeding process is never fatal; however, the straps can be utilised in case of resistance on part of the D-Class. Said personnel can be returned to normal duties afterwards.
+
+Wild instances of SCP-932 are to be tracked down and captured alive by MTF Iota-4 ("Dream Hunters").
+
+EDIT: Following Incident-932-002, containment breach protocols have been set. The 510 Hz tone is to be played throughout the site if a breach occurs, and all air vents or possible escape routes are to be sealed. All on-site personnel are advised to keep as calm as possible. The following changes are also to be made to SCP-932's containment: The speaker is to be affixed to the wall and play the aforementioned tone at all times and that a different D-Class personnel be used for each feeding session.
+
+Description: SCP-932 are creatures able to adjust the refractive indices of their bodies in order to appear invisible. This ability seems to be disrupted when SCP-932 is exposed to sound; a loud (100 dB) tone of 510 Hz neutralises it completely. When visible, SCP-932 resemble dark and featureless children. Their height varies from 1.2 to 1.6 m and weigh approximately 30-40 kilograms. In large numbers, SCP-932 have been able to pin down and fully immobilise an adult human.
+
+SCP-932 "hunts" by silently following an individual to his/her dwelling in groups of no more than 8 individuals. If necessary, SCP-932 will lie in wait near or under the victim's bed for several hours until he/she falls asleep and enters a state of rapid eye movement (REM) sleep. When the victim enters this state, the pack of SCP-932 will pin the victim down, secreting an unknown pheromone that causes the victim to wake before the REM cycle is complete. In most cases, the victim will be conscious but immobile, leading to a general feeling of panic. Initially, it was thought that SCP-932 fed on hormones produced by the panicking victim, but Experiment 932-04 ("Towel Test") seemed to prove otherwise. SCP-932, for all intents and purposes, feeds on fear. It is unknown how this mechanism works, or how it detects REM sleep in its victims.
+
+SCP-932 is generally docile and does not actively attack researchers. However, if its feeding schedule is disrupted for more than 21 days, it will seem to be more aggressive and alert to its surroundings, and on occasion has tried to subdue researchers entering its containment chamber despite the researcher being completely awake at the time.
+
+EDIT: It appears that SCP-932 prefers variation in its diet, as they seem to be more placid at the beginning of the month (when a new D-Class personnel is introduced) than at the end. Suggesting 5 D-Class be assigned to our team and taking turns in the feeding session.
+
+—Researcher Min
+
+Permission under consideration, given light of your recent budget scandal.
+
+—Director Faizal
+
+Permission granted, following events of Incident 932-02.
+
+—Director Faizal
+
+Incident Report 932-02:
+
+Date: 29/06/1998
+
+Location: Site-09, Biological Division, South Wing, #03-02
+
+(14.00.23) Research Assistant Byantara prepares to enter containment chamber for weekly vacuuming. He appears to mumble under his breath, body language shows apprehension. Records show that Byantara was a new-hire and had little experience with SCPs.
+
+(14.00.57) 510 Hz tone plays, Byantara is given the all-clear. SCP-932 become visible.
+
+(14.01.18) Byantara turns on vacuum cleaner and enters containment chamber. SCP-932-01 through 06 immediately turn to face him and slowly move towards his direction. He appears startled by this reaction, quickly waving the vacuum cleaner around him in an attempt to keep SCP-932 at bay.
+
+(14.03.01) SCP-932-03 tackles Byantara's legs from behind, causing him to collapse. The other SCP-932 individuals leap on him and keep him down on the floor, apparently initiating a feeding event. Byantara is visibly struggling under the combined weight of SCP-932, accidentally disconnecting the speaker's plug with his kicking feet. SCP-932 are now invisible.
+
+(14.03.13) Site security alerted, and observational cameras are switched to IR mode. The members of SCP-932 are still feeding.
+
+(14.03.50) Site security arrive, but are told not to enter the containment chamber until the feed from the IR camera is loaded onto their HUDs.
+
+(14.05.48) Research Assistant Byantara ceases movement. IR feed shows the pack of SCP-932 lose interest and leave his body. 5 members of site security enter chamber and disable active members of SCP-932. A preliminary survey revealed that SCP-932-06 was unaccounted for.
+
+(14.05.51) Byantara recovered from containment chamber. Pulse is weak and rapid, and his eyes are wide open and rapidly moving. On closer inspection, his pupils appeared dilated despite the bright conditions of the chamber.
+
+(14.06.00) Site lockdown initiated, all personnel advised to remain calm. Site security dispatched for retrieval.
+
+(14.06.38) The 510 Hz tone is played on the site speakers. Visibility of SCP-932-01 through -05 confirmed.
+
+(14.06.51) Multiple motion sensors activated in South Wing air ducts.
+
+(14.08.46) Camera feed shows SCP-932-06 exiting from an air duct in corridor 3A of the South wing. Security team prepares for retrieval.
+
+(14.09.02) Camera feed shows another SCP-932 exiting from an air duct in corridor 3D of the South Wing. Director Faizal expresses possibility of SCP-932 reproduction. The 510 Hz tone is played through the air ducts via a speaker in the Biology Office to aid retrieval procedures.
+
+(14.09.32) Camera feed shows another SCP-932 exiting from an air duct in corridor 4P of the South Wing. Additional security teams dispatched to contain both new instances.
+
+(14.11.07) Containment of 3 individuals achieved. Sensors report no more movement in air ducts. The two new individuals are labeled SCP-932-07 and -08, and are contained along with SCP-932-01 through -06.
+
+Note: Research Assistant Byantara is in a comatose state, and displays no change in behaviour. Further observation is required.
+
+Note: After 47 days on life support, Byantara appeared to mouth something and his eyes ceased movement. He died of cardiac arrest shortly afterwards.
+
+I think he said something like "too scared to move".
+
+—Research Assistant Pattayong

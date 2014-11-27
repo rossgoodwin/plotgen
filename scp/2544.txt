@@ -1,0 +1,77 @@
+Item #: SCP-2544
+
+Object Class: Euclid
+
+Special Containment Procedures: With the ongoing success of Project Mauna in minimizing the negative effects of SCP-2544-1, containment of SCP-2544 is now focused primarily on the observation and analysis of the SCP-2544-2 phenomenon. As SCP-2544-2 is fundamentally integrated into the commercial shipping system of India, it has been determined that physical containment of its effects would have a significant detrimental effect to the economic stability of the region. As such, containment of SCP-2544-2 will focus on minimizing the spread of data related to the phenomenon. MTF Pi-4 "Big Rig Vedas" is currently embedded within the Indian Ministry of Road Transport and Highways, as well as various independent statistics-monitoring groups, for the express purpose of altering traffic data to remove the characteristic alterations caused by SCP-2544-2.
+
+Description: SCP-2544 is the blanket term for a series of phenomena which cause unusually regular disruptions in the flow of commercial road traffic throughout continental India.1
+
+SCP-2544-1 manifests as an altered emotional state capable of occurring in any conscious human being operating a commercial freight automobile within the bounds of SCP-2544. While experiencing SCP-2544-1, subjects report undergoing strong feelings of detachment, relaxation and apathy. Minor feelings of religious awe have also been reported in subjects who are devout Hindus. SCP-2544-1 generally reduces the ability of subjects to properly control their vehicles. SCP-2544-1 experiences have been observed to range in duration from several seconds to approximately 3 hours, with an average time of 10 minutes. When debriefed after the effect has ceased, SCP-2544-1 subjects generally have difficulty recalling anything but their emotional state during the event.
+
+In light of the negative effects to public safety and the common occurrence of SCP-2544-1, the Foundation launched Project Mauna on ██/██/1934 in an effort to reduce the impacts of SCP-2544-1. Following two years of development, the project produced the Type-1 Mauna Interference Generator, a subsonic emitter capable of temporarily reducing the average duration of SCP-2544-1 to approximately 0.5 seconds. In order to ensure maximum dispersal of the Mauna frequency, generators were installed in all Foundation vehicles in India, as well as all vehicles imported to or constructed in that country since 1936. Mauna generators are built into the horn or klaxon systems of the vehicle, and triggered during the emission of sound. A series of successful cultural manipulation campaigns to inculcate the regular use of vehicle horns as signalling aids in areas affected by SCP-2544 has led to a significant reduction in road accidents and delays as a result of prolonged SCP-2544-1 manifestations.
+
+SCP-2544-2 is the general term for minor disruptions to road traffic that occur concurrently to manifestations of SCP-2544-1. It is unclear whether SCP-2544-1 triggers SCP-2544-2, or vice-versa. Such disruptions have included inexplicable structural failures in bridges, non-fatal but large-scale traffic collisions, minor landslides, unexpected breakdowns of ferry and rail equipment in bottleneck areas, and police road closures due to a wide variety of minor accidents and crimes. No SCP-2544-triggered event has been known to cause loss of human life or the total cessation of commercial traffic through the area. In regions with road networks dedicated solely to commercial traffic, SCP-2544 events have never been observed to occur in non-commercial areas. The success of Project Mauna has in no way affected the incidence of SCP-2544-2, and no cause for SCP-2544-2 has yet been discovered or adequately explained. Research is ongoing.
+
+Addendum ██/██/1977: During the digitization of records from Indian Foundation branches, Foundation Anomalous Numerology Detection Software (ANDSoft2) programs highlighted a series of statistical anomalies surrounding the occurrences of SCP-2544-2. Further analysis determined that SCP-2544 disruptions are a cyclical phenomenon, with their rate of incidence increasing at various specific times of the year. These increases tend to align with the celebration of a variety of Hindu religious festivals:
+
+Time of Year3
+
+Extent
+
+Associated Festival
+
+Vernal Equinox
+
+Nation-wide
+
+Holi4
+
+Mid-April
+
+Nation-wide
+
+Hanuman Jayanti5
+
+Late August-early September
+
+Nation-wide
+
+Ganesh Chathuri6
+
+Late September-early October
+
+Nation-wide
+
+Narvratri7
+
+Variable, occuring every 3 years.
+
+Alternates: Occurrences centered in Allahabad, Haridwar, Ujjain and Nashik
+
+Kumbh Mela8
+
+SCP-2544 disruptions occur in groups of 5, 10, 18, 108 or 1008 incidents occuring simultaneously nationwide, or, if SCP-2544 is currently localized, within a specific area.
+
+Document: Extract from a memo by █.█. Joshi, Lead Researcher for SCP-2544, 1977:
+
+When I see the patterns present in 2544-2, it becomes increasingly clear that it should be our primary area of study. The simple fact of the matter is that SCP-2544's disruptions align perfectly in structure with the repetitive Japa mantras practiced by certain holy men in Hinduism. Repetitions of incidents in groups of 108, on predictable, consistent cycles- such are the hallmarks of the Japa pursuit of ascetic moksha.
+
+This leads me to conclusions which I am not wholly certain I am comfortable with. Something in this nation has woken up, and it is searching for itself.
+
+Footnotes
+
+1. The effect appears to be present only within the confines of the borders of the post-Partition Republic of India, and is not present in the disputed areas of Jammu and Kashmir.
+
+2. Since 1975, basic ANDSoft programs have been standard on all Foundation database computers to detect and minimize the risk of statistical impact from mathematical or probability-altering anomalies.
+
+3. As SCP-2544 seems to abide by the traditional Hindu lunar calendar, exact transposition of dates into the Gregorian calendar is difficult.
+
+4. The spring festival celebrating the end of winter and the victory of good over evil.
+
+5. Celebrations of the birth of Hanuman, the monkey god who symbolizes strength, energy and wisdom.
+
+6. Celebration of Ganesh, the popular elephant-headed god who oversees auspicious beginnings.
+
+7. Festival of Durga, the mother-goddess who symbolizes the act of creation.
+
+8. The Kumbh Mela is a large-scale pilgrimage to one of several holy rivers in India, and is one of the most important Hindu religious events.

@@ -1,0 +1,193 @@
+Item #: SCP-1800
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1800 is stored in a restricted area of Sector-19. All accessways and rooms within a 200m radius of SCP-1800 shall be kept to authorized personnel only, and will be kept clear of unnecessary personnel during testing. Personnel authorized to be in the restricted area must not fit Profile Alpha-1800-1 (see: Addendum 2) or Profile Beta-1800-1 (see: Addendum 3) Testing is authorized on SCP-1800 with approval of the current project leader.
+
+Description: SCP-1800 is a bronze sculpture measuring 146cm in height. The casting appears identical to the work Le Minotaure by Salvador Dalí produced by the Valsuani foundry in 1982 with the following deviations:
+
+Attempts to date the sculpture have been inconclusive, but suggest it was created at least ██ years prior to the earliest date of official casting at the Valsuani foundry. (This would also predate the first known Dali painting of the subject by █ years.)
+
+The sculpture is missing a foundry mark and signature.
+
+The small drawer above the inner right ankle is functional, and can be opened and closed.
+
+Inside the drawer is an inscription absent from the official casting: Quin preu és la virtut.1 Inscription appears to have been engraved some time after casting.
+
+SCP-1800 is typically in an inactive state during which it shows no anomalous properties. If some unit of minted currency is placed in the drawer in the lower right leg of the sculpture, and the drawer is closed, the contents of the drawer will disappear and SCP-1800 will enter a pending state.2
+
+SCP-1800 in an inactive state prior to containment
+
+When SCP-1800 is in a pending state it will appear inactive3 until a human subject fitting Profile Alpha-1800-1 or Profile Beta-1800-1 enters an area within a 167m radius of effect4 surrounding SCP-1800.
+
+When a human subject fitting Profile Alpha-1800-1 enters the radius of effect while SCP-1800 is in a pending state, SCP-1800 will become active and move its right arm to point two fingers in the direction of the subject for approximately 15 seconds5. The subject is subsequently designated SCP-1800-1. After 15 seconds, SCP-1800 will return to its original pose. If any instance of SCP-1800-2 exists, SCP-1800 will also then return to an inactive state, otherwise its state will continue to be pending.
+
+When a human subject fitting Profile Beta-1800-1 enters the radius of effect while SCP-1800 is in a pending state, SCP-1800 will become active and move its left arm to point three fingers in the direction of the subject for approximately 17 seconds.6 The subject is subsequently designated SCP-1800-2. After 17 seconds, SCP-1800 will return to its original pose. If any instance of SCP-1800-1 exists, SCP-1800 will also then return to an inactive state, otherwise its state will continue to be pending.
+
+When any number of instances of SCP-1800-1 and SCP-1800-2 simultaneously exist, instances of SCP-1800-1 will seek out instances of SCP-1800-27 and initiate some form of ritualized interaction. After completion, the object(s) of this interaction will cease being designated as SCP-1800-2, and if there are no more remaining instances of SCP-1800-2, the initiator(s) of the interaction will cease being designated SCP-1800-1. The specific nature of the interaction initiated by SCP-1800-1 is determined by the type of currency used prior to SCP-1800 selecting SCP-1800-1.
+
+Addendum 1:
+
++ Document T1800-37: Table of Selected SCP-1800-1/SCP-1800-2 Interactions
+
+- Document T1800-37: Table of Selected SCP-1800-1/SCP-1800-2 Interactions
+
+Currency Used
+
+Interaction Observed
+
+2010 U.S. Lincoln Penny
+
+SCP-1800-1 verbally harasses SCP-1800-2 for a period of 10 minutes.
+
+1943 Steel U.S. Lincoln Penny
+
+SCP-1800-1 verbally harasses SCP-1800-2 for a period of 23 minutes. Harassment includes obscene hand gestures.
+
+1980 UK Ten Pence
+
+SCP-1800-1 verbally harasses SCP-1800-2 for a period of 5 minutes, then proceeds to urinate on SCP-1800-2.
+
+2001 Belgian €2 Coin
+
+SCP-1800-1 assaults SCP-1800-2, strangling SCP-1800-2 for a period of 10 minutes. After SCP-1800-2 expires, SCP-1800-1 undresses the body and poses it to resemble SCP-1800's normal posture.
+
+1882 U.S. Silver Dollar
+
+SCP-1800-1 sexually assaults SCP-1800-2 with a [DATA EXPUNGED] then forces SCP-1800-2 to consume [DATA EXPUNGED] undresses the body and [DATA EXPUNGED] cutting wounds that resemble the voids in the SCP-1800 sculpture.
+
+1924 U.S. Double Eagle $20 Gold Coin
+
+[DATA EXPUNGED]
+
+Addendum 2:
+
++ Profile Alpha-1800-1
+
+- Profile Alpha-1800-1
+
+Profile Alpha-1800-1 subjects are male and aged 30 to 55 years. They have a position of authority, typically policemen, politicians, executives or military officers. They are in good physical condition without chronic ailments, and show no history of mental disorders or substance abuse. They are married and have at least one child.
+
+Addendum 3:
+
++ Profile Beta-1800-1
+
+- Profile Beta-1800-1
+
+Profile Beta-1800-1 subjects are female and aged 13 to 21 years. They will have begun menstruation but have not yet engaged in sexual intercourse.
+
+Addendum 4:
+
++ Document I1800-03: Post Recovery Interview #3 
+
+- Document I1800-03: Post Recovery Interview #3
+
+Interviewed: David Orwell. Male. 27 years old.
+
+Interviewer: Agent J. ███████, MTF-███-██, Commander in charge of initial response and containment team.
+
+Foreword: On ██/██/20██, SCP-1800 was on public display at the ██████ ████ Museum in █████████. It had been on continual exhibition since ██/██/19██ without incident. According to security cameras, at 13:25, the interview subject approached SCP-1800 and placed an unidentified coin in SCP-1800’s lower drawer and closed it. SCP-1800 immediately entered an active state and selected SCP-1800-1 and SCP-1800-2 from the museum patrons. SCP-1800-1 immediately engaged in ritual rape, murder and dismemberment of SCP-1800-2. Three security guards were injured, one fatally, when they attempted to intervene. Ritual interaction was interrupted by █████████ police firing on and killing SCP-1800-1. Interview subject was taken into custody by █████████ police along with twelve other witnesses.
+
+<Begin Log, 02:30 ██/██/20██>
+
+Agent J. ███████: Now, I need to ask you a few questions.
+
+David Orwell: Sure. Hell of a day. You’re American, aren’t you? FBI? Is this some sort of al-Qaeda thing?
+
+Agent ███████: We’re consultants, working with the █████████ police.
+
+Orwell: Ahhh.
+
+Agent ███████: Your name’s David Orwell?
+
+Orwell: That’s right.
+
+Agent ███████: You’re a student from [REDACTED]?
+
+Orwell: Was a student. The indoctrination was a bit much.
+
+Agent ███████: So you stopped being an art student?
+
+Orwell: In that sense. I work for a small auction house in ██████ now.
+
+Agent ███████: Long way from home.
+
+Orwell: So are you.
+
+Agent ███████: [pause] So… Why did you put something in the statue?
+
+Orwell: I thought you wanted to ask about the guy killing his—
+
+Agent ███████: Please answer the question, Mr. Orwell.
+
+Orwell: An offering to Mammon.
+
+Agent ███████: Pardon?
+
+Orwell: Rendering unto Caesar. A metaphor. A protest. A penny on the eye of dead Art.
+
+Agent ███████: I’m not following you.
+
+Orwell: [sighs] It was my way of saying that Mr. Salvador Dalí was a pretentious little hack who lived off the same dozen visual non-sequiturs for a half-century. Mass-produced corporate art that diminishes in significance with each cheap copy. That statue, Le Minotaure, you know how many reproductions there are of it? I could get you one off eBay right now. All “official,” and still being produced ██ years after his death. I have more respect for Thomas Kinkade. He never tried to convince anyone his kitsch was somehow transgressive or meaningful.
+
+Agent ███████: You don’t like Dalí.
+
+Orwell: There’s nothing worse than a revolutionary co-opted by the establishment. Art isn’t a commodity.
+
+Agent ███████: Were you expecting the statue to do something?
+
+Orwell: Like what?
+
+Agent ███████: Move.
+
+Orwell: Huh? I was metaphorically tweaking the Dalí industrial complex. It’s not a vending machine or an amusement park ride.
+
+Agent ███████: You didn’t watch the statue after you closed that drawer?
+
+Orwell: I was paying more attention to the guards, who might have objected to my little protest. Then there was this slight issue of some German tourist killing his daughter and trying to—
+
+Agent ███████: We have witnesses that say the statue raised its arms and pointed at Mr. █████ and his daughter.
+
+Orwell: What?
+
+Agent ███████: Are you certain you didn’t see the statue move?
+
+Orwell: It’s not a mannequin. That thing is solid bronze, no joints. It isn’t going to wave its arms like a pirate on a Disney ride.
+
+Agent ███████: So you didn’t see anything?
+
+Orwell: You’ve got to be kidding. I was watching something a lot more horrifying and transgressive than that derivative, self-plagiarized excuse for a sculpture.8
+
+Agent ███████: Thank you, Mr. Orwell.
+
+Orwell: [pause] So, uh, are we cool yet?
+
+Agent ███████: Hmm?
+
+Orwell: Are we cool? Have you got what you need? Can I go?
+
+Agent ███████: Uh-huh, see the nurse on the way out.
+
+<End Log>
+
+Closing Statement: As with all witnesses to SCP-1800’s active phase, David Orwell was provided with a prophylactic Class-A amnesiac to suppress any knowledge of SCP-1800’s involvement in the case. Possible connections between David Orwell and any Groups of Interest were not perused until █ years later when a routine review of SCP-1800’s case files identified the phrase “are we cool yet?” Mr. Orwell’s statement pre-dates official Foundation recognition of the “Are We Cool Yet?” collective by █ years. Subsequent attempts to locate Mr. Orwell for a follow-up investigation have yet to be successful.
+
+What, are we supposed to go back and re-investigate every piece of so-called art we have in containment now? It’s a god-damn coincidence— Agent J. ███████, MTF-███-██
+
+Footnotes
+
+1. English translation: "What price is virtue?"
+
+2. Only metallic minted currency has this effect; printed money, jewelry, ingots of precious metal, non-currency tokens, or other such items have no effect.
+
+3. No external means of observation or measurement has been found to differentiate between SCP-1800’s inactive and pending states.
+
+4. Radius of effect is constant, regardless of any intervening material.
+
+5. Effects are independent of subject’s ability to perceive SCP-1800, and occur even if subject leaves the radius of effect within this timeframe.
+
+6. See note 5.
+
+7. SCP-1800-1 appears unaware of the seeking compulsion and will show no prior conscious knowledge of SCP-1800-2's location and identity beyond what was known prior to the effects of SCP-1800.
+
+8. Security camera footage confirms that Mr. Orwell was not facing SCP-1800 during its active phase.

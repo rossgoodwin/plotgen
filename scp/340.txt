@@ -1,0 +1,77 @@
+Item #: SCP-340
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-340-1, -3, -4, and -5 are to be communally housed in a 10 m x 10 m x 2.5 m tank, with the water temperature maintained between 25°C and 30°C. Anti-depressants and broad-spectrum antibiotics are to be administered intravenously every twelve hours. Medicinal compounds may not be added to the standard nutritive paste without approval. All waste products must be properly sterilised. Any personnel who aspirate water from the containment tank must report to medical staff immediately.
+
+Description: SCP-340 is produced by a human-specific virus which preferentially colonizes the nasal cavities. The virus cannot be identified according to the Baltimore classification scheme, leading Foundation researchers to believe it was engineered by parties as-yet unidentified. The presence of genes from both HIV and the SARS coronavirus supports this hypothesis.
+
+An incubation period, with a mean duration of three (3) days, occurs upon initial exposure to the virus. Influenza-like symptoms will then develop, and will persist for a mean of seven (7) days before clearing up. An increased production of mucus has been observed in all known cases, and will persist after other symptoms have ceased. Virulence is highest during the first five (5) days of infection, but viral particles have been detected up to a month after exposure in Foundation trials.
+
+Any time after infection, a high blood concentration of carbon dioxide (CO2) will trigger production of SCP-340. When initially produced, SCP-340 is a jelly-like mucus, which exudes to cover the lower half of the face, including the nose and mouth. SCP-340 in mucous form will undergo a catalytic reaction when immersed in water and will set into a bioplastic membrane. The chemical composition of the bioplastic facilitates the [DATA EXPUNGED] process; although it causes SCP-340 to degrade, the process allows the host to breathe underwater. The membrane is flexible, and does not inhibit the host's facial movement. Any tears or holes which develop due to mechanical stress or SCP-340 degradation will be regenerated within thirty (30) seconds due to constant production of SCP-340. Virulence is drastically reduced in this stage, but viral particles have been detected in water samples contaminated with SCP-340; environmental contact may still spread the infection.
+
+When SCP-340 is exposed to air, it dries into a chitinous substance similar to crustacean shells. The water vapour trapped inside an SCP-340-sealed respiratory system is sufficient to prevent premature hardening. The hardening process also destroys its ability to [DATA EXPUNGED], and loss of function is irreversible after approximately two (2) minutes' exposure to air. Once fully hardened, SCP-340 is impossible to remove without inflicting major tissue damage. It is harder than any generally-known organic substance; a standard tungsten-carbide drill bit required more than fifteen (15) minutes of constant use to drill a hole through five (5) mm of dried SCP-340. Research is ongoing into methods for the in vitro culture and harvest of SCP-340 for use in industrial applications.
+
+Addendum 340-1 - Circumstances of retrieval: On 20██/██/██, twelve students at a boarding school in [REDACTED], United States, began to produce SCP-340 during a swimming competition. Nine died before a Foundation containment team could be dispatched to the site - five suffocated when attempts to clear airways of hardened SCP-340 failed, two suffocated after attempts to open alternate airways induced hardening of air-exposed SCP-340 in the trachea, and two died from dehydration. Upon arrival, the Foundation containment team quarantined the school until the infection's spread could be determined. Four additional cases were discovered who were not yet producing SCP-340; all seven were taken into Foundation custody. The team then distributed Class A amnesiacs and followed cover-up procedure Gimel-2 (the "tragic fire" scenario). For a brief summary of the seven SCP-340 carriers, now denoted SCP-340-1 through -7, see Document 340-1.
+
+Addendum 340-2: SCP-340 doesn't kill the hosts' oral bacteria, and the antibiotics can't stave off infection forever. Surgical removal of the hosts' teeth will be safer in the long run than trying to deal with abscesses, bone infection, and sepsis. Do we have a laparoscopic surgeon on staff?
+
+- Doctor Cairns
+
+Document 340-1 - Inventory, SCP-340-1 through -7:
+
+SCP-340-1: Caucasian male
+
+Age at retrieval: twelve
+
+SCP-340 production at retrieval: positive
+
+Notes: housed at Site-██
+
+SCP-340-2: African-American male
+
+Age at retrieval: twelve
+
+SCP-340 production at retrieval: positive
+
+Notes: deceased 20██/██/██, complications from surgical insertion of feeding tube
+
+SCP-340-3: Caucasian male
+
+Age at retrieval: eleven
+
+SCP-340 production at retrieval: positive
+
+Notes: housed at Site-██
+
+SCP-340-4: Hispanic male
+
+Age at retrieval: twelve
+
+SCP-340 production at retrieval: negative
+
+Notes: Underwent experimental treatment, 20██/██/██; treatment failed, SCP-340 production induced; housed at Site-██
+
+SCP-340-5: Caucasian male
+
+Age at retrieval: twenty-seven
+
+SCP-340 production at retrieval: negative
+
+Notes: Refused experimental treatment; voluntarily induced SCP-340 production, 20██/██/██; housed at Site-██
+
+SCP-340-6: Caucasian male
+
+Age at retrieval: twelve
+
+SCP-340 production at retrieval: negative
+
+Notes: Underwent experimental treatment, 20██/██/██; treatment failed, SCP-340 production induced; deceased 20██/██/██, voluntary self-termination
+
+SCP-340-7: Caucasian male
+
+Age at retrieval: thirteen
+
+SCP-340 production at retrieval: negative
+
+Notes: Underwent experimental treatment, 20██/██/██; treatment initially believed successful; deceased 20██/██/██, suffocation due to unexpected SCP-340 production

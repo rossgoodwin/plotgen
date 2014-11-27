@@ -1,0 +1,147 @@
+Item #: SCP-286
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: SCP-286 is to be kept in a secure containment cell at Site-19 that allows an open, secure perimeter of at least 50m radius around SCP-286. Only D-Class personnel are permitted to have direct physical contact with SCP-286, and only as part of an approved experiment.
+
+Update 07/19/20██: Experiments with SCP-286 are hereby suspended until further notice. (see: Technical Note TN-286-55) —O5-██
+
+Surveillance cameras are to be positioned to allow 360 degree monitoring of SCP-286 during experimentation. Recordings shall be maintained and cataloged of all Sigma states exhibited by SCP-286. The archive of these States is to be made available to any researchers with Level 2 clearance or higher.
+
+Update 03/11/20██: As of Incident I-286-5, surveillance of SCP-286 is to be continuous, and any initiation of a Sigma state is to immediately reported to Overwatch Command. Outside the immediate project directorate, the SCP-286 Sigma state archives and associated material are to be restricted to level 4 access. Under no circumstances are identified instances of SCP-286-1 or SCP-286-2 to be prevented from having contact with SCP-286. —O5-██
+
+SCP-286
+
+Description: SCP-286 is a carved stone game board, measuring 83cm on a side. It bears markings consistent with the Chinese game of Liubo (六博).1 Based on artifacts found with SCP-286 during recovery, SCP-286 has been dated to at least the Shang Dynasty2, though all attempts to date the carvings directly have been inconclusive. Analysis of SCP-286’s composition has shown high concentrations of iron and nickel, and crystalline microstructures consistent with [REDACTED].
+
+If any human being higher-order mammal touches SCP-286, it will initiate a Sigma state. A Sigma state is indicated by the appearance of 12 tokens on the surface of the game board. The tokens appear to be constructed of the same material as SCP-2863. Six tokens are “dark,” absorbing ~75% more ambient light than the board surface, while six tokens are “light,” emitting ~75% more ambient light than actually strikes them. Appearing with the tokens on the game surface are two eighteen-sided dice, apparently made of bronze.4 The dice share the anomalous reflective and absorption properties shown by the game tokens, one “light” and one “dark.” Otherwise the dice appear consistent with dice found with non-anomalous Liubo sets recovered from various Chinese archeological sites.
+
+A Sigma state will also manifest SCP-286-1 and SCP-286-2 to play a game. SCP-286-1 and SCP-286-2 are human beings higher-order mammals who have suffered temporary alterations in patterns of movement, cognition, behavior and vocalization. SCP-286-1 will appear agitated, movements will become jerky and imprecise, vocalizations will be quick, stuttering and aggressive. SCP-286-2 will appear sluggish, movements halting and slow, vocalizations will be low-pitched, throaty, and tend to be monosyllabic. Subjects capable of human speech will converse, but only to their opposite number during a Sigma event. Such conversations (or monologues in the case of a subject facing a non-human opponent) are conducted in a random sequence of human languages, sometimes shifting multiple times within a single statement. Only 45% of the recorded conversations between SCP-286-1 and SCP-286-2 have been successfully translated to date.
+
+The subject who initiated the Sigma state will become an instance of SCP-286-1 if they touched SCP-286 on an illuminated surface, or they will become an instance of SCP-286-2 if they touched SCP-286 on a surface that is in shadow.
+
+In either case, the subject will take a seated position to one side of the board5 and roll one of the two dice manifested by SCP-286.6
+
+After the die is rolled, some other human being higher-order mammal will appear within 47m of SCP-286 and become the subject’s opposition (SCP-286-2 in the case where the subject is SCP-286-1, or SCP-286-1 in the case where the subject is SCP-286-2). This selection appears related to the result of the first die roll.7
+
+After appearing, the subject's opposition will take a seated position facing the subject and will commence playing the first move. Game play then consists of SCP-286-1 and SCP-286-2 alternately rolling dice and moving pieces on the board in complex patterns. A game is won when the center square contains all of one side's tokens, and only that side's tokens.8 A winning move concludes a Sigma state.
+
+During a Sigma state, SCP-286-1 and SCP-286-2 will show no reaction to any external stimuli that does not physically interfere with SCP-286-1, SCP-286-2 and their interaction with the game. If something disrupts an ongoing game9 then either SCP-286-1 or SCP-286-2 will stand and vocalize a statement that most commonly translates as “forfeit,” less commonly as “draw.” This event will also conclude a Sigma state.
+
+When a Sigma state concludes, players cease being designated SCP-286-1 or SCP-286-2, and Game tokens, dice, and the subject's opposing player all vanish.10 All observed subjects, and those opposing players who have been identified and examined, have shown no physical aftereffects from interaction with SCP-286. However, all cases have shown a marked increase in spirituality and interest in religious subjects including, but not limited to, adoption of new belief systems, taking on of vows, speaking in tongues, and prophetic visions.11 For the winning player, this new spirituality will tend to take an optimistic, messianic character. For the losing player, attitudes will tend toward the apocalyptic.
+
+Addendum 1:
+
++ Technical Note TN-286-55
+
+- Technical Note TN-286-55
+
+Technical Note TN-286-55: SCP-286's Possible Relationship to Divination and/or Revelation
+
+Liubo divination diagram dating from the Han Dynasty (202 BCE–220 CE)
+
+Historically, Liubo was not only a game, but also used as a method of divination, the various spots on the game board corresponding to the sexagenary cycle used by Chinese to recount the passage of time since the earliest written texts. Given the propensity of subjects to have prophetic visions subsequent to their participation in a Sigma event, it has been theorized by several researchers that the moves during a Sigma event may themselves be of some prophetic significance.
+
+While the possible significance of individual moves during recorded Sigma events is ongoing and so far inconclusive, it has been determined that the act of winning does appear to correspond to significant events beyond the game itself. In particular, every instance of SCP-286-1 winning has been tied to intensification of sunspots, solar flares, and generally increased solar activity. SCP-286-2 winning has been associated with significant tectonic events, including [REDACTED]
+
+Because it is not known if these events were predicted by one side winning, or caused by one side winning, experimentation on SCP-286 has been suspended as an unacceptable risk.
+
+Addendum 2:
+
++ Document TR-286-27e
+
+- Document TR-286-27e
+
+Document TR-286-27e: Excerpted Translation of Dialog Between SCP-286-1 and SCP-286-2 During Sigma Event #27
+
+Foreword: D-Class test subject was a male Caucasian 44 years of age, identified as SCP-286-1 after initiation of a Sigma state. Opposition player, SCP-286-2, was an as-yet unidentified Hispanic female approximately 20 years of age. The Sigma state lasted for 68 minutes, at which time SCP-286-1 achieved the winning move. During the Sigma event, the players conversed in 25 known languages and approximately 15 unknown languages. ~30% of their dialog was undecipherable or in an indeterminate language, marking this episode the most completely translated yet recorded.
+
+<Begin Transcript, 13:00 ██/██/████>
+
+SCP-286-1: You (move| rotate) (slowly| imprecisely) as [UNTRANSLATABLE] (matter |earth |universe)
+
+SCP-286-2: (have| possess) patience (my| our) brother and (still| quiet| silence) [UNTRANSLATABLE] (mind| thoughts| brain)
+
+SCP-286-1: [UNTRANSLATABLE]
+
+SCP-286-2: [Laughs] (distress |discomfort |displeasure) [UNTRANSLATABLE] to you.
+
+SCP-286-1: Why would I [UNTRANSLATABLE] your (sins |perversions |abominations)
+
+SCP-286-2: [Laughs]
+
+SCP-286-1: You disgust me [UNTRANSLATABLE] (matter |earth |universe) disgusts me.
+
+SCP-286-2: You [UNTRANSLATABLE] in that meat skin. This amuses me.
+
+SCP-286-1: [UNTRANSLATABLE]
+
+SCP-286-2: (move |process |sequence)
+
+SCP-286-1: Every (time |moment |eternity) my [UNTRANSLATABLE] closer. I (must |will |shall) (illuminate |enlighten) this [UNTRANSLATABLE]
+
+SCP-286-2: [Sighs] (move |process |sequence)
+
+SCP-286-1: You are too (comfortable |undisturbed) (enslaved |bound |chained) within [UNTRANSLATABLE] meat (doll |puppet). Do you [UNTRANSLATABLE] (love |arousal) [UNTRANSLATABLE]
+
+SCP-286-2: (move |process |sequence) or forfeit
+
+SCP-286-1: [UNTRANSLATABLE]
+
+SCP-286-2: [UNTRANSLATABLE]
+
+SCP-286-1: [UNTRANSLATABLE]
+
+SCP-286-2: [UNTRANSLATABLE] (exiled |banished) me to (matter |earth |universe) [UNTRANSLATABLE] (know |understand) me more than you.
+
+SCP-286-1: [UNTRANSLATABLE] will (know |understand) me and be (consumed |engulfed |destroyed) by (knowledge |understanding)
+
+SCP-286-2: But, brother, I am so much closer.
+
+<End Transcript, 13:12 ██/██/████>
+
+Addendum 3:
+
++ Incident Report I-286-5
+
+- Incident Report I-286-5
+
+Incident Report I-286-5:
+
+SCPs involved: SCP-286, SCP-286-1, SCP-286-2, SCP-435-1
+
+Date: 03/11/20██
+
+Location: SCP-286's containment area, Site-19
+
+Description: At 05:31 UTC, standard security monitoring SCP-286's containment area detected the unauthorized presence of Dr. S███ S████, a Foundation researcher temporarily assigned to Site-19, most recently assigned to the study of SCP-435.12 All experimentation on SCP-286 had been suspended for the preceding eight months, and no activity with the object had been approved. A security team was dispatched, reaching Dr. S████ as she entered SCP-286’s containment area. Upon arrival, the security team discovered the presence of Dr. L██ W███, a researcher assigned to SCP-286, already seated behind the “dark” side of SCP-286. SCP-286 showed the signs of already being in a Sigma state. Both researchers showed behavioral anomalies consistent with SCP-286-1 and SCP-286-2. Believing an unauthorized experiment was underway, the security team restrained Dr. S████ before she could seat herself at SCP-286. In response, Dr. L██ stood and vocalized what has been identified as a Vulgate Latin words for “Grand forfeit.” The Sigma state concluded at 05:45 UTC. Neither researcher could provide any explanation of how they were affected by SCP-286. Dr. S████ last recollection was having a cup of coffee at a staff commissary on the other side of the Site-19 complex from SCP-286, while Dr. L██ reported that he had been reading e-mails in his office when he blacked out.
+
+Simultaneously with the cessation of SCP-286's Sigma state, there was a sudden emergency in [REDACTED] when SCP-435-1 unexpectedly entered an active state, moving erratically and [REDACTED] impacting the ocean basin at [REDACTED] causing an [REDACTED]. Contingency 435-XK-Alpha had been initiated, but was cancelled when SCP-435-1 came to rest three minutes later.
+
+Note: SCP-286 classification is hereby upgraded to Euclid — O5-█
+
+Footnotes
+
+1. According to current historical evidence, Liubo is known to have been popular with upper-class Chinese from at least the Warring States Period (476 BCE – 221 BCE) until it fell out of fashion some time during the Jin Dynasty (265-420).
+
+2. ca. 1500 BCE
+
+3. This is a hypothesis based on non-invasive sensors, it has so far been impossible to retrieve a token for direct physical examination
+
+4. As with the game tokens, direct physical examination of the dice has proved to be impossible
+
+5. Instances of SCP-286-1 will take a position on the side nearest the “light” game tokens. Instances of SCP-286-2 will take a position on the opposing side, nearest the “dark” game tokens.
+
+6. SCP-286-1 always uses the “light” die, SCP-286-2 always uses the “dark” die.
+
+7. The 18 possible die results from this opening roll can be represented by points on a matrix with two axes: one denoting geographic proximity and the other denoting of physical similarity to the subject. The most proximate roll (designated side 1) resulted in selecting another D-Class subject of the same race and gender from the site housing SCP-286. The least proximate roll (designated side 18) resulted in the selection of a opposite-gendered Phascolarctos cinereus from its native habitat in Northeastern Australia.
+
+8. The actual rules for the historical game of Liubo are unknown, and gameplay during Sigma events shows no clear correspondence with any hypothesized reconstructions of the original rules for Liubo. A mathematical analysis of recorded games by Dr. L██ W███ has proved that there can be no consistent N-dimensional rule-set covering all the recorded games for any value of N less than 5.
+
+9. Such as by touching SCP-286-1 or SCP-286-2, or by moving a die or game token.
+
+10. In all of the ██ cases where the opposing player “summoned” by the subject has been positively identified, it has been confirmed that at the conclusion of a Sigma state the opposing player reappears in the exact place they had been prior to being “summoned.”
+
+11. One “opposing” player was discovered to have founded a cult called “███ █████████ ██ ███ █████” in the southwestern United States within six months after exposure.
+
+12. Subsequent investigation has determined that the chemical composition and crystalline structures of SCP-286 and SCP-435 are identical.

@@ -1,0 +1,17 @@
+SCP-437
+
+Item #: SCP-437
+
+Object Class: Euclid
+
+Special Containment Procedures: The ax is to be kept locked in a custom made case whenever not in use. When being tested, there must be a minimum of three researchers participating. Researchers are advised against wielding SCP-437 themselves.
+
+Description: SCP-437 is an old steel woodcutter's ax, covered in rust. 437 was recovered from a small town in Australia during [DATA EXPUNGED]. The initials S.M. are carved in the handle.
+
+437 was discovered by Agent ██████ during pursuit of SCP-███. Agent ██████ appropriated the ax from an overgrown stump while tracking SCP-███ through ████████████, Australia. When attempting to use SCP-437 on SCP-███, the ax slipped in the agent's grip, struck the cliffside, rebounded, and cleaved through Agent ██████'s left leg at the hip, severing it completely. The resulting wound was not painful, and without blood loss. The severed limb displayed an almost instantaneous "weathering" process. Despite having signs similar to human extremities exposed to the elements for many months, the limb showed no rot or biotic growths.
+
+After the successful apprehension of SCP-███, SCP-437 was brought back to the Foundation. Investigation of 437 revealed it to be made of steel and wood, with nothing unusual in its makeup. Agent ██████'s wound was investigated, revealing a thin, transparent flesh-like substance covering the wound. Microscopic investigation of tissue biopsied from the wound site revealed the molecular structure of the sample to be of [REDACTED], which gives the "tissue" material properties that can be likened to human dermis.
+
+Repeated testing with SCP-437 has proven the ax to be extremely unreliable when used. Not only is the blade dull to the point of uselessness, approximately ninety percent of the time the blade is swung, it will rebound in an unexpected manner and strike the user. This has proven true even when mechanical means are used, the blade still seeks out the human behind it. Sensors placed on both human subjects and the mechanical apparatus show no abnormalities in their temperature or electrokinetics. While this does not rule out psychokinetic events centered around SCP-437, it is the opinion of this researcher that the object may be displaying probability alteration. Requests to the Probability Analysis Division of the Foundation have been submitted.
+
+In any case where the axe has struck human operators, it has always struck at the site of a joint of a limb. This action has, to date, severed the limb cleanly in one slice, leaving behind a sealed wound. The limb that is so severed immediately withers, as if exposed to rapid aging, allowing no chance for reattachment.

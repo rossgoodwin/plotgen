@@ -1,0 +1,49 @@
+Item #: SCP-1677
+
+Object Class: Euclid
+
+Special Containment Procedures: Instances of SCP-1677 are to be contained in Secure Documents Storage and digitally reproduced monthly to prevent degradation. During copying procedures, no personnel are to directly observe the printed surface of SCP-1677 instances.
+
+In the event of further instances of SCP-1677 being recovered, D-1677 Dr. ██████ is to be tasked with transcribing them for containment and study.
+
+In the event of containment breach, infected personnel are to be sedated by security staff. The use of sound dampening equipment is required, and care must be taken to avoid prolonged physical contact. Any personnel that experience persistant symptoms consistent with SCP-1677 infection are to report for medical examination immediately.
+
+Description: SCP-1677 is comprised of two (2) distinct varieties of memetic contagion, labeled SCP-1677-A and SCP-1677-B. Both take the form of handwritten documents describing music. Anyone reading the documents, provided they can understand standard musical format, will be infected with the corresponding SCP-1677 instance.
+
+SCP-1677-A takes the form of an unknown song with a metered length of one minute and thirty-two seconds (1:32). SCP-1677-A infection can be transmitted via any form of musical reproduction of its pattern, including a wide variety of instruments and vocal intonation. Any reproduction of SCP-1677-A derived from an infected source will maintain its anomalous properties, provided it retains at least 77% fidelity. This effect extends to digital recordings, and further recursive recordings that meet the fidelity requirements.
+
+The primary anomalous symptom of SCP-1677-A infection is the perception of the song described in its written form without discernible source. As the disease progresses, the perceived volume of the song increases. A corresponding increase in the activity levels of the portions of the brain responsible for processing auditory stimuli is also shown. In later stages of the disease the severity of the anomalous symptoms increase, leading to an inability to process external sounds, a loss of the ability to cogitate, a brief comatose state, and finally death as the brain fails from stress.
+
+SCP-1677-A infection can be treated by multiple means. The most effective is the administration of amnestics to the infected under sedation. However, this method is only effective prior to the latter-stage comatose state induced by the disease. Other methods include overriding the pattern stored in the brain via external stimuli of sufficient volume and duration1. Once the perceived volume of the anomalous sound reaches a certain magnitude, this method becomes ineffective due to the inability of the inner ear to process external sounds of sufficient volume and duration before failing. Finally, direct electrical stimulation of the affected portions of the brain can disrupt the pattern; however, the necessary duration for efficacy of this treatment is usually very harmful.
+
+See attached documentation for SCP-1677-A recovery report.
+
+SCP-1677-B takes on the form of the song ████████████ by █████, though no other recorded instance of the song displays its anomalous properties, nor does the artist show any connection to SCP-1677-A. Like SCP-1677-A, SCP-1677-B can be transmitted sonically and follows a similar progression, though at an accelerated rate.
+
+SCP-1677-B is of special note due to the fact that, unlike its predecessor SCP-1677-A, it can be transmitted via physical contact. This greatly increases the risk of exposure. The mechanism by which this is accomplished has yet to be determined. SCP-1677-B transmits via physical contact by transferring its pattern through the irregular heartbeat of the infected host. This also explains the increased rate at which death occurs in the victims as compared to SCP-1677-A. Prolonged contact with the infected is to be avoided. Due to the more significant duration and faster development of SCP-1677-B, early treatment of the infected with amnestics is a priority.
+
+See attached documentation for SCP-1677-B recovery report.
+
++ Recovery Report SCP-1677-A
+
+- Recovery Report SCP-1677-A
+
+Recovery Report SCP-1677-A: Foundation personnel stationed at the CDC responded to the reports of a sudden mass outbreak at ████████████████ High School in ████████████████, ██ on ██/██/19██. Investigation into the incident revealed the source of the infection to be a school-wide announcement on the part of ██████ ██████████, a student. All in attendance were infected by SCP-1677-A. Upon interview ██████████ stated that he had heard SCP-1677-A from an embedded sound file at █████████████.com. Further investigation has revealed no trace of the initial vector. With the exception of Dr. ██████, a music teacher in attendance, all infected with SCP-1677-A were administered amnestics and reports of the outbreak were buried. Dr. ██████, now labeled D-1677, was taken into custody in order to transcribe SCP-1677-A for further study.
+
++ Recovery Report SCP-1677-B
+
+- Recovery Report SCP-1677-B
+
+Recovery Report SCP-1677-B: Foundation personnel stationed at the CDC responded to reports of an outbreak matching SCP-1677’s description at █████████████████ Hospital in █████████████, ██ on ██/██/20██. A task force disguised as a CDC quarantine team was dispatched to recover it. Only one member of the quarantine force was infected by SCP-1677-B, resulting from the as-then-unknown physical vector. The infected member was sedated and administered amnestics as per SCP-1677 containment protocols at the time, and later made a full recovery. Due to the accelerated progression of the disease, seven (7) civilians succumbed to the infection prior to containment. The remainder were treated with amenstics and a cover story was created to explain the outbreak.
+
+Investigation traced the infection to patient ███████ ████████. A search of his apartment revealed two previous victims of SCP-1677-B. The inhabitants appeared to be in the midst of resettling, and no networked devices were found. The original source vector for SCP-1677-B remains unknown.
+
+Addendum 1677-01: As per Ethics Committee recommendation, requests by D-1677 (henceforth referred to as Dr. ██████) for official employment at the Foundation have been granted. Dr. ██████ has been assigned to Site ██'s Anartistry Suppression Department.2
+
+Addendum 1677-02: As a result of Dr. ██████'s research, a screening program has been developed to filter out possible SCP-1677 iterations from incoming media files. The program is being implemented on all Foundation devices capable of connecting to outside networks.
+
+Footnotes
+
+1. Must exceed the perceived volume and duration of the effect.
+
+2. Dr. ██████ has a doctorate in Art History

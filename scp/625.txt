@@ -1,0 +1,39 @@
+Item #: SCP-625
+
+Object Class: Euclid-flecto
+
+Special Containment Procedures: All specimens of SCP-625 are to be contained within a 5m x 5m x 7m room constructed of reinforced concrete at Site 19, Wing 8. The door to this room is located approximately five meters from the floor and opens to a balcony with a railing. Use of the installed platform elevator system is required to access SCP-625 specimens. The following features are also present in SCP-625's cell:
+
+Five high-powered ceiling-mounted flood lamps. These are to remain off except when personnel are present in the containment chamber, in which case they will remain active until all personnel have exited the cell.
+
+Four ceiling-mounted security cameras. The feed from these cameras is monitored for unusual activity by personnel at Security Station A85.
+
+One device designed to emit randomized ultrasonic noise when active. This is to be activated only during security breaches or if a security breach is deemed imminent. Identical devices are installed in the remainder of Wing 8 for the same purpose.
+
+Seventeen specimens of SCP-625 are currently in containment; more are believed to exist in the wild. Police reports suggesting SCP-625 presence must be investigated.
+
+Routine maintenance and feeding of SCP-625 and its cell is to be performed daily by Level 1 personnel in accordance with Procedure 625-M once daily. Livestock has been deemed the safest and most cost-effective food for SCP-625.
+
+Update February 25, 1995: SCP-625 may not be exposed to other rodents under any circumstances. Further testing on SCP-625 requires authorization from Dr. MacGregor (4-625/1515/3123). Further, any specimen of SCP-625 that has consumed human flesh on more than one occasion must be terminated. The body may be disposed of in Site 19's incinerator.
+
+Description: Instances of SCP-625 are nocturnal organisms composed primarily of distinct sections from no less than seven different species of Rodentia. They range between 20 and 30 cm in length and, when unfed, weigh between 2.0 and 2.5 kg. When left alone, SCP-625 specimens do not exhibit unusual behavior. They engage in attempts at reproduction, but appear to be infertile. It is unclear whether this is an effect of being kept in captivity or whether specimens of SCP-625 in the wild are also infertile. [DATA EXPUNGED]. SCP-625 specimens are omnivorous, and have metabolic requirements comparable to those of other rodents their size. Specimens do not necessarily have a body plan conforming to that of non-anomalous rodents — instances have been located that do not possess bilateral symmetry, as have instances that possess an abnormal number/arrangement of limbs.
+
+All instances have extremely sensitive eyes and ears and have two claws between 12 and 16 cm in length on each foreleg. SCP-625 specimens are capable of using these claws for rudimentary manipulation. SCP-625 has been observed licking its claws frequently; analysis of SCP-625's saliva has revealed the presence of a powerful local anesthetic, which is produced by a specialized gland located in each specimen's body.1 SCP-625 specimens will sharpen their claws whenever possible, resulting in an edge that is capable of cutting through flesh and most clothing materials.
+
+Each instance of SCP-625 appears to have a unique composition, with tissue from any individual species comprising no more than 30% of the specimen's total mass. Separate sections are joined together seamlessly on a cellular level (although there is no mixing). Despite being composed of biologically incompatible tissues, no allergic reactions or other health issues have been noted. SCP-625 is capable of surviving the majority of its bones being crushed and the removal of significant quantities of flesh without significant impairment for up to forty-five minutes; the reason for this is unclear.
+
+Specimens of SCP-625 may be subdued by bright lights (>400 lumens) or ultrasonic noise; when exposed to these stimuli, specimens will enter a dormant state in which they do not react to external stimuli. This state will last for approximately eighty seconds after the removal of the offending stimulus.
+
+When not in a subdued state, instances of SCP-625 are hostile to humans. When aware of the presence of a human, SCP-625 will exhibit increased speed and strength,2 and will cause less noise than normal. SCP-625 will attempt to approach any human subject without the subject noticing. If it goes unnoticed, SCP-625 will use its claws to remove a radial slab approximately 3 cm in height from each ankle of the subject, attempting to leave the bone intact. Due to the anesthetic produced by SCP-625, the subject will not experience pain. It is possible for subjects to suffer from severe blood loss before becoming aware of their condition. Instances of SCP-625 will compete with each other for access to human ankles, if necessary.
+
+Upon obtaining these slabs of flesh, the specimen will attempt to retreat to a nearby dark, secluded place, where it will consume the meat. SCP-625 does not appear to use human flesh for nutritional purposes; rather, [DATA EXPUNGED]. Behavior alterations will not become obvious until the fourth time SCP-625 engages in this behavior.
+
+Addendum: All wild specimens of SCP-625 have been recovered from ██████████████, Scotland. Due to the sparse population of this area, geographic analysis of recovery locations of SCP-625 was able to suggest a connection with a cabin owned by one Peter Murray, a local recluse. Interviews with those familiar with Peter Murray provided little information of interest, other than that the subject complained of frequent migraine headaches and may have suffered from disorganized schizophrenia.
+
+The subject was found dead in his cabin approximately twenty days after the first report of SCP-625 behavior; analysis suggests that he was dead for approximately one week before the aforementioned report. Cause of death was blood loss during an apparent attempt by the subject to amputate his legs below the knee with a saw. A journal kept by the subject was generally incomprehensible, but suggested that he feared the animals that he had taxidermized. No evidence suggests that Peter Murray ever owned any taxidermied animals.
+
+Footnotes
+
+1. Attempts to synthesize or analyze this anesthetic have failed; see Document A-625-30 for further information.
+
+2. Speeds in excess of 35kph and the ability to exert forces of 400N. Due to unusual muscle structure, SCP-625 is only capable of jumping approximately two meters vertically in this state, necessitating a relatively tall containment chamber.

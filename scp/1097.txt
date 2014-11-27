@@ -1,0 +1,63 @@
+SCP-1097 in containment
+
+Item #: SCP-1097
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1097 is to be fully enclosed within a reinforced, pressurized stainless steel container at all times. SCP-1097 is to be kept at a minimum of 2200 kPa.
+
+SCP-1097 is to be contained in a Type D concrete bunker, modified to include retractable seals on air vents capable of withstanding prolonged exposure to liquids with a pH level between 11.3 and 13.5. In the event of a containment breach, this bunker is to be completely sealed until further notice by the Security Director.
+
+SCP-1097 is to be contained at Site-17. The containment bunker is to be located at least 50 meters away from all other staff workspaces and SCP-designated objects. Samples of SCP-1097 are to be extracted via remote-controlled robotic equipment, and all maintenance of containment equipment is to be performed by approved laboratory robotics. No staff or test subjects are allowed to be within 10 m of SCP-1097 unless permission is granted by the Research Director.
+
+A total volume of SCP-1097 exceeding 2.5 L may not be removed from containment at any given time without authorization from the Research Director.
+
+Description: SCP-1097 is 72.3 L of a dark brown, viscous fluid composed of a mixture of water, sodium hydroxide, and liquefied human remains. In an automated, laboratory environment, SCP-1097 exhibits physical characteristics consistent with fluids composed of a similar mixture of materials.
+
+When a human approaches within approximately 5 m of any portion of SCP-1097 greater than 2.8 L, its anomalous properties manifest. SCP-1097 will first alter its shape to mimic the physical form of that person. SCP-1097 achieves this by manipulating its density so as to achieve a semi-solid state; SCP-1097 can also completely solidify portions of itself for a limited duration, to a maximum observed hardness of 152 HV30. During this process, SCP-1097 maintains its dark brown, viscous appearance, albeit in a shape analogous to the subject. The appearance of SCP-1097 in motion is similar to that of a ferromagnetic fluid being manipulated by an electromagnetic field.
+
+Sample of SCP-1097
+
+In addition to simulating a subject's physical form, SCP-1097 will also imitate a subject's mental characteristics and behavioral traits to the best of its ability. While SCP-1097's ability to communicate is limited, it will display physical mannerisms and attitudes similar to those previously observed in the subject. Tests using EEG monitors have shown that SCP-1097 will exhibit brain activity in the exact same manner as its subject. Current research suggests that SCP-1097 does not possess any true sapience of its own; any actions or characteristics appearing as independent thought are merely a complex reaction catalyzed by the proximity of a sapient being.
+
+When more than one person enters SCP-1097's area of effect, its appearance and reactions become far more unpredictable. In a multiple-subject scenario, SCP-1097 has been documented to assume an array of physical aspects, in some cases deviating radically from the humanoid form. SCP-1097 will also demonstrate substantial variance in behavioral patterns; SCP-1097 has been documented on some of these occasions to be hostile and extremely aggressive. When agitated, SCP-1097 will use its ability to harden itself, as well as its innate caustic properties, to attack and seriously injure staff.
+
+Experiment Log-1097:
+
+The following is a list of notable experiments involving SCP-1097:
+
+Experiment
+
+Description
+
+Result
+
+1097-2
+
+D-48230, a 47-year old male with a history of good behavior while incarcerated, introduced alone into SCP-1097's area of effect.
+
+SCP-1097 assumes a physical form resembling that of D-48230. Answers questions from researchers cooperatively with simple "yes" and "no" gestures, and displays knowledge of subjects, both general and personal, that D-48230 is familiar with.
+
+1097-5
+
+D-23142, a 21-year old female with documented sociopathic behavioral tendencies, introduced alone into SCP-1097's area of effect.
+
+In a manner similar to Experiment 1097-2, SCP-1097 exhibits physical traits, mannerisms, and knowledge of D-23142. Upon Researcher Upton's disengagement of the security doors leading into the testing chamber, D-23142 feigns sudden illness. When medical personnel respond, SCP-1097 attacks nearby security staff, causing a brief containment breach. Containment re-established with 2 fatalities and 4 personnel injured. D-23142 summarily terminated.
+
+1097-9
+
+D-29003, a 37-year old male convicted of multiple murders, and D-31057, a 28-year old male documented as a serial rapist, introduced into SCP-1097's area of effect.
+
+SCP-1097 manifests as a 1.8 m tall male of average build and musculature. SCP-1097's facial features resemble an amalgamation of D-31057 and D-29003, including such features as D-29003's surgically repaired cleft lip and an 8 cm scar over D-31057's right eyebrow. For the duration of the test, SCP-1097 huddles in the corner of the testing chamber, refusing to interact with researchers.
+
+1097-11
+
+D-10772, a 27-year old female, and D-58271, a 42-year old male, both with histories of non-violent crimes, introduced simultaneously into SCP-1097's area of effect. D-10772 is fluent in American Sign Language, and instructed to attempt to communicate with SCP-1097.
+
+SCP-1097 arranges its mass to resemble ██████ ████, an individual that D-58271 claims was his 10th grade English teacher. SCP-1097, like D-10772, demonstrates ASL fluency, and is able to communicate with test subjects and researchers. SCP-1097 challenges D-10772 to a game of chess; after three hours of compliance with researchers' inquiries, SCP-1097 is granted its request in exchange for its cooperation, and a chess set and board is introduced into the testing chamber via robotic drone. SCP-1097 defeats D-10772 in eight moves.
+
+1097-13
+
+D-95523, D-04189, D-09923, and D-60354, all males between the ages of 19 and 54 and selected for their records of compliance and good behavior, introduced simultaneously into SCP-1097's area of effect.
+
+SCP-1097 changes its shape into a 3.4 m tall, vaguely humanoid construct, exhibiting an additional arm protruding from the spinal region with what appears to be a simulacrum of D-04189's face in the place of a hand. SCP-1097 quickly moves to embrace D-95523 with four of its limbs, causing acute chemical burns over most of D-95523's body. After approximately 2 minutes, D-95523 loses consciousness. SCP-1097 decreases in height by 1.2 m, and assumes the appearance of a normal human male. SCP-1097 is docile and cooperative for the duration of the experiment. D-95523 dies of his injuries three days later.

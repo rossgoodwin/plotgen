@@ -1,0 +1,27 @@
+SCP-289 at rest, just before standard monthly relocation
+
+Item #: SCP-289
+
+Object Class: Safe
+
+Special Containment Procedures: Currently located at Site-17 under the supervision of Dr. ███ ███████, SCP-289 is to be suspended on a 10 cm x 10 cm platform in the exact center of a 5 m x 5 m x 5 m concrete room. It is to be monitored at all times by no fewer than two mounted cameras whose video feeds will be recorded and archived if deemed necessary upon review. Every thirty (30) days, SCP-289 is to be moved to an identical housing facility on the other side of Site-17 to avoid unnecessary inertial buildup. No personnel are allowed to approach closer than a 1.6 m radius of SCP-289 unless they have prior authorization from two Level 3 supervisors attached to this project. Additionally, any personnel interacting with SCP-289 are to have read all authorized documents relating to SCP-289 and to have a thorough understanding of its capabilities and the time limits involved.
+
+Description: SCP-289 is an irregularly shaped mass of hematite (Fe2O3), with analysis showing trace amounts of aluminum, phosphorous, [DATA EXPUNGED], and water. SCP-289 has the unique property of intensifying the effects of inertia over objects in a 1.6 m radius over time. Objects that remain immobile will become more and more difficult to move, while objects maintaining a constant speed will become very difficult to stop. At best estimate, close proximity to SCP-289 increases an object’s inertia by 17% every 160 seconds, with a slightly slower reduction of inertia over time to base levels after being removed from SCP-289’s active radius.
+
+SCP-289 was retrieved in 1983 after a series of odd traffic accidents in Edmonton, Alberta, Canada. On █/██/1983 a small car sped uncontrollably through the city for 17 minutes until it finally impacted with the side of a butcher’s shop and was stopped. All objects located inside the vehicle either exited through the front windshield or were forcibly pressed as far towards the front of the car as they could go. The driver, who remains unidentified, was announced dead at the scene and eventually loaded into an ambulance with some difficulty.
+
+On the way to the hospital the ambulance shared a similar fate as the previous car, with the driver reporting sluggish turning and braking at first, followed by an inability to turn or stop at all and an intense feeling of being drawn forwards. The ambulance came to a stop after plunging into the North Saskatchewan River. The driver managed to escape from the vehicle and found himself propelled across the river and into the surrounding woods at an estimated 30 km/h where he remained pinned to a tree for nearly 45 minutes before his inertia stabilized and he fell to the ground. SCP agents arrived within the week to retrieve the ambulance’s contents and were able to identify SCP-289 as the source of the disturbances. SCP-289 was eventually airlifted to Site-17 by being attached to the end of a long tether held below a helicopter to avoid any inertial buildup on the part of the vehicle.
+
+Addendum: Those with proper authorization to research the properties of or interact with SCP-289 should see document #289-01 for full safety procedures.
+
+Document #289-01: Testing Safety Procedures
+
+The radius of SCP-289’s action is precisely 1.6 m. There is never to be more than one person inside this radius at any time.
+
+Human interaction with SCP-289 is not necessarily dangerous, but stringent time restraints are in order. No Foundation personnel are to be inside the active radius for more than 90 seconds. During this time of exposure, personnel are advised to alter their speed, acceleration, and position as often as possible to avoid inertial buildup.
+
+Objects to be subjected to SCP-289’s active field should ideally be introduced to the field by automated means. Long handheld manipulating devices are also acceptable, and for particularly delicate objects or precise adjustments human interaction is allowed, so long as time restraints are not violated.
+
+Retrieval of stationary objects that remain inside SCP-289’s active field for more than 800 seconds is nearly impossible. Objects that maintain a constant speed inside the active field for a similar time are nearly impossible to slow or stop. Thus all experiments should conclude before this threshold time is reached. In the event that an object becomes irretrievable, researchers may petition Dr. ███ ███████ to have the object returned after SCP-289 is moved to its new enclosure during monthly transfer protocol and the requested object’s inertia has returned to standard levels.
+
+Transfer of SCP-289 from holding area Alpha to holding area Beta or back is to be performed every thirty (30) days. During this procedure, hallway 121 is to be completely evacuated and all adjoining doors are to be locked at security Level 3. SCP-289 is to be removed from its suspended platform and placed inside of one of the rubber spheres located in the adjoining storage area. The sphere is to be rolled down the hallway towards the opposite holding area at a speed of no greater than 0.5 km/h, which should remain steady for the duration of the relocation. Once the sphere comes to a stop, SCP-289 is to be removed and placed on the new suspended platform.

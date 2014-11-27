@@ -1,0 +1,43 @@
+The algorithm server room at Site-59.
+
+Item #: SCP-1769
+
+Object Class: Keter
+
+Special Containment Procedures: Due to the nature of SCP-1769, full containment is not possible at this time. As such, Foundation efforts are to be focused at neutralizing individual outbreaks as they occur. Containment procedures for SCP-1769 and SCP-1769-A are to be carried out at separate sites. Site-59 is to house personnel and equipment for detecting and neutralizing SCP-1769. Site-56 is to be kept at an undisclosed location, and will house infected subjects of SCP-1769-A.
+
+A continuous search algorithm targeting the script responsible for the phenomenon has been implemented to detect outbreaks, and personnel are required to directly monitor the most commonly-accessed vulnerable (see below) websites to minimize the rate of infection. Any website that is infected with SCP-1769 will have its host servers seized by Foundation personnel, then the lines of text responsible will be copied (in case of variation1) and deleted. All variations of the text are to be kept in a single text file on a flash-drive at Site-59. Access to the file is limited to personnel involved in containment and is only permitted for the addition of new variations or updating the search algorithm.
+
+Any instances of SCP-1769-A are to be quarantined at Site-56. The site has been modified to operate without internet connection, and is reliant on telegraphy to communicate with other sites. Each individual subject is to be kept in a modified humanoid containment cell equipped with a Faraday Cage. A secondary layer Faraday Cage is to be maintained around the containment sector, and a tertiary layer is to be maintained around the entire site. Under no circumstances are any computers, phones, or other devices capable of internet connection to be allowed on site. The walls around each cell and the containment sector are to be sound-proofed, and at no time are personnel to enter the sector without ear protection. Lethal force is not to be used against subjects. Site-56 is to immediately notify Site-59 when an infected individual dies.
+
+Description: SCP-1769 is a 14-line section of non-functional script capable of infecting websites with both free account-holding capability and free communication between users. This occurs by the apparent self-introduction of the text into the website's page source, though the exact mechanism of this process is unknown. Any person with an active account that is currently logged in is considered to be exposed to the phenomenon. After accumulating approximately 225 minutes of total exposure, subjects will become infected. The human version of the infection is hereafter referred to as SCP-1769-A.
+
+The lines of script themselves consist of a 14-line English Sonnet titled [REDACTED], the nature of which is unclear, but has been linked to the vocalizations in the later stages of SCP-1769-A. The text itself exhibits no anomalous properties until they are introduced into the page source of a website that meets the aforementioned criteria. This can also occur through [DATA EXPUNGED], making it a priority that access to the containment file remain strictly controlled.
+
+SCP-1769-A infection will progress through five stages.
+
+Stage I: Subject will begin to retract from all forms of communication that are not internet-based (these include instant-messaging, commenting, video-communication). When inquired about this, they will respond as though this is normal, and describe other forms of communication as feeling "strange" or "disconnected"2.
+
+Stage II: Subject will refuse all forms of communication that are not internet-based3, and respond with hostility toward efforts to force them to communicate otherwise. Subjects will continue to "vocalize" at this stage, but this is not considered to be communication because it does not appear to be directed at anyone or anything in particular. These vocalizations are always in English (even if the subject is not familiar with the language) and tend to occur in iambic pentameter, often describing an entity called "The Beloved" that the subject interacts with online. These vocalizations will occur regardless of whether the subject has internet access.
+
+Stage III: Symptoms of Stage II persist. However, the subject will begin to emit radio waves4 consistent with a WLAN signal; this allows them to access the internet without technological medium, and can also be used to communicate with other infected individuals. References to "The Beloved" increase in frequency and subjects will demonstrate a slavish reverence for the object, often describing their willingness to do anything for it.
+
+Stage IV: Symptoms of Stage II and III persist. In addition, the vocalizations of subjects become anomalous in nature; any individual exposed to said vocalizations will become infected (bypassing the exposure phase). The specific nature of vocalizations at this stage is unknown due to these properties.
+
+Stage V: Subject will lapse into a coma, but continue to vocalize and emit radio waves. If a subject at this stage is allowed to access the internet, any communication elicited in this fashion will be in English, use iambic pentameter, and display the same anomalous properties as the vocalizations. Individuals that observe messages or comments left by Stage V subjects online will become infected.
+
+The infection is not lethal, but the coma has so far proved irreversible. If an individual infected with SCP-1769-A dies, there is a ██% chance that a new variation of the anomalous text will emerge.
+
+Addendum [1769-001]: Incident Report 1769-C3
+
+On ██/██/20██ at 7:35 AM, the Foundation server at Site-117 was infected by SCP-1769. 5 instances of SCP-1769-A were produced by the event, and subsequently incarcerated at Site-56. This marked the first infection of a Foundation network by the phenomenon, and disproves the original hypothesis that the anomaly only affects public websites. To prevent recurrence, it has been mandated by O5 that all personnel be issued a single fee equal to 1 EUR for access to the Foundation's network. No further infections on Foundation servers have been reported, though personnel are to remain vigilant for the symptoms of SCP-1769-A. The possibility of a stage V individual contaminating the Foundation's network is an unacceptable risk.
+
+Footnotes
+
+1. Thus far all variations have demonstrated some similar characteristics, allowing for them to be detected by a generalized algorithm. However, a generalized search takes considerably longer than the specific versions used to find established variations.
+
+2. The majority of subjects use these exact same words.
+
+3. Online communication of subjects in stages II, III, and IV thus far show no psychological anomalies, other than their aversion to alternate communication.
+
+4. MRI and autopsy have confirmed the presence of a neural gland unique to infected individuals. The gland appears to develop during infection and is believed to be responsible for the radio waves. Non-lethal removal of the gland has so far proved impossible because it is fused to the hypothalamus.

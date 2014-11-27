@@ -1,0 +1,75 @@
+A section of SCP-522
+
+Item #: SCP-522
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-522 should be kept in an airtight room, with adequate light sources. Hazmat suits are strongly advised, as anyone leaving the room must go through a thorough decontamination process to prevent the potential spread of SCP-522.
+
+Once every two weeks, one pig (or animal of equivalent body mass) is to be placed at the center of SCP-522.
+
+Except for purposes of experimentation, at no point should any person stand on SCP-522 while alone inside the enclosure. For this reason, all personnel entering SCP-522’s containment room should be accompanied by another person.
+
+Description: SCP-522 appears to be a square swatch of red carpet, approximately 3.5meters on each side. However, when a human being stands atop it, SCP-522 wraps itself around the victim with surprising speed. Once the victim has been completely enfolded, thousands of hair-like protrusions extend from the surface of the carpet and dig into the victim’s skin, quickly draining them of blood over the next █ minutes. After draining the victim’s blood SCP-522 unwraps and attempts to return to its original position, leaving the blanched victim in a heap at its center.
+
+Further investigation into the structure of SCP-522 indicates that it is a normal, red carpet that has been infested by a previously unknown form of fungus or slime-mold. This raises the possibility that there may be other ‘copies’ of SCP-522 in the wild, and necessitates the decontamination procedures to prevent any accidental spreading of spores on-site.
+
+Furthermore, the red coloring of the carpet is simply just that: the color of the carpet, having nothing to do with the organism or the task it performs. Theoretically, SCP-522 could live in a carpet of any color, undetected to the naked eye.
+
+Of additional note, SCP-522 appears to possess a rudimentary amount of intelligence: if another individual is present within the room, it will not ‘attack’, unless it is in a position to overwhelm both people at once. Current observations show that it is also patient. How long it can go without feeding is currently unknown. (See Experimental Log for more details)
+
+SCP-522 was discovered during a murder investigation in the town of ███████,██, when one of the investigating officers fell prey to its effects. The mysterious coincidence of two people being utterly drained of blood within the same building prompted the Foundation to investigate, at which point SCP-522 was discovered.
+
+The Foundation is currently assessing the viability of using SCP-522 as a covert assassination tool. Research into ‘breeding’ additional copies of SCP-522 pending approval.
+
+Experimental log
+
+Experiment 1: One (1) D-class personnel, placed on the center of SCP-522.
+
+Results: Once security left the room, the SCP-522 immediately wrapped up and around the subject. Subject could be seen thrashing through the underside of the carpet. Total exsanguination occurred after █ minutes, at which point the carpet released the drained victim and returned to its original state.
+
+Experiment 2: Two (2) D-class Personnel, both placed at the center of SCP-522:
+
+Results: SCP-522 engulfed both subjects. Total exsanguination occurred after █ minutes
+
+Experiment 3: Two (2) D-class Personnel, one placed at the center of the SCP-522, the other placed at the exterior edge.
+
+Results: Even after security left the room, SCP-522 remained in its dormant state. Experiment terminated after 6 hours of no activity.
+
+Experiment 4: Two (2) D-class Personnel, one placed at the center of the SCP-522, the other placed off SCP-522 entirely
+
+Results: Even after security left the room, SCP-522 remained dormant. Experiment terminated as per previous.
+
+Experiment 5: One (1) D-class Personnel, placed at the center of SCP-522. SCP-522 fastened to floor with carpet staples
+
+Results: SCP-522 rips upwards with surprising force, pulling carpet staples from floor. Total exsanguinating occurred in same time span as Experiment 1. Carpet attempted return to dormant state, but staples remained free.
+
+Experiment 6: One (1) D-class Personnel, placed at the center of SCP-522. A heavy desk was placed at the exterior edge.
+
+Results: SCP-522 pulled itself out from under the desk and engulfed the subject. After draining subject of all blood, it managed to wedge itself back into its original position, slipping beneath the desk.
+
+Experiment 7: One (1) rat, placed at the center of SCP-522.
+
+Results: SCP-522 engulfed the rat, total exsanguination occurred in █ seconds.
+
+Note from Dr. ███████:
+
+You mean we could have been using animals all along? Damnit. Disposing of the remains would have been much easier if I’d known that earlier!
+
+Experiment 8: Two (2) rats, one placed at the center of SCP-522, the other placed at the opposite side of the enclosure, acting as an ‘observer’.
+
+Results: SCP-522 engulfed the rat placed upon it, despite the presence of the ‘observer’ rat.
+
+Note from Dr. ███████: Curious. The only difference between Experiment 4 and Experiment 8 are the species of the subjects in question, yet we see two totally different results! This bears further investigation.
+
+Experiment 9: One (1) rat, placed at the center of the SCP-522. One (1) D-class personnel placed off to the side, acting as an ‘observer’.
+
+Results: SCP-522 remains inert.
+
+Experiment 10: One (1) D-class personnel, placed at the center of SCP-522. One (1) rat, placed off to the side as an ‘observer’.
+
+Results: Total exsanguination occurred in █ minutes, █ seconds. It seems to be getting faster.
+
+Note from Dr. ███████: It appears SCP-522 is able to determine whether or not a ‘person’ is in the immediate vicinity. How it makes the determination as to when it is ‘safe’ to act has yet to be determined, but it does not seem to ‘realize’ that we’re observing it with the cameras.
+
+END EXPERIMENTAL LOG

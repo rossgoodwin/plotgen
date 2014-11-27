@@ -1,0 +1,39 @@
+Item #: SCP-440
+
+Object Class: Euclid
+
+Special Containment Procedures: As of 6/19/████, the majority of SCP-440 in existence is located in Site-██'s Large-Scale Wilderness Observation Dome (LSWOD). Standard LSWOD security protocols apply, and all observers and items placed inside the Dome are to be completely sanitized of SCP-440. The bottle in which SCP-440 was first discovered (hereafter referred to as SCP-440-Prime), is currently located in a security cabinet on Site-██.
+
+Description: SCP-440 is a sample of fine-grain sand (sand grain of approximately 90 micrometers) that is chemically identical to typical silica-based sand. Its only difference is that it functions as if it were in a microgravity environment, regardless of the gravitational forces acting upon it. SCP-440 was found in a small glass bottle with no label on it, filled with a viscous fluid that, presumably, weighs down SCP-440 and prevents the grains from touching.
+
+SCP-440 is capable of giving this property to other samples of sand, essentially transforming it into SCP-440 itself1. The process governing this conversion is believed to be based on contact, requiring SCP-440 to be introduced into a sample of unconverted sand via compressed air. The rate of conversion from basic sand to SCP-440 is also unknown, but it is understood that approximately 30% (by mass) of 'seed sand' does not convert.
+
+When SCP-440 reaches specific levels of concentration within an environment, an SCP-440 based ecosystem forms. Because all SCP-440-based objects (environmental and sapient) are in constant gravitational freefall, there is less evolutionary pressure on gravity-defying traits.
+
+Experiment Log
+
+03/10/████: In Examination Booth #6642, 2 g of SCP-440 injected into 4 L of fine-grain sand via air-powered hose.
+
+03/18/████: Sand-to-SCP-440 conversion ceases; approximately 1.2 L of sand remains unconverted. Small (0.5 to 1 cm) nodules of SCP-440 appear, floating aimlessly in the enclosure.
+
+4/31/████: Request to expand experiment approved by O5-█ to Examination Room #6135. 12 L of fine-grain sand added to the room.
+
+5/10/████: 3 L of fine-grain sand remains unconverted. Larger rocks (average size: 10 cm) float through the enclosure. First discovery of SCP-440-based life occur, hereafter referred to as SCP-440-1. SCP-440-1 (colloquially called "dustbugs") are 6 cm entities somewhat resembling brine shrimp. Specimens of SCP-440-1 spend their lives using their rough 'teeth' to shear off sections of rocks for consumption. Study of SCP-440-1 specimens reveal they are composed entirely of undifferentiated SCP-440. Experiment transfer to Animal Enclosure #42 approved, and enclosure is re-seeded with ██ L of fine-grain sand.
+
+6/7/████: Floating rocks (average size: 41 cm) compose the majority of the enclosure. SCP-440-1 population increases dramatically, kept in check by a new entity type, hereafter SCP-440-2. SCP-440-2s are 75 cm long entities resembling rocky cephalopods, using their tentacles to push themselves off the environment to move. They are dubbed "Rocktopods" by staff. After much deliberation, O5-█ ordered Animal Enclosure #42 shipped to Site-██ for expansion purposes, owing to that Site's unused Large-Scale Wilderness Observation Dome. As with the previous transfer, approximately [DATA EXPUNGED] of fine-grain sand was placed in the Dome.
+
+9/19/████: Rocks in environment have an average size of 6 m. Populations of SCP-440-1 and -2 have grown as projected. Over the past week, four instances of a new apex predator, SCP-440-3 ("Sandsnakes") are documented. SCP-440-3s are 1.5 m long entities with a snake-like body and a mouth shaped like a conventional rock crusher. Two SCP-440-3s are killed before reaching full maturity (one from another SCP-440-3, another from attacking a group of SCP-440-2s). The survivors establish a territorial system within the LSWOD. It is assumed that SCP-440-3 specimens are composed of SCP-440, but capturing an SCP-440-3 sample has proven difficult, owing to hostility by SCP-440-3s.
+
+10/08/████: Permission to seek expansion for the environment denied by O5-█.
+
+Additional Data:
+
+SCP-440 Exploratory Log A - 6/7/████
+
+SCP-440 Exploratory Log B - 9/10/████
+
+A Detailed Examination Of The SCP-440 Ecology by Dr. Z███ J██████ — FILE CURRENTLY PROCESSING
+
+Footnotes
+
+1. Sands with a particle size of >1mm do not gain this ability.

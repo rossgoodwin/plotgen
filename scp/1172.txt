@@ -1,0 +1,115 @@
+SCP-1172 with several tiles visible. Note that the tiles are still in contact with the bag to prevent an 'Alala situation'.
+
+Item #: SCP-1172
+
+Object Class: Safe
+
+Special Containment Procedures: The item may be stored in any standard low security storage room with sign in/out protocols in place. Testing may be performed in situ, if the item is to be transported the bag should be tightly closed using the drawstring and a sealing clip, and the bag be placed upright into a foam lined case to prevent risk of the tiles becoming separated from the bag. Strong sealing clips are to be left in the nearest guard's office to secure the mouth of the bag during transport.
+
+In the event of any or all of the tiles becoming separated from the bag protocol requires that the area is cleared to a radius of at least 10 metres in all directions, and an automated robot is used to bring any spilled tiles in contact with the bag. Once this is done and SCP-1172 is complete the cleared area may be re-entered safely and the bag secured.
+
+Description: SCP-1172 is a linen bag made from thick flax fibres, rendered green by dye derived from the skin of Pachycereus, a cactus plant. It contains 100 white plastic tiles, 98 of which are marked with letters of the Roman alphabet. The letter distribution is identical to that of a shop-bought Scrabble set. The remaining two 'wildcard' tiles, usually blank or marked with a single dot in the commercial set, are slightly darker and marked with a drawing of an eye, rendered on the plastic by the same embossing and paint used for the lettering. These two tiles feature no score numbers. Attempts have been made to photograph the design, in each case the tiles have appeared on film as being standard blank tiles. Drawings of the tile are successful, however.
+
+Removal of the tiles from the bag must be performed in accordance with strict protocol:
+
+• Removed tiles must not be taken more than 30cm from the bag. Absolute safe limit has been recorded at 54cm.
+
+• Once a tile is taken from the bag at least six others must also be removed. They must in turn be placed to the immediate right of the previous tile.
+
+• No more than ten tiles are to be removed per use, after which all tiles must be returned to the bag.
+
+Representation of the eye design present on the two 'wildcard' tiles. Attempts to photograph these tiles has been unsuccessful.
+
+These criteria were established during testing by using an automated robot to remove the letters and then retreat slowly from the bag until anomalous effects were noted. Any breach of this could result in serious injury.
+
+When tiles are removed from the bag and placed in left-right order in 96% of situations (166 of 173 tests) the tiles placed formed English words. These words were often found to have relevance to the test subjects, but in some cases the relevance was not apparent until events after the test transpired. D-Class personnel for whom the resulting words were not relevant are to be excused from termination procedures until said relevance is observed.
+
+The remaining 9 subjects drew the tiles containing the eye symbol during the test. In every case once the eye symbol had been drawn, the next time the subject attempted to retrieve a tile they experienced the sensation of being touched on the fingers from inside the bag. The same occurred for subjects attempting to remove more than ten tiles.
+
+Recovery Log: The bag was brought to the attention of a Foundation researcher on periodical duty. The following letter was published in the January ████ issue of Fortean Times:
+
+Supplemental Materials 1172-3A: Fortean Times Issue ██, page ██:
+
+Fortean Times,
+
+I know this sounds crazy, but I was at a party at a squat the other night, and after we’d indulged in quite a lot of *ahem* ’recreational substances’ one of the hosts led me up to the loft and showed me a dusty pile of board games they’d found up there. He opened a copy of Scrabble and took out the bag and told me a creepy story about it having been found in Crowley’s possessions at the time of his death. He then started chanting and told me to take tiles out of the bag and they said some creepy stuff, all true! After I’d pulled a few out he shouted at me to stop and told me to go back downstairs, and I didn’t see him for the rest of the night. Has anyone else ever experienced this kind of thing, or was it a trick inflated by my drug-addled mind?
+
+FortFan, Derby.
+
+The researcher located the writer of the letter who divulged the location of the squat. Agents █████ and ████-██████ were sent to ███, ███████ ████ in Derby to collect information and if possible retrieve the item for examination. The house was deserted but showed signs of recent habitation. On gaining entry to the loft the Scrabble box was quickly located. In the box along with the board, bag of tiles and the rulebook was a note:
+
+Supplemental materials 1172-3D: Letter found in Scrabble box:
+
+’I hope nobody finds this, I sealed the loft hatch shut for a reason. Do not open the bag. Do not use the bag. It’s told me so many horrible things. She cries out for me now, her war cry keeps me awake at night. She is Alala. I am her slave. Don’t use the bag.’
+
+‘Alala’, in Greek mythology, is the the female personification of the high pitched ululation used as a war cry. This sound is heard at volumes exceeding 120Dbl when tiles are brought more than 54cm from the bag. During this time the area around the bag is perforated with boreholes around 2mm in diameter, travelling through any material up to a distance of 315cm from the bag at approximately 3-5 bores per second. These bores appear between frames using high-speed video capture and no physical means for producing them has been observed. The ululation and appearance of the boreholes continues to occur until all of the tiles are within 54cm of the bag, at which point the tiles are pulled back into the bag by means that are at this point unknown. Use of IR cameras have proved inconclusive.
+
+SCP-1172 Test Logs:
+
+Experiment 1172-A:
+
+Test Subject: D-2532
+
+Letters removed: T O H A T E T H E M
+
+Relevance to subject: D-2532 was incarcerated in 1993 for a series of racially motivated murders. Subject was a member of several far-right groups and was a vocal neo-Nazi.
+
+1172-A Interview Log - ██:██ to ██:██:
+
+Dr. █████████: What did the letters spell?
+
+D-2532: [INAUDIBLE]
+
+Dr. █████████: Could you repeat that?
+
+D-2532: It’s bullshit. You’re trying to make me regret it. I don’t regret shit.
+
+Dr. █████████: What did it mean?
+
+D-2532: It means I did the right thing.
+
+Experiment 1172-B:
+
+Test Subject: D-6634
+
+Letters removed: C T [Eye tile]
+
+Relevance to subject: Subject claimed to have no knowledge of any relevance. Four weeks later the subject had a grand mal seizure and died, autopsy revealed a clot on the brain that appeared to have been present for at least two years and had not been diagnosed. Dr. █████ suggested that it could have been treated if diagnosed via a CT scan.
+
+1172-B Interview Log - ██:██ to ██:██:
+
+Dr. █████████: Take another tile.
+
+D-6634: What’s that? That’s not a Scrabble tile. *Subject reaches in the bag* What the fuck was that? What the fuck?
+
+Dr. █████████: What did you experience?
+
+D-6634: What did I experience? Something touched my goddamn hand! Felt like a wet fish!
+
+Dr. █████████: Try again. *Subject reaches into the bag again*
+
+D-6634: Jesus! It felt like something was stroking my fingers. I’m not doing that again. No way.
+
+Dr. █████████: Try again.
+
+D-6634: No way. No way. There's another hand in there. That ain't right.
+
+*Despite several requests the test subject refused to touch the bag again. Experiment curtailed.*
+
+Experiment 1172-C:
+
+Test Subject: D-3155
+
+Letters removed: A L S O T A P E R
+
+Relevance to subject Not known at this time.
+
+Experiment 1172-D:
+
+Test Subject: D-4514
+
+Letters removed: S O C O L D [Eye Tile]
+
+Relevance to subject: Subject claimed to have no knowledge of any relevance. Three days after the testing D-4514 was found in a shower cubicle suffering from severe hypothermia and facial contusions. The subject’s body temperature was taken as 32.8˚ Centigrade and the subject expired within minutes of discovery. It appears that a coolant leak in a pipe near the shower area had cooled the water down to near freezing, and the shock of immersion caused D-4514 to slip and knock himself out.
+
+Addendum: It appears that the results of testing are highly varied depending on the order of tiles removed. If the Eye tile is removed from the bag then the prior letters appear to have some sort of predictive nature as to the test subject’s demise. If the Eye tile is not selected then the phrases are far more vague. More testing is required to more accurately establish the limits of its abilities.

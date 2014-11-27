@@ -1,0 +1,85 @@
+Item #: SCP-1039
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1039 is to be kept within a sealed, ten (10) meter by ten (10) meter containment cell at all times. No unauthorized personnel are permitted to enter the containment cell unless specifically instructed by a Security Clearance Level 4 (or higher) site supervisor. The interior of the cell is to be kept under constant remote surveillance through the designated wall-mounted security camera, the footage of which is to be periodically reviewed by assigned staff. All abnormalities and changes in behavior discovered during review of the surveillance footage are to be recorded and reported to researchers assigned to the object.
+
+Any personnel entering within a forty (40) meter exterior radius of the containment cell are to have all items on their person removed and accounted for before being temporarily deposited within a locked and secured container outside the perimeter of SCP-1039's area of effect unless they are instructed to retain possession of said items by a site supervisor prior to entering the area. Once personnel exit the area of effect, they may withdraw any items that had been removed from their person.
+
+If any items that were previously deposited in the sealed container cannot be found after returning from within the area of effect, this is to be reported to research staff assigned to the object, who will promptly search SCP-1039 for the item. If the item cannot be found in SCP-1039, such an incident is most likely theft and is to be reported to Site Security, who will execute an independent investigation of the matter to the best of their abilities.
+
+Under no circumstances are other SCP objects or other items specifically protected by the Foundation either for research or any alternative reasons to be brought within SCP-1039's area of affect unless a Security Clearance Level 5 site supervisor has specifically instructed this course of action be executed in order to research the affects of SCP-1039 on these objects in a controlled environment.
+
+Description: SCP-1039 is a thirty (30) centimeter tall, thirteen (13) centimeter wide doll constructed mostly of a tightly woven textile fiber, with artwork on the torso resembling that of a crude human ribcage. The head of SCP-1039 is composed of hardened clay molded into a grotesque and misshapen human skull. The back of SCP-1039 is marked with a symbol of unclear cultural origin and has yet to be translated.
+
+SCP-1039 displays the ability to instantaneously and remotely transport items within an estimated forty (40) meter radius from their initial locations into the interior of its own body. As SCP-1039 is mostly a hollow fabric sack aside from the clay-molded head piece, items are transported from their original location to within the empty internal torso area of the fabric body. SCP-1039 appears to only transport a single item at a time and the incidents of said transportation are inconsistent and seemingly random.
+
+Staff who have had their personal belongings transferred to the inside of SCP-1039 report that the item disappears from their person and seems to instantly rematerialize within the body of SCP-1039. Any object forcibly placed into the interior of SCP-1039 will be transported to another random location within the forty (40) meter area of effect. How SCP-1039 remotely displaces the foreign objects has not yet been determined. SCP-1039 was not originally recovered with any objects inside of it.
+
+During review of surveillance footage, assigned staff began to notice regular bursts of visual static, after which the viewing personnel reported that SCP-1039 had relocated itself to another area of the cell. The static along with the movement of SCP-1039 appear to occur at random intervals. Whether or not SCP-1039 is the direct cause of the wall-mounted camera's malfunctioning is undetermined, but despite the remote surveillance footage displaying SCP-1039's apparent teleportation abilities, when personnel enter the containment cell SCP-1039 is always located in the center point of the chamber. The object does not demonstrate any shifts in location or characteristics of movement for as long as the individual remains within the confines of the cell.
+
+The head of SCP-1039 has been known to turn towards agents within the containment cell, independent of the body, as if staring at them. Many personnel have reported increasing discomfort and paranoia as the head of SCP-1039 continues to follow their movement across the chamber.
+
+All items extracted from within SCP-1039 seem to give off an odor similar to that of gasoline exhaust for several hours. The cause of this remains unknown.
+
+Experiment Log
+
++ Experiment 1039-1
+
+- Experiment 1039-1
+
+In a test to demonstrate what items SCP-1039 is capable of transporting personnel were to place a large assortment of polystyrene test cubes ranging in size from five (5) centimeter by five (5) centimeter by five (5) centimeter cubes to one (1) meter by one (1) meter by one (1) meter cubes within SCP-1039's area of effect. Initially, SCP-1039 did not exhibit the ability to transport any of the larger test cubes, seeming to focus exclusively on the cubes no bigger than itself. However, as SCP-1039 continued to transfer items into itself, the torso area of the object began to physically expand both vertically and horizontally to accommodate more items. As SCP-1039 enlarged in size it began to transport the larger test cubes.
+
+As more test cubes were transported into the interior of SCP-1039, the fabric of the torso stretched further outward. The test continued for approximately four (4) hours before SCP-1039 was temporarily unwoven and the objects were removed. By the end of the test, SCP-1039 measured four (4) meters across and five (5) meters vertically. As the objects were removed from the interior of SCP-1039 the torso began to gradually contract until it had returned to its original length and width. No limit to this expansion has been found.
+
++ Experiment 1039-2
+
+- Experiment 1039-2
+
+Due to SCP-1039's ability to independently transport itself across its containment cell specifically while it is unoccupied by foreign entities as well as its ability to physically move its head in the direction of any supplementary occupants of the chamber, Dr. █████ hypothesized that SCP-1039 may be sentient. To test this further, agent D-1039-1 was sent into the containment cell with an apple and given the order to attempt to coax SCP-1039 into transporting the apple into itself. D-1039-1 continually asked SCP-1039 to take the apple. SCP-1039 did not respond to these requests. When D-1039-1 waved the apple several centimeters from SCP-1039's face, the head appeared to follow the movement of the apple, displaying at least a simple awareness of its surroundings and confirming that it is sentient. However, SCP-1039 continued to be unresponsive to D-1039-1's requests to retrieve the apple.
+
+Approximately seventeen (17) minutes into the test, D-1039-1 exclaimed "The stupid motherfucker isn't taking the apple, assholes!" before forcefully hurling the apple across the containment cell. As the apple collided with the wall on the opposite end of the chamber, SCP-1039's head turned 180° towards where the apple made contact with the wall. SCP-1039's head retained its position for about five (5) seconds before reversing back to its initial location, at which point D-1039-1 began to convulse violently before collapsing onto the chamber floor. Medical staff declared D-1039-1 dead several minutes after the incident.
+
+When the contents of SCP-1039 were examined, its torso contained a sizable chunk of brain matter. The autopsy of D-1039-1 later revealed the entire frontal lobe of his brain had been removed. Dr. █████ is no longer permitted to test the awareness or consciousness of SCP-1039.
+
++ Experiment 1039-3
+
+- Experiment 1039-3
+
+In order to examine the ability of the fibers of SCP-1039's torso to seemingly stretch infinitely without demonstrating any signs of damage or tearing, a small strip of fabric measuring four (4) centimeters in length and five (5) centimeters in width was removed from SCP-1039. One end of the fabric strip was placed into a pair of stationary clamps at the beginning of the three-hundred (300) meter by ten (10) meter test chamber located twenty (20) meters from the SCP-1039's area of effect. The other end of the fabric was placed within the clamps of a motorized remote control rover designated R-1039-1. R-1039-1 was to be driven down the three hundred (300) meter length of the test chamber.
+
+At ten (10) meter intervals R-1039-1 was to be stopped and personnel were to observe and record any changes, signs of tearing, or damage in the stretched fabric until the full three-hundred (300) meter length of the chamber had been crossed by the rover.
+
+10 meters: No changes observed
+
+20 meters: No changes observed
+
+30 meters: No changes observed
+
+40 meters: No changes observed
+
+50 meters: Width of fabric thinned by 0.1 centimeters
+
+60 meters: No changes observed
+
+70 meters: No changes observed
+
+80 meters: No changes observed
+
+90 meters: No changes observed
+
+100 meters: Width of fabric thinned by 0.1 centimeters
+
+110 meters: No changes observed
+
+120 meters: R-1039-1 spontaneously shuts down. Clamps were released and the fabric sample rapidly contracted back to its initial length and width.
+
+Further examination of the interior of R-1039-1 revealed several internal components were missing. These components were later found within SCP-1039, severely damaged and inoperable. The test was not able to be completed and no applicable data was extracted. Further examination of SCP-1039 after the test revealed the area on SCP-1039 from which the strip of fabric was removed to be completely repaired.
+
+How SCP-1039 had managed to transport objects outside of the forty (40) meter radius of its cell remains unknown and an incident of this nature has not been repeated
+
+Addendum: Since thorough experimentation was initiated on SCP-1039 the object seems to demonstrate more aggressive behavior than before. Several Class D's have had eyes, tongues, and teeth removed by SCP-1039 since testing on the object began. Additionally, SCP-1039 appears to transport items both in and several meters outside of its area of effect at a much faster rate than before. No more testing is to be performed on SCP-1039 and no personnel are permitted within forty (40) meters of the object until further notice.
+
+Note: "SCP-1039 has begun transporting the surveillance camera within its containment cell into itself. A more secure method of remote surveillance is requested." - Dr. █████
+
+Note: "The symbol on the back of SCP-1039 has been identified. It appears to originate from [REDACTED]. The symbol itself has been translated to mean gluttony or corpulence." - Dr. ██████████

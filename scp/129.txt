@@ -1,0 +1,49 @@
+Item #: SCP-129
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-129 is at large in the world and infects large numbers of humans and animals daily. As such, containment efforts are focused on treatment of infected individuals and on eradication of any or all member species of SCP-129. Although at least 98% of the world's population harbors a natural immunity to one or more species of SCP-129, outbreaks that reach Stage Three or higher (described below) must be contained as quickly as possible, with infected individuals quarantined under highest-risk contagion protocols. See Document #129-A-1 for further information.
+
+In the event of Stage Four or Stage Five outbreak, in addition to the above procedures, [DATA EXPUNGED], as described in Document #129-A-2 (Level 4 clearance required).
+
+Description: SCP-129 is a series of at least ██ different species of fungus that can infect any animal with mucosal membranes. Infection by SCP-129 can pass through up to five stages (depending on exposure to further member species of SCP-129, individual resistance, and other factors), with each stage of infection facilitating progression to the next stage by weakening the individual’s resistance to subsequent infection.
+
+Due to a combination of historical events, most humans and animals are naturally immune to SCP-129-04 through SCP-129-██. Therefore, outbreaks of Stage Three infections are quite rare, but have the potential for widespread infection if not swiftly isolated and contained. All known cases of SCP-129 have followed the below five-stage progression, although [DATA EXPUNGED], possibly due to mutation.
+
+Stage One: The first organism, SCP-129-01, attacks the victim's mucosal membranes, multiplying quickly and unobtrusively. A faint yeast-like smell might be detected, but beyond that, SCP-129-01 is asymptomatic. A second organism (SCP-129-02) can then infect the host, causing the victim to experience symptoms identical to those of acute viral nasopharyngitis (the common cold). The decreased efficacy of the host's immune system due to infection from SCP-129-02 allows SCP-129-01 to become entrenched further.
+
+SCP-129-01 and -02 generally leave the host body within four to six days. Though both species are fairly widespread, and most of the population has little to no protection against either organism, they pose little danger themselves, except to facilitate infection by SCP-129-03.
+
+Stage Two: Although SCP-129-03 is usually stopped by natural mucus, Stage One infection changes the composition of the host’s mucus so that the host is significantly less resistant to SCP-129-03. Once established in the host, SCP-129-03 alters the host’s mucus, lymph, and blood such that other species of SCP-129 can thrive in the host.
+
+Symptoms of Stage Two infection include greatly increased mucus production, a nagging cough due to excess phlegm, a lingering low-grade fever, increased sweating and salivating, a somewhat increased preference for vegetables, and the complaint that certain fruit juices 'taste odd'. Infection by SCP-129-03 generally lasts anywhere from two weeks to four months before being driven out by the immune system, unless the host enters Stage Three infection. At least ██% of all humans have experienced Stage Two infection at some point, but due to natural immunities (in spite of Stage Two infection) and the relative rarity of Stage Three species, less than █.██% of that ██% have passed into Stage Three.
+
+Stage Three: In the absence of SCP-129-03, nearly all animals are immune to the three species that cause Stage Three infection. However, a small number of Stage Two victims can become infected with one or more of these species; in these cases, the fungal infections become entrenched in the host and cannot be removed without extraordinary measures.
+
+Individually, the three Stage Three species elicit different symptoms in the host:
+
+SCP-129-04 causes increased tear production (lachrymation), slight yellowing of the eyes, [DATA EXPUNGED].
+
+SCP-129-05 [DATA EXPUNGED], causing the host’s nails to thicken and significantly increasing earwax production.
+
+SCP-129-06 [DATA EXPUNGED], in particular, bright yellow urine and small pellets in the host’s feces, both of which smell strongly of yeast.
+
+However, a victim who becomes infected with all three of these species will, within hours, develop flu-like (or worse) symptoms and become bedridden for three to five weeks. Afterward, though the victim appears to have recovered fully, in actuality SCP-129 has spread throughout all systems in the host’s body, marking passage into Stage Four.
+
+Stage Four: Victims who reach Stage Four appear generally healthy and indeed may be more lively and energetic than at any time since first contracting SCP-129. In actuality, SCP-129-01 through -06 have spread throughout the host’s body, completely infiltrating the subject’s immune, respiratory, circulatory, reproductive, [DATA EXPUNGED], and central nervous systems.
+
+Mycelia from SCP-129 species also permeate the host’s skin and replace some percentage (up to ██%) of the host’s hair. These hyphae, which are nearly indistinguishable from the host’s natural hair, are used to propagate SCP-129 to other hosts; any potential host that comes into contact with shed-off hyphae has a 9█% chance of becoming infected with SCP-129. Hyphae seem to be equally contagious from any part of the host’s body, although [DATA EXPUNGED] if sexually transmitted due to [DATA EXPUNGED].
+
+Despite (or perhaps because of) increased susceptibility to SCP-129, Stage Four victims are much more resistant to viral and bacterial pathogens than uninfected subjects. All known subjects who have reached Stage Four have either progressed to Stage Five or died within ██ weeks.
+
+Stage Five: Symptoms of Stage Five infection depend on a variety of factors, including the particular Stage Five species that are present, as well as genetic, physiological, environmental, and any number of unknown factors. However, as in Stage Four, all Stage Five victims are highly contagious and can infect victims who had previously shown complete immunity.
+
+Notable manifestations of Stage Five symptoms:
+
+February ████: Witnesses riding in a commuter train car in [DATA EXPUNGED] described a woman suddenly blowing up like a balloon and exploding, but instead of blood and viscera, the contents of the car were covered in spores and filaments. Analysis later showed that the victim was infected with SCP-129-09, SCP-129-14, and SCP-129-██. All persons and objects in the affected area were quarantined, euthanized, and incinerated per protocol; ███ casualties, including ██ Foundation personnel.
+
+May ████: Following a string of disappearances in [DATA EXPUNGED] were tracked to a cave several kilometers from town. Inside, investigators found several pulsating mounds of flesh and vegetative material; although most were unrecognizable, a few of the entities retained some human characteristics and were identified as some of the missing citizens.
+
+Researchers theorize that victims of this combination of SCP-129 would interact normally with the populace, attempting to infect others, until, after a period of time, they would come to the cave (how and why they were brought here is not known). Upon arrival, the victim would be changed into the pulsating vegetative flesh mounds, which appear to be organisms modified to provide a long-term source of sustenance for SCP-129, as analysis suggests the flesh mounds could potentially live for ███ years. Autopsy revealed the presence of SCP-129-10, SCP-129-11, SCP-129-14, and SCP-129-██. Site quarantined and sanitized per protocol; ██ known casualties.
+
+[DATA EXPUNGED]

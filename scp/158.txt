@@ -1,0 +1,23 @@
+Item #: SCP-158
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-158 is installed in Operating Theater 07 in Bio-Research Area-12. Personnel are not to be allowed in, nor is power to be supplied to the room, unless they have submitted, and had approved, a proper clearance requisition form to the Chief of Research Prof. █████. Personnel wishing to use the device must request and read the entire transcribed instruction manual in full. During the device's use, two (2) armed guards are to remain on standby outside the room at all times. In the event of an accident, all power must be cut to the room instantly, and guards are to examine the room carefully for any signs of misconduct. Misconduct will be punished in a manner decided by the Chief of Research on a case-by-case basis.
+
+Description: SCP-158 is a large mechanical arm, similar to one that one might find in an automotive factory, although the end attachment is unusually shaped, resembling a pointed tridactyl claw. Its optimal placement is to be installed and suspended upside down, its base attached to the ceiling in a room that has been built to accommodate. A series of cables are protruding from the base and some are connected to a complex mobile console, complete with VDU (Visual Display Unit) and full keyboard. The others should be connected to a working power supply if the device is to be operated successfully. At the bottom of the console, there is a dispensing device, with attachments for a container roughly 7.6 cm (3 in) in width, and 17.8 cm (7 in) in height.
+
+The arm, cables and console have sustained fire damage, though this is purely cosmetic, and does not affect the device's performance.
+
+When activated, the device will take twenty (20) minutes to boot up and become fully functional.
+
+When used correctly upon a living organism that displays cognition, SCP-158 will remove an unknown substance and transfer it through the dispensing device beneath the console. The optimum container for this substance is a glass jar or beaker that fits the attachments. After this action is performed, the organism that it was performed on will cease all higher brain functions, with only the activity in the brain stem continuing. The subject will not respond to external stimuli, and will not exhibit any movement beyond basic reflex actions.
+
+The substance removed is gaseous, though its overall appearance and properties differ from subject to subject. The substance is an indefinite source of kinetic, electrical, heat, and light energy. Although the rate and output, again, differ from subject to subject, the average is relatively low.
+
+The device was found in late 2007 in █████, ███████, within a burned out hospital that had been in apparent disuse for a large, discernible period of time (rough estimations would put it at over five years). Along with the device was a badly damaged "owner's manual" which contained instructions on how to use the device. These instructions have since been transcribed and copied numerous times, with a single copy always present in the containment room. While the instructions clearly state how to maintain and use the device, the chapters chronicling who built it and what exactly it did were too badly damaged to be read, requiring a process of trial and error to find it (see Experiment Log 158-AA).
+
+Additional Notes: The device is also capable of reversing the extraction, placing the same, or a different, substance back into the subject (see Experiment Log 158-AG). When this action is performed, the subject will regain all cognitive and higher brain functions, but the total results differ, depending on whether or not it was the original substance extracted from the patient that was replaced.
+
+Addendum-01: Dr. ██████████ suggests experimentation with D-class personnel and electronic equipment, to attempt to reproduce SCP-168 or similar phenomena. (Pending)
+
+Addendum-01A: Inspired by the previous Addendum, Regulator █████ has hit on the ingenious notion of using SCP-158 on a test subject, then exposing the body to SCP-217 until the virus runs its course, and finally re-injecting the contents back into the transmogrified body. ███████ and █████ are extremely excited about this proposal, and have arranged a meeting with all twelve of the ██████████ to discuss the far-reaching benefits of such a technique.

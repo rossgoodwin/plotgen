@@ -1,0 +1,65 @@
+SCP-1089 when not in use
+
+Item #: SCP-1089
+
+Object Class: Safe
+
+Special Containment Procedures: Due to frequent usage, SCP-1089 is to be kept in a 2m x 2m metal containment cell. The door to the cell is to remain electronically locked at all times and only the designated researchers are to be given the keypad code. No other personnel are to be given admittance without Level 3 Security Clearance.
+
+Description: SCP-1089 appears to be similar in design to some models of night-vision goggles. There is a large spherical compartment containing many image intensifier tubes mounted in the center of the helmet between the two eyepieces. It is constructed primarily of black high impact plastic and features a radial knob with five settings on the left side. On the back side of the center-mounted sphere is a canister containing several SCP-1089-p when the radial knob is set to '4' - it is empty on every other setting. The interior of the helmet contains a small metal plate imprinted with the words 'The IC-UC.'
+
+SCP-1089-p are several small 'pills' roughly 1.5mm in length. Pills are initially covered in a grey coat of gelatin - this coating can be carefully scraped off revealing what appears to be a complex microchip. Further examination has proven impossible as SCP-1089-p's interior components dissolve the instant the pill is pierced.
+
+SCP-1089 was recovered when U████ P████████, a known prominent customer of MC&D, was arrested and his assets were scheduled to be seized. U████ P████████'s mansion was raided by Foundation agents and SCP-1089, SCP-████ and SCP-████ were quickly recovered from a wall safe before either MC&D or government personnel arrived on-scene.
+
+SCP-1089 exhibits its anomalous properties when worn and activated. The goggles override the wearer's sense of sight, causing the wearer (henceforth referred to as the 'observer') to be able to see as through the eyes of another specific person. This specific person becomes 'marked' by ingesting SCP-1089-p and this effect persists for an unknown and possibly permanent duration. The observer remains self-aware while watching a marked individual and SCP-1089 appears to block all sound - researchers have reported being unable to hear anything while observing. There appear to be several 'channels' depending on the setting of the radial knob and each active channel has its own marked individual.
+
+SCP-1089-p seem to be linked to the channel the goggles are set to. When set to any channel except '4' the compartment is completely empty. Subject D-1089-1 was given a pill from '4' - after ingestion, the compartment was empty when it had contained several pills only moments earlier. Immediate termination of D-1089-1 shows that the link expires when the marked individual does and compartment '4' was automatically refilled.
+
+All researchers used as observers have been recording their experiences in a shared research journal. Channel information is as follows:
+
+Note: For simplicity's sake, the marked individual for each channel will be denoted as SCP-1089-x where x is the active channel.
+
+1) Channel 1 appears to be blank and continues to be blank as long as has been observed. No SCP-1089-p exists for compartment '1' so it has been unavailable for testing. Observation to continue as scheduled.
+
+2) SCP-1089-2 is an individual of unknown gender in a padded cell in an unknown location. It is suspected that SCP-1089-2 may be forcibly restrained as little to no movement has been observed. Every day at precisely 08:00, 13:00 and 18:00 a woman of medium age and build wearing a plain grey dress and glasses enters the room with what appears to be a bowl of food-paste. The woman spends 5-10 minutes feeding SCP-1089-2 and promptly leaves with the empty bowl. As far as has been observed, she has never attempted to converse with SCP-1089-2 during these feeding times. Foundation agents have been investigating the identity of the woman but thus far she remains unknown to Foundation personnel. Observation to continue as scheduled.
+
+3) Based upon information gathered from observation, investigation into the identity of SCP-1089-3 has been successful. SCP-1089-3 is the estranged father of U████ P████████. It is not known why U████ P████████ was watching his father, nor is it deemed scientifically relevant. Investigation discontinued and observation stopped.
+
+4) Channel 4 has been cleared for testing on D-level personnel and due to having complete control over SCP-1089-4 this is to be the primary channel of observation (No further testing is to be allowed without O5 approval).
+
+First, D-1089-1 ingested SCP-1089-p and became SCP-1089-4. SCP-1089-4 was briefly observed before termination.
+
+D-1089-2, surgically blinded, was observed next. Observation of SCP-1089-4/2 was reported to be blank in a manner consistent with Channel 1. D-1089-2 was then scheduled for immediate termination so that the channel could be freed up for more useful research.
+
+D-1089-3 ingested SCP-1089-p and was placed into solitary confinement for a period of 48 hours. As it seems there are no adverse effects to SCP-1089-p other than linking the target for observation, SCP-1089-4/3 was reassigned to SCP-████.
+
+5) SCP-1089-5 has been identified from information gathered from mirrors and reflective surfaces. He is a Japanese businessman named M██████ H█████, CEO of ███████ █████ Inc. located in ████████. Observation to continue as scheduled.
+
+Update ██/██/████: Observation reports that SCP-1089-5 is no longer M██████ H█████ but is instead an unknown female. It is not known when or how this change ocurred but Foundation agents are in the process of investigating the new SCP-1089-5/2.
+
+Update ██/██/████: Newspapers have confirmed M██████ H█████ was murdered between the time he was last observed and the first time the new female SCP-1089-5/2 was observed.
+
+Update ██/██/████: SCP-1089-5/2 has been identified as H████ P█████, a wealthy heiress living in █████████. Observation to continue as scheduled.
+
+[DATA EXPUNGED]
+
+Update ██/██/████: As expected, SCP-1089-5/17 was also reported murdered. Investigation into identity of SCP-1089-5/18 has begun. Observation to continue as scheduled.
+
+Addendum 1089: Testing of SCP-1089 is to be immediately halted and SCP-1089-4 immediately terminated per instructions from O5-█:
+
+Instructions from O5-█
+
+Instructions from O5-█
+
+Effective immediately, discontinue use of SCP-1089-p while on site.
+
+That channel 5 changed without action from us suggests there are more goggles and channels are shared among them.
+
+We don't know who has been watching but since ██/██/████ we've given them crystal clear surveillance of the inside of our secure facility as well as SCP-████!
+
+Kill the link to channel 4 and continue observation of the other channels. Channel 4 is now to remain blank and channel 5 is designated as your new primary observation.
+
+Disciplinary action to follow.
+
+- O5-█

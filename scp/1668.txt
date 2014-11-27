@@ -1,0 +1,61 @@
+Item #: SCP-1668
+
+Object Class: Safe-praedico
+
+Special Containment Procedures: The original vinyl records on which SCP-1668 instances are acquired, as well as digital recordings of SCP-1668 kept on USB flash drives, are to be stored in a storage locker at Site 83. Any further instances of SCP-1668 are to be studied, recorded, and contained similarly. Access to SCP-1668 recordings is restricted to personnel with Access Level 1668/2 or higher.
+
+Efforts to locate the individual(s) responsible for creating SCP-1668 are underway.
+
+Description: SCP-1668 is a set of three audio recordings composed of samples from a variety of publicly available pieces of music. Typically, the piece from which any given sample originates is readily identifiable.
+
+When an individual listens to the first twenty-four minutes and nine seconds of an instance of SCP-1668, they will hear the remainder of the recording regardless of whether or not it is actually played. This occurs regardless of whether the listener has heard any of the music in the remainder of the instance prior to testing. This effect has only been consistently replicated (>90% of subjects experiencing the aforementioned effect) in neurotypical individuals, with the presence of any mental illness or abnormality significantly decreasing the likelihood that the individual will be susceptible.
+
+Each instance of SCP-1668 has been found in the mailbox of a Foundation staff member not residing on Foundation property, along with a hand-written note. Several witness reports indicate that these materials were hand-delivered by groups of unidentified individuals; however, no footage or photographs of the deliveries have been found.
+
+SCP-1668-1 is thirty-seven minutes long, and contains samples from seventeen pieces of rock music published between 1963 and 1973, in rough chronological order. It was recovered on April 04, 2005, with the following note attached:
+
+Dear SCP Foundation,
+
+First and foremost: a mutual friend whose privacy I am obliged to respect has provided me with the means to contact you. Further, I can assure you that, due to my use of intermediaries who have refused to inform me further, I lack the knowledge necessary to reveal your organization to the general public. Of course, I do not at all expect you to trust me, but that's a bridge that we shall cross when we come to it.
+
+On the record I've sent you (a quirk of mine, I'm afraid; I hope you're not adverse to a little anachronism), you will find a composite of various rock songs recorded between 1963 and 1973. If one were to listen to the first 24m9s of the recording, they would immediately and involuntarily deduce the remainder of the composition. Disregarding the various philosophical cop-outs that could be applied to the situation, it would seem that, circa 1969, an individual listening to the proper series of oft-heard music could know the full lyrics to "Stairway to Heaven" well before either Page or Plant1 possibly could have. This, along with similar chronological oddities, are why I have contacted you.
+
+It is my understanding that your organization deals with appropriately-named "memetic" anomalies of this type on a regular basis; however, the predictive capability of this one in particular, I believe, is of great importance. My own dabbling in the neurological and musical sciences was sufficient to produce this, but it is beyond my capability to analyze it rigorously enough to provide answers. Please take this recording and perform any research you find appropriate.
+
+Sincerely,
+
+Erich Zann2
+
+SCP-1668-2 is forty-one minutes and forty seconds long, composed of samples from a variety of genres published between 1909 and 1993, again arranged in rough chronological order. All pieces sampled before the 24m09s mark were written before 1979. It was recovered on July 19, 2006, with the following note attached:
+
+Dear SCP Foundation,
+
+It's me again. It's taken me the past two years, but I've created a recording similar to the one I delivered to you in the spring of last year. Given that I've used a process identical to the one I used the first time around, this would suggest that I have not stumbled upon a trivial chronological oddity, but have instead developed a repeatable method by which one can infer that music itself is pre-determined.
+
+While this is merely disheartening from a musician's standpoint, the degree to which musical and general history are intertwined indicates a somewhat unpleasant lack of free will that almost certainly extends to all of human society. I hope you understand my concern: It is one thing to speculate on free will and matters of history in the hypothetical sense, or behind the lens of fiction; it is quite another to find the question thrust inescapably into your consciousness.
+
+Any message placed ████████████████████████████████████████████████████████████████ will find its way to me without tampering or detection. I insist: if your research addresses my concerns, provide some clear indication of your results.
+
+Sincerely,
+
+Erich Zann
+
+Authorized personnel may access Document █████-AI-2006 for testing of the aforementioned anomaly.
+
+SCP-1668-3 is twenty-five minutes and twelve seconds long. It is composed of samples from electronic music published between late 2006 and early 2008. The final sixty-three seconds of SCP-1668-3 contain unidentified electronic music with lyrics most likely sung by singer/songwriter █████ ██████. █████ ██████ has denied ever writing or performing those lyrics.
+
+SCP-1668-3 was recovered on November 03, 2008, with the following note attached:
+
+Dear SCP Foundation (if you're even there),
+
+I believe I have successfully predicted the future. Our future. Please respond immediately.
+
+God save us all,
+
+Erich Zann
+
+Footnotes
+
+1. Jimmy Page and Robert Plant, the composers of the song "Stairway to Heaven". The song was written between 1970 and 1971.
+
+2. A reference to the title character of The Music of Erich Zann, a short story by H.P. Lovecraft.

@@ -1,0 +1,123 @@
+SCP-247 before containment
+
+Item #: SCP-247
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-247 is kept in an enclosure of at least 20 (twenty) by 40 (forty) meters, furnished based on the plans provided by the [REDACTED] Zoo and lined with SCP-148 offset from the rest of Site-██ by at least 50 (fifty) meters in order to mitigate its psychic effect. (As per current containment procedures for SCP-148, its use in the containment of other SCPs is to be avoided if at all possible. - O5-█). SCP-247 is to be fed 18 kilograms of fresh meat on a tri-weekly basis. Feeding occurs in a separate enclosure. Cleaning staff should enter the enclosure only during designated feeding times. No other access to the enclosure is allowed. The footage resulting from any violation of this order is to be archived for use in training the cleaning and monitoring staff of SCP-247.
+
+In case of a containment breach, the entire wing must be evacuated and all live footage of the incident heavily censored. The area SCP-247 occupies will be sealed off and gassed, followed by the return of SCP-247 to containment. If for any reason this should become impossible, a retrieval team will be sent in armed with heavy tranquilizer rifles. Retrieval team Agents must be specially selected for high reflexes, excellent marksmanship, unquestioning obedience, and low empathy scores.
+
+Description: SCP-247 is a Bengal tiger (Panthera tigris tigris; adult female) which, to all observers, appears to be a harmless cat (Felis catus; juvenile female) with an orange-and-black striped coat resembling that of a tiger.
+
+Remote feeds and still photos also show this illusion, although it is unknown whether the photo itself is affected or merely the observer. SCP-247's true nature has been confirmed by analysis of weight, water displacement, and dental moulds made from bite marks.
+
+It is unknown exactly how SCP-247 generates this illusion. There are two components to the illusion: first, a memetic effect that changes the perceived image of SCP-247 to that of a kitten, and second, a psychic component which radiates outward from the subject (diminishing according to the inverse square law and reaching half strength at █ meters). Any sentient being within this field comes under the impression that SCP-247 is completely harmless, regardless of prior knowledge or experience. Individuals in this field also show extreme reluctance to harm or allow others to harm SCP-247, even while being actively harmed by the subject. This psychic field can be blocked with SCP-148, or avoided by striking from well outside its effective range. The memetic effect is not blocked by SCP-148; as of yet, no one has been able to see SCP-247 as anything but a small striped cat.
+
+Typically SCP-247 will begin to purr or mew when approached by a human. The human will remark that this is adorable, and approach to pet the subject (this has been observed even in persons who strongly dislike cats). SCP-247 has been known to accept affection from its victims for upwards of seven minutes before disemboweling and devouring them.
+
+Genetic analysis shows slight deviation from a typical Bengal Tiger's genotype, indicating possible contamination [DATA EXPUNGED] all further breeding experiments require O5 level approval. The resulting hybrids have been designated SCP-247-1; see Experiment Log 247a-14 for more details.
+
+Addendum 247a: A series of tests in exposing SCP-247 and the Control subjects to various non-human animals. Control testing took place in an exact replica of SCP-247’s enclosure. Control A is a yellow kitten matching SCP-247’s apparent size and age. Control B is a fully grown Bengal Tiger matching SCP-247’s actual weight.
+
+Experiment Log 247a-01
+
+Date: ██/██/2010
+
+Test Subject: A mixed-breed dog, mostly terrier. A known cat-chaser.
+
+Control Test A: Subject immediately began barking and ran at the control, which retreated up a nearby tree.
+
+Control Test B: Subject cowered in the corner as far from the control as possible. Control took no notice of subject.
+
+Results: Subject ran toward SCP-247, barking loudly. At approximately five (5) meters away subject slowed to a halt and became silent. At this point, SCP-247 rolled over and made a ‘mewing’ sound believed to be a sign of annoyance. The subject retreated to a far corner of the enclosure with its tail between its legs.
+
+Notes: That was extremely odd. Further testing recommended. - Researcher S████
+
+Approved. - O5-█
+
+Experiment Log 247a-02i-ii
+
+Date: ██/██/2010
+
+Test Subject: A male tabby kitten with the same apparent age as SCP-247.
+
+Control Test A: Subject played with the control in the manner expected of kittens.
+
+Control Test B: Subject climbed a tree and attempted to hide itself from the control, displaying visible signs of terror.
+
+Results (test i): Subject approached SCP-247 and mewed. SCP-247 responded in kind and played with the tabby kitten. The resulting footage is extremely odd; at one point SCP-247 lifts the subject (which appears to be the same size as SCP-247) with a single forepaw, while at another point SCP-247 lifts the subject with its mouth, clearly showing that its mouth is much larger than it appears to be. The leading researcher characterized this as adorable but remarked that it gave him “a headache.” Due to a faulty recorder, this test had to be repeated.
+
+Results (test ii): Subject approached SCP-247 as above. SCP-247 made a deep purring sound, analogous to a growl. Subject reacted as in control test B.
+
+Notes: This seems to indicate 247 has some degree of conscious control over its apparent appearance. - Researcher S████
+
+Experiment Log 247a-03
+
+Date: ██/██/2010
+
+Test Subject: An adult male deer, a normal prey animal for a Bengal Tiger. (Control B and SCP-247 were not fed for 3 days prior to this experiment.)
+
+Control Test A: Subject grazed. Control fell asleep two minutes into the experiment.
+
+Control Test B: Control attacked, killed and devoured subject, which behaved normally for a deer trapped in an enclosed space with a large predator.
+
+Results: Subject began grazing as in control test A. SCP-247 approached it calmly and killed it with a single bite to the neck, then proceeded to devour the subject. (Test was repeated without SCP-247 being forced to fast. SCP-247 completely ignored the subject for over a day before apparently becoming hungry and killing it, again with a single bite to the neck.)
+
+Notes: SCP-247 seems to prefer humans, both as food and for entertainment. Other prey animals presented to SCP-247 were all killed in a single strike, while humans are invariably allowed to pet the SCP for some time before being killed and are sometimes mauled and ‘played’ with the way a cat will play with a mouse. Furthermore, the SCP has killed every human it has had the opportunity to kill, regardless of hunger. - Researcher S████
+
+Experiment Log 247a-08
+
+Date: ██/██/2010
+
+Test Subject: An adult female chimpanzee.
+
+Control Test A: Subject and control ignored one another.
+
+Control Test B: Subject retreated to a tree, showing some signs of unease. Control displayed some curiosity towards the subject but did not attack.
+
+Results: Subject approached SCP-247, made noises identified as signs of affection, and began to groom SCP-247. SCP-247 allowed the subject to groom it for over an hour, then messily killed and devoured it.
+
+Notes: This seems to be its typical reaction to unfamiliar prey animals. It seems to prefer to prey on apes with advanced social behaviour. Experiments with gorillas and other social apes have shown similar results. Essentially, SCP-247 is a large predator that has somehow adapted to take advantage of the largest available food source — humans. We should investigate all future reports of man-eating tigers in case there are more of these things. - Researcher S████
+
+Experiment Log 247a-12
+
+Date: ██/██/2010
+
+Test Subject: An adult female grizzly bear.
+
+Control Test A: Control fled up a tree in terror. Subject ignored it.
+
+Control Test B: Subject and control acted nervously and gave one another as large a berth as possible.
+
+Results: Initially subject and SCP-247 ignored one another. At one point subject came very close to SCP-247, resulting in SCP-247 giving a warning growl. Subject responded with hostility. Test aborted due to possible harm to SCP-247; subject tranquilized by Foundation personnel and subsequently killed by SCP-247.
+
+Notes: Future tests involving animals potentially capable of killing or injuring a Bengal Tiger are cancelled. - Researcher S████
+
+Experiment Log 247a-13
+
+Date: ██/██/2010
+
+Test Subject: An adult female Bengal Tiger
+
+Control Test A: Control fled up a tree in terror. Subject ignored it.
+
+Control Test B: Subject and control greeted one another, established the order of social dominance, then both fell asleep.
+
+Results: Identical to control test B.
+
+Notes: Interestingly, SCP-247 was the beta animal in this interaction. - Researcher S████
+
+Experiment Log 247a-14
+
+Date: ██/██/2010
+
+Test Subject: An adult male Bengal Tiger
+
+Control Test A: Control fled up a tree in terror. Subject ignored it.
+
+Control Test B: Omitted, record of normal Bengal tiger mating behaviour substituted.
+
+Results: As expected based on control B. [DATA EXPUNGED].
+
+Notes: Researcher S████ has been removed from this project for lax security in his experiments, although in light of his injuries, further disciplinary measures have been deemed unnecessary. [DATA EXPUNGED], which seems to have benefited from a form of ‘hybrid vigor’, has been designated SCP-247-1. Considering that SCP-247 is likely to have bred naturally in the wild, Mobile Task Force Iota-5 ("Tiger Bait") has been formed and assigned to hunt down and contain or destroy all incidences of the hybrid SCP-247-1. - O5-█

@@ -1,0 +1,65 @@
+Item #: SCP-253
+
+Object Class: Euclid
+
+Special Containment Procedures: At this time, SCP-253 poses a substantial threat to humanity. SCP-253 is to be kept under Biosafety Level-4 protocols at all times. All research is to be conducted at a site where incineration and irradiation protocols can be swiftly enacted, that is geographically isolated, and does not possess a diverse biosphere. The sterilization protocols shall be enacted following the occurrence of any event on this list:
+
+Communications blackout lasting longer than forty-eight (48) hours.
+
+Power disruption lasting longer than one (1) minute during any active experiments involving SCP-253.
+
+Abnormal rise in average temperatures beyond a change of 6 degrees Celsius (11 degrees Fahrenheit) or rise in humidity levels to 90% relative humidity.
+
+Manifestations of unusual electromagnetic phenomena during testing of SCP-253.
+
+At the conclusion of testing, any subjects exposed to SCP-253 are to be disposed of, and their remains are subject to the sterilization protocol.
+
+Any researcher leaving the facility is to undergo two weeks of mandatory chemotherapy, followed by a 15-day quarantine.
+
+Description: SCP-253 is a cluster of undifferentiated human cells, matching the physiological traits of cancer. As per cancerous cells, cultured samples of SCP-253 will grow indefinitely if given an adequate source of nutrition. SCP-253 is contagious, able to pass from human to human, as well as to some animal species. SCP-253 is not an airborne contagion, but physical contact with surface neoplasms on infected subjects will spread the plague.
+
+The first sign of SCP-253 infection is the emergence of skin lesions, typically dime-sized (2 cm in diameter) in groups of three to five, at the site of infection. Within twelve (12) hours after the appearance of the lesions, MRI scans show the development of neoplasms within the brain. At this time, the neoplasms do not induce neurological symptoms.
+
+Over the next twenty-four to forty-eight (24 to 48) hours, numerous skin lesions start to emerge and grow in size. These lesions often induce substantial swelling in surrounding tissue, which can be quite painful for the subject. Often, the pain, if left untreated, leaves many subjects unable to move. Towards the end of the forty-eight (48) hour period, neoplasms start to emerge in the lymphatic system and neurological symptoms start to manifest.
+
+The neurological symptoms of SCP-253 are different for each patient, depending on which part of the brain the invasive cells have contaminated, with one exception. Each human patient heretofore exposed to SCP-253 has felt a complete cessation of pain forty-seven to forty-nine (47 to 49) hours after infection. Other neurological symptoms include:
+
+Inability to focus attention
+
+Disorganized speech
+
+Memory loss
+
+Hallucinations
+
+Euphoria
+
+Megalomania
+
+Inappropriate emotional responses
+
+Sociopathy
+
+Catatonia
+
+The neoplasms do not seem to respond to radiation, and chemotherapy with high-dose mitoxantrone, irinotecan, and dacarbazine has only minimal effects. Chemotherapy was observed to kill some cells and markedly slow the growth of others, and therefore might be useful for post-exposure prophylaxis, but is ineffective in established disease.
+
+If the mass of cancerous cells within a population does not reach a biomass threshold of approximately one-thousand four-hundred kilograms (1400 kg/3100 lbs), the cells will overwhelm the host within five (5) days, resulting in death. If not transferred to a new host, the cancer cells will consume any remaining usable biomass of the host's corpse before finally running out of resources and dying.
+
+However, if the mass of cancer cells within a population reaches the threshold, electromagnetic phenomena will start to manifest. The sources of these phenomena appear to be the infected hosts, but the mechanism of the EM manipulation is not understood at this time.
+
+Further, it appears the EM emanations facilitate some sort of communication between the hosts. Coordinated in some fashion by the neoplasms, the hosts start to act as one entity spread through many bodies. The intelligence of this entity is initially animalistic and reactive. As the intelligence of the gestalt entity is believed to be based on the remaining brain tissue within the hosts, it is hypothesized that the entity may be able to achieve human-like intelligence. The events from Incident I.J77.82 appear to support this hypothesis, and research suggests that some of the more unsettling things seen at ██████████████ Hospital are manifestations of this intellect.
+
+Until suitable methods can be created to jam the EM transmissions of the end-stage infection entity, and until efficacious treatment alternatives for the diseases known as cancer enters common usage, the utmost care must be taken with samples of SCP-253.
+
+Addenda:
+
+253a: Proposal that SCP-253 be classified as Euclid is pending review of Incident I.J77.82 by the Overseers.
+
+253b: SCP-253 has been given provisional Euclid classification. Final report on Incident I.J77.82 has been released. Research into the events of Incident I.J77.82 has been approved.
+
+253c: Research involving the approaching the threshold biomass in human subjects has been denied. Decision on request to test threshold biomass in cultured samples pending.
+
+253d: Use of SCP-500 in experiments with SCP-253 has been denied.
+
+253e: Use of SCP-427 in experiments with SCP-253 have been approved. Early results are not encouraging. Despite success using 427 to treat other forms of cancer, in this instance, 427 appears to induce accelerated growth in both tumorous growths as well as in the patient. Subjects were terminated as they neared the critical threshold for use with 427. Request to take patients beyond the critical threshold is pending.

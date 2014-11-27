@@ -1,0 +1,27 @@
+SCP-295
+
+Item #: SCP-295
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-295 is to be contained within a 50 m x 50 m concrete room, with all surfaces coated with flame retardant material. All personnel entering and exiting containment must comply with level 3 contamination screening. Three (3) flame retardant exposure suits are to be maintained on the premises and are required for any and all testing involving SCP-295. Feeding will occur once per week, and consists of a meal of 20 kg of naturally grown pinewood, harvested near the Site-19 facility.
+
+Description: SCP-295 is a number of caterpillars resembling Syntomeida epilais in appearance. A single specimen of SCP-295 is capable of creating an unidentifiable substance, which has several unique qualities attributed to it. SCP-295 possesses similar physical attributes to a common caterpillar, with a notable exception being SCP-295’s incredible speed when in pursuit of sustenance. When flammable material is introduced into SCP-295’s environment, it will quickly move to attempt to consume it.
+
+The substance produced by SCP-295 (hereby known as SCP-295-1) is a viscous fluid that possesses natural bioluminescence of variable intensity, averaging at ~150,000 lm. The intensity fades over time, but sufficient heat is capable of renewing its incandescence. However, the danger lies in its other quality, which is its ability to cause violent combustion in any flammable object it comes in contact with. All matter destroyed in this manner leaves no ash or other byproducts behind, although an increase in mass has been observed in specimens of SCP-295 after combustion. A notable exception is living animal matter, which SCP-295-1 is incapable of affecting in all circumstances.
+
+SCP-295 is capable of reproduction given sufficient matter to combust, or when a specific mass has been attained. When this occurs, SCP-295 will pupate, forming a shell of dense carbon with a similar molecular structure to coal. Once a week has passed, both the pupa and the specimen will combust, while the ashes reform into two additional caterpillars, after which the process begins anew. Occasionally, only one specimen of SCP-295 will reform from the resultant ashes, rather than a pair. These ashes will not always reform immediately, and can remain inert. Ashes left on personnel’s clothing can reform later, and further spread SCP-295’s population.
+
+SCP-295 was discovered in ███████, Ukraine, after a series of improbable and volatile forest fires had reduced a large swathe of forests into barren wastes. Agent █████, who had family in the area, noted that the fires had left not a single thing in their wake. When Dr. ██████ was dispatched to investigate, he found a complete lack of life and vegetation, with the exception of a species of caterpillar that was not local to the area. What had alarmed him more, however, was the sudden destruction of his clothing and belongings by a swarm of starved SCP-295s. After several attempts and more than a few changes of clothing, SCP-295 was brought to Site-19 and safely contained.
+
+Addendum 295a: Despite months of regular feeding, the number of specimens have neither declined nor have they increased since being contained. The cycle of reproduction has stayed consistent, with the majority of recorded combustion resulting in two new specimens. How the population has kept itself in check is unknown at this time.
+
+Addendum 295b: See Incident 295-k
+
+Addendum 295c: It’s possible that there are still wild specimens of SCP-295 out in the world, considering the trouble we have containing it in the lab. Any attempts to contain populations of SCP-295 in the field are to be made on location, with the intent to isolate and terminate.
+
+Note: This stuff has some serious potential for weaponization, if we could get enough of it out of the little worms. Find a way to carry and dispense it and you’d put napalm to shame. –Agent █████
+
+Addendum 295d: See Experiment Log 295-1-a
+
+Addendum 295e: See Experiment Log 295-1-b

@@ -1,0 +1,69 @@
+Item #: SCP-2119
+
+Object Class: Euclid
+
+Special Containment Procedures: To date, containment of SCP-2119 is not a viable possibility. However, all Foundation facilities are to monitor radio frequency 514.1875 MHz for SCP-2119 transmissions. If discovered, Mobile Task Force-Epsilon-734 ("Vanishing Act") shall be dispatched to collect and contain individual(s) broadcasting the signal. In cases in which containment would draw unacceptable levels of attention to Foundation activities, targets will be monitored until such time that containment is possible.
+
+Persons found to be broadcasting SCP-2119 transmissions are to be remanded to a Quarantine Facility. Agents are permitted to use tranquilizing darts and non-lethal ballistics on non-compliant Foundation staff infected with SCP-2119. Any persons broadcasting SCP-2119 transmissions are to be handled only by personnel wearing Level 3 Hazardous Material Suits.
+
+Specimens of SCP-2119, unless engaged in testing procedures, are to be stored individually in hermetically sealed containers of RF shielded glass with an attenuation coefficient of 1.1 or higher for radio waves with a frequency of 514.1875 MHz. All testing shall be conducted in hermetically sealed chambers composed of steel reinforced concrete walls to guarantee complete radio wave absorption of SCP-2119 transmissions. All personnel handling specimens of SCP-2119 are required to wear Level 3 Hazardous Material suits.
+
+Description: SCP-2119 is a parasitic organism that embeds itself in the human corpus callosum. Specimens range from 5 to 15 mm in lengh, are gray in color, and possess a segmented body, six multi-jointed legs, and antennae-like protrusions from the head and abdomen. On the underside of each specimen are six barbed hooks that it uses to attach itself to its host's brain. Instances of SCP-2119 contain both organic material, 97% biologically identical to Gryllus rubens (southeastern field cricket), and technological elements, including silicon components of an unknown nature and platinum wiring. As such, researchers conclude that the entities are most likely manufactured.
+
+Instances are capable of problem solving abilities that allow it to pursue a potential host while evading detection. When in the vicinity of SCP-2119, human beings not wearing Level 3 Hazardous Material Suits will begin to show marked drowsiness after 3 to 8 minutes of exposure, with 100% of subjects losing consciousness by 12 minutes. Once the individual is unconscious, specimens of SCP-2119 will enter the subject's head via the nostrils or ear canal. Subjects show no distress during this process and will regain consciousness within 5 minutes.
+
+SCP-2119 will only infect unconscious human beings. Instances attempt to conceal themselves and will wait until a potential host succumbs to its sedative effect and will actively flee from those aware of its presence. When contained, SCP-2119 will investigate the limits of its enclosure. When no potential host or escape from its containment is found, the organism will attempt concealment and remain motionless. Specimens do not seem to be aware of cameras as a means of observation and will ignore most remotely controlled devices. As a result, the organism can be easily collected and stored when not embedded in a human subject.
+
+However, individuals not wearing Level 3 Hazardous Material Suits that come into close contact with infected subjects have a 14% chance of spontaneous infection without an instance of SCP-2119 physically entering the body. As specimens seem to have no observable means of reproduction, how additional instances of SCP-2119 are produced is currently unknown, as is the exact means of transmission between hosts.
+
+Once imbedded in a host, SCP-2119 will broadcast a 514.1875 MHz radio signal with a range of approximately 3 km consisting of a tone (155.56 Hz, wavelength: 222cm) lasting .05 seconds at two second intervals. It is believed this signal is used to locate other instances of SCP-2119. Once a connection has been established, specimens will transmit a continuous stream of tones of variable lengths between instances, ranging from 70 Hz to 1305 Hz, with wavelengths ranging from 480 cm to 25 cm. To this date, no pattern or code has been discerned and it is currently unknown if the transmission contains any coherent information or is entirely random.
+
+Hosts of SCP-2119 display no other symptoms. There is zero immunoresponse to the presence of the organism. Infected individuals display no anomalous effects, behaviors, or attributes. Hosts demonstrate no awareness of infection.
+
+To date, any attempts to remove SCP-2119 from its host or deactivate it through non-invasive means have resulted in the immediate cessation of all of the host's electrical neurological activity. Once the host is dead, SCP-2119 will exit the body and attempt to conceal itself somewhere in the environment, choosing to exit when there are no humans within close proximity.
+
+Until a means of deactivating SCP-2119 without killing the host is possible, containment is an impossibility due to widespread infection. At the date of this writing, ███ individuals are confirmed as being infected and under surveillance, with an estimated █████ cases of infection yet to be discovered.
+
+SCP-2119 was discovered at Site ██ while exiting from the left of ear of D-9934 after he died from multiple self inflicted stab wounds. At first thought to be a newly discovered anomalous effect of SCP-████, it was later determined that the organism was an unrelated phenomenon and was classified SCP-2119. After testing, it was discovered ██ Foundation staff and ██ D-Class personnel were also infected. Staff were relocated to Quarantine Facility ██. D-Class personnel were reassigned to SCP-2119 for study.
+
+Incident 2119-14: On █/█/████, all known individuals infected with SCP-2119 simultaneously ceased all movement. Examination showed subjects had extreme muscle rigidity and lacked pupillary response, reflex response, heartbeat, respiration, and brain activity. Throughout this event, subjects made simultaneous vocalizations. (See Transcript 2119) Current theory is that this was an unintentional transmission from the manufacturer of SCP-2119 instances. Seven minutes, twelve seconds after cessation of movement, subjects resumed normal behavior. Individuals showed no signs of injury or tissue damage due to lack of oxygen during the event. Interrogations of subjects lead researchers to believe infected individuals are unaware of the event. Throughout the incident, SCP-2119 transmissions increased 312% in complexity.
+
+Transcript 2119
+
+Incident 2119-14: █/█/████
+
+[BEGIN TRANSCRIPT]
+
+<14:03:12> Subjects infected with SCP-2119 simultaneously cease all movement. Subjects begin quietly murmuring. ((Researchers conclude this to be the vocal equivalent of ambient noise.))
+
+<14:04:01> Subjects inhale sharply, making a scraping noise with their throats. ((Researchers conclude this to be the vocal equivalent of the sound of a chair scraping on concrete.))
+
+<14:04:09> "Hey'd ya see where I left 7097? I had it in the bracket for clean up and now it's not there."
+
+<14:04:17> Quieter. "Yeah. There was a ton of flashing you missed on the connectors. I put it back in the sol. If Rike sees that kind of shit he'll have your head, man. Now is not the time to get noticed." ((Researchers conclude this disparity in volume to be the result of this speaker being farther from broadcasting unit.))
+
+<14:04:26> Murmuring resumes.
+
+<14:05:10> "Whatever. Fuck that guy. It's not our fault. We built them exactly how he told us to. Evacuate on death. His call, not ours."
+
+<14:05:20> Quieter "Dude, I get it. All I'm saying is keep your head low and don't fuck up on little shit. I've never seen him this twitchy."
+
+<14:05:28> "Yeah, yeah. Grab me a Coke."
+
+<14:05:35> Subjects make various nonverbal vocalizations ((Researchers conclude this to be the vocal equivalent of the sound of a small refrigerator opening and closing, one individual handing another individual an object, a carbonated beverage can being opened, and the sound of a human drinking))
+
+<14:05:57> Murmuring resumes with occasional clicking sounds.
+
+<14:09:46> "What's with the feed?"
+
+<14:10:20> "Oh shit."
+
+[END TRANSCRIPT]
+
+Following Incident 2119-14, the Foundation disseminated reports of a rise in viruses that may cause temporary stroke-like symptoms through major news organizations and social media.
+
+SCP-2119 has been upgraded to Keter status, pending the Approval of the Object Classification Board.
+
+Investigation into the identity of "Rike" is currently underway.
+
+Addendum: As of ██/██/████, by order of O5-█, researchers are to focus on disabling all instances of SCP-2119 simultaneously, utilizing their signal as a means of transmitting a deactivating agent. Due to a lack of a viable containment procedure and the possible awareness of the Foundation by an unknown group or entity, the survival of hosts is no longer a priority.

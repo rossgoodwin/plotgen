@@ -1,0 +1,91 @@
+Item #: SCP-1575
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1575 is to be held in a 6m x 6m x 4m containment chamber at Bio-Site 23, with direct access to Research Laboratory 3 at same. Except when in use for testing, no water is to be allowed into SCP-1575's containment, and after testing all water used is to be held in quarantine for use in further tests.
+
+Description: SCP-1575 is a marble statue, standing approx. 2.75m high with an additional base of 0.5m. The statue is a depiction of Venus (Roman goddess of love, beauty, fertility and seduction) clad only in wrappings from the waist downwards. The statue acts as a fountainhead; damage to the base shows that it was likely intended as a permanent installation, with a single channel running from underneath the base up through a hole in the mouth. SCP-1575 shows no anomalous properties on its own, nor do samples removed from the whole. An inscription on the base, partially obscured by the above-mentioned damage, indicates it to have been sculpted in the early 16th century for a private collection in ██████████, Italy.
+
+Any otherwise fresh water which is allowed to pour through SCP-1575 in its nature as a fountain (henceforth referred to as SCP-1575-1) is shown to have mutagenic properties when consumed or otherwise introduced into a body; external application (including long-term submergence) does not trigger a mutation. Non-human mammalian creatures who consume at least 0.5 liters of SCP-1575-1 daily will begin mutating into a human being over the course of roughly one month, with ethnicity roughly in accordance with humans native to the species' natural habitats. For example, a European deer will have primarily Caucasian features post-mutation, while a North American deer will have features like those of Native Americans. Curiously, most modern breeds of dogs and cats will have indistinct or mixed racial features.
+
+Survivors of this process describe it as extremely painful, and it has an approximate 25% fatality rate for females. Males experience a 95% fatality rate, with most survivors having an androgynous appearance with non-functional or completely missing genitalia. Additionally, there is a 40% chance that the animal will retain one or more pre-mutation features, such as fur, paws instead of hands and/or feet, a tail, non-human ears, etc. The final apparent age of the subject is normally in accordance to the stage of life of the creature involved (prepubescent, adolescent, adult, elderly).
+
+It should be noticed that cases where the subject is gaining or losing a significant amount of mass, appetites and bodily functions will shift to match. Please see the attached testing logs for specific information.
+
+After a successful mutation is completed, subjects normally display an intelligence level typical for what is considered average for their species. Several subjects have shown a somewhat increased capacity for problem solving than is considered normal for their species; whether this is due to neural restructuring or a byproduct of Foundation testing is currently unknown. Many subjects which develop proper vocal cords are able to learn to speak, but typically only with rudimentary phrases of basic needs (such as food, sleep, play, etc.) Similarly, most subjects are able to achieve full mobility within two-to-four weeks of stabilization, though manual dexterity takes far longer to perfect if the original species had simple paws or hooves.
+
+SCP-1575-1 does not have any notable effect on a creature's personality, memories or instincts; all carry over from the individual animal's existing self despite drastic restructuring of the brain. Domesticated animals typically retain previous levels of affection for humans, though the physical and mental trauma of the mutation process often leads to cases of depression and other psychological issues.
+
+Humans have not been observed to experience any notable effects when ingesting SCP-1575-1. Non-mammalian creatures will mutate, but due to significant physiological differences they will have a 99.9% fatality rate due to drastic and incongruous physiological differences. Only 2 non-mammalian mutations were known to have stabilized; neither had completely changed to a human form, and both were euthanized after brief study.
+
+Addendum 1575-1: SCP-1575 was recovered from a facility named "The Miracle Farm", previously owned and operated by Marshall, Carter & Dark Ltd. The stated goal of the facility was to "present our clients with the finest in custom-ordered pets, prey and companions." Mobile Task Force Theta-2 ("Moreau's Morgue") was able to secure the facility, ██ on-hand personnel, █ attending clients, and ███ living specimens in various stages of mutation; only █ specimens were deemed fit for transportation and study, all others euthanized on-site. Farm personnel and clients were detained for questioning, then given class A amnesiacs and released. A cover story of a runaway fire was implanted in their memories before release to explain the destruction of their facility.
+
+According to obtained records, at least ██ specimens were known to be in possession of clients of MC&D. MTF Theta-2's current mission is to track down and recover or destroy said specimens; thus far, █ have been accounted for.
+
+Addendum 1575-2: Select testing logs
+
+Access 1575 testing logs (Level 2 security clearance required)
+
+Close logs
+
+Test 1575-2
+
+Subject: Female Japanese field mouse (Apodemus argenteus), adolescent
+
+Result: Subject expired after twelve (12) days. Cause of death determined to be due to overall body size increasing faster than the cardiovascular system was able to supply.
+
+Notes: Subject had undergone a 500% increase in overall size, measuring approximately 1.01 meters. Subject had been observed consuming nearly 95% total body weight per day before expiration.
+
+Test 1575-4
+
+Subject: Male white-tailed deer (Odocoileus virginianus), preadolescent
+
+Result: Partial transformation, stabilized after thirty (30) days.
+
+Notes: During mutation, subject suffered severe hemorrhaging in the pelvic area. Reproductive organs atrophied, rendered asexual by end of mutation cycle. Subject maintained tail and base for antlers; however, antlers do not grow beyond nubs typical of yearling bucks. Subject's final appearance androgynous, but otherwise typical of Eastern-seaboard Native American.
+
+Test 1575-6
+
+Subject: Female Bengal tiger (Panthera tigris tigris), adult
+
+Result: Subject expired after four (4) days due to cardiac arrest and failure of liver and kidneys.
+
+Notes: Due to the subject's aggressive nature, it was kept sedated during examination. It is believed that the sedatives disrupted the normal mutation process and caused the organ failure; future subjects not to receive sedatives unless at least 80% stabilized.
+
+Test 1575-9
+
+Subject: Female domestic canine (Canis lupus familiaris) of mixed breed, adult
+
+Result: Experiment aborted after six (6) days.
+
+Notes: Subject was discovered to have a significant flea infestation as well as intestinal parasites; said parasites all were affected by SCP-1575-1. Testing procedures updated, Dr. ████ sent notice to all staff working with SCP-1575.
+
+Test 1575-12-
+
+Subject: Female Hyacinth Macaw (Anodorhynchus hyacinthinus), preadolescent
+
+Result: Subject expired after twenty (20) days, cause of death determined to be internal injuries suffered from extensive bone fractures.
+
+Notes: It appears that in this case, the subject's skeleton was not able to change at such a speed as to match the rest of the body; differing muscle functions and the stresses of the mutation caused over 60% of the skeletal structure to break in various manners. Curiously, the extremities of the wings had already begun to split and appeared to have been forming into crude hand analogs.
+
+Test 1575-15
+
+Subject: Female grizzly bear (Ursus arctos horribilis), adult
+
+Result: Mutation complete, stabilized after thirty-two (32) days.
+
+Notes: Subject did not consume any food or drink besides SCP-1575-1 during the first twenty-nine days of mutation; subject's excreta shown to contain excessive amounts of organic material, fatty deposits, blood, etc.
+
+Test 1575-16
+
+Subject: Female Grévy's zebra (also Imperial Zebra, Equus grevyi), adolescent
+
+Result: Partial transformation, stabilized after twenty-seven (27) days.
+
+Notes: Subject's main body, hind legs and most of its head shifted to human with an appearance of native African, while front legs and jaw structure remained most normal for a zebra. Subject showed extreme distress, difficulty of movement and impairment while eating, euthanized after thorough examinations.
+
+Addendum 1575-3: Notice from Dr. ████ regarding a minor containment breach involving SCP-1575:
+
+Following the incident on the twelfth of this month, during test 1575-9, any animal to be used in testing with SCP-1575 is to be thoroughly examined for both external and internal parasites. Our initial beliefs that SCP-1575-1 only affected the primary host has proven wrong; it apparently retains its mutagenic properties, even when ingested secondarily through the host's lower GI tract or blood stream. We absolutely do not need another instance of half-mutated flea-creatures, and the psychologist is having a hard time helping Janet with her nightmares of a seven foot long tapeworm with a screaming face tearing out of the belly of a dog.
+
+- Dr. ████

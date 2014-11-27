@@ -1,0 +1,87 @@
+SCP-1058 during testing at Site ██ on █/██/████
+
+Item #: SCP-1058
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1058 is to be kept in Humanoid Containment Wing 2 of Site 17. Due to the nature of the subject's anomalous behavior, the floor of the cell is to be covered with 1cm of sand, to be replenished every two weeks. The cell is to be lit by only a single light source at all times. The source should be mounted in the center of the ceiling, with redundant backups in case of failure.
+
+Description: SCP-1058 appears to be an approximately 60 year old male human, possibly from the southern United States. The subject was recovered from a Marshall, Carter and Dark Ltd. "distribution center" in ███████, ██. The subject is fully sentient and capable of speech, as well as interaction with physical objects.
+
+SCP-1058's anomalous properties manifest as a total invisibility to all forms of direct observation. Despite this, the subject does cast a shadow. In addition, SCP-1058's shadow causes the surface or object which it falls upon to alter its appearance towards that of the subject. The speed and mechanism of the process appear to be dependent on the density, state, and other physical characteristics of the substance the subject's shadow is being cast on. Sand and other granulated or powdery substances seem to be the quickest affected by SCP-1058, with metals and other hard materials being among the slowest affected.
+
+Any object attached to the subject also comes under its effect, becoming invisible to direct observation, and altering the appearance of the effect of the subject's shadow on the material. Anything removed from the subject becomes visible, this includes clothes and accessories, as well as pieces of hair, blood samples, and other bodily effects.
+
+Addendum:
+
+Test Log 1058-1
+
+██/█/████
+
+Subject: SCP-1058
+
+Test Coordinator: Senior Researcher ██████
+
+Testing Environment: Standard Foundation 5m x 5m x 5m testing cell. Floor was covered in approximately 1cm of sand for the duration of the test, and SCP-1058 was placed on a chair in the center of the cell. At the start of the test, all but a single light was turned off until the conclusion of the test.
+
+00.01.00: A visible ridge of sand appears to form on the sand on the side of SCP-1058 opposite the lamp in the shape of the subject with his arms by his side.
+
+00.01.37: SCP-1058 is instructed to lift his arms above his head. Subject complies.
+
+00.01.44: The sand ridge is observed to "tumble", following the movement of the subject. The affected area began to gain a more detailed likeness of the subject regardless of movement.
+
+00.02.08: Subject is instructed to wave arms rapidly. Subject complies before returning his arms to the original position.
+
+00.02.15: The sand remains stationary. Affected area ceases movement as the hypothesized maximum level of detail is reached, being little more than a silhouette with creases at the ankles, waist, wrists, neck, and hairline.
+
+00.02.40: Test ended.
+
+Test Conclusion: The subject's effect on the material it is projected onto is preceded by an unmeasured amount of "lag" before the material is altered to reflect movement.
+
+Test Log 1058-2
+
+██/█/████
+
+Subject: SCP-1058
+
+Test Coordinator: Senior Researcher ██████
+
+Testing Environment: Standard Foundation 5m x 5m x 5m testing cell. Floor was covered in a large piece of sheet metal, and SCP-1058 was placed on a chair in the center of the cell. At the start of the test, the light source was placed so that it shined upon SCP-1058 from a different angle.
+
+00.00.19: Surface of the metal in the subject's shadow begins to show signs of corrosion and rust.
+
+00.05.14: Subject falls asleep. Portion of the metal affected remains the same besides gaining additional detail slower than before, contrary to the slight changes in subject's posture.
+
+00.23.55: Subject is woken up, instructed to get out of chair.
+
+00.24.10: Chair observed to have changed color in accordance to the subject's immediate shadow.
+
+00.24.14: Color of chair gradually returns to previous state. The corrosion and rust on the metal remains. No other anomalous properties observed.
+
+00.25.40: Test ended.
+
+Test Conclusion: Speed of the effect appears to be based on the subject's state. The duration of the effect on the material also appears to be based on the mechanism by which it is affected, not only the physical properties of that material.
+
+Test Log 1058-3
+
+██/█/████
+
+Subject: SCP-1058
+
+Test Coordinator: Senior Researcher ██████
+
+Testing Environment: Standard Foundation 5m x 5m x 5m testing cell. D-21894 instructed to stand in SCP-1058's shadow for the duration of the test.
+
+00.00.32: D-21894 reports a "buzzing" sensation on the area of his body covered by SCP-1058's shadow.
+
+00.01.37: SCP-1058 expresses a wish to sit down, approximately 2 seconds later, D-21894 appears to be repeating SCP-1058's statement, but does not vocalize.
+
+00.07.16: SCP-1058 instructed to try moving one of his arms. Subject complies.
+
+00.07.19: [DATA EXPUNGED]
+
+00.07.30: Test ended.
+
+Test Conclusion: [DATA EXPUNGED]
+
+D-21894 expired several hours after the conclusion of the test.

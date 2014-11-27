@@ -1,0 +1,95 @@
+Item #: SCP-1648
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1648 are to be kept in a flame retardant foam-lined humanoid containment chamber. The chamber is to be equipped with an exhaust fan in the ceiling for the removal of smoke. SCP-1648-A is to be fed 3 cuts of pork once daily. SCP-1648-B is to be fed 3 cuts of beef once daily. SCP-1648 and their chamber are to be inspected daily for uneaten food; any found is to be discarded. Personnel are not to bring extraneous materials into the containment chamber outside of scheduled testing. Personnel are not to leave any living organism or portion thereof unattended in the presence of SCP-1648.
+
+Description: SCP-1648 are a pair of roughly humanoid bipedal creatures, henceforth denoted as SCP-1648-A and SCP-1648-B. The creatures are covered in colorful, feather-like fur and have distended abdomens, long flexible arms, and short legs. Their faces are reminiscent of Phyllostomidae (leaf-nosed bats), with many small, sharp teeth, as well as ears resembling the tufts of Bubo (horned owls). The creatures are obligate carnivores — SCP-1648-A can only digest pork, and SCP-1648-B can only digest beef. They can temporarily store inorganic items in their stomachs. SCP-1648 excrete by belching fire and smoke.
+
+SCP-1648-A, which refers to itself as "The Hunch," has indigo fur, stands 155 centimeters tall and weighs 80 kilograms. SCP-1648-B, which refers to itself as "The Huzzard," has violet fur, stands 199 centimeters tall and weighs 95 kilograms. Each creature wears a dark gray bowler hat which reappears in its original place if it is removed, although the previous instance does not disappear until unobserved. SCP-1648 claim to be related to one another, but they are unable to quantify to what degree, often listing off lengthy series of relatives. In conversation, they finish each other's sentences. If significant separation of SCP-1648 is attempted, SCP-1648-A will jump into SCP-1648-B's arms and their fur will knit together, making them impossible to physically separate.
+
+SCP-1648 possess the ability to construct machines from nearly any materials presented to them and to predict obstacles and circumstances that would prevent the machines from being constructed. Construction takes place in a silent dance-like state in which materials are thrown from one entity to the other and assembled in a faster and more convoluted manner than the human eye can perceive, even when viewed with high-speed camera. During construction, SCP-1648 demonstrate feats of extreme strength that they cannot replicate in other conditions.
+
+SCP-1648-A and SCP-1648-B infrequently request specific materials with which to build machines. The entities seem to lack an understanding of the difference between life and death, and infrequently incorporate living organisms or portions thereof into their machines. They may incorporate their food rations into machines if oversupplied.
+
+Excerpts from SCP-1648 Machine Construction Test Log
+
+Test Subjects: SCP-1648-A and SCP-1648-B
+
+Test: SCP-1648-Test-01
+
+Materials Provided: 20 oak wood 2x4s, 100 grams of aluminium, 1 hearing aid (located in SCP-1648-B's stomach before testing began)
+
+Time Elapsed: 77 seconds
+
+Result: A crude cello that autonomously played a 466 Hz note at approximately 180 decibels for 0.5 seconds before combusting from the sheer mechanical stress.
+
+Notes: SCP-1648 informed researchers that this was a perfect performance of a song called "Un" from their place of origin, though they did not elaborate on the subject. SCP-1648 do not appear to understand the concept of hearing loss and were uninjured.
+
+Test: SCP-1648-Test-03
+
+Materials Provided: 1 cardboard box containing 28 model race cars
+
+Time Elapsed: 3 seconds
+
+Result: N/A
+
+Notes: SCP-1648 refused to construct a machine with the provided materials.
+
+Test: SCP-1648-Test-07
+
+Materials Provided: 1 Dalmatian dog in an iron cage with a linen sheet, 2 kilograms of lead, 1.5 (specifically requested as "one and a half") helical CFL light bulbs
+
+Time Elapsed: 212 seconds
+
+Result: A hexapodal, headless and tailless Dalmatian wearing a metal exoskeleton over a linen cloth jumpsuit. In place of a head, it has a toaster-like device designed to toast bread products and then eject them at nearly 1200 kph. The origin of the two additional legs is unknown. Its brain is located in its chest.
+
+Notes: SCP-1648-A and SCP-1648-B were quick to inform researchers that it responds to the name "Malarkey."
+
+Document-1648-Interview-Log-11
+
+Interviewed: SCP-1648-A, SCP-1648-B
+
+Interviewer: Researcher Julio Martinez
+
+Foreword: SCP-1648-A and SCP-1648-B had just completed Test-07.
+
+<Begin Log>
+
+Researcher Martinez: What else can you tell me about this creation?
+
+SCP-1648-A: Mmm, it's more machine than
+
+SCP-1648-B: Dog. The whole skeleton has
+
+SCP-1648-A: Been redesigned. The jumpsuit is
+
+SCP-1648-B: Used to keep the exocage from
+
+SCP-1648-A: Irritating the skin.
+
+Researcher Martinez: Why remove the head and tail, though?
+
+SCP-1648-B: Firing the bread sticks causes a
+
+SCP-1648-A: Significant amount of
+
+SCP-1648-B: Recoil. Mmm, we needed to
+
+SCP-1648-A: Stabilize it, and the head and
+
+SCP-1648-B: Tail got in the way of that. They were
+
+SCP-1648-A: An obstacle.
+
+Researcher Martinez: Why the name "Malarkey?"
+
+SCP-1648-B: What else would you
+
+SCP-1648-A: Call a headless dog? Mmm!
+
+SCP-1648-B: Mmm!
+
+<End Log>
+
+Closing Statement: "Malarkey" was classified as SCP-1648-C and taken from SCP-1648-A and SCP-1648-B for study. The next morning, SCP-1648-C was found to be dying of starvation. When questioned, SCP-1648 explained that they "didn't think a mouth was all that important." SCP-1648-C has been put on IV while attempts are made to locate the entrance to its digestive tract.

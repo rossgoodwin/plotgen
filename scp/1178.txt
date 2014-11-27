@@ -1,0 +1,35 @@
+SCP-1178 during its initial launch event on ██/██/19██.
+
+Item #: SCP-1178
+
+Object Class: Keter
+
+Special Containment Procedures: A 200 square kilometer area of exclusion has been created around SCP-1178. Any human or vehicle entering this area is to be immediately terminated or destroyed. Security personnel patrolling this area from the ground must maintain a state of radio silence at all times. Aircraft patrolling the area must never move closer than 20 kilometers to SCP-1178. Observational equipment must be constantly manned by Foundation personnel.
+
+If SCP-1178 shows any signs of movement considered out of the ordinary, it is to be considered a containment breach and a possible apocalyptic scenario. Loudspeaker units set up around SCP-1178 must constantly create broadcasts of varying nature, including:
+
+Fabricated news reports of limited nuclear war between NATO states that possess nuclear armaments and the Soviet Union and the Peoples Republic of China. In addition, there are to be reports indicating that the Midwestern United States has been devastated in a retaliatory strike and that the US Army has invaded the Kamchatka Peninsula.
+
+False broadcasts indicating troop movement and communications in the Soviet and United States armed forces.
+
+False civilian broadcasts corresponding to the above events.
+
+Television signals for programs broadcast between 1962 and 1981 in the Soviet Union.
+
+Advertisements for consumer products such as gas masks, radiation suits and firearms capable of being used by a child or parent.
+
+In the event that SCP-1178 begins to accelerate, all personnel are to initiate the Pretia Protocol. In the event of a Pretia Protocol failure, Overwatch Command is to be set on high alert for the imminent possibility of an end-of-the-world scenario.
+
+Description: SCP-1178 is a Soviet era RT-2 Intercontinental Ballistic Missile (NATO reporting name SS-5 'Skean'), manufactured sometime between 1962 and 1967. SCP-1178 is suspended exactly 1.34 kilometers in the air above █████, a former Soviet missile base. SCP-1178's rockets will activate intermittently, however it has never been observed to move outside of breach events.
+
+If any vehicle or mammalian organism approaches █████ or SCP-1178 from a distance of 200 kilometers or less, or if a broadcast contrary to standard SCP-1178 broadcasts is made in SCP-1178's range, it will begin to slowly accelerate itself from its position above the base. SCP-1178 moves very slowly, with the highest speed ever obtained being an estimated 1.6 kph, achieved during its initial activation event. SCP-1178's acceleration is to be considered a breach event, as it will cause SCP-1178's secondary effect to initiate. The initiation of the Pretia Protocol must to be done within 3 minutes of SCP-1178's acceleration in order to be effective.
+
+SCP-1178's secondary effect will initiate in the event that the missile is able to accelerate to a speed greater than 0.2 kph. The early nuclear detection systems of any former Soviet state will begin to indicate an imminent nuclear strike. Starting with radar stations, all equipment possessed by these nations will begin indicating a massive nuclear strike coming from any nuclear capable NATO nations. When these states have gone on alert for the possibility of a nuclear strike, the equipment of any nuclear capable NATO nations will also begin to indicate an imminent nuclear strikes from any country currently affected by SCP-1178. Note that SCP-1178 will only affect the early detection equipment of these countries, and does not affect the actual launch devices or the commanders in charge of said devices.
+
+The Pretia Protocol calls for sleeper agents within nuclear detection organizations in various NATO and former Soviet states to sabotage the early detection systems of the countries they are working for. This is to create a plausible explanation for why these systems showed false readings. Once this has been achieved, personnel are to ignore or cast doubt on any readings detected by equipment affected by SCP-1178. In the event that one nation launches a nuclear attack, the response systems of the recipient nation(s) are authorized to be disabled by Foundation agents, to minimize the damage created by a nuclear strike and avert an XK scenario.
+
+Prior to SCP-1178's containment, several incidents of near-accidental nuclear strikes by world powers were reported to the Foundation by assets integrated in the Soviet GRU and the American CIA, leading to the discovery and recognition of SCP-1178 as an anomaly. A partial list of incidents caused by SCP-1178 has been included in this report.
+
+On ██/██/████, SCP-1178 was launched as a test by the Soviet Union. During the test, SCP-1178 began to display its anomalous properties by ceasing to accelerate once it reached a height of approximately 1.33 Kilometers off of the ground. At the same time, early warning nuclear detection equipment in the USSR began to display an imminent nuclear strike by the U.S. It is not known why the USSR did not retaliate in response to these readings. Approximately 6 days after the incident occurred, the GRU Division "P" evacuated and then demolished the base, and established a permanent observation center.
+
+After an unknown period of time, SCP-1178 began affecting the area around the base, leading to its second activation event. Following this event, the area of exclusion that currently exists around it was established. During the Cuban Missile Crisis, GRU personnel began broadcasting the signals currently used by SCP personnel to contain SCP-1178. It is believed that research with SCP-1178 had led them to create an elaborate "post-war" hoax, in order to keep SCP-1178 pacified. Research notes recovered from the GRU theorized that SCP-1178 would only activate to create a nuclear war, and if one had already occurred it would remain inert until another situation resulting a nuclear war occurred.

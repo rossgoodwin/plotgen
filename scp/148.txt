@@ -1,0 +1,49 @@
+Item #: SCP-148
+
+Object Class: Euclid
+
+Special Containment Procedures:
+
+REVISION 3
+
+SCP-148 is to be stored as 120 cast ingots, each of which weighs approximately 10 kg at time of writing. Ingots of SCP-148 may not be housed at the same site as any SCP (due the potential for unforeseen interactions); otherwise, said ingots should be distributed equally among acceptable Foundation facilities. The mass of each contained ingot of SCP-148 must be measured and reported monthly.
+
+Under no circumstances should any SCP with mind-affecting or extrasensory properties come into contact with SCP-148. In the event of such contact, the immediate area must be evacuated and the affected sample of SCP-148 detonated remotely.
+
+Personnel are not to be assigned to SCP-148 for a period of time longer than three weeks. Any personnel assigned to SCP-148 are to be given regular psychological evaluations.
+
+Description: SCP-148 is a metallic substance, composed of a variety of known and unknown elements. The total mass of SCP-148 on hand is approximately 1.1 1.2 tonnes. SCP-148 has a gray-green color with a bluish tinge and oxidizes readily in the presence of water. SCP-148 has a melting transition point of approximately 4500°C and a boiling transition point of approximately 9000°C. SCP-148 has a density of 6.20 g/cm3 6.76 g/cm3 and qualifies as HRC 39 in a Rockwell hardness test. It exhibits material properties, such as strength, ductility, and workability, similar to platinum.
+
+SCP-148 is composed primarily of platinum and iridium, the two composing 62% and 20% of its mass respectively. In addition, several other known metals are present in its composition, including iron, cobalt, and copper, which collectively make up 16.5% of SCP-148’s mass. However, given the mass of the material, there are believed to be other substances not detectable by mass spectrometry or other means. Images of SCP-148 taken with a scanning tunneling microscope show gaps in its lattice that, under normal circumstances, would be filled with other materials.
+
+SCP-148 has shown the ability to block or otherwise hinder extrasensory mind-affecting properties of living organisms in proximity to it. This effect, while difficult to quantify, appears inversely proportional to the square of the distance from the subject to SCP-148’s surface and directly proportional to the quantity of SCP-148 in consideration. The range for which this effect is detectable is roughly 0.8 meters per kilogram of SCP-148.
+
+1.1 tonnes of SCP-148 was retrieved from the metallurgy department of Prometheus Labs’ base facility during the Foundation's sweep of the building. Documents concerned with the project had unveiled that the substance was to be subject to additional development, sold to ███████████, trademarked, and sold as “Telekill Alloy”. However, due to [REDACTED] and its political fallout, along with the destruction of the Prometheus Labs’ base facility, ███████████ has acquired an estimated at 1.3 tonnes of SCP-148 and sold it to unknown buyers. Foundation agents and forensic accountants are in the process of tracking the remaining supplies of SCP-148.
+
+Addendum 148-01
+
+Due to its potential for use in containment of mind-affecting SCPs, SCP-148 has been approved for cross-testing with SCP objects. While tests are still in their early stages, tests with low-level anomalous items seem to indicate that SCP-148 will be an effective tool in containing said items. However, it does not appear to affect items whose notable properties are purely memetic.
+
+Addendum 148-02
+
+Beginning ██/██/████, staff reported irrational behavior and poor communication skills among janitorial staff tasked with regular maintenance of SCP-148’s containment.1 After three weeks of increasingly abnormal behavior, two custodians were taken in for questioning and examination. Testing revealed that the aforementioned personnel were incapable of interpreting body language and did not appear to notice the intonation or phrasing of sentences. In addition, the affected subjects were incapable of determining the emotional state or intent of others and demonstrated severely limited vocabulary.
+
+Further testing has revealed that the language and communication skills of persons with regular contact or extended exposure to SCP-148 will, over time, deteriorate and disappear. It has been shown that, after eight weeks, affected subjects will be rendered completely mute and incapable of understanding or giving nonverbal requests, commands, or other statements, despite showing otherwise normal mental capacity.
+
+Addendum 148-03
+
+A measurement taken on ██/██/████ (██ months after the Foundation’s acquisition of SCP-148) indicated that, despite no increase in volume, SCP-148 has increased in mass by 0.1 tonnes (a density increase of 9.0%). The source of this additional mass is unknown.
+
+Incident Report 148-████-1
+
+To test the limits of SCP-148’s effects and its capacity to change in mass, 0.9 kg of it was placed on a scale and moved to SCP-████’s chamber. Predictably, SCP-████’s [REDACTED] was nullified by SCP-148’s presence. However, the sample of SCP-148 began to grow in mass by upwards of 50 grams per second. After one minute, this rate began to decrease, and SCP-148 ceased to increase in mass forty seconds later, at which point it weighed 1.4 kilograms. It remained at this mass for eight seconds before plummeting to 0.8 kilograms in the space of two seconds. During this time, personnel within sixty meters (twelve times the effective range of SCP-████) began to experience SCP-████’s effects, albeit at a vastly increased rate, resulting in [DATA EXPUNGED] lockdown until the affected subjects could be removed.
+
+As of this incident, contact between SCP-148 and any mind-affecting items is strictly forbidden.
+
+Addendum 148-04
+
+Measurements taken since Incident 148-████-1 indicate that the combined mass of SCP-148 is increasing at a rate of [REDACTED]. It is speculated that should a large quantity of SCP-148 undergo an event similar to the sample used in Experiment 148-████, [DATA EXPUNGED]. Containment procedures are under review.
+
+Footnotes
+
+1. At the time, containment consisted of a single storeroom, swept and checked on a daily basis.

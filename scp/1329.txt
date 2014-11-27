@@ -1,0 +1,67 @@
+SCP-1329
+
+Item #: SCP-1329
+
+Object Class: Euclid
+
+Special Containment Procedures: The security perimeter of Site-97 is to be monitored by armed patrol and night-vision security cameras. No further security is necessary. All SCP-1329-1 activity within the grounds of Site-97 or within SCP-1329 is not to be interrupted outside of testing protocol. Interaction with SCP-1329-1 is to follow the procedure outlined in Document 1329-CO.
+
+Researchers observing within SCP-1329 are to do so with armed escort, in the event of dangerous phenomena.
+
+Description: SCP-1329 is an abandoned aquarium located near [REDACTED], Russia, classified as Site-97. No anomalies in materials or floor layout are present on the upper two floors. The three sub-surface floors vary in size, architecture, and layout significantly when compared to any other floors. The building is in a state of severe disrepair, though it shows few signs of looting. Efforts to re-wire the building’s electrical system are underway.
+
+SCP-1329-1 is the collective designation for a group of human beings which will regularly manifest in or around SCP-1329. Subjects are primarily Asian, Caucasian, or Middle-Eastern in ethnicity, and will average 25-50 years of age, though individuals as young as 5 and as old as 70 have been observed. Subjects speak a pidgin language consisting of loanwords from English, Russian, Mandarin, Arabic, and various Turkic languages. Subjects show signs of overexposure, malnourishment, and symptoms resembling mercury poisoning, specifically desquamation (heavy skin-shedding), compulsive itching, and nerve damage. Subjects generally wear heavily-repaired or modified clothing, commonly consisting of or incorporating parts of a pale green jumpsuit or scrubs. Armored vests are an uncommon but regular feature, and in one instance an atmospheric diving suit was observed. Items carried by SCP-1329-1 have included firearms, improvised spears or harpoons, compasses and mapmaking equipment, lengths of rope, cans of motor oil, plastic jugs containing distilled water, fish stock, whale blubber, or algae cultures, and various trinkets containing fish bones or preserved skin.
+
+SCP-1329-1 are aware of observers and will act accordingly. However, they do not seem to be completely aware of the nature of their location, or the nature of their observers, often making passing reference to nonexistent people, place, or events. Subjects in repeated manifestations will remain unaware of the presence of observing individuals or outside events until physical contact is made. These subjects will show no signs of remembering outside contact, and will not be persuaded to act contrary to the events of their particular manifestation.
+
+The manifestation of SCP-1329-1 subjects consists of entry and exit into a room or area, with location dependent on the observer’s line of sight. Manifestations will not end until the subject has passed from the view of observers, but will average anywhere from ten seconds to upwards of an hour. When under observation in containment, video recording will experience a three second blackout exactly twenty-three minutes and ten seconds after the subject’s entry into the room, during which period the subject will disappear. During manifestations, SCP-1329-1 will walk around, converse with each other if more than one is present, and interact with their environment.
+
+As of ██/██/2012, three hundred and fifty-eight unique SCP-1329-1 individuals have been cataloged.
+
+Room B305.
+
+Phenomena within SCP-1329 fall into three categories: stable, regular, and irregular: Stable phenomena are present at all times, regular phenomena will repeat at exact intervals or after specific events, and irregular phenomena will repeat either at irregular intervals or will not repeat. The majority of SCP-1329-1 manifestations are irregular phenomena.
+
+Stable phenomena within SCP-1329 include:
+
+• A specimen tank filled with several hundred kilograms of raw meat, showing no signs of decomposition. Analysis reveals meat to be from several Latimeria chalumnae (coelacanth) specimens.
+
+• A specimen tank containing four large jellyfish, containing human brains within the proximal bulb. No water is present in the tank.
+
+• A large fungal growth, containing a school of 209 Clupea harengus (Atlantic herring). All specimens are alive.
+
+• A specimen of Eucrossorhinus dasypogon (Tasseled wobbegong) inhabiting the main office. Specimen will attack any intruding organism at floor level. Specimen suffers no ill effects from lack of water.
+
+• A severed tentacle belonging to an unknown species of cephalopod, measuring 19 m in length. The tentacle consists of fibrous tissue: closer inspection reveals these fibers to be smaller tentacles.
+
+• The presence of handwritten documents in the language of SCP-1329-1. Documents are heavily damaged by water, but appear to contain shipping manifests, instruction manuals for a variety of subjects, personal accounts, and maps. Analysis of the contents is underway.
+
+A specimen tank found in B101. Specimens have been removed for study.
+
+Regular phenomena within SCP-1329 include:
+
+• Opening the door to room B106 will reveal an SCP-1329-1 subject (SCP-1329-1-28) in the specimen tank, being attacked by a juvenile Carcharhinus leucas (Bull shark) The subject will struggle for approximately thirty seconds, beating at the shark’s head and attempting to gouge out its eyes, before dying. No attempts to rescue the subject have been successful. The phenomenon will not reset until the room has been exited and the door has been shut.
+
+• Two armed SCP-1329-1 specimens (SCP-1329-12 and SCP-1329-13) will transport a plastic crate through basement level 2 every Thursday at 10:12 A.M, starting at the stairwell and ending in room B215. Muffled sounds can be heard emanating from the crate.
+
+• Basement level 3 will fill with salt water during the months of February and July. Non-anomalous tropical fish native to the south Pacific will be present during these periods. Water and fish will leave no trace of their presence after the period ends.
+
+Irregular phenomena within SCP-1329 include:
+
+• Conversations in the second-floor men’s restroom. The language matches that spoken by SCP-1329-1, but the majority of the words are indistinct.
+
+• The manifestation of SCP-1329-1-038, who will physically assault any individuals present before running off. This manifestation occurs throughout the entirety of SCP-1329.
+
+• The manifestation of SCP-1329-1-103 and SCP-1329-1-104, being a Middle-Eastern woman of approximately 30 years and a female child of approximately 7. SCP-1329-1-103 appears to be in the third trimester of pregnancy and to be completely unaware of outside stimuli. SCP-1329-1-104 will lead SCP-1329-1-103 by the hand through the facility, with some urgency. Of note are several tears in SCP-1329-1-103's abdomen, revealing compacted plastic refuse. Manifestation is generally observed on the ground floor, but may appear in basement level one.
+
+• Streams of bubbles appearing in mid-air. Event occurs throughout SCP-1329.
+
+• The appearance of the deceased body of Galeocerdo cuvier (tiger shark) specimen in the main second floor hallway. The body shows signs of massive blunt trauma and being hit by a motor vehicle multiple times.
+
+Addendum-01: ██/██/2011 – A specimen of SCP-1329-1 manifested in downtown [REDACTED], Germany, approximately ████ km from SCP-1329. Subject was arrested by local authorities for threatening pedestrians with a harpoon. The manifestation ended before Foundation agents were able to secure the subject.
+
+Addendum-02: The following is a translation of one of the documents recovered within SCP-1329.
+
+We are running out of water. Zhi Jun braved the leechfields three days ago to find more, and has not returned. I fear he is lost. Sastelkov believes that he is able to fix the pumps, and that we will be able to remain here. Though I hope he is able to fix the pumps, I do not like this place. These are haunted seas. Sastelkov says that is nonsense, but we have lost ten of our group since our arrival here, including four of our trash-farmers. Sastelkov claims that the cost is worth it, that what he is looking for is here somewhere.
+
+I will speak with him tomorrow about this.

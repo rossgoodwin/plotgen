@@ -1,0 +1,15 @@
+SCP-1874 grazing in the paddock.
+
+Item #: SCP-1874
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1874 is to be contained in a paddock at the Agricultural Research Station at Site 58, as part of a flock of no less than seven (7) sheep kept within the Experimental Farm. SCP-1874 is to wear a sheep jacket at all times in order to facilitate distinguishing it from the rest of the flock; the sheep jacket is to be replaced immediately whenever necessary. Due to the highly social nature of the species, SCP-1874 will suffer the physiological effects of extreme stress if isolated from other sheep for more than 1 day; in the event that any of the other sheep are killed, they are to be replaced within that time frame. All interactions with SCP-1874 and its flock, including veterinary care, must be done with full protective gear (gloves, long sleeves, goggles, boots). SCP-1874 and its flock are all to have standard access to water and foraging-suitable vegetation.
+
+Description: SCP-1874 is a female sheep (Ovis aries), of the Black Welsh Mountain breed. When SCP-1874 makes contact with the skin of a live mammal that is not another sheep, SCP-1874 will explode. The force of this explosion has yet to be properly measured; however, when in an open space, it is sufficient to kill everything within approximately six (6) meters of SCP-1874. SCP-1874 is not immune to its own explosive nature, and will be reduced to biological debris; however, after approximately 5 minutes, the flesh and organs will move towards each other, and reassemble into SCP-1874 as it was immediately prior to the explosion. The process of reassembly and reanimation takes 1 minute. SCP-1874 does not appear to be traumatized or otherwise psychologically affected by its detonations.
+
+Breeding experiments with SCP-1874 have been unsuccessful; in particular, male sheep have proven to be extremely reluctant to mate with SCP-1874, and attempts at artificial insemination are being made. However, if it is possible for SCP-1874 to bear lambs that share its anomaly, it would open opportunities to do internal experimentation on SCP-1874.
+
+Acquisition Log: SCP-1874 was discovered on ██/██/20██, in the aftermath of an apparent terrorist attack at the ███████, ████████ Petting Zoo, in which ██ visitors and █ employees were killed; all other sheep in the paddock likewise died in the blast, with the exception of SCP-1874, which was standing at the blast's epicenter and grazing on vegetation. Amnestics were administered to survivors and witnesses, and SCP-1874 was taken into custody.
+
+Addendum 1874-1: After gathering samples from the surface of SCP-1874's wool, it has been determined through microscopic examination that it exudes an anomalous form of trinitrotoluene (hereby referred to as SCP-1874-1), rather than the lanolin grease that sheep naturally produce. Through closer examination of its reactions, Researcher █████ discovered that this anomalous material is what is causing SCP-1874 to reassemble and reanimate. Further experimentation is needed to determine what causes SCP-1874-1 to ignite when in contact with the skin of live mammals.

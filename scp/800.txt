@@ -1,0 +1,55 @@
+SCP-800 in 1963 as SCP-800-8.
+
+Item #: SCP-800
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-800 is currently contained in a 50 cm x 200 cm x 2 cm hermetically sealed glass case. Standard positive-action defenses (explosive, chemical, biological, and memetic) are to be in place at all times, according to standard operating procedure. No maintenance is necessary on SCP-800 itself, despite its apparent age, but its case is to be cleaned of dirt and dust every 6 days. No paint, ink, other writing materials, or any staining fluids are to come into contact with SCP-800 except under controlled testing conditions and with prior O5-level approval.
+
+Description: SCP-800 is a 42 cm x 166 cm East Asian paper scroll painting of variable style and subject. Radioisotopic dating has determined that it dates from the mid-19th century. SCP-800 currently displays as an ink painting of two Korean warriors placed above one another, the upper armed with a bow and the lower armed with a saingeom-style sword. The painting style resembles 17th century Joseon dynasty art, despite SCP-800's paper scroll being more common in Japanese or Chinese painting.
+
+According to information gained from SCP-800's previous custodians, as well as an investigation of a number of photographic records, the scene depicted on SCP-800 has been observed to spontaneously take 12 distinct forms since the beginning of the 20th century. It is theorised that SCP-800 has changed to depict symbolic representations of every major armed conflict in East Asia, as well as a number of armed conflicts in Indochina and one in Central Asia. As there is no major Asian armed conflict at the present time, currently the SCP appears to represent the tensions between the two Koreas as an important flashpoint for military action. The mechanism by which SCP-800 changes is unknown, and no changes have been recorded electronically, despite constant surveillance of SCP-800 since it entered Foundation custody in 1979.
+
+SCP-800 has always been observed as an ink painting, usually in Japanese or Chinese style. Korean-style paintings have also been observed, including SCP-800's current appearance, as mentioned previously. The era of painting does not correspond to SCP-800's observed age, with painting styles observed from the 15th century Ming dynasty to contemporary East Asian art. Nations are commonly represented as national animals, such as a Chinese dragon, bear (presumably representing Russia), or eagle (presumably representing the United States). However, the symbolism in SCP-800 is often subtle and nations may often be represented by plants, landscapes, or people. For a detailed list of SCP-800's manifestations, see Addendum 800-1.
+
+SCP-800 may be marked or damaged by normal means; however, any stains on the painting disappear after a number of days. The paper SCP-800 appears on may be torn, but tears in the painting likewise regenerate after some days. It is possible to alter the content of SCP-800 semi-permanently by using identical materials and painting in a similar style to that of SCP-800's current incarnation. However, after the events of Experiment 800-1, all proposed alterations to SCP-800 require O5-level approval. See Addendum 800-2 for more information.
+
+SCP-800 was retrieved in January 1979 from an antiques shop in the city of █████, in the southeast of the Republic of Korea. The proprietor, one Mr ██-███ M███, claimed to have a 'magic' painting which altered its appearance over the years; at the time, it displayed its present appearance. It was discovered on chance by Dr. █████████, who was skeptical of its owners' claims and only wished to purchase it for personal use. However, Dr. █████████ noticed that it possessed at least some extranormal properties by accidentally staining it with ink, then noticing the stain had disappeared after a period of 2 days. Upon Foundation examination it was determined to be of no SCP-level significance and put in storage at Site-█. It attained SCP classification in mid-1979, at the beginning of the Sino-Vietnamese Border War, when it changed overnight to an 18th-century Qing Dynasty painting of a Chinese dragon flying over rice paddies (SCP-800-10). After this event, Foundation staff tracked down Mr M███ for interrogation; it was revealed the painting had been in his family since the beginning of the 20th century, when his grandfather purchased it from a merchant in Shanghai. As Mr M███ was the only known source of information on SCP-800 and its prior appearances, he was recruited as a research assistant and was SCP-800's caretaker until 2007, when he died of natural causes. Dr. Major subsequently took responsibility for SCP-800's custody.
+
+Addendum 800-1:
+
+A partial list of all known incarnations of SCP-800 follows, along with the historical event they are believed to correspond to. Save a small number of photos (one of which may be seen above), all descriptions before 1977 are obtained by word of mouth from Mr M███ or his acquaintances; their accuracy may therefore be somewhat suspect.
+
+800-1 (presumably 1904-1905): unknown style (possibly Japanese), allegedly a bear struggling in the water, with a sun overhead. Information on 800-1 is limited as Mr M███ only recalled his elderly grandmother repeatedly mentioning a painting of this description hanging in their house when she was young. Presumably depicts the Russo-Japanese war.
+
+800-2 (1905?-1936?) No information available.
+
+800-3 (1936?-1941?): unknown style, allegedly a dragon surrounded by cherry blossoms. Presumably depicts the Second Sino-Japanese War.
+
+800-4 (1941?-1945): Chinese style of unknown era, allegedly an eagle perched on a mountain, with a dragon and rising water beneath. Presumably depicts the East Asian theatre of World War Two. Mr M███ claimed the canvas went temporarily blank in mid-1945; this may correspond to the atomic bombings of Hiroshima and Nagasaki.
+
+800-5 (1945-1950): Chinese style, possibly of early Qing Dynasty, two dragons fighting. The first incarnation of SCP-800 observed in full by Mr M███. Presumably depicts the Chinese Civil War.
+
+800-6 (1950-1953): Korean style, possibly of Goryeo Dynasty. 800-6 reported to change subtly numerous times over this period; basic scene depicted was two Korean warriors similar to those in 800-12, SCP-800's current appearance, but with an eagle and at times a Chinese dragon visible. Presumably depicts the Korean War.
+
+800-7 (1953-1959): apparently similar to current description.
+
+800-8 (1959-1975): 18th century Qing Dynasty style, initially eagle perched alone on tree (see attached image), subsequently transformed into flying eagle, with trees and human figures in conical hats. Presumably depicts the Vietnam War.
+
+800-9 (1975-1979): unknown style of painting resembling Khmer stone carving, [DATA EXPUNGED]
+
+800-10 (1979): 15th century Ming Dynasty style, Chinese dragon flying over rice paddies. Presumably depicts the Sino-Vietnamese Border War.
+
+800-11 (1979-1989): modern Japanese style, bear surrounded by small humanoid figures armed with spears, with small eagle overhead. Possibly depicts the Soviet invasion of Afghanistan; if true, this would be SCP-800's only representation of a Central Asian conflict to date.
+
+800-12 (1989-present): see current description.
+
+Addendum 800-2: After the events of Experiment 800-1, SCP-800 has been upgraded to Euclid-class and further experimentation forbidden without O5 level approval.
+
+Experiment 800-1: To date the first and only alteration testing carried out on SCP-800. On 22/5/20██, SCP-800 (in its current form of 800-12) was altered using ink and brush by a Foundation staff member experienced in modern reproduction of Joseon dynasty painting. Addition consisted of a quiver of arrows on back of uppermost figure wielding bow. No effects were initially noted apart from the fact that altered paint remained for an unusually long number of days. Three days later, on 25/5/20██, the Democratic People's Republic of Korea [DATA EXPUNGED]. It is unknown whether this event was connected to Experiment 800-1. However, further experimentation has been suspended indefinitely. SCP-800 was restored to its original state by Foundation staff.
+
+Addendum 800-1-1:
+
+Well, this might be useful if we ever have reason to destabilize the entire region. Shame it's anomalous, it'd look rather nice in my office.
+
+- Dr. Major

@@ -1,0 +1,67 @@
+Item #: SCP-1469
+
+Object Class: Euclid
+
+Special Containment Procedures: The area surrounding SCP-1469-1 has been purchased and fenced off by the Foundation for the purpose of on-site containment. Entrance into and experimentation with SCP-1469-2 may only be performed with prior permission from at least one (1) Level 3 Senior Researcher, and objects may only be removed from SCP-1469-2 with prior permission from at least one (1) Level 4 Site Director. All unauthorized individuals attempting to gain access to SCP-1469-1 are to be detained, questioned, and administered a Class B amnestic if deemed necessary by on-site security personnel.
+
+Description: SCP-1469-1 is an unmarked single-lane section of pavement connected to a rural access road located 53 km west of [REDACTED], Utah that extends for 31 m before terminating in a dense copse of Gambel oak (Quercus gambelii) trees. This road section is not listed on any civilian maps, nor does any information regarding its construction or purpose exist in any official records. When transiting from north to south through the trees, SCP-1469-1 appears to act as a standing portal to SCP-1469-2.
+
+SCP-1469-2 is an extradimensional space extending in all directions around an identical copse of Q. gambelii and is filled with instances of SCP-1469-3. Atmospheric composition within SCP-1469-2 appears to be consistent with that of the area outside of SCP-1469-1 and the time of day as measured by the position of the sun is identical; however, the ambient temperature — despite varying throughout the day-night cycle — remains consistent with that of the late spring or early summer season regardless of the actual time of year. Through the use of unmanned aerial vehicles, it has been determined that the curvature of the surface of SCP-1469-2 is consistent with that of the Earth, but expeditions to date have discovered no geological features or variation in the layout of SCP-1469-2 extending for at least 400 km in each direction. Global Positioning Satellite navigation does not function, nor do radio signals extend into SCP-1469-2; communication with expedition teams is possible only via a stationary transceiver connected via hard-line to SCP-1469-1 installed by Foundation personnel. No signals other than regular background radiation have ever been detected within SCP-1469-1.
+
+SCP-1469-3 is a series of houses built in the American ranch or rambler style with identical single-floor, three (3) bedroom, two (2) bathroom floor plans extending in all directions from the point of entry of SCP-1469-2. Each instance is built on identical 850 m² lots, but possess significant variations in color, decor, and furnishings in a pristine state consistent with that expected of a new home prepped and ready for move-in. Instances are unpowered and do not have running water; it is not known how the lawns of SCP-1469-3 instances (determined through experimentation to be normal Poa pratensis, Kentucky bluegrass) remain healthy and immaculate despite the lack of irrigation or groundskeeping.
+
+No entities have ever been encountered in SCP-1469-2 since its discovery; however, periodically, one or more instances of SCP-1469-3 will disappear when unobserved and be replaced by a new instance after a period of 24-72 hours. Dating of materials within SCP-1469-3 indicates that the oldest instances are approximately 80 to 90 years old.
+
+Addendum 1469-1: Log of Notable SCP-1469-3 Instances
+
+Ref #: SCP-1469-3-108-A
+
+Location: 1.4 km north-north-east of SCP-1469-2 entrance
+
+Date Discovered: ██/██/██
+
+Description: Instance was decorated in a cottage style but with a large amount of Nordic religious iconography. All text found appear to be in an as-of-yet unknown script.
+
+Note: Instance de-manifested on █/██/██ and was replaced 48 hours later by an unremarkable instance in French country decor.
+
+Ref #: SCP-1469-3-322-C
+
+Location: 2.8 km due east of entrance
+
+Date Discovered: ██/█/██
+
+Description: Instance was of normal dimensions, but contained modern furnishings and appliances of unusually large size. Baseline measurements suggest the home would have been intended for occupants standing approximately 2.5 to 2.8 m in height.
+
+Ref #: SCP-1469-3-488-B
+
+Location: 1.9 km west-south-west of entrance
+
+Date Discovered: ██/██/██
+
+Description: Instance was unfurnished with bare walls and floor, but field personnel reported "a strong feeling of well-being" when inside. Instance remained at its location for only three (3) days, the shortest duration of any SCP-1496-3 instance, before disappearing. The lot on which it was located is still empty after four months of periodic observation.
+
+Ref #: SCP-1469-3-618-D
+
+Location: 5.3 km north-west of entrance
+
+Date Discovered: █/██/██
+
+Description: Instance was decorated in cottage-style furnishings and paint that appeared to be completely black, with subsequent experimentation showing decorative patterns that were only visible in ultraviolet wavelengths. Personnel performing experiments within instance reported mild nausea and disorientation stemming from some form of sensory confusion; during debriefings, personnel reported that "the angles felt all wrong", despite lack of corroboration from measurements taken during initial survey. Affected personnel were quarantined for safety but recovered fully and returned to duty without incident.
+
+Addendum 1469-2: Experiment Record
+
+On █/██/██, a series of GPS tracking units were placed within several instances of SCP-1469-3 in an attempt to test the hypothesis that instances of SCP-1469-3 were being displaced to real-world locations. As of ██/█/██, six (6) out of the original thirty (30) instances designated for tracking have de-manifested, but the GPS units placed within them have yet to be found.
+
+Addendum 1469-3: Incident Log
+
+On ██/██/██, following extensive testing on material samples collected from SCP-1469-3 instances, the following printed note was discovered near the entrance to SCP-1469-2:
+
+To whom it may concern:
+
+I don't know how you guys got in here and you're free to keep looking around, but please stop damaging the merchandise. Your cooperation is appreciated.
+
+— The Management
+
+P.S. — You break it, you buy it.
+
+Shortly after this incident, Foundation administration discovered an unexplained site budget shortfall in the amount of US $█,███,███. Further sampling and recovery requests have been suspended pending further investigation.

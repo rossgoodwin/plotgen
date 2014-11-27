@@ -1,0 +1,53 @@
+SCP-975-1 in an open state. The cause of color shifting and distortion in recorded images is still unknown at this time.
+
+Item #: SCP-975
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-975 is contained on-site. A 50 m section of the tunnel containing SCP-975-1 has been reinforced with 3 cm of titanium alloy plating and hermetically sealed, with the area accessible only via a secure airlock that is to be manned by at least two (2) armed guards at all times. This containment area is further sealed from the main tunnel network to deter urban explorers, and is now only accessible via an underground shaft in Site ██.
+
+Any attempts to communicate with SCP-975-2 instances must by approved by O5 Command and overseen by Site Command, who may terminate proceedings at any given time. Any SCP-975-2 instances attempting to escape the containment area must be detained.
+
+Description: SCP-975-1 is an anomalous opening approximately 1.2 m in diameter, located in an abandoned section of the [REDACTED] subway system, which has been in disuse for a period of at least 40 years. This opening appears to be lined or composed of organic substances, and does not appear to extend beyond the ceiling of the tunnel, despite having significant apparent depth while open.
+
+Periodically, SCP-975-1 will open and discharge a single instance of an entity designated SCP-975-2. While these entities superficially resemble frogs, they are in no way amphibians and in fact do not appear to have terrestrial physiology. SCP-975-2 is highly intelligent, and has quickly acquired the ability to communicate in English over a period of only six (6) months. There are currently 33 instances of SCP-975-2 in containment.
+
+SCP-975 was discovered on █/██/██ following reports of a homeless man in [REDACTED] being arrested by police after screaming about "talking alien frogs" in the [REDACTED] subway tunnels. Class A amnestics were administered to the witnesses, and SCP-975 was contained shortly thereafter.
+
+Addendum 975-01: Transcript of Communication Attempt with SCP-975-2-03 on ██/█/██
+
+Dr. █████: What is your purpose here?
+
+SCP-975-2-03: We ran.
+
+Dr. █████: What do you mean?
+
+SCP-975-2-03: We ran very long from danger.
+
+Dr. █████: What are you running from?
+
+SCP-975-2-03: We ran very far. We need safe from danger. We need home.
+
+Dr. █████: How did you get here?
+
+SCP-975-2-03: Door take us. Take us very far. [insistent] We need home.
+
+Dr. █████: Does this door work both ways?
+
+SCP-975-2-03: [agitated] We not want. Many danger very soon.
+
+Dr. █████: We need more information before we can move forward. What can you tell us about the other side?
+
+SCP-975-2-03: [agitated] No want.
+
+[end of transcript; SCP-975-2-03 refused to answer additional questions]
+
+Addendum 975-02: Incident 975-01
+
+On █/█/██, a large radiation spike was detected in the containment area of SCP-975, triggering a breach alarm that was followed by a wide-scale loss of power in the area. Investigation by armed response personnel immediately afterward reported that one of the SCP-975-2 instances was missing, and that the remaining members were extremely agitated.
+
+Since this event, SCP-975-2 has become increasingly aggressive and have attempted to escape containment on several occasions, reporting that "danger has come" and that the area was "not safe now".
+
+Addendum 975-03: Researcher Note, █/██/██
+
+SCP-975-1 has exhibited no detectable changes, although no further instances of SCP-975-2 have appeared for over ██ weeks now. During this time, SCP-975-2 has refused to answer questions until they are "make safe again", and continue to attempt to escape containment.

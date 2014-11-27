@@ -1,0 +1,157 @@
+Item #: SCP-645
+
+Object Class: Safe Euclid
+
+Special Containment Procedures: SCP-645 is to be kept in a padded crate two (2) meters by two (2) meters by one (1) meter. Personnel within a ten (10)-meter radius of SCP-645 are to refrain from all statements which may be considered untruthful or deceitful.
+
+SCP-645 is to be cleaned after each activation.
+
+Description: SCP-645 is a large disk of Pavonazzetto marble with a humanoid face carved into it, similar to the famous Bocca della Verità carving in the church of Santa Maria in Cosmedin in Rome, Italy. As with the Bocca carving, the mouth and eyes are empty holes; unlike with the Bocca carving, however, subjects who place their hands inside SCP-645's mouth describe it as 'warm' and 'moist'.
+
+SCP-645 embodies, and has been hypothesized by Foundation folklorists to be the origin of, the lie-detection properties attributed to the Bocca carving since medieval times: any subject who tells a lie (see incident report 645-N41) while their hand is within the carving's mouth will activate the carving, which will then bite off the subject's hand at the wrist and swallow it. High-speed cameras have revealed that this process, which lasts less than 0.3 seconds, involves the manifestation of lips, gingiva, and disproportionately large incisor teeth; the lips cauterize the injury via an unknown mechanism, after which the lips, gingiva, and teeth de-manifest. The force exercised by the teeth has not been accurately measured, but is sufficient to sever a steel rod held in the hand being bitten off.
+
+Probes of SCP-645's mouth in its inert state have revealed no esophagus; as such, the ultimate fate of the severed hands is unknown. RFID tags implanted in the hands of D-class personnel have been unlocatable, and sonograms of SCP-645 indicate that it is solid Pavonazzetto marble with no inclusions.
+
+Recovery: SCP-645 was discovered during routine archaeological excavations in ██████, Italy, in 19██. The slab of marble bearing the carving was not attached to any building, and had been bricked over; archaeologist ████████ ██████ expressed the opinion that it seemed to have been deliberately buried.
+
+48 hours after being discovered, SCP-645 mutilated a graduate student who had been participating in the excavation; Foundation agents in the Italian Ministry of [REDACTED] intercepted the injury reports and retrieved the object.
+
+Incident report 645-N41: On ██/██/██, D-45951 was enlisted for experiments to study both the criteria by which SCP-645 assesses statements as lies, and the mechanism by which it severs hands. Unexpectedly, D-45951 was able to deduce SCP-645's anomalous properties prior to testing, due to cultural knowledge of the properties folklorically attributed to the Bocca carving. Consequently, D-45951 disobeyed instructions as to how he should interact with SCP-645, which ultimately revealed further anomalous properties.
+
+Transcript of audio log.
+
+Dr. Rensburg: Insert your left hand in the carving's mouth. Good. Now, say the phrase "The sky is bright green."
+
+D-45951: (silence)
+
+Dr. Rensburg: D-45951?
+
+D-45951: … The sky is green is what these guys told me to say.
+
+Dr. Long: What was that?
+
+Dr. Rensburg Why didn't it activate?
+
+Dr. Long: Let's try another one. D-45951, say this: 'I have six fingers'.
+
+D-45951: … these guys want me to sayI have six fingersbut really I don't.
+
+Dr. Rensburg: I definitely heard him that time. What do you think you're doing!
+
+Dr. Long: You're interfering with the experiment!
+
+D-45951: There was a movie!
+
+Dr. Rensburg: What?
+
+D-45951: In the movie1, there was a, a statue thing that looked like this one, and they said if you put your hand in and lie, it bites your hand off!
+
+Dr. Rensburg: That's ridiculous. Are you going to comply with instructions, or do we have to get the guard involved?
+
+Dr. Long: No, wait. Let's hear him out; surely intent matters?
+
+Guard: Do you want me to —
+
+Dr. Rensburg: Hm. You know, that's actually a very good —
+
+(At this point, D-45951 removes his hand from SCP-645's mouth)
+
+Dr. Long: Hey! Keep your hand in —
+
+Dr. Rensburg: Guard! Hold his arm! Keep his hand in its mouth!
+
+(D-45951's hand is forcibly re-inserted into SCP-645's mouth)
+
+Dr. Long: Let's see, where were we… oh yes. What was this movie about?
+
+D-45951: [PLOT SYNOPSIS OMITTED]
+
+Dr. Long: Hmm. Well, we'll have someone look that up, thank you for the information. But honestly, you know the difference between movies and real life, don't you? Do you really think the carving will bite your hand off, just because some guy in a movie told a story about it? You even said that the guy in the movie was lying about it, right?
+
+D-45951: I… I dunno! I… look, I wouldn't'a believed… I mean, I don't think I woulda believed it, before I came here and saw all the weird shit you guys've got here, all the monsters and shit, but now that I seen it all, it made me think maybe it… I mean… that's how I'm explaining it right now, it didn't all go through my head word for word right then, but you know, people… I mean, a lot of people, maybe not everybody in the world, I dunno — a lot of people are like that… uh, what's the question? I lost — I kinda lost track, only kinda, I mean, we're still talking about the statue, right?
+
+Dr. Rensburg: Uh, yes. Do you think, just because of the movie, that the statue will —
+
+D-45951: Oh, right, right. Yeah, I… well, I don't know for sure, but I'm thinking that, that maybe it will, because of … well, because of a bunch of stuff, like part of it is that movie that I… that I saw part of on TV one ti— at least one time, and I thought it was just a load of cra— I, I, I mean, looking back at what I was thinking back then, I guess I didn't really believe it, 'cause it was just something in a — I thought it was just something in a movie, and stuff in movies isn't re— I mean, a lot of stuff in movies isn't, isn't really real, not like real life is OR AT LEAST THAT'S WHAT I ALWAYS THOUGHT EXCEPT NOT 'ALWAYS' LIKE ALL THE TIME oh god please don't bite my hand off
+
+Dr. Long: Interesting. Let's see what we had on the list… ah yes. D-45951… what's your name?
+
+D-45951: That's kinda complic— I mean, the question isn't, I guess the question isn't complicated, but the answer is, is kinda complicated, like, the name that everybody called me, well, not everybody everybody, like not everybody in the world, but, y'know, people in my life? Most of the — a lot of the people in my life, they called me [REDACTED], but when I was born, my name was — I mean, like, a little while after I was born, my parents said my name was [REDACTED], so that could be my name too, sort of, and, uh, you guys call me D-45951, or that's what you been calling me, maybe you'll change your minds later, I dunno, it's up to you, I guess?
+
+Dr. Rensburg: Fascinating. How about… D-45951, say "two thousand eight hundred and nine is a prime number".
+
+D-45951: Are you fuckin' serious? I —
+
+Dr. Rensburg: Guard?
+
+D-45951: No! No, I'll — look, I dunno what that m— I mean, I know those words by themselves, but the whole thing doesn't — I mean, obviously it's some sort of… well, OBVIOUS maybe isn't the right word, but I guess it's some kind of math thing? Like, I remember hearing about prime numbers on the… I kinda remember hearing about them, and I kinda think it was on the news, but I'm not like a hundred percent sure, oh jeeze, and I was never — well, I mean, when I was in school, I wasn't… I didn't do that good in math when I was in school, a lot of the time, except when I cheated except maybe that's not the same as me doing good in math, and, uh, I guess I did okay back when I was real little and it was super simple?
+
+Dr. Long: Impressive. How about…
+
+Dr. Rensburg: Yes, that's a good one: D-45951, do you ever lie?
+
+D-45951: N— I mean… I, I, everybody— I told, I used to tell… in the past I said stuff that maybe wasn't, okay, no 'maybe', stuff that wasn't true, but I'm not gonna… I mean… I don't think I'm gonna… I mean… right now, with my hand stuck in this thing's mouth, I'm trying real real hard to not say anything that's not super absolute true.
+
+Dr. Long: … Wow. You're really, really scared, aren't you.
+
+D-45951: Oh fuck yes.
+
+Dr. Rensburg: Just because of the movie?
+
+D-45951: Look, we went — I mean, I went over that already! It's 'cause of the movie that I know, that I think I know what it is, and seeing all the mons… seeing the monsters you got here, I dunno if I saw all of 'em — seeing the monsters is what tells me that it's for, that maybe it's for real! Plus, I mean, why would you be doing this stuff with me sticking my hand in here and then you telling me to say shit if you weren't expecting it to bite my hand off, right? Why else would you have this assho— this guy holding my arm so I can't — so I probably can't pull my hand out?
+
+Dr. Long: He has a point.
+
+Dr. Rensburg: Oh, don't go feeling sorry for him. D-45951, do you deserve this?
+
+D-45951: Uh, what?
+
+Dr. Rensburg: This! The way we're treating you! Being D-class personnel! Do you deserve it!
+
+D-45951: You don't hafta yell at me.
+
+Dr. Rensburg: Did you commit the crimes you were convicted of committing! Yes or no!
+
+D-45951: I… look, the fuckin' cop was self-defense, okay? Her or me, right?
+
+Dr.Rensburg: And the others? Were they all self-defense too?
+
+Guard: Uh, sir?
+
+D-45951: Well, I… I mean… look, they were witnesses, and… I mean, they coulda… I mean… I thought they coulda… I, I… look, it was… I… I mean… no, you know what? No. No they fucking weren't self-defense. I didn't think I had to kill 'em, I didn't think I had no fucking choice, I killed 'em because I wanted to. Because I wanted them to be dead, because I like killing. Because I like the way it makes me feel. Because it means I have power. That honest enough for you, you big stone fuck?
+
+At this point, SCP-645 forcibly ejected D-45951's hand from its mouth; high-speed cameras show that its lips manifested, and then contorted, apparently spitting the hand out; the lips had completely de-manifested within 0.2 seconds.
+
+D-45951: What the fuck?
+
+Dr. Long: Did you take your hand out? Put your hand back in! Guard, put his hand back in!
+
+D-45951: No, I —
+
+Guard: I can't — it won't go in! It's not accepting his hand, sir. It's blocking him.
+
+Dr. Rensburg: What?
+
+(Subsequent examination revealed that, although Dr. Rensburg, Dr. Long, and Guard Dickinson were each able to insert a hand into SCP-645's mouth, D-45951 was not. Experiment was aborted.)
+
+Dr. Rensburg: Get him out of here; we'll have to requisition another D-class.
+
+Dr. Long: Preferably one who doesn't watch romantic comedies.
+
+(D-45951 is escorted out of the testing chamber.)
+
+Dr. Rensburg: Well, at least we got some results. I wonder what specifically triggered it to reject his hand?
+
+Dr. Long: Heh, maybe he really was honest enough for it. Creepy little fucker. Hey, that reminds me — how did you know the details about what he did?
+
+Dr. Rensburg: Seriously, man? I was bluffing!
+
+(At this point, SCP-645 opened its mouth to a width of approximately 70 cm, and propulsed an elongated frog-like tongue four meters across the room at Drs. Rensburg and Long. The tongue coiled around Dr. Rensburg's right wrist and severed his hand, then retracted, colliding with Dr. Long and breaking his left shoulder in the process. The tongue had fully returned to the mouth, and the mouth had returned to its normal size, within 0.7 seconds. Both doctors survived as a result of prompt medical attention; however, Dr. Rensburg's hand was too badly damaged to be reattached.)
+
+NOTE: After a thorough review of not only Incident 645-N41, but of all footage of personnel in proximity to SCP-645, I have come to the conclusion that SCP-645 is most likely sapient. This was not the first time that personnel in proximity to SCP-645 have lied or otherwise been less than honest; however, in light of D-45951's admittedly impressive performance in avoiding any untruths, and of 645's unprecedented rejection of his hand, I feel that 645's attack on Dr. Rensburg, immediately after he admitted to having deceived D-45951, was a conscious act, motivated by resentment and antipathy. Incident 645-N41 also revealed that the scope of 645's anomalous properties is far greater than we had suspected; in particular, it can no longer be considered to pass the 'locked box' test. I therefore request that its object class be upgraded to Euclid. — Site Director R. Kocharian.
+
+Approved. - O5-4.
+
+Footnotes
+
+1. subsequently identified as Roman Holiday, 1953, Paramount Pictures, starring Audrey Hepburn and Gregory Peck

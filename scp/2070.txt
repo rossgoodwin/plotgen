@@ -1,0 +1,99 @@
+Item #: SCP-2070
+
+Object Class: Keter
+
+Special Containment Procedures: Due to their apparent omnipresence, containment of SCP-2070-1 and -2 is focused on suppression of knowledge. Disinformation campaigns intended to discredit and/or totally drown out anyone who reports discoveries of SCP-2070-1 and -2 are to be maintained at all times. These campaigns consist of two components:
+
+A barrage of variously plausible, but false, claims;
+
+Extensive debate regarding these claims which tends to expose the claimants as frauds.
+
+Mobile Task Force Eta-121 ("Navel Gazers") is responsible for collecting and subsequently sabotaging all relevant cosmological data as it is acquired. Members of MTF Eta-121 are to report their findings to embedded Foundation agents who have assumed leading roles in modern theoretical and observational cosmology. These agents are responsible for formulating and advocating for the standard cover explanations. Astronomers who persistently report findings inconsistent with said cover explanations are to be administered class-B amnestics and have their research altered to conform to consensus.
+
+[SUBMIT LOGIN CREDENTIALS TO CONTINUE: LEVEL 4/2070 CLEARANCE REQUIRED]
+
+[CREDENTIALS ACCEPTED]
+
+Extraterrestrial activity on Earth is to be monitored for knowledge of SCP-2070-1 and -2. Any confirmation of such knowledge is grounds for implementation of Protocol 167-Tully.
+
+SCP-2070-3 is held in Research Bunker-477 at Site-280. Two (2) armed guards are to be posted outside the bunker at all times to prevent unauthorized entry. Requests for study have been suspended until further notice or until Protocol 167-Tully is enacted; in either case, proposals for experiments must be submitted to Site Director Arnheim no fewer than twenty-four (24) hours prior to the requested time. The bunker is to be monitored at all times by one (1) level-4/2070 research staff for anomalous tachyon emission. Any such activity must be reported immediately to Site Director Arnheim and MTF Eta-121 Leader Rose. Following experimentation or report of anomalous emission, MTF Eta-121 Leader Rose is to report back as soon as possible on any shifts in the observed large-scale galaxy distribution.
+
+Research Site-79 is to observe the SCP-2070-2 instance in the ████ galaxy cluster following any SCP-2070-3 activity.
+
+Description: SCP-2070 is the collective designation for several anomalies related to modern observational cosmology.
+
+Figure 1. Instances of SCP-2070-1 (Huchra & Geller 1996). Each black point is a galaxy.
+
+SCP-2070-1 is the observed tendency of the distribution of galaxies in the universe to be elongated and pointed toward our position on Earth. This tendency manifests itself as extended lines of galaxies resembling arrows (see Figure 1). SCP-2070-1 instances are known in the astronomical community as "fingers of God." Public discussion of SCP-2070-1 is to explain them as an effect of galaxies' velocities on observed redshifts on cosmological scales1.
+
+Figure 2. An instance of SCP-2070-2 (Huchra & Geller 1998). Each black point is a galaxy.
+
+SCP-2070-2 is the observed formation of galaxies into coherent, recognizable pictographs and symbols. Examples of SCP-2070-2 instances include:
+
+A stickman representation of a human being
+
+A miniature depiction of the sun and its eight planets, as well as several of the larger Kuiper belt objects and two as-yet unobserved bodies
+
+In three instances, characters consistent with Shang-dynasty-era oracle bone script. Rough translations of messages include "WE ARE KINGS", "WE ARE SPECIAL", and "WE ARE THE CENTER"
+
+Although instances of SCP-2070-2 are never perfectly formed, they are consistent with their identified shapes to within observational uncertainties. At least one instance of SCP-2070-2 has been identified in each major galaxy cluster, with suspected instances in smaller formations of galaxies pending further data collection. Public discussion of SCP-2070-2 instances is to dismiss them as random formations among meaningless noise, and only instances which could conceivably be disguised as such are to be made available to the public.
+
+[SUBMIT LOGIN CREDENTIALS TO CONTINUE: LEVEL 4/2070 CLEARANCE REQUIRED]
+
+[CREDENTIALS ACCEPTED]
+
+SCP-2070-3 is a hinged box constructed of jade and an unidentified alloy measuring 1.0050 m on each side and 0.335 m tall2. SCP-2070-3 remains locked by an unknown mechanism under normal circumstances. The top face is covered in symbols that correspond to no known language, as well as a sequence of Shang-dynasty-era script apparently describing the Hubble expansion3. Touching symbols on the outside of the box that correspond to instances of SCP-2070-2 identified in the ████ galaxy cluster will open the box. The inside contains a layer of sand 4.672 cm deep. Drawing a symbol in this sand and closing SCP-2070-3 will cause three things to happen:
+
+The box will emit a directed burst of tachyons4.
+
+The symbol(s) drawn in the sand will manifest as an instance of SCP-2070-2 in a part of space along the direction of the tachyon burst. Instances of SCP-2070-1 in the surrounding region will appear and/or become more pronounced.
+
+The instances of SCP-2070-2 in the ████ galaxy cluster will change to correspond to different symbols on SCP-2070-3.
+
+How SCP-2070-3 accomplishes this retrocausal reorganization is unknown at this time. Further study of the effects of targeted tachyon emission in general is currently marked as a LEVEL-6 Research Priority.
+
+SCP-2070-3 was unearthed during an archeological dig in ████████ Province, China in the year 19██. Its anachronistic markings led to it being stored as an anomalous object in the Site-230 Vault until Level-4/2070 Researcher ██████ identified three of the symbols as matching instances of SCP-2070-2 found in the ████ galaxy cluster. Subsequent experimentation established its anomalous properties and its link to SCP-2070-1 and -2.
+
+Document 2070-1: Description of Protocol 167-Tully
+
+MEMORANDUM TO ALL SCP-2070 PERSONNEL
+
+██/██/19██
+
+Fellow scientists,
+
+Amidst all our data, all our little daily fights with observation and analysis and theory, I think it's easy to lose sight of the fact that science is an unavoidably human endeavor. We defend our conclusions not just because we believe them to be right, but because we want them to be right. Think of how hard physicists in the 20th century worked to keep the luminiferous aether hypothesis alive. Once you have an idea of how reality should be, it can be the hardest thing in the world to overcome.
+
+Of course, all of you know the danger of preconceptions. We as a community fought the battle against geocentrism many centuries ago. That fight gave us the Copernican principle: the assumption that there is nothing special about our location in the Universe. The Copernican principle has since become one of the fundamental bases of astronomy. It's so familiar to us that most of you probably never think about it.
+
+The ancient Chinese astronomers had never heard of the Copernican principle, and SCP-2070 leads me to believe they had no equivalent. When our culture realized our non-central place in the cosmos, we rebelled against it but suffered the indignity without violent objection and have suffered it ever since. The Shang dynasty took a different approach and altered space itself to restore their special place. Arrows pointing to us, symbols and codes and pictures - the iconography of a people striving towards godhood.
+
+But they were not gods, and they did not think through their actions. The ancient astronomers didn't just leave their mark, they left a trail for every being in the universe to follow. They drew maps of our solar system, of the solar neighborhood, even rough sketches of the Milky Way. Any life outside of our own planet is bound to get a little curious about where the arrows are pointing.
+
+So far, research on the effects of SCP-2070-3 has been conservative and measured - just enough to establish the link to SCP-2070-1 and -2. As Senior Researcher, I and Site Director Arnheim have sought to keep our hands out of the cosmic web as much as possible. But if we find any reason to believe extraterrestrial life has followed the directions we so kindly left for them, we're going to have to take a more aggressive approach. Outlined below is our joint proposal; as always, feedback is welcome.
+
+PROTOCOL 167-TULLY
+
+GOAL: To wipe away humans' cosmological footprint.
+
+GROUNDS FOR IMPLEMENTATION: Discovery of extraterrestrial knowledge of SCP-2070.
+
+DESCRIPTION: Protocol 167-Tully is a plan in two phases.
+
+Phase I: Increased experimentation on the functionality of SCP-2070-3. In this Phase, Site Director Arnheim will accept research proposals, which she and Senior Researcher Bryce may choose to approve. Approved proposals will be given LEVEL-7 Research Priority and the acquiring of relevant astronomical data following experiments will be fast-tracked. A successful experiment is one that returns all or part of space to a homogeneous distribution.
+
+Phase II: Reverse-engineering of SCP-2070-3 with the goal of building a device capable of undoing SCP-2070-3's effects. As further experimentation with SCP-2070-3 is likely to be impossible following full Phase II execution, Phase II is to be attempted only if Phase I fails to produce favorable results within five (5) years of research.
+
+I have no idea what a cosmic restructuring on this scale would entail, and I'm sure none of us are eager to find out - but if it means preventing the end of the world, we have to be willing to try.
+
+Senior Researcher Bryce
+
+Footnotes
+
+1. In reality, this effect only exacerbates observations of SCP-2070-1.
+
+2. Respectively equivalent to 1 bu and 2 chi, ancient Chinese units of measurement.
+
+3. The observed expansion of the universe.
+
+4. Particles which travel faster than light and therefore backward in time.

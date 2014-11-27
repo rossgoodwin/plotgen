@@ -1,0 +1,63 @@
+Item #: SCP-514
+
+Object Class: Euclid
+
+Special Containment Procedures: There is currently no permanent containment site for SCP-514 (See Addendum 2). SCP-514 is currently being tracked by Mobile Task Force Lambda-4 (aka "Birdwatchers"), who are under orders to observe SCP-514. In the event that SCP-514 strays near a densely populated area or an area where its presence will be easily noticed, Mobile Task Force Lambda-4 is authorized to use the █████████ in order to manipulate SCP-514's migration patterns.
+
+Access to SCP-514 and the █████████ is restricted to Mobile Task Force Lambda-4. Level 4 personnel may also have access, but must have O5 approval beforehand. Any experiments and weapons tests with SCP-514 must be performed exclusively at the █████████████ Advanced Weapons Research Facility.
+
+In the event that SCP-514 risks public exposure or capture by rival groups, Mobile Task Force Lambda-4 is authorized to terminate the threat by any means necessary. It is highly recommended that such threats be terminated before they reach SCP-514's "dead zone", though this not strictly necessary.
+
+Description: SCP-514 is a flock of Columba livia domestica, or Homing Pigeons. Visual analysis confirms that these pigeons are in fact the kind used in White Dove Release ceremonies. However, the type of ceremony they were used in, or the identity of who bred these doves is currently unknown.
+
+What makes SCP-514 unusual is the "weapon nullification aura" it seems to project around itself. This aura projects itself in a roughly five hundred (500) meter radius around the flock, though this estimation varies depending on the flock's size. This aura renders every known type of weapon useless and often destroys affected weapons after prolonged exposure. For instance, firearms will immediately jam or misfire, explosives will be rendered inert, and melee weapons will decay into dust. Also, the items SCP-514's aura destroys appears to be selective. For further details, see Experiment Log 514a.
+
+In addition to its weapon nullification ability, SCP-514 can also somehow suppress violent emotions and intent in sentient beings within the aura. Interviews with staff and civilians who had been exposed to the aura said that they felt very calm and content, even when they felt stressed and angry just moments before. For further details, see Experiment Log 514b. Currently, there appears to be no harmful or lasting effects of being exposed to SCP-514's aura. Rigorous physical and psychological screening of individuals exposed to the aura showed nothing out of the ordinary.
+
+Experiment Log 514a
+
+Various tests were performed by continually using the █████████ to have SCP-514 circle around a Foundation weapons testing range in ██████████.
+
+Firearms: Items used: Glock 9mm handgun, Colt .45 1911 handgun, MP5 submachine gun, Thompson submachine gun, M16 assault rifle, AK-47 assault rifle, SAW, M24 sniper rifle, [DATA EXPUNGED]. All weapons confirmed to be in working order.
+
+Result: All weapons, when tested, failed to fire. Later inspection showed that all weapons suffered from various mechanical failures that rendered the weapons useless. Ammunition exposed to the aura also failed to fire when loaded into weapons not affected by the aura. Chemical propellant was found to be rendered completely inert.
+
+Explosives: Items used: One standard hand grenade, 28.35g (1oz) of dynamite, 28.35g (1oz) of C-4 high explosive, 28.35g (1oz) of thermite, one 81mm high explosive mortar round, one 120mm tank shell, [DATA EXPUNGED].
+
+Result: All explosives were immediately rendered inert when exposed to the aura. In addition, any detonators or components that would aid in the detonation of the tested devices suffered mechanical and electronic failures.
+
+Melee Weaponry: One combat knife, one steak knife, one baseball bat, one katana, one poleaxe, one spear.
+
+Result: All weapons, with the exception of the steak knife and the baseball bat, were rendered useless through accelerated rate of decay. However, when the steak knife and baseball bat were used in a threatening manner, both items were immediately rendered useless.
+
+Weapons of Mass Destruction: One liter of Sarin nerve gas, 1 gram of weaponized Anthrax, one tactical nuclear warhead.
+
+Result: All weapons rendered completely inert. All samples, including the nuclear material, were completely degraded, and instruments recorded no radiation. In the case of the warhead, the electronic detonator was also rendered useless.
+
+Conclusion: SCP-514's aura appears to be able to render any conventional weapon useless. Also, the damage each weapon suffers is directly proportional to how long the weapon is exposed to the aura. In under an hour, all weapons eventually degraded into dust. The aura is also somehow selective, being able to discern items that are actively designed as weapons from items that are potentially dangerous, but not specifically designed to be weaponized. However, SCP-514 also appears to be able to discern when an item will be used for violent intent, and said item will be directly affected by the aura.
+
+-Dr.███
+
+Experiment Log 514b:
+
+Live subjects were exposed to SCP-514's aura for an extended period of time. The subjects were divided into two groups: Voluntary test subjects drawn randomly from the general population as the control group, and Class D personnel with a history of violent behavior as the test group. Tests showed that the test group's violent tendencies were completely suppressed, and acted in a similar fashion to the control group. Suppression of the test group's violent tendencies occurs even after the subjects leave the aura, though the duration is directly proportional to the time spent exposed to the aura. Live testing against sentient SCPs proposed, pending O5 approval.
+
+-Dr.███
+
+Addendum 1: Several high ranking members in the Foundation's military branch, as well as various associated government agencies, have expressed interest in weaponizing SCP-514. There is great strategic and tactical value in an asset that can effectively neutralize an entire enemy army's arsenal in a short period of time. There are also requests to test SCP-514's aura against several Keter-level SCPs. However, access to SCP-514, as well as the █████████, remains restricted. O5 Command is currently deliberating the issue.
+
+Addendum 2: All attempts to capture SCP-514 for containment and study have been met with failure. Every Agent, Doctor, and researcher sent to capture SCP-514 steadfastly refused to complete the mission. This is most likely a reaction to SCP-514's aura. Surveillance with Mobile Task Force Lambda-4 still in effect, with the use of the █████████ authorized.
+
+Addendum 3: As of ██/██/20██, all members of Mobile Task Force Lambda-4 are required to be proficient in various non-violent, competitive activities, including but not limited to: Sports, board games, card games, videogames, trivia, riddles, and rock-paper-scissors.
+
+Are you serious? The fate of one of our SCPs could be decided on the outcome of rock-paper-scissors?!
+
+-O5-██
+
+I assure you sir, you have nothing to fear. We are dead serious about these matters.
+
+-Captain ████████, Mobile Task Force Lambda-4 "Birdwatchers"
+
+Note: Captain, couldn't you have chosen a more… dignified… game as your primary conflict resolution method? Seeing two grown men in all-black tactical gear taking a children's card game so seriously is… off-putting.
+
+O5-11

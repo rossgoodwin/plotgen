@@ -1,0 +1,69 @@
+SCP-926
+
+Item #: SCP-926
+
+Object Class: Safe
+
+Special Containment Procedures: When not in use, SCP-926 is to be unstrung and stored in the temperature- and humidity-controlled case constructed for that purpose, and locked in Research Chamber 5688-A. Only personnel who submit a formal request and receive approval from site command may operate SCP-926. Before research access to SCP-926 is permitted, counterpart personnel at Site 366 in Xi'an, China are to be alerted. Testing of SCP-926 is suspended pending confirmation of the excavation and recovery of all responsive statues. See test log below.
+
+Description: SCP-926 is a guqin, or seven-stringed Chinese zither, dated to the 2nd or 3rd century BCE. The top of the sound chamber is constructed of the wood of an ancient, and now extinct, cultivar of Firmiana simplex tree; the base is comprised of wood from Catalpa ovata. The exterior of the instrument is coated with a lacquer of unknown composition, with surface duanwen, or crack patterns, that superficially resemble archaic Chinese logographs. The back of the instrument bears a calligraphic inscription in archaic Chinese reading "The King of Qin commands". The instrument was unstrung when collected by the Foundation, but its case included a leather pouch containing a quantity of instrument strings of twisted silk.
+
+The instrument was recovered by local farmers from a funerary site in Lintong District, Shaanxi Province, China in 1974. After the guqin was unearthed, cleaned and re-strung, a local traditional musician strummed a few notes on the instrument. The consequent subterranean disturbance led to the discovery of thousands of terracotta human and animal statues that had been buried in a hitherto undiscovered imperial necropolis in the vicinity of the site of the guqin's discovery.
+
+SCP-926 appears to function as a command or control instrument for the terracotta figures. The figures are of moulded clay construction unremarkable apart from their excellent state of preservation. Each figure depicts a life-sized human, or an animal such as a horse, pig or falcon. The statues depicting humans vary in dress, height, uniform and hairstyle in accordance with their apparent rank and the duty of the human depicted (e.g., military figures of various ranks, scribes, craftsmen, musicians, cooks, laborers, farmers, scholars and so on). Despite their clay construction, the statues have been demonstrated to be capable of movement and other actions when (but only when) given commands by means of the guqin.
+
+The guqin's command syntax is still poorly understood at this point due to limitations on testing. Partial test log follows:
+
+Reference
+
+Syntax (notes played)
+
+Result
+
+001
+
+(unknown guqin notes played prior to Foundation acquiring custody of object)
+
+Thousands of terracotta statues, while still buried in the necropolis, move suddenly. Statues were "standing at attention" when unearthed and it is assumed that the motion consisted of assuming this posture. It was this motion, which local residents had initially assumed was a small earthquake, that led to the discovery and excavation of the statues.
+
+002
+
+Shí-èr-lǜ series of tones
+
+All excavated "soldier" figures assume "parade rest" posture.
+
+003
+
+Tài Cù, then Gū Xiǎn
+
+All "scribe" figures produce brushes, ink and paper scrolls from an unknown source and adopt a posture apparently indicating readiness to take dictation.
+
+004
+
+Nán Lǚ twice, then Huáng Zhōng twice
+
+"Shield-bearer" soldier figures rapidly move into a defensive formation around the guqin and its player.
+
+005
+
+Wú Yì four times
+
+A number of "drummer" musician figures begin to beat their drums in unison. It should be noted that one of the drummer figures that responded to this command was at this point on display in the Louvre in Paris, France.
+
+006
+
+Dà Lǚ, then Yí Zé, then Lín Zhōng three times.
+
+Hundreds of previously-undiscovered "engineer" figures dig their way to the earth's surface in cropland two kilometers to the south of the site of the guqin's recovery.
+
+007
+
+Chord of Huáng Zhōng and Lín Zhōng, played twice
+
+A number of "scholar" figures step forward and orally recite the works of 3rd century BCE Chinese philosopher Han Fei.
+
+008
+
+Dà Lǚ, eight times
+
+Hundreds of additional unexcavated figures move while underground. The location of the figures was under an earthen dam, which collapsed due to the motion causing widespread flooding and loss of life. Further testing suspended.

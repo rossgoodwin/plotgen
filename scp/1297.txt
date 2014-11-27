@@ -1,0 +1,71 @@
+ 
+
+SCP-1297 in an inactive state
+
+Item #: SCP-1297
+
+Object Class: Keter
+
+Special Containment Procedures: Item SCP-1297 is contained in the center of a 10 x 10 x 5 m reinforced concrete enclosure, with one bulk-head door accessible via the east wall at floor level. The room is lit with natural gas torches, and standard safety protocol for gas leaks and lighting failure is to be upheld at all times. A steel catwalk is suspended from the ceiling and west walls, two (2) meters from the floor, with bulkhead entrances on the north and south walls. At least fifty (50) guards are to remain on site at all times in event of attempted breach, with no fewer than five (5) security personnel stationed on the catwalk at all times.
+
+No electrical systems are to be employed in the surveillance or containment of SCP-1297. Personnel who have been artificially augmented or repaired in any way (pacemakers, replaced organs/bones/joints, ocular implants, etc.) are disqualified from working with SCP-1297. Security personnel are to receive supplemental training on the use of antique firearms and ancient melee weaponry prior to arrival on containment site. No effort is to be made to prevent SCP-1297-1 manifestation events (See Addendum 1297-1), but all instances are to be terminated on sight using whatever means remain available.
+
+Immediately following termination of all active SCP-1297-1 instances, remains are to be searched for their initiating object (precisely one (1) toenail clipping), which is to be returned to SCP-1297 immediately. Personnel assigned to this task must wear gloves to prevent skin contact. Under no circumstances should SCP-1297 be transported by air, nor should it be allowed within 40 km of the nearest population center of five hundred (500) persons or more.
+
+Description: In its inactive state, item SCP-1297 is a glass jar approximately 20 cm in height, with a plastic, screw-on lid1. Contents of the jar are apparently human toenail clippings in various states of decomposition. The precise volume of the item as well as the number, age, and composition of the clippings cannot be determined due to the item’s anomalous properties.
+
+Any time a toenail clipping is removed from the jar, SCP-1297 will project a unique temporal displacement field. During experimental trials and breach attempts, it has been determined that the difference between the year recorded within the anomaly and the year recorded by observers outside the anomaly (hereafter ‘Δt’) increases both with duration of activity and number of clippings removed from SCP-1297. The active radius of the anomaly also increases by the same criteria.
+
+At initial manifestation, SCP-1297’s active radius is 0.5m, with a Δt equal to ten (10) years. This will increase by a radius 0.5m and Δt of ten (10) years per hour per clipping. Countering this effect requires the return of the original toenail clippings to SCP-1297. Each clipping returned is capable of reversing both the increase in radius and the Δt for which it is responsible2. Unlike other localized temporal anomalies, the field will allow organisms, persons, radiation, and simple objects to pass in and out without harm.
+
+Anomaly SCP-1297 represents a localized TK-Class Causal Restructuring Event, resulting in all temporally local causality (roughly the previous 20-50 years) being forced progressively further backward along our current world-line. Although sense of identity, personal history, and basic situational knowledge remain intact, progressively greater levels of technological regress can be observed within the active radius3. Despite minor disorientation caused by disappearance and regression of technology currently in use, all persons exposed to the effect indicate no knowledge anything has changed unless previously informed of SCP-1297's unique properties.
+
+The field is not directly harmful to healthy humans; however, subjects requiring the existence of advanced technology to survive will either expire or disappear entirely if local Δt precludes the existence of that technology. Items or personnel lost to this effect will be restored once the offending clipping has been returned to SCP-1297. Collateral damage caused by their temporary disappearance is not.
+
+SCP-1297 employs a unique offensive strategy to increase the acceleration of the field’s effective radius and Δt. Although clippings can be manually removed and replaced without triggering this effect, SCP-1297 will at random intervals4 open and eject a random number of clippings5 covered in an unidentified viscous, sticky, malodorous brown humor (designated SCP-1297-1). Direct skin contact with the humor causes intense abdominal pain, nausea, and vomiting in 100% of subjects. Olfaction was sufficient to induce effects in 13% of those exposed. Incapacitation due to vomiting, shortness of breath, and loss of consciousness lasts over twenty (20) minutes in all cases.
+
+In addition, SCP-1297-1 is capable of spontaneous animation. Within five minutes of emergence, SCP-1297-1 will solidify around any ejected clipping in a radially symmetric pattern similar to an invertebrate of class Asteroidea. Resulting animate instances are no greater than 0.25 m in diameter, but are capable of two (2) meter vertical jumps, leaps at a length of five (5) meters, and movement in any direction at speeds of up to 20 km/h, which is employed to put as much distance between SCP-1297 and SCP-1297-1 as possible. Instances appear to be aware of their surroundings, and have been known to remove additional clippings from SCP-1297 before attempting escape.
+
+Addendum 1297-1: Containment Notes
+
+Early containment efforts assumed item SCP-1297 to be non-sentient, and were focused primarily upon preventing the emergence and manifestation of SCP-1297-1. Automated containment using sloped floors, pneumatic rams, liquid nitrogen spray, etc. have proven not only ineffective, but shown to increase both frequency and volume of manifestation events.
+
+Methods of permanent containment attempted have also proven insufficient, up to and including casting the item in an 80 x 80 x 80 cm block of solid structural steel. Although SCP-1297 remained inactive for four (4) years, prior to breach, the ensuing manifestation of ████ instances of SCP-1297-1 caused a local loss of all communications and firearms technology within 20 km radius, and loss of both written and spoken language within a 40 m radius of the epicenter before all instances were terminated. It is theorized that another breach of this magnitude or greater may cause several simultaneous XK-Class End of the World Scenarios due to containment breach of other known SCPs alone.
+
+As SCP-1297 has demonstrated the awareness necessary to recognize increased containment measures, and the ability to escalate its response to them, further attempts to prevent the activation of SCP-1297 are prohibited.
+
+The classification of SCP-1297 was upgraded to Keter on 28/10/1986.
+
+Addendum 1297-2: Document 1297-A
+
+Item SCP-1297 was mailed to Site-19, via US post on ██/██/1949. Its arrival coincided with a Γ-4 level containment breach including all 23 Euclid-class SCPs housed on site. The following note was recovered with the item, sealed in red wax. The note was written with a simple charcoal based ink on vellum paper, presumably to ensure that it would not be destroyed by SCP-1297's effect.
+
+Dearest ████████,
+
+I have decided, finally, to refuse your offer. Tempting, all that control. But the way I see it, if not for your Foundation, we wouldn't need your Foundation.
+
+And you know this, deep down. I'm sure you do. Everything is permitted, my friend. And there is nothing in this world which is not disposable. Not you. Not me. Not our fathers and mothers. Not all the fortunes and all the pleasures and all the horrors of all the world.
+
+Except this little item here.
+
+Disgusting? Yes. Repugnant? Of course. But you'll never be rid of it, not if your Foundation places value in the 'status quo' as we both know it does. I suppose that is what you wanted, isn't it?
+
+I honestly wish you would just give it up and come along for the ride. It saddens me to know that we can no longer be friends. Pity. We did make such a good team.
+
+Until we meet again – unless I see you first – stay on your toes!
+
+- █████
+
+The box was damaged in shipping, displaying a small hole on the underside where an instance of SCP-1297-1 appears to have escaped, and is presumed still at large. A postmark on the upper face listed a date of ██/██/2049, suggesting a maximum Δt per SCP-1297-1 of 100 years. Subsequent tests on the packaging confirm that it remains unaffected by anomaly SCP-1297. Efforts to understand and reproduce this immunity are ongoing.
+
+Footnotes
+
+1. Known configurations during periods of activity include a glass-topped storage jar with metal clasp, a red ceramic pot, a wicker basket, and a small circle of stones inscribed with an unknown runic language.
+
+2. Although a maximum Δt equal to one hundred (100) years per clipping has been established, the radius of effect has no known limit and will continue to expand indefinitely so long as at least one clipping remains outside of SCP-1297.
+
+3. The effect includes, but is not limited to, weapons, armor, photography, fashion, language, political climate, and medicine.
+
+4. Intervals range from four (4) hours to four (4) years. The most common interval is approximately ninety (90) days.
+
+5. Number of instances ranges from two (2) to ████, with a mean of twenty-seven (27) instances.

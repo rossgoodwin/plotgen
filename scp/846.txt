@@ -1,0 +1,93 @@
+SCP-846 in its dormant state.
+
+Item #: SCP-846
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-846 is to be contained in a reinforced steel safe, located in Storage Unit █ at Site ██. SCP-846's containment area is to be guarded by three (3) security personnel at all times. Any unauthorized personnel attempting to access SCP-846 are to be taken into custody and interrogated by on-site security.
+
+Activation of SCP-846 must be authorized by at least three (3) Level 4 personnel. Any testing of SCP-846 is to take place at an on-site firing range.
+
+Description: SCP-846 is a plastic toy robot measuring twenty (20) centimeters in height and five (5) centimeters in width. The bottom of SCP-846's right foot bears the text 'Robo-Dude® (Now with Voice Command Action), by Dr. Wondertainment!' Signs of paint chipping and minor damage to SCP-846 indicate that it is roughly ten (10) years old, although attempts to question SCP-846 on this have been ignored. (See Interview 846-1)
+
+SCP-846 is operated using a small 'controller' featuring an 'On/Off' button, a 'Speak' button and a small microphone. SCP-846 is activated using the 'On/Off' button, and verbal communication can be facilitated using the 'Speak' button. SCP-846 appears to be extremely well programmed, if not sentient, and will respond to most questions posed to it.
+
+SCP-846 identifies itself as 'Robo-Dude' and claims that it possesses three hundred and fifty (350) 'Robo-Accessories'. When asked to use one of these accessories, the torso of SCP-846 slides open, revealing the desired accessory, which it then proceeds to utilize. The interior of SCP-846 appears to change completely each time it is asked to utilize an accessory. SCP-846 seems to be unable to utilize these accessories without being instructed to do so.
+
+SCP-846 has claimed to possess, among other things:
+
+A 'Fire Drill'. (Tested, functioned as a flamethrower.)
+
+An 'Energy Laser' (Tested, functioned as a pistol.)
+
+A 'Boom Ray' (Tested, functioned as a rocket launcher.)
+
+A 'Melt-o-Tron 5000' (Tested, sprayed acid at target)
+
+An 'Ultra Plasma Rifle' (Tested, functioned as an assault rifle)
+
+A 'Hydrogen Cannon' (Tested, functioned as a children's water gun)
+
+'Bug Spray' (Tested, released unidentified organisms that consumed the wooden target.)
+
+A 'Ray Gun' (Tested, released a stream of gamma radiation)
+
+An 'Atomic Grenade' (Testing strictly forbidden.)
+
+History: SCP-846 was brought into containment after an unknown individual delivered it in a sealed package to [REDACTED], a front company for the SCP Foundation. The label of the package simply read 'MERRY CHRISTMAS'. Agents, upon learning of SCP-846's unusual properties, informed their superiors. SCP-846 was subsequently taken into Foundation custody.
+
+Interview 846-1
+
+Close Interview
+
+Interviewed: SCP-846
+
+Interviewer: Dr. ███████
+
+<Begin Log>
+
+(Dr. ███████ activates SCP-846.)
+
+SCP-846: THANK YOU FOR PURCHASING YOUR VERY OWN ROBO-DUDE, MADE BY DR. WONDERTAINMENT. ANY ATTEMPT TO OPERATE ROBO-DUDE OTHER THAN IN ACCORDANCE WITH THE PRODUCT INSTRUCTIONS, INCLUDING ANY ATTEMPT TO OPEN OR SERVICE ROBO-DUDE IS LIKELY TO RESULT IN UNPREDICTABLE BEHAVIOR. DR. WONDERTAINMENT IS NOT LIABLE FOR ANY DAMAGE, DESTRUCTION OR LOSS OF PERSONAL OR REAL PROPERTY, OR FOR ANY INJURY, UP TO AND INCLUDING DEATH, TO THE OWNER, THE OPERATOR, OR OTHERS WHICH MAY RESULT FROM THE OPERATION OF ROBO-DUDE FUNCTIONS. BY INTERACTING WITH ROBO-DUDE IN ANY WAY OR BY REMAINING IN ROBO-DUDE'S PRESENCE WITHIN FIVE SECONDS FOLLOWING THE COMPLETION OF THIS ANNOUNCEMENT, YOU ACCEPT THE TERMS AND CONDITIONS DESCRIBED IN THIS ANNOUNCEMENT, AS AMENDED AND SUPPLEMENTED BY DR. WONDERTAINMENT FROM TIME TO TIME WHETHER BEFORE OR AFTER ACCEPTANCE, AND AGREE TO HOLD BLAMELESS DR. WONDERTAINMENT, AND EVERYONE AFFILIATED WITH DR. WONDERTAINMENT, FROM AND AGAINST ALL LIABILITY OR LOSSES RELATING TO ROBO-DUDE. DR. WONDERTAINMENT RESERVES ALL RIGHTS AND REMEDIES, INCLUDING BUT NOT LIMITED TO INTELLECTUAL PROPERTY RIGHTS IN AND TO 'ROBO-DUDE', 'ROBO-PAL', 'ROBO-ACCESSORIES' AND ALL PATENTS, TRADEMARKS, COPYRIGHTS AND OTHER INTELLECTUAL PROPERTIES EMBEDDED OR EMBODIED THEREIN. GREETINGS, ROBO-PAL.
+
+Dr. ███████: Hello, SCP-846. How are you?
+
+SCP-846: ROBO-DUDE IS FUNCTIONING AT FULL CAPACITY, ROBO-PAL.
+
+Dr. ███████: That's nice. I'd just like to ask you a few questions, SCP-846. Where were you produced?
+
+SCP-846: ROBO-DUDE IS THE INTELLECTUAL PROPERTY OF DR. WONDERTAINMENT.
+
+Dr. ███████: Alright. When were you made?
+
+SCP-846: ROBO-DUDE IS THE INTELLECTUAL PROPERTY OF DR. WONDERTAINMENT.
+
+Dr. ███████: (Sighs) Okay, SCP-846 -
+
+SCP-846: THIS UNIT IS DESIGNATED ROBO-DUDE. PLEASE REFER TO ROBO-DUDE AS ROBO-DUDE.
+
+Dr. ███████: No. Please tell me about yourself, SCP-846.
+
+SCP-846: THIS VERSION OF ROBO-DUDE IS EQUIPPED WITH OVER A HUNDRED NEW ROBO-ACCESSORIES AND ROBO-FEATURES, INCLUDING 'VOICE ACTION', 'POWER PUNCH' AND 'ROBO-DANCE'. ROBO-DUDE WILL NOW DEMONSTRATE ROBO-DANCE.
+
+Dr. ███████: No thank you, SCP-846, I'd like to -
+
+(At this point, SCP-846 began a 'Robo-Dance', which lasted twenty-three (23) minutes. SCP-846 ignored all questions during this time period.)
+
+Dr. ███████: Are you finished?
+
+SCP-846: ROBO-DANCE IS COMPLETE, ROBO-PAL.
+
+Dr. ███████: How do you access new weapons, SCP-846? There's no way they could all fit inside of you.
+
+SCP-846: ROBO-DUDE IS EQUIPPED WITH 'INTERIOR SHIFT', AN INNOVATIVE NEW ROBO-FEATURE FROM DR. WONDERTAINMENT.
+
+Dr. ███████: Interesting. How are you responding to my questions, have you been programmed to do so?
+
+SCP-846: ROBO-DUDE IS THE INTELLECTUAL PROPERTY OF DR. WONDERTAINMENT.
+
+Dr. ███████: SCP-846, tell me why you are able to respond to questions.
+
+SCP-846: DO NOT INTIMIDATE ROBO-DUDE.
+
+<End Log>

@@ -1,0 +1,75 @@
+Item #: SCP-2028
+
+Object Class: Safe
+
+Special Containment Procedures: Site-91 has been built around the affected house of ████ ██████. Instances of SCP-2028 may be kept in a standard containment locker at Site-20. Experiments involving SCP-2028 must have the approval of at least one Level 3 Researcher.
+
+Description: SCP-2028 is a collection of 258 empty snow globes. The words "Remove the negative emotions and thoughts from your mind, with your friends at The Oneroi Collective1. Do not use more than three times per 30 days. In case of emergency, DO NOT BREAK THE GLASS." are written on the underside of each instance of SCP-2028. Analysis of the structures of the instances reveals no anomalies.
+
+The anomalous properties of SCP-2028 manifest when one or more human subjects enter REM sleep within 4 meters of an instance. The subject will invariably experience a vivid nightmare. Upon waking up, the subject will feel an intense sensation of relief. For the following three days, the subject will report an increase in happiness and willingness to participate in social situations.
+
+The instance used will be filled with images from the subject's nightmare. If picked up and shaken for more than 3 seconds, the subject will experience brief, random hallucinations related to the nightmare. Sleeping next to a used instance yields no results. Should the phrase "please reset" be spoken within 4 meters of a used instance, the images will disappear and it will manifest its anomalous properties again if used.
+
+Using an instance of SCP-2028 more than three times every 30 days causes damage to it in the form of cracks appearing on the glass. If an instance is used approximately 6 times in a 30 day period, or if it is broken through impact, a 2028-Alpha event will occur immediately. This event consists of a local restructuring of reality of varying size surrounding the broken instance. Said restructuring measures 250 m² on average and strongly resembles the events and physical laws found inside the nightmare "stored" inside the broken instance. Almost all 2028-Alpha events have disappeared after a number of hours equivalent to those of the subject's sleep duration.
+
+SCP-2028 was found when ████ ██████, a farmer on [REDACTED], accidentally broke a used instance. The entirety of his house was affected by a 2028-Alpha event. The farmer reported that he often had nightmares about being considered inferior due to not receiving a proper education. Due to the immobile nature of the affected structure, Site-91 was built around the house. The following anomalous phenomena are found within it:
+
+The majority of the structure lacks any color beyond black and white.
+
+Several books of varying nature appear and disappear randomly. Should a book be picked up, it will become animate, manifest tooth-like growths and attempt to bite who is holding it if they do not finish reading it.
+
+Several lockers similar to those found in schools fill one of the structure's corridors. If they are opened, they will reveal random contents normally found inside school lockers. However, any notebook will be filled with text complaining about bullying or having to study.
+
+Any animals that enter the structure will either be transformed into an object or picked up by a human arm which will appear from a nearby surface and drag the animal inside said surface. None of the animals that have disappeared in this way have been found.
+
+Several humanoid entities resembling students, teachers, janitors and security guards will perform activities related to their profession. However, the entities often have anatomical features replaced with objects such as mops, pens, chalk, books and chairs. They will communicate solely through low pitched gibberish.
+
+An individual identical to the farmer will randomly appear inside the structure and walk aimlessly through the halls. The humanoid beings who find him will point at the farmer and call other humanoids, who will gather and laugh at the farmer.
+
+A humanoid entity will wander the house shouting ████ ██████'s name and talking to itself. It resembles an adolescent male carrying a red backpack, but with his fingers replaced with pens. This is the only being in the found inside the structure that is capable of clear communication. It identifies itself as J███ ████████, a close childhood friend of ████ ██████. This entity is incapable of perceiving ████ ██████'s copy.
+
+Addendum: On ██/██/19██, the first test involving SCP-2028 is attempted. The D-Class subject used in the experiment is selected due to having the same phobia as ████ ██████. The used SCP-2028 instance was broken inside a controlled environment. This resulted in a 120 m² 2028-Alpha event which disappeared after 8 hours. Further tests with D-Class personnel possessing various phobias were also attempted, and all 2028-Alpha events were temporary. Research on what may have caused the 2028-Alpha event triggered by ████ ██████ to become permanent is ongoing.
+
+Addendum B: Interview Log
+
+Interviewed: J███ ████████, referred to as "J" in this interview.
+
+Interviewer: Doctor ██████
+
+<Begin Log>
+
+Doctor ██████: What is your name?
+
+J: I'm J███ ████████. Who are you? Have you seen ████ ██████? He looks like me, but is taller and has short blonde hair.
+
+Doctor ██████: I am Doctor ██████. Don't worry, I have seen him and he is fine.
+
+J: Thank God. I thought I would never hear about him again. No one here speaks anything but gibberish.
+
+Doctor ██████: Could you tell me more about yourself? You seem to be the only one inside here that can communicate clearly. Why do you think you are like this?
+
+J: I'm not sure. Maybe all those other people didn't mean much to him, so everything they say becomes meaningless. As for myself, all I know is that I was somewhere that was very different from here. Then I heard the sound of glass breaking and I came here.
+
+Doctor ██████: What was your place of origin like? How do you feel here?
+
+J: I don't know. It was bright and dark at the same time, and I felt like this warm, wet blanket covered me all the time. I could sometimes see and hear things that I couldn't understand, and that was it. Everything here seems to be so much more real. I know that might sound obvious, but it was a huge change for me. I guess it was like some kind of child birth. I can see, hear and touch everything now. It's kind of scary, to be honest.
+
+Doctor ██████: What else do you know about this place?
+
+J: I can't leave. I've found all the exits in this place, but some kind of invisible wall doesn't let me or those other people leave. That is all I know, I swear to God.
+
+Doctor ██████: What is your relationship with ████ ██████?
+
+J: He was my best friend, and as far as I know, I was his only friend. We would talk to each other about our problems and feelings and hung out a lot.
+
+Doctor ██████: Thank you for answering the questions. Is there anything else that you would like to say?
+
+J: Yes. If you find ████ again, please tell him that no one is better than him just because they have a diploma. He is still a wonderful person that cares a lot about his family, and that's all that matters.
+
+Doctor ██████: I will do that.
+
+<End Log>
+
+Footnotes
+
+1. This group is believed to have been associated with the creation of SCP-1498.

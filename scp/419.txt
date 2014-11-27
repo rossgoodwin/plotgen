@@ -1,0 +1,41 @@
+Item #: SCP-419
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-419 is to be kept within a steel alloy1 frame and attached to its accommodating wallspace. No covering or casing is present. SCP-419 currently resides in a room inside Site 33, dimensions 3m x 5m x 4m. All of the walls in the containment unit, including the one behind SCP-419, are made of a mesh of plastic, steel, and concrete. On the north-facing wall of the containment room is a viewing bay2 leading to another room with the same dimensions. Two guards are positioned outside of the containment room near the viewing bay and are authorized to use lethal force. They shift every three (3) hours. SCP-419 must be cleaned daily with ordinary window-cleaning supplies. Any personnel tasked with maintenance must not suffer from acrophobia. Constant monitoring of SCP-419 must take place from the viewing bay in order to ensure that the view through SCP-419 does not change significantly. In the event that it does, contact Site Director █████. Access to SCP-419 is prohibited except under special circumstances and permission from Site Director.
+
+Description: SCP-419 is a large pane of reinforced glass 1.5m x 3.6m x 7.6cm in dimensions. Looking through SCP-419 yields a landscape that does not exist. The view would appear to originate from a vantage point of an estimated 400m above ground level. This vantage point seems not to correlate to the placement of SCP-419 and is static. Approximately 800 lux of light emanates from SCP-419 despite the lack of a light source. The source of this is theorized to be whatever it is that SCP-419 is a view of.
+
+Upon closer examination, it has been determined that the landscape SCP-419 shows does not correspond to any known location on Earth. While computer-assisted topographic imaging would make this an easy deduction, nothing that enhances vision or utilizes light recognizes SCP-419 as anything but a mirror, save for the human eye. This includes vision-enhancing objects such as glasses or contacts. The view of the landscape appears to always be at night, regardless of the time it is viewed. This theory has been devised on the pretext that the area viewed through SCP-419 appears to be outside but is perpetually dark. No super-terrestrial forms (such as celestial bodies) are visible.
+
+The view shown by SCP-419 is of a partial cityscape; range estimates of its expansion vary with the weather conditions and ambient light produced by the city itself. A multitude of neon lights and signs have been noted but they are not in any known language. The buildings themselves appear similar to those of the Victorian architectural period, but with unusual, almost imperceptible changes that make them appear warped or twisted, or occupying spaces they should not. Much, if not all of the area viewed through SCP-419 is non-Euclidean.
+
+Organisms have been viewed walking, albeit only en masse due to their relatively small size. Their actual size is currently unknown due to the lack of a scale. They appear to be humanoid and dark red in color; however, the lack of available computerized assistance and the obvious flaws in the human eye does not allow a higher level of detail to be ascertained. Due to their seemingly advanced level of technology and culture, it is unlikely that these organisms are nude, and it is theorized by Dr. ██████ that their skin color is actually a dark gray.
+
+Additional Description:
+
+{+} Prior to Incident 419-B (Obsolete)
+
+{-} Prior to Incident 419-B (Obsolete)
+
+Occasionally, large metal constructs have been viewed moving through the "streets" followed by large masses of the humanoids. Whereas normally a suitable amount of movement is present throughout the "city," during these occasions the only movement is made by these processions. While highly reminiscent of marching due to the extremely geometric nature and constant pace of the processions, it should be noted that it is entirely possible that none of this is related to the military.
+
+{+} After Incident 419-B
+
+{-} After Incident 419-B
+
+Following Incident 419-B, the entire landscape viewed through SCP-419 has changed drastically. Many of the buildings are lit on fire or smoldering, much of the ground is covered in rubble, and there is almost no movement of the previously-described red humanoids. However, what appear to be similarly shaped dark blue humanoids have been observed. Approximately ██% of the buildings standing before Incident 419-B have collapsed. Visibility has also been significantly obscured by what appears to be smoke. Upon closer inspection, many dark gray figures are visible in the streets, though they have yet to move.
+
+Note 12-28-08: In light of recent events, I'd like to remind all personnel what the likelihood of SCP-419 breaking is and what consequences could occur if that were to happen. The pane could simply stop working, or it could stop being a window and start being a door. No, it is not probable. Yes, it is possible. Remember, it's glass. Reinforced glass, but glass nonetheless. The containment procedures have been modified in order to try to eliminate any and all damage to SCP-419 from happening from our end.
+
+- ████ Kulzn
+
+Note 9-27-13: SCP-419 seems to be aging at an abnormally fast rate. We currently believe this is due to the atmosphere on the other side, though we obviously cannot test for sure. At this speed, SCP-419 could become non-functional as soon as 2019.
+
+- ████ Kulzn
+
+Footnotes
+
+1. Alloy is 980X HSLA
+
+2. Note that there is no physical barrier between the viewing bay and SCP-419.

@@ -1,0 +1,79 @@
+SCP-1066
+
+Item #: SCP-1066
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1066 is to be kept in a document storage box large enough to contain it without folding or rolling. It should be stored on a standard shelving unit in Storage Site-23. Any personnel with Level 2 or higher clearance wishing to run tests on SCP-1066 should speak with Dr. V█████.
+
+Description: SCP-1066 is a college diploma issued by the University of ████ ███ (U██), dated █/█/19██. It is printed on a .5x.3 m sheet of parchment. No abnormalities have been found in either the ink or the parchment, and both match similar diplomas issued by U██ in the 19██s.
+
+SCP-1066 is no more resistant to damage than any other ██-year-old piece of parchment, so care should be taken while handling it to avoid damage. Open flames in particular should be kept away from the object.
+
+When a man who is at least 17 years of age signs his name in the space labeled "Graduating Student", he will disappear for 4-10 minutes and return four years older. The subject seems to have lived those years as a student at U██ between 19██ and 19██, graduating on the date written on the document, and earned a degree in whatever subject he was thinking of while signing the document, whether U██ offered classes in that subject in 19██ or not. The text on SCP-1066 will change to reflect this. The subject will have no memory of the four years not directly related to his subject of study. See Addendum 1066-1 for more details. There is no effect when a woman signs her name on SCP-1066. As U██ did not accept women in 19██, this is unsurprising.
+
+It is worth noting that approximately █% of subjects do not survive the four years. In these cases, their corpse will return with the expected amount of decay. The death rate is not consistent with that of students at U██ in 19██; however, these results are skewed, since many test subjects have been ordered to think of memetic effects or dangerous SCP objects.
+
+SCP-1066 was recovered from the campus of U██ on ██/██/20██. The administration had been offering an "accelerated learning" program to students, for the standard four-year tuition plus a fee of $███████. It is unknown why nobody noticed the quick aging of some graduates; if this is a property of the object, it is yet to be discovered. The object was retrieved without casualties and Class-B amnestics were administered to the administration and all recorded graduates. It is very likely that some or most of the graduates were not recorded, but the risk of any graduates revealing the existence of SCP-1066 is low, and as such finding them is a low-priority task.
+
+Addendum 1066-1: Notable Test Results
+
+Name: Dr V█████
+
+Date: █/██/20██
+
+Subject: D-1066-1
+
+Information: Subject was simply instructed to sign the document.
+
+Results: The subject gained a degree in calligraphy. Review of experiment tapes indicates that the subject had been focusing intently on signing the document in his best handwriting. The subject's handwriting showed a marked improvement after the test. He had no memories of the time in which he was gone. Subject was terminated on schedule at the end of the month.
+
+Additional Comments: Subject gained a tattoo of the phrase "The pen is mightier than the sword", translated into Chinese, on his left pectoral.
+
+Name: Dr V█████
+
+Date: ██/█/20██
+
+Subject: D-1066-5
+
+Information: Subject was instructed to think of his favorite animal.
+
+Results: The subject gained a degree in marine mammal biology. When questioned, the subject said that his favorite animal was the dolphin. The subject also had vivid dreams of SCUBA diving next to various marine mammals until he was terminated at the end of the month.
+
+Additional Comments: The subject showed familiarity with SCUBA equipment after the test; when asked, he claimed to never have taken a SCUBA certification course.
+
+Name: Dr V█████
+
+Date: █/█/20██
+
+Subject: D-1066-7
+
+Information: Memetic SCP-███ was described to the subject, who was then instructed to think only of that while signing the document.
+
+Results: Subject gained degree in memetic studies. However, subject refused to communicate in any way with researchers after returning, and was terminated on schedule.
+
+Additional Comments: No luck training researchers with this thing so far. — Dr V█████
+
+Name: Dr V█████
+
+Date: █/█/20██
+
+Subject: D-1066-14
+
+Information: Subject was instructed to think of the phrase "Advanced Memetics". Subject showed above-average intelligence in standard D-class screening.
+
+Results: Subject returned in a vegetative state consistent with the effects of [REDACTED].
+
+Additional Comments: Subjects 9 through 13 were all instructed to think of memetic effects, and all returned showing signs of exposure to some sort of memetic agent known to the foundation in 19██. -Dr V█████
+
+Name: Research Assistant █████ ███
+
+Date: █/█/20██
+
+Subject: Research Assistant █████ ███
+
+Information: This was an unauthorized test. Research Assistant ███ was apparently trying to gain sufficient credentials to be promoted to full researcher.
+
+Results: Research Assistant ███ returned with a degree in "SCP Studies". The "SCP" in this case apparently is an acronym for "Super-Computer Processors". He now has a knowledge of super-computers consistent with the year 19██.
+
+Additional Comments: Research Assistant ███ was demoted to clearance Level 0 and transferred from Storage Site-23.

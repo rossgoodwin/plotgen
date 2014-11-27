@@ -1,0 +1,85 @@
+Item #: SCP-1937
+
+Object Class: Safe
+
+Special Containment Procedures: The perimeter around SCP-1937 is to be secured by no less than three (3) Foundation security personnel. Any civilians approaching SCP-1937 are to be redirected and escorted elsewhere. Any civilians displaying prior knowledge of SCP-1937 and its effects are to be detained, interrogated, and administered Class-B amnestics before release.
+
+D-Class personnel are not to spend more than thirty (30) minutes within SCP-1937 during testing. No other personnel are permitted inside of SCP-1937 at this time.
+
+Description: SCP-1937 is a small one-room building located in ███████, Greece on the bank of ███████ Lake. The structure is constructed out of various woods found in the nearby ██████ Forest, none of which appear to decay. Extensive plant growth exists around the outside of the building. On the front door, the words, “I LOVE YOU, TOO” have been carved into the wood.
+
+When a human spends more than approximately thirty (30) minutes within SCP-1937, that subject will become infected with SCP-1937-A. This phenomenon manifests at random intervals when an infected subject speaks certain phrases, as outlined in Addendum-1937-Epsilon. Upon speaking these phrases, a voice matching that of the infected subject will immediately respond in manner matching the infected subject's intonation and inflection while speaking the trigger phrase. SCP-1937-A appears to comfort the infected individual as well as often instilling self-esteem and confidence.
+
+Interview Log-1937-Gamma:
+
+Interviewed: Leto Yannatos, an individual infected with SCP-1937-A
+
+Interviewer: Agent Fredricks
+
+Forward: This interview was conducted by Agent Fredricks on a civilian in a secluded area outside of Foundation control in order to quickly obtain more information about the anomaly.
+
+<Begin Log>
+
+Fredricks: Hello. Could you tell me about the "self-love shack," as you referred to it earlier?
+
+Yannatos: The shack absolutely changed my life. I'm so thankful to the Crusade for what they've done for me. I honestly don't think I would be here right now if it wasn't for them and that place.
+
+Fredricks: How do you mean?
+
+Yannatos: [silence for approximately thirty seconds] Before then, I… I really hated myself. I couldn't even look in the mirror because of how awful I was. I just… I couldn't stand it. I really was going to end it when I first heard about the shack and the Crusade. I only tried it out because, hell, what did I have left to lose? And… well… it worked. It goddamn worked. I dunno how the hell they pulled it off, but it's working and I'm so grateful to them.
+
+Fredricks: Can you tell me more about the Crusade?
+
+Yannatos: I don't know, all my info about them is from my friend, Kassandra. All I know is, they're like… an assistance group, I suppose. They just wanna help people, is all. That's all I really know, sorry. You can probably find them if you go to the shack.
+
+Fredricks: I see. Thank you. Can you show me this voice?
+
+Yannatos: Sure, if you want. [clears throat] Are you here?
+
+SCP-1937-A: Always here.
+
+Yannatos: I can't stop.
+
+SCP-1937-A: Come home.
+
+Yannatos: Will you love me?
+
+SCP-1937-A: I never stopped?
+
+Yannatos: So yeah. There it is. I can't tell you where the shack is, exactly, but if you come with me, I think Kassy could!
+
+Fredricks: That sounds fantastic, please take me.
+
+<End Log>
+
+Closing Statement: Following this interview, eight (8) individuals infected with SCP-1937-A were detained, interviewed, and contained. SCP-1937 was also discovered.
+
+Addendum-1937-Epsilon: The following table is an abridged set of known SCP-1937-A trigger phrases along with the response.
+
+Trigger Phrase
+
+Response
+
+I am ugly.
+
+I'm a liar.
+
+I hate myself.
+
+I don't.
+
+I don’t want to leave.
+
+I don’t want you to leave.
+
+I love you.
+
+I love you, too.
+
+SCP-1937 was recovered from the possession of GoI-311 (The Hope Crusade) on 06/09/2002. SCP-1937 was being used by the group as a paid service for people lacking self-esteem, in which they introduced people to the anomaly for a rate of €40 per hour. All members of the group were detained and interrogated, revealed the rest of the locations of the group as well as a list of people infected by SCP-1937-A. Furthermore, it was discovered that several now-contained items1 were being used as additional services to treat drug addiction, eating disorders, and "abnormal sexualities," respectively. It is to be noted that all these services, with the exception of SCP-1937, induced effects that faded over time, requiring multiple visits in order to maintain a person's anomalous properties.
+
+After interrogation and capture of the remainder of the Hope Crusade's personnel and anomalies, all members were administered Class-C amnestics, released, and monitored for a subsequent six (6) months in order to ensure the prevention of the reformation of this group.
+
+Footnotes
+
+1. SCP-████, SCP-████, and SCP-████

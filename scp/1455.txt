@@ -1,0 +1,27 @@
+Item #: SCP-1455
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1455 is to be contained within a standard doorframe connecting two rooms which are part of a 36-room (6 rooms by 6 rooms) modular labyrinth array; each room in the labyrinth array is to measure 2.5 meters by 2.5 meters, and must have a minimum of two doors in its walls. This serves as primary containment. All doors between labyrinth rooms are to be colored red so that labyrinth users can more easily detect SCP-1455; similarly, each room is to be numbered, with its number clearly indicated on each wall.
+
+All door frames on Site-██ which separate public and/or personal spaces from each other are to be of a size compatible with SCP-1455; these serve as secondary containment should SCP-1455 breach primary containment in the labyrinth. In the event that SCP-1455 is found within secondary containment, it is not to be replaced within primary containment until its misaligned phase has reverted to its standard phase. All door frames on Site-██ which separate public spaces from secure and/or classified spaces, or which separate secure and/or classified spaces from each other, are to be of a size which exceeds, or is exceeded by, that of SCP-1455 by no less than 20% in every dimension.
+
+During its standard phase, SCP-1455 is to be used no less than four (4) times per 24-hour period; insufficient use of SCP-1455 during its standard phase shortens the interval before its phase transition. A video surveillance system is to be mounted throughout the labyrinth, so as to detect the onset of SCP-1455's ambulatory phase, and subsequently of its misaligned phase.
+
+SCP-1455 is not to be blocked, obstructed, or otherwise interfered with during its ambulatory phase.
+
+Any research into the misaligned phase must be performed within the first 90 hours of the onset of this phase: although SCP-1455 has never transitioned from misaligned phase to standard phase before spending at least 96 hours misaligned, the transition is instantaneous once it occurs.
+
+Description: SCP-1455 is a wooden door, painted white on both sides, roughly 2 meters tall, 82 centimeters wide, and 3.5 centimeters thick, with a rounded brass doorknob on each side. When in its standard, non-anomalous phase, SCP-1455 functions as a normal door, standing in a doorframe as it separates two spaces from each other. After an interval of at least six days (shortest observed interval: 6 days 2 hours 14 minutes; longest observed interval: 22 days 9 hours 51 minutes; see document 1455-257-HNB for detailed statistical analysis), SCP-1455 will transition to its ambulatory phase; the duration of the non-anomalous interval can be significantly extended by frequent use (see document 1455-5K-W93 for parameters of what counts as "use").
+
+Upon transition to its ambulatory phase, SCP-1455 will animate, unhook itself from its hinges, and begin to hop around its environment. During the ambulatory phase, SCP-1455 responds to interference by teleporting itself away. The reason why it hops if it is capable of teleportation is not known; however, it is suspected that [DATA EXPUNGED].
+
+If its ambulatory phase is undisturbed, SCP-1455 will seek out another door within a doorframe; upon locating a suitable door, SCP-1455 will instantaneously install itself within the new door's doorframe, while simultaneously installing the new door within SCP-1455's original doorframe. This marks the transition to the misaligned phase.
+
+During the misaligned phase, the spaces adjacent to SCP-1455's current and previous doorframes are conjoined to each other, reflecting SCP-1455's previous location: instead of doorframe A linking rooms 1 and 2, and doorframe B linking rooms 3 and 4 (as is normal), doorframe A links rooms 1 and 4, and doorframe B links rooms 2 and 3. This has been shown to be effective from both sides; further experiments with this phenomenon have revealed [DATA EXPUNGED]. After an interval of at least four days (shortest observed interval: 4 days 0 hours 26 minutes; longest observed interval: 11 days 17 hours 33 minutes; see document 1455-257-LG for detailed statistical analysis), SCP-1455 will transition to its standard phase.
+
+Note: As a result of Incidents 1455-23 through -27, all experiments which involve moving SCP-1455 to new locations while it is in its misaligned phase are preemptively denied. - O5-█
+
+Study of the physical composition of SCP-1455 has been hindered by the fact that all attempts to remove samples of SCP-1455 for analysis have instead produced samples of other doors; similarly, attempts to leave markings on the surface of SCP-1455 have instead left markings on the surface of other doors. This is hypothesized to be a further manifestation of SCP-1455's property of warping space towards other doors.
+
+All forms of passive analysis indicate that SCP-1455 is a normal door, with the exception of [DATA EXPUNGED]. This implies [DATA EXPUNGED], which is considered probable, but for obvious reasons cannot be verified.

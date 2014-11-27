@@ -1,0 +1,129 @@
+SCP-889 prior to containment.
+
+Item #: SCP-889
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-889 has been completely sealed with concrete, save for a single airlock entrance for research purposes. The building is surrounded with a standard security fence and written warnings, under the cover of a government medical research facility. For the next one (1) year, a mobile task force is to take bi-monthly sweeps of the surrounding countryside. Any pre-containment products of SCP-889 are to be neutralized and/or captured and brought to Bio-Research Area 32. Local rumors or sightings concerning strange animals are to be pursued with utmost diligence.
+
+A quarterly swab is to be made of the interior of SCP-889. If any prokaryotes are discovered exhibiting the effect of SCP-889, or if any staff members contract an unusual illness, SCP-889 is to be incinerated and sealed indefinitely. All staff members and equipment are to be decontaminated fully.
+
+Description: SCP-889 is an abandoned cattle barn located several miles north of ███████, Montana, USA. A series of farming buildings in various states of disrepair surround SCP-889. No signs of human habitation are nearby, and no information is available concerning current or previous owners.
+
+Within SCP-889, a combination of male and female animal or plant gametes from any two species produces viable offspring. This process occurs through a novel rearrangement of chromosomes during fertilization. In cases where gametes of different genome size or of different ploidy meet, chromosomes are often doubled or combined. The full extent of the progression is still under research. While mechanical considerations such as animal size, genital structure, and internal versus external fertilization often prevent dissimilar species from mating, methods of artificial fertilization are effective in 90% of trials.
+
+Combinations of genes and traits in offspring conceived within SCP-889 are generally evenly split between the male and female parents. However, biological aspects such as body size, blood type, and homeostasis are necessarily parallel to the female parent. Hybrids are in all cases sterile, and there is a direct correlation between the genomic dissimilarity of parents and the lifespan and genetic fitness of offspring.
+
+SCP-889 has also exhibited limited capability to interfere with the intra-species recognition of animals, making non-conspecific animals within SCP-889 much more likely to attempt to mate. For this reason, care should be taken when exposing human beings to SCP-889.
+
+The SCP-889 has not demonstrated any observable effect on asexual or unicellular organisms. Cross-testing between kingdoms has been similarly unsuccessful.
+
+SCP-889 is maintained under the jurisdiction of Bio-Research Site 32. A small breeding facility has been erected near SCP-889 to provide test animals and laboratory capabilities.
+
+Experiment Log 889-A: A number of hybridizing experiments were conducted between ██/██/2009 and ██/██/2010 using SCP-889. All experiments were conducted using artificial insemination. A selection of relevant tests is included below.
+
+Experiment-889-A-1
+
+Date: ██/██/2009
+
+Male Parent: Albino Laboratory Rat (Rattus norvegicus)
+
+Female Parent: Albino Laboratory Rat (Rattus norvegicus)
+
+Gestation Time: 21 days
+
+Number of Offspring: 7
+
+Notes: This experiment was conducted as a control. Results were normal. Adult offspring healthy, average 22cm in length.
+
+Experiment-889-A-2
+
+Date: ██/██/2009
+
+Male Parent: American Cockroach (Periplaneta americana)
+
+Female Parent: Albino Laboratory Rat (Rattus norvegicus)
+
+Gestation Time: 21 days
+
+Number of Offspring: 14
+
+Notes: Adult offspring 15cm in length, brownish, chitinous, segmented, hexapedal, tailless. More skittish than standard lab rats. Mouthparts are irregular and in some cases useless. Dissection reveals standard mammalian homeothermic system.
+
+Experiment 889-A-3
+
+Date: ██/██/2009
+
+Male Parent: Bull (Bos primigenius)
+
+Female Parent: Cat (Felis silvestris catus)
+
+Gestation Time: 98 days
+
+Number of Offspring: 1
+
+Notes: Adult offspring 50cm in length. Exhibits bovine skull/facial structure, feline body type/size. Notably less agile than an average cat. Prefers to feed upon grass. Dissection reveals a typical bovine pre-gastric rumen. File photo attached.
+
+Species-889-A-3.
+
+Experiment-889-A-4
+
+Date: ██/██/2009
+
+Male Parent: Budgerigar (Melopsittacus undulatus)
+
+Female Parent: Atlantic Salmon (Salmo salar)
+
+Gestation Time: 19 days
+
+Number of Offspring: 12
+
+Notes: Adult offspring average 40cm in length. Greenish blue. Scales are striated and elongated, causing considerable drag in water. Pectoral fins are extended and wing-like. Use pectoral fins for awkward “flight” movement rather than standard flexion driven swimming. Specimens have small, curved beaks, and preferentially feed by scraping algae from rocks.
+
+Experiment-889-A-5
+
+Date: ██/██/2009
+
+Male Parent: Sweet corn (Zea mays)
+
+Female Parent: Western redcedar (Thuja plicata)
+
+Germination Time: Varied
+
+Number of Offspring: 257
+
+Notes: Offspring plants show extreme variation between specimens, but have been roughly classified into several broad varieties:
+
+5-1: “Corn trees,” otherwise normal redcedar specimens that yield ears of corn instead of normal cones. Analysis revealed kernels to be non-toxic. Test subjects described the taste as “odd, but not bad.”
+
+5-2: “Corn-cone stalks,” otherwise normal corn specimens which grow ears enclosed by hard scales. Kernels similar to those from 5-1.
+
+5-3: “Corn-cone trees,” otherwise normal redcedar specimens which produce small ears of corn enclosed in hard scales instead of normal cones or normal ears. Resultant corn was described by test subjects as “disgusting.”
+
+5-4: “Redcedar stalks,” organisms with herbaceous corn-like central stems and woody redcedar-like lateral branches.
+
+5-5: “Variegated redcedar,” redcedar trees which produce both green and yellow needles. Yellow needles are in fact heavily modified corn kernels, which are not arranged into any flower- or cone-like structure. Cornbread made from these needles was described by testers as “delicious.”
+
+5-6: “Hard corn” plants, producing kernels with tough, bark-like shells.
+
+5-7: “Needle corn” plants, producing kernels similar in shape to cedar needles, in otherwise conventional ears. Variety 5-7-2 also possesses a woody trunk.
+
+Yearly growth cycles in varieties of Species-889-A-5 have tended to mirror those of the more genetically similar parent in each case. While all hybrids produced using SCP-889 are sterile, reproduction by cuttings and tissue culture is successful. The resulting specimens displayed no unusual variation from the mother plant. Rehybridization using the first generation offspring of transplanted individuals has not yet been attempted.
+
+Experiments 889-A-9 through -16 were conducted under the Farrago Project. Access is restricted.
+
+Experiment-889-A-10
+
+Date: ██/██/2009
+
+Male Parent: ███████ (█████ █████)
+
+Female Parent: █████ (█████ ██████)
+
+Gestation Time: 280 days
+
+Number of Offspring: 1
+
+Notes: [DATA EXPUNGED]
+
+Released file photo of Species-889-A-10.

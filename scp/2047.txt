@@ -1,0 +1,61 @@
+Comparison between Sol System and Theta-c System.
+
+Item #: SCP-2047
+
+Object Class: Keter
+
+Special Containment Procedures: SCP-2047 is to be held in a containment chamber which utilizes a Faraday mesh in its construction to block incoming or outgoing radio signals. SCP-2047 is to be monitored for radio communications. Any radio signals, or changes in the intensity of light sourcing from SCP-2047 are to be reported immediately to the site director.
+
+MTF Omega-4 "Foreign Exchange Students" is to monitor major astronomical centers and public communications for claims relating to details of the SCP-2047-1 event or its effects. Amnestics are to be administered to any non-Foundation personnel possessing knowledge of anomalous data in relation to the SCP-2047-1 event. MTF Omega-4 is also to monitor and contain any spacetime anomalies resulting from event 2047-1, as well as displaced biomass, non-Euclidean intersections of terrain, and transplanted matter.
+
+Description: SCP-2047 is a hollow iron sphere with a 40 cm diameter, covered in language originating from Theta-c. These inscriptions describe the process that occurs in Event 2047-A, as a warning system for the target planet. The surface of SCP-2047 has so far proved unnaturally resistant to attempts to open or cut into the cavity inside. Scans of SCP-2047's innards only reveal the basic outline for advanced machinery. Nothing is understood about how SCP-2047 functions or how it is capable in assisting in Event 2047-A, other than to relay a radio signal back to Theta-c.
+
+Event Log 2047-A-1973:
+
+Day 1, 7/13/1973: At 00:01:01, Earth and an exoplanet designated Theta-c undergo an exchange of spacial position. Earth is deposited in Theta-c's previous solar system, while Theta-c takes Earth's spot in the old Sol System. The process occurrs instantaneously. No contact can be established with the lunar Minerva project. (See Supplement 2047-E for information on Theta-c.)
+
+Day 2, 7/14: Radio transmission is relayed through SCP-2047 at 01:32:57, via its spatial anomaly and multi-locational existence. Although radio transmissions are initially audible, they initiated in an unknown language presumed to be one of those used on Theta-c. Over the next 12 hours, the language converts into increasingly apt English, until full communications between Earth and Theta-c are established. Theta-c's "interstellar exchange program" is first described. The Foundation requests a reversal of Event 2047-A. Theta-c responds with denial.
+
+Day 113, 11/1 : Knowledge of Event 2047-A eventually spreads over the first two weeks. The Foundation has no viable method of hiding the knowledge of the cosmic shift. Religious institutions experience a peak in attendance, and some reform their values to accommodate for this event, while others dissipate entirely. No knowledge of the existence of other sentient life reaches the public. As news of the loss of the Minerva project reaches the public, however, general anxiety increases. Foreign relations between major powers become strained as the United States, Soviet Union, and China enter a space race to explore the new solar system. The Middle East experienced a non-violent wave of protests and demonstrations in response to the upheaval of the known world, and unrest with their civil governments. Containment efforts by the Foundation are beginning to become problematic due to the Foundation's use of resources on continued efforts to prevent societal collapse. Requests to Theta-c for assistance are denied. (See Supplement 2047-F for information on previous exploration of the solar system.)
+
+Day 286, 4/23/1974: Containment of Keter-level SCP objects grows increasingly difficult and strains a majority of Foundation resources. Hostilities between nations increase as they become increasingly suspicious of one another in this New Age. The United Nations becomes a strained force, not very effective in mitigating the deterioration of relations. Southeast Asia experiences a systematic political repression as China grows behind in the Space Race, followed by religious accusations in response to the increased volume of religious activity. Requests to Theta-c for assistance, following a presentation of detriments to the human race, is approved.
+
+Day 339, 6/17: A collaboration between Theta-c and Earth is initiated in order to attempt to reverse the detriments of Event 2047-A. Theta-c announces to the Foundation that reversal of the entire process is impossible, but suggests that a localized reality reset may be viable. Using a combination of SCP-2047 and Theta-c's technology, a CK-class Reality Restructuring Scenario is created, and includes a mass change to astronomical data, records, and memories revolving around the field of astronomy. This restructuring also resets the date on Earth to July 13th, 1973. Foundation staff at Site-88 (which houses SCP-2047) maintain full records relating to Earth's previous location, and are excluded from the reality restructuring in order to facilitate the further suppression of knowledge. After a full debriefing of top Foundation personnel, the residents of Theta-c are informed that further collaboration with the Foundation would not be continued due to an unacceptable risk of societal collapse stemming from uncertainty relating to previous events.
+
+Post-Reset Day 146, 12/5/1973: Apollo-18 space mission to Earth's new natural satellite is launched. Included on-board are the personnel and materials required to produce replicas that match the vehicles left behind by Apollo 11-17, as well as establish a temporary lunar settlement to begin re-establishment of the Foundation's lunar sites.
+
+Post-Reset Day 156, 12/15: Foundation Lunar Site-190 begins construction, with resupply loads arriving on a weekly schedule.
+
+Post-Reset Day 1517, 7/5/1977: Voyager 1 mission launches in order to better ascertain the details of the solar system that Earth now resides in. Minimal data was relayed from Theta-c after the exchange, but further investigation is warranted as necessary.
+
+Pertinent Debriefing Materials:
+
++ Supplement 2047-E
+
+- Hide Supplement
+
+Planet Theta-c, also known as "Pycole" by its inhabitants, is the densest planet in its respective solar system. Theta-c houses approximately 9.144 billion different species, in the best translation between nomenclature systems possible. Its sentient population is distributed among nineteen minor continents and one major landmass, including 147 independent governments. However, all states are connected to one central government that is housed on the major landmass.
+
+The apparent age of Theta-c is 4.7 billion years, exceeding the Earth's approximate age by around 0.2 billion years. The development of both anaerobic and aerobic life assisted in the creation of this planet's ozone layer, although aquatic-based lifeforms were more prominent in Theta-c's development of sentient life. Its gravitational force is 9.582 m/s^2, just below that of Earth's. Each day on Theta-c is just above 24 Earth hours. For every two centuries on Theta-c, there is approximately one additional Earth day.
+
+Inhabitants of Theta-c are a sentient race of semi-aquatic, bipedal humanoids. They have a chitin - scale aggregate above their epidermis, with the majority of their internal organ systems being similar to that of a human's. Through glands above their sternum, similar to gills, they are able to maintain a limited ability to breath underwater. In contemporary Theta-c society, however, civilization is land-based, with very few underwater establishments, and all establishments of this type are research-centered.
+
+Philosophy of Theta-c largely revolves around olfactory expansion and the resulting effects on cognition. Inhabitants of Theta-c believe that taste is the most fundamental sensory experience in existence, and as such provides the most connection with the universe around them. Religious institutions are based on schools of thought on the effects of culinary design and their relations to cognition. There is no mention of the belief of a deity.
+
+Theta-c's technology is advanced past that of the Foundation's, as interactions have related. Theta-c's inhabitants show a strong desire for travel and knowledge, and thus utilize SCP-2047 to perform a process of solar travel. According to Theta-c, instances of SCP-2047 can be found in many solar systems around the universe, sent out to planets of highly similar physical qualities. Using these, they travel system to system, exchanging planets. It was stated that Earth was far from the first to undergo an exchange, although Theta-c has also expressed a reluctance to continue this practice, after observing the detriment caused to Earth.
+
++ Supplement 2047-F
+
+- Hide Supplement 2047-F
+
+The former Sol system, prior to Event 2047-1, contained a single main sequence star of 1.0034 solar masses. It was home to 6 planets, including 2 terrestrial worlds in addition to Earth and 3 gas giants.
+
+All planets in the Sol System were named for deities in Roman mythology. Their names were, starting closest to the sun: Mercury, Venus, Earth, Hera, Jupiter, and Pluto. A 7th planet, Neptune, was found in the asteroid belt between Mercury and Venus in the earliest part of the 20th century, but due to the recent discovery of several similarly sized worlds beyond Pluto, including Athena, which was 1.7 times the size of Neptune, it was decided to reclassify these worlds and Neptune as "dwarf planets".
+
+For more information on our previous Solar System, Supplement 2047-K along with Document Collection Phi are recommended reading. The primary focus of this supplement, however, is to provide information on exploration efforts of the previous Sol System and cultural impacts of the changes enacted by the residents of Theta-c, specifically that of moon exploration programs. It should be noted that Earth's original moon was similar in composition to that of its new system, though the topography was drastically different (as outlined in Document Collection Phi).
+
+The space program of the United States in 1969 placed men on the moon. However, it became apparent that future exploration of our solar system would need to take place in earth orbit or from the surface of the moon. After the conclusion of the Apollo program with Apollo 17 in late 1972, the Minerva missions were undertaken to place a permanent human presence on the moon.
+
+With few exceptions, including the resupply mission Minerva 18, which exploded just after takeoff on December 29, 1972, this program was a stunning success. The original program was discontinued in January of 1973, mostly due to the loss of Minerva 18. Private contractors began providing manpower and technology for most resupply missions and the Minerva Bases were considered an integral centerpiece to an era of stability and world peace beginning in 1973.
+
+By that time, approximately 2,500 individuals of various nationalities lived in a number of lunar bases. Beyond the religious ramification of the exchange itself, the cultural impact of losing these accomplishments was a primary catalyst for the eventual societal breakdowns.

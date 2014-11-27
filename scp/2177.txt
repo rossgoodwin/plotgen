@@ -1,0 +1,85 @@
+SCP-2177 infection ██ months after an Alpha event.
+
+Item #: SCP-2177
+
+Object Class: Euclid
+
+Special Containment Procedures: STRIX intelligence packages embedded in library collections management software are to monitor institutions for titles associated with SCP-2177 infection. Infections have been identified in 17 institutions, including ██ academic libraries, █ private collections, and the former non-classified public library of Site 11.
+
+Infected institutions are to be infiltrated by at least two Level-2 personnel in supervisory positions, including at least one containment specialist with training in library/information science. SCP-2177 infections are to be quarantined in restricted collections or secure archives not open to the public. In order to avoid Alpha events, new instances of SCP-2177-1 must be shelved according to existing institutional policies. No attempt should be allowed to remove SCP-2177 infections from these institutions. Civilians exposed to SCP-2177-1 are to be detained and administered Class C amnestics.
+
+In order to avoid Beta events, Regional Directors have been authorized to provide financial and political support required to keep infected institutions in operation. If a Beta event is unavoidable, Mobile Task Force Alpha-4 ("Pony Express") is to intercept all deliveries of documents to vulnerable institutions and seize SCP-2177-1 instances until such time as a suitable institution can be infiltrated and infected.
+
+Description: SCP-2177 is a virus-like pathogen that targets libraries holding print subscriptions to large numbers (> 50) of technical journals. SCP-2177 takes the form of documentation requesting that a journal or document be added to the institution’s collection. This request is always in the correct format for the receiving institution, and occasionally includes misinformation suggesting a pre-existing record. Once SCP-2177 has been entered into the catalog in any capacity, its record is altered to indicate an ongoing subscription to a technical journal. This facilitates reproduction, with new instances of SCP-2177-1 arriving amongst existing subscriptions. Reproduction rates range from 1 item every three months to 1 item per month.
+
+SCP-2177-1 refers to the physical carapace of SCP-2177, which always takes the form of a 24 x 30 cm technical journal bound in yellow pasteboard. SCP-2177-1 always contains the SCP-2177 pathogen, although in advanced infections this may only consist of a tailored address label. SCP-2177-1 contents and findings are not anomalous, but always refer to large-scale unethical testing on human subjects. (Sample contents of SCP-2177-1 are available in Addendum 2177-01.)
+
+Alpha events occur when infected institutions intentionally discard new instances of SCP-2177-1, attempt to physically remove all SCP-2177-1 instances, or attempt to eliminate SCP-2177 from the catalog. SCP-2177 infections have been shown to adapt to these threats in the following ways:
+
+- Drastically increasing reproduction rates (up to 1 item per week).
+
+- Subdividing to multiply reproduction (e.g dividing a title into Series A, B, and C)
+
+- Creating additional instances of infection under other titles and technical fields.
+
+Beta events occur when an SCP-2177 infection is successfully eliminated or when an infected institution ceases operation. In Beta events, SCP-2177 will be transmitted to other vulnerable libraries until at least one institution becomes infected. Transmission vectors include any shipment of documents to a library, including returned materials and large donations. SCP-2177 will initially target institutions with names or street addresses superficially similar to the previously-infected institution, but these criteria become less strict as transmission time increases.
+
+Addendum 2177-01: Sample contents of SCP-2177-1
+
++ Access Archive
+
+- Access Granted
+
+Format:
+
+Subject matter:
+
+Publication date:
+
+Example article:
+
+Findings:
+
+Subject matter: Military aviation
+
+Publication date: May 1947
+
+Example article: Effective kill radius of 550-lb (sic) aerial bombs.
+
+Findings: Detailed explanations of anatomical effects based on human subjects restrained at various distances from a static ground explosion. (Please see Document 2177-1947-01 for historical context of these data.)
+
+Subject matter: Rocketry and astronautics
+
+Publication date: September 1961
+
+Example article: The development of a system of starvation and torture that does not interfere with fine motor control necessary to assemble complex rocketry components.
+
+Findings: Although several programs are successfully implemented, work quality in all cases was significantly lower than in the control group.
+
+Subject matter: Telecommunications
+
+Publication date: April 1982
+
+Example article: The efficacy of the human optic nerve as a transmission medium for long-distance communication.
+
+Findings: Communications using these networks showed 100% data loss in addition to the severe logistical challenges in acquiring sufficient material for testing.
+
+Document 2177-1947-01 - Level 3 Access Required
+
++ Please enter credentials.
+
+- Credentials accepted.
+
+This document was retrieved from the oldest known instance of SCP-2177-1, a dormant bound volume located in the restricted archives of the Harry S. Truman Presidential Library and Museum. Research findings and methodologies contained within this instance were identical to known research conducted under the guise of the Kantōgun Bōeki Kyūsuibu Honbu1 between the years of 1935 and 1945. Although no SCP-2177 pathogen could be located, the following dedication was included on the front plate of the volume.
+
+Dear Mr. President,
+
+Based on your recent acquisitions, we are pleased to note your keen interest in our fields of research. We look forward to a long and fruitful relationship with the scientific community of this nation.
+
+Warmest regards,
+
+- The Society for Advanced Human Research
+
+Footnotes
+
+1. Epidemic Prevention and Water Purification Department, the official cover for the Japanese Kwantung Army's covert chemical and biological warfare research program during the Second World War.

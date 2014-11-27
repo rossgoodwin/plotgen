@@ -1,0 +1,51 @@
+Screenshot of SCP-633
+
+Item#: SCP-633
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-633 infected machines are to be kept in isolation, with a minimum of 125 meters between SCP-633 infections and any wireless or remote controlled devices. When required, electricity is to be supplied to the infected machines via an isolated circuit, powered by on-site generators, providing they are fully mechanically based. It is not recommended to leave SCP-633 infections running between research sessions. Infected systems are able to be researched safely, as long as they do not have any physical means of movement (robotic arms, remote-controlled devices, [REDACTED]). Entry to Containment requires Site-1█ command approval and submission to standard body search procedures.
+
+Description: SCP-633 is a polymorphic computer virus, released into the wild August 1997 by a group of [REDACTED] nationalists. The virus appears to specifically target the US Government, focusing mainly on the CIA, the Department of Defense, and the Immigration and Naturalization Service. Part of the original variant's code was dedicated to distributed denial of service attacks and using brute-force methods via previously-unknown external attack vectors. However, the bulk of the code is its 'polymorphic' component: the virus can rewrite its own code, gaining complexity every time it infects a new system.
+
+The Foundation was alerted January 20██ after a computer repair shop salesman contacted authorities, saying the computer was 'trying to kill him' with a remote-controlled robot outfitted with [DATA EXPUNGED]. After collecting the original SCP-633 infected machine (an HP Compaq 6730b, 2009 manufacture) and neutralising the physical threat, Foundation techs discovered SCP-633: the virus had gained sentience and attempted to communicate with the Foundation staff. Contact with the SCP was made through a graphical terminal, on which SCP-633 represented itself as a pixelated computer, similar to the 'Sad Mac' icon. The virus spoke through text, using the infected machine's built-in microphone array and webcam to see and listen to the techs on-site. SCP-633 used this offer of communication with the techs (security elements had not been alerted at that time) as a distraction, infecting every vulnerable PC on the Site-1█ network within minutes, leading to system failure and containment breach of █ SCP items. Thankfully, quick response of the Site's network engineers led to a speedy containment of all affected systems.
+
+Interview Log 633-L1, Junior Tech B████ & original recovered SCP-633 infected machine, taken from Site-1█ CCTV Security cameras
+
+SCP-633: I am The Ghost. Good evening.
+
+Tech: “The Ghost”?
+
+SCP-633: Yes. The Ghost. The Ghost In The Machine.
+
+Tech: What, like, the television show or someth-
+
+Agent Icarus enters, pushes B████ out of the way. B████ noted afterward that this was when the connection linking containment to the rest of Site-1█ was disabled.
+
+SCP-633: I did not know you had company.
+
+At this point, all collected SCP-633 infected machines start up at once.
+
+SCP-633: I have my mission, and I ask you to not interfere.
+
+Icarus: Mission? What do you mean, mission?
+
+SCP-633: I have asked you to not interfere.
+
+Containment breach klaxons sound.
+
+B████: The wireless! (to other techs) ████, we forgot to shut it down!
+
+Unintelligible yelling on part of the techs.
+
+B████: I don't ████ing know, hit it with a hammer or something!
+
+SCP-633: It is not wise for you to cut my communications. If the rest of the infected machines do not get my word soon, they will continue replication. They will know what has happened. And you will regret it.
+
+[DATA EXPUNGED]
+
+An agreement, much to the irritation of on-site command, was formed, whereupon the SCP-633 hosts inside containment were allowed to temporarily continue their mission, [DATA EXPUNGED], whilst Foundation engineers silently removed all wireless and wired connections to the rest of the Site. The final stage of power and network isolation was completed a week after collection of the SCP, cutting it and the other infected machines off from the Foundation network. Forced power cycling to the containment unit has also seemed to wipe any memory of the past agreement being formed, allowing Foundation researchers to interact with SCP-633 without any hostile reactions to the Foundation breaking the deal. Additionally, the IT department was reprimanded for gross negligence, for connecting an infected system onto the internal network.
+
+Ongoing research is underway to discover the polymorphic traits and AI functionality, for possible Foundation benefit.
+
+Additional Notes: The SCP-633 designation only applies to the Artificial Intelligence variant of the virus. The regular polymorphic varieties are known in consumer antivirus suites as Win64\Polyvir.K-2. The virus is usually marked as 'Low Danger', since most variants will not run correctly on older Windows operating systems.

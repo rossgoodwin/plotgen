@@ -1,0 +1,31 @@
+Example of SCP-059
+
+Room Infested By SCP-059-1
+
+Item #: SCP-059
+
+Object Class: Keter
+
+Special Containment Procedures: A single specimen of SCP-059 is kept at Site-11B inside a graded-Z laminate shielding box composed of depleted uranium, tantalum, tin, steel, copper, and aluminum. Surrounding SCP-059’s containment box is a 7 x 7 x 7 m area sealed as a Level-4 Biohazard area, and surrounded by 3 cm of lead shielding. This area is to be sprayed daily with a solution of methyl isothiocyanate to prevent overgrowth of SCP-059-1.
+
+Personnel entering an SCP-059 affected area are cautioned to wear appropriate biohazard protection, as well as type K-59-B radiation shielding. They are to remain in the area for no more than 15 minutes, as the radiation shielding is only partially effective.
+
+SCP-059-1 infestations found in the wild should be contained by removing the SCP-059 specimen responsible, and incineration of all observed SCP-059-1. Large underground infestations are best neutralized by fuel-air (thermobaric) explosives.
+
+Additional specimens of SCP-059 are not needed for experimentation, and should be transported to Site-11B for incineration by plasma arc at 10,000 degrees K.
+
+Description: SCP-059 is a radioactive mineral of unknown origin, superficially resembling scheelite. A component of SCP-059 is believed to originate in an alternate universe, and to be responsible for its anomalous properties. In addition to alpha, beta, and gamma radiation, SCP-059 specimens produce a previously unknown type of radiation, apparently unique to the object, tentatively designated 'delta radiation'. Delta radiation is accompanied by Cherenkov radiation, visible as a blue glow.
+
+Delta radiation is only partially contained by standard radiation shielding; the best results have been obtained using graded-Z laminate shielding with an additional super-dense metal layer. This reduces the effective range of delta radiation from approximately 20 m to approximately 6 m.
+
+When an area is exposed to delta radiation for more than 15 minutes, an unknown species of fungus (designated SCP-059-1) begins to grow on any exposed surface. This fungus does not require any standard nutrition, but will die within 24 hours of removal from a delta radiation source. SCP-059-1 is itself radioactive, but does not emit delta radiation. However, if a critical mass (approximately ██ kg/m3) of SCP-059-1 is allowed to grow, delta radiation from an unknown source other than SCP-059 will appear in the area, further supporting SCP-059-1 growth. (Interested readers may consult Dr. ███████ for his theories of space-time stress and merger of alternate realities). Within 18 hours, the infected mass will become transparent and disappear, presumably into the universe that is the source of delta radiation. The process then continues with SCP-059-1 infecting new material.
+
+SCP-059-1 will infest both living beings and inanimate objects. Humans (and animals) infected with SCP-059-1 become immune to the effects of ionizing radiation, but progressively merge with SCP-059-1, and eventually have all tissues replaced by fungal growth. While generally non-violent, they will attempt to expose unaffected individuals to SCP-059. SCP-059-1 infections do not appear to be directly contagious, but only spread by contact with delta radiation. However, long-term exposure to SCP-059-1 has not been adequately tested to rule out considering it a biohazard (as well as a known radiation hazard).
+
+Infected individuals still capable of communication describe seeing a world entirely covered with SCP-059-1, where much of the surface is composed of SCP-059. It is unclear whether this is a hallucination or a view into the source of SCP-059. Infectees are generally pleased with their condition and often refer to being in "the blue light of heaven."
+
+SCP-059-1 is affected by most fungicides, but new growth will continue as long as SCP-059 is present. Early stage SCP-059-1 infection in humans may be treated with griseofulvin, however the treatment is 90% likely to lead to death by radiation poisoning. Treated individuals lose their immunity to radiation, and will already have absorbed a now lethal dose prior to treatment. Late stage treatment should not be attempted, as too much tissue will already be converted to SCP-059-1. [DATA EXPUNGED]. The remains of failed treatments should be kept out of range of SCP-059, otherwise [DATA EXPUNGED].
+
+SCP-059 specimens have been discovered in 8 different underground locations, across a range of 5000 km. No pattern has emerged for their appearance. Specimens range from 1-10 kg in size, and are not part of the normal rock formations in the areas where they have been found.
+
+Addendum: Dr. ███████ has recorded and analyzed the patterns of radiation emitted by the contained SCP-059-1 colony, and believes SCP-059-1 may be sapient and attempting to communicate via controlled emissions of radiation. Initial attempts to analyze this "language" reveal [DATA EXPUNGED].

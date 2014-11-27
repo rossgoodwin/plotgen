@@ -1,0 +1,81 @@
+SCP-1248
+
+Item #: SCP-1248
+
+Object Class: Safe-nuntii
+
+Special Containment Procedures: SCP-1248 may be kept in a standard containment locker at Site 20, along with all cassette tapes that it has recorded. SCP-1248 is to be tested only in a soundproof room with a separate observation area.
+
+Testing of recordings made by SCP-1248 (hereby SCP-1248-1) should take place only on separate cassette players to avoid undue harm to SCP-1248. Testing requires permission of at least two Level 3 personnel.
+
+Description: SCP-1248 is a Walkman WM-D6C recording device with wear and tear consistent with regular usage. As with normal devices of this model, SCP-1248 is capable of recording sounds when a cassette tape is inserted. The name "Eric" has been found carved into the underside of the device.
+
+SCP-1248’s anomalous properties manifest when a person listens to an instance of SCP-1248-1 with one or more human voices audible.1 Any subject who hears the recording will become listless and unresponsive until the recording stops or the subject is otherwise unable to hear SCP-1248-1. Upon recovery, all subjects will exhibit the personality traits of one person who produced sound heard in SCP-1248-1. This change appears to be permanent and affects all facets of the subject’s personality. However, memories, intelligence, and skills will usually remain unaltered.
+
+It has been found that subjects will remain unaffected by instances of SCP-1248-1 listened to after their first exposure, except in cases where the exposure is to their own voice. Note that the emotion present in the voice recorded by SCP-1248-1 is usually inconsequential.
+
+Addendum: It has been found that altering said recordings may alter their effect on subjects. See Testing Log 1248-A for further information.
+
+Excerpts from Testing Log 1248-A
+
+Sound Recorded: A dog barking.
+
+Subjects: D-3639.
+
+Special Conditions: None.
+
+Result: D-3639 appeared highly confused and ceased to speak. Further, D-3639 lost the capability to process complex information.
+
+Sound Recorded: Dr. Hathaway singing “Eye of the Tiger”.
+
+Subjects: Drs. Schroeder, Hathaway, and White.
+
+Special Conditions: Dr. Hathaway had consumed large quantities of alcohol prior to testing. Test was unauthorized. None were aware of SCP-1248's properties.
+
+Result: As expected; however, all three subjects showed signs of alcohol intoxication and continued to do so after they would normally become sober. After one week, the three were dosed with amnestics and remanded to a civilian care facility.
+
+Sound Recorded: Agent Dixon saying his name.
+
+Subjects: Name unknown, a captured agent of the Chaos Insurgency.
+
+Special Conditions: Agent Dixon has demonstrated remarkable loyalty towards the Foundation.
+
+Result: The subject appeared cooperative and attempted to divulge sensitive information regarding a suspected CI base near New Delhi, but experienced severe throat swelling in the process of doing so. In addition, large amounts of scar tissue appeared throughout the subject's respiratory tract. Subject died shortly thereafter of suffocation.
+
+Note: Use of anomalous items for counterintelligence purposes by the Chaos Insurgency confirmed.
+
+Sound Recorded: D-2180 saying the word "something".
+
+Subjects: D-2344.
+
+Special Conditions: The tape recorder used to play SCP-1248-1 was heavily damaged.
+
+Result: D-2344 exhibited behavior sometimes consistent with D-2180’s personality and sometimes with her own personality, switching between the two without warning. D-2344 was apparently unaware of these shifts, although she did claim to feel fatigued.
+
+Sound Recorded: D-2180 saying the word "something".
+
+Subjects: D-2360.
+
+Special Conditions: The tape was played backwards.
+
+Result: D-2360 gained the personality of D-2180 as expected, except that D-2360 also became a compulsive liar. No underlying neurological cause was found.
+
+Sound Recorded: D-2180 reading a short paragraph from a Foundation training manual.
+
+Subjects: D-2348.
+
+Special Conditions: D-2180’s voice was altered using a phase vocoder and "Auto-Tune" software.
+
+Result: While D-2348’s personality resembled that of D-2180 nominally, D-2348 did not express emotion physically or vocally except via direct statements. Further, subject noted the presence of misanthropic tendencies not present in D-2180.
+
+Sound Recorded: None.
+
+Subjects: D-5552.
+
+Special Conditions: SCP-1248's microphone was blocked prior to recording.
+
+Result: D-5552 showed signs of fear and expressed discomfort with being tangible. When allowed to do as he wished, D-5552 attempted to self-immolate.
+
+Footnotes
+
+1. Testing appears to indicate that other audio input has the potential to trigger these effects. Further testing is required to determine the exact parameters of this capacity.

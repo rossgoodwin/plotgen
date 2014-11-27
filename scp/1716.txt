@@ -1,0 +1,87 @@
+Central portion of SCP-1716 prototype. Human subject believed to be Mr. Dark.
+
+Item #: SCP-1716
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1716 is stored in Containment Vault 43 at Site-71. Testing is allowed using D-Class subjects only (both as donor and recipient) and requires approval of the Site Director. Additional security should be present due to possible unforeseen anomalies among recipients of SCP-1716 treatment.
+
+SCP-1716-1 is held in Containment Vault 45 pending approval of testing protocol by the Foundation Ethics Committee. It is not to be connected or experimented on until such protocol is finalized.
+
+Description: SCP-1716 is a set of two wooden chairs, both connected by multiple copper and [REDACTED] wires to an anomalous electronic device. A set of contacts (resembling electrical contacts, but composed of non-conductive [REDACTED]) are attached to two test subjects (one in each chair) when SCP-1716 is in operation.
+
+The apparent intent of SCP-1716 is to transfer "life energy" from a donor to a recipient, making the recipient healthier at the expense of weakening the donor. SCP-1716 violates most known physical and biological principles; apparently operating on the theory that life force is a transmissible form of energy similar to electricity. A number of unidentified components in the central device facilitate the transfer.
+
+Experimentation has demonstrated that SCP-1716 is flawed in several ways:
+
+Life energy transfer operates at approximately 10% efficiency i.e. a donor would be aged the equivalent of 10 years to make a recipient one year younger (with regard to cellular health – note that SCP-1716 does not literally transform test subjects into younger versions of themselves).
+
+Transfer of life energy also transfers portions of the memories and knowledge of the donor to the recipient. Notes found with the device indicate this was not an intended function, but the developers were unable to eliminate it. Memory transfer occurs randomly; extensive use of SCP-1716 will leave the donor mentally incapacitated, while transferring primarily incomplete/useless knowledge to the recipient. Recipients are generally disoriented and confused while attempting to integrate the acquired information, which frequently conflicts with their own memories and experiences.
+
+See experiment of 11/19/1942 as described below. Foundation researchers have not replicated this effect, but have no reason to disbelieve the report.
+
+SCP-1716 was obtained by the Foundation in 1942; an anonymous contact led Foundation agents to a recently abandoned laboratory, where SCP-1716 was found, along with a journal describing its development (See Addendum).
+
+SCP-1716 was extensively tested by Foundation Research and Development between 1943 and 19██ (when research of this type was abolished by O5 Directive 29) in attempts to:
+
+Improve the efficiency of life energy transfer, making SCP-1716 a practical life-extension device.
+
+Eliminate the effects of SCP-1716 on memory.
+
+Separate/enhance/control the memory effects. Attempts were made to both create a machine for the instant transfer of knowledge between two individuals, and to create an early version of a Class Omega amnestic.
+
+No practical applications of SCP-1716 were successfully developed.
+
+SCP-1716-1
+
+SCP-1716-1 was confiscated in 20██ during a raid on a warehouse owned by Marshall, Carter, and Dark. It has been determined to be Version 17 of the central device of SCP-1716; the complete SCP-1716 in Foundation containment uses Version 4.
+
+Addendum 1: Extracts from a journal found with SCP-1716 on initial containment:
+
+6/7/42 Received an odd visitor today; calls himself Benjamin Phineas Dark1. Strange little man; I'm not sure what to make of him – he was driven up here in a Mercedes-Benz limousine like some head of state; looks straight out of Victorian England in the suit he wore, and carried on about how I am going to help him with his great project. I don't think it even occurred to him that I might refuse.
+
+He came full of high praise for my work in Electronics, and believes we can combine my theories with some of his own to produce something "truly unique" (in his words). Will find out more shortly.
+
+6/9/42 Met again with Dark. The man is a complete crackpot as far as I can tell, going on about "etheric transfer," "luminescent vapor generation" and other such nonsense. I think he fancies himself as a modern-day alchemist. His project is life extension; "it's time to bring it out of the Dark Ages" he says.
+
+What harm can come from listening to his proposal? He clearly has money, and no one has approached me about a collaboration in what? 15 years? 20?
+
+6/12/42 Have learned more about Dark's project. It's an abomination – transfer life force from one person to another? Where would he ever get donors? Dark laughed and said everything is a commodity, even life. Especially life. "What would an extra year of life be worth to you? What would one less be worth to a 20-year-old?"
+
+I can't resist thinking about the idea – I'll be 86 next month, after all. What harm can come from it? As I said, the man is a crackpot.
+
+6/16/42 Received more specifics on what Dark wants me to design. He will be supplying components of his own design…didn't want to go into detail about how any of it worked. I just need to know the input and output, not the process. I'm skeptical, but he's the one in charge.
+
+6/25/42 No idea if it will work, but I can build it to his specifications.
+
+9/2/42 A prototype is ready. Haven't worked this hard in years. Dark wants to test it as soon as possible. Where is he going to get test subjects?
+
+9/5/42 Testing in two hours. I don't know where Dark found such a disreputable class of people for his test subjects, or what he told them. Can only pray that it doesn't work.
+
+…
+
+How did I ever get involved with this? Success, of a sort. The recipient does look a good bit better, but seems totally confused and disoriented. The donor… Oh, God. Not only was he dead at the end of the process, but was crumbling to dust as we tried to move him. Dark wasn't even fazed; he chuckled and said "Well, they signed their release forms, didn't they?" He assured me that no one will ever know the experiment even happened, and his assistants would "clean up."
+
+9/7/42 Want to drop out, but am already into this too deep. To Dark, it's a practical matter of controlling the process.
+
+10/23/42 Ready for testing again. Process should be under more control now.
+
+10/25/42 Much improved, in that at least the test didn't kill anyone. The process appears to still be terribly inefficient, and there are unwanted side-effects on both test subjects. Apparently, we have transferred memories as well as life, and not in any controlled fashion. No practical use for this thing unless this effect can be removed.
+
+11/18/42 No luck in removing side-effects. Will try [REDACTED].
+
+11/19/42 Tested again. Control of memory effect seems somewhat improved. A new issue arose – the recipient was glowing faintly, and we all began to feel weaker in his presence. He has been isolated, and everyone has been ordered to stay at least 5m away from him. What will we do with him? We're not equipped to handle anything like this.
+
+11/20/42 Subject escaped2, and the guard was found dead, drained in the same manner as the first donor. Dark does not seem terribly concerned; in fact, he had difficulty concealing his enthusiasm. Could he have actually wanted to see this effect? I still feel weak, but Dark appears to be fine today. Odd.
+
+11/21/42 Dark says we have done enough here; that he needs to visit ███████ █████ up in Maine, then ███████████ at the Great Library (wherever that is). He is planning to take the prototype tomorrow, and ordered me to burn all of my notes. Not going to do it. Spoke to someone last year who I think can help… Dark will be furious, but perhaps he will believe we have been monitored all along. I am definitely ill from the brief exposure to that test subject — punishment for my selfishness?
+
+The journal author, [REDACTED], apparently contacted Foundation Agent ██████ that day, and SCP-1716 was secured before it could be moved. Efforts to locate Dark unsuccessful. Author interviewed by Foundation agents 11/24/1942; provided no useful information beyond what was in his journal. Author deceased, 1/6/1943.
+
+Addendum 2: 4/12/201█ The Foundation has received information from a reliable source within the Marshall, Carter, and Dark club that The ████████ Life Extension Institute is a Marshall, Carter and Dark front organization, offering selected members life extension at a cost of £[REDACTED] per year. The Institute appears to obtain donors from the general public via advertisements for "paid clinical trials." Proposal pending to infiltrate the Institute using a Foundation operative posing as a donor, to determine whether a fully functional version of SCP-1716 now exists (and if so, its location).
+
+Footnotes
+
+1. See Person-of-Interest File D-012
+
+2. Subject is believed to have been captured and contained as SCP-████ in 1975.

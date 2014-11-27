@@ -1,0 +1,67 @@
+Item #: SCP-1943
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1943-1 is contained in a standard humanoid containment cell in the high-security wing of Humanoid Containment Site-06-3. As a former member of Foundation research staff, SCP-1943-1 is highly cooperative and thus allowed access to non-sensitive materials. All reasonable requests for personal items may be granted; however, SCP-1943-1 is not allowed to have outside contact and its security clearances have been indefinitely revoked.
+
+The remains of SCP-1943-2 have been cryogenically preserved in the storage wing of Site-06-3. Data regarding the analysis of materials and information recovered from SCP-1943-2 are available with permission from Level 3 Senior Researchers.
+
+Description: SCP-1943-1 is Sarah Gruenwald, a 27-year-old European-American female and Level 1 Assistant Laboratory Technician formerly employed in the non-anomalous chemistry laboratory of Area-██. Prior to containment, SCP-1943-1 did not have clearance or certification for handling anomalous materials and was not known to have been in contact with any anomalous phenomena or materials during the three years in which she was employed.
+
+SCP-1943-1 does not appear to be anomalous in any way, and has repeatedly tested negative on biological, chemical, radiological, and [REDACTED] analysis with the intent of identifying anomalous properties. SCP-1943-1 does not have any family history indicating possible anomalous influence nor any significant employment history prior to being hired by the Foundation. SCP-1943-1 is also psychologically stable and exhibits no unusual mental conditions nor evidence of having been affected by any mind-affecting anomalies or memetic agents.
+
+SCP-1943-2 is the remains of an enemy operative determined via extensive interrogation to have been employed by the Chaos Insurgency. SCP-1943-2 was the sole surviving operative out of a team of 25 individuals believed to be a unit of the Chaos Insurgency's Transhuman Task Force, all of whom exhibited signs of having been genetically, cybernetically, and thaumaturgically augmented to enhance their combat capabilities. These augmentations included, but were not limited to:
+
+Skeletal reinforcements resulting in increased bone strength and resilience
+
+Muscular enhancements to increase power and endurance
+
+Redundant cardiovascular systems to increase overall survivability
+
+Neural implants and brain augmentations designed to improve reflexes and reaction time
+
+Neural implants enabling extrasensory detection and communication
+
+All of these individuals were also equipped with devices enabling the operator to self-terminate if compromised and dead-man fail-safes intended to incinerate the body upon operator death, thereby rendering any remains unusable for analysis or post-mortem interrogation. During Incident 1943-01, all other individuals belonging to this team were killed by Foundation tactical response teams or self-terminated after being wounded or captured; SCP-1943-2 suffered a failure or malfunction in its fail-safe device that rendered it unable to self-terminate and was subsequently captured alive.
+
+SCP-1943-2 remained in Foundation custody for approximately five weeks before expiring from complications from its wounds as well as severe degradation of its mechanical augmentations. Subsequent autopsy revealed several degenerative conditions present in its body that would suggest that it had been nearing the end of its useful lifecycle.
+
+Addendum 1943-1: Incident Report, Incident 1943-01
+
+On █/██/██, operatives from the Chaos Insurgency's Transhuman Task Force Zeta-3 initiated an assault on the laboratory wing of Area-██ that, through extensive analysis of surveillance footage and further corroborated by information leaked by agents embedded within CI cells, appears to have been carried out with the sole purpose of rendering SCP-1943-1 into CI custody. TTF Zeta-3 operatives disabled or collapsed several passageways at Area-██ using explosives, rendering on-site tactical teams unable to effectively respond to the assault, then quickly incapacitated the wing's security detail. Total Foundation casualties suffered as a result of the incident was determined to be █ killed and ██ wounded despite the presence of numerous research staff, suggested to be due to the single-minded goal of the CI team and their operational orders to not engage Foundation personnel that were not directly resisting their ingress.
+
+This assault was stopped due to the unannounced and early arrival of a subordinate unit of Mobile Task Force Nu-7 ("Hammer Down"), which had intended to stop and refuel at Area-██ en route to a covert assignment in [OPERATIONAL INFORMATION REDACTED]. MTF Nu-7 was able to coordinate a counter-action with the assistance of on-site security personnel and successfully neutralized the CI assault team before they were able to exfiltrate from the outer perimeter of Area-██.
+
+Addendum 1943-2: SCP-1943-2 Interrogation Log
+
+Dr. ███████: Who were you working with, and how many of you are left?
+
+SCP-1943-2: Zeta-three, Archangels. I'm the last one and you already know that.
+
+[irrelevant content abridged]
+
+Dr. ███████: I don't understand how —
+
+SCP-1943-2: (laughs) No, of course you don't understand. You guys never do, and you never will. They'll eventually send more of us when you least expect it, and we'll get her eventually. You got lucky — damned lucky — this time, and that's the only reason we failed.
+
+Dr. ███████: You expect me to believe that you sent two squads of augmented operatives just for a single low-level lab tech?
+
+SCP-1943-2: I don't give a shit what you believe. If you want to believe that she's just human, then that's entirely on you. If you don't, it still doesn't matter; eventually you'll get careless and we'll pick her up. Easier than getting milk from the corner store.
+
+Dr. ███████: And the fact that none of our tests have shown anything out of the ordinary at all about her?
+
+SCP-1943-2: Of course they haven't. Y'all have always been blind, and I'm the one with the ocular implants ripped out.
+
+Addendum 1943-3: Researcher Note
+
+At this point, we have now tried every permutation of every possible test on her, including ones that I heavily objected to due to the danger inherent in the procedures. Absolutely nothing is out of the ordinary; as far as we can tell, she's just a normal, but very scared human being.
+
+This wouldn't be the first time that the Insurgency has tried to turn our resources against ourselves, and it won't be the last. I see no reason why we need to continue to detain her like this; if we can't trust our own technology and we allow ourselves to question our own people in this way, then we're going down a path that doesn't lead anywhere good. I am formally requesting that Dr. Gruenwald be declassified and released.
+
+Dr. █████████
+
+Senior Observer
+
+Request denied. Until we're absolutely sure, we can't take any chances.
+
+O5-██

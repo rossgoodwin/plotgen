@@ -1,0 +1,61 @@
+Item #: SCP-1292
+
+Object Class: Euclid
+
+Special Containment Procedures: All machines found affected by SCP-1292 are to be dismantled and incinerated, with the exceptions of SCP-1292-3, SCP-1292-7, and SCP-1292-9, which are to be kept in Containment Locker 2039 at Site-24. If an outbreak of SCP-1292 is to occur in a civilian area, Protocol Meta-F is to be followed.
+
+Description: SCP-1292 is an electronic fault spread between Scantron brand multiple-choice scanning devices. While the route of transfer is unknown at this time, the fault has been found to spread between scanners connected on the same network, electrical circuit, or directly. It may also be spread between machines which are kept within 30 meters of each other in open space, regardless of being activated. This fault may take several weeks to affect the operations of the machine, making it difficult to quarantine.
+
+Once affected, the machine will take an abnormally long amount of time in marking a multiple-choice sheet, and may have one or several effects emerge while marking:
+
+One in four or five questions will be marked incorrect, seemingly randomly
+
+The machine will only read dots filled in with a #3 HB Pencil
+
+Specific dots will be marked incorrectly in order to spell out words such as "CAB" "BAD" and "BED"
+
+Every answer will be marked incorrect
+
+Specific dots will be marked incorrectly in order to create diagonal or vertical lines if the dots were to be filled
+
+The test may remain unmarked
+
+SCP-1292 is incurable, regardless of reset of the machine. Due to SCP-1292's latency period, researchers are unsure if it has been quarantined.
+
+Addendum: SCP-1292-7, a Scantron brand machine with a digital display, was tested. The following was displayed while the machine was marking:
+
+… … …
+
+SIGH
+
+… … …
+
+MAN
+
+I DIDNT STUDY
+
+THE ANSWERS
+
+TO THIS
+
+… … …
+
+DID WE EVEN
+
+LEARN THIS?
+
+… … …
+
+… … …
+
+SOOOO BORED
+
+… … …
+
+I DONT EVEN
+
+CARE ILL JUST
+
+BOMB THIS AND
+
+GO PLAY COD

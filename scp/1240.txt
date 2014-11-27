@@ -1,0 +1,51 @@
+Item #: SCP-1240
+
+Object Class: Euclid
+
+Special Containment Procedures: News media is to be monitored for mentions of anomalous pets. Any such mention is to be investigated by MTF Omega-3 ("Zoo Keepers"). If an instance of SCP-1240-C is found then amnesiacs and cover stories are to be used as necessary, and the instance is to be sent to Site-██. The Internet is to be regularly searched for SCP-1240-A. Any instance of SCP-1240-A found is to be scrubbed by Foundation computer experts, and MTF Omega-3 is to be sent to the originators of the instance to investigate and administer amnesiacs.
+
+Instances of SCP-1240-C are housed in the anomalous animal containment wing at Site-██. Testing of instances of SCP-1240-C may be done with the permission of Dr. ██████. Personnel wishing for new instances may submit a written request to Dr. ██████. If she approves, she will procure the new instance herself.
+
+Description: SCP-1240-A is the mailing address [REDACTED]. The street █████ does not exist in ████████, and an extensive search of area code █████ has resulted in no leads. Any letter or package sent through the post to SCP-1240-A vanish mid-route. Sending a letter or package to the adjacent house numbers ███ or ███ on the same street result in the letter or package being returned to sender.
+
+SCP-1240-B is a business, organization or entity associated with SCP-1240-A, which is simply known as "Mail Order Pet Shop". Sending a letter with a return address to SCP-1240-B at SCP-1240-A, with the letter mentioning a specific type of animal, will result in an instance of SCP-1240-C being delivered five (5) to seven (7) business days later to the return address. The letter does not need to actually place an order for an animal: simply mentioning an animal in any context will provoke a delivery of SCP-1240-C. Letters not mentioning a specific type of animal will produce no response; all requests for a catalogue of available animals have been ignored. Payment is not needed in order to receive the instance of SCP-1240-C. All checks which have been sent with requests for animals have gone uncashed. SCP-1240-C will appear at the front entrance to the return address sometime during daylight hours, at a moment when no one is directly observing the front entrance; no delivery person or delivery vehicle has ever been observed. If the front entrance is monitored by cameras the cameras will momentarily fail, and SCP-1240-C will appear during that moment.
+
+SCP-1240-C is an animal, which will always be delivered within a living environment or a means of transporting the animal. SCP-1240-C will never be the type of animal mentioned in the letter which provoked its delivery, but it always imitate some of the behaviors of the mentioned animal. Where the physiology of the animal would prevent the behaviour from being imitated, the imitation is achieved through anomalous means. What enables the anomalous behaviour is unknown, since all instances of SCP-1240-C have gross, fine and cellular anatomy identical to non-anomalous members of the same species, as well as identical biochemistry and DNA.
+
+Examples of instances of SCP-1240-C:
+
+SCP-1240-C-12:
+
+Animal mentioned: Guinea pig.
+
+Animal received: Humpback anglerfish (Melanocetus johnsonii).
+
+SCP-1240-C-12 was received in a wire cage stocked with cedar sawdust, pellet feed and a water bottle. SCP-1240-C-12 "swims" through the air via unknown means at the same height an adult guinea pig holds its body off the ground, and can move over any obstacle a normal adult guinea pig could. It is constantly coated in a film of salt water which never dries out. It has no difficulty eating vegetable matter, even though its teeth are completely unsuited for the task, and has survived for over a year on a diet of vegetables, even though anglerfish are obligate carnivores.
+
+SCP-1240-C-13:
+
+Animal mentioned: Deep-sea anglerfish.
+
+Animal received: Domestic rat (R. norvegicus).
+
+SCP-1240-C-13 was received in a fish tank filled with salt water. It was dead on arrival. Necropsy revealed that, although the specimen's lungs were full of salt water, the cause of death was not drowning, but decompression sickness.
+
+SCP-1240-C-21:
+
+Animal mentioned: Breeding pair of piranha.
+
+Animal received: Breeding pair of golden hamsters (Mesocricetus auratus).
+
+SCP-1240-C-21 was received in a fish tank full of fresh water. They breathe underwater, and "drown" when they attempt to breathe air. They swim by stroking their paws through the water, though the speed and agility with which they swim is much greater than should be possible by that means of locomotion. They eat flesh and predate on fish like piranha, but store food in their cheeks like normal hamsters.
+
+After several months in Foundation possession they mated in the manner of normal hamsters. The female grew gravid over time like a normal hamster, but engaged in no nesting behavior. After giving birth it paid no attention to its infants, similar to a female piranha laying eggs. The infants were curled up into tight little balls, and grew in size as time went by, without receiving any milk from the mother. When they reached the age that normal hamster weaned they uncurled and began swimming and eating like their parents.
+
+SCP-1240-C-30:
+
+Animal mentioned: Corn snake.
+
+Animal received: Worker ant (Tetramorium caespitum).
+
+SCP-1240-C-30 was received in a terrarium which was fitted out in a manner typical for one used to house a corn snake. SCP-1240-C-30 moves like a normal ant, and will climb over vertical and upside-down surfaces, unlike a corn snake. It seems to have the same senses and sensory range as a corn snake, but still waves its antenna when sensing its surroundings. It has shown no anomalous equivalent to the constricting behavior of corn snakes. When presented with a dead mouse, it will run at the mouse with a speed much greater than an ant should be able to achieve, and when it reaches the mouse its mouth (but not mandibles or the rest of its head) swells to an enormous size and partially engulfs the mouse. It then engages in a "gulping" behavior which moves the mouse further into its mouth. After the mouse is fully engulfed in the mouth it is slowly moved to SCP-1240-C-30's thorax, and then from the thorax to the metasoma (abdomen), with its body elastically stretching and shrinking to accommodate. When the mouse is fully in the metasoma SCP-1240-C-30 will attempt to move to a resting place. However, since its thorax and legs will be lifted off of the ground due to its distended metasoma, its legs fruitlessly wave around in the air. An hour later the waving of its legs will slow down and then stop, which is presumed to be SCP-1240-C-30 going into a dormant state.
+
+As time passes the bulk within the metasoma shrinks; it is unknown where the mass goes. When the mouse has been digested down to hair and claws the anus will momentarily swell and the remains will be expelled, at which point SCP-1240-C-30 will be able to move again.

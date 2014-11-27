@@ -1,0 +1,35 @@
+SCP-556 prior to crash
+
+Item #: SCP-556
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-556 is stored in a secure hangar at Site ██. No materials containing any ink, dye, or paint may enter the Red Zone established in a 50 meter radius around SCP-556.
+
+In the case of a 'runoff' incident from accidental introduction of raw material into SCP-556, the containment area must be locked down for a minimum of 48 hours pending re-evaluation of SCP-556 via remote exploration. Personnel working within the Red Zone of SCP-556 must be paired at all times, and any missing personnel are to be reported immediately.
+
+Description: SCP-556 is the recovered wreckage of Varig cargo flight PP-VLU, a Boeing 707-323C that crashed approximately 320 km east-northeast of Tokyo, Japan on January 30, 1979. At the time, the aircraft was carrying 153 paintings when a Foundation listening post picked up an anomalous Mayday signal from the flight. Officially, the aircraft disappeared without a trace and no wreckage was ever recovered. Foundation assets were able to recover SCP-556 mostly intact at a depth of ███ meters on █/█/1979 and transported the wreckage to Site ██, where it remains today.
+
+The exterior of SCP-556 has sustained extensive damage consistent with a high-speed impact into water followed by exposure at crush depth. Despite this, the interior of SCP-556 is mostly intact, and was in fact discovered dry at time of recovery and 86% covered by a layer of paint. Spectroscopic and chemical analysis has shown this layer to be a mixture of the paint on the paintings carried by PP-VLU on its last flight, with traces of human DNA. The paint forms a continuous, static scene depicting a large industrial complex in which several human figures are being [DATA EXPUNGED].
+
+At time of discovery, no physical remains of the cargo or the six crew members could be found. An initial survey showed that the painted scene contained 68 uniquely identifiable individuals, of which several have shown incredible similarities to descriptions and photographs of the missing crew.
+
+Addendum 556-1 Translated excerpt from the damaged Cockpit Voice Recorder (CVR) recovered from SCP-556:
+
+███: (unintelligible) coming up from the cargo hold (unintelligible)
+
+█████: (unintelligible) got (unintelligible) close the (unintelligible)
+
+████: (unintelligible)
+
+(unintelligible, screaming)
+
+████: (unintelligible) Mayday, this is (unintelligible) going down near (unintelligible) Mayday Mayday Mayday (unintelligible)
+
+(screaming, cut off)
+
+End of Transcript (loss of on-board power)
+
+Addendum 556-2: On ██/█/198█, an attempt to transfer the paint from the interior of SCP-556 to another medium was made. SCP-556 subsequently [DATA EXPUNGED] within a 200-meter radius. Subsequent analysis now shows 217 unique individuals within the scene, and coverage of the cabin walls has increased to 91%. Further attempts to remove the paint have been suspended pending further investigation into the incident.
+
+Addendum 556-3: On █/██/199█, a class-D maintenance worker with extensive tattoos over 46% of his body accidentally walked within the Red Zone of SCP-556 and was immediately [DATA EXPUNGED]. Current figure count within SCP-556 now stands at 218, with paint over 92% of the cabin walls. Class-D personnel must now be screened for body tattoos before being allowed within SCP-556's containment area.

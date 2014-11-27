@@ -1,0 +1,161 @@
+Item #: SCP-1921
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1921 is to be kept in a secured storage vault in Wing-6D of Storage Site-49. Copies of SCP-1921-B2 should remain locked in a climate-controlled storage locker in Wing-4B of the same facility. SCP-1921-B2 is not to be allowed in the vicinity of SCP-1921 without written permission from the present head researcher.
+
+Description: SCP-1921 is a mobile kiosk designed for the production and sale of cotton candy. The exterior is decorated with painted panels of intricately carved wood, including an arched sign bearing the words "Cotton Candy — Free With Admission". Traces of fire and smoke damage are visible on the kiosk's exterior. SCP-1921 has five primary components that display anomalous properties when used in conjunction with each other.
+
+SCP-1921-A1 is a non-anomalous sugar spinning device located at the front of the kiosk. It is identical to commercially available machines of the same nature, with the exception of a small pump connected to a reservoir at the bottom of the kiosk. A label located at the bottom of the machine gives the nonexistent company "Sugarcomb Confections" as the name of the manufacturer.
+
+SCP-1921-A2 is any cotton candy produced from SCP-1921-A1 when SCP-1921-A3 is present inside the machine's reservoir. SCP-1921-A2 is consistently black in color, even when food dyes are added to the sugar. When SCP-1921-A2 comes in contact with human saliva, it contracts and shrinks in size until it is undetectable to the person who consumed it. Once inside a subject's digestive system, SCP-1921-A2 will expand to 3 times its original size, filling much of the subject's digestive tract. It will then start integrating itself into the subject's central nervous system, primarily accumulating in and around the subject's brain. This process typically goes unnoticed by affected subjects, though several individuals have stated that they felt a slight tickling sensation.
+
+SCP-1921-A3 is a black, highly viscous liquid of unknown composition. It was originally discovered underneath SCP-1921-A1 in a small tank labelled "Clown Milk". When a subject consumes SCP-1921-A3 in its pure form, the subject's serotonin1 levels will immediately increase to the point of cardiac arrest, invariably resulting in death.
+
+SCP-1921-B1 is a pneumatic, self-playing 32 key calliope located at the back of SCP-1921. Music produced by the instrument is not exceptionally loud; however, witnesses have reported being able to hear SCP-1921-B1's music up to 1.2km away. The object displays no additional anomalous effects unless it is turned on while an instance of SCP-1921-B2 is present in its inner compartment.
+
+SCP-1921-B2 is a collection of 11 rolls of perforated paper. When a roll is inserted into SCP-1921-B1, the arrangement of the holes in the paper will allow the instrument to play a song. Each instance of SCP-1921-B2 has a different song assigned to it, the name of which is printed at the top of the roll. Many of the rolls bear handwritten notes beneath the title of the song.
+
+Whenever a roll of SCP-1921-B2 is played using SCP-1921-B1 while within roughly 1.2km of a subject who has consumed SCP-1921-A2, the subject's cognitive abilities will be anomalously altered. The exact nature of the effect depends on the roll of music being played (see Addendum SCP-1921-B2).
+
+SCP-1921 was found in an unused fairground in ██████, Pennsylvania, along with a number of non-anomalous artifacts that bore similar fire damage. Among the other recovered items were several painted signs advertising "Herman Fuller's Circus of the Disquieting". Foundation forensics teams have theorized that a large group of people left the site in a hurry and attempted to burn everything they had to leave. The team also determined that the fire had been started less than 4 hours before the arrival of Foundation personnel. 6 bodies severely damaged by the fire were found stacked in a partially destroyed circus tent. Investigations are ongoing.
+
+Addendum SCP-1921-B2: The following is a list of known instances of SCP-1921-B2, presented with the title of the song played, the song's effect on subjects who have consumed SCP-1921-A2, and the note written on the instance.
+
+Number
+
+Song Played
+
+Effect
+
+Note
+
+B2-01
+
+The Skaters Waltz
+
+Subjects will not consider anomalous phenomena to be out of the ordinary.
+
+"Main"
+
+B2-02
+
+When You're Smiling
+
+Subjects experience increased levels of serotonin and dopamine. When interviewed, affected subjects have displayed an inability to concentrate on topics that they find unpleasant.
+
+(None; a crude drawing of a smiling face is present in place of text.)
+
+B2-03
+
+Officer of the Year
+
+Subjects are unable to perceive the actions of others as unlawful.
+
+"For coppers"
+
+B2-04
+
+Doodle Dee Doo
+
+Subjects' ability to feel a sense of personal endangerment is suppressed.
+
+"In case anyone catches on"
+
+B2-05
+
+Walkin' Happy
+
+A state of extreme euphoria is induced for the duration of the song, often incapacitating affected subjects.
+
+"NOT for personal use"
+
+B2-06
+
+Hail! Hail! The Gang's All Here
+
+All affected subjects within SCP-1921-B1's range of effect will congregate. Testing has shown that such subjects prefer to gather at the brightest visible light source. When questioned, subjects will adamantly maintain that they gathered of their own volition, but will often be unable to provide a reason for this behavior.
+
+"Before showtime"
+
+B2-07
+
+American Patrol
+
+Subjects will seek out individuals who have not consumed SCP-1921-A2 and attempt to persuade them to do so. If the individual repeatedly refuses, subjects may resort to acts of violence and force feeding.
+
+"Emergencies ONLY"
+
+B2-08
+
+For All and Forever
+
+Subjects are afflicted with an accelerated form of serotonin syndrome, causing them to experience seizures, hallucinations, severe nausea, diarrhea, vomiting, and fevers averaging 42 °C. Subjects show an increasingly lighthearted demeanor as their condition worsens before expiring of cardiac arrest three minutes after onset of symptoms.
+
+"LAST RESORT"
+
+B2-09
+
+Comrades of the Legion
+
+Unknown; roll has been forcibly ripped apart.
+
+(None)
+
+B2-10
+
+What D'Ya Mean You Lost Your Dog?
+
+No observable effect.
+
+"Prepare all clowns for milking"
+
+B2-11
+
+Upside-Down Cake
+
+Unknown; roll has been forcibly ripped apart and significant portions are missing.
+
+"Play when the time is right. Thank you for your cooperation."
+
+Addendum: On 08/28/2012, O5 command approved a request from Dr. Lindquist to restore SCP-1921-B2-09 ("Comrades of the Legion") to functional condition. Since the initial restoration, tests with D-Class personnel have not revealed any anomalous properties, with the exception of Experiment SCP-1921-B2-09-14. A transcription of research footage recorded of the event is available below.
+
+<Begin Video Log>
+
+[0:05] : Dr. Lindquist begins briefing D-5271 on the testing procedure.
+
+[2:23] : D-5271 consumes SCP-1921-A2.
+
+[5:30] : Dr. Lindquist activates SCP-1921-B1, which then begins playing SCP-1921-B2-09.
+
+[6:12] : No noticeable changes in D-5271's demeanor are observed.
+
+[7:03] : All keys on SCP-1921-B1 are suddenly depressed at once. Following this, SCP-1921-B1 switches from playing Comrades of the Legion to a downtempo arrangement of Entrance of the Gladiators. Dr. Lindquist makes an exclamation of surprise, as previous tests involving SCP-1921-B2-09 only showed Comrades playing in its entirety. It should be noted that the mechanism responsible for rotating SCP-1921-B1's perforated music roll was not in operation for the duration of the new song.
+
+[7:24] : D-5271 states that the music is giving him a headache.
+
+[8:31] : D-5271 is recorded saying, "oh my god, I love clowns."
+
+[8:40] : D-5271 apparently suffers a seizure and falls onto the floor.
+
+[10:36] : Entrance of the Gladiators ends. D-5271 stops seizing and loses consciousness at the conclusion of the song. SCP-1921-B1's roll begins turning once more and Comrades of the Legion resumes playing at the point it was interrupted.
+
+[11:32] : Comrades of the Legion ends. No further anomalous activity observed.
+
+<End Video Log>
+
+Note: D-5271 remained comatose for 18 hours following the experiment. Upon awaking, D-5721 claimed that he could not remember who he was and complained of severe discomfort in his chest and abdomen. After additional testing and observation during a 30 day period, it was determined that D-5721 did not display any atypical properties or behavioral patterns apart from those previously mentioned. A post-termination autopsy of D-5721 revealed that SCP-1921-A2 had integrated itself into the majority of D-5721's intestinal tract and muscle tissue, and a small balloon filled with glitter was found inside D-5271's chest cavity. A scrap of paper, folded in half four times, was encased in the glitter (See Document Log). Researchers have been unable to replicate the results of Experiment SCP-1921-B2-09-14 in subsequent tests.
+
+Document Log: The following is a transcription of the handwritten message on the card found inside D-5721:
+
+Front
+
+Okay, something definitely went screwy. What's the deal? We could have used this one!!! That contraption busted again?!
+
+Reverse
+
+P.S. We're getting hungry here, Charley.
+
+Footnotes
+
+1. Serotonin is a monoamine neurotransmitter believed to be linked with feelings of happiness.

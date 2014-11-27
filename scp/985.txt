@@ -1,0 +1,53 @@
+SCP-985, terminal access
+
+Item #: SCP-985
+
+Object Class: Euclid, pending reclassification to Safe reclassification denied, see Addendum 985-003
+
+Special Containment Procedures: SCP-985 is to be kept under video surveillance at all times. Live-feed cameras are to be placed in all three sections of SCP-985's housing, and the feeds are to be under observation by at least one Foundation employee at all times. In the event that observation fails for any period of time, on-site reserve personnel are to be activated, and the area is to be placed under lockdown until containment of SCP-985 and any items produced by the the SCP is reestablished.
+
+Description: SCP-985 is a conveyor baggage claim, located within Terminal ██ of the [REDACTED] International Airport. According to construction records, SCP-985 was installed at the same time as all other baggage claims in that terminal, and reviews of maintenance reports has failed to produce any leads regarding the unusual properties exhibited by SCP-985. While all sections are kept under observation, SCP-985 operates indistinguishably from any other baggage claim in the terminal, and the amount of electricity drawn by the machine remains relatively constant.
+
+Should one of the three sections of SCP-985 (runway access, conveyor system, or terminal access) cease to be observed, the machine's electrical draw begins to fluctuate rapidly, though no correlation has been determined between these fluctuations and the machine's other effects. At this point, various items of luggage will begin to enter the observed portions of the machine, said items having no apparent point of entry. These items are of varying shape and size, and in some cases do not correspond to modern security requirements for luggage taken aboard airplanes. Said items will continue along the conveyor along with the original contents of the conveyor until they are either taken from the line or reenter an unobserved section, at which point they disappear from the line and are no longer to be found.
+
+Items of luggage "produced" by SCP-985 (hereby collectively designated SCP-985-1) appear to exhibit mild inhibitory effects on certain areas of the human brain. This results in a general inability to distinguish SCP-985-1 luggage from normal baggage of similar appearance, resulting in SCP-985-1 items being mistaken by airline passengers for their own belongings and withdrawn mistakenly. The effect persists upon the luggage being opened, often resulting in accidental injuries to the recipients of SCP-985-1 when they attempt to make use of the contents.
+
+SCP-985 was brought to the Foundation's attention following the events of ████-19██, when a piece of SCP-985-1 luggage was retrieved by a businessman whose connecting flight was delayed. Upon the luggage being passed through security again before boarding the connecting flight, the presence of [DATA EXPUNGED] and electrical components, as well as high levels of gamma radiation, resulted in the airport being placed into lockdown and the man being detained for questioning. Foundation agents were called to the site following the discovery of the original luggage in the "unclaimed baggage" area, as well as luggage belonging to several other passengers, all of whom, when contacted, were discovered to have also mistakenly acquired SCP-985-1 luggage.
+
+Addendum 985-001: List of notable contents of SCP-985-1 luggage
+
+Assorted scrap metal
+
+Several sets of clothing, of various styles, composed of an unknown metallic fiber. On being worn, the fiber scrapes against the skin of the wearer, typically causing numerous shallow cuts across the skin and heavy blood loss.
+
+One (1) United States Army-issue M16 assault rifle, fully disassembled
+
+One (1) plastic water bottle, containing highly compressed air (est. pressure 400 kPa). Models suggest that any attempt to open the bottle would result in massive injury to the would-be consumer via the resulting pressure release.
+
+One (1) steel crowbar
+
+One (1) bottle of shampoo, identified by the label as [REDACTED] brand (said brand ceased production during the late 1990's). The gel contained in the bottle includes a variety of enzymes which are capable of denaturing the proteins in human hair.
+
+Thirty-seven (37) knives, of assorted make and model
+
+[REDACTED, SEE ADDENDUM 985-003]
+
+Addendum 985-002: Results of test 985-A
+
+Areas under observation: runway access, terminal access
+
+Test protocols: Researchers attempted to feed a wireless camera, concealed inside an article of SCP-985-1, along the runway portion of the conveyor into the unobserved middle section.
+
+Test results: Camera ceased transmitting upon entering the unobserved portion. Pieces of the camera were later found inside an item of SCP-985-1 taken from the terminal section of the conveyor, the device having apparently been destroyed via extreme blunt force. No data could be recovered from the camera's internal memory.
+
+Addendum 985-003: Results of test 985-B
+
+Areas under observation: conveyor system, terminal access
+
+Test protocols: Researchers fed a camera, connected via 100 meters of high-tensile cable to an on-site display, from the conveyor system through terminal access and back out to the unobserved runway access (the runway having been cleared in advance of the test).
+
+Test results: Camera successfully looped around the terminal section and back into the conveyor area. As it approached the exit to the runway access area, however, the feed from the camera was noted as becoming "fuzzy" and suffering loss of detail. Upon exiting the observed areas, the feed abruptly cut out, but the cord remained intact and continued to unreel. After approximately five minutes, the cable reached its maximum extent, simultaneous with the introduction of an instance of SCP-985-1 to the conveyor system. This instance was opened by researchers (survivors reported sounds from inside the case as their reason for forgoing typical precautions) releasing [DATA EXPUNGED], which caused substantial damage to the conveyor system area and the deaths of two on-site personnel. Despite the scale of the event, SCP-985 itself was undamaged, and the remains of the [DATA EXPUNGED] were unable to be recovered.
+
+Local media outlets reported a tragic mechanical failure as the source of the destruction.
+
+Plans for reclassification to Safe have been scrapped, further investigation is pending - Dr. ███

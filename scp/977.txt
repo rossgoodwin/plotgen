@@ -1,0 +1,109 @@
+Image of the security station located inside SCP-977
+
+Item #: SCP-977
+
+Object Class: Euclid
+
+Special Containment Procedures: Access to the SCP-977 site has been restricted on the basis of ongoing asbestos removal and renovation. The site is to be secured by guards in standard █████████ security company cover uniforms, with concealed armament. No fewer than three Foundation staff members are to be present on site at any time while research is being conducted. Personnel entering or leaving the building are required to don breathing masks and standard safety clothing to prevent suspicion.
+
+The security cameras already existent in the building have been modified to link to SCP Foundation servers. Footage is automatically backed up every two hours both to local hard-drives and to off-site storage. Any developments are to be reported to site overseer Dr. █████████. Access to video recordings, research and logs may be granted by personnel with level 4 security clearance or higher.
+
+Addendum: Following incident 977-I-1, all staff must be escorted by at least one other staff member or member of security personnel at all times while on the SCP-977 site. Failure to follow these procedures will result in reprimands, including (but are not limited to) demotion of security level, loss of privileges, and denial of leave. Object class has been upgraded to Euclid.
+
+Description: SCP-977 is a warehouse located in an industrial district in █████ ████████, ███████. The warehouse was brought to the Foundation's attention after it was declared abandoned in ████, and reports of its unusual properties intercepted. The Foundation subsequently purchased the building, designating it Site ██, and these reports were suppressed. Records state that the warehouse was constructed in ████ and, prior to being purchased by the company, was owned by several companies including [REDACTED], spanning a period of ██ years. However, numerous contradictions in the documentation recovered on these leases suggests that these operations were not functioning companies, and may have been cover operations for as yet unidentified group(s) or individual(s).
+
+SCP-977 is outwardly unremarkable and, aside from Foundation equipment and the security station, currently empty. Along with a single open storage space typical of a warehouse, the structure contains a number of white, irregular rooms and corridors, many of which are sunk below street level at varying depths, and are all characterized by unusual plateaus, varying ceiling heights and raised platforms.
+
+The security station can be accessed via a stairwell next to docking bay C. The monitors are divided into two groups of eighteen, designated group-1 and group-2. All monitors have black and white displays, and do not receive sound. Group-1 receives signals from an unidentified source, showing numerous unconscious persons, visible from the shoulders upwards, wearing identical unisex hospital gowns. These images cycle at eight minute intervals, with a new image/subject replacing the previous one. A cross-reference of these images has identified a total of [REDACTED] unique faces at last count. Group-2 is receiving images of rooms and hallways that match the characteristics of the white rooms contained within the complex; however, while some of these images are verifiably originating from room within the warehouse itself, several others do not match the layout of any known room. The last three monitors in group-2 are currently not receiving any signal. The station also features a console with a text-based command input running a unique operating system, the functionality and interface of which are yet to be fully determined. Investigations in to the console's operation and the source of the unknown images are ongoing.
+
+Research Log 977-A:
+
+Log-977-A-1
+
+Date: ██/██/████
+
+Basic control of the group-2 cameras was established by means of the command console, including rotation (limited to 45 degrees from origin for X-axis motion and 30 degrees for Y-axis motion) and zoom (to a maximum of 2.3x optical zoom). Investigation of seven of the eight cameras revealed nothing; however, a previously unseen figure was observed slumped against a distant wall of the hallway observed by camera 2-6. This hallway is not known to be part of the existing complex. The figure appears to be a dark-skinned male, wearing a hospital gown similar to those worn by subjects viewed on the group-1 monitors, though distance and image quality has hampered further investigation.
+
+Log-977-A-5
+
+Date: ██/██/████
+
+Limited interaction with the cameras transmitting to the group-1 cameras was achieved. Catheters are observed protruding from the veins in each subject's right arm; however, the apparatus to which these are connected cannot be observed from this angle.
+
+Log-977-A-6
+
+Date: ██/██/████
+
+Movement is observed on monitor 2-11, observing a hallway. A figure was observed to walk slowly across the far end of the corridor around a corner, although image quality is too low for detailed observation. No other movements were recorded on this date.
+
+Log-977-A-8
+
+Date: ██/██/████
+
+Interaction with subjects observed through group-1 monitors was achieved. A random identification key was entered in the command console, causing an unidentified white male to be displayed on all group-1 monitors. After a series of subsequent commands, the subject was awakened from unconsciousness.
+
+The following is a log of the subject's activity in the hours following awakening:
+
+██/██/████
+
+1713: Subject awakens slowly. After several minutes, subject raises himself from the bed with difficulty, possibly suffering from muscle atrophy or lingering effects of sedatives. Subject then leaves the field of vision of the bed camera. Movements of the subject for the next 28 minutes are unknown.
+
+1754: Subject appears in a hallway displayed on monitor 2-11, approaching the camera. Hallway is not known to be part of the existing complex. Subject is walking slowly with hunched shoulders and observing surroundings, frequently looking over shoulder. While climbing over a plateau in the centre of the hallway, subject suddenly reacts to some unknown stimulus, and looks over shoulder for several seconds, breathing heavily, then resumes climbing slowly. After two minutes, the subject passes out of the field of vision once again. Subject does not seem to react to the presence of the camera. Movements for the next 17 minutes are unknown.
+
+1811: Subject appears on monitor 2-6, moving away from the camera. After several paces, they see the previously observed body slumped against the wall at the far end of the corridor. Subject stops abruptly, and then turns back towards the camera hurriedly. Movements for the next hour and 39 minutes are unknown.
+
+1950: Subject appears on monitor 2-3, moving towards the camera, breathing heavily but not observably injured. While climbing over a series of small steps, subject trips and falls, and remains on the ground for the following 8 minutes, before unsteadily rising to their feet. Subject then proceeds for another several paces before sitting once again, in a state of visible distress, remaining there for the following 23 minutes.
+
+2013: Subject moves from the stair into a seated position against a neighbouring plateau, facing away from the camera, partly out of the camera's field of vision.
+
+2040: Subject's breathing has become noticeably heavier.
+
+2130: Subject's breathing progressively becomes shallower, taken in large breaths.
+
+2209: Subject's body begins to convulse for a period of 34 minutes.
+
+2243: Subject's movement ceases, assumed deceased.
+
+██/██/████
+
+1029: Subject's skin appears to be growing darker, or decaying at an accelerated rate.
+
+1656: A number of small, dark growths are observed protruding from the subject's right palm.
+
+2009: Growths have spread across the body's extremities and face, obscuring features. Growths appear as a large number of small, semi-rigid filaments. It is unknown whether these growths are organic or inorganic.
+
+██/██/████
+
+0338: Subject's body is entirely covered by growth.
+
+Log-977-A-14
+
+Date: ██/██/████
+
+Function to change the camera transmitting to individual group-2 monitors by means of the console was determined. Logs are now to be kept of unique camera viewpoints and their corresponding identification keys.
+
+Log-977-A-17
+
+Date: ██/██/████
+
+A systematic examination of group-2 identification keys revealed a previously unknown camera concealed within the security station itself. The camera tracked the movements of Dr. ███ independently for several minutes after the cover was removed by Dr. ███, but has since become inactive. The corresponding identification key will also no longer access this camera.
+
+Addendum: The discoveries detailed in Log-977-A-17, along with Incident 977-I-1, have necessitated the upgrade of SCP-977 from Safe to Euclid. Please refer to containment procedures for changed security precautions, commencing ██/██/████.
+
+Incident Log 977-I
+
+Log-977-I-1
+
+Date: ██/██/████
+
+Incident 977-I-1 occurred during a routine inspection of the SCP-977 site by Dr. ██████, who was alone on-site, against Foundation regulations. The incident occurred at 2204 hours, during an inspection of the site's rear corridors. At this time, Dr. ██████ departed from procedure by taking a left at the end of the hallway instead of a right. Questioning suggests that this was a mistake and not deliberate, possibly as a result of fatigue. Personnel taking this route are expected to emerge in the hallway observed by monitor 2-3, though following this Dr. ██████ was not observed on any active monitor for the next 4 hours. At 0221 hours, he is briefly seen in an agitated state moving past the far end of the corridor observed by monitor 2-11, and is not seen again for another 6 hours.
+
+At approximately 0830 hours, Dr. ██████████ and Dr. ███ arrived at the site expecting to meet Dr. ██████, and the alarm was raised 15 minutes later when he could not be located. A search operation was launched, concluding at 0904 hours when Dr. ██████'s cries were heard. Dr. ██████ was located near the corridor of his initial disappearance, and was subsequently brought into Site-██ for questioning.
+
+Dr. ██████ reported being unaware of having left the known parts of the site for several minutes after having taken a wrong turn. The doctor claims to have been unable to recognize any landmarks when attempting to retrace steps, and was unable to give an accurate estimate of length of time spent searching for a way back to the known site. During this period, Dr. ██████ recounted experiencing periods of intense paranoia, as well as making multiple attempts to contact the Foundation by means of security cameras present in every room. As these cameras were not manned at the time, this cannot be corroborated by Foundation recordings, although Dr. ██████ stated that the cameras did track his movements. Although Dr. ██████ described the corridors as silent, he also reported several incidents of believing to have heard faint or distant sounds, or observing changes in room layout. These may, however, have been a result of fatigue or paranoia. Air pressure also reportedly changed at several irregular intervals.
+
+After an unknown amount of time, Dr. ██████ reported coming across a distinctive corridor, leading to what was described as a room very similar to the security station used to monitor SCP-977, although otherwise bare. The two stations reportedly shared a similar setup, both with two distinct groups of monitors viewing unconscious subjects and corridors. However, during Dr. ██████'s examination of the new station, a monitor observing what appeared to be the security station used by Foundation staff was described in place of where one of the three darkened monitors would be in the latter. After a period of exploration, Dr. ██████ reported then observing a dark figure appearing on one of the station's monitors, walking slowly. After several minutes of observation, the doctor then reported seeing several black figures appear on different monitors. When one of which was recognized as having been recently passed by Dr. ██████, he reportedly fled the room in a state of panic.
+
+After an extended period, Dr. ██████ recounted eventually coming to a halt in a corridor, falling to the ground out of exhaustion. The doctor recalled having fallen asleep in a seated position, despite apparently having intended to continue his exploration, having been awoken by the shouts of the approaching search party. The doctor was subsequently retrieved, during time which he repeatedly expressed disorientation and claimed to have fallen asleep in a different hallway. Dr. ██████ later retracted this statement, citing uncertainty.
+
+A medical check-up revealed Dr. ██████ was physically unharmed by this experience beyond fatigue. The doctor was reprimanded for neglecting Foundation procedure, and his security clearance has been downgraded following the incident, with a review pending in 6 months.

@@ -1,0 +1,65 @@
+SCP-1451
+
+Item #: SCP-1451
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1451 is contained in Area 15, located in the ██████ Sound. It is surrounded by a sphere of wire mesh netting to ensure that no large objects enter the containment area. Access is to be denied to all persons attempting to enter regardless of rank. SCP-1451 must always be submerged in water from the ██████ Sound. Natural water currents are not to be obstructed, as that could potentially cause an ongoing Class 3 scenario. Guards are positioned no closer to SCP-1451 than the second barrier.
+
+During Class 2 and 3 scenarios, SCP-1451 must be remotely monitored. If any drastic change in behavior is noted, the Director of Area 15 is to be notified immediately. No attempts to rescue items or personnel from SCP-1451 should be made. In the unlikely case that the ██████ Sound begins to drain, Protocol Tempest is to be enacted.
+
+Description: SCP-1451 is a set of metal statues, twenty-six (26) in total (individually referred to as SCP-1451-1 through -26). All appear to be of children with heights ranging from 1.32m to 1.43m. SCP-1451 can be in three distinct states of motion, referred to as Class 1-3 scenarios. During a Class 1 scenario, no movement is detected. This state is ideal for containment. During both Class 1 and 2 scenarios, SCP-1451 are standing in a circle, each one grasping the hands of the statues adjacent to them, and facing outwards.
+
+During a Class 2 scenario, SCP-1451 will animate slightly, shifting themselves with the apparent goal of counter-clockwise locomotion. The hands on SCP-1451 will also raise and lower slightly during these moments. Bubbles can be seem emanating from the mouths as well. This state must be monitored closely, as it can transition quickly into a Class 3 scenario.
+
+A closeup of SCP-1451-7, directly preceding a Class 3 scenario
+
+When a solid object with a mass greater than 40g enters the center of the circle formed by SCP-1451 (hereafter the Activation area), SCP-1451 animate and attempt to destroy said object. This is known as a Class 3 scenario. Fortunately, small natural currents are present around SCP-1451, with the effect that small, light, objects cannot enter the circle in the center of SCP-1451.
+
+SCP-1451 have shown remarkable strength and agility in this state, though the extent of these qualities has not been found. SCP-1451 have been observed utilizing multiple different tactics when neutralizing a target, including multiple martial arts forms, pressure point application (to humans and machines), and highly coordinated teamwork. After eliminating and disposing of solid materials, SCP-1451 instances will return to their original positions and revert to a Class 1 scenario.
+
+SCP-1451 have ventured as far as 1.3km away from the Activation Area in order to neutralize a target. Attempts to intercept SCP-1451 between neutralizing a solid object and returning to the Activation area have been met with what is referred to as a Class 3.5 scenario, where SCP-1451 will become hostile but instead focus on returning to their original position circling the Activation Area.
+
+SCP-1451 avoids attacking its separate parts, even if it would normally be motivated to do so.
+
+OVERSEER CLEARANCE REQUIRED
+
+Partial Manifest of Recovered Materials
+
+-Hide document
+
+Note: The full manifest of recovered materials is in Document 1451-5-H12-8X4
+
+One damaged Scranton box1
+
+Recovered Document (see below)
+
+~20.9 kg of brick, scattered inside and outside
+
+~4,000 kg of containment-grade concrete
+
+Recovered Document
+
+-Hide document
+
+Note: The document was recovered from a Scranton box, though evidence suggests that the box did not function perfectly.
+
+Item #: S[DATA LOST]
+
+[DATA LOST]ject Class: Ket[DATA LOST]
+
+Special Contai[DATA LOST]ures: SC[DATA LOST]rea 56, located at a depth of ███ feet in the ██████ Sound. Guards are positioned around the containme[DATA LOST]ntervals, armed with sub-machine guns. Outside of the preliminary containment is another room lined with SC[DATA LOST]nd three sniper positions, ensuring that the roof of Area 56 is never breached. [DATA LOST]ncrete walls, s[DATA LOST] Contac[DATA LOST]hibited, except in special cases. Written consent must be obtained from Dr. █████ and the head of Are[DATA LOST]nstant reviewing of this docu[DATA LOST]ure that it is not destr[DATA LOST]
+
+Descr[DATA LOST]entience and sapience. The reali[DATA LOST]not currently understood, as is the extent of the reality bendi[DATA LOST]lthough the orifices have shown to have a profound effect on SCP-█[DATA LOST]oyed. Subjec[DATA LOST]en.
+
+[DATA LOST, OMITTING SMALL NONDESCRIPT LETTERS SCATTERED THROUGHOUT. MULTIPLE PARAGRAPHS BELIEVED TO HAVE BEEN LOST]
+
+[DATA LOST]ndum 02: In light of Inci[DATA LOST]stioned it, to which we believe the response was akin to laughter. SCP-██[DATA LOST]ermore, called Agent █████ a "child." Due to its nature, it is possible that Agent █████ may undergo physical and mental chang[DATA LOST] misconceives reality and changes it to match its perception. If no attempt can be made to convince SC[DATA LOST]erwise, contact must be fully prohibited in order to stop it from altering reality further. Just the smallest misconception about its containment could mean an XK-end-o[DATA LOST]ause it may already have. The metal and concrete room, "containment," and Agent █████ may have already melded in its mind. The only wa[DATA LOST]ot the only on[DATA LOST]
+
+[DATA LOST] The changes have already begun to occur. The three aspects (metal/concrete, "containment," "child") are melding Are[DATA LOST]et out[DATA LOST]
+
+[DATA LOST, OMITTING SMALL NONDESCRIPT LETTERS AND PHRASES SCATTERED THROUGHOUT. FULLY UNREDACTED DOCUMENT IS AVAILABLE, SEE DOCUMENT 1451-5-G93-1S2]
+
+Footnotes
+
+1. See Document N9Q-C66-VN4-AHQ47O8. Scranton boxes are Foundation technology, reverse engineered from [DATA EXPUNGED] in order to provide a physical container safe from most reality bending.

@@ -1,0 +1,75 @@
+SCP-1520 in the robes it was wearing at the time of its discovery
+
+Item #: SCP-1520
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-1520 is to be seated in the corner of a standard cell of the type used to contain Safe-class humanoid SCP objects. No furniture, fixtures, or amenities are to be provided. No external or internal light sources are to be provided except when SCP-1520 is being directly interacted with; when interaction is necessary, personnel shall wear low-light goggles and light provided shall be of a bare minimum necessary to allow their functioning. The chamber is to be soundproofed to prevent any external stimulus. Air shall be filtered constantly and silently to prevent any odiferous compounds from accumulating. Air temperature is to be maintained at 16ºC.
+
+SCP-1520 is to be fed one nutritionally-supplemented wafer with a neutral taste profile once per day, as well as 30 mL of filtered water. Interaction with SCP-1520 for interview and examination purposes shall be kept to a minimum. Any physical interaction with SCP-1520 is to be conducted by personnel wearing elbow-length gloves and direct contact between SCP-1520 and exposed flesh is not to occur. Medical examination of SCP-1520 shall be conducted once per month to determine whether additional attention is required; SCP-1520 is not to be adjusted from its current position during examinations unless necessary, and all examinations are to be performed as quietly and in as little light as possible.
+
+SCP-1520 may be provided, at its request, with a pair of opaque goggles.
+
+Description: SCP-1520 is a human male of Japanese ancestry, approximately 404 years of age at the time it entered Foundation custody. SCP-1520 is highly desiccated and dehydrated in a manner resembling the corpses of Buddhist monks prepared by an archaic process called sokushinbutsu, wherein the aspirant was gradually dehydrated by means of a special diet over the course of several years in order to produce a natural mummy after death. SCP-1520's flesh is dried and translucent and is stretched taut over its bones. X-ray and MRI analysis has shown that musculature and internal organs, excluding the brain, eyes, and ears, are severely atrophied. SCP-1520 has been noted to inhale and exhale once approximately every 8.3 minutes - heart rate is approximately 2-3 beats per hour. SCP-1520's circulatory system contains less than 0.5 liters of blood - other bodily fluids are found in quantities negligible to nonexistent. SCP-1520's body temperature is not significantly higher than room temperature. Due to its inhibited metabolism, SCP-1520 requires little food or water and does not appear to excrete or sweat.
+
+SCP-1520 is fully conscious and aware of its surroundings, and is able to speak a dialect of Japanese found in ████████ Prefecture in the 16th century, and to make signs through simple movements of its hands and fingers. SCP-1520 is either unwilling or unable to engage in any other physical movements. When not being interacted with by Foundation personnel, SCP-1520 sits in a Lotus position, motionless except for breathing and occasional quiet recitation of prayers; at other times, it appears to be sleeping or meditating and does not react to external stimuli. It is not apparent whether SCP-1520 is capable of sleep or whether it remains aware of its surroundings during these periods of inactivity.
+
+SCP-1520 was surrendered to Foundation custody in 1946, when United States Army personnel found it enshrined in a Buddhist temple in ███████████, Japan during the Allied occupation. Temple priests referred to SCP-1520 as a "living Buddha" who had undergone sokushinbutsu in 1576, and had been revered as a god by the templegoers.
+
++ Show Interview Log 1520
+
+- Hide Interview Log 1520
+
+Interview Log 1520:
+
+Date: ██/██/19██
+
+Interviewer: Dr. Y█████, hereafter "Y."
+
+Interviewee: SCP-1520
+
+Foreword: SCP-1520 has, in general, politely refused any attempts to interview it, responding to any attempts to question it with silence or by saying "I cannot discuss that." The extent of SCP-1520's spoken comments have consisted of simple requests pertaining to its containment, such as clean robes, goggles when it is being examined in brightly lit areas, and to be given less water in its daily feeding. On ██/██/19██, during a medical examination in its cell, SCP-1520 abruptly began to speak to Y., a native Japanese speaker, while Y. was monitoring its pulse. The following is a translation of the conversation that ensued.1
+
+<Begin Log>
+
+SCP-1520: It beats when it must.
+
+Y: What the… (Y. recoils from SCP-1520)
+
+SCP-1520: You are afraid? Fear not. Fear is only an aspect of Maya.
+
+Y: You're… you're speaking. (Y. attempts to regain his composure.)
+
+SCP-1520: Yes.
+
+Y: You've never just started talking before. Why now?
+
+SCP-1520: Because I must.
+
+Y: Why?
+
+SCP-1520: Because I have failed.
+
+Y: Failed at what?
+
+SCP-1520: I have sat and meditated and pondered for how long I do not know awaiting Nirvana, but this body is unwilling to release me from its grasp. I am… unable to achieve what I set out to accomplish.
+
+Y: Why?
+
+SCP-1520: I have regrets. They… keep me here. I am unable to rid myself truly of desire while this work is undone. I must ask you to help me do what I cannot do for myself.
+
+Y: Do you want us to kill you?
+
+SCP-1520: No. Death will come to this body when it will. You must bring a message to a woman I left behind when I chose this path.
+
+Y: No offense, but do you know what year it is? Everyone you knew before you "chose this path" is long dead.
+
+SCP-1520: It has been long since I counted the days. If she has died, take it to her children. Have you a scroll and ink? I shall wait.
+
+<End Log>
+
+Footnote: Following this conversation, Y. acquired a pen and paper and proceeded to transcribe a lengthy letter to a woman named ██████ ████, in which SCP-1520 apologized for leaving her, explained his reasons for becoming a monk, and stated his hope that their child would grow up wise and benevolent. Foundation historians were able to identify ████ as having died in 1588; a descendant, ██████ ████, was identified living in Scranton, PA. An English-language copy of the letter was delivered to ████, who could not speak or read Japanese, under the pretense of being a family memento discovered during an estate sale. After delivery was completed, Y. returned to SCP-1520's chamber and informed it that the task had been completed. SCP-1520 exhibited no reaction to this news and has not made any attempt to communicate with Foundation staff since.
+
+Footnotes
+
+1. As no audio recording equipment was on hand when the incident occured, this translation is based on notes compiled by Y. after the incident occured. Y. has stated that the original Japanese spoken by SCP-1520 was considerably more "flowery" and "old-fashioned" than the version he has produced, and that it made use of several terms not used in modern Japanese which he was unfamiliar with.

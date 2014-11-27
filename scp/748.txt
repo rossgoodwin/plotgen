@@ -1,0 +1,19 @@
+SCP-748
+
+Item #: SCP-748
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-748 must be kept in an isolation chamber lined with 5cm of reinforced steel and filled with at least 25 cubic meters of fine quartz sand (silica). Any degradation or erosion of the containment chamber walls must be reported immediately and SCP-748 moved to a backup chamber for repairs if necessary.
+
+Personnel are not allowed inside SCP-748's chamber at any time, nor is video surveillance possible at this time. Any personnel attempting to forcibly enter SCP-748's chamber are to be detained, given a full psychiatric evaluation, and reassigned if necessary.
+
+Description: SCP-748-1 is a glass sculpture in the shape of a humanoid face, approximately 30cm in length, 18 cm in width, and 17cm thick.
+
+When exposed to fine particulate matter such as sand, SCP-748-1 begins to form free-standing sculptures through unknown means, hereafter designated as SCP-748-2. These sculptures resemble buildings but often contain extremely complex geometric and fractal shapes and patterns. On rare occasions (approximately less than 2% occurrence), instances of SCP-748-2 have been formed that appear to be under attack from sort of creature, which have varied from giant cephalopods and cetaceans to SCP-███.
+
+SCP-748 has been observed to form sculptures of up to 20 cubic meters in volume, and achieves a stable state within one hour of exposure. If SCP-748-1 is moved or otherwise disrupted after such a stable state is reached, then that instance of SCP-748-2 will remain standing until disturbed. Unstable instances of SCP-748-2 will fall apart if SCP-748-1 is moved. If insufficient raw material is available, SCP-748-1 will begin to vibrate with a low, resonant frequency that dessicates and pulverizes any solid, non-metallic material within 3m until enough particulate matter is present.
+
+Human subjects that directly observe SCP-748-1 for more than approximately six minutes exhibit a compulsion to interact with SCP-748. If allowed to do so, subjects will move SCP-748-1 whenever SCP-748-2 reaches a stable state, expressing a strong desire to "see what else [it] can make". Subjects will become increasingly obsessed with making new SCP-748-2 instances and will provide SCP-748-1 with more raw material up to and including their own bodies. SCP-748-2 instances by themselves have not exhibited any cognitohazardous or compulsive effects.
+
+SCP-748 was discovered at a sand sculpting contest near ███████ Beach, ███████ in 200█ following a report of multiple civilian disappearances. At this time, it is suspected that over ██ civilian casualties were sustained before SCP-748-1 was successfully retrieved by a Foundation containment team.

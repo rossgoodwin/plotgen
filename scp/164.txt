@@ -1,0 +1,23 @@
+Item #: SCP-164
+
+Object Class: Euclid
+
+Special Containment Procedures: Cultures of SCP-164 should be contained using standard Class-3 biohazardous procedures, and stored clearly marked within a refrigerated biocontainment unit at 10 degrees Celsius. While pathogenic, SCP-164 is not highly infectious; while researchers working with raw cultures or infected subjects should use caution, latex gloves and face masks are generally effective at preventing the spread of the disease. Any personnel inadvertently infected will be subject to six months of chemotherapy upon first showing symptoms, and surgery as necessary.
+
+Civilian outbreaks should be handled using cover-up procedure Alef-█ for contagious materials.
+
+Description: SCP-164 is a strain of cancerous cells that causes sarcoma-like tumors in host bodies. While cell DNA appears to be primarily derived from human DNA, the cells now effectively exist as unicellular, asexually-reproducing parasites. Several characteristics make SCP-164 remarkable:
+
+SCP-164 is the only parasitic (transmittable) cancer known to infect human beings. Strains are transmittable through, in order of infectiousness: blood contact, sexual intercourse, skin contact, and airborne contact. Chemotherapy and surgery are effective in treating the disease in nearly all stages.
+
+Tumors produced by SCP-164 that grow larger than a certain size will, in 75% of cases, follow normal behavior for cancerous sarcomas. However, in 25% of cases, host bodily materials will be utilized for the creation of a new, separate organism inside the tumor. In the case of multiple tumors, some or all may follow this behavior. Said organisms will apparently begin as zygotes (fertilized ova) and replicate, much like fetuses. Externally, this appears no different from normal tumor production, and may go unnoticed in initial stages.
+
+Oddly, mature organisms identify as being completely unrelated to the original tumors, corresponding with a previously unknown species of order Teuthida (squids). Removal of organisms shows they are entirely viable in marine conditions, and will perform normal actions such as locomotion, catching food, basic defense, reproduction, et cetera. However, said organisms will also remain entirely viable in the original tumor, rarely moving or shifting position, continuing to grow at a regular rate until the host is killed. The existence and nature of the organisms (SCP-164-2) is often not realized in civilian cases until biopsy or surgery reveals the developed organism.
+
+SCP-164 organisms and tumors may interact with host physiology in interesting ways. The following cases are particularly notable:
+
+Female D-Class, 23 years old: SCP-164 tumors spawned on uterus walls. Host body apparently recognized the tumor as a human fetus, and was delivered normally containing viable SCP-164-2 specimen after 9 months.
+
+Male D-Class, 30 years old: Tumors spawned on the spinal cord, disrupting the central nervous system. As a result, movement from SCP-164-2 would occasionally cause subject's limbs to flail, suggesting a “cross-wiring” of the nervous systems of the two organisms. Biopsy lent support to this hypothesis.
+
+Male D-Class, 25 years old: Tumors spawned near the esophagus and windpipe of the subject, in a location that with ordinary growth would normally have blocked off said passages and quickly killed the subject. Instead, the growth of the tumors shifted to the back of the neck, preventing subject from dying before the normal point. Doctor █████ suggests that this may have been a deliberate action taken by SCP-164.

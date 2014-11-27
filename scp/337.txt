@@ -1,0 +1,93 @@
+A small portion of SCP-337
+
+Item #: SCP-337
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-337 is to be kept within a steel-reinforced 0.5 m thick polished cement containment chamber at all times. Chamber walls must be inspected weekly for cracks and re-sealed as needed. Access will only be available via two-stage vaulted steel door system with a seal tolerance not to exceed 100 µm. Antechamber between the doors is to be fitted with multiple remote-operated liquid propellant flamethrowers. Both chambers are to be externally monitored with wireless security cameras. Damage or repositioning of cameras should be reported immediately. A self-contained, water-recycling shower system will be positioned at the far end of the internal chamber. The system’s water supply and filters are to be changed on a monthly basis.
+
+Personnel assigned to SCP-337 must maintain all head and body hair at no longer than 4 cm, and will submit to regular full-body inspection to ensure compliance. Any personnel entering the chamber must be escorted by two guards armed with portable flamethrowers. Following Incident 337-A, Class D personnel involved in testing must be strapped into a restraining gurney and sedated prior to entry.
+
+Once per week, one Class D personnel will be stripped of hair measuring longer than 5 cm using the Solomon technique. An attendant must immediately deliver the hair into the chamber and permit the object to "feed". During this time, the attendant will sweep the floor clean of shedding using a standard broom and dustpan; following Incident 337-C, vacuum cleaners are not permitted for use within 15 m of SCP-337 containment unless specifically authorized.
+
+Description: SCP-337 is a large conglomeration of human hair weighing approximately 60 kg at last measure. The object’s shape and dimensions are tremendously variable. SCP-337 is fully animate, capable of a wide range of locomotion, and can exert force in excess of 18 kN. It also seems to possess some level of sentience, although attempts at communication have thus far met with limited success (see Incident 337-B).
+
+The object is able to manipulate any hair directly connected to its central mass, with precision down to the individual strand. The method by which SCP-337 mobilizes its components is still under investigation. Analysis of filaments attached to the object has shown them to be identical to regular human hair, and strands that are periodically shed from the object are similarly normal, aside from being drained of pigmentation. Filaments display typical tensile strength and can be easily damaged by fire, blades, or consumer-grade chemical clog remover.
+
+Although it displays no obvious sensory organs, SCP-337 is highly aware of its surroundings, and may even possess perceptive abilities exceeding those of humans. For the most part, these senses are tuned toward detecting and acquiring its principal form of sustenance: fresh, human hair.
+
+When a human being with any hair measuring longer than 5 cm comes within approximately 30 m of SCP-337, it enters what could be described as a "predatory" state, rapidly braiding together several dense tendrils of hair in the direction of its prey. The object's range of perception seems to be unhindered by the walls of its containment chamber.
+
+The object will then close in on its target at great speed, attempting to overtake and envelop it. When successful, SCP-337 restrains the subject's limbs and begins to "harvest" all hair of sufficient length from the body. Hair is painlessly removed from the dermis at the base (root included), and is immediately incorporated into the object’s mass via knotting or weaving. Patterns of bruising, bleeding, and sebaceous eruption on subjects following feedings suggest follicles are partially loosened from the inner sheath prior to extraction. This appears to sometimes accelerate hair regrowth even in regions where it is typically stunted; to date, researchers have failed to replicate this effect artificially.
+
+While SCP-337 was found in a filthy state at time of recovery (See Addendum), it has since demonstrated a preference for cleanliness. Not long after initial containment, the object managed to escape its temporary enclosure through a narrow (2 cm diameter) wiring duct. It was discovered on site several hours later in the fourth floor women’s washroom, where it emerged from a drain and consumed the hair of two showering researchers. A security team arrived shortly thereafter to find SCP-337 under a running shower tap, lathering itself with shampoo left behind by the women. Once containment was reestablished, SCP-337’s enclosure was fitted with its present bathing accomodations and a supply of hair conditioning product. The object’s rate of shedding has since decreased dramatically.
+
+Note: SCP-337 may seem to prefer "live feedings", but it will still readily consume hair that has already been removed from a human host, provided the follicle is intact and the root has only been detached for a few minutes. We have established a means of accomplishing this extraction just as effectively, if not as painlessly, as the object's method. To limit risk of cross-contamination, Class D personnel should only be exposed to SCP-337 for approved testing purposes. Requests by personnel to be deliberately exposed for feeding are preemptively denied. –Dr. ████
+
+Addendum: SCP-337 has demonstrated the ability to grow well beyond its present mass through the accumulation of additional hair. It was discovered in the plumbing system of a large nursing home facility in ████████, Pennsylvania in 19██, after Agent █████ noticed a story entitled “Sewer Snakes” Scalp Senior Citizens in a local newspaper. A team was dispatched to investigate under the guise of a fumigation contracting company. After evacuating residents to another facility, agents cut off all water and sewage lines in the building, monitoring sink and shower drains for any sign of the object.
+
+When a portion of SCP-337 finally emerged, it attempted to couple with Agent ██████’s cranium, only to be intercepted by his weapon’s bayonet. The tendril immediately retracted into the drain, after which time the object was not sighted again for more than forty-five minutes. Coordinated deployment of chemical clog remover forced the object to exit through pipes in the facility’s basement level utility room, where several agents were on hand to apprehend it with portable flamethrowers. However, the agents were unprepared for the sheer size of the object, which quickly filled the lower level of the building. In the confusion, a sizable portion of SCP-337 was ignited.
+
+The resulting blaze spread quickly throughout the facility. Most on the upper floors were able to flee the structure before it collapsed, but █ agents did not escape in time. SCP-337 managed to extricate its remaining mass through the building’s ventilation system, shedding burning components as it went. When it finally amassed in the facility’s parking lot, it was estimated to be over ██ m (██ ft) tall. Surviving members of the intervention team converged around the object and successfully corralled it within the lot using flame propellant until support arrived. By the time SCP-337 was contained, it had lost more than 90 percent of its original mass.
+
+The fire and subsequent destruction of the nursing home was officially blamed on faulty wiring, and damages were settled out of court. Displaced residents were transferred to a Foundation-operated nursing facility, where amnesiacs were administered as required and [DATA EXPUNGED] without incident.
+
++ Incident 337-A
+
+- Incident 337-A
+
+Personnel involved: Dr. █████ Solomon, D-28803
+
+Date: ██-██-████
+
+Description:
+
+10:26 AM: Dr. Solomon and two guards enter antechamber of SCP-337 containment area escorting D-28803 for scheduled testing. D-28803’s hands and ankles are cuffed. He is moderately uncooperative, pleading not to be taken into the chamber. Rumors of a “haircut monster” are widespread among Class D personnel on site.
+
+10:27 AM: Dr. Solomon assures D-28803 that he is completely safe. She firmly reminds him that his cooperation is beneficial to them both.
+
+10:29 AM: All personnel enter inner chamber. SCP-337 has already extended several tendrils in direction of D-28803. D-28803 shouts multiple expletives, attempts to move toward exit, is restrained.
+
+10:30 AM: SCP-337 closes in on D-28803. D-28803 produces a small pair of shears that had previously been hidden in his waistband. D-28803, still cuffed, wrests free from guards and lunges at SCP-337, screaming.
+
+10:30 AM: D-28803 thrusts shears into SCP-337, managing to sever one of the object’s tendrils. SCP-337 recoils as if in pain.
+
+10:30 AM: SCP-337 envelops D-28803. Dr. Solomon shouts something unintelligible to guards. A muffled cry is heard, followed by a wet-sounding thump.
+
+10:31 AM: Guards engage pilot lights of flamethrowers. SCP-337 retreats, disentangling itself from its host. D-28803 collapses to the ground. Body is hairless. Shears are buried up to the handle in center of D-28803’s forehead. Dense hair later discovered in nostrils, trachea, lungs, █████.
+
+10:32 AM: Personnel exit containment chamber with corpse.
+
++ Incident 337-B
+
+- Incident 337-B
+
+Personnel involved: Dr. ███████
+
+Date: ██-██-████
+
+Description:
+
+4:57 PM: Dr. ███████ and two guards enter antechamber of SCP-337 containment area. No D Class personnel are present. Object has refused feeding for two consecutive weeks. SCP-337’s former handler, Dr. █████ Solomon, was killed one month prior in an unrelated incident.
+
+4:58 PM: All personnel enter inner chamber. SCP-337 is spread out in a loose pile in center of room, braiding and unbraiding three tendrils. Dr. ███████ approaches object.
+
+4:59 PM: Dr. ███████ extends a large bottle of [REDACTED]-brand “herbal” shampoo toward SCP-337. SCP-337 stops braiding and retracts tendrils into itself.
+
+5:00 PM: A thick bulb-shaped extrusion of hair emerges at a 45 degree angle from the top of SCP-337. Hair contorts and intertwines on the bulb until detail begins to emerge.
+
+5:01 PM: Dr. ███████ drops the bottle. SCP-337 has produced a crude but recognizable likeness of the late Dr. Solomon.
+
+5:01 PM: Dr. ███████ stumbles back from the object. Both guards rush to support him. SCP-337 turns to follow ███████, so that the “head” formation continues to face him.
+
+5:02 PM: The researcher appears severely distraught. “She’s gone, okay! She’s gone!”
+
+5:02 PM: Guards attempt to usher Dr. ███████ to the exit. ███████ grabs the handle portion of a guard’s flamethrower and directs it at SCP-337.
+
+5:02 PM: Nearest guard punches Dr. ███████ in the jaw. He crumples. Guards restrain the researcher and drag him to the exit. SCP-337 remains still, continuing to direct the “head” formation toward ███████.
+
+5:03 PM: All personnel exit containment chamber. The “head” retracts back into SCP-337, dissolving again into shapeless hair. After a moment, it retrieves the shampoo bottle from the floor and begins to lather itself.
+
+Note: This incident is troublesome for a number of reasons. There is no indication that Dr. ███████ was in any way “psychically” affected by SCP-337, as some have proposed. The man had recently lost a close colleague, and psychiatric analysis after the incident revealed he was much more bereaved about it than he let on. Nevertheless, his reaction to the object’s behavior seems illogically severe. It also squandered our first (and so far, only) opportunity to engage in communication with the object. We are fortunate that SCP-337 returned to its former behavior patterns not long after the incident.
+
+For now, personnel assigned to SCP-337 should undergo periodic psychological evaluation until we know more. I also recommend rotating handlers for the object on a regular basis, so that no one becomes too “attached.” –Dr. ████

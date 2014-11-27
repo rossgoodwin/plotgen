@@ -1,0 +1,121 @@
+Item #: SCP-2377
+
+Object Class: Safe
+
+Special Containment Procedures: Containment Site 2377 has been constructed around SCP-2377-1's location. Manipulation of local economic infrastructure has been implemented to reduce residential and industrial population density in the immediate area of Containment Site 2377. Following the events documented in Incident Report 2377-01, on-site personnel requirements have been adjusted to:
+
+At least twelve members of Mobile Task Force Beta-19 (“Gargoyles at the Diner”) at all times.
+
+At least two Containment Specialists with security clearance Level 3 or higher at all times.
+
+At least two Researchers with security clearance Level 2 or higher at all times.
+
+At least two Field Agents with security clearance Level 2 or higher at all times.
+
+A minimum of three personnel are to be within SCP-2377-1 at all times to witness and document SCP- 2377 scenarios. Personnel assigned to Containment Site 2377 are to undergo monthly psychiatric evaluations and may submit applications for reassignment. Exposure to SCP-2377-1 has shown no anomalous detrimental effects.
+
+Future attempts by civilians to access SCP-2377-1 are to be met with non-lethal force by MTF β-19 when possible without risking containment breach or Foundation personnel safety. Detainment of these individuals for interrogation is considered optimal resolution of such incidents but lethal force is authorized when deemed necessary. Detainees may be treated with a Class B amnestic and released after interrogation or detained off-site if ongoing investigation is deemed important.
+
+Description: SCP-2377 is an audiovisual phenomenon localized within a single house, designated SCP-2377-1, in ████████, ██. It is not yet understood how SCP-2377 manifests but research into primary memetic, esoteric, and technological theories is ongoing. The phenomenon consists of the appearance of two individuals who are intangible to those within SCP-2377-1 but are fully tangible to one another. SCP-2377 scenarios occur at irregular intervals1 but all scenarios depict cases of homicide with specific shared attributes:
+
+The perpetrator of the homicide and the victim, designated SCP-2377-a and SCP-2377-b respectively, are the only individuals to appear within SCP-2377-1 at a given time. The appearance of one or both signifies the beginning of an SCP-2377 scenario.2 Clear homicidal intent in SCP-2377-a is always present, as assessed by Foundation personnel who have witnessed a scenario. Instances of SCP-2377-a and SCP-2377-b are unique to each scenario.3
+
+Since the beginning of SCP-2377's monitoring, 95 of the 178 victims displayed in SCP-2377 scenarios have later been confirmed as deceased4 within the same time window as their associated scenario; the remaining 83 victims have not as of yet been identified but are presumed deceased. In the cases of confirmed deceased SCP-2377-b instances, ██ SCP-2377-a instances have been identified and suspected or arrested of the homicide. It is currently theorized that all SCP-2377 scenarios are happening simultaneously within SCP-2377-1 and at their origin locations.
+
+Depicted scenarios have thus far only been confirmed as occurring in similarly freestanding housing structures to that of SCP-2377-1; apartment buildings, condominiums, duplexes, and other multi-residential constructs do not seem to facilitate SCP-2377 scenarios.
+
+SCP-2377 scenarios which have been identified have all occurred within approximately 1,200 kilometers of SCP-2377-1.
+
+While SCP-2377 scenarios are visible to all within SCP-2377-1, looking into SCP-2377-1 from outside produces no result. To date, instances of SCP-2377 have not been successfully recorded by any format except human observation.
+
+To date, SCP-2377-b has been killed in every recorded scenario with no deviation. In addition, only 6 scenarios have included SCP-2377-b succeeding in killing the SCP-2377-a instance in their attempts at self-defense.
+
+Certain patterns seem apparent but not requisite of SCP-2377 instances; at least 152 of the recorded instances have been classified as home invasion or domestic disturbance scenarios, and nearly 90% of perpetrators have been identified as male. SCP-2377 scenarios where the origin location's floorplan differs significantly from that of SCP-2377-1 in size or style seem to account for the discrepancy. If either SCP-2377-a or SCP-2377-b would move to a room that SCP-2377-1 doesn't contain a direct analogue of, one or both will fade from visibility briefly before reappearing in the room of closest possible correspondence within SCP-2377-1. Audio is not interrupted during these periods although volume levels have been documented to experience shifts.
+
+Residential history of SCP-2377-1 shows no connections to any previously known GOI or POI in Foundation records. SCP-2377-1 came to the attention of Foundation personnel after reports were picked up in a monitored regional IRC chatroom frequented by nursing industry professionals. These reports described a transient individual who had been illegally residing within SCP-2377-1 making a scene at ████'█ █████ Memorial Hospital regarding three homicides he had claimed to witness. The transient individual was not remanded on scene by local authorities and has not yet been recovered; he has since been classified POI-2377-01. Procurement of SCP-2377-1 was completed on 10/14/199█ via Shinjuku Complex Properties, a Foundation front company. It is unknown when SCP-2377 first manifested or the number of instances that may have occurred before official documentation began but public record shows that SCP-2377-1 had been officially vacant for approximately three years before acquisition by the Foundation.5
+
+Due to an inability to independently verify the veracity of events that occur during each SCP-2377 scenario6, the Foundation has chosen not to disclose information regarding SCP-2377-a instances to local authorities in cases where an SCP-2377-b instance's identity has been confirmed.
+
+Addendum 06/21/200█: Comparative analysis of multiple witnesses' physical descriptions of SCP-2377-a instances has lead to the designation of POI-2377-02, an individual determined to be responsible for the homicide event in at least ██ SCP-2377 scenarios; the SCP-2377-a instances in these scenarios have uniformly not been identified.
+
++ Incident Report 2377-01 – Level 3 Security Clearance Required
+
+- Credentials approved. Access recorded.
+
+On the evening of 08/05/200█, four civilians attempted a breach of Containment Site 2377. While not sufficiently trained or armed to pose a significant threat to the lives of the MTF β-19 members dispatched to neutralize the situation, the civilians were markedly aggressive and organized in their operation. Suppression was successful; three of the four civilians, however, were able to commit suicide by means of firearm before being neutralized. The surviving intruder, identified as a W██████ M███████ and hereafter classified as POI-2377-03, was detained and sedated before being moved off-site. Interrogation was conducted at Area ██ on 08/06/200█ by Researcher █. Falconer.
+
+<Begin Log, [08/06/200█ 17:35:06]>
+
+Researcher Falconer: State your name for the record.
+
+POI-2377-03: Fuck you.
+
+Researcher Falconer: You had your wallet on you when you attempted to break into our facility. You're W██████ M███████, correct?
+
+POI-2377-03: (inaudible)
+
+Researcher Falconer: Come again?
+
+POI-2377-03: I said we weren't trying to break into your stupid fucking building.
+
+Researcher Falconer: Ah, fair point. You wanted the house.
+
+POI-2377-03: Close enough.
+
+Researcher Falconer: If it wasn't the house, then what Mr. M███████?
+
+POI-2377-03: (laughs) You wouldn't understand. And don't call me that.
+
+Researcher Falconer: What wouldn't we understand? What do you think you know about what happens in that house?
+
+POI-2377-03: (increasingly agitated) What do you know, asshole? You think what happens in there is some shadowplay, that we're here to get spooked or get our rocks off? Does it matter to you, what you see happen in there?
+
+Researcher Falconer: Of course it matters to us. Why do you think we watch -
+
+POI-2377-03: Bullshit. You watch because you don't have the slightest goddamned clue why you can see them. See him.
+
+Researcher Falconer: The man that keeps showing up? You know who he is?
+
+POI-2377-03: Not yet, but we will. We'll find him. He understands. He belongs with us. Not out there by himself, like the rest of you.
+
+Researcher Falconer: He understands what? Who do you mean by “we”?
+
+POI-2377-03: Alone is alone.
+
+Researcher Falconer: What?
+
+POI-2377-03: Fuck it. I'm done here.
+
+Researcher Falconer: Why did your compatriots kill themselves?
+
+(POI-2377-03 refuses to answer any more questions from this point forward.)
+
+<End Log, [08/06/200█ 17:39:38]>
+
+Closing Statement: POI-2377-03 has been kept in detainment at Area ██ since. Continued attempts at questioning him have so far proven useless. After a failed suicide attempt, containment procedures for POI-2377-03 are being reevaluated.
+
+Following Incident 2377-01, on-site personnel requirements have been adjusted to account for potential future attempts at containment breach by groups of equitable or slightly increased power. Designation for a currently unidentified GOI is pending review.
+
++ Scenario Report 2377-███ – Level 3 Security Clearance Required
+
+- Credentials approved. Access recorded.
+
+Addendum 11/30/200█: Routine surveillance of SCP-2377-1 on 11/28/200█ was in progress when an SCP-2377 scenario began. The SCP-2377-a instance was quickly identified as POI-2377-02 by multiple personnel who had witnessed previous scenarios. The scenario lasted sixteen hours, constituting the longest such occurrence involving POI-2377-02. Shortly before the SCP-2377-b instance's expiration, POI-2377-02 wrote the following message across SCP-2377-b's back with a black marker:
+
+ALONE IS A LOAN.
+
+Following the end of this scenario, a more intensive investigation into the backgrounds of all former residents, instances of SCP-2377-a and SCP-2377-b, the civilians who attempted to breach containment, and all familial and social connections for each of these has begun. Classification of a new Group Of Interest, hereafter GOI-19177, has been approved. All POI-2377 subjects have been designated as Presumed Involved; SCP-2377-a subjects excluding POI-2377-02 are to be designated Potential Candidates. Priority Level for GOI-19177 is classified Low at the time of this writing.
+
+Footnotes
+
+1. Recorded intervals have ranged between nine hours and fourteen days.
+
+2. Duration of SCP-2377 scenarios have ranged between three minutes and six days.
+
+3. See Addendum 06/21/200█.
+
+4. Cause of death as determined by local authorities has in almost every case been considered unnatural. While a majority have also been labeled as homicides, infrequent determinations of accident or suicide do occur.
+
+5. If initial manifestation is hypothesized to be the cause for the extended vacancy and SCP-2377 instances have not increased or decreased significantly in frequency over time, it is estimated that approximately 32 instances occurred before the Foundation took control of SCP-2377-1. This number currently cannot be substantiated but has been approved as a baseline variable for supplemental demographic computations by Foundation research personnel.
+
+6. Foundation resources have not been allocated to confirm or elaborate on the forensic analysis of crime scenes performed by those within the local jurisdiction of confirmed cases.

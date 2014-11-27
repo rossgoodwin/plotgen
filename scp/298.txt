@@ -1,0 +1,33 @@
+Item #: SCP-298
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-298 is to remain disassembled at all times when experimentation is not being performed. As per standard protocol, each piece of SCP-298 has been stamped with an individualized serial number and radio transmitter. Due to SCP-298's effect on replacement parts, requests to replace original components of SCP-298 must receive special approval.
+
+Description: SCP-298 is a chamber organ of indeterminate manufacture. It is believed to have been created sometime in the 1400s, in the then Holy Roman Empire. As per all pipe organs created before 1450, it has no stop controls. It is unknown if SCP-298 has possessed the unexplained physical effects from playing it for the duration of its existence, or if an unknown event altered it at some time in the past.
+
+When played, SCP-298 induces the blood within human subjects to slowly expel itself from the subjects' bodies while simultaneously assuming the consistency of fibrous matter such as cellulose. SCP-298 has not been observed to affect the blood of subjects standing within a semi-circular arc of thirty (30) degrees with a radius of two (2) meters behind the keyboard of the organ. While this effect is taking place, surviving subjects report being paralyzed by a tremendous physical force. The effect of SCP-298 only lasts while the organ is being played. These effects prove fatal in most cases, correlated closely with the duration that SCP-298 is played. Those affected by SCP-298 show symptoms of shock consistent with blood loss or hypertension.
+
+It has been determined that the mechanism of effect of SCP-298 is purely sonic in nature. Though in physical proximity to SCP-298 while it was being played, subjects placed within a soundproofed chamber were completely unaffected by the device. Experimentation with active noise control has not yet been able to completely neutralize the effect of SCP-298. The most advanced noise control systems have reduced the effects to limited hypertension as well as feelings of intense pain and pressure as reported by experimental subjects.
+
+High-fidelity recordings of the tones emitted by SCP-298 do not replicate the effects of SCP-298. It appears there is an additional sonic component of the SCP which has not yet been discovered which provides for the physical transformation of the blood.
+
+Examination of the physical, chemical, and elemental composition of the altered blood has yielded some data. The blood expelled from the body retains its ability to absorb oxygen. In an oxygen-deprived environment, the blood assumes a dark brown color. In a vacuum environment, the hemoglobin deoxygenates, and assumes a purple color. Upon introduction of sufficient oxygen, the color change to bright red is nearly instantaneous. These effects are entirely consistent with the chemical properties of normal blood. Further analytic chemistry has, for the most part, been able to determine that the altered blood is identical to regular blood in terms of its chemistry.
+
+In terms of physical properties, however, blood affected by SCP-298 is a completely different material. It possesses extraordinary elastic properties. Stress experiments to date have not yet reached the yield limit. None of the observed deformations of the altered blood material displayed any degree of inelasticity. It has required an extraordinary amount of force to cause the tendrils of altered blood material to break. The greatest successes in this area have been achieved by actions altering the chemical composition of the blood (i.e. such as burning). Blood affected by SCP-298 will remain at a temperature of near 38 degrees C (100 degrees F) for the duration of the phenomena.
+
+Further changes to physical properties are inconsistent and appear to be somewhat related to the specific audible tones emitted by SCP-298. The changes are not permanent — if the organ has not been played for 47 seconds, any altered blood returns to a liquid state. The appearance that the altered blood takes once it expels itself from the body has been likened to leafless trees.
+
+Placing components of SCP-298 in other organs such that they become a working piece of the other organ will cause this organ to generate effects related to SCP-298. Though not as dramatic a physical transformation, affected organs have been able to generate spontaneous bleeding in test subjects as well as increased viscosity in blood. This generally includes the player as well.
+
+Over time, some of the original components of SCP-298 have required maintenance and replacement. Replacement of individual components with suitable replications do not seem to affect the functioning of the mechanism as a whole. Though this effect is not immediately observed in the replacement parts, over time these parts acquire the ability to generate effects when played in organs otherwise unrelated to SCP-298.
+
+SCP-298 will affect blood drawn from humans before they are exposed to its effects so long as such blood is near human body temperature. As such, further research with human subjects is to be suspended. Further tests into the physical properties of the altered blood can be continued with blood harvested from volunteers.
+
+Addenda:
+
+298a: The pieces of SCP-298 are not to be destroyed. Further research into the extraphysical mechanism behind the sudden change in the physical properties of the blood of humans must be undertaken. The benefit of being able to replicate the mechanism of the transformation of the physical properties of common substances could revolutionize industry and construction.
+
+298b: No. The pending request to use the Foundation's sensitive interferometer on research with 298 has been denied. While I do not wish to denigrate the research wing of our group, I really think you guys need to glance at the bottom line of some of the things you request. 298 is just not important enough to warrant the expense.
+
+O5-██

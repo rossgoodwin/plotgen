@@ -1,0 +1,49 @@
+Item #: SCP-2313
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-2313-1 instances are to be contained in secured individual cells. Unless approved by the SCP-2313 project director for testing purposes, direct physical contact with SCP-2313-1 instances is prohibited.
+
+Transport involving an SCP-2313-1 instance requires prior approval from the SCP-2313 project director. SCP-2313-1 instances must wear a hazardous materials suit of level B or better during transport.
+
+Description: SCP-2313 is a sensory disorder that prevents stimuli from the visual and auditory systems from being properly processed by the brain. Sufferers of SCP-2313, referred to as SCP-2313-1, display the symptoms of blindness and deafness. Excluding auditory and visual stimuli, SCP-2313-1 instances appear to process all sensory perception normally.
+
+SCP-2313 differs from normal sensory processing disorders in that it may be spread to other individuals through an anomalous process. Any individual that comes into direct physical contact with an instance of SCP-2313-1 will become an additional instance of SCP-2313-1.
+
++ Additional Notes
+
+Hide Notes
+
+Subsequent to a significant reduction of SCP-2313-1 instances as a result of incident 2313-14, the following messages were found in Director C████'s voice mailbox. The entities speaking in these messages have been designated SCP-2313-3. The following audio logs are unedited and were both were received within seconds of the other.
+
+Transcript:
+
+SCP-2313-3-A: Hello there! It's *static* from the Human Resources department of *static* Company. Our records indicate you terminated several of our employees after a recent incident. So first of all I'd like to apologize for the problems our employees caused, but those were company resources so the Foundation is going to have to compensate us for them. We have a couple of simple payment plans available, you just call me back and I'll walk you through it. It's a toll free number 6-2800-55-40505.
+
+Transcript:
+
+SCP-2313-3-A: Hey! It's *static* again? Human Resources from *static* Company. I'm looking over your file and you've been delinquent for several months. So if you don't get back to me before the end of the week, I'm going to have to refer you to our collections department. Just give me a call. 6-2800-55-40505. Ask for *static*. Thanks!
+
+Following receipt of these messages, contact with SCP-2313-3 using the information provided was attempted. While several hours of audio have been recorded, no contact has been made with with any entities at the number provided in the messages. The following is a log of attempt 2.
+
+Transcript:
+
+SCP-2313-3-B: Thank you for calling *static* company. For quality assurance, this call may be monitored. *pulsed static*
+
+In addition to the symptoms associated with SCP-2313, instances receive twice monthly payments addressed to their primary residence from an unknown source. If an instance's primary residence changes, future envelopes will be addressed to the new residence. Each envelope contains 67 US Dollars and a note reading "SENSORY CONFISCATION/REASSIGNMENT COMPENSATION" along with a 7 digit number unique to each SCP-2313-1 instance.
+
+Within 6 weeks of the death of any SCP-2313-1 instance, members of an instance's immediate family will receive a payment from a similar source. The amount of these payments has varied, with the highest value seen to be 3,467 US Dollars and the lowest value seen to be 45 US Dollars.
+
+All attempts to trace the source of these payments have failed, though the sequential nature of the numbers associated with the payments indicate at least 12 SCP-2313-1 instances are unaccounted for.
+
+Incident Report 2313-125
+
++ Show Report
+
+- Hide Report
+
+Following a routine reduction of accumulated SCP-2313-1 instances, the Foundation intercepted a delivery to an SCP-2313-1 instance's widow, herself suffering from deafness since early childhood. The delivery contained a payment of 286 dollars and a box containing the following letter.
+
+Hearing is important to the well being of all sentients and you have been without it for too long. With reassignment technology the only question is: What do you think your hearing is worth? Drop this package off at your nearest postal office along with a video recording of your youngest offspring laughing. That is it. You will hear the difference.
+
+Attempts by Foundation personnel to follow the instructions contained inside the package have not resulted in any anomalous incidents. Authorization has been requested to allow the intended civilian recipient to attempt completion of the instructions and is pending approval.

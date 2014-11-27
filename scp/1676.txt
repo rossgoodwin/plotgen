@@ -1,0 +1,29 @@
+SCP-1676 at time of initial containment
+
+Item #: SCP-1676
+
+Object Class: Euclid
+
+Special Containment Procedures: SCP-1676-1 is contained in a secure vehicle bay at Humanoid Containment Site-06-3, with its keys contained in a separate secure locker except as needed for vehicle maintenance or experimentation. Regular vehicle maintenance in accordance with SCP-1676-1's manufacturer recommended maintenance schedule is to be performed by HCS-06-3 mechanics.
+
+Guard personnel assigned to SCP-1676 are to be equipped with nonlethal weapons. All instances of SCP-1676-2 are to be immediately detained and contained in separate standard humanoid containment cells in the E wing of HCS-06-3. Automated systems monitoring police databases are to be programmed to trigger alerts when any vehicle of the same make and model as SCP-1676-1 is involved in an accident, and containment staff are to be notified of these events.
+
+Description: SCP-1676-1 is a white, two-door 2001 Chevrolet S-10 Blazer LS consistent with those produced at the assembly plant in Linden, New Jersey. SCP-1676-1's components lack any identifying serial numbers or Vehicle Identification Numbers (VINs), and where the driver's-side windshield VIN plate would normally be, there is instead a sterling silver plaque with the words "Customer Loyalty Program". Records obtained from all assembly plants that produced such vehicles did not find any discrepancies able to explain SCP-1676-1's existence. When fueled, SCP-1676-1 starts and operates normally.
+
+Whenever a vehicle of identical make, model, and year to SCP-1676-1 is involved in an automotive collision in which the driver is killed as a direct result, an exact duplicate of the driver will appear in the driver's seat of SCP-1676-1 precisely 37 hours and 21 minutes later. Designated instances of SCP-1676-2, these duplicates appear to be completely indistinguishable from their original subjects, including clothing worn, items carried, stomach contents, and memories up until the exact moment of impact.
+
+SCP-1676-1 was discovered in a suburban neighborhood in [REDACTED], Michigan following the appearance of SCP-1676-2-1 on 2001-██-██. Civilian witnesses were unable to determine how or when SCP-1676-1 was located there, and all witnesses were administered a Class A amnestic and released following questioning. At time of discovery, SCP-1676-1's main odometer and trip meter both indicated 0.0 miles. The keys were in the ignition, but no evidence to suggest that it had ever been driven was found.
+
+Addendum 1676-1: Incident Log
+
+On 2003-██-██, an incident occurred in which the driver of a Blazer was critically wounded in a front-end collision in downtown [REDACTED]; an instance of SCP-1676-2 appeared precisely on schedule but the original subject did not die from his injuries until three (3) days following the accident. No other anomalies were noted, and the instance of SCP-1676-2 was contained as per standard procedures.
+
+Addendum 1676-2: Observer Note
+
+Both Dr. ███████'s proposal to terminate all contained instances of SCP-1676-2 and Dr. ████'s proposal to convert all such instances to Class D personnel have been vetoed following review by the Foundation Ethics Committee. While the cost of containment is high, the Committee will not condone the murder of innocent civilians without proof that they are a direct threat to the Foundation or its mission.
+
+That the number of new SCP-1676-2 instances being produced is dramatically slowing down as such vehicles leave common usage combined with the deaths of existing instances through natural means means that there is an end in sight and thus is good enough for the time being.
+
+Dr. █████████
+
+Senior Observer

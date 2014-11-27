@@ -1,0 +1,55 @@
+Item #: SCP-538
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-538 are to be contained within a flush-white 15 by 15 by 3 meter room with no fewer than four (4) overhead 200 watt lights. These lights are to be centered above a 1 by 2 by 0.5 meter block table stationed in the center of the containment area and shining at all times. One (1) Class D Personnel in a chemically-induced coma is to be kept medically stable upon the table, and will serve as the "feed" source for all specimens of SCP-538. No source of shade should be present in the room other than that provided by the Class D.
+
+If at any point a light in SCP-538's containment area burns out, a crew of two security personnel are to be sent in through an adjacent airlock. Personnel are to be equipped with sealed hazardous material suits complete with independent oxygen tanks and advised to move slowly and deliberately in order to avoid agitating SCP-538. They are to replace the burnt out bulb and, upon completion of their task, are to return to the airlock. Once personnel are isolated within airlock, they are to be flushed with 300 watt white light in order to assure no instances of SCP-538 are clinging to their person. Examinations of Class D Personnel providing sustenance for SCP-538 are to be done in a similar manner, however only one doctor is required for examinations. See Addendum 538-A.
+
+If at any time all four lights are to go out simultaneously, the chamber is to be sealed along with all observation ports. Until means of relighting SCP-538's chamber are available, the containment area is to remain in lock-down. If at any time personnel are bitten by SCP-538, the infected individual must be placed within SCP-538's chamber as soon as possible. Failure to do so could result in massive breach of containment and will result in termination of responsible individual.
+
+Note: Security personnel are to be periodically screened for any unusual phobias. Any personnel found to exhibit any degree of arachnophobia is to be reassigned.
+
+Description: SCP-538 appears to be animate shadows of an unknown species of spiders. SCP-538 appears to "feed" off of the shadows of other living objects, and will move to the nearest shadow cast by a living organism. To "feed", SCP-538 does no more than attach itself to the shadow of its host in such a manner that its own shadow is not obscured. Through this manner, a single specimen of SCP-538 can grow up to approximately 15 square centimeters in size. Feeding after this point appears to simply maintain this size; the whole process has so far proven to be harmless to the host. While a specimen can attach itself to an inanimate object to feed, it will slowly atrophy and decrease in size over time. Only when connected to the shadow of a living organism can SCP-538 thrive.
+
+SCP-538 has shown itself capable of going short distances through open, well lit areas, such as to reach a nearby host or to escape a source of agitation. However, it will rapidly decrease in size at a rate of nearly 2 square centimeters per second for the length of time it is not attached to a shadow. Should a specimen be stranded out in the open long enough, it will eventually decrease to nothing, at which point it can be considered deceased. Top land speed has been observed at approximately one meter per second when at maximum size. SCP-538 has shown itself to be capable of slipping through cracks greater than 3 millimeters in height; spaces less than this distance appear impassible.
+
+While generally benign, SCP-538 can and will attack its host if frightened. Frightening SCP-538 generally involves a rapid movement by its host, at which point it will "bite" the organism's shadow before attempting to flee. Bite must occur on bare skin to cause effects; clothing material consisting of cotton or anything sturdier will provide sufficient protection.
+
+Upon being bitten, an individual will go through five different stages within the space of an hour. Note that bitten individuals may attempt to hide their condition; therefore, any individual exhibiting the following symptoms must be contained immediately.
+
+Stage one: Upon agitation, SCP-538 will bite the shadow of its aggressor. Subject will report pain in relative area bitten on shadow; however, no puncture or wound will appear in this location. Subject will quickly become irritable, snapping at those around him.
+
+Stage two: 10-15 minutes after being bitten, subject will begin perspiring heavily, but may report feeling cold. Skin will become red and warm to the touch.
+
+Stage three: 25-30 minutes after being bitten, subject will become violent and aggressive, attempting to start conflict with those around him. Speech will be slurred, and motor skills may be impaired. Subject will resort to violence, often attacking those closest to him.
+
+Stage four: 40-45 minutes after being bitten, subjects skin color will turn pale and paste-colored, and their core temperature will drop between 5 and 8 degrees Celsius. Subject will be apologetic to those around him, and may cite that he was not feeling well. Subject will attempt to excuse himself and retreat to a darker area.
+
+Stage five: 55-60 minutes after being bitten, subject will [DATA EXPUNGED] resulting fluid will be completely translucent and harmless. Subject's shadow will have at this point completely disintegrated into smaller specimens of SCP-538 approximately 4 square centimeters in area, and for the lack of a better term should be considered its "offspring".
+
+There is currently no cure for being bitten by SCP-538. Death has proven to be ineffective at halting advancement of the condition, but rather skips the process directly to stage five.
+
+Addendum 538-A: As a result of Incident I538-A, no fewer than two security personnel equipped with two (2) 250 watt flashlights are to be sent in to accompany doctor examining Class D.
+
+Incident Report I538-A:
+
+> Expand Report
+
+< Collapse Report
+
+██/██/██, Site ██, Sector ██, Containment Chamber 538
+
+Doctor █████ enters Containment Chamber 538 for a routine check up of D-7821, equipped with standard-issue fully sealed hazardous materials suit.
+
+2 minutes and 23 seconds into examination, attack by the Chaos Insurgency cuts power to Sectors ██ through ██. As per protocol, chamber completely sealed and locked, trapping Doctor █████ inside with SCP-538.
+
+Power remains cut off for an additional 23 minutes until back up generators are powered up and patched into the power grid. As per protocol, power was not routed to SCP-538's Containment Cell, but rather to Sector ██, containing [REDACTED] at the time.
+
+Power subsequently routed through to the next highest level priority Containment Cells. As SCP-538 was sufficiently contained at the time, it was deemed minimum priority.
+
+No major containment breaches were reported. Attack repelled quickly and with minimum casualties. Site engineers work to restore power.
+
+18 hours after Chaos Insurgency attack, power finally reaches SCP-538 Containment Cell. A sobbing Doctor █████ is escorted from the chamber, claiming he could "feel them crawling" all over him.
+
+Doctor undergoes psychological therapy for his new-found arachnophobia. Containment protocol updated, Doctor was reassigned.

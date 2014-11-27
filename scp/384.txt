@@ -1,0 +1,55 @@
+SCP-384 as the entrance to Containment Unit-077
+
+Item #: SCP-384
+
+Object Class: Safe
+
+Special Containment Procedures: Containment Unit-077, located directly outside Site-19, houses the current manifestation of SCP-384. It is to be outfitted with standard Foundation recording devices, and must be situated such that it cannot be considered part of Site-19. SCP-384 must be the only way to enter or exit Containment Unit-077, unless an experiment requires the destruction of SCP-384, in which case the directing Level 4 researcher must approve the installation of an additional entryway in Containment Unit-077.
+
+When in use for experimentation, SCP-384 is to be observed at all times via closed circuit television. If remote observation fails for any reason, all personnel assigned to SCP-384 are to be notified, and only personnel with permission from the supervising Level 4 researcher may enter Containment Unit-077. Personnel entering during the event of an observation failure must observe SCP-384 at all times. Failure by any personnel to do so will result in a complete lockdown of Containment Unit-077 and Site-19 passageways leading to it, with normal operation to only resume at the overseeing Level 4 researcher's command. Offending personnel are to be severely reprimanded.
+
+During experimentation, only approved personnel may converse with SCP-384-1. Conversations must be broken up into one-minute intervals. Interviewers must pause conversation at the one minute mark, wait at least thirty seconds, and then resume conversation.
+
+As of 3/22/20██, all researchers experimenting with SCP-384 must be accompanied by at least two armed guards. Personnel entering Containment Unit-077 will be subject to a standard Dangerous Material Search before being allowed entrance.
+
+Description: SCP-384 is currently the access door to Containment Unit-077. SCP-384 has a variable form; any door installed in the same building as it can spontaneously take on its properties. This transfer will also occur if SCP-384 is destroyed. When recovered from a raid on a Marshall, Carter, and Dark Ltd. auction, SCP-384 had been contained in a similar manner, with it isolated in a separate building with only one available door for it to inhabit.
+
+Two conditions must be met for SCP-384's effects to begin: it must be opened by a human being and must be closed by a human being while being unobserved by any possible means of observation, cameras and other electronic devices included. If these conditions are met, liquid tar will begin to flow out from under SCP-384 and fill the room that it currently occupies at a rate of about 6.5 L/second. The tar is incapable of pooling into a depth of more than three centimeters, but will instead climb up and adhere to the walls and ceiling of the room. There will only be a cessation of tar flow when the floor, walls, and ceiling of the room have been coated. Both the source and the means of production of the tar are unknown. Besides its unusual adhesive properties, the tar has no paranormal effects and will behave completely normally once taken out of a room (hence its lack of an SCP designation).
+
+During the coating process, individuals inside the affected room can leave easily. However, once the process is complete all open doors in the affected room will close and automatically lock. Doors cannot be unlocked, even if lock-picks are used, but they can be destroyed.
+
+The second stage of effects takes place immediately after the conclusion of the first stage. Subjects who have not already escaped the affected room report the voice of a female human child, designated SCP-384-1. It is only audible within SCP-384’s room; recording devices placed directly outside the room cannot hear the voice.
+
+SCP-384-1 has been described as polite and cooperative. It claims that its name is ███████ ████, reported missing by her family in 196█. When asked about its current whereabouts, SCP-384-1 will say that it cannot see anything or hear anything besides the interrogator’s voice. SCP-384-1 apparently knows nothing of SCP-384 or its properties. An excerpt of an interview log is given below:
+
+Interview Log-384-22, 00:14:12
+
+Dr. F████: Please describe your surroundings.
+
+SCP-384-1: It’s dark, doctor. I can’t even see in front of my face. What are you seeing now?
+
+Dr. F████: My current surroundings are fine, thank you very much. Is there anything else you would like to tell me about where you are?
+
+SCP-384-1: Sorry, doctor. I don’t really know how I got here. All I know is that it’s dark and I’m hungry and I wish that I was at home. I’m sorry that I can’t tell you more.
+
+By this point, several experiments had been conducted using both the tar inside the room and SCP-384 itself. These experiments included superheating the tar, reducing the entire room to a vacuum, and destroying select portions of SCP-384.
+
+Dr. F████: Did you observe any changes in your surroundings since the beginning of my interview?
+
+SCP-384-1: No, nothing. The only thing that changed was when I heard you start talking. Please, come back soon, it’s very dark in here.
+
+Dr. F████: Thank you, that will be all.
+
+Despite the fact that any juvenile individual would express considerable distress if placed in SCP-384-1's situation, SCP-384-1 has been described as "remarkably well-adjusted" by interviewing psychologists. Dr. F████ has remarked upon the unusual level of vocabulary and maturity that SCP-384-1 possesses, and has suggested that it is possibly deceiving Foundation interviewers, though his hypotheses are but conjecture and should be regarded as such.
+
+If any individual maintains conversation with SCP-384-1 for more than one minute and forty-four seconds (1:44), SCP-384-1 will request that they walk towards SCP-384 and open it. Directions will never refer to SCP-384 as a "door" or "the exit," but instead as "the light." Furthermore, SCP-384-1 will gauge personnel’s location relative to SCP-384 by the sound of an individual’s footsteps or breathing: personnel who walk away from SCP-384 apparently sound softer to SCP-384-1.
+
+Once an individual is positioned directly in front of SCP-384, he or she will be instructed to “reach forwards.” At this point in conversation, most individuals report that SCP-384-1 has taken on a pleading tone of voice. It is impossible to conventionally open SCP-384 without otherwise damaging or destroying it, but individuals who at this point attempt to open SCP-384 are encompassed by an abrupt explosion of [DATA EXPUNGED]. No recorded alternate dimensions correspond to the location observed through SCP-384, though personnel who have been to the Los Angeles La Brea tar fields have reported similarities. Retrieval attempts have been deemed by Dr. F████ to be too risky, given that the only personnel lost so far have been D-Class. SCP-384-1 will express confusion at this event and will repeatedly ask why the light has vanished. Interviewers noted increased signs of distress after this event occurs.
+
+Twelve minutes after the commencement of the second stage, SCP-384-1 will cease talking, and all tar will drain from the room.
+
+Addendum-384A: When asked for information about Marshall, Carter, and Dark Ltd., SCP-384-1 refused to answer. This is the only recorded instance of uncooperative behavior on SCP-384-1's part. When the on-duty psychiatrist asked further, SCP-384-1 revealed that Marshall, Carter, and Dark Ltd. clients who expressed "special interests" were permitted to converse with it. SCP-384-1 has refused to elaborate. P████ C████, captured during the same raid in which SCP-384 was captured, was one such client. Psychological interviewers report high levels of sociopathic and sadistic behavior. Given the previous activities of Marshall, Carter, and Dark Ltd., Dr. F████ has assumed that all other clients expressing "special interests" are in a similar mental state as Mr. C████. Dr. F████ has discouraged researchers under his command from pursuing this line of inquiry.
+
+Incident Log-384-1: On 3/22/20██, Assistant C██████ was interviewing SCP-384-1. He was the only individual in the room. Two minutes into the interview, Assistant C██████ drew his sidearm and destroyed the recording devices in the room. Nothing said by either SCP-384-1 or Assistant C██████ at any time during the interview suggested that the latter was about to commit mutiny. Using a speaker installed inside Containment Unit-077, on-site security commanded Assistant C██████ to stand down; in response, the speaker was destroyed as well. An incident report received thirty minutes later revealed that Assistant C██████ had broken containment of SCP-███ and stolen it. Based on SCP-███’s properties, it is surmised that Assistant C██████ used SCP-███ to unlock and open SCP-384. Fifteen seconds after Assistant C██████ destroyed all surveillance devices in the room, large amounts of tar began to flow out through SCP-384 from Containment Unit-077. The pressure of the tar against SCP-384 eventually tore it off its hinges, at which point the tar flow ceased. Interviewers report no change in SCP-384-1’s behavior. SCP-███ has been successfully retrieved and re-contained, and containment of SCP-384 reestablished. Assistant C██████’s corpse has not been found. SCP-384-1 has been thoroughly tested for any possible telepathic or memetic effects, but all results have been negative. There is nothing to suggest that Assistant C██████, one of SCP-384-1’s most frequent interviewers, acted out of anything but free will. Dr. F████’s proposal to reclassify SCP-384 as Euclid has been denied.
+
+That was the best Assistant Researcher I've seen in years and this is bull[EXPLETIVE REDACTED]. -Dr. F████

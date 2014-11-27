@@ -1,0 +1,55 @@
+SCP-1721-1, -2, and -3 prior to Incident Cole-97
+
+Item #: SCP-1721
+
+Object Class: Safe
+
+Special Containment Procedures: All known instances of SCP-1721 are to be kept in a foam-lined case to prevent unsupervised motion. This case has been placed in a standard safe-class storage locker located in Site-19.
+
+All text produced during individual instance testing must be logged in the SCP-1721 transcript file, while all Cole Process outputs are to be logged in high security transcript file SCP-1721-A.
+
+Procedural Revision C97-2: In order to prevent further spontaneous declassification of sensitive material, researchers are henceforth barred from conducting any experiments on multiple instances of SCP-1721 simultaneously. All Cole Process research is suspended until further notice and under no circumstances is SCP-1721 to be united outside of containment.
+
+Description: SCP-1721 is a collection of three spinning tops recovered by Agent W███████ from a Seattle street magician in 1973. When spun on any receptive surface, SCP-1721 begins to inscribe anomalous messages in black ink. SCP-1721 has not repeated itself in two hundred and thirty-seven separate testing sessions which have produced more than three hundred thousand lines of text.
+
+All three instances (SCP-1721-1, -2, and -3) will spin indefinitely until deliberately stopped. Known instances each demonstrate their own specific style and subject matter consistent across multiple testing sessions.
+
++SCP-1721-1
+
+- Hide
+
+Since acquisition, outputs from SCP-1721-1 take the form of a novel, written in Cyrillic in the style of a 19th-Century Russian author, although the text of the work matches no known publication. SCP-1721-1 began the work shortly after recovery and to date has produced eighty-seven chapters (over four hundred thousand words) with no signs of stopping. It is unclear whether the SCP is composing the novel or transcribing a pre-existing work.
+
+The novel, entitled “The Bureaucrat’s Wife”, follows the trials and travails of Ekaterina Petrova, the young wife of a disaffected low-ranking official working in 1890's St. Petersburg. The official, Gennadi Arsenyev, frustrated with his low station and staid home life, has begun an affair with a local artist. The developing text is available through the SCP-1721 output file to any interested parties.
+
++SCP-1721-2
+
+- Hide
+
+SCP-1721-2 transcribes with remarkable accuracy the thoughts and internal monologue of one randomly selected nearby individual. Testing has demonstrated that the instance's ability has a range of about three (3) meters. If no persons are within that range when the top is placed in motion, it spins in place until an individual approaches, at which point the transcription effect resumes.
+
+Researcher U████ had high hopes for SCP-1721-2 as an advanced interrogation tool, but field testing revealed severe obstacles to SCP use. While it is simple enough to get the object to select the proper individual for transcription, the instance records all of the subject's thoughts, conscious and unconscious, in a mass of incoherent and unconnected words. The resulting large mass of uncategorized information requires extensive data sifting and has proved less efficient than more conventional interrogation methods. Nonetheless, a “translating” software is in development which would render the top's outputs comprehensible; early results reveal repeated occurrences of [REDACTED] in subjects' mental narratives, despite the fact that no subjects tested would have had opportunity to meet the individual in question.
+
++SCP-1721-3
+
+- Hide
+
+SCP-1721-3 has two output modes, both unhelpful. It alternates irregularly between providing nonsensical advice, and instructions which seem excellent but prove disastrous if followed. The advice is always pertinent to the occupation of the spinner, though the SCP identifies the occupation of all Foundation personnel as nothing more specific than "working for the Foundation." The quality of advice shifts from persuasively argued to totally incomprehensible with little observable pattern.
+
+Field Agent W███████ reports that prior to recovery, while in possession of [REDACTED], Instance 3 provided increasingly unfeasible proposals for new magic tricks. Since coming into Foundation hands, the object has produced a stream of entirely unhelpful containment procedures for Foundation-held anomalous objects both real and imaginary broken up with periods of persuasively presented but ultimately disastrous advice for various specific researchers and agents coming into contact with the instance. Attempts to use SCP-1721-3 to identify poor plans pre-emptively were unsuccessful because no means yet exists for forcing the instance to "discuss" a particular topic, preventing timely compilation of relevant steps to be avoided.
+
+Personnel are advised to disregard all of the instance's advice, no matter how reasonable it may seem.
+
+Additional Effects: When three (or possibly more) instances are spun in close proximity, SCP-1721 carries out what Dr. J█████ has labeled the “Cole Process.” During phenomenon manifestation the tops cease their previously identified behavior and coordinate in producing a wide variety of artifacts. These artifacts are not limited to text, and include technical schematics and drawn illustrations. Textual Cole outputs have included works of fiction as well as non-fictional documents such as phone bills and birth certificates belonging to [REDACTED] and other Foundation personnel.
+
+Such texts have ranged from a sketch of Dr. J█████ standing before his house, the complete genome of a previously unknown species of bird, to a list of instructions for bypassing the Secret Service and assassinating Vice-President Spiro Agnew.
+
+Existing data on the Cole Process is insufficient to identify any particular patterns in SCP-1721 outputs. In distinct contrast to the solitary function of SCP-1721-3, these instructions have proved largely accurate when followed. All Process outputs are to be considered Level 3 Restricted Access Material under the relevant RAISA guidelines. See Cole Testing Logs for further information.
+
+The mechanics of the process—how SCP-1721 selects a subject and the source of its knowledge, etc., etc., remain unknown and Dr. J█████ recommends further testing of this behavior.
+
+Addendum:
+
+Incident Cole-089: SCP-1721 produced what purported to be transcripts of sexually-explicit telephone calls between Junior Researcher U█████ the wife of Site Supervisor K████████ during a testing session overseen by both individuals. During the resulting altercation, testing was disrupted and several SCP outputs were damaged. Research staff are advised that SCP-1721 outputs may be emotionally sensitive but that this does not justify unprofessional behavior during testing.
+
+Incident Cole-097: SCP-1721 began work on a lengthy publication entitled “On the Breach of Containment” which explored in great detail various [DATA EXPUNGED] and the means of disrupting them, particularly those concerning SCP-███. Dr. J█████ declared an emergency halt in testing and destroyed the ██████-█████ (██) pages of already-completed material. Henceforth the Cole Process is to be regarded as an unacceptable threat to site security and all such testing has been suspended. Please refer to Procedural Revision C97-2 for updated containment procedures.

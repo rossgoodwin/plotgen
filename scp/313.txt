@@ -1,0 +1,19 @@
+SCP-313 in its armed state at [REDACTED]
+
+Item#: SCP-313
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-313 is to be kept unmounted and disconnected when not being tested. Access is strictly prohibited except with special permission from a level 4 official. Under no circumstances are personnel to press the button, save for officially sanctioned testing under rigidly controlled conditions. Please see Addendum 313-a.
+
+Description: SCP-313 is identical in appearance and marking to a World Dryer Corp Model A electric hand dryer. The object measures 25 cm x 24 cm x 21 cm. Its casing is painted white steel, with a polished stainless steel nozzle and button. Internal workings are consistent with Model A specifications. However, despite this veneer of normalcy, SCP-313 has two significantly anomalous qualities – first and foremost, it is utterly indestructible and impervious to all forces available to us, and secondly, it is extraordinarily destructive, apparently by design. Destruction test logs are available on request to those with level 2 or higher security clearance.
+
+The second anomalous property should be considered ‘armed’ when SCP-313 is mounted on a wall and connected to a dedicated 20 A power source. Under these conditions, each push of the button represents a 1.5% chance that this property will activate. When this occurs, SCP-313 will begin to emit a stream of superheated plasma, which originates somewhere within the object and exits from the nozzle in a direction perpendicular to the surface on which the object is mounted. The stream’s force and temperature increase exponentially until the object tears loose from its mounting and/or propels itself through the mounted surface. Temperatures of over 25,000 K and forces as great as 650 kN have been recorded, although thrust of this magnitude would never occur under normal circumstances.
+
+The flow of plasma will continue for up to thirty seconds after the object has torn free (i.e., the normal duration of airflow for a standard Model A), generally enough to propel the object an enormous distance if there is nothing in the way, or cause it to ricochet at high speed inside any structure in which the object is confined, potentially demolishing the structure. This destruction is compounded by the effects of extremely high temperatures.
+
+Both the civilian casualties and property damage attributable to SCP-313 are staggering. It has caused a number of fires and other disasters over the years, generally in a predictable pattern of being sold and installed, blasting halfway across the country, and being found and resold. The object passed into Foundation hands when it impacted near Site-05, having been mistaken for a meteorite.
+
+Addendum 313-a: Some of the lower-level personnel have been pestering me about our safety procedures when using SCP-313. For those of you who have forgotten high school physics: 25,000 K is over four times hotter than the surface of the sun, and 650 kN is roughly enough force to lift an M1 Abrams main battle tank. Now imagine that much force behind this object, which weighs less than 10 kg (remember, F = ma) and is indestructible.
+
+– Dr. Sundstrom, Supervisor 3-401, Site-19

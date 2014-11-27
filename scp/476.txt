@@ -1,0 +1,19 @@
+Item #: SCP-476
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-476 is to be kept in a standard precious item locker. During experiments, a level-2 clearance personnel must be present at all time to avoid the item being used to escape. A list of locations that are to be monitored on a regular basis is found in document 476-██.
+
+Description: SCP-476 is a 60-pages Rand McNally Canada Road Atlas published in 2006 (ISBN 0-88640-███-█) by the Canadian Cartographics Corporation. Upon closer examination, it is revealed to contain a large number of anomalies such as locations that do not exist, missing locations, and misplaced or misnamed ones. Indices and distance chart are consistent with the anomalous maps. A tentative list of anomalies can be found in document SCP-476a
+
+Using the map, it is possible to reach every single one of the locations. If an attempt is made to continue toward a location without regularly consulting the map, the users will miss the nonexistent location and be returned to "normal" geography. People inhabiting the locations (if any) appear totally oblivious to the absence of them on normal maps, including those on sale in the locations themselves, dismissing them as "not up-to-date". They always seem eager to convince newcomers to settle there.
+
+Tracking and GPS devices systematically fail during use of SCP-476, as do most communication methods other than landlines and regular mail. Landlines are, however, untraceable, and although mail sent from nonexistent locations has been known to reach its intended destination, marks on items clearly usually show that they never go through Canada Post systems at any time. People actively following a SCP-476 user will be affected normally, but other third parties will simply report having lost sight of the user at some point, which will systematically happen should direct eye contact to users be lost. The SCP's powers appear specifically connected to the physical representation that the atlas constitute: copies and electronic duplication of the data fail to display any unusual properties.
+
+It is possible to use SCP-476 with any means of transportation, and aerial pictures of anomalous locations have been produced.
+
+Incident report 476-08d: On ██/██/19██, during a flyover of the nonexistent "Gander-Glenwood International Airport" (YGG/CYGG; SCP-476 does not display Gander International Airport), a plane on the runway was noticed. Examination of the plane's serial numbers revealed it to be an Air Malta plane (tail number OB-1███) that disappeared en route over the Atlantic Ocean on █████████ ██, 1990. None of the passengers or their personal items could be located, and the airport was, as every time it had been explored beforehand, apparently abandoned.
+
+Addendum 03: Dr. ██████████ has discovered SCP-354 marked on the atlas in small red text. The label is made of Cyrillic characters, and translates into gibberish. Several roads converge on the location of SCP-354, all of which are nonexistent in "normal" geography.
+
+Addendum 04: Request to use SCP-476 to establish additional secret facilities has been denied. Too risky that locations might become unreachable. Plus it is not possible to communicate with such facilities. O5-█

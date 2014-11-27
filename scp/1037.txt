@@ -1,0 +1,23 @@
+File photo of SCP-1037.
+
+Item #: SCP-1037
+
+Object class: Euclid
+
+Special Containment Procedures: SCP-1037 is to be stored in a standard 5m x 5m x 5m containment chamber lined with a thick (~5cm) layer of non-synthetic rubber. It must be suspended away from all solid surfaces by means of electromagnets. Research may only be done in SCP-1037's chamber, and only under constant surveillance.
+
+Any additional instances of SCP-1037 discovered must be disposed of immediately (slagging followed by alloy separation via ██████ process). All additional instances are to be brought back to Site-██ for research and containment (See Addendum 1).
+
+Description: SCP-1037 appears as a SAE Grade No. 5 steel bolt, such as used in many buildings with a steel or concrete frame. It is made from a medium-strength steel alloy, consisting of 97.5% iron, 1.2% tungsten, and 1.3% unknown substance.
+
+Its effect is not readily apparent, and may not be apparent until several years after installation; in a laboratory environment, it may only be detected with scanning-electron microscopes. SCP-1037 vibrates at a nanoscopic level, in a complex but structured set of frequencies ranging from ████ hertz to ███ hertz. These vibrations crystallize all surrounding non-biological1 material into a visually identical but highly brittle version of itself. This effect spreads at an approximate rate of █ meters per year (variable; see Addendum 1). The resulting crystal (SCP-1037-1) exhibits piezoelectric properties comparable to quartz, enabling it to carry SCP-1037's vibrations to indefinite distances. A single instance of SCP-1037 is able to "convert" a building of any size to SCP-1037-1 given enough time. The possibility of SCP-1037-1's transmission through sewer pipes is not to be discounted; repeated reports of pipes bursting under nominal pressure conditions must be thoroughly investigated. If possible, the conversion of an entire city the size of ████████ to SCP-1037-1 is estimated to take ██ years.
+
+SCP-1037 was found to be the only item unaffected by crystallization in a section of [DATA EXPUNGED] rubble, on ██/██/2001. The nearby [DATA EXPUNGED] also contained a destroyed instance of SCP-1037. Analysis showed that both objects were installed sometime in 199█, limiting the exposure radius to approximately █ meters; nevertheless, it was enough to weaken the concrete for [DATA EXPUNGED].
+
+Addendum 1: Careful analysis and observation of SCP-1037's vibrations reveal that crystallization occurs at a random and inconsistent speed, with a maximum variation of ██ centimeters per year. It is thought that the unknown substance found in the alloy does not directly cause the vibrations, but reproduces them by resonating to a theorized ██████ field, difficult to detect with current technology2. Attempts to triangulate the source of the field using a single SCP-1037 failed as the source appears to be highly mobile. Any additional instances of SCP-1037 must be brought to Site-██ and then moved to controlled locations around the world (see document 1037-516-WK for a list of possible locations) to allow precise triangulation.
+
+Footnotes
+
+1. Materials such as wood and bone appear to be immune. Vulnerability to SCP-1037 seems to depend on the target matter being homogenous at a microscopic level, and to have a certain degree of hardness. However, this effect has not yet been studied conclusively, and so SCP-1037 is to have no physical contact with any solid matter while in containment for a period longer than █ hours.
+
+2. Detection requires the construction of multiple underground bubble chambers, each of a 3km radius.

@@ -1,0 +1,35 @@
+Illustration of SCP-371 physiology
+
+Item #: SCP-371
+
+Object Class: Euclid
+
+Special Containment Procedures: All specimens of SCP-371 are to be contained in ocean-water tanks, filled with at least seven hundred fifty (750) liters of water (approx. 200 gallon) per specimen at between 2 and 5 degrees Celsius. Walls may be constructed of any waterproof metal or plate glass, and at least two inches thick. Once every thirty (30) days, a live animal weighing between 25 and 45 kilograms (preferably oceanic fish, although in emergencies, any terrestrial vertebrate including humans with the head kept suspended above water will suffice) is to be deposited in the containment unit. Following the completion of the lytic cycle after ten days, several SCP-371 specimens may be maintained, and all extra are to be strained out of the excurrent water, dried, and incinerated.
+
+Any personnel entering SCP-371's containment chamber intentionally must be equipped with SCUBA gear, commercially available “shark-proof” diving armor, thick faceplates, and kevlar helmets. If these measures fail or are breached for any reason, the animal supply for that month may be skipped.
+
+There are currently 15 SCP-371 specimens in containment.
+
+Description: SCP-371 is a macroscopic marine virus, similar in appearance to a bacteriophage. SCP-371 specimens range in size from between 20 centimeters to 2.5 meters, are somewhat transparent, and can be mistaken for jellyfish in water.
+
+SCP-371's physiology and behavior appear similar to ordinary microscopic viruses, although with several adaptions that make it a notable marine predator: the contractile tail fibers, shown in Image A, are composed of stiffened proteins and are adapted for locomotion (swimming, grasping, walking on the ocean floor); a sharpened and hardened beak-like base plate, rendering the virus capable of injecting genetic material through the dermal skin of multicellular prey; and presumably unknown sensory organs (SCP-371 cannot see or hear, but appears to hunt by sensing heat, vibrations, and pressure/salinity gradients). Most notable is SCP-371's encoding mechanism, which does not use the direct injection of DNA or RNA, but rather numerous microscopic DNA-encoding packets, which enter host cells and use them to respawn the macroscopic organism inside the host.
+
+Stages of SCP-371 Infection
+
+0 Hours, Infection: SCP-371 pierces host's skin and injects genetic material into the host, usually into the cranial or abdominal cavity, causing significant pain.
+
+8 Hours, Transcription (“Bonding”): SCP-371 genetic “packets” begin normal transcription/translation process, bonding with host RNA.
+
+95 Hours, Synthesis (“Spawning”): As host cells replicate, they begin to encode extracellular proteins in the abdominal cavity, which form new SCP-371 specimens over time (between 10 and 100, depending on host size; specimen size also changes with host size).
+
+240 Hours, Lysis (“Bursting”): Once specimens have reached 20 centimeters in size, they exit the host body in a modified bursting pattern, causing severe trauma to the host and often resulting in serious bleeding, internal injuries, and death. SCP-371 lyses only in water, and for terrestrial prey will postpone this stage until the host enters water again.
+
+Possible image of SCP-371 from Guayamas Basin Trench exploratory footage. Contractile tail fibers not visible in this shot.
+
+For the rest of its life cycle, SCP-371 hunts and apparently filters salts and sediments from ocean water in order to grow up to 2.5 meters in size. The virus' average life cycle is 60 days, although the oldest contained specimen is currently 109 days old.
+
+Addendum 371-A
+
+The initial SCP-371 specimens were found in the ████████████ area of the Caribbean Sea, following the death of ████████ ███████, who was attacked when diving with a partner, who managed to capture film of three SCP-371 specimens clinging onto him (two on the head, one on the chest). The specimens lysed ten days later when Mr. ███████ was taking a bath.
+
+Foundation-prepared explorational vehicles discovered and contained the initial specimens. Recently, a civilian research expedition to the Guayamas Basin trench brought up footage of more specimens, and it is theorized that SCP-371 is native to Hadal areas of the ocean floor, including vent areas, surfacing when prey becomes scarce.

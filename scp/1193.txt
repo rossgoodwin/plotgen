@@ -1,0 +1,113 @@
+Item #: SCP-1193
+
+Object Class: Safe
+
+Special Containment Procedures: The borehole containing SCP-1193-01 is to be capped with a tungsten steel grate containing a locking 2.5cm endoscopy aperture. At 48-hour intervals, the borehole is to be endoscopically inspected to a depth of 4km for further manifestations of SCP-1193-01. Seismographic monitoring devices are posted at 2, 7, and 11 kilometer depths alongside the SCP-1193-01 borehole. Seismic readings consistent with subterranean movement are to be reported immediately to Site Director Iqbal. In the event of subterranean containment breach, containment staff are to execute Protocol 473a, severing SCP-1193-01 below the fifth elbow and backfilling remaining portions of the borehole with pressurized concrete.
+
+The basement containing SCP-1193 is to be monitored at all times by a Foundation interrogator. SCP-1193-02 is to be answered on or before the third ring; interrogator should attempt to elicit self-directed responses from SCP-1193-01. Responses which implicate size, body plan, location, or further manifestations are to be recorded in Document SCP-1193-2-LTR.
+
+Description: SCP-1193-01 is a genetically normal human arm of unusual length, located in a drainage pipe inside the basement of a telephone switching station in Scottsdale, Arizona. Ten centimeters below the drainage grate, the arm terminates in an unremarkable human hand of indeterminate gender. Upon initial examination, the arm was believed to extend through the drainage pipe to a depth of 35 meters. Subsequent endoscopic investigation demonstrated that the arm extends to at least a depth of 71 kilometers, passing without apparent difficulty through the Mohorovičić discontinuity and the upper mantle, with regularly spaced elbows every four kilometers. Elbows below a depth of 26 kilometers are slightly retroflexed to accommodate a nine-degree southward bend in the drainage borehole. Continued endoscopic investigation into the SCP-1193-01 borehole is suspended due to presently-intractable engineering constraints.
+
+Communications via SCP-1193-02, mostly concerning SCP-1193-01's oven and refrigerator, indicate that SCP-1193-01 may lack conventional thermoreception, and that it is experiencing no substantial discomfort despite borehole temperatures in excess of 674 degrees Centigrade.
+
+SCP-1193-02 is a GPO 746 telephone, topaz yellow, manufactured in 1971. Its dimensions preclude it having been delivered to the site via the borehole; containment team's present working theory is that it was installed topside for the purpose of communicating with SCP-1193-01. Installation was conducted by unknown parties, by unknown means, for unknown purposes. The rotary dial has been glued into place, rendering it unsuitable for outgoing phone calls. It is attached to a conventional twisted-pair line which enters the drainage pipe containing SCP-1193-01 and descends parallel to SCP-1193-01 until endoscopy is no longer practicable.
+
+At between 0838 and 1034 hours Mountain Standard Time each weekday, the phone will ring five times. If answered, an unidentified voice will willingly engage in conversation with SCP personnel. The voice on the other end of the line invariably claims to be a human being, and regularly mistakes the individual on the other end of the phone for an authority figure. Interrogation to date has therefore been relatively uncomplicated. Notable parallels exist between information elicited via SCP-1193-02 and demonstrable facts about SCP-1193-01. To date, anomalous information received via SCP-1193-02 has included:
+
+References to human features, but an anomalous body plan.
+
+References to insensitivity to heat or cold.
+
+References to 'a cousin' or other relative, who will soon arrive to 'pick [him] up.'
+
+References to discomfort and boredom at confinement.
+
+References to minor seismic events along the Little Chino fault complex.
+
+References to discomfort at having a limb or other body part restrained, as by handcuffs, a jelly jar, a pipe, a cast, or in one instance, a gopher hole.
+
+At present, data related to SCP-1193-01's size, physical form, and body plan beyond the parts visible through endoscopic investigation should be regarded as provisional. For contingent protocols and physiological testing data, consult Document RTMR-Delta.
+
+Transcript SCP-1193-2-LTR-7:
+
+<Begin Recording, 03/23/2008, 9:48 AM>
+
+Dr. Iqbal: Good morning. And who may I ask is calling?
+
+SCP-1193-01: David.
+
+Dr. Iqbal: And where are you now, David?
+
+SCP-1193-01: [Inaudible.] Sorry — who is this?
+
+Dr. Iqbal: Dr. Hassan Iqbal, director of research.
+
+SCP-1193-01: Oh. From the hospital?
+
+Dr. Iqbal: [Pause] That's right.
+
+SCP-1193-01: So, when does the cast come off?
+
+Dr. Iqbal: I'm sorry?
+
+SCP-1193-01: The cast. On my bottom arm. When does it come off?
+
+Dr. Iqbal: I'm to understand you've got… a cast… on your bottom arm? I don't understand. Which arm is that?
+
+SCP-1193-01: The bottom one. Can you take it off? I've already been in the hospital for three months. Seems like it should be about time.
+
+Dr. Iqbal: You say you're in a hospital now?
+
+SCP-1193-01: You should know. You're the one who put me there.
+
+Dr. Iqbal: I think you must have me mistaken for someone else.
+
+SCP-1193-01: Look, if you can't help me, put someone who knows what he's talking about on the line.
+
+Dr. Iqbal: I'm afraid I'm the only one here.
+
+SCP-1193-01: Fine. Just tell me when someone competent gets to the phone.
+
+CALL TERMINATED
+
+<end recording>
+
+Transcript SCP-1193-2-LTR-8:
+
+<Begin Recording, 03/24/2009, 9:52 AM>
+
+SCP-1193-01: God damn it. God damn it. God damn it.
+
+Dr. Iqbal: Hello?
+
+SCP-1193-01: Hello? Can you hear me?
+
+Dr. Iqbal: Who is this? Where are you?
+
+SCP-1193-01: [Inaudible.] For Christ's sake, I'm stuck in the stove here, man. Get the fire department.
+
+Dr. Iqbal: The stove? Are you … I'm sorry, the stove?
+
+SCP-1193-01: Yeah, the stove. I went in here to get out some cakes, and I can't get back out.
+
+Dr. Iqbal: You … went in the stove … to get out some cakes? Am I hearing you correctly?
+
+SCP-1193-01: It's a tight fit here. Jesus.
+
+Dr. Iqbal: Are you … is the temperature uncomfortable?
+
+SCP-1193-01: The what?
+
+Dr. Iqbal: Temperature. Are you in pain?
+
+SCP-1193-01: I have no idea what you're talking about. Can you call the goddamn fire department? My back. Jesus Christ, my back.
+
+Dr. Iqbal: I'm the only person here.
+
+SCP-1193-01: I can't take it anymore. Fuck. I'm sorry. I'm calling my cousin now.
+
+SCP-1193-01: I'm so sorry. This isn't my fault.
+
+CALL TERMINATED
+
+<end recording>

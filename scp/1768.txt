@@ -1,0 +1,39 @@
+SCP-1768-A before removal.
+
+Item #: SCP-1768
+
+Object Class: Euclid
+
+Special Containment Procedures: All instances of SCP-1768 are to be quarantined and removed immediately. All instances are to be stored in a chamber of reinforced concrete with a minimum of 5 meters of space between the instance and the surface of the chamber. Instances shall be suspended above the surface of the chamber by rope insulated steel cable temperature-treated up to 1500° C. All personnel attempting to enter a room containing an instance of SCP-1768 are advised to verify safe containment through preliminary entrance of a member of Class-D personnel. Handling of instances should be done only through clothing and equipment with similar heat-resistant and non-conductive properties.
+
+Description: SCP-1768 is a phenomenon which affects floors and other walking surfaces. So far, five instances of SCP-1768 have been contained, referred to as SCP-1768-A through E.
+
+All instances of SCP-1768 appear to follow their own set of rules, which appear to be consistent with various informal games that have proliferated throughout human society. Failure to follow these rules results in a penalty delivered by the instance in question, ranging from minor injury to severe maiming and death.
+
+Upon removal from their original locations, any piece of an instance of SCP-1768 that is left in contact with a floor or walking surface will grow to replace the aforementioned surface. No instance will expand larger than the current room or walking surface it is in; the mechanism that SCP-1768 uses to determine these boundaries is unknown. SCP-1768 will propagate continuously when dropped onto organic surfaces such as lawn; one such containment breach resulted in the contamination of ██ square kilometers.
+
+* SCP-1768-A: A group of four blocks of 1 by 1.75 meter concrete sidewalk, covered in a large number of cracks. If an individual steps on one of the cracks, their biological mother will experience a spinal fracture by undetermined means. Discovered after an unusual number of reported female spinal injuries in █████████, Michigan, Foundation agents removed and contained the slabs under the guise of scheduled construction and administered Class-C amnestics to all victims.
+
+* SCP-1768-B: Sections of flooring that originally covered a 10 by 10 meter bathroom, consisting of 10 by 10 centimeter white tiles sealed with blue-hued mortar. Any person that steps on one of the mortar lines receives a mild electric shock, conducted through anything that may be in contact with that person. Discovered after a large volume of complaints were logged at ████ █ ███████ Airport which resulted in seventeen mild burns and one case of [DATA REDACTED]. Flooring was completely replaced under the premise of an electrical short in the floor heating and SCP-1768-B was contained.
+
+* SCP-1768-C: A section of carpet that covered a residential living room, approximately 10 by 6 meters in size. Carpet appears normal, but upon contact with humans displays properties consistent with that of basalt lava. Properties do not affect non-human lifeforms or inanimate objects unless in contact with humans. Was discovered in a residential home in Ohio, after a birthday party revealed the existence of the instance. Class-A amnestics were administered to the residents, who were relocated as necessary, and the carpet was contained.
+
+NOTE: After Incident 1768-C-1, all Foundation personnel handling instances of SCP-1768 are to refrain from direct contact with the instance, or contact through materials incapable of withstanding the instances' hazardous properties. SCP-1768-C has demonstrated the capability of transferring its properties to other objects when those objects are in contact with humans; as such we cannot rule out the possibility that other instances possess or may develop such an ability.
+
+* SCP-1768-D: A 10 by 200 meter section of linoleum hallway, comprised of alternating black and white squares, each 20 by 20 centimeters. The reaction of this instance depends on the stepper's perception of which color should be avoided. If the person steps on a tile of that color, all tiles of that color will rise from the floor at a speed of about 110km/h, rising all the way to the ceiling of whatever room they are in, before withdrawing at a speed of about 230km/h. It is unclear where the extra material composing the risen tiles originates. Injuries are generally dependent upon the material of the ceiling. Instance was discovered in █ ████ after severe injuries were simultaneously inflicted on several travelers. A lockdown of the airport was initiated, allowing Foundation personnel time to reach the scene. Class-B amnestics were administered to all witnesses and the story was covered by the media as the testing of a new anti-terrorist system. The hallway was replaced and contained without further incident.
+
+"I fear that these things are getting more aggressive. This one displays sensitivity to thought, and that's the second time one's shown up in an airport. Are they congregating towards high-traffic areas? Considering requesting upgrade to Keter if trend continues." -Dr. ████
+
+* SCP-1768-E: A ██ by ███ area of asphalt. Instance is triggered upon recitation of certain nursery rhyme, [DATA REDACTED]. Recitation will result in the release of relevant contamination by [DATA REDACTED] in proportion to the number of participants. Instance was discovered after it was triggered at ███████ Elementary School, which resulted in [DATA REDACTED]. Foundations personnel quarantined the surrounding populated area, administering Class-A amnestics and initiating proper decontamination procedures. Instance was contained without further incident.
+
+"Now it's using children. Each successive instance seems to be becoming more dangerous. Requesting upgrade to Keter status." -Dr. █████
+
+"Request denied. While dangerous, no instance has presented significant or unusual difficulty in containing it." -O5-█
+
++ Incident 1768-C-1
+
+- Collapse
+
+Incident 1768-C-1: Agents █████ and ███████ were engaging in routine inspection of SCP-1768-C when Agent █████ tripped. The agent grabbed one of the restraining ropes to steady himself. As the rope was now in contact with both the instance and a human, the properties of the instance were passed on to the rope, instantly igniting it. Agent █████ suffered severe third-degree burns to his arm. The rope then snapped, allowing the instance to enter into contact with the ground. In the ensuing emergency response, SCP-1768-C was able to contaminate the flooring of its chamber, which necessitated the complete replacement of the chamber's floor. All ropes have been replaced with insulated steel cable, and specialized protective equipment is now mandatory for handling of all instances of SCP-1768.
+
+"This one may be relatively low-maintenance as far as containment goes, but caution must be exercised. One containment breach by the wrong individual or group and we'll all be playing hopscotch for the rest of our lives." -O5-█

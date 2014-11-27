@@ -1,0 +1,71 @@
+SCP-714 shortly after retrieval.
+
+Item #: SCP-714
+
+Object Class: Safe
+
+Special Containment Procedures: SCP-714 is to be stored in a reinforced, high-security locker that is to be accessible only to Level 4+ personnel, due to several incidents of misuse.
+
+Description: Seemingly nothing more than a green jade ring, SCP-714 has been shown to be able to expand and contract to perfectly fit the finger of anyone who touches it, though this is the least important of its properties. SCP-714 only changes size when touched by a 'new' subject.
+
+SCP-714 has several major effects, detailed as follows;
+
+1) Exhaustion, Compulsion to Rest/Sleep
+
+Within minutes of putting on SCP-714, wearers report feeling worn out - physically and mentally exhausted. Due to this, they will feel driven to "sit down and rest for a bit" on the nearest available furniture, and will likely fall asleep within the space of a few hours. If someone falls asleep wearing SCP-714, the only known means of waking them is to remove SCP-714, at which point they may be roused by anything that would normally wake them up. Exhaustion effects pass within two or three hours of removing SCP-714 if removed from a conscious subject; those that fall asleep wearing SCP-714 report feeling well-rested if SCP-714 is removed, even if they slept for only a few minutes.
+
+SCP-714 extends no 'considerations' towards the needs of its wearer during their forced sleep, though most bodily functions such as breathing continue. If SCP-714 is not removed and the wearer woken up, most will die of dehydration or starvation within a matter of days. SCP-714's impact (if any) on aging remains untested.
+
+Wearers that are tired prior to putting SCP-714 are at serious risk of falling asleep on their feet, possibly falling over in the process. If no furniture or furniture-like object is available nearby, wearers either stand on the spot they donned SCP-714 or attempt to fashion a resting place out of any suitable materials (cushions, blankets, etc.) available.
+
+The drive to sleep can be resisted, but requires formidable willpower and self-control on the part of the wearer. Even so, the following effect makes it impractical for field use.
+
+2) Slowed Reactions, Sluggish Movement
+
+Subjects suffer from severely impaired reaction times; a normally sharp, alert and physically fit subject can have a hard time catching a slow-moving object thrown to them, even if warned and given ample time to prepare. Anyone wearing SCP-714 should not be allowed to operate any heavy machinery or other vehicles under any circumstances.
+
+Wearers of SCP-714 move much slower than normal, managing an average walking pace at best. Their movements are not physically slower, but they are incapable of exerting themselves.
+
+3) Reduced Mental Capacity
+
+Seemingly as part of the mental fatigue, anyone wearing SCP-714 claims that they 'think slowly', or may even have trouble finding the words to adequately communicate that they cannot think as clearly as normal. The wearer may take a long time to think of an answer to a trivial question (eg; "What colour is this red ball?"), never mind one that is vague or requires a more complicated response.
+
+With removal of SCP-714, mental capacity is restored to normal within a few minutes.
+
+4) Mental 'Shield'
+
+As a dubious "benefit" of seemingly reduced mental capacity, wearers of SCP-714 show abnormally high resilience to memetic and mental influences, particularly commands or immediate effects. Weaker memetic influences may be totally nullified by this. In both cases, the wearer feels a strong and instinctive fear of the source of the influence; this fear drives them to immediately seek 'shelter' by any means available, potentially by attempting to destroy the source. This 'shielding' lasts only for as long as SCP-714 is worn.
+
+They are still at significant risk if exposed to any memetic influences that do not take immediate effect. Exposure to such influences should be handled as normal for the source in question, as the degree of 'protection' afforded by SCP-714 has yet to be fully documented.
+
+In addition, 'normal' images and sounds that would cause revulsion, nausea, etc. simply due to shocking or disturbing content have next to no effect on the wearer of SCP-714. The wearer will not even recall seeing them once SCP-714 is removed. Mundane persuasion (such as motivational speeches) has no effect, regardless of the speaker's skill and charisma.
+
+5) Chemical Tolerance
+
+Just as their minds block memetic influences, the bodies of SCP-714 wearers slows and nullifies the effects of various chemicals on the body. Fully poisonous or toxic substances are generally not hindered, but those that specifically impede or enhance neural and/or nervous functions in some way (such as stimulants or sedatives) have very diminished effects. With the removal of SCP-714, this nullification effect expires instantly. Wearers may still suffer from standard overdose effects whilst wearing SCP-714.
+
+The manner (or manners) in which SCP-714 causes its various effects has yet to be discovered, and no unusual emissions of any kind have been detected despite extensive monitoring. If SCP-714 is significantly damaged in any way, such as being broken into two or more pieces, its effects will cease immediately. If the pieces of SCP-714 are then placed within close proximity, they will gradually reform back into a whole copy of SCP-714, flowing as if made of liquid. Once SCP-714 is fully reformed, its functions return as if it was never damaged. Grinding SCP-714 down to a fine powder did nothing to impede its "self-repair" behaviour either, though the process did take considerably longer. Though the exact nature of this self-repair behaviour has not been determined as of this time, it is thought SCP-714 could theoretically recover from complete vaporization, however due to SCP-714's low threat level this has been deemed an unnecessary use of resources. Footage sequences of SCP-714 reforming from various states of disrepair are available upon request from Dr. █████ or other appropriate sources.
+
+Attempts to track the history and ownership of SCP-714 have proven futile due to the nature of its recovery; Agent ████████ reported feeling abnormally drowsy even after several mugs of strong coffee, and was found to be wearing SCP-714 with no memory of having come into possession of it. Agent ████████ has been reprimanded as appropriate, and measures have been taken to ensure SCP-714 stays in its locker at all times.
+
+The draining effects and compulsion to rest make use of SCP-714 as a protective measure against certain SCPs highly impractical. At this time SCP-714 is not believed to have any other serious effects, beyond the danger of dehydration and starvation of personnel who fall asleep wearing SCP-714 as a result of being unable to rouse themselves for sustenance.
+
+—
+
+Experimentation Notes: Text Transcripts of Audio Logs, Compiled by Dr. █████
+
+Entry of 01-05-20██
+
+"So far all attempts to find the cause of SCP-714's effects have proven fruitless. I don't think I need to emphasise how useful this could be if we could pull it off without the negative effects, but so far everything we've tried has come up with blanks, hence SCP-714's ongoing Safe/Euclid classification. We know what it does but not how it does it. As much as I want to say it's 100% safe, there's something about it that's not quite right about it."
+
+Entry of 12-05-20██
+
+"Still making very little headway. Trying to acquire a date on SCP-714 has given us mixed results. Parts of it date back as far as very early AD, circa 100 to 200, and are probably from China. Other samples are, relatively speaking, more recent… like it's been made out of multiple pieces, though it is without question a single, structurally flawless jade ring. On the plus side we've had some luck finding out who owned it before, thanks to a string of reports of jade statuettes going missing when a ring matching SCP-714's description was in close proximity to them. What a coincidence, mm?"
+
+"Perhaps SCP-714's curious regenerative and size-changing capabilities stem from, for lack of a better term, 'assimilating' other pieces of jade? Analysis has shown that SCP-714 is much higher density than average jade, but is apparently no heavier. Could be some form of extradimensional storage, as weird as that sounds? Sure is one way of carrying the weight of the world on your shoulders, heh."
+
+Entry of 27-05-20██
+
+"Okay, so a bit more luck on the tracking front. It was originally found in the late 1800s — that is, around the 1870s to 1880s — by an archaeologist who traveled around the world, seeking jade artifacts, such as statuettes and figurines that might be found in tombs or forgotten temples. He was hunting a tomb said to be rich in them… of course, he eventually found and entered it, finding only SCP-714 in terms of jade artifacts. Puzzling. Very few historical documents describe anything that matches SCP-714, so it's hard to say how old it really is. Vexing."
+
+"The archaeologist's personal diaries have not survived the ages well unfortunately, and his handwriting leaves much to be desired, so it is difficult to tell whether or not he wore SCP-714 and documented the effects of it whilst it was in his possession, or whether he never considered wearing it. What I can make out is that he quickly disposed of the ring after a number of his collection pieces went 'missing' after spending the night in proximity to the ring, with no signs of break-in or theft…"
