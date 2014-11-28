@@ -21,6 +21,7 @@ from surnames import *
 # [ ] subtrope / sub-trope
 # [ ] add yelp reviews
 # [ ] add livejournal
+# [ ] add SCP
 
 
 script, outputFileName, inputCharName = argv
