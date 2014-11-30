@@ -1,3 +1,4 @@
+import math
 import argparse
 import random
 from random import choice as rc
@@ -37,7 +38,6 @@ conflict_list = ['nature', 'man', 'god', 'society', 'self', 'fate', 'tech', 'no 
 narr_list = ['first', '1st', '1', 'third', '3rd', '3', 'alt', 'alternating', 'subjective', 
 			 'objective', 'sub', 'obj', 'omniscient', 'omn', 'limited', 'lim']
 
-# In GUI, use logarithmic sliders for charcount, length, and other sliders as necessary
 parser = argparse.ArgumentParser(description='Story Parameters')
 parser.add_argument('--charnames', nargs='*', help="Character Names")
 parser.add_argument('--title', help="Story Title")
@@ -56,19 +56,41 @@ parser.add_argument('--narrator', nargs='*', help="Narrative PoV", choices=narr_
 args = parser.parse_args()
 
 
-
 # ESTABLISH SYSTEM-WIDE COEFFICIENTS/CONSTANTS
 
 # tsv = trope setting volume
-# GET THIS INTO THE NOVEL CLASS
-TSV = (args.length/2.0 + args.realism/6.0 + args.passion/3.0)/1000
+TSV = (args.length/2.0 + args.realism/6.0 + args.passion/3.0)/1000.0
 if 'fan' in args.genre:
 	TSV += 1.0
-TSV = int(5.0*TSV)
-TSV += 1
-print TSV
+TSV = int(math.ceil(3.0*TSV))
+print "TSV:\t" + str(TSV)
 
-CC = args.charcount/2
+# cc = actual number of extra characters / MAKE EXPONENTIAL
+CC = int(math.exp(math.ceil(args.charcount/160.0))/2.0)+10
+print "CC:\t" + str(CC)
+
+# chc = chapter count
+CHC = int(math.exp(math.ceil(args.length/160.0))/2.0)+10
+print "CHC:\t" + str(CHC)
+
+# dtv = drug trip volume
+DTV = (args.length/4.0 + args.realism/12.0 + args.passion/6.0 + args.depravity*1.5)/1000.0
+if 'beat' in args.genre:
+	DTV += 1.0
+if 'society' in args.conflict:
+	DTV += 1.0
+DTV = int(math.ceil(5.0*DTV))
+print "DTV:\t" + str(DTV)
+
+# scp = scp article volume
+SCP = args.length/1000.0
+if bool(set(['sci-fi', 'horror']) & set(args.genre)):
+	SCP += 1.0
+if bool(set(['tech', 'no god', 'reality', 'nature', 'god']) & set(args.conflict)):
+	SCP += 1.0
+SCP = int(math.ceil(3.0*SCP))
+print "SCP:\t" + str(SCP)
+
 
 
 # file text fetcher
@@ -91,6 +113,8 @@ class Character(object):
 		self.lastName = lastName
 		self.introDesc = ""
 		self.scenes = []
+		self.drugTrips = []
+		self.scpReports = []
 		self.friends = []
 
 
@@ -130,8 +154,16 @@ class Novel(object):
 		# establish list of settings
 		settings = rs(settingTropeFiles, len(chars)*TSV)
 
+		# establish list of drug trips
+		trips = rs(erowidExpPaths, len(chars)*DTV)
+
+		# establish list of scp articles
+		scps = rs(scpPaths, len(chars)*SCP)
+
 		i = 0
 		j = 0
+		m = 0
+		p = 0
 		for c in chars:
 
 			# make friends
@@ -142,12 +174,22 @@ class Novel(object):
 			# add introduction description
 			c.introDesc = self.personal_trope([c], introScenePaths[i])
 
-			# add scenes -- maybe adjust that number (TSV)
+			# add setting scenes
 			for k in range(TSV):
-				c.scenes.append(self.personal_trope(chars, settings[j+k]))
+				c.scenes.append(self.personal_trope([c]+c.friends, settings[j+k]))
+
+			# add drug trip scenes
+			for n in range(DTV):
+				c.drugTrips.append(self.personal_trip([c]+c.friends, trips[m+n]))
+
+			# add scp articles
+			for q in range(SCP):
+				c.scpReports.append(self.personal_scp([c]+c.friends, scps[p+q]))
 
 			i += 1
 			j += TSV
+			m += DTV
+			p += SCP
 
 
 		return chars
@@ -171,18 +213,15 @@ class Novel(object):
 			tags = wordtag[1]
 
 			for i in range(len(words)):
-				charRef = rc(charList)
+				charRef = rc([rc(charList), charList[0]])
 				if words[i].lower() == "character" and i > 0:
 					words[i-1] = charRef.firstName
 					words[i] = charRef.lastName
-					containsName = True
 
 				elif tags[i] == "PRP":
 					words[i] = charRef.firstName
-					containsName = True
 				elif tags[i] == "PRP$":
 					words[i] = charRef.firstName+"\'s"
-					cointainsName = True
 				elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
 					try:
 						words[i] = en.verb.past(words[i], person=3, negate=False)
@@ -220,8 +259,109 @@ class Novel(object):
 			final_text = string.replace(final_text, "TROPE", "CLUE")
 
 		except:
+			
 			final_text = ""
 
+
+		return final_text
+
+
+	def personal_trip(self, charList, tripPath):
+
+		fileText = get_file(tripPath)
+		splitText = fileText.split('\\vspace{2mm}')
+		endOfText = splitText[-1]
+		text = endOfText[:len(endOfText)-15]
+
+		try:
+
+			pos = en.sentence.tag(text)
+			wordtag = map(list, zip(*pos))
+			words = wordtag[0]
+			tags = wordtag[1]
+
+			for i in range(len(words)):
+
+				charRef = rc([rc(charList), charList[0]])
+
+				if tags[i] == "PRP":
+					words[i] = charRef.firstName
+				elif tags[i] == "PRP$":
+					words[i] = charRef.firstName+"\'s"
+				elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
+					try:
+						words[i] = en.verb.past(words[i], person=3, negate=False)
+					except:
+						pass
+				else:
+					pass
+
+			punc = [".", ",", ";", ":", "!", "?"]
+
+			for i in range(len(words)):
+				if words[i] in punc:
+					words[i] = '\b'+words[i]
+
+			final_text = " ".join(words)
+
+			final_text = string.replace(final_text, "\\end{itemize}", "")
+			final_text = string.replace(final_text, "\\begin{itemize}", "")
+			final_text = string.replace(final_text, "\\end{center}", "")
+			final_text = string.replace(final_text, "\\begin{center}", "")
+			final_text = string.replace(final_text, "\\ldots", " . . . ")
+			final_text = string.replace(final_text, "\\egroup", "")
+			final_text = string.replace(final_text, "EROWID", "GOVERNMENT")
+			final_text = string.replace(final_text, "erowid", "government")
+			final_text = string.replace(final_text, "Erowid", "Government")
+
+		except:
+
+			final_text = ""
+
+		return final_text
+
+
+	def personal_scp(self, charList, scpPath):
+
+		text = get_file(scpPath)
+
+		text = string.replace(text, "SCP", charList[0].lastName)
+		text = string.replace(text, "Foundation", charList[0].lastName)
+
+		try:
+
+			pos = en.sentence.tag(text)
+			wordtag = map(list, zip(*pos))
+			words = wordtag[0]
+			tags = wordtag[1]
+
+			for i in range(len(words)):
+
+				charRef = rc(charList)
+
+				if tags[i] == "PRP":
+					words[i] = charRef.firstName
+				elif tags[i] == "PRP$":
+					words[i] = charRef.firstName+"\'s"
+				elif tags[i] in ["VBD", "VBG", "VBN", "VBZ"]:
+					try:
+						words[i] = en.verb.past(words[i], person=3, negate=False)
+					except:
+						pass
+				else:
+					pass
+
+			punc = [".", ",", ";", ":", "!", "?"]
+
+			for i in range(len(words)):
+				if words[i] in punc:
+					words[i] = '\b'+words[i]
+
+			final_text = " ".join(words)
+
+		except:
+
+			final_text = ""
 
 		return final_text
 
@@ -238,6 +378,16 @@ class Novel(object):
 			print '\n\n'
 			for s in character.scenes:
 				print s
+			print '\n\n'
+			print 'DRUG TRIPS'
+			print '\n\n'
+			for t in character.drugTrips:
+				print t
+			print '\n\n'
+			print 'SCP REPORTS'
+			print '\n\n'
+			for p in character.scpReports:
+				print p
 			print '\n\n'
 
 
