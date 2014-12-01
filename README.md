@@ -1,6 +1,8 @@
 plotgen
 =======
 
+SEE [FICGEN REPOSITORY](http://github.com/rossgoodwin/ficgen) FOR CURRENT STATE OF THIS PROJECT
+
 Work in progress.
 
 Story plot generator / entrant in [NaNoGenMo 2014](https://github.com/dariusk/NaNoGenMo-2014/issues/83)

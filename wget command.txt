@@ -1,0 +1,1 @@
+wget -w 2 -H -c -nc -r -l inf --no-remove-listing "http://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en"

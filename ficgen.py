@@ -6,6 +6,7 @@ from random import sample as rs
 from random import randint as ri
 import string
 import math
+from zipfile import ZipFile
 
 import nltk
 import en
@@ -93,7 +94,7 @@ print "SCP:\t" + str(SCP)
 
 
 
-# file text fetcher
+# file text fetchers
 def get_file(fp):
 
 	f = open(fp, 'r')
@@ -102,6 +103,19 @@ def get_file(fp):
 
 	return t
 
+def get_zip(fp):
+
+	fileName = fp.split('/')[-1]
+	noExtName = fileName.split('.')[0]
+	txtName = noExtName + ".txt"
+
+	ff = ZipFile(fp, 'r')
+	oo = ff.open(txtName, 'r')
+	tt = oo.read()
+	oo.close()
+	ff.close()
+
+	return tt
 
 
 # CLASSES
@@ -114,8 +128,8 @@ class Character(object):
 		self.introDesc = ""
 		self.scenes = []
 		self.drugTrips = []
-		self.scpReports = []
-		self.friends = []
+		self.scpReports = [] 
+		self.friends = [] # list of objects
 
 
 
@@ -254,9 +268,10 @@ class Novel(object):
 				else:
 					final_text = mainCharRef.firstName+" "+mainCharRef.lastName+final_text[index+len(mainCharRef.firstName):]
 
-			final_text = string.replace(final_text, "trope", "clue")
-			final_text = string.replace(final_text, "Trope", "clue")
-			final_text = string.replace(final_text, "TROPE", "CLUE")
+			replacements = {"trope": "clue", "Trope": "clue", "TROPE": "CLUE"}
+
+			for x, y in replacements.iteritems():
+				final_text = string.replace(final_text, x, y)
 
 		except:
 			
@@ -362,6 +377,12 @@ class Novel(object):
 		except:
 
 			final_text = ""
+
+		return final_text
+
+
+
+	def personal_gberg(self, charList, gPath):
 
 		return final_text
 
